@@ -1,0 +1,36 @@
+
+figure img {
+
+	border: 1px #ddd solid !important;
+
+}
+
+/* fix spacing on lines */
+main {
+
+	line-height: 1.65em !important;
+
+}
+
+.gc-drmt p {
+
+  line-height: 1.35em !important;
+}
+
+
+/* fixes these times of tables from the title truncating */
+@media only screen and (min-width: 768px) {
+
+.dl-horizontal dt {
+
+	width: 11em !important;
+
+}
+
+.dl-horizontal dd {
+
+	margin-left: 11em !important;
+
+}
+
+}
