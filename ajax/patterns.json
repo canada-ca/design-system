@@ -4,7 +4,7 @@
     "USE": "Gives a 1 or 2 sentence description of the act, allows allows people to read the legislation, and relates an act to topics, institutions, ministers and other legislation.",
     "CAT": "Page layout",
     "TYPE": "Destination",   
-    "EXAMPLE": "&nbsp;",
+    "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/act-en.html\">Act profile</a>",
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/breadcrumb-trail.html\">Breadcrumb trail</a>",
@@ -25,7 +25,7 @@
     "USE": "Gives information to support a promotional campaign. Use to support institutional, theme or <abbr title=\"Government of Canada\">GC</abbr>-wide promotional campaigns that last for a set period of time. Don’t use for core content.",
     "CAT": "Page layout",
     "TYPE": "Promotion",   
-    "EXAMPLE": "&nbsp;",
+    "EXAMPLE": "<a href=\"https://wet-boew.github.io/themes-dist/GCWeb/campaign-en.html\">Campaign</a>",
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/carousels.html\">Carousels</a>",
@@ -319,7 +319,7 @@
     "USE": "Describes an official government event that occurs in a promotional context. Gives information such as date, time, location and target audience.",
     "CAT": "Page layout",
     "TYPE": "Promotion",   
-    "EXAMPLE": "&nbsp;",
+    "EXAMPLE": "\https://wet-boew.github.io/themes-dist/GCWeb/event-en.html\">Promotional event</a>",
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/feature-banner.html\">Promotional feature banner</a>",
@@ -340,7 +340,7 @@
     "USE": "Gives a 1 or 2 sentence descriptio of the regulatio, allows people to read the regulation, and relates a regulation to topics, institutions, ministers and other legislation.",
     "CAT": "Page layout",
     "TYPE": "Destination",   
-    "EXAMPLE": "&nbsp;",
+    "EXAMPLE": "\https://wet-boew.github.io/themes-dist/GCWeb/regulations-en.html\">Regulation profile</a>",
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/report-problem.html\">Report a problem</a>",
