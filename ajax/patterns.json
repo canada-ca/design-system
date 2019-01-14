@@ -319,7 +319,7 @@
     "USE": "Describes an official government event that occurs in a promotional context. Gives information such as date, time, location and target audience.",
     "CAT": "Page layout",
     "TYPE": "Promotion",   
-    "EXAMPLE": "\https://wet-boew.github.io/themes-dist/GCWeb/event-en.html\">Promotional event</a>",
+    "EXAMPLE": "<a href=\"https://wet-boew.github.io/themes-dist/GCWeb/event-en.html\">Promotional event</a>",
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/feature-banner.html\">Promotional feature banner</a>",
