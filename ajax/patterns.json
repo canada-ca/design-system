@@ -340,7 +340,7 @@
     "USE": "Gives a 1 or 2 sentence descriptio of the regulatio, allows people to read the regulation, and relates a regulation to topics, institutions, ministers and other legislation.",
     "CAT": "Page layout",
     "TYPE": "Destination",   
-    "EXAMPLE": "\https://wet-boew.github.io/themes-dist/GCWeb/regulations-en.html\">Regulation profile</a>",
+    "EXAMPLE": "<a href=\"https://wet-boew.github.io/themes-dist/GCWeb/regulations-en.html\">Regulation profile</a>",
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/report-problem.html\">Report a problem</a>",
