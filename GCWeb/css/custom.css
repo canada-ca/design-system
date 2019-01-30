@@ -1,0 +1,27 @@
+.home h2 {
+  font-size: 1.2em;
+}
+
+ul.feeds-cont li {
+
+ font-size: 17px !important;
+ line-height: 1.5em !important;
+}
+
+
+ul.feeds-cont li a {
+
+ text-decoration: underline !important;
+}
+
+
+main section.lnkbx ul li a {
+  line-height: .8em !important;  /* not targetting properly, being overrideen by main line-height... need to look at again later */
+}
+
+@media screen and (max-width: 1200px) {
+
+  .promo {
+  	padding-left: 1em;
+
+}
