@@ -295,7 +295,7 @@
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/organizational-profile-pages.html\">Organizational profile page</a>",
-    "USE": "Gives an overview of the following the mandate, programs, informamation and services of an organization associated with a government institution - <strong>Mandatory template</strong>",
+    "USE": "Gives an overview of the following the mandate, programs, information and services of an organization associated with a government institution - <strong>Mandatory template</strong>",
     "CAT": "Page layout",
     "TYPE": "Institutional",   
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/organizational-en.html\">Organization profile page</a>",
