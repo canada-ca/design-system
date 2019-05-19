@@ -1,0 +1,21 @@
+# Ignoring current failures
+Stray end tag “div”.
+Duplicate ID “element3”.
+Duplicate ID “element4”.
+Duplicate ID “element11”.
+Duplicate ID “element12”.
+Stray end tag “section”.
+End tag “div” seen, but there were open elements.
+Unclosed element “section”.
+End tag “main” seen, but there were open elements.
+Unclosed element “div”.
+Element “h” not allowed as child of element “header” in this context. (Suppressing further errors from this subtree.)
+Stray end tag “h3”.
+End tag “header” seen, but there were open elements.
+Unclosed element “h”.
+End tag had attributes.
+Stray end tag “ul”.
+Element “figcaption” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
+Element “details” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
+No “li” element in scope but a “li” end tag seen.
+Saw “<” when expecting an attribute name. Probable cause: Missing “>” immediately before.
