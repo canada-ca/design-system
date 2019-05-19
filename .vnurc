@@ -10,6 +10,5 @@ Unclosed element “section”.
 End tag “main” seen, but there were open elements.
 Unclosed element “div”.
 Stray end tag “ul”.
-Element “figcaption” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
 Element “details” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)
 No “li” element in scope but a “li” end tag seen.
