@@ -9,10 +9,6 @@ End tag “div” seen, but there were open elements.
 Unclosed element “section”.
 End tag “main” seen, but there were open elements.
 Unclosed element “div”.
-Element “h” not allowed as child of element “header” in this context. (Suppressing further errors from this subtree.)
-Stray end tag “h3”.
-End tag “header” seen, but there were open elements.
-Unclosed element “h”.
 End tag had attributes.
 Stray end tag “ul”.
 Element “figcaption” not allowed as child of element “div” in this context. (Suppressing further errors from this subtree.)
