@@ -1,0 +1,23 @@
+{
+  "name": "design-system",
+  "version": "1.0.0",
+  "description": "Canada.ca design library - evidence-based patterns &amp; templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "java -Xss4m -jar node_modules/vnu-jar/build/dist/vnu.jar --errors-only --skip-non-html --filterfile .vnurc --no-langdetect ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canada-ca/design-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canada-ca/design-system/issues"
+  },
+  "homepage": "https://github.com/canada-ca/design-system#readme",
+  "devDependencies": {
+    "vnu-jar": "^18.11.5"
+  }
+}
