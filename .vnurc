@@ -1,11 +1,6 @@
 # Ignoring current failures
-Stray end tag “div”.
 Duplicate ID “element3”.
 Duplicate ID “element4”.
 Duplicate ID “element11”.
 Duplicate ID “element12”.
-Stray end tag “section”.
-End tag “div” seen, but there were open elements.
-Unclosed element “section”.
-End tag “main” seen, but there were open elements.
-Unclosed element “div”.
+
