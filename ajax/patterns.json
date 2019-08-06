@@ -337,7 +337,7 @@
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/recommended-templates/laws-regulations-pages.html#regulation-profile\">Regulation profile page</a>",
-    "USE": "Gives a 1 or 2 sentence descriptio of the regulatio, allows people to read the regulation, and relates a regulation to topics, institutions, ministers and other legislation.",
+    "USE": "Gives a 1 or 2 sentence description of the regulation, allows people to read the regulation, and relates a regulation to topics, institutions, ministers and other legislation.",
     "CAT": "Page layout",
     "TYPE": "Destination",
     "EXAMPLE": "<a href=\"https://wet-boew.github.io/themes-dist/GCWeb/regulations-en.html\">Regulation profile</a>",
