@@ -26,8 +26,10 @@
 		<script type="text/javascript">
 			var langLink = "https://conception.canada.ca/sondage/taches-fr.html";
 			var surveyParent = location.search.split('par=')[1];
+			surveyParent = surveyParent.substring(0, surveyParent.indexOf('&'));
+
 			langLink = langLink + "?par=" + surveyParent;
-			
+
 			var defTop = document.getElementById("def-top");
 			defTop.outerHTML = wet.builder.top({
 				lngLinks: [{
