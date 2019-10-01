@@ -50,7 +50,7 @@
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/styles/colours.html\">Colours</a>",
-    "USE": "Colours for Canada.ca - <strong>Mandatory template</strong>",
+    "USE": "Colours for Canada.ca - <strong>Mandatory style</strong>",
     "CAT": "Style",
     "TYPE": "Site-wide pattern, Visual",
     "EXAMPLE": "&nbsp;",
@@ -240,7 +240,7 @@
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/styles/layouts.html\">Layouts</a>",
-    "USE": "Layouts for Canada.ca - <strong>Mandatory template</strong>",
+    "USE": "Layouts for Canada.ca - <strong>Mandatory style</strong>",
     "CAT": "Style",
     "TYPE": "Site-wide pattern, Visual",
     "EXAMPLE": "&nbsp;",
@@ -464,7 +464,7 @@
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/styles/typography.html\">Typography</a>",
-    "USE": "Typography for Canada.ca - <strong>Mandatory template</strong>",
+    "USE": "Typography for Canada.ca - <strong>Mandatory style</strong>",
     "CAT": "Style",
     "TYPE": "Site-wide pattern, Visual",
     "EXAMPLE": "&nbsp;",
