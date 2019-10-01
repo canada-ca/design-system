@@ -1,4 +1,4 @@
-﻿{
+ {
   "data": [{
     "NAME": "<a href=\"https://design.canada.ca/recommended-templates/laws-regulations-pages.html#act-profile\">Act profile page</a>",
     "USE": "Gives a 1 or 2 sentence description of the act, allows allows people to read the legislation, and relates an act to topics, institutions, ministers and other legislation.",
@@ -48,6 +48,14 @@
     "TYPE": "Interaction",
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/demos/details/details-en.html\">WET: Details/summary polyfill (expandable/collapsible content)</a>",
     "MANDATORY": "No"
+  }, {
+    "NAME": "<a href=\"https://design.canada.ca/styles/colours.html\"Colours</a>",
+    "USE": "Colours for Canada.ca - <strong>Mandatory template</strong>",
+    "CAT": "Style",
+    "TYPE": "Site-wide pattern, Visual",
+    "EXAMPLE": "&nbsp;",
+    "MANDATORY": "Mandatory"
+    }]
   }, {
     "NAME": "<a href=\"https://design.canada.ca/recommended-templates/consultations-page.html\">Consultation profile page</a>",
     "USE": "Describes a consultation or engagement activity. Provides the status and outcome of the initiative, background material, data and information about planned or completed events.",
@@ -106,11 +114,11 @@
     "MANDATORY": "Mandatory"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/department-agencies-page.html\">Departments and agencies page</a>",
-    "USE": "Provides links to all federal government institutions - <strong>Mandatory template</strong>",
+    "USE": "Provides links to all federal government institutions",
     "CAT": "Page layout",
     "TYPE": "Government-wide template",
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/dept-en.html\">Departments and agencies page</a>",
-    "MANDATORY": "Mandatory"
+    "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca//common-design-patterns/disclaimer-overlay.html\">Disclaimer overlay</a>",
     "USE": "Use to display privacy statements and similar forms of disclaimer",
@@ -162,11 +170,11 @@
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/home-page.html\">Home page</a>",
-    "USE": "Shows the Government of Canada’s most visited and important products and services - <strong>Mandatory template</strong>",
+    "USE": "Shows the Government of Canada’s most visited and important products and services",
     "CAT": "Page layout",
     "TYPE": "Government-wide template",
     "EXAMPLE": "<a href=\"https://www.canada.ca/en.html\">Home page on live site</a>",
-    "MANDATORY": "Mandatory"
+    "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/icons.html\">Icons</a>",
     "USE": "Use as symbols to communicate actions or states",
@@ -231,6 +239,14 @@
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/institution-en.html\">Institutional profile</a>",
     "MANDATORY": "No"
   }, {
+    "NAME": "<a href=\"https://design.canada.ca/styles/layouts.html\"Layouts</a>",
+    "USE": "Layouts for Canada.ca - <strong>Mandatory template</strong>",
+    "CAT": "Style",
+    "TYPE": "Site-wide pattern, Visual",
+    "EXAMPLE": "&nbsp;",
+    "MANDATORY": "Mandatory"
+    }]
+  }, {
     "NAME": "<a href=\"https://design.canada.ca/recommended-templates/pages-index.html#long\">Long index page</a>",
     "USE": "Use to present a list of 50+ related links without descriptions",
     "CAT": "Page layout",
@@ -267,11 +283,11 @@
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/news-pages.html#landing\">News landing page</a>",
-    "USE": "Gives access to Government of Canada’s news products - <strong>Mandatory template</strong>",
+    "USE": "Gives access to Government of Canada’s news products",
     "CAT": "Page layout",
     "TYPE": "Government-wide template",
     "EXAMPLE": "&nbsp;",
-    "MANDATORY": "Mandatory"
+    "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/news-pages.html#product\">News product page</a>",
     "USE": "Allows people to read a news product - <strong>Mandatory template</strong>",
@@ -281,11 +297,11 @@
     "MANDATORY": "Mandatory"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/news-pages.html#results\">News results page</a>",
-    "USE": "Enables people to efficiently find a specific news product by quickly filtering results based on keywords and pre-set metadata fields - <strong>Mandatory template</strong>",
+    "USE": "Enables people to efficiently find a specific news product by quickly filtering results based on keywords and pre-set metadata fields",
     "CAT": "Page layout",
     "TYPE": "Government-wide template",
     "EXAMPLE": "&nbsp;",
-    "MANDATORY": "Mandatory"
+    "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/ordered-multipage.html\">Ordered multi-page navigation</a>",
     "USE": "Set of links to a group of several pages intended to be read in a preferred order",
@@ -365,11 +381,11 @@
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/search-page.html\">Search page</a>",
-    "USE": "Provides the template for the search engine on Canada.ca - <strong>Mandatory template</strong>",
+    "USE": "Provides the template for the search engine on Canada.ca",
     "CAT": "Page layout",
     "TYPE": "Government-wide template",
     "EXAMPLE": "&nbsp;",
-    "MANDATORY": "Mandatory"
+    "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/recommended-templates/service-initiation-pages.html\">Service initiation page</a>",
     "USE": "Gives people the information they need before starting the task, such as explaining eligibility criteria or steps to follow. Gives people easy access to service standards, turnaround times, related services, guides and help.",
@@ -447,5 +463,12 @@
     "TYPE": "Institutional",
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/topic-en.html\">Topic</a>",
     "MANDATORY": "No"
+  }, {
+    "NAME": "<a href=\"https://design.canada.ca/styles/typography.html\"Typography</a>",
+    "USE": "Typography for Canada.ca - <strong>Mandatory template</strong>",
+    "CAT": "Style",
+    "TYPE": "Site-wide pattern, Visual",
+    "EXAMPLE": "&nbsp;",
+    "MANDATORY": "Mandatory"
     }]
 }
