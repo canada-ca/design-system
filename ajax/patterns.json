@@ -1,4 +1,4 @@
- {
+﻿{
   "data": [{
     "NAME": "<a href=\"https://design.canada.ca/recommended-templates/laws-regulations-pages.html#act-profile\">Act profile page</a>",
     "USE": "Gives a 1 or 2 sentence description of the act, allows allows people to read the legislation, and relates an act to topics, institutions, ministers and other legislation.",
@@ -55,7 +55,6 @@
     "TYPE": "Site-wide pattern, Visual",
     "EXAMPLE": "&nbsp;",
     "MANDATORY": "Mandatory"
-    }]
   }, {
     "NAME": "<a href=\"https://design.canada.ca/recommended-templates/consultations-page.html\">Consultation profile page</a>",
     "USE": "Describes a consultation or engagement activity. Provides the status and outcome of the initiative, background material, data and information about planned or completed events.",
@@ -245,7 +244,6 @@
     "TYPE": "Site-wide pattern, Visual",
     "EXAMPLE": "&nbsp;",
     "MANDATORY": "Mandatory"
-    }]
   }, {
     "NAME": "<a href=\"https://design.canada.ca/recommended-templates/pages-index.html#long\">Long index page</a>",
     "USE": "Use to present a list of 50+ related links without descriptions",
