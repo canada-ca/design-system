@@ -49,7 +49,7 @@
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/demos/details/details-en.html\">WET: Details/summary polyfill (expandable/collapsible content)</a>",
     "MANDATORY": "No"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/styles/colours.html\"Colours</a>",
+    "NAME": "<a href=\"https://design.canada.ca/styles/colours.html\">Colours</a>",
     "USE": "Colours for Canada.ca - <strong>Mandatory template</strong>",
     "CAT": "Style",
     "TYPE": "Site-wide pattern, Visual",
@@ -58,6 +58,7 @@
   }, {
     "NAME": "<a href=\"https://design.canada.ca/recommended-templates/consultations-page.html\">Consultation profile page</a>",
     "USE": "Describes a consultation or engagement activity. Provides the status and outcome of the initiative, background material, data and information about planned or completed events.",
+    "CAT": "Page layout",
     "CAT": "Page layout",
     "TYPE": "Destination",
     "EXAMPLE": "&nbsp;",
@@ -238,7 +239,7 @@
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/institution-en.html\">Institutional profile</a>",
     "MANDATORY": "No"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/styles/layouts.html\"Layouts</a>",
+    "NAME": "<a href=\"https://design.canada.ca/styles/layouts.html\">Layouts</a>",
     "USE": "Layouts for Canada.ca - <strong>Mandatory template</strong>",
     "CAT": "Style",
     "TYPE": "Site-wide pattern, Visual",
@@ -462,7 +463,7 @@
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/topic-en.html\">Topic</a>",
     "MANDATORY": "No"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/styles/typography.html\"Typography</a>",
+    "NAME": "<a href=\"https://design.canada.ca/styles/typography.html\">Typography</a>",
     "USE": "Typography for Canada.ca - <strong>Mandatory template</strong>",
     "CAT": "Style",
     "TYPE": "Site-wide pattern, Visual",
