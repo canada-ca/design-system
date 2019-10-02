@@ -11,7 +11,10 @@
 
 <!--[if gte IE 9 | !IE ]><!-->
 <link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon">
-<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css"><link rel="stylesheet" href="../css/custom.css">
+<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
+<link rel="stylesheet" href="../css/custom.css">
+<link rel="stylesheet" href="../css/new-alerts.css">
+
 <!--<![endif]-->
 <!--[if lt IE 9]>
 		<link href="./GCWeb/assets/favicon.ico" rel="shortcut icon" />
@@ -149,164 +152,211 @@
 
 <main role="main" property="mainContentOfPage" class="container wb-prettify">
 
+	<h1 property="name" id="wb-cont" dir="ltr">Report a problem - Canada.ca design pattern</h1>
+	<p class="gc-byline">From: Treasury Board of Canada Secretariat</p>
 
-<h1 property="name" id="wb-cont" dir="ltr">Report a problem - Canada.ca design pattern</h1>
+	<section>
+		<p><span class="label label-danger">Mandatory on all pages</span></p>
+		<p>The report a problem component allows people to provide feedback via a form for any problems they experience with a web page. This component is intended to collect and address any issues for the page on which it resides.</p>
+		<p>Use this component to enable page-level feedback. Common issues are presented for a person to select using checkboxes. If none of these options are applicable, they may select “Other”.</p>
+		<!-- <figure>
+				<img src="../images/report-en.png" alt="Screenshot of a webpage: button labeled 'Report a problem on this page' appears on the left. 'Share this page' appears on the right, and 'Date modified: 2017-12-05' appears below.">
+				<figcaption><b>Report a problem button</b></figcaption>
+		</figure> -->
 
+    <section>
+      <h2>On this page</h2>
+      <ul>
+        <li><a href="#when">When to use</a></li>
+      	<li><a href="#cautions">What to avoid</a></li>
+      	<li><a href="#how">How to implement</a></li>
+      	<li><a href="#discuss">Discussion</a></li>
+      </ul>
+    </section>
 
+    <section>
+      <h2 id="how">When to use</h2>
+			<p>The Report a Problem pattern is mandatory on all pages. For more information, go to the <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html#header-footer">Mandatory elements of the design system</a>.</p>
+    </section>
 
+		<section>
+			<h2 id="cautions">What to avoid</h2>
+			<p>Ensure that the feedback you receive is actionable. Do not implement a form where users cannot give details on the issues they are experiencing.</p>
+		</section>
 
-		<div><div class="mwsgeneric-base-html parbase section">
+    <section>
+      <h2 id="how">How to implement</h2>
 
+			<section class="alert alert-warning">
+				<h3>Using CDTS to implement the Canada.ca theme</h3>
+		    <p>Do not implement Report a Problem through CDTS. To turn off the page footer in CDTS:</p>
+				<ul>
+					<li>use the CDTS version for GCWeb applications, even if it is for your static HTML pages</li>
+					<li>remove the reference for the 'prefooter'</li>
+				</ul>
+				<p>You should then set up the report a problem form in its place.</p>
+		  </section>
 
+			<p>The button, label and placement are mandatory:</p>
+			<ul>
+				<li>the component is presented as a button using the <a href="./buttons.html">button component for secondary actions</a>, which triggers a feedback form to expand when clicked</li>
+				<li>the label reads: “Report a problem on this page”</li>
+				<li>placement: positioned directly below the main content area, left-aligned</li>
+				<li>the form includes a hyperlink to a Privacy statement, which appears in a dismissible overlay when clicked</li>
+			</ul>
+			<p>The pattern for the contents of the feedback form is recommended. If meaningful data is not being received, a mailto link can be used as an alternative.</p>
 
-<p class="gc-byline"><strong>From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
-<section>
-<p><span class="label label-danger">Mandatory on all pages</span></p>
-
-<p>The report a problem component allows people to provide feedback via a form for any problems they experience with a web page. This component is intended to collect and address any issues for the page on which it resides.</p>
-</section>
-<figure>
-		<img src="../images/report-en.png" alt="Screenshot of a webpage: button labeled 'Report a problem on this page' appears on the left. 'Share this page' appears on the right, and 'Date modified: 2017-12-05' appears below.">
-		<figcaption><b>Report a problem button</b></figcaption>
-</figure>
-
-<section>
-	<h2>Objectives</h2>
-	<p>Use this component to enable page-level feedback. Common issues are presented for a person to select using checkboxes. If none of these options are applicable, they may select “Other”.</p>
-</section>
-<section>
-<h2>When to use Report a problem</h2>
-<p>The Report a problem pattern is mandatory on all pages. For more information, go to the <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html#header-footer">Mandatory elements of the design system</a>.</p>
-</section>
-<section>
-	<h2>How to implement Report a problem</h2>
-	<section class="alert alert-warning">
-    <h3>Using CDTS to implement the Canada.ca theme</h3>
-    <p>Do not implement Report a Problem through CDTS. To turn off the pate footer in CDTS:</p>
-		<ul>
-			<li></li>
-			<li></li>
-		</ul>
-		<p>You can use the following html code for your report a problem implementation. You will have to set up a javascript to reveal the text inputs when the accompanying checkbox is selected and to send the form to one of your servers for collection.</p>
-		<details>
-			<summary>Report a Problem code</summary>
-			<pre class="prettyprint"><code>&#x3C;div class=&#x22;pagedetails&#x22;&#x3E;
- &#x3C;div class=&#x22;row&#x22;&#x3E;
-  &#x3C;div class=&#x22;col-sm-6 col-md-5 col-lg-4&#x22;&#x3E;
-   &#x3C;details class=&#x22;brdr-0&#x22; open=&#x22;&#x22;&#x3E;
-    &#x3C;summary class=&#x22;btn btn-default text-center&#x22;&#x3E;Report a problem on this page&#x3C;/summary&#x3E;
-    &#x3C;div class=&#x22;well row&#x22;&#x3E;
-     &#x3C;div class=&#x22;gc-rprt-prblm&#x22;&#x3E;
-      &#x3C;div class=&#x22;gc-rprt-prblm-frm gc-rprt-prblm-tggl&#x22; id=&#x22;wb-auto-7&#x22;&#x3E;
-       &#x3C;form action=&#x22;#&#x22;&#x3E;
-        &#x3C;fieldset&#x3E;
-         &#x3C;legend&#x3E;&#x3C;span class=&#x22;field-name&#x22;&#x3E;Please select all that apply: &#x3C;/span&#x3E;&#x3C;/legend&#x3E;
-         &#x3C;div class=&#x22;checkbox&#x22;&#x3E;
-          &#x3C;label for=&#x22;problem1&#x22;&#x3E;&#x3C;input type=&#x22;checkbox&#x22; data-reveal=&#x22;#broken&#x22; name=&#x22;problem&#x22; value=&#x22;Something is broken&#x22; id=&#x22;problem1&#x22;&#x3E;Something is broken&#x3C;/label&#x3E;
-         &#x3C;/div&#x3E;
-         &#x3C;div class=&#x22;form-group hide&#x22; id=&#x22;broken&#x22;&#x3E;
-          &#x3C;label for=&#x22;problem1-detail&#x22;&#x3E;Provide more details (optional):&#x3C;/label&#x3E;
-          &#x3C;input type=&#x22;text&#x22; class=&#x22;form-control full-width&#x22; id=&#x22;problem1-detail&#x22;&#x3E;
-         &#x3C;/div&#x3E;
-         &#x3C;div class=&#x22;checkbox&#x22;&#x3E;
-          &#x3C;label for=&#x22;problem2&#x22;&#x3E;&#x3C;input type=&#x22;checkbox&#x22; data-reveal=&#x22;#spelling&#x22; name=&#x22;problem&#x22; value=&#x22;It has spelling or grammar mistakes&#x22; id=&#x22;problem2&#x22;&#x3E;It has spelling or grammar mistakes&#x3C;/label&#x3E;
-         &#x3C;/div&#x3E;
-         &#x3C;div class=&#x22;form-group hide&#x22; id=&#x22;spelling&#x22;&#x3E;
-          &#x3C;label for=&#x22;problem2-detail&#x22;&#x3E;Provide more details (optional):&#x3C;/label&#x3E;
-          &#x3C;input type=&#x22;text&#x22; class=&#x22;form-control full-width&#x22; id=&#x22;problem2-detail&#x22;&#x3E;
-         &#x3C;/div&#x3E;
-         &#x3C;div class=&#x22;checkbox&#x22;&#x3E;
-          &#x3C;label for=&#x22;problem3&#x22;&#x3E;&#x3C;input type=&#x22;checkbox&#x22; data-reveal=&#x22;#wrong&#x22; name=&#x22;problem&#x22; value=&#x22;The information is wrong&#x22; id=&#x22;problem3&#x22;&#x3E;The information is wrong&#x3C;/label&#x3E;
-         &#x3C;/div&#x3E;
-         &#x3C;div class=&#x22;form-group hide&#x22; id=&#x22;wrong&#x22;&#x3E;
-          &#x3C;label for=&#x22;problem3-detail&#x22;&#x3E;Provide more details (optional):&#x3C;/label&#x3E;
-          &#x3C;input type=&#x22;text&#x22; class=&#x22;form-control full-width&#x22; id=&#x22;problem3-detail&#x22;&#x3E;
-         &#x3C;/div&#x3E;
-         &#x3C;div class=&#x22;checkbox&#x22;&#x3E;
-          &#x3C;label for=&#x22;problem4&#x22;&#x3E;&#x3C;input type=&#x22;checkbox&#x22; data-reveal=&#x22;#outdated&#x22; name=&#x22;problem&#x22; value=&#x22;The information is outdated&#x22; id=&#x22;problem4&#x22;&#x3E;The information is outdated&#x3C;/label&#x3E;
-         &#x3C;/div&#x3E;
-         &#x3C;div class=&#x22;form-group hide&#x22; id=&#x22;outdated&#x22;&#x3E;
-          &#x3C;label for=&#x22;problem4-detail&#x22;&#x3E;Provide more details (optional):&#x3C;/label&#x3E;
-          &#x3C;input type=&#x22;text&#x22; class=&#x22;form-control full-width&#x22; id=&#x22;problem4-detail&#x22;&#x3E;
-         &#x3C;/div&#x3E;
-         &#x3C;div class=&#x22;checkbox&#x22;&#x3E;
-          &#x3C;label for=&#x22;problem5&#x22;&#x3E;&#x3C;input type=&#x22;checkbox&#x22; data-reveal=&#x22;#find&#x22; name=&#x22;problem&#x22; value=&#x22;I can&#x2019;t find what I&#x2019;m looking for&#x22; id=&#x22;problem5&#x22;&#x3E;I can&#x2019;t find what I&#x2019;m looking for&#x3C;/label&#x3E;
-         &#x3C;/div&#x3E;
-         &#x3C;div class=&#x22;form-group hide&#x22; id=&#x22;find&#x22;&#x3E;
-          &#x3C;label for=&#x22;problem5-detail&#x22;&#x3E;Describe what you&#x2019;re looking for (optional):&#x3C;/label&#x3E;
-          &#x3C;input type=&#x22;text&#x22; class=&#x22;form-control full-width&#x22; id=&#x22;problem5-detail&#x22;&#x3E;
-         &#x3C;/div&#x3E;
-         &#x3C;div class=&#x22;checkbox&#x22;&#x3E;
-          &#x3C;label for=&#x22;problem6&#x22;&#x3E;&#x3C;input type=&#x22;checkbox&#x22; data-reveal=&#x22;#confusing&#x22; name=&#x22;problem&#x22; value=&#x22;Other&#x22; id=&#x22;problem6&#x22;&#x3E;Other&#x3C;/label&#x3E;
-         &#x3C;/div&#x3E;
-         &#x3C;div class=&#x22;form-group hide&#x22; id=&#x22;confusing&#x22;&#x3E;
-          &#x3C;label for=&#x22;problem6-detail&#x22;&#x3E;Provide more details (optional):&#x3C;/label&#x3E;
-          &#x3C;input type=&#x22;text&#x22; class=&#x22;form-control full-width&#x22; id=&#x22;problem6-detail&#x22;&#x3E;
-         &#x3C;/div&#x3E;
-        &#x3C;/fieldset&#x3E;
-        &#x3C;button type=&#x22;submit&#x22; class=&#x22;btn btn-primary wb-toggle wb-init wb-toggle-inited&#x22; data-toggle=&#x22;{&#x26;quot;stateOff&#x26;quot;: &#x26;quot;hide&#x26;quot;, &#x26;quot;stateOn&#x26;quot;: &#x26;quot;show&#x26;quot;, &#x26;quot;selector&#x26;quot;: &#x26;quot;.gc-rprt-prblm-tggl&#x26;quot;}&#x22; aria-controls=&#x22;wb-auto-7 wb-auto-8&#x22;&#x3E;Submit&#x3C;/button&#x3E;
-       &#x3C;/form&#x3E;
-      &#x3C;/div&#x3E;
-      &#x3C;div class=&#x22;gc-rprt-prblm-thnk gc-rprt-prblm-tggl hide&#x22; id=&#x22;wb-auto-8&#x22;&#x3E;
-       &#x3C;h3&#x3E;Thank you for your help!&#x3C;/h3&#x3E;
-       &#x3C;p&#x3E;You will not receive a reply. For enquiries, please &#x3C;a href=&#x22;https://www.canada.ca/en/contact.html&#x22;&#x3E;contact us&#x3C;/a&#x3E;.&#x3C;/p&#x3E;
-      &#x3C;/div&#x3E;
+			<div class="pattern-demo">
+				<!-- <div class="pagedetails"> -->
+					<div class="row">
+						<div class="col-sm-6 col-md-5 col-lg-4">
+							<details class="brdr-0" closed>
+								<summary class="btn btn-default text-center">Report a problem on this page</summary>
+								<div class="well row">
+									<div class="gc-rprt-prblm">
+										<div class="gc-rprt-prblm-tggl" id="wb-auto-7">
+											<form action="#">
+												<fieldset>
+													<legend><span class="field-name">Please select all that apply: </span></legend>
+													<div class="checkbox">
+														<label for="problem1"><input type="checkbox" data-reveal="#broken" name="problem" value="Something is broken" id="problem1">Something is broken</label>
+													</div>
+													<div class="form-group hide" id="broken">
+														<label for="problem1-detail">Provide more details (optional):</label>
+														<input type="text" class="form-control full-width" id="problem1-detail">
+													</div>
+													<div class="checkbox">
+														<label for="problem2"><input type="checkbox" data-reveal="#spelling" name="problem" value="It has spelling or grammar mistakes" id="problem2">It has spelling or grammar mistakes</label>
+													</div>
+													<div class="form-group hide" id="spelling">
+														<label for="problem2-detail">Provide more details (optional):</label>
+														<input type="text" class="form-control full-width" id="problem2-detail">
+													</div>
+													<div class="checkbox">
+														<label for="problem3"><input type="checkbox" data-reveal="#wrong" name="problem" value="The information is wrong" id="problem3">The information is wrong</label>
+													</div>
+													<div class="form-group hide" id="wrong">
+														<label for="problem3-detail">Provide more details (optional):</label>
+														<input type="text" class="form-control full-width" id="problem3-detail">
+													</div>
+													<div class="checkbox">
+														<label for="problem4"><input type="checkbox" data-reveal="#outdated" name="problem" value="The information is outdated" id="problem4">The information is outdated</label>
+													</div>
+													<div class="form-group hide" id="outdated">
+														<label for="problem4-detail">Provide more details (optional):</label>
+														<input type="text" class="form-control full-width" id="problem4-detail">
+													</div>
+													<div class="checkbox">
+														<label for="problem5"><input type="checkbox" data-reveal="#find" name="problem" value="I can’t find what I’m looking for" id="problem5">I can’t find what I’m looking for</label>
+													</div>
+													<div class="form-group hide" id="find">
+														<label for="problem5-detail">Describe what you’re looking for (optional):</label>
+														<input type="text" class="form-control full-width" id="problem5-detail">
+													</div>
+													<div class="checkbox">
+														<label for="problem6"><input type="checkbox" data-reveal="#confusing" name="problem" value="Other" id="problem6">Other</label>
+													</div>
+													<div class="form-group hide" id="confusing">
+														<label for="problem6-detail">Provide more details (optional):</label>
+														<input type="text" class="form-control full-width" id="problem6-detail">
+													</div>
+												</fieldset>
+												<button type="submit" class="btn btn-primary wb-toggle wb-init wb-toggle-inited" data-toggle="{&quot;stateOff&quot;: &quot;hide&quot;, &quot;stateOn&quot;: &quot;show&quot;, &quot;selector&quot;: &quot;.gc-rprt-prblm-tggl&quot;}" aria-controls="wb-auto-7 wb-auto-8">Submit</button>
+											</form>
+										</div>
+										<div class="gc-rprt-prblm-thnk gc-rprt-prblm-tggl hide" id="wb-auto-8">
+											<h3>Thank you for your help!</h3>
+											<p>You will not receive a reply. For enquiries, please <a href="https://www.canada.ca/en/contact.html">contact us</a>.</p>
+										</div>
+									</div>
+								</div>
+							</details>
+						</div>
+						<!-- <div class="wb-share col-sm-4 col-md-3 col-sm-offset-2 col-md-offset-4 col-lg-offset-5 wb-init wb-share-inited" data-wb-share="{&quot;lnkClass&quot;: &quot;btn btn-default btn-block&quot;}" id="wb-auto-9"><section id="shr-pg0" class="shr-pg mfp-hide modal-dialog modal-content overlay-def"><header class="modal-header"><h2 class="modal-title">Share this page</h2></header><div class="modal-body"><ul class="list-unstyled colcount-xs-2"><li><a href="https://bitly.com/a/bitmarklet?u=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html" class="shr-lnk bitly btn btn-default" target="_blank">bitly</a></li><li><a href="http://www.blogger.com/blog_this.pyra?t=&amp;u=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html&amp;n=%5BTopic%20title%5D%20-%20Canada.ca" class="shr-lnk blogger btn btn-default" target="_blank">Blogger</a></li><li><a href="http://digg.com/submit?phase=2&amp;url=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html&amp;title=%5BTopic%20title%5D%20-%20Canada.ca" class="shr-lnk digg btn btn-default" target="_blank">Digg</a></li><li><a href="http://www.diigo.com/post?url=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html&amp;title=%5BTopic%20title%5D%20-%20Canada.ca" class="shr-lnk diigo btn btn-default" target="_blank">Diigo</a></li><li><a href="mailto:?to=&amp;subject=%5BTopic%20title%5D%20-%20Canada.ca&amp;body=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html%0A" class="shr-lnk email btn btn-default" target="_blank">Email</a></li><li><a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html&amp;t=%5BTopic%20title%5D%20-%20Canada.ca" class="shr-lnk facebook btn btn-default" target="_blank">Facebook</a></li><li><a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=&amp;su=%5BTopic%20title%5D%20-%20Canada.ca&amp;body=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html%0A" class="shr-lnk gmail btn btn-default" target="_blank">Gmail</a></li><li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html&amp;title=%5BTopic%20title%5D%20-%20Canada.ca&amp;ro=false&amp;summary=&amp;source=" class="shr-lnk linkedin btn btn-default" target="_blank">LinkedIn®</a></li><li><a href="http://www.myspace.com/Modules/PostTo/Pages/?u=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html&amp;t=%5BTopic%20title%5D%20-%20Canada.ca" class="shr-lnk myspace btn btn-default" target="_blank">MySpace</a></li><li><a href="http://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html&amp;media=&amp;description=%5BTopic%20title%5D%20-%20Canada.ca" class="shr-lnk pinterest btn btn-default" target="_blank">Pinterest</a></li><li><a href="http://reddit.com/submit?url=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html&amp;title=%5BTopic%20title%5D%20-%20Canada.ca" class="shr-lnk reddit btn btn-default" target="_blank">reddit</a></li><li><a href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html&amp;name=%5BTopic%20title%5D%20-%20Canada.ca&amp;description=" class="shr-lnk tumblr btn btn-default" target="_blank">tumblr</a></li><li><a href="https://twitter.com/intent/tweet?text=%5BTopic%20title%5D%20-%20Canada.ca&amp;url=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html" class="shr-lnk twitter btn btn-default" target="_blank">Twitter</a></li><li><a href="http://compose.mail.yahoo.com/?to=&amp;subject=%5BTopic%20title%5D%20-%20Canada.ca&amp;body=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html%0A" class="shr-lnk yahoomail btn btn-default" target="_blank">Yahoo! Mail</a></li></ul><p class="col-sm-12 shr-dscl">No endorsement of any products or services is expressed or implied.</p><div class="clearfix"></div></div></section><a href="#shr-pg0" aria-controls="shr-pg0" class="shr-opn wb-lbx btn btn-default btn-block wb-lbx-inited wb-init" id="wb-auto-10"><span class="glyphicon glyphicon-share"></span>Share this page</a></div> -->
+					</div>
+					<!-- <dl id="wb-dtmd">
+						<dt>Date modified: </dt>
+						<dd><time property="dateModified">2000-01-01</time></dd>
+					</dl> -->
+				<!-- </div> -->
+			</div>
+			<details>
+				<summary>Code</summary>
+				<pre class="prettyprint"><code>&#x3C;div class=&#x22;row&#x22;&#x3E;
+ &#x3C;div class=&#x22;col-sm-6 col-md-5 col-lg-4&#x22;&#x3E;
+  &#x3C;details class=&#x22;brdr-0&#x22; open=&#x22;&#x22;&#x3E;
+   &#x3C;summary class=&#x22;btn btn-default text-center&#x22;&#x3E;Report a problem on this page&#x3C;/summary&#x3E;
+   &#x3C;div class=&#x22;well row&#x22;&#x3E;
+    &#x3C;div class=&#x22;gc-rprt-prblm&#x22;&#x3E;
+     &#x3C;div class=&#x22;gc-rprt-prblm-tggl&#x22; id=&#x22;wb-auto-7&#x22;&#x3E;
+      &#x3C;form action=&#x22;#&#x22;&#x3E;
+       &#x3C;fieldset&#x3E;
+        &#x3C;legend&#x3E;&#x3C;span class=&#x22;field-name&#x22;&#x3E;Please select all that apply: &#x3C;/span&#x3E;&#x3C;/legend&#x3E;
+        &#x3C;div class=&#x22;checkbox&#x22;&#x3E;
+         &#x3C;label for=&#x22;problem1&#x22;&#x3E;&#x3C;input type=&#x22;checkbox&#x22; data-reveal=&#x22;#broken&#x22; name=&#x22;problem&#x22; value=&#x22;Something is broken&#x22; id=&#x22;problem1&#x22;&#x3E;Something is broken&#x3C;/label&#x3E;
+        &#x3C;/div&#x3E;
+        &#x3C;div class=&#x22;form-group hide&#x22; id=&#x22;broken&#x22;&#x3E;
+         &#x3C;label for=&#x22;problem1-detail&#x22;&#x3E;Provide more details (optional):&#x3C;/label&#x3E;
+         &#x3C;input type=&#x22;text&#x22; class=&#x22;form-control full-width&#x22; id=&#x22;problem1-detail&#x22;&#x3E;
+        &#x3C;/div&#x3E;
+        &#x3C;div class=&#x22;checkbox&#x22;&#x3E;
+         &#x3C;label for=&#x22;problem2&#x22;&#x3E;&#x3C;input type=&#x22;checkbox&#x22; data-reveal=&#x22;#spelling&#x22; name=&#x22;problem&#x22; value=&#x22;It has spelling or grammar mistakes&#x22; id=&#x22;problem2&#x22;&#x3E;It has spelling or grammar mistakes&#x3C;/label&#x3E;
+        &#x3C;/div&#x3E;
+        &#x3C;div class=&#x22;form-group hide&#x22; id=&#x22;spelling&#x22;&#x3E;
+         &#x3C;label for=&#x22;problem2-detail&#x22;&#x3E;Provide more details (optional):&#x3C;/label&#x3E;
+         &#x3C;input type=&#x22;text&#x22; class=&#x22;form-control full-width&#x22; id=&#x22;problem2-detail&#x22;&#x3E;
+        &#x3C;/div&#x3E;
+        &#x3C;div class=&#x22;checkbox&#x22;&#x3E;
+         &#x3C;label for=&#x22;problem3&#x22;&#x3E;&#x3C;input type=&#x22;checkbox&#x22; data-reveal=&#x22;#wrong&#x22; name=&#x22;problem&#x22; value=&#x22;The information is wrong&#x22; id=&#x22;problem3&#x22;&#x3E;The information is wrong&#x3C;/label&#x3E;
+        &#x3C;/div&#x3E;
+        &#x3C;div class=&#x22;form-group hide&#x22; id=&#x22;wrong&#x22;&#x3E;
+         &#x3C;label for=&#x22;problem3-detail&#x22;&#x3E;Provide more details (optional):&#x3C;/label&#x3E;
+         &#x3C;input type=&#x22;text&#x22; class=&#x22;form-control full-width&#x22; id=&#x22;problem3-detail&#x22;&#x3E;
+        &#x3C;/div&#x3E;
+        &#x3C;div class=&#x22;checkbox&#x22;&#x3E;
+         &#x3C;label for=&#x22;problem4&#x22;&#x3E;&#x3C;input type=&#x22;checkbox&#x22; data-reveal=&#x22;#outdated&#x22; name=&#x22;problem&#x22; value=&#x22;The information is outdated&#x22; id=&#x22;problem4&#x22;&#x3E;The information is outdated&#x3C;/label&#x3E;
+        &#x3C;/div&#x3E;
+        &#x3C;div class=&#x22;form-group hide&#x22; id=&#x22;outdated&#x22;&#x3E;
+         &#x3C;label for=&#x22;problem4-detail&#x22;&#x3E;Provide more details (optional):&#x3C;/label&#x3E;
+         &#x3C;input type=&#x22;text&#x22; class=&#x22;form-control full-width&#x22; id=&#x22;problem4-detail&#x22;&#x3E;
+        &#x3C;/div&#x3E;
+        &#x3C;div class=&#x22;checkbox&#x22;&#x3E;
+         &#x3C;label for=&#x22;problem5&#x22;&#x3E;&#x3C;input type=&#x22;checkbox&#x22; data-reveal=&#x22;#find&#x22; name=&#x22;problem&#x22; value=&#x22;I can&#x2019;t find what I&#x2019;m looking for&#x22; id=&#x22;problem5&#x22;&#x3E;I can&#x2019;t find what I&#x2019;m looking for&#x3C;/label&#x3E;
+        &#x3C;/div&#x3E;
+        &#x3C;div class=&#x22;form-group hide&#x22; id=&#x22;find&#x22;&#x3E;
+         &#x3C;label for=&#x22;problem5-detail&#x22;&#x3E;Describe what you&#x2019;re looking for (optional):&#x3C;/label&#x3E;
+         &#x3C;input type=&#x22;text&#x22; class=&#x22;form-control full-width&#x22; id=&#x22;problem5-detail&#x22;&#x3E;
+        &#x3C;/div&#x3E;
+        &#x3C;div class=&#x22;checkbox&#x22;&#x3E;
+         &#x3C;label for=&#x22;problem6&#x22;&#x3E;&#x3C;input type=&#x22;checkbox&#x22; data-reveal=&#x22;#confusing&#x22; name=&#x22;problem&#x22; value=&#x22;Other&#x22; id=&#x22;problem6&#x22;&#x3E;Other&#x3C;/label&#x3E;
+        &#x3C;/div&#x3E;
+        &#x3C;div class=&#x22;form-group hide&#x22; id=&#x22;confusing&#x22;&#x3E;
+         &#x3C;label for=&#x22;problem6-detail&#x22;&#x3E;Provide more details (optional):&#x3C;/label&#x3E;
+         &#x3C;input type=&#x22;text&#x22; class=&#x22;form-control full-width&#x22; id=&#x22;problem6-detail&#x22;&#x3E;
+        &#x3C;/div&#x3E;
+       &#x3C;/fieldset&#x3E;
+       &#x3C;button type=&#x22;submit&#x22; class=&#x22;btn btn-primary wb-toggle wb-init wb-toggle-inited&#x22; data-toggle=&#x22;{&#x26;quot;stateOff&#x26;quot;: &#x26;quot;hide&#x26;quot;, &#x26;quot;stateOn&#x26;quot;: &#x26;quot;show&#x26;quot;, &#x26;quot;selector&#x26;quot;: &#x26;quot;.gc-rprt-prblm-tggl&#x26;quot;}&#x22; aria-controls=&#x22;wb-auto-7 wb-auto-8&#x22;&#x3E;Submit&#x3C;/button&#x3E;
+      &#x3C;/form&#x3E;
+     &#x3C;/div&#x3E;
+     &#x3C;div class=&#x22;gc-rprt-prblm-thnk gc-rprt-prblm-tggl hide&#x22; id=&#x22;wb-auto-8&#x22;&#x3E;
+      &#x3C;h3&#x3E;Thank you for your help!&#x3C;/h3&#x3E;
+      &#x3C;p&#x3E;You will not receive a reply. For enquiries, please &#x3C;a href=&#x22;https://www.canada.ca/en/contact.html&#x22;&#x3E;contact us&#x3C;/a&#x3E;.&#x3C;/p&#x3E;
      &#x3C;/div&#x3E;
     &#x3C;/div&#x3E;
-   &#x3C;/details&#x3E;
-  &#x3C;/div&#x3E;
-  &#x3C;div class=&#x22;wb-share col-sm-4 col-md-3 col-sm-offset-2 col-md-offset-4 col-lg-offset-5 wb-init wb-share-inited&#x22; data-wb-share=&#x22;{&#x26;quot;lnkClass&#x26;quot;: &#x26;quot;btn btn-default btn-block&#x26;quot;}&#x22; id=&#x22;wb-auto-9&#x22;&#x3E;&#x3C;section id=&#x22;shr-pg0&#x22; class=&#x22;shr-pg mfp-hide modal-dialog modal-content overlay-def&#x22;&#x3E;&#x3C;header class=&#x22;modal-header&#x22;&#x3E;&#x3C;h2 class=&#x22;modal-title&#x22;&#x3E;Share this page&#x3C;/h2&#x3E;&#x3C;/header&#x3E;&#x3C;div class=&#x22;modal-body&#x22;&#x3E;&#x3C;ul class=&#x22;list-unstyled colcount-xs-2&#x22;&#x3E;&#x3C;li&#x3E;&#x3C;a href=&#x22;https://bitly.com/a/bitmarklet?u=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html&#x22; class=&#x22;shr-lnk bitly btn btn-default&#x22; target=&#x22;_blank&#x22;&#x3E;bitly&#x3C;/a&#x3E;&#x3C;/li&#x3E;&#x3C;li&#x3E;&#x3C;a href=&#x22;http://www.blogger.com/blog_this.pyra?t=&#x26;amp;u=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html&#x26;amp;n=%5BTopic%20title%5D%20-%20Canada.ca&#x22; class=&#x22;shr-lnk blogger btn btn-default&#x22; target=&#x22;_blank&#x22;&#x3E;Blogger&#x3C;/a&#x3E;&#x3C;/li&#x3E;&#x3C;li&#x3E;&#x3C;a href=&#x22;http://digg.com/submit?phase=2&#x26;amp;url=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html&#x26;amp;title=%5BTopic%20title%5D%20-%20Canada.ca&#x22; class=&#x22;shr-lnk digg btn btn-default&#x22; target=&#x22;_blank&#x22;&#x3E;Digg&#x3C;/a&#x3E;&#x3C;/li&#x3E;&#x3C;li&#x3E;&#x3C;a href=&#x22;http://www.diigo.com/post?url=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html&#x26;amp;title=%5BTopic%20title%5D%20-%20Canada.ca&#x22; class=&#x22;shr-lnk diigo btn btn-default&#x22; target=&#x22;_blank&#x22;&#x3E;Diigo&#x3C;/a&#x3E;&#x3C;/li&#x3E;&#x3C;li&#x3E;&#x3C;a href=&#x22;mailto:?to=&#x26;amp;subject=%5BTopic%20title%5D%20-%20Canada.ca&#x26;amp;body=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html%0A&#x22; class=&#x22;shr-lnk email btn btn-default&#x22; target=&#x22;_blank&#x22;&#x3E;Email&#x3C;/a&#x3E;&#x3C;/li&#x3E;&#x3C;li&#x3E;&#x3C;a href=&#x22;http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html&#x26;amp;t=%5BTopic%20title%5D%20-%20Canada.ca&#x22; class=&#x22;shr-lnk facebook btn btn-default&#x22; target=&#x22;_blank&#x22;&#x3E;Facebook&#x3C;/a&#x3E;&#x3C;/li&#x3E;&#x3C;li&#x3E;&#x3C;a href=&#x22;https://mail.google.com/mail/?view=cm&#x26;amp;fs=1&#x26;amp;tf=1&#x26;amp;to=&#x26;amp;su=%5BTopic%20title%5D%20-%20Canada.ca&#x26;amp;body=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html%0A&#x22; class=&#x22;shr-lnk gmail btn btn-default&#x22; target=&#x22;_blank&#x22;&#x3E;Gmail&#x3C;/a&#x3E;&#x3C;/li&#x3E;&#x3C;li&#x3E;&#x3C;a href=&#x22;http://www.linkedin.com/shareArticle?mini=true&#x26;amp;url=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html&#x26;amp;title=%5BTopic%20title%5D%20-%20Canada.ca&#x26;amp;ro=false&#x26;amp;summary=&#x26;amp;source=&#x22; class=&#x22;shr-lnk linkedin btn btn-default&#x22; target=&#x22;_blank&#x22;&#x3E;LinkedIn&#xAE;&#x3C;/a&#x3E;&#x3C;/li&#x3E;&#x3C;li&#x3E;&#x3C;a href=&#x22;http://www.myspace.com/Modules/PostTo/Pages/?u=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html&#x26;amp;t=%5BTopic%20title%5D%20-%20Canada.ca&#x22; class=&#x22;shr-lnk myspace btn btn-default&#x22; target=&#x22;_blank&#x22;&#x3E;MySpace&#x3C;/a&#x3E;&#x3C;/li&#x3E;&#x3C;li&#x3E;&#x3C;a href=&#x22;http://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html&#x26;amp;media=&#x26;amp;description=%5BTopic%20title%5D%20-%20Canada.ca&#x22; class=&#x22;shr-lnk pinterest btn btn-default&#x22; target=&#x22;_blank&#x22;&#x3E;Pinterest&#x3C;/a&#x3E;&#x3C;/li&#x3E;&#x3C;li&#x3E;&#x3C;a href=&#x22;http://reddit.com/submit?url=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html&#x26;amp;title=%5BTopic%20title%5D%20-%20Canada.ca&#x22; class=&#x22;shr-lnk reddit btn btn-default&#x22; target=&#x22;_blank&#x22;&#x3E;reddit&#x3C;/a&#x3E;&#x3C;/li&#x3E;&#x3C;li&#x3E;&#x3C;a href=&#x22;http://www.tumblr.com/share/link?url=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html&#x26;amp;name=%5BTopic%20title%5D%20-%20Canada.ca&#x26;amp;description=&#x22; class=&#x22;shr-lnk tumblr btn btn-default&#x22; target=&#x22;_blank&#x22;&#x3E;tumblr&#x3C;/a&#x3E;&#x3C;/li&#x3E;&#x3C;li&#x3E;&#x3C;a href=&#x22;https://twitter.com/intent/tweet?text=%5BTopic%20title%5D%20-%20Canada.ca&#x26;amp;url=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html&#x22; class=&#x22;shr-lnk twitter btn btn-default&#x22; target=&#x22;_blank&#x22;&#x3E;Twitter&#x3C;/a&#x3E;&#x3C;/li&#x3E;&#x3C;li&#x3E;&#x3C;a href=&#x22;http://compose.mail.yahoo.com/?to=&#x26;amp;subject=%5BTopic%20title%5D%20-%20Canada.ca&#x26;amp;body=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html%0A&#x22; class=&#x22;shr-lnk yahoomail btn btn-default&#x22; target=&#x22;_blank&#x22;&#x3E;Yahoo! Mail&#x3C;/a&#x3E;&#x3C;/li&#x3E;&#x3C;/ul&#x3E;&#x3C;p class=&#x22;col-sm-12 shr-dscl&#x22;&#x3E;No endorsement of any products or services is expressed or implied.&#x3C;/p&#x3E;&#x3C;div class=&#x22;clearfix&#x22;&#x3E;&#x3C;/div&#x3E;&#x3C;/div&#x3E;&#x3C;/section&#x3E;&#x3C;a href=&#x22;#shr-pg0&#x22; aria-controls=&#x22;shr-pg0&#x22; class=&#x22;shr-opn wb-lbx btn btn-default btn-block wb-lbx-inited wb-init&#x22; id=&#x22;wb-auto-10&#x22;&#x3E;&#x3C;span class=&#x22;glyphicon glyphicon-share&#x22;&#x3E;&#x3C;/span&#x3E;Share this page&#x3C;/a&#x3E;&#x3C;/div&#x3E;
+   &#x3C;/div&#x3E;
+  &#x3C;/details&#x3E;
  &#x3C;/div&#x3E;
- &#x3C;dl id=&#x22;wb-dtmd&#x22;&#x3E;
-  &#x3C;dt&#x3E;Date modified: &#x3C;/dt&#x3E;
-  &#x3C;dd&#x3E;&#x3C;time property=&#x22;dateModified&#x22;&#x3E;2000-01-01&#x3C;/time&#x3E;&#x3C;/dd&#x3E;
- &#x3C;/dl&#x3E;
 &#x3C;/div&#x3E;</code></pre>
-		</details>
-    <p><b>Further customisation:</b> The Report a Problem form after being expanded can be further customised, as needed, to support feedback your institution is looking for. If you need to make changes to the page footer and report a problem button, please contact <a href="mailto:dto-btn@tbs-sct.gc.ca?Subject=Report_a_Problem" target="_top">dto-btn@tbs-sct.gc.ca</a></p>
-  </section>
-	<ul>
-		<li>The component is presented as a button using <abbr title="Web Experience Toolkit">WET</abbr> style for secondary actions</li>
-		<li>The label reads: “Report a problem on this page”</li>
-		<li>Placement: positioned directly below the main content area, left-aligned</li>
-		<li>When clicked, the button triggers a form which expands immediately below the button
-			<ul>
-				<li>page components that follow are pushed down to accommodate the form </li>
-				<li>when clicked a second time the form will collapse</li>
-			</ul>
-		</li>
-		<li>The form header reads “Please select all that apply:”</li>
-		<li>The form presents 6 checkbox options and a submit button styled as a primary action, as shown in Figure 6</li>
-		<li>When a checkbox is selected, a multiline text input field appears to allow a person to effectively enter, edit and review their input
-			<ul>
-				<li>these fields are labeled: “Provide more details (optional):”</li>
-			</ul>
-		</li>
-		<li>The form includes a hyperlink to a Privacy statement, which appears in a dismissible overlay when clicked</li>
-		<li>The submit button is labeled “Submit”</li>
-		<li>When the form is submitted it is replaced by a thank-you message
-			<ul>
-				<li>the thank-you message can be collapsed by clicking the “Report a problem with this page” button</li>
-				<li>if the "Report a problem with this page" button is clicked again, the form resets so that additional problems can be reported</li>
-			</ul>
-		</li>
-	</ul>
-	<figure class="mrgn-bttm-lg">
-		<figcaption><b>Report a problem</b></figcaption>
-		<img src="https://www.canada.ca/content/dam/tbs-sct/images/government-communications/canada-content-style-guide/report-a-problem-eng.jpg" class="img-responsive" alt="Diagram of report a problem functionality. Text version below:">
-		<details>
-			<summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Text version</summary>
-			<p>The report a problem component is titled “Report a problem on this page” with checkboxes for “Something is broken”, “It has a spelling or grammar mistake”, “The information is wrong”, and “The information is outdated” (which is checked in this case). It also contains a small textbox labeled as “Provide more details (optional):”. These are followed by: a textbox labeled “I can’t find what I’m looking for” and “Other”, a link to the privacy statement and finally a send button.</p>
-		</details>
-	</figure>
-</section>
+			</details>
+		</section>
 
+		<section>
+			<h2 id="discuss">Discussion</h2>
+			<p><a href="?">Discuss the pattern in github issues</a></p>
+		</section>
 
+	</section>
 
-
-</div>
-
-</div>
 <div class="row pagedetails">
 <div class="col-sm-6 col-lg-4 mrgn-tp-sm">
 <div class="panel-pane pane-block pane-bean-report-problem-button"  >
