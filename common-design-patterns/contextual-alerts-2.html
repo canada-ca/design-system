@@ -11,7 +11,9 @@
 
 <!--[if gte IE 9 | !IE ]><!-->
 <link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon">
-<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css"><link rel="stylesheet" href="../css/custom.css">
+<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
+<link rel="stylesheet" href="../css/custom.css">
+<link rel="stylesheet" href="../css/new-alerts.css">
 <!--<![endif]-->
 <!--[if lt IE 9]>
 		<link href="./GCWeb/assets/favicon.ico" rel="shortcut icon" />
@@ -170,9 +172,8 @@
 
 
 <main role="main" property="mainContentOfPage" class="container wb-prettify all-pre">
-
-
-<h1 property="name" id="wb-cont" dir="ltr">Contextual alerts - Canada.ca design pattern</h1>
+	<h1 property="name" id="wb-cont" dir="ltr">Contextual alerts - Canada.ca design pattern</h1>
+	<p class="gc-byline"><strong>From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
 
 	<section>
 		<p>Alerts are notice boxes for important new information that needs to appear in a pre-existing context.</p>
@@ -209,11 +210,14 @@
 			<h2 id="how">When and how to use</h2>
 			<p>Alerts should be written for a grade 6-8 reading level.</p>
 			<p>Place the alert in the appropriate context:</p>
-			<ul>
-				<li>if it applies to the entire site: place it at the top of the page above the main heading</li>
-				<li>if it applies strictly to the page: place it underneath the page heading</li>
-				<li>if it applies to only a subsection of the page: place it within that subsection, generally underneath the subsection heading or between 2 paragraphs</li>
-			</ul>
+			<dl class="dl-horizontal">
+				<dt>Applies to the entire site</dt>
+				<dd>Place it at the top of the page above the main heading</dd>
+				<dt>Applies to the page</dt>
+				<dd>Place it underneath the page heading</dd>
+				<dt>Applies to a subsection of the page</dt>
+				<dd>Place it within that subsection, generally underneath the subsection heading or between 2 paragraphs</dd>
+			</dl>
 
 			<details>
 				<summary>Use the beta contextual alerts component <span class="label label-info">Beta</span></summary>
@@ -228,17 +232,58 @@
 					</div>
 					<details>
 						<summary>Code</summary>
-						<pre><code>&#x3C;section class=&#x22;alert alert-danger&#x22;&#x3E;
+						<div class="wb-tabs">
+							<div class="tabpanels">
+								<details id="details-panel1">
+									<summary>HTML</summary>
+									<pre><code>&#x3C;section class=&#x22;alert alert-danger&#x22;&#x3E;
  &#x3C;h3&#x3E;If pregnant or considering pregnancy - both partners&#x3C;/h3&#x3E;
  &#x3C;p&#x3E;Avoid travel to Costa Rica if you are pregnant or planning to conceive a child in the next 3 months.&#x3C;/p&#x3E;
 &#x3C;/section&#x3E;</code></pre>
+								</details>
+								<details id="details-panel2">
+									<summary>CSS</summary>
+									<pre><code>.alert:before {
+&#x9;height: 34px;
+&#x9;content: &#x22;&#x22;;
+&#x9;background-color: #fff;
+&#x9;width: 6px;
+&#x9;display: inline;
+&#x9;margin-top: -1px;
+&#x9;margin-left: -26px;
+&#x9;position: absolute;
+}
+.alert-success, .alert-info, .alert-warning, .alert-danger {
+&#x9;background: #fff !important;
+}
+.alert {
+&#x9;border-width: 1px 1px 1px 4px !important;
+&#x9;margin-left: 12px;
+&#x9;padding-left: 20px;
+&#x9;border-width: 0px 0px 0px 6px!important
+}
+.alert-success &#x3E; :first-child::before, .alert-info &#x3E; :first-child::before, .alert-warning &#x3E; :first-child::before, .alert-danger &#x3E; :first-child::before {
+&#x9;font-size: 26px;
+&#x9;margin-left: -1.48em;
+&#x9;padding: 2px;
+&#x9;line-height: 1.1em;
+}
+.alert &#x3E; :first-child {
+&#x9;margin-left: 0em;
+}
+.alert &#x3E;:first-child::before {
+&#x9;margin-right: 0.4em
+}</code></pre>
+								</details>
+							</div>
+						</div>
 					</details>
 				</section>
 
 				<section>
 					<h3>Warning alert</h3>
 					<p><strong>When to use:</strong> Use the warning alert to draw attention to a possible consequence of an action or inaction, such as legal penalty that could apply.</p>
-					<div class="callout">
+					<div class="pattern-demo">
 						<section class="alert alert-warning">
 							<h3>Changes to impaired driving and cannabis-related crime laws</h3>
 							<p><a href="https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/impaired-driving-cannabis-penalties-affect-immigration-status.html">New penalties for impaired driving and cannabis-related crimes may affect your immigration status in Canada</a>. If you commit one of these crimes, you may not be able to come to or stay in Canada.</p>
@@ -246,17 +291,58 @@
 					</div>
 					<details>
 						<summary>Code</summary>
-						<pre><code>&#x3C;section class=&#x22;alert alert-warning&#x22;&#x3E;
+						<div class="wb-tabs">
+							<div class="tabpanels">
+								<details id="details-panel1">
+									<summary>HTML</summary>
+									<pre><code>&#x3C;section class=&#x22;alert alert-warning&#x22;&#x3E;
  &#x3C;h3&#x3E;Changes to impaired driving and cannabis-related crime laws&#x3C;/h3&#x3E;
  &#x3C;p&#x3E;&#x3C;a href=&#x22;https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/impaired-driving-cannabis-penalties-affect-immigration-status.html&#x22;&#x3E;New penalties for impaired driving and cannabis-related crimes may affect your immigration status in Canada&#x3C;/a&#x3E;. If you commit one of these crimes, you may not be able to come to or stay in Canada.&#x3C;/p&#x3E;
 &#x3C;/section&#x3E;</code></pre>
+								</details>
+								<details id="details-panel2">
+									<summary>CSS</summary>
+									<pre><code>.alert:before {
+&#x9;height: 34px;
+&#x9;content: &#x22;&#x22;;
+&#x9;background-color: #fff;
+&#x9;width: 6px;
+&#x9;display: inline;
+&#x9;margin-top: -1px;
+&#x9;margin-left: -26px;
+&#x9;position: absolute;
+}
+.alert-success, .alert-info, .alert-warning, .alert-danger {
+&#x9;background: #fff !important;
+}
+.alert {
+&#x9;border-width: 1px 1px 1px 4px !important;
+&#x9;margin-left: 12px;
+&#x9;padding-left: 20px;
+&#x9;border-width: 0px 0px 0px 6px!important
+}
+.alert-success &#x3E; :first-child::before, .alert-info &#x3E; :first-child::before, .alert-warning &#x3E; :first-child::before, .alert-danger &#x3E; :first-child::before {
+&#x9;font-size: 26px;
+&#x9;margin-left: -1.48em;
+&#x9;padding: 2px;
+&#x9;line-height: 1.1em;
+}
+.alert &#x3E; :first-child {
+&#x9;margin-left: 0em;
+}
+.alert &#x3E;:first-child::before {
+&#x9;margin-right: 0.4em
+}</code></pre>
+								</details>
+							</div>
+						</div>
 					</details>
 				</section>
 
 				<section>
 					<h3>Info alert</h3>
 					<p><strong>When to use:</strong> Use the info alert to draw attention to a clarification, caveat or status of surrounding content.</p>
-					<div class="callout">
+					<div class="pattern-demo">
 						<section class="alert alert-info">
 							<h3>Current status of the call for applications: Closed</h3>
 							<p>Thank you for your interest in Canada Summer Jobs. Applications are now closed.</p>
@@ -264,17 +350,58 @@
 					</div>
 					<details>
 						<summary>Code</summary>
-						<pre><code>&#x3C;section class=&#x22;alert alert-info&#x22;&#x3E;
+						<div class="wb-tabs">
+							<div class="tabpanels">
+								<details id="details-panel1">
+									<summary>HTML</summary>
+									<pre><code>&#x3C;section class=&#x22;alert alert-info&#x22;&#x3E;
  &#x3C;h3&#x3E;Current status of the call for applications: Closed&#x3C;/h3&#x3E;
  &#x3C;p&#x3E;Thank you for your interest in Canada Summer Jobs. Applications are now closed.&#x3C;/p&#x3E;
 &#x3C;/section&#x3E;</code></pre>
+								</details>
+								<details id="details-panel2">
+									<summary>CSS</summary>
+									<pre><code>.alert:before {
+&#x9;height: 34px;
+&#x9;content: &#x22;&#x22;;
+&#x9;background-color: #fff;
+&#x9;width: 6px;
+&#x9;display: inline;
+&#x9;margin-top: -1px;
+&#x9;margin-left: -26px;
+&#x9;position: absolute;
+}
+.alert-success, .alert-info, .alert-warning, .alert-danger {
+&#x9;background: #fff !important;
+}
+.alert {
+&#x9;border-width: 1px 1px 1px 4px !important;
+&#x9;margin-left: 12px;
+&#x9;padding-left: 20px;
+&#x9;border-width: 0px 0px 0px 6px!important
+}
+.alert-success &#x3E; :first-child::before, .alert-info &#x3E; :first-child::before, .alert-warning &#x3E; :first-child::before, .alert-danger &#x3E; :first-child::before {
+&#x9;font-size: 26px;
+&#x9;margin-left: -1.48em;
+&#x9;padding: 2px;
+&#x9;line-height: 1.1em;
+}
+.alert &#x3E; :first-child {
+&#x9;margin-left: 0em;
+}
+.alert &#x3E;:first-child::before {
+&#x9;margin-right: 0.4em
+}</code></pre>
+								</details>
+							</div>
+						</div>
 					</details>
 				</section>
 
 				<section>
 					<h3>Success alert</h3>
 					<p><strong>When to use:</strong> Use success alert to draw attention to a successful action, such as with form validation.</p>
-					<div class="callout">
+					<div class="pattern-demo">
 						<section class="alert alert-success">
 							<h3>Your request for publicly available data from the list of charities has been successful</h3>
 							<p>The turnaround time to process your request may take up to four (4) weeks. We will contact you if we need more information.</p>
@@ -282,10 +409,51 @@
 					</div>
 					<details>
 						<summary>Code</summary>
-						<pre><code>&#x3C;section class=&#x22;alert alert-success&#x22;&#x3E;
+						<div class="wb-tabs">
+							<div class="tabpanels">
+								<details id="details-panel1">
+									<summary>HTML</summary>
+									<pre><code>&#x3C;section class=&#x22;alert alert-success&#x22;&#x3E;
  &#x3C;h3&#x3E;Your request for publicly available data from the List of charities has been successful&#x3C;/h3&#x3E;
  &#x3C;p&#x3E;The turnaround time to process your request may take up to four (4) weeks. We will contact you if we need more information.&#x3C;/p&#x3E;
 &#x3C;/section&#x3E;</code></pre>
+								</details>
+								<details id="details-panel2">
+									<summary>CSS</summary>
+									<pre><code>.alert:before {
+&#x9;height: 34px;
+&#x9;content: &#x22;&#x22;;
+&#x9;background-color: #fff;
+&#x9;width: 6px;
+&#x9;display: inline;
+&#x9;margin-top: -1px;
+&#x9;margin-left: -26px;
+&#x9;position: absolute;
+}
+.alert-success, .alert-info, .alert-warning, .alert-danger {
+&#x9;background: #fff !important;
+}
+.alert {
+&#x9;border-width: 1px 1px 1px 4px !important;
+&#x9;margin-left: 12px;
+&#x9;padding-left: 20px;
+&#x9;border-width: 0px 0px 0px 6px!important
+}
+.alert-success &#x3E; :first-child::before, .alert-info &#x3E; :first-child::before, .alert-warning &#x3E; :first-child::before, .alert-danger &#x3E; :first-child::before {
+&#x9;font-size: 26px;
+&#x9;margin-left: -1.48em;
+&#x9;padding: 2px;
+&#x9;line-height: 1.1em;
+}
+.alert &#x3E; :first-child {
+&#x9;margin-left: 0em;
+}
+.alert &#x3E;:first-child::before {
+&#x9;margin-right: 0.4em
+}</code></pre>
+								</details>
+							</div>
+						</div>
 					</details>
 				</section>
 
@@ -313,12 +481,9 @@
 				</section>
 			</details>
 
-
-
-
 		</section>
 
-		<section>
+		<!-- <section>
 			<h2 id="research">Research</h2>
 			<h3>Noticeability was not impacted</h3>
 			<details>
@@ -339,8 +504,8 @@
 				<h4>
 
 
-			</details>
-			<h3></h3>
+			</details> -->
+			<!-- <h3></h3>
 
 
 			<dl>
@@ -348,7 +513,7 @@
 
 				<dd>Explanation of the testing / blog article link</dd>
 			</dl>
-		</section>
+		</section> -->
 
 		<section>
 
@@ -358,60 +523,15 @@
 
 	</section>
 
-
-<p class="gc-byline"><strong>From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
-
-<section>
-<h2>When to use this pattern</h2>
-<p>Use contextual alerts to:</p>
-<ul>
-	<li>bring a person’s attention to an important change at the page or subsection level like service or site outage, recent changes to a process or service</li>
-	<li>provide feedback in response to a user-action, for example confirm success, notify a person of errors</li>
-</ul>
-<p>Do not use contextual alerts:</p>
-<ul>
-	<li>to provide information about a normal step in a process or task; or</li>
-	<li>to simply add emphasis to content</li>
-</ul>
-</section>
-<section>
-<h2>How to use this pattern</h2>
-<ul>
-	<li>Place the alert in the appropriate context, according to the following specifications:
-		<ul>
-			<li>if the alert applies to the entire site, place it at the top of the page above the main heading</li>
-			<li>for an alert that applies strictly to the page, place it underneath the page heading</li>
-			<li>when the alert applies to only a subsection of the page, place it at the most appropriate place within that subsection like underneath the subsection heading, or between 2 paragraphs</li>
-		</ul>
-	</li>
-	<li>Style the alert based on the significance of the content of the alert, using the following scheme:
-		<ul>
-			<li>blue—for informational content, such as relevant information or helpful tips</li>
-			<li>green—to convey success, such as to confirm a submission or the completion of a task</li>
-			<li>yellow—for warnings, such as system outages or problems</li>
-			<li>red—to notify a person of errors, such as an invalid submission of data in a form</li>
-		</ul>
-	</li>
-	<li>Use only <abbr title="Web Experience Toolkit">WET</abbr> alert styles</li>
-	<li>written for a grade 6-8 reading level</li>
-</ul>
-</section>
-
-</section>
-
-
-</div>
-
-</div>
-<div class="row pagedetails">
-<div class="col-sm-6 col-lg-4 mrgn-tp-sm">
-<div class="panel-pane pane-block pane-bean-report-problem-button"  >
-<div class="pane-content">
-<section>
-<div class="field field-name-field-bean-wetkit-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><a class="btn btn-default btn-block" href="https://www.canada.ca/en/report-problem.html">Report a problem on this page</a></div></div></div></section>
-</div>
-</div>
-</div>
+	<div class="row pagedetails">
+	<div class="col-sm-6 col-lg-4 mrgn-tp-sm">
+	<div class="panel-pane pane-block pane-bean-report-problem-button"  >
+	<div class="pane-content">
+	<section>
+	<div class="field field-name-field-bean-wetkit-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><a class="btn btn-default btn-block" href="https://www.canada.ca/en/report-problem.html">Report a problem on this page</a></div></div></div></section>
+	</div>
+	</div>
+	</div>
 
         <div class="col-sm-3 mrgn-tp-sm pull-right">
         <div class="wb-share" data-wb-share='{&#34;lnkClass&#34;: &#34;btn btn-default btn-block&#34;}'></div>
@@ -427,14 +547,6 @@
 
 </div>
     </main>
-
-
-
-
-
-
-
-
 
 		<footer id="wb-info">
 	<div class="landscape">
