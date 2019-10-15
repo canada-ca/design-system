@@ -205,11 +205,22 @@
 					<summary>Use the beta institutional home page <span class="label label-info">Beta</span></summary>
 					<p><b>Variations:</b> The image </p>
 
-					<section>
 	          <p><a class="btn btn-default" href="https://test.canada.ca/experimental/working-on/ip/coded-ip-nog-clean.html" target="_blank">Coded page (no guidance)</a></p>
 	          <h2>Detailed guidance:</h2>
 
-						<section class="pattern-demo">
+<style>
+.pattern-demo {
+	padding: 0px !important;
+	margin: 0px !important;
+	border: none !important;
+}
+
+details open {
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+}
+</style>
+						<div class="pattern-demo">
 
 							<div class="ip-cover-img ip-cover-hide-mobile">
 					      <div class="container">
@@ -224,7 +235,7 @@
 					      </div>
 					    </div>
 
-							<details>
+							<details style="margin-bottom: 0px !important;">
 								<summary>Guidance for title, image and super task link</summary>
 
 								<section>
@@ -251,14 +262,14 @@
 
 							</details>
 
-							<section class="featured row opct-90">
+							<section class="featured opct-90"> <!-- row has to come out... -->
 					      <h2 class="wb-inv">Featured</h2>
 					      <div class="container">
 					        <span class="h5"><a href="#">Promotional link [optional]</a></span>
 					      </div>
 					    </section>
 
-							<details>
+							<details style="margin-bottom: 0px !important;">
 								<summary>Guidance for the promotional link</summary>
 								<p><span class="label label-info">Optional</span></p>
 								<p></p>
@@ -500,7 +511,7 @@
 
 					    	<section class="col-md-8 gc-prtts">
 					    		<h2 class="h3">Features</h2>
-					    		<div class="row wb-eqht">
+					    		<div class="wb-eqht"> <!-- take out row to align -->
 					    			<div class="col-md-6 mrgn-bttm-md">
 					    				<a class="figcaption hght-inhrt" href="#">
 					    					<figure class="well well-sm brdr-rds-0 hght-inhrt"><img class="img-responsive full-width" alt="#" src="https://wet-boew.github.io/themes-dist/GCWeb/img/360x203.png">
@@ -1100,9 +1111,9 @@
 	        </div>
 	        </section>
 	      </details>
-			</section>
+</div>
 
-			<!--<section>
+		<section>
 				<h2 id="examples">Working examples</h2>
 				<ul>
 					<li><a href="http://wet-boew.github.io/themes-dist/GCWeb/institution-en.html">English working example of institutional profile</a> (on GitHub)</li>
@@ -1122,7 +1133,7 @@
 		<p>Institutional profiles pages can be accessed from the Canada.ca departments and agencies page and topic pages.</p>
 	</details>
 </figure>
-</section>-->
+</section>
 
 
 
