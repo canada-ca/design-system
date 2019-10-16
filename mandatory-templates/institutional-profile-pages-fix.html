@@ -149,6 +149,36 @@
 </nav>
 </header>
 
+<style> /* to move later */
+
+/* added to detail summaries inside the code to remove the bottom spacing */
+.pattern-demo-code-ex details {
+	margin-bottom: 0px !important;
+}
+
+.pattern-demo-code-ex .featured {
+	margin-left: .07em !important;
+	margin-right: .07em !important;
+}
+
+/* .pattern-demo-code-ex .gc-prtts {
+	width: 99%;
+} */
+
+.pattern-demo {
+	padding: 0px !important;
+	margin: 0px !important;
+	border: none !important;
+}
+
+.pattern-demo-code-ex {
+	margin-left: -35px !important;
+	margin-right: -35px !important;
+}
+
+
+
+</style>
 <!--/* Hide Nav; Hide Right Rail /*-->
 
 <main role="main" property="mainContentOfPage" class="container">
@@ -196,36 +226,22 @@
 
 		<section>
 			<h2 id="specifications">How to use this template </h2>
+		</section>
 
 			<section>
 				<h3 id="profile">Profile page</h3>
 				<p>All institutions listed in Schedules I, I.1 and II of the <a href="http://laws-lois.justice.gc.ca/eng/acts/f-11/">Financial Administration Act</a> (FAA) must develop an institutional profile. These profiles are all included on the departments and agencies page (see the <a href="../mandatory-templates/department-agencies-page.html">Departments and agencies page</a>).</p>
 
-				<details>
+			<details>
 					<summary>Use the beta institutional home page <span class="label label-info">Beta</span></summary>
 					<p><b>Variations:</b> The image </p>
 
 	          <p><a class="btn btn-default" href="https://test.canada.ca/experimental/working-on/ip/coded-ip-nog-clean.html" target="_blank">Coded page (no guidance)</a></p>
 	          <h2>Detailed guidance:</h2>
 
-<style>
-.pattern-demo {
-	padding: 0px !important;
-	margin: 0px !important;
-	border: none !important;
-}
+<div class="col-lg-12">
 
-.pattern-demo-code {
-	margin-left: -35px !important;
-	margin-right: -35px !important;
-}
-details {
-	/* padding-left: 0px !important;
-	padding-right: 0px !important; */
-}
-
-</style>
-						<section class="pattern-demo pattern-demo-code">
+				<section class="pattern-demo pattern-demo-code-ex">
 
 							<div class="ip-cover-img ip-cover-hide-mobile">
 					      <div class="container">
@@ -240,7 +256,7 @@ details {
 					      </div>
 					    </div>
 
-							<details style="margin-bottom: 0px !important;">
+							<details>
 								<summary>Guidance for title, image and super task link</summary>
 
 								<section>
@@ -267,14 +283,14 @@ details {
 
 							</details>
 
-							<section class="featured opct-90"> <!-- row has to come out... -->
+							<section class="featured row opct-90">
 					      <h2 class="wb-inv">Featured</h2>
 					      <div class="container">
 					        <span class="h5"><a href="#">Promotional link [optional]</a></span>
 					      </div>
 					    </section>
 
-							<details style="margin-bottom: 0px !important;">
+							<details>
 								<summary>Guidance for the promotional link</summary>
 								<p><span class="label label-info">Optional</span></p>
 								<p></p>
@@ -495,7 +511,7 @@ details {
 
 					    <!-- News bar start -->
 					    <div class="container">
-					      <div class="row">
+					      <div class="row col-lg-12">
 					        <section class="col-md-4 wb-feeds limit-3 gc-nws">
 					          <h2 class="h3">News</h2>
 
@@ -515,8 +531,9 @@ details {
 					          </section>
 
 					    	<section class="col-md-8 gc-prtts">
+
 					    		<h2 class="h3">Features</h2>
-					    		<div class="wb-eqht row">
+					    		<div class="row wb-eqht">
 					    			<div class="col-md-6 mrgn-bttm-md">
 					    				<a class="figcaption hght-inhrt" href="#">
 					    					<figure class="well well-sm brdr-rds-0 hght-inhrt"><img class="img-responsive full-width" alt="#" src="https://wet-boew.github.io/themes-dist/GCWeb/img/360x203.png">
@@ -537,10 +554,11 @@ details {
 					    	</section>
 					      </div>
 					    </div>
+</section> <!-- end of pattern-demo -->
+</div> <!-- end col-lg-12 -->
+</details> <!-- end beta IP -->
 
-
-				</details>
-
+<div class="clearfix"></div>
 				<details>
 	        <summary>Use the stable institutional home page</summary>
 	        <h3 id="profile">Profile page</h3>
@@ -1116,9 +1134,9 @@ details {
 	        </div>
 	        </section>
 	      </details>
-</div>
+			</section>
 
-		<section>
+			<!--<section>
 				<h2 id="examples">Working examples</h2>
 				<ul>
 					<li><a href="http://wet-boew.github.io/themes-dist/GCWeb/institution-en.html">English working example of institutional profile</a> (on GitHub)</li>
@@ -1138,7 +1156,7 @@ details {
 		<p>Institutional profiles pages can be accessed from the Canada.ca departments and agencies page and topic pages.</p>
 	</details>
 </figure>
-</section>
+</section>-->
 
 
 
