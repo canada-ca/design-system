@@ -197,13 +197,13 @@
 				<p>You should then set up the report a problem form in its place.</p>
 		  </section>
 
-			<p>The button, label and placement are mandatory:</p>
+			<p>The button, label, placement and privacy statement are mandatory:</p>
 			<ul>
 				<li>the component is presented as a button using the <a href="./buttons.html">button component for secondary actions</a>, which triggers a feedback form to expand when clicked</li>
 				<li>the label reads: “Report a problem on this page”</li>
 				<li>placement: positioned directly below the main content area, left-aligned</li>
+				<li>privacy statement: positioned within a dismissible overlay.</li>
 			</ul>
-			<p>The form should also include a hyperlink to a Privacy statement, which appears in a dismissible overlay when clicked.</li>
 			<p>The pattern for the contents of the feedback form is recommended. If meaningful data is not being received, a mailto link can be used as an alternative.</p>
 			<p><b>Send the form:</b> Make sure to replace the "#" placeholder in the form action line with wherever your institution can collect the data from the form. Consider sending the form to a generic email inbox if you don't have a server set up to handle this type of form.</p>
 
@@ -215,8 +215,8 @@
 								<summary class="btn btn-default text-center">Report a problem on this page</summary>
 								<div class="well row">
 									<div class="gc-rprt-prblm">
-										<div class="gc-rprt-prblm-tggl" id="wb-auto-7">
-											<form action="#">
+										<div class="gc-rprt-prblm-frm gc-rprt-prblm-tggl">
+											<form id="gc-rprt-prblm-form" action="#" method="post">
 												<fieldset>
 													<legend><span class="field-name">Please select all that apply: </span></legend>
 													<div class="checkbox">
@@ -262,10 +262,19 @@
 														<input type="text" class="form-control full-width" id="problem6-detail">
 													</div>
 												</fieldset>
-												<button type="submit" class="btn btn-primary wb-toggle wb-init wb-toggle-inited" data-toggle="{&quot;stateOff&quot;: &quot;hide&quot;, &quot;stateOn&quot;: &quot;show&quot;, &quot;selector&quot;: &quot;.gc-rprt-prblm-tggl&quot;}" aria-controls="wb-auto-7 wb-auto-8">Submit</button>
+												<p><a class="wb-lbx" href="#privacy-statement">Privacy statement</a></p>
+												<section class="mfp-hide modal-dialog modal-content overlay-def" id="privacy-statement">
+													<header class="modal-header">
+														<h2 class="modal-title">Privacy statement</h2>
+													</header>
+													<div class="modal-body">
+														<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Turp is egestas maecenas pharetra convallis posuere morbi leo urna.</p>
+													</div>
+												</section>
+												<button type="submit" class="btn btn-primary wb-toggle" data-toggle="{&quot;stateOff&quot;: &quot;hide&quot;, &quot;stateOn&quot;: &quot;show&quot;, &quot;selector&quot;: &quot;.gc-rprt-prblm-tggl&quot;}">Submit</button>
 											</form>
 										</div>
-										<div class="gc-rprt-prblm-thnk gc-rprt-prblm-tggl hide" id="wb-auto-8">
+										<div class="gc-rprt-prblm-thnk gc-rprt-prblm-tggl hide">
 											<h3>Thank you for your help!</h3>
 											<p>You will not receive a reply. For enquiries, please <a href="https://www.canada.ca/en/contact.html">contact us</a>.</p>
 										</div>
