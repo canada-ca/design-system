@@ -176,7 +176,9 @@
 	margin-right: -35px !important;
 }
 
-
+.guidance-details details, .guidance-details summary, .guidance-details details summary:focus, .guidance-details details summary:hover {
+	background-color: white;
+}
 
 </style>
 <!--/* Hide Nav; Hide Right Rail /*-->
@@ -239,6 +241,26 @@
           <p><a class="btn btn-default" href="https://test.canada.ca/experimental/working-on/ip/coded-ip-nog-clean.html" target="_blank">Coded page (no guidance)</a></p>
           <h2>Detailed guidance:</h2>
 
+					<div class="wb-frmvld" id="services">
+				    <form method="get">
+				      <!--Smart question!-->
+				      <div id="question1" class="wb-fieldflow" data-wb-fieldflow='{
+				          "noForm":true,
+				          "renderas":"radio",
+				          "base": { "live": true },
+				          "noreqlabel": true,
+									"inline": true
+				        }'>
+				        <p>Hide or show the guidance blocks?</p>
+				        <ul>
+				          <li data-wb-fieldflow='{"action":"addClass", "source":".guidance-details", "class":"hidden"}'>Hide</li>
+									<li data-wb-fieldflow='{"action":"removeClass", "source":".guidance-details", "class":"hidden"}'>Show</li>
+				        </ul>
+				      </div>
+
+				    </form>
+				  </div>
+
 					<div class="col-lg-12">
 
 						<section class="pattern-demo pattern-demo-code-ex">
@@ -253,49 +275,56 @@
 					            <a class="btn btn-call-to-action ip-btn" href="#">Super task link [optional]</a>
 					          </div>
 					        </div>
-					      </div>
-					    </div>
+									<div class="row guidance-details">
+										<div class="col-md-8">
+											<details>
+												<summary>Guidance for title, image and super task link</summary>
 
-							<details>
-								<summary>Guidance for title, image and super task link</summary>
+												<section>
+													<h3>Title</h3>
+													<p><span class="label label-danger">Mandatory</span></p>
+													<p>Use the applied title of the institution, as specified in the <a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/fip-pcim/reg-eng.asp">Registry of Applied Titles</a>.</p>
+													<p>Use the legal title if the applied title is not available.</p>
+													<p>Do not use acronyms or abbreviations.</p>
+												</section>
 
-								<section>
-									<h3>Title</h3>
-									<p><span class="label label-danger">Mandatory</span></p>
-									<p>Use the applied title of the institution, as specified in the <a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/fip-pcim/reg-eng.asp">Registry of Applied Titles</a>.</p>
-									<p>Use the legal title if the applied title is not available.</p>
-									<p>Do not use acronyms or abbreviations.</p>
-								</section>
+												<section>
+													<h3>Image</h3>
+													<p><span class="label label-info">Optional</span></p>
+													<p>The 1200x726 space behind the H1 can be used for a banner or image. The image does not have to take up the whole space and can be customised as needed.</p>
+													<p>The image and H1 should be visually distinct from the <a href="https://www.canada.ca/">Canada.ca homepage</a> to prevent confusion between institutional landing pages and Canada.ca.</p>
+													<p><b>Variation:</b> Apply the <code>ip-cover-hide-mobile</code> class in addition to <code>ip-cover-img</code> to hide the image in mobile view.</p>
+												</section>
 
-								<section>
-									<h3>Image</h3>
-									<p><span class="label label-info">Optional</span></p>
-									<p>The 1200x726 space behind the H1 can be used for a banner or image. The image does not have to take up the whole space and can be customised as needed.</p>
-									<p>The image and H1 should be visually distinct from the <a href="https://www.canada.ca/">Canada.ca homepage</a> to prevent confusion between institutional landing pages and Canada.ca.</p>
-									<p><b>Variation:</b> Apply the <code>ip-cover-hide-mobile</code> class in addition to <code>ip-cover-img</code> to hide the image in mobile view.</p>
-								</section>
+												<section>
+													<h3>Super task link</h3>
+													<p><span class="label label-info">Optional</span></p>
+													<p>Only include a super task button if there a specific task that has at least a third of the clickthrough on the institution's home page. This is intended mainly for signing into an account.</p>
+												</section>
 
-								<section>
-									<h3>Super task link</h3>
-									<p><span class="label label-info">Optional</span></p>
-									<p>Only include a super task button if there a specific task that has at least a third of the clickthrough on the institution's home page. This is intended mainly for signing into an account.</p>
-								</section>
-
-							</details>
+											</details>
+										</div>
+									</div>
+								</div>
+							</div>
 
 							<section class="featured row opct-90">
-					      <h2 class="wb-inv">Featured</h2>
-					      <div class="container">
-					        <span class="h5"><a href="#">Featured link [optional]</a></span>
-					      </div>
-					    </section>
+								<h2 class="wb-inv">Featured</h2>
+								<div class="container">
+									<span class="h5"><a href="#">Featured link [optional]</a></span>
+									<div class="row guidance-details">
+										<div class="col-md-8">
+											<details>
+												<summary>Guidance: featured link</summary>
+												<p><span class="label label-info">Optional</span></p>
+												<p>The featured link is a short, descriptive link that your institution needs to feature prominently. </p>
+												<p>Don't inlcude images in this section.</p>
+											</details>
+										</div>
+									</div>
+								</div>
+							</section>
 
-							<details>
-								<summary>Guidance for the featured link</summary>
-								<p><span class="label label-info">Optional</span></p>
-								<p>The featured lik is a short, descriptive link that your institution needs to feature prominently. </p>
-								<p>Don't inlcude images in this section.</p>
-							</details>
 
 					    <section class="most-requested well well-sm brdr-0">
 					    	<div class="container">
@@ -602,10 +631,7 @@
 								<section>
 									<p><span class="label label-info">Optional</span></p>
 									<p>Use the beta version of the <a href="../common-design-patterns/latest-news.html">Latest news</a> pattern.</p>
-
 								</section>
-
-
 							</details>
 </section> <!-- end of pattern-demo -->
 </div> <!-- end col-lg-12 -->
