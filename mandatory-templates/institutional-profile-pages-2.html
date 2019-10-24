@@ -179,6 +179,11 @@
 .guidance-details details, .guidance-details summary, .guidance-details details summary:focus, .guidance-details details summary:hover {
 	background-color: white;
 }
+@media (min-width: 1200px) {
+	.pattern-demo-ex .container {
+	   width: 1100px;
+	}
+}
 
 </style>
 <!--/* Hide Nav; Hide Right Rail /*-->
@@ -261,9 +266,9 @@
 				    </form>
 				  </div>
 
-					<div class="col-lg-12">
+					<!-- <div class="col-lg-12"> -->
 
-						<section class="pattern-demo pattern-demo-code-ex">
+						<section class="pattern-demo mrgn-lft-sm mrgn-rght-sm pattern-demo-ex">
 
 							<div class="ip-cover-img ip-cover-hide-mobile">
 					      <div class="container">
@@ -308,7 +313,7 @@
 								</div>
 							</div>
 
-							<section class="featured row opct-90">
+							<section class="featured opct-90">
 								<h2 class="wb-inv">Featured</h2>
 								<div class="container">
 									<span class="h5"><a href="#">Featured link [optional]</a></span>
@@ -356,7 +361,7 @@
 								<section class="gc-srvinfo col-md-12 mrgn-bttm-lg row">
 									<h2 class="wb-inv">Services and information</h2>
 									<div class="row">
-										<div class="wb-eqht">
+										<div class="container wb-eqht">
 											<section class="col-md-4">
 												<h3><a href="#">[Topic hyperlink text]</a></h3>
 												<p>Summary of the information or tasks that can be accomplished on the topic page. Remove prose or promotional messaging. Use action verbs.</p>
@@ -637,9 +642,250 @@
 									</div>
 								</div>
 					    </div>
-</section> <!-- end of pattern-demo -->
+						</section> <!-- end of pattern-demo -->
 
-</div> <!-- end col-lg-12 -->
+
+
+					<!-- </div> <!-- end col-lg-12 -->
+					<!-- <div class="clearfix"></div> -->
+					<!-- <div class="col-lg-12"> -->
+						<details>
+							<summary>Code</summary>
+							<pre class="prettyprint"><code>&#x3C;div class=&#x22;ip-cover-img&#x22;&#x3E;
+ &#x3C;div class=&#x22;container&#x22;&#x3E;
+  &#x3C;div class=&#x22;col-lg-7 col-md-7 row&#x22;&#x3E;
+   &#x3C;h1 property=&#x22;name&#x22; id=&#x22;wb-cont&#x22;&#x3E;[Institution name]&#x3C;/h1&#x3E;
+   &#x3C;div class=&#x22;clearfix&#x22;&#x3E;&#x3C;/div&#x3E;
+   &#x3C;p&#x3E;Short description of the institution&#x2019;s mandate.&#x3C;/p&#x3E;
+   &#x3C;div class=&#x22;col-lg-12 col-md-12 row&#x22;&#x3E;
+    &#x3C;a class=&#x22;btn btn-call-to-action ip-btn&#x22; href=&#x22;#&#x22;&#x3E;Super task link [optional]&#x3C;/a&#x3E;
+   &#x3C;/div&#x3E;
+  &#x3C;/div&#x3E;
+ &#x3C;/div&#x3E;
+&#x3C;/div&#x3E;
+
+&#x3C;section class=&#x22;featured row opct-90&#x22;&#x3E;
+ &#x3C;h2 class=&#x22;wb-inv&#x22;&#x3E;Featured&#x3C;/h2&#x3E;
+ &#x3C;div class=&#x22;container&#x22;&#x3E;
+  &#x3C;span class=&#x22;h5&#x22;&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;Promotional link [optional]&#x3C;/a&#x3E;&#x3C;/span&#x3E;
+ &#x3C;/div&#x3E;
+&#x3C;/section&#x3E;
+
+&#x3C;section class=&#x22;most-requested well well-sm brdr-0&#x22;&#x3E;
+ &#x3C;div class=&#x22;container&#x22;&#x3E;
+  &#x3C;h2 class=&#x22;mrgn-tp-md&#x22;&#x3E;Most requested&#x3C;/h2&#x3E;
+  &#x3C;ul class=&#x22;wb-eqht list-unstyled mrgn-tp-md mrgn-bttm-sm lst-spcd-2 list-responsive-3&#x22;&#x3E; &#x3C;!-- can use &#x27;list-responsive&#x27; to get 4 column option --&#x3E;
+   &#x3C;li&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;[Top task hyperlink]&#x3C;/a&#x3E;&#x3C;/li&#x3E;
+   &#x3C;li&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;[Top task hyperlink]&#x3C;/a&#x3E;&#x3C;/li&#x3E;
+   &#x3C;li&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;[Top task hyperlink]&#x3C;/a&#x3E;&#x3C;/li&#x3E;
+   &#x3C;li&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;[Top task hyperlink]&#x3C;/a&#x3E;&#x3C;/li&#x3E;
+   &#x3C;li&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;[Top task hyperlink]&#x3C;/a&#x3E;&#x3C;/li&#x3E;
+   &#x3C;li&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;[Top task hyperlink]&#x3C;/a&#x3E;&#x3C;/li&#x3E;
+  &#x3C;/ul&#x3E;
+ &#x3C;/div&#x3E;
+&#x3C;/section&#x3E;
+
+&#x3C;div class=&#x22;container&#x22;&#x3E;
+ &#x3C;section class=&#x22;gc-srvinfo col-md-12 mrgn-bttm-lg row&#x22;&#x3E;
+  &#x3C;h2 class=&#x22;wb-inv&#x22;&#x3E;Services and information&#x3C;/h2&#x3E;
+  &#x3C;div class=&#x22;row&#x22;&#x3E;
+   &#x3C;div class=&#x22;wb-eqht&#x22;&#x3E;
+    &#x3C;section class=&#x22;col-md-4&#x22;&#x3E;
+     &#x3C;h3&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;[Topic hyperlink text]&#x3C;/a&#x3E;&#x3C;/h3&#x3E;
+     &#x3C;p&#x3E;Summary of the information or tasks that can be accomplished on the topic page. Remove prose or promotional messaging. Use action verbs.&#x3C;/p&#x3E;
+    &#x3C;/section&#x3E;
+    &#x3C;section class=&#x22;col-md-4&#x22;&#x3E;
+     &#x3C;h3&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;[Topic hyperlink text]&#x3C;/a&#x3E;&#x3C;/h3&#x3E;
+     &#x3C;p&#x3E;Summary of the information or tasks that can be accomplished on the topic page. Remove prose or promotional messaging. Use action verbs.&#x3C;/p&#x3E;
+    &#x3C;/section&#x3E;
+    &#x3C;section class=&#x22;col-md-4&#x22;&#x3E;
+     &#x3C;h3&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;[Topic hyperlink text]&#x3C;/a&#x3E;&#x3C;/h3&#x3E;
+     &#x3C;p&#x3E;Summary of the information or tasks that can be accomplished on the topic page. Remove prose or promotional messaging. Use action verbs.&#x3C;/p&#x3E;
+    &#x3C;/section&#x3E;
+    &#x3C;section class=&#x22;col-md-4&#x22;&#x3E;
+     &#x3C;h3&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;[Topic hyperlink text]&#x3C;/a&#x3E;&#x3C;/h3&#x3E;
+     &#x3C;p&#x3E;Summary of the information or tasks that can be accomplished on the topic page. Remove prose or promotional messaging. Use action verbs.&#x3C;/p&#x3E;
+    &#x3C;/section&#x3E;
+    &#x3C;section class=&#x22;col-md-4&#x22;&#x3E;
+     &#x3C;h3&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;[Topic hyperlink text]&#x3C;/a&#x3E;&#x3C;/h3&#x3E;
+     &#x3C;p&#x3E;Summary of the information or tasks that can be accomplished on the topic page. Remove prose or promotional messaging. Use action verbs.&#x3C;/p&#x3E;
+    &#x3C;/section&#x3E;
+    &#x3C;section class=&#x22;col-md-4&#x22;&#x3E;
+     &#x3C;h3&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;[Topic hyperlink text]&#x3C;/a&#x3E;&#x3C;/h3&#x3E;
+     &#x3C;p&#x3E;Summary of the information or tasks that can be accomplished on the topic page. Remove prose or promotional messaging. Use action verbs.&#x3C;/p&#x3E;
+    &#x3C;/section&#x3E;
+    &#x3C;section class=&#x22;col-md-4&#x22;&#x3E;
+     &#x3C;h3&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;[Topic hyperlink text]&#x3C;/a&#x3E;&#x3C;/h3&#x3E;
+     &#x3C;p&#x3E;Summary of the information or tasks that can be accomplished on the topic page. Remove prose or promotional messaging. Use action verbs.&#x3C;/p&#x3E;
+    &#x3C;/section&#x3E;
+    &#x3C;section class=&#x22;col-md-4&#x22;&#x3E;
+     &#x3C;h3&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;[Topic hyperlink text]&#x3C;/a&#x3E;&#x3C;/h3&#x3E;
+     &#x3C;p&#x3E;Summary of the information or tasks that can be accomplished on the topic page. Remove prose or promotional messaging. Use action verbs.&#x3C;/p&#x3E;
+    &#x3C;/section&#x3E;
+    &#x3C;section class=&#x22;col-md-4&#x22;&#x3E;
+     &#x3C;h3&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;[Topic hyperlink text]&#x3C;/a&#x3E;&#x3C;/h3&#x3E;
+     &#x3C;p&#x3E;Summary of the information or tasks that can be accomplished on the topic page. Remove prose or promotional messaging. Use action verbs.&#x3C;/p&#x3E;
+    &#x3C;/section&#x3E;
+    &#x3C;div class=&#x22;clearfix&#x22;&#x3E;&#x3C;/div&#x3E;
+   &#x3C;/div&#x3E;
+  &#x3C;/div&#x3E;
+ &#x3C;/section&#x3E;
+&#x3C;/div&#x3E;
+
+&#x3C;section class=&#x22;most-requested well well-sm brdr-0&#x22;&#x3E;
+ &#x3C;div class=&#x22;container&#x22;&#x3E;
+  &#x3C;div class=&#x22;wb-eqht row&#x22;&#x3E;
+   &#x3C;h2 class=&#x22;col-lg-3 h3&#x22;&#x3E;Contact us&#x3C;/h2&#x3E;
+   &#x3C;span class=&#x22;clearfix&#x22;&#x3E;&#x3C;/span&#x3E;
+   &#x3C;section class=&#x22;col-lg-4 col-md-6 col-sm-6&#x22;&#x3E;
+    &#x3C;h3 class=&#x22;h5&#x22;&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;Contact [Institution]&#x3C;/a&#x3E;&#x3C;/h3&#x3E;
+   &#x3C;/section&#x3E;
+   &#x3C;section class=&#x22;col-lg-4 col-md-6 col-sm-6&#x22;&#x3E;
+    &#x3C;h3 class=&#x22;h5&#x22;&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;[Top contact task 2]&#x3C;/a&#x3E;&#x3C;/h3&#x3E;
+   &#x3C;/section&#x3E;
+   &#x3C;section class=&#x22;col-lg-4 col-md-6 col-sm-6&#x22;&#x3E;
+    &#x3C;h3 class=&#x22;h5&#x22;&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;[Top contact task 3]&#x3C;/a&#x3E;&#x3C;/h3&#x3E;
+   &#x3C;/section&#x3E;
+  &#x3C;/div&#x3E;
+  &#x3C;div class=&#x22;row&#x22;&#x3E;
+   &#x3C;section class=&#x22;col-md-8 pull-left mrgn-bttm-lg&#x22;&#x3E;
+    &#x3C;h2 class=&#x22;h3&#x22;&#x3E;About the [Institution]&#x3C;/h2&#x3E;
+    &#x3C;div class=&#x22;wb-eqht row&#x22;&#x3E;
+     &#x3C;div class=&#x22;col-md-6&#x22;&#x3E;
+      &#x3C;section&#x3E;
+       &#x3C;h3 class=&#x22;h5&#x22;&#x3E;
+        &#x3C;a href=&#x22;#&#x22;&#x3E;Mandate&#x3C;/a&#x3E;
+       &#x3C;/h3&#x3E;
+      &#x3C;/section&#x3E;
+     &#x3C;/div&#x3E;
+     &#x3C;div class=&#x22;col-md-6&#x22;&#x3E;
+      &#x3C;section&#x3E;
+       &#x3C;h3 class=&#x22;h5&#x22;&#x3E;
+        &#x3C;a href=&#x22;#&#x22;&#x3E;Organizational structure&#x3C;/a&#x3E;
+       &#x3C;/h3&#x3E;
+      &#x3C;/section&#x3E;
+     &#x3C;/div&#x3E;
+     &#x3C;div class=&#x22;col-md-6&#x22;&#x3E;
+      &#x3C;section&#x3E;
+       &#x3C;h3 class=&#x22;h5&#x22;&#x3E;
+        &#x3C;a href=&#x22;#&#x22; rel=&#x22;external&#x22;&#x3E;Transparency&#x3C;/a&#x3E;
+       &#x3C;/h3&#x3E;
+      &#x3C;/section&#x3E;
+     &#x3C;/div&#x3E;
+     &#x3C;div class=&#x22;col-md-6&#x22;&#x3E;
+      &#x3C;section&#x3E;
+       &#x3C;h3 class=&#x22;h5&#x22;&#x3E;
+        &#x3C;a href=&#x22;#&#x22; rel=&#x22;external&#x22;&#x3E;Job opportunities&#x3C;/a&#x3E;
+       &#x3C;/h3&#x3E;
+      &#x3C;/section&#x3E;
+     &#x3C;/div&#x3E;
+     &#x3C;div class=&#x22;col-md-6&#x22;&#x3E;
+      &#x3C;section&#x3E;
+       &#x3C;h3 class=&#x22;h5&#x22;&#x3E;
+        &#x3C;a href=&#x22;#&#x22;&#x3E;Reports&#x3C;/a&#x3E;
+       &#x3C;/h3&#x3E;
+      &#x3C;/section&#x3E;
+     &#x3C;/div&#x3E;
+     &#x3C;div class=&#x22;col-md-6&#x22;&#x3E;
+      &#x3C;section&#x3E;
+       &#x3C;h3 class=&#x22;h5&#x22;&#x3E;
+        &#x3C;a href=&#x22;#&#x22;&#x3E;Compliance&#x3C;/a&#x3E;
+       &#x3C;/h3&#x3E;
+      &#x3C;/section&#x3E;
+     &#x3C;/div&#x3E;
+     &#x3C;div class=&#x22;col-md-6&#x22;&#x3E;
+      &#x3C;section&#x3E;
+       &#x3C;h3 class=&#x22;h5&#x22;&#x3E;
+        &#x3C;a href=&#x22;#&#x22;&#x3E;Enforcement notifications&#x3C;/a&#x3E;
+       &#x3C;/h3&#x3E;
+      &#x3C;/section&#x3E;
+     &#x3C;/div&#x3E;
+     &#x3C;div class=&#x22;col-md-6&#x22;&#x3E;
+      &#x3C;section&#x3E;
+       &#x3C;h3 class=&#x22;h5&#x22;&#x3E;
+        &#x3C;a href=&#x22;#&#x22;&#x3E;Institutional link&#x3C;/a&#x3E;
+       &#x3C;/h3&#x3E;
+      &#x3C;/section&#x3E;
+     &#x3C;/div&#x3E;
+     &#x3C;div class=&#x22;col-md-6&#x22;&#x3E;
+      &#x3C;section&#x3E;
+       &#x3C;h3 class=&#x22;h5&#x22;&#x3E;
+      &#x3C;a href=&#x22;#&#x22;&#x3E;Institutional link&#x3C;/a&#x3E;
+       &#x3C;/h3&#x3E;
+      &#x3C;/section&#x3E;
+     &#x3C;/div&#x3E;
+     &#x3C;div class=&#x22;col-md-6&#x22;&#x3E;
+      &#x3C;section&#x3E;
+       &#x3C;h3 class=&#x22;h5&#x22;&#x3E;More:
+        &#x3C;a href=&#x22;#&#x22; rel=&#x22;external&#x22;&#x3E;About the [Institution]&#x3C;/a&#x3E;
+       &#x3C;/h3&#x3E;
+      &#x3C;/section&#x3E;
+     &#x3C;/div&#x3E;
+    &#x3C;/div&#x3E;
+   &#x3C;/section&#x3E;
+   &#x3C;div class=&#x22;col-md-4 col-sm-5 pull-right mobile-left&#x22;&#x3E;
+    &#x3C;div class=&#x22;visible-sm&#x22;&#x3E;&#x3C;/div&#x3E;
+    &#x3C;section class=&#x22;lnkbx&#x22;&#x3E;
+     &#x3C;h2 class=&#x22;h3&#x22;&#x3E;Minister&#x3C;/h2&#x3E;
+     &#x3C;p&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;[(Honourable) first and last name]&#x3C;/a&#x3E;&#x3C;br&#x3E;
+      &#x3C;small&#x3E;Minister&#x27;s official title&#x3C;/small&#x3E;&#x3C;/p&#x3E;
+     &#x3C;p&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;[(Honourable) first and last name]&#x3C;/a&#x3E;&#x3C;br&#x3E;
+     &#x3C;small&#x3E;Minister&#x27;s official title&#x3C;/small&#x3E;&#x3C;/p&#x3E;
+     &#x3C;p&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;[(Honourable) first and last name]&#x3C;/a&#x3E;&#x3C;br&#x3E;
+     &#x3C;small&#x3E;Minister&#x27;s official title&#x3C;/small&#x3E;&#x3C;/p&#x3E;
+     &#x3C;section class=&#x22;row followus&#x22;&#x3E;
+      &#x3C;h2 class=&#x22;mrgn-tp-lg h3&#x22;&#x3E;Follow us&#x3C;/h2&#x3E;
+      &#x3C;br&#x3E;
+      &#x3C;ul&#x3E;
+       &#x3C;li&#x3E;&#x3C;a href=&#x22;https://www.facebook.com/canrevagency&#x22; class=&#x22;facebook&#x22; rel=&#x22;external&#x22;&#x3E;&#x3C;span class=&#x22;wb-inv&#x22;&#x3E;Facebook&#x3C;/span&#x3E;&#x3C;/a&#x3E;&#x3C;/li&#x3E;
+       &#x3C;li&#x3E;&#x3C;a href=&#x22;https://twitter.com/CanRevAgency&#x22; class=&#x22;twitter&#x22; rel=&#x22;external&#x22;&#x3E;&#x3C;span class=&#x22;wb-inv&#x22;&#x3E;Twitter&#x3C;/span&#x3E;&#x3C;/a&#x3E;&#x3C;/li&#x3E;
+       &#x3C;li&#x3E;&#x3C;a href=&#x22;https://www.youtube.com/user/CanRevAgency&#x22; class=&#x22;youtube&#x22; rel=&#x22;external&#x22;&#x3E;&#x3C;span class=&#x22;wb-inv&#x22;&#x3E;YouTube&#x3C;/span&#x3E;&#x3C;/a&#x3E;&#x3C;/li&#x3E;
+       &#x3C;li&#x3E;&#x3C;a href=&#x22;https://www.linkedin.com/company/cra-arc&#x22; class=&#x22;linkedin&#x22; rel=&#x22;external&#x22;&#x3E;&#x3C;span class=&#x22;wb-inv&#x22;&#x3E;LinkedIn&#x3C;/span&#x3E;&#x3C;/a&#x3E;&#x3C;/li&#x3E;
+      &#x3C;/ul&#x3E;
+     &#x3C;/section&#x3E;
+    &#x3C;/section&#x3E;
+   &#x3C;/div&#x3E;
+  &#x3C;/div&#x3E;
+ &#x3C;/div&#x3E;
+&#x3C;/section&#x3E;
+
+&#x3C;div class=&#x22;container&#x22;&#x3E;
+ &#x3C;div class=&#x22;row&#x22;&#x3E;
+  &#x3C;section class=&#x22;col-md-4 wb-feeds limit-3 gc-nws&#x22;&#x3E;
+   &#x3C;h2 class=&#x22;h3&#x22;&#x3E;News&#x3C;/h2&#x3E;
+   &#x3C;ul class=&#x22;feeds-cont list-unstyled lst-spcd feed-active&#x22;&#x3E;
+    &#x3C;li&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;[News title]&#x3C;/a&#x3E;&#x3C;br&#x3E; &#x3C;small class=&#x22;feeds-date&#x22;&#x3E;YYYY-MM-DD HH:MM&#x3C;/small&#x3E;&#x3C;/li&#x3E;
+    &#x3C;li&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;[News title]&#x3C;/a&#x3E;&#x3C;br&#x3E; &#x3C;small class=&#x22;feeds-date&#x22;&#x3E;YYYY-MM-DD HH:MM&#x3C;/small&#x3E;&#x3C;/li&#x3E;
+    &#x3C;li&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;[News title]&#x3C;/a&#x3E;&#x3C;br&#x3E; &#x3C;small class=&#x22;feeds-date&#x22;&#x3E;YYYY-MM-DD HH:MM&#x3C;/small&#x3E;&#x3C;/li&#x3E;
+   &#x3C;/ul&#x3E;
+   &#x3C;p class=&#x22;text-right&#x22;&#x3E;More: &#x3C;a href=&#x22;#&#x22; class=&#x22;admin&#x22;&#x3E;[Institution] news&#x3C;/a&#x3E;&#x3C;/p&#x3E;
+  &#x3C;/section&#x3E;
+  &#x3C;section class=&#x22;col-md-8 gc-prtts&#x22;&#x3E;
+   &#x3C;h2 class=&#x22;h3&#x22;&#x3E;Features&#x3C;/h2&#x3E;
+   &#x3C;div class=&#x22;row wb-eqht&#x22;&#x3E;
+    &#x3C;div class=&#x22;col-md-6 mrgn-bttm-md&#x22;&#x3E;
+     &#x3C;a class=&#x22;figcaption hght-inhrt&#x22; href=&#x22;#&#x22;&#x3E;
+      &#x3C;figure class=&#x22;well well-sm brdr-rds-0 hght-inhrt&#x22;&#x3E;&#x3C;img class=&#x22;img-responsive full-width&#x22; alt=&#x22;#&#x22; src=&#x22;https://wet-boew.github.io/themes-dist/GCWeb/img/360x203.png&#x22;&#x3E;
+       &#x3C;figcaption class=&#x22;h5&#x22;&#x3E;[Featured hyperlink text]&#x3C;/figcaption&#x3E;
+       &#x3C;p&#x3E;Brief description of the feature being promoted.&#x3C;/p&#x3E;
+      &#x3C;/figure&#x3E;
+     &#x3C;/a&#x3E;
+    &#x3C;/div&#x3E;
+    &#x3C;div class=&#x22;col-md-6 mrgn-bttm-md&#x22;&#x3E;
+     &#x3C;a class=&#x22;figcaption hght-inhrt&#x22; href=&#x22;https://www.canada.ca/en/revenue-agency/campaigns/my-benefits-credits.html&#x22;&#x3E;
+      &#x3C;figure class=&#x22;well well-sm brdr-rds-0 hght-inhrt&#x22;&#x3E;&#x3C;img class=&#x22;img-responsive full-width&#x22; alt=&#x22;#&#x22; src=&#x22;https://wet-boew.github.io/themes-dist/GCWeb/img/360x203.png&#x22;&#x3E;
+       &#x3C;figcaption class=&#x22;h5&#x22;&#x3E;[Featured hyperlink text]&#x3C;/figcaption&#x3E;
+       &#x3C;p&#x3E;Brief description of the feature being promoted.&#x3C;/p&#x3E;
+      &#x3C;/figure&#x3E;
+     &#x3C;/a&#x3E;
+    &#x3C;/div&#x3E;
+   &#x3C;/div&#x3E;
+  &#x3C;/section&#x3E;
+ &#x3C;/div&#x3E;
+&#x3C;/div&#x3E;</code></pre>
+						</details>
+					<!-- </div> -->
+
 </details> <!-- end beta IP -->
 
 <div class="clearfix"></div>
