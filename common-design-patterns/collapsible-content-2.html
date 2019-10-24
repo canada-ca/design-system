@@ -165,9 +165,9 @@
 
 <p>The expand/collapse pattern allows content to be hidden until requested by the user. The pattern consists of a trigger link that shows or hides the content.</p>
 <div class="pattern-demo">
-  <p>Example of expand/collapse:</p>
+  <p>Example:</p>
   <details>
-    <summary>This can be expanded and collapsed</summary>
+    <summary>The user must click on this area to expand and collapse the content</summary>
     <p>This text is hidden until it is revealed.</p>
   </details>
 </div>
@@ -184,35 +184,31 @@
 <section>
 
 <h2 id="rationale">When to use</h2>
-<p>Expand/collapse can be used in 2 situations: </p>
-<ul>
-	<li>present a choice when the answers are mutually exclusive, meaning they don’t overlap with one another</li>
-	<li>present secondary information</li>
-</ul>
-<h3>Choice between mutually exclusive answers</h3>
-<p>Use this component when people need to get different answers based on their situation, and these answers are mutually exclusive.</p>
+<p>Th expand/collapse patern can be used in 2 situations: </p>
+
+<h3>Presenting a choice between mutually exclusive answers</h3>
+<p>Use this pattern when people need to get different answers depending on their situation and these answers are mutually exclusive.</p>
 <p>This reduces the risk of having people wrongly think they got the answer that applies to their situation.</p>
 <h3>Presenting secondary information</h3>
-<p>Use this component to prevent secondary content from getting in the way of the primary task.</p>
-<p>This can be content that applies to most people, but that only a few people may need to use (like a privacy statement, or additional details not needed to accomplish the main task).</p>
-<p>It can also be content that applies only to a minority of people (like when there is specific information for a specific audience).</p>
+<p>Use this pattern to prevent secondary content from interfering with the main task.</p>
+<p>This can be content that applies to most people, but that only a few people may need to use (for example, a privacy statement or additional details not needed to accomplish the main task).</p>
+<p>It can also be content that applies only to a minority of people (such as when there is specific information for a specific audience).</p>
 </section>
 <section>
 <h2 id="cautions">What to avoid</h2>
-<p>Don't use this component for content that is needed by the majority of people to accomplish the main task on the page, unless you are using it for mutually exclusive answers.</p>
 
-<p>Don't use this component if: </p>
+<p>Don't use this pattern if: </p>
 <ul>
-  <li>you need people to answer several questions to get the answer that applies to them</li>
-  <li>one of the mutually exclusive answers has multiple sub-tasks or more than one page of supporting content</li>
+  <li>the majority of users need the content to accomplish the main task (unless the answers are mutually exclusive)</li>
+  <li>people need to answer several questions to get the answer that applies to them (use <a href="https://design.canada.ca/common-design-patterns/interactive-questions.html">interactive questions</a> instead)</li>
+  <li>one of the mutually exclusive answers has multiple sub-tasks or more than one page of supporting content (use <a href="https://design.canada.ca/common-design-patterns/interactive-questions.html">interactive questions</a> instead)</li>
 </ul>
 
-<p>In these cases, use <a href="https://design.canada.ca/common-design-patterns/interactive-questions.html">interactive questions</a> instead.</p>
 
 </section>
 <section>
 <h2 id="how">Example and code</h2>
-<h3>Choice between mutually exclusive answers</h3>
+<h3>Presenting a choice between mutually exclusive answers</h3>
 <div class="pattern-demo">
   <h3>Determine if you are in a shared custody situation</h3>
   <p>Does the child spend their time:</p>
@@ -329,7 +325,7 @@
     </section>
     <section>
       <h2 id="research">Research</h2>
-        <p>The use of expand/collapse to incite people to choose between options was tested successfully during 2 optimization projects done with content from the Canada Revenue Agency.</p>
+        <p>The use of the expand/collapse pattern, to incite people to choose between options, was tested successfully during 2 optimization projects done with content from the Canada Revenue Agency.</p>
 
 
 <h2 id="changes">Latest changes</h2>
