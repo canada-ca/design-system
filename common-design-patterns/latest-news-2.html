@@ -147,7 +147,7 @@
 
 <!--/* Hide Nav; Hide Right Rail /*-->
 
-<main role="main" property="mainContentOfPage" class="container">
+<main role="main" property="mainContentOfPage" class="container wb-prettify all-pre">
 
 
 <h1 property="name" id="wb-cont" dir="ltr">Latest news - Canada.ca design pattern</h1>
@@ -193,12 +193,12 @@
 	<p>The beta version will eventually replace the stable version.</p>
 
 
-		<h3>New Latest news pattern <span class="label label-info">Beta</span></h3>
-		<div class="pattern-demo">
-			<div class="container">
-				<div class="row col-lg-12">
-					<section class="col-md-4 wb-feeds limit-3 gc-nws">
-						<h2 class="h3">News</h2>
+<h3>New Latest news pattern <span class="label label-info">Beta</span></h3>
+<div class="pattern-demo">
+	<div class="container">
+		<div class="row col-lg-12">
+			<section class="col-md-4 wb-feeds limit-3 gc-nws">
+				<h2 class="h3">News</h2>
 
 	<!-- demonstrate the look - use json feed where applicable -->
 	<ul class="feeds-cont list-unstyled lst-spcd feed-active">
@@ -211,66 +211,76 @@
 							<li> <a data-ajax="https://www.canada.ca/content/canadasite/api/nws/fds/en/web-feeds/revenue-agency.json" href="https://www.canada.ca/en/revenue-agency.atom.xml" rel="external">Canada Revenue Agency news items</a> </li>
 						</ul>
 					-->
-						<p class="text-right">More: <a href="#" class="admin">[Institution] news</a></p>
+		<p class="text-right">More: <a href="#" class="admin">[Institution] news</a></p>
 
-						</section>
+	</section>
 
-				<section class="col-md-8 gc-prtts">
+<section class="col-md-8 gc-prtts">
 
-					<h2 class="h3">Features</h2>
-					<div class="row wb-eqht">
-						<div class="col-md-6 mrgn-bttm-md">
-							<a class="figcaption hght-inhrt" href="#">
-								<figure class="well well-sm brdr-rds-0 hght-inhrt"><img class="img-responsive full-width" alt="#" src="https://wet-boew.github.io/themes-dist/GCWeb/img/360x203.png">
-									<figcaption class="h5">[Featured hyperlink text]</figcaption>
-									<p>Brief description of the feature being promoted.</p>
+	<h2 class="h3">Features</h2>
+		<div class="row wb-eqht">
+			<div class="col-md-6 mrgn-bttm-md">
+				<a class="figcaption hght-inhrt" href="#">
+					<figure class="well well-sm brdr-rds-0 hght-inhrt"><img class="img-responsive full-width" alt="#" src="https://wet-boew.github.io/themes-dist/GCWeb/img/360x203.png">
+						<figcaption class="h5">[Featured hyperlink text]</figcaption>
+								<p>Brief description of the feature being promoted.</p>
 								</figure>
 							</a>
 						</div>
-						<div class="col-md-6 mrgn-bttm-md">
-							<a class="figcaption hght-inhrt" href="https://www.canada.ca/en/revenue-agency/campaigns/my-benefits-credits.html">
-								<figure class="well well-sm brdr-rds-0 hght-inhrt"><img class="img-responsive full-width" alt="#" src="https://wet-boew.github.io/themes-dist/GCWeb/img/360x203.png">
-									<figcaption class="h5">[Featured hyperlink text]</figcaption>
-									<p>Brief description of the feature being promoted.</p>
+				<div class="col-md-6 mrgn-bttm-md">
+					<a class="figcaption hght-inhrt" href="https://www.canada.ca/en/revenue-agency/campaigns/my-benefits-credits.html">
+					<figure class="well well-sm brdr-rds-0 hght-inhrt"><img class="img-responsive full-width" alt="#" src="https://wet-boew.github.io/themes-dist/GCWeb/img/360x203.png">
+						<figcaption class="h5">[Featured hyperlink text]</figcaption>
+						<p>Brief description of the feature being promoted.</p>
 								</figure>
-							</a>
-						</div>
+					</a>
 					</div>
-				</section>
 				</div>
-			</div>
+		</section>
+	</div>
+</div>
 
-		<details>
-		<summary>Code</summary>
-		<pre class="prettyprint"><code>&#x3C;h3&#x3E;Determine if you are in a shared custody situation&#x3C;/h3&#x3E;
-		&#x3C;p&#x3E;Does the child spend their time:&#x3C;/p&#x3E;
-		&#x3C;ul class=&#x22;list-unstyled&#x22;&#x3E;
-		 &#x3C;li&#x3E;
-		  &#x3C;details&#x3E;
-		   &#x3C;summary&#x3E;about equally between both parents&#x3C;/summary&#x3E;
-		   &#x3C;p&#x3E;If the child shares their time about equally between the parents, then both parents are considered to have &#x3C;strong&#x3E;shared custody&#x3C;/strong&#x3E; of that child...&#x3C;/p&#x3E;
-		  &#x3C;/details&#x3E;
-		 &#x3C;/li&#x3E;
-		 &#x3C;li&#x3E;
-		  &#x3C;details&#x3E;
-		   &#x3C;summary&#x3E;mostly with you&#x3C;/summary&#x3E;
-		   &#x3C;p&#x3E;If the child lives with you most of the time, you are considered to have &#x3C;strong&#x3E;primary custody&#x3C;/strong&#x3E; for the purposes of the Canada child benefit...&#x3C;/p&#x3E;
-		  &#x3C;/details&#x3E;
-		 &#x3C;/li&#x3E;
-		 &#x3C;li&#x3E;
-		  &#x3C;details&#x3E;
-		   &#x3C;summary&#x3E;mostly with the other parent&#x3C;/summary&#x3E;
-		   &#x3C;p&#x3E;If the child lives with the other parent most of the time, the other parent is considered to have &#x3C;strong&#x3E;primary custody&#x3C;/strong&#x3E; for the purposes of the Canada child benefit...&#x3C;/p&#x3E;
-		  &#x3C;/details&#x3E;
-		 &#x3C;/li&#x3E;
-		 &#x3C;li&#x3E;
-		  &#x3C;details&#x3E;
-		   &#x3C;summary&#x3E;mostly with the other parent, but temporarily mostly with you&#x3C;/summary&#x3E;
-		   &#x3C;p&#x3E;Changes in custody can sometimes be temporary. This can happen, for example, if the child usually lives with one parent, but goes to live with the other parent for the summer.&#x3C;/p&#x3E;
-		   &#x3C;p&#x3E;In these cases, the parent that gets custody on a temporary basis can apply to get Canada child benefit payments for that period...&#x3C;/p&#x3E;
-		  &#x3C;/details&#x3E;
-		 &#x3C;/li&#x3E;
-		&#x3C;/ul&#x3E;</code></pre>
+<details>
+<summary>Code</summary>
+<pre class="prettyprint"><code>&#x3C;div class=&#x22;row col-lg-12&#x22;&#x3E;
+&#x3C;section class=&#x22;col-md-4 wb-feeds limit-3 gc-nws&#x22;&#x3E;
+ &#x3C;h2 class=&#x22;h3&#x22;&#x3E;News&#x3C;/h2&#x3E;
+&#x3C;!-- demonstrate the look - use json feed where applicable --&#x3E;
+&#x3C;ul class=&#x22;feeds-cont list-unstyled lst-spcd feed-active&#x22;&#x3E;
+ &#x3C;li&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;[News title]&#x3C;/a&#x3E;&#x3C;br&#x3E; &#x3C;small class=&#x22;feeds-date&#x22;&#x3E;YYYY-MM-DD HH:MM&#x3C;/small&#x3E;&#x3C;/li&#x3E;
+ &#x3C;li&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;[News title]&#x3C;/a&#x3E;&#x3C;br&#x3E; &#x3C;small class=&#x22;feeds-date&#x22;&#x3E;YYYY-MM-DD HH:MM&#x3C;/small&#x3E;&#x3C;/li&#x3E;
+ &#x3C;li&#x3E;&#x3C;a href=&#x22;#&#x22;&#x3E;[News title]&#x3C;/a&#x3E;&#x3C;br&#x3E; &#x3C;small class=&#x22;feeds-date&#x22;&#x3E;YYYY-MM-DD HH:MM&#x3C;/small&#x3E;&#x3C;/li&#x3E;
+&#x3C;/ul&#x3E;
+&#x3C;!-- json feed for news example
+&#x3C;ul class=&#x22;feeds-cont list-unstyled lst-spcd&#x22;&#x3E;
+ &#x3C;li&#x3E; &#x3C;a data-ajax=&#x22;https://www.canada.ca/content/canadasite/api/nws/fds/en/web-feeds/revenue-agency.json&#x22; href=&#x22;https://www.canada.ca/en/revenue-agency.atom.xml&#x22; rel=&#x22;external&#x22;&#x3E;Canada Revenue Agency news items&#x3C;/a&#x3E; &#x3C;/li&#x3E;
+ &#x3C;/ul&#x3E;
+--&#x3E;
+&#x3C;p class=&#x22;text-right&#x22;&#x3E;More: &#x3C;a href=&#x22;#&#x22; class=&#x22;admin&#x22;&#x3E;[Institution] news&#x3C;/a&#x3E;&#x3C;/p&#x3E;
+&#x3C;/section&#x3E;
+&#x3C;section class=&#x22;col-md-8 gc-prtts&#x22;&#x3E;
+ &#x3C;h2 class=&#x22;h3&#x22;&#x3E;Features&#x3C;/h2&#x3E;
+  &#x3C;div class=&#x22;row wb-eqht&#x22;&#x3E;
+   &#x3C;div class=&#x22;col-md-6 mrgn-bttm-md&#x22;&#x3E;
+    &#x3C;a class=&#x22;figcaption hght-inhrt&#x22; href=&#x22;#&#x22;&#x3E;
+     &#x3C;figure class=&#x22;well well-sm brdr-rds-0 hght-inhrt&#x22;&#x3E;&#x3C;img class=&#x22;img-responsive full-width&#x22; alt=&#x22;#&#x22; src=&#x22;https://wet-boew.github.io/themes-dist/GCWeb/img/360x203.png&#x22;&#x3E;
+      &#x3C;figcaption class=&#x22;h5&#x22;&#x3E;[Featured hyperlink text]&#x3C;/figcaption&#x3E;
+        &#x3C;p&#x3E;Brief description of the feature being promoted.&#x3C;/p&#x3E;
+        &#x3C;/figure&#x3E;
+       &#x3C;/a&#x3E;
+      &#x3C;/div&#x3E;
+    &#x3C;div class=&#x22;col-md-6 mrgn-bttm-md&#x22;&#x3E;
+     &#x3C;a class=&#x22;figcaption hght-inhrt&#x22; href=&#x22;https://www.canada.ca/en/revenue-agency/campaigns/my-benefits-credits.html&#x22;&#x3E;
+     &#x3C;figure class=&#x22;well well-sm brdr-rds-0 hght-inhrt&#x22;&#x3E;&#x3C;img class=&#x22;img-responsive full-width&#x22; alt=&#x22;#&#x22; src=&#x22;https://wet-boew.github.io/themes-dist/GCWeb/img/360x203.png&#x22;&#x3E;
+      &#x3C;figcaption class=&#x22;h5&#x22;&#x3E;[Featured hyperlink text]&#x3C;/figcaption&#x3E;
+      &#x3C;p&#x3E;Brief description of the feature being promoted.&#x3C;/p&#x3E;
+        &#x3C;/figure&#x3E;
+     &#x3C;/a&#x3E;
+     &#x3C;/div&#x3E;
+    &#x3C;/div&#x3E;
+  &#x3C;/section&#x3E;
+ &#x3C;/div&#x3E;
+&#x3C;/div&#x3E;</code></pre>
 		  		</details>
 </div>
 	<div class="clearfix"></div>
