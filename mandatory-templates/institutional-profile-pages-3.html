@@ -250,9 +250,13 @@
 					<!-- </div> <!-- end col-lg-12 -->
 					<!-- <div class="clearfix"></div> -->
 					<!-- <div class="col-lg-12"> -->
-						<details>
-							<summary>Code</summary>
-							<pre class="prettyprint"><code>&#x3C;div class=&#x22;ip-cover-img&#x22;&#x3E;
+					<details>
+						<summary>Code</summary>
+						<div class="wb-tabs">
+							<div class="tabpanels">
+								<details id="details-panel1">
+									<summary>HTML</summary>
+									<pre><code>&#x3C;div class=&#x22;ip-cover-img&#x22;&#x3E;
  &#x3C;div class=&#x22;container&#x22;&#x3E;
   &#x3C;div class=&#x22;col-lg-7 col-md-7 row&#x22;&#x3E;
    &#x3C;h1 property=&#x22;name&#x22; id=&#x22;wb-cont&#x22;&#x3E;[Institution name]&#x3C;/h1&#x3E;
@@ -484,7 +488,119 @@
   &#x3C;/section&#x3E;
  &#x3C;/div&#x3E;
 &#x3C;/div&#x3E;</code></pre>
-						</details>
+								</details>
+								<details id="details-panel2">
+									<summary>CSS</summary>
+									<pre><code>.ip-cover-img {
+&#x9;background-image: url(&#x22;https://test.canada.ca/experimental/working-on/images/ip-cover-image.jpg&#x22;);
+&#x9;background-repeat: no-repeat;
+&#x9;background-size: cover;
+&#x9;background-position: right;
+&#x9;margin-top: 15px;
+&#x9;padding-bottom: 25px;
+}
+
+.most-requested li {
+&#x9;font-family: &#x27;Lato&#x27;, sans-serif;
+&#x9;font-size: 17px;
+&#x9;font-weight: 600;
+&#x9;line-height: 26px;
+&#x9;margin-top: 0
+}
+
+.most-requested h2 {
+&#x9;font-size: 1.2em;
+}
+
+.ip-btn {
+&#x9;font-size: 1em;
+}
+
+/* supports the 3 column layout for MR instead of 4 columns */
+.list-responsive-3 &#x3E; li {
+    float: left;
+    padding-right: 5px;
+    width: 50%
+}
+
+.list-responsive-3 &#x3E; li:nth-child(2n+2) {
+    clear: right
+}
+
+.list-responsive-3:before,
+.list-responsive-3:after {
+    content: &#x22; &#x22;;
+    display: table
+}
+
+.list-responsive-3:after {
+    clear: both
+}
+
+.followus {
+&#x9;background-color: #f5f5f5;
+}
+
+.followus ul li a {
+&#x9;border: solid 2px #f5f5f5;
+}
+
+.featured {
+  margin-bottom: 0em;
+&#x9;padding-top:20px;
+  padding-bottom:20px;
+&#x9;background: #31708f;
+}
+
+.featured a {
+&#x9;color:#fff
+}
+
+ul.feeds-cont li a {
+&#x9;font-weight: bold;
+}
+
+
+@media screen and (max-width: 1200px) {
+  .featured {
+  &#x9;padding-left:.8em;
+&#x9;}
+}
+
+@media screen and (min-width: 1200px) {
+.list-responsive-3 &#x3E; li {
+    width: 33%;
+&#x9;}
+}
+
+@media screen and (max-width: 767px) {
+
+.btn-call-to-action {
+&#x9;font-size: 19px !important;
+&#x9;}
+
+.most-requested li {
+&#x9;font-size: 19px;
+&#x9;}
+
+.list-responsive-3 &#x3E; li {
+        clear: right;
+        width: 100%
+  }
+
+.mobile-left {
+&#x9;float: left !important;
+&#x9;}
+
+.ip-cover-hide-mobile {
+&#x9;&#x9;background-image: url(&#x22;none&#x22;) !important;
+}
+
+}</code></pre>
+								</details>
+							</div>
+						</div>
+					</details>
 					<!-- </div> -->
 
 
