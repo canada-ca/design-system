@@ -208,98 +208,91 @@
 			<p><b>Send the form:</b> Make sure to replace the "#" placeholder in the form action line with wherever your institution can collect the data from the form. Consider sending the form to a generic email inbox if you don't have a server set up to handle this type of form.</p>
 
 			<div class="pattern-demo">
-				<!-- <div class="pagedetails"> -->
-					<div class="row">
-						<div class="col-sm-6 col-md-5 col-lg-4">
-							<details class="brdr-0" closed>
-								<summary class="btn btn-default text-center">Report a problem on this page</summary>
-								<div class="well row">
-									<div class="gc-rprt-prblm">
-										<div class="gc-rprt-prblm-tggl">
-											<form id="gc-rprt-prblm-form" action="#" method="post">
-												<fieldset>
-													<legend><span class="field-name">Please select all that apply: </span></legend>
-													<div class="checkbox">
-														<label for="problem1"><input type="checkbox" data-reveal="#broken" name="problem" value="Something is broken" id="problem1">Something is broken</label>
-													</div>
-													<div class="form-group hide" id="broken">
-														<label for="problem1-detail">Provide more details (optional):</label>
-														<input type="text" class="form-control full-width" id="problem1-detail">
-													</div>
-													<div class="checkbox">
-														<label for="problem2"><input type="checkbox" data-reveal="#spelling" name="problem" value="It has spelling or grammar mistakes" id="problem2">It has spelling or grammar mistakes</label>
-													</div>
-													<div class="form-group hide" id="spelling">
-														<label for="problem2-detail">Provide more details (optional):</label>
-														<input type="text" class="form-control full-width" id="problem2-detail">
-													</div>
-													<div class="checkbox">
-														<label for="problem3"><input type="checkbox" data-reveal="#wrong" name="problem" value="The information is wrong" id="problem3">The information is wrong</label>
-													</div>
-													<div class="form-group hide" id="wrong">
-														<label for="problem3-detail">Provide more details (optional):</label>
-														<input type="text" class="form-control full-width" id="problem3-detail">
-													</div>
-													<div class="checkbox">
-														<label for="problem4"><input type="checkbox" data-reveal="#outdated" name="problem" value="The information is outdated" id="problem4">The information is outdated</label>
-													</div>
-													<div class="form-group hide" id="outdated">
-														<label for="problem4-detail">Provide more details (optional):</label>
-														<input type="text" class="form-control full-width" id="problem4-detail">
-													</div>
-													<div class="checkbox">
-														<label for="problem5"><input type="checkbox" data-reveal="#find" name="problem" value="I can’t find what I’m looking for" id="problem5">I can’t find what I’m looking for</label>
-													</div>
-													<div class="form-group hide" id="find">
-														<label for="problem5-detail">Describe what you’re looking for (optional):</label>
-														<input type="text" class="form-control full-width" id="problem5-detail">
-													</div>
-													<div class="checkbox">
-														<label for="problem6"><input type="checkbox" data-reveal="#confusing" name="problem" value="Other" id="problem6">Other</label>
-													</div>
-													<div class="form-group hide" id="confusing">
-														<label for="problem6-detail">Provide more details (optional):</label>
-														<input type="text" class="form-control full-width" id="problem6-detail">
-													</div>
-												</fieldset>
-												<p><a class="wb-lbx" href="#privacy-statement">Privacy statement</a></p>
-												<section class="mfp-hide modal-dialog modal-content overlay-def" id="privacy-statement">
-													<header class="modal-header">
-														<h2 class="modal-title">Privacy statement</h2>
-													</header>
-													<div class="modal-body">
-														<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Turp is egestas maecenas pharetra convallis posuere morbi leo urna.</p>
-													</div>
-												</section>
-												<button type="submit" class="btn btn-primary wb-toggle" data-toggle="{&quot;stateOff&quot;: &quot;hide&quot;, &quot;stateOn&quot;: &quot;show&quot;, &quot;selector&quot;: &quot;.gc-rprt-prblm-tggl&quot;}">Submit</button>
-											</form>
-										</div>
-										<div class="gc-rprt-prblm-thnk gc-rprt-prblm-tggl hide">
-											<h3>Thank you for your help!</h3>
-											<p>You will not receive a reply. For enquiries, please <a href="https://www.canada.ca/en/contact.html">contact us</a>.</p>
-										</div>
+				<div class="row">
+					<div class="col-sm-6 col-md-5 col-lg-4">
+						<details class="brdr-0" closed>
+							<summary class="btn btn-default text-center">Report a problem on this page</summary>
+							<div class="well row">
+								<div class="gc-rprt-prblm">
+									<div class="gc-rprt-prblm-tggl">
+										<form id="gc-rprt-prblm-form" action="#" method="post">
+											<fieldset>
+												<legend><span class="field-name">Please select all that apply: </span></legend>
+												<div class="checkbox">
+													<label for="problem1"><input type="checkbox" data-reveal="#broken" name="problem" value="Something is broken" id="problem1">Something is broken</label>
+												</div>
+												<div class="form-group hide" id="broken">
+													<label for="problem1-detail">Provide more details (optional):</label>
+													<input type="text" class="form-control full-width" id="problem1-detail">
+												</div>
+												<div class="checkbox">
+													<label for="problem2"><input type="checkbox" data-reveal="#spelling" name="problem" value="It has spelling or grammar mistakes" id="problem2">It has spelling or grammar mistakes</label>
+												</div>
+												<div class="form-group hide" id="spelling">
+													<label for="problem2-detail">Provide more details (optional):</label>
+													<input type="text" class="form-control full-width" id="problem2-detail">
+												</div>
+												<div class="checkbox">
+													<label for="problem3"><input type="checkbox" data-reveal="#wrong" name="problem" value="The information is wrong" id="problem3">The information is wrong</label>
+												</div>
+												<div class="form-group hide" id="wrong">
+													<label for="problem3-detail">Provide more details (optional):</label>
+													<input type="text" class="form-control full-width" id="problem3-detail">
+												</div>
+												<div class="checkbox">
+													<label for="problem4"><input type="checkbox" data-reveal="#outdated" name="problem" value="The information is outdated" id="problem4">The information is outdated</label>
+												</div>
+												<div class="form-group hide" id="outdated">
+													<label for="problem4-detail">Provide more details (optional):</label>
+													<input type="text" class="form-control full-width" id="problem4-detail">
+												</div>
+												<div class="checkbox">
+													<label for="problem5"><input type="checkbox" data-reveal="#find" name="problem" value="I can’t find what I’m looking for" id="problem5">I can’t find what I’m looking for</label>
+												</div>
+												<div class="form-group hide" id="find">
+													<label for="problem5-detail">Describe what you’re looking for (optional):</label>
+													<input type="text" class="form-control full-width" id="problem5-detail">
+												</div>
+												<div class="checkbox">
+													<label for="problem6"><input type="checkbox" data-reveal="#confusing" name="problem" value="Other" id="problem6">Other</label>
+												</div>
+												<div class="form-group hide" id="confusing">
+													<label for="problem6-detail">Provide more details (optional):</label>
+													<input type="text" class="form-control full-width" id="problem6-detail">
+												</div>
+											</fieldset>
+											<p><a class="wb-lbx" href="#privacy-statement">Privacy statement</a></p>
+											<section class="mfp-hide modal-dialog modal-content overlay-def" id="privacy-statement">
+												<header class="modal-header">
+													<h2 class="modal-title">Privacy statement</h2>
+												</header>
+												<div class="modal-body">
+													<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Turp is egestas maecenas pharetra convallis posuere morbi leo urna.</p>
+												</div>
+											</section>
+											<button type="submit" class="btn btn-primary wb-toggle" data-toggle="{&quot;stateOff&quot;: &quot;hide&quot;, &quot;stateOn&quot;: &quot;show&quot;, &quot;selector&quot;: &quot;.gc-rprt-prblm-tggl&quot;}">Submit</button>
+										</form>
+									</div>
+									<div class="gc-rprt-prblm-thnk gc-rprt-prblm-tggl hide">
+										<h3>Thank you for your help!</h3>
+										<p>You will not receive a reply. For enquiries, please <a href="https://www.canada.ca/en/contact.html">contact us</a>.</p>
 									</div>
 								</div>
-							</details>
-						</div>
-						<!-- <div class="wb-share col-sm-4 col-md-3 col-sm-offset-2 col-md-offset-4 col-lg-offset-5 wb-init wb-share-inited" data-wb-share="{&quot;lnkClass&quot;: &quot;btn btn-default btn-block&quot;}" id="wb-auto-9"><section id="shr-pg0" class="shr-pg mfp-hide modal-dialog modal-content overlay-def"><header class="modal-header"><h2 class="modal-title">Share this page</h2></header><div class="modal-body"><ul class="list-unstyled colcount-xs-2"><li><a href="https://bitly.com/a/bitmarklet?u=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html" class="shr-lnk bitly btn btn-default" target="_blank">bitly</a></li><li><a href="http://www.blogger.com/blog_this.pyra?t=&amp;u=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html&amp;n=%5BTopic%20title%5D%20-%20Canada.ca" class="shr-lnk blogger btn btn-default" target="_blank">Blogger</a></li><li><a href="http://digg.com/submit?phase=2&amp;url=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html&amp;title=%5BTopic%20title%5D%20-%20Canada.ca" class="shr-lnk digg btn btn-default" target="_blank">Digg</a></li><li><a href="http://www.diigo.com/post?url=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html&amp;title=%5BTopic%20title%5D%20-%20Canada.ca" class="shr-lnk diigo btn btn-default" target="_blank">Diigo</a></li><li><a href="mailto:?to=&amp;subject=%5BTopic%20title%5D%20-%20Canada.ca&amp;body=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html%0A" class="shr-lnk email btn btn-default" target="_blank">Email</a></li><li><a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html&amp;t=%5BTopic%20title%5D%20-%20Canada.ca" class="shr-lnk facebook btn btn-default" target="_blank">Facebook</a></li><li><a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=&amp;su=%5BTopic%20title%5D%20-%20Canada.ca&amp;body=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html%0A" class="shr-lnk gmail btn btn-default" target="_blank">Gmail</a></li><li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html&amp;title=%5BTopic%20title%5D%20-%20Canada.ca&amp;ro=false&amp;summary=&amp;source=" class="shr-lnk linkedin btn btn-default" target="_blank">LinkedIn®</a></li><li><a href="http://www.myspace.com/Modules/PostTo/Pages/?u=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html&amp;t=%5BTopic%20title%5D%20-%20Canada.ca" class="shr-lnk myspace btn btn-default" target="_blank">MySpace</a></li><li><a href="http://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html&amp;media=&amp;description=%5BTopic%20title%5D%20-%20Canada.ca" class="shr-lnk pinterest btn btn-default" target="_blank">Pinterest</a></li><li><a href="http://reddit.com/submit?url=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html&amp;title=%5BTopic%20title%5D%20-%20Canada.ca" class="shr-lnk reddit btn btn-default" target="_blank">reddit</a></li><li><a href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html&amp;name=%5BTopic%20title%5D%20-%20Canada.ca&amp;description=" class="shr-lnk tumblr btn btn-default" target="_blank">tumblr</a></li><li><a href="https://twitter.com/intent/tweet?text=%5BTopic%20title%5D%20-%20Canada.ca&amp;url=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html" class="shr-lnk twitter btn btn-default" target="_blank">Twitter</a></li><li><a href="http://compose.mail.yahoo.com/?to=&amp;subject=%5BTopic%20title%5D%20-%20Canada.ca&amp;body=https%3A%2F%2Fwet-boew.github.io%2Fthemes-dist%2FGCWeb%2Ftopic-en.html%0A" class="shr-lnk yahoomail btn btn-default" target="_blank">Yahoo! Mail</a></li></ul><p class="col-sm-12 shr-dscl">No endorsement of any products or services is expressed or implied.</p><div class="clearfix"></div></div></section><a href="#shr-pg0" aria-controls="shr-pg0" class="shr-opn wb-lbx btn btn-default btn-block wb-lbx-inited wb-init" id="wb-auto-10"><span class="glyphicon glyphicon-share"></span>Share this page</a></div> -->
+							</div>
+						</details>
 					</div>
-					<!-- <dl id="wb-dtmd">
-						<dt>Date modified: </dt>
-						<dd><time property="dateModified">2000-01-01</time></dd>
-					</dl> -->
-				<!-- </div> -->
+				</div>
 			</div>
 			<details>
 				<summary>Code</summary>
 				<pre class="prettyprint"><code>&#x3C;div class=&#x22;row&#x22;&#x3E;
  &#x3C;div class=&#x22;col-sm-6 col-md-5 col-lg-4&#x22;&#x3E;
-  &#x3C;details class=&#x22;brdr-0&#x22; open=&#x22;&#x22;&#x3E;
+  &#x3C;details class=&#x22;brdr-0&#x22; closed&#x3E;
    &#x3C;summary class=&#x22;btn btn-default text-center&#x22;&#x3E;Report a problem on this page&#x3C;/summary&#x3E;
    &#x3C;div class=&#x22;well row&#x22;&#x3E;
     &#x3C;div class=&#x22;gc-rprt-prblm&#x22;&#x3E;
-     &#x3C;div class=&#x22;gc-rprt-prblm-tggl&#x22; id=&#x22;wb-auto-7&#x22;&#x3E;
-      &#x3C;form action=&#x22;#&#x22;&#x3E;
+     &#x3C;div class=&#x22;gc-rprt-prblm-tggl&#x22;&#x3E;
+      &#x3C;form id=&#x22;gc-rprt-prblm-form&#x22; action=&#x22;#&#x22; method=&#x22;post&#x22;&#x3E;
        &#x3C;fieldset&#x3E;
         &#x3C;legend&#x3E;&#x3C;span class=&#x22;field-name&#x22;&#x3E;Please select all that apply: &#x3C;/span&#x3E;&#x3C;/legend&#x3E;
         &#x3C;div class=&#x22;checkbox&#x22;&#x3E;
@@ -345,10 +338,19 @@
          &#x3C;input type=&#x22;text&#x22; class=&#x22;form-control full-width&#x22; id=&#x22;problem6-detail&#x22;&#x3E;
         &#x3C;/div&#x3E;
        &#x3C;/fieldset&#x3E;
-       &#x3C;button type=&#x22;submit&#x22; class=&#x22;btn btn-primary wb-toggle wb-init wb-toggle-inited&#x22; data-toggle=&#x22;{&#x26;quot;stateOff&#x26;quot;: &#x26;quot;hide&#x26;quot;, &#x26;quot;stateOn&#x26;quot;: &#x26;quot;show&#x26;quot;, &#x26;quot;selector&#x26;quot;: &#x26;quot;.gc-rprt-prblm-tggl&#x26;quot;}&#x22; aria-controls=&#x22;wb-auto-7 wb-auto-8&#x22;&#x3E;Submit&#x3C;/button&#x3E;
+       &#x3C;p&#x3E;&#x3C;a class=&#x22;wb-lbx&#x22; href=&#x22;#privacy-statement&#x22;&#x3E;Privacy statement&#x3C;/a&#x3E;&#x3C;/p&#x3E;
+       &#x3C;section class=&#x22;mfp-hide modal-dialog modal-content overlay-def&#x22; id=&#x22;privacy-statement&#x22;&#x3E;
+        &#x3C;header class=&#x22;modal-header&#x22;&#x3E;
+         &#x3C;h2 class=&#x22;modal-title&#x22;&#x3E;Privacy statement&#x3C;/h2&#x3E;
+        &#x3C;/header&#x3E;
+        &#x3C;div class=&#x22;modal-body&#x22;&#x3E;
+         &#x3C;p&#x3E;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Turp is egestas maecenas pharetra convallis posuere morbi leo urna.&#x3C;/p&#x3E;
+        &#x3C;/div&#x3E;
+       &#x3C;/section&#x3E;
+       &#x3C;button type=&#x22;submit&#x22; class=&#x22;btn btn-primary wb-toggle&#x22; data-toggle=&#x22;{&#x26;quot;stateOff&#x26;quot;: &#x26;quot;hide&#x26;quot;, &#x26;quot;stateOn&#x26;quot;: &#x26;quot;show&#x26;quot;, &#x26;quot;selector&#x26;quot;: &#x26;quot;.gc-rprt-prblm-tggl&#x26;quot;}&#x22;&#x3E;Submit&#x3C;/button&#x3E;
       &#x3C;/form&#x3E;
      &#x3C;/div&#x3E;
-     &#x3C;div class=&#x22;gc-rprt-prblm-thnk gc-rprt-prblm-tggl hide&#x22; id=&#x22;wb-auto-8&#x22;&#x3E;
+     &#x3C;div class=&#x22;gc-rprt-prblm-thnk gc-rprt-prblm-tggl hide&#x22;&#x3E;
       &#x3C;h3&#x3E;Thank you for your help!&#x3C;/h3&#x3E;
       &#x3C;p&#x3E;You will not receive a reply. For enquiries, please &#x3C;a href=&#x22;https://www.canada.ca/en/contact.html&#x22;&#x3E;contact us&#x3C;/a&#x3E;.&#x3C;/p&#x3E;
      &#x3C;/div&#x3E;
