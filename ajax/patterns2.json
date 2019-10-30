@@ -200,14 +200,14 @@
     "USE": "List of links that lead to subsections of the same page",
     "CAT": "Design pattern",
     "TYPE": "Navigation",
-    "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/components-en.html\">Component examples</a>",
+    "EXAMPLE": "<a href=\"https://design.canada.ca/coded-layout/generic-destination-toc.html\">Basic page with table of contents</a>",
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/institutional-byline.html\">Institutional byline</a>",
     "USE": "Use to link to the institution responsible for the content",
     "CAT": "Design pattern",
     "TYPE": "Institutional",
-    "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/content-en.html\">Content page</a>",
+    "EXAMPLE": "<a href=\"https://design.canada.ca/coded-layout/generic-destination-byline.html\">Basic page with institutional byline</a>",
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/institutional-profile-pages.html\">Institutional landing page</a>",
@@ -312,7 +312,7 @@
     "USE": "Set of links to a group of several pages intended to be read in a preferred order",
     "CAT": "Design pattern",
     "TYPE": "Navigation",
-    "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/advancedservice/index-en.html\">Service initiation</a>",
+    "EXAMPLE": "<a href=\"https://design.canada.ca/coded-layout/generic-destination-sit1.html\">Basic page with ordered multi-page navigation</a>",
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html\">Partnering and collaborative arrangement profile page</a>",
