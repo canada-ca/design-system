@@ -1,0 +1,54 @@
+.alpha-top {
+  /* border-bottom: 1px solid black !important; */
+  padding-top: 2px !important;
+  padding-bottom: 2px !important;
+  position: sticky;
+  top: 0;
+  background-color: #f2f2f2;
+  z-index: 100;
+}
+
+.alpha {
+  /* border-bottom: 1px solid black; */
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: white;
+  z-index: 100;
+}
+
+
+.alpha-pill {
+
+  background-color: black;
+  border: none;
+  color: white;
+  font-weight: 700;
+  padding: 8px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  border-radius: 0px;
+
+}
+
+.alpha-fill {
+  background-color: #f2f2f2;
+  padding: .6em 1em .6em .6em;
+}
+
+#alpha-bnr {
+ top: 0;
+ width: 100%;
+ left: 0;
+ display: inline-block;
+ position: fixed;
+ background-clip: border-box;
+ background-color: #fff;
+ border: 0;
+ border-radius: 0;
+ display: none;
+ -webkit-transform: translateZ(0);
+ transform: translateZ(0);
+ z-index: 1050
+}

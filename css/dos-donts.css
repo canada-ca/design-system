@@ -1,0 +1,45 @@
+/*guideline design */
+.guideline:before {
+	height: 34px;
+	content: "";
+	background-color: #fff;
+	width: 6px;
+	display: inline;
+	margin-top: -1px;
+	margin-left: -26px;
+	position: absolute;
+}
+.guideline-success, .guideline-info, .guideline-warning, .guideline-danger {
+	background: #fff !important;
+}
+.guideline {
+	border-width: 1px 1px 1px 4px !important;
+	margin-left: 12px;
+	padding-left: 20px;
+	border-width: 0px 0px 0px 6px!important
+}
+.guideline-success > :first-child::before, .guideline-info > :first-child::before, .guideline-warning > :first-child::before, .guideline-danger > :first-child::before {
+	font-size: 26px;
+	margin-left: -1.48em;
+	padding: 2px;
+	line-height: 1.1em;
+}
+.guideline > :first-child {
+	margin-left: 0em;
+}
+.guideline >:first-child::before {
+	margin-right: 0.4em
+}
+/*targets the first h2 or h3 of guidelines and matches the border color
+.guideline-info h2:first-child, .guideline-info h3:first-child, .guideline-info .h2:first-child, .guideline-info .h3:first-child {
+	color: #269abc
+}
+.guideline-success h2:first-child, .guideline-success h3:first-child, .guideline-success .h2:first-child, .guideline-success .h3:first-child {
+	color: #278400
+}
+.guideline-warning h2:first-child, .guideline-warning h3:first-child, .guideline-warning .h2:first-child, .guideline-warning .h3:first-child {
+	color: #f90
+}
+.guideline-danger h2:first-child, .guideline-danger h3:first-child, .guideline-danger .h2:first-child, .guideline-danger .h3:first-child {
+	color: #d3080c
+}

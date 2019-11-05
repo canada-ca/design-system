@@ -1,0 +1,17 @@
+h1 span.stacked {
+  display: flex;
+  flex-direction: column-reverse;
+  margin-left: -9999px;
+}
+h1 span.stacked span:nth-child(1), h1 span.stacked span:nth-child(2) {
+  margin-left: 9999px;
+}
+h1 span.stacked span:nth-child(2) {
+	font-size: 0.8em;
+	color: #666;
+	font-weight: 200;
+	margin-bottom: 0.175em;
+}
+h1 span.stacked span:nth-child(1) {
+	margin-top: -1.1em;
+}
