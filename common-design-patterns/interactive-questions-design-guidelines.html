@@ -16,6 +16,8 @@
 <link rel="stylesheet" href="../css/new-alerts.css">
 <link rel="stylesheet" href="../css/split-h1.css">
 <link rel="stylesheet" href="../css/checkbox-radio.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+
 <!--<![endif]-->
 <!--[if lt IE 9]>
 		<link href="./GCWeb/assets/favicon.ico" rel="shortcut icon" />
@@ -204,11 +206,12 @@
 	</section> -->
 
 	<section>
-		<h2 id="when">When to use</h2>
+		<h2 id="types">Types</h2>
 		<div class="row wb-eqht">
 			<div class="col-md-4">
 				<h3>1. Large checkboxes</h3>
 				<div class="pattern-demo eqht-trgt" style="padding: 10px; margin-bottom:10px; padding-top:35px;">
+					<a class="btn btn-default btn-xs pull-right"><i class="fas fa-external-link-alt"></i> Get code</a>
 					<legend class="h5 ">Question</legend>
 					<ul class="list-unstyled can-ca-form">
 						<li class="checkbox">
@@ -242,6 +245,7 @@
 				<h3>3. Expand-collapse</h3>
 				<div class="pattern-demo eqht-trgt" style="padding: 10px; margin-bottom:10px; padding-top:35px; padding-bottom:35px;">
 					<legend class="h5">Question</legend>
+					<div class="clearfix"></div>
 					<ul class="list-unstyled">
 						<li>
 							<details>
@@ -280,22 +284,41 @@
 			<li><strong>Large checkboxes</strong><br>Use large checkboxes when one or more selections can be made to answer a question.</li>
 			<li><strong>Radio buttons</strong><br>Use radio buttons when only a single item can be selected in a list.</li>
 			<li><strong>Expand-collapse</strong><br>Group expand-collapse items that answer a question with more details if there are fewer than 5 options each with a limited amount of content to reveal.</li>
-			<li><strong>Dropdown selection</strong><br>Use dropdowns if you have over 10 items, but still less than 20.</li>
-			<li><strong>Auto-complete text field</strong><br>Use text input if over 20 with auto-complete for very large selections if you need validation.</li>
+			<li><strong>Dropdown selection</strong><br>Use dropdowns only if you need to save space and can't use radio buttons. Do not use dropdowns if there are more than 15 items to choose from.</li>
+			<li><strong>Auto-complete text field</strong><br>Use text input with auto-complete for over 15 items for very large selections.</li>
 		</ol>
 	</section>
 
 	<section>
-		<h2 id="how">How to use</h2>
+		<h2 id="when">Usage</h2>
+		<p>When and how to use with examples - links to the code</p>
+
+		<section>
+			<h3 id="accessibility">Accessible use</h2>
+			<p>
+
+		</section>
+
+	</section>
+
+
+
+	<section>
+		<h2 id="research">Rationale and research</h2>
+
+
+	</section>
+
+
 
 		<!--example image-->
 		<!--type of usage: , avoid-->
 
 
-		<section style="margin-left: 12px;padding-left: 20px;border-width: 0px 0px 0px 6px!important;border-color: #278400;!important">
-			<h3>Your request for publicly available data from the list of charities has been successful</h3>
-			<p>The turnaround time to process your request may take up to four (4) weeks. We will contact you if we need more information.</p>
-		</section>
+		<div class="callout callout-red" style="margin-left: 12px;padding-left: 20px;border-width: 0px 0px 0px 6px!important;border-color: #278400;!important">
+			<p class="">DON'T</p>
+			<p>Avoid using a dropdown menu
+		</div>
 
 
 		<p>Whenever possible, offer a default selection that reflects - toggling states</p>
