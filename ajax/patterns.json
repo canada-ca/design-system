@@ -2,7 +2,7 @@
   "data": [{
     "NAME": "<a href=\"https://design.canada.ca/recommended-templates/laws-regulations-pages.html#act-profile\">Act profile page</a>",
     "USE": "Gives a 1 or 2 sentence description of the act, allows allows people to read the legislation, and relates an act to topics, institutions, ministers and other legislation.",
-    "CAT": "Page layout",
+    "CAT": "Template",
     "TYPE": "Destination",
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/act-en.html\">Act profile</a>",
     "MANDATORY": "No"
@@ -23,7 +23,7 @@
   }, {
     "NAME": "<a href=\"https://design.canada.ca/recommended-templates/campaign-pages.html\">Campaign page</a>",
     "USE": "Gives information to support a promotional campaign. Use to support institutional, theme or <abbr title=\"Government of Canada\">GC</abbr>-wide promotional campaigns that last for a set period of time. Don’t use for core content.",
-    "CAT": "Page layout",
+    "CAT": "Template",
     "TYPE": "Promotion",
     "EXAMPLE": "<a href=\"https://wet-boew.github.io/themes-dist/GCWeb/campaign-en.html\">Campaign</a>",
     "MANDATORY": "No"
@@ -58,8 +58,8 @@
   }, {
     "NAME": "<a href=\"https://design.canada.ca/recommended-templates/consultations-page.html\">Consultation profile page</a>",
     "USE": "Describes a consultation or engagement activity. Provides the status and outcome of the initiative, background material, data and information about planned or completed events.",
-    "CAT": "Page layout",
-    "CAT": "Page layout",
+    "CAT": "Template",
+    "CAT": "Template",
     "TYPE": "Destination",
     "EXAMPLE": "&nbsp;",
     "MANDATORY": "No"
@@ -73,7 +73,7 @@
   }, {
     "NAME": "<a href=\"https://design.canada.ca/recommended-templates/contact-us-pages.html\">Contact us page</a>",
     "USE": "Provides models for contact options on Canada.ca. Use to present contact information for a person, an office, an organization or an emergency.",
-    "CAT": "Page layout",
+    "CAT": "Template",
     "TYPE": "Institutional",
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/institution-contact-en.html\">Institutional contact page</a>",
     "MANDATORY": "No"
@@ -115,7 +115,7 @@
   }, {
     "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/department-agencies-page.html\">Departments and agencies page</a>",
     "USE": "Provides links to all federal government institutions",
-    "CAT": "Page layout",
+    "CAT": "Template",
     "TYPE": "Government-wide template",
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/dept-en.html\">Departments and agencies page</a>",
     "MANDATORY": "No"
@@ -136,14 +136,14 @@
   }, {
     "NAME": "<a href=\"https://design.canada.ca/recommended-templates/pages-index.html#faceted\">Faceted finder page</a>",
     "USE": "Use to present a list of 100+ related links that can be filtered using metadata and may require results to be split across multiple pages. Use when there is a need to allow people to build more complex queries against a large number of results. Shows the number of results using facets.",
-    "CAT": "Page layout",
+    "CAT": "Template",
     "TYPE": "Navigation",
     "EXAMPLE": "&nbsp;",
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/recommended-templates/pages-index.html#finder\">Finder page</a>",
     "USE": "Use to present a list of 100+ related links that can be filtered using metadata and may require results to be split across multiple pages. Use when there is a need to allow people to build simpler queries against large amount of results.",
-    "CAT": "Page layout",
+    "CAT": "Template",
     "TYPE": "Navigation",
     "EXAMPLE": "&nbsp;",
     "MANDATORY": "No"
@@ -157,21 +157,21 @@
   }, {
     "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/audience-pages.html\">Government-wide audience page</a>",
     "USE": "Gives access to information and services relevant to a government-wide audience - <strong>Mandatory template</strong>",
-    "CAT": "Page layout",
+    "CAT": "Template",
     "TYPE": "Theme template",
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/gc-audience-en.html\">GC-wide audience page</a>",
     "MANDATORY": "Mandatory"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/recommended-templates/guidance-legislation-pages.html\">Guidance on legislation profile page</a>",
     "USE": "Gives access to guidance on legislation. Gives access to details and related materials.",
-    "CAT": "Page layout",
+    "CAT": "Template",
     "TYPE": "Destination",
     "EXAMPLE": "&nbsp;",
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/home-page.html\">Home page</a>",
     "USE": "Shows the Government of Canada’s most visited and important products and services",
-    "CAT": "Page layout",
+    "CAT": "Template",
     "TYPE": "Government-wide template",
     "EXAMPLE": "<a href=\"https://www.canada.ca/en.html\">Home page on live site</a>",
     "MANDATORY": "No"
@@ -206,14 +206,14 @@
   }, {
     "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/institutional-profile-pages.html\">Institutional profile page</a>",
     "USE": "Gives an overview of an institution’s, mandate, programs and information and services - <strong>Mandatory template</strong>",
-    "CAT": "Page layout",
+    "CAT": "Template",
     "TYPE": "Institutional",
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/institution-en.html\">Institutional profile page</a>",
     "MANDATORY": "Mandatory"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/recommended-templates/institutional-service-performance-reporting-pages.html\">Institutional service performance reporting page</a>",
     "USE": "Use to present all service standards from an institution, as per the requirements in the Policy on Service",
-    "CAT": "Page layout",
+    "CAT": "Template",
     "TYPE": "Institutional",
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/institutional-service-performance-en.html\">Institutional service performance reporting page</a>",
     "MANDATORY": "No"
@@ -248,14 +248,14 @@
   }, {
     "NAME": "<a href=\"https://design.canada.ca/recommended-templates/pages-index.html#long\">Long index page</a>",
     "USE": "Use to present a list of 50+ related links without descriptions",
-    "CAT": "Page layout",
+    "CAT": "Template",
     "TYPE": "Navigation",
     "EXAMPLE": "&nbsp;",
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/ministerial-profile-pages.html\">Ministerial profile page</a>",
     "USE": "Gives an overview of the biography and links to the minister’s recent activities and announcements, and social media channels  - <strong>Mandatory template</strong>",
-    "CAT": "Page layout",
+    "CAT": "Template",
     "TYPE": "Institutional",
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/ministerial-en.html\">Ministerial profile page</a>",
     "MANDATORY": "Mandatory"
@@ -283,21 +283,21 @@
   }, {
     "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/news-pages.html#landing\">News landing page</a>",
     "USE": "Gives access to Government of Canada’s news products",
-    "CAT": "Page layout",
+    "CAT": "Template",
     "TYPE": "Government-wide template",
     "EXAMPLE": "&nbsp;",
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/news-pages.html#product\">News product page</a>",
     "USE": "Allows people to read a news product - <strong>Mandatory template</strong>",
-    "CAT": "Page layout",
+    "CAT": "Template",
     "TYPE": "Institutional",
     "EXAMPLE": "&nbsp;",
     "MANDATORY": "Mandatory"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/news-pages.html#results\">News results page</a>",
     "USE": "Enables people to efficiently find a specific news product by quickly filtering results based on keywords and pre-set metadata fields",
-    "CAT": "Page layout",
+    "CAT": "Template",
     "TYPE": "Government-wide template",
     "EXAMPLE": "&nbsp;",
     "MANDATORY": "No"
@@ -311,28 +311,28 @@
   }, {
     "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/organizational-profile-pages.html\">Organizational profile page</a>",
     "USE": "Gives an overview of the mandate, programs, information and services of an organization associated with a government institution - <strong>Mandatory template</strong>",
-    "CAT": "Page layout",
+    "CAT": "Template",
     "TYPE": "Institutional",
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/organizational-en.html\">Organization profile page</a>",
     "MANDATORY": "Mandatory"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html\">Partnering and collaborative arrangement profile page</a>",
     "USE": "Gives an overview of the mandate and information and services of partnering or&nbsp;collaborative arrangement agreements",
-    "CAT": "Page layout",
+    "CAT": "Template",
     "TYPE": "Institutional",
     "EXAMPLE": "&nbsp;",
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/recommended-templates/program-description-pages.html\">Program description page</a>",
     "USE": "Offers details about a program. Gives access to services related to the program. Use to give background information about a program. Don’t use to start a task.",
-    "CAT": "Page layout",
+    "CAT": "Template",
     "TYPE": "Institutional",
     "EXAMPLE": "&nbsp;",
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/recommended-templates/promotional-events-pages.html\">Promotional events page</a>",
     "USE": "Describes an official government event that occurs in a promotional context. Gives information such as date, time, location and target audience.",
-    "CAT": "Page layout",
+    "CAT": "Template",
     "TYPE": "Promotion",
     "EXAMPLE": "<a href=\"https://wet-boew.github.io/themes-dist/GCWeb/event-en.html\">Promotional event</a>",
     "MANDATORY": "No"
@@ -353,7 +353,7 @@
   }, {
     "NAME": "<a href=\"https://design.canada.ca/recommended-templates/laws-regulations-pages.html#regulation-profile\">Regulation profile page</a>",
     "USE": "Gives a 1 or 2 sentence description of the regulation, allows people to read the regulation, and relates a regulation to topics, institutions, ministers and other legislation.",
-    "CAT": "Page layout",
+    "CAT": "Template",
     "TYPE": "Destination",
     "EXAMPLE": "<a href=\"https://wet-boew.github.io/themes-dist/GCWeb/regulations-en.html\">Regulation profile</a>",
     "MANDATORY": "No"
@@ -381,14 +381,14 @@
   }, {
     "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/search-page.html\">Search page</a>",
     "USE": "Provides the template for the search engine on Canada.ca",
-    "CAT": "Page layout",
+    "CAT": "Template",
     "TYPE": "Government-wide template",
     "EXAMPLE": "&nbsp;",
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/recommended-templates/service-initiation-pages.html\">Service initiation page</a>",
     "USE": "Gives people the information they need before starting the task, such as explaining eligibility criteria or steps to follow. Gives people easy access to service standards, turnaround times, related services, guides and help.",
-    "CAT": "Page layout",
+    "CAT": "Template",
     "TYPE": "Destination",
     "EXAMPLE": "&nbsp;",
     "MANDATORY": "No"
@@ -402,7 +402,7 @@
   }, {
     "NAME": "<a href=\"https://design.canada.ca/recommended-templates/pages-index.html#short\">Short index page</a>",
     "USE": "Use to present a list of 10 to 50 related links without text descriptions",
-    "CAT": "Page layout",
+    "CAT": "Template",
     "TYPE": "Navigation",
     "EXAMPLE": "&nbsp;",
     "MANDATORY": "No"
@@ -444,14 +444,14 @@
   }, {
     "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/theme-pages.html\">Theme page</a>",
     "USE": "Organizes topics that makes sense to people so they can access government-wide information and services - <strong>Mandatory template</strong>",
-    "CAT": "Page layout",
+    "CAT": "Template",
     "TYPE": "Theme template",
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/theme-en.html\">Theme</a>",
     "MANDATORY": "Mandatory"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/topic-pages.html\">Topic page</a>",
     "USE": "Allows people to discover services and information related to a specific topic across government - <strong>Mandatory template</strong>",
-    "CAT": "Page layout",
+    "CAT": "Template",
     "TYPE": "Theme template",
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/topic-en.html\">Topic</a>",
     "MANDATORY": "Mandatory"
