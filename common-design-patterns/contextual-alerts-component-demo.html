@@ -210,19 +210,19 @@
 						<p>Alert description.</p>
 					</section>
 				</div>
-				<div id="warning-demo" class="component-demo hidden">
+				<div id="warning-demo" class="component-demo ">
 					<section class="alert alert-warning">
 						<h3>Alert heading</h3>
 						<p>Alert description.</p>
 					</section>
 				</div>
-				<div id="info-demo" class="component-demo hidden">
+				<div id="info-demo" class="component-demo ">
 					<section class="alert alert-info">
 						<h3>Alert heading</h3>
 						<p>Alert description.</p>
 					</section>
 				</div>
-				<div id="success-demo" class="component-demo hidden">
+				<div id="success-demo" class="component-demo ">
 					<section class="alert alert-success">
 						<h3>Alert heading</h3>
 						<p>Alert description.</p>
@@ -492,58 +492,83 @@
 	</div>
 
 	<section>
-		<h2 id="how">Usage</h2>
-		<p>Design guidelines for when and how to use:</p>
-
-		<section>
-			<h3>Customisation</h3>
-			<table class="table">
-			<thead>
-				<tr>
-					<th>Option</th>
-					<th>Description</th>
-					<th>How to configure</th>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td>Disabled state</td>
-					<td>Disabled inputs will not be clickable. Visual indications include greying out the control and adding a 'stop' cursor icon on hover.</td>
-					<td>To toggle a disabled state:
-						<ul>
-							<li>Add the class <code>is-disabled</code> to the list item of the checkbox or radio item</li>
-							<li>Add a <code>disabled</code> attribute to the input field</li>
-						</ul>
-					</td>
-				</tr>
-				<tr>
-					<td>Inline state</td>
-					<td>Inline radio buttons or checkboxes will display side by side on larger screens and wrap to new lines, rather than vertically.</td>
-					<td>Add the <code>form-label-inline</code> class to each checkbox or radio button label.</td>
-				</tr>
-				<tr>
-					<td>Success checkboxes (green)</td>
-					<td>Success checkboxes use a green background within the checkbox when it is selected to support user confidence that they are ready or successful. Recommended application is for checklists.</td>
-					<td>Add the <code>checkbox-green</code> class to each checkbox list item.</td>
-				</tr>
-			</tbody>
-		</table>
+		<h2 id="how">Customisation</h2>
+		<p>There are no available customisations for the alert component.</p>
 	</section>
 
 	<setion>
 		<h2 id="specs">Design specifications</h2>
-
-		<p>Built in accessibility parameters</p>
+		<div class="row">
+			<div class="col-md-6">
+				<div class="pattern-demo" style="margin-bottom:20px;">
+					<img class="img-responsive" src="../images/alert-spec-en.png" alt="Alert banner with numbering 1 on the icon in the border, 2 on the border, 3 on the heading, and 4 on the description.">
+				</div>
+			</div>
+			<div class="col-md-6">
+				<ul class="list-unstyled">
+					<li>
+						<details>
+							<summary>1. Icon</summary>
+							<p>Each alert type uses the following icons:</p>
+							<ul>
+								<li><strong>Danger alerts</strong> use an exclamation point icon in a circular border<code>\e101</code></li>
+								<li><strong>Warning alerts</strong> use an exclamation point icon in a triangular border <code>\e107</code></li>
+								<li><strong>Info alerts</strong> use an information icon <code>\e086</code></li>
+								<li><strong>Success alerts</strong> use a checkmark icon <code>\e084</code></li>
+							</ul>
+						</details>
+					</li>
+					<li>
+						<details>
+							<summary>2. Border highlight</summary>
+							<p>Alerts have border highlights with a thickness of <code>6px</code> using the following colours:</p>
+							<ul>
+								<li><strong>Danger alerts</strong> use red <code>#d3080c</code></li>
+								<li><strong>Warning alerts</strong> use red <code>#f90</code></li>
+								<li><strong>Info alerts</strong> use red <code>#269abc</code></li>
+								<li><strong>Success alerts</strong> use red <code>#278400</code></li>
+							</ul>
+						</details>
+					</li>
+					<li>
+						<details>
+							<summary>3. Heading</summary>
+							<p>Alert heading text colour matches the border highlight colour</p>
+						</details>
+					</li>
+					<li>
+						<details>
+							<summary>4. Description</summary>
+							<p>Content area of an alert should inherit fonts and styles of the page</p>
+						</details>
+					</li>
+				</ul>
+			</div>
+		</div>
 
 		<section>
 			<h3 id="states">States</h3>
-
+			<p>There are no additional states for the alert component.</p>
 		</section>
 
 		<section>
 			<h3 id="accessibility">Accessibility features</h3>
+			<p>How the alerts are seen with various forms of colour blindness:</p>
+			<div class="wb-tabs">
+				<div class="tabpanels">
+					<details id="colour-blindness-details-panel1">
+						<summary>Deutanopia</summary>
+						<img class="img-responsive" src="../images/alert-deutanopia.png" alt="Shows the 4 types of alerts under a colour filter.">
+					</details>
+					<details id="colour-blindness-details-panel2">
+						<summary>Tritanopia</summary>
+						<img class="img-responsive" src="../images/tritanopia.png" alt="Shows the 4 types of alerts under a colour filter.">
+					</details>
+				</div>
+			</div>
 
-			<p>More: <a href="contextual-alerts-design-guidelines">accessibile use</a></p>
+
+			<p>More: <a href="contextual-alerts-design-guidelines">accessible use</a></p>
 		</section>
 
 	</section>
