@@ -157,7 +157,7 @@
 
 	<section>
 		<p><span class="label label-danger">Mandatory on all pages</span></p>
-		<p>The report a problem component allows people to provide feedback via a form for any problems they experience with a web page. This component is intended to collect and address any issues for the page on which it resides.</p>
+		<p>The Report a problem pattern allows people to provide feedback via a form for any problems they experience with the web page they are on.</p>
 		<p>Use this component to enable page-level feedback. Common issues are presented for a person to select using checkboxes. If none of these options are applicable, they may select “Other”.</p>
 		<!-- <figure>
 				<img src="../images/report-en.png" alt="Screenshot of a webpage: button labeled 'Report a problem on this page' appears on the left. 'Share this page' appears on the right, and 'Date modified: 2017-12-05' appears below.">
@@ -176,12 +176,12 @@
 
     <section>
       <h2 id="when">When to use</h2>
-			<p>The Report a Problem pattern is mandatory on all pages. For more information, go to the <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html#header-footer">Mandatory elements of the design system</a>.</p>
+			<p>The Report a problem pattern is mandatory on all pages. For more information, go to the <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html#header-footer">Mandatory elements of the design system</a>.</p>
     </section>
 
 		<section>
 			<h2 id="avoid">What to avoid</h2>
-			<p>Ensure that the feedback you receive is actionable. If you can, do not implement a form where users cannot give details on the issues they are experiencing.</p>
+			<p>Ensure that the feedback you receive is actionable. If you can, avoid implementing a form where people cannot give details on the issues they are experiencing.</p>
 		</section>
 
     <section>
@@ -189,9 +189,9 @@
 
 			<section class="alert alert-warning">
 				<h3>Using CDTS to implement the Canada.ca theme</h3>
-		    <p>Do not implement Report a Problem through CDTS. To turn off the page footer in CDTS:</p>
+		    <p>Do not implement Report a problem through CDTS. To turn off the page footer in CDTS:</p>
 				<ul>
-					<li>use the CDTS version for GCWeb applications, even if it is for your static HTML pages</li>
+					<li>use the CDTS version for GCWeb applications, instead of the one for static HTML pages</li>
 					<li>remove the reference for the 'prefooter'</li>
 				</ul>
 				<p>You should then set up the report a problem form in its place.</p>
@@ -199,13 +199,13 @@
 
 			<p>The button, label, placement and privacy statement are mandatory:</p>
 			<ul>
-				<li>the component is presented as a button using the <a href="./buttons.html">button component for secondary actions</a>, which triggers a feedback form to expand when clicked</li>
+				<li>the component is presented as a button using the <a href="./buttons.html">button component styled for secondary actions</a>, which triggers a feedback form to expand when clicked</li>
 				<li>the label reads: “Report a problem on this page”</li>
 				<li>placement: positioned directly below the main content area, left-aligned</li>
 				<li>privacy statement: positioned within a dismissible overlay.</li>
 			</ul>
 			<p>The pattern for the contents of the feedback form is recommended. If meaningful data is not being received, a mailto link can be used as an alternative.</p>
-			<p><b>Sending the form:</b> Make sure to replace the "#" placeholder in the form action line with wherever your institution can collect the data from the form. Consider sending the form to a generic email inbox if you don't have a server set up to handle this type of form.</p>
+			<p><b>Sending the form:</b> Make sure to replace the "#" placeholder in the form action line with whatever your institution uses to collect the data from the form. Consider sending the form to a generic email inbox if you don't have a server set up to handle this type of form.</p>
 
 			<div class="pattern-demo">
 				<!-- <div class="pagedetails"> -->
