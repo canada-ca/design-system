@@ -176,21 +176,31 @@
 	<p class="gc-byline"><strong>From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
 
 	<section>
-		<p>Alerts are notice boxes for important new information that needs to appear in a pre-existing context.</p>
-		<p>Users' attention often needs to be brought to specific content that makes them aware of a result of a user action, a clarification or exception to surrounding content or to warn the user of a consequence of an action or inaction in their task.</p>
+		<p>Alerts are noticew for important new information that needs to appear in a pre-existing context.</p>
+		<p>It's often necessary to draw a person's attention to specific content related to a result of their action, a clarification or exception to surrounding content or to warn them of a consequence of an action or inaction in their task.</p>
 
 		<!-- <img class="pattern-demo" src="zika-warning.png" alt="Sample warning shows a do not travel advisory for Costa Rica for those who could be affected by Zika"> -->
 		<section>
 			<h2>On this page</h2>
 			<ul>
-				<li><a href="#cautions">What to avoid</a></li>
-				<li><a href="#how">When and how to use</a></li>
+				<li><a href="#when">When to use</a></li>
+				<li><a href="#avoid">What to avoid</a></li>
+				<li><a href="#how">How to implement</a></li>
 				<li><a href="#discuss">Discussion</a></li>
 			</ul>
 		</section>
 
 		<section>
-			<h2 id="cautions">What to avoid</h2>
+			<h2 id="when">When to use</h2>
+			<p>Use contextual alerts to:</p>
+			<ul>
+				<li>bring a person’s attention to an important change at the page or subsection level like service or site outage, recent changes to a process or service</li>
+				<li>provide the result of a user action, for example, confirm success, or notify a person of an error</li>
+				<li>warn a person of a consequence of an action or inaction related to their task</li>
+			</ul>
+		</section>
+		<section>
+			<h2 id="avoid">What to avoid</h2>
 			<p>Do not use contextual alerts:</p>
 			<ul>
 				<li>to provide information about a normal step in a process or task</li>
@@ -206,7 +216,7 @@
 		</section>
 
 		<section>
-			<h2 id="how">When and how to use</h2>
+			<h2 id="how">How to implement</h2>
 			<p>Alerts should be written for a grade 6-8 reading level.</p>
 			<p>Place the alert in the appropriate context:</p>
 			<dl class="dl-horizontal">
@@ -217,14 +227,17 @@
 				<dt>Applies to a subsection of the page</dt>
 				<dd>Place it within that subsection, generally underneath the subsection heading or between 2 paragraphs</dd>
 			</dl>
+			<p>You can either use the <strong>beta</strong> or <strong>stable</strong> of version of this component.</p>
 
+			<h3>Beta contextua alerts</h3>
+			<p>The beta version is an improvement over the stable version. It may still be subject to minor changes.</p>
+			<p>The beta version will eventually replace the stable version.</p>
+			<p>You will need to apply custom CSS to use this beta version.</p>
 			<details>
-				<p>You can either use the <strong>beta</strong> or <strong>stable</strong> of version of this component. The beta version will eventually replace the stable one.</p>
 				<summary>Use the <strong>beta</strong> contextual alerts component</summary>
-				<p><strong>Note:</strong> You will need to use custom CSS to implement these beta patterns.</p>
 				<section>
 					<h3>Danger alert</h3>
-					<p><strong>When to use:</strong> Use the danger alert to draw attention to a situation that could place the user in danger, such as a do not travel warning. You can also use it to alert the user of a technical issue that could cause them to be unable to complete their task, such as an invalid submission of data in a form.</p>
+					<p><strong>When to use:</strong> Use the danger alert to draw attention to a situation that could place someone in danger, such as a do not travel warning. You can also use it to alert a person of a technical issue that could cause them to be unable to complete their task, such as an invalid submission of data in a form.</p>
 					<div class="pattern-demo">
 						<section class="alert alert-danger">
 							<h3>If pregnant or considering pregnancy - both partners</h3>
@@ -459,14 +472,15 @@
 				</section>
 
 			</details>
-
+			<h3>Stable contextual alerts</h3>
+			<p>The beta version will eventually replace this stable version.</p>
 			<details>
 				<summary>Use the <strong>stable</strong> contextual alerts component</summary>
 				<section>
-					<h2>Working example</h2>
-						<ul>
-							<li><a href="http://wet-boew.github.io/wet-boew-styleguide/design/alerts-en.html">WET: Alerts</a></li>
-						</ul>
+
+
+							<p>See the working example with code: <a href="http://wet-boew.github.io/wet-boew-styleguide/design/alerts-en.html">WET: Alerts</a></p>
+
 					</section>
 
 					<section class="panel panel-primary">
