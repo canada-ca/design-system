@@ -204,25 +204,25 @@
 	<div class="row">
 		<div class="col-md-9 col-xs-12 mrgn-tp-lg pull-right">
 			<div class="pattern-demo" style="padding-top:35px;">
-				<div class="">
+				<div id="danger-demo" class="component-demo">
 					<section class="alert alert-danger">
 						<h3>Alert heading</h3>
 						<p>Alert description.</p>
 					</section>
 				</div>
-				<div class="hidden">
+				<div id="warning-demo" class="component-demo hidden">
 					<section class="alert alert-warning">
 						<h3>Alert heading</h3>
 						<p>Alert description.</p>
 					</section>
 				</div>
-				<div class="hidden">
+				<div id="info-demo" class="component-demo hidden">
 					<section class="alert alert-info">
 						<h3>Alert heading</h3>
 						<p>Alert description.</p>
 					</section>
 				</div>
-				<div class="hidden">
+				<div id="success-demo" class="component-demo hidden">
 					<section class="alert alert-success">
 						<h3>Alert heading</h3>
 						<p>Alert description.</p>
@@ -233,29 +233,31 @@
 		<div class="col-md-3 pull-left">
 			<div class="mrgn-bttm-sm">
 				<legend class="h5 ">Design variant</legend>
-				<select class="form-control">
-					<option >Danger</option>
-					<option>Warning</option>
-					<option>Info</option>
-					<option>Success</option>
+				<select id="design-variant-menu" class="form-control">
+					<option value="danger">Danger</option>
+					<option value="warning">Warning</option>
+					<option value="info">Info</option>
+					<option value="success">Success</option>
 				</select>
 			</div>
 		</div>
 	</div>
 	<div class="row">
 		<div class="col-md-9 col-xs-12 mrgn-tp-lg pull-right">
-			<div class="wb-tabs">
-				<div class="tabpanels">
-					<details id="details-panel1">
-						<summary>HTML</summary>
-						<pre><code>&#x3C;section class=&#x22;alert alert-danger&#x22;&#x3E;
+			<div id="danger-code" class="component-code">
+				<div class="code-variant beta-variant">
+					<div class="wb-tabs">
+						<div class="tabpanels">
+							<details id="details-panel1">
+								<summary>HTML</summary>
+								<pre><code>&#x3C;section class=&#x22;alert alert-danger&#x22;&#x3E;
 &#x3C;h3&#x3E;Alert heading&#x3C;/h3&#x3E;
 &#x3C;p&#x3E;Alert description.&#x3C;/p&#x3E;
 &#x3C;/section&#x3E;</code></pre>
-					</details>
-					<details id="details-panel2">
-						<summary>CSS</summary>
-						<pre><code>.alert:before {
+							</details>
+							<details id="details-panel2">
+								<summary>CSS</summary>
+								<pre><code>.alert:before {
 &#x9;height: 34px;
 &#x9;content: &#x22;&#x22;;
 &#x9;background-color: #fff;
@@ -286,18 +288,204 @@
 .alert &#x3E;:first-child::before {
 &#x9;margin-right: 0.4em
 }</code></pre>
-					</details>
+							</details>
+						</div>
+					</div>
+				</div>
+				<div class="code-variant core-variant hidden">
+					<pre><code>danger code for WET core</code></pre>
+				</div>
+				<div class="code-variant react-variant hidden">
+					<pre><code>danger code for react</code></pre>
+				</div>
+				<div class="code-variant angular-variant hidden">
+					<pre><code>danger code for angular</code></pre>
+				</div>
+			</div>
+			<div id="warning-code" class="component-code hidden">
+				<div class="code-variant beta-variant">
+					<div class="wb-tabs">
+						<div class="tabpanels">
+							<details id="details-panel1">
+								<summary>HTML</summary>
+								<pre><code>&#x3C;section class=&#x22;alert alert-warning&#x22;&#x3E;
+&#x3C;h3&#x3E;Alert heading&#x3C;/h3&#x3E;
+&#x3C;p&#x3E;Alert description.&#x3C;/p&#x3E;
+&#x3C;/section&#x3E;</code></pre>
+							</details>
+							<details id="details-panel2">
+								<summary>CSS</summary>
+								<pre><code>.alert:before {
+&#x9;height: 34px;
+&#x9;content: &#x22;&#x22;;
+&#x9;background-color: #fff;
+&#x9;width: 6px;
+&#x9;display: inline;
+&#x9;margin-top: -1px;
+&#x9;margin-left: -26px;
+&#x9;position: absolute;
+}
+.alert-success, .alert-info, .alert-warning, .alert-danger {
+&#x9;background: #fff !important;
+}
+.alert {
+&#x9;border-width: 1px 1px 1px 4px !important;
+&#x9;margin-left: 12px;
+&#x9;padding-left: 20px;
+&#x9;border-width: 0px 0px 0px 6px!important
+}
+.alert-success &#x3E; :first-child::before, .alert-info &#x3E; :first-child::before, .alert-warning &#x3E; :first-child::before, .alert-danger &#x3E; :first-child::before {
+&#x9;font-size: 26px;
+&#x9;margin-left: -1.48em;
+&#x9;padding: 2px;
+&#x9;line-height: 1.1em;
+}
+.alert &#x3E; :first-child {
+&#x9;margin-left: 0em;
+}
+.alert &#x3E;:first-child::before {
+&#x9;margin-right: 0.4em
+}</code></pre>
+							</details>
+						</div>
+					</div>
+				</div>
+				<div class="code-variant core-variant hidden">
+					<pre><code>warning code for WET core</code></pre>
+				</div>
+				<div class="code-variant react-variant hidden">
+					<pre><code>warning code for react</code></pre>
+				</div>
+				<div class="code-variant angular-variant hidden">
+					<pre><code>warning code for angular</code></pre>
+				</div>
+			</div>
+			<div id="info-code" class="component-code hidden">
+				<div class="code-variant beta-variant">
+					<div class="wb-tabs">
+						<div class="tabpanels">
+							<details id="details-panel1">
+								<summary>HTML</summary>
+								<pre><code>&#x3C;section class=&#x22;alert alert-info&#x22;&#x3E;
+&#x3C;h3&#x3E;Alert heading&#x3C;/h3&#x3E;
+&#x3C;p&#x3E;Alert description.&#x3C;/p&#x3E;
+&#x3C;/section&#x3E;</code></pre>
+							</details>
+							<details id="details-panel2">
+								<summary>CSS</summary>
+								<pre><code>.alert:before {
+&#x9;height: 34px;
+&#x9;content: &#x22;&#x22;;
+&#x9;background-color: #fff;
+&#x9;width: 6px;
+&#x9;display: inline;
+&#x9;margin-top: -1px;
+&#x9;margin-left: -26px;
+&#x9;position: absolute;
+}
+.alert-success, .alert-info, .alert-warning, .alert-danger {
+&#x9;background: #fff !important;
+}
+.alert {
+&#x9;border-width: 1px 1px 1px 4px !important;
+&#x9;margin-left: 12px;
+&#x9;padding-left: 20px;
+&#x9;border-width: 0px 0px 0px 6px!important
+}
+.alert-success &#x3E; :first-child::before, .alert-info &#x3E; :first-child::before, .alert-warning &#x3E; :first-child::before, .alert-danger &#x3E; :first-child::before {
+&#x9;font-size: 26px;
+&#x9;margin-left: -1.48em;
+&#x9;padding: 2px;
+&#x9;line-height: 1.1em;
+}
+.alert &#x3E; :first-child {
+&#x9;margin-left: 0em;
+}
+.alert &#x3E;:first-child::before {
+&#x9;margin-right: 0.4em
+}</code></pre>
+							</details>
+						</div>
+					</div>
+				</div>
+				<div class="code-variant core-variant hidden">
+					<pre><code>info code for WET core</code></pre>
+				</div>
+				<div class="code-variant react-variant hidden">
+					<pre><code>info code for react</code></pre>
+				</div>
+				<div class="code-variant angular-variant hidden">
+					<pre><code>info code for angular</code></pre>
+				</div>
+			</div>
+			<div id="success-code" class="component-code hidden">
+				<div class="code-variant beta-variant">
+					<div class="wb-tabs">
+						<div class="tabpanels">
+							<details id="details-panel1">
+								<summary>HTML</summary>
+								<pre><code>&#x3C;section class=&#x22;alert alert-success&#x22;&#x3E;
+&#x3C;h3&#x3E;Alert heading&#x3C;/h3&#x3E;
+&#x3C;p&#x3E;Alert description.&#x3C;/p&#x3E;
+&#x3C;/section&#x3E;</code></pre>
+							</details>
+							<details id="details-panel2">
+								<summary>CSS</summary>
+								<pre><code>.alert:before {
+&#x9;height: 34px;
+&#x9;content: &#x22;&#x22;;
+&#x9;background-color: #fff;
+&#x9;width: 6px;
+&#x9;display: inline;
+&#x9;margin-top: -1px;
+&#x9;margin-left: -26px;
+&#x9;position: absolute;
+}
+.alert-success, .alert-info, .alert-warning, .alert-danger {
+&#x9;background: #fff !important;
+}
+.alert {
+&#x9;border-width: 1px 1px 1px 4px !important;
+&#x9;margin-left: 12px;
+&#x9;padding-left: 20px;
+&#x9;border-width: 0px 0px 0px 6px!important
+}
+.alert-success &#x3E; :first-child::before, .alert-info &#x3E; :first-child::before, .alert-warning &#x3E; :first-child::before, .alert-danger &#x3E; :first-child::before {
+&#x9;font-size: 26px;
+&#x9;margin-left: -1.48em;
+&#x9;padding: 2px;
+&#x9;line-height: 1.1em;
+}
+.alert &#x3E; :first-child {
+&#x9;margin-left: 0em;
+}
+.alert &#x3E;:first-child::before {
+&#x9;margin-right: 0.4em
+}</code></pre>
+							</details>
+						</div>
+					</div>
+				</div>
+				<div class="code-variant core-variant hidden">
+					<pre><code>success code for WET core</code></pre>
+				</div>
+				<div class="code-variant react-variant hidden">
+					<pre><code>success code for react</code></pre>
+				</div>
+				<div class="code-variant angular-variant hidden">
+					<pre><code>success code for angular</code></pre>
 				</div>
 			</div>
 		</div>
+
 		<div class="col-md-3 pull-left">
 			<div class="mrgn-bttm-sm">
 				<legend class="h5 ">Code variant</legend>
-				<select class="form-control">
-					<option>Beta override</option>
-					<option>WET core</option>
-					<option>ReactJS</option>
-					<option>Angular</option>
+				<select id="code-variant-menu" class="form-control">
+					<option value="beta">Beta override</option>
+					<option value="core">WET core</option>
+					<option value="react">ReactJS</option>
+					<option value="angular">Angular</option>
 				</select>
 			</div>
 		</div>
@@ -458,7 +646,20 @@
 			<![endif]-->
 	<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>
 	<script>
-	document.getElementById('submissionPage').value = location.href;
-</script>
+		// document.getElementById('submissionPage').value = location.href;
+		$(document).ready(function(){
+			//hide all component demos, show the selected one
+			$("#design-variant-menu").change(function(){
+				$('.component-demo').addClass("hidden");
+				$('.component-code').addClass("hidden");
+				$('#'+this.value+'-demo').removeClass("hidden");
+				$('#'+this.value+'-code').removeClass("hidden");
+			});
+			$("#code-variant-menu").change(function(){
+				$('.code-variant').addClass("hidden");
+				$('.'+this.value+'-variant').removeClass("hidden");
+			});
+		});
+	</script>
 </body>
 	</html>
