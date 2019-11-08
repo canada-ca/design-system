@@ -177,19 +177,15 @@
 	<!-- <nav class="section-menu mobile">
     <h2 class="menu-title">Contextual alerts</h2>
 		<ul class="list-unstyled list-inline">
-			<li><a class="btn btn-default" href="./contextual-alerts-design-guidelines.html"><i class="fas fa-pen-square"></i> <strong>Design guidelines</strong></a></li>
-			<li><a class="btn btn-primary" style="color:white;"><i class="fas fa-laptop-code"></i> Component demo</a></li>
+			<li><a class="btn btn-default" href="./contextual-alerts-design-guidelines.html"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a></li>
+			<li><a class="btn btn-primary" style="color:white;"><span class="fas fa-laptop-code"></span> Component demo</a></li>
 		</ul>
 	</nav> -->
 
-	<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Contextual alerts</span>: <span>Component demo</span></span></h1>
+	<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Contextual alerts</span>: <span>Demo and code</span></span></h1>
 	<div class="row profile">
 		<div class="col-md-9">
 			<p class="pagetag">Alerts are notice boxes that bring users' attention to specific content that makes them aware of a result of a user action, a clarification or exception to surrounding content or to warn the user of a consequence of an action or inaction in their task.</p>
-			<ul class="list-unstyled list-inline">
-				<li><a class="btn btn-default" href="./contextual-alerts-design-guidelines.html"><i class="fas fa-pen-square"></i> <strong>Design guidelines</strong></a></li>
-				<li><a class="btn btn-primary" style="color:white;"><i class="fas fa-laptop-code"></i> Demo and code</a></li>
-			</ul>
 		</div>
 		<div class="col-md-3">
 			<div class="small">
@@ -199,6 +195,28 @@
 					<li class="mrgn-rght-lg"><strong>Last updated:</strong> Nov 7, 2019</li>
 			  </ul>
 			</div>
+		</div>
+		<div class="col-md-12">
+			<!-- <section class="wb-inview bar-demo" data-inview="bottom-bar">
+				<div class="btn-group mrgn-bttm-lg">
+					<a class="btn btn-default" href="./contextual-alerts-design-guidelines.html"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a>
+					<a class="btn btn-default active"><span class="fas fa-laptop-code"></span> Demo and code</a>
+				</div>
+			</section>
+			<section id="bottom-bar" class="wb-overlay modal-content overlay-def wb-bar-b" style="text-align:center;">
+				<div class="btn-group btn-group-sm mrgn-bttm-sm mrgn-tp-md" style="display:inline-block;">
+					<a class="btn btn-default" href="./contextual-alerts-design-guidelines.html"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a>
+					<a class="btn btn-default active"><span class="fas fa-laptop-code"></span> Demo and code</a>
+				</div>
+			</section> -->
+			<div class="btn-group mrgn-bttm-sm mrgn-tp-md" style="display:inline-block;">
+				<a class="btn btn-default" href="./contextual-alerts-design-guidelines.html"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a>
+				<a class="btn btn-default active"><span class="fas fa-laptop-code"></span> Demo and code</a>
+			</div>
+			<!-- <ul class="list-unstyled list-inline btn-group">
+				<li><a class="btn btn-default" href="./contextual-alerts-design-guidelines.html"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a></li>
+				<li><a class="btn btn-primary disabled" style="color:white;"><span class="fas fa-laptop-code"></span> Demo and code</a></li>
+			</ul> -->
 		</div>
 	</div>
 	<div class="row">
@@ -292,8 +310,11 @@
 						</div>
 					</div>
 				</div>
-				<div class="code-variant core-variant hidden">
-					<pre><code>danger code for WET core</code></pre>
+				<div class="code-variant wet4-variant hidden">
+					<pre><code>danger code for WET 4</code></pre>
+				</div>
+				<div class="code-variant wet5-variant hidden">
+					<pre><code>danger code for WET 5</code></pre>
 				</div>
 				<div class="code-variant react-variant hidden">
 					<pre><code>danger code for react</code></pre>
@@ -350,8 +371,11 @@
 						</div>
 					</div>
 				</div>
-				<div class="code-variant core-variant hidden">
-					<pre><code>warning code for WET core</code></pre>
+				<div class="code-variant wet4-variant hidden">
+					<pre><code>warning code for WET 4</code></pre>
+				</div>
+				<div class="code-variant wet5-variant hidden">
+					<pre><code>warning code for WET 5</code></pre>
 				</div>
 				<div class="code-variant react-variant hidden">
 					<pre><code>warning code for react</code></pre>
@@ -408,8 +432,11 @@
 						</div>
 					</div>
 				</div>
-				<div class="code-variant core-variant hidden">
-					<pre><code>info code for WET core</code></pre>
+				<div class="code-variant wet4-variant hidden">
+					<pre><code>info code for WET 4</code></pre>
+				</div>
+				<div class="code-variant wet5-variant hidden">
+					<pre><code>info code for WET 5</code></pre>
 				</div>
 				<div class="code-variant react-variant hidden">
 					<pre><code>info code for react</code></pre>
@@ -466,8 +493,11 @@
 						</div>
 					</div>
 				</div>
-				<div class="code-variant core-variant hidden">
-					<pre><code>success code for WET core</code></pre>
+				<div class="code-variant wet4-variant hidden">
+					<pre><code>success code for WET 4</code></pre>
+				</div>
+				<div class="code-variant wet5-variant hidden">
+					<pre><code>success code for WET 5</code></pre>
 				</div>
 				<div class="code-variant react-variant hidden">
 					<pre><code>success code for react</code></pre>
@@ -483,7 +513,8 @@
 				<label class="h5">Code variant</label>
 				<select id="code-variant-menu" class="form-control">
 					<option value="beta">Beta override</option>
-					<option value="core">WET core</option>
+					<option value="wet4">WET 4</option>
+					<option value="wet5">WET 5</option>
 					<option value="react">ReactJS</option>
 					<option value="angular">Angular</option>
 				</select>
@@ -496,96 +527,84 @@
 		<p>There are no available customisations for the alert component.</p>
 	</section>
 
-	<setion>
-		<h2 id="specs">Design specifications</h2>
-		<div class="row">
-			<div class="col-md-6">
-				<div class="pattern-demo" style="margin-bottom:20px;">
-					<img class="img-responsive" src="../images/alert-spec-en.png" alt="Alert banner with numbering 1 on the icon in the border, 2 on the border, 3 on the heading, and 4 on the description.">
-				</div>
-			</div>
-			<div class="col-md-6">
-				<ul class="list-unstyled">
-					<li>
-						<details>
-							<summary>1. Icon</summary>
-							<p>Each alert type uses the following icons:</p>
-							<ul>
-								<li><strong>Danger alerts</strong> use an exclamation point icon in a circular border<code>\e101</code></li>
-								<li><strong>Warning alerts</strong> use an exclamation point icon in a triangular border <code>\e107</code></li>
-								<li><strong>Info alerts</strong> use an information icon <code>\e086</code></li>
-								<li><strong>Success alerts</strong> use a checkmark icon <code>\e084</code></li>
-							</ul>
-						</details>
-					</li>
-					<li>
-						<details>
-							<summary>2. Border highlight</summary>
-							<p>Alerts have border highlights with a thickness of <code>6px</code> using the following colours:</p>
-							<ul>
-								<li><strong>Danger alerts</strong> use red <code>#d3080c</code></li>
-								<li><strong>Warning alerts</strong> use red <code>#f90</code></li>
-								<li><strong>Info alerts</strong> use red <code>#269abc</code></li>
-								<li><strong>Success alerts</strong> use red <code>#278400</code></li>
-							</ul>
-						</details>
-					</li>
-					<li>
-						<details>
-							<summary>3. Heading</summary>
-							<p>Alert heading text colour matches the border highlight colour</p>
-						</details>
-					</li>
-					<li>
-						<details>
-							<summary>4. Description</summary>
-							<p>Content area of an alert should inherit fonts and styles of the page</p>
-						</details>
-					</li>
-				</ul>
-			</div>
-		</div>
-
 		<section>
 			<h3 id="states">States</h3>
 			<p>There are no additional states for the alert component.</p>
 		</section>
 
 		<section>
-			<h3 id="accessibility">Accessibility features</h3>
+			<h3 id="accessibility">Accessibility features and usage</h3>
 			<p>How the alerts are seen with predominant forms of colour blindness:</p>
-			<div class="wb-tabs">
-				<div class="tabpanels">
-					<details id="colour-blindness-details-panel1">
-						<summary>Deutanopia</summary>
-						<img class="img-responsive" src="../images/alert-deutanopia.png" alt="Shows the 4 types of alerts under a colour filter.">
-					</details>
-					<details id="colour-blindness-details-panel2">
-						<summary>Tritanopia</summary>
-						<img class="img-responsive" src="../images/alert-tritanopia.png" alt="Shows the 4 types of alerts under a colour filter.">
-					</details>
+			<div class="row">
+				<div class="col-md-9 col-lg-8">
+					<div class="wb-tabs">
+						<div class="tabpanels">
+							<details id="colour-blindness-details-panel1">
+								<summary>Deutanopia</summary>
+								<img class="img-responsive" src="../images/alert-deutanopia.png" alt="Shows the 4 types of alerts under a colour filter.">
+							</details>
+							<details id="colour-blindness-details-panel2">
+								<summary>Tritanopia</summary>
+								<img class="img-responsive" src="../images/alert-tritanopia.png" alt="Shows the 4 types of alerts under a colour filter.">
+							</details>
+						</div>
+					</div>
 				</div>
 			</div>
-			<p>More: <a href="./contextual-alerts-design-guidelines#accessibility">accessible usage</a></p>
 		</section>
 
 	</section>
 
+	<section>
+		<h2 id="issues">Information schemas</h2>
+		<p><strong>Usage:</strong> Use the schema to submit code for automated actions (??).</p>
+		<div class="row">
+			<div class="col-md-9 col-lg-8">
+				<details>
+					<summary>Schema templates</summary>
+					<div class="wb-tabs">
+						<div class="tabpanels">
+							<details id="schema-details-panel1">
+								<summary>Basic</summary>
 
-	<setion>
-		<h2 id="issues">Known issues</h2>
-		<p>There are no currently significant issues raised with the alert component.</p>
-	</section>
+							</details>
+							<details id="schema-details-panel2">
+								<summary>Shapes graphs</summary>
 
-	<setion>
-		<h2 id="versions">Latest changes</h2>
-		<p><strong>Version x.x: </strong> Component was updated to not have a background colour that caused banner blindness. (<time datetime="2019-11-07" class="text-muted">Nov 7, 2019</time>)</p>
+							</details>
+							<details id="schema-details-panel3">
+								<summary>JSON-LD</summary>
+
+							</details>
+						</div>
+					</div>
+				</details>
+			</div>
+		</div>
 	</section>
 
 	<section>
+		<h2 id="issues">Known issues</h2>
+		<p>Potential lack of contrast for Deutanopia for some of the styles</p>
+		<p>Aria role="alert" or "alertdialog"? Are these relevant to accessible use? Should they not be used and a warning included?</p>
+	</section>
 
+	<section>
+		<h2 id="versions">Latest changes</h2>
+		<dl class="dl-horizontal">
+			<dt>Version x.x:<br><small><time datetime="2019-11-07" class="text-muted">Nov 7, 2019</time></small></dt>
+			<dd>Component was updated to not have a background colour that caused banner blindness.</dd>
+		</dl>
+	</section>
+
+	<section>
 		<h2 id="discuss">Discussion</h2>
-		<p><a href="https://github.com/canada-ca/design-system-systeme-conception/issues">Report an issue in github</a> or <a href="">join the conversation on slack</a></p>
+		<div class="row">
+			<div class="col-md-4 col-sm-6 col-xs-12">
+				<p><a href="https://github.com/canada-ca/design-system-systeme-conception/issues" class="btn btn-default btn-block"><span class="fab fa-github"></span> Report an issue in github</a></p>
+				<p><a href="" class="btn btn-default btn-block"><span class="fab fa-slack"></span> Join the conversation on slack</a></p>
+			</div>
+		</div>
 	</section>
 
 	<div class="row pagedetails">
@@ -599,7 +618,6 @@
 	</div>
 
         <div class="col-sm-3 mrgn-tp-sm pull-right">
-        <div class="wb-share" data-wb-share='{&#34;lnkClass&#34;: &#34;btn btn-default btn-block&#34;}'></div>
     </div>
 
 
@@ -665,6 +683,21 @@
 	<script>
 		// document.getElementById('submissionPage').value = location.href;
 		$(document).ready(function(){
+			var dv = getUrlParameter('dv');
+			var cv = localStorage.getItem('cv');
+
+			//PRESETS
+			if (dv != null) {
+				$('.component-demo').addClass("hidden");
+				$('.component-code').addClass("hidden");
+				$('#'+dv+'-demo').removeClass("hidden");
+				$('#'+dv+'-code').removeClass("hidden");
+			}
+			if (localStorage.getItem('cv') != null) {
+				$('.code-variant').addClass("hidden");
+				$('.'+localStorage.getItem('cv')+'-variant').removeClass("hidden");
+			}
+
 			//hide all component demos, show the selected one
 			$("#design-variant-menu").change(function(){
 				$('.component-demo').addClass("hidden");
@@ -675,8 +708,21 @@
 			$("#code-variant-menu").change(function(){
 				$('.code-variant').addClass("hidden");
 				$('.'+this.value+'-variant').removeClass("hidden");
+				localStorage.setItem("cv", this.value);
 			});
 		});
+		var getUrlParameter = function getUrlParameter(sParam) {
+		   var sPageURL = decodeURIComponent(window.location.search.substring(1)),
+		       sURLVariables = sPageURL.split('&'),
+		       sParameterName,
+		       i;
+		   for (i = 0; i < sURLVariables.length; i++) {
+		       sParameterName = sURLVariables[i].split('=');
+		       if (sParameterName[0] === sParam) {
+		           return sParameterName[1] === undefined ? true : sParameterName[1];
+		       }
+		   }
+		};
 	</script>
 </body>
 	</html>

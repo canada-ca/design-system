@@ -179,10 +179,6 @@
 			<div class="row profile">
 				<div class="col-md-9">
 					<p class="pagetag">Alerts are notice boxes that bring users' attention to specific content that makes them aware of a result of a user action, a clarification or exception to surrounding content or to warn the user of a consequence of an action or inaction in their task.</p>
-					<ul class="list-unstyled list-inline">
-						<li><a class="btn btn-primary" style="color:white;"><i class="fas fa-pen-square"></i> <strong>Design guidelines</strong></a></li>
-						<li><a class="btn btn-default" href="./contextual-alerts-component-demo.html"><i class="fas fa-laptop-code"></i> Demo and code</a></li>
-					</ul>
 				</div>
 				<div class="col-md-3">
 					<div class="small">
@@ -193,15 +189,53 @@
 					  </ul>
 					</div>
 				</div>
+				<div class="col-md-12">
+					<!-- <ul class="list-unstyled list-inline btn-toolbar" role="toolbar"> -->
+					<!--SIT tabs-->
+					<!-- <nav class="row">
+						<ul class="toc col-md-12">
+							<li class="col-md-4"><a class="list-group-item active"><span class="fas fa-pen-square"></span> Design guidelines</a></li>
+							<li class="col-md-4"><a href="./contextual-alerts-component-demo.html" class="list-group-item"><span class="fas fa-laptop-code"></span> Demo and code</a></li>
+
+						</ul>
+					</nav> -->
+
+					<!--Black btn-group-->
+					<!-- <nav class="row">
+						<div class="toc col-md-12 btn-group mrgn-bttm-lg">
+							<a class="list-group-item active col-md-4" ><span class="fas fa-pen-square"></span> Design guidelines</a></li>
+							<a class="list-group-item col-md-4" href="./contextual-alerts-component-demo.html" ><span class="fas fa-laptop-code"></span> Demo and code</a></li>
+						</ul>
+					</nav> -->
+
+					<!--Default buttons with active state-->
+						<div class="btn-group mrgn-bttm-lg">
+							<a class="btn btn-default	 active"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a>
+							<a class="btn btn-default" href="./contextual-alerts-component-demo.html"><span class="fas fa-laptop-code"></span> Demo and code</a>
+						</div>
+					<!-- </ul> -->
+					<!-- <section class="wb-inview bar-demo" data-inview="bottom-bar">
+						<div class="btn-group mrgn-bttm-lg">
+							<a class="btn btn-default	 active"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a>
+							<a class="btn btn-default" href="./contextual-alerts-component-demo.html"><span class="fas fa-laptop-code"></span> Demo and code</a>
+						</div>
+					</section>
+					<section id="bottom-bar" class="wb-overlay modal-content overlay-def wb-bar-b" style="text-align:center;">
+						<div class="btn-group btn-group-sm mrgn-bttm-sm mrgn-tp-md" style="display:inline-block;">
+							<a class="btn btn-default	 active"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a>
+							<a class="btn btn-default" href="./contextual-alerts-component-demo.html"><span class="fas fa-laptop-code"></span> Demo and code</a>
+						</div>
+					</section> -->
+				</div>
 			</div>
 		<!-- </div>
 		<div class="col-md-6 mrgn-tp-lg"> -->
-			<div class="pattern-demo" style="padding-top:35px;">
+			<!-- <div class="pattern-demo" style="padding-top:35px;">
 				<section class="alert alert-danger">
 					<h3>If pregnant or considering pregnancy - both partners</h3>
 					<p>Avoid travel to Costa Rica if you are pregnant or planning to conceive a child in the next 3 months.</p>
 				</section>
-			</div>
+			</div> -->
 		<!-- </div>
 	</div> -->
 
@@ -212,8 +246,147 @@
 			<li><a href="#discuss">Discussion</a></li>
 		</ul>
 	</section> -->
+	<section>
+		<h2>On this page</h2>
+		<ul>
+			<li><a href="#spec">Design specifications</a></li>
+			<li><a href="#variations">Design variants</a></li>
+			<li><a href="#usage">Usage</a></li>
+			<li><a href="#research">Rationale and research</a></li>
+			<li><a href="#discuss">Discussion</a></li>
+		</ul>
+	</section>
 
 	<section>
+		<h2 id="specs">Design specifications</h2>
+		<div class="row">
+			<div class="col-md-6">
+				<div class="pattern-demo" style="margin-bottom:20px;">
+					<img class="img-responsive" src="../images/alert-spec-en.png" alt="Alert banner with numbering 1 on the icon in the border, 2 on the border, 3 on the heading, and 4 on the description.">
+				</div>
+			</div>
+			<div class="col-md-6">
+				<ul class="list-unstyled">
+					<li>
+						<details>
+							<summary>1. Icon</summary>
+							<p>Each alert type uses the following icons:</p>
+							<ul>
+								<li><strong>Danger alerts</strong> use an exclamation point icon in a circular border<code>\e101</code></li>
+								<li><strong>Warning alerts</strong> use an exclamation point icon in a triangular border <code>\e107</code></li>
+								<li><strong>Info alerts</strong> use an information icon <code>\e086</code></li>
+								<li><strong>Success alerts</strong> use a checkmark icon <code>\e084</code></li>
+							</ul>
+						</details>
+					</li>
+					<li>
+						<details>
+							<summary>2. Border highlight</summary>
+							<p>Alerts have border highlights with a thickness of <code>6px</code> using the following colours:</p>
+							<ul>
+								<li><strong>Danger alerts</strong> use red <code>#d3080c</code></li>
+								<li><strong>Warning alerts</strong> use red <code>#f90</code></li>
+								<li><strong>Info alerts</strong> use red <code>#269abc</code></li>
+								<li><strong>Success alerts</strong> use red <code>#278400</code></li>
+							</ul>
+						</details>
+					</li>
+					<li>
+						<details>
+							<summary>3. Heading</summary>
+							<p>Alert heading text colour matches the border highlight colour</p>
+						</details>
+					</li>
+					<li>
+						<details>
+							<summary>4. Description</summary>
+							<p>Content area of an alert should inherit fonts and styles of the page</p>
+						</details>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<h2 id="variations">Design variants</h2>
+		<div class="wb-eqht">
+			<div class="row">
+				<div class="col-md-6">
+					<div class="pattern-demo eqht-trgt col-md-12" style="padding: 10px; margin-bottom:10px; padding-top:35px;">
+
+						<section class="alert alert-danger">
+							<h3>Alert heading</h3>
+							<p>Alert description.</p>
+						</section>
+
+						<div class="pstn-tp-xs pstn-rght-xs mrgn-tp-sm mrgn-rght-sm">
+							<a href="./contextual-alerts-component-demo.html?dv=danger" class="btn btn-default btn-sm"><span class="fas fa-external-link-alt"></span> Get code</a>
+						</div>
+					</div>
+
+					<h3 class="h4">1. Danger</h3>
+					<p>Use the danger alert to draw attention to a situation that could place the user in danger, such as a do not travel warning. You can also use it to alert the user of a technical issue that could cause them to be unable to complete their task, such as an invalid submission of data in a form.</p>
+
+				</div>
+				<div class="col-md-6">
+					<div class="pattern-demo eqht-trgt col-md-12" style="padding: 10px; margin-bottom:10px; padding-top:35px;">
+
+						<section class="alert alert-warning">
+							<h3>Alert heading</h3>
+							<p>Alert description.</p>
+						</section>
+
+						<div class="pstn-tp-xs pstn-rght-xs mrgn-tp-sm mrgn-rght-sm">
+							<a href="./contextual-alerts-component-demo.html?dv=warning" class="btn btn-default btn-sm "><span class="fas fa-external-link-alt"></span> Get code</a>
+						</div>
+					</div>
+
+					<h3 class="h4">2. Warning</h3>
+					<p>Use the warning alert to draw attention to a possible consequence of an action or inaction, such as legal penalty that could apply.</p>
+
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-6">
+					<div class="pattern-demo eqht-trgt col-md-12" style="padding: 10px; margin-bottom:10px; padding-top:35px;">
+
+						<section class="alert alert-info">
+							<h3>Alert heading</h3>
+							<p>Alert description.</p>
+						</section>
+
+						<div class="pstn-tp-xs pstn-rght-xs mrgn-tp-sm mrgn-rght-sm">
+							<a href="./contextual-alerts-component-demo.html?dv=info" class="btn btn-default btn-sm "><span class="fas fa-external-link-alt"></span> Get code</a>
+						</div>
+					</div>
+
+					<h3 class="h4">3. Info</h3>
+					<p>Use the info alert to draw attention to a clarification of surrounding content or helpful advice, such as the number of weeks it will take to receive a refund when an application is sent by mail vs by phone.</p>
+
+				</div>
+				<div class="col-md-6">
+					<div class="pattern-demo eqht-trgt col-md-12" style="padding: 10px; margin-bottom:10px; padding-top:35px;">
+
+						<section class="alert alert-success">
+							<h3>Alert heading</h3>
+							<p>Alert description.</p>
+						</section>
+
+						<div class="pstn-tp-xs pstn-rght-xs mrgn-tp-sm mrgn-rght-sm">
+							<a href="./contextual-alerts-component-demo.html?dv=success" class="btn btn-default btn-sm "><span class="fas fa-external-link-alt"></span> Get code</a>
+						</div>
+					</div>
+
+					<h3 class="h4">4. Success</h3>
+					<p>Use the success alert to draw attention to a successful action, such as to confirm a submission or the completion of a task.</p>
+
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<!-- <section>
 		<h2 id="when">When to use</h2>
 		<div class="row">
 			<div class="col-md-6">
@@ -259,13 +432,26 @@
 			<li><strong>Info</strong><br>Use the info alert to draw attention to a clarification of surrounding content or helpful advice, such as the number of weeks it will take to receive a refund when an application is sent by mail vs by phone.</li>
 			<li><strong>Success</strong><br>Use the success alert to draw attention to a successful action, such as to confirm a submission or the completion of a task.</li>
 		</ol>
-	</section>
+	</section> -->
+
+
 
 	<section>
-		<h2 id="how">How to use</h2>
+		<h2 id="usage">Usage</h2>
 
 		<!--example image-->
 		<!--type of usage: , avoid-->
+
+
+
+		<!--1. Don't use alerts as styling-->
+		<!--2. Don't use alerts in incorrect situations-->
+		<!--3. Use of labels and pills-->
+		<!--5. Use of inline validation in forms-->
+		<!--6. Writing style (make sure what to do/next step is clear. reading level? tone? heading is an answer.)-->
+		<!--7. Consider how many users it will affect - contextualisation>
+		<!--7. Positioning on the page-->
+		<!--8. Dismissing alerts?-->
 
 
 		<section style="margin-left: 12px;padding-left: 20px;border-width: 0px 0px 0px 6px!important;border-color: #278400;!important">
@@ -291,6 +477,44 @@
 	</section>
 
 	<section>
+		<h2 id="how">Rationale and research</h2>
+		<h3>Noticeability was not impacted</h3>
+		<details>
+			<summary>First click A/B testing - x participants</summary>
+			<dl class="dl-vertical">
+				<dt>Test procedure</dt>
+				<dd></dd>
+				<dt>Conclusions</dt>
+				<dd>
+					<ul>
+						<li>The new design did not hinder noticeability</li>
+
+						<li>Testing did not reveal a significant increase in noticeability</li>
+					</ul>
+				</dd>
+				<dt>Data</dt>
+				<dd>How to access</dd>
+			<h4>
+
+
+		</details>
+		<h3></h3>
+
+
+		<dl>
+			<dt>Testing</dt>
+
+			<dd>Explanation of the testing / blog article link</dd>
+		</dl>
+	</section>
+
+	<section>
+
+		<h2 id="discuss">Discussion</h2>
+		<p><a href="https://github.com/canada-ca/design-system-systeme-conception/issues">Discuss the pattern in github issues</a></p>
+	</section>
+
+	<!-- <section>
 		<h2 id="how">How to use</h2>
 		<p>Alerts should be written for a grade 6-8 reading level.</p>
 		<p>Place the alert in the appropriate context:</p>
@@ -567,45 +791,7 @@
 			</section>
 		</details>
 
-	</section>
-
-	<!-- <section>
-		<h2 id="research">Research</h2>
-		<h3>Noticeability was not impacted</h3>
-		<details>
-			<summary>First click A/B testing - x participants</summary>
-			<dl class="dl-vertical">
-				<dt>Test procedure</dt>
-				<dd></dd>
-				<dt>Conclusions</dt>
-				<dd>
-					<ul>
-						<li>The new design did not hinder noticeability</li>
-
-						<li>Testing did not reveal a significant increase in noticeability</li>
-					</ul>
-				</dd>
-				<dt>Data</dt>
-				<dd>How to access</dd>
-			<h4>
-
-
-		</details> -->
-		<!-- <h3></h3>
-
-
-		<dl>
-			<dt>Testing</dt>
-
-			<dd>Explanation of the testing / blog article link</dd>
-		</dl>
 	</section> -->
-
-	<section>
-
-		<h2 id="discuss">Discussion</h2>
-		<p><a href="https://github.com/canada-ca/design-system-systeme-conception/issues">Discuss the pattern in github issues</a></p>
-	</section>
 
 	<div class="row pagedetails">
 	<div class="col-sm-6 col-lg-4 mrgn-tp-sm">
@@ -618,7 +804,6 @@
 	</div>
 
         <div class="col-sm-3 mrgn-tp-sm pull-right">
-        <div class="wb-share" data-wb-share='{&#34;lnkClass&#34;: &#34;btn btn-default btn-block&#34;}'></div>
     </div>
 
 

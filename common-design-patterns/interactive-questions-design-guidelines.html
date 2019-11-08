@@ -180,7 +180,7 @@
 		  <p class="pagetag">Interactive questions use checkboxes, radio buttons or even expand-collapse to cue an answer to a question or confirmation of an action or status.</p>
 		<!-- </div>
 		<div class="col-md-6 mrgn-tp-lg"> -->
-			<div class="pattern-demo" style="padding-top:35px;">
+			<!-- <div class="pattern-demo" style="padding-top:35px;">
 				<legend class="h5">Have you previously applied for this service?</legend>
 				<ul class="list-unstyled can-ca-form">
 					<li class="radio">
@@ -193,111 +193,135 @@
 					</li>
 				</ul>
 				<input type="submit" value="Continue" class="btn btn-primary mrgn-bttm-md">
-			</div>
+			</div> -->
 		<!-- </div>
 	</div> -->
-
-		<!--<h2>On this page</h2>
+	<section>
+		<h2>On this page</h2>
 		<ul>
-			<li><a href="#cautions">What to avoid</a></li>
-			<li><a href="#how">When and how to use</a></li>
+			<li><a href="#types">Types</a></li>
+			<li><a href="#usage">Usage</a></li>
+			<li><a href="#research">Rationale and research</a></li>
 			<li><a href="#discuss">Discussion</a></li>
 		</ul>
-	</section> -->
+	</section>
 
 	<section>
-		<h2 id="types">Types</h2>
-		<div class="row wb-eqht">
-			<div class="col-md-4">
-				<h3>1. Large checkboxes</h3>
-				<div class="pattern-demo eqht-trgt" style="padding: 10px; margin-bottom:10px; padding-top:35px;">
-					<a class="btn btn-default btn-xs pull-right"><i class="fas fa-external-link-alt"></i> Get code</a>
-					<legend class="h5 ">Question</legend>
-					<ul class="list-unstyled can-ca-form">
-						<li class="checkbox">
-							<input type="checkbox" id="large-checkbox-item-1">
-							<label for="large-checkbox-item-1">Item 1</label>
-						</li>
-						<li class="checkbox">
-							<input type="checkbox" id="large-checkbox-item-2">
-							<label for="large-checkbox-item-2">Item 2</label>
-						</li>
-					</ul>
+		<h2 id="types">When to use</h2>
+		<div class="wb-eqht">
+			<div class="row">
+				<div class="col-md-4">
+					<div class="pattern-demo eqht-trgt col-md-12" style="padding: 10px; margin-bottom:10px; padding-top:35px;">
+						<legend class="h5 ">Question</legend>
+						<ul class="list-unstyled can-ca-form">
+							<li class="checkbox">
+								<input type="checkbox" id="large-checkbox-item-1">
+								<label for="large-checkbox-item-1">Item 1</label>
+							</li>
+							<li class="checkbox">
+								<input type="checkbox" id="large-checkbox-item-2">
+								<label for="large-checkbox-item-2">Item 2</label>
+							</li>
+						</ul>
+						<input type="submit" value="Continue" class="btn btn-primary mrgn-bttm-md">
+						<div class="pstn-tp-xs pstn-rght-xs mrgn-tp-sm mrgn-rght-sm">
+							<a class="btn btn-default btn-sm "><span class="fas fa-external-link-alt"></span> Get code</a>
+						</div>
+					</div>
+					<h3 class="h4">1. Large checkboxes</h3>
+					<p>Use large checkboxes when one or more selections can be made to answer a question.</p>
+				</div>
+				<div class="col-md-4">
+					<div class="pattern-demo eqht-trgt col-md-12" style="padding: 10px; margin-bottom:10px; padding-top:35px;">
+						<legend class="h5 ">Question</legend>
+						<ul class="list-unstyled can-ca-form">
+							<li class="radio">
+								<input id="radio-item-1" type="radio" name="radio-example">
+								<label for="radio-item-1">Item 1</label>
+							</li>
+							<li class="radio">
+								<input id="radio-item-2" type="radio" name="radio-example">
+								<label for="radio-item-2">Item 2</label>
+							</li>
+						</ul>
+						<input type="submit" value="Continue" class="btn btn-primary mrgn-bttm-md">
+						<div class="pstn-tp-xs pstn-rght-xs mrgn-tp-sm mrgn-rght-sm">
+							<a class="btn btn-default btn-sm "><span class="fas fa-external-link-alt"></span> Get code</a>
+						</div>
+					</div>
+					<h3 class="h4">2. Radio buttons</h3>
+					<p>Use radio buttons when only a single item can be selected in a list.</p>
+				</div>
+				<div class="col-md-4">
+					<div class="pattern-demo eqht-trgt col-md-12" style="padding: 10px; margin-bottom:10px; padding-top:35px; padding-bottom:35px;">
+						<p class="h5">Question</p>
+						<div class="clearfix"></div>
+						<ul class="list-unstyled">
+							<li>
+								<details>
+									<summary>Option 1</summary>
+									<p>Option 1 details.</p>
+								</details>
+							</li>
+							<li>
+								<details>
+									<summary>Option 2</summary>
+									<p>Option 1 details.</p>
+								</details>
+							</li>
+						</ul>
+						<div class="pstn-tp-xs pstn-rght-xs mrgn-tp-sm mrgn-rght-sm">
+							<a class="btn btn-default btn-sm "><span class="fas fa-external-link-alt"></span> Get code</a>
+						</div>
+					</div>
+					<h3 class="h4">3. Expand-collapse</h3>
+					<p>Group expand-collapse items that answer a question with more details if there are fewer than 5 options each with a limited amount of content to reveal.</p>
 				</div>
 			</div>
-			<div class="col-md-4">
-				<h3>2. Radio buttons</h3>
-				<div class="pattern-demo eqht-trgt" style="padding: 10px; margin-bottom:10px; padding-top:35px;">
-					<legend class="h5 ">Question</legend>
-					<ul class="list-unstyled can-ca-form">
-						<li class="radio">
-							<input id="radio-item-1" type="radio" name="radio-example">
-							<label for="item-1">Item 1</label>
-						</li>
-						<li class="radio">
-							<input id="radio-item-2" type="radio" name="radio-example">
-							<label for="item-2">Item 2</label>
-						</li>
-					</ul>
+			<div class="row">
+				<div class="col-md-4">
+					<div class="pattern-demo eqht-trgt col-md-12" style="padding: 10px; margin-bottom:10px; padding-top:35px; padding-bottom:35px;">
+						<label class="h5" for="dropdown-menu-demo">Question</label>
+						<select id="dropdown-menu-demo" class="form-control">
+							<option>Item 1</option>
+							<option>Item 2</option>
+						</select>
+						<div class="pstn-bttm-xs pstn-rght-xs mrgn-bttm-sm mrgn-rght-sm">
+							<a class="btn btn-default btn-sm "><span class="fas fa-external-link-alt"></span> Get code</a>
+						</div>
+					</div>
+					<h3 class="h4">4. Dropdown selection</h3>
+					<p>Use dropdowns only if you need to save space and can't use radio buttons. Do not use dropdowns if there are more than 15 items to choose from.</p>
 				</div>
-			</div>
-			<div class="col-md-4">
-				<h3>3. Expand-collapse</h3>
-				<div class="pattern-demo eqht-trgt" style="padding: 10px; margin-bottom:10px; padding-top:35px; padding-bottom:35px;">
-					<legend class="h5">Question</legend>
-					<div class="clearfix"></div>
-					<ul class="list-unstyled">
-						<li>
-							<details>
-								<summary>Option 1</summary>
-								<p>Option 1 details.</p>
-							</details>
-						</li>
-						<li>
-							<details>
-								<summary>Option 2</summary>
-								<p>Option 1 details.</p>
-							</details>
-						</li>
-					</ul>
-				</div>
-			</div>
-			<div class="col-md-6">
-				<h3>4. Dropdown selection</h3>
-				<div class="pattern-demo eqht-trgt" style="padding: 10px; margin-bottom:10px; padding-top:35px; padding-bottom:35px;">
-					<legend class="h5 ">Question</legend>
-					<select class="form-control">
-						<option>Item 1</option>
-						<option>Item 2</option>
-					</select>
-				</div>
-			</div>
-			<div class="col-md-6">
-				<h3>5. Auto-complete text field</h3>
-				<div class="pattern-demo eqht-trgt" style="padding: 10px; margin-bottom:10px; padding-top:35px; padding-bottom:35px;">
-					<legend class="h5 ">Question</legend>
-
+				<div class="col-md-4">
+					<div class="pattern-demo eqht-trgt col-md-12" style="padding: 10px; margin-bottom:10px; padding-top:35px; padding-bottom:35px;">
+						<p><label class="h5" for="auto-complete-demo">Question</label></p>
+						<input id="auto-complete-demo" list="suggestions" />
+						<datalist id="suggestions">
+							<option value="Item 1">Item 1</option>
+							<option value="Item 2">Item 2</option>
+						</datalist>
+						<div class="pstn-bttm-xs pstn-rght-xs mrgn-bttm-sm mrgn-rght-sm">
+							<a class="btn btn-default btn-sm "><span class="fas fa-external-link-alt"></span> Get code</a>
+						</div>
+					</div>
+					<h3 class="h4">5. Auto-complete text field</h3>
+					<p>Use text input with auto-complete for over 15 items for very large selections.</p>
 				</div>
 			</div>
 		</div>
-		<ol>
-			<li><strong>Large checkboxes</strong><br>Use large checkboxes when one or more selections can be made to answer a question.</li>
-			<li><strong>Radio buttons</strong><br>Use radio buttons when only a single item can be selected in a list.</li>
-			<li><strong>Expand-collapse</strong><br>Group expand-collapse items that answer a question with more details if there are fewer than 5 options each with a limited amount of content to reveal.</li>
-			<li><strong>Dropdown selection</strong><br>Use dropdowns only if you need to save space and can't use radio buttons. Do not use dropdowns if there are more than 15 items to choose from.</li>
-			<li><strong>Auto-complete text field</strong><br>Use text input with auto-complete for over 15 items for very large selections.</li>
-		</ol>
+		<!-- <ol>
+			<li><strong>Large checkboxes</strong><br></li>
+			<li><strong>Radio buttons</strong><br></li>
+			<li><strong>Expand-collapse</strong><br></li>
+			<li><strong>Dropdown selection</strong><br></li>
+			<li><strong>Auto-complete text field</strong><br></li>
+		</ol> -->
 	</section>
 
 	<section>
 		<h2 id="when">Usage</h2>
 		<p>When and how to use with examples - links to the code</p>
-
-		<section>
-			<h3 id="accessibility">Accessible use</h2>
-			<p>
-
-		</section>
 
 	</section>
 
@@ -694,7 +718,6 @@
 	</div>
 
         <div class="col-sm-3 mrgn-tp-sm pull-right">
-        <div class="wb-share" data-wb-share='{&#34;lnkClass&#34;: &#34;btn btn-default btn-block&#34;}'></div>
     </div>
 
 

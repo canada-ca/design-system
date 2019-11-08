@@ -51,3 +51,8 @@ main {
  margin-top: 1em;
  padding-bottom: .2em;
 }
+
+div.toc .active {
+    background-color: #333 !important;
+    border-color: #8f8f8f !important;
+}
