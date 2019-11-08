@@ -1,0 +1,13 @@
+.do-guideline {
+  margin-left: 12px;
+  padding-left: 20px;
+  border-width: 0px 0px 0px 6px!important;
+  border: solid #278400;
+}
+
+.dont-guideline {
+  margin-left: 12px;
+  padding-left: 20px;
+  border-width: 0px 0px 0px 6px!important;
+  border: solid #d3080c;
+}
