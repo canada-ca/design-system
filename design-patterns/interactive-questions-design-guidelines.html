@@ -6,7 +6,7 @@
 <meta charset="utf-8">
 <!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
 		wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
-		<title>Interactive questions - Design guidelines - Canada.ca</title>
+		<title>Interactive questions - Design pattern - Canada.ca</title>
 <meta content="width=device-width,initial-scale=1" name="viewport">
 
 <!--[if gte IE 9 | !IE ]><!-->
@@ -177,7 +177,7 @@
 <main role="main" property="mainContentOfPage" class="container wb-prettify all-pre">
 	<!-- <div class="row profile">
 		<div class="col-md-6"> -->
-		  <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked" role="text"><span>Interactive questions</span>: <span>Design guidelines</span></span></h1>
+		  <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked" role="text"><span>Interactive questions</span>: <span>Design pattern</span></span></h1>
 		  <p class="pagetag">Interactive questions use checkboxes, radio buttons or even expand-collapse to cue an answer to a question or confirmation of an action or status.</p>
 		<!-- </div>
 		<div class="col-md-6 mrgn-tp-lg"> -->
@@ -197,18 +197,18 @@
 			</div> -->
 		<!-- </div>
 	</div> -->
-	<section>
+	<!-- <section>
 		<h2>On this page</h2>
 		<ul>
-			<li><a href="#types">Types</a></li>
+			<li><a href="#options">Options</a></li>
 			<li><a href="#usage">Usage</a></li>
 			<li><a href="#research">Rationale and research</a></li>
 			<li><a href="#discuss">Discussion</a></li>
 		</ul>
-	</section>
+	</section> -->
 
 	<section>
-		<h2 id="types">When to use</h2>
+		<h2 id="options">Options</h2>
 		<div class="wb-eqht">
 			<div class="row">
 				<div class="col-md-4">
@@ -226,28 +226,30 @@
 						</ul>
 						<input type="submit" value="Continue" class="btn btn-primary mrgn-bttm-md">
 						<div class="pstn-tp-xs pstn-rght-xs mrgn-tp-sm mrgn-rght-sm">
-							<a class="btn btn-default btn-sm "><span class="fas fa-external-link-alt"></span> Get code</a>
+							<a href="../components/checkboxes-demo.html?dv=large#code" class="btn btn-default btn-sm" style="font-size:14px!important;"><span class="fas fa-external-link-alt"></span> Get code</a>
 						</div>
 					</div>
 					<h3 class="h4">1. Large checkboxes</h3>
 					<p>Use large checkboxes when one or more selections can be made to answer a question.</p>
 				</div>
 				<div class="col-md-4">
-					<div class="pattern-demo eqht-trgt col-md-12" style="padding: 10px; margin-bottom:10px; padding-top:35px;">
-						<legend class="h5 ">Question</legend>
-						<ul class="list-unstyled can-ca-form">
-							<li class="radio">
-								<input id="radio-item-1" type="radio" name="radio-example">
-								<label for="radio-item-1">Item 1</label>
-							</li>
-							<li class="radio">
-								<input id="radio-item-2" type="radio" name="radio-example">
-								<label for="radio-item-2">Item 2</label>
-							</li>
-						</ul>
+					<div class="pattern-demo eqht-trgt col-md-12 form-inline" style="padding: 10px; margin-bottom:10px; padding-top:35px;">
+						<fieldset class="form-inline chckbxrdio-grp">
+							<legend>Question</legend>
+							<ul class="list-unstyled can-ca-form">
+								<li class="radio">
+									<input id="radio-item-1" type="radio" name="radio-example">
+									<label for="radio-item-1">Item 1</label>
+								</li>
+								<li class="radio">
+									<input id="radio-item-2" type="radio" name="radio-example">
+									<label for="radio-item-2">Item 2</label>
+								</li>
+							</ul>
+						</fieldset>
 						<input type="submit" value="Continue" class="btn btn-primary mrgn-bttm-md">
 						<div class="pstn-tp-xs pstn-rght-xs mrgn-tp-sm mrgn-rght-sm">
-							<a class="btn btn-default btn-sm "><span class="fas fa-external-link-alt"></span> Get code</a>
+							<a href="../components/radio-buttons-demo.html#code" class="btn btn-default btn-sm" style="font-size:14px!important;"><span class="fas fa-external-link-alt"></span> Get code</a>
 						</div>
 					</div>
 					<h3 class="h4">2. Radio buttons</h3>
@@ -272,7 +274,7 @@
 							</li>
 						</ul>
 						<div class="pstn-tp-xs pstn-rght-xs mrgn-tp-sm mrgn-rght-sm">
-							<a class="btn btn-default btn-sm "><span class="fas fa-external-link-alt"></span> Get code</a>
+							<a href="../components/expand-collapse-demo.html#code" class="btn btn-default btn-sm" style="font-size:14px!important;"><span class="fas fa-external-link-alt"></span> Get code</a>
 						</div>
 					</div>
 					<h3 class="h4">3. Expand-collapse</h3>
@@ -287,8 +289,8 @@
 							<option>Item 1</option>
 							<option>Item 2</option>
 						</select>
-						<div class="pstn-bttm-xs pstn-rght-xs mrgn-bttm-sm mrgn-rght-sm">
-							<a class="btn btn-default btn-sm "><span class="fas fa-external-link-alt"></span> Get code</a>
+						<div class="pstn-tp-xs pstn-rght-xs mrgn-tp-sm mrgn-rght-sm">
+							<a href="../components/dropdown-demo.html?dv=selection#code" class="btn btn-default btn-sm" style="font-size:14px!important;"><span class="fas fa-external-link-alt"></span> Get code</a>
 						</div>
 					</div>
 					<h3 class="h4">4. Dropdown selection</h3>
@@ -302,8 +304,8 @@
 							<option value="Item 1">Item 1</option>
 							<option value="Item 2">Item 2</option>
 						</datalist>
-						<div class="pstn-bttm-xs pstn-rght-xs mrgn-bttm-sm mrgn-rght-sm">
-							<a class="btn btn-default btn-sm "><span class="fas fa-external-link-alt"></span> Get code</a>
+						<div class="pstn-tp-xs pstn-rght-xs mrgn-tp-sm mrgn-rght-sm">
+							<a href="../components/dropdown-demo.html?dv=auto-complete#code" class="btn btn-default btn-sm" style="font-size:14px!important;"><span class="fas fa-external-link-alt"></span> Get code</a>
 						</div>
 					</div>
 					<h3 class="h4">5. Auto-complete text field</h3>
