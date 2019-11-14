@@ -250,18 +250,25 @@
 		</div>
 		<div class="col-md-3 pull-left">
 			<div class="mrgn-bttm-sm">
-				<label class="h5 ">Design variant</label>
-				<select id="design-variant-menu" class="form-control">
-					<option value="danger">Danger</option>
-					<option value="warning">Warning</option>
-					<option value="info">Info</option>
-					<option value="success">Success</option>
-				</select>
+				<div class="row">
+					<div class="col-md-7 col-xs-9">
+						<label class="h5 ">Design variant</label>
+						<select id="design-variant-menu" class="form-control">
+							<option value="danger">Danger</option>
+							<option value="warning">Warning</option>
+							<option value="info">Info</option>
+							<option value="success">Success</option>
+							<option value="show-all">Show all</option>
+						</select>
+					</div>
+					<div class="col-md-5 col-xs-3">
+						<button class="btn btn-default btn-sm mrgn-tp-lg" id="show-all">Show all</button>
+					</div>
 			</div>
 		</div>
 	</div>
 	<div class="row">
-		<div class="col-md-9 col-xs-12 mrgn-tp-lg pull-right">
+		<div id="example-code" class="col-md-9 col-xs-12 mrgn-tp-lg pull-right">
 			<div id="danger-code" class="component-code">
 				<div class="code-variant beta-variant">
 					<div class="wb-tabs">
@@ -311,7 +318,10 @@
 					</div>
 				</div>
 				<div class="code-variant wet4-variant hidden">
-					<pre><code>danger code for WET 4</code></pre>
+					<pre><code>&#x3C;section class=&#x22;alert alert-danger&#x22;&#x3E;
+&#x3C;h3&#x3E;Alert heading&#x3C;/h3&#x3E;
+&#x3C;p&#x3E;Alert description.&#x3C;/p&#x3E;
+&#x3C;/section&#x3E;</code></pre>
 				</div>
 				<div class="code-variant wet5-variant hidden">
 					<pre><code>danger code for WET 5</code></pre>
@@ -512,12 +522,14 @@
 			<div class="mrgn-bttm-sm">
 				<label class="h5">Code variant</label>
 				<select id="code-variant-menu" class="form-control">
-					<option value="beta">Beta override</option>
+					<option value="beta">Beta</option>
 					<option value="wet4">WET 4</option>
 					<option value="wet5">WET 5</option>
 					<option value="react">ReactJS</option>
 					<option value="angular">Angular</option>
 				</select>
+				<label class="label label-info code-variant beta-variant">Beta</label>
+				<label class="label label-warning code-variant wet4-variant wet5-variant react-variant angular-variant">Use beta for the latest design</label>
 			</div>
 		</div>
 	</div>
@@ -692,10 +704,16 @@
 				$('.component-code').addClass("hidden");
 				$('#'+dv+'-demo').removeClass("hidden");
 				$('#'+dv+'-code').removeClass("hidden");
+				//preselect the dropdown menu as well
+				$("#design-variant-menu").val(dv);
+
 			}
 			if (localStorage.getItem('cv') != null) {
+				var cv = localStorage.getItem('cv');
 				$('.code-variant').addClass("hidden");
-				$('.'+localStorage.getItem('cv')+'-variant').removeClass("hidden");
+				$('.'+cv+'-variant').removeClass("hidden");
+				//preselect the dropdown menu as well
+				$("#code-variant-menu").val(cv);
 			}
 
 			//hide all component demos, show the selected one
@@ -705,6 +723,13 @@
 				$('#'+this.value+'-demo').removeClass("hidden");
 				$('#'+this.value+'-code').removeClass("hidden");
 			});
+
+			//SHOW all toggle
+			$("#show-all").click(function(){
+				$('.component-demo').removeClass("hidden");
+				$('.component-code').removeClass("hidden");
+			});
+
 			$("#code-variant-menu").change(function(){
 				$('.code-variant').addClass("hidden");
 				$('.'+this.value+'-variant').removeClass("hidden");
