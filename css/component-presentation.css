@@ -1,0 +1,14 @@
+.component-tombstone {
+  line-height:1.65em;
+}
+
+
+@media only screen and (max-width: 768px) {
+  .btn-links-mobile {
+    width: 100%;
+  }
+}
+
+.pattern-demo.component {
+  padding-top:35px;
+}

@@ -6,7 +6,7 @@
 <meta charset="utf-8">
 <!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
 		wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
-		<title>Checkboxes - Component demo - Canada.ca</title>
+		<title>Radio buttons - Demo and code - Canada.ca</title>
 <meta content="width=device-width,initial-scale=1" name="viewport">
 
 <!--[if gte IE 9 | !IE ]><!-->
@@ -14,8 +14,9 @@
 <link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
 <link rel="stylesheet" href="../css/custom.css">
 <link rel="stylesheet" href="../css/new-alerts.css">
-<link rel="stylesheet" href="../css/checkbox-radio.css">
 <link rel="stylesheet" href="../css/split-h1.css">
+<link rel="stylesheet" href="../css/checkbox-radio.css">
+<link rel="stylesheet" href="../css/component-presentation.css">
 <link rel="stylesheet" href="../css/navigation.css">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 <!--<![endif]-->
@@ -38,7 +39,7 @@
   {
     "@context": "http://schema.org",
     "@type": "WebPage",
-    "name": "Checkboxes - Canada.ca design pattern",
+    "name": "Contextual alerts - Canada.ca design pattern",
     "url": "https://design.canada.ca/common-design-patterns/contextual-alerts.html",
     "author": {
       "@type": "GovernmentOrganization",
@@ -178,412 +179,90 @@
 	<!-- <nav class="section-menu mobile">
     <h2 class="menu-title">Contextual alerts</h2>
 		<ul class="list-unstyled list-inline">
-			<li><a class="btn btn-default" href="./checkboxes-design-guidelines.html"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a></li>
+			<li><a class="btn btn-default" href="./contextual-alerts-design-guidelines.html"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a></li>
 			<li><a class="btn btn-primary" style="color:white;"><span class="fas fa-laptop-code"></span> Component demo</a></li>
 		</ul>
 	</nav> -->
 
-	<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Checkboxes</span>: <span>Demo and code</span></span></h1>
+	<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Radio buttons</span>: <span>Rationale</span></span></h1>
 	<div class="row profile">
 		<div class="col-md-9">
-			<p class="pagetag">Alerts are notice boxes that bring users' attention to specific content that makes them aware of a result of a user action, a clarification or exception to surrounding content or to warn the user of a consequence of an action or inaction in their task.</p>
+			<p class="pagetag">Radio buttons allow for a single option to be selected in a list of items.</p>
 		</div>
 		<div class="col-md-3">
 			<div class="small">
 				<ul class="list-unstyled" style="line-height:1.65em">
 					<li><span class="wb-inv"><strong>Progress:</strong> </span><label class="label label-info">Beta</label></li>
 					<li class="mrgn-rght-lg"><strong>Version:</strong> x.x</li>
-					<li class="mrgn-rght-lg"><strong>Last updated:</strong> Nov 12, 2019</li>
+					<li class="mrgn-rght-lg"><strong>Last updated:</strong> Nov 7, 2019</li>
 			  </ul>
 			</div>
 		</div>
 		<div class="col-md-12">
 			<!-- <section class="wb-inview bar-demo" data-inview="bottom-bar">
 				<div class="btn-group mrgn-bttm-lg">
-					<a class="btn btn-default" href="./checkboxes-design-guidelines.html"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a>
+					<a class="btn btn-default" href="./contextual-alerts-design-guidelines.html"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a>
 					<a class="btn btn-default active"><span class="fas fa-laptop-code"></span> Demo and code</a>
 				</div>
 			</section>
 			<section id="bottom-bar" class="wb-overlay modal-content overlay-def wb-bar-b" style="text-align:center;">
 				<div class="btn-group btn-group-sm mrgn-bttm-sm mrgn-tp-md" style="display:inline-block;">
-					<a class="btn btn-default" href="./checkboxes-design-guidelines.html"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a>
+					<a class="btn btn-default" href="./contextual-alerts-design-guidelines.html"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a>
 					<a class="btn btn-default active"><span class="fas fa-laptop-code"></span> Demo and code</a>
 				</div>
 			</section> -->
 			<div class="btn-group mrgn-bttm-sm mrgn-tp-md" style="display:inline-block;">
-				<a class="btn btn-default" href="./checkboxes-design-guidelines.html"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a>
-				<a class="btn btn-default active"><span class="fas fa-laptop-code"></span> Demo and code</a>
+				<a class="btn btn-default" href="./contextual-alerts-guide.html"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a>
+				<a class="btn btn-default" href="./contextual-alerts-demo.html"><span class="fas fa-laptop-code"></span> Demo and code</a>
+				<a class="btn btn-default active"><span class="fas fa-microscope"></span> Rationale</a>
 			</div>
 			<!-- <ul class="list-unstyled list-inline btn-group">
-				<li><a class="btn btn-default" href="./checkboxes-design-guidelines.html"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a></li>
+				<li><a class="btn btn-default" href="./contextual-alerts-design-guidelines.html"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a></li>
 				<li><a class="btn btn-primary disabled" style="color:white;"><span class="fas fa-laptop-code"></span> Demo and code</a></li>
 			</ul> -->
 		</div>
 	</div>
-	<div class="row">
-		<div class="col-md-9 col-xs-12 mrgn-tp-lg pull-right">
-			<div class="pattern-demo" style="padding-top:35px;">
-				<div id="large-checkbox-demo" class="component-demo">
-
-				</div>
-				<div id="small-checkbox-demo" class="component-demo hidden">
-					
-				</div>
-			</div>
-		</div>
-		<div class="col-md-3 pull-left">
-			<div class="mrgn-bttm-sm">
-				<label class="h5 ">Design variant</label>
-				<select id="design-variant-menu" class="form-control">
-					<option value="large-checkbox">Danger</option>
-					<option value="large-green-checkbox">Warning</option>
-					<option value="large-inline-checkbox">Info</option>
-					<option value="success">Success</option>
-					<option value="show-all">Show all</option>
-				</select>
-			</div>
-		</div>
-	</div>
-	<div class="row">
-		<div id="example-code" class="col-md-9 col-xs-12 mrgn-tp-lg pull-right">
-			<div id="danger-code" class="component-code">
-				<div class="code-variant beta-variant">
-					<div class="wb-tabs">
-						<div class="tabpanels">
-							<details id="danger-details-panel1">
-								<summary>HTML</summary>
-								<pre><code>&#x3C;section class=&#x22;alert alert-danger&#x22;&#x3E;
-&#x3C;h3&#x3E;Alert heading&#x3C;/h3&#x3E;
-&#x3C;p&#x3E;Alert description.&#x3C;/p&#x3E;
-&#x3C;/section&#x3E;</code></pre>
-							</details>
-							<details id="danger-details-panel2">
-								<summary>CSS</summary>
-								<pre><code>.alert:before {
-&#x9;height: 34px;
-&#x9;content: &#x22;&#x22;;
-&#x9;background-color: #fff;
-&#x9;width: 6px;
-&#x9;display: inline;
-&#x9;margin-top: -1px;
-&#x9;margin-left: -26px;
-&#x9;position: absolute;
-}
-.alert-success, .alert-info, .alert-warning, .alert-danger {
-&#x9;background: #fff !important;
-}
-.alert {
-&#x9;border-width: 1px 1px 1px 4px !important;
-&#x9;margin-left: 12px;
-&#x9;padding-left: 20px;
-&#x9;border-width: 0px 0px 0px 6px!important
-}
-.alert-success &#x3E; :first-child::before, .alert-info &#x3E; :first-child::before, .alert-warning &#x3E; :first-child::before, .alert-danger &#x3E; :first-child::before {
-&#x9;font-size: 26px;
-&#x9;margin-left: -1.48em;
-&#x9;padding: 2px;
-&#x9;line-height: 1.1em;
-}
-.alert &#x3E; :first-child {
-&#x9;margin-left: 0em;
-}
-.alert &#x3E;:first-child::before {
-&#x9;margin-right: 0.4em
-}</code></pre>
-							</details>
-						</div>
-					</div>
-				</div>
-				<div class="code-variant wet4-variant hidden">
-					<pre><code>&#x3C;section class=&#x22;alert alert-danger&#x22;&#x3E;
-&#x3C;h3&#x3E;Alert heading&#x3C;/h3&#x3E;
-&#x3C;p&#x3E;Alert description.&#x3C;/p&#x3E;
-&#x3C;/section&#x3E;</code></pre>
-				</div>
-				<div class="code-variant wet5-variant hidden">
-					<pre><code>danger code for WET 5</code></pre>
-				</div>
-				<div class="code-variant react-variant hidden">
-					<pre><code>danger code for react</code></pre>
-				</div>
-				<div class="code-variant angular-variant hidden">
-					<pre><code>danger code for angular</code></pre>
-				</div>
-			</div>
-			<div id="warning-code" class="component-code hidden">
-				<div class="code-variant beta-variant">
-					<div class="wb-tabs">
-						<div class="tabpanels">
-							<details id="warning-details-panel1">
-								<summary>HTML</summary>
-								<pre><code>&#x3C;section class=&#x22;alert alert-warning&#x22;&#x3E;
-&#x3C;h3&#x3E;Alert heading&#x3C;/h3&#x3E;
-&#x3C;p&#x3E;Alert description.&#x3C;/p&#x3E;
-&#x3C;/section&#x3E;</code></pre>
-							</details>
-							<details id="warning-details-panel2">
-								<summary>CSS</summary>
-								<pre><code>.alert:before {
-&#x9;height: 34px;
-&#x9;content: &#x22;&#x22;;
-&#x9;background-color: #fff;
-&#x9;width: 6px;
-&#x9;display: inline;
-&#x9;margin-top: -1px;
-&#x9;margin-left: -26px;
-&#x9;position: absolute;
-}
-.alert-success, .alert-info, .alert-warning, .alert-danger {
-&#x9;background: #fff !important;
-}
-.alert {
-&#x9;border-width: 1px 1px 1px 4px !important;
-&#x9;margin-left: 12px;
-&#x9;padding-left: 20px;
-&#x9;border-width: 0px 0px 0px 6px!important
-}
-.alert-success &#x3E; :first-child::before, .alert-info &#x3E; :first-child::before, .alert-warning &#x3E; :first-child::before, .alert-danger &#x3E; :first-child::before {
-&#x9;font-size: 26px;
-&#x9;margin-left: -1.48em;
-&#x9;padding: 2px;
-&#x9;line-height: 1.1em;
-}
-.alert &#x3E; :first-child {
-&#x9;margin-left: 0em;
-}
-.alert &#x3E;:first-child::before {
-&#x9;margin-right: 0.4em
-}</code></pre>
-							</details>
-						</div>
-					</div>
-				</div>
-				<div class="code-variant wet4-variant hidden">
-					<pre><code>warning code for WET 4</code></pre>
-				</div>
-				<div class="code-variant wet5-variant hidden">
-					<pre><code>warning code for WET 5</code></pre>
-				</div>
-				<div class="code-variant react-variant hidden">
-					<pre><code>warning code for react</code></pre>
-				</div>
-				<div class="code-variant angular-variant hidden">
-					<pre><code>warning code for angular</code></pre>
-				</div>
-			</div>
-			<div id="info-code" class="component-code hidden">
-				<div class="code-variant beta-variant">
-					<div class="wb-tabs">
-						<div class="tabpanels">
-							<details id="info-details-panel1">
-								<summary>HTML</summary>
-								<pre><code>&#x3C;section class=&#x22;alert alert-info&#x22;&#x3E;
-&#x3C;h3&#x3E;Alert heading&#x3C;/h3&#x3E;
-&#x3C;p&#x3E;Alert description.&#x3C;/p&#x3E;
-&#x3C;/section&#x3E;</code></pre>
-							</details>
-							<details id="info-details-panel2">
-								<summary>CSS</summary>
-								<pre><code>.alert:before {
-&#x9;height: 34px;
-&#x9;content: &#x22;&#x22;;
-&#x9;background-color: #fff;
-&#x9;width: 6px;
-&#x9;display: inline;
-&#x9;margin-top: -1px;
-&#x9;margin-left: -26px;
-&#x9;position: absolute;
-}
-.alert-success, .alert-info, .alert-warning, .alert-danger {
-&#x9;background: #fff !important;
-}
-.alert {
-&#x9;border-width: 1px 1px 1px 4px !important;
-&#x9;margin-left: 12px;
-&#x9;padding-left: 20px;
-&#x9;border-width: 0px 0px 0px 6px!important
-}
-.alert-success &#x3E; :first-child::before, .alert-info &#x3E; :first-child::before, .alert-warning &#x3E; :first-child::before, .alert-danger &#x3E; :first-child::before {
-&#x9;font-size: 26px;
-&#x9;margin-left: -1.48em;
-&#x9;padding: 2px;
-&#x9;line-height: 1.1em;
-}
-.alert &#x3E; :first-child {
-&#x9;margin-left: 0em;
-}
-.alert &#x3E;:first-child::before {
-&#x9;margin-right: 0.4em
-}</code></pre>
-							</details>
-						</div>
-					</div>
-				</div>
-				<div class="code-variant wet4-variant hidden">
-					<pre><code>info code for WET 4</code></pre>
-				</div>
-				<div class="code-variant wet5-variant hidden">
-					<pre><code>info code for WET 5</code></pre>
-				</div>
-				<div class="code-variant react-variant hidden">
-					<pre><code>info code for react</code></pre>
-				</div>
-				<div class="code-variant angular-variant hidden">
-					<pre><code>info code for angular</code></pre>
-				</div>
-			</div>
-			<div id="success-code" class="component-code hidden">
-				<div class="code-variant beta-variant">
-					<div class="wb-tabs">
-						<div class="tabpanels">
-							<details id="success-details-panel1">
-								<summary>HTML</summary>
-								<pre><code>&#x3C;section class=&#x22;alert alert-success&#x22;&#x3E;
-&#x3C;h3&#x3E;Alert heading&#x3C;/h3&#x3E;
-&#x3C;p&#x3E;Alert description.&#x3C;/p&#x3E;
-&#x3C;/section&#x3E;</code></pre>
-							</details>
-							<details id="success-details-panel2">
-								<summary>CSS</summary>
-								<pre><code>.alert:before {
-&#x9;height: 34px;
-&#x9;content: &#x22;&#x22;;
-&#x9;background-color: #fff;
-&#x9;width: 6px;
-&#x9;display: inline;
-&#x9;margin-top: -1px;
-&#x9;margin-left: -26px;
-&#x9;position: absolute;
-}
-.alert-success, .alert-info, .alert-warning, .alert-danger {
-&#x9;background: #fff !important;
-}
-.alert {
-&#x9;border-width: 1px 1px 1px 4px !important;
-&#x9;margin-left: 12px;
-&#x9;padding-left: 20px;
-&#x9;border-width: 0px 0px 0px 6px!important
-}
-.alert-success &#x3E; :first-child::before, .alert-info &#x3E; :first-child::before, .alert-warning &#x3E; :first-child::before, .alert-danger &#x3E; :first-child::before {
-&#x9;font-size: 26px;
-&#x9;margin-left: -1.48em;
-&#x9;padding: 2px;
-&#x9;line-height: 1.1em;
-}
-.alert &#x3E; :first-child {
-&#x9;margin-left: 0em;
-}
-.alert &#x3E;:first-child::before {
-&#x9;margin-right: 0.4em
-}</code></pre>
-							</details>
-						</div>
-					</div>
-				</div>
-				<div class="code-variant wet4-variant hidden">
-					<pre><code>success code for WET 4</code></pre>
-				</div>
-				<div class="code-variant wet5-variant hidden">
-					<pre><code>success code for WET 5</code></pre>
-				</div>
-				<div class="code-variant react-variant hidden">
-					<pre><code>success code for react</code></pre>
-				</div>
-				<div class="code-variant angular-variant hidden">
-					<pre><code>success code for angular</code></pre>
-				</div>
-			</div>
-		</div>
-
-		<div class="col-md-3 pull-left">
-			<div class="mrgn-bttm-sm">
-				<label class="h5">Code variant</label>
-				<select id="code-variant-menu" class="form-control">
-					<option value="beta">Beta</option>
-					<option value="wet4">WET 4</option>
-					<option value="wet5">WET 5</option>
-					<option value="react">ReactJS</option>
-					<option value="angular">Angular</option>
-				</select>
-				<label class="label label-info code-variant beta-variant">Beta</label>
-				<label class="label label-warning code-variant wet4-variant wet5-variant react-variant angular-variant">Use beta for the latest design</label>
-			</div>
-		</div>
-	</div>
 
 	<section>
-		<h2 id="how">Customisation</h2>
-		<p>There are no available customisations for the alert component.</p>
-	</section>
+		<h2 id="how">Rationale and research</h2>
+		<h3>Noticeability was not impacted</h3>
+		<details>
+			<summary>First click A/B testing - x participants</summary>
+			<dl class="dl-vertical">
+				<dt>Test procedure</dt>
+				<dd></dd>
+				<dt>Conclusions</dt>
+				<dd>
+					<ul>
+						<li>The new design did not hinder noticeability</li>
 
-		<section>
-			<h3 id="states">States</h3>
-			<p>There are no additional states for the alert component.</p>
-		</section>
+						<li>Testing did not reveal a significant increase in noticeability</li>
+					</ul>
+				</dd>
+				<dt>Data</dt>
+				<dd>How to access</dd>
+			<h4>
 
-		<section>
-			<h3 id="accessibility">Accessibility features and usage</h3>
-			<p>How the alerts are seen with predominant forms of colour blindness:</p>
-			<div class="row">
-				<div class="col-md-9 col-lg-8">
-					<div class="wb-tabs">
-						<div class="tabpanels">
-							<details id="colour-blindness-details-panel1">
-								<summary>Deutanopia</summary>
-								<img class="img-responsive" src="../images/alert-deutanopia.png" alt="Shows the 4 types of alerts under a colour filter.">
-							</details>
-							<details id="colour-blindness-details-panel2">
-								<summary>Tritanopia</summary>
-								<img class="img-responsive" src="../images/alert-tritanopia.png" alt="Shows the 4 types of alerts under a colour filter.">
-							</details>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
 
-	</section>
+		</details>
+		<h3></h3>
 
-	<section>
-		<h2 id="issues">Information schemas</h2>
-		<p><strong>Usage:</strong> Use the schema to submit code for automated actions (??).</p>
-		<div class="row">
-			<div class="col-md-9 col-lg-8">
-				<details>
-					<summary>Schema templates</summary>
-					<div class="wb-tabs">
-						<div class="tabpanels">
-							<details id="schema-details-panel1">
-								<summary>Basic</summary>
 
-							</details>
-							<details id="schema-details-panel2">
-								<summary>Shapes graphs</summary>
+		<dl>
+			<dt>Testing</dt>
 
-							</details>
-							<details id="schema-details-panel3">
-								<summary>JSON-LD</summary>
-
-							</details>
-						</div>
-					</div>
-				</details>
-			</div>
-		</div>
-	</section>
-
-	<section>
-		<h2 id="issues">Known issues</h2>
-		<p>Potential lack of contrast for Deutanopia for some of the styles</p>
-		<p>Aria role="alert" or "alertdialog"? Are these relevant to accessible use? Should they not be used and a warning included?</p>
-	</section>
-
-	<section>
-		<h2 id="versions">Latest changes</h2>
-		<dl class="dl-horizontal">
-			<dt>Version x.x:<br><small><time datetime="2019-11-07" class="text-muted">Nov 7, 2019</time></small></dt>
-			<dd>Component was updated to not have a background colour that caused banner blindness.</dd>
+			<dd>Explanation of the testing / blog article link</dd>
 		</dl>
+	</section>
+
+
+	<section>
+		<h2 id="accessibility">Accessibility</h3>
+		<ul>
+			<li>Validation related things?</li>
+			<li>Large touch targets for radio button inputs</li>
+			<li>Other form considerations for screen readers?</li>
+		</ul>
 	</section>
 
 	<section>
@@ -681,29 +360,18 @@
 				$('.component-code').addClass("hidden");
 				$('#'+dv+'-demo').removeClass("hidden");
 				$('#'+dv+'-code').removeClass("hidden");
-				//preselect the dropdown menu as well
-				$("#design-variant-menu").val(dv);
-
 			}
 			if (localStorage.getItem('cv') != null) {
-				var cv = localStorage.getItem('cv');
 				$('.code-variant').addClass("hidden");
-				$('.'+cv+'-variant').removeClass("hidden");
-				//preselect the dropdown menu as well
-				$("#code-variant-menu").val(cv);
+				$('.'+localStorage.getItem('cv')+'-variant').removeClass("hidden");
 			}
 
 			//hide all component demos, show the selected one
 			$("#design-variant-menu").change(function(){
-				if (this.value == "show-all") {
-					$('.component-demo').removeClass("hidden");
-					$('.component-code').removeClass("hidden");
-				} else {
-					$('.component-demo').addClass("hidden");
-					$('.component-code').addClass("hidden");
-					$('#'+this.value+'-demo').removeClass("hidden");
-					$('#'+this.value+'-code').removeClass("hidden");
-				}
+				$('.component-demo').addClass("hidden");
+				$('.component-code').addClass("hidden");
+				$('#'+this.value+'-demo').removeClass("hidden");
+				$('#'+this.value+'-code').removeClass("hidden");
 			});
 			$("#code-variant-menu").change(function(){
 				$('.code-variant').addClass("hidden");
