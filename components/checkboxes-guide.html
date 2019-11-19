@@ -273,8 +273,8 @@
 				<ul class="list-unstyled">
 					<li>
 						<details>
-							<summary>1. Legend or heading</summary>
-							<p>The <code>legend</code> preceeding large checkboxes inputs should generally use an <code>h5</code> class. Small checkboxes used for checklists should not have a legend. Instead, a heading can be used for the content section in which they are placed.</p>
+							<summary>1. Question or heading</summary>
+							<p>The <code>legend</code> preceeding large checkboxes inputs should use <code>h5</code> styles. These are applied by the <code>chkbxrdio-grp</code> class applied to the parent <code>fieldset</code>.</p>
 						</details>
 					</li>
 					<li>
@@ -445,10 +445,25 @@
 		<!--type of usage: , avoid-->
 		<div class="row">
 
+			<div class="row">
+				<div class="col-md-4">
+					<img src="" class="img-responsive">
+					<div class="dont-guideline">
+						<p class="h4">Don't</p>
+						<p>Don't use a <code>legend</code> before a checklist (not answering a question or in a form). If needed, a checklist can be preceeded by a heading with a <code>h5</code> class.</p>
+					</div>
+				</div>
+			</div>
 
-
-
-
+			<div class="row">
+				<div class="col-md-6">
+					<img src="" class="img-responsive">
+					<div class="do-guideline">
+						<p class="h4">Do</p>
+						<p>A checklist does not require a form action. The purpose of a checklist can be to support people tracking items they have completed. However, make sure to add an paragraph using <code>wb-inv</code> above the checklist to explain to screen readers that toggling the checklists is simply to track ticked off items.</p>
+					</div>
+				</div>
+			</div>
 
 
 			<div class="col-md-4">
