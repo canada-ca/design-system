@@ -16,6 +16,7 @@
 <link rel="stylesheet" href="../css/new-alerts.css">
 <link rel="stylesheet" href="../css/split-h1.css">
 <link rel="stylesheet" href="../css/checkbox-radio.css">
+<link rel="stylesheet" href="../css/alpha-beta-banner.css">
 <link rel="stylesheet" href="../css/do-dont.css">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 
@@ -178,7 +179,7 @@
 	<!-- <div class="row profile">
 		<div class="col-md-6"> -->
 		  <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked" role="text"><span>Interactive questions</span>: <span>Design pattern</span></span></h1>
-		  <p class="pagetag">Interactive questions use checkboxes, radio buttons or even expand-collapse to cue an answer to a question or confirmation of an action or status.</p>
+		  <p class="pagetag">Interactive questions help people get the specific content they need to complete their task. They can be standalone, such as to reveal the relevant answer on a page or part of a series of questions.</p>
 		<!-- </div>
 		<div class="col-md-6 mrgn-tp-lg"> -->
 			<!-- <div class="pattern-demo" style="padding-top:35px;">
@@ -208,7 +209,7 @@
 	</section> -->
 
 	<section>
-		<h2 id="options">Options</h2>
+		<h2 id="options">Available components</h2>
 		<div class="wb-eqht">
 			<div class="row">
 				<div class="col-md-4">
@@ -313,6 +314,26 @@
 					<h3 class="h4">5. Auto-complete text field</h3>
 					<p>Use text input with auto-complete for over 15 items for very large selections.</p>
 				</div>
+				<div class="col-md-4">
+					<div class="pattern-demo eqht-trgt col-md-12" style="padding: 10px; margin-bottom:10px; padding-top:35px; padding-bottom:35px;">
+						<fieldset>
+			    		<legend id="slider-demo" class="h5"><span class="field-name">Question</span></legend>
+							<div class="row">
+								<div class="col-md-3 col-xs-3">
+									<input type="text" id="slider-output" class="form-control" value="1" oninput="document.getElementById('demo-slider').value = this.value" />
+								</div>
+								<div class="col-md-7 col-xs-9">
+									<input name="demo-slider" id="demo-slider" type="range" min="1" max="2" step="1" value="1" oninput="document.getElementById('slider-output').value = this.value" />
+								</div>
+							</div>
+			      </fieldset>
+							<div class="pstn-tp-xs pstn-rght-xs mrgn-tp-sm mrgn-rght-sm">
+							<a href="../components/dropdown-demo.html?dv=auto-complete#code" class="btn btn-default btn-sm" style="font-size:14px!important;"><span class="fas fa-external-link-alt"></span> Get code</a>
+						</div>
+					</div>
+					<h3 class="h4">6. Slider with input</h3>
+					<p>Use text input with an alternative slider to input numbers.</p>
+				</div>
 			</div>
 		</div>
 		<!-- <ol>
@@ -346,7 +367,7 @@
 			<div class="row mrgn-bttm-lg">
 				<div class="col-md-4">
 					<!-- 360x200 images -->
-					<img src="../images/interactive-questions/dropdown-menu-marital-en.png" class="img-responsive pattern-demo" alt='Dropdown menu for options to indicate marital status.'>
+					<img src="../images/interactive-questions/dropdown-menu-marital-en.gif" class="img-responsive pattern-demo" alt='Dropdown menu being opened before options to indicate marital status are revealed.'>
 					<div class="dont-guideline">
 						<p class="h4">Don't</p>
 						<p>Avoid using dropdown menus when opening the dropdown is required to understand the available options.</p>
@@ -376,6 +397,30 @@
 			</div>
 		</section>
 
+		<section>
+			<h3>Allow alternative input or visualisation for sliders</h3>
+			<div class="row mrgn-bttm-lg">
+
+				<div class="col-md-4">
+					<!-- 360x200 images -->
+					<img src="../images/interactive-questions/slider-children-en.gif" class="img-responsive pattern-demo" alt='Dropdown menu being opened before options to indicate marital status are revealed.'>
+					<div class="do-guideline">
+						<p class="h4">Do</p>
+						<p>Consider using a slider to answer with a number, but allow alternative direct input.</p>
+					</div>
+				</div>
+
+				<!-- <div class="col-md-4">
+					<img src="../images/interactive-questions/" class="img-responsive pattern-demo" alt=''>
+					<div class="do-guideline">
+						<p class="h4">Do <label class="alpha-label">Alpha</label> </p>
+						<p>Good use of sliders can also make use of visualisations of options.</p>
+					</div>
+				</div> -->
+
+			</div>
+
+		</section>
 
 		<section>
 			<h3>Single item checkboxes</h3>
@@ -413,8 +458,48 @@
 			</div>
 		</section>
 
+		<section>
+			<h3>Error validation</h3>
+
+			<div class="row">
+				<div class="col-md-4 mrgn-tp-lg">
+					<!-- 360x200 images -->
+					<img src="../images/interactive-questions/contextual-validation-en.png" class="img-responsive pattern-demo" alt="Radio buttons to select a marital status with a validation error message reading 'Please indicate your marital status'.">
+					<div class="do-guideline">
+						<p class="h4">Do <label class="beta-label">Beta</label></p>
+						<p>Customise validation messages to make fixing errors easier.</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-4 mrgn-tp-lg">
+					<!-- 360x200 images -->
+					<img src="../images/interactive-questions/-en.png" class="img-responsive pattern-demo" alt="Radio buttons to select a marital status with a validation error message reading 'Please indicate your marital status'.">
+					<div class="do-guideline">
+						<p class="h4">Do <label class="beta-label">Beta</label></p>
+						<p>When validating numbers, ensure that all common number formats are supported, such as using a space or comma between groups of 3 digits.</p>
+					</div>
+				</div>
+			</div>
+
+		</section>
+
+		<section>
+			<h3>Avoid inline styles</h3>
+			<div class="dont-guideline">
+				<p class="h4">Don't</p>
+				<p>Avoid inline checkboxes or radio buttons in interactive questions. Even for yes/no answers. Inline radio buttons should only be used for <a href="./toggle-states.html">toggle states</a>.</p>
+			</div>
+
+		</section>
+
+
+
 	</section>
 
+
+	<!--Forms: don't use date pickers for ages-->
 
 
 	<section>
@@ -423,378 +508,14 @@
 
 	</section>
 
-
-
-		<!--example image-->
-		<!--type of usage: , avoid-->
-
-
-		<div class="callout callout-red" style="margin-left: 12px;padding-left: 20px;border-width: 0px 0px 0px 6px!important;border-color: #278400;!important">
-			<p class="">DON'T</p>
-			<p>Avoid using a dropdown menu
-		</div>
-
-
-		<p>Whenever possible, offer a default selection that reflects - toggling states</p>
-
-
-		<p>Use of buttons</p>
-
-		<p>Alternatives to an interactive question:
-		<div class="col-md-6">
-			<h3>4. Small checkbox</h3>
-			<div class="pattern-demo eqht-trgt" style="padding: 10px; margin-bottom:10px; padding-top:35px;">
-				<ul class="list-unstyled can-ca-form">
-					<li class="checkbox checkbox-small">
-						<input type="checkbox" id="small-checkbox-item-1">
-						<label for="small-checkbox-item-1">Mailing address is different from home address</label>
-					</li>
-				</ul>
+	<section>
+		<h2 id="discuss">Discussion</h2>
+		<div class="row">
+			<div class="col-md-4 col-sm-6 col-xs-12">
+				<p><a href="https://github.com/canada-ca/design-system-systeme-conception/issues" class="btn btn-default btn-block"><span class="fab fa-github"></span> Report an issue in github</a></p>
+				<p><a href="" class="btn btn-default btn-block"><span class="fab fa-slack"></span> Join the conversation on slack</a></p>
 			</div>
 		</div>
-		<li><strong>Small checkbox</strong><br>Use a small checkbox when there is a single item.</li>
-
-		<div class="col-md-6">
-			<h3>5. Button selections</h3>
-
-		</div>
-		<div class="col-md-6">
-			<h3>6. Badge selections</h3>
-
-		</div>
-
-		<p>Sliders for amounts ranges, particularly where the exact value isn't too important (volume, brightness, etc)</p>
-
-
-		<p>Do not use contextual alerts:</p>
-		<ul>
-			<li>to provide information about a normal step in a process or task</li>
-			<li>to simply add emphasis to content</li>
-			<li>in cases where a warning is neither high risk nor frequently experienced</li>
-			<li>to create labels or pills. For these components, see:
-				<ul>
-					<li><a href="https://wet-boew.github.io/wet-boew-styleguide/design/labels-en">label pattern</a></li>
-					<li><a href="https://wet-boew.github.io/wet-boew-styleguide/design/pills-en">pill pattern</a></li>
-				</ul>
-			</li>
-		</ul>
-	</section>
-
-	<section>
-		<h2 id="how">How to use</h2>
-		<p>Alerts should be written for a grade 6-8 reading level.</p>
-		<p>Place the alert in the appropriate context:</p>
-		<dl class="dl-horizontal">
-			<dt>Applies to the entire site</dt>
-			<dd>Place it at the top of the page above the main heading</dd>
-			<dt>Applies to the page</dt>
-			<dd>Place it underneath the page heading</dd>
-			<dt>Applies to a subsection of the page</dt>
-			<dd>Place it within that subsection, generally underneath the subsection heading or between 2 paragraphs</dd>
-		</dl>
-
-		<details>
-			<p>You can either use the <strong>beta</strong> or <strong>stable</strong> of version of this component. The beta version will eventually replace the stable one.</p>
-			<summary>Use the <strong>beta</strong> contextual alerts component</summary>
-			<p><strong>Note:</strong> You will need to use custom CSS to implement these beta patterns.</p>
-			<section>
-				<h3>Danger alert</h3>
-				<p><strong>When to use:</strong> Use the danger alert to draw attention to a situation that could place the user in danger, such as a do not travel warning. You can also use it to alert the user of a technical issue that could cause them to be unable to complete their task, such as an invalid submission of data in a form.</p>
-				<div class="pattern-demo">
-					<section class="alert alert-danger">
-						<h3>If pregnant or considering pregnancy - both partners</h3>
-						<p>Avoid travel to Costa Rica if you are pregnant or planning to conceive a child in the next 3 months.</p>
-					</section>
-				</div>
-				<details>
-					<summary>Code</summary>
-					<div class="wb-tabs">
-						<div class="tabpanels">
-							<details id="details-panel1">
-								<summary>HTML</summary>
-								<pre><code>&#x3C;section class=&#x22;alert alert-danger&#x22;&#x3E;
- &#x3C;h3&#x3E;If pregnant or considering pregnancy - both partners&#x3C;/h3&#x3E;
- &#x3C;p&#x3E;Avoid travel to Costa Rica if you are pregnant or planning to conceive a child in the next 3 months.&#x3C;/p&#x3E;
-&#x3C;/section&#x3E;</code></pre>
-							</details>
-							<details id="details-panel2">
-								<summary>CSS</summary>
-								<pre><code>.alert:before {
-&#x9;height: 34px;
-&#x9;content: &#x22;&#x22;;
-&#x9;background-color: #fff;
-&#x9;width: 6px;
-&#x9;display: inline;
-&#x9;margin-top: -1px;
-&#x9;margin-left: -26px;
-&#x9;position: absolute;
-}
-.alert-success, .alert-info, .alert-warning, .alert-danger {
-&#x9;background: #fff !important;
-}
-.alert {
-&#x9;border-width: 1px 1px 1px 4px !important;
-&#x9;margin-left: 12px;
-&#x9;padding-left: 20px;
-&#x9;border-width: 0px 0px 0px 6px!important
-}
-.alert-success &#x3E; :first-child::before, .alert-info &#x3E; :first-child::before, .alert-warning &#x3E; :first-child::before, .alert-danger &#x3E; :first-child::before {
-&#x9;font-size: 26px;
-&#x9;margin-left: -1.48em;
-&#x9;padding: 2px;
-&#x9;line-height: 1.1em;
-}
-.alert &#x3E; :first-child {
-&#x9;margin-left: 0em;
-}
-.alert &#x3E;:first-child::before {
-&#x9;margin-right: 0.4em
-}</code></pre>
-							</details>
-						</div>
-					</div>
-				</details>
-			</section>
-
-			<section>
-				<h3>Warning alert</h3>
-				<p><strong>When to use:</strong> Use the warning alert to draw attention to a possible consequence of an action or inaction, such as legal penalty that could apply.</p>
-				<div class="pattern-demo">
-					<section class="alert alert-warning">
-						<h3>Changes to impaired driving and cannabis-related crime laws</h3>
-						<p><a href="https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/impaired-driving-cannabis-penalties-affect-immigration-status.html">New penalties for impaired driving and cannabis-related crimes may affect your immigration status in Canada</a>. If you commit one of these crimes, you may not be able to come to or stay in Canada.</p>
-					</section>
-				</div>
-				<details>
-					<summary>Code</summary>
-					<div class="wb-tabs">
-						<div class="tabpanels">
-							<details id="details-panel1">
-								<summary>HTML</summary>
-								<pre><code>&#x3C;section class=&#x22;alert alert-warning&#x22;&#x3E;
- &#x3C;h3&#x3E;Changes to impaired driving and cannabis-related crime laws&#x3C;/h3&#x3E;
- &#x3C;p&#x3E;&#x3C;a href=&#x22;https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/impaired-driving-cannabis-penalties-affect-immigration-status.html&#x22;&#x3E;New penalties for impaired driving and cannabis-related crimes may affect your immigration status in Canada&#x3C;/a&#x3E;. If you commit one of these crimes, you may not be able to come to or stay in Canada.&#x3C;/p&#x3E;
-&#x3C;/section&#x3E;</code></pre>
-							</details>
-							<details id="details-panel2">
-								<summary>CSS</summary>
-								<pre><code>.alert:before {
-&#x9;height: 34px;
-&#x9;content: &#x22;&#x22;;
-&#x9;background-color: #fff;
-&#x9;width: 6px;
-&#x9;display: inline;
-&#x9;margin-top: -1px;
-&#x9;margin-left: -26px;
-&#x9;position: absolute;
-}
-.alert-success, .alert-info, .alert-warning, .alert-danger {
-&#x9;background: #fff !important;
-}
-.alert {
-&#x9;border-width: 1px 1px 1px 4px !important;
-&#x9;margin-left: 12px;
-&#x9;padding-left: 20px;
-&#x9;border-width: 0px 0px 0px 6px!important
-}
-.alert-success &#x3E; :first-child::before, .alert-info &#x3E; :first-child::before, .alert-warning &#x3E; :first-child::before, .alert-danger &#x3E; :first-child::before {
-&#x9;font-size: 26px;
-&#x9;margin-left: -1.48em;
-&#x9;padding: 2px;
-&#x9;line-height: 1.1em;
-}
-.alert &#x3E; :first-child {
-&#x9;margin-left: 0em;
-}
-.alert &#x3E;:first-child::before {
-&#x9;margin-right: 0.4em
-}</code></pre>
-							</details>
-						</div>
-					</div>
-				</details>
-			</section>
-
-			<section>
-				<h3>Info alert</h3>
-				<p><strong>When to use:</strong> Use the info alert to draw attention to a clarification of surrounding content or helpful advice, such as the number of weeks it will take to receive a refund when an application is sent by mail vs by phone.</p>
-				<div class="pattern-demo">
-					<section class="alert alert-info">
-						<h3>Current status of the call for applications: Closed</h3>
-						<p>Thank you for your interest in Canada Summer Jobs. Applications are now closed.</p>
-					</section>
-				</div>
-				<details>
-					<summary>Code</summary>
-					<div class="wb-tabs">
-						<div class="tabpanels">
-							<details id="details-panel1">
-								<summary>HTML</summary>
-								<pre><code>&#x3C;section class=&#x22;alert alert-info&#x22;&#x3E;
- &#x3C;h3&#x3E;Current status of the call for applications: Closed&#x3C;/h3&#x3E;
- &#x3C;p&#x3E;Thank you for your interest in Canada Summer Jobs. Applications are now closed.&#x3C;/p&#x3E;
-&#x3C;/section&#x3E;</code></pre>
-							</details>
-							<details id="details-panel2">
-								<summary>CSS</summary>
-								<pre><code>.alert:before {
-&#x9;height: 34px;
-&#x9;content: &#x22;&#x22;;
-&#x9;background-color: #fff;
-&#x9;width: 6px;
-&#x9;display: inline;
-&#x9;margin-top: -1px;
-&#x9;margin-left: -26px;
-&#x9;position: absolute;
-}
-.alert-success, .alert-info, .alert-warning, .alert-danger {
-&#x9;background: #fff !important;
-}
-.alert {
-&#x9;border-width: 1px 1px 1px 4px !important;
-&#x9;margin-left: 12px;
-&#x9;padding-left: 20px;
-&#x9;border-width: 0px 0px 0px 6px!important
-}
-.alert-success &#x3E; :first-child::before, .alert-info &#x3E; :first-child::before, .alert-warning &#x3E; :first-child::before, .alert-danger &#x3E; :first-child::before {
-&#x9;font-size: 26px;
-&#x9;margin-left: -1.48em;
-&#x9;padding: 2px;
-&#x9;line-height: 1.1em;
-}
-.alert &#x3E; :first-child {
-&#x9;margin-left: 0em;
-}
-.alert &#x3E;:first-child::before {
-&#x9;margin-right: 0.4em
-}</code></pre>
-							</details>
-						</div>
-					</div>
-				</details>
-			</section>
-
-			<section>
-				<h3>Success alert</h3>
-				<p><strong>When to use:</strong> Use success alert to draw attention to a successful action, such as to confirm a submission or the completion of a task.</p>
-				<div class="pattern-demo">
-					<section class="alert alert-success">
-						<h3>Your request for publicly available data from the list of charities has been successful</h3>
-						<p>The turnaround time to process your request may take up to four (4) weeks. We will contact you if we need more information.</p>
-					</section>
-				</div>
-				<details>
-					<summary>Code</summary>
-					<div class="wb-tabs">
-						<div class="tabpanels">
-							<details id="details-panel1">
-								<summary>HTML</summary>
-								<pre><code>&#x3C;section class=&#x22;alert alert-success&#x22;&#x3E;
- &#x3C;h3&#x3E;Your request for publicly available data from the List of charities has been successful&#x3C;/h3&#x3E;
- &#x3C;p&#x3E;The turnaround time to process your request may take up to four (4) weeks. We will contact you if we need more information.&#x3C;/p&#x3E;
-&#x3C;/section&#x3E;</code></pre>
-							</details>
-							<details id="details-panel2">
-								<summary>CSS</summary>
-								<pre><code>.alert:before {
-&#x9;height: 34px;
-&#x9;content: &#x22;&#x22;;
-&#x9;background-color: #fff;
-&#x9;width: 6px;
-&#x9;display: inline;
-&#x9;margin-top: -1px;
-&#x9;margin-left: -26px;
-&#x9;position: absolute;
-}
-.alert-success, .alert-info, .alert-warning, .alert-danger {
-&#x9;background: #fff !important;
-}
-.alert {
-&#x9;border-width: 1px 1px 1px 4px !important;
-&#x9;margin-left: 12px;
-&#x9;padding-left: 20px;
-&#x9;border-width: 0px 0px 0px 6px!important
-}
-.alert-success &#x3E; :first-child::before, .alert-info &#x3E; :first-child::before, .alert-warning &#x3E; :first-child::before, .alert-danger &#x3E; :first-child::before {
-&#x9;font-size: 26px;
-&#x9;margin-left: -1.48em;
-&#x9;padding: 2px;
-&#x9;line-height: 1.1em;
-}
-.alert &#x3E; :first-child {
-&#x9;margin-left: 0em;
-}
-.alert &#x3E;:first-child::before {
-&#x9;margin-right: 0.4em
-}</code></pre>
-							</details>
-						</div>
-					</div>
-				</details>
-			</section>
-
-		</details>
-
-		<details>
-			<summary>Use the <strong>stable</strong> contextual alerts component</summary>
-			<section>
-				<h2>Working example</h2>
-					<ul>
-						<li><a href="http://wet-boew.github.io/wet-boew-styleguide/design/alerts-en.html">WET: Alerts</a></li>
-					</ul>
-				</section>
-
-				<section class="panel panel-primary">
-					<header class="panel-heading">
-						<h3 class="panel-title">Example</h3>
-					</header>
-				<div class="panel-body">
-					<figure class="mrgn-bttm-sm">
-						<figcaption class="text-center"><b>Contextual alerts pattern</b></figcaption>
-						<img src="https://www.canada.ca/content/dam/tbs-sct/images/government-communications/canada-content-style-guide/contextual-alerts-pattern-eng.jpg" class="img-responsive center-block" alt="Screenshot illustrating the contextual alert pattern on Canada.ca. Details on this graphic can be found in the surrounding text.">
-					</figure>
-				</div>
-			</section>
-		</details>
-
-	</section>
-
-	<!-- <section>
-		<h2 id="research">Research</h2>
-		<h3>Noticeability was not impacted</h3>
-		<details>
-			<summary>First click A/B testing - x participants</summary>
-			<dl class="dl-vertical">
-				<dt>Test procedure</dt>
-				<dd></dd>
-				<dt>Conclusions</dt>
-				<dd>
-					<ul>
-						<li>The new design did not hinder noticeability</li>
-
-						<li>Testing did not reveal a significant increase in noticeability</li>
-					</ul>
-				</dd>
-				<dt>Data</dt>
-				<dd>How to access</dd>
-			<h4>
-
-
-		</details> -->
-		<!-- <h3></h3>
-
-
-		<dl>
-			<dt>Testing</dt>
-
-			<dd>Explanation of the testing / blog article link</dd>
-		</dl>
-	</section> -->
-
-	<section>
-
-		<h2 id="discuss">Discussion</h2>
-		<p><a href="https://github.com/canada-ca/design-system-systeme-conception/issues">Discuss the pattern in github issues</a></p>
 	</section>
 
 	<div class="row pagedetails">
