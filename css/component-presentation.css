@@ -12,3 +12,15 @@
 .pattern-demo.component {
   padding-top:35px;
 }
+
+
+.pattern-demo-design-variant {
+  padding: 10px;
+  padding-top:35px;
+  margin-bottom: 10px;
+  /* padding-bottom:35px; */
+}
+
+.btn-sm-txt {
+  font-size:14px!important;
+}
