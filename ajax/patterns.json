@@ -214,7 +214,7 @@
     "USE": "Home page of each Government of Canada institution - <strong>Mandatory template</strong>",
     "CAT": "Template",
     "TYPE": "Institutional",
-    "EXAMPLE": "<a href=\"https://design.canada.ca/coded-layout/institutional_landing_page_ng.html\">Institutional langing page layout</a>",
+    "EXAMPLE": "<a href=\"https://design.canada.ca/coded-layout/institutional_landing_page_ng.html\">Institutional landing page layout</a>",
     "MANDATORY": "Mandatory"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/recommended-templates/institutional-service-performance-reporting-pages.html\">Institutional service performance reporting page</a>",
