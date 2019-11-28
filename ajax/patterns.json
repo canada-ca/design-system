@@ -1,10 +1,17 @@
-﻿{
+{
   "data": [{
     "NAME": "<a href=\"https://design.canada.ca/recommended-templates/laws-regulations-pages.html#act-profile\">Act profile page</a>",
     "USE": "Gives a 1 or 2 sentence description of the act, allows allows people to read the legislation, and relates an act to topics, institutions, ministers and other legislation.",
     "CAT": "Template",
     "TYPE": "Destination",
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/act-en.html\">Act profile</a>",
+    "MANDATORY": "No"
+  }, {
+	"NAME": "<a href=\"https://design.canada.ca/recommended-templates/generic-destination.html\">Basic page layout</a>",
+    "USE": "The basic layout for Canada.ca pages.",
+    "CAT": "Template",
+    "TYPE": "Destination",
+    "EXAMPLE": "<a href=\"https://design.canada.ca/coded-layout/generic-destination-basic.html\">Basic page</a>",
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/breadcrumb-trail.html\">Breadcrumb trail</a>",
@@ -58,7 +65,6 @@
   }, {
     "NAME": "<a href=\"https://design.canada.ca/recommended-templates/consultations-page.html\">Consultation profile page</a>",
     "USE": "Describes a consultation or engagement activity. Provides the status and outcome of the initiative, background material, data and information about planned or completed events.",
-    "CAT": "Template",
     "CAT": "Template",
     "TYPE": "Destination",
     "EXAMPLE": "&nbsp;",
@@ -194,21 +200,21 @@
     "USE": "List of links that lead to subsections of the same page",
     "CAT": "Design pattern",
     "TYPE": "Navigation",
-    "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/components-en.html\">Component examples</a>",
+    "EXAMPLE": "<a href=\"https://design.canada.ca/coded-layout/generic-destination-toc.html\">Basic page with table of contents</a>",
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/institutional-byline.html\">Institutional byline</a>",
     "USE": "Use to link to the institution responsible for the content",
     "CAT": "Design pattern",
     "TYPE": "Institutional",
-    "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/content-en.html\">Content page</a>",
+    "EXAMPLE": "<a href=\"https://design.canada.ca/coded-layout/generic-destination-byline.html\">Basic page with institutional byline</a>",
     "MANDATORY": "No"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/institutional-profile-pages.html\">Institutional profile page</a>",
-    "USE": "Gives an overview of an institution’s, mandate, programs and information and services - <strong>Mandatory template</strong>",
+    "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/institutional-profile-pages.html\">Institutional landing page</a>",
+    "USE": "Home page of each Government of Canada institution - <strong>Mandatory template</strong>",
     "CAT": "Template",
     "TYPE": "Institutional",
-    "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/institution-en.html\">Institutional profile page</a>",
+    "EXAMPLE": "<a href=\"https://design.canada.ca/coded-layout/institutional_landing_page_ng.html\">Institutional langing page layout</a>",
     "MANDATORY": "Mandatory"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/recommended-templates/institutional-service-performance-reporting-pages.html\">Institutional service performance reporting page</a>",
@@ -306,15 +312,8 @@
     "USE": "Set of links to a group of several pages intended to be read in a preferred order",
     "CAT": "Design pattern",
     "TYPE": "Navigation",
-    "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/advancedservice/index-en.html\">Service initiation</a>",
+    "EXAMPLE": "<a href=\"https://design.canada.ca/coded-layout/generic-destination-sit1.html\">Basic page with ordered multi-page navigation</a>",
     "MANDATORY": "No"
-  }, {
-    "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/organizational-profile-pages.html\">Organizational profile page</a>",
-    "USE": "Gives an overview of the mandate, programs, information and services of an organization associated with a government institution - <strong>Mandatory template</strong>",
-    "CAT": "Template",
-    "TYPE": "Institutional",
-    "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/organizational-en.html\">Organization profile page</a>",
-    "MANDATORY": "Mandatory"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html\">Partnering and collaborative arrangement profile page</a>",
     "USE": "Gives an overview of the mandate and information and services of partnering or&nbsp;collaborative arrangement agreements",
@@ -432,7 +431,7 @@
     "USE": "Separates related content into different panes that are viewable one at a time",
     "CAT": "Design pattern",
     "TYPE": "Navigation",
-    "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/act-en.html\">Act profile</a>",
+    "EXAMPLE": "<a href=\"https://design.canada.ca/coded-layout/generic-destination-tab.html\">Basic page layout with tabbed interface</a>",
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/site-menu.html\">Theme and topic menu</a>",
@@ -455,6 +454,13 @@
     "TYPE": "Theme template",
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/topic-en.html\">Topic</a>",
     "MANDATORY": "Mandatory"
+  }, {
+	"NAME": "<a href=\"https://design.canada.ca/recommended-templates/transparency.html\">Transparency and corporate reporting</a>",
+    "USE": "A corporate reporting page provides proactive disclosure of information offered by that institution.",
+    "CAT": "Template",
+    "TYPE": "Institutional",
+    "EXAMPLE": "<a href=\"https://design.canada.ca/coded-layout/transparency_ng.html\">Transparency template</a>",
+    "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/what-we-are-doing.html\">What we are doing</a>",
     "USE": "Use to link to content that provides background or explanations of GC activities in support of creating or improving public policy",
