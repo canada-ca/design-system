@@ -1066,9 +1066,11 @@ min-width: 50%;
         		$('.component-code').addClass("hidden");
         		$('#'+dv+'-demo').removeClass("hidden");
         		$('#'+dv+'-code').removeClass("hidden");
+            $('#design-variant-menu').val(dv);
         	}
         	if (localStorage.getItem('cv') != null) {
         		$('.code-variant').addClass("hidden");
+            $('#code-variant-menu').val(cv);
         		$('.'+localStorage.getItem('cv')+'-variant').removeClass("hidden");
         	}
 
