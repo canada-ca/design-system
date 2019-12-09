@@ -86,7 +86,7 @@
            </section>
            <div class="row">
               <div class="brand col-xs-5 col-md-4">
-                 <a href="https://www.canada.ca/en.html"><img src="http://www.canada.ca/etc/designs/canada/wet-boew/assets/sig-blk-en.svg" alt=""><span class="wb-inv"> Government of Canada / <span lang="fr">Gouvernement du Canada</span></span></a>
+                 <a href="https://www.canada.ca/en.html"><img src="http://www.canada.ca/etc/designs/canada/wet-boew/assets/sig-blk-en.svg" alt property="logo"><span class="wb-inv"> Government of Canada / <span lang="fr">Gouvernement du Canada</span></span></a>
               </div>
               <section id="wb-srch" class="col-lg-8 text-right">
                  <h2>Search</h2>
@@ -264,12 +264,14 @@
            </div>
            <div class="col-md-3 pull-left">
               <div class="mrgn-bttm-sm">
-                 <label class="h5 ">Design variant</label>
-                 <select id="design-variant-menu" class="form-control">
-                    <option value="required">Required</option>
-                    <option value="optional">Optional</option>
-                    <!-- <option value="inline">Inline</option> -->
-                 </select>
+                 <fieldset>
+                   <label for="design-variant-menu" class="h5 ">Design variant</label>
+                   <select id="design-variant-menu" class="form-control">
+                      <option value="required">Required</option>
+                      <option value="optional">Optional</option>
+                      <!-- <option value="inline">Inline</option> -->
+                   </select>
+                 </fieldset>
               </div>
            </div>
         </div>
@@ -915,15 +917,17 @@ min-width: 50%;
            </div>
            <div class="col-md-3 pull-left">
               <div class="mrgn-bttm-sm">
-                 <label class="h5">Code variant</label>
-                 <select id="code-variant-menu" class="form-control">
-                    <option value="beta">Beta</option>
-                    <option value="wet4">WET 4</option>
-                    <option value="wet4">AEM variant (fieldflow)</option>
-                    <option value="wet5">WET 5</option>
-                    <option value="react">ReactJS</option>
-                    <option value="angular">Angular</option>
-                 </select>
+                 <fieldset>
+                   <label for="code-variant-menu" class="h5">Code variant</label>
+                   <select id="code-variant-menu" class="form-control">
+                      <option value="beta">Beta</option>
+                      <option value="wet4">WET 4</option>
+                      <option value="wet4">AEM variant (fieldflow)</option>
+                      <option value="wet5">WET 5</option>
+                      <option value="react">ReactJS</option>
+                      <option value="angular">Angular</option>
+                   </select>
+                 </fieldset>
               </div>
            </div>
         </div>
