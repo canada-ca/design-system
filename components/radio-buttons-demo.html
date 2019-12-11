@@ -5,8 +5,7 @@
   <!--<![endif]-->
   <head>
      <meta charset="utf-8">
-     <!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
-        wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
+     <!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW) wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
      <title>Radio buttons - Demo and code - Components - Canada.ca</title>
      <meta content="width=device-width,initial-scale=1" name="viewport">
      <!--[if gte IE 9 | !IE ]><!-->
@@ -152,13 +151,6 @@
      </header>
      <!--/* Hide Nav; Hide Right Rail /*-->
      <main role="main" property="mainContentOfPage" class="container wb-prettify all-pre">
-        <!-- <nav class="section-menu mobile">
-           <h2 class="menu-title">Contextual alerts</h2>
-           <ul class="list-unstyled list-inline">
-           <li><a class="btn btn-default" href="./contextual-alerts-design-guidelines.html"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a></li>
-           <li><a class="btn btn-primary" style="color:white;"><span class="fas fa-laptop-code"></span> Component demo</a></li>
-           </ul>
-           </nav> -->
         <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Radio buttons</span>: <span>Demo and code</span></span></h1>
         <div class="row profile">
            <div class="col-md-9">
@@ -174,27 +166,11 @@
               </div>
            </div>
            <div class="col-md-12">
-              <!-- <section class="wb-inview bar-demo" data-inview="bottom-bar">
-                 <div class="btn-group mrgn-bttm-lg">
-                 	<a class="btn btn-default" href="./contextual-alerts-design-guidelines.html"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a>
-                 	<a class="btn btn-default active"><span class="fas fa-laptop-code"></span> Demo and code</a>
-                 </div>
-                 </section>
-                 <section id="bottom-bar" class="wb-overlay modal-content overlay-def wb-bar-b" style="text-align:center;">
-                 <div class="btn-group btn-group-sm mrgn-bttm-sm mrgn-tp-md" style="display:inline-block;">
-                 	<a class="btn btn-default" href="./contextual-alerts-design-guidelines.html"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a>
-                 	<a class="btn btn-default active"><span class="fas fa-laptop-code"></span> Demo and code</a>
-                 </div>
-                 </section> -->
               <div class="btn-group mrgn-bttm-sm mrgn-tp-md">
-                 <a class="btn btn-default" href="./radio-buttons-guide.html"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a>
+                 <a class="btn btn-default" href="./radio-buttons.html"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a>
                  <a class="btn btn-default active"><span class="fas fa-laptop-code"></span> Demo and code</a>
                  <a class="btn btn-default" href="./radio-buttons-rationale.html"><span class="fas fa-microscope"></span> Rationale</a>
               </div>
-              <!-- <ul class="list-unstyled list-inline btn-group">
-                 <li><a class="btn btn-default" href="./contextual-alerts-design-guidelines.html"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a></li>
-                 <li><a class="btn btn-primary disabled" style="color:white;"><span class="fas fa-laptop-code"></span> Demo and code</a></li>
-                 </ul> -->
            </div>
         </div>
         <div class="row">
@@ -240,26 +216,6 @@
                        <input type="submit" value="Continue" class="btn btn-call-to-action mrgn-bttm-md">
                     </div>
                  </div>
-                 <!-- <div id="inline-demo" class="component-demo hidden">
-                    <div class="wb-frmvld">
-                    	<form>
-                    		<fieldset class="chkbxrdio-grp form-inline">
-                    			<legend>Question</legend>
-                    			<ul class="list-unstyled can-ca-form">
-                    				<li class="radio">
-                    					<input id="radio-item-inline-1" type="radio" name="radio-inline-example" required="required">
-                    					<label for="radio-item-inline-1">Item 1</label>
-                    				</li>
-                    				<li class="radio">
-                    					<input id="radio-item-inline-2" type="radio" name="radio-inline-example">
-                    					<label for="radio-item-inline-2">Item 2</label>
-                    				</li>
-                    			</ul>
-                    		</fieldset>
-                    		<input type="submit" value="Continue" class="btn btn-call-to-action mrgn-bttm-md">
-                    	</form>
-                    </div>
-                    </div> -->
               </div>
            </div>
            <div class="col-md-3 pull-left">
@@ -283,220 +239,207 @@
                        <div class="tabpanels">
                           <details id="required-details-panel1">
                              <summary>HTML</summary>
-                             <pre><code>&#x3C;div class=&#x22;wb-frmvld&#x22;&#x3E;
-&#x3C;form&#x3E;
-&#x3C;fieldset class=&#x22;chkbxrdio-grp&#x22;&#x3E;
-&#x3C;legend class=&#x22;h5&#x22;&#x3E;Question&#x3C;/legend&#x3E;
-&#x3C;ul class=&#x22;list-unstyled can-ca-form&#x22;&#x3E;
-&#x3C;li class=&#x22;radio&#x22;&#x3E;
- &#x3C;input id=&#x22;radio-item-1&#x22; type=&#x22;radio&#x22; name=&#x22;radio-example&#x22; required=&#x22;required&#x22;&#x3E;
- &#x3C;label for=&#x22;radio-item-1&#x22;&#x3E;Item 1&#x3C;/label&#x3E;
-&#x3C;/li&#x3E;
-&#x3C;li class=&#x22;radio&#x22;&#x3E;
- &#x3C;input id=&#x22;radio-item-2&#x22; type=&#x22;radio&#x22; name=&#x22;radio-example&#x22;&#x3E;
- &#x3C;label for=&#x22;radio-item-2&#x22;&#x3E;Item 2&#x3C;/label&#x3E;
-&#x3C;/li&#x3E;
-&#x3C;/ul&#x3E;
-&#x3C;/fieldset&#x3E;
-&#x3C;input type=&#x22;submit&#x22; value=&#x22;Continue&#x22; class=&#x22;btn btn-call-to-action mrgn-bttm-md&#x22;&#x3E;
-&#x3C;/form&#x3E;
+                             <pre><code>
+&#x3C;div class=&#x22;wb-frmvld&#x22;&#x3E;
+  &#x3C;form&#x3E;
+    &#x3C;fieldset class=&#x22;chkbxrdio-grp&#x22;&#x3E;
+      &#x3C;legend class=&#x22;h5&#x22;&#x3E;Question&#x3C;/legend&#x3E;
+        &#x3C;ul class=&#x22;list-unstyled can-ca-form&#x22;&#x3E;
+          &#x3C;li class=&#x22;radio&#x22;&#x3E;
+            &#x3C;input id=&#x22;radio-item-1&#x22; type=&#x22;radio&#x22; name=&#x22;radio-example&#x22; required=&#x22;required&#x22;&#x3E;
+            &#x3C;label for=&#x22;radio-item-1&#x22;&#x3E;Item 1&#x3C;/label&#x3E;
+          &#x3C;/li&#x3E;
+          &#x3C;li class=&#x22;radio&#x22;&#x3E;
+            &#x3C;input id=&#x22;radio-item-2&#x22; type=&#x22;radio&#x22; name=&#x22;radio-example&#x22;&#x3E;
+            &#x3C;label for=&#x22;radio-item-2&#x22;&#x3E;Item 2&#x3C;/label&#x3E;
+          &#x3C;/li&#x3E;
+        &#x3C;/ul&#x3E;
+    &#x3C;/fieldset&#x3E;
+    &#x3C;input type=&#x22;submit&#x22; value=&#x22;Continue&#x22; class=&#x22;btn btn-call-to-action mrgn-bttm-md&#x22;&#x3E;
+  &#x3C;/form&#x3E;
 &#x3C;/div&#x3E;</code></pre>
                           </details>
                           <details id="required-details-panel2">
                              <summary>CSS</summary>
-                             <pre><code>/* bigger label */
+                             <pre><code>
+/* bigger label */
 label {
-font-size: 20px !important; /*will not use important tags on PR, will correct source */
+  font-size: 20px !important; /*will not use important tags on PR, will correct source */
 }
 
 .label {
-text-align: left!important;
-display:inline-block!important;
-clear: left!important;
-white-space:normal!important;
+  text-align: left!important;
+  display:inline-block!important;
+  clear: left!important;
+  white-space:normal!important;
 }
 
 .checkbox-small label {
-font-size: 17px !important; /* important needed for now, will rmv later */
+  font-size: 17px !important; /* important needed for now, will rmv later */
 }
-/* increase field flow sizing */
 
+/* increase field flow sizing */
 legend.h5 {
-margin-top: 0px !important; /*will not use important tags on PR, will correct source */
-font-size: 22px !important; /*will not use important tags on PR, will correct source */
-margin-bottom: 15px !important; /*will not use important tags on PR, will correct source */
+  margin-top: 0px !important; /*will not use important tags on PR, will correct source */
+  font-size: 22px !important; /*will not use important tags on PR, will correct source */
+  margin-bottom: 15px !important; /*will not use important tags on PR, will correct source */
 }
 
 .btn {
-font-size: 20px !important; /*will not use important tags on PR, will correct source */
-font-variant-ligatures: no-common-ligatures;
+  font-size: 20px !important; /*will not use important tags on PR, will correct source */
+  font-variant-ligatures: no-common-ligatures;
 }
 
 .pagedetails .btn  {
-font-size: 16px !important; /*will not use important tags on PR, will correct source */
-font-variant-ligatures: no-common-ligatures;
+  font-size: 16px !important; /*will not use important tags on PR, will correct source */
+  font-variant-ligatures: no-common-ligatures;
 }
 
-input[type=&#x22;reset&#x22;], input[type=&#x22;button&#x22;], input[type=&#x22;submit&#x22;]
-
-{
-height: 50px!important;
+input[type=&#x22;reset&#x22;],
+input[type=&#x22;button&#x22;], 
+input[type=&#x22;submit&#x22;] {
+  height: 50px!important;
 }
 
 /* better focus on buttons */
-
-.btn-primary:focus, .btn-primary.focus {
-box-shadow: 0 0 5pt 4pt rgb(59, 153, 252);
-outline: 2px solid white;
+.btn-primary:focus,
+.btn-primary.focus {
+  box-shadow: 0 0 5pt 4pt rgb(59, 153, 252);
+  outline: 2px solid white;
 }
+
 /* custom checkboxes */
-
 .can-ca-form input {
-position: absolute;
-opacity: 0;
+  position: absolute;
+  opacity: 0;
 }
-
 
 .can-ca-form .is-disabled {
-opacity: 0.5;
+  opacity: 0.5;
 }
 
 .can-ca-form .is-disabled label {
-cursor: not-allowed;
+  cursor: not-allowed;
 }
 
 .can-ca-form {
-clear: both;
-padding-top: 6px;
+  clear: both;
+  padding-top: 6px;
 }
 
 .can-ca-form .checkbox,
 .can-ca-form .radio,
 .can-ca-form .form-checkbox,
 .can-ca-form .form-radio {
-
-position: relative;
-cursor: pointer;
-font-weight: normal;
--webkit-user-select: none;
--moz-user-select: none;
--ms-user-select: none;
-user-select: none;
-
+  position: relative;
+  cursor: pointer;
+  font-weight: normal;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 
 .can-ca-form .checkbox,
 .can-ca-form .radio {
-
-padding-left: 30px;
-margin-bottom: 32px;
-
+  padding-left: 30px;
+  margin-bottom: 32px;
 }
 
 .can-ca-form .checkbox-small {
-padding-left: 16px;
-margin-bottom: 25px;
+  padding-left: 16px;
+  margin-bottom: 25px;
 }
 
 .can-ca-form .form-checkbox,
 .can-ca-form .form-radio {
-
-margin-right: 30px;
-margin-bottom: 25px;
-min-width: 26%; /* prevents weird overlapping */
-
+  margin-right: 30px;
+  margin-bottom: 25px;
+  min-width: 26%; /* prevents weird overlapping */
 }
-
 
 .can-ca-form .form-checkbox label,
 .can-ca-form .form-radio label {
-padding-left: 50px;
-
+  padding-left: 50px;
 }
 
 .can-ca-form .checkbox label::before,
 .can-ca-form .radio label::before,
 .can-ca-form .form-checkbox label::before,
 .can-ca-form .form-radio label::before {
-content: &#x22;&#x22;;
-box-sizing: border-box;
-position: absolute;
-display: inline-block;
-top: 0;
-left: 0;
-width: 36px;
-height: 36px;
-border: 2px solid #333;
-margin-top: -4px;
-
+  content: &#x22;&#x22;;
+  box-sizing: border-box;
+  position: absolute;
+  display: inline-block;
+  top: 0;
+  left: 0;
+  width: 36px;
+  height: 36px;
+  border: 2px solid #333;
+  margin-top: -4px;
 }
 
 .can-ca-form .checkbox-small label::before {
-content: &#x22;&#x22;;
-box-sizing: border-box;
-position: absolute;
-display: inline-block;
-top: 0;
-left: 0;
-width: 24px;
-height: 24px;
-border: 2px solid #333;
-margin-top: 0;
-
+  content: &#x22;&#x22;;
+  box-sizing: border-box;
+  position: absolute;
+  display: inline-block;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  border: 2px solid #333;
+  margin-top: 0;
 }
-
 
 .can-ca-form .radio label::before,
 .can-ca-form .form-radio label::before {
-content: &#x22;&#x22;;
-border-radius: 50%;
+  content: &#x22;&#x22;;
+  border-radius: 50%;
 }
-
 
 .can-ca-form .checkbox label::after,
 .can-ca-form .form-checkbox label::after {
-content: &#x22;&#x22;;
-display: inline-block;
-position: absolute;
-left: 12px;
-top: 0px;
-width: 13px;
-height: 22px;
-border: solid #333;
-border-width: 0 5px 5px 0;
--webkit-transform: rotate(45deg);
--ms-transform: rotate(45deg);
-transform: rotate(45deg);
-
+  content: &#x22;&#x22;;
+  display: inline-block;
+  position: absolute;
+  left: 12px;
+  top: 0px;
+  width: 13px;
+  height: 22px;
+  border: solid #333;
+  border-width: 0 5px 5px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
 }
 
 .can-ca-form .checkbox-small label::after {
-content: &#x22;&#x22;;
-display: inline-block;
-position: absolute;
-left: 8px;
-top: 2px;
-width: 8px;
-height: 14px;
-border: solid #333;
-border-width: 0 3px 3px 0;
--webkit-transform: rotate(45deg);
--ms-transform: rotate(45deg);
-transform: rotate(45deg);
-
+  content: &#x22;&#x22;;
+  display: inline-block;
+  position: absolute;
+  left: 8px;
+  top: 2px;
+  width: 8px;
+  height: 14px;
+  border: solid #333;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
 }
 
 .can-ca-form .radio label::after,
 .can-ca-form .form-radio label::after {
-content: &#x22;&#x22;;
-display: inline-block;
-position: absolute;
-top: 4px;
-left: 8px;
-width: 20px;
-height: 20px;
-border-radius: 50%;
-background: #333;
+  content: &#x22;&#x22;;
+  display: inline-block;
+  position: absolute;
+  top: 4px;
+  left: 8px;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #333;
 }
 
 /* hide the check */
@@ -504,7 +447,7 @@ background: #333;
 .can-ca-form .form-radio input[type=&#x22;radio&#x22;] + label::after,
 .can-ca-form .checkbox input[type=&#x22;checkbox&#x22;] + label::after,
 .can-ca-form .radio input[type=&#x22;radio&#x22;] + label::after {
-content: none;
+  content: none;
 }
 
 /* unhide check when checked */
@@ -512,7 +455,7 @@ content: none;
 .can-ca-form .form-radio input[type=&#x22;radio&#x22;]:checked + label::after,
 .can-ca-form .checkbox input[type=&#x22;checkbox&#x22;]:checked + label::after,
 .can-ca-form .radio input[type=&#x22;radio&#x22;]:checked + label::after {
-content: &#x22;&#x22;;
+  content: &#x22;&#x22;;
 }
 
 /* add focus */
@@ -520,44 +463,44 @@ content: &#x22;&#x22;;
 .can-ca-form .form-checkbox input[type=&#x22;checkbox&#x22;]:focus + label::before,
 .can-ca-form .form-radio input[type=&#x22;radio&#x22;]:focus + label::before,
 .can-ca-form .radio input[type=&#x22;radio&#x22;]:focus + label::before  {
-box-shadow: 0 0 3pt 2pt rgb(59, 153, 252);
+  box-shadow: 0 0 3pt 2pt rgb(59, 153, 252);
 }
 
 
 /* for green checks */
-
 .can-ca-form .checkbox-green label::after {
-content: &#x22;&#x22;;
-border: solid white;
-border-width: 0 5px 5px 0;
+  content: &#x22;&#x22;;
+  border: solid white;
+  border-width: 0 5px 5px 0;
 }
 
 /* for green checks */
 .can-ca-form .checkbox-green input[type=&#x22;checkbox&#x22;]:checked + label:before {
-background-color: #318000;
+  background-color: #318000;
 }
 
 @media only screen and (max-width: 1200px) {
-
-.can-ca-form .form-checkbox,
-.can-ca-form .form-radio {
-min-width: 50%;
+  .can-ca-form .form-checkbox,
+  .can-ca-form .form-radio {
+    min-width: 50%;
+  }
 }
-
-}</code></pre>
+                              </code>
+                           </pre>
                           </details>
                           <details id="required-details-panel3">
                              <summary>JavaScript</summary>
-                             <pre><code>//Using JavaScript to listen for selections
+                             <pre>
+                                <code>
+//Using JavaScript to listen for selections
 
 //Using JavaScript to hide or show content
 
 //Using JavaScript to pull in content
 
 //etc
-
-
-</code></pre>
+                                 </code>
+                              </pre>
                           </details>
                        </div>
                     </div>
@@ -581,220 +524,210 @@ min-width: 50%;
                        <div class="tabpanels">
                           <details id="optional-details-panel1">
                              <summary>HTML</summary>
-                             <pre><code>&#x3C;div class=&#x22;wb-frmvld&#x22;&#x3E;
-&#x3C;form&#x3E;
-&#x3C;fieldset class=&#x22;chkbxrdio-grp&#x22;&#x3E;
-&#x3C;legend class=&#x22;h5&#x22;&#x3E;Question (optional)&#x3C;/legend&#x3E;
-&#x3C;ul class=&#x22;list-unstyled can-ca-form&#x22;&#x3E;
-&#x3C;li class=&#x22;radio&#x22;&#x3E;
- &#x3C;input id=&#x22;radio-item-optional-1&#x22; type=&#x22;radio&#x22; name=&#x22;radio-optional-example&#x22;&#x3E;
- &#x3C;label for=&#x22;radio-item-optional-1&#x22;&#x3E;Item 1&#x3C;/label&#x3E;
-&#x3C;/li&#x3E;
-&#x3C;li class=&#x22;radio&#x22;&#x3E;
- &#x3C;input id=&#x22;radio-item-optional-2&#x22; type=&#x22;radio&#x22; name=&#x22;radio-optional-example&#x22;&#x3E;
- &#x3C;label for=&#x22;radio-item-optional-2&#x22;&#x3E;Item 2&#x3C;/label&#x3E;
-&#x3C;/li&#x3E;
-&#x3C;/ul&#x3E;
-&#x3C;/fieldset&#x3E;
-&#x3C;/form&#x3E;
-&#x3C;input type=&#x22;submit&#x22; value=&#x22;Continue&#x22; class=&#x22;btn btn-call-to-action mrgn-bttm-md&#x22;&#x3E;
-&#x3C;/div&#x3E;</code></pre>
-                          </details>
-                          <details id="optional-details-panel2">
+                             <pre>
+                                <code>
+&#x3C;div class=&#x22;wb-frmvld&#x22;&#x3E;
+  &#x3C;form&#x3E;
+    &#x3C;fieldset class=&#x22;chkbxrdio-grp&#x22;&#x3E;
+      &#x3C;legend class=&#x22;h5&#x22;&#x3E;Question (optional)&#x3C;/legend&#x3E;
+      &#x3C;ul class=&#x22;list-unstyled can-ca-form&#x22;&#x3E;
+        &#x3C;li class=&#x22;radio&#x22;&#x3E;
+          &#x3C;input id=&#x22;radio-item-optional-1&#x22; type=&#x22;radio&#x22; name=&#x22;radio-optional-example&#x22;&#x3E;
+          &#x3C;label for=&#x22;radio-item-optional-1&#x22;&#x3E;Item 1&#x3C;/label&#x3E;
+        &#x3C;/li&#x3E;
+        &#x3C;li class=&#x22;radio&#x22;&#x3E;
+          &#x3C;input id=&#x22;radio-item-optional-2&#x22; type=&#x22;radio&#x22; name=&#x22;radio-optional-example&#x22;&#x3E;
+          &#x3C;label for=&#x22;radio-item-optional-2&#x22;&#x3E;Item 2&#x3C;/label&#x3E;
+        &#x3C;/li&#x3E;
+      &#x3C;/ul&#x3E;
+    &#x3C;/fieldset&#x3E;
+  &#x3C;/form&#x3E;
+  &#x3C;input type=&#x22;submit&#x22; value=&#x22;Continue&#x22; class=&#x22;btn btn-call-to-action mrgn-bttm-md&#x22;&#x3E;
+&#x3C;/div&#x3E;
+                              </code>
+                           </pre>
+                         </details>
+                         <details id="optional-details-panel2">
                              <summary>CSS</summary>
                              <pre><code>/* bigger label */
 label {
-font-size: 20px !important; /*will not use important tags on PR, will correct source */
+  font-size: 20px !important; /*will not use important tags on PR, will correct source */
 }
 
 .label {
-text-align: left!important;
-display:inline-block!important;
-clear: left!important;
-white-space:normal!important;
+  text-align: left!important;
+  display:inline-block!important;
+  clear: left!important;
+  white-space:normal!important;
 }
 
 .checkbox-small label {
-font-size: 17px !important; /* important needed for now, will rmv later */
+  font-size: 17px !important; /* important needed for now, will rmv later */
 }
-/* increase field flow sizing */
 
+/* increase field flow sizing */
 legend.h5 {
-margin-top: 0px !important; /*will not use important tags on PR, will correct source */
-font-size: 22px !important; /*will not use important tags on PR, will correct source */
-margin-bottom: 15px !important; /*will not use important tags on PR, will correct source */
+  margin-top: 0px !important; /*will not use important tags on PR, will correct source */
+  font-size: 22px !important; /*will not use important tags on PR, will correct source */
+  margin-bottom: 15px !important; /*will not use important tags on PR, will correct source */
 }
 
 .btn {
-font-size: 20px !important; /*will not use important tags on PR, will correct source */
-font-variant-ligatures: no-common-ligatures;
+  font-size: 20px !important; /*will not use important tags on PR, will correct source */
+  font-variant-ligatures: no-common-ligatures;
 }
 
 .pagedetails .btn  {
-font-size: 16px !important; /*will not use important tags on PR, will correct source */
-font-variant-ligatures: no-common-ligatures;
+  font-size: 16px !important; /*will not use important tags on PR, will correct source */
+  font-variant-ligatures: no-common-ligatures;
 }
 
-input[type=&#x22;reset&#x22;], input[type=&#x22;button&#x22;], input[type=&#x22;submit&#x22;]
-
-{
-height: 50px!important;
+input[type=&#x22;reset&#x22;],
+input[type=&#x22;button&#x22;],
+input[type=&#x22;submit&#x22;] {
+  height: 50px!important;
 }
 
 /* better focus on buttons */
-
 .btn-primary:focus, .btn-primary.focus {
-box-shadow: 0 0 5pt 4pt rgb(59, 153, 252);
-outline: 2px solid white;
+  box-shadow: 0 0 5pt 4pt rgb(59, 153, 252);
+  outline: 2px solid white;
 }
+
 /* custom checkboxes */
-
 .can-ca-form input {
-position: absolute;
-opacity: 0;
+  position: absolute;
+  opacity: 0;
 }
-
 
 .can-ca-form .is-disabled {
-opacity: 0.5;
+  opacity: 0.5;
 }
 
 .can-ca-form .is-disabled label {
-cursor: not-allowed;
+  cursor: not-allowed;
 }
 
 .can-ca-form {
-clear: both;
-padding-top: 6px;
+  clear: both;
+  padding-top: 6px;
 }
 
 .can-ca-form .checkbox,
 .can-ca-form .radio,
 .can-ca-form .form-checkbox,
 .can-ca-form .form-radio {
-
-position: relative;
-cursor: pointer;
-font-weight: normal;
--webkit-user-select: none;
--moz-user-select: none;
--ms-user-select: none;
-user-select: none;
-
+  position: relative;
+  cursor: pointer;
+  font-weight: normal;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 
 .can-ca-form .checkbox,
 .can-ca-form .radio {
-
-padding-left: 30px;
-margin-bottom: 32px;
-
+  padding-left: 30px;
+  margin-bottom: 32px;
 }
 
 .can-ca-form .checkbox-small {
-padding-left: 16px;
-margin-bottom: 25px;
+  padding-left: 16px;
+  margin-bottom: 25px;
 }
 
 .can-ca-form .form-checkbox,
 .can-ca-form .form-radio {
-
-margin-right: 30px;
-margin-bottom: 25px;
-min-width: 26%; /* prevents weird overlapping */
-
+  margin-right: 30px;
+  margin-bottom: 25px;
+  min-width: 26%; /* prevents weird overlapping */
 }
-
 
 .can-ca-form .form-checkbox label,
 .can-ca-form .form-radio label {
-padding-left: 50px;
-
+  padding-left: 50px;
 }
 
 .can-ca-form .checkbox label::before,
 .can-ca-form .radio label::before,
 .can-ca-form .form-checkbox label::before,
 .can-ca-form .form-radio label::before {
-content: &#x22;&#x22;;
-box-sizing: border-box;
-position: absolute;
-display: inline-block;
-top: 0;
-left: 0;
-width: 36px;
-height: 36px;
-border: 2px solid #333;
-margin-top: -4px;
-
+  content: &#x22;&#x22;;
+  box-sizing: border-box;
+  position: absolute;
+  display: inline-block;
+  top: 0;
+  left: 0;
+  width: 36px;
+  height: 36px;
+  border: 2px solid #333;
+  margin-top: -4px;
 }
 
 .can-ca-form .checkbox-small label::before {
-content: &#x22;&#x22;;
-box-sizing: border-box;
-position: absolute;
-display: inline-block;
-top: 0;
-left: 0;
-width: 24px;
-height: 24px;
-border: 2px solid #333;
-margin-top: 0;
-
+  content: &#x22;&#x22;;
+  box-sizing: border-box;
+  position: absolute;
+  display: inline-block;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  border: 2px solid #333;
+  margin-top: 0;
 }
 
 
 .can-ca-form .radio label::before,
 .can-ca-form .form-radio label::before {
-content: &#x22;&#x22;;
-border-radius: 50%;
+  content: &#x22;&#x22;;
+  border-radius: 50%;
 }
 
 
 .can-ca-form .checkbox label::after,
 .can-ca-form .form-checkbox label::after {
-content: &#x22;&#x22;;
-display: inline-block;
-position: absolute;
-left: 12px;
-top: 0px;
-width: 13px;
-height: 22px;
-border: solid #333;
-border-width: 0 5px 5px 0;
--webkit-transform: rotate(45deg);
--ms-transform: rotate(45deg);
-transform: rotate(45deg);
-
+  content: &#x22;&#x22;;
+  display: inline-block;
+  position: absolute;
+  left: 12px;
+  top: 0px;
+  width: 13px;
+  height: 22px;
+  border: solid #333;
+  border-width: 0 5px 5px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
 }
 
 .can-ca-form .checkbox-small label::after {
-content: &#x22;&#x22;;
-display: inline-block;
-position: absolute;
-left: 8px;
-top: 2px;
-width: 8px;
-height: 14px;
-border: solid #333;
-border-width: 0 3px 3px 0;
--webkit-transform: rotate(45deg);
--ms-transform: rotate(45deg);
-transform: rotate(45deg);
-
+  content: &#x22;&#x22;;
+  display: inline-block;
+  position: absolute;
+  left: 8px;
+  top: 2px;
+  width: 8px;
+  height: 14px;
+  border: solid #333;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
 }
 
 .can-ca-form .radio label::after,
 .can-ca-form .form-radio label::after {
-content: &#x22;&#x22;;
-display: inline-block;
-position: absolute;
-top: 4px;
-left: 8px;
-width: 20px;
-height: 20px;
-border-radius: 50%;
-background: #333;
+  content: &#x22;&#x22;;
+  display: inline-block;
+  position: absolute;
+  top: 4px;
+  left: 8px;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #333;
 }
 
 /* hide the check */
@@ -802,7 +735,7 @@ background: #333;
 .can-ca-form .form-radio input[type=&#x22;radio&#x22;] + label::after,
 .can-ca-form .checkbox input[type=&#x22;checkbox&#x22;] + label::after,
 .can-ca-form .radio input[type=&#x22;radio&#x22;] + label::after {
-content: none;
+  content: none;
 }
 
 /* unhide check when checked */
@@ -810,7 +743,7 @@ content: none;
 .can-ca-form .form-radio input[type=&#x22;radio&#x22;]:checked + label::after,
 .can-ca-form .checkbox input[type=&#x22;checkbox&#x22;]:checked + label::after,
 .can-ca-form .radio input[type=&#x22;radio&#x22;]:checked + label::after {
-content: &#x22;&#x22;;
+  content: &#x22;&#x22;;
 }
 
 /* add focus */
@@ -818,31 +751,29 @@ content: &#x22;&#x22;;
 .can-ca-form .form-checkbox input[type=&#x22;checkbox&#x22;]:focus + label::before,
 .can-ca-form .form-radio input[type=&#x22;radio&#x22;]:focus + label::before,
 .can-ca-form .radio input[type=&#x22;radio&#x22;]:focus + label::before  {
-box-shadow: 0 0 3pt 2pt rgb(59, 153, 252);
+  box-shadow: 0 0 3pt 2pt rgb(59, 153, 252);
 }
 
-
 /* for green checks */
-
 .can-ca-form .checkbox-green label::after {
-content: &#x22;&#x22;;
-border: solid white;
-border-width: 0 5px 5px 0;
+  content: &#x22;&#x22;;
+  border: solid white;
+  border-width: 0 5px 5px 0;
 }
 
 /* for green checks */
 .can-ca-form .checkbox-green input[type=&#x22;checkbox&#x22;]:checked + label:before {
-background-color: #318000;
+  background-color: #318000;
 }
 
 @media only screen and (max-width: 1200px) {
-
-.can-ca-form .form-checkbox,
-.can-ca-form .form-radio {
-min-width: 50%;
+  .can-ca-form .form-checkbox,
+  .can-ca-form .form-radio {
+    min-width: 50%;
+  }
 }
-
-}</code></pre>
+                              </code>
+                           </pre>
                           </details>
                           <details id="optional-details-panel3">
                              <summary>JavaScript</summary>
@@ -934,40 +865,6 @@ min-width: 50%;
            <h2 id="how">Customisation</h2>
            <section data-ajax-replace="./reusable-content/checkboxes-radio-buttons-customisation.html"></section>
         </section>
-        <!-- <section>
-           <h3 id="states">States</h3>
-           <p>There are no additional states for the alert component.</p>
-           </section> -->
-        <!-- <section>
-           <h2 id="issues">Information schemas</h2>
-           <p><strong>Usage:</strong> Use the schema to submit code for automated actions (??).</p>
-           <div class="row">
-           	<div class="col-md-9 col-lg-8">
-           		<details>
-           			<summary>Schema templates</summary>
-           			<div class="wb-tabs">
-           				<div class="tabpanels">
-           					<details id="schema-details-panel1">
-           						<summary>Basic</summary>
-
-           					</details>
-           					<details id="schema-details-panel2">
-           						<summary>Shapes graphs</summary>
-
-           					</details>
-           					<details id="schema-details-panel3">
-           						<summary>JSON-LD</summary>
-
-           					</details>
-           				</div>
-           			</div>
-           		</details>
-           	</div>
-           </div>
-           </section> -->
-        <!-- <section>
-           <h2 id="issues">Known issues</h2>
-           </section> -->
         <section>
            <h2 id="versions">Latest changes</h2>
            <dl class="dl-horizontal">
