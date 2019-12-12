@@ -176,25 +176,45 @@
         <div class="row">
            <div class="col-md-9 col-xs-12 mrgn-tp-md pull-right">
               <div class="pattern-demo pattern-demo-component">
-                 <div id="required-demo" class="component-demo">
-                    <div class="wb-frmvld">
-                       <form>
-                          <fieldset class="chkbxrdio-grp">
-                             <legend class="h5">Question</legend>
-                             <ul class="list-unstyled can-ca-form">
-                                <li class="radio">
-                                   <input id="radio-item-1" type="radio" name="radio-example" required="required">
-                                   <label for="radio-item-1">Item 1</label>
-                                </li>
-                                <li class="radio">
-                                   <input id="radio-item-2" type="radio" name="radio-example">
-                                   <label for="radio-item-2">Item 2</label>
-                                </li>
-                             </ul>
-                          </fieldset>
-                          <input type="submit" value="Continue" class="btn btn-call-to-action mrgn-bttm-md">
-                       </form>
-                    </div>
+                 <div id="responsive-striped-demo" class="component-demo">
+                   <table class="table table-striped" id="myTable">
+                     <caption class="wb-inv">Population growth in Canadian cities</caption>
+                     <thead>
+                       <tr class="d2">
+                         <th scope="col">City</th>
+                         <th scope="col">Population in 2007</th>
+                         <th scope="col">Population in 2017</th>
+                         <th scope="col">Percentage change</th>
+                       </tr>
+                     </thead>
+                     <tbody>
+                       <tr valign="top">
+                         <td data-label="City">Toronto</td>
+                         <td data-label="Population in 2007">5,418,207</td>
+                         <td data-label="Population in 2017">6,346,088</td>
+                         <td data-label="Percentage change">17.1%</td>
+                       </tr>
+                       <tr valign="top">
+                         <td data-label="City">Montréal</td>
+                         <td data-label="Population in 2007">3,714,846</td>
+                         <td data-label="Population in 2017">4,138,254</td>
+                         <td data-label="Percentage change">11.4%</td>
+                       </tr>
+                       <!-- <tr valign="top">
+                         <td data-label="City">Vancouver</td>
+                         <td data-label="Population in 2007">2,218,134</td>
+                         <td data-label="Population in 2017">2,571,262</td>
+                         <td data-label="Percentage change">15.9%</td>
+                       </tr>
+                       <tr valign="top">
+                         <td data-label="City">Ottawa–Gatineau</td>
+                         <td data-label="Population in 2007">1,188,073</td>
+                         <td data-label="Population in 2017">1,377,016	</td>
+                         <td data-label="Percentage change">15.9%</td>
+                       </tr> -->
+                     </tbody>
+                   </table>
+                   <p><strong>Sources:</strong> Statistics Canada, CANSIM tables <a href="http://www5.statcan.gc.ca/cansim/a26?lang=eng&retrLang=eng&id=0510001&&pattern=&stByVal=1&p1=1&p2=50&tabMode=dataTable&csid=">051-0001</a> and <a href="http://www5.statcan.gc.ca/cansim/a26?lang=eng&retrLang=eng&id=0510056&&pattern=&stByVal=1&p1=1&p2=50&tabMode=dataTable&csid=">051-0056</a>.</p>
                  </div>
                  <div id="optional-demo" class="component-demo hidden">
                     <div class="wb-frmvld">
