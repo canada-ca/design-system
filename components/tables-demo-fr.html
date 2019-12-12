@@ -167,80 +167,34 @@
            </div>
            <div class="col-md-12">
               <div class="btn-group mrgn-bttm-sm mrgn-tp-md">
-                 <a class="btn btn-default" href="./tables.html"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a>
+                 <a class="btn btn-default" href="./radio-buttons.html"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a>
                  <a class="btn btn-default active"><span class="fas fa-laptop-code"></span> Demo and code</a>
-                 <a class="btn btn-default" href="./tables-rationale.html"><span class="fas fa-microscope"></span> Rationale</a>
+                 <a class="btn btn-default" href="./radio-buttons-rationale.html"><span class="fas fa-microscope"></span> Rationale</a>
               </div>
            </div>
         </div>
         <div class="row">
            <div class="col-md-9 col-xs-12 mrgn-tp-md pull-right">
               <div class="pattern-demo pattern-demo-component">
-                 <div id="basic-demo" class="component-demo">
-                   <table class="table" id="myTable">
-                     <caption class="wb-inv">Population growth in Canadian cities</caption>
-                     <thead>
-                       <tr class="d2">
-                         <th scope="col">City</th>
-                         <th scope="col">Population in 2007</th>
-                         <th scope="col">Population in 2017</th>
-                         <th scope="col">Percentage change</th>
-                       </tr>
-                     </thead>
-                     <tbody>
-                       <tr valign="top">
-                         <td data-label="City">Toronto</td>
-                         <td data-label="Population in 2007">5,418,207</td>
-                         <td data-label="Population in 2017">6,346,088</td>
-                         <td data-label="Percentage change">17.1%</td>
-                       </tr>
-                       <tr valign="top">
-                         <td data-label="City">Montréal</td>
-                         <td data-label="Population in 2007">3,714,846</td>
-                         <td data-label="Population in 2017">4,138,254</td>
-                         <td data-label="Percentage change">11.4%</td>
-                       </tr>
-                       <tr valign="top">
-                         <td data-label="City">Vancouver</td>
-                         <td data-label="Population in 2007">2,218,134</td>
-                         <td data-label="Population in 2017">2,571,262</td>
-                         <td data-label="Percentage change">15.9%</td>
-                       </tr>
-                       <tr valign="top">
-                         <td data-label="City">Ottawa–Gatineau</td>
-                         <td data-label="Population in 2007">1,188,073</td>
-                         <td data-label="Population in 2017">1,377,016	</td>
-                         <td data-label="Percentage change">15.9%</td>
-                       </tr>
-                     </tbody>
-                   </table>
-                   <p><strong>Sources:</strong> Statistics Canada, CANSIM tables <a href="http://www5.statcan.gc.ca/cansim/a26?lang=eng&retrLang=eng&id=0510001&&pattern=&stByVal=1&p1=1&p2=50&tabMode=dataTable&csid=">051-0001</a> and <a href="http://www5.statcan.gc.ca/cansim/a26?lang=eng&retrLang=eng&id=0510056&&pattern=&stByVal=1&p1=1&p2=50&tabMode=dataTable&csid=">051-0056</a>.</p>
-                 </div>
-                 <div id="striped-demo" class="component-demo hidden">
+                 <div id="responsive-striped-demo" class="component-demo">
                    <table class="table table-striped" id="myTable">
                      <caption class="wb-inv">Population growth in Canadian cities</caption>
                      <thead>
                        <tr class="d2">
-                         <th scope="col">City</th>
-                         <th scope="col">Population in 2007</th>
-                         <th scope="col">Population in 2017</th>
-                         <th scope="col">Percentage change</th>
+                         <th scope="col">Champ 1</th>
+                         <th scope="col">Champ 2</th>
                        </tr>
                      </thead>
                      <tbody>
                        <tr valign="top">
-                         <td data-label="City">Toronto</td>
-                         <td data-label="Population in 2007">5,418,207</td>
-                         <td data-label="Population in 2017">6,346,088</td>
-                         <td data-label="Percentage change">17.1%</td>
+                         <td data-label="Champ 1">Élément 1</td>
+                         <td data-label="Champ 2">Données sur l'élément 1</td>
                        </tr>
                        <tr valign="top">
-                         <td data-label="City">Montréal</td>
-                         <td data-label="Population in 2007">3,714,846</td>
-                         <td data-label="Population in 2017">4,138,254</td>
-                         <td data-label="Percentage change">11.4%</td>
+                         <td data-label="Champ 1">Élément 2</td>
+                         <td data-label="Champ 2">Données sur l'élément 2</td>
                        </tr>
-                       <tr valign="top">
+                       <!-- <tr valign="top">
                          <td data-label="City">Vancouver</td>
                          <td data-label="Population in 2007">2,218,134</td>
                          <td data-label="Population in 2017">2,571,262</td>
@@ -251,10 +205,30 @@
                          <td data-label="Population in 2007">1,188,073</td>
                          <td data-label="Population in 2017">1,377,016	</td>
                          <td data-label="Percentage change">15.9%</td>
-                       </tr>
+                       </tr> -->
                      </tbody>
                    </table>
                    <p><strong>Sources:</strong> Statistics Canada, CANSIM tables <a href="http://www5.statcan.gc.ca/cansim/a26?lang=eng&retrLang=eng&id=0510001&&pattern=&stByVal=1&p1=1&p2=50&tabMode=dataTable&csid=">051-0001</a> and <a href="http://www5.statcan.gc.ca/cansim/a26?lang=eng&retrLang=eng&id=0510056&&pattern=&stByVal=1&p1=1&p2=50&tabMode=dataTable&csid=">051-0056</a>.</p>
+                 </div>
+                 <div id="optional-demo" class="component-demo hidden">
+                    <div class="wb-frmvld">
+                       <form>
+                          <fieldset class="chkbxrdio-grp">
+                             <legend class="h5">Question (optional)</legend>
+                             <ul class="list-unstyled can-ca-form">
+                                <li class="radio">
+                                   <input id="radio-item-optional-1" type="radio" name="radio-optional-example">
+                                   <label for="radio-item-optional-1">Item 1</label>
+                                </li>
+                                <li class="radio">
+                                   <input id="radio-item-optional-2" type="radio" name="radio-optional-example">
+                                   <label for="radio-item-optional-2">Item 2</label>
+                                </li>
+                             </ul>
+                          </fieldset>
+                       </form>
+                       <input type="submit" value="Continue" class="btn btn-call-to-action mrgn-bttm-md">
+                    </div>
                  </div>
               </div>
            </div>
@@ -263,8 +237,8 @@
                  <fieldset>
                    <label for="design-variant-menu" class="h5 ">Design variant</label>
                    <select id="design-variant-menu" class="form-control">
-                      <option value="basic">Basic</option>
-                      <option value="striped">Striped</option>
+                      <option value="required">Required</option>
+                      <option value="optional">Optional</option>
                       <!-- <option value="inline">Inline</option> -->
                    </select>
                  </fieldset>
@@ -273,11 +247,11 @@
         </div>
         <div class="row">
            <div class="col-md-9 col-xs-12 mrgn-tp-md pull-right">
-              <div id="basic-code" class="component-code">
+              <div id="required-code" class="component-code">
                  <div class="code-variant beta-variant">
                     <div class="wb-tabs">
                        <div class="tabpanels">
-                          <details id="basic-details-panel1">
+                          <details id="required-details-panel1">
                              <summary>HTML</summary>
                              <pre><code>&lt;div class="wb-frmvld"&gt;
  &lt;form&gt;
@@ -298,7 +272,7 @@
  &lt;/form&gt;
 &lt;/div&gt;</code></pre>
                           </details>
-                          <details id="basic-details-panel2">
+                          <details id="required-details-panel2">
                              <summary>CSS</summary>
                              <pre><code>/* bigger label */
 label {
@@ -524,7 +498,7 @@ input[type="submit"] {
   }
 }</code></pre>
                           </details>
-                          <details id="basic-details-panel3">
+                          <details id="required-details-panel3">
                              <summary>JavaScript</summary>
                              <pre>
                                 <code>
@@ -554,11 +528,11 @@ input[type="submit"] {
                     <pre><code>danger code for angular</code></pre>
                  </div>
               </div>
-              <div id="striped-code" class="component-code hidden">
+              <div id="optional-code" class="component-code hidden">
                  <div class="code-variant beta-variant">
                     <div class="wb-tabs">
                        <div class="tabpanels">
-                          <details id="striped-details-panel1">
+                          <details id="optional-details-panel1">
                              <summary>HTML</summary>
                              <pre><code>&lt;div class="wb-frmvld"&gt;
  &lt;form&gt;
@@ -579,7 +553,7 @@ input[type="submit"] {
  &lt;input type="submit" value="Continue" class="btn btn-call-to-action mrgn-bttm-md"&gt;
 &lt;/div&gt;</code></pre>
                          </details>
-                         <details id="striped-details-panel2">
+                         <details id="optional-details-panel2">
                              <summary>CSS</summary>
                              <pre><code>/* bigger label */
 label {
@@ -807,7 +781,7 @@ input[type="submit"] {
                               </code>
                            </pre>
                           </details>
-                          <details id="striped-details-panel3">
+                          <details id="optional-details-panel3">
                              <summary>JavaScript</summary>
                              <pre><code></code></pre>
                           </details>
@@ -900,8 +874,8 @@ input[type="submit"] {
         <section>
            <h2 id="versions">Latest changes</h2>
            <dl class="dl-horizontal">
-              <dt>Version x.x:<br><small><time datetime="2019-12-12" class="text-muted">Dec 12, 2019</time></small></dt>
-              <dd>Tables design updated to include responsive card design.</dd>
+              <dt>Version x.x:<br><small><time datetime="2019-11-07" class="text-muted">Nov 7, 2019</time></small></dt>
+              <dd>Component was updated to remove the asterix and required label on required radio buttons, add an optional label on optional radio button and use the call to action button.</dd>
            </dl>
         </section>
         <section>
