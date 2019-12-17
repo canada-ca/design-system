@@ -467,7 +467,23 @@
                                  information or tasks that can be accomplished on the page it
                                  links to.
                                  </p>
-                                 <!-- fieldflow stuff??? -->
+                                 <div class="input-group">
+                                    <label for="link-description-dropdown" class="wb-inv">Where do you want to go?</label>
+                                    <select id="link-description-dropdown" placeholder="Select a sub-page" class="form-control drmt-dropdown" Title="Dropdown title">
+                                       <option value="">Select a destination</option>
+                                       <option value="url-1">Page 1</option>
+                                       <option value="url-2">Page 2</option>
+                                    </select>
+                                    <span class="input-group-btn">
+                                        <button class="btn btn-default" id="go-button" type="button">Go!</button>
+                                    </span>
+                                </div>
+
+                                <style>
+                                   .drmt-dropdown {
+                                      height:50px;
+                                    }
+                                </style>
                               </section>
                               <section class="col-md-6">
                                  <h3><a href="#">[Hyperlink text]</a></h3>
@@ -546,6 +562,24 @@
 
                   </div>
 
+                  <div id="2col-code" class="layout-code hidden">
+                     
+                     <div class="code-variant wet4-variant hidden">
+                        <pre><code>WET4 code for 2 columns</code></pre>
+                     </div>
+                     <div class="code-variant wet5-variant hidden">
+                        <pre><code>Doesn't exist yet</code></pre>
+                     </div>
+                     <div class="code-variant react-variant hidden">
+                        <pre><code>Doesn't exist yet</code></pre>
+                     </div>
+                     <div class="code-variant angular-variant hidden">
+                        <pre><code>Doesn't exist yet</code></pre>
+                     </div>
+
+                  </div>
+
+
                </div>
                <div id="2col-code" class="component-code hidden">
                   <div class="code-variant wet4-variant hidden">
@@ -590,9 +624,23 @@
                   </div>
                </div>
                <div id="headings-code" class="component-code hidden">
+                  
                   <div class="code-variant wet4-variant hidden">
+
+                     <script type="text/javascript">
+                        $(document).ready(function() {
+                           $(document).on('click', '#go-button', function() {
+                              mySelection = $(this).parent().siblings("#link-description-dropdown").find(":selected").val();
+                              window.location.href = mySelection;
+                              return false;
+                           });
+                        });
+                     </script>
+
+
                      <pre><code>WET4 code for sub-headings</code></pre>
                   </div>
+
                   <div class="code-variant wet5-variant hidden">
                      <pre><code>Doesn't exist yet</code></pre>
                   </div>
