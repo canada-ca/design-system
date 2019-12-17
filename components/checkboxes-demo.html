@@ -683,60 +683,6 @@
 
 			<![endif]-->
 	<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>
-	<script>
-		// document.getElementById('submissionPage').value = location.href;
-		$(document).ready(function(){
-			var dv = getUrlParameter('dv');
-			var cv = localStorage.getItem('cv');
-
-			//PRESETS
-			if (dv != null) {
-				$('.component-demo').addClass("hidden");
-				$('.component-code').addClass("hidden");
-				$('#'+dv+'-demo').removeClass("hidden");
-				$('#'+dv+'-code').removeClass("hidden");
-				//preselect the dropdown menu as well
-				$("#design-variant-menu").val(dv);
-
-			}
-			if (localStorage.getItem('cv') != null) {
-				var cv = localStorage.getItem('cv');
-				$('.code-variant').addClass("hidden");
-				$('.'+cv+'-variant').removeClass("hidden");
-				//preselect the dropdown menu as well
-				$("#code-variant-menu").val(cv);
-			}
-
-			//hide all component demos, show the selected one
-			$("#design-variant-menu").change(function(){
-				if (this.value == "show-all") {
-					$('.component-demo').removeClass("hidden");
-					$('.component-code').removeClass("hidden");
-				} else {
-					$('.component-demo').addClass("hidden");
-					$('.component-code').addClass("hidden");
-					$('#'+this.value+'-demo').removeClass("hidden");
-					$('#'+this.value+'-code').removeClass("hidden");
-				}
-			});
-			$("#code-variant-menu").change(function(){
-				$('.code-variant').addClass("hidden");
-				$('.'+this.value+'-variant').removeClass("hidden");
-				localStorage.setItem("cv", this.value);
-			});
-		});
-		var getUrlParameter = function getUrlParameter(sParam) {
-		   var sPageURL = decodeURIComponent(window.location.search.substring(1)),
-		       sURLVariables = sPageURL.split('&'),
-		       sParameterName,
-		       i;
-		   for (i = 0; i < sURLVariables.length; i++) {
-		       sParameterName = sURLVariables[i].split('=');
-		       if (sParameterName[0] === sParam) {
-		           return sParameterName[1] === undefined ? true : sParameterName[1];
-		       }
-		   }
-		};
-	</script>
+	<script src="../js/demo-toggles.js"></script>
 </body>
 	</html>

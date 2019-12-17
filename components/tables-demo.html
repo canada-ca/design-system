@@ -987,51 +987,6 @@ input[type="submit"] {
      <script src="./wet-boew/js/ie8-wet-boew2.min.js"></script>
      <![endif]-->
      <script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>
-     <script>
-        // document.getElementById('submissionPage').value = location.href;
-        $(document).ready(function(){
-        	var dv = getUrlParameter('dv');
-        	var cv = localStorage.getItem('cv');
-
-        	//PRESETS
-        	if (dv != null) {
-        		$('.component-demo').addClass("hidden");
-        		$('.component-code').addClass("hidden");
-        		$('#'+dv+'-demo').removeClass("hidden");
-        		$('#'+dv+'-code').removeClass("hidden");
-            $('#design-variant-menu').val(dv);
-        	}
-        	if (localStorage.getItem('cv') != null) {
-        		$('.code-variant').addClass("hidden");
-            $('#code-variant-menu').val(cv);
-        		$('.'+localStorage.getItem('cv')+'-variant').removeClass("hidden");
-        	}
-
-        	//hide all component demos, show the selected one
-        	$("#design-variant-menu").change(function(){
-        		$('.component-demo').addClass("hidden");
-        		$('.component-code').addClass("hidden");
-        		$('#'+this.value+'-demo').removeClass("hidden");
-        		$('#'+this.value+'-code').removeClass("hidden");
-        	});
-        	$("#code-variant-menu").change(function(){
-        		$('.code-variant').addClass("hidden");
-        		$('.'+this.value+'-variant').removeClass("hidden");
-        		localStorage.setItem("cv", this.value);
-        	});
-        });
-        var getUrlParameter = function getUrlParameter(sParam) {
-           var sPageURL = decodeURIComponent(window.location.search.substring(1)),
-               sURLVariables = sPageURL.split('&'),
-               sParameterName,
-               i;
-           for (i = 0; i < sURLVariables.length; i++) {
-               sParameterName = sURLVariables[i].split('=');
-               if (sParameterName[0] === sParam) {
-                   return sParameterName[1] === undefined ? true : sParameterName[1];
-               }
-           }
-        };
-     </script>
+     <script src="../js/demo-toggles.js"></script>
   </body>
 </html>
