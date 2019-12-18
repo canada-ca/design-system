@@ -24,27 +24,6 @@
 	font-size: 1.2em;
 }
 
-/* supports the 3 column layout for MR instead of 4 columns */
-.list-responsive-3 > li {
-    float: left;
-    padding-right: 5px;
-    width: 50%
-}
-
-.list-responsive-3 > li:nth-child(2n+2) {
-    clear: right
-}
-
-.list-responsive-3:before,
-.list-responsive-3:after {
-    content: " ";
-    display: table
-}
-
-.list-responsive-3:after {
-    clear: both
-}
-
 		
 .followus-2 h2 {
 	font-size: 1.1em;
@@ -115,13 +94,6 @@
 }
 
 
-
-@media screen and (min-width: 1200px) {
-.list-responsive-3 > li {
-    width: 33%;
-	}
-}
-
 @media screen and (min-width: 992px) {
 .contributors li {
     display: inline-block;
@@ -145,11 +117,6 @@
 .most-requested li {
 	font-size: 19px;
 	}
-
-.list-responsive-3 > li {
-        clear: right;
-        width: 100%
-  }
 
 .contributors ul {
 	margin-inline-start: 0px !important;
