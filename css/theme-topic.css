@@ -7,15 +7,14 @@
 	margin-top: 0
 }
 
+.pstn-relative {
+  position: relative !important;
+}
+
 .mr-img {
   margin-top: 0px;
 }
 
-/* .tt-img {
-  position: absolute;
-  height: 215px;
-  bottom: 0;
-} */
 .most-requested .float-left {
   padding-right: 0px;
 }
