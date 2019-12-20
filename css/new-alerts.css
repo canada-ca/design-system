@@ -87,17 +87,17 @@
 }
 .alert-info.alert-bg details>summary {
 	color: #245269;
-	font-weight: 700 
+	font-weight: 700;
 }
 .alert-success.alert-bg details>summary {
 	color: #2b542c;
-	font-weight: 700 
+	font-weight: 700;
 }
 .alert-warning.alert-bg details>summary {
 	color: #66512c;
-	font-weight: 700 
+	font-weight: 700;
 }
 .alert-danger.alert-bg details>summary {
 	color: #843534;
-	font-weight: 700 
+	font-weight: 700;
 }
