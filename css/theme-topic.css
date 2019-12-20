@@ -9,6 +9,7 @@
 
 .pstn-relative {
   position: relative !important;
+  overflow-x: hidden;
 }
 
 .mr-img {
