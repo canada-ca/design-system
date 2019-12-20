@@ -400,7 +400,7 @@ nav#tp-pg.stuck, .wb-disable nav#tp-pg {
 }
 
 /*alert design */
-.alert:before {
+/* .alert:before {
 	height: 34px;
 	content: "";
 	background-color: #fff;
@@ -432,9 +432,9 @@ nav#tp-pg.stuck, .wb-disable nav#tp-pg {
 }
 .alert >:first-child::before {
 	margin-right: 0.4em
-}
+} */
 /*targets the first h2 or h3 of alerts and matches the border color */
-.alert-info h2:first-child, .alert-info h3:first-child, .alert-info .h2:first-child, .alert-info .h3:first-child {
+/* .alert-info h2:first-child, .alert-info h3:first-child, .alert-info .h2:first-child, .alert-info .h3:first-child {
 	color: #269abc
 }
 .alert-success h2:first-child, .alert-success h3:first-child, .alert-success .h2:first-child, .alert-success .h3:first-child {
@@ -445,7 +445,7 @@ nav#tp-pg.stuck, .wb-disable nav#tp-pg {
 }
 .alert-danger h2:first-child, .alert-danger h3:first-child, .alert-danger .h2:first-child, .alert-danger .h3:first-child {
 	color: #d3080c
-}
+} */
 /* reverts header to black if need for overwrite */
 body .alert .text-default {
 	color: inherit
