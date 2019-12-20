@@ -1,0 +1,28 @@
+
+.guidance-ban-nav {
+  padding-top: 6px !important;
+  padding-bottom: 6px !important;
+  top: 0;
+  background-color: #26374a;
+  z-index: 100;
+  position: sticky;
+}
+
+.guidance-nav {
+  color: white !important;
+  text-decoration: underline;
+  padding-top: 10px;
+}
+
+.guidance-nav a:visited {
+  color: white !important;
+}
+
+
+@media only screen and (max-width: 600px) {
+.pstn-get-code {
+  position: absolute;
+  top:0;
+  right:0;
+}
+}
