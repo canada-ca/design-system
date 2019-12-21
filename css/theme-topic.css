@@ -8,8 +8,15 @@
 }
 
 .pstn-relative {
-  position: relative !important;
+  position: relative;
   overflow-x: hidden;
+}
+
+.tt-img {
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-left: 25px;
+  background-color: #f5f5f5;
 }
 
 .mr-img {
