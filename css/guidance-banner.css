@@ -1,7 +1,7 @@
 
 .guidance-ban-nav {
-  padding-top: 6px !important;
-  padding-bottom: 6px !important;
+  padding-top: 4px !important;
+  padding-bottom: 4px !important;
   top: 0;
   background-color: #26374a;
   z-index: 100;
@@ -11,7 +11,7 @@
 .guidance-nav {
   color: white !important;
   text-decoration: underline;
-  padding-top: 10px;
+  padding-top: 6px;
 }
 
 .guidance-nav a {
@@ -26,7 +26,26 @@
   color: white !important;
 }
 
+.guidance-nav i {
+  text-decoration: none;
+}
 
+.guidance-ban-nav .btn-group .btn {
+  height: 36px;
+  padding-top: 5px;
+  background-color: #26374a;
+  color: white;
+  border: 1px solid #4072bb;
+}
+
+.guidance-ban-nav .btn-group .active {
+  background-color: #305991;
+  font-weight: 800;
+}
+
+.guidance-ban-nav .btn-sm {
+  padding-top: 5px;
+}
 @media only screen and (max-width: 600px) {
 .pstn-get-code {
   position: absolute;
