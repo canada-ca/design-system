@@ -1,3 +1,7 @@
+.tt-img .btn-sm {
+  margin-top: 16px;
+  margin-left: 4px;
+}
 
 .guidance-ban-nav {
   padding-top: 4px !important;
@@ -6,28 +10,6 @@
   background-color: #26374a;
   z-index: 100;
   position: sticky;
-}
-
-.guidance-nav {
-  color: white !important;
-  text-decoration: underline;
-  padding-top: 6px;
-}
-
-.guidance-nav a {
-  color: white !important;
-}
-
-.guidance-nav a:hover {
-  color: white !important;
-}
-
-.guidance-nav a:visited {
-  color: white !important;
-}
-
-.guidance-nav i {
-  text-decoration: none;
 }
 
 .guidance-ban-nav .btn-group .btn {
@@ -45,11 +27,70 @@
 
 .guidance-ban-nav .btn-sm {
   padding-top: 5px;
+  margin-right: 5px;
 }
-@media only screen and (max-width: 600px) {
-.pstn-get-code {
-  position: absolute;
-  top:0;
-  right:0;
+
+.guidance-nav {
+  color: white !important;
+  text-decoration: underline;
+  padding-top: 6px;
 }
+
+.guidance-nav a {
+  display: block;
+  color: white !important;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100ch;
 }
+
+.guidance-nav a:hover {
+  color: white !important;
+}
+
+.guidance-nav a:visited {
+  color: white !important;
+}
+
+.guidance-nav i {
+  text-decoration: none;
+}
+
+.guidance-options, .get-code {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+@media only screen and (max-width: 767px) {
+  .guidance-ban-nav .btn-group {
+    width: 100% !important;
+    margin-top: 7px;
+
+  }
+  .guidance-toggle {
+    width: 50% !important;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .pstn-get-code {
+    position: absolute;
+    top:-74px;
+    right:4px;
+  } 
+}
+
+@media only screen and (max-width: 370px) {
+  .guidance-ban-nav .btn-group .btn {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .guidance-ban-nav .btn-group .btn i {
+    display: none !important; 
+  }
+  .guidance-nav a {
+    max-width: 22ch;
+  } 
+}
+

@@ -50,22 +50,22 @@
       <h2 class="wb-inv">Navigation and controls</h2>
       <div class="container">
         <div class="row">
-          <div class="col-md-4 col-lg-3 col-sm-12">
+          <div class="col-md-4 col-lg-3 col-sm-4">
             <div class="guidance-nav">
-              <a href="#"><i class="fas fa-arrow-left">&nbsp;&nbsp;</i>Institutional landing
+              <a href="#"><i class="fas fa-arrow-left">&nbsp;</i>Institutional landing
                 page</a>
             </div>
           </div>
-          <div class="col-md-6 col-sm-8 col-xs-10">
+          <div class="guidance-options col-md-6 col-sm-6 col-xs-12">
             <div class="btn-group">
-              <a class="btn btn-default active"><i class="fas fa-laptop-code">&nbsp;&nbsp;</i>Show guidance</a>
-              <a class="btn btn-default" href="./contextual-alerts-design-guidelines.html"><i
-                  class="fas fa-pen-square"></i>&nbsp;&nbsp;Remove guidance</a>
+              <a class="guidance-toggle btn btn-default active"><i class="fas fa-laptop-code">&nbsp;</i>Show guidance</a>
+              <a class="guidance-toggle btn btn-default" href="./contextual-alerts-design-guidelines.html"><i
+                  class="fas fa-pen-square"></i>&nbsp;Remove guidance</a>
             </div>
           </div>
-          <div class="col-md-2 col-sm-2 col-xs-4 pstn-get-code pull-right">
-            <a class="btn btn-sm btn-default pull-right"><i
-                class="fas fa-external-link-alt"></i>&nbsp;&nbsp;<b>Get code</b></a>
+          <div class="get-code col-md-2 col-sm-2 col-xs-12 pull-right">
+            <a class="btn btn-sm btn-default pstn-rght-md pull-right pstn-get-code"><i
+                class="fas fa-external-link-alt"></i>&nbsp;<b>Get code</b></a>
           </div>
         </div>
       </div>
@@ -159,21 +159,23 @@
 			</nav>
 		</header>
 		<main property="mainContentOfPage" typeof="WebPageElement">
-			<div class="pstn-relative">
+			<div class="pstn-relative hide-overflow">
         <div class="container"> 
            <div class="row">
-            <div class="col-md-6 col-lg-6 col-sm-12  mrgn-bttm-md">
+            <div class="intro col-md-6 col-sm-12 mrgn-bttm-md">
               <h1 property="name" id="wb-cont">[Theme - Topic title]</h1>
-              <p>1-2 sentences that describe the topics and top tasks that can be accessed on this page.</p>   
+							<p class="pagetag">1-2 sentences that describe the topics and top tasks that can be accessed on this page. <a class="hidden-xs hidden-sm with btn btn-sm btn-default pull-right wb-inv"><i class="fas fa-image"></i>&nbsp;&nbsp;<b>With
+									image</b></a></p> 
             </div>
-            <div class="tt-img col-md-6 col-lg-6 pstn-rght-md pstn-bttm-md hidden-sm hidden-xs">
+            <div class="tt-img col-md-6 pstn-rght-md pstn-bttm-md hidden-sm hidden-xs">
               <img alt="#"  src="./images/theme-topic-img-825x200.jpg"
-                 />
+                 /> <a class="without btn btn-sm btn-default pstn-tp-md pstn-lft-md"><i class="fas fa-eye-slash"></i>&nbsp;&nbsp;<b>Without image</b></a>
+
             </div>
           </div> 
         </div>
       </div>
-      <section class="most-requested mr-img well well-sm brdr-0 mrgn-tp-md" >
+      <section class="most-requested mr-with-img well well-sm brdr-0 mrgn-tp-md" >
         <div class="container">
           <div class="row">
             <div class="float-left col-md-2">
@@ -194,7 +196,7 @@
       </section>
     <div class="container">
 			<div class="row">
-				<section class="gc-srvinfo col-md-12 pull-left">
+				<section class="gc-srvinfo col-md-12">
 					<h2 class="wb-inv">Services and information</h2>
 					<div class="wb-eqht row">
 						<div class="col-md-4">
@@ -244,40 +246,62 @@
 						</div>
 					</div>
 				</section>
-		  </div>
-        <section class="gc-prtts">
-          <h2>Features</h2>
-          <div class="row">
-            <div class="col-lg-4 col-md-6 mrgn-bttm-md">
-              <a href="#">
-                <figure>
-                  <figcaption>[Feature hyperlink text]</figcaption>
-                  <img src="./img/360x203.png" alt="" class="img-responsive thumbnail mrgn-bttm-sm">
-                  <p>Brief description of the feature being promoted.</p>
-                </figure>
-              </a>
-            </div>
-            <div class="col-lg-4 col-md-6 mrgn-bttm-md">
-              <a href="#">
-                <figure>
-                  <figcaption>[Feature hyperlink text]</figcaption>
-                  <img src="./img/360x203.png" alt="" class="img-responsive thumbnail mrgn-bttm-sm">
-                  <p>Brief description of the feature being promoted.</p>
-                </figure>
-              </a>
-            </div>
-            <div class="col-lg-4 col-md-6 mrgn-bttm-md">
-              <a href="#">
-                <figure>
-                  <figcaption>[Feature hyperlink text]</figcaption>
-                  <img src="./img/360x203.png" alt="" class="img-responsive thumbnail mrgn-bttm-sm">
-                  <p>Brief description of the feature being promoted.</p>
-                </figure>
-              </a>
-            </div>
-          </div>
-        </section>
-        <div class="pagedetails">
+			</div>
+		</div>
+			<div class="promo-social well well-sm brdr-0 mrgn-tp-md">
+				<div class="container">
+					<div class="row">
+						<h2 class="wb-inv">Feature</h2>
+							<section class="wb-eqht col-md-8 mrgn-bttm-md mrgn-tp-lg" id="gcwb_prts">
+								<div class="row">
+									<div class="col-md-6">
+									<a href="#"><img alt="" class="img-responsive cust-thumbnail thumbnail mrgn-bttm-sm"
+											src="https://wet-boew.github.io/themes-dist/GCWeb/img/360x203.png" /> </a>
+									</div>
+									<div class="col-md-6 gc-srvinfo">
+										<h3 class="h5"><a href="#">Feature title</a>
+										</h3>
+										<p>Brief description of feature. (Can add toggle to see "slim feature" variant vs this current size feature)
+										</p>
+									</div>
+								</div>
+							</section>
+						<div class="pull-right col-md-4 mobile-left mrgn-bttm-lg">
+							<section class="followus-2">
+								<h2>On social media
+								</h2>
+								<ul>
+									<li class="facebook-2 mrgn-bttm-md"><a href="#" rel="external" class="social-lnk-2"><b>FacebookPageName</b></a></li>
+									<li class="twitter-2 mrgn-bttm-md"><a href="#" rel="external" class="social-lnk-2"><b>@TwitterAccount</b></a></li>
+									<li class="youtube-2 mrgn-bttm-md"><a href="#" rel="external" class="social-lnk-2"><b>YouTubeName</b></a></li>
+									<li class="instagram-2"><a href="#" rel="external" class="social-lnk-2"><b>InstagramName</b></a></li>
+
+								</ul>
+							</section>
+						</div> <!-- pull-right-->
+					</div> <!-- row -->
+				</div> <!-- container -->
+			</div> <!-- promo-social -->
+				<div class="clearfix"></div>
+				<div class="container">
+					<div class="row">
+						<h2 class="wb-inv">Contributors</h2>
+						<div class="row">
+							<section class="col-md-12">
+								<div class="col-md-1">
+									<h3 class="from">From:</h3>
+								</div>
+								<div class="col-md-11 contributors">
+									<ul>
+										<li><a href="https://www.canada.ca/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></li>
+										<li><a href="https://www.tpsgc-pwgsc.gc.ca/comm/index-eng.html">Public Services and Procurement Canada</a></li>
+									</ul>
+								</div>
+							</section>
+						</div>
+					</div>
+				</div>
+        <div class="pagedetails container">
           <div class="row">
             <div class="col-sm-6 col-md-5 col-lg-4">
               <details class="brdr-0">
@@ -422,6 +446,36 @@
 		<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>
 		<script>
 			document.getElementById("submissionPage").value = location.href;
+		</script>
+		<script>
+			$(".tt-img").click(function(){
+				$(this).toggle();
+				$(".with").removeClass("wb-inv");
+				$(".intro").removeClass("col-md-6").addClass("col-md-12");
+				});
+
+			$(".with").click(function () {
+					$(this).addClass("wb-inv");
+					$(".tt-img").toggle();
+					$(".intro").removeClass("col-md-12").addClass("col-md-6");
+				});
+				// need to check this on page load too - not really sure what to do about the mess the mobile design is... or how to code it using WET
+			// $(function () {
+			// 		$(window).bind("resize", function () {
+			// 			if ($(this).width() < 549) {
+			// 				$('.guidance-options').removeClass('btn-group')
+			// 				$('.guidance-toggle').addClass('col-xs-12')
+			// 				$('.get-code').addClass('col-xs-12')
+
+			// 			}
+			// 			else {
+			// 				$('.guidance-options').addClass('btn-group')
+			// 				$('.guidance-toggle').removeClass('col-xs-12')
+			// 				$('.get-code').removeClass('col-xs-12')
+
+			// 			}
+			// 		})
+			//	})
 		</script>
 	</body>
 </html>
