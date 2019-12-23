@@ -7,7 +7,7 @@
 		<meta charset="utf-8">
 		<!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
 		wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
-		<title>Contextual alerts - Component demo - Canada.ca</title>
+		<title>Contextual alerts - Canada.ca design pattern - Canada.ca</title>
 		<meta content="width=device-width,initial-scale=1" name="viewport">
 		<!--[if gte IE 9 | !IE ]><!-->
 		<link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon">
@@ -17,7 +17,7 @@
 		<link rel="stylesheet" href="../css/split-h1.css">
 		<link rel="stylesheet" href="../css/alpha-beta-banner.css">
 		<link rel="stylesheet" href="../css/component-presentation.css">
-		<link rel="stylesheet" href="../css/navigation.css">
+		<link rel="stylesheet" href="../css/do-dont.css">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 		<!--<![endif]-->
 		<!--[if lt IE 9]>
@@ -35,8 +35,8 @@
 		{
 			"@context": "http://schema.org",
 			"@type": "WebPage",
-			"name": "Contextual alerts - Design guidelines - Components",
-			"url": "https://design.canada.ca/components/contextual-alerts.html",
+			"name": "Contextual alerts - Canada.ca design pattern",
+			"url": "https://design.canada.ca/common-design-patterns/contextual-alerts.html",
 			"author": {
 			"@type": "GovernmentOrganization",
 			"name": "Treasury Board of Canada Secretariat",
@@ -48,9 +48,6 @@
 			}
 			},
 			"description": "Contextual alerts are notice boxes for important new information that needs to appear in a pre-existing context."
-		},
-		{
-
 		}
 		</script>
 		<!-- Global site tag (gtag.js) - Google Analytics -->
@@ -59,10 +56,7 @@
 		window.dataLayer = window.dataLayer || [];
 		function gtag(){dataLayer.push(arguments);}
 		gtag('js', new Date());
-		
-		
 		gtag('config', 'UA-105628416-2');
-		
 		</script>
 	</head>
 	<body class="cnt-wdth-lmtd" vocab="http://schema.org/" typeof="WebPage">
@@ -154,14 +148,16 @@
 		</header>
 		<!--/* Hide Nav; Hide Right Rail /*-->
 		<main role="main" property="mainContentOfPage" class="container wb-prettify all-pre">
-		<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Contextual alerts</span>: <span>Demo and code</span></span></h1>
+		<!-- <div class="row profile">
+			<div class="col-md-6"> -->
+		<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked" role="text"><span>Contextual alerts</span>: <span>Design guidelines</span></span></h1>
 		<div class="row profile">
 			<div class="col-md-9">
 				<p class="pagetag">Alerts are notice boxes that bring users' attention to specific content that makes them aware of a result of a user action, a clarification or exception to surrounding content or to warn the user of a consequence of an action or inaction in their task.</p>
 			</div>
 			<div class="col-md-3">
 				<div class="small">
-					<ul class="list-unstyled component-tombstone">
+					<ul class="list-unstyled">
 					<li><span class="wb-inv"><strong>Progress:</strong> </span><label class="label beta-label">Beta</label></li>
 					<li class="mrgn-rght-lg"><strong>Version:</strong> x.x</li>
 					<li class="mrgn-rght-lg"><strong>Updated:</strong> Nov 7, 2019</li>
@@ -169,393 +165,292 @@
 				</div>
 			</div>
 			<div class="col-md-12">
-				<div class="btn-group mrgn-bttm-sm mrgn-tp-md">
-					<a class="btn btn-default" href="./contextual-alerts-design-guidelines.html"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a>
-					<a class="btn btn-default active"><span class="fas fa-laptop-code"></span> Demo and code</a>
+				<div class="btn-group mrgn-bttm-lg">
+					<a class="btn btn-default active"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a>
+					<a class="btn btn-default" href="./contextual-alerts-demo.html"><span class="fas fa-laptop-code"></span> Demo and code</a>
 					<a class="btn btn-default" href="./contextual-alerts-rationale.html"><span class="fas fa-microscope"></span> Rationale</a>
 				</div>
 			</div>
 		</div>
-		<div class="row">
-			<div class="col-md-9 col-xs-12 mrgn-tp-lg pull-right">
-				<div class="pattern-demo pattern-demo-component">
-					<div id="danger-demo" class="component-demo">
-					<section class="alert alert-danger">
-						<h3>Alert heading</h3>
-						<p>Alert description.</p>
-					</section>
-					</div>
-					<div id="warning-demo" class="component-demo hidden">
-					<section class="alert alert-warning">
-						<h3>Alert heading</h3>
-						<p>Alert description.</p>
-					</section>
-					</div>
-					<div id="info-demo" class="component-demo hidden">
-					<section class="alert alert-info">
-						<h3>Alert heading</h3>
-						<p>Alert description.</p>
-					</section>
-					</div>
-					<div id="success-demo" class="component-demo hidden">
-					<section class="alert alert-success">
-						<h3>Alert heading</h3>
-						<p>Alert description.</p>
-					</section>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-3 pull-left">
-				<!-- col-xs-12 with show all button-->
-				<div class="mrgn-bttm-sm">
-					<!-- <div class="row">
-					<div class="col-md-7 col-xs-9"> -->
-					<label class="h5">Design variant</label>
-					<select id="design-variant-menu" class="form-control">
-					<option value="danger">Danger</option>
-					<option value="warning">Warning</option>
-					<option value="info">Info</option>
-					<option value="success">Success</option>
-					<option value="show-all">Show all</option>
-					</select>
-					<!-- </div> -->
-					<!-- <div class="col-md-5 col-xs-3">
-					<button class="btn btn-default btn-sm mrgn-tp-lg" id="show-all">Show all</button>
-					</div> -->
-					<!-- </div> -->
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div id="example-code" class="col-md-9 col-xs-12 mrgn-tp-lg pull-right">
-				<div id="danger-code" class="component-code">
-					<div class="code-variant beta-variant">
-					<div class="wb-tabs">
-						<div class="tabpanels">
-							<details id="danger-details-panel1">
-								<summary>HTML</summary>
-								<pre><code>&lt;section class="alert alert-danger"&gt;
-&lt;h3&gt;Alert heading&lt;/h3&gt;
-&lt;p&gt;Alert description.&lt;/p&gt;
-&lt;/section&gt;</code></pre>
-							</details>
-							<details id="danger-details-panel2">
-								<summary>CSS</summary>
-								<pre><code>.alert:before {
- height: 34px;
- content: "";
- background-color: #fff;
- width: 6px;
- display: inline;
- margin-top: -1px;
- margin-left: -26px;
- position: absolute;
-}
-.alert-success, .alert-info, .alert-warning, .alert-danger {
- background: #fff !important;
-}
-.alert {
- border-width: 1px 1px 1px 4px !important;
- margin-left: 12px;
- padding-left: 20px;
- border-width: 0px 0px 0px 6px!important
-}
-.alert-success &gt; :first-child::before, .alert-info &gt; :first-child::before, .alert-warning &gt; :first-child::before, .alert-danger &gt; :first-child::before {
- font-size: 26px;
- margin-left: -1.48em;
- padding: 2px;
- line-height: 1.1em;
-}
-.alert &gt; :first-child {
- margin-left: 0em;
-}
-.alert &gt;:first-child::before {
- margin-right: 0.4em
-}</code></pre>
-							</details>
-						</div>
-					</div>
-					</div>
-					<div class="code-variant wet4-variant hidden">
-					<pre><code>&lt;section class="alert alert-danger"&gt;
-&lt;h3&gt;Alert heading&lt;/h3&gt;
-&lt;p&gt;Alert description.&lt;/p&gt;
-&lt;/section&gt;</code></pre>
-					</div>
-					<div class="code-variant wet5-variant hidden">
-					<pre><code>danger code for WET 5</code></pre>
-					</div>
-					<div class="code-variant react-variant hidden">
-					<pre><code>danger code for react</code></pre>
-					</div>
-					<div class="code-variant angular-variant hidden">
-					<pre><code>danger code for angular</code></pre>
-					</div>
-				</div>
-				<div id="warning-code" class="component-code hidden">
-					<div class="code-variant beta-variant">
-					<div class="wb-tabs">
-						<div class="tabpanels">
-							<details id="warning-details-panel1">
-								<summary>HTML</summary>
-								<pre><code>&lt;section class="alert alert-warning"&gt;
-&lt;h3&gt;Alert heading&lt;/h3&gt;
-&lt;p&gt;Alert description.&lt;/p&gt;
-&lt;/section&gt;</code></pre>
-							</details>
-							<details id="warning-details-panel2">
-								<summary>CSS</summary>
-								<pre><code>.alert:before {
- height: 34px;
- content: "";
- background-color: #fff;
- width: 6px;
- display: inline;
- margin-top: -1px;
- margin-left: -26px;
- position: absolute;
-}
-.alert-success, .alert-info, .alert-warning, .alert-danger {
- background: #fff !important;
-}
-.alert {
- border-width: 1px 1px 1px 4px !important;
- margin-left: 12px;
- padding-left: 20px;
- border-width: 0px 0px 0px 6px!important
-}
-.alert-success &gt; :first-child::before, .alert-info &gt; :first-child::before, .alert-warning &gt; :first-child::before, .alert-danger &gt; :first-child::before {
- font-size: 26px;
- margin-left: -1.48em;
- padding: 2px;
- line-height: 1.1em;
-}
-.alert &gt; :first-child {
- margin-left: 0em;
-}
-.alert &gt;:first-child::before {
- margin-right: 0.4em
-}</code></pre>
-							</details>
-						</div>
-					</div>
-					</div>
-					<div class="code-variant wet4-variant hidden">
-					<pre><code>warning code for WET 4</code></pre>
-					</div>
-					<div class="code-variant wet5-variant hidden">
-					<pre><code>warning code for WET 5</code></pre>
-					</div>
-					<div class="code-variant react-variant hidden">
-					<pre><code>warning code for react</code></pre>
-					</div>
-					<div class="code-variant angular-variant hidden">
-					<pre><code>warning code for angular</code></pre>
-					</div>
-				</div>
-				<div id="info-code" class="component-code hidden">
-					<div class="code-variant beta-variant">
-					<div class="wb-tabs">
-						<div class="tabpanels">
-							<details id="info-details-panel1">
-								<summary>HTML</summary>
-								<pre><code>&lt;section class="alert alert-info"&gt;
-&lt;h3&gt;Alert heading&lt;/h3&gt;
-&lt;p&gt;Alert description.&lt;/p&gt;
-&lt;/section&gt;</code></pre>
-							</details>
-							<details id="info-details-panel2">
-								<summary>CSS</summary>
-								<pre><code>.alert:before {
- height: 34px;
- content: "";
- background-color: #fff;
- width: 6px;
- display: inline;
- margin-top: -1px;
- margin-left: -26px;
- position: absolute;
-}
-.alert-success, .alert-info, .alert-warning, .alert-danger {
- background: #fff !important;
-}
-.alert {
- border-width: 1px 1px 1px 4px !important;
- margin-left: 12px;
- padding-left: 20px;
- border-width: 0px 0px 0px 6px!important
-}
-.alert-success &gt; :first-child::before, .alert-info &gt; :first-child::before, .alert-warning &gt; :first-child::before, .alert-danger &gt; :first-child::before {
- font-size: 26px;
- margin-left: -1.48em;
- padding: 2px;
- line-height: 1.1em;
-}
-.alert &gt; :first-child {
- margin-left: 0em;
-}
-.alert &gt;:first-child::before {
- margin-right: 0.4em
-}</code></pre>
-							</details>
-						</div>
-					</div>
-					</div>
-					<div class="code-variant wet4-variant hidden">
-					<pre><code>info code for WET 4</code></pre>
-					</div>
-					<div class="code-variant wet5-variant hidden">
-					<pre><code>info code for WET 5</code></pre>
-					</div>
-					<div class="code-variant react-variant hidden">
-					<pre><code>info code for react</code></pre>
-					</div>
-					<div class="code-variant angular-variant hidden">
-					<pre><code>info code for angular</code></pre>
-					</div>
-				</div>
-				<div id="success-code" class="component-code hidden">
-					<div class="code-variant beta-variant">
-					<div class="wb-tabs">
-						<div class="tabpanels">
-							<details id="success-details-panel1">
-								<summary>HTML</summary>
-								<pre><code>&lt;section class="alert alert-success"&gt;
-&lt;h3&gt;Alert heading&lt;/h3&gt;
-&lt;p&gt;Alert description.&lt;/p&gt;
-&lt;/section&gt;</code></pre>
-							</details>
-							<details id="success-details-panel2">
-								<summary>CSS</summary>
-								<pre><code>.alert:before {
- height: 34px;
- content: "";
- background-color: #fff;
- width: 6px;
- display: inline;
- margin-top: -1px;
- margin-left: -26px;
- position: absolute;
-}
-.alert-success, .alert-info, .alert-warning, .alert-danger {
- background: #fff !important;
-}
-.alert {
- border-width: 1px 1px 1px 4px !important;
- margin-left: 12px;
- padding-left: 20px;
- border-width: 0px 0px 0px 6px!important
-}
-.alert-success &gt; :first-child::before, .alert-info &gt; :first-child::before, .alert-warning &gt; :first-child::before, .alert-danger &gt; :first-child::before {
- font-size: 26px;
- margin-left: -1.48em;
- padding: 2px;
- line-height: 1.1em;
-}
-.alert &gt; :first-child {
- margin-left: 0em;
-}
-.alert &gt;:first-child::before {
- margin-right: 0.4em
-}</code></pre>
-							</details>
-						</div>
-					</div>
-					</div>
-					<div class="code-variant wet4-variant hidden">
-					<pre><code>success code for WET 4</code></pre>
-					</div>
-					<div class="code-variant wet5-variant hidden">
-					<pre><code>success code for WET 5</code></pre>
-					</div>
-					<div class="code-variant react-variant hidden">
-					<pre><code>success code for react</code></pre>
-					</div>
-					<div class="code-variant angular-variant hidden">
-					<pre><code>success code for angular</code></pre>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-3 pull-left">
-				<div class="mrgn-bttm-sm">
-					<label class="h5">Code variant</label>
-					<select id="code-variant-menu" class="form-control">
-					<option value="beta">Beta</option>
-					<option value="wet4">WET 4</option>
-					<option value="wet5">WET 5</option>
-					<option value="react">ReactJS</option>
-					<option value="angular">Angular</option>
-					</select>
-					<label class="label label-info code-variant beta-variant">Beta</label>
-					<label class="label label-warning code-variant wet4-variant wet5-variant react-variant angular-variant">Use beta for the latest design</label>
-				</div>
-			</div>
-		</div>
 		<section>
-			<h2 id="how">Customisation</h2>
-			<p>There are no available customisations for the alert component.</p>
+			<h2>On this page</h2>
+			<ul>
+				<li><a href="#spec">Design specifications</a></li>
+				<li><a href="#variations">Design variants</a></li>
+				<li><a href="#usage">Usage</a></li>
+				<li><a href="#research">Rationale and research</a></li>
+				<li><a href="#discuss">Discussion</a></li>
+			</ul>
 		</section>
 		<section>
-			<h3 id="states">States</h3>
-			<p>There are no additional states for the alert component.</p>
-		</section>
-		<section>
-			<h3 id="accessibility">Accessibility features and usage</h3>
-			<p>How the alerts are seen with predominant forms of colour blindness:</p>
+			<h2 id="specs">Design specifications</h2>
 			<div class="row">
-				<div class="col-md-9 col-lg-8">
-					<div class="wb-tabs">
-					<div class="tabpanels">
-						<details id="colour-blindness-details-panel1">
-							<summary>Deutanopia</summary>
-							<img class="img-responsive" src="../images/alert-deutanopia.png" alt="Shows the 4 types of alerts under a colour filter.">
-						</details>
-						<details id="colour-blindness-details-panel2">
-							<summary>Tritanopia</summary>
-							<img class="img-responsive" src="../images/alert-tritanopia.png" alt="Shows the 4 types of alerts under a colour filter.">
-						</details>
+				<div class="col-md-6">
+					<div class="pattern-demo mrgn-bttm-lg">
+					<img class="img-responsive" src="../images/alert-spec-en.png" alt="Alert banner with numbering 1 on the icon in the border, 2 on the border, 3 on the heading, and 4 on the description.">
 					</div>
-					</div>
+				</div>
+				<div class="col-md-6">
+					<ul class="list-unstyled">
+					<li>
+						<details>
+							<summary>1. Icon</summary>
+							<p>Each alert type uses the following icons:</p>
+							<ul>
+								<li><strong>Danger alerts</strong> use an exclamation point icon in a circular border<code>\e101</code></li>
+								<li><strong>Warning alerts</strong> use an exclamation point icon in a triangular border <code>\e107</code></li>
+								<li><strong>Info alerts</strong> use an information icon <code>\e086</code></li>
+								<li><strong>Success alerts</strong> use a checkmark icon <code>\e084</code></li>
+							</ul>
+						</details>
+					</li>
+					<li>
+						<details>
+							<summary>2. Border highlight</summary>
+							<p>Alerts have border highlights with a thickness of <code>6px</code> using the following colours:</p>
+							<ul>
+								<li><strong>Danger alerts</strong> use red <code>#d3080c</code></li>
+								<li><strong>Warning alerts</strong> use red <code>#f90</code></li>
+								<li><strong>Info alerts</strong> use red <code>#269abc</code></li>
+								<li><strong>Success alerts</strong> use red <code>#278400</code></li>
+							</ul>
+						</details>
+					</li>
+					<li>
+						<details>
+							<summary>3. Heading</summary>
+							<p>Alert heading text colour matches the border highlight colour</p>
+						</details>
+					</li>
+					<li>
+						<details>
+							<summary>4. Description</summary>
+							<p>Content area of an alert should inherit fonts and styles of the page</p>
+						</details>
+					</li>
+					</ul>
 				</div>
 			</div>
 		</section>
-		</section>
 		<section>
-			<h2 id="issues">Information schemas</h2>
-			<p><strong>Usage:</strong> Use the schema to submit code for automated actions (??).</p>
-			<div class="row">
-				<div class="col-md-9 col-lg-8">
-					<details>
-					<summary>Schema templates</summary>
-					<div class="wb-tabs">
-						<div class="tabpanels">
-							<details id="schema-details-panel1">
-								<summary>Basic</summary>
-							</details>
-							<details id="schema-details-panel2">
-								<summary>Shapes graphs</summary>
-							</details>
-							<details id="schema-details-panel3">
-								<summary>JSON-LD</summary>
-							</details>
+			<h2 id="variations">Design variants</h2>
+			<div class="wb-eqht">
+				<div class="row">
+					<div class="col-md-6">
+					<div class="pattern-demo eqht-trgt col-md-12 pattern-demo-design-variant">
+						<div class="experimental">
+							<section class="alert alert-danger">
+								<h3>Alert heading</h3>
+								<p>Alert description.</p>
+							</section>
+						</div>
+						<div class="pstn-tp-xs pstn-rght-xs mrgn-tp-sm mrgn-rght-sm">
+							<a href="./contextual-alerts-demo.html?dv=danger#demo" class="btn btn-default btn-sm"><span class="fas fa-external-link-alt"></span> Get code</a>
 						</div>
 					</div>
-					</details>
+					<h3 class="h4">1. Danger</h3>
+					<p>Use the danger alert to draw attention to a situation that could place the user in danger, such as a do not travel warning. You can also use it to alert the user of a technical issue that could cause them to be unable to complete their task, such as an invalid submission of data in a form.</p>
+					</div>
+					<div class="col-md-6">
+					<div class="pattern-demo eqht-trgt col-md-12 pattern-demo-design-variant">
+						<div class="experimental">
+							<section class="alert alert-warning">
+								<h3>Alert heading</h3>
+								<p>Alert description.</p>
+							</section>
+						</div>
+						<div class="pstn-tp-xs pstn-rght-xs mrgn-tp-sm mrgn-rght-sm">
+							<a href="./contextual-alerts-demo.html?dv=warning#demo" class="btn btn-default btn-sm "><span class="fas fa-external-link-alt"></span> Get code</a>
+						</div>
+					</div>
+					<h3 class="h4">2. Warning</h3>
+					<p>Use the warning alert to draw attention to a possible consequence of an action or inaction, such as legal penalty that could apply.</p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-6">
+					<div class="pattern-demo eqht-trgt col-md-12 pattern-demo-design-variant">
+						<div class="experimental">
+							<section class="alert alert-info">
+								<h3>Alert heading</h3>
+								<p>Alert description.</p>
+							</section>
+						</div>
+						<div class="pstn-tp-xs pstn-rght-xs mrgn-tp-sm mrgn-rght-sm">
+							<a href="./contextual-alerts-demo.html?dv=info#demo" class="btn btn-default btn-sm "><span class="fas fa-external-link-alt"></span> Get code</a>
+						</div>
+					</div>
+					<h3 class="h4">3. Info</h3>
+					<p>Use the info alert to draw attention to a clarification of surrounding content or helpful advice, such as the number of weeks it will take to receive a refund when an application is sent by mail vs by phone.</p>
+					</div>
+					<div class="col-md-6">
+					<div class="pattern-demo eqht-trgt col-md-12 pattern-demo-design-variant">
+						<div class="experimental">
+							<section class="alert alert-success">
+								<h3>Alert heading</h3>
+								<p>Alert description.</p>
+							</section>
+						</div>
+						<div class="pstn-tp-xs pstn-rght-xs mrgn-tp-sm mrgn-rght-sm">
+							<a href="./contextual-alerts-demo.html?dv=success#demo" class="btn btn-default btn-sm "><span class="fas fa-external-link-alt"></span> Get code</a>
+						</div>
+					</div>
+					<h3 class="h4">4. Success</h3>
+					<p>Use the success alert to draw attention to a successful action, such as to confirm a submission or the completion of a task.</p>
+					</div>
 				</div>
 			</div>
 		</section>
 		<section>
-			<h2 id="issues">Known issues</h2>
-			<p>Potential lack of contrast for Deutanopia for some of the styles</p>
-			<p>Aria role="alert" or "alertdialog"? Are these relevant to accessible use? Should they not be used and a warning included?</p>
+			<h2 id="usage">Usage</h2>
+			<p class="h3">Patterns for contextual alerts</p>
+			<ul class="">
+				<li><a >Notifications with alerts, overlays and dialogs</a></li>
+				<li><a >Banners</a></li>
+			</ul>
+			<!--example image-->
+			<!--type of usage: , avoid-->
+			<div class="row">
+				<div class="col-md-4">
+					<img src="" class="img-responsive pattern-demo" alt="">
+					<div class="do-guideline">
+					<p class="h4">Do</p>
+					<p>Place an alert above the page heading if it applies to more than one page.</p>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<img src="" class="img-responsive pattern-demo" alt="">
+					<div class="do-guideline">
+					<p class="h4">Do</p>
+					<p>Place an alert underneath a page heading if it applies to the whole page.</p>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<img src="" class="img-responsive pattern-demo" alt="">
+					<div class="do-guideline">
+					<p class="h4">Do</p>
+					<p>Place an alert within a section of a page where it is relevant.</p>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-8">
+					<img src="" class="img-responsive pattern-demo" alt="">
+					<div class="do-guideline">
+					<p class="h4">Do</p>
+					<p>If an alert advises of an issue or risk, it must provide a next step or suggested course of action to pursue.</p>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4">
+					<img src="" class="img-responsive pattern-demo" alt="">
+					<div class="dont-guideline">
+					<p class="h4">Don't</p>
+					<p>Don't use an alert for content that will only be relevant to a small percentage of visitors to the page.</p>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<img src="" class="img-responsive pattern-demo" alt="">
+					<div class="do-guideline">
+					<p class="h4">Do</p>
+					<p>Detect a user's situation to make an alert appear only to those it affects.</p>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4">
+					<img src="" class="img-responsive pattern-demo" alt="">
+					<div class="dont-guideline">
+					<p class="h4">Don't</p>
+					<p>Don't shout (use caps) or use italics to call attention.</p>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<img src="" class="img-responsive pattern-demo" alt="">
+					<div class="dont-guideline">
+					<p class="h4">Don't</p>
+					<p>Alert messages should be polite and use plain language (~6-8 grade reading level).</p>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4">
+					<img src="" class="img-responsive pattern-demo" alt="">
+					<div class="dont-guideline">
+					<p class="h4">Don't</p>
+					<p>Don't use an alert for form validation. Use for validation instead.</p>
+					<p>Consider labels or pills for styling of text with emphasis colours.</p>
+					</div>
+				</div>
+			</div>
+			<!--2. Don't use alerts in incorrect situations-->
+			<!--3. Use of labels and pills-->
+			<!--5. Use of inline validation in forms-->
+			<!--6. Writing style (make sure what to do/next step is clear. reading level? tone? heading is an answer.)-->
+			<!--7. Positioning on the page-->
+			<!--8. Dismissing alerts?-->
+			<p>Do not use contextual alerts:</p>
+			<ul>
+				<li>to provide information about a normal step in a process or task</li>
+				<li>to simply add emphasis to content</li>
+				<li>in cases where a warning is neither high risk nor frequently experienced</li>
+				<li>
+					to create labels or pills. For these components, see:
+					<ul>
+					<li><a href="https://wet-boew.github.io/wet-boew-styleguide/design/labels-en">label pattern</a></li>
+					<li><a href="https://wet-boew.github.io/wet-boew-styleguide/design/pills-en">pill pattern</a></li>
+					</ul>
+				</li>
+			</ul>
 		</section>
-		<section>
-			<h2 id="versions">Latest changes</h2>
-			<dl class="dl-horizontal">
-				<dt>Version x.x:<br><small><time datetime="2019-11-07" class="text-muted">Nov 7, 2019</time></small></dt>
-				<dd>Component was updated to not have a background colour that caused banner blindness.</dd>
-			</dl>
-		</section>
+		<!-- <section>
+			<h2 id="when">When to use</h2>
+			<div class="row">
+				<div class="col-md-6">
+					<h3>1. Danger</h3>
+					<div class="pattern-demo" style="padding: 10px; margin-bottom:10px; padding-top:35px;">
+						<section class="alert alert-danger">
+							<h3>Alert heading</h3>
+							<p>Alert description.</p>
+						</section>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<h3>2. Warning</h3>
+					<div class="pattern-demo" style="padding: 10px;margin-bottom:10px;padding-top:35px;">
+						<section class="alert alert-warning">
+							<h3>Alert heading</h3>
+							<p>Alert description.</p>
+						</section>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<h3>3. Info</h3>
+					<div class="pattern-demo" style="padding: 10px;margin-bottom:10px;padding-top:35px;">
+						<section class="alert alert-info">
+							<h3>Alert heading</h3>
+							<p>Alert description.</p>
+						</section>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<h3>4. Success</h3>
+					<div class="pattern-demo" style="padding: 10px;margin-bottom:10px;padding-top:35px;">
+						<section class="alert alert-success">
+							<h3>Alert heading</h3>
+							<p>Alert description.</p>
+						</section>
+					</div>
+				</div>
+			</div>
+			<ol>
+				<li><strong>Danger</strong><br>Use the danger alert to draw attention to a situation that could place the user in danger, such as a do not travel warning. You can also use it to alert the user of a technical issue that could cause them to be unable to complete their task, such as an invalid submission of data in a form.</li>
+				<li><strong>Warning</strong><br>Use the warning alert to draw attention to a possible consequence of an action or inaction, such as legal penalty that could apply.</li>
+				<li><strong>Info</strong><br>Use the info alert to draw attention to a clarification of surrounding content or helpful advice, such as the number of weeks it will take to receive a refund when an application is sent by mail vs by phone.</li>
+				<li><strong>Success</strong><br>Use the success alert to draw attention to a successful action, such as to confirm a submission or the completion of a task.</li>
+			</ol>
+			</section> -->
 		<section>
 			<h2 id="discuss">Discussion</h2>
 			<div class="row">
@@ -637,6 +532,8 @@
 		<script src="./wet-boew/js/ie8-wet-boew2.min.js"></script>
 		<![endif]-->
 		<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>
-		<script src="../js/demo-toggles.js"></script>
+		<script>
+		document.getElementById('submissionPage').value = location.href;
+		</script>
 	</body>
 </html>
