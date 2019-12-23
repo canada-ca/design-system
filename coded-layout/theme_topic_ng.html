@@ -245,24 +245,44 @@
 								or promotional messaging. Use action verbs.</p>
 						</div>
 					</div>
-				</section>
+						<a class="without-sm btn btn-sm btn-default mrgn-tp-lg"><i class="fas fa-eye-slash"></i>&nbsp;&nbsp;<b>Without social
+								media</b></a>
+						<a class="with-sm btn btn-sm btn-default mrgn-tp-lg wb-inv"><i class="fas fa-users"></i>&nbsp;&nbsp;<b>With social
+								media</b></a>
+				</section>	
 			</div>
 		</div>
+		<div class="container wb-inv single-feature">
+			<div class="row">
+				<h2 class="wb-inv">Feature</h2>
+				<section class="wb-eqht col-md-8 mrgn-bttm-md mrgn-tp-lg" id="gcwb_prts">
+					<div class="row">
+						<div class="col-md-6 gc-srvinfo pull-right mobile-left">
+							<h3 class="h5"><a href="#">Slim feature title</a>
+							</h3>
+							<p>Brief description of feature.</p>
+						</div>
+						<div class="col-md-6">
+							<a href="#"><img alt="" class="img-responsive cust-thumbnail thumbnail mrgn-bttm-sm"
+									src="./images/feature-img-488x164.jpg" /> </a>
+						</div>
+					</div>
+				</section>
+			</div> <!-- row -->
+		</div> <!-- container -->
 			<div class="promo-social well well-sm brdr-0 mrgn-tp-md">
 				<div class="container">
 					<div class="row">
 						<h2 class="wb-inv">Feature</h2>
 							<section class="wb-eqht col-md-8 mrgn-bttm-md mrgn-tp-lg" id="gcwb_prts">
 								<div class="row">
-									<div class="col-md-6">
-									<a href="#"><img alt="" class="img-responsive cust-thumbnail thumbnail mrgn-bttm-sm"
-											src="https://wet-boew.github.io/themes-dist/GCWeb/img/360x203.png" /> </a>
+									<div class="col-md-6 gc-srvinfo pull-right mobile-left">
+										<h3 class="h5"><a href="#">Feature title</a></h3>
+										<p>Brief description of feature.</p>
 									</div>
-									<div class="col-md-6 gc-srvinfo">
-										<h3 class="h5"><a href="#">Feature title</a>
-										</h3>
-										<p>Brief description of feature. (Can add toggle to see "slim feature" variant vs this current size feature)
-										</p>
+									<div class="col-md-6">
+									<a href="#"></a><img alt="" class="img-responsive cust-thumbnail thumbnail mrgn-bttm-sm"
+											src="./images/feature-img-360x203.jpg" /> </a>
 									</div>
 								</div>
 							</section>
@@ -282,7 +302,6 @@
 					</div> <!-- row -->
 				</div> <!-- container -->
 			</div> <!-- promo-social -->
-				<div class="clearfix"></div>
 				<div class="container">
 					<div class="row">
 						<h2 class="wb-inv">Contributors</h2>
@@ -459,7 +478,22 @@
 					$(".tt-img").toggle();
 					$(".intro").removeClass("col-md-12").addClass("col-md-6");
 				});
-				// need to check this on page load too - not really sure what to do about the mess the mobile design is... or how to code it using WET
+
+			$(".without-sm").click(function () {
+					$(this).addClass("wb-inv");
+					$(".promo-social").addClass("wb-inv");
+					$(".single-feature").removeClass("wb-inv");
+					$(".with-sm").removeClass("wb-inv");
+				});
+
+			$(".with-sm").click(function () {
+					$(this).addClass("wb-inv");
+					$(".promo-social").removeClass("wb-inv");
+					$(".single-feature").addClass("wb-inv");
+					$(".without-sm").removeClass("wb-inv");
+
+				});
+				//
 			// $(function () {
 			// 		$(window).bind("resize", function () {
 			// 			if ($(this).width() < 549) {
