@@ -176,20 +176,23 @@
         <div class="row">
             <div class="col-md-9 col-xs-12 mrgn-tp-md pull-right">
                <div id="demo" class="pattern-demo pattern-demo-component">
-                  <div id="required-demo" class="component-demo example-frame-bkg">
+                  <div id="required-demo" class="component-demo example-frame-bkg" style="border-bottom: 1px black solid;">
                      <iframe title="Required radio button example" class="example-frame example-frame-resizable example-frame-m" src="./demos/radio-buttons/beta/required.html" frameborder="0" loading="lazy"></iframe>
-                  
-                     <button class="btn btn-default">Mobile</button>
                   </div>
                   <div id="optional-demo" class="component-demo hidden example-frame-bkg">
                      <iframe title="Optional radio button example" class="example-frame example-frame-resizable example-frame-m" src="./demos/radio-buttons/beta/optional.html" frameborder="0" loading="lazy"></iframe>
+                  </div>
+                  <div class="btn-group">
+                     <button id="resize-iframe-mobile" class="btn btn-default"><span class="fas fa-mobile-alt"></span> <strong>SM</strong></button>
+                     <button id="resize-iframe-tablet" class="btn btn-default"><span class="fas fa-tablet-alt"></span> <strong>MD</strong></button>
+                     <button id="resize-iframe-desktop" class="btn btn-default"><span class="fas fa-desktop"></span> <strong>LG</strong></button>
                   </div>
                </div>
             </div>
            <div class="col-md-3 pull-left">
               <div class="mrgn-bttm-sm">
                  <fieldset>
-                   <label for="design-variant-menu" class="h5 ">Design variant</label>
+                   <label for="design-variant-menu" class="h5">Design variant</label>
                    <select id="design-variant-menu" class="form-control">
                       <option value="required">Required</option>
                       <option value="optional">Optional</option>
@@ -394,5 +397,6 @@
      <![endif]-->
      <script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>
      <script src="../js/demo-toggles.js"></script>
+     <script src="../js/resize-iframe.js"></script>
   </body>
 </html>
