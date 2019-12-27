@@ -10,3 +10,7 @@ $(document).ready(function(){
         $('.example-frame').animate({width:'1000px'},200);
     });
 });
+
+function resizeIframe(obj) {
+    obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+}
