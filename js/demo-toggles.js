@@ -18,6 +18,7 @@ $(document).ready(function(){
             $('#'+dv+'-code .layout-code').addClass("hidden");
             $('#'+dv+'-demo #'+lv+'-layout').removeClass("hidden");
             $('#'+dv+'-code #'+lv+'-code').removeClass("hidden");
+            $('#layout-variant-menu').val(lv);
         }
     }
 
