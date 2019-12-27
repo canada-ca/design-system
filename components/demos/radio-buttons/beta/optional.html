@@ -4,10 +4,10 @@
     <meta charset="utf-8">
     <meta name="robots" content="noindex, nofollow">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Contextual alerts – Warning alert example - Canada.ca Design System</title>
+    <title>Radio buttons – Optional example - Canada.ca Design System</title>
     <link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
-    <link rel="stylesheet" href="../../../css/custom.css">
-    <link rel="stylesheet" href="../../../css/new-alerts.css">
+     <link rel="stylesheet" href="../../../../css/custom.css">
+    <link rel="stylesheet" href="../../../../css/checkbox-radio.css">
 
     <!--[if lt IE 9]>
       <script src="/javascripts/head-ie8-a371085ca251931cc9b5360c7da328f6.js"></script>
@@ -20,11 +20,23 @@
     <!-- Disable browser validation for any examples that include form elements -->
     <form action="/form-handler" method="post" novalidate class="mrgn-rght-lg mrgn-lft-lg mrgn-tp-lg mrgn-bttm-lg">
         
-        <div class="experimental">
-            <section class="alert alert-warning">
-                <h3>Alert heading</h3>
-                <p>Alert description.</p>
-            </section>
+        <div class="wb-frmvld">
+            <form>
+                <fieldset class="chkbxrdio-grp">
+                    <legend class="h5">Question (optional)</legend>
+                    <ul class="list-unstyled can-ca-form">
+                        <li class="radio">
+                        <input id="radio-item-optional-1" type="radio" name="radio-optional-example">
+                        <label for="radio-item-optional-1">Item 1</label>
+                        </li>
+                        <li class="radio">
+                        <input id="radio-item-optional-2" type="radio" name="radio-optional-example">
+                        <label for="radio-item-optional-2">Item 2</label>
+                        </li>
+                    </ul>
+                </fieldset>
+            </form>
+            <input type="submit" value="Continue" class="btn btn-call-to-action mrgn-bttm-md">
         </div>
 
     </form>
