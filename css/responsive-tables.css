@@ -1,0 +1,213 @@
+
+/* table patterns should include
+- filter version or no filter
+- default or small text variant
+- content floating right or left in cards view (see CRA contact us page)
+- different break points into cards depending on content? If only 2-3 columns... vs 5-6... diff break points could be ideal
+- Jennifer will bring together all the css for the various options for the design system
+*/
+
+table tr {
+  /* background-color: #ffffff; */
+  border: 1px solid #ddd;
+  padding: .35em;
+}
+
+/* color swap - white should follow the grey heading */
+
+/* .table-striped>tbody>tr:nth-child(odd)>td {
+  background-color: white !important;
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) {
+    background-color: white !important;
+}
+
+.table-striped>tbody>tr:nth-child(even)>td {
+  background-color: #F5F5F5 !important;
+}
+
+.table-striped > tbody > tr:nth-of-type(even) {
+  background-color: #F5F5F5 !important;
+} */
+
+
+
+/* small table text for content with long entries */
+.tbl-sm-txt tr {
+  font-size: .85em !important;
+}
+
+.tbl-sm-txt thead {
+  font-size: .95em !important;
+}
+
+/* makes thead grey */
+/* tr.active, thead tr:first-child {
+  background-color: #f0f0f0 !important;
+} */
+
+/* darker lines for better visibility ? still tweaking */
+
+/* .table > thead > tr > th, .table > thead > tr > td, .table > tbody > tr > th, .table > tbody > tr > td, .table > tfoot > tr > th, .table > tfoot > tr > td {
+    border-top: 1px solid #B8B8B8 !important;
+} */
+
+@media screen and (max-width: 550px) { /* have to fudge the break point for the demo, normally 1024 */
+
+/* removes the first line, so we don't have a double line in the card on mobile */
+  .table > tbody > tr > td:first-child {
+    border-top: none !important;
+}
+
+/* bumps font back up in cards view */
+.tbl-sm-txt tr {
+  font-size: 1em !important;
+}
+
+.tbl-sm-txt thead {
+  font-size: 1em !important;
+}
+
+  table {
+    border: 0;
+  }
+
+  table caption {
+    font-size: 1.1em;
+  }
+
+  table thead {
+    border: none;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+
+  table tr {
+    /* border-bottom: 3px solid #ddd; */
+    display: block;
+    margin-bottom: .625em;
+  }
+
+  table td {
+    /* border-bottom: 1px solid #ddd; */
+    display: block;
+    font-size: 1em;
+    text-align: right;
+  }
+
+  table td::before {
+    /*
+    * aria-label has no advantage, it won't be read inside a table
+    content: attr(aria-label);
+    */
+    content: attr(data-label);
+    font-weight: bold;
+    float: left;
+}
+
+  table td:last-child {
+    border-bottom: 0;
+  }
+
+  .left-mobile {
+          text-align: left !important;
+          float:
+
+      }
+}
+
+
+/* old stuff - keeping in case we need */
+
+/* style lists inside the table */
+
+/* td ul li {
+ margin-left: -18px !important;
+ margin-top: 10px !important;
+} */
+
+
+/* main table tbody {
+  font-size: 19px !important;
+  line-height: 1.4em !important;
+} */
+
+
+
+
+/* .dataTables_wrapper {
+  margin-left: -1.1em !important;
+  margin-right: -1.1em !important;
+} */
+/*
+.dataTables_filter, .dataTables_length {
+  margin-left: 1.1em !important;
+} */
+
+
+
+
+/* table {
+  border: 1px solid #ccc;
+  border-collapse: collapse;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  table-layout: fixed;
+} */
+
+/* table caption {
+  font-size: 1.5em;
+  margin: .5em 0 .75em;
+} */
+
+
+/* table th,
+table td {
+  padding: .625em;
+  text-align: left;
+} */
+/* thead th{
+  font-size: 16px !important;
+
+} */
+/* table th {
+  font-size: .85em;
+ letter-spacing: .1em;
+} */
+
+/* tr.d0 th {
+  font-size: .85em;
+  font-weight: bold;
+  background-color: #FFFFFF;
+} */
+
+
+
+/* tr.d1 td {
+  font-size: 1em;
+	background-color: #F5F5F5;
+ color: black;
+}
+
+tr.d2 td {
+  font-size: 1em;
+	background-color: #FFFFFF;
+ color: black;
+} */
+
+/* tr:nth-child(even) {
+  font-size: .85em;
+  background-color: #F5F5F5 !important;
+}
+ tr:nth-child(odd) {
+  font-size: .85em;
+  background-color: white !important;
+
+} */
