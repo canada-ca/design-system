@@ -1,414 +1,329 @@
-
-<!DOCTYPE html><!--[if lt IE 9]><html class="no-js lt-ie9" lang="en" dir="ltr"><![endif]--><!--[if gt IE 8]><!-->
+<!DOCTYPE html><!--[if lt IE 9]>
+<html class="no-js lt-ie9" lang="en" dir="ltr">
+<![endif]--><!--[if gt IE 8]><!-->
 <html class="no-js" lang="en" dir="ltr">
-<!--<![endif]-->
-<head>
-<meta charset="utf-8">
-<!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
+	<!--<![endif]-->
+	<head>
+		<meta charset="utf-8">
+		<!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
 		wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
 		<title>Radio buttons - Demo and code - Canada.ca</title>
-<meta content="width=device-width,initial-scale=1" name="viewport">
-
-<!--[if gte IE 9 | !IE ]><!-->
-<link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon">
-<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
-<link rel="stylesheet" href="../css/custom.css">
-<link rel="stylesheet" href="../css/new-alerts.css">
-<link rel="stylesheet" href="../css/split-h1.css">
-<link rel="stylesheet" href="../css/checkbox-radio.css">
-<link rel="stylesheet" href="../css/alpha-beta-banner.css">
-<link rel="stylesheet" href="../css/component-presentation.css">
-<link rel="stylesheet" href="../css/navigation.css">
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
-<!--<![endif]-->
-<!--[if lt IE 9]>
+		<meta content="width=device-width,initial-scale=1" name="viewport">
+		<!--[if gte IE 9 | !IE ]><!-->
+		<link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon">
+		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
+		<link rel="stylesheet" href="../css/custom.css">
+		<link rel="stylesheet" href="../css/new-alerts.css">
+		<link rel="stylesheet" href="../css/split-h1.css">
+		<link rel="stylesheet" href="../css/checkbox-radio.css">
+		<link rel="stylesheet" href="../css/alpha-beta-banner.css">
+		<link rel="stylesheet" href="../css/component-presentation.css">
+		<link rel="stylesheet" href="../css/navigation.css">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+		<!--<![endif]-->
+		<!--[if lt IE 9]>
 		<link href="./GCWeb/assets/favicon.ico" rel="shortcut icon" />
-
 		<link rel="stylesheet" href="http://wet-boew.github.io/themes-dist/GCWeb/GCWeb/css/ie8-theme.min.css" />
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 		<script src="./wet-boew/js/ie8-wet-boew.min.js"></script>
 		<![endif]-->
-<!--[if lte IE 9]>
-
-
+		<!--[if lte IE 9]>
 		<![endif]-->
-<noscript><link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/wet-boew/css/noscript.min.css" /></noscript>
-
-
-
-<script type="application/ld+json">
-  {
-    "@context": "http://schema.org",
-    "@type": "WebPage",
-    "name": "Contextual alerts - Canada.ca design pattern",
-    "url": "https://design.canada.ca/common-design-patterns/contextual-alerts.html",
-    "author": {
-      "@type": "GovernmentOrganization",
-      "name": "Treasury Board of Canada Secretariat",
-      "url": "https://www.canada.ca/en/treasury-board-secretariat.html",
-      "parentOrganization": {
-        "@type": "GovernmentOrganization",
-        "name": "Government of Canada",
-        "url": "http://www.canada.ca/"
-      }
-    },
-    "description": "Contextual alerts are notice boxes for important new information that needs to appear in a pre-existing context."
-  }
-</script>
-
- <!-- Global site tag (gtag.js) - Google Analytics -->
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105628416-2"></script>
-
-<script>
-
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-
-  gtag('config', 'UA-105628416-2');
-
-</script>
-</head>
-<body class="cnt-wdth-lmtd" vocab="http://schema.org/" typeof="WebPage">
-<ul id="wb-tphp">
-<li class="wb-slc">
-<a class="wb-sl" href="#wb-cont">Skip to main content</a>
-</li>
-<li class="wb-slc">
-<a class="wb-sl" href="#wb-info">Skip to "About government"</a>
-</li>
-</ul>
-<header>
-<div id="wb-bnr" class="container">
-<section id="wb-lng" class="text-right">
-<h2 class="wb-inv">Language selection</h2>
-<div class="row">
-<div class="col-md-12">
-<ul class="list-inline margin-bottom-none">
-<li><a lang="fr" href="https://conception.canada.ca/configurations-conception-communes/alertes-contextuelles.html">Français</a></li>
-</ul>
-</div>
-</div>
-</section>
-<div class="row">
-<div class="brand col-xs-5 col-md-4">
-<a href="https://www.canada.ca/en.html"><img src="http://www.canada.ca/etc/designs/canada/wet-boew/assets/sig-blk-en.svg" alt=""><span class="wb-inv"> Government of Canada / <span lang="fr">Gouvernement du Canada</span></span></a>
-</div>
-<section id="wb-srch" class="col-lg-8 text-right">
-<h2>Search</h2>
-<form action="https://recherche-search.gc.ca/rGs/s_r?#wb-land" method="get" role="search" class="form-inline">
-
-<div class="form-group">
-
-<label for="wb-srch-q" class="wb-inv">Search website</label>
-
-<input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="27" maxlength="150" placeholder="Search Canada.ca">
-
-<input name="st" value="s" type="hidden"/>
-
-<input name="num" value="10" type="hidden"/>
-
-<input name="langs" value="eng" type="hidden"/>
-
-<input name="st1rt" value="0" type="hidden">
-
-<input name="s5bm3ts21rch" value="x" type="hidden"/>
-
-<datalist id="wb-srch-q-ac">
-
-<!--[if lte IE 9]><select><![endif]-->
-
-<!--[if lte IE 9]></select><![endif]-->
-
-</datalist>
-
-</div>
-
-<div class="form-group submit">
-
-<button type="submit" id="wb-srch-sub" class="btn btn-primary btn-small" name="wb-srch-sub"><span class="glyphicon-search glyphicon"></span><span class="wb-inv">Search</span></button>
-
-</div>
-
-</form>
-
-
-</section>
-</div>
-</div>
-<nav class="gweb-v2 gcweb-menu" typeof="SiteNavigationElement">
-<div class="container">
-<h2 class="wb-inv">Menu</h2>
-<button type="button" aria-haspopup="true" aria-controls="gc-mnu" aria-expanded="false"><span class="wb-inv">Main </span>Menu <span class="expicon glyphicon glyphicon-chevron-down"></span></button>
-<ul id="gc-mnu" role="menu" aria-orientation="vertical" data-ajax-replace="https://www.canada.ca/content/dam/canada/sitemenu/sitemenu-v2-en.html">
-	<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/jobs.html">Jobs and the workplace</a></li>
-	<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/immigration-citizenship.html">Immigration and citizenship</a></li>
-	<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://travel.gc.ca/">Travel and tourism</a></li>
-	<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/business.html">Business and industry</a></li>
-	<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/benefits.html">Benefits</a></li>
-	<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/health.html">Health</a></li>
-	<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/taxes.html">Taxes</a></li>
-	<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/environment.html">Environment and natural resources</a></li>
-	<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/defence.html">National security and defence</a></li>
-	<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/culture.html">Culture, history and sport</a></li>
-	<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/policing.html">Policing, justice and emergencies</a></li>
-	<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/transport.html">Transport and infrastructure</a></li>
-	<li role="none presentation"><a role="menuitem" tabindex="-1" href="http://international.gc.ca/world-monde/index.aspx?lang=eng">Canada and the world</a></li>
-	<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/finance.html">Money and finances</a></li>
-	<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/finance.html">Science and innovation</a></li>
-</ul>
-</div>
-</nav>
-<nav id="wb-bc" property="breadcrumb">
-<h2>You are here:</h2>
-<div class="container">
-<ol class="breadcrumb">
-	<li><a href='https://www.canada.ca/en.html'>Home</a></li>
-	<li><a href='https://www.canada.ca/en/government/about.html'>About Canada.ca</a></li>
-<li><a href='https://www.canada.ca/en/government/about/design-system.html'>Canada.ca design system</a></li>
-	<li><a href='https://www.canada.ca/en/government/about/design-system/pattern-library.html'>Template and pattern library for Canada.ca</a></li>
-</ol>
-</div>
-</nav>
-</header>
-
-<!--/* Hide Nav; Hide Right Rail /*-->
-<main role="main" property="mainContentOfPage" class="container wb-prettify all-pre">
-
-	<!-- <nav class="section-menu mobile">
-    <h2 class="menu-title">Contextual alerts</h2>
-		<ul class="list-unstyled list-inline">
+		<noscript>
+		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/wet-boew/css/noscript.min.css" />
+		</noscript>
+		<script type="application/ld+json">
+		{
+			"@context": "http://schema.org",
+			"@type": "WebPage",
+			"name": "Contextual alerts - Canada.ca design pattern",
+			"url": "https://design.canada.ca/common-design-patterns/contextual-alerts.html",
+			"author": {
+			"@type": "GovernmentOrganization",
+			"name": "Treasury Board of Canada Secretariat",
+			"url": "https://www.canada.ca/en/treasury-board-secretariat.html",
+			"parentOrganization": {
+				"@type": "GovernmentOrganization",
+				"name": "Government of Canada",
+				"url": "http://www.canada.ca/"
+			}
+			},
+			"description": "Contextual alerts are notice boxes for important new information that needs to appear in a pre-existing context."
+		}
+		</script>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105628416-2"></script>
+		<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		
+		
+		gtag('config', 'UA-105628416-2');
+		
+		</script>
+	</head>
+	<body class="cnt-wdth-lmtd" vocab="http://schema.org/" typeof="WebPage">
+		<ul id="wb-tphp">
+		<li class="wb-slc">
+			<a class="wb-sl" href="#wb-cont">Skip to main content</a>
+		</li>
+		<li class="wb-slc">
+			<a class="wb-sl" href="#wb-info">Skip to "About government"</a>
+		</li>
+		</ul>
+		<header>
+		<div id="wb-bnr" class="container">
+			<section id="wb-lng" class="text-right">
+				<h2 class="wb-inv">Language selection</h2>
+				<div class="row">
+					<div class="col-md-12">
+					<ul class="list-inline margin-bottom-none">
+						<li><a lang="fr" href="https://conception.canada.ca/configurations-conception-communes/alertes-contextuelles.html">Français</a></li>
+					</ul>
+					</div>
+				</div>
+			</section>
+			<div class="row">
+				<div class="brand col-xs-5 col-md-4">
+					<a href="https://www.canada.ca/en.html"><img src="http://www.canada.ca/etc/designs/canada/wet-boew/assets/sig-blk-en.svg" alt=""><span class="wb-inv"> Government of Canada / <span lang="fr">Gouvernement du Canada</span></span></a>
+				</div>
+				<section id="wb-srch" class="col-lg-8 text-right">
+					<h2>Search</h2>
+					<form action="https://recherche-search.gc.ca/rGs/s_r?#wb-land" method="get" role="search" class="form-inline">
+					<div class="form-group">
+						<label for="wb-srch-q" class="wb-inv">Search website</label>
+						<input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="27" maxlength="150" placeholder="Search Canada.ca">
+						<input name="st" value="s" type="hidden"/>
+						<input name="num" value="10" type="hidden"/>
+						<input name="langs" value="eng" type="hidden"/>
+						<input name="st1rt" value="0" type="hidden">
+						<input name="s5bm3ts21rch" value="x" type="hidden"/>
+						<datalist id="wb-srch-q-ac">
+							<!--[if lte IE 9]>
+							<select>
+								<![endif]-->
+								<!--[if lte IE 9]>
+							</select>
+							<![endif]-->
+						</datalist>
+					</div>
+					<div class="form-group submit">
+						<button type="submit" id="wb-srch-sub" class="btn btn-primary btn-small" name="wb-srch-sub"><span class="glyphicon-search glyphicon"></span><span class="wb-inv">Search</span></button>
+					</div>
+					</form>
+				</section>
+			</div>
+		</div>
+		<nav class="gweb-v2 gcweb-menu" typeof="SiteNavigationElement">
+			<div class="container">
+				<h2 class="wb-inv">Menu</h2>
+				<button type="button" aria-haspopup="true" aria-controls="gc-mnu" aria-expanded="false"><span class="wb-inv">Main </span>Menu <span class="expicon glyphicon glyphicon-chevron-down"></span></button>
+				<ul id="gc-mnu" role="menu" aria-orientation="vertical" data-ajax-replace="https://www.canada.ca/content/dam/canada/sitemenu/sitemenu-v2-en.html">
+					<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/jobs.html">Jobs and the workplace</a></li>
+					<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/immigration-citizenship.html">Immigration and citizenship</a></li>
+					<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://travel.gc.ca/">Travel and tourism</a></li>
+					<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/business.html">Business and industry</a></li>
+					<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/benefits.html">Benefits</a></li>
+					<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/health.html">Health</a></li>
+					<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/taxes.html">Taxes</a></li>
+					<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/environment.html">Environment and natural resources</a></li>
+					<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/defence.html">National security and defence</a></li>
+					<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/culture.html">Culture, history and sport</a></li>
+					<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/policing.html">Policing, justice and emergencies</a></li>
+					<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/transport.html">Transport and infrastructure</a></li>
+					<li role="none presentation"><a role="menuitem" tabindex="-1" href="http://international.gc.ca/world-monde/index.aspx?lang=eng">Canada and the world</a></li>
+					<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/finance.html">Money and finances</a></li>
+					<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/finance.html">Science and innovation</a></li>
+				</ul>
+			</div>
+		</nav>
+		<nav id="wb-bc" property="breadcrumb">
+			<h2>You are here:</h2>
+			<div class="container">
+				<ol class="breadcrumb">
+					<li><a href='https://www.canada.ca/en.html'>Home</a></li>
+					<li><a href='https://www.canada.ca/en/government/about.html'>About Canada.ca</a></li>
+					<li><a href='https://www.canada.ca/en/government/about/design-system.html'>Canada.ca design system</a></li>
+					<li><a href='https://www.canada.ca/en/government/about/design-system/pattern-library.html'>Template and pattern library for Canada.ca</a></li>
+				</ol>
+			</div>
+		</nav>
+		</header>
+		<!--/* Hide Nav; Hide Right Rail /*-->
+		<main role="main" property="mainContentOfPage" class="container wb-prettify all-pre">
+		<!-- <nav class="section-menu mobile">
+			<h2 class="menu-title">Contextual alerts</h2>
+			<ul class="list-unstyled list-inline">
 			<li><a class="btn btn-default" href="./contextual-alerts-design-guidelines.html"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a></li>
 			<li><a class="btn btn-primary" style="color:white;"><span class="fas fa-laptop-code"></span> Component demo</a></li>
-		</ul>
-	</nav> -->
-
-	<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Radio buttons</span>: <span>Rationale</span></span></h1>
-	<div class="row profile">
-		<div class="col-md-9">
-			<p class="pagetag">Radio buttons allow for a single option to be selected in a list of items.</p>
-		</div>
-		<div class="col-md-3">
-			<div class="small">
-				<ul class="list-unstyled">
+			</ul>
+			</nav> -->
+		<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Radio buttons</span>: <span>Rationale</span></span></h1>
+		<div class="row profile">
+			<div class="col-md-9">
+				<p class="pagetag">Radio buttons allow for a single option to be selected in a list of items.</p>
+			</div>
+			<div class="col-md-3">
+				<div class="small">
+					<ul class="list-unstyled">
 					<li><span class="wb-inv"><strong>Progress:</strong> </span><label class="label beta-label">Beta</label></li>
 					<li class="mrgn-rght-lg"><strong>Version:</strong> x.x</li>
 					<li class="mrgn-rght-lg"><strong>Updated:</strong> Nov 7, 2019</li>
-			  </ul>
+					</ul>
+				</div>
+			</div>
+			<div class="col-md-12">
+				<!-- <section class="wb-inview bar-demo" data-inview="bottom-bar">
+					<div class="btn-group mrgn-bttm-lg">
+						<a class="btn btn-default" href="./contextual-alerts-design-guidelines.html"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a>
+						<a class="btn btn-default active"><span class="fas fa-laptop-code"></span> Demo and code</a>
+					</div>
+					</section>
+					<section id="bottom-bar" class="wb-overlay modal-content overlay-def wb-bar-b" style="text-align:center;">
+					<div class="btn-group btn-group-sm mrgn-bttm-sm mrgn-tp-md" style="display:inline-block;">
+						<a class="btn btn-default" href="./contextual-alerts-design-guidelines.html"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a>
+						<a class="btn btn-default active"><span class="fas fa-laptop-code"></span> Demo and code</a>
+					</div>
+					</section> -->
+				<div class="btn-group mrgn-bttm-sm mrgn-tp-md">
+					<a class="btn btn-default" href="./checkboxes-guide.html"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a>
+					<a class="btn btn-default" href="./checkboxes-demo.html"><span class="fas fa-laptop-code"></span> Demo and code</a>
+					<a class="btn btn-default active"><span class="fas fa-microscope"></span> Rationale</a>
+				</div>
+				<!-- <ul class="list-unstyled list-inline btn-group">
+					<li><a class="btn btn-default" href="./contextual-alerts-design-guidelines.html"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a></li>
+					<li><a class="btn btn-primary disabled" style="color:white;"><span class="fas fa-laptop-code"></span> Demo and code</a></li>
+					</ul> -->
 			</div>
 		</div>
-		<div class="col-md-12">
-			<!-- <section class="wb-inview bar-demo" data-inview="bottom-bar">
-				<div class="btn-group mrgn-bttm-lg">
-					<a class="btn btn-default" href="./contextual-alerts-design-guidelines.html"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a>
-					<a class="btn btn-default active"><span class="fas fa-laptop-code"></span> Demo and code</a>
-				</div>
+		<section>
+			<h2 id="how">Rationale and research</h2>
+			<section>
+				<h3>Large input touch targets support input and use</h3>
+				<p>A long time issue with checkboxes and radio buttons has been that labels don't look clickable to most people.</p>
+				<p>Even using designs that highlight the label text or put the input and label into an outline, </p>
+				<details>
+					<summary>Gov.uk research</summary>
+					<p>See relevant research performed by the UK using 2 different designs over an unknown number of trials.</p>
+					<p><a href="https://designnotes.blog.gov.uk/2016/11/30/weve-updated-the-radios-and-checkboxes-on-gov-uk/">Gov.uk blog</a></p>
+				</details>
 			</section>
-			<section id="bottom-bar" class="wb-overlay modal-content overlay-def wb-bar-b" style="text-align:center;">
-				<div class="btn-group btn-group-sm mrgn-bttm-sm mrgn-tp-md" style="display:inline-block;">
-					<a class="btn btn-default" href="./contextual-alerts-design-guidelines.html"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a>
-					<a class="btn btn-default active"><span class="fas fa-laptop-code"></span> Demo and code</a>
-				</div>
-			</section> -->
-			<div class="btn-group mrgn-bttm-sm mrgn-tp-md">
-				<a class="btn btn-default" href="./checkboxes-guide.html"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a>
-				<a class="btn btn-default" href="./checkboxes-demo.html"><span class="fas fa-laptop-code"></span> Demo and code</a>
-				<a class="btn btn-default active"><span class="fas fa-microscope"></span> Rationale</a>
-			</div>
-			<!-- <ul class="list-unstyled list-inline btn-group">
-				<li><a class="btn btn-default" href="./contextual-alerts-design-guidelines.html"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a></li>
-				<li><a class="btn btn-primary disabled" style="color:white;"><span class="fas fa-laptop-code"></span> Demo and code</a></li>
-			</ul> -->
-		</div>
-	</div>
-
-	<section>
-		<h2 id="how">Rationale and research</h2>
-
-		<section>
-			<h3>Large input touch targets support input and use</h3>
-			<p>A long time issue with checkboxes and radio buttons has been that labels don't look clickable to most people.</p>
-			<p>Even using designs that highlight the label text or put the input and label into an outline, </p>
+			<section>
+				<h3></h3>
+			</section>
+			<h3>Noticeability was not impacted</h3>
 			<details>
-				<summary>Gov.uk research</summary>
-				<p>See relevant research performed by the UK using 2 different designs over an unknown number of trials.</p>
-				<p><a href="https://designnotes.blog.gov.uk/2016/11/30/weve-updated-the-radios-and-checkboxes-on-gov-uk/">Gov.uk blog</a></p>
-			</details>
-		</section>
-
-		<section>
-			<h3></h3>
-
-		</section>
-
-		<h3>Noticeability was not impacted</h3>
-		<details>
-			<summary>First click A/B testing - x participants</summary>
-			<dl class="dl-vertical">
+				<summary>First click A/B testing - x participants</summary>
+				<dl class="dl-vertical">
 				<dt>Test procedure</dt>
 				<dd></dd>
 				<dt>Conclusions</dt>
 				<dd>
 					<ul>
-						<li>The new design did not hinder noticeability</li>
-
-						<li>Testing did not reveal a significant increase in noticeability</li>
+					<li>The new design did not hinder noticeability</li>
+					<li>Testing did not reveal a significant increase in noticeability</li>
 					</ul>
 				</dd>
 				<dt>Data</dt>
 				<dd>How to access</dd>
-			<h4>
-
-
-		</details>
-		<h3></h3>
-
-
-		<dl>
-			<dt>Testing</dt>
-
-			<dd>Explanation of the testing / blog article link</dd>
-		</dl>
-	</section>
-
-
-	<section>
-		<h2 id="accessibility">Accessibility</h3>
-		<ul>
-			<li>Validation related things?</li>
-			<li>Large touch targets for radio button inputs</li>
-			<li>Other form considerations for screen readers?</li>
-		</ul>
-	</section>
-
-	<section>
-		<h2 id="discuss">Discussion</h2>
-		<div class="row">
-			<div class="col-md-4 col-sm-6 col-xs-12">
-				<p><a href="https://github.com/canada-ca/design-system-systeme-conception/issues" class="btn btn-default btn-block"><span class="fab fa-github"></span> Report an issue in github</a></p>
-				<p><a href="" class="btn btn-default btn-block"><span class="fab fa-slack"></span> Join the conversation on slack</a></p>
+				<h4>
+			</details>
+			<h3></h3>
+			<dl>
+				<dt>Testing</dt>
+				<dd>Explanation of the testing / blog article link</dd>
+			</dl>
+		</section>
+		<section>
+			<h2 id="accessibility">
+			Accessibility</h3>
+			<ul>
+				<li>Validation related things?</li>
+				<li>Large touch targets for radio button inputs</li>
+				<li>Other form considerations for screen readers?</li>
+			</ul>
+		</section>
+		<section>
+			<h2 id="discuss">Discussion</h2>
+			<div class="row">
+				<div class="col-md-4 col-sm-6 col-xs-12">
+					<p><a href="https://github.com/canada-ca/design-system-systeme-conception/issues" class="btn btn-default btn-block"><span class="fab fa-github"></span> Report an issue in github</a></p>
+					<p><a href="" class="btn btn-default btn-block"><span class="fab fa-slack"></span> Join the conversation on slack</a></p>
+				</div>
+			</div>
+		</section>
+		<div class="row pagedetails">
+			<div class="col-sm-6 col-lg-4 mrgn-tp-sm">
+				<div class="panel-pane pane-block pane-bean-report-problem-button"  >
+					<div class="pane-content">
+					<section>
+						<div class="field field-name-field-bean-wetkit-body field-type-text-long field-label-hidden">
+							<div class="field-items">
+								<div class="field-item even"><a class="btn btn-default btn-block" href="https://www.canada.ca/en/report-problem.html">Report a problem on this page</a></div>
+							</div>
+						</div>
+					</section>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-3 mrgn-tp-sm pull-right">
+			</div>
+			<div class="datemod col-xs-12 mrgn-tp-lg">
+				<dl id="wb-dtmd">
+					<dt>Date modified:</dt>
+					<dd><time property="dateModified">2018-12-19</time></dd>
+				</dl>
 			</div>
 		</div>
-	</section>
-
-	<div class="row pagedetails">
-	<div class="col-sm-6 col-lg-4 mrgn-tp-sm">
-	<div class="panel-pane pane-block pane-bean-report-problem-button"  >
-	<div class="pane-content">
-	<section>
-	<div class="field field-name-field-bean-wetkit-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><a class="btn btn-default btn-block" href="https://www.canada.ca/en/report-problem.html">Report a problem on this page</a></div></div></div></section>
-	</div>
-	</div>
-	</div>
-
-        <div class="col-sm-3 mrgn-tp-sm pull-right">
-    </div>
-
-
-    <div class="datemod col-xs-12 mrgn-tp-lg">
-        <dl id="wb-dtmd">
-    <dt>Date modified:</dt>
-    <dd><time property="dateModified">2018-12-19</time></dd>
-</dl>
-    </div>
-
-</div>
-    </main>
-
+		</main>
 		<footer id="wb-info">
-	<div class="landscape">
-	<nav class="container wb-navcurr">
-	<h2 class="wb-inv">About government</h2>
-	<ul class="list-unstyled colcount-sm-2 colcount-md-3">
-	<li><a href="https://www.canada.ca/en/contact.html">Contact us</a></li>
-	<li><a href="https://www.canada.ca/en/government/dept.html">Departments and agencies</a></li>
-	<li><a href="https://www.canada.ca/en/government/publicservice.html">Public service and military</a></li>
-	<li><a href="https://www.canada.ca/en/news.html">News</a></li>
-	<li><a href="https://www.canada.ca/en/government/system/laws.html">Treaties, laws and regulations</a></li>
-	<li><a href="https://www.canada.ca/en/transparency/reporting.html">Government-wide reporting</a></li>
-	<li><a href="https://pm.gc.ca/eng">Prime Minister</a></li>
-	<li><a href="https://www.canada.ca/en/government/system.html">How government works</a></li>
-	<li><a href="https://open.canada.ca/en/">Open government</a></li>
-	</ul>
-	</nav>
-	</div>
-	<div class="brand">
-	<div class="container">
-	<div class="row">
-	<nav class="col-md-9 col-lg-10 ftr-urlt-lnk">
-	<h2 class="wb-inv">About this site</h2>
-	<ul>
-	<li><a href="https://www.canada.ca/en/social.html">Social media</a></li>
-	<li><a href="https://www.canada.ca/en/mobile.html">Mobile applications</a></li>
-	<li><a href="https://www1.canada.ca/en/newsite.html">About Canada.ca</a></li>
-	<li><a href="https://www.canada.ca/en/transparency/terms.html">Terms and conditions</a></li>
-	<li><a href="https://www.canada.ca/en/transparency/privacy.html">Privacy</a></li>
-	</ul>
-	</nav>
-	<div class="col-xs-6 visible-sm visible-xs tofpg">
-	<a href="#wb-cont">Top of Page <span class="glyphicon glyphicon-chevron-up"></span></a>
-	</div>
-	<div class="col-xs-6 col-md-3 col-lg-2 text-right">
-	<img src="http://www.canada.ca/etc/designs/canada/wet-boew/assets/wmms-blk.svg" alt="Symbol of the Government of Canada">
-	</div>
-	</div>
-	</div>
-	</div>
-	</footer>
-	<!--[if gte IE 9 | !IE ]><!-->
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.js"></script>
-	<script src="https://wet-boew.github.io/themes-dist/GCWeb/wet-boew/js/wet-boew.min.js"></script>
-	<!--<![endif]-->
-	<!--[if lt IE 9]>
-			<script src="./wet-boew/js/ie8-wet-boew2.min.js"></script>
-
-			<![endif]-->
-	<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>
-	<script>
-		// document.getElementById('submissionPage').value = location.href;
-		$(document).ready(function(){
-			var dv = getUrlParameter('dv');
-			var cv = localStorage.getItem('cv');
-
-			//PRESETS
-			if (dv != null) {
-				$('.component-demo').addClass("hidden");
-				$('.component-code').addClass("hidden");
-				$('#'+dv+'-demo').removeClass("hidden");
-				$('#'+dv+'-code').removeClass("hidden");
-			}
-			if (localStorage.getItem('cv') != null) {
-				$('.code-variant').addClass("hidden");
-				$('.'+localStorage.getItem('cv')+'-variant').removeClass("hidden");
-			}
-
-			//hide all component demos, show the selected one
-			$("#design-variant-menu").change(function(){
-				$('.component-demo').addClass("hidden");
-				$('.component-code').addClass("hidden");
-				$('#'+this.value+'-demo').removeClass("hidden");
-				$('#'+this.value+'-code').removeClass("hidden");
-			});
-			$("#code-variant-menu").change(function(){
-				$('.code-variant').addClass("hidden");
-				$('.'+this.value+'-variant').removeClass("hidden");
-				localStorage.setItem("cv", this.value);
-			});
-		});
-		var getUrlParameter = function getUrlParameter(sParam) {
-		   var sPageURL = decodeURIComponent(window.location.search.substring(1)),
-		       sURLVariables = sPageURL.split('&'),
-		       sParameterName,
-		       i;
-		   for (i = 0; i < sURLVariables.length; i++) {
-		       sParameterName = sURLVariables[i].split('=');
-		       if (sParameterName[0] === sParam) {
-		           return sParameterName[1] === undefined ? true : sParameterName[1];
-		       }
-		   }
-		};
-	</script>
-</body>
-	</html>
+		<div class="landscape">
+			<nav class="container wb-navcurr">
+				<h2 class="wb-inv">About government</h2>
+				<ul class="list-unstyled colcount-sm-2 colcount-md-3">
+					<li><a href="https://www.canada.ca/en/contact.html">Contact us</a></li>
+					<li><a href="https://www.canada.ca/en/government/dept.html">Departments and agencies</a></li>
+					<li><a href="https://www.canada.ca/en/government/publicservice.html">Public service and military</a></li>
+					<li><a href="https://www.canada.ca/en/news.html">News</a></li>
+					<li><a href="https://www.canada.ca/en/government/system/laws.html">Treaties, laws and regulations</a></li>
+					<li><a href="https://www.canada.ca/en/transparency/reporting.html">Government-wide reporting</a></li>
+					<li><a href="https://pm.gc.ca/eng">Prime Minister</a></li>
+					<li><a href="https://www.canada.ca/en/government/system.html">How government works</a></li>
+					<li><a href="https://open.canada.ca/en/">Open government</a></li>
+				</ul>
+			</nav>
+		</div>
+		<div class="brand">
+			<div class="container">
+				<div class="row">
+					<nav class="col-md-9 col-lg-10 ftr-urlt-lnk">
+					<h2 class="wb-inv">About this site</h2>
+					<ul>
+						<li><a href="https://www.canada.ca/en/social.html">Social media</a></li>
+						<li><a href="https://www.canada.ca/en/mobile.html">Mobile applications</a></li>
+						<li><a href="https://www1.canada.ca/en/newsite.html">About Canada.ca</a></li>
+						<li><a href="https://www.canada.ca/en/transparency/terms.html">Terms and conditions</a></li>
+						<li><a href="https://www.canada.ca/en/transparency/privacy.html">Privacy</a></li>
+					</ul>
+					</nav>
+					<div class="col-xs-6 visible-sm visible-xs tofpg">
+					<a href="#wb-cont">Top of Page <span class="glyphicon glyphicon-chevron-up"></span></a>
+					</div>
+					<div class="col-xs-6 col-md-3 col-lg-2 text-right">
+					<img src="http://www.canada.ca/etc/designs/canada/wet-boew/assets/wmms-blk.svg" alt="Symbol of the Government of Canada">
+					</div>
+				</div>
+			</div>
+		</div>
+		</footer>
+		<!--[if gte IE 9 | !IE ]><!-->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.js"></script>
+		<script src="https://wet-boew.github.io/themes-dist/GCWeb/wet-boew/js/wet-boew.min.js"></script>
+		<!--<![endif]-->
+		<!--[if lt IE 9]>
+		<script src="./wet-boew/js/ie8-wet-boew2.min.js"></script>
+		<![endif]-->
+		<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>
+	</body>
+</html>
