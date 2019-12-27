@@ -51,6 +51,11 @@ $(document).ready(function(){
         $('.'+this.value+'-variant').removeClass("hidden");
         localStorage.setItem("cv", this.value);
     });
+
+
+    $('.component-code').on( "wb-contentupdated", function( event, data ){
+        $( ".wb-prettify" ).trigger( "wb-init.wb-prettify" );
+    });
 });
 
 var getUrlParameter = function getUrlParameter(sParam) {
