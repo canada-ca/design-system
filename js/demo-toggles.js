@@ -18,6 +18,7 @@ $(document).ready(function(){
             $('#'+dv+'-code .layout-code').addClass("hidden");
             $('#'+dv+'-demo #'+lv+'-layout').removeClass("hidden");
             $('#'+dv+'-code #'+lv+'-code').removeClass("hidden");
+            $('#layout-variant-menu').val(lv);
         }
     }
 
@@ -50,6 +51,11 @@ $(document).ready(function(){
         $('.code-variant').addClass("hidden");
         $('.'+this.value+'-variant').removeClass("hidden");
         localStorage.setItem("cv", this.value);
+    });
+
+
+    $('.component-code').on( "wb-contentupdated", function( event, data ){
+        $( ".wb-prettify" ).trigger( "wb-init.wb-prettify" );
     });
 });
 
