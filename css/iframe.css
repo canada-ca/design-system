@@ -1,0 +1,45 @@
+.example-frame-bkg {
+    background-color: #f5f5f5;
+}
+.example-frame {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    border: 0;
+    border-right: 1px solid #b1b4b6;
+    background: #fff
+}
+
+.example-frame-xs {
+    height: 150px
+}
+
+.example-frame-s {
+    height: 250px
+}
+
+.example-frame-m {
+    height: 350px
+}
+
+.example-frame-l {
+    height: 450px
+}
+
+.example-frame-xl {
+    height: 550px
+}
+
+.example-frame-resizable {
+    min-width: 230px;
+    min-height: 60px;
+    overflow: auto;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0)
+}
+
+@media (min-width: 48.0625em) {
+    .example-frame-resizable {
+        resize: both
+    }
+}
