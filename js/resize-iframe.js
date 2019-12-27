@@ -1,6 +1,5 @@
 $(document).ready(function(){
     $('#resize-iframe-mobile').click(function(){
-        console.log("it worked!");
         $('.example-frame').animate({width:'300px'},200);
     });
     $('#resize-iframe-tablet').click(function(){
