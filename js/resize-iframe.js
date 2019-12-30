@@ -13,8 +13,15 @@ $(document).ready(function(){
 function resizeIframe(obj) {
     //obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
     //console.log(obj.contentWindow.document.documentElement.scrollHeight + 'px');
-   
-   obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
-   $(obj).hide();
+   if ($(obj).is(":visible")) {
+       obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+   } else {
+       $(obj).css("visibility", "hidden");
+       $(obj).parent().removeClass("hidden");
+       obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+       $(obj).css("visibility", "");
+       $(obj).parent().addClass("hidden");
+   }
+    
     
 }
