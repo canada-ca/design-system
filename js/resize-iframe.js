@@ -19,6 +19,7 @@ function resizeIframe(obj) {
        $(obj).css("visibility", "hidden");
        $(obj).parent().removeClass("hidden");
        obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+       console.log(obj.style.height);
        $(obj).css("visibility", "");
        $(obj).parent().addClass("hidden");
    }
