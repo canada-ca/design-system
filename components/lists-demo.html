@@ -180,20 +180,16 @@
                   <div id="ordered-demo" class="component-demo example-frame-bkg hidden">
                     <iframe title="Unordered list example layout" class="example-frame example-frame-resizable example-frame-m" src="./demos/lists/wet4/list-ordered.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
                   </div>
-                  <div id="unstyled-demo" class="component-demo example-frame-bkg hidden">
-                    <iframe title="Unstyled list example layout" class="example-frame example-frame-resizable example-frame-m" src="./demos/lists/wet4/list-unstyled.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
-                  </div>
-                  <div id="definitions-demo" class="component-demo example-frame-bkg hidden">
-                    <iframe title="Definitions list example layout" class="example-frame example-frame-resizable example-frame-m" src="./demos/lists/wet4/list-definitions.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
-                  </div>
-                  <div id="links-demo" class="component-demo example-frame-bkg hidden">
-                    <iframe title="Link list example layout" class="example-frame example-frame-resizable example-frame-m" src="./demos/lists/wet4/list-links.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
-                  </div>
-                  <div id="mr-demo" class="component-demo example-frame-bkg hidden">
-                    <iframe title="Most requested list example layout" class="example-frame example-frame-resizable example-frame-m" src="./demos/lists/wet4/list-mr.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
-                  </div>
-                  <div id="toc-demo" class="component-demo example-frame-bkg hidden">
-                    <iframe title="In-page table of contents list example layout" class="example-frame example-frame-resizable example-frame-m" src="./demos/lists/wet4/list-toc.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
+                  <div id="links-demo" class="component-demo hidden">
+                    <div id="defaut-layout" class="layout-demo example-frame-bkg">
+                       <iframe title="Default list of link example layout" class="example-frame example-frame-resizable example-frame-m" src="./demos/lists/wet4/list-link-default.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
+                    </div>
+                    <div id="toc-layout" class="layout-demo example-frame-bkg">
+                       <iframe title="In-page table of contents example layout" class="example-frame example-frame-resizable example-frame-m" src="./demos/lists/wet4/list-link-toc.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
+                    </div>
+                    <div id="mr-layout" class="layout-demo example-frame-bkg">
+                       <iframe title="Most requested example layout" class="example-frame example-frame-resizable example-frame-m" src="./demos/lists/wet4/list-link-mr.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
+                    </div>
                   </div>
                    <div class="btn-group">
                       <button id="resize-iframe-mobile" class="btn btn-default"><span class="fas fa-mobile-alt"></span> <strong>SM</strong></button>
@@ -209,12 +205,18 @@
                     <select id="design-variant-menu" class="form-control">
                       <option value="unordered">Unordered list</option>
                       <option value="ordered">Ordered list</option>
-                      <option value="unstyled">Unstyled</option>
-                      <option value="definitions">Definitions list</option>
                       <option value="links">List of links</option>
-                      <option value="mr">Most requested</option>
-                      <option value="toc">In-page table of contents</option>
                     </select>
+                  </fieldset>
+               </div>
+               <div id="links-submenu" class="mrgn-bttm-sm links-options layout-submenu hidden">
+                  <fieldset>
+                     <label for="links-layout-menu" class="h5">Options</label>
+                     <select id="links-layout-menu" class="form-control layout-variant-menu">
+                        <option value="default">Default</option>
+                        <option value="toc">In-page table of contents</option>
+                        <option value="mr">Most requested</option>
+                     </select>
                   </fieldset>
                </div>
             </div>
@@ -251,80 +253,58 @@
                      <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html" class="btn btn-default">Contribute to the design system</a></p>
                   </div>
                </div>
-               <div id="unstyled-code" class="component-code hidden">
-                  <div class="code-variant wet4-variant">
-                     <section data-ajax-replace="./demos/lists/wet4/list-unstyled-code.html"></section>
-                  </div>
-                  <div class="code-variant react-variant hidden">
-                    <h3>ReactJS</h3>
-                     <p>Doesn't exist yet. Want to contribute?</p>
-                     <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html" class="btn btn-default">Contribute to the design system</a></p>
-                  </div>
-                  <div class="code-variant angular-variant hidden">
-                    <h3>Angular</h3>
-                     <p>Doesn't exist yet. Want to contribute?</p>
-                     <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html" class="btn btn-default">Contribute to the design system</a></p>
-                  </div>
-               </div>
-               <div id="definitions-code" class="component-code hidden">
-                  <div class="code-variant wet4-variant">
-                     <section data-ajax-replace="./demos/lists/wet4/list-definitions-code.html"></section>
-                  </div>
-                  <div class="code-variant react-variant hidden">
-                    <h3>ReactJS</h3>
-                     <p>Doesn't exist yet. Want to contribute?</p>
-                     <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html" class="btn btn-default">Contribute to the design system</a></p>
-                  </div>
-                  <div class="code-variant angular-variant hidden">
-                    <h3>Angular</h3>
-                     <p>Doesn't exist yet. Want to contribute?</p>
-                     <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html" class="btn btn-default">Contribute to the design system</a></p>
-                  </div>
-               </div>
-               <div id="links-code" class="component-code hidden">
-                  <div class="code-variant wet4-variant">
-                     <section data-ajax-replace="./demos/lists/wet4/list-links-code.html"></section>
-                  </div>
-                  <div class="code-variant react-variant hidden">
-                    <h3>ReactJS</h3>
-                     <p>Doesn't exist yet. Want to contribute?</p>
-                     <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html" class="btn btn-default">Contribute to the design system</a></p>
-                  </div>
-                  <div class="code-variant angular-variant hidden">
-                    <h3>Angular</h3>
-                     <p>Doesn't exist yet. Want to contribute?</p>
-                     <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html" class="btn btn-default">Contribute to the design system</a></p>
-                  </div>
-               </div>
-               <div id="mr-code" class="component-code hidden">
-                  <div class="code-variant wet4-variant">
-                     <section data-ajax-replace="./demos/lists/wet4/list-mr-code.html"></section>
-                  </div>
-                  <div class="code-variant react-variant hidden">
-                    <h3>ReactJS</h3>
-                     <p>Doesn't exist yet. Want to contribute?</p>
-                     <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html" class="btn btn-default">Contribute to the design system</a></p>
-                  </div>
-                  <div class="code-variant angular-variant hidden">
-                    <h3>Angular</h3>
-                     <p>Doesn't exist yet. Want to contribute?</p>
-                     <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html" class="btn btn-default">Contribute to the design system</a></p>
-                  </div>
-               </div>
-               <div id="toc-code" class="component-code hidden">
-                  <div class="code-variant wet4-variant">
-                     <section data-ajax-replace="./demos/lists/wet4/list-toc-code.html"></section>
-                  </div>
-                  <div class="code-variant react-variant hidden">
-                    <h3>ReactJS</h3>
-                     <p>Doesn't exist yet. Want to contribute?</p>
-                     <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html" class="btn btn-default">Contribute to the design system</a></p>
-                  </div>
-                  <div class="code-variant angular-variant hidden">
-                    <h3>Angular</h3>
-                     <p>Doesn't exist yet. Want to contribute?</p>
-                     <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html" class="btn btn-default">Contribute to the design system</a></p>
-                  </div>
+               <div id="links-code" class="component-code ">
+                 <div id="default-code" class="layout-code">
+
+                    <div class="code-variant wet4-variant">
+                      <section data-ajax-replace="./demos/lists/wet4/list-link-default-code.html"></section>
+                    </div>
+                    <div class="code-variant react-variant hidden">
+                      <h3>ReactJS</h3>
+                       <p>Doesn't exist yet. Want to contribute?</p>
+                       <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html" class="btn btn-default">Contribute to the design system</a></p>
+                    </div>
+                    <div class="code-variant angular-variant hidden">
+                      <h3>Angular</h3>
+                       <p>Doesn't exist yet. Want to contribute?</p>
+                       <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html" class="btn btn-default">Contribute to the design system</a></p>
+                    </div>
+
+                 </div>
+                 <div id="toc-code" class="layout-code">
+
+                    <div class="code-variant wet4-variant">
+                      <section data-ajax-replace="./demos/lists/wet4/list-link-toc-code.html"></section>
+                    </div>
+                    <div class="code-variant react-variant hidden">
+                      <h3>ReactJS</h3>
+                       <p>Doesn't exist yet. Want to contribute?</p>
+                       <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html" class="btn btn-default">Contribute to the design system</a></p>
+                    </div>
+                    <div class="code-variant angular-variant hidden">
+                      <h3>Angular</h3>
+                       <p>Doesn't exist yet. Want to contribute?</p>
+                       <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html" class="btn btn-default">Contribute to the design system</a></p>
+                    </div>
+
+                 </div>
+                 <div id="mr-code" class="layout-code">
+
+                    <div class="code-variant wet4-variant">
+                      <section data-ajax-replace="./demos/lists/wet4/list-link-mr-code.html"></section>
+                    </div>
+                    <div class="code-variant react-variant hidden">
+                      <h3>ReactJS</h3>
+                       <p>Doesn't exist yet. Want to contribute?</p>
+                       <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html" class="btn btn-default">Contribute to the design system</a></p>
+                    </div>
+                    <div class="code-variant angular-variant hidden">
+                      <h3>Angular</h3>
+                       <p>Doesn't exist yet. Want to contribute?</p>
+                       <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html" class="btn btn-default">Contribute to the design system</a></p>
+                    </div>
+
+                 </div>
                </div>
             </div>
             <div class="col-md-3 pull-left">
