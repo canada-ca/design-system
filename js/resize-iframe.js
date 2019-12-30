@@ -17,17 +17,25 @@ function resizeIframe(obj) {
        obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
    } else {
        $(obj).css("visibility", "hidden");
-       $(obj).parent().removeClass("hidden");
-       if ($(obj).is(":hidden")) {
-            $(obj).parent().parent().removeClass("hidden");
-            obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
-            $(obj).css("visibility", "");
-            $(obj).parent().addClass("hidden");
-            $(obj).parent().parent().addClass("hidden");
-       } else {
-           obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
-           $(obj).css("visibility", "");
+       if (obj.parent().classList.contains("hidden")) {
+           $(obj).parent().removeClass("hidden");
+           if (obj.parent().parent().classList.contains("hidden")) {
+                $(obj).parent().parent().removeClass("hidden");
+                obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+               
+                $(obj).parent().parent().addClass("hidden");
+           } else {
+                obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+           }
            $(obj).parent().addClass("hidden");
+       } else {
+           if (obj.parent().parent().classList.contains("hidden")) {
+                $(obj).parent().parent().removeClass("hidden");
+                obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+                $(obj).parent().parent().addClass("hidden");
+           }
        }
+       $(obj).css("visibility", "");
+       
    }
 }
