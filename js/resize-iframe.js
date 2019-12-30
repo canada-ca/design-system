@@ -18,11 +18,16 @@ function resizeIframe(obj) {
    } else {
        $(obj).css("visibility", "hidden");
        $(obj).parent().removeClass("hidden");
-       obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
-       console.log(obj.style.height);
-       $(obj).css("visibility", "");
-       $(obj).parent().addClass("hidden");
+       if ($(obj).is(":hidden")) {
+            $(obj).parent().parent().removeClass("hidden");
+            obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+            $(obj).css("visibility", "");
+            $(obj).parent().addClass("hidden");
+            $(obj).parent().parent().addClass("hidden");
+       } else {
+           obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+           $(obj).css("visibility", "");
+           $(obj).parent().addClass("hidden");
+       }
    }
-    
-    
 }
