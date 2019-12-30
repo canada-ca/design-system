@@ -19,7 +19,7 @@ function resizeIframe(obj) {
        $(obj).css("visibility", "hidden");
        if (obj.parent().classList.contains("hidden")) {
            $(obj).parent().removeClass("hidden");
-           if (obj.parent().parent().classList.contains("hidden")) {
+           if ($(obj).parent().parent().classList.contains("hidden")) {
                 $(obj).parent().parent().removeClass("hidden");
                 obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
                
@@ -29,7 +29,7 @@ function resizeIframe(obj) {
            }
            $(obj).parent().addClass("hidden");
        } else {
-           if (obj.parent().parent().classList.contains("hidden")) {
+           if ($(obj).parent().parent().classList.contains("hidden")) {
                 $(obj).parent().parent().removeClass("hidden");
                 obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
                 $(obj).parent().parent().addClass("hidden");
