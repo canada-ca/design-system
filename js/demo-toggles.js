@@ -40,9 +40,8 @@ $(document).ready(function(){
 
     $(".layout-variant-menu").change(function(){
         designID = this.id
-        console.log(designID);
         designName = designID.substr(0,designID.indexOf("-layout-menu"));
-        console.log(designName);
+        console.log(this.value);
         $('#'+designName+'-demo .layout-demo').addClass("hidden");
         $('#'+designName+'-code .layout-code').addClass("hidden");
         $('#'+designName+'-demo #'+this.value+'-layout').removeClass("hidden");
