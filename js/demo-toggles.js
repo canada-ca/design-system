@@ -43,8 +43,6 @@ $(document).ready(function(){
         designName = designID.substr(0,designID.indexOf("-layout-menu"));
         $('#'+designName+'-demo .layout-demo').addClass("hidden");
         $('#'+designName+'-code .layout-code').addClass("hidden");
-        console.log('#'+designName+'-demo #'+this.value+'-layout');
-        console.log('#'+designName+'-code #'+this.value+'-code');
         $('#'+designName+'-demo #'+this.value+'-layout').removeClass("hidden");
         $('#'+designName+'-code #'+this.value+'-code').removeClass("hidden");
     });
