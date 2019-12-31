@@ -41,9 +41,11 @@ $(document).ready(function(){
     $(".layout-variant-menu").change(function(){
         designID = this.id
         designName = designID.substr(0,designID.indexOf("-layout-menu"));
-        console.log(this.value);
+        
         $('#'+designName+'-demo .layout-demo').addClass("hidden");
         $('#'+designName+'-code .layout-code').addClass("hidden");
+        console.log('#'+designName+'-demo #'+this.value+'-layout');
+        console.log('#'+designName+'-code #'+this.value+'-code');
         $('#'+designName+'-demo #'+this.value+'-layout').removeClass("hidden");
         $('#'+designName+'-code #'+this.value+'-code').removeClass("hidden");
     });
