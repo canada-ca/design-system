@@ -25,9 +25,9 @@ $(document).ready(function(){
     if (localStorage.getItem('cv') != null) {
         $('.code-variant').addClass("hidden");
         if (cv == "beta") {
-            $('#code-variant-menu').val(cv);
-        } else {
             $('#code-variant-menu').val($("#target option:first").val());
+        } else {
+            $('#code-variant-menu').val(cv);
         }
         $('.'+localStorage.getItem('cv')+'-variant').removeClass("hidden");
     }
