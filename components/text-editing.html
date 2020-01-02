@@ -163,38 +163,41 @@
            <div class="row">
             <div class="col-md-6">
               <div class="pattern-demo mrgn-bttm-lg">
-                <p>1. <mark>Highlighted text</mark>.</p>
-                <p>2. <del>Deleted text</del>.</p>
-                <p>3. <s>Strikethrough text</s>.</p>
-                <p>4. Redacted text: <span role="img" aria-label="8 redacted characters">████████</span>.</p>
+                <p>2. <strong>Text with emphasis</strong></p>
+                <p>2. <cite>Text with cite tag</cite></p>
+                <p>3. <mark>Highlighted text</mark></p>
+                <p>4. <del>Deleted text</del></p>
               </div>
             </div>
             <div class="col-md-6">
                  <ul class="list-unstyled">
+                   <li>
+                      <details>
+                         <summary>1. Text with emphasis</summary>
+                         <p>Use <code>strong</code> for emphasis.</p>
+                      </details>
+                   </li>
+                   <li>
+                      <details>
+                         <summary>2. Text with cite tag</summary>
+                         <p>Use <code>cite</code> for offiial document names.</p>
+                      </details>
+                   </li>
                     <li>
                        <details>
-                          <summary>1. Highlighted text</summary>
+                          <summary>3. Highlighted text</summary>
                           <p>Use highlighted text to show matching terms or to highlight importance.</p>
                        </details>
                     </li>
                     <li>
                        <details>
-                          <summary>2. Deleted text</summary>
+                          <summary>4. Deleted text</summary>
                           <p>Use to show text has been deleted.</p>
                        </details>
                     </li>
-                    <li>
-                       <details>
-                          <summary>3. Strikethrough text</summary>
-                          <p>Use to show that some content is no longer accurate.</p>
-                       </details>
                     </li>
                     <li>
-                       <details>
-                          <summary>4. Redacted text</summary>
-                          <p>Use to show that some text has been redacted from the text.</p>
-                       </details>
-                    </li>
+
                  </ul>
               </div>
            </div>
@@ -203,6 +206,8 @@
            <h2 id="usage">Usage</h2>
            <p>See <a href="../styles/fonts-typo.html">Fonts and typography</a>.</p>
            <p>Guidace to include (to review):</p>
+           <p>Only use strong tag for emphasis</p>
+           <p>Only use cite tag for official names of documents (bring in style guide guidance)</p>
            <p>Use highlighted text for matching search result</p>
            <p>Use highlighted text for text that is important in another context (not sure what that mean)</p>
            <p>Don't use highlighted text for emphasis (use strong instead)</p>
