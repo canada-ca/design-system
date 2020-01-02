@@ -24,7 +24,11 @@ $(document).ready(function(){
 
     if (localStorage.getItem('cv') != null) {
         $('.code-variant').addClass("hidden");
-        $('#code-variant-menu').val(cv);
+        if (cv == "beta") {
+            $('#code-variant-menu').val(cv);
+        } else {
+            $('#code-variant-menu').val($("#target option:first").val());
+        }
         $('.'+localStorage.getItem('cv')+'-variant').removeClass("hidden");
     }
 
