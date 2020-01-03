@@ -25,11 +25,13 @@ $(document).ready(function(){
     if (localStorage.getItem('cv') != null) {
         $('.code-variant').addClass("hidden");
         if (cv == "beta") {
-            $('#code-variant-menu').val($("#code-variant-menu option:first").val());
+            newCV = $("#code-variant-menu option:first").val();
+            $('#code-variant-menu').val(newCV);
+            $('.'+newCV+'-variant').removeClass("hidden");
         } else {
             $('#code-variant-menu').val(cv);
+            $('.'+localStorage.getItem('cv')+'-variant').removeClass("hidden");
         }
-        $('.'+localStorage.getItem('cv')+'-variant').removeClass("hidden");
     }
 
     //hide all component demos, show the selected one
