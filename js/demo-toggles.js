@@ -25,7 +25,7 @@ $(document).ready(function(){
     if (localStorage.getItem('cv') != null) {
         $('.code-variant').addClass("hidden");
         if (cv == "beta") {
-            $('#code-variant-menu').val($("#target option:first").val());
+            $('#code-variant-menu').val($("#code-variant-menu option:first").val());
         } else {
             $('#code-variant-menu').val(cv);
         }

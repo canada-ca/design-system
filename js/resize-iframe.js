@@ -22,16 +22,18 @@ function resizeIframe(obj) {
            if ($(obj).parent().parent().hasClass("hidden")) {
                 $(obj).parent().parent().removeClass("hidden");
                 obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
-               
+                console.log(obj.style.height);
                 $(obj).parent().parent().addClass("hidden");
            } else {
                 obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+                console.log(obj.style.height);
            }
            $(obj).parent().addClass("hidden");
        } else {
            if ($(obj).parent().parent().hasClass("hidden")) {
                 $(obj).parent().parent().removeClass("hidden");
                 obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+                console.log(obj.style.height);
                 $(obj).parent().parent().addClass("hidden");
            }
        }
