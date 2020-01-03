@@ -161,20 +161,33 @@
         <section>
            <h2 id="specs">Design specifications</h2>
            <div class="row">
-              <p>*** Add image of dropdown** </p>
+             <div class="col-md-6">
+               <div class="pattern-demo mrgn-bttm-lg">
+                 <label class="h5" for="dropdown-menu-demo">1. Dropdown selection</label>
+                 <select id="dropdown-menu-demo" class="form-control">
+                   <option>Item 1</option>
+                   <option>Item 2</option>
+                 </select>
+                 <p><label class="h5" for="auto-complete-demo">2. Autocomplete text field</label></p>
+                 <input id="auto-complete-demo" list="suggestions" />
+                 <datalist id="suggestions">
+                    <option value="Item 1">Item 1</option>
+                    <option value="Item 2">Item 2</option>
+                 </datalist>
+               </div>
               </div>
               <div class="col-md-6">
                  <ul class="list-unstyled">
                     <li>
                        <details>
-                          <summary>***</summary>
-                          <p>*******</p>
+                          <summary>1. Dropdown selection</summary>
+                          <p>Select from visible options</p>
                        </details>
                     </li>
                     <li>
                        <details>
-                          <summary>***</summary>
-                          <p>********</p>
+                          <summary>2. Autocomplete text field</summary>
+                          <p>Start typing to see options available to select</p>
                        </details>
                     </li>
                  </ul>
