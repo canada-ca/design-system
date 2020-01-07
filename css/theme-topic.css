@@ -7,26 +7,26 @@
 	margin-top: 0
 }
 
-.pstn-relative {
+.pstn-relative.experimental {
   position: relative;
 }
 
-.hide-overflow {
+.hide-overflow.experimental {
   overflow-x: hidden;
 }
 
-.tt-img {
+.tt-img.experimental {
   padding-left: 0px;
   padding-right: 0px;
   margin-left: 25px;
   background-color: #f5f5f5;
 }
 
-.pagetag {
+.pagetag.experimental {
   max-width: 65ch;
 }
 
-.mr-with-img {
+.mr-with-img.experimental {
   margin-top: 0px;
 }
 
@@ -38,87 +38,99 @@
 	font-size: 1.2em;
 }
 
-.followus-2 h2 {
+.experimental .followus h2 {
   font-size: 1.1em;
   margin-top: 10px;
 }
 
-.media-spc {
-  margin-left: 2em;
-  margin-top: 1em;
+.experimental .followus {
+  line-height: 0em;
+  background-color: #f5f5f5;
+
 }
-.media-spc-2 {
-  margin-left: 2em;
-  margin-top: 1em;
+.experimental .followus a {
+  text-decoration: none;
 }
 
-.facebook-2 {
-  background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/facebook.png") no-repeat !important;
-  height: 36px;
-  width: 36px;
-  background-size: cover !important;
-}
-.social-lnk-2 {
-  position: relative; 
-  bottom:-18px;
-  left:45px; 
-}
-.twitter-2 {
-  background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/twitter.png") no-repeat !important;
-  height: 36px;
-  width: 36px;
-  background-size: cover !important;
-}
-.youtube-2 {
-  background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/youtube.png") no-repeat !important;
-  height: 36px;
-  width: 36px;
-  background-size: cover !important;
-}
-.instagram-2 {
-  background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/instagram.png") no-repeat !important;
-  height: 36px;
-  width: 36px;
-  background-size: cover !important;
-}
-
-.followus-2 {
-  line-height: 0em !important;
-}
-.followus-2 a {
-  text-decoration: none !important;
-}
-.followus-2 ul {
-  list-style-type: none !important;
+.experimental .followus ul {
+  display: block;
+  list-style-type: none;
   margin-block-start: 1em;
   padding-inline-start: 1em;
   font-size: 16px;
 	margin-block-end: 0em;
 }
+.experimental .followus ul li {
+  margin-bottom: 15px;
+}
 
-.promo-social h3 {
+.experimental .followus ul li:last-child {
+  margin-bottom: 0px;
+}
+
+.experimental .followus ul li a {
+  border: none; 
+  padding: 0px 5px;
+}
+
+.experimental .social-lnk {
+  position: relative; 
+  bottom:-18px;
+  left:45px; 
+}
+
+.experimental .facebook {
+  background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/facebook.png") no-repeat;
+  height: 36px;
+  width: 36px;
+  background-size: cover;
+  display: block;
+}
+
+.experimental .twitter {
+  background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/twitter.png") no-repeat;
+  height: 36px;
+  width: 36px;
+  background-size: cover;
+  display: block;
+}
+.experimental .youtube {
+  background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/youtube.png") no-repeat;
+  height: 36px;
+  width: 36px;
+  background-size: cover;
+  display: block;
+}
+.experimental .instagram {
+  background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/instagram.png") no-repeat;
+  height: 36px;
+  width: 36px;
+  background-size: cover;
+  display: block;
+}
+
+.promo-social.experimental h3 {
   margin-top: 5px !important;
   text-decoration: underline !important;
 }
 
-.cust-thumbnail {
+.experimental .thumbnail {
   border-color: #335075 !important;
   border-width: 1px !important;
   padding: 0px !important;
 }
-
   
-.contributors {
+.experimental .contributors {
 	font-size: 16px !important;
 	font-weight: 600;
 }
 
-.from {
+.experimental .from {
 	font-size: 17px !important;
 	margin-top: 7px;
 }
 
-.contributors ul {
+.experimental .contributors ul {
 	margin-block-start: 0em;
 	margin-block-end: 0em;
 	margin-inline-start: -50px;
@@ -127,7 +139,7 @@
 }
 
 @media screen and (min-width: 991px) {
-.contributors li {
+.experimental .contributors li {
     display: inline-block;
     float: left;
     margin-right: .7em;
@@ -135,24 +147,24 @@
 }
 
 @media screen and (min-width: 991px) {
-.contributors li:first-child:before {
+.experimental .contributors li:first-child:before {
     content: none;
 }
-.contributors li:before {
+.experimental .contributors li:before {
     content: "\2022";
     margin-right: .7em;
 }
 }
 
 @media screen and (max-width: 1200px) {
-  .contributors ul {
+ .experimental .contributors ul {
     margin-inline-start: -30px !important;
   }
 
 }
 
 @media screen and (max-width: 1200px) {
-  .contributors ul {
+ .experimental .contributors ul {
     margin-inline-start: -30px !important;
   }
 
@@ -164,11 +176,11 @@
 	font-size: 19px;
 	}
 
-.mobile-left {
+.experimental .mobile-left {
   float: left !important;
 }
 
-.contributors ul {
+.experimental .contributors ul {
 	margin-inline-start: 1.5em !important;
 }
 
