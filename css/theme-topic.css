@@ -110,23 +110,23 @@
 }
 
 .promo-social.experimental h3 {
-  margin-top: 5px !important;
-  text-decoration: underline !important;
+  margin-top: 5px;
+  text-decoration: underline;
 }
 
 .experimental .thumbnail {
-  border-color: #335075 !important;
-  border-width: 1px !important;
-  padding: 0px !important;
+  border-color: #335075;
+  border-width: 1px;
+  padding: 0px;
 }
   
 .experimental .contributors {
-	font-size: 16px !important;
+	font-size: 16px;
 	font-weight: 600;
 }
 
 .experimental .from {
-	font-size: 17px !important;
+	font-size: 17px;
 	margin-top: 7px;
 }
 
