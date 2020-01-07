@@ -186,3 +186,8 @@
 
 }
 
+/* part of guidance.css but needed to fix the button alignment here - delete after guidance PR is accepted */
+.tt-img .btn-sm {
+  margin-top: 16px;
+  margin-left: 4px;
+}
