@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
     <link rel="stylesheet" href="../css/custom.css">
     <link rel="stylesheet" href="../css/ip.css">
+    <link rel="stylesheet" href="../css/guidance-draft.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
     <!--<![endif]-->
     <!--[if lt IE 9]>
@@ -82,6 +83,27 @@
         <a class="wb-sl" href="#wb-info">Skip to "About government"</a>
       </li>
     </ul>
+    <nav class="guidance-ban-nav">
+      <h2 class="wb-inv">Navigation and controls</h2>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4 col-lg-3 col-sm-4">
+            <div class="guidance-nav">
+              <a href="../mandatory-templates/institutional-profile-pages.html"><span class="fas fa-arrow-left padding-rght"></span>Institutional landing page</a>
+            </div>
+          </div>
+          <div class="guidance-options col-md-6 col-sm-6 col-xs-12">
+            <div class="btn-group">
+              <button id="show-guidance-toggle" class="guidance-toggle btn btn-default active"><span class="fas fa-laptop-code "></span>&nbsp;Show guidance</button>
+              <button id="hide-guidance-toggle" class="guidance-toggle btn btn-default wb-toggle" data-toggle='[{"selector":"#show-guidance-toggle", "stateOn":"active", "state":"on"},{"stateOn":"active", "state":"off"}]'><span class="fas fa-pen-square"></span>&nbsp;Remove guidance</button>
+            </div>
+          </div>
+          <div class="get-code col-md-2 col-sm-2 col-xs-12 pull-right">
+            <a href="../mandatory-templates/institutional-profile-pages.html#code" class="btn btn-sm btn-default pstn-rght-md pull-right pstn-get-code"><span class="fas fa-external-link-alt"></span>&nbsp;<b>Get code</b></a>
+          </div>
+        </div>
+      </div>
+    </nav>
     <header>
       <div id="wb-bnr" class="container">
         <section id="wb-lng" class="text-right">
@@ -149,10 +171,7 @@
         <div class="container">
           <ol class="breadcrumb">
             <li><a href='https://www.canada.ca/en.html'>Home</a></li>
-            <li><a href='https://www.canada.ca/en/government/about.html'>About Canada.ca</a></li>
-            <li><a href='https://www.canada.ca/en/government/about/design-system.html'>Canada.ca design system</a></li>
-            <li><a href='https://www.canada.ca/en/government/about/design-system/pattern-library.html'>Template and pattern library for Canada.ca</a></li>
-            <li><a href='https://design.canada.ca/mandatory-templates/institutional-profile-pages.html'>Institutional landing page</a></li>
+            <li><a href="https://www.canada.ca/en/government/dept.html">Departments and agencies</a></li>
           </ol>
         </div>
       </nav>
@@ -160,8 +179,22 @@
     <!--/* Hide Nav; Hide Right Rail /*-->
     <main property="mainContentOfPage" typeof="WebPageElement">
       <div class="container">
-        <p><a class="btn btn-primary" href="./institutional_landing_page_ng.html">Remove guidance</a> <a class="btn btn-default" href="../mandatory-templates/institutional-profile-pages.html">Back to main template page</a></p>
+        <div class="row guidance-details">
+          <div class="col-md-8">
+            <details>
+              <summary><b>Guidance:</b> breadcrumb <span class="fas fa-info-circle"></span></summary>
+              <section>
+                <h3>Breadcrumb</h3>
+                <p><span class="label label-danger">Mandatory</span></p>
+                <p>The breadcrumb is: <a href="https://www.canada.ca/en.html">Home</a> > <a href="https://www.canada.ca/en/government/dept.html">Departments and agencies</a>.</p>
+              </section>
+            </details>
+          </div>
+        </div>
       </div>
+      <!-- <div class="container">
+        <p><a class="btn btn-primary" href="./institutional_landing_page_ng.html">Remove guidance</a> <a class="btn btn-default" href="../mandatory-templates/institutional-profile-pages.html">Back to main template page</a></p>
+      </div> -->
       <div class="ip-cover-img">
         <div class="container">
           <div class="row">
@@ -175,12 +208,7 @@
           <div class="row guidance-details">
             <div class="col-md-8">
               <details>
-                <summary><b>Guidance:</b> breadcrumb, title, image and super task button <span class="fas fa-info-circle"></span></summary>
-                <section>
-                  <h3>Breadcrumb</h3>
-                  <p><span class="label label-danger">Mandatory</span></p>
-                  <p>The breadcrumb is: <a href="https://www.canada.ca/en.html">Home</a> > <a href="https://www.canada.ca/en/government/dept.html">Departments and agencies</a>.</p>
-                </section>
+                <summary><b>Guidance:</b> title, image and super task button <span class="fas fa-info-circle"></span></summary>
                 <section>
                   <h3>Title</h3>
                   <p><span class="label label-danger">Mandatory</span></p>
@@ -307,9 +335,9 @@
               </details>
             </div>
           </div>
-          <div class="clearfix"></div>
         </div>
       </section>
+      <div class="clearfix"></div>
       <section class="most-requested well well-sm brdr-0">
         <div class="container">
           <div class="row">
@@ -647,6 +675,7 @@
         <script src="./wet-boew/js/ie8-wet-boew2.min.js"></script>
         <![endif]-->
     <script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>
+    <script src="../js/guidance-toggle.js"></script>
     <script>
       document.getElementById('submissionPage').value = location.href;
     </script>
