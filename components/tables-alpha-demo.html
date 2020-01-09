@@ -45,10 +45,7 @@
          window.dataLayer = window.dataLayer || [];
          function gtag(){dataLayer.push(arguments);}
          gtag('js', new Date());
-
-
          gtag('config', 'UA-105628416-2');
-
       </script>
    </head>
    <body class="cnt-wdth-lmtd" vocab="http://schema.org/" typeof="WebPage">
@@ -140,7 +137,8 @@
       </header>
       <!--/* Hide Nav; Hide Right Rail /*-->
       <main role="main" property="mainContentOfPage" class="container wb-prettify all-pre">
-         <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Tables</span>: <span>Demo and code</span></span></h1>
+         <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Tables</span>: <span>Demo and code</span></span>
+         </h1>
          <div class="row profile">
             <div class="col-md-9">
                <p class="pagetag">Tables display data in rows and columns.</p>
@@ -150,15 +148,15 @@
                   <ul class="list-unstyled">
                      <li><span class="wb-inv"><strong>Progress:</strong> </span><label class="label alpha-label">Alpha</label></li>
                      <li class="mrgn-rght-lg"><strong>Version:</strong> x.x</li>
-                     <li class="mrgn-rght-lg"><strong>Updated:</strong> Dec 12, 2019</li>
+                     <li class="mrgn-rght-lg"><strong>Updated:</strong> Jan 7, 2019</li>
                   </ul>
                </div>
             </div>
             <div class="col-md-12">
                <div class="btn-group mrgn-bttm-sm mrgn-tp-md">
-                  <a class="btn btn-default" href="./tables.html"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a>
-                  <a class="btn btn-default active"><span class="fas fa-laptop-code"></span> Demo and code</a>
-                  <a class="btn btn-default" href="./tables-rationale.html"><span class="fas fa-microscope"></span> Rationale</a>
+                  <a class="btn btn-default" href="./link-description.html"><span class="fas fa-pen-square"></span> Design guidelines</a>
+                  <a class="btn btn-default active"><span class="fas fa-laptop-code"></span> <strong>Demo and code</strong></a>
+                  <a class="btn btn-default" href="./link-description-rationale.html"><span class="fas fa-microscope"></span> Rationale</a>
                </div>
             </div>
          </div>
@@ -166,10 +164,12 @@
             <div class="col-md-9 col-xs-12 mrgn-tp-md pull-right">
                <div id="demo" class="pattern-demo pattern-demo-component">
                   <div id="basic-demo" class="component-demo example-frame-bkg">
-                     <iframe title="Basic table example" class="example-frame example-frame-resizable example-frame-m" src="./demos/tables/beta/basic.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
+                     <iframe title="Basic table example" class="example-frame example-frame-resizable example-frame-m"
+                        src="./demos/tables/beta/basic.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
                   </div>
                   <div id="striped-demo" class="component-demo hidden example-frame-bkg">
-                     <iframe title="Striped table example" class="example-frame example-frame-resizable example-frame-m" src="./demos/tables/beta/striped.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
+                     <iframe title="Striped table example" class="example-frame example-frame-resizable example-frame-m"
+                        src="./demos/tables/beta/striped.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
                   </div>
                   <div class="btn-group">
                      <button id="resize-iframe-mobile" class="btn btn-default"><span class="fas fa-mobile-alt"></span> <strong>SM</strong></button>
@@ -181,12 +181,21 @@
             <div class="col-md-3 pull-left">
                <div class="mrgn-bttm-sm">
                   <fieldset>
-                     <label for="design-variant-menu" class="h5 ">Design variant</label>
+                     <label for="design-variant-menu" class="h5">Design variant</label>
                      <select id="design-variant-menu" class="form-control">
                         <option value="basic">Basic</option>
                         <option value="striped">Striped</option>
-                        <option value="filter">Filtered</option>
-                        <option value="right">Right-align card</option>
+                     </select>
+                  </fieldset>
+               </div>
+               <div id="basic-submenu" class="mrgn-bttm-sm basic-options layout-submenu">
+                  <fieldset>
+                     <label for="basic-layout-menu" class="h5">Layout options</label>
+                     <select id="basic-layout-menu" class="form-control layout-variant-menu">
+                        <option value="rightcard">Right align card - Unfiltered </option>
+                        <option value="leftcard">Left align card - Unfiltered</option>
+                        <option value="filterrightcard">Right align card - Filtered </option>
+                        <option value="filterleftcard">Left align card - Filtered</option>
                      </select>
                   </fieldset>
                </div>
@@ -195,194 +204,170 @@
          <div class="row">
             <div class="col-md-9 col-xs-12 mrgn-tp-md pull-right">
                <div id="basic-code" class="component-code">
-                  <div class="code-variant beta-variant">
-                     <section data-ajax-replace="./demos/tables/beta/basic-code.html"></section>
+
+                  <div id="unfiltered-code" class="layout-code">
+                     <div class="code-variant wet4-variant">
+                        <section data-ajax-replace="./demos/tables/alpha/basic-code.html"></section>
+                     </div>
+                     <div class="code-variant react-variant hidden">
+                       <h3>ReactJS</h3>
+                        <p>Doesn't exist yet. Want to contribute?</p>
+                        <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html" class="btn btn-default">Contribute to the design system</a></p>
+                     </div>
+                     <div class="code-variant angular-variant hidden">
+                       <h3>Angular</h3>
+                        <p>Doesn't exist yet. Want to contribute?</p>
+                        <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html" class="btn btn-default">Contribute to the design system</a></p>
+                     </div>
                   </div>
-                 <div class="code-variant wet4-variant hidden">
-                    <pre><code>danger code for WET 4</code></pre>
-                 </div>
-                 <div class="code-variant wet5-variant hidden">
-                    <pre><code>danger code for WET 5</code></pre>
-                 </div>
-                 <div class="code-variant react-variant hidden">
-                    <pre><code>danger code for react</code></pre>
-                 </div>
-                 <div class="code-variant angular-variant hidden">
-                    <pre><code>danger code for angular</code></pre>
-                 </div>
-              </div>
-              <div id="striped-code" class="component-code hidden">
-                 <div class="code-variant beta-variant">
-                  <section data-ajax-replace="./demos/tables/beta/striped-code.html"></section>
-                 </div>
-                 <div class="code-variant wet4-variant hidden">
-                    <pre><code>warning code for WET 4</code></pre>
-                 </div>
-                 <div class="code-variant wet5-variant hidden">
-                    <pre><code>warning code for WET 5</code></pre>
-                 </div>
-                 <div class="code-variant react-variant hidden">
-                    <pre><code>warning code for react</code></pre>
-                 </div>
-                 <div class="code-variant angular-variant hidden">
-                    <pre><code>warning code for angular</code></pre>
-                 </div>
-              </div>
-              <!-- <div id="inline-code" class="component-code hidden">
-                 <div class="code-variant beta-variant">
-                 	<div class="wb-tabs">
-                 		<div class="tabpanels">
-                 			<details id="inline-details-panel1">
-                 				<summary>HTML</summary>
-                 				<pre><code>&lt;div class="wb-frmvld"&gt;
-                 &lt;form&gt;
-                 &lt;fieldset class="chkbxrdio-grp form-inline"&gt;
-                 &lt;legend&gt;Question&lt;/legend&gt;
-                 &lt;ul class="list-unstyled can-ca-form"&gt;
-                 &lt;li class="radio"&gt;
-                  &lt;input id="radio-item-inline-1" type="radio" name="radio-inline-example" required="required"&gt;
-                  &lt;label for="radio-item-inline-1"&gt;Item 1&lt;/label&gt;
-                 &lt;/li&gt;
-                 &lt;li class="radio"&gt;
-                  &lt;input id="radio-item-inline-2" type="radio" name="radio-inline-example"&gt;
-                  &lt;label for="radio-item-inline-2"&gt;Item 2&lt;/label&gt;
-                 &lt;/li&gt;
-                 &lt;/ul&gt;
-                 &lt;/fieldset&gt;
-                 &lt;input type="submit" value="Continue" class="btn btn-call-to-action mrgn-bttm-md"&gt;
-                 &lt;/form&gt;
-                 &lt;/div&gt;</code></pre>
-                 			</details>
-                 			<details id="inline-details-panel2">
-                 				<summary>CSS</summary>
-                 				<pre><code></code></pre>
-                 			</details>
-                 			<details id="inline-details-panel3">
-                 				<summary>JavaScript</summary>
-                 				<pre><code></pre></code>
-                 			</details>
-                 		</div>
-                 	</div>
-                 </div>
-                 <div class="code-variant wet4-variant hidden">
-                 	<pre><code>warning code for WET 4</code></pre>
-                 </div>
-                 <div class="code-variant wet5-variant hidden">
-                 	<pre><code>warning code for WET 5</code></pre>
-                 </div>
-                 <div class="code-variant react-variant hidden">
-                 	<pre><code>warning code for react</code></pre>
-                 </div>
-                 <div class="code-variant angular-variant hidden">
-                 	<pre><code>warning code for angular</code></pre>
-                 </div>
-                 </div> -->
-           </div>
-           <div class="col-md-3 pull-left">
-              <div class="mrgn-bttm-sm">
-                 <fieldset>
-                   <label for="code-variant-menu" class="h5">Code variant</label>
-                   <select id="code-variant-menu" class="form-control">
-                      <option value="beta">Beta</option>
-                      <option value="wet4">WET 4</option>
-                      <option value="wet4">AEM variant (fieldflow)</option>
-                      <option value="wet5">WET 5</option>
-                      <option value="react">ReactJS</option>
-                      <option value="angular">Angular</option>
-                   </select>
-                 </fieldset>
-              </div>
-           </div>
-        </div>
-        <section>
-           <h2 id="how">Customisation</h2>
-           <section data-ajax-replace="./reusable-content/checkboxes-radio-buttons-customisation.html"></section>
-        </section>
-        <section>
-           <h2 id="versions">Latest changes</h2>
-           <dl class="dl-horizontal">
-              <dt>Version x.x:<br><small><time datetime="2019-12-12" class="text-muted">Dec 12, 2019</time></small></dt>
-              <dd>Tables design updated to include responsive card design.</dd>
-           </dl>
-        </section>
-        <section>
-           <h2 id="discuss">Discussion</h2>
-           <div class="row">
-              <div class="col-md-4 col-sm-6 col-xs-12">
-                 <p><a href="https://github.com/canada-ca/design-system-systeme-conception/issues" class="btn btn-default btn-block"><span class="fab fa-github"></span> Report an issue in github</a></p>
-                 <p><a href="" class="btn btn-default btn-block"><span class="fab fa-slack"></span> Join the conversation on slack</a></p>
-              </div>
-           </div>
-        </section>
-        <div class="row pagedetails">
-           <div class="col-sm-6 col-lg-4 mrgn-tp-sm">
-              <div class="panel-pane pane-block pane-bean-report-problem-button"  >
-                 <div class="pane-content">
-                    <section>
-                       <div class="field field-name-field-bean-wetkit-body field-type-text-long field-label-hidden">
-                          <div class="field-items">
-                             <div class="field-item even"><a class="btn btn-default btn-block" href="https://www.canada.ca/en/report-problem.html">Report a problem on this page</a></div>
-                          </div>
-                       </div>
-                    </section>
-                 </div>
-              </div>
-           </div>
-           <div class="col-sm-3 mrgn-tp-sm pull-right">
-           </div>
-           <div class="datemod col-xs-12 mrgn-tp-lg">
-              <dl id="wb-dtmd">
-                 <dt>Date modified:</dt>
-                 <dd><time property="dateModified">2018-12-19</time></dd>
-              </dl>
-           </div>
-        </div>
-     </main>
-     <footer id="wb-info">
-        <div class="landscape">
-           <nav class="container wb-navcurr">
-              <h2 class="wb-inv">About government</h2>
-              <ul class="list-unstyled colcount-sm-2 colcount-md-3">
-                 <li><a href="https://www.canada.ca/en/contact.html">Contact us</a></li>
-                 <li><a href="https://www.canada.ca/en/government/dept.html">Departments and agencies</a></li>
-                 <li><a href="https://www.canada.ca/en/government/publicservice.html">Public service and military</a></li>
-                 <li><a href="https://www.canada.ca/en/news.html">News</a></li>
-                 <li><a href="https://www.canada.ca/en/government/system/laws.html">Treaties, laws and regulations</a></li>
-                 <li><a href="https://www.canada.ca/en/transparency/reporting.html">Government-wide reporting</a></li>
-                 <li><a href="https://pm.gc.ca/eng">Prime Minister</a></li>
-                 <li><a href="https://www.canada.ca/en/government/system.html">How government works</a></li>
-                 <li><a href="https://open.canada.ca/en/">Open government</a></li>
-              </ul>
-           </nav>
-        </div>
-        <div class="brand">
-           <div class="container">
-              <div class="row">
-                 <nav class="col-md-9 col-lg-10 ftr-urlt-lnk">
-                    <h2 class="wb-inv">About this site</h2>
-                    <ul>
-                       <li><a href="https://www.canada.ca/en/social.html">Social media</a></li>
-                       <li><a href="https://www.canada.ca/en/mobile.html">Mobile applications</a></li>
-                       <li><a href="https://www1.canada.ca/en/newsite.html">About Canada.ca</a></li>
-                       <li><a href="https://www.canada.ca/en/transparency/terms.html">Terms and conditions</a></li>
-                       <li><a href="https://www.canada.ca/en/transparency/privacy.html">Privacy</a></li>
-                    </ul>
-                 </nav>
-                 <div class="col-xs-6 visible-sm visible-xs tofpg">
-                    <a href="#wb-cont">Top of Page <span class="glyphicon glyphicon-chevron-up"></span></a>
-                 </div>
-                 <div class="col-xs-6 col-md-3 col-lg-2 text-right">
-                    <img src="http://www.canada.ca/etc/designs/canada/wet-boew/assets/wmms-blk.svg" alt="Symbol of the Government of Canada">
-                 </div>
-              </div>
-           </div>
-        </div>
-     </footer>
-     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.js"></script>
-     <script src="https://wet-boew.github.io/themes-dist/GCWeb/wet-boew/js/wet-boew.min.js"></script>
-      
-     <script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>
-     <script src="../js/demo-toggles.js"></script>
-     <script src="../js/resize-iframe.js"></script>
-  </body>
+
+               </div>
+
+               <div id="steps-code" class="component-code hidden">
+                  <div class="code-variant wet4-variant hidden">
+                     <section data-ajax-replace="./demos/link-description/wet4/sequenced-steps-code.html"></section>
+                  </div>
+                  <div class="code-variant react-variant hidden">
+                    <h3>ReactJS</h3>
+                     <p>Doesn't exist yet. Want to contribute?</p>
+                     <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html" class="btn btn-default">Contribute to the design system</a></p>
+                  </div>
+                  <div class="code-variant angular-variant hidden">
+                    <h3>Angular</h3>
+                     <p>Doesn't exist yet. Want to contribute?</p>
+                     <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html" class="btn btn-default">Contribute to the design system</a></p>
+                  </div>
+               </div>
+
+               <div id="dropdown-code" class="component-code hidden">
+
+                  <div class="code-variant wet4-variant hidden">
+
+                     <script type="text/javascript">
+                        $(document).ready(function() {
+                           $(document).on('click', '#go-button', function() {
+                              mySelection = $(this).parent().siblings("#link-description-dropdown").find(":selected").val();
+                              window.location.href = mySelection;
+                              return false;
+                           });
+                        });
+                     </script>
+
+
+                     <section data-ajax-replace="./demos/link-description/wet4/dropdown-code.html"></section>
+                  </div>
+
+                  <div class="code-variant react-variant hidden">
+                    <h3>ReactJS</h3>
+                     <p>Doesn't exist yet. Want to contribute?</p>
+                     <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html" class="btn btn-default">Contribute to the design system</a></p>
+                  </div>
+                  <div class="code-variant angular-variant hidden">
+                    <h3>Angular</h3>
+                     <p>Doesn't exist yet. Want to contribute?</p>
+                     <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html" class="btn btn-default">Contribute to the design system</a></p>
+                  </div>
+               </div>
+
+            </div>
+            <div class="col-md-3 pull-left">
+               <div class="mrgn-bttm-sm">
+                  <fieldset>
+                     <label for="code-variant-menu" class="h5">Code variant</label>
+                     <select id="code-variant-menu" class="form-control">
+                        <option value="wet4">WET 4</option>
+                        <option value="react">ReactJS</option>
+                        <option value="angular">Angular</option>
+                     </select>
+                  </fieldset>
+               </div>
+            </div>
+         </div>
+         <section>
+            <h2 id="versions">Latest changes</h2>
+            <dl class="dl-horizontal">
+               <dt>Version x.x:<br><small><time datetime="2019-12-17" class="text-muted">Dec 17, 2019</time></small></dt>
+               <dd>Changed the code to create drop-downs.</dd>
+            </dl>
+         </section>
+         <section>
+            <h2 id="discuss">Discussion</h2>
+            <div class="row">
+               <div class="col-md-4 col-sm-6 col-xs-12">
+                  <p><a href="https://github.com/canada-ca/design-system-systeme-conception/issues" class="btn btn-default btn-block"><span class="fab fa-github"></span> Report an issue in github</a></p>
+                  <p><a href="" class="btn btn-default btn-block"><span class="fab fa-slack"></span> Join the conversation on slack</a></p>
+               </div>
+            </div>
+         </section>
+         <div class="row pagedetails">
+            <div class="col-sm-6 col-lg-4 mrgn-tp-sm">
+               <div class="panel-pane pane-block pane-bean-report-problem-button"  >
+                  <div class="pane-content">
+                     <section>
+                        <div class="field field-name-field-bean-wetkit-body field-type-text-long field-label-hidden">
+                           <div class="field-items">
+                              <div class="field-item even"><a class="btn btn-default btn-block" href="https://www.canada.ca/en/report-problem.html">Report a problem on this page</a></div>
+                           </div>
+                        </div>
+                     </section>
+                  </div>
+               </div>
+            </div>
+            <div class="col-sm-3 mrgn-tp-sm pull-right">
+            </div>
+            <div class="datemod col-xs-12 mrgn-tp-lg">
+               <dl id="wb-dtmd">
+                  <dt>Date modified:</dt>
+                  <dd><time property="dateModified">2018-12-19</time></dd>
+               </dl>
+            </div>
+         </div>
+      </main>
+      <footer id="wb-info">
+         <div class="landscape">
+            <nav class="container wb-navcurr">
+               <h2 class="wb-inv">About government</h2>
+               <ul class="list-unstyled colcount-sm-2 colcount-md-3">
+                  <li><a href="https://www.canada.ca/en/contact.html">Contact us</a></li>
+                  <li><a href="https://www.canada.ca/en/government/dept.html">Departments and agencies</a></li>
+                  <li><a href="https://www.canada.ca/en/government/publicservice.html">Public service and military</a></li>
+                  <li><a href="https://www.canada.ca/en/news.html">News</a></li>
+                  <li><a href="https://www.canada.ca/en/government/system/laws.html">Treaties, laws and regulations</a></li>
+                  <li><a href="https://www.canada.ca/en/transparency/reporting.html">Government-wide reporting</a></li>
+                  <li><a href="https://pm.gc.ca/eng">Prime Minister</a></li>
+                  <li><a href="https://www.canada.ca/en/government/system.html">How government works</a></li>
+                  <li><a href="https://open.canada.ca/en/">Open government</a></li>
+               </ul>
+            </nav>
+         </div>
+         <div class="brand">
+            <div class="container">
+               <div class="row">
+                  <nav class="col-md-9 col-lg-10 ftr-urlt-lnk">
+                     <h2 class="wb-inv">About this site</h2>
+                     <ul>
+                        <li><a href="https://www.canada.ca/en/social.html">Social media</a></li>
+                        <li><a href="https://www.canada.ca/en/mobile.html">Mobile applications</a></li>
+                        <li><a href="https://www1.canada.ca/en/newsite.html">About Canada.ca</a></li>
+                        <li><a href="https://www.canada.ca/en/transparency/terms.html">Terms and conditions</a></li>
+                        <li><a href="https://www.canada.ca/en/transparency/privacy.html">Privacy</a></li>
+                     </ul>
+                  </nav>
+                  <div class="col-xs-6 visible-sm visible-xs tofpg">
+                     <a href="#wb-cont">Top of Page <span class="glyphicon glyphicon-chevron-up"></span></a>
+                  </div>
+                  <div class="col-xs-6 col-md-3 col-lg-2 text-right">
+                     <img src="http://www.canada.ca/etc/designs/canada/wet-boew/assets/wmms-blk.svg" alt="Symbol of the Government of Canada">
+                  </div>
+               </div>
+            </div>
+         </div>
+      </footer>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.js"></script>
+      <script src="https://wet-boew.github.io/themes-dist/GCWeb/wet-boew/js/wet-boew.min.js"></script>
+       
+      <script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>
+      <script src="../js/demo-toggles.js"></script>
+      <script src="../js/resize-iframe.js"></script>
+   </body>
 </html>
