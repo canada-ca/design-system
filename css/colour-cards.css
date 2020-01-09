@@ -1,0 +1,23 @@
+.colour-card-sm {
+    width:260px;
+    box-shadow:0px 0px 10px #ddd;
+    margin-bottom: 10px;
+}
+
+.colour-card-sm .card-thumbnail {
+    height:104px;
+    padding-left:10px;
+    box-shadow:0px 0px 10px #ddd;
+}
+.colour-card-sm .card-details{
+    min-height:104px;
+    padding-left:10px;
+}
+
+
+/* In tablet view - needs to be thinner to not overlap in columns and larger description space for line breaks */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .colour-card-sm {
+        width:220px;
+    }
+}
