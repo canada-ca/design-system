@@ -166,9 +166,17 @@
                      <iframe title="Basic table example" class="example-frame example-frame-resizable example-frame-m"
                         src="./demos/tables/wet4/basic.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
                   </div>
+                  <div id="filtered-demo" class="component-demo hidden example-frame-bkg">
+                     <iframe title="Basic table with filter example" class="example-frame example-frame-resizable example-frame-m"
+                        src="./demos/tables/wet4/basic-filter.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
+                  </div>
                   <div id="striped-demo" class="component-demo hidden example-frame-bkg">
                      <iframe title="Striped table example" class="example-frame example-frame-resizable example-frame-m"
                         src="./demos/tables/wet4/striped.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
+                  </div>
+                  <div id="filteredstriped-demo" class="component-demo hidden example-frame-bkg">
+                     <iframe title="Striped table example" class="example-frame example-frame-resizable example-frame-m"
+                        src="./demos/tables/wet4/striped-filter.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
                   </div>
                   <div class="btn-group">
                      <button id="resize-iframe-mobile" class="btn btn-default"><span class="fas fa-mobile-alt"></span> <strong>SM</strong></button>
@@ -196,6 +204,15 @@
                      </select>
                   </fieldset>
                </div>
+               <div id="striped-submenu" class="mrgn-bttm-sm striped-options layout-submenu hidden">
+                  <fieldset>
+                     <label for="striped-layout-menu" class="h5">Layout options</label>
+                     <select id="striped-layout-menu" class="form-control layout-variant-menu">
+                        <option value="stripedunfiltered">Unfiltered</option>
+                        <option value="stripedfiltered">Filtered</option>
+                     </select>
+                  </fieldset>
+               </div>
             </div>
          </div>
          <div class="row">
@@ -216,13 +233,46 @@
                         <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html" class="btn btn-default">Contribute to the design system</a></p>
                      </div>
                   </div>
-
+                  <div id="filtered-code" class="layout-code hidden">
+                     <div class="code-variant wet4-variant">
+                        <section data-ajax-replace="./demos/tables/wet4/basic-filter-code.html"></section>
+                     </div>
+                     <div class="code-variant react-variant hidden">
+                        <h3>ReactJS</h3>
+                        <p>Doesn't exist yet. Want to contribute?</p>
+                        <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html"
+                              class="btn btn-default">Contribute to the design system</a></p>
+                     </div>
+                     <div class="code-variant angular-variant hidden">
+                        <h3>Angular</h3>
+                        <p>Doesn't exist yet. Want to contribute?</p>
+                        <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html"
+                              class="btn btn-default">Contribute to the design system</a></p>
+                     </div>
+                  </div>
                </div>
 
                <div id="striped-code" class="component-code hidden">
-                  <div id="unfiltered-code" class="layout-code">
+                  <div id="stripedunfiltered-code" class="layout-code">
                      <div class="code-variant wet4-variant">
                         <section data-ajax-replace="./demos/tables/wet4/striped-code.html"></section>
+                     </div>
+                     <div class="code-variant react-variant hidden">
+                        <h3>ReactJS</h3>
+                        <p>Doesn't exist yet. Want to contribute?</p>
+                        <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html"
+                              class="btn btn-default">Contribute to the design system</a></p>
+                     </div>
+                     <div class="code-variant angular-variant hidden">
+                        <h3>Angular</h3>
+                        <p>Doesn't exist yet. Want to contribute?</p>
+                        <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html"
+                              class="btn btn-default">Contribute to the design system</a></p>
+                     </div>
+                  </div>
+                  <div id="stripedfiltered-code" class="layout-code">
+                     <div class="code-variant wet4-variant">
+                        <section data-ajax-replace="./demos/tables/wet4/striped-filter-code.html"></section>
                      </div>
                      <div class="code-variant react-variant hidden">
                         <h3>ReactJS</h3>
