@@ -164,7 +164,7 @@
                <div id="demo" class="pattern-demo pattern-demo-component">
                   <div id="basic-demo" class="component-demo example-frame-bkg">
                      <div id="unfiltered-layout" class="layout-demo example-frame-bkg">
-                        <iframe title="Basic table with filter example" class="example-frame example-frame-resizable example-frame-m" src="./demos/tables/wet4/basic.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
+                        <iframe title="Basic table example" class="example-frame example-frame-resizable example-frame-m" src="./demos/tables/wet4/basic.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
                      </div>
                      <div id="filtered-layout" class="layout-demo example-frame-bkg hidden">
                         <iframe title="Basic table with filter example" class="example-frame example-frame-resizable example-frame-m" src="./demos/tables/wet4/basic-filter.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
@@ -172,10 +172,10 @@
                   </div>
                   <div id="striped-demo" class="component-demo example-frame-bkg hidden">
                      <div id="stripedunfiltered-layout" class="layout-demo example-frame-bkg">
-                        <iframe title="Basic table with filter example" class="example-frame example-frame-resizable example-frame-m" src="./demos/tables/wet4/striped.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
+                        <iframe title="Striped table example" class="example-frame example-frame-resizable example-frame-m" src="./demos/tables/wet4/striped.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
                      </div>
                      <div id="stripedfiltered-layout" class="layout-demo example-frame-bkg hidden">
-                        <iframe title="Basic table with filter example" class="example-frame example-frame-resizable example-frame-m" src="./demos/tables/wet4/striped-filter.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
+                        <iframe title="Striped table with filter example" class="example-frame example-frame-resizable example-frame-m" src="./demos/tables/wet4/striped-filter.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
                      </div>
                   </div>
                   <div class="btn-group">
@@ -208,8 +208,8 @@
                   <fieldset>
                      <label for="striped-layout-menu" class="h5">Layout options</label>
                      <select id="striped-layout-menu" class="form-control layout-variant-menu">
-                        <option value="stripedunfiltered">Unfiltered</option>
-                        <option value="stripedfiltered">Filtered</option>
+                        <option value="stripedUnfiltered">Unfiltered</option>
+                        <option value="stripedFiltered">Filtered</option>
                      </select>
                   </fieldset>
                </div>
@@ -253,7 +253,7 @@
                </div>
 
                <div id="striped-code" class="component-code hidden">
-                  <div id="stripedunfiltered-code" class="layout-code">
+                  <div id="stripedUnfiltered-code" class="layout-code">
                      <div class="code-variant wet4-variant">
                         <section data-ajax-replace="./demos/tables/wet4/striped-code.html"></section>
                      </div>
@@ -270,7 +270,7 @@
                               class="btn btn-default">Contribute to the design system</a></p>
                      </div>
                   </div>
-                  <div id="stripedfiltered-code" class="layout-code">
+                  <div id="stripedFiltered-code" class="layout-code">
                      <div class="code-variant wet4-variant">
                         <section data-ajax-replace="./demos/tables/wet4/striped-filter-code.html"></section>
                      </div>
@@ -335,6 +335,7 @@
          </div>
          <mark>What about...
           <li><mark>Tables with a visual treatment in the thead? like a blue/grey BKG</mark></li>
+          <li><mark>Less clunky way to handle filter to avoid repeating (worse on alpha) maybe a checkbox?</mark></li>
          </mark>
          <section>
             <h2 id="versions">Latest changes</h2>

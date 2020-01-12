@@ -164,12 +164,49 @@
             <div class="col-md-9 col-xs-12 mrgn-tp-md pull-right">
                <div id="demo" class="pattern-demo pattern-demo-component">
                   <div id="basic-demo" class="component-demo example-frame-bkg">
-                     <iframe title="Basic table example" class="example-frame example-frame-resizable example-frame-m"
-                        src="./demos/tables/alpha/basic.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
+                     <div id="rightcard-layout" class="layout-demo example-frame-bkg">
+                        <iframe title="Basic table with mobile cards" class="example-frame example-frame-resizable example-frame-m"
+                           src="./demos/tables/alpha/basic.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
+                     </div>
+                     <div id="leftcard-layout" class="layout-demo example-frame-bkg hidden">
+                        <iframe title="Basic table with left aligned mobile cards" class="example-frame example-frame-resizable example-frame-m"
+                           src="./demos/tables/alpha/basic-left.html" frameborder="0" loading="lazy"
+                           onload="resizeIframe(this);"></iframe>
+                     </div>
                   </div>
-                  <div id="striped-demo" class="component-demo hidden example-frame-bkg">
-                     <iframe title="Striped table example" class="example-frame example-frame-resizable example-frame-m"
-                        src="./demos/tables/alpha/striped.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
+                  <div id="basicFilter-demo" class="component-demo example-frame-bkg hidden">
+                     <div id="rightcard-layout" class="layout-demo example-frame-bkg">
+                        <iframe title="Basic table with filter and mobile cards" class="example-frame example-frame-resizable example-frame-m"
+                           src="./demos/tables/alpha/basic-filter.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
+                     </div>
+                     <div id="leftcard-layout" class="layout-demo example-frame-bkg hidden">
+                        <iframe title="Basic table with filter and left aligned mobile cards"
+                           class="example-frame example-frame-resizable example-frame-m" src="./demos/tables/alpha/basic-filter-left.html"
+                           frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
+                     </div>
+                  </div>
+                  <div id="striped-demo" class="component-demo example-frame-bkg hidden">
+                     <div id="stripedunfiltered-layout" class="layout-demo example-frame-bkg">
+                        <iframe title="Basic table with filter example" class="example-frame example-frame-resizable example-frame-m"
+                           src="./demos/tables/alpha/striped.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
+                     </div>
+                     <div id="stripedfiltered-layout" class="layout-demo example-frame-bkg hidden">
+                        <iframe title="Basic table with filter example" class="example-frame example-frame-resizable example-frame-m"
+                           src="./demos/tables/alpha/striped-filter.html" frameborder="0" loading="lazy"
+                           onload="resizeIframe(this);"></iframe>
+                     </div>
+                  </div>
+                  <div id="stripedFilter-demo" class="component-demo example-frame-bkg hidden">
+                     <div id="stripedRightcard-layout" class="layout-demo example-frame-bkg">
+                        <iframe title="Striped table with and mobile cards"
+                           class="example-frame example-frame-resizable example-frame-m" src="./demos/tables/alpha/basic-filter.html"
+                           frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
+                     </div>
+                     <div id="stripedLeftcard-layout" class="layout-demo example-frame-bkg hidden">
+                        <iframe title="Striped table with filter and left aligned mobile cards"
+                           class="example-frame example-frame-resizable example-frame-m" src="./demos/tables/alpha/basic-filter-left.html"
+                           frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
+                     </div>
                   </div>
                   <div class="btn-group">
                      <button id="resize-iframe-mobile" class="btn btn-default"><span class="fas fa-mobile-alt"></span> <strong>SM</strong></button>
@@ -185,6 +222,8 @@
                      <select id="design-variant-menu" class="form-control">
                         <option value="basic">Basic</option>
                         <option value="striped">Striped</option>
+                        <option value="basicFilter">Basic with filter</option>
+                        <option value="stripedFilter">Striped with filter</option>
                      </select>
                   </fieldset>
                </div>
@@ -192,10 +231,35 @@
                   <fieldset>
                      <label for="basic-layout-menu" class="h5">Layout options</label>
                      <select id="basic-layout-menu" class="form-control layout-variant-menu">
-                        <option value="rightcard">Right align card - Unfiltered </option>
-                        <option value="leftcard">Left align card - Unfiltered</option>
-                        <option value="filterrightcard">Right align card - Filtered </option>
-                        <option value="filterleftcard">Left align card - Filtered</option>
+                        <option value="rightcard">Right align card</option>
+                        <option value="leftcard">Left align card</option>
+                     </select>
+                  </fieldset>
+               </div>
+               <div id="basicFilter-submenu" class="mrgn-bttm-sm basic-options layout-submenu hidden">
+                  <fieldset>
+                     <label for="basicFilter-layout-menu" class="h5">Layout options</label>
+                     <select id="basicFilter-layout-menu" class="form-control layout-variant-menu">
+                        <option value="basicFilterRightcard">basicfilterRight align card</option>
+                        <option value="basicFilterLeftcard">Left align card</option>
+                     </select>
+                  </fieldset>
+               </div>
+               <div id="striped-submenu" class="mrgn-bttm-sm basic-options layout-submenu hidden">
+                  <fieldset>
+                     <label for="striped-layout-menu" class="h5">Layout options</label>
+                     <select id="striped-layout-menu" class="form-control layout-variant-menu">
+                        <option value="stripedRightcard">stripeRight align card</option>
+                        <option value="stripedLeftcard">Left align card</option>
+                     </select>
+                  </fieldset>
+               </div>
+               <div id="stripedFilter-submenu" class="mrgn-bttm-sm basic-options layout-submenu hidden">
+                  <fieldset>
+                     <label for="stripedFilter-layout-menu" class="h5">Layout options</label>
+                     <select id="stripedFilter-layout-menu" class="form-control layout-variant-menu">
+                        <option value="stripedFilterRightcard">stripefilterRight align card</option>
+                        <option value="stripedFilterLeftcard">Left align card</option>
                      </select>
                   </fieldset>
                </div>
@@ -204,44 +268,173 @@
          <div class="row">
             <div class="col-md-9 col-xs-12 mrgn-tp-md pull-right">
                <div id="basic-code" class="component-code">
-
-                  <div id="unfiltered-code" class="layout-code">
-                     <div class="code-variant wet4-variant">
+                  <div id="rightcard-code" class="layout-code">
+                     <div class="code-variant alpha-variant">
                         <section data-ajax-replace="./demos/tables/alpha/basic-code.html"></section>
                      </div>
                      <div class="code-variant react-variant hidden">
-                       <h3>ReactJS</h3>
+                        <h3>ReactJS</h3>
                         <p>Doesn't exist yet. Want to contribute?</p>
-                        <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html" class="btn btn-default">Contribute to the design system</a></p>
+                        <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html"
+                              class="btn btn-default">Contribute to the design system</a></p>
                      </div>
                      <div class="code-variant angular-variant hidden">
-                       <h3>Angular</h3>
+                        <h3>Angular</h3>
                         <p>Doesn't exist yet. Want to contribute?</p>
-                        <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html" class="btn btn-default">Contribute to the design system</a></p>
+                        <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html"
+                              class="btn btn-default">Contribute to the design system</a></p>
                      </div>
                   </div>
-
+                  <div id="leftcard-code" class="layout-code hidden">
+                     <div class="code-variant alpha-variant">
+                        <section data-ajax-replace="./demos/tables/alpha/basic-left-code.html"></section>
+                     </div>
+                     <div class="code-variant react-variant hidden">
+                        <h3>ReactJS</h3>
+                        <p>Doesn't exist yet. Want to contribute?</p>
+                        <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html"
+                              class="btn btn-default">Contribute to the design system</a></p>
+                     </div>
+                     <div class="code-variant angular-variant hidden">
+                        <h3>Angular</h3>
+                        <p>Doesn't exist yet. Want to contribute?</p>
+                        <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html"
+                              class="btn btn-default">Contribute to the design system</a></p>
+                     </div>
+                  </div>
+                  <div id="leftcard-code" class="layout-code hidden">
+                     <div class="code-variant alpha-variant">
+                        <section data-ajax-replace="./demos/tables/alpha/basic-left-code.html"></section>
+                     </div>
+                     <div class="code-variant react-variant hidden">
+                        <h3>ReactJS</h3>
+                        <p>Doesn't exist yet. Want to contribute?</p>
+                        <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html"
+                              class="btn btn-default">Contribute to the design system</a></p>
+                     </div>
+                     <div class="code-variant angular-variant hidden">
+                        <h3>Angular</h3>
+                        <p>Doesn't exist yet. Want to contribute?</p>
+                        <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html"
+                              class="btn btn-default">Contribute to the design system</a></p>
+                     </div>
+                  </div>
                </div>
 
-               <div id="steps-code" class="component-code hidden">
-                  <div class="code-variant wet4-variant hidden">
-                     <section data-ajax-replace="./demos/link-description/wet4/sequenced-steps-code.html"></section>
+               <div id="basicFilter-code" class="component-code hidden">
+                  <div id="basicFilterRightcard-code" class="layout-code">
+                     <div class="code-variant alpha-variant">
+                        <section data-ajax-replace="./demos/tables/alpha/basic-filter-code.html"></section>
+                     </div>
+                     <div class="code-variant react-variant hidden">
+                        <h3>ReactJS</h3>
+                        <p>Doesn't exist yet. Want to contribute?</p>
+                        <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html"
+                              class="btn btn-default">Contribute to the design system</a></p>
+                     </div>
+                     <div class="code-variant angular-variant hidden">
+                        <h3>Angular</h3>
+                        <p>Doesn't exist yet. Want to contribute?</p>
+                        <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html"
+                              class="btn btn-default">Contribute to the design system</a></p>
+                     </div>
                   </div>
-                  <div class="code-variant react-variant hidden">
-                    <h3>ReactJS</h3>
-                     <p>Doesn't exist yet. Want to contribute?</p>
-                     <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html" class="btn btn-default">Contribute to the design system</a></p>
+                  <div id="basicFilterLeftcard-code" class="layout-code">
+                     <div class="code-variant alpha-variant">
+                        <section data-ajax-replace="./demos/tables/alpha/basic-filter-left-code.html"></section>
+                     </div>
+                     <div class="code-variant react-variant hidden">
+                        <h3>ReactJS</h3>
+                        <p>Doesn't exist yet. Want to contribute?</p>
+                        <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html"
+                              class="btn btn-default">Contribute to the design system</a></p>
+                     </div>
+                     <div class="code-variant angular-variant hidden">
+                        <h3>Angular</h3>
+                        <p>Doesn't exist yet. Want to contribute?</p>
+                        <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html"
+                              class="btn btn-default">Contribute to the design system</a></p>
+                     </div>
                   </div>
-                  <div class="code-variant angular-variant hidden">
-                    <h3>Angular</h3>
-                     <p>Doesn't exist yet. Want to contribute?</p>
-                     <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html" class="btn btn-default">Contribute to the design system</a></p>
+               </div>
+
+               <div id="striped-code" class="component-code hidden">
+                  <div id="stripedRightcard-code" class="layout-code">
+                     <div class="code-variant alpha-variant">
+                        <section data-ajax-replace="./demos/tables/alpha/striped-code.html"></section>
+                     </div>
+                     <div class="code-variant react-variant hidden">
+                        <h3>ReactJS</h3>
+                        <p>Doesn't exist yet. Want to contribute?</p>
+                        <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html"
+                              class="btn btn-default">Contribute to the design system</a></p>
+                     </div>
+                     <div class="code-variant angular-variant hidden">
+                        <h3>Angular</h3>
+                        <p>Doesn't exist yet. Want to contribute?</p>
+                        <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html"
+                              class="btn btn-default">Contribute to the design system</a></p>
+                     </div>
+                  </div>
+                  <div id="stripedLeftcard-code" class="layout-code">
+                     <div class="code-variant alpha-variant">
+                        <section data-ajax-replace="./demos/tables/alpha/striped-left-code.html"></section>
+                     </div>
+                     <div class="code-variant react-variant hidden">
+                        <h3>ReactJS</h3>
+                        <p>Doesn't exist yet. Want to contribute?</p>
+                        <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html"
+                              class="btn btn-default">Contribute to the design system</a></p>
+                     </div>
+                     <div class="code-variant angular-variant hidden">
+                        <h3>Angular</h3>
+                        <p>Doesn't exist yet. Want to contribute?</p>
+                        <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html"
+                              class="btn btn-default">Contribute to the design system</a></p>
+                     </div>
+                  </div>
+               </div>
+
+               <div id="stripedFilter-code" class="component-code hidden">
+                  <div id="stripedFilterLeftcard-code" class="layout-code">
+                     <div class="code-variant alpha-variant">
+                        <section data-ajax-replace="./demos/tables/alpha/striped-filter-code.html"></section>
+                     </div>
+                     <div class="code-variant react-variant hidden">
+                        <h3>ReactJS</h3>
+                        <p>Doesn't exist yet. Want to contribute?</p>
+                        <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html"
+                              class="btn btn-default">Contribute to the design system</a></p>
+                     </div>
+                     <div class="code-variant angular-variant hidden">
+                        <h3>Angular</h3>
+                        <p>Doesn't exist yet. Want to contribute?</p>
+                        <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html"
+                              class="btn btn-default">Contribute to the design system</a></p>
+                     </div>
+                  </div>
+                  <div id="stripedFilterLeftcard-code" class="layout-code">
+                     <div class="code-variant alpha-variant">
+                        <section data-ajax-replace="./demos/tables/alpha/striped-filter-left-code.html"></section>
+                     </div>
+                     <div class="code-variant react-variant hidden">
+                        <h3>ReactJS</h3>
+                        <p>Doesn't exist yet. Want to contribute?</p>
+                        <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html"
+                              class="btn btn-default">Contribute to the design system</a></p>
+                     </div>
+                     <div class="code-variant angular-variant hidden">
+                        <h3>Angular</h3>
+                        <p>Doesn't exist yet. Want to contribute?</p>
+                        <p><a href="https://canada-ca.github.io/design-system-systeme-conception/backlog/contribution-process.html"
+                              class="btn btn-default">Contribute to the design system</a></p>
+                     </div>
                   </div>
                </div>
 
                <div id="dropdown-code" class="component-code hidden">
 
-                  <div class="code-variant wet4-variant hidden">
+                  <div class="code-variant alpha-variant hidden">
 
                      <script type="text/javascript">
                         $(document).ready(function() {
@@ -275,7 +468,7 @@
                   <fieldset>
                      <label for="code-variant-menu" class="h5">Code variant</label>
                      <select id="code-variant-menu" class="form-control">
-                        <option value="wet4">WET 4</option>
+                        <option value="alpha">Alpha</option>
                         <option value="react">ReactJS</option>
                         <option value="angular">Angular</option>
                      </select>
