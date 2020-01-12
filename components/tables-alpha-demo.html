@@ -173,6 +173,11 @@
                            src="./demos/tables/alpha/basic-left.html" frameborder="0" loading="lazy"
                            onload="resizeIframe(this);"></iframe>
                      </div>
+                     <div id="smalltext-layout" class="layout-demo example-frame-bkg hidden">
+                        <iframe title="Basic table with small text"
+                           class="example-frame example-frame-resizable example-frame-m" src="./demos/tables/alpha/small-text.html"
+                           frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
+                     </div>
                   </div>
                   <div id="basicFilter-demo" class="component-demo example-frame-bkg hidden">
                      <div id="rightcard-layout" class="layout-demo example-frame-bkg">
@@ -233,6 +238,7 @@
                      <select id="basic-layout-menu" class="form-control layout-variant-menu">
                         <option value="rightcard">Right align card</option>
                         <option value="leftcard">Left align card</option>
+                        <option value="smalltext">Small text</option>
                      </select>
                   </fieldset>
                </div>
@@ -302,9 +308,9 @@
                               class="btn btn-default">Contribute to the design system</a></p>
                      </div>
                   </div>
-                  <div id="leftcard-code" class="layout-code hidden">
+                  <div id="smalltext-code" class="layout-code hidden">
                      <div class="code-variant alpha-variant">
-                        <section data-ajax-replace="./demos/tables/alpha/basic-left-code.html"></section>
+                        <section data-ajax-replace="./demos/tables/alpha/small-text-code.html"></section>
                      </div>
                      <div class="code-variant react-variant hidden">
                         <h3>ReactJS</h3>
@@ -477,9 +483,8 @@
             </div>
          </div>
          <mark>What about...
-            <li><mark>small text variant and recommendations</mark></li>
             <li><mark>different break variant (when there's 3 vs 6)recommendations</mark></li>
-            <li><mark>Less clunky way to handle filter to avoid repeating... maybe a checkbox?</mark></li>
+            <li><mark>Less clunky way to handle filter and small text to avoid repeating...</mark></li>
          </mark>
          <section>
             <h2 id="versions">Latest changes</h2>
