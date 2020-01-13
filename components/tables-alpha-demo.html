@@ -175,19 +175,23 @@
                      </div>
                      <div id="smalltext-layout" class="layout-demo example-frame-bkg hidden">
                         <iframe title="Basic table with small text"
-                           class="example-frame example-frame-resizable example-frame-m" src="./demos/tables/alpha/small-text.html"
+                           class="example-frame example-frame-resizable example-frame-m" src="./demos/tables/alpha/basic-small.html"
                            frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
                      </div>
                   </div>
                   <div id="basicFilter-demo" class="component-demo example-frame-bkg hidden">
-                     <div id="rightcard-layout" class="layout-demo example-frame-bkg">
+                     <div id="filterRightcard-layout" class="layout-demo example-frame-bkg">
                         <iframe title="Basic table with filter and mobile cards example" class="example-frame example-frame-resizable example-frame-m"
                            src="./demos/tables/alpha/basic-filter.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
                      </div>
-                     <div id="leftcard-layout" class="layout-demo example-frame-bkg hidden">
+                     <div id="filterLeftcard-layout" class="layout-demo example-frame-bkg hidden">
                         <iframe title="Basic table with filter and left aligned mobile cards example"
                            class="example-frame example-frame-resizable example-frame-m" src="./demos/tables/alpha/basic-filter-left.html"
                            frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
+                     </div>
+                     <div id="filterSmalltext-layout" class="layout-demo example-frame-bkg hidden">
+                        <iframe title="Basic table with filter and small text" class="example-frame example-frame-resizable example-frame-m"
+                           src="./demos/tables/alpha/basic-filter-small.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
                      </div>
                   </div>
                   <div id="striped-demo" class="component-demo example-frame-bkg hidden">
@@ -200,16 +204,26 @@
                            src="./demos/tables/alpha/striped-filter.html" frameborder="0" loading="lazy"
                            onload="resizeIframe(this);"></iframe>
                      </div>
+                     <div id="stripedSmalltext-layout" class="layout-demo example-frame-bkg hidden">
+                        <iframe title="Striped table with small text" class="example-frame example-frame-resizable example-frame-m"
+                           src="./demos/tables/alpha/striped-small.html" frameborder="0" loading="lazy"
+                           onload="resizeIframe(this);"></iframe>
+                     </div>
                   </div>
                   <div id="stripedFilter-demo" class="component-demo example-frame-bkg hidden">
-                     <div id="stripedRightcard-layout" class="layout-demo example-frame-bkg">
+                     <div id="stripedFilterRightcard-layout" class="layout-demo example-frame-bkg">
                         <iframe title="Striped table with and mobile cards example"
                            class="example-frame example-frame-resizable example-frame-m" src="./demos/tables/alpha/striped-filter.html"
                            frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
                      </div>
-                     <div id="stripedLeftcard-layout" class="layout-demo example-frame-bkg hidden">
+                     <div id="stripedFilterLeftcard-layout" class="layout-demo example-frame-bkg hidden">
                         <iframe title="Striped table with filter and left aligned mobile cards example"
                            class="example-frame example-frame-resizable example-frame-m" src="./demos/tables/alpha/striped-filter-left.html"
+                           frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
+                     </div>
+                     <div id="stripedFilterSmalltext-layout" class="layout-demo example-frame-bkg hidden">
+                        <iframe title="Striped table with filter and small text"
+                           class="example-frame example-frame-resizable example-frame-m" src="./demos/tables/alpha/striped-filter-small.html"
                            frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
                      </div>
                   </div>
@@ -248,6 +262,7 @@
                      <select id="basicFilter-layout-menu" class="form-control layout-variant-menu">
                         <option value="basicFilterRightcard">basicfilterRight align card</option>
                         <option value="basicFilterLeftcard">Left align card</option>
+                        <option value="FilterSmalltext">Small text</option>
                      </select>
                   </fieldset>
                </div>
@@ -257,6 +272,7 @@
                      <select id="striped-layout-menu" class="form-control layout-variant-menu">
                         <option value="stripedRightcard">stripeRight align card</option>
                         <option value="stripedLeftcard">Left align card</option>
+                        <option value="stripedSmalltext">Small text</option>
                      </select>
                   </fieldset>
                </div>
@@ -266,6 +282,7 @@
                      <select id="stripedFilter-layout-menu" class="form-control layout-variant-menu">
                         <option value="stripedFilterRightcard">stripefilterRight align card</option>
                         <option value="stripedFilterLeftcard">Left align card</option>
+                        <option value="stripedFilterSmalltext">Small text</option>
                      </select>
                   </fieldset>
                </div>
@@ -484,6 +501,7 @@
          </div>
          <mark>What about...
             <li><mark>different break variant (when there's 3 vs 6)recommendations</mark></li>
+            <li><mark>how to show 'no break' class - used in CRA phone numbers to not break them into multi lines</mark></li>
             <li><mark>Less clunky way to handle filter and small text to avoid repeating...</mark></li>
          </mark>
          <section>

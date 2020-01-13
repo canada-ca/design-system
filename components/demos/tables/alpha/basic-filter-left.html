@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Table – Basic example - Canada.ca Design System</title>
     <link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
+    <link rel="stylesheet" href="../../../../css/responsive-tables.css">
+
 
     <!--[if lt IE 9]>
       <script src="/javascripts/head-ie8-a371085ca251931cc9b5360c7da328f6.js"></script>
@@ -18,44 +20,67 @@
     <!-- Disable browser validation for any examples that include form elements -->
     <form action="/form-handler" method="post" novalidate class="mrgn-rght-lg mrgn-lft-lg mrgn-tp-lg mrgn-bttm-lg">
         
-        <table class="wb-tables table" id="myTable">
-            <caption class="wb-inv">Population growth in Canadian cities</caption>
+        <table class="experimental wb-tables table" id="myTable">
+            <caption class="wb-inv">Telephone numbers for personal taxes, benefits and trusts</caption>
             <thead>
               <tr>
-                <th scope="col">City</th>
-                <th scope="col">Population in 2007</th>
-                <th scope="col">Population in 2017</th>
-                <th scope="col">Percentage change</th>
+                <th scope="col">What do you want to call about?</th>
+                <th scope="col">Number</th>
+                <th scope="col">Hours</th>
               </tr>
             </thead>
             <tbody>
               <tr>
-                <td data-label="City">Toronto</td>
-                <td data-label="Population in 2007">5,418,207</td>
-                <td data-label="Population in 2017">6,346,088</td>
-                <td data-label="Percentage change">17.1%</td>
+                <td data-label="What do you want to call about?">
+                  <ul class="left-mobile">
+                    <li>Get Proof of Income (Option C print-out)</li>
+                    <li>Request remittance voucher</li>
+                    <li>Tax-free savings account (TFSA) contribution room</li>
+                    <li>Unused RRSP contributions to claim</li>
+                    <li>Registered retirement savings plan (RRSP) contributions this year</li>
+                    <li>Estimated GST/HST credit payment amount, three weeks before next payment</li>
+                    <li>Estimated Child Benefit payment amount, two weeks before next payment</li>
+                    <li>Find out if you are eligible for the Canada child benefit (CCB), and the GST/HST credit, as well as the dates you can expect to receive them</li>
+                  </ul>
+                </td>
+                <td data-label="Number" class="nobreak">1-800-267-6999</td>
+                <td data-label="Hours">
+                  <label class="label label-success">Always open (automated line)</label>
+                  <p>No wait times</p>
+                </td>
               </tr>
               <tr>
-                <td data-label="City">Montréal</td>
-                <td data-label="Population in 2007">3,714,846</td>
-                <td data-label="Population in 2017">4,138,254</td>
-                <td data-label="Percentage change">11.4%</td>
+                <td data-label="What do you want to call about?">
+                 <span class="left-mobile">
+                    <ul>
+                      <li>Check status of 2018 tax return</li>
+                      <li>Estimated 2018 refund amount</li>
+                      <li>When to expect your 2018 refund</li>
+                    </ul>
+                  </span>
+                </td>  
+                <td data-label="Number" class="nobreak">1-800-959-1956</td>
+                <td data-label="Hours"><label class="label label-success">Always open (automated line)</label>
+                  <p>No wait times</p>
+                </td>
               </tr>
               <tr>
-                <td data-label="City">Vancouver</td>
-                <td data-label="Population in 2007">2,218,134</td>
-                <td data-label="Population in 2017">2,571,262</td>
-                <td data-label="Percentage change">15.9%</td>
-              </tr>
-              <tr>
-                <td data-label="City">Ottawa–Gatineau</td>
-                <td data-label="Population in 2007">1,188,073</td>
-                <td data-label="Population in 2017">1,377,016	</td>
-                <td data-label="Percentage change">15.9%</td>
+                <td data-label="What do you want to call about?">
+                  <span class="left-mobile">
+                    <ul>
+                      <li>Check tax account balance</li>
+                    </ul>
+                  </span>
+                </td>
+                <td data-label="Number" class="nobreak">1-866-474-8272</td>
+                <td data-label="Hours">
+                  <label class="label label-success">Always open (automated line)</label>
+                  <p>No wait times</p>
+                </td>              
               </tr>
             </tbody>
           </table>
-          <p><strong>Sources:</strong> Statistics Canada, CANSIM tables <a href="http://www5.statcan.gc.ca/cansim/a26?lang=eng&retrLang=eng&id=0510001&&pattern=&stByVal=1&p1=1&p2=50&tabMode=dataTable&csid=">051-0001</a> and <a href="http://www5.statcan.gc.ca/cansim/a26?lang=eng&retrLang=eng&id=0510056&&pattern=&stByVal=1&p1=1&p2=50&tabMode=dataTable&csid=">051-0056</a>.</p>
+          <p><strong>Sources:</strong> Canada Revenue Agency <a href="https://www.canada.ca/en/revenue-agency/corporate/contact-information.html">Contact information</a> (simplified).</p>
 
     </form>
    <script type="text/javascript" src="https://www.canada.ca/etc/clientlibs/granite/jquery.min.js"></script>
