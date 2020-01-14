@@ -1,4 +1,3 @@
-
 .most-requested-bullets.experimental li {
 	font-family: 'Lato', sans-serif;
 	font-size: 17px;
@@ -60,6 +59,7 @@
   font-size: 16px;
 	margin-block-end: 0em;
 }
+
 .experimental .followus ul li {
   margin-bottom: 15px;
 }
@@ -139,51 +139,41 @@
 }
 
 @media screen and (min-width: 991px) {
-.experimental .contributors li {
-    display: inline-block;
-    float: left;
-    margin-right: .7em;
-}
+  .experimental .contributors li {
+      display: inline-block;
+      float: left;
+      margin-right: .7em;
+  }
 }
 
 @media screen and (min-width: 991px) {
-.experimental .contributors li:first-child:before {
-    content: none;
-}
-.experimental .contributors li:before {
-    content: "\2022";
-    margin-right: .7em;
-}
+  .experimental .contributors li:first-child:before {
+      content: none;
+  }
+  .experimental .contributors li:before {
+      content: "\2022";
+      margin-right: .7em;
+  }
 }
 
 @media screen and (max-width: 1200px) {
  .experimental .contributors ul {
-    margin-inline-start: -30px !important;
+    margin-inline-start: -30px;
   }
-
-}
-
-@media screen and (max-width: 1200px) {
- .experimental .contributors ul {
-    margin-inline-start: -30px !important;
-  }
-
 }
 
 @media screen and (max-width: 991px) {
+  .most-requested-bullets li {
+    font-size: 19px;
+    }
 
-.most-requested-bullets li {
-	font-size: 19px;
-	}
+  .experimental .mobile-left {
+    float: left !important; /* important is needed to override float right*/
+  }
 
-.experimental .mobile-left {
-  float: left !important;
-}
-
-.experimental .contributors ul {
-	margin-inline-start: 1.5em !important;
-}
-
+  .experimental .contributors ul {
+    margin-inline-start: 1.5em;
+  }
 }
 
 /* part of guidance.css but needed to fix the button alignment here - delete after guidance PR is accepted */
