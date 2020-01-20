@@ -11,7 +11,7 @@
 }
 
 /* CREATE MOBILE CARDS */
-@media screen and (max-width: 550px) { 
+@media screen and (max-width: 425px) { 
 
   .table.experimental > tbody > tr > td:first-child {
     border-top: none;
@@ -70,7 +70,7 @@
 }
 
 /* TABLET CARDS */
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 768px) {
 
   .table.experimental.tblt-crds > tbody > tr > td:first-child {
     border-top: none;
