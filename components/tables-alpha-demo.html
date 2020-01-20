@@ -174,7 +174,7 @@
                            onload="resizeIframe(this);"></iframe>
                      </div>
                      <div id="smalltext-layout" class="layout-demo example-frame-bkg hidden">
-                        <iframe title="Basic table with small text"
+                        <iframe title="Basic table with small text and tablet cards"
                            class="example-frame example-frame-resizable example-frame-m" src="./demos/tables/alpha/basic-small.html"
                            frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
                      </div>
@@ -190,7 +190,7 @@
                            frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
                      </div>
                      <div id="filterSmalltext-layout" class="layout-demo example-frame-bkg hidden">
-                        <iframe title="Basic table with filter and small text" class="example-frame example-frame-resizable example-frame-m"
+                        <iframe title="Basic table with filter and small text and tablet cards" class="example-frame example-frame-resizable example-frame-m"
                            src="./demos/tables/alpha/basic-filter-small.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
                      </div>
                   </div>
@@ -205,7 +205,7 @@
                            onload="resizeIframe(this);"></iframe>
                      </div>
                      <div id="stripedSmalltext-layout" class="layout-demo example-frame-bkg hidden">
-                        <iframe title="Striped table with small text" class="example-frame example-frame-resizable example-frame-m"
+                        <iframe title="Striped table with small text and tablet cards" class="example-frame example-frame-resizable example-frame-m"
                            src="./demos/tables/alpha/striped-small.html" frameborder="0" loading="lazy"
                            onload="resizeIframe(this);"></iframe>
                      </div>
@@ -222,7 +222,7 @@
                            frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
                      </div>
                      <div id="stripedFilterSmalltext-layout" class="layout-demo example-frame-bkg hidden">
-                        <iframe title="Striped table with filter and small text"
+                        <iframe title="Striped table with filter and small text and tablet cards"
                            class="example-frame example-frame-resizable example-frame-m" src="./demos/tables/alpha/striped-filter-small.html"
                            frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe>
                      </div>
@@ -250,9 +250,9 @@
                   <fieldset>
                      <label for="basic-layout-menu" class="h5">Layout options</label>
                      <select id="basic-layout-menu" class="form-control layout-variant-menu">
-                        <option value="rightcard">Right align card</option>
+                        <option value="rightcard">Standard</option>
                         <option value="leftcard">Left align card</option>
-                        <option value="smalltext">Small text</option>
+                        <option value="smalltext">Small text and tablet cards</option>
                      </select>
                   </fieldset>
                </div>
@@ -260,9 +260,9 @@
                   <fieldset>
                      <label for="basicFilter-layout-menu" class="h5">Layout options</label>
                      <select id="basicFilter-layout-menu" class="form-control layout-variant-menu">
-                        <option value="basicFilterRightcard">basicfilterRight align card</option>
+                        <option value="basicFilterRightcard">Standard</option>
                         <option value="basicFilterLeftcard">Left align card</option>
-                        <option value="FilterSmalltext">Small text</option>
+                        <option value="FilterSmalltext">Small text and tablet cards</option>
                      </select>
                   </fieldset>
                </div>
@@ -270,9 +270,9 @@
                   <fieldset>
                      <label for="striped-layout-menu" class="h5">Layout options</label>
                      <select id="striped-layout-menu" class="form-control layout-variant-menu">
-                        <option value="stripedRightcard">stripeRight align card</option>
+                        <option value="stripedRightcard">Standard</option>
                         <option value="stripedLeftcard">Left align card</option>
-                        <option value="stripedSmalltext">Small text</option>
+                        <option value="stripedSmalltext">Small text and tablet cards</option>
                      </select>
                   </fieldset>
                </div>
@@ -280,9 +280,9 @@
                   <fieldset>
                      <label for="stripedFilter-layout-menu" class="h5">Layout options</label>
                      <select id="stripedFilter-layout-menu" class="form-control layout-variant-menu">
-                        <option value="stripedFilterRightcard">stripefilterRight align card</option>
+                        <option value="stripedFilterRightcard">Standard</option>
                         <option value="stripedFilterLeftcard">Left align card</option>
-                        <option value="stripedFilterSmalltext">Small text</option>
+                        <option value="stripedFilterSmalltext">Small text and tablet cards</option>
                      </select>
                   </fieldset>
                </div>
@@ -519,6 +519,12 @@
                      <td>Wrap the content you want to align left in a <code>span</code> with the class <code>mobile-left</code>.</td>
                   </tr>
                   <tr>
+                     <td>Tablet view cards</td>
+                     <td>When tables have 4+ columns and/or get crowded, this class will cause the table to break into cards in tablet
+                        view.</td>
+                     <td>Apply the class <code>tblt-crds</code> to the <code>table</code>.</td>
+                  </tr>
+                  <tr>
                      <td>No text break</td>
                      <td>Stops text from breaking into another line, such as for a phone number or date.</td>
                      <td>Apply the class <code>nobreak</code> to the <code>td</code>.</td>
@@ -527,11 +533,6 @@
                      <td>Small text</td>
                      <td>Decreases the font size of headings and data in desktop view to fit lengthly content more compactly</td>
                      <td>Apply the class <code>txt-sm</code> to the <code>table</code>.</td>
-                  </tr>
-                  <tr>
-                     <td>Tablet view cards</td>
-                     <td>When tables have 4+ columns and/or get crowded, this class will cause the table to break into cards in tablet view.</td>
-                     <td>Apply the class <code>tblt-crds</code> to the <code>table</code>.</td>
                   </tr>
                   <tr>
                      <td>Hide the caption</td>
