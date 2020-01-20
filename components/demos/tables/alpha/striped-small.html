@@ -1,54 +1,84 @@
-<div class="wb-tabs wb-prettify all-pre">
-  <div class="tabpanels">
-    <details id="optional-details-panel1">
-      <summary>HTML</summary>
-      <pre><code>&lt;table class="experimental table" id="myTable"&gt;
-       &lt;caption class="wb-inv"&gt;Population growth in Canadian cities&lt;/caption&gt;
-        &lt;thead&gt;
-          &lt;tr&gt;
-            &lt;th scope="col"&gt;City&lt;/th&gt;
-            &lt;th scope="col"&gt;Population in 2007&lt;/th&gt;
-            &lt;th scope="col"&gt;Population in 2017&lt;/th&gt;
-            &lt;th scope="col"&gt;Percentage change&lt;/th&gt;
-         &lt;/tr&gt;
-        &lt;/thead&gt;
-        &lt;tbody&gt;
-          &lt;tr&gt;
-            &lt;td data-label="City"&gt;Toronto&lt;/td&gt;
-            &lt;td data-label="Population in 2007"&gt;5,418,207&lt;/td&gt;
-            &lt;td data-label="Population in 2017"&gt;6,346,088&lt;/td&gt;
-            &lt;td data-label="Percentage change"&gt;17.1%&lt;/td&gt;
-           &lt;/tr&gt;
-           &lt;tr&gt;
-            &lt;td data-label="City"&gt;Montréal&lt;/td&gt;
-            &lt;td data-label="Population in 2007"&gt;3,714,846&lt;/td&gt;
-            &lt;td data-label="Population in 2017"&gt;4,138,254&lt;/td&gt;
-            &lt;td data-label="Percentage change"&gt;11.4%&lt;/td&gt;
-           &lt;/tr&gt;
-           &lt;tr&gt;
-            &lt;td data-label="City"&gt;Vancouver&lt;/td&gt;
-            &lt;td data-label="Population in 2007"&gt;2,218,134&lt;/td&gt;
-            &lt;td data-label="Population in 2017"&gt;2,571,262&lt;/td&gt;
-            &lt;td data-label="Percentage change"&gt;15.9%&lt;/td&gt;
-           &lt;/tr&gt;
-           &lt;tr&gt;
-            &lt;td data-label="City"&gt;Ottawa–Gatineau&lt;/td&gt;
-            &lt;td data-label="Population in 2007"&gt;1,188,073&lt;/td&gt;
-            &lt;td data-label="Population in 2017"&gt;1,377,016 &lt;/td&gt;
-            &lt;td data-label="Percentage change"&gt;15.9%&lt;/td&gt;
-           &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;</code></pre>
-    </details>
-    <details id="optional-details-panel2">
-      <summary>CSS</summary>
-      <pre><code>
-        Update when completed - should this be the whole "code package", or just what's needed for this variant?
-      </code></pre>
-    </details>
-<!-- <details id="optional-details-panel3">
-        <summary>JavaScript</summary>
-        <pre><code></code></pre> No JS for basic/striped no filter
-    </details> -->
-  </div>
-</div>
+<!DOCTYPE html>
+<!--[if lt IE 9]>-->
+<html class="no-js" lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Table – Small text example - Canada.ca Design System</title>
+  <link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
+  <link rel="stylesheet" href="../css/responsive-tables-demo-only.css">
+
+
+  <!--[if lt IE 9]>
+      <script src="/javascripts/head-ie8-a371085ca251931cc9b5360c7da328f6.js"></script>
+    <![endif]-->
+  <!-- <script src="./scaling-sample/javascripts/vendor/modernizr.js"></script> JM: flex-box stuff, not entirely sure the benefit yet -->
+
+</head>
+<body>
+  <script>document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
+  <!-- Disable browser validation for any examples that include form elements -->
+  <form action="/form-handler" method="post" novalidate class="mrgn-rght-lg mrgn-lft-lg mrgn-tp-lg mrgn-bttm-lg">
+
+    <table class="experimental wb-tables table table-striped tbl-sm-txt tblt-crds" id="myTable">
+      <caption>The following is a list of ranitidine products being recalled in Canada at this time</caption>
+      <thead>
+        <tr>
+          <th scope="col">Company</th>
+          <th scope="col">Product Name/Active Pharmaceutical Ingredient (API)</th>
+          <th scope="col">DIN</th>
+          <th scope="col">Strength</th>
+          <th scope="col">Lot</th>
+          <th scope="col">Date added</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td data-label="Company">Apotex Inc.</td>
+          <td data-label="Product Name/Active Pharmaceutical Ingredient (API)">Acid Reducer (ranitidine) sold under the brand names Equate and Selection</td>
+          <td data-label="DIN">02296160</td>
+          <td data-label="Strength">150 mg</td>
+          <td data-label="Lot">All lots</td>
+          <td data-label="Date added">September 25, 2019</td>
+        </tr>
+        <tr>
+          <td data-label="Company">Apotex Inc.</td>
+          <td data-label="Product Name/Active Pharmaceutical Ingredient (API)">Apo-Ranitidine Oral Solution</td>
+          <td data-label="DIN">02280833</td>
+          <td data-label="Strength">15 mg/mL</td>
+          <td data-label="Lot">All lots</td>
+          <td data-label="Date added">September 25, 2019</td>
+        </tr>
+        <tr>
+          <td data-label="Company">Apotex Inc.</td>
+          <td data-label="Product Name/Active Pharmaceutical Ingredient (API)">Apo-Ranitidine Tablet 150mg</td>
+          <td data-label="DIN">00733059</td>
+          <td data-label="Strength">300 mg</td>
+          <td data-label="Lot">All lots</td>
+          <td data-label="Date added">September 25, 2019</td>
+        </tr>
+        <tr>
+          <td data-label="Company">Apotex Inc.</td>
+          <td data-label="Product Name/Active Pharmaceutical Ingredient (API)">Apo-Ranitidine Tablet 300mg</td>
+          <td data-label="DIN">00733067</td>
+          <td data-label="Strength">300 mg</td>
+          <td data-label="Lot">All lots</td>
+          <td data-label="Date added">September 25, 2019</td>
+        </tr>
+      </tbody>
+    </table>
+    <p><strong>Sources:</strong> Recalls and safety alerts <a
+        href="https://www.healthycanadians.gc.ca/recall-alert-rappel-avis/hc-sc/2019/71029a-eng.php">Ranbaxy Pharmaceuticals Canada Inc. recalls...</a>
+    </p>
+
+  </form>
+  <script type="text/javascript" src="https://www.canada.ca/etc/clientlibs/granite/jquery.min.js"></script>
+  <script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/wet-boew/js/wet-boew.min.js"></script>
+
+  <!--  <script src="./scaling-sample/javascripts/vendor/iframeResizer.contentWindow.js"></script>
+    JM: supposed to force a frame to resize - but not seeing any benefit on initial tinkering -->
+</body>
+
+</html>
