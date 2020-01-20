@@ -81,7 +81,7 @@
 }
 
 /* TABLET CARDS */
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 1050px) {
 
   /* removes the first line, so we don't have a double line in the card on mobile */
   .table.experimental.tblt-crds > tbody > tr > td:first-child {
