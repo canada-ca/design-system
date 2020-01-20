@@ -11,7 +11,7 @@
 }
 
 /* CREATE MOBILE CARDS */
-@media screen and (max-width: 425px) { 
+@media screen and (max-width: 425px) {
 
   .table.experimental > tbody > tr > td:first-child {
     border-top: none;
@@ -120,7 +120,7 @@
   table.experimental.tblt-crds td:last-child {
     border-bottom: 0;
   }
-  
+
   .experimental.tblt-crds .left-mobile {
     text-align: left !important;
     clear: both !important;
@@ -129,7 +129,7 @@
 }
 
 
-@media (min-width: 1024px) {
+@media (min-width: 769px) {
   /* small table text for desktop table content - works when 'main' is 20px, design system demos are a bit off - to look into */
   .tbl-sm-txt.experimental tr {
     font-size: .85em;
@@ -139,4 +139,3 @@
     font-size: .95em;
   }
 }
-
