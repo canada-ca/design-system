@@ -81,7 +81,7 @@
 }
 
 /* TABLET CARDS */
-@media screen and (max-width: 1300px) {
+@media screen and (max-width: 1024px) {
 
   /* removes the first line, so we don't have a double line in the card on mobile */
   .table.experimental.tblt-crds > tbody > tr > td:first-child {
@@ -143,7 +143,7 @@
 }
 
 
-@media (min-width: 1300px){
+@media (min-width: 1024px){
     /* small table text for content with long entries */
   .tbl-sm-txt.experimental tr {
     font-size: .85em;
