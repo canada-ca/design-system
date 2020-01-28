@@ -341,8 +341,8 @@
       <div class="clearfix"></div>
       <section class="most-requested well well-sm brdr-0">
         <div class="container">
-          <div class="row">
-            <div class="wb-eqht">
+          <div class="row mrgn-bttm-md">
+            <div class="contact-us wb-eqht">
               <h2 class="col-lg-3 h3">Contact us</h2>
               <span class="clearfix"></span>
               <section class="col-lg-4 col-sm-6">
@@ -361,7 +361,7 @@
       <section>
         <div class="container">
           <div class="row">
-            <section class="col-md-8 pull-left mrgn-bttm-lg">
+            <section class="about col-md-8 pull-left mrgn-bttm-lg">
               <h2 class="h3">About the [Institution]</h2>
               <div class="wb-eqht row">
                 <div class="col-md-6">
@@ -458,31 +458,40 @@
           </div>
         </div>
       </section>
-            <section class="most-requested well well-sm brdr-0">
+            <section class="well well-sm brdr-0">
               <div class="container">
                 <div class="row">
-                    <div class="wb-eqht">
+                    <div class="wb-eqht mrgn-tp-md">
                       <h2 class="wb-inv">Ministers</h2>
                       <span class="clearfix"></span>
                       <div class="col-md-3">
-                      <p><a href="#">[(Honourable) first and last name]</a><br>
+                        <figure> <img src="https://www.ic.gc.ca/eic/site/icgc.nsf/vwimages/navdeep-bains_2019-20.jpg/$file/navdeep-bains_2019-20.jpg" width="200" alt=""
+                            class="img-responsive thumbnail mrgn-bttm-sm">
+                          <figcaption>[(Honourable) first and last name]</figcaption>
+                        </figure>
                         <small>Minister's official title</small></p>
-                        <p><small><a href="#">Mandate letter (optional)</a></small></p>
+                        <p><small><a href="#">Mandate letter [optional]</a></small></p>
                       </div>
                       <div class="col-md-3">
-                        <p><a href="#">[(Honourable) first and last name]</a><br>
-                          <small>Minister's official title</small></p>
-                          <p><small><a href="#">Mandate letter (optional)</a></small></p>
+                        <figure> <img src="https://www.ic.gc.ca/eic/site/icgc.nsf/vwimages/navdeep-bains_2019-20.jpg/$file/navdeep-bains_2019-20.jpg" width="200" alt="" class="img-responsive thumbnail mrgn-bttm-sm">
+                          <figcaption>[(Honourable) first and last name]</figcaption>
+                        </figure>
+                        <small>Minister's official title</small></p>
+                        <p><small><a href="#">Mandate letter [optional]</a></small></p>
                       </div>
                       <div class="col-md-3">
-                        <p><a href="#">[(Honourable) first and last name]</a><br>
-                          <small>Minister's official title</small></p>
-                          <p><small><a href="#">Mandate letter (optional)</a></small></p>
+                        <figure> <img src="https://www.ic.gc.ca/eic/site/icgc.nsf/vwimages/navdeep-bains_2019-20.jpg/$file/navdeep-bains_2019-20.jpg" width="200" alt="" class="img-responsive thumbnail mrgn-bttm-sm">
+                          <figcaption>[(Honourable) first and last name]</figcaption>
+                        </figure>
+                        <small>Minister's official title</small></p>
+                        <p><small><a href="#">Mandate letter [optional]</a></small></p>
                       </div>
                       <div class="col-md-3">
-                        <p><a href="#">[(Honourable) first and last name]</a><br>
-                          <small>Minister's official title</small></p>
-                          <p><small><a href="#">Mandate letter (optional)</a></small></p>
+                        <figure> <img src="https://www.ic.gc.ca/eic/site/icgc.nsf/vwimages/navdeep-bains_2019-20.jpg/$file/navdeep-bains_2019-20.jpg" width="200" alt="" class="img-responsive thumbnail mrgn-bttm-sm">
+                          <figcaption>[(Honourable) first and last name]</figcaption>
+                        </figure>
+                        <small>Minister's official title</small></p>
+                        <p><small><a href="#">Mandate letter [optional]</a></small></p>
                       </div>
                     </div>
                   </div>
@@ -520,7 +529,7 @@
                     <p>Links to an institution’s minister(s), including associate minister(s), or its institutional head.</p>
                     <p>Text is linked to the appropriate ministerial profile page (see <a href="../mandatory-templates/ministerial-profile-pages.html">Ministerial profile pages</a>). The hyperlink text is the minister or institutional head’s honorific (“The Honourable”) and first and last name.</p>
                     <p>Text under the link is the minister or institutional head’s official title.</p>
-                    <p>Use the appropriate heading:</p>
+                    <p>Use the appropriate heading <mark style="background-color: yellow;">for screenreaders</mark>:</p>
                     <ul>
                       <li>Minister</li>
                       <li>Parliamentary secretary</li>
@@ -528,6 +537,12 @@
                       <li>Ombudsman</li>
                       <li>Management</li>
                     </ul>
+                    <div style="background-color: yellow;"><p>Layout options</p> <!-- temp yellow so changes can be reviewed-->
+                      <ul>
+                        <li>A single minister image can be used with the minimalistic layout</li>
+                        <li>The column width class can be adjusted to fit less or more ministers</li>
+                        <li>Additional ministers can go on a second line</li>
+                      </ul></div>
                   </section>
                   <section>
                     <h3>Follow us</h3>
@@ -542,7 +557,7 @@
       <!-- News bar start -->
       <div class="container">
         <div class="row">
-          <section class="col-md-4 wb-feeds limit-3 gc-nws">
+          <section class="news col-md-4 wb-feeds limit-3 gc-nws">
             <h2 class="h3">News</h2>
             <!-- demonstrate the look - use json feed where applicable -->
             <ul class="feeds-cont list-unstyled lst-spcd feed-active">
