@@ -23,7 +23,7 @@
 	font-size: 1em;
 }
 
-.contact-us h2, .about h2, .wb-feeds h2, .gc-prtts h2 {
+.contact-us h2, .about h2 {
 	margin-top: 15px;
 }
 
@@ -70,7 +70,6 @@
 ul.feeds-cont li a {
 	font-weight: bold;
 }
-
 
 @media screen and (max-width: 1200px) {
   .featured {

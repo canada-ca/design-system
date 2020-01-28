@@ -3,12 +3,24 @@
   margin-top: 10px;
 }
 
+.followus.experimental {
+	padding: 0;
+}
+
+.followus.experimental h2 {
+	display: block;
+}
+
+.followus.experimental h2, .followus.experimental ul {
+	margin-left: 0;
+}
+
 .experimental .followus {
   line-height: 0em;
 }
 
-.followus.white {
-  background-color: white;
+.experimental .followus, .experimental.followus {
+  background-color: transparent;
 }
 
 .experimental .followus a {
