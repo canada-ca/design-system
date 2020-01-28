@@ -1,4 +1,4 @@
-.experimental .followus h2 {
+.experimental.followus h2 {
   font-size: 1.1em;
   margin-top: 10px;
 }
@@ -7,7 +7,7 @@
   line-height: 0em;
 }
 
-.experimental .followus.white {
+.followus.white {
   background-color: white;
 }
 
@@ -66,6 +66,13 @@
   display: block;
 }
 .experimental .instagram {
+  background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/instagram.png") no-repeat;
+  height: 36px;
+  width: 36px;
+  background-size: cover;
+  display: block;
+}
+.experimental .linkedin {
   background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/instagram.png") no-repeat;
   height: 36px;
   width: 36px;
