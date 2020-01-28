@@ -26,6 +26,11 @@
 .contact-us h2, .about h2, .wb-feeds h2, .gc-prtts h2 {
 	margin-top: 15px;
 }
+
+.ministers img {
+	max-width: 200px;
+}
+
 /* supports the 3 column layout for MR instead of 4 columns */
 .list-responsive-3 > li {
     float: left;
