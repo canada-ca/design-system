@@ -5,9 +5,12 @@
 
 .experimental .followus {
   line-height: 0em;
-  background-color: #f5f5f5;
-
 }
+
+.experimental .followus.white {
+  background-color: white;
+}
+
 .experimental .followus a {
   text-decoration: none;
 }
