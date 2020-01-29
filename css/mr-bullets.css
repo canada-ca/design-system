@@ -10,16 +10,16 @@
   margin-top: 0px;
 }
 
-.most-requested-bullets .float-left {
+.most-requested-bullets.experimental .pddng-r-0 {
   padding-right: 0px;
 }
 
-.most-requested-bullets h2 {
+.most-requested-bullets.experimental h2 {
 	font-size: 1.2em;
 }
 
 @media screen and (max-width: 991px) {
-  .most-requested-bullets li {
+  .most-requested-bullets.experimental li {
     font-size: 19px;
     }
 }
