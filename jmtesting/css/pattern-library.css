@@ -1,0 +1,41 @@
+.experimental .tabs {
+  height:45px;
+  padding: 0 0 0 0;
+  overflow:visible;
+}
+
+.experimental .tab {
+  width:200px;
+  height:45px;
+  overflow:hidden;
+  float:left;
+  margin:0 -15px 0 0;
+}
+
+.experimental .tab:first-child {
+  margin-left:-10px;
+}
+
+.experimental .tab-box {
+  height:50px;
+  background-color: #fff;
+  margin:0 10px 0;
+}
+
+.experimental .tab.active {
+  z-index:40;
+  position:relative;
+  padding-bottom:2.3em;
+}
+
+.experimental .tab.active .tab-box{
+  background-color: #fff;
+  border:1px solid #ccc;
+}
+
+.experimental .content {
+  z-index:1;
+  padding:100px;
+  border:1px solid #ccc;
+  position:relative;
+}
