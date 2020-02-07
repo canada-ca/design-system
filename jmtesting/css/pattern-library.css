@@ -1,41 +1,63 @@
 .experimental .tabs {
-  height:45px;
-  padding: 0 0 0 0;
-  overflow:visible;
+    height:45px;
+    padding:0 0 0 0;
+    overflow:visible;
 }
 
 .experimental .tab {
-  width:200px;
-  height:45px;
-  overflow:hidden;
-  float:left;
-  margin:0 -15px 0 0;
+    height:45px;
+    float:left;
+    margin:0 -15px 0 0;
+    flex: 0 0 auto; 
 }
 
 .experimental .tab:first-child {
-  margin-left:-10px;
+    margin-left:-10px;
 }
 
 .experimental .tab-box {
-  height:50px;
-  background-color: #fff;
-  margin:0 10px 0;
+    height:46px;
+    background-color: #fff;
+    margin:0 10px 0;
+    padding:0 1em;
 }
 
 .experimental .tab.active {
-  z-index:40;
-  position:relative;
-  padding-bottom:2.3em;
+    z-index:40;
+    position:relative;
+    padding-bottom:2.3em;
 }
 
 .experimental .tab.active .tab-box{
-  background-color: #fff;
-  border:1px solid #ccc;
+    background-color: #fff;
+    border:1px solid #ccc;
+    border-bottom: 1px solid #fff;
+
 }
 
 .experimental .content {
-  z-index:1;
-  padding:100px;
-  border:1px solid #ccc;
-  position:relative;
+    z-index:1;
+    padding:100px;
+    border:1px solid #ccc;
+    position:relative;
 }
+
+.experimental .flex {
+    display:flex;
+    flex-wrap:nowrap;
+    overflow: auto;   
+}
+
+.experimental .flex::-webkit-scrollbar {
+    display:none; 
+}
+
+/* @media only screen and (max-width: 768px) {
+  .experimental .flex {
+  }
+} */
+
+/* @media {
+    .experimental .flex {
+    }
+} */
