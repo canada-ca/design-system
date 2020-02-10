@@ -1,33 +1,52 @@
+/* colours - convert to scss later */
 .experimental .components .panel-default .panel-heading {
     background-color:#442288; /*AAA*/
-    color: white;
-}
-
-.experimental .components .img {
-/* write autocrop */
+    color:white;
 }
 
 .experimental .components header {
-    border-top-left-radius: 0px;
-    border-top-right-radius: 0px;
+    border-top-left-radius:0px;
+    border-top-right-radius:0px;
 }
 
 .experimental .styles .panel-default .panel-heading {
     background-color:#C3043E; /*AAA large text*/
-    color: white;
+    color:white;
 }
 
 .experimental .page-layouts .panel-default .panel-heading  {
     background-color:#9E6C00; /*AAA large text*/
-    color: white;
+    color:white;
 }
 .experimental .behaviours .panel-default .panel-heading  {
     background-color:#1f70db; /*AAA large text*/
-    color: white;
+    color:white;
 }
 .experimental .d-patterns .panel-default .panel-heading {
     background-color:#637A06; /*AAA large text*/
-    color: white;
+    color:white;
+}
+.experimental .tab.active .tab-box a.f-all {
+    border-bottom:4px solid #26374a;
+}
+.experimental .tab.active .tab-box a.f-styles {
+    border-bottom:4px solid #C3043E;
+}
+.experimental .tab.active .tab-box a.f-layouts {
+    border-bottom:4px solid #9E6C00;
+}
+.experimental .tab.active .tab-box a.f-d-patterns {
+    border-bottom:4px solid #637A06;
+}
+.experimental .tab.active .tab-box a.f-components {
+    border-bottom:4px solid #442288;
+}
+.experimental .tab.active .tab-box a.f-behaviours {
+    border-bottom:4px solid #1f70db;
+}
+
+.experimental .components .img {
+/* write autocrop */
 }
 
 .experimental .tabs {
@@ -64,7 +83,10 @@
     background-color: #fff;
     border:1px solid #ccc;
     border-bottom: 1px solid #fff;
+}
 
+.experimental.scroll ul {
+    margin-bottom:0;
 }
 
 .experimental .content {
