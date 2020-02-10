@@ -131,7 +131,7 @@
 		<p><b>Search for:</b></p>
 		<div class="wb-filter">
 
-<div class="experimental scroll">
+<div class="experimental scroll mrgn-tp-lg">
 		<ul class="tabs flex list-unstyled">
 			<li class="tab active">
 				<div class="tab-box"><a class="f-all">All()</a></div>
@@ -492,9 +492,10 @@
 			$(this).addClass('active');
 		});
 
-		$(document).load(function () {
+		$(document).on("wb-ready.wb", function (event) {
 			$('#wb-auto-2-info').addClass('wb-inv'); 
-		});
+			});
+
 	</script>
 </body>
 
