@@ -74,6 +74,11 @@
     position:relative;
 }
 
+.experimental .content p {
+	font-size:17px;
+    line-height:1.5em;
+}
+
 .experimental .flex {
     display:flex;
     flex-wrap:nowrap;
