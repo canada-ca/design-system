@@ -1,3 +1,35 @@
+.experimental .components .panel-default .panel-heading {
+    background-color:#442288; /*AAA*/
+    color: white;
+}
+
+.experimental .components .img {
+/* write autocrop */
+}
+
+.experimental .components header {
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+
+.experimental .styles .panel-default .panel-heading {
+    background-color:#C3043E; /*AAA large text*/
+    color: white;
+}
+
+.experimental .page-layouts .panel-default .panel-heading  {
+    background-color:#9E6C00; /*AAA large text*/
+    color: white;
+}
+.experimental .behaviours .panel-default .panel-heading  {
+    background-color:#1f70db; /*AAA large text*/
+    color: white;
+}
+.experimental .d-patterns .panel-default .panel-heading {
+    background-color:#637A06; /*AAA large text*/
+    color: white;
+}
+
 .experimental .tabs {
     height:45px;
     padding:0 0 0 0;
