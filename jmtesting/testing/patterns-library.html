@@ -162,60 +162,64 @@
 		</div>
 
 			<div class="content">
-			
+
+						<section id="behaviours" class="grouped">
+							<h3>Behaviours</h3>
+							<ul class="list-unstyled row">
+							</ul>
+						</section>
+
+
+						<section id="components" class="grouped gc-library experimental">
+							<h3>Components</h3>
+							<ul class="list-unstyled row components">
+								<li class="col-md-4">
+									<div class="panel panel-default">
+										<img alt="Button example" src="" />
+										<header class="panel-heading">
+											<h4 class="panel-title"><a class="stretched-link"
+													href="/design-system-systeme-conception/en/library/components/guide-buttons">Buttons</a></h4>
+										</header>
+										<div class="panel-body">
+											<p>Call to action to let a user complete an action, find a next step or
+												submit a form.</p>
+										</div>
+									</div>
+								</li>
+								<li class="col-md-4">
+									<div class="panel panel-default">
+										<header class="panel-heading">
+											<h5 class="panel-title">Component</h5>
+										</header>
+										<div class="panel-body">
+											<p><a class="stretched-link"
+													href="/design-system-systeme-conception/en/library/components/guide-radio-buttons">Radio
+													buttons</a></p>
+											<p class="small">Radio buttons allow for a single option to be selected in a list of
+												items.</p>
+										</div>
+									</div>
+								</li>
+								<li class="col-md-4">
+									<div class="panel panel-default">
+										<header class="panel-heading">
+											<h5 class="panel-title">Component</h5>
+										</header>
+										<div class="panel-body">
+											<p><a class="stretched-link"
+													href="/design-system-systeme-conception/en/library/components/link-description">Link
+													and description</a></p>
+											<p class="small">Set of links with accompanying descriptions (also known as doormats).
+											</p>
+										</div>
+									</div>
+								</li>
+							</ul>
+						</section>
 			</div>
 </div>
-			<section id="behaviours" class="grouped">
-				<h3>Behaviours</h3>
-				<ul class="list-unstyled row">
-				</ul>
-			</section>
+
 			
-			<section id="components" class="grouped gc-library experimental">
-				<h3>Components</h3>
-				<ul class="list-unstyled row components">
-					<li class="col-md-4">
-						<div class="panel panel-default">
-							<img alt="Button example" src="" />
-							<header class="panel-heading">
-								<h4 class="panel-title"><a class="stretched-link" href="/design-system-systeme-conception/en/library/components/guide-buttons">Buttons</a></h4>
-							</header>
-							<div class="panel-body">
-								<p>Call to action to let a user complete an action, find a next step or
-									submit a form.</p>
-							</div>
-						</div>
-					</li>
-					<li class="col-md-4">
-						<div class="panel panel-default">
-							<header class="panel-heading">
-								<h5 class="panel-title">Component</h5>
-							</header>
-							<div class="panel-body">
-								<p><a class="stretched-link"
-										href="/design-system-systeme-conception/en/library/components/guide-radio-buttons">Radio
-										buttons</a></p>
-								<p class="small">Radio buttons allow for a single option to be selected in a list of
-									items.</p>
-							</div>
-						</div>
-					</li>
-					<li class="col-md-4">
-						<div class="panel panel-default">
-							<header class="panel-heading">
-								<h5 class="panel-title">Component</h5>
-							</header>
-							<div class="panel-body">
-								<p><a class="stretched-link"
-										href="/design-system-systeme-conception/en/library/components/link-description">Link
-										and description</a></p>
-								<p class="small">Set of links with accompanying descriptions (also known as doormats).
-								</p>
-							</div>
-						</div>
-					</li>
-				</ul>
-			</section>
 			<section id="design-patterns" class="grouped">
 				<h3>Design patterns</h3>
 				<ul class="list-unstyled row">
@@ -464,6 +468,10 @@
 		$('.tab').click(function () {
 			$('.tab').removeClass('active');
 			$(this).addClass('active');
+		});
+
+		$(document).ready(function () {
+			$('#wb-auto-2-info').addClass('wb-inv'); 
 		});
 	</script>
 </body>

@@ -69,7 +69,7 @@
 
 .experimental .content {
     z-index:1;
-    padding:100px;
+    padding:1em;
     border:1px solid #ccc;
     position:relative;
 }
@@ -77,17 +77,17 @@
 .experimental .flex {
     display:flex;
     flex-wrap:nowrap;
-    overflow: auto;   
 }
 
 .experimental .flex::-webkit-scrollbar {
     display:none; 
 }
 
-/* @media only screen and (max-width: 768px) {
+@media only screen and (max-width: 768px) {
   .experimental .flex {
+     overflow:auto;   /* draws a line in desktop view under selection... gonna need a hand, for now writing mobile variant */
   }
-} */
+}
 
 /* @media {
     .experimental .flex {
