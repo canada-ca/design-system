@@ -1,6 +1,6 @@
 /* colours - convert to scss later */
 .experimental .components .panel-default .panel-heading {
-    background-color:#442288; /*AAA*/
+    background-color:#3A2B5F; /*AAA*/
     color:white;
 }
 
@@ -10,7 +10,7 @@
 }
 
 .experimental .styles .panel-default .panel-heading {
-    background-color:#C3043E; /*AAA large text*/
+    background-color:#991520; /*AAA large text*/
     color:white;
 }
 .experimental .page-layouts .panel-default .panel-heading  {
@@ -73,7 +73,7 @@
 .experimental .tab {
     height:45px;
     float:left;
-    margin:0 -15px 0 0;
+    margin:0 -21px 0 0;
     flex: 0 0 auto; 
 }
 
@@ -94,11 +94,6 @@
     padding-bottom:2.3em;
 }
 
-.experimental .tab.active .tab-box{
-    background-color: #fff;
-    border:1px solid #ccc;
-    border-bottom: 1px solid #fff;
-}
 
 .experimental.scroll ul {
     margin-bottom:0;
@@ -123,6 +118,24 @@
 
 .experimental .flex::-webkit-scrollbar {
     display:none; 
+}
+
+.experimental .tab .tab-box{
+    background-color: #fff;
+    border:1px solid #ccc;
+    border-bottom: 1px solid #fff;
+}
+
+@media only screen and (min-width: 1024px) {
+    .experimental .tab.active .tab-box{
+        background-color: #fff;
+        border:1px solid #ccc;
+        border-bottom: 1px solid #fff;
+    }
+
+    .experimental .tab {
+        margin:0 -15px 0 0;
+    }
 }
 
 @media only screen and (max-width: 768px) {
