@@ -1,6 +1,6 @@
 /* colours - convert to scss later */
 .experimental .components .panel-default .panel-heading {
-    background-color:#E3D9E8; /*AAA*/
+    background-color:#E6EEC9; /*AAA*/
 }
 
 .experimental .components header {
@@ -11,20 +11,23 @@
 .experimental .styles .panel-default .panel-heading {
     background-color:#E7D5CB; /*AAA*/
 }
-.experimental .page-layouts .panel-default .panel-heading  {
-    background-color:#FFECC2; /*AAA*/
-}
-.experimental .behaviours .panel-default .panel-heading  {
+.experimental .page-layouts .panel-default .panel-heading {
     background-color:#E5EEFA; /*AAA*/
 }
-.experimental .d-patterns .panel-default .panel-heading {
-    background-color:#E6EEC9; /*AAA*/
+.experimental .behaviours .panel-default .panel-heading {
+    background-color:#FFECC2; /*AAA*/
 }
-.experimental .tab.active .tab-box a {
+.experimental .d-patterns .panel-default .panel-heading {
+    background-color:#E3D9E8; /*AAA*/
+
+}
+.experimental .tab.active .tab-box a  {
     border-bottom:4px solid #26374a;
     padding-bottom:3px;
     font-weight:bold;
 }
+
+
 /* .experimental .tab.active .tab-box a.f-styles {
     border-bottom:4px solid #991520;
     padding-bottom:3px;
