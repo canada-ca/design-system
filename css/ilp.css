@@ -1,0 +1,109 @@
+.ip-cover-img {
+	background-image: url("https://test.canada.ca/experimental/working-on/images/ip-cover-image.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: right;
+	margin-top: 15px;
+	padding-bottom: 25px;
+}
+
+.most-requested li {
+	font-family: 'Lato', sans-serif;
+	font-size: 17px;
+	font-weight: 600;
+	line-height: 26px;
+	margin-top: 0
+}
+
+.most-requested h2 {
+	font-size: 1.2em;
+}
+
+.ip-btn {
+	font-size: 1em;
+}
+
+.contact-us h2, .about h2 {
+	margin-top: 15px;
+}
+
+.ministers img {
+	max-width: 200px;
+}
+
+/* supports the 3 column layout for MR instead of 4 columns */
+.list-responsive-3 > li {
+    float: left;
+    padding-right: 5px;
+    width: 50%
+}
+
+.list-responsive-3 > li:nth-child(2n+2) {
+    clear: right
+}
+
+.list-responsive-3:before,
+.list-responsive-3:after {
+    content: " ";
+    display: table
+}
+
+.list-responsive-3:after {
+    clear: both
+}
+
+.followus ul li a {
+	border: 0px;
+}
+
+.featured {
+  margin-bottom: 0em;
+	padding-top:20px;
+  padding-bottom:20px;
+	background: #31708f;
+}
+
+.featured a {
+	color:#fff
+}
+
+ul.feeds-cont li a {
+	font-weight: bold;
+}
+
+@media screen and (max-width: 1200px) {
+  .featured {
+  	padding-left:.8em;
+	}
+}
+
+@media screen and (min-width: 1200px) {
+.list-responsive-3 > li {
+    width: 33%;
+	}
+}
+
+@media screen and (max-width: 767px) {
+
+.btn-call-to-action {
+	font-size: 19px !important;
+	}
+
+.most-requested li {
+	font-size: 19px;
+	}
+
+.list-responsive-3 > li {
+        clear: right;
+        width: 100%
+  }
+
+.mobile-left {
+	float: left !important;
+	}
+
+.ip-cover-hide-mobile {
+		background-image: url("none") !important;
+}
+
+}

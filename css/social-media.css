@@ -1,0 +1,119 @@
+.experimental.followus h2 {
+  font-size: 1.1em;
+  margin-top: 10px;
+}
+
+.followus.experimental {
+	padding: 0;
+}
+
+.followus.experimental h2 {
+	display: block;
+}
+
+.followus.experimental h2, .followus.experimental ul {
+	margin-left: 0;
+}
+
+.experimental .followus {
+  line-height: 0em;
+}
+
+.experimental .followus, .experimental.followus {
+  background-color: transparent;
+}
+
+.experimental .followus a {
+  text-decoration: none;
+}
+
+.experimental .followus ul {
+  display: block;
+  list-style-type: none;
+  margin-block-start: 1em;
+  padding-inline-start: 1em;
+  font-size: 16px;
+	margin-block-end: 0em;
+}
+
+.experimental .followus ul li {
+  margin-bottom: 15px;
+}
+
+.experimental .followus ul li:last-child {
+  margin-bottom: 0px;
+}
+
+.experimental .followus ul li a {
+  border: none; 
+  padding: 0px 5px;
+}
+
+.experimental .social-lnk {
+  position: relative; 
+  bottom:-18px;
+  left:45px; 
+}
+
+.experimental .followus-vertical li {
+  display: block;
+  background-position: left;
+}
+
+.experimental .newicon.facebook {
+  background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/facebook.png") no-repeat;
+  height: 36px;
+  width: 36px;
+  background-size: cover;
+  display: block;
+}
+
+.experimental .newicon.twitter {
+  background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/twitter.png") no-repeat;
+  height: 36px;
+  width: 36px;
+  background-size: cover;
+  display: block;
+}
+.experimental .newicon.youtube {
+  background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/youtube.png") no-repeat;
+  height: 36px;
+  width: 36px;
+  background-size: cover;
+  display: block;
+}
+.experimental .newicon.instagram {
+  background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/instagram.png") no-repeat;
+  height: 36px;
+  width: 36px;
+  background-size: cover;
+  display: block;
+}
+.experimental .newicon.linkedin {
+  background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/instagram.png") no-repeat;
+  height: 36px;
+  width: 36px;
+  background-size: cover;
+  display: block;
+}
+
+.promo-social.experimental h3 {
+  margin-top: 5px;
+  text-decoration: underline;
+}
+
+.experimental .thumbnail {
+  border-color: #335075;
+  border-width: 1px;
+  padding: 0px;
+}
+  
+@media screen and (max-width: 991px) {
+  .most-requested-bullets li {
+    font-size: 19px;
+    }
+
+  .experimental .mobile-left {
+    float: left !important; /* important is needed to override float right*/
+  }
+}
