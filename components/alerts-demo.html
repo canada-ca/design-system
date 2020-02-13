@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
 		wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
-		<title>Contextual alerts - Demo and code - Components - Canada.ca</title>
+		<title>Alerts - Demo and code - Components - Canada.ca</title>
 		 <meta content="width=device-width,initial-scale=1" name="viewport">
 		<link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon">
 		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
@@ -24,8 +24,8 @@
 		{
 			"@context": "http://schema.org",
 			"@type": "WebPage",
-			"name": "Contextual alerts - Demo and code - Components",
-			"url": "https://design.canada.ca/components/contextual-alerts-demo.html",
+			"name": "Alerts - Demo and code - Components",
+			"url": "https://design.canada.ca/components/alerts-demo.html",
 			"author": {
 			"@type": "GovernmentOrganization",
 			"name": "Treasury Board of Canada Secretariat",
@@ -36,7 +36,7 @@
 				"url": "http://www.canada.ca/"
 			}
 			},
-			"description": "Contextual alerts are notice boxes for important new information that needs to appear in a pre-existing context."
+			"description": "Alerts are notice boxes to bring a user's attention to a result of an action, temporary situation, clarification or exception, or to warn of a consequence of their actions."
 		}
 		</script>
 		<!-- Global site tag (gtag.js) - Google Analytics -->
@@ -133,10 +133,10 @@
 		</header>
 		<!--/* Hide Nav; Hide Right Rail /*-->
 		<main role="main" property="mainContentOfPage" class="container wb-prettify all-pre">
-		<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Contextual alerts</span>: <span>Demo and code</span></span></h1>
+		<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Alerts</span>: <span>Demo and code</span></span></h1>
 		<div class="row profile">
 			<div class="col-md-9">
-				<p class="pagetag">Alerts are notice boxes that bring users' attention to specific content that makes them aware of a result of a user action, a clarification or exception to surrounding content or to warn the user of a consequence of an action or inaction in their task.</p>
+				<p class="pagetag">Alerts are notice boxes to bring a user's attention to a result of an action, temporary situation, clarification or exception, or to warn of a consequence of their actions.</p>
 			</div>
 			<div class="col-md-3">
 				<div class="small">
@@ -214,127 +214,7 @@
 				</div>
 				<div id="warning-code" class="component-code hidden">
 					<div class="code-variant beta-variant">
-						<section data-ajax-replace="./demos/contextual-alerts/beta/danger-code.html"></section>
-
-
-					<div class="wb-tabs">
-						<div class="tabpanels">
-							<details id="warning-details-panel1">
-								<summary>HTML</summary>
-								<pre><code>&lt;div class="experimental"&gt;
- &lt;section class="alert alert-warning"&gt;
-  &lt;h3&gt;Alert heading&lt;/h3&gt;
-  &lt;p&gt;Alert description.&lt;/p&gt;
- &lt;/section&gt;
-&lt;/div&gt;</code></pre>
-							</details>
-							<details id="warning-details-panel2">
-								<summary>CSS</summary>
-        						<pre><code>/*Removes current class alerts overrides (remove when this code replaces current alert CSS) */
-.experimental .alert-info > :first-child::before, .experimental .alert-success > :first-child::before, .experimental .alert-warning > :first-child::before, .experimental .alert-danger > :first-child::before {
- content: none;
-}
-.experimental .alert {
- background-color: inherit;
-}
-.experimental .alert > :first-child {
- margin-left: 15px;
-}
-/*replacement code */
-.alert {
- margin-left: 10px;
- border-left: 6px solid #000;
- padding: 0 0 0 15px;
- background-clip: content-box;
- margin-bottom: 23px;
-}
-.alert > p, .alert > .ul, .alert > .ol {
- margin-bottom: 0px;
-}
-.alert>* {
- margin-left: 15px;
-}
-.alert details {
- margin-left: 0.5em;
- padding-top: 15px;
-}
-.alert >:first-child:not(details) {
- padding-top: 15px;
- margin-top: auto;
-}
-.alert >:last-child {
- padding-bottom: 25px;
-}
-.alert:before {
- font-size: 26px;
- margin-left: -1.27em;
- padding: 2px;
- line-height: 2.3em;
- font-family: "Glyphicons Halflings";
- position: absolute;
-}
-.alert-info {
- border-image: linear-gradient(to bottom, #269abc 16px, #269abc 16px, rgba(0,0,0,0) 16px, rgba(0,0,0,0) 48px, #269abc 48px, #269abc 48px) 1 100%;
- border-color: #269abc;
-}
-.alert-success {
- border-image: linear-gradient(to bottom, #278400 16px, #278400 16px, rgba(0,0,0,0) 16px, rgba(0,0,0,0) 48px, #278400 48px, #278400 48px) 1 100%;
- border-color: #278400;
-}
-.alert-warning {
- border-image: linear-gradient(to bottom, #f90 16px, #f90 16px, rgba(0,0,0,0) 16px, rgba(0,0,0,0) 48px, #f90 48px, #f90 48px) 1 100%;
- border-color: #f90;
-}
-.alert-danger {
- border-image: linear-gradient(to bottom, #d3080c 16px, #d3080c 16px, rgba(0,0,0,0) 16px, rgba(0,0,0,0) 48px, #d3080c 48px, #d3080c 48px) 1 100%;
- border-color: #d3080c;
-}
-.alert-info::before {
- content: "\e086";
- color: #269abc;
-}
-.alert-success::before {
- content: "\e084";
- color: #278400;
-}
-.alert-warning::before {
- content: "\e107";
- color: #f90;
-}
-.alert-danger::before {
- content: "\e101";
- color: #d3080c;
-}
-.alert-info.alert-bg {
- background-color: #d7faff;
-}
-.alert-success.alert-bg {
- background-color: #d8eeca;
-}
-.alert-warning.alert-bg {
- background-color: #f9f4d4;
-}
-.alert-danger.alert-bg {
- background-color: #f3e9e8;
-}
-.alert-info.alert-bg details>summary {
- color: #245269;
- font-weight: 700; 
-}
-.alert-success.alert-bg details>summary {
- color: #2b542c;
- font-weight: 700; 
-}
-.alert-warning.alert-bg details>summary {
- color: #66512c;
- font-weight: 700; 
-}
-.alert-danger.alert-bg details>summary {
- color: #843534;
- font-weight: 700; 
-}</code></pre>
-							</details>
-						</div>
+						<section data-ajax-replace="./demos/contextual-alerts/beta/warning-code.html"></section>
 					</div>
 					</div>
 					<div class="code-variant wet4-variant hidden">
@@ -355,124 +235,7 @@
 				</div>
 				<div id="info-code" class="component-code hidden">
 					<div class="code-variant beta-variant">
-					<div class="wb-tabs">
-						<div class="tabpanels">
-							<details id="info-details-panel1">
-								<summary>HTML</summary>
-								<pre><code>&lt;div class="experimental"&gt;
- &lt;section class="alert alert-info"&gt;
-  &lt;h3&gt;Alert heading&lt;/h3&gt;
-  &lt;p&gt;Alert description.&lt;/p&gt;
- &lt;/section&gt;
-&lt;/div&gt;</code></pre>
-							</details>
-							<details id="info-details-panel2">
-								<summary>CSS</summary>
-        						<pre><code>/*Removes current class alerts overrides (remove when this code replaces current alert CSS) */
-.experimental .alert-info > :first-child::before, .experimental .alert-success > :first-child::before, .experimental .alert-warning > :first-child::before, .experimental .alert-danger > :first-child::before {
- content: none;
-}
-.experimental .alert {
- background-color: inherit;
-}
-.experimental .alert > :first-child {
- margin-left: 15px;
-}
-/*replacement code */
-.alert {
- margin-left: 10px;
- border-left: 6px solid #000;
- padding: 0 0 0 15px;
- background-clip: content-box;
- margin-bottom: 23px;
-}
-.alert > p, .alert > .ul, .alert > .ol {
- margin-bottom: 0px;
-}
-.alert>* {
- margin-left: 15px;
-}
-.alert details {
- margin-left: 0.5em;
- padding-top: 15px;
-}
-.alert >:first-child:not(details) {
- padding-top: 15px;
- margin-top: auto;
-}
-.alert >:last-child {
- padding-bottom: 25px;
-}
-.alert:before {
- font-size: 26px;
- margin-left: -1.27em;
- padding: 2px;
- line-height: 2.3em;
- font-family: "Glyphicons Halflings";
- position: absolute;
-}
-.alert-info {
- border-image: linear-gradient(to bottom, #269abc 16px, #269abc 16px, rgba(0,0,0,0) 16px, rgba(0,0,0,0) 48px, #269abc 48px, #269abc 48px) 1 100%;
- border-color: #269abc;
-}
-.alert-success {
- border-image: linear-gradient(to bottom, #278400 16px, #278400 16px, rgba(0,0,0,0) 16px, rgba(0,0,0,0) 48px, #278400 48px, #278400 48px) 1 100%;
- border-color: #278400;
-}
-.alert-warning {
- border-image: linear-gradient(to bottom, #f90 16px, #f90 16px, rgba(0,0,0,0) 16px, rgba(0,0,0,0) 48px, #f90 48px, #f90 48px) 1 100%;
- border-color: #f90;
-}
-.alert-danger {
- border-image: linear-gradient(to bottom, #d3080c 16px, #d3080c 16px, rgba(0,0,0,0) 16px, rgba(0,0,0,0) 48px, #d3080c 48px, #d3080c 48px) 1 100%;
- border-color: #d3080c;
-}
-.alert-info::before {
- content: "\e086";
- color: #269abc;
-}
-.alert-success::before {
- content: "\e084";
- color: #278400;
-}
-.alert-warning::before {
- content: "\e107";
- color: #f90;
-}
-.alert-danger::before {
- content: "\e101";
- color: #d3080c;
-}
-.alert-info.alert-bg {
- background-color: #d7faff;
-}
-.alert-success.alert-bg {
- background-color: #d8eeca;
-}
-.alert-warning.alert-bg {
- background-color: #f9f4d4;
-}
-.alert-danger.alert-bg {
- background-color: #f3e9e8;
-}
-.alert-info.alert-bg details>summary {
- color: #245269;
- font-weight: 700; 
-}
-.alert-success.alert-bg details>summary {
- color: #2b542c;
- font-weight: 700; 
-}
-.alert-warning.alert-bg details>summary {
- color: #66512c;
- font-weight: 700; 
-}
-.alert-danger.alert-bg details>summary {
- color: #843534;
- font-weight: 700; 
-}</code></pre>
-							</details>
-						</div>
+						<section data-ajax-replace="./demos/contextual-alerts/beta/info-code.html"></section>
 					</div>
 					</div>
 					<div class="code-variant wet4-variant hidden">
@@ -493,124 +256,7 @@
 				</div>
 				<div id="success-code" class="component-code hidden">
 					<div class="code-variant beta-variant">
-					<div class="wb-tabs">
-						<div class="tabpanels">
-							<details id="success-details-panel1">
-								<summary>HTML</summary>
-								<pre><code>&lt;div class="experimental"&gt;
- &lt;section class="alert alert-success"&gt;
-  &lt;h3&gt;Alert heading&lt;/h3&gt;
-  &lt;p&gt;Alert description.&lt;/p&gt;
- &lt;/section&gt;
-&lt;/div&gt;</code></pre>
-							</details>
-							<details id="success-details-panel2">
-								<summary>CSS</summary>
-        						<pre><code>/*Removes current class alerts overrides (remove when this code replaces current alert CSS) */
-.experimental .alert-info > :first-child::before, .experimental .alert-success > :first-child::before, .experimental .alert-warning > :first-child::before, .experimental .alert-danger > :first-child::before {
- content: none;
-}
-.experimental .alert {
- background-color: inherit;
-}
-.experimental .alert > :first-child {
- margin-left: 15px;
-}
-/*replacement code */
-.alert {
- margin-left: 10px;
- border-left: 6px solid #000;
- padding: 0 0 0 15px;
- background-clip: content-box;
- margin-bottom: 23px;
-}
-.alert > p, .alert > .ul, .alert > .ol {
- margin-bottom: 0px;
-}
-.alert>* {
- margin-left: 15px;
-}
-.alert details {
- margin-left: 0.5em;
- padding-top: 15px;
-}
-.alert >:first-child:not(details) {
- padding-top: 15px;
- margin-top: auto;
-}
-.alert >:last-child {
- padding-bottom: 25px;
-}
-.alert:before {
- font-size: 26px;
- margin-left: -1.27em;
- padding: 2px;
- line-height: 2.3em;
- font-family: "Glyphicons Halflings";
- position: absolute;
-}
-.alert-info {
- border-image: linear-gradient(to bottom, #269abc 16px, #269abc 16px, rgba(0,0,0,0) 16px, rgba(0,0,0,0) 48px, #269abc 48px, #269abc 48px) 1 100%;
- border-color: #269abc;
-}
-.alert-success {
- border-image: linear-gradient(to bottom, #278400 16px, #278400 16px, rgba(0,0,0,0) 16px, rgba(0,0,0,0) 48px, #278400 48px, #278400 48px) 1 100%;
- border-color: #278400;
-}
-.alert-warning {
- border-image: linear-gradient(to bottom, #f90 16px, #f90 16px, rgba(0,0,0,0) 16px, rgba(0,0,0,0) 48px, #f90 48px, #f90 48px) 1 100%;
- border-color: #f90;
-}
-.alert-danger {
- border-image: linear-gradient(to bottom, #d3080c 16px, #d3080c 16px, rgba(0,0,0,0) 16px, rgba(0,0,0,0) 48px, #d3080c 48px, #d3080c 48px) 1 100%;
- border-color: #d3080c;
-}
-.alert-info::before {
- content: "\e086";
- color: #269abc;
-}
-.alert-success::before {
- content: "\e084";
- color: #278400;
-}
-.alert-warning::before {
- content: "\e107";
- color: #f90;
-}
-.alert-danger::before {
- content: "\e101";
- color: #d3080c;
-}
-.alert-info.alert-bg {
- background-color: #d7faff;
-}
-.alert-success.alert-bg {
- background-color: #d8eeca;
-}
-.alert-warning.alert-bg {
- background-color: #f9f4d4;
-}
-.alert-danger.alert-bg {
- background-color: #f3e9e8;
-}
-.alert-info.alert-bg details>summary {
- color: #245269;
- font-weight: 700; 
-}
-.alert-success.alert-bg details>summary {
- color: #2b542c;
- font-weight: 700; 
-}
-.alert-warning.alert-bg details>summary {
- color: #66512c;
- font-weight: 700; 
-}
-.alert-danger.alert-bg details>summary {
- color: #843534;
- font-weight: 700;
-}</code></pre>
-							</details>
-						</div>
+						<section data-ajax-replace="./demos/contextual-alerts/beta/success-code.html"></section>
 					</div>
 					</div>
 					<div class="code-variant wet4-variant hidden">
