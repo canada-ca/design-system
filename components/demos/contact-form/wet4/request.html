@@ -1,0 +1,55 @@
+<!DOCTYPE html><!--[if lt IE 9]>-->
+<html class="no-js" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Contact form – Request form example - Canada.ca Design System</title>
+    <link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
+     <link rel="stylesheet" href="../../../../css/custom.css">
+
+    <!--[if lt IE 9]>
+      <script src="/javascripts/head-ie8-a371085ca251931cc9b5360c7da328f6.js"></script>
+    <![endif]-->
+    <!-- <script src="./scaling-sample/javascripts/vendor/modernizr.js"></script> JM: flex-box stuff, not entirely sure the benefit yet -->
+
+  </head>
+  <body>
+    <script>document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
+    <!-- Disable browser validation for any examples that include form elements -->
+    <form action="/form-handler" method="post" novalidate class="mrgn-rght-lg mrgn-lft-lg mrgn-tp-lg mrgn-bttm-lg">
+        
+        <div class="wb-frmvld wb-fdbck nojs-hide">
+            <form action="#" method="get" id="fdbck-frm">
+                <fieldset>
+                    <legend>Please provide information that we could use to contact you</legend>
+                    <div class="form-group">
+                        <label for="fbnm"><span class="field-name">Name</span></label>
+                        <input class="form-control" type="text" id="fbnm" name="fbnm" size="45" maxlength="45" pattern=".{2,}" data-rule-minlength="2">
+                    </div>
+                    <div class="form-group">
+                        <label for="fbeml" class="required"><span class="field-name">E-mail address</span> <strong class="required">(required)</strong></label>
+                        <input class="form-control" type="email" id="fbeml" name="fbeml" size="45" maxlength="60" required="required">
+                    </div>
+                   <div class="form-group">
+                        <label for="fbhphn"><span class="field-name">Home phone number</span> including area code (for example, 999-999-9999)</label>
+                        <input class="form-control" type="tel" id="fbhphn" name="fbhphn" size="12" maxlength="12" data-rule-phoneus="true">
+                    </div>
+                    <div class="form-group">
+                        <label for="fbwphn"><span class="field-name">Work phone number</span> including area code (for example, 999-999-9999)</label>
+                        <input class="form-control" type="tel" id="fbwphn" name="fbwphn" size="12" maxlength="12" data-rule-phoneus="true">
+                    </div>
+                    <div class="form-group">
+                        <label for="fbwphnxt"><span class="field-name">Work phone number extension</span></label>
+                        <input class="form-control" type="text" id="fbwphnxt" name="fbwphnxt" size="8" maxlength="8">
+                    </div>
+                </fieldset>
+                <input type="submit" name="fbsbmt" id="fbsbmt" value="Contact me" class="btn btn-primary">
+            </form>
+        </div>
+
+    </form>
+    <!--  <script src="./scaling-sample/javascripts/vendor/iframeResizer.contentWindow.js"></script>
+    JM: supposed to force a frame to resize - but not seeing any benefit on initial tinkering -->
+  </body>
+</html>

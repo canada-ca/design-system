@@ -1,0 +1,153 @@
+<!DOCTYPE html><!--[if lt IE 9]>-->
+<html class="no-js" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Contact form – Feedback form example - Canada.ca Design System</title>
+    <link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
+    <link rel="stylesheet" href="../../../../css/custom.css">
+
+    <!--[if lt IE 9]>
+      <script src="/javascripts/head-ie8-a371085ca251931cc9b5360c7da328f6.js"></script>
+    <![endif]-->
+    <!-- <script src="./scaling-sample/javascripts/vendor/modernizr.js"></script> JM: flex-box stuff, not entirely sure the benefit yet -->
+
+  </head>
+  <body>
+    <script>document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
+    <!-- Disable browser validation for any examples that include form elements -->
+    <form action="/form-handler" method="post" novalidate class="mrgn-rght-lg mrgn-lft-lg mrgn-tp-lg mrgn-bttm-lg">
+        
+        <div class="wb-frmvld wb-fdbck nojs-hide">
+            <form action="#" method="get" id="fdbck-frm">
+                <input type="hidden" name="language" value="en">
+                <div id="type">
+                    <div class="form-group">
+                        <label for="fbrsn" class="required"><span class="field-name">Reason for contacting us</span> <strong class="required">(required)</strong></label>
+                        <select class="form-control" name="fbrsn" id="fbrsn" required="required">
+                            <option value="">Select a reason</option>
+                            <option value="web">Critical problem with the website</option>
+                            <option value="improvement">Suggested improvement for the website</option>
+                            <option value="subject1">Question/comment about subject 1</option>
+                            <option value="subject2">Question/comment about subject 2</option>
+                            <option value="subject3">Question/comment about subject 3</option>
+                            <option value="other">Other</option>
+                        </select>
+                    </div>
+                   <div class="form-group">
+                        <label for="fbsbj"><span class="field-name">Subject</span></label>
+                        <input class="form-control" type="text" id="fbsbj" name="fbsbj" size="45" maxlength="60">
+                    </div>
+                    <div class="form-group">
+                        <label for="fbmsg" class="required"><span class="field-name">Message</span> <strong class="required">(required)</strong></label>
+                        <textarea class="form-control" id="fbmsg" name="fbmsg" rows="5" cols="45" required="required"></textarea>
+                    </div>
+                </div>
+                <section id="fbweb">
+                    <h2>Website issues</h2>
+                    <div class="form-group">
+                        <label for="fbpg"><span class="field-name">What page address (URL) or page description?</span></label>
+                        <input class="form-control" type="text" id="fbpg" name="fbpg" size="80" maxlength="400">
+                    </div>
+                    <div class="form-group">
+                        <label for="fbprb">What were you trying to do when you encountered the problem?</label>
+                        <textarea class="form-control" id="fbprb" name="fbprb" rows="5" cols="45"></textarea>
+                    </div>
+                    <fieldset>
+                        <legend>What were the problems?</legend>
+                        <div class="checkbox">
+                            <label for="fbq1"><input class="problems" type="checkbox" name="problems[]" id="fbq1" value="small font that can't be adjusted">small font that can't be adjusted</label>
+                        </div>
+                        <div class="checkbox">
+                            <label for="fbq2"><input class="problems" type="checkbox" name="problems[]" id="fbq2" value="poor colour contrast">poor colour contrast</label>
+                        </div>
+                        <div class="checkbox">
+                            <label for="fbq3"><input class="problems" type="checkbox" name="problems[]" id="fbq3" value="unclear information, typos or poor grammar">unclear information, typos or poor grammar</label>
+                        </div>
+                        <div class="checkbox">
+                            <label for="fbq4"><input class="problems" type="checkbox" name="problems[]" id="fbq4" value="acronym or jargon not explained">acronym or jargon not explained</label>
+                        </div>
+                        <div class="checkbox">
+                            <label for="fbq5"><input class="problems" type="checkbox" name="problems[]" id="fbq5" value="confusing search results">confusing search results</label>
+                        </div>
+                        <div class="checkbox">
+                            <label for="fbq6"><input class="problems" type="checkbox" name="problems[]" id="fbq6" value="poor keyboard navigation">poor keyboard navigation</label>
+                        </div>
+                        <div class="checkbox">
+                            <label for="fbq7"><input class="problems" type="checkbox" name="problems[]" id="fbq7" value="some elements are too small to click on">some elements are too small to click on</label>
+                        </div>
+                        <div class="checkbox">
+                            <label for="fbq8"><input class="problems" type="checkbox" name="problems[]" id="fbq8" value="images with no text alternative provided">images with no text alternative provided</label>
+                        </div>
+                        <div class="checkbox">
+                            <label for="fbq9"><input class="problems" type="checkbox" name="problems[]" id="fbq9" value="multimedia without captions or text equivalent">multimedia without captions or text equivalent</label>
+                        </div>
+                        <div class="checkbox">
+                            <label for="fbq10"><input class="problems" type="checkbox" name="problems[]" id="fbq10" value="moving or flashing object that can’t be controlled">moving or flashing object that can’t be controlled</label>
+                        </div>
+                        <div class="checkbox">
+                            <label for="fbq11"><input class="problems" type="checkbox" name="problems[]" id="fbq11" value="incomplete or non-existent page (for example, “Page not found” error)">incomplete or non-existent page (for example, “Page not found” error)</label>
+                        </div>
+                        <div class="checkbox">
+                            <label for="fbq12"><input class="problems" type="checkbox" name="problems[]" id="fbq12" value="error notification is confusing or no error notification">error notification is confusing or no error notification</label>
+                        </div>
+                        <div class="form-group">
+                            <label for="fbop">Other problem</label>
+                            <input class="form-control problems" type="text" id="fbop" name="fbop" size="45" maxlength="60">
+                        </div>
+                    </fieldset>
+                    <div class="form-group">
+                        <label for="fbaxs">How were you accessing the Web site today?</label>
+                        <select class="form-control" name="fbaxs" id="fbaxs">
+                            <option value="desktop">Desktop computer</option>
+                            <option value="laptop">Laptop</option>
+                            <option value="mobile">Mobile device</option>
+                        </select>
+                    </div>
+                    <section id="fbcomp">
+                        <h3>Desktop &amp; laptop information</h3>
+                        <fieldset>
+                            <legend>Please include the version and other clarifying details</legend>
+                            <div class="form-group">
+                                <label for="fbos">Operating system</label>
+                                <input class="form-control" type="text" id="fbos" name="fbos" size="20" maxlength="100">
+                            </div>
+                            <div class="form-group">
+                                <label for="fbdbrwsr">Browser</label>
+                                <input class="form-control" type="text" id="fbdbrwsr" name="fbdbrwsr" size="20" maxlength="100">
+                            </div>
+                            <div class="form-group">
+                                <label for="fbdaad">Adaptive or assistive device</label>
+                                <input class="form-control" type="text" id="fbdaad" name="fbdaad" size="20" maxlength="100">
+                            </div>
+                        </fieldset>
+                    </section>
+                    <section id="fbmob">
+                        <h3>Mobile Information</h3>
+                        <fieldset>
+                            <legend>Please include the version and other clarifying details</legend>
+                            <div class="form-group">
+                                <label for="fbsphn">Smartphone type</label>
+                                <input class="form-control" type="text" id="fbsphn" name="fbsphn" size="20" maxlength="100">
+                            </div>
+                            <div class="form-group">
+                                <label for="fbmbrwsr">Browser</label>
+                                <input class="form-control" type="text" id="fbmbrwsr" name="fbmbrwsr" size="20" maxlength="100">
+                            </div>
+                            <div class="form-group">
+                                <label for="fbmaad">Adaptive or assistive device</label>
+                                <input class="form-control" type="text" id="fbmaad" name="fbmaad" size="20" maxlength="100">
+                            </div>
+                        </fieldset>
+                    </section>
+                </section>
+                <input type="submit" name="fbsbmt" id="fbsbmt" value="Submit feedback" class="btn btn-primary">
+            </form>
+        </div>
+
+    </form>
+    <!--  <script src="./scaling-sample/javascripts/vendor/iframeResizer.contentWindow.js"></script>
+    JM: supposed to force a frame to resize - but not seeing any benefit on initial tinkering -->
+  </body>
+</html>
