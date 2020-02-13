@@ -35,7 +35,7 @@
 				"url": "http://www.canada.ca/"
 			}
 			},
-			"description": "Contact forms allow people to send a message to an administrator of a website."
+			"description": "Contact forms allow people to send a message to an owner of a website."
 		}
 		</script>
 		<!-- Global site tag (gtag.js) - Google Analytics -->
@@ -134,16 +134,21 @@
 		<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked" role="text"><span>Contact form</span>: <span>Design guidelines</span></span></h1>
 		<div class="row profile">
 			<div class="col-md-9">
-				<p class="pagetag">Contact forms allow people to send a message to an administrator of a website.</p>
-			</div>
-			<div class="col-md-3">
+				<p class="pagetag">Contact forms allow people to send a message to an owner of a website.</p>
+            </div>
+            <div class="col-md-3">
 				<div class="small">
 					<ul class="list-unstyled">
                         <li class="mrgn-rght-lg"><strong>Version:</strong> 1.0</li>
                         <li class="mrgn-rght-lg"><strong>Updated:</strong> Feb 13, 2020</li>
 					</ul>
 				</div>
-			</div>
+            </div>
+            <div class="col-md-5">
+                <div class="pattern-demo mrgn-bttm-lg">
+                    <img class="img-responsive" src="../images/contact-form/feedback-form-thumbnail.png" alt="Feedback form fields with critical problem with the website selected for the reason for contact us.">
+                </div>
+            </div>
 			<div class="col-md-12">
 				<div class="btn-group mrgn-bttm-lg">
 					<a class="btn btn-default active"><span class="fas fa-pen-square"></span> <strong>Design guidelines</strong></a>
@@ -153,192 +158,77 @@
 			</div>
 		</div>
 		<section>
-			<h2>On this page</h2>
-			<ul>
-				<li><a href="#variations">Design variants</a></li>
-                <li><a href="#usage">Usage</a></li>
-                <li><a href="#spec">Design specifications</a></li>
-				<li><a href="#discuss">Discussion</a></li>
-			</ul>
-		</section>
-		<section>
 			<h2 id="variations">Design variants</h2>
 			<div class="wb-eqht">
 				<div class="row">
-					<div class="col-md-6">
-					<div class="pattern-demo eqht-trgt col-md-12 pattern-demo-design-variant">
-						<div class="experimental">
-							<section class="alert alert-danger">
-								<h3>Alert heading</h3>
-								<p>Alert description.</p>
-							</section>
-						</div>
-						<div class="pstn-tp-xs pstn-rght-xs mrgn-tp-sm mrgn-rght-sm">
-							<a href="./contextual-alerts-demo.html?dv=danger#demo" class="btn btn-default btn-sm"><span class="fas fa-external-link-alt"></span> Get code</a>
-						</div>
-					</div>
-					<h3 class="h4">1. Danger</h3>
-					<p>Use the danger alert to draw attention to a situation that could place the user in danger, such as a do not travel warning. You can also use it to alert the user of a technical issue that could cause them to be unable to complete their task, such as an invalid submission of data in a form.</p>
-					</div>
-					<div class="col-md-6">
-					<div class="pattern-demo eqht-trgt col-md-12 pattern-demo-design-variant">
-						<div class="experimental">
-							<section class="alert alert-warning">
-								<h3>Alert heading</h3>
-								<p>Alert description.</p>
-							</section>
-						</div>
-						<div class="pstn-tp-xs pstn-rght-xs mrgn-tp-sm mrgn-rght-sm">
-							<a href="./contextual-alerts-demo.html?dv=warning#demo" class="btn btn-default btn-sm "><span class="fas fa-external-link-alt"></span> Get code</a>
-						</div>
-					</div>
-					<h3 class="h4">2. Warning</h3>
-					<p>Use the warning alert to draw attention to a possible consequence of an action or inaction, such as legal penalty that could apply.</p>
-					</div>
+					<div class="col-md-12">
+					    <!-- <div class="pattern-demo eqht-trgt col-md-12 pattern-demo-design-variant">
+                            
+                            <div class="pstn-tp-xs pstn-rght-xs mrgn-tp-sm mrgn-rght-sm">
+                                <a href="./contact-form-demo.html?dv=feedback#demo" class="btn btn-default btn-sm"><span class="fas fa-external-link-alt"></span> Get code</a>
+                            </div>
+                        </div> -->
+                        <h3 class="h4">1. Feedback form</h3>
+                        <p>Feedback forms lets visitors to send feedback to the website owner, usually to report a problem they experienced while trying to complete their task. They don't provide support for sending a response.</p>
+                        <p><a href="./contact-form-demo.html?dv=feedback#demo" class="btn btn-default btn-sm "><span class="fas fa-external-link-alt"></span> See the demo and code</a></p>
+                    </div>
+                    <div class="col-md-12">
+                        <!-- <div class="pattern-demo eqht-trgt col-md-12 pattern-demo-design-variant">
+                            
+                            <div class="pstn-tp-xs pstn-rght-xs mrgn-tp-sm mrgn-rght-sm">
+                                <a href="./contact-form-demo.html?dv=request#demo" class="btn btn-default btn-sm "><span class="fas fa-external-link-alt"></span> Get code</a>
+                            </div>
+                        </div> -->
+                        <h3 class="h4">2. Request form</h3>
+                        <p>Request forms let visitors request a response from the owner of the site by collecting contact details.</p>
+                        <p><a href="./contact-form-demo.html?dv=request#demo" class="btn btn-default btn-sm "><span class="fas fa-external-link-alt"></span> See the demo and code</a></p>
+                    </div>
 				</div>
 				<div class="row">
-					<div class="col-md-6">
-					<div class="pattern-demo eqht-trgt col-md-12 pattern-demo-design-variant">
-						<div class="experimental">
-							<section class="alert alert-info">
-								<h3>Alert heading</h3>
-								<p>Alert description.</p>
-							</section>
-						</div>
-						<div class="pstn-tp-xs pstn-rght-xs mrgn-tp-sm mrgn-rght-sm">
-							<a href="./contextual-alerts-demo.html?dv=info#demo" class="btn btn-default btn-sm "><span class="fas fa-external-link-alt"></span> Get code</a>
-						</div>
-					</div>
-					<h3 class="h4">3. Info</h3>
-					<p>Use the info alert to draw attention to a clarification of surrounding content or helpful advice, such as the number of weeks it will take to receive a refund when an application is sent by mail vs by phone.</p>
-					</div>
-					<div class="col-md-6">
-					<div class="pattern-demo eqht-trgt col-md-12 pattern-demo-design-variant">
-						<div class="experimental">
-							<section class="alert alert-success">
-								<h3>Alert heading</h3>
-								<p>Alert description.</p>
-							</section>
-						</div>
-						<div class="pstn-tp-xs pstn-rght-xs mrgn-tp-sm mrgn-rght-sm">
-							<a href="./contextual-alerts-demo.html?dv=success#demo" class="btn btn-default btn-sm "><span class="fas fa-external-link-alt"></span> Get code</a>
-						</div>
-					</div>
-					<h3 class="h4">4. Success</h3>
-					<p>Use the success alert to draw attention to a successful action, such as to confirm a submission or the completion of a task.</p>
+					<div class="col-md-12">
+                        <!-- <div class="pattern-demo eqht-trgt col-md-12 pattern-demo-design-variant">
+                            
+                            <div class="pstn-tp-xs pstn-rght-xs mrgn-tp-sm mrgn-rght-sm">
+                                <a href="./contact-form-demo.html?dv=hybrid#demo" class="btn btn-default btn-sm "><span class="fas fa-external-link-alt"></span> Get code</a>
+                            </div>
+                        </div> -->
+                        <h3 class="h4">3. Hybrid form</h3>
+                        <p>The hybrid variant lets visitors give feedback to the owner of the site, with the option of requesting a response.</p>
+                        <p><a href="./contact-form-demo.html?dv=hybrid#demo" class="btn btn-default btn-sm "><span class="fas fa-external-link-alt"></span> See the demo and code</a></p>
 					</div>
 				</div>
 			</div>
 		</section>
 		<section>
 			<h2 id="usage">Usage</h2>
-			<p class="h3">Patterns for contextual alerts</p>
-			<ul class="">
-				<li><a >Notifications with alerts, overlays and dialogs</a></li>
-				<li><a >Banners</a></li>
-			</ul>
-			<!--example image-->
-			<!--type of usage: , avoid-->
-			<div class="row">
-				<div class="col-md-4">
-					<img src="" class="img-responsive pattern-demo" alt="">
-					<div class="do-guideline">
-					<p class="h4">Do</p>
-					<p>Place an alert above the page heading if it applies to more than one page.</p>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<img src="" class="img-responsive pattern-demo" alt="">
-					<div class="do-guideline">
-					<p class="h4">Do</p>
-					<p>Place an alert underneath a page heading if it applies to the whole page.</p>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<img src="" class="img-responsive pattern-demo" alt="">
-					<div class="do-guideline">
-					<p class="h4">Do</p>
-					<p>Place an alert within a section of a page where it is relevant.</p>
-					</div>
-				</div>
-			</div>
 			<div class="row">
 				<div class="col-md-8">
-					<img src="" class="img-responsive pattern-demo" alt="">
+					<!-- <img src="" class="img-responsive pattern-demo" alt=""> -->
 					<div class="do-guideline">
-					<p class="h4">Do</p>
-					<p>If an alert advises of an issue or risk, it must provide a next step or suggested course of action to pursue.</p>
+                        <p class="h4">Do</p>
+                        <p>Provide links to other contact channels that may be more convenient than the online form.</p>
+                    </div>
+                    <div class="do-guideline">
+                        <p class="h4">Do</p>
+                        <p>When applicable, include a statement on the collection of personal information, after the form, either as a link to a separate page or in an expand-collapse.</p>
+                    </div>
+                    <div class="dont-guideline">
+                        <p class="h4">Don't</p>
+                        <p>Don't break the form fields across multiple columns. Keep in mind that it's easy for people using screen magnifiers to miss form fields that don't align to the left.</p>
+                    </div>
+                    <div class="do-guideline">
+                        <p class="h4">Do</p>
+                        <p>Provide a confirmation message upon successful submission of the form, either by bringing the user to a new page or replacing the form content with the message.</p>
 					</div>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-4">
-					<img src="" class="img-responsive pattern-demo" alt="">
-					<div class="dont-guideline">
-					<p class="h4">Don't</p>
-					<p>Don't use an alert for content that will only be relevant to a small percentage of visitors to the page.</p>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<img src="" class="img-responsive pattern-demo" alt="">
-					<div class="do-guideline">
-					<p class="h4">Do</p>
-					<p>Detect a user's situation to make an alert appear only to those it affects.</p>
-					</div>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-4">
-					<img src="" class="img-responsive pattern-demo" alt="">
-					<div class="dont-guideline">
-					<p class="h4">Don't</p>
-					<p>Don't shout (use caps) or use italics to call attention.</p>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<img src="" class="img-responsive pattern-demo" alt="">
-					<div class="dont-guideline">
-					<p class="h4">Don't</p>
-					<p>Alert messages should be polite and use plain language (~6-8 grade reading level).</p>
-					</div>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-4">
-					<img src="" class="img-responsive pattern-demo" alt="">
-					<div class="dont-guideline">
-					<p class="h4">Don't</p>
-					<p>Don't use an alert for form validation. Use for validation instead.</p>
-					<p>Consider labels or pills for styling of text with emphasis colours.</p>
-					</div>
-				</div>
-			</div>
-			<!--2. Don't use alerts in incorrect situations-->
-			<!--3. Use of labels and pills-->
-			<!--5. Use of inline validation in forms-->
-			<!--6. Writing style (make sure what to do/next step is clear. reading level? tone? heading is an answer.)-->
-			<!--7. Positioning on the page-->
-			<!--8. Dismissing alerts?-->
-			<p>Do not use contextual alerts:</p>
-			<ul>
-				<li>to provide information about a normal step in a process or task</li>
-				<li>to simply add emphasis to content</li>
-				<li>in cases where a warning is neither high risk nor frequently experienced</li>
-				<li>
-					to create labels or pills. For these components, see:
-					<ul>
-					<li><a href="https://wet-boew.github.io/wet-boew-styleguide/design/labels-en">label pattern</a></li>
-					<li><a href="https://wet-boew.github.io/wet-boew-styleguide/design/pills-en">pill pattern</a></li>
-					</ul>
-				</li>
-			</ul>
+                </div>
+            </div>
         </section>
         <section>
 			<h2 id="specs">Design specifications</h2>
 			<div class="row">
 				<div class="col-md-6">
 					<div class="pattern-demo mrgn-bttm-lg">
-					<img class="img-responsive" src="../images/alert-spec-en.png" alt="Alert banner with numbering 1 on the icon in the border, 2 on the border, 3 on the heading, and 4 on the description.">
+					    <img class="img-responsive" src="../images/contact-form/feedback-form-spec.png" alt="Feedback form fields with critical problem with the website selected for the reason for contact us.">
 					</div>
 				</div>
 				<div class="col-md-6">
