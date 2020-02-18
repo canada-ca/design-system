@@ -1,0 +1,167 @@
+/* convert to scss later */
+.experimental .components .panel-default .panel-heading {
+    border-top:1px solid #ccc;
+}
+
+.experimental .components header {
+    border-top-left-radius:0px;
+    border-top-right-radius:0px;
+}
+
+.experimental .panel-body {
+    padding-top:5px;
+    padding-bottom:5px;
+}
+
+.experimental .panel-title {
+    padding-top:3px;
+}
+
+.experimental .panel-default .panel-heading {
+    background-color:white;
+    border-bottom:none;
+}
+
+.experimental .category {
+    height:2em;
+    width:2em;
+    z-index:1;
+}
+
+.experimental .panel-title  {
+    width:78%;
+}
+
+.experimental .styles .category {
+    background-color:#991520;
+}
+
+.experimental .d-patterns .category {
+    background-color:#637A06;
+}
+
+.experimental .page-layouts .category {
+    background-color:#9E6C00;
+}
+
+.experimental .components .category {
+    background-color:#3A2B5F;
+}
+
+.experimental .behaviours .category {
+    background-color:#1f70db;
+}
+
+.experimental .offset-right {
+    right:.35em;
+}
+
+.experimental .fas {
+    color:white;
+    text-align:center;
+    display:inline-block;
+    width:100%;
+    padding-top:10px;
+}
+
+
+.experimental .tab.active .tab-box a  {
+    border-bottom:4px solid #26374a;
+    padding-bottom:3px;
+    font-weight:600;
+}
+
+.experimental .tab a {
+    font-size:.81em;
+}
+
+.experimental .components .img {
+/* write autocrop */
+}
+
+.experimental .tabs {
+    height:45px;
+    padding:0 0 0 0;
+    overflow:visible;
+}
+
+.experimental .tab {
+    height:45px;
+    float:left;
+    margin:0 -21px 0 0;
+    flex: 0 0 auto; 
+}
+
+.experimental .tab:first-child {
+    margin-left:-10px;
+}
+
+.experimental .tab-box {
+    height:46px;
+    background-color: #fff;
+    margin:0 10px 0;
+    padding:0 1em;
+}
+
+.experimental .tab.active {
+    z-index:40;
+    position:relative;
+    padding-bottom:2.3em;
+}
+
+
+.experimental.scroll ul {
+    margin-bottom:0;
+}
+
+.experimental .content {
+    z-index:1;
+    padding:1em;
+    border:1px solid #ccc;
+    position:relative;
+}
+
+.experimental .content p {
+	font-size:17px;
+    line-height:1.5em;
+}
+
+.experimental .flex {
+    display:flex;
+    flex-wrap:nowrap;
+}
+
+.experimental .flex::-webkit-scrollbar {
+    display:none; 
+}
+
+.experimental .tab .tab-box{
+    background-color: #fff;
+    border:1px solid #ccc;
+    border-bottom: 1px solid #fff;
+}
+
+@media only screen and (min-width: 1024px) {
+    .experimental .tab.active .tab-box{
+        background-color: #fff;
+        border:1px solid #ccc;
+        border-bottom: 1px solid #fff;
+    }
+
+    .experimental .tab {
+        margin:0 -15px 0 0;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+  .experimental .flex {
+    overflow-y:hidden;   /* draws a line in desktop view under selection... gonna need a hand, for now writing mobile variant */
+    overflow-x:scroll;
+  }
+}
+
+
+/* @media {
+    .experimental .flex {
+    }
+} */
