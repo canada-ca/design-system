@@ -149,122 +149,65 @@
                 </div>
             </div>
         </div>
-        <div class="row">
-            <section class="col-md-6">
-                <h2>On this page</h2>
-                <ul>
-                    <li><a href="#spec">Design specifications</a></li>
-                    <li><a href="#variations">Design variants</a></li>
-                    <li><a href="#patterns">Related patterns</a></li>
-                    <li><a href="#usage">Usage</a></li>
-                    <li><a href="#discuss">Discussion</a></li>
-                </ul>
-            </section>
-            <section class="col-md-6">
-                <h2>Available in the design kit</h2>
-                <ul class="list-unstyled lst-spcd">
-                    <li><a class="btn btn-default"><span class="fas fa-arrow-circle-down"></span> Photoshop</a></li>
-                    <li class=""><a class="btn btn-default"><span class="fas fa-arrow-circle-down"></span> Axure XP</a></li>
-                </ul>
-            </section>
-        </div>
-        
         <section>
-            <h2 id="specs">Design specifications</h2>
-            <div class="row">
-                <div class="col-md-6">
-                    <div class="pattern-demo mrgn-bttm-lg">
-                        <div class="mrgn-lft-md">
-                            <h3>Base (secondary actions)</h3>
-                            <button class="btn btn-default">Default</button>
-                            <button class="btn btn-default active">Active</button>
-                            <button class="btn btn-default disabled">Disabled</button>
-                            <h3>Call to action</h3>
-                            <button class="btn btn-call-to-action">Default</button>
-                            <button class="btn btn-call-to-action active">Active</button>
-                            <button class="btn btn-call-to-action disabled">Disabled</button>
-                            <h3>Accent</h3>
-                            <button class="btn btn-primary">Default</button>
-                            <button class="btn btn-primary active">Active</button>
-                            <button class="btn btn-primary disabled">Disabled</button>
-                            <h3>Text button</h3>
-                            <button class="btn btn-link">Default</button>
-                            <button class="btn btn-link active">Active</button>
-                            <button class="btn btn-link disabled">Disabled</button>
+            <h2 id="variations">Design variants</h2>
+			<div class="wb-eqht">
+				<div class="row">
+					<div class="col-md-4">
+                        <div class="pattern-demo eqht-trgt col-md-12 pattern-demo-design-variant">
+                            <button class="btn btn-primary">Action</button>
+                            <div class="pstn-tp-xs pstn-rght-xs mrgn-tp-sm mrgn-rght-sm">
+                                <a href="./buttons-demo.html?dv=primary#demo" class="btn btn-default btn-sm"><span class="fas fa-external-link-alt"></span> Get code</a>
+                            </div>
                         </div>
+                        <h3 class="h4">1. Primary button</h3>
+                        <p>Use primary buttons for actions someone is likely to take on that page, such as the next or submit buttons in a form.</p>
+					</div>
+					<div class="col-md-4">
+                        <div class="pattern-demo eqht-trgt col-md-12 pattern-demo-design-variant">
+                            <button class="btn btn-default">Action</button>
+                            <div class="pstn-tp-xs pstn-rght-xs mrgn-tp-sm mrgn-rght-sm">
+                                <a href="./buttons-demo.html?dv=secondary#demo" class="btn btn-default btn-sm "><span class="fas fa-external-link-alt"></span> Get code</a>
+                            </div>
+                        </div>
+                        <h3 class="h4">2. Secondary button</h3>
+                        <p>Use secondary buttons for alternative, less important or less likely to be used options, such as the 'previous' button in a form.</p>
+					</div>
+					<div class="col-md-4">
+                        <div class="pattern-demo eqht-trgt col-md-12 pattern-demo-design-variant">
+                            <button class="btn btn-link">Action</button>
+                            <div class="pstn-tp-xs pstn-rght-xs mrgn-tp-sm mrgn-rght-sm">
+                                <a href="./buttons-demo.html?dv=link#demo" class="btn btn-default btn-sm "><span class="fas fa-external-link-alt"></span> Get code</a>
+                            </div>
+                        </div>
+                        <h3 class="h4">3. Link button</h3>
+                        <p>Use link buttons for infrequently used options, such as for restarting a wizard or calculator.</p>
                     </div>
                 </div>
-                <div class="col-md-6">
-                    <ul class="list-unstyled">
-                        <li>
-                            <details>
-                                <summary>1. Base (secondary actions)</summary>
-                                <h3>Sizing</h3>
-                                <ul>
-                                    <li>Min height: 36px</li>
-                                    <li>Min width: 36px</li>
-                                </ul>
-                                <h3>Borders</h3>
-                                <ul>
-                                    <li>Border radius: 4px</li>
-                                    <li>Border style: outset</li>
-                                    <li>Border width: 1px</li>
-                                    <li>Border colour: #DCDEE1</li>
-                                </ul>
-                                <h3>Fill</h3>
-                                <ul>
-                                    <li>Background colour: #EAEBED</li>
-                                </ul>
-                                <h3>Padding</h3>
-                                <ul>
-                                    <li>Vertical padding: 10px</li>
-                                    <li>Horizontal padding: 14px</li>
-                                </ul>
-                                <h3>Text alignment</h3>
-                                <ul>
-                                    <li>Line height: 1.4375</li>
-                                    <li>Horizontal alignment: center</li>
-                                    <li>Vertical alignment: middle</li>
-                                </ul>
-                                <h3>Font</h3>
-                                <ul>
-                                    <li>Font family: Lato, sans-serif</li>
-                                    <li>Font size: 16px</li>
-                                    <li>Text colour: #335075</li>
-                                </ul>
-                                <h3>Hover / Active</h3>
-                                <p>Default state, except:</p>
-                                <ul>
-                                    <li>Background colour: RGB(207, 209, 213)</li>
-                                    <li>Border colour: RGB(187, 191, 197)</li>
-                                </ul>
-                                <h3>Focus</h3>
-                                <p>Default state, except:</p>
-                                <ul>
-                                    <li>Background colour: RGB(207, 209, 213)</li>
-                                    <li>Border colour: RGB(152, 157, 166)</li>
-                                </ul>
-                            </details>
-                        </li>
-                        <li>
-                            <details>
-                                <summary>2. Call to action</summary>
-                            </details>
-                        </li>
-                        <li>
-                            <details>
-                                <summary>3. Accent</summary>
-                            </details>
-                        </li>
-                        <li>
-                            <details>
-                                <summary>4. Text button</summary>
-                            </details>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </section>
+				<div class="row">
+					<div class="col-md-4">
+                        <div class="pattern-demo eqht-trgt col-md-12 pattern-demo-design-variant">
+                            <button class="btn btn-call-to-action">Action</button>
+                            <div class="pstn-tp-xs pstn-rght-xs mrgn-tp-sm mrgn-rght-sm">
+                                <a href="./buttons-demo.html?dv=call-to-action#demo" class="btn btn-default btn-sm "><span class="fas fa-external-link-alt"></span> Get code</a>
+                            </div>
+                        </div>
+                        <h3 class="h4">4. Call to action button</h3>
+                        <p>Use call to action buttons to start an application, survey, set of interactive questons or another experience when it is top task on that page.</p>
+					</div>
+					<div class="col-md-4">
+                        <div class="pattern-demo eqht-trgt col-md-12 pattern-demo-design-variant">
+                            <button class="btn btn-danger">Action</button>
+                            <div class="pstn-tp-xs pstn-rght-xs mrgn-tp-sm mrgn-rght-sm">
+                                <a href="./buttons-demo.html?dv=danger#demo" class="btn btn-default btn-sm "><span class="fas fa-external-link-alt"></span> Get code</a>
+                            </div>
+                        </div>
+                        <h3 class="h4">5. Danger button</h3>
+                        <p>Use danger buttons to bring attention to an action that might have consequences, such as deleting a form or leaving an authenticated application.</p>
+					</div>
+				</div>
+			</div>
+		</section>
         <section>
             <h2 id="patterns">Related patterns</h2>
             <p>Radio buttons are used in the following patterns:</p>
@@ -342,6 +285,102 @@
             <div class="do-guideline">
                 <p class="h4">Do</p>
                 <p>((Alternative usage style without images))</p>
+            </div>
+        </section>
+        <section>
+            <h2 id="specs">Design specifications</h2>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="pattern-demo mrgn-bttm-lg">
+                        <div class="mrgn-lft-md">
+                            <h3>Primary</h3>
+                            <button class="btn btn-primary">Default</button>
+                            <button class="btn btn-primary active">Active</button>
+                            <button class="btn btn-primary disabled">Disabled</button>
+                            <h3>Secondary</h3>
+                            <button class="btn btn-default">Default</button>
+                            <button class="btn btn-default active">Active</button>
+                            <button class="btn btn-default disabled">Disabled</button>
+                            <h3>Text button</h3>
+                            <button class="btn btn-link">Default</button>
+                            <button class="btn btn-link active">Active</button>
+                            <button class="btn btn-link disabled">Disabled</button>
+                            <h3>Call to action</h3>
+                            <button class="btn btn-call-to-action">Default</button>
+                            <button class="btn btn-call-to-action active">Active</button>
+                            <button class="btn btn-call-to-action disabled">Disabled</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <ul class="list-unstyled">
+                        <li>
+                            <details>
+                                <summary>1. Base (secondary actions)</summary>
+                                <h3>Sizing</h3>
+                                <ul>
+                                    <li>Min height: 36px</li>
+                                    <li>Min width: 36px</li>
+                                </ul>
+                                <h3>Borders</h3>
+                                <ul>
+                                    <li>Border radius: 4px</li>
+                                    <li>Border style: outset</li>
+                                    <li>Border width: 1px</li>
+                                    <li>Border colour: #DCDEE1</li>
+                                </ul>
+                                <h3>Fill</h3>
+                                <ul>
+                                    <li>Background colour: #EAEBED</li>
+                                </ul>
+                                <h3>Padding</h3>
+                                <ul>
+                                    <li>Vertical padding: 10px</li>
+                                    <li>Horizontal padding: 14px</li>
+                                </ul>
+                                <h3>Text alignment</h3>
+                                <ul>
+                                    <li>Line height: 1.4375</li>
+                                    <li>Horizontal alignment: center</li>
+                                    <li>Vertical alignment: middle</li>
+                                </ul>
+                                <h3>Font</h3>
+                                <ul>
+                                    <li>Font family: Lato, sans-serif</li>
+                                    <li>Font size: 16px</li>
+                                    <li>Text colour: #335075</li>
+                                </ul>
+                                <h3>Hover / Active</h3>
+                                <p>Default state, except:</p>
+                                <ul>
+                                    <li>Background colour: RGB(207, 209, 213)</li>
+                                    <li>Border colour: RGB(187, 191, 197)</li>
+                                </ul>
+                                <h3>Focus</h3>
+                                <p>Default state, except:</p>
+                                <ul>
+                                    <li>Background colour: RGB(207, 209, 213)</li>
+                                    <li>Border colour: RGB(152, 157, 166)</li>
+                                </ul>
+                            </details>
+                        </li>
+                        <li>
+                            <details>
+                                <summary>2. Call to action</summary>
+                            </details>
+                        </li>
+                        <li>
+                            <details>
+                                <summary>3. Accent</summary>
+                            </details>
+                        </li>
+                        <li>
+                            <details>
+                                <summary>4. Text button</summary>
+                            </details>
+                        </li>
+                    </ul>
+                </div>
             </div>
         </section>
         <section>

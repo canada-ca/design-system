@@ -35,13 +35,16 @@ $(document).ready(function(){
     }
 
     //hide all component demos, show the selected one
-    $("#design-variant-menu").change(function(){
+    $("[name='design-variant-menu']").on("change", function(e){
+        console.log(this.id);
         $('.component-demo').addClass("hidden");
         $('.component-code').addClass("hidden");
         $('.layout-submenu').addClass("hidden");
-        $('#'+this.value+'-demo').removeClass("hidden");
-        $('#'+this.value+'-code').removeClass("hidden");
-        $('#'+this.value+'-submenu').removeClass("hidden");
+        $('.variant-usage').addClass("hidden");
+        $('#'+this.id+'-demo').removeClass("hidden");
+        $('#'+this.id+'-code').removeClass("hidden");
+        $('#'+this.id+'-submenu').removeClass("hidden");
+        $('#'+this.id+'-usage').removeClass("hidden");
     });
 
     $(".layout-variant-menu").change(function(){
@@ -58,7 +61,6 @@ $(document).ready(function(){
         $('.'+this.value+'-variant').removeClass("hidden");
         localStorage.setItem("cv", this.value);
     });
-
 
     $('.component-code').on( "wb-contentupdated", function( event, data ){
         $( ".wb-prettify" ).trigger( "wb-init.wb-prettify" );
