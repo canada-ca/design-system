@@ -24,3 +24,23 @@
 .btn-sm-txt {
   font-size:14px!important;
 }
+
+
+.pattern-link {
+  padding: 0 25px;
+  /* height: 50px; */
+}
+
+.pattern-link span {
+  float: left;
+  margin: 3px 10px 0 -10px;
+  height: 30px;
+  width: 30px;
+  background-color: #637A06;
+} 
+
+.pattern-link .white {
+  color: white;
+  text-align: center;
+  padding-top: 7px;
+}
