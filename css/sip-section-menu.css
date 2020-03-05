@@ -2,7 +2,7 @@
 /* CSS Document */
 section.gc-nav h1 {
 	font-size: 1.3em;
-	color: #555;
+	color: #666;
 	border-bottom: none;
 }
 
@@ -21,7 +21,7 @@ section.gc-nav h1 {
 	padding-right: 15px;
 	margin-top: 20px;
 	margin-bottom: -5px;
-	font-weight: 200;
+	font-weight: 500;
 }
 section.gc-nav-section {
 	position: relative;
