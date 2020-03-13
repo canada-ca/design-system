@@ -16,7 +16,9 @@
 		<script type="text/javascript">
 			document.write(wet.builder.refTop({
 			}));
-		</script>
+    </script>
+    
+    <link rel="stylesheet" type="text/css" href="../css/ilp.css" />
 	</head>
 	<body vocab="http://schema.org/" typeof="WebPage">
 		<div id="def-top">
@@ -40,12 +42,26 @@
 			});
 </script>
 
-<main role="main" property="mainContentOfPage" class="container">
+<style>
+.ilp-top-alert {
+  background-color:#F9F4D4;
+}
+.ilp-top-alert .alert {
+  border-left:0px;
+  margin-bottom:0px;
+}
 
-<h1 property="name" id="wb-cont">Alerts</h1>
-<section>
+.ip-cover-img.ilp-alert {
+  margin-top: 0px;
+}
+</style>
 
+<main role="main" property="mainContentOfPage">
 
+<!-- <h1 property="name" id="wb-cont">Alerts</h1> -->
+
+<div class="ilp-top-alert">
+  <div class="container">
 <section class="alert alert-warning">
   <h3>Limited service availability
   </h3>
@@ -54,8 +70,10 @@
   <p><a href="#">Check service status updates </a>
   </p>
 </section>
+  </div>
+</div>
 
-<div class="ip-cover-img">
+<div class="ip-cover-img ilp-alert">
   <div class="container">
     <div class="row">
       <div class="col-md-7">
@@ -342,6 +360,7 @@
   </div>
 </div>
 
+<div class="container">
 <div id="def-preFooter">
 </div>
 <!-- Write closure template -->
@@ -354,7 +373,8 @@
 		showShare: true
 	});
 </script>
-		</main>
+    </main>
+    </div>
 		<div id="def-footer">
 
 		</div>
