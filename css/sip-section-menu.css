@@ -280,3 +280,7 @@ ol.gc-navseq>li>:first-child::before {
     content: counter(step-counter);
 	position: absolute;
 }
+
+gc-navseq>li, ul.gc-navseq-fa>li {
+    ...
+    position: static;
