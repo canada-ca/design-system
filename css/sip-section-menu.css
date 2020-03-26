@@ -275,3 +275,8 @@ section.gc-nav h1 {
 	position: relative;
 }
 
+
+ol.gc-navseq>li>:first-child::before {
+    content: counter(step-counter);
+	position: absolute;
+}
