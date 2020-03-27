@@ -191,7 +191,7 @@ ol.gc-navseq.lst-num > li > :first-child::before {
 }
 /*Hover animation */
 
-ul.gc-navseq > li:not(.active) > a[href]:hover::before {
+ul.gc-navseq > li:not(.active) > a:hover::before {
 	width: 0.83em;
 	height: 0.83em;
 	margin-top: -0.1em;
@@ -199,10 +199,10 @@ ul.gc-navseq > li:not(.active) > a[href]:hover::before {
 	margin-left: -1.775em;
 	line-height: 1.55;
 }
-ul.gc-navseq.noline > li:not(.active) > a[href]:hover::before {
+ul.gc-navseq.noline > li:not(.active) > a:hover::before {
 	margin-top: 0.15em;
 }
-ol.gc-navseq > li:not(.active) > a[href]:hover::before {
+ol.gc-navseq > li:not(.active) > a:hover::before {
 	width: 1.33em;
 	height: 1.33em;
 	margin-top: -0.1em;
@@ -210,13 +210,13 @@ ol.gc-navseq > li:not(.active) > a[href]:hover::before {
 	font-size: 1.2em;
 	line-height: 1.3;
 }
-.gc-navseq-fa > li:not(.active) > a[href]:hover span.fa-li {
+.gc-navseq-fa > li:not(.active) > a:hover span.fa-li {
 	width: 1.55em;
 	height: 1.55em;
 	margin-top: -0.05em;
 	margin-left: -2.45em;
 }
-.gc-navseq-fa > li:not(.active) > a[href]:hover span.fa-li::before {
+.gc-navseq-fa > li:not(.active) > a:hover span.fa-li::before {
 	margin-top: -0.1em;
 }
 
