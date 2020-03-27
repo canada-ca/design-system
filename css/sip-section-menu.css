@@ -46,30 +46,33 @@ section.gc-nav-section + .pagedetails {
 .gc-navseq {
 	padding-left: 0.9em;
 }
-.gc-navseq .small, .gc-navseq small {
+.gc-navseq .small,
+.gc-navseq small {
 	line-height: 0em;
 }
 .gc-navseq * {
 	font-weight: inherit!important;
 	line-height: inherit!important
 }
-.gc-navseq *, .gc-navseq-fa * {
+.gc-navseq *,
+.gc-navseq-fa * {
 	font-size: inherit!important;
 }
 ol.gc-navseq {
 	counter-reset: step-counter;
 }
-ol.gc-navseq>li {
+ol.gc-navseq > li {
 	counter-increment: step-counter;
 }
-.gc-navseq>li, ul.gc-navseq-fa>li {
+.gc-navseq > li,
+ul.gc-navseq-fa > li {
 	padding-bottom: 20px;
 	list-style: none;
 	padding-left: 1.2em;
 	border-left: 5px solid #26374a;
 	position: relative;
 }
-ul.gc-navseq-fa>li .fa-li {
+ul.gc-navseq-fa > li .fa-li {
 	left: 0em;
 	position: relative;
 }
@@ -79,10 +82,11 @@ ul.gc-navseq-fa {
 li .gc-navseq {
 	margin-top: 16px;
 }
-ol.gc-navseq>li>:first-child::before {
+ol.gc-navseq > li > :first-child::before {
 	content: counter(step-counter);
 }
-.gc-navseq>li>:first-child::before, ul.gc-navseq-fa li span.fa-li {
+.gc-navseq > li > :first-child::before,
+ul.gc-navseq-fa li span.fa-li {
 	border-radius: 50%;
 	border: 3px solid #26374a;
 	background-color: #fff;
@@ -95,12 +99,13 @@ ol.gc-navseq>li>:first-child::before {
 	-webkit-transition: all 0.2s; /* For Safari 3.1 to 6.0 */
 	transition: all 0.2s;
 }
-ol.gc-navseq>li>:first-child::before, ul.gc-navseq-fa li span.fa-li {
+ol.gc-navseq > li > :first-child::before,
+ul.gc-navseq-fa li span.fa-li {
 	height: 1.3em;
 	width: 1.3em;
 	margin-left: -2.3em;
 }
-ul.gc-navseq>li>:first-child::before {
+ul.gc-navseq > li > :first-child::before {
 	height: 0.8em;
 	width: 0.8em;
 	margin-left: -2.05em;
@@ -109,71 +114,84 @@ ul.gc-navseq>li>:first-child::before {
 .gc-navseq li a::before {
 	text-decoration: underline;
 }
-ul.gc-navseq.noline>li {
+ul.gc-navseq.noline > li {
 	border-left: 5px solid transparent
 }
-.gc-navseq>li:last-child, .gc-navseq>li.completed:last-child, ul.gc-navseq-fa li:last-child {
+.gc-navseq > li:last-child,
+.gc-navseq > li.completed:last-child,
+ul.gc-navseq-fa li:last-child {
 	border-left: 5px solid transparent;
 	padding-bottom: 0;
 }
-ul.gc-navseq.noline>li>:first-child::before {
+ul.gc-navseq.noline > li > :first-child::before {
 	margin-top: 0.2em
 }
 /*active*/	
-.gc-navseq li.active>:first-child::before, .gc-navseq-fa li.active span.fa-li {
+.gc-navseq li.active > :first-child::before,
+.gc-navseq-fa li.active span.fa-li {
 	background-color: #26374a;
 	color: #fff;
 }
+.gc-navseq li.active a ,
+.gc-navseq-fa li.active a {
+	color: #333;
+	cursor: default;
+	text-decoration: none;
+}
+
 /*completed*/
-.gc-navseq li.completed, .gc-navseq-fa li.completed, .gc-navseq-fa li.completed span.fa-li {
+.gc-navseq li.completed,
+.gc-navseq-fa li.completed,
+.gc-navseq-fa li.completed span.fa-li {
 	border-color: #555;
 }
-.gc-navseq li.completed>:first-child::before {
+.gc-navseq li.completed > :first-child::before {
 	border-color: #555;
 }
 /*sub-steps*/
 
-.gc-navseq li ul, .gc-navseq li ol {
+.gc-navseq li ul,
+.gc-navseq li ol {
 	margin-top: 16px!important;
 }
 ol.gc-navseq ol.gc-navseq {
 	counter-reset: step-counter;
 }
-ol.gc-navseq ol.gc-navseq>li {
+ol.gc-navseq ol.gc-navseq > li {
 	counter-increment: step-counter;
 }
-ol.gc-navseq ol.gc-navseq>li>:first-child::before {
+ol.gc-navseq ol.gc-navseq > li > :first-child::before {
 	content: counter(step-counter, upper-alpha);
 }
 /*sub-sub-steps */	
 ol.gc-navseq ol.gc-navseq ol.gc-navseq {
 	counter-reset: step-counter;
 }
-ol.gc-navseq ol.gc-navseq ol.gc-navseq>li {
+ol.gc-navseq ol.gc-navseq ol.gc-navseq > li {
 	counter-increment: step-counter;
 }
-ol.gc-navseq ol.gc-navseq ol.gc-navseq>li>:first-child::before {
+ol.gc-navseq ol.gc-navseq ol.gc-navseq > li > :first-child::before {
 	content: counter(step-counter, lower-roman);
 }
 /*custom list-type */
-ol.gc-navseq.lst-lwr-rmn>li>:first-child::before {
+ol.gc-navseq.lst-lwr-rmn > li > :first-child::before {
 	content: counter(step-counter, lower-roman)!important;
 }
-ol.gc-navseq.lst-upr-rmn>li>:first-child::before {
+ol.gc-navseq.lst-upr-rmn > li > :first-child::before {
 	content: counter(step-counter, upper-roman)!important;
 }
-ol.gc-navseq.lst-upr-alph>li>:first-child::before {
+ol.gc-navseq.lst-upr-alph > li > :first-child::before {
 	content: counter(step-counter, upper-alpha)!important;
 }
-ol.gc-navseq.lst-lwr-alph>li>:first-child::before {
+ol.gc-navseq.lst-lwr-alph > li > :first-child::before {
 	content: counter(step-counter, lower-alpha)!important;
 }
-ol.gc-navseq.lst-num>li>:first-child::before {
+ol.gc-navseq.lst-num > li > :first-child::before {
 	content: counter(step-counter)!important;
 }
 /*Hover animation */
 
-ul.gc-navseq>li>a[href]:hover::before {
+ul.gc-navseq > li:not(.active) > a[href]:hover::before {
 	width: 0.83em;
 	height: 0.83em;
 	margin-top: -0.1em;
@@ -181,10 +199,10 @@ ul.gc-navseq>li>a[href]:hover::before {
 	margin-left: -1.775em;
 	line-height: 1.55;
 }
-ul.gc-navseq.noline>li>a[href]:hover::before {
+ul.gc-navseq.noline > li:not(.active) > a[href]:hover::before {
 	margin-top: 0.15em;
 }
-ol.gc-navseq>li>a[href]:hover::before {
+ol.gc-navseq > li:not(.active) > a[href]:hover::before {
 	width: 1.33em;
 	height: 1.33em;
 	margin-top: -0.1em;
@@ -192,47 +210,48 @@ ol.gc-navseq>li>a[href]:hover::before {
 	font-size: 1.2em;
 	line-height: 1.3;
 }
-.gc-navseq-fa>li>a[href]:hover span.fa-li {
+.gc-navseq-fa > li:not(.active) > a[href]:hover span.fa-li {
 	width: 1.55em;
 	height: 1.55em;
 	margin-top: -0.05em;
 	margin-left: -2.45em;
 }
-.gc-navseq-fa>li>a[href]:hover span.fa-li::before {
+.gc-navseq-fa > li:not(.active) > a[href]:hover span.fa-li::before {
 	margin-top: -0.1em;
 }
 
 /*Vertical steps in mobile  */
 @media screen and (max-width:991px) {
-section.gc-nav {
-	margin-top: 30px;
-	border-right: 5px solid #26374a;
-	border-top: 5px solid #26374a;
-	border-radius: 0 6px 6px 0;
-}
-section.gc-nav nav>.gc-navseq {
-	padding-top: 15px;
-	margin-top: -18px;
-}
-section.gc-nav nav>.gc-navseq > li:last-child {
-	border-bottom: 5px solid #26374a;
-	border-left: 5px solid #26374a;
-	border-bottom-left-radius: 6px;
-	padding-bottom: 24px;
-}
-section.gc-nav h1 {
-	margin-bottom: -18px;
-	margin-right: 20px;
-	background-color: white;
-	padding: 20px 10px 20px 20px;
-	display: inline-block;
-	margin-left: -20px;
-	margin-top: -40px;
-	float: left;
-}
+	section.gc-nav {
+		margin-top: 30px;
+		border-right: 5px solid #26374a;
+		border-top: 5px solid #26374a;
+		border-radius: 0 6px 6px 0;
+	}
+	section.gc-nav nav > .gc-navseq {
+		padding-top: 15px;
+		margin-top: -18px;
+	}
+	section.gc-nav nav > .gc-navseq > li:last-child {
+		border-bottom: 5px solid #26374a;
+		border-left: 5px solid #26374a;
+		border-bottom-left-radius: 6px;
+		padding-bottom: 24px;
+	}
+	section.gc-nav h1 {
+		background-color: white;
+		float: left;
+		margin-bottom: -18px;
+		margin-left: -20px;
+		margin-right: 20px;
+		margin-top: -40px;
+		padding: 20px 10px 20px 20px;
+	}
 }
 /*nav buttons */
-.gc-navseq-nav-btn:hover, .gc-navseq-nav-btn:focus, .gc-navseq-nav-btn:visited {
+.gc-navseq-nav-btn:hover,
+.gc-navseq-nav-btn:focus,
+.gc-navseq-nav-btn:visited {
 	display: inline-block;
 	color: #fff;
 	text-decoration: none;
@@ -254,38 +273,43 @@ section.gc-nav h1 {
 }
 
 @media all and (min-width:992px) {
-#gc-navseq-nav {
-	display: flex;
-}
+	#gc-navseq-nav {
+		display: flex;
+	}
 }
 
 @media all and (max-width:991px) {
-#gc-navseq-nav {
-	padding-top: 15px;
-	padding-bottom: 10px;
+	#gc-navseq-nav {
+		padding-top: 15px;
+		padding-bottom: 10px;
+	}
 }
-}
+
 #gc-navseq-nav {
 	margin-bottom: 0;
 	list-style: none;
 	padding-left: 0;
 }
-}
+
 .gc-navseq-nav-btn:focus {
 	position: relative;
 }
 
-
-ol.gc-navseq>li>:first-child::before {
+ol.gc-navseq > li > :first-child::before {
     content: counter(step-counter);
 	position: absolute;
 }
 
-ul.gc-navseq>li>:first-child::before {
+ul.gc-navseq > li > :first-child::before {
     content: counter(step-counter);
 	position: absolute;
 }
 
-gc-navseq>li, ul.gc-navseq-fa>li {
-    ...
-    position: static;
+.gc-navseq > li,
+ul.gc-navseq-fa > li {
+	border-left: 5px solid #26374a;
+	list-style: none;
+	padding-bottom: 20px;
+	padding-left: 1.2em;
+	position: static;
+}
