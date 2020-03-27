@@ -147,10 +147,10 @@
 
 <!--/* Hide Nav; Hide Right Rail /*-->
 
-<main role="main" property="mainContentOfPage" class="container">
+<main role="main" property="mainContentOfPage" class="container wb-prettify">
 
 
-<h1 property="name" id="wb-cont" dir="ltr">Canada.ca warnings and service disruptions</h1>
+<h1 property="name" id="wb-cont" dir="ltr">Canada.ca alerts and service disruptions</h1>
 
 
 <div>
@@ -163,134 +163,119 @@
 
 
 
-
-
+<p>These recommendations will help bring consistency to each department's communications on service disruptions during a crisis.</p>
 
 	<section>
 		<h2>On this page</h2>
 		<ul>
-			<li><a href="#1">Proposed approach - contextual alerts</a></li>
-			<li><a href="#2">Alerts and regular in-page content</a></li>
-			<li><a href="#3">Alerts: do’s and don’ts</a></li>
-			<li><a href="#4">Multiple alerts about the same issue/situation</a></li>
-			<li><a href="#5">Code and samples</a></li>
-
+            <li><a href="#alerts">How to use alerts in a crisis</a></li>
+						<li><a href="#examples">Examples and code</a></li>
+            <li><a href="#dep-page">Alerts that repeat across several pages</a></li>
 		</ul>
 	</section>
-
 
 	<section>
-		   <h2 id="1">Proposed approach - contextual alerts</h2>
+        <h2 id="alerts">How to use alerts in a crisis</h2>
 
-		   <p>Use the <a href="https://design.canada.ca/common-design-patterns/contextual-alerts.html">contextual alert pattern</a>:  </p>
+				<p>Alerts are meant to draw attention to changes in regular content in 2 ways:  </p>
+					<ul>
+							<li>a change to the content of the page on which the alert appears: in this case, place the alert next to the updated content</li>
+							<li>a change that has been made elsewhere, such as new information being published: in this case, link to the new information from within the alert</li>
+					</ul></p>
 
-			 <ul>
-				 <li>Apply at impacted points of service delivery, such as service initiation pages, contact pages, etc.</li>
-				 <li>Limit application beyond service delivery points to avoid “alert fatigue”</li>
-			 </ul>
+				<h3>Where to add alerts</h3>
+				<p>Use contextual alerts:  </p>
+        <ul>
+            <li>at impacted points of service or information delivery, such as service initiation pages, contact pages, etc.</li>
+            <li>sparingly beyond service or information delivery points to avoid “alert fatigue” - on theme and topic pages, consider using a new doormat instead</li>
+        </ul>
 
-	 <p>Alert content should: </p>
-
-	 <ul>
-		 <li>explain why service is disrupted or warning is required</li>
-		 <li>describe the impact on the user</li>
-		 <li>be tailored to the page on which it appears</li>
-		 <li>include a single link to where updates are available</li>
-	 </ul>
-
-	</section>
-
-
-<section>
-	   <h2 id="2">Alerts and regular in-page content</h2>
-
-	   <p><strong>Don’t use alerts as regular content</strong> - rather they are meant to draw attention to changes in regular content, in two ways:  </p>
-
-		 <ul>
-			 <li>a change to the content of the page on which the alert appears - in this case place the alert next to the updated content</li>
-			 <li>a change that has been made elsewhere, such as new information being published - in this case, link to the new information from within the alert</li>
-		 </ul>
+				<h3>What to include in alerts</h3>
+        <p>Alert content should: </p>
+        <ul>
+            <li>be short and simple</li>
+            <li>describe the impact on the user</li>
+            <li>be tailored to the page on which it appears</li>
+            <li>use links sparingly - if a link is needed, only include one</li>
+        </ul>
 
 
-</section>
+				<h3>Guidelines</h3>
 
+				<ul>
+						<li>use alerts on a temporary basis and only keep for the duration of the crisis</li>
+					<li>limit the number of alerts on each page and the number of alerts used across pages</li>
+						<li>save alerts for significant situations that impact most users: </li>
+						<ul>
+								<li>on the Canada.ca home page, only use when more than 50% of the population is affected</li>
+								<li>on institutional landing pages, only use when more than 40% of users are impacted</li>
+						</ul>
+					<li>avoid using alerts just for styling regular content (for emphasis or highlighting)</li>
+				</ul>
 
-
-
-<h2 id="3">Alerts: do’s and don’ts</h2>
-
-<h3>Do</h3>
-
-		<ul>
-			<li>use alerts on a temporary basis - retain only for days or weeks</li>
-			<li>place the alert at the point of service/task</li>
-			<li>save alerts for significant situations that impact most users: </li>
-
-			<ul>
-				<li>on the Canada.ca home page, only use when more than 50% of the population is affected</li>
-				<li>on institutional landing pages, only use when more than 40% of users are impacted</li>
-			</ul>
-
-		</ul>
-
-
-
-
-   <h3>Don't</h3>
-
-		<ul>
-			<li>Have too many alerts - limit the number of alerts on each page and the number of alerts used across pages- ideally 1, maximum 2</li>
-			<li>Don't use them to ‘highlight’ permanent content</li>
-
-		</ul>
-
-
-<section>
-<h2 id="4">Multiple alerts about the same issue/situation</h2>
-
-
-<p>When using a number of alerts at different points about the same issue or situation, create a page summarizing current service disruptions across the organization, and link to it from the relevant alerts.
-</p>
-
-<p>Page content should: </p>
-<ul>
-	<li>summarize affected services in plain language</li>
-	<li>explain the impact on the users of affected services</li>
-	<li>be updated as soon as new information arises</li>
-
-</ul>
-
-</section>
-
-
-<h2 id="5">Code and samples</h2>
-
-<p>More information about contextual alerts can be found in the Canada.ca design system. </p>
-
-
-<p>Code:</p>
-<pre class="prettyprint"><code>&lt;section class=&quot;alert alert-warning&quot;&gt;
- &lt;h3&gt;Limited service availability&lt;/h3&gt;
- &lt;p&gt;This service is affected by the outbreak of coronavirus (COVID-19).&lt;/p&gt;
- &lt;a href=&quot;#&quot;&gt;Check service status updates&lt;/a&gt;&lt;/p&gt;
+        <section>
+            <h3>Which alert to use</h3>
+            <dl class="dl-horizontal">
+                <dt>Danger alert (red)</dt>
+                <dd>Use only if the service is cancelled or if there's a risk to health or safety to Canadians in completing an activity.</dd>
+                <dt>Warning alert (yellow)</dt>
+                <dd>Use for delays, closures at certain locations, and other types of service disruptions.</dd>
+                <dt>Info alert (blue)</dt>
+                <dd>Use for the length of time an application method takes, changes in wait times on a phone line, messages that there is no service disruption for a particular service if that is generating inquiries.</dd>
+                <dt>Success alert (green)</dt>
+                <dd>Use when a service disruption is resolved.</dd>
+            </dl>
+        </section>
+        <h2 id="examples">Examples and code</h3>
+        <div class="well">
+            <section class="alert alert-warning">
+                <h3>Limited service availability</h3>
+                <p>This service is affected by the outbreak of coronavirus (COVID-19).</p>
+                <a href="#">Check service status updates</a></p>
+            </section>
+        </div>
+        <details>
+            <summary>HTML to code an alert</summary>
+            <p>Code:</p>
+        <pre class="prettyprint"><code>&lt;section class=&quot;alert alert-warning&quot;&gt;
+    &lt;h3&gt;Limited service availability&lt;/h3&gt;
+    &lt;p&gt;This service is affected by the outbreak of coronavirus (COVID-19).&lt;/p&gt;
+    &lt;a href=&quot;#&quot;&gt;Check service status updates&lt;/a&gt;&lt;/p&gt;
 &lt;/section&gt;</code></pre>
+            <p>Change the "alert-warning" class to "alert-info", "alert-danger" or "alert-success" based on the type of alert needed.</p>
+        </details>
+				<p>Use the <a href="https://design.canada.ca/common-design-patterns/contextual-alerts.html">Contextual alerts pattern</a></p>
+	    <h3>Additional examples</h3>
+				<p>Alert examples on specific page types:</p>
+				<ul>
+						<li><a href="https://design.canada.ca/alerts-alertes/alerts-en-sit.html">Service initiation page</a></li>
+						<li><a href="https://design.canada.ca/alerts-alertes/alerts-en-contact.html">Contact page</a></li>
+						<li><a href="https://design.canada.ca/alerts-alertes/alerts-en-ilp.html">Beta institutional landing page</a></li>
+						<li><a href="https://design.canada.ca/alerts-alertes/alerts-en-stable-ip.html">Institutional profile</a></li>
+				</ul>
+
+    </section>
+
+    <section>
+        <h2 id="dep-page">Alerts that repeat across several pages</h2>
+        <p>If you need to add the same alert on many different pages, it may make sense to make a single page that all these alerts can link to. </p>
+        <p>The central page will:</p>
+        <ul>
+            <li>summarize the change in plain language</li>
+            <li>explain the impact on the users of affected services</li>
+            <li>be updated as soon as new information arises</li>
+        </ul>
+        <p>The breadcrumb for this central page should lead to the Government of Canada's main response page for the crisis.</p>
 
 
-<h3>Examples</h3>
-
-<ul>
-<li><a href="https://design.canada.ca/alerts-alertes/alerts-en-sit.html">On a service initiation page</a></li>
-<li><a href="https://design.canada.ca/alerts-alertes/alerts-en-contact.html">On a contact page</a></li>
-<li><a href="https://design.canada.ca/alerts-alertes/alerts-en-ilp.html">On a beta institutional landing page</a></li>
-<li><a href="https://design.canada.ca/alerts-alertes/alerts-en-stable-ip.html">On an institutional profile</a></li>
-
+            <h3>How this helps</h3>
+            <ul>
+                <li>prevents scattered crisis and service disruption pages</li>
+                <li>encourages a coordinated approach within each department and across the Government of Canada</li>
+                <li>reduces the work required to maintain various alerts and related updates</li>
+            </ul>
 
 
-
-
-
-
-</ul>
 </div>
 
 </div>
