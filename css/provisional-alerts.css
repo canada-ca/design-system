@@ -1,0 +1,77 @@
+﻿.provisional.alert {
+  background-clip: content-box;
+  background-color: inherit;
+  border-left: 6px solid #000;
+  margin-bottom: 23px;
+  margin-left: 10px;
+  padding: 0 0 0 15px;
+}
+.provisional.alert > * {
+  margin-left: 15px;
+}
+.provisional.alert-info {
+  border-color: #269abc;
+  border-image: linear-gradient(to bottom, #269abc 16px, #269abc 16px, transparent 16px, transparent 48px, #269abc 48px, #269abc 48px) 1 100%;
+}
+.provisional.alert-success {
+  border-color: #278400;
+  border-image: linear-gradient(to bottom, #278400 16px, #278400 16px, transparent 16px, transparent 48px, #278400 48px, #278400 48px) 1 100%;
+}
+.provisional.alert-warning {
+  border-color: #ee7100;
+  border-image: linear-gradient(to bottom, #ee7100 16px, #ee7100 16px, transparent 16px, transparent 48px, #ee7100 48px, #ee7100 48px) 1 100%;
+}
+.provisional.alert-danger {
+  border-color: #d3080c;
+  border-image: linear-gradient(to bottom, #d3080c 16px, #d3080c 16px, transparent 16px, transparent 48px, #d3080c 48px, #d3080c 48px) 1 100%;
+}
+.provisional.alert-info::before {
+  color: #269abc;
+  content: "\e086";
+}
+.provisional.alert-success::before {
+  color: #278400;
+  content: "\e084";
+}
+.provisional.alert-warning::before {
+  color: #ee7100;
+  content: "\e107";
+}
+.provisional.alert-danger::before {
+  color: #d3080c;
+  content: "\e101";
+}
+.provisional.alert > p,
+.provisional.alert > ul,
+.provisional.alert > ol {
+  margin-bottom: 0px;
+}
+.provisional.alert details {
+  margin-left: 0.5em;
+  padding-top: 15px;
+}
+.provisional.alert::before {
+  font-family: "Glyphicons Halflings";
+  font-size: 26px;
+  line-height: 2.3em;
+  margin-left: -1.27em;
+  padding: 2px;
+  position: absolute;
+}
+.provisional.alert > :first-child {
+  margin-left: 15px;
+}
+.provisional.alert > :last-child {
+  padding-bottom: 25px;
+}
+.provisional.alert-info > :first-child::before,
+.provisional.alert-success > :first-child::before,
+.provisional.alert-warning > :first-child::before,
+.provisional.alert-danger > :first-child::before {
+  color: inherit;
+  content: none;
+}
+.provisional.alert > :first-child:not(details) {
+  margin-top: auto;
+  padding-top: 15px;
+}
