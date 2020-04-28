@@ -163,15 +163,32 @@ input.sg-input-text-other {
 }
 
 
+
+.survey-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 35px;
+    height: 0;
+    overflow: hidden;
+}
+
+.survey-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
 </style>
 
 
 <main role="main" property="mainContentOfPage" class="container">
 
 <h1 property="name" id="wb-cont">Task completion survey</h1>
-
-<iframe src="https://ca.surveygizmo.com/s3/50072695/COVID-Task-performance-indicator" frameborder="0" width="700" height="500" style="overflow:hidden"></iframe>
-
+<div class="survey-container">
+	<iframe src="https://ca.surveygizmo.com/s3/50072695/COVID-Task-performance-indicator" frameborder="0" width="700" height="500" style="overflow:hidden"></iframe>
+</div>
 <div id="def-preFooter">
 </div>
 <!-- Write closure template -->
