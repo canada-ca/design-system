@@ -229,7 +229,47 @@
 			<div class="tabpanels">
 				<details id="colour-blindness-details-panel1">
 					<summary>JSON-LD</summary>
-					<p>To come</p>
+					<pre class="prettyprint"><code>&lt;script type="application/ld+json"&gt;{"@context":"http://schema.org",
+   "@type":"SpecialAnnouncement",
+   "mainEntityOfPage":{
+     "@type":"WebPage",
+
+   "@id":"https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html"
+   },
+   "name":"Coronavirus disease (COVID-19): information from the government of Canada",
+   "text":"Coronavirus disease (COVID-19) information for Canadians including links to disease updates, travel advice, how to be prepared, symptoms, prevention, risk, Canada's response, current case numbers, answers to questions and links to printable resources.",
+   "spatialCoverage": {
+     "@type": "Country",
+     "name": "Canada"
+   },
+   "publisher":{
+     "@type":"GovernmentOrganization",
+     "@id":"#gc-organization",
+     "name":"Government of Canada",
+     "url":"https://www.canada.ca/en.html"
+   },
+   "category":"https://www.wikidata.org/wiki/Q81068910",
+   "datePosted":"2020-05-09",
+   "diseasePreventionInfo":"https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html",
+   "diseaseSpreadStatistics":"https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
+   "newsUpdatesAndGuidelines":"https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html",
+   "quarantineGuidelines":"https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html",
+   "travelBans":"https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html",
+   "governmentBenefitsInfo": {
+     "@type": "GovernmentService",
+     "name": "Canada's COVID-19 Economic Response Plan",
+     "url":  "https://www.canada.ca/en/department-finance/economic-response-plan.html",
+     "provider": {
+       "@id": "#gc-organization"
+     },
+     "serviceType": "Emergency relief",
+     "audience": {
+     "@type": "Audience",
+     "name": "Canadians affected by COVID-19"
+     }
+   }
+   }
+&lt;/script&gt;</code></pre>
 				</details>
 				<details id="colour-blindness-details-panel2">
 					<summary>RDFa</summary>
@@ -268,7 +308,41 @@
 			<div class="tabpanels">
 				<details id="colour-blindness-details-panel1">
 					<summary>JSON-LD</summary>
-					<p>To come</p>
+					<pre class="prettyprint"><code>&lt;script type="application/ld+json"&gt;
+   {
+     "@context": "https://schema.org",
+     "@type": "FAQPage",
+     "headline": "How much you can get",
+     "description":"Calculate your payments, shared custody and your payments, payments are recalculated in July, Related provincial and territorial benefits, children with a disability, repaying an overpayment",
+     "mainEntity": [{
+       "@type": "Question",
+       "name": "Calculate your payments",
+       "url": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-we-calculate-your-ccb.html",
+       "acceptedAnswer": {
+         "@type": "Answer",
+         "url": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-we-calculate-your-ccb.html",
+         "text": "&lt;p&gt;Use the child and family benefits calculator to help plan your budget.&lt;/p&gt;
+   &lt;p&gt;&lt;a href='https://www.canada.ca/en/revenue-agency/services/child-family-benefits/child-family-benefits-calculator.html?utm_source=google&utm_medium=organic&utm_campaign=faq-data&utm_content=ccbhowmuch-en-q1-001'&gt;&nbsp; Calculate how much you can get&lt;/a&gt;&lt;/p&gt;
+
+     &lt;p&gt;&lt;a href='https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-we-calculate-your-ccb.html?utm_source=google&utm_medium=organic&utm_campaign=faq-data&utm_content=ccbhowmuch-en-q1-002#math'&gt;See the math behind CCB payments&lt;/a&gt;&lt;/p&gt;"
+       }
+     }, {
+       "@type": "Question",
+       "name": "Shared custody and your payments",
+       "url": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-we-calculate-your-ccb.html",
+       "acceptedAnswer": {
+         "@type": "Answer",
+         "url": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-we-calculate-your-ccb.html",
+         "text": "
+     &lt;p&gt;Each parent with shared custody will get 50% of what they would have gotten if they had full custody of the child, calculated based on their own adjusted family net income.&lt;/li&gt;
+     &lt;p&gt;The CRA will not split the amount using other percentages, or give the full amount to one of the parents if CRA considers you to have shared custody.&lt;/li&gt;
+     &lt;p&gt;If a child only lives with you &lt;strong&gt;part time&lt;/strong&gt;, go to  &lt;a href='https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-before-you-apply.html?utm_source=google&utm_medium=organic&utm_campaign=faq-data&utm_content=ccbhowmuch-en-q2-001#shared'&gt;Custody arrangements and your benefits&lt;/a&gt; to find out if you are considered to have shared custody.&lt;/p&gt;
+          "
+       }
+
+       }]
+     }
+&lt;/script&gt;</code></pre>
 				</details>
 				<details id="colour-blindness-details-panel2">
 					<summary>RDFa</summary>
@@ -300,7 +374,28 @@
 			<div class="tabpanels">
 				<details id="colour-blindness-details-panel1">
 					<summary>JSON-LD</summary>
-					<p>To come</p>
+					<pre class="prettyprint"><code>&lt;script type="application/ld+json"&gt;
+   {"@context":"http://schema.org",
+   "@type":"HowTo",
+   "description":"The Canada child benefit (CCB) is a tax-free monthly payment made to eligible families to help with the cost of raising children under 18 years of age. ",
+   "name":"Canada child benefit",
+   "step":[{
+   	"@type":"HowToStep",
+              "image":"http://test.canada.ca/covid-19-guidance/proto/structured_data/step_1.svg",
+   	"name":"Who can apply",
+   	"url":"https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-before-you-apply.html",
+   "Position":1,
+   "text":"Who can get the Canada child benefit, who is primarily responsible for the care and upbringing of the child, and impact of shared custody on your benefits"},
+
+   {"@type":"HowToStep",
+   	"image":"http://test.canada.ca/covid-19-guidance/proto/structured_data/step_2.svg",
+   	"name":"Apply",
+   "url":"http://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-apply.html",
+   "position":2,
+   "text":"When and how to apply, and when you need to provide additional documents"}
+   ]
+   }
+&lt;/script&gt;</code></pre>
 				</details>
 				<details id="colour-blindness-details-panel2">
 					<summary>RDFa</summary>
