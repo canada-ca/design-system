@@ -187,13 +187,15 @@
             <li>better and more informative search results (mostly in Google and Bing)</li>
             <li>better voice search results</li>
 		</ul>
-<a href="https://developers.google.com/search/docs/guides/intro-structured-data">Google: Understand how structured data works</a>
+<p><a href="https://developers.google.com/search/docs/guides/intro-structured-data">Google: Understand how structured data works</a></p>
 
+	<p>Adding structured data is just one of hte techniques you can use to optimize your content for search:</p>
+	<p><a href="https://blog.canada.ca/2020/01/28/voice-search-optimization.html">Optimize your content for voice search</a></p>
 	<h3>RDFa vs JSON-LD</h3>
 	<p>For our purposes there are 2 main ways to add structured data:</p>
 	<ul>
 					<li><strong>RDFa:</strong> involves tagging the HTML content directly. A bit more complex, but less duplication. Structured data has to match (word for word) the visible content. </li>
-					<li><strong>JSON-LD:</strong> involves adding a script on the page. Less complex, but involves some duplication of content. Allows to tweak the wording so that it may not match the visible content word for word. </li>
+					<li><strong>JSON-LD:</strong> involves adding a script on the page. Less complex, but involves some duplication of content. Allows to make minor adjustment to the wording so that it may display differently than on the visible page. </li>
 	</ul>
 
 	<p>Structured data needs to be a “true representation” of the page - you can’t add content that is not covered in the page, or add links in the structured data that are not on the page. </p>
@@ -430,7 +432,15 @@
 			<div class="tabpanels">
 				<details id="colour-blindness-details-panel1">
 					<summary>JSON-LD</summary>
-					<p>To come</p>
+					<pre class="prettyprint"><code>&lt;script type="application/ld+json"&gt;{
+   "@context":"http://schema.org/",
+   "@type": "WebPage",
+   "name": "How much Canada Child Benefit you could get",
+   "speakable":
+   { "@type": "SpeakableSpecification","cssSelector": [".speakable1"]  } ,
+   "url":"https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-we-calculate-your-ccb.html"}
+&lt;/script&gt;
+&lt;p class="speakable1 hidden"&gt;The maximum Canada child benefit you could get is $6,639 per year for children under 6, and $5,602 per year for children aged 6 to 17.&lt;/p&gt;</code></pre>
 				</details>
 				<details id="colour-blindness-details-panel2">
 					<summary>RDFa</summary>
@@ -446,6 +456,7 @@
 <h2 id="additional">Additional resources</h2>
 
 <ul>
+				<li><a href="https://blog.canada.ca/2020/01/28/voice-search-optimization.html">Optimize your content for voice search</a></li>
 				<li><a href="https://gds.blog.gov.uk/2019/12/19/making-gov-uk-more-than-a-website/">Making GOV.UK more than a website</a></li>
 				<li><a href="#https://docs.publishing.service.gov.uk/manual/schemas.html">What data GOV.UK exposes as schema.org structured data</a></li>
 				<li><a href="https://www.searchenginejournal.com/google-structured-data-preference/297479/">Google On Which Structured Data it Prefers: JSON-LD or Microdata?</a></li>
