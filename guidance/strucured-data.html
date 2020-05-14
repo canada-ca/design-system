@@ -160,7 +160,6 @@
 <p class="gc-byline"><strong>From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
 
 
-
 <p>These instructions are interim guidance to help piloting adding structured data to Canada.ca pages. It's not an official guidance for Canada.ca.</p>
 
 	<section>
@@ -256,7 +255,7 @@
 
 <ul>
 				<li><a href="https://schema.org/SpecialAnnouncement">Schema.org specialAnnouncement guidance</a></li>
-				<li><a href="https://developers.google.com/search/docs/data-types/special-announcement">Google specialAnnouncement guidance</a></li>
+				<li><a href="https://developers.google.com/search/docs/data-types/special-announcements">Google specialAnnouncement guidance</a></li>
 </ul>
 
 <h4>Code and example</h4>
@@ -312,7 +311,7 @@
 				</details>
 				<details id="colour-blindness-details-panel2">
 					<summary>RDFa</summary>
-					<p>To come</p>
+					<p>Not available in RDFa yet</p>
 				</details>
 			</div>
 		</div>
@@ -438,7 +437,29 @@
 				</details>
 				<details id="colour-blindness-details-panel2">
 					<summary>RDFa</summary>
-					<p>To come</p>
+					<pre class="prettyprint"><code>&lt;main property="mainContentOfPage" class="container"&gt;
+&lt;div class="container" vocab="http://schema.org/" typeof="HowTo"&gt;
+&lt;h1 property="name" id="wb-cont"&gt;Canada child benefit - HowTo test RDFa&lt;/h1&gt;
+&lt;div class="row"&gt;
+   &lt;div class="col-md-8"&gt;
+      &lt;div id="steps-content" &gt;
+         &lt;p property="description"&gt;The Canada child benefit (CCB) is a tax-free monthly payment made to eligible families to help with the cost of raising children under 18 years of age.&lt;/p&gt;
+         &lt;h2 class="mrgn-bttm-lg"&gt;Sections&lt;/h2&gt;
+         &lt;ul class="gc-navseq section-menu"&gt;
+            &lt;li property="step" typeof="HowToStep"&gt;
+               &lt;meta property="position" content="1"/&gt;
+               &lt;a property="url" href="https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-before-you-apply.html"&gt;&lt;span property="name"&gt;Who can apply&lt;/span&gt;&lt;span class="wb-inv"&gt; - Canada child benefit&lt;/span&gt;&lt;/a&gt;&lt;br&gt;
+               &lt;span property="text"&gt;Who can get the Canada child benefit, who is primarily responsible for the care and upbringing of the child, and impact of shared custody on your benefits&lt;/span&gt;
+            &lt;/li&gt;
+            &lt;li property="step" typeof="HowToStep"&gt;
+               &lt;meta property="position" content="2"/&gt;
+               &lt;a property="url"href="/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-apply.html"&gt;&lt;span property="name"&gt;Apply&lt;/span&gt;&lt;span class="wb-inv"&gt; - Canada child benefit&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;span property="text"&gt;When and how to apply, and when you need to provide additional documents&lt;/span&gt;
+            &lt;/li&gt;
+         &lt;/ul&gt;
+      &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/div&gt;
+</code></pre>
 				</details>
 			</div>
 		</div>
