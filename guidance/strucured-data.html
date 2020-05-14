@@ -272,47 +272,49 @@
 									<li>Use the same JSON-LD root id anchor as the one for the main content of the page. Both will use “#wb-main” to specify semantically they are describing the same subject.</li>
 					</ul>
 
-					<pre class="prettyprint"><code>&lt;script id="wb-script" type="application/ld+json"&gt;
- {"@context":"http://schema.org",
- "@type":"SpecialAnnouncement",
- "@id": "wb-main",
- "mainEntityOfPage":{
-  "@type":"WebPage",
-  "@id":"https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html"
-  },
- "name":"Coronavirus disease (COVID-19): information from the government of Canada",
- "text":"Coronavirus disease (COVID-19) information for Canadians including links to disease updates, travel advice, how to be prepared, symptoms, prevention, risk, Canada's response, current case numbers, answers to questions and links to printable resources.",
- "spatialCoverage": {
-  "@type": "Country",
-  "name": "Canada"
-  },
- "publisher":{
-  "@type":"GovernmentOrganization",
-  "@id":"#gc-organization",
-  "name":"Government of Canada",
-  "url":"https://www.canada.ca/en.html"
-  },
- "category":"https://www.wikidata.org/wiki/Q81068910",
- "datePosted":"2020-05-09",
- "diseasePreventionInfo":"https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html",
- "diseaseSpreadStatistics":"https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
- "newsUpdatesAndGuidelines":"https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html",
- "quarantineGuidelines":"https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html",
- "travelBans":"https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html",
- "governmentBenefitsInfo": {
-  "@type": "GovernmentService",
-  "name": "Canada's COVID-19 Economic Response Plan",
-  "url":  "https://www.canada.ca/en/department-finance/economic-response-plan.html",
-  "provider": {
-   "@id": "#gc-organization"
-  },
-  "serviceType": "Emergency relief",
-  "audience": {
+					<pre class="prettyprint"><code>&lt;script id="wb-script"
+type="application/ld+json"&gt;
+ {
+  "@context":"http://schema.org",
+  "@type":"SpecialAnnouncement",
+  "@id": "#wb-main",
+  "mainEntityOfPage":{
+   "@type":"WebPage",
+   "@id":"https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html"
+   },
+  "name":"Coronavirus disease (COVID-19): information from the government of Canada",
+  "text":"Coronavirus disease (COVID-19) information for Canadians including links to disease updates, travel advice, how to be prepared, symptoms, prevention, risk, Canada's response, current case numbers, answers to questions and links to printable resources.",
+  "spatialCoverage": {
+   "@type": "Country",
+   "name": "Canada"
+   },
+  "publisher":{
+   "@type":"GovernmentOrganization",
+   "@id":"#wb-publisher",
+   "name":"Government of Canada",
+   "url":"https://www.canada.ca/en.html"
+   },
+  "category":"https://www.wikidata.org/wiki/Q81068910",
+  "datePosted":"2020-05-09",
+  "diseasePreventionInfo":"https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html",
+  "diseaseSpreadStatistics":"https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
+  "newsUpdatesAndGuidelines":"https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html",
+  "quarantineGuidelines":"https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html",
+  "travelBans":"https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html",
+  "governmentBenefitsInfo": {
+   "@type": "GovernmentService",
+   "name": "Canada's COVID-19 Economic Response Plan",
+   "url":  "https://www.canada.ca/en/department-finance/economic-response-plan.html",
+   "provider": {
+    "@id": "#wb-publisher"
+    },
+   "serviceType": "Emergency relief",
+   "audience": {
    "@type": "Audience",
    "name": "Canadians affected by COVID-19"
+   }
   }
  }
-}
 &lt;/script&gt;
 &lt;body vocab="http://schema.org/" typeof="WebPage"&gt;
  &lt;div typeof="Organisation" resource="#wb-publisher"&gt;
