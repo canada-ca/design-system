@@ -267,8 +267,15 @@
 			<div class="tabpanels">
 				<details id="colour-blindness-details-panel1">
 					<summary>JSON-LD</summary>
-					<pre class="prettyprint"><code>&lt;script type="application/ld+json"&gt;{"@context":"http://schema.org",
+					<ul>
+									<li>Add <code>id</code> attribute to the JSON-LD HTML script element named “wb-script”.</li>
+									<li>Use the same JSON-LD root id anchor as the one for the main content of the page. Both will use “#wb-main” to specify semantically they are describing the same subject.</li>
+					</ul>
+
+					<pre class="prettyprint"><code>&lt;script id="wb-script" type="application/ld+json"&gt;
+	{"@context":"http://schema.org",
    "@type":"SpecialAnnouncement",
+	 "@id": "wb-main",
    "mainEntityOfPage":{
      "@type":"WebPage",
 
@@ -307,7 +314,15 @@
      }
    }
    }
-&lt;/script&gt;</code></pre>
+&lt;/script&gt;
+&lt;body vocab="http://schema.org/" typeof="WebPage"&gt;
+   &lt;div typeof="Organisation" resource="#wb-publisher"&gt;
+      &lt;img src="/link/to/a/logo" alt="Publisher name" property="logo" /&gt;
+      &lt;meta property="name" content="Publisher name" /&gt;
+   &lt;/div&gt;
+   &lt;main property="mainContentOfPage" typeof="WebPageElement" resource="#wb-main"&gt;
+   &lt;/main&gt;
+&lt;/body&gt;</code></pre>
 				</details>
 				<details id="colour-blindness-details-panel2">
 					<summary>RDFa</summary>
