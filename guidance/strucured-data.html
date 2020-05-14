@@ -262,10 +262,10 @@
 <details>
 <summary>specialAnnouncement example</summary>
 <div class="row">
-	<div class="col-md-9 col-lg-8">
+	<div class="col-md-12 col-lg-10">
 		<div class="wb-tabs">
 			<div class="tabpanels">
-				<details id="colour-blindness-details-panel1">
+				<details>
 					<summary>JSON-LD</summary>
 					<ul>
 									<li>Add <code>id</code> attribute to the JSON-LD HTML script element named “wb-script”.</li>
@@ -324,7 +324,7 @@
    &lt;/main&gt;
 &lt;/body&gt;</code></pre>
 				</details>
-				<details id="colour-blindness-details-panel2">
+				<details>
 					<summary>RDFa</summary>
 					<p>Not available in RDFa yet</p>
 				</details>
@@ -356,72 +356,70 @@
 <details>
 <summary>FAQPage example</summary>
 <div class="row">
-	<div class="col-md-9 col-lg-8">
+	<div class="col-md-12 col-lg-10">
 		<div class="wb-tabs">
 			<div class="tabpanels">
-				<details id="colour-blindness-details-panel1">
+				<details>
 					<summary>JSON-LD</summary>
 					<pre class="prettyprint"><code>&lt;script type="application/ld+json"&gt;
-   {
-     "@context": "https://schema.org",
-     "@type": "FAQPage",
-     "headline": "How much you can get",
-     "description":"Calculate your payments, shared custody and your payments, payments are recalculated in July, Related provincial and territorial benefits, children with a disability, repaying an overpayment",
-     "mainEntity": [{
-       "@type": "Question",
-       "name": "Calculate your payments",
-       "url": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-we-calculate-your-ccb.html",
-       "acceptedAnswer": {
-         "@type": "Answer",
-         "url": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-we-calculate-your-ccb.html",
-         "text": "&lt;p&gt;Use the child and family benefits calculator to help plan your budget.&lt;/p&gt;
+ {"@context": "https://schema.org",
+ "@type": "FAQPage",
+ "headline": "How much you can get",
+ "description":"Calculate your payments, shared custody and your payments, payments are recalculated in July, Related provincial and territorial benefits, children with a disability, repaying an overpayment",
+ "mainEntity": [{
+  "@type": "Question",
+  "name": "Calculate your payments",
+  "url": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-we-calculate-your-ccb.html",
+  "acceptedAnswer": {
+   "@type": "Answer",
+   "url": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-we-calculate-your-ccb.html",
+   "text": "&lt;p&gt;Use the child and family benefits calculator to help plan your budget.&lt;/p&gt;
    &lt;p&gt;&lt;a href='https://www.canada.ca/en/revenue-agency/services/child-family-benefits/child-family-benefits-calculator.html?utm_source=google&utm_medium=organic&utm_campaign=faq-data&utm_content=ccbhowmuch-en-q1-001'&gt;&nbsp; Calculate how much you can get&lt;/a&gt;&lt;/p&gt;
 
      &lt;p&gt;&lt;a href='https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-we-calculate-your-ccb.html?utm_source=google&utm_medium=organic&utm_campaign=faq-data&utm_content=ccbhowmuch-en-q1-002#math'&gt;See the math behind CCB payments&lt;/a&gt;&lt;/p&gt;"
-       }
-     }, {
-       "@type": "Question",
-       "name": "Shared custody and your payments",
-       "url": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-we-calculate-your-ccb.html",
-       "acceptedAnswer": {
-         "@type": "Answer",
-         "url": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-we-calculate-your-ccb.html",
-         "text": "
+   }},
+  {
+  "@type": "Question",
+  "name": "Shared custody and your payments",
+  "url": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-we-calculate-your-ccb.html",
+  "acceptedAnswer": {
+   "@type": "Answer",
+   "url": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-we-calculate-your-ccb.html",
+   "text": "
      &lt;p&gt;Each parent with shared custody will get 50% of what they would have gotten if they had full custody of the child, calculated based on their own adjusted family net income.&lt;/li&gt;
      &lt;p&gt;The CRA will not split the amount using other percentages, or give the full amount to one of the parents if CRA considers you to have shared custody.&lt;/li&gt;
      &lt;p&gt;If a child only lives with you &lt;strong&gt;part time&lt;/strong&gt;, go to  &lt;a href='https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-before-you-apply.html?utm_source=google&utm_medium=organic&utm_campaign=faq-data&utm_content=ccbhowmuch-en-q2-001#shared'&gt;Custody arrangements and your benefits&lt;/a&gt; to find out if you are considered to have shared custody.&lt;/p&gt;
           "
-       }
-
-       }]
      }
+  }]
+ }
 &lt;/script&gt;</code></pre>
 				</details>
-				<details id="colour-blindness-details-panel2">
+				<details>
 					<summary>RDFa</summary>
 					<pre class="prettyprint"><code>&lt;main property="mainContentOfPage" class="container"&gt;
 &lt;div class="container" vocab="http://schema.org/" typeof="FAQPage"&gt;
 &lt;h1 property="name" id="wb-cont"&gt;Canada child benefit - How much you can get&lt;/h1&gt;
 &lt;div property="mainEntity" vocab="http://schema.org/" typeof="Question"&gt;
-   &lt;h2 id="estimate" property="name"&gt;Calculate your payments&lt;/h2&gt;
+ &lt;h2 id="estimate" property="name"&gt;Calculate your payments&lt;/h2&gt;
+  &lt;div property="acceptedAnswer" vocab="http://schema.org/" typeof="Answer"&gt;
+   &lt;span property = "text"&gt;
+    &lt;p&gt;Use the child and family benefits calculator to help plan your budget.&lt;/p&gt;
+    &lt;a href="https://www.canada.ca/en/revenue-agency/services/child-family-benefits/child-family-benefits-calculator.html" class="btn btn-call-to-action"&gt;&lt;i class="fas fa-calculator"&gt;&lt;/i&gt;&nbsp; Calculate how much you can get&lt;/a&gt;
+   &lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div property="mainEntity" vocab="http://schema.org/" typeof="Question"&gt;
+   &lt;h2 id="shared" property="name"&gt;Shared custody and your payments&lt;/h2&gt;
    &lt;div property="acceptedAnswer" vocab="http://schema.org/" typeof="Answer"&gt;
-      &lt;span property = "text"&gt;
-         &lt;p&gt;Use the child and family benefits calculator to help plan your budget.&lt;/p&gt;
-         &lt;a href="https://www.canada.ca/en/revenue-agency/services/child-family-benefits/child-family-benefits-calculator.html" class="btn btn-call-to-action"&gt;&lt;i class="fas fa-calculator"&gt;&lt;/i&gt;&nbsp; Calculate how much you can get&lt;/a&gt;
-      &lt;/span&gt;
-   &lt;/div&gt;
-   &lt;div property="mainEntity" vocab="http://schema.org/" typeof="Question"&gt;
-      &lt;h2 id="shared" property="name"&gt;Shared custody and your payments&lt;/h2&gt;
-      &lt;div property="acceptedAnswer" vocab="http://schema.org/" typeof="Answer"&gt;
-         &lt;span property = "text"&gt;
-            &lt;p&gt;Each parent with shared custody will get 50% of what they would have gotten if they had full custody of the child, calculated based on their own adjusted family net income.
-            &lt;/p&gt;
-            &lt;p&gt;The CRA will not split the amount using other percentages, or give the full amount to one of the parents if CRA considers you to have shared custody.
-            &lt;/p&gt;
-            &lt;p&gt;If a child only lives with you &lt;strong&gt;part time&lt;/strong&gt;, go to  &lt;a href="/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-before-you-apply.html#shared"&gt;Custody arrangements and your benefits&lt;/a&gt; to find out if you are considered to have shared custody.&lt;/p&gt;
-         &lt;/span&gt;
-      &lt;/div&gt;
-   &lt;/div&gt;
+    &lt;span property = "text"&gt;
+     &lt;p&gt;Each parent with shared custody will get 50% of what they would have gotten if they had full custody of the child, calculated based on their own adjusted family net income.
+     &lt;/p&gt;
+     &lt;p&gt;The CRA will not split the amount using other percentages, or give the full amount to one of the parents if CRA considers you to have shared custody.
+     &lt;/p&gt;
+     &lt;p&gt;If a child only lives with you &lt;strong&gt;part time&lt;/strong&gt;, go to  &lt;a href="/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-before-you-apply.html#shared"&gt;Custody arrangements and your benefits&lt;/a&gt; to find out if you are considered to have shared custody.&lt;/p&gt;
+   &lt;/span&gt;
+  &lt;/div&gt;
+ &lt;/div&gt;
 &lt;/div&gt;</code></pre>
 				</details>
 			</div>
@@ -445,57 +443,55 @@
 <details>
 <summary>HowTo example</summary>
 <div class="row">
-	<div class="col-md-9 col-lg-8">
+	<div class="col-md-12 col-lg-10">
 		<div class="wb-tabs">
 			<div class="tabpanels">
-				<details id="colour-blindness-details-panel1">
+				<details>
 					<summary>JSON-LD</summary>
 					<pre class="prettyprint"><code>&lt;script type="application/ld+json"&gt;
-   {"@context":"http://schema.org",
-   "@type":"HowTo",
-   "description":"The Canada child benefit (CCB) is a tax-free monthly payment made to eligible families to help with the cost of raising children under 18 years of age. ",
-   "name":"Canada child benefit",
-   "step":[{
-   	"@type":"HowToStep",
-              "image":"http://test.canada.ca/covid-19-guidance/proto/structured_data/step_1.svg",
-   	"name":"Who can apply",
-   	"url":"https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-before-you-apply.html",
-   "Position":1,
-   "text":"Who can get the Canada child benefit, who is primarily responsible for the care and upbringing of the child, and impact of shared custody on your benefits"},
-
-   {"@type":"HowToStep",
-   	"image":"http://test.canada.ca/covid-19-guidance/proto/structured_data/step_2.svg",
-   	"name":"Apply",
-   "url":"http://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-apply.html",
-   "position":2,
-   "text":"When and how to apply, and when you need to provide additional documents"}
-   ]
-   }
+ {"@context":"http://schema.org",
+ "@type":"HowTo",
+ "description":"The Canada child benefit (CCB) is a tax-free monthly payment made to eligible families to help with the cost of raising children under 18 years of age. ",
+ "name":"Canada child benefit",
+ "step":[{
+  "@type":"HowToStep",
+  "image":"http://test.canada.ca/covid-19-guidance/proto/structured_data/step_1.svg",
+  "name":"Who can apply",
+  "url":"https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-before-you-apply.html",
+  "Position":1,
+  "text":"Who can get the Canada child benefit, who is primarily responsible for the care and upbringing of the child, and impact of shared custody on your benefits"},
+  {"@type":"HowToStep",
+  "image":"http://test.canada.ca/covid-19-guidance/proto/structured_data/step_2.svg",
+  "name":"Apply",
+  "url":"http://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-apply.html",
+  "position":2,
+  "text":"When and how to apply, and when you need to provide additional documents"}
+  ]}
 &lt;/script&gt;</code></pre>
 				</details>
-				<details id="colour-blindness-details-panel2">
+				<details>
 					<summary>RDFa</summary>
 					<pre class="prettyprint"><code>&lt;main property="mainContentOfPage" class="container"&gt;
 &lt;div class="container" vocab="http://schema.org/" typeof="HowTo"&gt;
 &lt;h1 property="name" id="wb-cont"&gt;Canada child benefit&lt;/h1&gt;
 &lt;div class="row"&gt;
-   &lt;div class="col-md-8"&gt;
-      &lt;div id="steps-content" &gt;
-         &lt;p property="description"&gt;The Canada child benefit (CCB) is a tax-free monthly payment made to eligible families to help with the cost of raising children under 18 years of age.&lt;/p&gt;
-         &lt;h2 class="mrgn-bttm-lg"&gt;Sections&lt;/h2&gt;
-         &lt;ul class="gc-navseq section-menu"&gt;
-            &lt;li property="step" typeof="HowToStep"&gt;
-               &lt;meta property="position" content="1"/&gt;
-               &lt;a property="url" href="https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-before-you-apply.html"&gt;&lt;span property="name"&gt;Who can apply&lt;/span&gt;&lt;span class="wb-inv"&gt; - Canada child benefit&lt;/span&gt;&lt;/a&gt;&lt;br&gt;
-               &lt;span property="text"&gt;Who can get the Canada child benefit, who is primarily responsible for the care and upbringing of the child, and impact of shared custody on your benefits&lt;/span&gt;
-            &lt;/li&gt;
-            &lt;li property="step" typeof="HowToStep"&gt;
-               &lt;meta property="position" content="2"/&gt;
-               &lt;a property="url"href="/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-apply.html"&gt;&lt;span property="name"&gt;Apply&lt;/span&gt;&lt;span class="wb-inv"&gt; - Canada child benefit&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;span property="text"&gt;When and how to apply, and when you need to provide additional documents&lt;/span&gt;
-            &lt;/li&gt;
-         &lt;/ul&gt;
-      &lt;/div&gt;
-   &lt;/div&gt;
+ &lt;div class="col-md-8"&gt;
+  &lt;div id="steps-content" &gt;
+   &lt;p property="description"&gt;The Canada child benefit (CCB) is a tax-free monthly payment made to eligible families to help with the cost of raising children under 18 years of age.&lt;/p&gt;
+   &lt;h2 class="mrgn-bttm-lg"&gt;Sections&lt;/h2&gt;
+   &lt;ul class="gc-navseq section-menu"&gt;
+    &lt;li property="step" typeof="HowToStep"&gt;
+     &lt;meta property="position" content="1"/&gt;
+     &lt;a property="url" href="https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-before-you-apply.html"&gt;&lt;span property="name"&gt;Who can apply&lt;/span&gt;&lt;span class="wb-inv"&gt; - Canada child benefit&lt;/span&gt;&lt;/a&gt;&lt;br&gt;
+      &lt;span property="text"&gt;Who can get the Canada child benefit, who is primarily responsible for the care and upbringing of the child, and impact of shared custody on your benefits&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li property="step" typeof="HowToStep"&gt;
+     &lt;meta property="position" content="2"/&gt;
+      &lt;a property="url"href="/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-apply.html"&gt;&lt;span property="name"&gt;Apply&lt;/span&gt;&lt;span class="wb-inv"&gt; - Canada child benefit&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;span property="text"&gt;When and how to apply, and when you need to provide additional documents&lt;/span&gt;
+    &lt;/li&gt;
+   &lt;/ul&gt;
+  &lt;/div&gt;
+ &lt;/div&gt;
 &lt;/div&gt;
 </code></pre>
 				</details>
@@ -523,10 +519,10 @@
 <details>
 <summary>Speakable example</summary>
 <div class="row">
-	<div class="col-md-9 col-lg-8">
+	<div class="col-md-12 col-lg-10">
 		<div class="wb-tabs">
 			<div class="tabpanels">
-				<details id="colour-blindness-details-panel1">
+				<details>
 					<summary>JSON-LD</summary>
 					<pre class="prettyprint"><code>&lt;script type="application/ld+json"&gt;{
    "@context":"http://schema.org/",
@@ -538,7 +534,7 @@
 &lt;/script&gt;
 &lt;p class="speakable1 hidden"&gt;The maximum Canada child benefit you could get is $6,639 per year for children under 6, and $5,602 per year for children aged 6 to 17.&lt;/p&gt;</code></pre>
 				</details>
-				<details id="colour-blindness-details-panel2">
+				<details>
 					<summary>RDFa</summary>
 					<p>To come</p>
 				</details>
