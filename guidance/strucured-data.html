@@ -246,19 +246,12 @@
 
 <h2 id="schemas">Schema code and examples</h2>
 
-<ul>
-				<li><a href="#special">SpecialAnnouncement schema</a></li>
-				<li><a href="#faq">FAQPage schema</a></li>
-				<li><a href="#howto">HowTo schema</a></li>
-				<li><a href="#speakable">Speakable schema</a></li>
-				<li><a href="#additional">Additional resources</a></li>
-</ul>
-
-<h3 id="special">SpecialAnnouncement schema</h3>
-<h4>When to use</h4>
+<details>
+<summary>SpecialAnnouncement</summary>
+<h3>When to use</h3>
 <p>The specialAnnouncement schema is a new experimental schema developed for announcements related to COVID-19. Mainly for health related information (symptoms, quarantine, testing, etc.), but also for closures, reopenings, and special government benefits.</p>
 
-<h4>Official guidance</h4>
+<h3>Official guidance</h3>
 
 <ul>
 				<li><a href="https://schema.org/SpecialAnnouncement">Schema.org specialAnnouncement guidance</a></li>
@@ -266,11 +259,8 @@
 </ul>
 
 <div class="pattern-demo mrgn-bttm-md">
-<h4>Code and example</h4>
-<details>
-<summary>specialAnnouncement JSON-LD and RDFA</summary>
-<div class="row">
-	<div class="col-md-10 col-md-12">
+	<div class="mrgn-rght-md mrgn-lft-md">
+<h3>Code</h3>
 		<div class="wb-tabs">
 			<div class="tabpanels">
 				<details>
@@ -337,14 +327,15 @@ type="application/ld+json"&gt;
 					<summary>RDFa</summary>
 					<p>Not available in RDFa yet</p>
 				</details>
-			</div>
-		</div>
 	</div>
 </div>
-</details>
 </div>
-<h3 id="faq">FAQpage schema</h3>
-<h4>When to use</h4>
+</div>
+</details>
+
+<details>
+<summary>FAQPage</summary>
+<h3>When to use</h3>
 <p>Use to add a set of “questions and answers” (or a set of headings and their respective content). Either tag the visible content (using RDFa), or add a layer in JSON-LD. </p>
 
 <p>Use on:</p>
@@ -354,18 +345,15 @@ type="application/ld+json"&gt;
 				<li>Actual FAQs</li>
 </ul>
 
-<h4>Official guidance</h4>
+<h3>Official guidance</h3>
 
 <ul>
 				<li><a href="https://schema.org/FAQPage">Schema.org FAQPage guidance</a></li>
 				<li><a href="https://developers.google.com/search/docs/data-types/faqpage">Google FAQPage guidance</a></li>
 </ul>
 <div class="pattern-demo mrgn-bttm-md">
-<h4>Code and example</h4>
-<details>
-<summary>FAQPage JSON-LD and RDFA</summary>
-<div class="row">
-	<div class="col-md-10 col-lg-12">
+<div class="mrgn-rght-md mrgn-lft-md">
+<h3>Code</h3>
 		<div class="wb-tabs">
 			<div class="tabpanels">
 				<details>
@@ -453,14 +441,14 @@ type="application/ld+json"&gt;
 &lt;/div&gt;</code></pre>
 				</details>
 			</div>
-		</div>
-	</div>
-</div>
+			</div>
+			</div>
+			</div>
 </details>
-</div>
 
-<h3 id="howto">HowTo schema</h3>
-<h4>When to use</h4>
+<details>
+<summary>HowTo</summary>
+<h3>When to use</h3>
 <p>Use for tasks that require a very clear step-by-step approach. </p>
 
 <h4>Official guidance</h4>
@@ -470,11 +458,8 @@ type="application/ld+json"&gt;
 				<li><a href="https://developers.google.com/search/docs/data-types/how-to">Google HowTo guidance</a></li>
 </ul>
 <div class="pattern-demo mrgn-bttm-md">
-<h4>Code and example</h4>
-<details>
-<summary>HowTo JSON-LD and RDFA</summary>
-<div class="row">
-	<div class="col-md-12 col-lg-10">
+	<div class="mrgn-rght-md mrgn-lft-md">
+<h3>Code</h3>
 		<div class="wb-tabs">
 			<div class="tabpanels">
 				<details>
@@ -550,30 +535,27 @@ type="application/ld+json"&gt;
 </code></pre>
 				</details>
 			</div>
-		</div>
-	</div>
-</div>
-</details>
-</div>
+			</div>
+			</div>
+			</div>
+			</details>
 
-<h3 id="speakable">Speakable schema</h3>
-<h4>When to use</h4>
+<details>
+<summary>Speakable</summary>
+<h3>When to use</h3>
 <p>Use to identify any section of content that would be best suitable for text-to-speech: the part of the page that encapsulates the most important thing people are looking for on that page.</p>
 
 <p>Can be used on any page. </p>
 
-<h4>Official guidance</h4>
+<h3>Official guidance</h3>
 
 <ul>
 				<li><a href="https://schema.org/SpeakableSpecification">Schema.org Speakable guidance</a></li>
 				<li><a href="https://developers.google.com/search/docs/data-types/speakable">Google Speakable guidance</a></li>
 </ul>
 <div class="pattern-demo mrgn-bttm-md">
-	<h4>Code and example</h4>
-<details>
-<summary>Speakable JSON-LD and RDFA</summary>
-<div class="row">
-	<div class="col-md-10 col-lg-12">
+	<div class="mrgn-rght-md mrgn-lft-md">
+	<h3>Code</h3>
 		<div class="wb-tabs">
 			<div class="tabpanels">
 				<details>
@@ -609,11 +591,10 @@ type="application/ld+json"&gt;
 					<p>Not available as RDFa yet</p>
 				</details>
 			</div>
-		</div>
-	</div>
-</div>
-</details>
-</div>
+			</div>
+			</div>
+			</div>
+			</details>
 
 <h2 id="additional">Additional resources</h2>
 
