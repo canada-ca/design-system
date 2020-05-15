@@ -229,7 +229,7 @@
 	</ul>
 
 	<h3>Step 3: Test the structured data code</h3>
-  <p>You can copy code snippets or full URLs to test code in 2 different tools:</p>
+  <p>You can copy code snippets or full URLs to test code with different tools:</p>
 	<ul>
 					<li><a href="https://search.google.com/test/rich-results">Rich results test</a></li>
 					<li><a href="https://search.google.com/structured-data/testing-tool/u/0/">Structured data test</a></li>
@@ -596,12 +596,49 @@ type="application/ld+json"&gt;
 			</div>
 			</details>
 
+
+			<details>
+			<summary><h3 class="h4">Event</h3></summary>
+			<h4>When to use</h4>
+			<p>Use for events that have a specific time and date.</p>
+
+			<h4>Official guidance</h4>
+
+			<ul>
+							<li><a href="https://schema.org/Event">Schema.org Event guidance</a></li>
+							<li><a href="https://developers.google.com/search/docs/data-types/event">Google Event guidance</a></li>
+			</ul>
+
+			<div class="pattern-demo mrgn-bttm-md">
+				<div class="mrgn-rght-md mrgn-lft-md">
+			<h4>Code</h4>
+					<div class="wb-tabs">
+						<div class="tabpanels">
+							<details>
+								<summary>JSON-LD</summary>
+								<ul>
+												<li>Add <code>id</code> attribute to the JSON-LD HTML script element named “wb-script”.</li>
+												<li>Use the same JSON-LD root id anchor as the one for the main content of the page. Both will use “#wb-main” to specify semantically they are describing the same subject.</li>
+								</ul>
+
+								<p>To Come</p>
+							</details>
+							<details>
+								<summary>RDFa</summary>
+								<p>To Come</p>
+							</details>
+				</div>
+			</div>
+			</div>
+			</div>
+			</details>
+
 <h2 id="additional">Additional resources</h2>
 
 <ul>
 				<li><a href="https://blog.canada.ca/2020/01/28/voice-search-optimization.html">Optimize your content for voice search</a></li>
 				<li><a href="https://gds.blog.gov.uk/2019/12/19/making-gov-uk-more-than-a-website/">Making GOV.UK more than a website</a></li>
-				<li><a href="#https://docs.publishing.service.gov.uk/manual/schemas.html">What data GOV.UK exposes as schema.org structured data</a></li>
+				<li><a href="https://docs.publishing.service.gov.uk/manual/schemas.html">What data GOV.UK exposes as schema.org structured data</a></li>
 				<li><a href="https://www.searchenginejournal.com/google-structured-data-preference/297479/">Google On Which Structured Data it Prefers: JSON-LD or Microdata?</a></li>
 				<li><a href="https://www.w3.org/TR/rdf11-primer/">W3C RDF 1.1 primer</a></li>
 </ul>
