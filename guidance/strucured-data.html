@@ -244,6 +244,11 @@
 				<li><a href="https://wave.webaim.org/">WAVE Web Accessibility Evaluation Tool</a></li>
 </ul>
 
+<h3>Step 5: Publish the page, reindex and monitor</h3>
+<p>Once your structured data is published, ask Google and Bing to reindex the page.</p>
+
+<p>Check the status of your code in the Canada.ca Google search console.</p>
+
 <h2 id="schemas">Schema code and examples</h2>
 
 <details>
@@ -344,9 +349,7 @@ type="application/ld+json"&gt;
 				<li>Guidance documents</li>
 				<li>Actual FAQs</li>
 </ul>
-
 <h4>Official guidance</h4>
-
 <ul>
 				<li><a href="https://schema.org/FAQPage">Schema.org FAQPage guidance</a></li>
 				<li><a href="https://developers.google.com/search/docs/data-types/faqpage">Google FAQPage guidance</a></li>
@@ -531,8 +534,7 @@ type="application/ld+json"&gt;
    &lt;/ul&gt;
   &lt;/div&gt;
  &lt;/div&gt;
-&lt;/div&gt;
-</code></pre>
+&lt;/div&gt;</code></pre>
 				</details>
 			</div>
 			</div>
@@ -621,11 +623,58 @@ type="application/ld+json"&gt;
 												<li>Use the same JSON-LD root id anchor as the one for the main content of the page. Both will use “#wb-main” to specify semantically they are describing the same subject.</li>
 								</ul>
 
-								<p>To Come</p>
-							</details>
-							<details>
-								<summary>RDFa</summary>
-								<p>To Come</p>
+								<pre class="prettyprint"><code>&lt;script
+type="application/ld+json"&gt;
+ {
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "Canada Day celebrations",
+  "startDate": "2020-07-01",
+  "location": {
+   "@type": "Place",
+   "name": "Parliament Hill",
+    "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Ottawa",
+    "addressRegion": "ON",
+    "postalCode": "K1A 0A9",
+    "streetAddress": "Wellington Street"
+    }
+   },
+  "image": "./canada-day.jpg",
+  "description": "Celebrating Canada in the nation's capital."
+ }
+&lt;/script&gt;
+&lt;body vocab="http://schema.org/" typeof="WebPage"&gt;
+ &lt;div typeof="Organisation" resource="#wb-publisher"&gt;
+  &lt;img src="/link/to/a/logo" alt="Publisher name" property="logo" /&gt;
+  &lt;meta property="name" content="Publisher name" /&gt;
+ &lt;/div&gt;
+ &lt;main property="mainContentOfPage" typeof="WebPageElement" resource="#wb-main"&gt;
+ &lt;/main&gt;
+&lt;/body&gt;</code></pre>
+  </details>
+ <details>
+  <summary>RDFa</summary>
+	<pre class="prettyprint"><code>&lt;main property="mainContentOfPage" class="container"&gt;
+&lt;div class="container" vocab="http://schema.org/" typeof="Event"&gt;
+&lt;h1 property="name" id="wb-cont"&gt;Canada day celebrations&lt;/h1&gt;
+&lt;img property="image" src="./canada-day.jpg"&gt;
+&lt;p property="description"&gt;Celebrating Canada in the nation's capital.&lt;/p&gt;
+&lt;div class="event-venue" property="location" typeof="Place"&gt;
+ &lt;h2&gt;Location&lt;/h2&gt;
+ &lt;p&gt;
+  &lt;span property="name"&gt;Parliament Hill&lt;/span&gt;
+  &lt;div class="address" property="address" typeof="PostalAddress"&gt;
+   &lt;span property="streetAddress"&gt;Wellington Street&lt;/span&gt;&lt;br&gt;
+   &lt;span property="addressLocality"&gt;Ottawa&lt;/span&gt;, &lt;span property="addressRegion"&gt;ON&lt;/span&gt; &lt;span property="postalCode"&gt;K1A 0A9&lt;/span&gt;
+  &lt;/div&gt;
+ &lt;/p&gt;
+&lt;/div&gt;
+&lt;h2&gt;Date&lt;/h2&gt;
+&lt;p&gt;
+&lt;div class="event-date" property="startDate" content="2020-07-01"&gt;July 1, 2020&lt;/div&gt;
+&lt;/p&gt;</code></pre>
 							</details>
 				</div>
 			</div>
