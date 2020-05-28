@@ -15,7 +15,8 @@
         <link rel="stylesheet" href="../css/alpha-beta-banner.css">
         <link rel="stylesheet" href="../css/component-presentation.css">
         <link rel="stylesheet" href="../css/navigation.css">
-        <link rel="stylesheet" href="../css/alpha-chip.css">
+		<link rel="stylesheet" href="../css/alpha-chip.css">
+		<link rel="stylesheet" href="../css/sip-section-menu.css">
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 
         <noscript>
@@ -209,7 +210,26 @@
                 <div class="col-md-12">
                     <div id="demo-tabs" class="pattern-demo pattern-demo-component">
                         <div id="tabs-demo" class="component-demo mrgn-rght-lg mrgn-lft-lg mrgn-tp-lg mrgn-bttm-lg">
-                          <nav aria-label="Section menu">
+							<section class="gc-nav provisional">
+								<h1 property="name" id="wb-cont-nav">[Service name]</h1>
+							  <ul id="gc-navseq-nav">
+								<li> <a class="gc-navseq-nav-btn" href="#gc-navseq-header">Go to navigation menu</a> </li>
+								<li> <a class="gc-navseq-nav-btn" href="#wb-cont">Skip to main content</a> </li>
+							  </ul>
+							  <nav aria-label="Section menu">
+								<h2 id="gc-navseq-header" class="mrgn-tp-0 hidden-xs hidden-sm">Sections</h2>
+								<ul id="menubar1" class="gc-navseq" role="menu" aria-label="Section menu">
+									<li><a href="page1-en.html">[Step / section page name 1]</a></li>
+									<li><a href="page2-en.html">[Step / section page name 2]</a></li>
+									<li class="active"><a aria-current="step">[Step / section page name 3]</a></li>
+									<li><a href="page4-en.html">[Step / section page name 4]</a></li>
+									<li><a href="page5-en.html">[Step / section page name 5]</a></li>
+									<li><a href="page6-en.html">[Step / section page name 6]</a></li>
+								</ul>
+							  </nav>
+							</section>
+
+							<!-- <nav aria-label="Section menu">
                             <p class="h3 mrgn-tp-0 hidden-xs hidden-sm">Sections</p>
                             <ul class="gc-navseq">
                               <li class="active"><a class="hidden-xs hidden-sm">Who can apply</a><a class="hidden-md hidden-lg">Who can apply</a></li>
@@ -220,7 +240,7 @@
                               <li><a href="/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-contact.html" class="hidden-xs hidden-sm">Contact the CRA</a><a href="/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-contact.html#wb-cont-nav" class="hidden-md hidden-lg">Contact the CRA</a></li>
                             </ul>
                           </nav>
-                            <!-- <iframe title="Primary button basic example" class="example-frame example-frame-resizable example-frame-m" src="./demos/buttons/wet4/basic-primary.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe> -->
+                            <iframe title="Primary button basic example" class="example-frame example-frame-resizable example-frame-m" src="./demos/buttons/wet4/basic-primary.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe> -->
                         </div>
                     </div>
                 </div>

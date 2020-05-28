@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
 <link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
 <link rel="stylesheet" href="../css/custom.css">
-<link rel="stylesheet" href="../css/sip-section-menu.css">	
+<link rel="stylesheet" href="../css/sip-section-menu.css">
 <link rel="stylesheet" href="../css/guidance-draft.css">
 
 <noscript><link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/noscript.min.css" /></noscript>
@@ -108,27 +108,31 @@
 </div>
 </nav>
 </header>
-<main property="mainContentOfPage" class="container" typeof="WebPageElement">
- <section class="gc-nav">
-    <h1 property="name" id="wb-cont-nav">[Service name]</h1>
-    <ul id="gc-navseq-nav">
-      <li> <a class="gc-navseq-nav-btn" href="#gc-navseq-header">Go to navigation menu</a> </li>
-      <li> <a class="gc-navseq-nav-btn" href="#wb-cont">Skip to main content</a> </li>
-    </ul>
-    <nav aria-label="Section menu">
-      <h2 id="gc-navseq-header" class="mrgn-tp-0 hidden-xs hidden-sm">Sections</h2>
-       <ol class="gc-navseq">
-		 <li><a href="page1-en.html">[Step / section page name 1]</a></li>
-        <li><a href="page2-en.html">[Step / section page name 2]</a></li>
-		   <li class="active"><a aria-current="step">[Step / section page name 3]</a></li>
-		   <li><a href="page4-en.html">[Step / section page name 4]</a></li>
-		   <li><a href="page5-en.html">[Step / section page name 5]</a></li>
-		   <li><a href="page6-en.html">[Step / section page name 6]</a></li>
-      </ol>
-    </nav>
-  </section>
-  <section class="gc-nav-section">
-    <h1 property="name" id="wb-cont">[Step / section page name 3]</h1>
+
+
+
+
+<main property="mainContentOfPage" class="container">
+	<section class="gc-nav provisional">
+		<h1 property="name" id="wb-cont-nav">[Service name]</h1>
+	  <ul id="gc-navseq-nav">
+		<li> <a class="gc-navseq-nav-btn" href="#gc-navseq-header">Go to navigation menu</a> </li>
+		<li> <a class="gc-navseq-nav-btn" href="#wb-cont">Skip to main content</a> </li>
+	  </ul>
+	  <nav aria-label="Section menu">
+		<h2 id="gc-navseq-header" class="mrgn-tp-0 hidden-xs hidden-sm">Sections</h2>
+		<ul id="menubar1" class="gc-navseq" role="menu" aria-label="Section menu">
+			<li><a href="page1-en.html">[Step / section page name 1]</a></li>
+			<li><a href="page2-en.html">[Step / section page name 2]</a></li>
+			<li class="active"><a aria-current="step">[Step / section page name 3]</a></li>
+			<li><a href="page4-en.html">[Step / section page name 4]</a></li>
+			<li><a href="page5-en.html">[Step / section page name 5]</a></li>
+			<li><a href="page6-en.html">[Step / section page name 6]</a></li>
+		</ul>
+	  </nav>
+	</section>
+  <section role="group" aria-labelledby="wb-cont" class="gc-nav-section provisional">
+	<h1 property="name" id="wb-cont">Who can apply</h1>
     <h2 class="h3 mrgn-tp-md">On this page</h2>
     <ul>
       <li><a href="#sh_1">[Sub heading 1]</a></li>
