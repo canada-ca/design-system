@@ -1,33 +1,33 @@
-.experimental.followus h2 {
+.provisional.followus h2 {
   font-size: 1.1em;
   margin-top: 10px;
 }
 
-.followus.experimental {
+.followus.provisional {
 	padding: 0;
 }
 
-.followus.experimental h2 {
+.followus.provisional h2 {
 	display: block;
 }
 
-.followus.experimental h2, .followus.experimental ul {
+.followus.provisional h2, .followus.provisional ul {
 	margin-left: 0;
 }
 
-.experimental .followus {
+.provisional .followus {
   line-height: 0em;
 }
 
-.experimental .followus, .experimental.followus {
+.provisional .followus, .provisional.followus {
   background-color: transparent;
 }
 
-.experimental .followus a {
+.provisional .followus a {
   text-decoration: none;
 }
 
-.experimental .followus ul {
+.provisional .followus ul {
   display: block;
   list-style-type: none;
   margin-block-start: 1em;
@@ -36,31 +36,31 @@
 	margin-block-end: 0em;
 }
 
-.experimental .followus ul li {
+.provisional .followus ul li {
   margin-bottom: 15px;
 }
 
-.experimental .followus ul li:last-child {
+.provisional .followus ul li:last-child {
   margin-bottom: 0px;
 }
 
-.experimental .followus ul li a {
-  border: none; 
+.provisional .followus ul li a {
+  border: none;
   padding: 0px 5px;
 }
 
-.experimental .social-lnk {
-  position: relative; 
+.provisional .social-lnk {
+  position: relative;
   bottom:-18px;
-  left:45px; 
+  left:45px;
 }
 
-.experimental .followus-vertical li {
+.provisional .followus-vertical li {
   display: block;
   background-position: left;
 }
 
-.experimental .newicon.facebook {
+.provisional .newicon.facebook {
   background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/facebook.png") no-repeat;
   height: 36px;
   width: 36px;
@@ -68,28 +68,28 @@
   display: block;
 }
 
-.experimental .newicon.twitter {
+.provisional .newicon.twitter {
   background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/twitter.png") no-repeat;
   height: 36px;
   width: 36px;
   background-size: cover;
   display: block;
 }
-.experimental .newicon.youtube {
+.provisional .newicon.youtube {
   background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/youtube.png") no-repeat;
   height: 36px;
   width: 36px;
   background-size: cover;
   display: block;
 }
-.experimental .newicon.instagram {
+.provisional .newicon.instagram {
   background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/instagram.png") no-repeat;
   height: 36px;
   width: 36px;
   background-size: cover;
   display: block;
 }
-.experimental .newicon.linkedin {
+.provisional .newicon.linkedin {
   background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/instagram.png") no-repeat;
   height: 36px;
   width: 36px;
@@ -97,23 +97,23 @@
   display: block;
 }
 
-.promo-social.experimental h3 {
+.promo-social.provisional h3 {
   margin-top: 5px;
   text-decoration: underline;
 }
 
-.experimental .thumbnail {
+.provisional .thumbnail {
   border-color: #335075;
   border-width: 1px;
   padding: 0px;
 }
-  
+
 @media screen and (max-width: 991px) {
   .most-requested-bullets li {
     font-size: 19px;
     }
 
-  .experimental .mobile-left {
+  .provisional .mobile-left {
     float: left !important; /* important is needed to override float right*/
   }
 }
