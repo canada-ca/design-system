@@ -1,14 +1,10 @@
-.provisional.followus h2 {
+.provisional .followus h2 {
   font-size: 1.1em;
   margin-top: 10px;
 }
 
 .followus.provisional {
 	padding: 0;
-}
-
-.followus.provisional h2 {
-	display: block;
 }
 
 .followus.provisional h2, .followus.provisional ul {
