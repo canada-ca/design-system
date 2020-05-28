@@ -1,10 +1,14 @@
-.provisional .followus h2 {
+.provisional.followus h2 {
   font-size: 1.1em;
   margin-top: 10px;
 }
 
 .followus.provisional {
 	padding: 0;
+}
+
+.followus.provisional h2 {
+	display: block;
 }
 
 .followus.provisional h2, .followus.provisional ul {
@@ -41,14 +45,14 @@
 }
 
 .provisional .followus ul li a {
-  border: none;
+  border: none; 
   padding: 0px 5px;
 }
 
 .provisional .social-lnk {
-  position: relative;
+  position: relative; 
   bottom:-18px;
-  left:45px;
+  left:45px; 
 }
 
 .provisional .followus-vertical li {
@@ -103,7 +107,7 @@
   border-width: 1px;
   padding: 0px;
 }
-
+  
 @media screen and (max-width: 991px) {
   .most-requested-bullets li {
     font-size: 19px;
