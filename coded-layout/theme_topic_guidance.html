@@ -11,6 +11,8 @@
 		<link rel="stylesheet" href="../css/theme-topic.css" />
 		<link rel="stylesheet" href="../css/social-media.css" />
 		<link rel="stylesheet" href="../css/mr-bullets.css" />
+		<link rel="stylesheet" href="../css/guidance-draft.css">
+
 
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" />
 		<noscript>
@@ -28,7 +30,6 @@
 		</script>
 	</head>
 	<body class="page-type-nav" vocab="http://schema.org/" typeof="WebPage">
-		<nav>
 			<ul id="wb-tphp">
 				<li class="wb-slc">
 					<a class="wb-sl" href="#wb-cont">Skip to main content</a>
@@ -37,7 +38,33 @@
 					<a class="wb-sl" href="#wb-info">Skip to "About government"</a>
 				</li>
 			</ul>
-    </nav>
+				<nav class="guidance-ban-nav">
+					<h2 class="wb-inv">Navigation and controls</h2>
+					<div class="container">
+						<div class="row">
+							<div class="col-md-4 col-lg-3 col-sm-4">
+								<div class="guidance-nav">
+									<a href="../mandatory-templates/theme-topic-alpha.html"><span
+											class="fas fa-arrow-left padding-rght"></span>Theme and topic page</a>
+								</div>
+							</div>
+							<div class="guidance-options col-md-6 col-sm-6 col-xs-12">
+								<div class="btn-group">
+									<button id="show-guidance-toggle" class="guidance-toggle btn btn-default active"><span
+											class="fas fa-laptop-code "></span>&nbsp;Show guidance</button>
+									<button id="hide-guidance-toggle" class="guidance-toggle btn btn-default wb-toggle"
+										data-toggle='[{"selector":"#show-guidance-toggle", "stateOn":"active", "state":"on"},{"stateOn":"active", "state":"off"}]'><span
+											class="fas fa-pen-square"></span>&nbsp;Hide guidance</button>
+								</div>
+							</div>
+							<div class="get-code col-md-2 col-sm-2 col-xs-12 pull-right">
+								<a href="../mandatory-templates/theme-topic-alpha.html#code"
+									class="btn btn-sm btn-default pstn-rght-md pull-right pstn-get-code"><span
+										class="fas fa-external-link-alt"></span>&nbsp;<b>Get code</b></a>
+							</div>
+						</div>
+					</div>
+				</nav>
 		<header>
 			<div id="wb-bnr" class="container">
 				<section id="wb-lng" class="text-right">
@@ -479,5 +506,7 @@
 			// 		})
 			//	})
 		</script>
+			<script src="../js/guidance-toggle.js"></script>
+
 	</body>
 </html>
