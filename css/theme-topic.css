@@ -1,0 +1,90 @@
+.pstn-relative.experimental {
+  position: relative;
+}
+
+.hide-hrztl-ovrflw.experimental {
+  overflow-x: hidden;
+}
+
+.tt-img.experimental {
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-left: 25px;
+  background-color: #f5f5f5;
+}
+
+.pagetag.experimental {
+  max-width: 65ch;
+}
+
+.most-requested-bullets.with-img.experimental {
+  margin-top: 0px;
+}
+.promo-social.experimental h3 {
+  margin-top: 5px;
+  text-decoration: underline;
+}
+
+.experimental .thumbnail {
+  border-color: #335075;
+  border-width: 1px;
+  padding: 0px;
+}
+  
+.experimental .contributors {
+	font-size: 16px;
+	font-weight: 600;
+}
+
+.experimental .from {
+	font-size: 17px;
+	margin-top: 7px;
+}
+
+.experimental .contributors ul {
+	margin-block-start: 0em;
+	margin-block-end: 0em;
+	margin-inline-start: -50px;
+	margin-inline-end: 0px;
+	padding-inline-start: 0px;
+}
+
+@media screen and (min-width: 991px) {
+  .experimental .contributors li {
+      display: inline-block;
+      float: left;
+      margin-right: .7em;
+  }
+}
+
+@media screen and (min-width: 991px) {
+  .experimental .contributors li:first-child:before {
+      content: none;
+  }
+  .experimental .contributors li:before {
+      content: "\2022";
+      margin-right: .7em;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+ .experimental .contributors ul {
+    margin-inline-start: -30px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .experimental .mobile-left {
+    float: left !important; /* important is needed to override float right*/
+  }
+
+  .experimental .contributors ul {
+    margin-inline-start: 1.5em;
+  }
+}
+
+/* part of guidance.css but needed to fix the button alignment here - delete after guidance PR is accepted */
+.tt-img .btn-sm {
+  margin-top: 16px;
+  margin-left: 4px;
+}
