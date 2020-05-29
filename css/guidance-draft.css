@@ -123,5 +123,5 @@
 }
 
 .guidance-details details, .guidance-details summary, .guidance-details details summary:focus, .guidance-details details summary:hover {
-	background-color: white;
+	background-color: white !important;
 }
