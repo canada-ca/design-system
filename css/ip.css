@@ -67,6 +67,17 @@ ul.feeds-cont li a {
 	font-weight: bold;
 }
 
+.followus.experimental {
+	padding: 0;
+}
+
+.followus.experimental h2 {
+	display: block;
+}
+
+.followus.experimental h2, .followus.experimental ul {
+	margin-left: 0;
+}
 
 @media screen and (max-width: 1200px) {
   .featured {
