@@ -314,33 +314,7 @@
 			</div>
 
 		</div>
-		<div class="container wb-inv single-feature provisional">
-			<div class="row">
-				<h2 class="wb-inv">Feature</h2>
-				<section class="col-md-8 mrgn-bttm-md mrgn-tp-lg">
-					<div class="row">
-						<div class="col-md-6 gc-srvinfo pull-right mobile-left">
-							<h3 class="h5"><a href="#">Feature title</a></h3>
-							<p>Brief description of feature.</p>
-						</div>
-						<div class="col-md-6">
-							<a href="#"><img alt="" class="img-responsive thumbnail mrgn-bttm-sm" src="./images/feature-img-360x203.jpg" />
-							</a>
-						</div>
-					</div>
-							<div class="row guidance-details">
-								<div class="col-md-8">
-									<details>
-										<summary><b>Guidance:</b> Feature <span class="fas fa-info-circle"></span></summary>
-										<p><span class="label label-info">Optional</span></p>
-										<p>A feature should be contextual to the content on the page.</p>
-									</details>
-								</div>
-							</div>
-				</section>
 
-			</div> <!-- row -->
-		</div> <!-- container -->
 			<div class="provisional promo-social mrgn-tp-md">
 				<div class="container">
 					<div class="row">
@@ -357,7 +331,7 @@
 									</div>
 								</div>
 							</section>
-						<div class="col-md-4 mrgn-bttm-sm pull-right mobile-left">
+						<div class="single-feature col-md-4 mrgn-bttm-sm pull-right mobile-left">
 							<section class="provisional followus followus-vertical">
 								<h2>On social media
 								</h2>
@@ -519,15 +493,13 @@
 
 			$(".off-followus").click(function () {
 					$(this).addClass("wb-inv");
-					$(".promo-social").addClass("wb-inv");
-					$(".single-feature").removeClass("wb-inv");
+					$(".single-feature").addClass("wb-inv");
 					$(".on-followus").removeClass("wb-inv");
 				});
 
 			$(".on-followus").click(function () {
 					$(this).addClass("wb-inv");
-					$(".promo-social").removeClass("wb-inv");
-					$(".single-feature").addClass("wb-inv");
+					$(".single-feature").removeClass("wb-inv");
 					$(".off-followus").removeClass("wb-inv");
 
 				});
