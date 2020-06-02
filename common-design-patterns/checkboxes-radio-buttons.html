@@ -109,8 +109,10 @@
 				<div class="mwsgeneric-base-html parbase section">
 					<p class="gc-byline"><strong>From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
 					<span class="wb-prettify all-pre"></span>
-					<p>Checkboxes and radio buttons are form controls to select an answer to a question or confirm completion, such as in a checklist.</p>
-					<p>The design for large checkbox and radio buttons makes it easier and quicker for users to select them, particularly on mobile devices.</p>
+					<p>Checkboxes and radio buttons are form controls. They help poeple select an answer to a question or confirm completion.</p>
+
+					<p>Large checkboxes and radio buttons are easier to select and use, particularly on mobile devices.</p>
+
 					<h2>On this page</h2>
 					<ul>
 						<li><a href="#use">When to use</a></li>
@@ -120,25 +122,28 @@
 					</ul>
 					<section>
 						<h2 id="use">When to use</h2>
-						<p>Checkboxes and radio buttons should be used in interactive questions, such as in application forms for a service or wizards.</p>
-						<p>Use of interactive questions is highly encouraged on Canada.ca.</p>
+						<p>Checkboxes and radio buttons should be used in interactive questions, like in application forms or wizards:</p>
 						<ul>
 							<li><a href="./interactive-questions.html">Interactive questions</a></li>
 						</ul>
 					</section>
 					<section>
 						<h2 id="avoid">What to avoid</h2>
-						<p>Do not use checkboxes or radio buttons to present options that are not easily comparable. Consider using navigation patterns such as doormat links instead:</p>
+						<p>Don't use checkboxes or radio buttons to present options that are not easily comparable. In these cases, use the Services and information (doormat) pattern:</p>
 						<ul>
 							<li><a href="./services-information.html">Services and information (doormats)</a></li>
 						</ul>
-						<p>For a stand alone question with few options and a manageable amount of content per option that does not require separate pages, consider using expand/collapse or tabs.</p>
+						<p>For a stand alone question with few options and a manageable amount of content per option that does not require separate pages, use expand/collapse or tabs instead:</p>
+            <ul>
+							<li><a href="./collapsible-content.html">Expand/collapse</a></li>
+              <li><a href="./tabbed-interface.html">Tabbed inteface</a></li>
+						</ul>
 					</section>
 					<section>
 						<h2 id="implement">How to implement</h2>
 						<h3 id="large-checkboxes">Large checkboxes</h3>
-						<p><b>When to use:</b> Large checkboxes are the default checkbox pattern. In particular, large checkboxes should be used when one or more selections can be made to answer a question.</p>
-						<p><b>What to avoid:</b> Do not use the large checkbox design when making a checklist with items that break across multiple lines or when there is a single item that can be checked. For these situations, use the checklist pattern</p>
+						<p><b>When to use:</b> Large checkboxes are the recommended checkbox pattern. In particular, large checkboxes should be used when one or more selections can be made to answer a question.</p>
+						<p><b>What to avoid:</b> Don't use the large checkboxes when building a checklist with items that break across multiple lines or when only a single item  can be checked. For these situations, use tickboxes instead.</p>
 						<section>
 							<h4>Large checkboxes target with explicit labels</h4>
 							<div class="panel panel-default">
@@ -163,22 +168,22 @@
 								</div>
 							</div>
 							<pre><code>&lt;fieldset class="provisional wb-chckbxrdio"&gt;
-		&lt;legend&gt;Choose your condiments:&lt;/legend&gt;
-		&lt;ul class="list-unstyled lst-spcd-2"&gt;
-			&lt;li class="checkbox"&gt;
-				&lt;input type="checkbox" id="cond1"&gt;
-				&lt;label for="cond1"&gt;Ketchup&lt;/label&gt;
-			&lt;/li&gt;
-			&lt;li class="checkbox"&gt;
-				&lt;input type="checkbox" id="cond2"&gt;
-				&lt;label for="cond2"&gt;Relish&lt;/label&gt;
-			&lt;/li&gt;
-			&lt;li class="checkbox"&gt;
-				&lt;input type="checkbox" id="cond3"&gt;
-				&lt;label for="cond3"&gt;Mustard&lt;/label&gt;
-			&lt;/li&gt;
-		&lt;/ul&gt;
-	&lt;/fieldset&gt;</code></pre>
+ &lt;legend&gt;Choose your condiments:&lt;/legend&gt;
+ &lt;ul class="list-unstyled lst-spcd-2"&gt;
+  &lt;li class="checkbox"&gt;
+   &lt;input type="checkbox" id="cond1"&gt;
+   &lt;label for="cond1"&gt;Ketchup&lt;/label&gt;
+  &lt;/li&gt;
+  &lt;li class="checkbox"&gt;
+   &lt;input type="checkbox" id="cond2"&gt;
+   &lt;label for="cond2"&gt;Relish&lt;/label&gt;
+  &lt;/li&gt;
+  &lt;li class="checkbox"&gt;
+   &lt;input type="checkbox" id="cond3"&gt;
+   &lt;label for="cond3"&gt;Mustard&lt;/label&gt;
+  &lt;/li&gt;
+ &lt;/ul&gt;
+&lt;/fieldset&gt;</code></pre>
 							<h4>Large disabled checkboxes target with explicit labels</h4>
 							<div class="panel panel-default">
 								<div class="panel-body">
@@ -202,33 +207,33 @@
 								</div>
 							</div>
 							<pre><code>&lt;fieldset class="provisional wb-chckbxrdio"&gt;
-		&lt;legend&gt;Choose your condiments:;&lt;/legend&gt;
-		&lt;ul class="list-unstyled lst-spcd-2"&gt;
-			&lt;li class="checkbox"&gt;
-				&lt;input type="checkbox" id="cond1" disabled&gt;
-				&lt;label for="cond1"&gt;Ketchup&lt;/label&gt;
-			&lt;/li&gt;
-			&lt;li class="checkbox"&gt;
-				&lt;input type="checkbox" id="cond2" class="disabled"&gt;
-				&lt;label for="cond2"&gt;Relish&lt;/label&gt;
-			&lt;/li&gt;
-			&lt;li class="checkbox"&gt;
-				&lt;input type="checkbox" id="cond3" class="disabled" disabled&gt;
-				&lt;label for="cond3"&gt;Mustard&lt;/label&gt;
-			&lt;/li&gt;
-		&lt;/ul&gt;
-	&lt;/fieldset&gt;</code></pre>
+ &lt;legend&gt;Choose your condiments:;&lt;/legend&gt;
+ &lt;ul class="list-unstyled lst-spcd-2"&gt;
+  &lt;li class="checkbox"&gt;
+   &lt;input type="checkbox" id="cond1" disabled&gt;
+   &lt;label for="cond1"&gt;Ketchup&lt;/label&gt;
+  &lt;/li&gt;
+  &lt;li class="checkbox"&gt;
+   &lt;input type="checkbox" id="cond2" class="disabled"&gt;
+   &lt;label for="cond2"&gt;Relish&lt;/label&gt;
+  &lt;/li&gt;
+  &lt;li class="checkbox"&gt;
+   &lt;input type="checkbox" id="cond3" class="disabled" disabled&gt;
+   &lt;label for="cond3"&gt;Mustard&lt;/label&gt;
+  &lt;/li&gt;
+ &lt;/ul&gt;
+&lt;/fieldset&gt;</code></pre>
 						</section>
 						<section>
 							<h3 id="small-checkboxes">Tickboxes (smaller checkboxes)</h3>
 							<p><b>When to use:</b> Only use tickboxes when there is a single item that can be checked, such as for confirmations.</p>
-							<p><b>What to avoid:</b> Do not use the tickbox design for answers to a question or checklists. For these situations, use the large checkboxes.</p>
+							<p><b>What to avoid:</b> Don't use tickboxes for answers to questions or in checklists. For these situations, use the large checkboxes instead:</p>
 							<ul>
 								<li><a href="#large-checkboxes">Large checkboxes</a></li>
 							</ul>
-							<p>Consider using a button instead of tickbox, particularly in cases where it is the primary action or next step on the page.</p>
+							<p>Consider using a button instead of tickbox, particularly in cases where it is the primary action or next step on the page:</p>
 							<ul>
-								<li><a href="https://wet-boew.github.io/themes-dist/GCWeb/content-en.html#call-to-action">Buttons</a></li>
+								<li><a href="./buttons.html">Buttons</a></li>
 							</ul>
 							<h4>Single smaller checkbox target with explicit label in an inline form</h4>
 							<div class="panel panel-default">
@@ -251,25 +256,25 @@
 								</div>
 							</div>
 							<pre class="mrgn-tp-md"><code>&lt;form class="form-inline" method="get" action="#"&gt;
-		&lt;div class="form-group"&gt;
-			&lt;label class="wb-inv" for="exampleInputEmail2"&gt;Email address&lt;/label&gt;
-			&lt;input type="email" class="form-control" id="exampleInputEmail2" placeholder="Enter email" /&gt;
-		&lt;/div&gt;
-		&lt;div class="form-group"&gt;
-			&lt;label class="wb-inv" for="exampleInputPassword2"&gt;Password&lt;/label&gt;
-			&lt;input type="password" class="form-control" id="exampleInputPassword2" placeholder="Password" /&gt;
-		&lt;/div&gt;
-		&lt;div class="wb-chckbxrdio"&gt;
-			&lt;input id="remember2" type="checkbox" class="checkbox-small"/&gt;
-			&lt;label for="remember2"&gt;Remember me&lt;/label&gt;
-		&lt;/div&gt;
-		&lt;button type="submit" class="btn btn-default"&gt;Sign in&lt;/button&gt;
-	&lt;/form&gt;</code></pre>
+ &lt;div class="form-group"&gt;
+  &lt;label class="wb-inv" for="exampleInputEmail2"&gt;Email address&lt;/label&gt;
+  &lt;input type="email" class="form-control" id="exampleInputEmail2" placeholder="Enter email" /&gt;
+ &lt;/div&gt;
+ &lt;div class="form-group"&gt;
+  &lt;label class="wb-inv" for="exampleInputPassword2"&gt;Password&lt;/label&gt;
+  &lt;input type="password" class="form-control" id="exampleInputPassword2" placeholder="Password" /&gt;
+ &lt;/div&gt;
+ &lt;div class="wb-chckbxrdio"&gt;
+  &lt;input id="remember2" type="checkbox" class="checkbox-small"/&gt;
+  &lt;label for="remember2"&gt;Remember me&lt;/label&gt;
+ &lt;/div&gt;
+ &lt;button type="submit" class="btn btn-default"&gt;Sign in&lt;/button&gt;
+&lt;/form&gt;</code></pre>
 						</section>
 						<section>
 							<h3>Radio buttons</h3>
 							<h4>Large radio buttons target with explicit labels</h4>
-							<p><b>When to use:</b> Use radio buttons when only one selection can be made.</p>
+							<p><b>When to use:</b> Use radio buttons when only one selection can be made in a list.</p>
 							<div class="panel panel-default">
 								<div class="panel-body">
 									<fieldset class="provisional wb-chckbxrdio">
@@ -292,22 +297,22 @@
 								</div>
 							</div>
 							<pre><code>&lt;fieldset class="provisional wb-chckbxrdio"&gt;
-		&lt;legend&gt;Choose your condiments:&lt;/legend&gt;
-		&lt;ul class="list-unstyled lst-spcd-2"&gt;
-			&lt;li class="radio"&gt;
-				&lt;input type="radio" name="animal" id="animal-1"&gt;
-				&lt;label for="animal-1"&gt;Dog&lt;/label&gt;
-			&lt;/li&gt;
-			&lt;li class="radio"&gt;
-				&lt;input type="radio" name="animal" id="animal-2"&gt;
-				&lt;label for="animal-2"&gt;Cat&lt;/label&gt;
-			&lt;/li&gt;
-			&lt;li class="radio"&gt;
-				&lt;input type="radio" name="animal" id="animal-3"&gt;
-				&lt;label for="animal-3"&gt;Rat&lt;/label&gt;
-			&lt;/li&gt;
-		&lt;/ul&gt;
-	&lt;/fieldset&gt;</code></pre>
+ &lt;legend&gt;Which is your favorite pet?&lt;/legend&gt;
+ &lt;ul class="list-unstyled lst-spcd-2"&gt;
+  &lt;li class="radio"&gt;
+   &lt;input type="radio" name="animal" id="animal-1"&gt;
+   &lt;label for="animal-1"&gt;Dog&lt;/label&gt;
+  &lt;/li&gt;
+  &lt;li class="radio"&gt;
+   &lt;input type="radio" name="animal" id="animal-2"&gt;
+   &lt;label for="animal-2"&gt;Cat&lt;/label&gt;
+  &lt;/li&gt;
+  &lt;li class="radio"&gt;
+   &lt;input type="radio" name="animal" id="animal-3"&gt;
+   &lt;label for="animal-3"&gt;Rat&lt;/label&gt;
+  &lt;/li&gt;
+ &lt;/ul&gt;
+&lt;/fieldset&gt;</code></pre>
 							<h4>Large radio buttons target with explicit labels in an inline form</h4>
 							<div class="panel panel-default">
 								<div class="panel-body">
@@ -329,20 +334,20 @@
 								</div>
 							</div>
 							<pre><code>&lt;fieldset class="provisional wb-chckbxrdio form-inline"&gt;
-		&lt;legend&gt;Choose an option&lt;/legend&gt;
-		&lt;div class="label-inline"&gt;
-			&lt;input id="inlineRadio1" type="radio" name="optradio"&gt;
-			&lt;label for="inlineRadio1"&gt;Option 1&lt;/label&gt;
-		&lt;/div&gt;
-		&lt;div class="label-inline"&gt;
-			&lt;input id="inlineRadio2" type="radio" name="optradio"&gt;
-			&lt;label for="inlineRadio2"&gt;Option 2&lt;/label&gt;
-		&lt;/div&gt;
-		&lt;div class="label-inline"&gt;
-			&lt;input id="inlineRadio3" type="radio" name="optradio"&gt;
-			&lt;label for="inlineRadio3"&gt;Option 3&lt;/label&gt;
-		&lt;/div&gt;
-	&lt;/fieldset&gt;</code></pre>
+ &lt;legend&gt;Choose an option&lt;/legend&gt;
+ &lt;div class="label-inline"&gt;
+  &lt;input id="inlineRadio1" type="radio" name="optradio"&gt;
+  &lt;label for="inlineRadio1"&gt;Option 1&lt;/label&gt;
+ &lt;/div&gt;
+ &lt;div class="label-inline"&gt;
+  &lt;input id="inlineRadio2" type="radio" name="optradio"&gt;
+  &lt;label for="inlineRadio2"&gt;Option 2&lt;/label&gt;
+ &lt;/div&gt;
+ &lt;div class="label-inline"&gt;
+  &lt;input id="inlineRadio3" type="radio" name="optradio"&gt;
+  &lt;label for="inlineRadio3"&gt;Option 3&lt;/label&gt;
+ &lt;/div&gt;
+&lt;/fieldset&gt;</code></pre>
 						</section>
 						<section>
 							<h2 id="configurations">Configuration options</h2>
