@@ -18,8 +18,14 @@
 	font-size: 1.2em;
 }
 
+.provisional.list-bld {
+	font-weight: 600;
+}
+
 @media screen and (max-width: 991px) {
   .most-requested-bullets.provisional li {
     font-size: 19px;
     }
 }
+
+
