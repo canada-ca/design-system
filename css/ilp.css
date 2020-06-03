@@ -11,10 +11,6 @@
 	font-size: 1em;
 }
 
-.ministers img {
-	max-width: 200px;
-}
-
 
 .featured {
   margin-bottom: 0em;
@@ -53,14 +49,20 @@ ul.feeds-cont li a {
 @media screen and (max-width: 768px) {
 
 .ip-cover-hide-tablet {
-		background-image: url("none") !important;
+	background-image: url("none") !important;
 }
 
 
 @media screen and (max-width: 425px) {
 
-.ip-cover-hide-mobile {
+	.ip-cover-hide-mobile {
 		background-image: url("none") !important;
+	}
+
 }
 
+/* version with Minister images */
+
+.ministers img {
+	max-width: 200px;
 }
