@@ -36,15 +36,15 @@ $(document).ready(function(){
 
     //hide all component demos, show the selected one
     $("#design-variant-menu").change(function(){
-        console.log(this.id);
+        console.log(this.value);
         $('.component-demo').addClass("hidden");
         $('.component-code').addClass("hidden");
         $('.layout-submenu').addClass("hidden");
         $('.variant-usage').addClass("hidden");
-        $('#'+this.id+'-demo').removeClass("hidden");
-        $('#'+this.id+'-code').removeClass("hidden");
-        $('#'+this.id+'-submenu').removeClass("hidden");
-        $('#'+this.id+'-usage').removeClass("hidden");
+        $('#'+this.value+'-demo').removeClass("hidden");
+        $('#'+this.value+'-code').removeClass("hidden");
+        $('#'+this.value+'-submenu').removeClass("hidden");
+        $('#'+this.value+'-usage').removeClass("hidden");
     });
 
     $(".layout-variant-menu").change(function(){
