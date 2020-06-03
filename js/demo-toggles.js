@@ -35,7 +35,7 @@ $(document).ready(function(){
     }
 
     //hide all component demos, show the selected one
-    $("#design-variant-menu").change(function(){
+    $("#design-variant-menu").on("change", function(e){
         console.log(this.id);
         $('.component-demo').addClass("hidden");
         $('.component-code').addClass("hidden");
