@@ -6,7 +6,7 @@
 <meta charset="utf-8">
 <!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
 		wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
-		<title>Global header - Canada.ca design pattern - Canada.ca</title>
+		<title>Site footer - Canada.ca design pattern - Canada.ca</title>
 <meta content="width=device-width,initial-scale=1" name="viewport">
 
 <!--[if gte IE 9 | !IE ]><!-->
@@ -58,7 +58,7 @@
 <div class="row">
 <div class="col-md-12">
 <ul class="list-inline margin-bottom-none">
-<li><a lang="fr" href="https://conception.canada.ca/configurations-conception-communes/en-tete-general.html">Français</a></li>
+<li><a lang="fr" href="https://conception.canada.ca/configurations-conception-communes/pied-page.html">Français</a></li>
 </ul>
 </div>
 </div>
@@ -150,7 +150,7 @@
 <main role="main" property="mainContentOfPage" class="container">
 
 
-<h1 property="name" id="wb-cont" dir="ltr">Global header - Canada.ca design pattern</h1>
+<h1 property="name" id="wb-cont" dir="ltr">Site footer - Canada.ca design pattern</h1>
 
 
 
@@ -160,18 +160,35 @@
 
 
 <p class="gc-byline"><strong>From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
+<section>
+<section>
 <p><span class="label label-danger">Mandatory on standard pages</span></p>
+<p>The global (site-wide) footer at the bottom of each web page contains links to Government of Canada corporate content, and to Government of Canada content repositories.</p>
+<figure class="mrgn-bttm-lg">
+<figcaption><b>Global footer navigation menu – large screen</b></figcaption>
+<img src="../images/site-footer-en.png" class="img-responsive" alt="Diagram of global footer navigation menu for large screens. Text version below:">
+<details>
+	<summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Text version</summary>
+	<p>The global footer navigation menu contains links that are arranged in 3 columns. The first column contains: “Contact us”; “Departments and agencies” and “Public service and military”. The second column contains “News”; “Treaties, laws and regulations”; and “Government-wide reporting”. The final column contains: “Prime Minister”; “How government works”; and “Open government”. Along the bottom of the footer links to the following are presented: “Social media”; “Mobile applications”; “About Canada.ca”; “Terms and conditions”; and “Privacy”. The Canada wordmark is presented in the bottom-right corner.</p>
+</details>
+</figure>
+<figure class="mrgn-bttm-lg">
+<figcaption><b>Global footer navigation menu – small screen</b></figcaption>
+<img src="../images/footer-mobile-en.png" class="img-responsive" alt="Diagram of global footer navigation menu for small screens. Text version below:">
+<details>
+	<summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Text version</summary>
+	<p>The global footer contains the following links when presented for small screen: Contact us; Departments and agencies; Public service and military; News; Treaties, laws and regulation; Government-wide reporting; Prime Minister; How government works; Open government. This section is then divided and the following is presented in 2 coliumns below the division: Social media; Mobile applications; About Canada.ca; Terms and conditions; and Privacy. Finally, at the bottom left there is a link to top of page, and the Canada wordmark is placed at the bottom right.</p>
+</details>
+</figure>
+</section>
 
-<p>The global header is at the top of each web page from the Government of Canada.</p>
-<p>***** image needs update ***** </p>
-<div class="pattern-demo">
-<img class="img-responsive" src="https://gc-proto.github.io/spec2.0/images/header-en.png" alt="Elements of the Canada.ca header. See table for details">
-</div>
+<section>
 <h2>Objective</h2>
-<p>Having the same global header on all pages strengthen the global Canada.ca brand and promotes trust.</p>
-
-<h2>When to use</h2>
-<p>The gobal header should be on all pages from the Goverment of Canada. Some elements are optional in these situations:</p>
+<p>The purpose of footer navigation menus is to help people discover government-related content contained in the deeper parts of the site’s user navigation model. The footer menus also provide direct, centralized access to <abbr title="Government of Canada">GC</abbr>-wide tasks (for  example, Contact us, News, Open  government).</p>
+</section>
+<section>
+<h2>When to use the site footer</h2>
+<p>The site footer should be on all pages from the Goverment of Canada. Some elements are optional in these situations:</p>
 
 <ul>
   <li><strong>Transactional scenarios</strong>: Pages where people are engaged in a transactional process such that mistakenly following other links  would result in errors, loss of data or accidental termination of the session.</li>
@@ -179,15 +196,15 @@
 </ul>
 
 <p>For more information, go to the <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html#header-footer">Mandatory elements of the design system</a>.</p>
-
-<h2>How to implement</h2>
+</section>
+<section>
+<h2>How to implement the site footer</h2>
 <p>Follow these requirements:</p>
-
 <table class="table table-bordered table-condensed">
 
 <caption>
 
-Global header requirements
+Global footer requirements
 
 </caption>
 
@@ -195,68 +212,54 @@ Global header requirements
 
   <tr class="active">
 
-    <th scope="col">Header element</th>
+    <th scope="col">Footer element</th>
     <th scope="col">Standard page</th>
     <th scope="col">Campaign page</th>
     <th scope="col">Transactional page</th>
 
   </tr>
 </thead>
-<tfoot>
-		<tr>
-			<td colspan="4">
-				<section class="wb-fnote">
-					<h2 id="table1-fn" class="wb-inv">Table 1 Notes</h2>
-					<dl>
-						<dt>Table 1 Note 1</dt>
-						<dd id="table1-fn1">
-							<p>Transactional web applications must be developed so that people can toggle between official languages on any given page or screen. Some legacy web applications may not have been designed this way. Such applications should be updated to allow this functionality. Until they are replaced or updated, the language toggle can be omitted if its use would result in a loss of data.</p>
-							<p class="fn-rtn"> <a href="#table1-fn1-rf"><span class="wb-inv">Return to table 1 note </span>1<span class="wb-inv"> referrer</span></a> </p>
-						</dd>
-					</dl>
-				</section>
-			</td>
-		</tr>
-	</tfoot>
+
 <tbody>
 
   <tr>
 
-    <td><a href="https://design.canada.ca/common-design-patterns/signature.html">Government of Canada signature (linked to Canada.ca home)</a></td>
+    <td><a href="https://design.canada.ca/common-design-patterns/report-problem.html">Report a problem</a></td>
     <td>Mandatory</td>
     <td>Mandatory</td>
-    <td>Mandatory, but link to Canada.ca home page is optional</td>
+    <td>Mandatory</td>
 
   </tr>
   <tr>
 
-    <td><a href="https://design.canada.ca/common-design-patterns/language-toggle.html">Language toggle</a></td>
+    <td><a href="https://design.canada.ca/common-design-patterns/share-page.html">Share this page</a></td>
 
-    <td>Mandatory</td>
-    <td>Mandatory</td>
-    <td>Mandatory <sup id="table1-fn1-rf"><a class="fn-lnk" href="#table1-fn1"><span class="wb-inv">table 1 note </span>1</a></sup></td>
-
-  </tr>
-  <tr>
-
-    <td><a href="https://design.canada.ca/common-design-patterns/search-box.html">Site search box</a></td>
-
-    <td>Mandatory</td>
+    <td>Optional</td>
     <td>Optional</td>
     <td>Optional</td>
 
   </tr>
   <tr>
 
-    <td><a href="https://design.canada.ca/common-design-patterns/site-menu.html">Theme and topic menu</a></td>
+    <td><a href="https://design.canada.ca/common-design-patterns/date-modified.html">Date modified</a></td>
+
+    <td>Mandatory</td>
+    <td>Mandatory</td>
+    <td>Mandatory, but can instead be a version number when used for an application</td>
+
+  </tr>
+  <tr>
+
+    <td><a href="#links">Footer links</a></td>
+
     <td>Mandatory</td>
     <td>Optional</td>
     <td>Optional</td>
 
   </tr>
+  <tr>
 
-
-    <tr><td><a href="https://design.canada.ca/common-design-patterns/breadcrumb-trail.html">Breadcrumb trail</a></td>
+    <td><a href="#sublinks">Sub-footer links<p></p></a></td>
     <td>Mandatory</td>
     <td>Optional</td>
     <td>Optional</td>
@@ -265,13 +268,46 @@ Global header requirements
 
   <tr>
 
-    <td>Background colour (white)</td>
+    <td><a href="#other">Canada wordmark</a></td>
     <td>Mandatory</td>
-    <td>Optional</td>
+    <td>Mandatory</td>
     <td>Mandatory</td>
 
   </tr>
 </tbody></table>
+</section>
+<section>
+<h2 id="links">Footer links</h2>
+<p>Government-wide tasks and government links have been prioritized according to demand, derived from search logs and web traffic data. They appear in the following order:</p>
+<ul>
+	<li>Contact us</li>
+	<li>Departments and agencies</li>
+	<li>Public service and military</li>
+	<li>News</li>
+	<li>Treaties, laws and regulations</li>
+	<li>Government-wide reporting</li>
+	<li>Prime Minister</li>
+	<li>How government works</li>
+	<li>Open government</li>
+</ul>
+<h3 id="sublinks">Sub-footer links</h3>
+<p>Utility links appear after links to government-wide tasks and government links, in the following order:</p>
+<ul>
+	<li>Social media</li>
+	<li>Mobile applications</li>
+	<li>About Canada.ca</li>
+	<li>Terms and conditions</li>
+	<li>Privacy</li>
+</ul>
+</section>
+<section>
+<h2 id="other">Other footer elements</h2>
+<p>The Canada wordmark is prominently featured in the global footer across all pages of Canada.ca. This serves to reinforce the brand and provide an additional cue to people that they are reading content from  the Government of Canada.</p>
+<p>On smaller screens, a “Top of page” link is presented in the footer area, along with the Canada Wordmark.</p>
+</section>
+</section>
+
+</div>
 
 </div>
 
