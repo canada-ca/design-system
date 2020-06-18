@@ -11,7 +11,8 @@
 	display: block;
 }
 
-.provisional.followus h2, .provisional.followus ul {
+.provisional.followus h2,
+.provisional.followus ul {
 	margin-left: 0;
 }
 
@@ -19,7 +20,8 @@
   line-height: 0em;
 }
 
-.provisional.followus-vertical, .provisional.followus {
+.provisional.followus-vertical,
+.provisional.followus {
   background-color: transparent;
 }
 
