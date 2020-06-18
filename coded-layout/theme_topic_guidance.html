@@ -210,14 +210,18 @@
 					</div>
 				</div>
 			</div>
-			<div class="provisional pstn-relative hide-hrztl-ovrflw"> <!-- pstn-relative hide-hrztl-ovrflw should be merged into a single class specific for this pattern -->
+			<div class="provisional profile">
 				<div class="container">
 					<div class="row">
+
+						<!-- remove col-md-6 if not using a thumbnail image -->
 						<div class="intro col-md-6 col-sm-12 mrgn-bttm-md">
 							<h1 property="name" id="wb-cont">[Theme - Topic title]</h1>
-							<p class="provisional pagetag">1-2 sentences that describe the topics and top tasks that can be accessed on this page. <a class="hidden-xs hidden-sm with btn btn-sm btn-default pull-right wb-inv"><span class="fas fa-image"></span>&nbsp;&nbsp;<b>With image</b></a></p>
+							<p class="pagetag">1-2 sentences that describe the topics and top tasks that can be accessed on this page. <a class="hidden-xs hidden-sm with btn btn-sm btn-default pull-right wb-inv"><span class="fas fa-image"></span>&nbsp;&nbsp;<b>With image</b></a></p>
 						</div>
-						<div class="provisional tt-img col-md-6 pstn-rght-md pstn-bttm-md hidden-sm hidden-xs"> <!-- tt-img class could be rename to follow the bg-cover naming convention -->
+
+						<!-- remove this div if you do not want a thumbnail image -->
+						<div class="thumbnail col-md-6 pstn-rght-md pstn-bttm-md hidden-sm hidden-xs">
 							<img alt="#" src="./images/theme-topic-img-825x200.jpg" />
 							<a class="without btn btn-sm btn-default pstn-tp-md pstn-lft-md">
 								<span class="fas fa-eye-slash"></span>&nbsp;&nbsp;<b>Without image</b>
@@ -246,13 +250,17 @@
 					</div>
 				</div>
 			</div>
-			<section class="most-requested-bullets with-img provisional well well-sm brdr-0 mrgn-tp-md" >
+
+			<!-- remove 'mrgn-tp-0' class if you are not using an image -->
+			<section class="provisional most-requested-bullets well well-sm brdr-0 mrgn-tp-0" >
 				<div class="container">
 					<div class="row">
 						<div class="pddng-r-0 col-md-2">
 							<h2 class="mrgn-tp-md">Most requested</h2>
 						</div>
 						<div class="col-md-10">
+
+							<!-- change to colcount-md-1 if you only have 2-3 most requested items -->
 							<ul class="wb-eqht mrgn-tp-md mrgn-bttm-md colcount-md-2">
 								<li><a href="#">[Top task hyperlink]</a></li>
 								<li><a href="#">[Top task hyperlink]</a></li>
@@ -280,6 +288,8 @@
 			</section>
 			<div class="container">
 				<div class="row">
+
+					<!-- showing the basic doormat pattern - refer to the Services and information documentation for options -->
 					<section class="gc-srvinfo col-md-12">
 						<h2 class="wb-inv">Services and information</h2>
 						<div class="wb-eqht row">
@@ -337,37 +347,39 @@
 					</section>
 				</div>
 			</div>
-			<!-- class promo-social could be replaced by gc-something-something -->
-			<div class="provisional promo-social mrgn-tp-md">
+
+			<!-- optional section: One feature and social media - design is flexible -->
+			<div class="provisional gc-prtts mrgn-tp-md">
 				<div class="container">
 					<div class="row">
 						<h2 class="wb-inv">Feature</h2>
-						<section class="col-md-8 mrgn-bttm-md mrgn-tp-lg">
-							<div class="row">
-								<div class="col-md-6 gc-srvinfo pull-right mobile-left">
-									<h3 class="h5"><a href="#">Feature title</a></h3>
-									<p>Brief description of feature</p>
-								</div>
-								<div class="col-md-6">
-								<!-- We need a different pattern for this. Preferably with text in the link -->
-								<a href="#"><img alt="" class="img-responsive thumbnail mrgn-bttm-sm" src="./images/feature-img-360x203.jpg" /> </a>
-								</div>
-							</div>
+						<section class="provisional single-feautre col-md-8 mrgn-bttm-md mrgn-tp-lg">
+							<a href="#">
+								<figure class="row">
+									<figcaption class="pull-right col-md-6 col-xs-12">[Feature hyperlink text]</figcaption>
+									<div class="pull-left col-md-6 col-xs-12">
+										<img src="./images/feature-img-360x203.jpg" alt="" class="img-responsive thumbnail mrgn-bttm-sm">
+									</div>
+									<div class="pull-right col-md-6 col-xs-12">
+										<p>Brief description of the feature being promoted.</p>
+									</div>
+								</figure>
+							</a>
 						</section>
 
-						<!-- A div wrapping a section -->
-						<div class="single-feature col-md-4 mrgn-bttm-sm pull-right mobile-left">
-							<section class="provisional followus followus-vertical">
+						<!-- remove this section if not including social media information -->
+						<section class="col-md-4 mrgn-bttm-sm"> <!-- The class single-feature? -->
+							<div class="provisional followus followus-vertical ">
 								<h2>On social media</h2>
 								<ul>
-									<li class="newicon facebook"><a href="#" rel="external" class="social-lnk"><b>FacebookPageName</b></a></li>
-									<li class="newicon twitter"><a href="#" rel="external" class="social-lnk"><b>@TwitterAccount</b></a></li>
-									<li class="newicon youtube"><a href="#" rel="external" class="social-lnk"><b>YouTubeName</b></a></li>
-									<li class="newicon instagram"><a href="#" rel="external" class="social-lnk"><b>InstagramName</b></a></li>
+									<li class="facebook"><a href="#" rel="external" class="social-lnk"><b>FacebookPageName</b></a></li>
+									<li class="twitter"><a href="#" rel="external" class="social-lnk"><b>@TwitterAccount</b></a></li>
+									<li class="youtube"><a href="#" rel="external" class="social-lnk"><b>YouTubeName</b></a></li>
+									<li class="instagram"><a href="#" rel="external" class="social-lnk"><b>InstagramName</b></a></li>
 								</ul>
-							</section>
-						</div>
-					</div> <!-- row -->
+							</div>
+						</section>
+					</div>
 					<div class="row guidance-details">
 						<div class="col-md-8">
 							<details>
@@ -384,15 +396,17 @@
 							</details>
 						</div>
 					</div>
-				</div> <!-- container -->
-			</div> <!-- promo-social -->
+				</div>
+			</div>
+
+			<!-- optional section: Contributors-->
 			<div class="container">
 				<div class="row">
 					<h2 class="wb-inv">Contributors</h2>
 					<div class="row">
-						<section class="col-md-12 provisional">
+						<section class="col-md-12">
 							<div class="col-md-1">
-								<h3 class="from">From:</h3>
+								<h3 class="provisional from">From:</h3>
 							</div>
 							<div class="col-md-11 contributors">
 								<ul>
@@ -487,10 +501,7 @@
 		<script src="https://wet-boew.github.io/themes-dist/GCWeb/wet-boew/js/wet-boew.min.js"></script>
 		<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>
 		<script>
-			document.getElementById("submissionPage").value = location.href;
-		</script>
-		<script>
-			$(".tt-img").click(function(){
+			$(".thumbnail").click(function(){
 				$(this).toggle();
 				$(".with").removeClass("wb-inv");
 				$(".intro").removeClass("col-md-6").addClass("col-md-12");
@@ -498,7 +509,7 @@
 
 			$(".with").click(function () {
 					$(this).addClass("wb-inv");
-					$(".tt-img").toggle();
+					$(".thumbnail").toggle();
 					$(".intro").removeClass("col-md-12").addClass("col-md-6");
 				});
 
