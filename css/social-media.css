@@ -74,20 +74,20 @@
   width: 38px;
 }
 .provisional.followus .facebook {
-  background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/facebook.png") 0 0 / cover no-repeat;
+  background: url("../images/social-media/facebook.png") 0 0 / cover no-repeat;
 }
 
 .provisional.followus .twitter {
-  background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/twitter.png") 0 0 / cover no-repeat;
+  background: url("../images/social-media/twitter.png") 0 0 / cover no-repeat;
 }
 .provisional.followus .youtube {
-  background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/youtube.png") 0 0 / cover no-repeat;
+  background: url("../images/social-media/youtube.png") 0 0 / cover no-repeat;
 }
 .provisional.followus .instagram {
-  background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/instagram.png") 0 0 / cover no-repeat;
+  background: url("../images/social-media/instagram.png") 0 0 / cover no-repeat;
 }
 .provisional.followus .linkedin {
-  background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/instagram.png") 0 0 / cover no-repeat;
+  background: url("../images/social-media/instagram.png") 0 0 / cover no-repeat;
 }
 
 .provisional .thumbnail {
