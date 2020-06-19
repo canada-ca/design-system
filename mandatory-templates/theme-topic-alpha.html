@@ -305,7 +305,7 @@
         &lt;div class="col-md-1"&gt;
           &lt;h3 class="provisional from"&gt;From:&lt;/h3&gt;
         &lt;/div&gt;
-        &lt;div class="col-md-11 contributors"&gt;
+        &lt;div class="provisional contributors col-md-11"&gt;
           &lt;ul&gt;
             &lt;li&gt;&lt;a href="https://www.canada.ca/en/treasury-board-secretariat.html"&gt;Treasury Board of Canada Secretariat&lt;/a&gt;&lt;/li&gt;
             &lt;li&gt;&lt;a href=""&gt;[Department or agency]&lt;/a&gt;&lt;/li&gt;
@@ -436,30 +436,29 @@
 .provisional.followus .youtube,
 .provisional.followus .instagram,
 .provisional.followus .linkedin {
-  background-size: cover;
   display: block;
   height: 38px;
   width: 38px;
 }
 
 .provisional.followus .facebook {
-  background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/facebook.png") no-repeat;
+  background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/facebook.png") 0 0 / cover no-repeat;
 }
 
 .provisional.followus .twitter {
-  background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/twitter.png") no-repeat;
+  background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/twitter.png") 0 0 / cover no-repeat;
 }
 
 .provisional.followus .youtube {
-  background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/youtube.png") no-repeat;
+  background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/youtube.png") 0 0 / cover no-repeat;
 }
 
 .provisional.followus .instagram {
-  background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/instagram.png") no-repeat;
+  background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/instagram.png") 0 0 / cover no-repeat;
 }
 
 .provisional.followus .linkedin {
-  background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/instagram.png") no-repeat;
+  background: url("https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/instagram.png") 0 0 / cover no-repeat;
 }
 
 .provisional .thumbnail {
@@ -469,29 +468,29 @@
 }
 
 @media screen and (max-width: 991px) {
-  .provisional .contributors ul {
+  .provisional.contributors ul {
     margin-inline-start: 1.5em;
   }
 }
 
 @media screen and (min-width: 991px) {
-  .provisional .contributors li {
+  .provisional.contributors li {
     display: inline-block;
     margin-right: .7em;
   }
 
-  .provisional .contributors li:first-child:before {
+  .provisional.contributors li:first-child:before {
     content: none;
   }
 
-  .provisional .contributors li:before {
+  .provisional.contributors li:before {
     content: "\2022";
     margin-right: .7em;
   }
 }
 
 @media screen and (max-width: 1200px) {
-  .provisional .contributors ul {
+  .provisional.contributors ul {
     margin-inline-start: -30px;
   }
 }

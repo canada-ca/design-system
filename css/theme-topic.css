@@ -29,7 +29,7 @@
 	padding: 0px;
 }
 
-.provisional .contributors {
+.provisional.contributors {
 	font-size: 16px;
 	font-weight: 600;
 }
@@ -39,7 +39,7 @@
 	margin-top: 7px;
 }
 
-.provisional .contributors ul {
+.provisional.contributors ul {
 	margin-block-start: 0em;
 	margin-block-end: 0em;
 	margin-inline-start: -50px;
@@ -48,31 +48,31 @@
 }
 
 @media screen and (min-width: 991px) {
-	.provisional .contributors li {
+	.provisional.contributors li {
 		display: inline-block;
 		margin-right: .7em;
 	}
 }
 
 @media screen and (min-width: 991px) {
-	.provisional .contributors li:first-child:before {
+	.provisional.contributors li:first-child:before {
 		content: none;
 	}
 
-	.provisional .contributors li:before {
+	.provisional.contributors li:before {
 		content: "\2022";
 		margin-right: .7em;
 	}
 }
 
 @media screen and (max-width: 1200px) {
-	.provisional .contributors ul {
+	.provisional.contributors ul {
 		margin-inline-start: -30px;
 	}
 }
 
 @media screen and (max-width: 991px) {
-	.provisional .contributors ul {
+	.provisional.contributors ul {
 		margin-inline-start: 1.5em;
 	}
 }
