@@ -1,0 +1,68 @@
+.ip-cover-img {
+	background-image: url("https://design.canada.ca/coded-layout/images/ip-cover-image-1200x726.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: right;
+	margin-top: 15px;
+	padding-bottom: 25px;
+}
+
+.ip-btn {
+	font-size: 1em;
+}
+
+
+.featured {
+  margin-bottom: 0em;
+  padding-top:20px;
+  padding-bottom:20px;
+  background: #31708f;
+}
+
+.featured a {
+	color:#fff
+}
+
+ul.feeds-cont li a {
+	font-weight: bold;
+}
+
+@media screen and (max-width: 1200px) {
+  .featured {
+  	padding-left:.8em;
+	}
+}
+
+
+@media screen and (max-width: 767px) {
+
+.btn-call-to-action {
+	font-size: 19px !important;
+	}
+
+.mobile-left {
+	float: left !important;
+	}
+
+}
+
+@media screen and (max-width: 768px) {
+
+.ip-cover-hide-tablet {
+	background-image: url("none") !important;
+}
+
+
+@media screen and (max-width: 425px) {
+
+	.ip-cover-hide-mobile {
+		background-image: url("none") !important;
+	}
+
+}
+
+/* version with Minister images */
+
+.ministers img {
+	max-width: 200px;
+}
