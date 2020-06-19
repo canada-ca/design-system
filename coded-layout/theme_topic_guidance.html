@@ -7,9 +7,9 @@
 		<meta content="width=device-width,initial-scale=1" name="viewport" />
 		<link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon" />
 		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css" />
-		<link rel="stylesheet" href="../css/theme-topic.css" />
-		<link rel="stylesheet" href="../css/social-media.css" />
-		<link rel="stylesheet" href="../css/mr-bullets.css" />
+		<link rel="stylesheet" href="../css/beta/theme-topic.css" />
+		<link rel="stylesheet" href="../css/beta/social-media.css" />
+		<link rel="stylesheet" href="../css/beta/mr-bullets.css" />
 		<link rel="stylesheet" href="../css/guidance-draft.css">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" />
 		<noscript>
@@ -221,9 +221,9 @@
 						</div>
 
 						<!-- remove this div if you do not want a thumbnail image -->
-						<div class="thumbnail col-md-6 pstn-rght-md pstn-bttm-md hidden-sm hidden-xs">
+						<div class="col-md-6 pstn-rght-md pstn-bttm-md hidden-sm hidden-xs guidance-js-hide">
 							<img alt="#" src="./images/theme-topic-img-825x200.jpg" />
-							<a class="without btn btn-sm btn-default pstn-tp-md pstn-lft-md">
+							<a class="without btn btn-sm btn-default pstn-tp-md pstn-lft-md mrgn-tp-md" style="margin-left: 18px;">
 								<span class="fas fa-eye-slash"></span>&nbsp;&nbsp;<b>Without image</b>
 							</a>
 						</div>
@@ -501,7 +501,7 @@
 		<script src="https://wet-boew.github.io/themes-dist/GCWeb/wet-boew/js/wet-boew.min.js"></script>
 		<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>
 		<script>
-			$(".thumbnail").click(function(){
+			$(".guidance-js-hide").click(function(){
 				$(this).toggle();
 				$(".with").removeClass("wb-inv");
 				$(".intro").removeClass("col-md-6").addClass("col-md-12");
@@ -509,7 +509,7 @@
 
 			$(".with").click(function () {
 					$(this).addClass("wb-inv");
-					$(".thumbnail").toggle();
+					$(".guidance-js-hide").toggle();
 					$(".intro").removeClass("col-md-12").addClass("col-md-6");
 				});
 
