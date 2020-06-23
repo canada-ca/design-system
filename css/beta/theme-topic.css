@@ -3,20 +3,9 @@
 	overflow-x: hidden;
 }
 
-.page-type-nav .provisional.profile .thumbnail {
-	background-color: #f5f5f5;
-	margin-left: 25px;
-	padding-left: 0px;
-	padding-right: 0px;
-}
-
 .provisional.profile .pagetag {
 	max-width: 65ch;
 }
-
-/* .provisional.most-requested-bullets .thumbnail { Has to be converted in a guidance instead with mrgn-tp-0
-	margin-top: 0px;
-} */
 
 .provisional.single-feature figcaption {
 	margin-top: 5px;
@@ -75,10 +64,4 @@
 	.provisional.contributors ul {
 		margin-inline-start: 1.5em;
 	}
-}
-
-/* part of guidance.css but needed to fix the button alignment here - delete after guidance PR is accepted */
-.thumbnail .btn-sm {
-	margin-top: 16px;
-	margin-left: 4px;
 }

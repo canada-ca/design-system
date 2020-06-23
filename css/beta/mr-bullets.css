@@ -1,0 +1,31 @@
+.most-requested-bullets.provisional li {
+	font-family: 'Lato', sans-serif;
+	font-size: 17px;
+	font-weight: 600;
+	line-height: 26px;
+	margin-top: 0
+}
+
+.most-requested-bullets.with-img.provisional {
+  margin-top: 0px;
+}
+
+.most-requested-bullets.provisional .pddng-r-0 {
+  padding-right: 0px;
+}
+
+.most-requested-bullets.provisional h2 {
+	font-size: 1.2em;
+}
+
+.provisional.list-bld {
+	font-weight: 600;
+}
+
+@media screen and (max-width: 991px) {
+  .most-requested-bullets.provisional li {
+    font-size: 19px;
+    }
+}
+
+
