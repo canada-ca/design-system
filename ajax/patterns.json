@@ -154,6 +154,13 @@
     "EXAMPLE": "&nbsp;",
     "MANDATORY": "No"
   }, {
+    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/global-header.html\">Global header</a>",
+    "USE": "The global (site-wide) header at the top of each web page - <strong>Mandatory pattern</strong>",
+    "CAT": "Design pattern",
+    "TYPE": "Site-wide pattern, Interaction",
+    "EXAMPLE": "&nbsp;",
+    "MANDATORY": "Mandatory"
+  }, {
     "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/signature.html\">Government of Canada signature</a>",
     "USE": "The Government of Canada signature as specified in Federal Identity Program (FIP) policy instruments is prominently featured in the global header area across Canada.ca - <strong>Mandatory pattern</strong>",
     "CAT": "Design pattern",

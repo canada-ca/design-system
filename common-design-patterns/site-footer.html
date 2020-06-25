@@ -25,8 +25,8 @@
 
 		<![endif]-->
 <noscript><link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/wet-boew/css/noscript.min.css" /></noscript>
- 
-	
+
+
  <!-- Global site tag (gtag.js) - Google Analytics -->
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-105628416-2"></script>
@@ -37,7 +37,7 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
- 
+
   gtag('config', 'UA-105628416-2');
 
 </script>
@@ -137,7 +137,7 @@
 <div class="container">
 <ol class="breadcrumb">
 	<li><a href='https://www.canada.ca/en.html'>Canada.ca</a></li>
-	<li><a href='https://www.canada.ca/en/government/about.html'>About Canada.ca</a></li>	
+	<li><a href='https://www.canada.ca/en/government/about.html'>About Canada.ca</a></li>
 <li><a href='https://www.canada.ca/en/government/about/design-system.html'>Canada.ca design system</a></li>
 	<li><a href='https://www.canada.ca/en/government/about/design-system/pattern-library.html'>Template and pattern library for Canada.ca</a></li>
 </ol>
@@ -159,11 +159,12 @@
 
 
 
-<p class="gc-byline"><strong>From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
+<p class="gc-byline"><strong>From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong>
 <section>
 <section>
 <p><span class="label label-danger">Mandatory on standard pages</span></p>
 <p>The global (site-wide) footer at the bottom of each web page contains links to Government of Canada corporate content, and to Government of Canada content repositories.</p>
+<div class="pattern-demo">
 <figure class="mrgn-bttm-lg">
 <figcaption><b>Global footer navigation menu – large screen</b></figcaption>
 <img src="../images/site-footer-en.png" class="img-responsive" alt="Diagram of global footer navigation menu for large screens. Text version below:">
@@ -171,15 +172,19 @@
 	<summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Text version</summary>
 	<p>The global footer navigation menu contains links that are arranged in 3 columns. The first column contains: “Contact us”; “Departments and agencies” and “Public service and military”. The second column contains “News”; “Treaties, laws and regulations”; and “Government-wide reporting”. The final column contains: “Prime Minister”; “How government works”; and “Open government”. Along the bottom of the footer links to the following are presented: “Social media”; “Mobile applications”; “About Canada.ca”; “Terms and conditions”; and “Privacy”. The Canada wordmark is presented in the bottom-right corner.</p>
 </details>
+</div>
+
 </figure>
+<div class="pattern-demo">
 <figure class="mrgn-bttm-lg">
 <figcaption><b>Global footer navigation menu – small screen</b></figcaption>
 <img src="../images/footer-mobile-en.png" class="img-responsive" alt="Diagram of global footer navigation menu for small screens. Text version below:">
 <details>
 	<summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Text version</summary>
-	<p>The global footer contains the following links when presented for small screen: Contact us; Departments and agencies; Public service and military; News; Treaties, laws and regulation; Government-wide reporting; Prime Minister; How government works; Open government. This section is then divided and the following is presented in 2 coliumns below the division: Social media; Mobile applications; About Canada.ca; Terms and conditions; and Privacy. Finally, at the bottom left there is a link to top of page, and the Canada wordmark is placed at the bottom right.</p>
+	<p>The global footer contains the following links when presented for small screen: Contact us; Departments and agencies; Public service and military; News; Treaties, laws and regulation; Government-wide reporting; Prime Minister; How government works; Open government. This section is then divided and the following is presented below the division: Social media; Mobile applications; About Canada.ca; Terms and conditions; and Privacy. Finally, at the bottom left there is a link to top of page, and the Canada wordmark is placed at the bottom right.</p>
 </details>
 </figure>
+</div>
 </section>
 
 <section>
@@ -188,14 +193,96 @@
 </section>
 <section>
 <h2>When to use the site footer</h2>
-<p>The site footer is mandatory on all pages, except campaign pages and transactional pages. For more information, go to the <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html#header-footer">Mandatory elements of the design system</a>.</p>
+<p>The site footer should be on all pages from the Goverment of Canada. Some elements are optional in these situations:</p>
+
+<ul>
+  <li><strong>Transactional scenarios</strong>: Pages where people are engaged in a transactional process such that mistakenly following other links  would result in errors, loss of data or accidental termination of the session.</li>
+<li><strong>Campaigns</strong>: Landing pages for external marketing or advertising campaigns. The flexibility in layout allows institutions to match elements of their external campaign with the landing page.</li>
+</ul>
+
 </section>
 <section>
 <h2>How to implement the site footer</h2>
-<p>The footer navigation menu appears at the bottom of all pages of the site, in both large and small screen views.</p>
+<p>If you're not on the Managed Web Service, you can implement the site footer by using the <a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-en.html">Centrally Deployed Templates Solution (CDTS)</a>.</p>
+<p>Follow these requirements:</p>
+<table class="table table-bordered table-condensed">
+
+<caption>
+
+Global footer requirements
+
+</caption>
+
+<thead>
+
+  <tr class="active">
+
+    <th scope="col">Footer element</th>
+    <th scope="col">Standard page</th>
+    <th scope="col">Campaign page</th>
+    <th scope="col">Transactional page</th>
+
+  </tr>
+</thead>
+
+<tbody>
+
+  <tr>
+
+    <td><a href="https://design.canada.ca/common-design-patterns/report-problem.html">Report a problem</a></td>
+    <td>Mandatory</td>
+    <td>Mandatory</td>
+    <td>Mandatory</td>
+
+  </tr>
+  <tr>
+
+    <td><a href="https://design.canada.ca/common-design-patterns/share-page.html">Share this page</a></td>
+
+    <td>Optional</td>
+    <td>Optional</td>
+    <td>Optional</td>
+
+  </tr>
+  <tr>
+
+    <td><a href="https://design.canada.ca/common-design-patterns/date-modified.html">Date modified</a></td>
+
+    <td>Mandatory</td>
+    <td>Mandatory</td>
+    <td>Mandatory, but can instead be a version number when used for an application</td>
+
+  </tr>
+  <tr>
+
+    <td><a href="#links">Footer links</a></td>
+
+    <td>Mandatory</td>
+    <td>Optional</td>
+    <td>Optional</td>
+
+  </tr>
+  <tr>
+
+    <td><a href="#sublinks">Sub-footer links<p></p></a></td>
+    <td>Mandatory</td>
+    <td>Optional</td>
+    <td>Optional</td>
+
+  </tr>
+
+  <tr>
+
+    <td><a href="#other">Canada wordmark</a></td>
+    <td>Mandatory</td>
+    <td>Mandatory</td>
+    <td>Mandatory</td>
+
+  </tr>
+</tbody></table>
 </section>
 <section>
-<h2 id="structure">Structure</h2>
+<h2 id="links">Footer links</h2>
 <p>Government-wide tasks and government links have been prioritized according to demand, derived from search logs and web traffic data. They appear in the following order:</p>
 <ul>
 	<li>Contact us</li>
@@ -208,6 +295,7 @@
 	<li>How government works</li>
 	<li>Open government</li>
 </ul>
+<h3 id="sublinks">Sub-footer links</h3>
 <p>Utility links appear after links to government-wide tasks and government links, in the following order:</p>
 <ul>
 	<li>Social media</li>
@@ -246,7 +334,7 @@
     <div class="datemod col-xs-12 mrgn-tp-lg">
         <dl id="wb-dtmd">
     <dt>Date modified:</dt>
-    <dd><time property="dateModified">2018-12-19</time></dd>
+    <dd><time property="dateModified">2020-06-25</time></dd>
 </dl>
     </div>
 
