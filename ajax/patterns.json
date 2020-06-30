@@ -448,18 +448,11 @@
     "EXAMPLE": "&nbsp;",
     "MANDATORY": "Mandatory"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/theme-pages.html\">Theme page</a>",
-    "USE": "Organizes topics that makes sense to people so they can access government-wide information and services - <strong>Mandatory template</strong>",
+    "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/theme-topic.html\">Theme and topic page</a>",
+    "USE": "Allows people to discover services and information related to a specific theme or topic across government - <strong>Mandatory template</strong>",
     "CAT": "Template",
     "TYPE": "Theme template",
-    "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/theme-en.html\">Theme</a>",
-    "MANDATORY": "Mandatory"
-  }, {
-    "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/topic-pages.html\">Topic page</a>",
-    "USE": "Allows people to discover services and information related to a specific topic across government - <strong>Mandatory template</strong>",
-    "CAT": "Template",
-    "TYPE": "Theme template",
-    "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/topic-en.html\">Topic</a>",
+    "EXAMPLE": "<a href=\"https://design.canada.ca/coded-layout/theme_topic_guidance.html\">Theme and topic</a>",
     "MANDATORY": "Mandatory"
   }, {
 	"NAME": "<a href=\"https://design.canada.ca/recommended-templates/transparency.html\">Transparency and corporate reporting</a>",
