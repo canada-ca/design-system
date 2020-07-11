@@ -12,7 +12,6 @@
   <link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon">
   <link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
   <link rel="stylesheet" href="../css/custom.css">
-  <link rel="stylesheet" href="../css/ip.css">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
   <!--<![endif]-->
   <!--[if lt IE 9]>
@@ -187,19 +186,19 @@
               <details id="details-panel1">
                 <summary>HTML</summary>
                 <pre><code>
-&lt;div class="ip-cover-img"&gt;
+&lt;div class="provisional ip-cover-img"&gt;
 	&lt;div class="container"&gt;
 		&lt;div class="row"&gt;
 			&lt;div class="col-md-7"&gt;
 				&lt;h1 property="name" id="wb-cont"&gt;[Institution name]&lt;/h1&gt;
 				&lt;p&gt;Short description of the institution’s mandate.&lt;/p&gt;
-				&lt;a class="btn btn-call-to-action ip-btn" href="#"&gt;Super task button [optional]&lt;/a&gt;
+				&lt;a class="btn btn-call-to-action ilp-btn" href="#"&gt;Super task button [optional]&lt;/a&gt;
 			&lt;/div&gt;
 			&lt;div class="clearfix"&gt;&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
 &lt;/div&gt;
-&lt;section class="featured opct-90"&gt;
+&lt;section class="provisional featured opct-90"&gt;
 	&lt;div class="container"&gt;
 		&lt;h2 class="wb-inv"&gt;Featured link&lt;/h2&gt;
 		&lt;a class="h5" href="#"&gt;Featured link [optional]&lt;/a&gt;
@@ -365,129 +364,175 @@
               </details>
               <details id="details-panel2">
                 <summary>CSS</summary>
-                <pre><code>.ip-cover-img {
-  background-image: url("https://test.canada.ca/experimental/working-on/images/ip-cover-image.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: right;
-  margin-top: 15px;
-  padding-bottom: 25px;
+                <pre><code>
+.provisional.ip-cover-img {
+	background-image: url("https://design.canada.ca/coded-layout/images/ip-cover-image-1200x726.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: right;
+	margin-top: 15px;
+	padding-bottom: 25px;
 }
 
-.most-requested li {
-  font-family: "Lato", sans-serif;
-  font-size: 17px;
-  font-weight: 600;
-  line-height: 26px;
-  margin-top: 0
+.provisional .ilp-btn {
+	font-size: 1em;
 }
 
-.most-requested h2 {
-  font-size: 1.2em;
+.provisional.featured {
+	margin-bottom: 0em;
+	padding-top:20px;
+	padding-bottom:20px;
+	background: #31708f;
 }
 
-.ip-btn {
-  font-size: 1em;
-}
-
-/* supports the 3 column layout for MR instead of 4 columns */
-.list-responsive-3 &gt; li {
-  float: left;
-  padding-right: 5px;
-  width: 50%
-}
-
-.list-responsive-3 &gt; li:nth-child(2n+2) {
-  clear: right
-}
-
-.list-responsive-3:before,
-.list-responsive-3:after {
-  content: " ";
-  display: table
-}
-
-.list-responsive-3:after {
-  clear: both
-}
-
-.followus.experimental {
-  background-color: #f5f5f5;
-  padding: 0;
-}
-
-.followus.experimental h2 {
-  display: block;
-}
-
-.followus.experimental h2,
-.followus.experimental ul {
-  margin-left: 0;
-}
-
-.followus.experimental ul li a {
-  border: solid 2px #f5f5f5;
-}
-
-.featured {
-  margin-bottom: 0em;
-  padding-top:20px;
-  padding-bottom:20px;
-  background: #31708f;
-}
-
-.featured a {
-  color:#fff
+.provisional.featured a {
+	color:#fff
 }
 
 ul.feeds-cont li a {
-  font-weight: bold;
+	font-weight: bold;
 }
 
-@media screen and (max-width: 1200px) {
-  .featured {
-    padding-left:.8em;
-  }
+.provisional.most-requested-bullets li {
+	font-family: 'Lato', sans-serif;
+	font-size: 17px;
+	font-weight: 600;
+	line-height: 26px;
+	margin-top: 0
 }
 
-@media screen and (min-width: 1200px) {
-  .list-responsive-3 &gt; li {
-    width: 33%;
-  }
+.provisional.most-requested-bullets .pddng-r-0 {
+	padding-right: 0px;
+}
+
+.provisional.most-requested-bullets h2 {
+	font-size: 1.2em;
+}
+
+.provisional.list-bld {
+	font-weight: 600;
+}
+
+.provisional.followus h2 {
+	font-size: 1.1em;
+	margin-top: 10px;
+}
+
+.provisional.followus {
+	padding: 0;
+}
+
+.provisional.followus h2 {
+	display: block;
+}
+
+.provisional.followus h2,
+.provisional.followus ul {
+	margin-left: 0;
+}
+
+.provisional.followus-vertical {
+	line-height: 0em;
+}
+
+.provisional.followus-vertical,
+.provisional.followus {
+	background-color: transparent;
+}
+
+.provisional.followus-vertical a {
+	text-decoration: none;
+}
+
+.provisional.followus-vertical ul {
+	display: block;
+	list-style-type: none;
+	margin-block-start: 1em;
+	padding-inline-start: 1em;
+	font-size: 16px;
+	margin-block-end: 0em;
+}
+
+.provisional.followus-vertical ul li {
+	margin-bottom: 15px;
+}
+
+.provisional.followus-vertical ul li:last-child {
+	margin-bottom: 0px;
+}
+
+.provisional.followus-vertical ul li a {
+	border: none;
+	padding: 0px 5px;
+}
+
+.provisional.followus ul li a {
+	border: none;
+}
+
+.provisional .social-lnk {
+	position: relative;
+	bottom:-18px;
+	left:45px;
+}
+
+.provisional.followus-vertical li {
+	display: block;
+	background-position: left;
+}
+
+.provisional.followus .facebook,
+.provisional.followus .twitter,
+.provisional.followus .youtube,
+.provisional.followus .instagram {
+	display: block;
+	height: 38px;
+	width: 38px;
+}
+/* remove this section if you do not want the new icons */
+
+.provisional.followus .facebook {
+	background: url("https://design.canada.ca/images/social-media/facebook.png") 0 0 / cover no-repeat;
+}
+.provisional.followus .twitter {
+	background: url("https://design.canada.ca/images/social-media/twitter.png") 0 0 / cover no-repeat;
+}
+.provisional.followus .youtube {
+	background: url("https://design.canada.ca/images/social-media/youtube.png") 0 0 / cover no-repeat;
+}
+.provisional.followus .instagram {
+	background: url("https://design.canada.ca/images/social-media/instagram.png") 0 0 / cover no-repeat;
+}
+.provisional.followus .linkedin {
+	background: url("https://design.canada.ca/images/social-media/linkedin.png") 0 0 / cover no-repeat;
+}
+/* end of new social media icons */
+
+@media screen and (max-width: 425px) {
+	.ip-cover-hide-xxs {
+		background-image: url("none") !important;
+	}
 }
 
 @media screen and (max-width: 767px) {
-  .btn-call-to-action {
-    font-size: 19px !important;
-  }
+	.btn-call-to-action {
+		font-size: 19px !important;
+		}
 
-  .most-requested li {
-    font-size: 19px;
-  }
-
-  .list-responsive-3 &gt; li {
-    clear: right;
-    width: 100%
-  }
-
-  .mobile-left {
-    float: left !important;
-  }
+	.mobile-left {
+		float: left !important;
+		}
 }
 
 @media screen and (max-width: 768px) {
+	.ip-cover-hide-xs {
+		background-image: url("none") !important;
+}
 
-  .ip-cover-hide-tablet {
-    background-image: url("none") !important;
-  }
-
-
-@media screen and (max-width: 425px) {
-
-  .ip-cover-hide-mobile {
-    background-image: url("none") !important;
-  }
-
+@media screen and (max-width: 991px) {
+	.provisional.most-requested-bullets li {
+		font-size: 19px;
+	}
 }
 
 </code></pre>

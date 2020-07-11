@@ -1,4 +1,4 @@
-.ip-cover-img {
+.provisional.ip-cover-img {
 	background-image: url("https://design.canada.ca/coded-layout/images/ip-cover-image-1200x726.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -7,19 +7,19 @@
 	padding-bottom: 25px;
 }
 
-.ip-btn {
+.provisional .ilp-btn {
 	font-size: 1em;
 }
 
 
-.featured {
+.provisional.featured {
   margin-bottom: 0em;
   padding-top:20px;
   padding-bottom:20px;
   background: #31708f;
 }
 
-.featured a {
+.provisional.featured a {
 	color:#fff
 }
 
@@ -27,11 +27,11 @@ ul.feeds-cont li a {
 	font-weight: bold;
 }
 
-@media screen and (max-width: 1200px) {
+/* @media screen and (max-width: 1200px) {
   .featured {
   	padding-left:.8em;
 	}
-}
+} */
 
 
 @media screen and (max-width: 767px) {
