@@ -1,4 +1,4 @@
-.provisional.ip-cover-img {
+.provisional.ilp-cover-img {
 	background-image: url("https://design.canada.ca/coded-layout/images/ip-cover-image-1200x726.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -48,14 +48,14 @@ ul.feeds-cont li a {
 
 @media screen and (max-width: 768px) {
 
-.ip-cover-hide-tablet {
+.ilp-cover-hide-tablet {
 	background-image: url("none") !important;
 }
 
 
 @media screen and (max-width: 425px) {
 
-	.ip-cover-hide-mobile {
+	.ilp-cover-hide-mobile {
 		background-image: url("none") !important;
 	}
 
