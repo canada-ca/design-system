@@ -1,4 +1,4 @@
-.ip-cover-img {
+.provisional.ilp-cover-img {
 	background-image: url("https://design.canada.ca/coded-layout/images/ip-cover-image-1200x726.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -7,19 +7,19 @@
 	padding-bottom: 25px;
 }
 
-.ip-btn {
+.provisional .ilp-btn {
 	font-size: 1em;
 }
 
 
-.featured {
+.provisional.featured {
   margin-bottom: 0em;
   padding-top:20px;
   padding-bottom:20px;
   background: #31708f;
 }
 
-.featured a {
+.provisional.featured a {
 	color:#fff
 }
 
@@ -27,11 +27,11 @@ ul.feeds-cont li a {
 	font-weight: bold;
 }
 
-@media screen and (max-width: 1200px) {
+/* @media screen and (max-width: 1200px) {
   .featured {
   	padding-left:.8em;
 	}
-}
+} doesn't seem to be needed anymore */
 
 
 @media screen and (max-width: 767px) {
@@ -48,14 +48,14 @@ ul.feeds-cont li a {
 
 @media screen and (max-width: 768px) {
 
-.ip-cover-hide-tablet {
+.ilp-cover-hide-tablet {
 	background-image: url("none") !important;
 }
 
 
 @media screen and (max-width: 425px) {
 
-	.ip-cover-hide-mobile {
+	.ilp-cover-hide-mobile {
 		background-image: url("none") !important;
 	}
 
