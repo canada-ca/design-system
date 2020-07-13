@@ -13,10 +13,10 @@
 
 
 .provisional.featured {
-  margin-bottom: 0em;
-  padding-top:20px;
-  padding-bottom:20px;
-  background: #31708f;
+	margin-bottom: 0em;
+	padding-top:20px;
+	padding-bottom:20px;
+	background: #31708f;
 }
 
 .provisional.featured a {
@@ -27,38 +27,26 @@ ul.feeds-cont li a {
 	font-weight: bold;
 }
 
-/* @media screen and (max-width: 1200px) {
-  .featured {
-  	padding-left:.8em;
-	}
-} doesn't seem to be needed anymore */
-
-
 @media screen and (max-width: 767px) {
-
-.btn-call-to-action {
-	font-size: 19px !important;
+	.btn-call-to-action {
+		font-size: 19px !important;
 	}
 
-.mobile-left {
-	float: left !important;
+	.mobile-left {
+		float: left !important;
 	}
-
 }
 
 @media screen and (max-width: 768px) {
-
-.ilp-cover-hide-tablet {
-	background-image: url("none") !important;
+	.ilp-cover-hide-tablet {
+		background-image: url("none") !important;
+	}
 }
 
-
 @media screen and (max-width: 425px) {
-
 	.ilp-cover-hide-mobile {
 		background-image: url("none") !important;
 	}
-
 }
 
 /* version with Minister images */
