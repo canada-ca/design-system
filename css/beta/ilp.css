@@ -1,25 +1,21 @@
-.provisional.ilp-cover-img {
-	background-image: url("https://design.canada.ca/coded-layout/images/ip-cover-image-1200x726.jpg");
-	background-repeat: no-repeat;
-	background-size: cover;
+.provisional.bg-cover.bg-cover-institution {
 	background-position: right;
-	margin-top: 15px;
 	padding-bottom: 25px;
 }
 
-.provisional .ilp-btn {
+.provisional.btn-call-to-action {
 	font-size: 1em;
 }
 
 
-.provisional.featured {
+.provisional.gc-featured-lnk {
+	background: #31708f;
 	margin-bottom: 0em;
 	padding-top:20px;
 	padding-bottom:20px;
-	background: #31708f;
 }
 
-.provisional.featured a {
+.provisional.gc-featured-lnk a {
 	color:#fff
 }
 
@@ -28,29 +24,29 @@ ul.feeds-cont li a {
 }
 
 @media screen and (max-width: 767px) {
-	.btn-call-to-action {
-		font-size: 19px !important;
+	.provisional.btn-call-to-action {
+		font-size: 19px;
 	}
 
-	.mobile-left {
-		float: left !important;
+	.xs-left {
+		float: left;
 	}
 }
 
 @media screen and (max-width: 768px) {
-	.ilp-cover-hide-tablet {
-		background-image: url("none") !important;
+	.provisional.bg-cover-institution-hide-sm {
+		background-image: url("none");
 	}
 }
 
 @media screen and (max-width: 425px) {
-	.ilp-cover-hide-mobile {
-		background-image: url("none") !important;
+	.provisional.bg-cover-institution-hide-xs {
+		background-image: url("none");
 	}
 }
 
 /* version with Minister images */
 
-.ministers img {
+.provisional.ministers img {
 	max-width: 200px;
 }
