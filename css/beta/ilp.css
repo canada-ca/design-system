@@ -1,6 +1,9 @@
-.provisional.bg-cover.bg-cover-institution {
+.provisional.bg-cover.bg-right {
 	background-position: right;
-	padding-bottom: 25px;
+}
+
+.provisional.pb-3 {
+	padding-bottom: 15px;
 }
 
 .provisional.btn-call-to-action {
@@ -25,23 +28,23 @@ ul.feeds-cont li a {
 
 @media screen and (max-width: 767px) {
 	.provisional.btn-call-to-action {
-		font-size: 19px;
+		font-size: .9em;
 	}
 
-	.xs-left {
-		float: left;
-	}
-}
-
-@media screen and (max-width: 768px) {
-	.provisional.bg-cover-institution-hide-sm {
-		background-image: url("none");
+	.provisional.xs-left {
+		float: left !important;
 	}
 }
 
-@media screen and (max-width: 425px) {
-	.provisional.bg-cover-institution-hide-xs {
-		background-image: url("none");
+@media screen and (max-width: 767px) {
+	.provisional.bg-hide-xs {
+		background-image: url("none") !important;
+	}
+}
+
+@media (min-width:768px) and (max-width:991px) {
+	.provisional.bg-hide-sm {
+		background-image: url("none") !important;
 	}
 }
 
