@@ -31,8 +31,8 @@ ul.feeds-cont li a {
 		font-size: .9em;
 	}
 
-	.xs-left {
-		float: left;
+	.provisional.xs-left {
+		float: left !important;
 	}
 }
 
