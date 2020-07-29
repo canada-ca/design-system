@@ -134,7 +134,8 @@ hr {
   height: 0; }
 
 pre {
-  overflow: auto; }
+  overflow: auto;
+}
 
 code,
 kbd,
@@ -1494,7 +1495,9 @@ code {
   font-size: 90%;
   color: #c7254e;
   background-color: #f9f2f4;
-  border-radius: 4px; }
+  border-radius: 4px;
+  tab-size: 20px;
+ }
 
 kbd {
   padding: 2px 4px;
