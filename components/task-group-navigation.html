@@ -150,22 +150,18 @@
             <div class="col-md-3">
                 <div class="small">
                     <ul class="list-unstyled">
-                    <li class="mrgn-rght-lg"><strong>Version:</strong> 0.1</li>
-                    <li class="mrgn-rght-lg"><strong>Updated:</strong> June 2, 2020</li>
+                    <li class="mrgn-rght-lg"><strong>Version:</strong> 1.0</li>
+                    <li class="mrgn-rght-lg"><strong>Updated:</strong> August 12, 2020</li>
                     </ul>
                 </div>
             </div>
-            <div class="col-md-12">
-                <div class="btn-group mrgn-bttm-sm mrgn-tp-md">
-                    <a class="btn btn-default active"><span class="fas fa-laptop-code"></span> Design and code</a>
-                    <a class="btn btn-default" href="./step-by-step-rationale.html"><span class="fas fa-microscope"></span> <strong>Rationale</strong></a>
-                </div>
-            </div>
+
             <section class="col-md-12">
                 <h2 id="on-this-page">On this page</h2>
                 <ul>
                     <li><a href="#design">Design specifications</a></li>
-                    <li><a href="#usage">Usage</a></li>
+                    <li><a href="#usage">When to use</a></li>
+					<li><a href="#avoid">What to avoid</a></li>
                     <li><a href="#versions">Latest changes</a></li>
                     <li><a href="#discussion">Discuss</a></li>
                 </ul>
@@ -174,139 +170,55 @@
                 <h2 id="design">Design specification</h2>
                     <div id="demo-tabs" class="pattern-demo pattern-demo-component no-pddng">
                         <div id="tabs-demo" class="component-demo mrgn-rght-lg mrgn-lft-lg mrgn-tp-lg mrgn-bttm-lg">
-							<section class="gc-nav provisional">
-								<h1 property="name" id="wb-cont-nav">[Service name]</h1>
-							 	<ul id="gc-navseq-nav" class="hidden-xs hidden-sm">
-									<li> <a class="gc-navseq-nav-btn" href="#gc-navseq-header">Go to navigation menu</a> </li>
-									<li> <a class="gc-navseq-nav-btn" href="#wb-cont">Skip to main content</a> </li>
-							  	</ul>
-							  	<nav aria-label="Section menu">
-									<h2 id="gc-navseq-header" class="mrgn-tp-0 hidden-xs hidden-sm">Sections</h2>
-									<ul id="menubar1" class="gc-navseq" role="menu" aria-label="Section menu">
-										<li><a href="page1-en.html">[Step / section page name 1]</a></li>
-										<li><a href="page2-en.html">[Step / section page name 2]</a></li>
-										<li class="active"><a aria-current="step">[Step / section page name 3]</a></li>
-										<li><a href="page4-en.html">[Step / section page name 4]</a></li>
-										<li><a href="page5-en.html">[Step / section page name 5]</a></li>
-										<li><a href="page6-en.html">[Step / section page name 6]</a></li>
-									</ul>
-							  	</nav>
-							</section>
-							<section class="gc-nav-section provisional">
-              					<h1 property="name" id="wb-cont">[Service/step name 3]</h1>
-              					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer quis nunc tortor. In aliquam, magna et ullamcorper scelerisque, erat dolor hendrerit justo, ac commodo quam nisi quis eros. In hac habitasse platea dictumst. Nulla nec ligula ligula. Mauris imperdiet in nisl vitae rutrum. Morbi vel varius nulla, in fringilla orci. Suspendisse auctor purus ac velit ullamcorper, nec condimentum ante efficitur. Integer pretium commodo lorem, id pretium quam cursus id. Cras pellentesque purus tellus, hendrerit sagittis nunc pellentesque non. Quisque dapibus velit ac libero aliquam laoreet.</p>
+                          <nav class="provisional gc-subway">
+            <h1>[Service name]</h1>
+            <ul class="gc-subway-steps">
+            <li><a href="#">[Step / section page name 1]<span class="wb-inv">: Service name</span></a></li>
+            <li><a href="#">[Step / section page name 1]<span class="wb-inv">: Service name</span></a></li>
+            <li><a href="#">[Step / section page name 2]<span class="wb-inv">: Service name</span></a></li>
+            <li class="active"><a aria-current="page">[Step / section page name 3]<span class="wb-inv">: Service name</span></a></li>
+            <li><a href="#">[Step / section page name 4]<span class="wb-inv">: Service name</span></a></li>
+            <li><a href="#">[Step / section page name 5]<span class="wb-inv">: Service name</span></a></li>
+            </ul>
+            </nav>
+            <h1 property="name" id="wb-cont" class="provisional gc-thickline">[Service/step name 3]</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam commodo elementum est, ac ultrices urna convallis vitae. Nulla nec convallis felis. Ut pretium nisl nisi. Nam gravida gravida aliquet. Morbi tincidunt lorem in purus imperdiet, id rutrum mauris sodales. Vivamus nec mattis tellus. Nunc turpis dolor, malesuada non magna nec, scelerisque tristique velit.</p>
+            <p>Sed consectetur eu ligula a molestie. Vivamus convallis libero malesuada pharetra suscipit. In a pulvinar mi, quis aliquet mauris. Duis convallis nunc nunc, in euismod nisi volutpat sit amet. Integer convallis lacus non orci imperdiet, ac convallis massa mollis.</p>
 
-
-							</section>
-
-
-							<!-- <nav aria-label="Section menu">
-                            <p class="h3 mrgn-tp-0 hidden-xs hidden-sm">Sections</p>
-                            <ul class="gc-navseq">
-                              <li class="active"><a class="hidden-xs hidden-sm">Who can apply</a><a class="hidden-md hidden-lg">Who can apply</a></li>
-                              <li><a href="/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-apply.html" class="hidden-xs hidden-sm">Apply</a><a href="/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-apply.html#wb-cont-nav" class="hidden-md hidden-lg">Apply</a></li>
-                              <li><a href="/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-we-calculate-your-ccb.html" class="hidden-xs hidden-sm">How much you can get</a><a href="/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-we-calculate-your-ccb.html#wb-cont-nav" class="hidden-md hidden-lg">How much you can get</a></li>
-                              <li><a href="/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-payment-dates.html" class="hidden-xs hidden-sm">Payment dates</a><a href="/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-payment-dates.html#wb-cont-nav" class="hidden-md hidden-lg">Payment dates</a></li>
-                              <li><a href="/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-after-you-apply.html" class="hidden-xs hidden-sm">Keep getting your payments</a><a href="/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-after-you-apply.html#wb-cont-nav" class="hidden-md hidden-lg">Keep getting your payments</a></li>
-                              <li><a href="/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-contact.html" class="hidden-xs hidden-sm">Contact the CRA</a><a href="/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-contact.html#wb-cont-nav" class="hidden-md hidden-lg">Contact the CRA</a></li>
-                            </ul>
-                          </nav>
-                            <iframe title="Primary button basic example" class="example-frame example-frame-resizable example-frame-m" src="./demos/buttons/wet4/basic-primary.html" frameborder="0" loading="lazy" onload="resizeIframe(this);"></iframe> -->
                         </div>
                     </div>
                 </div>
                 <div class="col-md-12 mrgn-tp-lg">
-                    <details>
-                        <summary>HTML</summary>
-                        <div class="mrgn-tp-lg">
-                            <div id="tabs-code" class="component-code">
-                                <div class="code-variant wet4-variant">
-                                    <pre><code>&lt;button class="btn btn-primary"&gt;Action&lt;/button&gt;</code></pre>
-                                </div>
-                            </div>
-                        </div>
-                    </details>
-                    <details>
-                        <summary>CSS</summary>
-                        <div class="mrgn-tp-lg">
-                            <div class="code-variant wet4-variant">
-                                <pre><code>&lt;button class="btn btn-primary"&gt;Action&lt;/button&gt;</code></pre>
-                            </div>
-                        </div>
-                    </details>
+                <details>
+                  <summary>Code</summary>
+                  <pre class="prettyprint"><code>&lt;nav class="provisional gc-subway"&gt;
+ &lt;h1&gt;[Service name]&lt;/h1&gt;
+ &lt;&lt;ul class="gc-subway-steps"&gt;
+  &lt;li&gt;&lt;a href="#"&gt;[Step / section page name 1]&lt;span class="wb-inv"&gt;: Service name&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="#"&gt;[Step / section page name 1]&lt;span class="wb-inv"&gt;: Service name&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="#"&gt;[Step / section page name 2]&lt;span class="wb-inv"&gt;: Service name&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li class="active"&gt;&lt;a aria-current="page"&gt;[Step / section page name 3]&lt;span class="wb-inv"&gt;: Service name&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="#"&gt;[Step / section page name 4]&lt;span class="wb-inv"&gt;: Service name&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="#"&gt;[Step / section page name 5]&lt;span class="wb-inv"&gt;: Service name&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;h1 property="name" id="wb-cont" class="provisional gc-thickline"&gt;[Service/step name 3]&lt;/h1&gt;
+ &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam commodo elementum est, ac ultrices urna convallis vitae. Nulla nec convallis felis. Ut pretium nisl nisi. Nam gravida gravida aliquet. Morbi tincidunt lorem in purus imperdiet, id rutrum mauris sodales. Vivamus nec mattis tellus. Nunc turpis dolor, malesuada non magna nec, scelerisque tristique velit.&lt;/p&gt;
+ &lt;p&gt;Sed consectetur eu ligula a molestie. Vivamus convallis libero malesuada pharetra suscipit. In a pulvinar mi, quis aliquet mauris. Duis convallis nunc nunc, in euismod nisi volutpat sit amet. Integer convallis lacus non orci imperdiet, ac convallis massa mollis.&lt;/p&gt;</code></pre>
+                  </details>
                 </div>
             </div>
 
         <section>
-            <h2 id="usage">Usage</h2>
+            <h2 id="usage">When to use</h2>
             <section class="design-usage">
-                <p>Use to group task pages together and provide navigation between these pages.</p>
-                <div class="row mrgn-bttm-lg">
-                    <div class="col-md-4">
-                       <div class="dont-guideline">
-                          <p class="h4">Don't</p>
+                <p>Use to group related task pages together and provide navigation between these pages.</p>
+                          <h2 id="avoid">What to avoid</h2>
                           <p>Don't use numbers when you use this pattern for sequenced steps. Testing has shown that Canadians are less likely to get to the section they need if the elements are numbered.</p>
-                       </div>
-                    </div>
-                </div>
-            </section>
+
+
         </section>
 <!--
-        <section id="customisations-panel" class="wb-overlay modal-content overlay-def wb-popup-mid">
-            <div class="modal-body">
-                <h2 class="modal-title">Customisations for buttons</h2>
-                <table class="table">
-                    <thead>
-                        <tr>
-                            <th>Option</th>
-                            <th>Description</th>
-                            <th>How to use</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>Full width</td>
-                            <td>Make a button occupy the full width of its column.</td>
-                            <td>Add the class <code>btn-block</code> to button.</td>
-                        </tr>
-                        <tr>
-                            <td>Grouped buttons</td>
-                            <td>Buttons can be grouped side by side, such as for toggle buttons.</td>
-                            <td>Surround the grouped buttons with a <code>div</code> with the class <code>btn-group</code>.</td>
-                        </tr>
-                        <tr>
-                            <td>Change sizing</td>
-                            <td>Buttons can be sized to improve visibility for call to actions or to save space in designs such as a toggle.</td>
-                            <td>Apply the following classes to the button:
-                                <ul>
-                                    <li>Large: <code>btn-lg</code></li>
-                                    <li>Small: <code>btn-sm</code></li>
-                                    <li>Extra small: <code>btn-xs</code></li>
-                                </ul>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>Call a javascript function</td>
-                            <td>Call a javascript function to complete the action.</td>
-                            <td>((Would we give options? Leave javascript in its own separate guide?))</td>
-                        </tr>
-                    </tbody>
-                  </table>
-            </div>
-        </section>
-
-
-        <section>
-            <h2 id="design-kits">Available in the design kit</h2>
-            <div class="row">
-                <div class="col-sm-4 col-xs-7 col-md-2">
-                    <ul class="list-unstyled lst-spcd">
-                        <li><a class="btn btn-default btn-block"><span class="fas fa-arrow-circle-down"></span> Photoshop</a></li>
-                        <li class=""><a class="btn btn-default btn-block"><span class="fas fa-arrow-circle-down"></span> Axure XP</a></li>
-                    </ul>
-                </div>
-            </div>
-		</section>
     --> <section>
         <h2>Related template</h2>
         <p><a href="https://design.canada.ca/recommended-templates/service-initiation-pages.html">Service initiation page</a></p>
@@ -314,8 +226,8 @@
         <section>
             <h2 id="versions">Latest changes</h2>
             <dl class="dl-horizontal">
-                <dt>Version 0.1:<br><small><time datetime="2020-05-25" class="link-muted">May 25, 2020</time></small></dt>
-                <dd>Placeholder for the steps component added with experimental component demo layout.</dd>
+                <dt>Version 1.0:<br><small><time datetime="2020-08-12" class="link-muted">August 12, 2020</time></small></dt>
+                <dd>Launched the component.</dd>
             </dl>
         </section>
         <section>
@@ -346,7 +258,7 @@
             <div class="datemod col-xs-12 mrgn-tp-lg">
                 <dl id="wb-dtmd">
                     <dt>Date modified:</dt>
-                    <dd><time property="dateModified">2018-12-19</time></dd>
+                    <dd><time property="dateModified">2020-08-12/time></dd>
                 </dl>
             </div>
         </div>
