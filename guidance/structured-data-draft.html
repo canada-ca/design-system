@@ -1,0 +1,853 @@
+
+<!DOCTYPE html><!--[if lt IE 9]><html class="no-js lt-ie9" lang="en" dir="ltr"><![endif]--><!--[if gt IE 8]><!-->
+<html class="no-js" lang="en" dir="ltr">
+<!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
+		wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
+		<title>Adding structured data on Canada.ca pages - Canada.ca</title>
+<meta content="width=device-width,initial-scale=1" name="viewport">
+
+<!--[if gte IE 9 | !IE ]><!-->
+<link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon">
+<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css"><link rel="stylesheet" href="../css/custom.css">
+<!--<![endif]-->
+<!--[if lt IE 9]>
+		<link href="./GCWeb/assets/favicon.ico" rel="shortcut icon" />
+
+		<link rel="stylesheet" href="http://wet-boew.github.io/themes-dist/GCWeb/GCWeb/css/ie8-theme.min.css" />
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+		<script src="./wet-boew/js/ie8-wet-boew.min.js"></script>
+		<![endif]-->
+<!--[if lte IE 9]>
+
+
+		<![endif]-->
+<noscript><link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/wet-boew/css/noscript.min.css" /></noscript>
+
+
+ <!-- Global site tag (gtag.js) - Google Analytics -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105628416-2"></script>
+
+<script>
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+
+  gtag('config', 'UA-105628416-2');
+
+</script>
+</head>
+<body class="cnt-wdth-lmtd" vocab="http://schema.org/" typeof="WebPage">
+<ul id="wb-tphp">
+<li class="wb-slc">
+<a class="wb-sl" href="#wb-cont">Skip to main content</a>
+</li>
+<li class="wb-slc">
+<a class="wb-sl" href="#wb-info">Skip to "About government"</a>
+</li>
+</ul>
+<header>
+<div id="wb-bnr" class="container">
+<section id="wb-lng" class="text-right">
+<h2 class="wb-inv">Language selection</h2>
+<div class="row">
+<div class="col-md-12">
+<ul class="list-inline margin-bottom-none">
+<li><a lang="fr" href="https://conception.canada.ca/directives/donnees-structurees.html">Français</a></li>
+</ul>
+</div>
+</div>
+</section>
+<div class="row">
+<div class="brand col-xs-5 col-md-4">
+<a href="https://www.canada.ca/en.html"><img src="http://www.canada.ca/etc/designs/canada/wet-boew/assets/sig-blk-en.svg" alt=""><span class="wb-inv"> Government of Canada / <span lang="fr">Gouvernement du Canada</span></span></a>
+</div>
+<section id="wb-srch" class="col-lg-8 text-right">
+<h2>Search</h2>
+<form action="https://recherche-search.gc.ca/rGs/s_r?#wb-land" method="get" role="search" class="form-inline">
+
+<div class="form-group">
+
+<label for="wb-srch-q" class="wb-inv">Search website</label>
+
+<input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="27" maxlength="150" placeholder="Search Canada.ca">
+
+<input name="st" value="s" type="hidden"/>
+
+<input name="num" value="10" type="hidden"/>
+
+<input name="langs" value="eng" type="hidden"/>
+
+<input name="st1rt" value="0" type="hidden">
+
+<input name="s5bm3ts21rch" value="x" type="hidden"/>
+
+<datalist id="wb-srch-q-ac">
+
+<!--[if lte IE 9]><select><![endif]-->
+
+<!--[if lte IE 9]></select><![endif]-->
+
+</datalist>
+
+</div>
+
+<div class="form-group submit">
+
+<button type="submit" id="wb-srch-sub" class="btn btn-primary btn-small" name="wb-srch-sub"><span class="glyphicon-search glyphicon"></span><span class="wb-inv">Search</span></button>
+
+</div>
+
+</form>
+
+
+</section>
+</div>
+</div>
+<nav class="gweb-v2 gcweb-menu" typeof="SiteNavigationElement">
+<div class="container">
+<h2 class="wb-inv">Menu</h2>
+<button type="button" aria-haspopup="true" aria-controls="gc-mnu" aria-expanded="false"><span class="wb-inv">Main </span>Menu <span class="expicon glyphicon glyphicon-chevron-down"></span></button>
+<ul id="gc-mnu" role="menu" aria-orientation="vertical" data-ajax-replace="https://www.canada.ca/content/dam/canada/sitemenu/sitemenu-v2-en.html">
+	<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/jobs.html">Jobs and the workplace</a></li>
+	<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/immigration-citizenship.html">Immigration and citizenship</a></li>
+	<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://travel.gc.ca/">Travel and tourism</a></li>
+	<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/business.html">Business and industry</a></li>
+	<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/benefits.html">Benefits</a></li>
+	<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/health.html">Health</a></li>
+	<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/taxes.html">Taxes</a></li>
+	<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/environment.html">Environment and natural resources</a></li>
+	<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/defence.html">National security and defence</a></li>
+	<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/culture.html">Culture, history and sport</a></li>
+	<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/policing.html">Policing, justice and emergencies</a></li>
+	<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/transport.html">Transport and infrastructure</a></li>
+	<li role="none presentation"><a role="menuitem" tabindex="-1" href="http://international.gc.ca/world-monde/index.aspx?lang=eng">Canada and the world</a></li>
+	<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/finance.html">Money and finances</a></li>
+	<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/finance.html">Science and innovation</a></li>
+</ul>
+</div>
+</nav>
+<nav id="wb-bc" property="breadcrumb">
+<h2>You are here:</h2>
+<div class="container">
+<ol class="breadcrumb">
+	<li><a href='https://www.canada.ca/en.html'>Canada.ca</a></li>
+	<li><a href='https://www.canada.ca/en/government/about.html'>About Canada.ca</a></li>
+<li><a href='https://www.canada.ca/en/government/about/design-system.html'>Canada.ca design system</a></li>
+</ol>
+</div>
+</nav>
+</header>
+
+<!--/* Hide Nav; Hide Right Rail /*-->
+
+<main role="main" property="mainContentOfPage" class="container wb-prettify">
+
+
+<h1 property="name" id="wb-cont" dir="ltr">Adding structured data on Canada.ca pages - Pilot instructions</h1>
+
+
+<div>
+	<div class="mwsgeneric-base-html parbase section">
+
+
+
+<p class="gc-byline"><strong>From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
+
+
+<p>Adding structured data to a webpage can help deliver better answers to Canadians.</p>
+
+	<section>
+		<h2 class='h3'>On this page</h2>
+		<ul>
+            <li><a href="#basics">What is structured data</a></li>
+						<li><a href="#how">How to add structured data</a></li>
+						<li><a href="#schemas">Schema code and examples</a></li>
+						<li><a href="#impact">How to measure impact of structured data</a></li>
+						<li><a href="#additional">Additional resources</a></li>
+		</ul>
+	</section>
+
+	<section>
+		<h2 id="basics">What is structured data</h2>
+		<p>Structured data is a way to tag content in a “machine-readable” way.</p>
+		<p>It allows you to add meaning to the page.</p>
+		<p>It should help deliver:</p>
+
+		<ul>
+            <li>better and more informative search results (often in Google and Bing)</li>
+            <li>better voice search results (for services like Alexa and Google Home)</li>
+		</ul>
+
+	<p>Note that you can't control how search results appear (for example, what appears in the featured snippet). Adding structured data may or may not change search results.</p>
+
+	<p>Structured data needs to be a “true representation” of the page. You can’t add structured data about content that is not covered in the page.</p>
+
+ <p>Adding structured data is just one of the techniques you can use to optimize your content for search. Improving the actual content on the page is the first step to take.</p>
+
+		<ul>
+            <li><a href="https://developers.google.com/search/docs/guides/intro-structured-data">Google: Understand how structured data works</a></li>
+            <li><a href="https://developers.google.com/search/docs/guides/sd-policies">Google: Structured data guidelines</a></li>
+						<li><a href="https://blog.canada.ca/2020/01/28/voice-search-optimization.html">Optimize your content for voice search</a></li>
+		</ul>
+
+	<h2 id="how">How to add structured data</h2>
+	<h3>Step 1: Determine the most effective schema to add</h3>
+	<p>There are multiple structured data schemas you can use to add meaning to your page.</p>
+	<p>Consult the list of schemas on Schema.org or Google, or look at the examples provided on this page.</p>
+	<ul>
+					<li><a href="https://schema.org/docs/full.html">Schema.org schemas</a></li>
+					<li><a href="https://developers.google.com/search/docs/data-types/article">Google structured data</a></li>
+					<li><a href="#schemas">Schema code and examples for Canada.ca</a></li>
+	</ul>
+
+	<h3>Step 2: Choose the method</h3>
+
+	<p>You can use 2 different methods to add structured data to a Canada.ca page: JSON-LD and RDFa. You can also use a combination of both methods. </p>
+
+	<p>The documentation for each schema usually provides the markup for each method.</p>
+
+	<h4>Adding JSON-LD script</h4>
+	<ul>
+	<li>script is added as a code snippet separate from the content of the page</li>
+	<li>sample code can be copied/pasted and values adjusted</li>
+	<li>requires content duplication</li>
+	<li>risk of conflict with the structured data already embedded in WET templates</li>
+	<li>method recommended by Google</li>
+	</ul>
+
+	<p>Use a validator, such as <a href="https://jsonlint.com/">JSONLint</a>, to make sure your code is valid.</p>
+
+	<h4>Adding JSON-LD in Adobe Experience Manager (AEM)</h4>
+	<p>If your page is published in AEM, you can add structured data in JSON-LD by using the structured data component, in the page properties.</p>
+	<p>Follow <a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">instructions in GCPedia</a> (only available on the GC network).</p>
+
+	<h4>Adding RDFa code</h4>
+	<ul>
+	<li>attributes are added to individual elements on the page</li>
+	<li>attributes may require additional elements to be added to the code to create structure, such as <code>section</code>, <code>div</code> and <code>span</code></li>
+	<li>no duplication of content</li>
+	<li>risk of conflict with the structured data already embedded in WET templates</li>
+	</ul>
+
+
+
+	<h3>Step 3: Test the structured data code</h3>
+  <p>You can copy code snippets or full URLs to test code with different tools:</p>
+	<ul>
+					<li><a href="https://search.google.com/test/rich-results">Rich results test</a>: shows which rich result types (supported by Google) were found on the page, as well as any errors or suggestions for your structured data</li>
+					<li><a href="https://search.google.com/structured-data/testing-tool/u/0/">Structured data test</a>: validates the structured data - this tool is being deprecated by Google</li>
+	</ul>
+	<p>Both tools should yield the same result. By pasting the URL or the code of the page, you can see if it’s valid, and if the values assigned to different fields are the correct ones.</p>
+
+<h3>Step 4: Validate HTML code and check accessibility</h3>
+<p>Before you publish the page with structured data, make sure that the HTML is valid and the page is accessible. You can use online validators to help you with this:</p>
+
+<ul>
+				<li><a href="https://validator.w3.org/">W3C HTML validator</a></li>
+				<li><a href="https://wave.webaim.org/">WAVE Web Accessibility Evaluation Tool</a></li>
+</ul>
+
+<h3>Step 5: Publish the page, reindex and monitor</h3>
+<p>Once your structured data is published, ask Google and Bing to reindex the page.</p>
+
+<p>Check the status of your code in the Canada.ca Google Search Console.</p>
+
+<h2 id="impact">How to measure impact of structured data</h2>
+<p>You can measure the impact of structured data looking at the Google Search console. You can get statistics on how the rich snippet is performing: </p>
+
+<ul>
+<li>what’s the proportion of the clicks to a page generated from a rich snippet</li>
+<li>what are the search queries that generate rich snippets</li>
+<li>is the click-through rate different with a rich snippet</li>
+</ul>
+
+<p>Adding UTM codes to hyperlinks in the rich data can also help you understand when people are clicking in the links in the rich snippet.</p>
+
+<h2 id="schemas">Schema code and examples</h2>
+
+<details>
+<summary><h3 class="h4">SpecialAnnouncement</h3></summary>
+<h4>When to use</h4>
+<p>The specialAnnouncement schema is a new experimental schema developed for announcements related to COVID-19. It's mainly for health related information (symptoms, quarantine, testing, etc.), but also for closures, reopenings, and special government benefits.</p>
+
+<h4>Official guidance</h4>
+
+<ul>
+				<li><a href="https://schema.org/SpecialAnnouncement">Schema.org specialAnnouncement guidance</a></li>
+				<li><a href="https://developers.google.com/search/docs/data-types/special-announcements">Google specialAnnouncement guidance</a></li>
+</ul>
+
+<div class="pattern-demo mrgn-bttm-md">
+	<div class="mrgn-rght-md mrgn-lft-md">
+<h4>Code</h4>
+		<div class="wb-tabs">
+			<div class="tabpanels">
+				<details>
+					<summary>JSON-LD</summary>
+					<ul>
+									<li>Add <code>id</code> attribute to the JSON-LD HTML script element named “wb-script”.</li>
+									<li>Use the same JSON-LD root id anchor as the one for the main content of the page. Both will use “#wb-main” to specify semantically they are describing the same subject.</li>
+					</ul>
+
+					<pre class="prettyprint"><code>&lt;script id="wb-script"
+type="application/ld+json"&gt;
+ {
+  "@context":"http://schema.org",
+  "@type":"SpecialAnnouncement",
+  "@id": "#wb-main",
+  "mainEntityOfPage":{
+   "@type":"WebPage",
+   "@id":"https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html"
+   },
+  "name":"Coronavirus disease (COVID-19): information from the government of Canada",
+  "text":"Coronavirus disease (COVID-19) information for Canadians including links to disease updates, travel advice, how to be prepared, symptoms, prevention, risk, Canada's response, current case numbers, answers to questions and links to printable resources.",
+  "spatialCoverage": {
+   "@type": "Country",
+   "name": "Canada"
+   },
+  "publisher":{
+   "@type":"GovernmentOrganization",
+   "@id":"#wb-publisher",
+   "name":"Government of Canada",
+   "url":"https://www.canada.ca/en.html"
+   },
+  "category":"https://www.wikidata.org/wiki/Q81068910",
+  "datePosted":"2020-05-09",
+  "diseasePreventionInfo":"https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html",
+  "diseaseSpreadStatistics":"https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
+  "newsUpdatesAndGuidelines":"https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html",
+  "quarantineGuidelines":"https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html",
+  "travelBans":"https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html",
+  "governmentBenefitsInfo": {
+   "@type": "GovernmentService",
+   "name": "Canada's COVID-19 Economic Response Plan",
+   "url":  "https://www.canada.ca/en/department-finance/economic-response-plan.html",
+   "provider": {
+    "@id": "#wb-publisher"
+    },
+   "serviceType": "Emergency relief",
+   "audience": {
+   "@type": "Audience",
+   "name": "Canadians affected by COVID-19"
+   }
+  }
+ }
+&lt;/script&gt;
+&lt;body vocab="http://schema.org/" typeof="WebPage"&gt;
+ &lt;div typeof="Organisation" resource="#wb-publisher"&gt;
+  &lt;img src="/link/to/a/logo" alt="Publisher name" property="logo" /&gt;
+  &lt;meta property="name" content="Publisher name" /&gt;
+ &lt;/div&gt;
+ &lt;main property="mainContentOfPage" typeof="WebPageElement" resource="#wb-main"&gt;
+ &lt;/main&gt;
+&lt;/body&gt;</code></pre>
+				</details>
+				<details>
+					<summary>AEM</summary>
+					<p>Add the code in the Structured data component in the page properties.</p>
+
+					<pre class="prettyprint"><code>&lt;{
+  "@context":"http://schema.org",
+  "@type":"SpecialAnnouncement",
+  "@id": "#wb-main",
+  "mainEntityOfPage":{
+   "@type":"WebPage",
+   "@id":"https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html"
+   },
+  "name":"Coronavirus disease (COVID-19): information from the government of Canada",
+  "text":"Coronavirus disease (COVID-19) information for Canadians including links to disease updates, travel advice, how to be prepared, symptoms, prevention, risk, Canada's response, current case numbers, answers to questions and links to printable resources.",
+  "spatialCoverage": {
+   "@type": "Country",
+   "name": "Canada"
+   },
+  "publisher":{
+   "@type":"GovernmentOrganization",
+   "@id":"#wb-publisher",
+   "name":"Government of Canada",
+   "url":"https://www.canada.ca/en.html"
+   },
+  "category":"https://www.wikidata.org/wiki/Q81068910",
+  "datePosted":"2020-05-09",
+  "diseasePreventionInfo":"https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html",
+  "diseaseSpreadStatistics":"https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
+  "newsUpdatesAndGuidelines":"https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html",
+  "quarantineGuidelines":"https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html",
+  "travelBans":"https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html",
+  "governmentBenefitsInfo": {
+   "@type": "GovernmentService",
+   "name": "Canada's COVID-19 Economic Response Plan",
+   "url":  "https://www.canada.ca/en/department-finance/economic-response-plan.html",
+   "provider": {
+    "@id": "#wb-publisher"
+    },
+   "serviceType": "Emergency relief",
+   "audience": {
+   "@type": "Audience",
+   "name": "Canadians affected by COVID-19"
+   }
+  }
+ }</code></pre>
+				</details>
+				<details>
+					<summary>RDFa</summary>
+					<p>Not available in RDFa yet</p>
+				</details>
+	</div>
+</div>
+</div>
+</div>
+</details>
+
+<details>
+<summary><h3 class="h4">FAQPage</h3></summary>
+<h4>When to use</h4>
+<p>Use to add a set of “questions and answers” (or a set of headings and their respective content). Either tag the visible content (using RDFa), or add a layer in JSON-LD. </p>
+
+<p>Use on:</p>
+<ul>
+				<li>Service initiation pages</li>
+				<li>Guidance documents</li>
+				<li>Actual FAQs, though FAQ pages are strongly discouraged on Canada.ca in most cases - read our blog post: <a href="https://blog.canada.ca/2020/05/25/avoiding-faqs.html">Avoiding FAQs, with one exception</a> </li>
+</ul>
+<h4>Official guidance</h4>
+<ul>
+				<li><a href="https://schema.org/FAQPage">Schema.org FAQPage guidance</a></li>
+				<li><a href="https://developers.google.com/search/docs/data-types/faqpage">Google FAQPage guidance</a></li>
+</ul>
+<div class="pattern-demo mrgn-bttm-md">
+<div class="mrgn-rght-md mrgn-lft-md">
+<h4>Code</h4>
+		<div class="wb-tabs">
+			<div class="tabpanels">
+				<details>
+					<summary>JSON-LD</summary>
+					<ul>
+									<li>Add <code>id</code> attribute to the JSON-LD HTML script element named “wb-script”.</li>
+									<li>Use the same JSON-LD root id anchor as the one for the main content of the page. Both will use “#wb-main” to specify semantically they are describing the same subject.</li>
+					</ul>
+					<pre class="prettyprint"><code>&lt;script id="wb-script"
+type="application/ld+json"&gt;
+ {
+  "@context":"http://schema.org",
+  "@id": "#wb-main",
+  "@type": "FAQPage",
+  "publisher":{
+   "@type":"GovernmentOrganization",
+   "@id":"#wb-publisher",
+   "name":"Government of Canada",
+   "url":"https://www.canada.ca/en.html"
+   },
+  "headline": "How much you can get",
+  "description":"Calculate your payments, shared custody and your payments, payments are recalculated in July, Related provincial and territorial benefits, children with a disability, repaying an overpayment",
+  "mainEntity": [{
+   "@type": "Question",
+   "name": "Calculate your payments",
+   "url": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-we-calculate-your-ccb.html",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "url": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-we-calculate-your-ccb.html",
+    "text": "&lt;p&gt;Use the child and family benefits calculator to help plan your budget.&lt;/p&gt;
+     &lt;p&gt;&lt;a href='https://www.canada.ca/en/revenue-agency/services/child-family-benefits/child-family-benefits-calculator.html?utm_source=google&utm_medium=organic&utm_campaign=faq-data&utm_content=ccbhowmuch-en-q1-001'&gt;&nbsp; Calculate how much you can get&lt;/a&gt;&lt;/p&gt;
+
+     &lt;p&gt;&lt;a href='https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-we-calculate-your-ccb.html?utm_source=google&utm_medium=organic&utm_campaign=faq-data&utm_content=ccbhowmuch-en-q1-002#math'&gt;See the math behind CCB payments&lt;/a&gt;&lt;/p&gt;"
+     }
+	  },
+ {
+   "@type": "Question",
+   "name": "Shared custody and your payments",
+   "url": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-we-calculate-your-ccb.html",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "url": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-we-calculate-your-ccb.html",
+    "text": "
+     &lt;p&gt;Each parent with shared custody will get 50% of what they would have gotten if they had full custody of the child, calculated based on their own adjusted family net income.&lt;/li&gt;
+     &lt;p&gt;The CRA will not split the amount using other percentages, or give the full amount to one of the parents if CRA considers you to have shared custody.&lt;/li&gt;
+     &lt;p&gt;If a child only lives with you &lt;strong&gt;part time&lt;/strong&gt;, go to  &lt;a href='https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-before-you-apply.html?utm_source=google&utm_medium=organic&utm_campaign=faq-data&utm_content=ccbhowmuch-en-q2-001#shared'&gt;Custody arrangements and your benefits&lt;/a&gt; to find out if you are considered to have shared custody.&lt;/p&gt;"
+    }
+  }]
+ }
+&lt;/script&gt;
+&lt;body vocab="http://schema.org/" typeof="WebPage"&gt;
+ &lt;div typeof="Organisation" resource="#wb-publisher"&gt;
+  &lt;img src="/link/to/a/logo" alt="Publisher name" property="logo" /&gt;
+  &lt;meta property="name" content="Publisher name" /&gt;
+ &lt;/div&gt;
+ &lt;main property="mainContentOfPage" typeof="WebPageElement" resource="#wb-main"&gt;
+ &lt;/main&gt;
+&lt;/body&gt;</code></pre>
+				</details>
+				<details>
+					<summary>RDFa</summary>
+					<pre class="prettyprint"><code>&lt;div class="container" typeof="schema:FAQPage"&gt;
+ &lt;h1 property="schema:name" id="wb-cont"&gt;Canada child benefit - How much you can get&lt;/h1&gt;
+ &lt;section property="schema:mainEntity" typeof="schema:Question"&gt;
+  &lt;h2 id="estimate" property="schema:name"&gt;Calculate your payments&lt;/h2&gt;
+  &lt;div property="schema:acceptedAnswer" typeof="schema:Answer"&gt;
+   &lt;p property="schema:text"&gt;Use the child and family benefits calculator to help plan your budget.&lt;br&gt;
+    &lt;a href="https://www.canada.ca/en/revenue-agency/services/child-family-benefits/child-family-benefits-calculator.html" class="btn btn-call-to-action"&gt;Calculate how much you can get&lt;/a&gt;
+   &lt;/p&gt;
+  &lt;/div&gt;
+ &lt;/section&gt;
+ &lt;section property="schema:mainEntity" typeof="schema:Question"&gt;
+  &lt;h2 id="shared" property="schema:name"&gt;Shared custody and your payments&lt;/h2&gt;
+  &lt;div property="schema:acceptedAnswer" typeof="schema:Answer"&gt;
+   &lt;div property="schema:text"&gt;
+    &lt;p&gt;Each parent with shared custody will get 50% of what they would have gotten if they had full custody of the child, calculated based on their own adjusted family net income.&lt;/p&gt;
+    &lt;p&gt;The CRA will not split the amount using other percentages, or give the full amount to one of the parents if CRA considers you to have shared custody.&lt;/p&gt;
+    &lt;p&gt;If a child only lives with you &lt;strong&gt;part time&lt;/strong&gt;, go to  &lt;a href="/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-before-you-apply.html#shared"&gt;Custody arrangements and your benefits&lt;/a&gt; to find out if you are considered to have shared custody.&lt;/p&gt;
+   &lt;/div&gt;
+  &lt;/div&gt;
+ &lt;/section&gt;
+&lt;/div&gt;</code></pre>
+				</details>
+			</div>
+			</div>
+			</div>
+			</div>
+</details>
+
+<details>
+<summary><h3 class="h4">HowTo</h3></summary>
+<h4>When to use</h4>
+<p>Use for tasks that require a very clear step-by-step approach. </p>
+
+<h4>Official guidance</h4>
+
+<ul>
+				<li><a href="https://schema.org/HowTo">Schema.org HowTo guidance</a></li>
+				<li><a href="https://developers.google.com/search/docs/data-types/how-to">Google HowTo guidance</a></li>
+</ul>
+<div class="pattern-demo mrgn-bttm-md">
+	<div class="mrgn-rght-md mrgn-lft-md">
+<h4>Code</h4>
+		<div class="wb-tabs">
+			<div class="tabpanels">
+				<details>
+					<summary>JSON-LD</summary>
+					<ul>
+									<li>Add <code>id</code> attribute to the JSON-LD HTML script element named “wb-script”.</li>
+									<li>Use the same JSON-LD root id anchor as the one for the main content of the page. Both will use “#wb-main” to specify semantically they are describing the same subject.</li>
+					</ul>
+					<pre class="prettyprint"><code>&lt;script id="wb-script"
+type="application/ld+json"&gt;
+ {
+  "@context":"http://schema.org",
+  "@id": "#wb-main",
+  "@type":"HowTo",
+  "publisher":{
+   "@type":"GovernmentOrganization",
+   "@id":"#wb-publisher",
+   "name":"Government of Canada",
+   "url":"https://www.canada.ca/en.html"
+   },
+  "description":"The Canada child benefit (CCB) is a tax-free monthly payment made to eligible families to help with the cost of raising children under 18 years of age. ",
+  "name":"Canada child benefit",
+  "step":[{
+   "@type":"HowToStep",
+   "image":"http://test.canada.ca/covid-19-guidance/proto/structured_data/step_1.svg",
+   "name":"Who can apply",
+   "url":"https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-before-you-apply.html",
+   "Position":1,
+   "text":"Who can get the Canada child benefit, who is primarily responsible for the care and upbringing of the child, and impact of shared custody on your benefits"
+   },
+   {"@type":"HowToStep",
+   "image":"http://test.canada.ca/covid-19-guidance/proto/structured_data/step_2.svg",
+   "name":"Apply",
+   "url":"http://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-apply.html",
+   "position":2,
+   "text":"When and how to apply, and when you need to provide additional documents"
+   }
+  ]}
+&lt;/script&gt;
+&lt;body vocab="http://schema.org/" typeof="WebPage"&gt;
+ &lt;div typeof="Organisation" resource="#wb-publisher"&gt;
+  &lt;img src="/link/to/a/logo" alt="Publisher name" property="logo" /&gt;
+  &lt;meta property="name" content="Publisher name" /&gt;
+ &lt;/div&gt;
+ &lt;main property="mainContentOfPage" typeof="WebPageElement" resource="#wb-main"&gt;
+ &lt;/main&gt;
+&lt;/body&gt;</code></pre>
+				</details>
+				<details>
+					<summary>RDFa</summary>
+					<pre class="prettyprint"><code>&lt;main property="mainContentOfPage" class="container"&gt;
+&lt;div class="container" vocab="http://schema.org/" typeof="HowTo"&gt;
+&lt;h1 property="name" id="wb-cont"&gt;Canada child benefit&lt;/h1&gt;
+&lt;div class="row"&gt;
+ &lt;div class="col-md-8"&gt;
+  &lt;div id="steps-content" &gt;
+   &lt;p property="description"&gt;The Canada child benefit (CCB) is a tax-free monthly payment made to eligible families to help with the cost of raising children under 18 years of age.&lt;/p&gt;
+   &lt;h2 class="mrgn-bttm-lg"&gt;Sections&lt;/h2&gt;
+   &lt;ul class="gc-navseq section-menu"&gt;
+    &lt;li property="step" typeof="HowToStep"&gt;
+     &lt;meta property="position" content="1"/&gt;
+     &lt;a property="url" href="https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-before-you-apply.html"&gt;&lt;span property="name"&gt;Who can apply&lt;/span&gt;&lt;span class="wb-inv"&gt; - Canada child benefit&lt;/span&gt;&lt;/a&gt;&lt;br&gt;
+      &lt;span property="text"&gt;Who can get the Canada child benefit, who is primarily responsible for the care and upbringing of the child, and impact of shared custody on your benefits&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li property="step" typeof="HowToStep"&gt;
+     &lt;meta property="position" content="2"/&gt;
+      &lt;a property="url"href="/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-apply.html"&gt;&lt;span property="name"&gt;Apply&lt;/span&gt;&lt;span class="wb-inv"&gt; - Canada child benefit&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;span property="text"&gt;When and how to apply, and when you need to provide additional documents&lt;/span&gt;
+    &lt;/li&gt;
+   &lt;/ul&gt;
+  &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</code></pre>
+				</details>
+			</div>
+			</div>
+			</div>
+			</div>
+			</details>
+
+<details>
+<summary><h3 class="h4">Speakable</h3></summary>
+<h4>When to use</h4>
+<p>Use to identify any section of content that would be best suitable for text-to-speech: the part of the page that encapsulates the most important content people are looking for on that page.</p>
+
+<p>Can be used on any page. </p>
+
+<h4>Official guidance</h4>
+
+<ul>
+				<li><a href="https://schema.org/SpeakableSpecification">Schema.org Speakable guidance</a></li>
+				<li><a href="https://developers.google.com/search/docs/data-types/speakable">Google Speakable guidance</a></li>
+</ul>
+<div class="pattern-demo mrgn-bttm-md">
+	<div class="mrgn-rght-md mrgn-lft-md">
+	<h4>Code</h4>
+		<div class="wb-tabs">
+			<div class="tabpanels">
+				<details>
+					<summary>JSON-LD</summary>
+					<ul>
+									<li>Add <code>id</code> attribute to the JSON-LD HTML script element named “wb-script”.</li>
+									<li>Use the same JSON-LD root id anchor as the one for the main content of the page. Both will use “#wb-main” to specify semantically they are describing the same subject.</li>
+					</ul>
+					<pre class="prettyprint"><code>&lt;script id="wb-script"
+type="application/ld+json"&gt;
+ {
+  "@context":"http://schema.org",
+  "@id": "#wb-main",
+  "@type": "WebPage",
+  "name": "How much Canada Child Benefit you could get",
+  "speakable":{
+   "@type": "SpeakableSpecification","cssSelector": [".speakable1"]
+   },
+  "url":"https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-we-calculate-your-ccb.html"}
+&lt;/script&gt;
+&lt;body vocab="http://schema.org/" typeof="WebPage"&gt;
+ &lt;div typeof="Organisation" resource="#wb-publisher"&gt;
+  &lt;img src="/link/to/a/logo" alt="Publisher name" property="logo" /&gt;
+  &lt;meta property="name" content="Publisher name" /&gt;
+ &lt;/div&gt;
+ &lt;main property="mainContentOfPage" typeof="WebPageElement" resource="#wb-main"&gt;
+  &lt;p class="speakable1	"&gt;The maximum Canada child benefit you could get is $6,639 per year for children under 6, and $5,602 per year for children aged 6 to 17.&lt;/p&gt;
+ &lt;/main&gt;
+&lt;/body&gt;</code></pre>
+				</details>
+				<details>
+					<summary>RDFa</summary>
+					<p>Not available as RDFa yet</p>
+				</details>
+			</div>
+			</div>
+			</div>
+			</div>
+			</details>
+
+
+			<details>
+			<summary><h3 class="h4">Event</h3></summary>
+			<h4>When to use</h4>
+			<p>Use for events.</p>
+
+			<h4>Official guidance</h4>
+
+			<ul>
+							<li><a href="https://schema.org/Event">Schema.org Event guidance</a></li>
+							<li><a href="https://developers.google.com/search/docs/data-types/event">Google Event guidance</a></li>
+			</ul>
+
+			<div class="pattern-demo mrgn-bttm-md">
+				<div class="mrgn-rght-md mrgn-lft-md">
+			<h4>Code</h4>
+					<div class="wb-tabs">
+						<div class="tabpanels">
+							<details>
+								<summary>JSON-LD</summary>
+								<ul>
+												<li>Add <code>id</code> attribute to the JSON-LD HTML script element named “wb-script”.</li>
+												<li>Use the same JSON-LD root id anchor as the one for the main content of the page. Both will use “#wb-main” to specify semantically they are describing the same subject.</li>
+								</ul>
+
+								<pre class="prettyprint"><code>&lt;script
+type="application/ld+json"&gt;
+ {
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "Great event under the sun",
+  "startDate": "2020-07-15",
+  "location": {
+   "@type": "Place",
+   "name": "Parliament Hill",
+    "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Ottawa",
+    "addressRegion": "ON",
+    "postalCode": "K1A 0A9",
+    "streetAddress": "Wellington Street"
+    }
+   },
+  "image": "./canada-day.jpg",
+  "description": "Celebrating the sun in the nation's capital."
+ }
+&lt;/script&gt;
+&lt;body vocab="http://schema.org/" typeof="WebPage"&gt;
+ &lt;div typeof="Organisation" resource="#wb-publisher"&gt;
+  &lt;img src="/link/to/a/logo" alt="Publisher name" property="logo" /&gt;
+  &lt;meta property="name" content="Publisher name" /&gt;
+ &lt;/div&gt;
+ &lt;main property="mainContentOfPage" typeof="WebPageElement" resource="#wb-main"&gt;
+ &lt;/main&gt;
+&lt;/body&gt;</code></pre>
+  </details>
+ <details>
+  <summary>RDFa</summary>
+	<pre class="prettyprint"><code>&lt;main property="mainContentOfPage" class="container"&gt;
+&lt;div class="container" vocab="http://schema.org/" typeof="Event"&gt;
+&lt;h1 property="name" id="wb-cont"&gt;Great event under the sun&lt;/h1&gt;
+&lt;img property="image" src="./canada-day.jpg"&gt;
+&lt;p property="description"&gt;Celebrating the sun in the nation's capital.&lt;/p&gt;
+&lt;div class="event-venue" property="location" typeof="Place"&gt;
+ &lt;h2&gt;Location&lt;/h2&gt;
+ &lt;p&gt;
+  &lt;span property="name"&gt;Parliament Hill&lt;/span&gt;
+  &lt;div class="address" property="address" typeof="PostalAddress"&gt;
+   &lt;span property="streetAddress"&gt;Wellington Street&lt;/span&gt;&lt;br&gt;
+   &lt;span property="addressLocality"&gt;Ottawa&lt;/span&gt;, &lt;span property="addressRegion"&gt;ON&lt;/span&gt; &lt;span property="postalCode"&gt;K1A 0A9&lt;/span&gt;
+  &lt;/div&gt;
+ &lt;/p&gt;
+&lt;/div&gt;
+&lt;h2&gt;Date&lt;/h2&gt;
+&lt;p&gt;
+&lt;div class="event-date" property="startDate" content="2020-07-15"&gt;July 15, 2020&lt;/div&gt;
+&lt;/p&gt;</code></pre>
+							</details>
+				</div>
+			</div>
+			</div>
+			</div>
+			</details>
+
+<h2 id="additional">Additional resources</h2>
+
+<ul>
+				<li><a href="https://blog.canada.ca/2020/01/28/voice-search-optimization.html">Optimize your content for voice search</a></li>
+				<li><a href="https://gds.blog.gov.uk/2019/12/19/making-gov-uk-more-than-a-website/">Making GOV.UK more than a website</a></li>
+				<li><a href="https://docs.publishing.service.gov.uk/manual/schemas.html">What data GOV.UK exposes as schema.org structured data</a></li>
+				<li><a href="https://digital.gov/2020/05/11/experimenting-with-specialannouncement-markup/">USA.gov: Experimenting with SpecialAnnouncement Markup</a></li>
+				<li><a href="https://www.searchenginejournal.com/google-structured-data-preference/297479/">Google On Which Structured Data it Prefers: JSON-LD or Microdata?</a></li>
+				<li><a href="https://www.w3.org/TR/rdf11-primer/">W3C RDF 1.1 primer</a></li>
+				<li><a href="	https://www.schemaapp.com/newsletter/measuring-results-schema-org-markup/">Measuring results from Schema.org markup JSON-LD</a></li>
+</ul>
+
+</div>
+
+</div>
+
+
+<div class="row pagedetails">
+<div class="col-sm-6 col-lg-4 mrgn-tp-sm">
+<div class="panel-pane pane-block pane-bean-report-problem-button"  >
+<div class="pane-content">
+<section>
+<div class="field field-name-field-bean-wetkit-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><a class="btn btn-default btn-block" href="https://www.canada.ca/en/report-problem.html">Report a problem on this page</a></div></div></div></section>
+</div>
+</div>
+</div>
+
+        <div class="col-sm-3 mrgn-tp-sm pull-right">
+        <div class="wb-share" data-wb-share='{&#34;lnkClass&#34;: &#34;btn btn-default btn-block&#34;}'></div>
+    </div>
+
+
+    <div class="datemod col-xs-12 mrgn-tp-lg">
+        <dl id="wb-dtmd">
+    <dt>Date modified:</dt>
+    <dd><time property="dateModified">2020-03-16</time></dd>
+</dl>
+    </div>
+
+</div>
+    </main>
+
+
+
+
+
+
+
+
+
+		<footer id="wb-info">
+	<div class="landscape">
+	<nav class="container wb-navcurr">
+	<h2 class="wb-inv">About government</h2>
+	<ul class="list-unstyled colcount-sm-2 colcount-md-3">
+	<li><a href="https://www.canada.ca/en/contact.html">Contact us</a></li>
+	<li><a href="https://www.canada.ca/en/government/dept.html">Departments and agencies</a></li>
+	<li><a href="https://www.canada.ca/en/government/publicservice.html">Public service and military</a></li>
+	<li><a href="https://www.canada.ca/en/news.html">News</a></li>
+	<li><a href="https://www.canada.ca/en/government/system/laws.html">Treaties, laws and regulations</a></li>
+	<li><a href="https://www.canada.ca/en/transparency/reporting.html">Government-wide reporting</a></li>
+	<li><a href="https://pm.gc.ca/eng">Prime Minister</a></li>
+	<li><a href="https://www.canada.ca/en/government/system.html">How government works</a></li>
+	<li><a href="https://open.canada.ca/en/">Open government</a></li>
+	</ul>
+	</nav>
+	</div>
+	<div class="brand">
+	<div class="container">
+	<div class="row">
+	<nav class="col-md-9 col-lg-10 ftr-urlt-lnk">
+	<h2 class="wb-inv">About this site</h2>
+	<ul>
+	<li><a href="https://www.canada.ca/en/social.html">Social media</a></li>
+	<li><a href="https://www.canada.ca/en/mobile.html">Mobile applications</a></li>
+	<li><a href="https://www1.canada.ca/en/newsite.html">About Canada.ca</a></li>
+	<li><a href="https://www.canada.ca/en/transparency/terms.html">Terms and conditions</a></li>
+	<li><a href="https://www.canada.ca/en/transparency/privacy.html">Privacy</a></li>
+	</ul>
+	</nav>
+	<div class="col-xs-6 visible-sm visible-xs tofpg">
+	<a href="#wb-cont">Top of Page <span class="glyphicon glyphicon-chevron-up"></span></a>
+	</div>
+	<div class="col-xs-6 col-md-3 col-lg-2 text-right">
+	<img src="http://www.canada.ca/etc/designs/canada/wet-boew/assets/wmms-blk.svg" alt="Symbol of the Government of Canada">
+	</div>
+	</div>
+	</div>
+	</div>
+	</footer>
+	<!--[if gte IE 9 | !IE ]><!-->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.js"></script>
+	<script src="https://wet-boew.github.io/themes-dist/GCWeb/wet-boew/js/wet-boew.min.js"></script>
+	<!--<![endif]-->
+	<!--[if lt IE 9]>
+			<script src="./wet-boew/js/ie8-wet-boew2.min.js"></script>
+
+			<![endif]-->
+	<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>
+	<script>
+	document.getElementById('submissionPage').value = location.href;
+</script>
+
+
+</body>
+	</html>
