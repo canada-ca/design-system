@@ -149,7 +149,7 @@
 <main role="main" property="mainContentOfPage" class="container wb-prettify">
 
 
-<h1 property="name" id="wb-cont" dir="ltr">Adding structured data on Canada.ca pages - Pilot instructions</h1>
+<h1 property="name" id="wb-cont" dir="ltr">Adding structured data on Canada.ca pages - DRAFT</h1>
 
 
 <div>
@@ -614,6 +614,38 @@ type="application/ld+json"&gt;
 &lt;/body&gt;</code></pre>
 				</details>
 				<details>
+					<summary>AEM</summary>
+					<p>Add the code in the Structured data component in the page properties.</p>
+					<pre class="prettyprint"><code>{
+  "@context":"http://schema.org",
+  "@id": "#wb-main",
+  "@type":"HowTo",
+  "publisher":{
+   "@type":"GovernmentOrganization",
+   "@id":"#wb-publisher",
+   "name":"Government of Canada",
+   "url":"https://www.canada.ca/en.html"
+   },
+  "description":"The Canada child benefit (CCB) is a tax-free monthly payment made to eligible families to help with the cost of raising children under 18 years of age. ",
+  "name":"Canada child benefit",
+  "step":[{
+   "@type":"HowToStep",
+   "image":"http://test.canada.ca/covid-19-guidance/proto/structured_data/step_1.svg",
+   "name":"Who can apply",
+   "url":"https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-before-you-apply.html",
+   "Position":1,
+   "text":"Who can get the Canada child benefit, who is primarily responsible for the care and upbringing of the child, and impact of shared custody on your benefits"
+   },
+   {"@type":"HowToStep",
+   "image":"http://test.canada.ca/covid-19-guidance/proto/structured_data/step_2.svg",
+   "name":"Apply",
+   "url":"http://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-apply.html",
+   "position":2,
+   "text":"When and how to apply, and when you need to provide additional documents"
+   }
+  ]}</code></pre>
+				</details>
+				<details>
 					<summary>RDFa</summary>
 					<pre class="prettyprint"><code>&lt;main property="mainContentOfPage" class="container"&gt;
 &lt;div class="container" vocab="http://schema.org/" typeof="HowTo"&gt;
@@ -691,6 +723,19 @@ type="application/ld+json"&gt;
 &lt;/body&gt;</code></pre>
 				</details>
 				<details>
+					<summary>AEM</summary>
+					<p>Add the code in the Structured data component in the page properties.</p>
+					<pre class="prettyprint"><code>{
+  "@context":"http://schema.org",
+  "@id": "#wb-main",
+  "@type": "WebPage",
+  "name": "How much Canada Child Benefit you could get",
+  "speakable":{
+   "@type": "SpeakableSpecification","cssSelector": [".speakable1"]
+   },
+  "url":"https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-we-calculate-your-ccb.html"}</code></pre>
+				</details>
+				<details>
 					<summary>RDFa</summary>
 					<p>Not available as RDFa yet</p>
 				</details>
@@ -731,6 +776,7 @@ type="application/ld+json"&gt;
   "@context": "http://schema.org",
   "@type": "Event",
   "name": "Great event under the sun",
+	"@id": "#wb-main",
   "startDate": "2020-07-15",
   "location": {
    "@type": "Place",
@@ -756,6 +802,31 @@ type="application/ld+json"&gt;
  &lt;/main&gt;
 &lt;/body&gt;</code></pre>
   </details>
+	<details>
+		<summary>AEM</summary>
+		<p>Add the code in the Structured data component in the page properties.</p>
+
+		<pre class="prettyprint"><code>{
+"@context": "http://schema.org",
+"@type": "Event",
+"name": "Great event under the sun",
+"@id": "#wb-main",
+"startDate": "2020-07-15",
+"location": {
+"@type": "Place",
+"name": "Parliament Hill",
+"address": {
+"@type": "PostalAddress",
+"addressLocality": "Ottawa",
+"addressRegion": "ON",
+"postalCode": "K1A 0A9",
+"streetAddress": "Wellington Street"
+}
+},
+"image": "./canada-day.jpg",
+"description": "Celebrating the sun in the nation's capital."
+}</code></pre>
+</details>
  <details>
   <summary>RDFa</summary>
 	<pre class="prettyprint"><code>&lt;main property="mainContentOfPage" class="container"&gt;
