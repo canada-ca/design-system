@@ -197,8 +197,9 @@
 		</ul>
 
 	<h2 id="how">How to add structured data</h2>
-	<h3>Step 1: Determine the most effective schema to add</h3>
-	<p>There are multiple structured data schemas you can use to add meaning to your page.</p>
+	<h3>Step 1: Choose a schema</h3>
+	<p>A structured data schema is a set of pairs of fields and values you can use to add meaning to your page.</p>
+	<p>There are multiple schemas you can choose from.</p>
 	<p>Consult the list of schemas on Schema.org or Google, or look at the examples provided on this page.</p>
 	<ul>
 					<li><a href="https://schema.org/docs/full.html">Schema.org schemas</a></li>
@@ -206,13 +207,13 @@
 					<li><a href="#schemas">Schema code and examples for Canada.ca</a></li>
 	</ul>
 
-	<h3>Step 2: Choose the method</h3>
+	<h3>Step 2: Choose the method - JSON-LD vs RDFa</h3>
 
 	<p>You can use 2 different methods to add structured data to a Canada.ca page: JSON-LD and RDFa. You can also use a combination of both methods. </p>
 
 	<p>The documentation for each schema usually provides the markup for each method.</p>
 
-	<h4>Adding JSON-LD script</h4>
+	<h4>JSON-LD script</h4>
 	<ul>
 	<li>script is added as a code snippet separate from the content of the page</li>
 	<li>sample code can be copied/pasted and values adjusted</li>
@@ -223,11 +224,11 @@
 
 	<p>Use a validator, such as <a href="https://jsonlint.com/">JSONLint</a>, to make sure your code is valid.</p>
 
-	<h4>Adding JSON-LD in Adobe Experience Manager (AEM)</h4>
-	<p>If your page is published in AEM, you can add structured data in JSON-LD by using the structured data component, in the page properties.</p>
+	<h5>Adding JSON-LD in Adobe Experience Manager (AEM)</h5>
+	<p>If your page is published in AEM, you can add structured data in JSON-LD by using the structured data component in the page properties.</p>
 	<p>Follow <a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">instructions in GCPedia</a> (only available on the GC network).</p>
 
-	<h4>Adding RDFa code</h4>
+	<h4>RDFa code</h4>
 	<ul>
 	<li>attributes are added to individual elements on the page</li>
 	<li>attributes may require additional elements to be added to the code to create structure, such as <code>section</code>, <code>div</code> and <code>span</code></li>
@@ -238,12 +239,11 @@
 
 
 	<h3>Step 3: Test the structured data code</h3>
-  <p>You can copy code snippets or full URLs to test code with different tools:</p>
+  <p>You can copy code snippets or full URLs to test your code:</p>
 	<ul>
 					<li><a href="https://search.google.com/test/rich-results">Rich results test</a>: shows which rich result types (supported by Google) were found on the page, as well as any errors or suggestions for your structured data</li>
-					<li><a href="https://search.google.com/structured-data/testing-tool/u/0/">Structured data test</a>: validates the structured data - this tool is being deprecated by Google</li>
 	</ul>
-	<p>Both tools should yield the same result. By pasting the URL or the code of the page, you can see if it’s valid, and if the values assigned to different fields are the correct ones.</p>
+	<p>By pasting the URL or the code of the page, you can see if it’s valid, and if the values assigned to different fields are the correct ones.</p>
 
 <h3>Step 4: Validate HTML code and check accessibility</h3>
 <p>Before you publish the page with structured data, make sure that the HTML is valid and the page is accessible. You can use online validators to help you with this:</p>
@@ -268,6 +268,9 @@
 </ul>
 
 <p>Adding UTM codes to hyperlinks in the rich data can also help you understand when people are clicking in the links in the rich snippet.</p>
+<ul>
+<li><a href="https://www.gcpedia.gc.ca/gcwiki/images/2/26/UTM_Code_Guidelines.pdf">UTM code guidelines</a> (only available on the GC network)</li>
+</ul>
 
 <h2 id="schemas">Schema code and examples</h2>
 
