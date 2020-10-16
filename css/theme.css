@@ -16983,6 +16983,7 @@ table.nws-tbl > thead > tr > th {
  */
 	#wb-info .ftr-urlt-lnk li {
 		float: left;
+		list-style-type: none;
 		margin-right: 0.7em;
 	}
 	#wb-info .ftr-urlt-lnk li:first-child:before {
