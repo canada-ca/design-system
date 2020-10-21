@@ -35,6 +35,13 @@
     "EXAMPLE": "<a href=\"https://wet-boew.github.io/themes-dist/GCWeb/campaign-en.html\">Campaign</a>",
     "MANDATORY": "No"
   }, {
+  	"NAME": "<a href=\"https://design.canada.ca/common-design-patterns/canada-dot-ca.html\">Canada.ca domain</a>",
+    "USE": "The primary domain for the Government of Canada's public-facing web presence.",
+    "CAT": "Design pattern",
+    "TYPE": "Site-wide pattern",
+    "EXAMPLE": "&nbsp;",
+    "MANDATORY": "Mandatory"
+  }, {
     "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/carousels.html\">Carousels</a>",
     "USE": "Use to promote multiple different activities, initiatives, programs, and services",
     "CAT": "Design pattern",
@@ -47,6 +54,13 @@
     "CAT": "Design pattern",
     "TYPE": "Visual",
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/docs/ref/charts/charts-en.html\">WET: Charts and graphs</a>",
+    "MANDATORY": "No"
+  }, {
+    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/checkboxes-radio-buttons.html\">Checkboxes and radio buttons</a>",
+    "USE": "Allow people select an answer to a question or confirm completion.",
+    "CAT": "Design pattern",
+    "TYPE": "Interaction, Visual",
+    "EXAMPLE": "&nbsp;",
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/collapsible-content.html\">Expand/collapse</a>",
