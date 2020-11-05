@@ -199,48 +199,116 @@
 						<details>
 							<summary>CSS</summary>
 							<pre class="prettyprint lang-css"><code>.provisional.gc-subway {
-	border-right: 0;
-	border-top: 0;
-	display: none;
-	margin-top: 25px;
-	padding-left: 15px;
+	border-radius: 0px 6px 6px 0px;
+	border-right: 4px solid #26374a;
+	border-top: 4px solid #26374a;
+	margin-top: 38px;
 }
-
-.provisional.gc-subway.no-blink {
-	display: block;
+.provisional.gc-subway ul {
+	clear: both;
+	list-style: none;
+	padding-left: .57em;
+	padding-top: 10px;
+	position: relative;
 }
-
-.provisional.gc-subway .gc-subway-menu-nav {
-	float: right;
-	width: 33.33%;
+.provisional.gc-subway ul li {
+	border-left: 4px solid #26374a;
+	padding: 0px 20px 30px 1em;
 }
-
+.provisional.gc-subway ul li::first-line {
+	line-height: 1 !important;
+}
+.provisional.gc-subway ul li :first-child::before {
+	background-color: #fff;
+	border: 3px solid #26374a;
+	border-radius: 50%;
+	content: "";
+	height: 1.2em;
+	left: .05em;
+	position: absolute;
+	-webkit-transition: width .2s, height .2s, left .2s, margin-top .2s;
+	transition: width .2s, height .2s, left .2s, margin-top .2s;
+	width: 1.2em;
+}
+.provisional.gc-subway ul li.active > :first-child::before {
+	background-color: #26374a;
+}
+.provisional.gc-subway ul li a[href]:hover::before,
+.provisional.gc-subway ul li a[href]:focus::before {
+	height: 1.4em;
+	left: -.05em;
+	margin-top: -.1em;
+	width: 1.4em;
+}
 .provisional.gc-subway ul li:last-child {
-	border-bottom: 0;
+	border-bottom: 4px solid #26374a;
+	border-bottom-left-radius: 6px;
+	border-left: 4px solid #26374a;
+}
+.provisional.gc-subway ul li ul {
+	margin-top: 20px;
+	padding-left: .55em;
+}
+.provisional.gc-subway ul li ul li:last-child {
+	border-bottom-width: 0px;
+	padding-bottom: 0px;
+}
+.provisional.gc-subway ul li ul.noline li {
+	-o-border-image: none;
+	border-image: none;
 	border-left: 4px solid transparent;
 }
-
-.provisional.gc-subway-section {
-	padding-right: 15px;
-	width: 66.66%;
+.provisional.gc-subway h1 {
+	float: left;
 }
-
-.provisional.gc-subway-section .gc-subway-h1,
-.provisional.gc-subway-section h1 {
-	margin-top: 0;
-}
-
+.provisional.gc-subway h1,
 .provisional.gc-subway-section .gc-subway-h1 {
-	font-family: Lato, sans-serif;
-	font-weight: inherit;
-	margin-bottom: 0;
-	margin-right: 0;
-	padding-bottom: 0 !important;
-	padding-left: 0;
+	background-color: #fff;
+	border-bottom-width: 0px;
+	color: #555;
+	font-size: 1.3em;
+	margin-right: 20px;
+	margin-top: -19px;
+	padding: 0px 20px 10px 0px;
 }
-
-.wb-disable .provisional.gc-subway {
-	display: block;
+@media screen and (min-width: 992px) {
+	.provisional.gc-subway {
+		border-right: 0;
+		border-top: 0;
+		display: none;
+		margin-top: 25px;
+		padding-left: 15px;
+	}
+	.provisional.gc-subway.no-blink {
+		display: block;
+	}
+	.provisional.gc-subway .gc-subway-menu-nav {
+		float: right;
+		width: 33.33%;
+	}
+	.provisional.gc-subway ul li:last-child {
+		border-bottom: 0;
+		border-left: 4px solid transparent;
+	}
+	.provisional.gc-subway-section {
+		padding-right: 15px;
+		width: 66.66%;
+	}
+	.provisional.gc-subway-section .gc-subway-h1,
+	.provisional.gc-subway-section h1 {
+		margin-top: 0;
+	}
+	.provisional.gc-subway-section .gc-subway-h1 {
+		font-family: Lato, sans-serif;
+		font-weight: inherit;
+		margin-bottom: 0;
+		margin-right: 0;
+		padding-bottom: 0 !important;
+		padding-left: 0;
+	}
+	.wb-disable .provisional.gc-subway {
+		display: block;
+	}
 }</code></pre>
 						</details>
 					</details>
