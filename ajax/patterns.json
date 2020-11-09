@@ -43,7 +43,7 @@
     "MANDATORY": "Mandatory"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/carousels.html\">Carousels</a>",
-    "USE": "Use to promote multiple different activities, initiatives, programs, and services",
+    "USE": "Use this component for situations such as image or video galleries.",
     "CAT": "Design pattern",
     "TYPE": "Promotion, Visual",
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/demos/tabs/tabs-carousel-en.html\">WET: Carousels</a> – use style 2",
