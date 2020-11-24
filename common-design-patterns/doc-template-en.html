@@ -10,6 +10,7 @@
       <link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
       <link rel="stylesheet" href="../css/custom.css">
       <link rel="stylesheet" href="../css/provisional-alerts.css">
+      <link rel="stylesheet" href="../css/split-h1.css">
       <noscript>
          <link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/wet-boew/css/noscript.min.css" />
       </noscript>
@@ -129,21 +130,22 @@
          </nav>
       </header>
       <main role="main" property="mainContentOfPage" class="container wb-prettify all-pre">
-         <h1 property="name" id="wb-cont" dir="ltr">[Pattern name] - Canada.ca design pattern</h1>
-         <div class="row profile">
-            <div class="col-md-9">
+        <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>[Pattern name]</span>: <span>Canada.ca design system</span></span></h1>
+
+         <div class="row">
+        	<div class="col-md-12 pull-left">
+        	  <ul class="list-inline small mrgn-bttm-sm" style="line-height:1.65em" id="list-inline-desktop-only">
+              	<li class="mrgn-rght-lg"> <span class="label label-info">Beta</span></li>
+                <li class="mrgn-rght-lg"> Last updated: [Date]</li>
+
+        	  </ul>
+        	</div>
+
+        </div>
+
+
                <p>[Description of what the pattern does] </p>
-            </div>
-            <div class="col-md-3">
-               <div class="small">
-                  <ul class="list-unstyled">
-                     <li><span class="label label-info">Alpha</span><span class="label label-info">Beta</span><span class="label label-info">Stable</span></li>
-                     <li class="mrgn-rght-lg"><strong>Version:</strong> X</li>
-                     <li class="mrgn-rght-lg"><strong>Updated:</strong> [Date]</li>
-                  </ul>
-               </div>
-            </div>
-            <div class="col-md-12">
+
                <div class="pattern-demo mrgn-bttm-md">
                   <p>[Optional image or coded example of the pattern so it can be visually identified quickly] </p>
                </div>
@@ -153,15 +155,16 @@
                      <li><a href="#when">When to use</a></li>
                      <li><a href="#avoid">What to avoid</a></li>
                      <li><a href="#how">How to implement</a></li>
+                     <li><a href="#research">Research and blog posts</a></li>
                      <li><a href="#latest">Latest changes</a></li>
                      <li><a href="#discuss">Discussion</a></li>
+
                   </ul>
                </section>
                <section>
                   <h2 id="when">When to use</h2>
                   <p>[Describe when this pattern should be used] </p>
-                  <h3>Research and blog posts</h3>
-                  <p>[Optional: Links to blog posts and research summaries that suport the use of the pattern] </p>
+
                </section>
                <section>
                   <h2 id="avoid">What to avoid</h2>
@@ -172,7 +175,7 @@
                   <p>[Coded examples of main variants, with optional specific When to to use and What to avoid for specific variants]</p>
                   <ol>
                      <li><a href="#1">Variant 1</a></li>
-                     <li><a href="#2">Variant2</a></li>
+                     <li><a href="#2">Variant 2</a></li>
                   </ol>
                   <h3 id="1">1. Variant 1</h3>
                   <p><strong>When to use:</strong> [When to use this variant]</p>
@@ -206,26 +209,28 @@
                      <tbody>
                         <tr>
                            <td>[Option 1]</td>
-                           <td>[Descriptipn of option 1]</td>
+                           <td>[Description of option 1]</td>
                            <td>[How to use, modify or customize option 1]</td>
                         </tr>
                         <tr>
                            <td>[Option 2]</td>
-                           <td>[Descriptipn of option 2]</td>
+                           <td>[Description of option 2]</td>
                            <td>[How to use, modify or customize option 2]</td>
                         </tr>
                         <tr>
                            <td>[Option 3]</td>
-                           <td>[Descriptipn of option 3]</td>
+                           <td>[Description of option 3]</td>
                            <td>[How to use, modify or customize option 3]</td>
                         </tr>
                      </tbody>
                   </table>
                </section>
+               <h2 id="research">Research and blog posts</h2>
+               <p>[Optional: Links to blog posts and research summaries that support the use of the pattern] </p>
                <h2 id="latest">Latest changes</h2>
                <section>
                   <dl class="dl-horizontal">
-                     <dt>Version x.x:<br><small><time datetime="2020-10-21" class="link-muted">[Date]</time></small></dt>
+                     <dt><time datetime="2020-10-21" class="link-muted">[Date]</time></dt>
                      <dd>[Description of change]</dd>
                   </dl>
                </section>
@@ -233,6 +238,8 @@
                   <h2 id="discuss">Discussion</h2>
                   <p><a href="https://github.com/canada-ca/design-system-systeme-conception/issues">Discuss the pattern in github issues</a></p>
                </section>
+
+
             </div>
             <div class="row pagedetails">
                <div class="col-sm-6 col-lg-4 mrgn-tp-sm">
