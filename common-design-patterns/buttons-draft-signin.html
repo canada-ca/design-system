@@ -241,7 +241,7 @@
                   <details>
     								<summary>HTML</summary>
     								<pre><code>
-&lt;div class="pull-right mrgn-rght-md"&gt;
+&lt;div class="pull-right"&gt;
 	&lt;button class="provisional btn btn-login"&gt;Sign in&lt;/button&gt;
 &lt;/div&gt;
 								</code></pre>
@@ -266,6 +266,12 @@
 .provisional.btn-login:hover {
 	background-color: #444;
 	border-color: #444;
+}
+
+@media screen and (min-width:479px){ {
+   .provisional.btn-login {
+      margin-right: 15px;
+   }
 }
 								</code></pre>
     							</details>
