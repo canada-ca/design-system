@@ -240,11 +240,40 @@
                   <summary>Code</summary>
                   <details>
     								<summary>HTML</summary>
-    								<pre><code>&lt;button class="btn btn-primary btn-login"&gt;Sign in&lt;/button&gt;</code></pre>
+    								<pre><code>
+&lt;div class="pull-right"&gt;
+	&lt;button class="provisional btn btn-login"&gt;Sign in&lt;/button&gt;
+&lt;/div&gt;
+								</code></pre>
     							</details>
     							<details>
     								<summary>CSS</summary>
-    								<pre><code>add custom css</code></pre>
+    								<pre><code>
+.provisional.btn-login {
+	background-color: #26374a;
+	border: 1px solid #26374a;
+	border-radius: 0;
+	color: #fff;
+	font-weight: 600;
+	font-size: 17px;
+	margin-top: 0px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	padding-left: 16px;
+	padding-right: 16px;
+}
+
+.provisional.btn-login:hover {
+	background-color: #444;
+	border-color: #444;
+}
+
+@media screen and (min-width:479px) {
+   .provisional.btn-login {
+      margin-right: 15px;
+   }
+}
+								</code></pre>
     							</details>
 
 
