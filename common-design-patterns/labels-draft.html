@@ -10,6 +10,7 @@
       <link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
       <link rel="stylesheet" href="../css/custom.css">
       <link rel="stylesheet" href="../css/provisional-alerts.css">
+      <link rel="stylesheet" href="../css/split-h1.css">
       <noscript>
          <link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/wet-boew/css/noscript.min.css" />
       </noscript>
@@ -129,16 +130,35 @@
          </nav>
       </header>
       <main role="main" property="mainContentOfPage" class="container wb-prettify all-pre">
-         <h1 property="name" id="wb-cont" dir="ltr">Labels - Canada.ca design pattern</h1>
-         <p class="gc-byline"><strong>From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
+        <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Labels</span>: <span>Canada.ca design system</span></span></h1>
+
+         <div class="row">
+        	<div class="col-md-12 pull-left">
+        	  <ul class="list-inline small mrgn-bttm-sm" style="line-height:1.65em" id="list-inline-desktop-only">
+                <li class="mrgn-rght-lg"> Last updated: 2020-12-02</li>
+
+        	  </ul>
+        	</div>
+
+        </div>
          <section>
             <p>Labels are visual indicators that assign a tag something (an item, a program, a service, etc.).</p>
+
+            <div class="pattern-demo mrgn-bttm-md">
+               <span class="label label-primary">Primary label</span>
+               <span class="label label-success">Success label</span>
+               <span class="label label-info">Information label</span>
+               <span class="label label-warning">Warning label</span>
+               <span class="label label-danger">Danger label</span>
+            </div>
+
             <section>
                <h2>On this page</h2>
                <ul>
                   <li><a href="#when">When to use</a></li>
                   <li><a href="#avoid">What to avoid</a></li>
                   <li><a href="#how">How to implement</a></li>
+                  <li><a href="#latest">Latest changes</a></li>
                   <li><a href="#discuss">Discussion</a></li>
                </ul>
             </section>
@@ -178,18 +198,18 @@
                   <summary>Code</summary>
                   <pre><code>&lt;p&gt;Some text here &lt;span class="label label-primary"&gt;(Label info)&lt;/span>&lt;/p&gt;</code></pre>
                </details>
-               <h3 id="secondary">2. Success label</h3>
+               <h3 id="success">2. Success label</h3>
                <p><strong>When to use:</strong> use to signal an item is open or available</p>
 
                <div class="pattern-demo mrgn-bttm-md">
                   <p><a href="#">Protecting Canada’s Fresh Water</a> </p>
-                  <span class="label label-info">Open - Accepting input</span>
+                  <span class="label label-success">Open - Accepting input</span>
                </div>
                <details>
                   <summary>Code</summary>
                   <pre><code>&lt;p&gt;Some text here &lt;span class="label label-success"&gt;(Label info)&lt;/span>&lt;/p&gt;</code></pre>
                </details>
-               <h3 id="danger">3. Information label</h3>
+               <h3 id="info">3. Information label</h3>
                <p><strong>When to use:</strong> Use to tag an item with a value. For example, identifying a new blog post. </p>
 
 
@@ -200,7 +220,7 @@
                   <summary>Code</summary>
                   <pre><code>&lt;p&gt;Some text here &lt;span class="label label-info"&gt;(Label info)&lt;/span>&lt;/p&gt;</code></pre>
                </details>
-               <h3 id="link">4. Warning label</h3>
+               <h3 id="warning">4. Warning label</h3>
                <p><strong>When to use:</strong> Use when you want to bring attention to an item to warn people of a change. For example, if a program is ending soon.</p>
 
                <div class="pattern-demo mrgn-bttm-md">
@@ -213,7 +233,7 @@
                </details>
 
 
-               <h3 id="link">5. Danger label</h3>
+               <h3 id="danger">5. Danger label</h3>
                <p><strong>When to use:</strong> Use when an item is no longer available. For example, when a program is no longer available.</p>
 
                <div class="pattern-demo mrgn-bttm-md">
@@ -226,6 +246,13 @@
                </details>
 
 
+            </section>
+            <h2 id="latest">Latest changes</h2>
+            <section>
+               <dl class="dl-horizontal">
+                  <dt><time datetime="2020-12-02" class="link-muted">2020-12-02</time></dt>
+                  <dd>Added label documentation to the design system</dd>
+               </dl>
             </section>
             <section>
                <h2 id="discuss">Discussion</h2>
