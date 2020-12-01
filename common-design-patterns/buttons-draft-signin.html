@@ -10,6 +10,7 @@
       <link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
       <link rel="stylesheet" href="../css/custom.css">
       <link rel="stylesheet" href="../css/provisional-alerts.css">
+      <link rel="stylesheet" href="../css/split-h1.css">
       <noscript>
          <link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/wet-boew/css/noscript.min.css" />
       </noscript>
@@ -129,10 +130,24 @@
          </nav>
       </header>
       <main role="main" property="mainContentOfPage" class="container wb-prettify all-pre">
-         <h1 property="name" id="wb-cont" dir="ltr">Buttons - Canada.ca design pattern</h1>
-         <p class="gc-byline"><strong>From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
+        <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Buttons</span>: <span>Canada.ca design system</span></span></h1>
+
+         <div class="row">
+          <div class="col-md-12 pull-left">
+            <ul class="list-inline small mrgn-bttm-sm" style="line-height:1.65em" id="list-inline-desktop-only">
+                <li class="mrgn-rght-lg"> Last updated: 2020-12-02</li>
+
+            </ul>
+          </div>
+
+        </div>
          <section>
             <p>Buttons are clickable objects intended to encourage a person to take action.</p>
+            <div class="pattern-demo mrgn-bttm-md">
+               <button class="btn btn-call-to-action">Supertask button</button>
+               <button class="btn btn-primary">Primary button</button>
+               <button class="btn btn-default">Secondary button</button>
+            </div>
             <section>
                <h2>On this page</h2>
                <ul>
@@ -321,8 +336,15 @@
             </section>
             <section>
   						<h2 id="versions">Latest changes</h2>
-  						<p><strong>2020-11-04:</strong> Added a new beta version of a persistent sign-in button.</p>
-  					</section>
+              <section>
+                <dl class="dl-horizontal">
+                   <dt><time datetime="2020-12-02" class="link-muted">2020-12-02</time></dt>
+                   <dd>Added a new beta version of a persistent sign-in button.</dd>
+                </dl>
+              </section>
+            </section>
+
+
             <section>
                <h2 id="discuss">Discussion</h2>
                <p><a href="https://github.com/canada-ca/design-system-systeme-conception/issues">Discuss the pattern in github issues</a></p>
