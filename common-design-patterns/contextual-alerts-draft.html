@@ -11,6 +11,7 @@
 		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
 		<link rel="stylesheet" href="../css/custom.css">
 		<link rel="stylesheet" href="../css/provisional-alerts.css">
+		<link rel="stylesheet" href="../css/split-h1.css">
 		<noscript>
 			<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/wet-boew/css/noscript.min.css" />
 		</noscript>
@@ -130,16 +131,33 @@
 			</nav>
 		</header>
 		<main role="main" property="mainContentOfPage" class="container wb-prettify all-pre">
-			<h1 property="name" id="wb-cont" dir="ltr">Contextual alerts - Canada.ca design pattern</h1>
-			<p class="gc-byline"><strong>From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
+			<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Contextual alerts</span>: <span>Canada.ca design system</span></span></h1>
+
+			 <div class="row">
+				<div class="col-md-12 pull-left">
+					<ul class="list-inline small mrgn-bttm-sm" style="line-height:1.65em" id="list-inline-desktop-only">
+							<li class="mrgn-rght-lg"> Last updated: 2020-12-07</li>
+
+					</ul>
+				</div>
+
+			</div>
 			<section>
 				<p>Alerts are notices for important new information that needs to appear on a page.</p>
+				<div class="pattern-demo mrgn-bttm-md">
+					<section class="provisional alert alert-danger">
+						<h3>Alert heading</h3>
+						<p>Alert description</p>
+					</section>
+				</div>
 				<section>
 					<h2>On this page</h2>
 					<ul>
 						<li><a href="#when">When to use</a></li>
 						<li><a href="#avoid">What to avoid</a></li>
 						<li><a href="#how">How to implement</a></li>
+						<li><a href="#research">Research and blog posts</a></li>
+						<li><a href="#latest">Latest changes</a></li>
 						<li><a href="#discuss">Discussion</a></li>
 					</ul>
 				</section>
@@ -186,14 +204,14 @@
 					</dl>
 
 					<p>Use the appropriate type of alert:</p>
-					<ul>
+					<ol>
 						<li><a href="#danger">Danger alert</a></li>
 						<li><a href="#warning">Warning alert</a></li>
 						<li><a href="#info">Info alert</a></li>
 						<li><a href="#success">Success alert</a></li>
-					</ul>
+					</ol>
 
-							<h3 id="danger">Danger alert</h3>
+							<h3 id="danger">1. Danger alert</h3>
 							<p><strong>When to use:</strong> Use the danger alert to draw attention to a situation that could place someone in danger, such as a do not travel warning. You can also use it to alert a person of a technical issue that could cause them to be unable to complete their task, such as an invalid submission of data in a form.</p>
 							<div class="pattern-demo mrgn-bttm-md">
 								<section class="provisional alert alert-danger">
@@ -203,78 +221,17 @@
 							</div>
 							<details>
 								<summary>Code</summary>
-								<div class="accordion">
-									<details class="acc-group">
-										<summary class="wb-toggle tgl-tab" data-toggle='{"parent": ".accordion", "group": ".acc-group"}'>HTML</summary>
-										<pre class="tgl-panel">
-											<code>&lt;section class="provisional alert alert-danger"&gt;
+										<pre><code>&lt;section class="provisional alert alert-danger"&gt;
   &lt;h3&gt;If pregnant or considering pregnancy - Notice regarding both partners&lt;/h3&gt;
   &lt;p&gt;Avoid travel to Costa Rica if you are pregnant or planning to conceive a child in the next 3 months.&lt;/p&gt;
-&lt;/section&gt;
-											</code>
-										</pre>
+&lt;/section&gt;</code></pre>
 									</details>
-									<details class="acc-group">
-										<summary class="wb-toggle tgl-tab" data-toggle='{"parent": ".accordion", "group": ".acc-group"}'>CSS</summary>
-										<pre class="tgl-panel">
-											<code>.provisional.alert {
-  background-clip: content-box;
-  background-color: inherit;
-  border-left: 6px solid #000;
-  margin-bottom: 23px;
-  margin-left: 10px;
-  padding: 0 0 0 15px;
-}
-.provisional.alert > * {
-  margin-left: 15px;
-}
-.provisional.alert-danger {
-  border-color: #d3080c;
-  border-image: linear-gradient(to bottom, #d3080c 16px, #d3080c 16px, transparent 16px, transparent 48px, #d3080c 48px, #d3080c 48px) 1 100%;
-}
-.provisional.alert-danger::before {
-  color: #d3080c;
-  content: "\e101";
-}
-.provisional.alert > p,
-.provisional.alert > ul,
-.provisional.alert > ol {
-  margin-bottom: 0px;
-}
-.provisional.alert details {
-  margin-left: 0.5em;
-  padding-top: 15px;
-}
-.provisional.alert::before {
-  font-family: "Glyphicons Halflings";
-  font-size: 26px;
-  line-height: 2.3em;
-  margin-left: -1.27em;
-  padding: 2px;
-  position: absolute;
-}
-.provisional.alert > :first-child {
-  margin-left: 15px;
-}
-.provisional.alert > :last-child {
-  padding-bottom: 25px;
-}
-.provisional.alert-danger > :first-child::before {
-  color: inherit;
-  content: none;
-}
-.provisional.alert > :first-child:not(details) {
-  margin-top: auto;
-  padding-top: 15px;
-}
-											</code>
-										</pre>
-									</details>
-								</div>
+
+
 							</details>
 						</section>
 						<section>
-							<h3 id="warning">Warning alert</h3>
+							<h3 id="warning">2. Warning alert</h3>
 							<p><strong>When to use:</strong> Use the warning alert to draw attention to a possible consequence of an action or inaction, such as legal penalty that could apply.</p>
 							<div class="pattern-demo mrgn-bttm-md">
 								<section class="provisional alert alert-warning">
@@ -284,78 +241,14 @@
 							</div>
 							<details>
 								<summary>Code</summary>
-								<div class="accordion">
-									<details class="acc-group">
-										<summary class="wb-toggle tgl-tab" data-toggle='{"parent": ".accordion", "group": ".acc-group"}'>HTML</summary>
-										<pre class="tgl-panel">
-											<code>&lt;section class="provisional alert alert-warning"&gt;
+								<pre><code>&lt;section class="provisional alert alert-warning"&gt;
   &lt;h3&gt;Changes to impaired driving and cannabis-related crime laws&lt;/h3&gt;
   &lt;p&gt;&lt;a href="https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/impaired-driving-cannabis-penalties-affect-immigration-status.html"&gt;New penalties for impaired driving and cannabis-related crimes may affect your immigration status in Canada&lt;/a&gt;. If you commit one of these crimes, you may not be able to come to or stay in Canada.&lt;/p&gt;
-&lt;/section&gt;
-											</code>
-										</pre>
-									</details>
-									<details class="acc-group">
-										<summary class="wb-toggle tgl-tab" data-toggle='{"parent": ".accordion", "group": ".acc-group"}'>CSS</summary>
-										<pre class="tgl-panel">
-											<code>.provisional.alert {
-  background-clip: content-box;
-  background-color: inherit;
-  border-left: 6px solid #000;
-  margin-bottom: 23px;
-  margin-left: 10px;
-  padding: 0 0 0 15px;
-}
-.provisional.alert > * {
-  margin-left: 15px;
-}
-.provisional.alert-warning {
-  border-color: #ee7100;
-  border-image: linear-gradient(to bottom, #ee7100 16px, #ee7100 16px, transparent 16px, transparent 48px, #ee7100 48px, #ee7100 48px) 1 100%;
-}
-.provisional.alert-warning::before {
-  color: #ee7100;
-  content: "\e107";
-}
-.provisional.alert > p,
-.provisional.alert > ul,
-.provisional.alert > ol {
-  margin-bottom: 0px;
-}
-.provisional.alert details {
-  margin-left: 0.5em;
-  padding-top: 15px;
-}
-.provisional.alert::before {
-  font-family: "Glyphicons Halflings";
-  font-size: 26px;
-  line-height: 2.3em;
-  margin-left: -1.27em;
-  padding: 2px;
-  position: absolute;
-}
-.provisional.alert > :first-child {
-  margin-left: 15px;
-}
-.provisional.alert > :last-child {
-  padding-bottom: 25px;
-}
-.provisional.alert-warning > :first-child::before {
-  color: inherit;
-  content: none;
-}
-.provisional.alert > :first-child:not(details) {
-  margin-top: auto;
-  padding-top: 15px;
-}
-											</code>
-										</pre>
-									</details>
-								</div>
+&lt;/section&gt;</code></pre>
 							</details>
 						</section>
 						<section>
-							<h3 id="info">Info alert</h3>
+							<h3 id="info">3. Info alert</h3>
 							<p><strong>When to use:</strong> Use the info alert to draw attention to a clarification of surrounding content or helpful advice, such as the number of weeks it will take to receive a refund when an application is sent by mail vs by phone.</p>
 							<div class="pattern-demo mrgn-bttm-md">
 								<section class="provisional alert alert-info">
@@ -365,78 +258,15 @@
 							</div>
 							<details>
 								<summary>Code</summary>
-								<div class="accordion">
-									<details class="acc-group">
-										<summary class="wb-toggle tgl-tab" data-toggle='{"parent": ".accordion", "group": ".acc-group"}'>HTML</summary>
-										<pre class="tgl-panel">
-											<code>&lt;section class="provisional alert alert-info"&gt;
+										<pre><code>&lt;section class="provisional alert alert-info"&gt;
   &lt;h3&gt;Current status of the call for applications: Closed&lt;/h3&gt;
   &lt;p&gt;Thank you for your interest in Canada Summer Jobs. Applications are now closed.&lt;/p&gt;
-&lt;/section&gt;
-											</code>
-										</pre>
-									</details>
-									<details class="acc-group">
-										<summary class="wb-toggle tgl-tab" data-toggle='{"parent": ".accordion", "group": ".acc-group"}'>CSS</summary>
-										<pre class="tgl-panel">
-											<code>.provisional.alert {
-  background-clip: content-box;
-  background-color: inherit;
-  border-left: 6px solid #000;
-  margin-bottom: 23px;
-  margin-left: 10px;
-  padding: 0 0 0 15px;
-}
-.provisional.alert > * {
-  margin-left: 15px;
-}
-.provisional.alert-info {
-  border-color: #269abc;
-  border-image: linear-gradient(to bottom, #269abc 16px, #269abc 16px, transparent 16px, transparent 48px, #269abc 48px, #269abc 48px) 1 100%;
-}
-.provisional.alert-info::before {
-  color: #269abc;
-  content: "\e086";
-}
-.provisional.alert > p,
-.provisional.alert > ul,
-.provisional.alert > ol {
-  margin-bottom: 0px;
-}
-.provisional.alert details {
-  margin-left: 0.5em;
-  padding-top: 15px;
-}
-.provisional.alert::before {
-  font-family: "Glyphicons Halflings";
-  font-size: 26px;
-  line-height: 2.3em;
-  margin-left: -1.27em;
-  padding: 2px;
-  position: absolute;
-}
-.provisional.alert > :first-child {
-  margin-left: 15px;
-}
-.provisional.alert > :last-child {
-  padding-bottom: 25px;
-}
-.provisional.alert-info > :first-child::before {
-  color: inherit;
-  content: none;
-}
-.provisional.alert > :first-child:not(details) {
-  margin-top: auto;
-  padding-top: 15px;
-}
-											</code>
-										</pre>
-									</details>
-								</div>
-							</details>
+&lt;/section&gt;</code></pre>
+								</details>
+
 						</section>
 						<section>
-							<h3 id="success">Success alert</h3>
+							<h3 id="success">4. Success alert</h3>
 							<p><strong>When to use:</strong> Use success alert to draw attention to a successful action, such as to confirm a submission or the completion of a task.</p>
 							<div class="pattern-demo mrgn-bttm-md">
 								<section class="provisional alert alert-success">
@@ -446,77 +276,28 @@
 							</div>
 							<details>
 								<summary>Code</summary>
-								<div class="accordion">
-									<details class="acc-group">
-										<summary class="wb-toggle tgl-tab" data-toggle='{"parent": ".accordion", "group": ".acc-group"}'>HTML</summary>
-										<pre class="tgl-panel">
-											<code>&lt;section class="provisional alert alert-success"&gt;
+										<pre><code>&lt;section class="provisional alert alert-success"&gt;
   &lt;h3&gt;Your request for publicly available data from the List of charities has been successful&lt;/h3&gt;
   &lt;p&gt;The turnaround time to process your request may take up to four (4) weeks. We will contact you if we need more information.&lt;/p&gt;
-&lt;/section&gt;
-											</code>
-										</pre>
-									</details>
-									<details class="acc-group">
-										<summary class="wb-toggle tgl-tab" data-toggle='{"parent": ".accordion", "group": ".acc-group"}'>CSS</summary>
-										<pre class="tgl-panel">
-											<code>.provisional.alert {
-  background-clip: content-box;
-  background-color: inherit;
-  border-left: 6px solid #000;
-  margin-bottom: 23px;
-  margin-left: 10px;
-  padding: 0 0 0 15px;
-}
-.provisional.alert > * {
-  margin-left: 15px;
-}
-.provisional.alert-success {
-  border-color: #278400;
-  border-image: linear-gradient(to bottom, #278400 16px, #278400 16px, transparent 16px, transparent 48px, #278400 48px, #278400 48px) 1 100%;
-}
-.provisional.alert-success::before {
-  color: #278400;
-  content: "\e084";
-}
-.provisional.alert > p,
-.provisional.alert > ul,
-.provisional.alert > ol {
-  margin-bottom: 0px;
-}
-.provisional.alert details {
-  margin-left: 0.5em;
-  padding-top: 15px;
-}
-.provisional.alert::before {
-  font-family: "Glyphicons Halflings";
-  font-size: 26px;
-  line-height: 2.3em;
-  margin-left: -1.27em;
-  padding: 2px;
-  position: absolute;
-}
-.provisional.alert > :first-child {
-  margin-left: 15px;
-}
-.provisional.alert > :last-child {
-  padding-bottom: 25px;
-}
-.provisional.alert-success > :first-child::before {
-  color: inherit;
-  content: none;
-}
-.provisional.alert > :first-child:not(details) {
-  margin-top: auto;
-  padding-top: 15px;
-}
-											</code
-										></pre>
-									</details>
-								</div>
+&lt;/section&gt;</code></pre>
 							</details>
 
 
+				</section>
+
+				<h2 id="research">Research and blog posts</h2>
+				<p>This style of alert was used successfuly during a project to improve content on travel advisories:</p>
+				<ul>
+					<li><a href="https://blog.canada.ca/research-summaries/travel-advice-research-summary.html">Research summary: Travel advice and advisories</a></li>
+				</ul>
+
+
+				<h2 id="latest">Latest changes</h2>
+				<section>
+					 <dl class="dl-horizontal">
+							<dt><time datetime="2020-12-07" class="link-muted">2020-12-07</time></dt>
+							<dd>Promoted the beta alert pattern to the stable alert pattern.</dd>
+					 </dl>
 				</section>
 				<section>
 					<h2 id="discuss">Discussion</h2>
