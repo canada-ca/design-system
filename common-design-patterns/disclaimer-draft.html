@@ -25,8 +25,8 @@
 
 		<![endif]-->
 <noscript><link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/wet-boew/css/noscript.min.css" /></noscript>
- 
-	
+
+
  <!-- Global site tag (gtag.js) - Google Analytics -->
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-105628416-2"></script>
@@ -37,7 +37,7 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
- 
+
   gtag('config', 'UA-105628416-2');
 
 </script>
@@ -137,7 +137,7 @@
 <div class="container">
 <ol class="breadcrumb">
 	<li><a href='https://www.canada.ca/en.html'>Canada.ca</a></li>
-	<li><a href='https://www.canada.ca/en/government/about.html'>About Canada.ca</a></li>	
+	<li><a href='https://www.canada.ca/en/government/about.html'>About Canada.ca</a></li>
 <li><a href='https://www.canada.ca/en/government/about/design-system.html'>Canada.ca design system</a></li>
 	<li><a href='https://www.canada.ca/en/government/about/design-system/pattern-library.html'>Template and pattern library for Canada.ca</a></li>
 </ol>
@@ -148,19 +148,105 @@
 <!--/* Hide Nav; Hide Right Rail /*-->
 
 
+<style>
+	.disclaimer p {
+		max-width: 150ch !important;
+	}
+</style>
 <main role="main" property="mainContentOfPage" class="container">
 
 
-<h1 property="name" id="wb-cont" dir="ltr">Disclaimer overlay - Canada.ca design pattern</h1>
+<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Disclaimer</span>: <span>Canada.ca design
+			system</span></span></h1>
 
+<div class="row">
+	<div class="col-md-12 pull-left">
+		<ul class="list-inline small mrgn-bttm-sm" style="line-height:1.65em" id="list-inline-desktop-only">
+			<li class="mrgn-rght-lg"> <span class="label label-info">Beta</span> <mark>David P - what do we do when it's stable?</mark></li>
+			<li class="mrgn-rght-lg"> Last updated: December 7, 2020</li>
 
-
-
-		<div><div class="mwsgeneric-base-html parbase section">
+		</ul>
+	</div>
+</div>
 
 
 
 <p class="gc-byline"><strong>From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
+	<h2 class="h3">Privacy disclaimer as an expand/collapse</h2>
+
+	<div class="pattern-demo mrgn-bttm-md">
+		<details><summary>Privacy disclaimer</summary>
+		<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
+		eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
+		voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
+		voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit,
+		sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima
+		veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis
+		autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem
+		eum fugiat quo voluptas nulla pariatur.</p>
+
+		<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti
+		quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia
+		deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam
+		libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere
+		possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut
+		rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic
+		tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus
+		asperiores repellat.</p>
+
+		<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti
+		quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia
+		deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam
+		libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere
+		possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut
+		rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic
+		tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus
+		asperiores repellat.</p>
+		</details>
+		<fieldset class="chkbxrdio-grp">
+			<legend class="wb-inv required"><span class="field-name">Acknowledgement</span></legend>
+			<div class="checkbox required">
+				<label for="acknowledgement" style="font-weight: normal; font-size: 16px; display: inline;"><input
+						type="checkbox" id="acknowledgement" name="acknowledgement" value="yes" required> I accept the privacy agreement <strong
+						class="required">(required)</strong></label>
+			</div>
+		</fieldset>
+	</div>
+
+	<h2 class="h3">Information disclaimer as page content</h2>
+	<div class="pattern-demo mrgn-bttm-md">
+		<div class="well disclaimer">
+			<p><small><strong>Disclaimer</strong>: This tool provides information only. It was created to assist you to
+					determine
+					if you can enter Canada at this time. Final determination is made by a government representative at the port
+					of
+					entry based on the information presented at the time of entry.</small></p>
+
+			<p><small>Information in this tool is based on the Orders in Council (OIC) in effect and is subject to change
+					according to effective dates. For more
+					information consult <a
+						href="https://www.canada.ca/en/public-health/corporate/mandate/about-agency/acts-regulations/list-acts-regulations.html">COVID-19
+						Emergency OIC's in effect</a>.</small></p>
+
+		</div>
+	</div>
+
+
+<section>
+	<h2>On this page</h2>
+	<ul>
+		<li><a href="#when">When to use</a></li>
+		<li><a href="#avoid">What to avoid</a></li>
+		<li><a href="#how">How to implement</a></li>
+		<li><a href="#research">Research and blog posts</a></li>
+		<li><a href="#latest">Latest changes</a></li>
+		<li><a href="#discuss">Discussion</a></li>
+
+	</ul>
+</section>
+
+
+
 
 <section>
 <p>The disclaimer overlay pattern ensures that terms of use, privacy statements and similar forms of disclaimer are available where required, but do not obstruct access to the main content of the page. It consists of a trigger link that activates a dismissible overlay where the disclaimer text appears.</p>
