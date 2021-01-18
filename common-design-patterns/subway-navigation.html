@@ -13,11 +13,6 @@
 		<noscript>
 			<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/wet-boew/css/noscript.min.css" />
 		</noscript>
-		<style>
-			.pattern-demo {
-				padding: 19px;
-			}
-		</style>
 		<script type="application/ld+json">
 			{
 				"@context": "http://schema.org",
@@ -144,7 +139,7 @@
 			</div>
 			-->
 			<section>
-				<h2>On this page</h2>
+				<h2 class="h3">On this page</h2>
 				<ul>
 					<li><a href="#when">When to use</a></li>
 					<li><a href="#avoid">What to avoid</a></li>
@@ -174,10 +169,11 @@
 				</ol>
 				<h3 id="1">1. Index page</h3>
 				<p><strong>When to use:</strong> use as the landing page for a set of related pages that use the subway navigation. Index page is optional.</p>
-				<div class="pattern-demo mrgn-bttm-md">
-					<iframe src="fragments/gc-subway-index.html" title="Coded example of index page" style="border: none; height: 674px; width: 100%;"></iframe>
+				<div class="pattern-demo">
+					<figure id="iframe">
+					</figure>
 				</div>
-				<details>
+				<details class="mrgn-tp-lg">
 					<summary>Code</summary>
 					<details>
 						<summary>HTML</summary>
@@ -314,10 +310,10 @@
 				</details>
 				<h3 id="2">2. Step page</h3>
 				<p><strong>When to use:</strong> Use on each page tied by the subway navigation.</p>
-				<div class="pattern-demo">
+				<figure class="pattern-demo">
 					<div data-ajax-replace="fragments/gc-subway-page.html" ></div>
 					<div class="clearfix"></div>
-				</div>
+				</figure>
 				<div class="mrgn-tp-lg">
 					<details class="wb-prettify all-pre">
 						<summary>Code</summary>
@@ -326,9 +322,9 @@
 								<pre><code>&lt;nav class="provisional gc-subway"&gt;
 		&lt;h1&gt;[Service name]&lt;/h1&gt;
 		&lt;ul class="gc-subway-steps"&gt;
+		&lt;li&gt;&lt;a href="#"&gt;[Step / section page name 1]&lt;span class="wb-inv"&gt;: [Service name]&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="#"&gt;[Step / section page name 2]&lt;span class="wb-inv"&gt;: [Service name]&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 			&lt;li&gt;&lt;a href="#"&gt;[Step / section page name 1]&lt;span class="wb-inv"&gt;: [Service name]&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-			&lt;li&gt;&lt;a href="#"&gt;[Step / section page name 1]&lt;span class="wb-inv"&gt;: [Service name]&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-			&lt;li&gt;&lt;a href="#"&gt;[Step / section page name 2]&lt;span class="wb-inv"&gt;: [Service name]&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 			&lt;li class="active"&gt;&lt;a aria-current="page"&gt;[Step / section page name 3]&lt;span class="wb-inv"&gt;: [Service name]&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 			&lt;li&gt;&lt;a href="#"&gt;[Step / section page name 4]&lt;span class="wb-inv"&gt;: [Service name]&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 			&lt;li&gt;&lt;a href="#"&gt;[Step / section page name 5]&lt;span class="wb-inv"&gt;: [Service name]&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
@@ -645,5 +641,9 @@
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.js"></script>
 		<script src="https://wet-boew.github.io/themes-dist/GCWeb/wet-boew/js/wet-boew.min.js"></script>
 		<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>
+		<script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js"></script>
+		<script>
+			var pattern_demo = new pym.Parent("iframe", "fragments/gc-subway-index.html", { trackscroll: true });
+		</script>
 	</body>
 </html>
