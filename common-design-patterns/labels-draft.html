@@ -145,6 +145,7 @@
             <p>Labels are visual indicators that assign a tag to something like an item, a program, a service, etc.</p>
 
             <div class="pattern-demo mrgn-bttm-md">
+               <span class="label label-default">Default</span>
                <span class="label label-primary">Primary</span>
                <span class="label label-success">Success</span>
                <span class="label label-info">Information</span>
@@ -165,7 +166,13 @@
             </section>
             <section>
                <h2 id="when">When to use</h2>
-               <p>Use labels to signal to that an item, program or service belongs to a category. For example, if some are open, some closed, and some will open soon, using labels to convey this information can be useful. </p>
+               <p>Use labels to:</p>
+
+               <ul>
+                  <li>signal that an item, program or service belongs to a category (for example, to show if some programs are open, some closed, and some will open soon)</li>
+                  <li>label or stamp items with additional information, like the date an item was updated, or the closure of an area</li>
+               </ul>
+
                <p>Make sure the design makes it clear the label applies to which item.</p>
             </section>
             <section>
@@ -180,6 +187,7 @@
 
                 <p>Use the right type of label:</p>
                <ol>
+                  <li><a href="#default">Default</a></li>
                   <li><a href="#primary">Primary</a></li>
                   <li><a href="#success">Success</a></li>
                   <li><a href="#info">Information</a></li>
@@ -188,7 +196,17 @@
                </ol>
 
 
-               <h3 id="primary">1. Primary label</h3>
+               <h3 id="primary">1. Default label</h3>
+               <p><strong>When to use:</strong> Use to give additional information about an item. For example, adding dates to a list of items.</p>
+
+               <div class="pattern-demo mrgn-bttm-md">
+                 <a href="#">Evaluation of the Citizenship Program</a> <span class="label label-default">July 2020</span>
+               </div>
+               <details>
+                  <summary>Code</summary>
+                  <pre><code>&lt;a href="#"&gt;Evaluation of the Citizenship Program&lt;/a&gt; &lt;span class="label label-default"&gt;July 2020&lt;/span&gt;</code></pre>
+               </details>
+               <h3 id="primary">2. Primary label</h3>
                <p><strong>When to use:</strong> Use to signal an important information about an item. For example, when a new program is not yet open but will soon be.</p>
 
                <div class="pattern-demo mrgn-bttm-md">
@@ -198,7 +216,7 @@
                   <summary>Code</summary>
                   <pre><code>&lt;h3 class="h5"&gt;&lt;a href="#"&gt;Canada Recovery Benefit (CRB)&lt;/a&gt; &lt;span class="label label-primary"&gt;Opening October 12&lt;/span&gt;&lt;/h3&gt;</code></pre>
                </details>
-               <h3 id="success">2. Success label</h3>
+               <h3 id="success">3. Success label</h3>
                <p><strong>When to use:</strong> use to signal an item is open or available</p>
 
                <div class="pattern-demo mrgn-bttm-md">
@@ -209,8 +227,8 @@
                   <summary>Code</summary>
                   <pre><code>&lt;p&gt;&lt;a href="#"&gt;Protecting Canada’s Fresh Water&lt;/a&gt; &lt;span class="label label-success"&gt;Open - Accepting input&lt;/span&gt;&lt;/p&gt;</code></pre>
                </details>
-               <h3 id="info">3. Information label</h3>
-               <p><strong>When to use:</strong> Use to tag an item with a value. For example, identifying a new blog post. </p>
+               <h3 id="info">4. Information label</h3>
+               <p><strong>When to use:</strong> Use to tag an item with a value. For example, identifying a new blog post. New labels should be temporary.</p>
 
 
                <div class="pattern-demo mrgn-bttm-md">
@@ -220,7 +238,7 @@
                   <summary>Code</summary>
                   <pre><code>&lt;h3 class="h5"&gt;&lt;a href="#"&gt;Labelling study: which words work best&lt;/a&gt; &lt;span class="label label-info"&gt;New&lt;/span&gt;&lt;/h3&gt;</code></pre>
                </details>
-               <h3 id="warning">4. Warning label</h3>
+               <h3 id="warning">5. Warning label</h3>
                <p><strong>When to use:</strong> Use when you want to bring attention to an item to warn people of a change. For example, if a program is ending soon.</p>
 
                <div class="pattern-demo mrgn-bttm-md">
@@ -232,8 +250,8 @@
                </details>
 
 
-               <h3 id="danger">5. Danger label</h3>
-               <p><strong>When to use:</strong> Use when an item is no longer available. For example, when a program is no longer available.</p>
+               <h3 id="danger">6. Danger label</h3>
+               <p><strong>When to use:</strong> Use when an item is close or no longer available. For example, when a program has ended or an area is closed.</p>
 
                <div class="pattern-demo mrgn-bttm-md">
                  <h3 class="h5"><a href="#">Canada Emergency Response Benefit (CERB)</a> <span class="label label-danger">Closed</span></h3>
@@ -246,7 +264,7 @@
 
             </section>
             <h2 id="research">Research and blog posts</h2>
-            <p>[Placeholder for info on when we used it - was it during the transition to different covid-19 benefits?] </p>
+            <p>We tested the use of labels successfully during the transistion period between the Canada Economic Response Benefit and the new benefits that replaced it. Adding labels to the different programs on the topic page made it easier for people to understand what was available to them.</p>
 
             <h2 id="latest">Latest changes</h2>
             <section>
