@@ -1,0 +1,69 @@
+<!DOCTYPE html><!--[if lt IE 9]>-->
+<html class="no-js" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Table – Basic example - Canada.ca Design System</title>
+    <link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
+    <link rel="stylesheet" href="../css/responsive-tables-demo-only.css">
+
+
+    <!--[if lt IE 9]>
+      <script src="/javascripts/head-ie8-a371085ca251931cc9b5360c7da328f6.js"></script>
+    <![endif]-->
+    <!-- <script src="./scaling-sample/javascripts/vendor/modernizr.js"></script> JM: flex-box stuff, not entirely sure the benefit yet -->
+
+  </head>
+  <body>
+    <script>document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
+    <!-- Disable browser validation for any examples that include form elements -->
+    <form action="/form-handler" method="post" novalidate class="mrgn-rght-lg mrgn-lft-lg mrgn-tp-lg mrgn-bttm-lg">
+        
+        <table class="experimental table" id="myTable">
+            <caption>Population growth in Canadian cities</caption>
+            <thead>
+              <tr>
+                <th scope="col">City</th>
+                <th scope="col">Population in 2007</th>
+                <th scope="col">Population in 2017</th>
+                <th scope="col">Percentage change</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td data-label="City">Toronto</td>
+                <td data-label="Population in 2007">5,418,207</td>
+                <td data-label="Population in 2017">6,346,088</td>
+                <td data-label="Percentage change">17.1%</td>
+              </tr>
+              <tr>
+                <td data-label="City">Montréal</td>
+                <td data-label="Population in 2007">3,714,846</td>
+                <td data-label="Population in 2017">4,138,254</td>
+                <td data-label="Percentage change">11.4%</td>
+              </tr>
+              <tr>
+                <td data-label="City">Vancouver</td>
+                <td data-label="Population in 2007">2,218,134</td>
+                <td data-label="Population in 2017">2,571,262</td>
+                <td data-label="Percentage change">15.9%</td>
+              </tr>
+              <tr>
+                <td data-label="City">Ottawa–Gatineau</td>
+                <td data-label="Population in 2007">1,188,073</td>
+                <td data-label="Population in 2017">1,377,016	</td>
+                <td data-label="Percentage change">15.9%</td>
+              </tr>
+            </tbody>
+          </table>
+          <p><strong>Sources:</strong> Statistics Canada, CANSIM tables <a href="http://www5.statcan.gc.ca/cansim/a26?lang=eng&retrLang=eng&id=0510001&&pattern=&stByVal=1&p1=1&p2=50&tabMode=dataTable&csid=">051-0001</a> and <a href="http://www5.statcan.gc.ca/cansim/a26?lang=eng&retrLang=eng&id=0510056&&pattern=&stByVal=1&p1=1&p2=50&tabMode=dataTable&csid=">051-0056</a>.</p>
+
+    </form>
+   <script type="text/javascript" src="https://www.canada.ca/etc/clientlibs/granite/jquery.min.js"></script>
+   <script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/wet-boew/js/wet-boew.min.js"></script>
+
+    <!--  <script src="./scaling-sample/javascripts/vendor/iframeResizer.contentWindow.js"></script>
+    JM: supposed to force a frame to resize - but not seeing any benefit on initial tinkering -->
+  </body>
+</html>

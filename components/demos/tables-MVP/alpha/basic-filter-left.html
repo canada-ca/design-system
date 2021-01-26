@@ -1,0 +1,92 @@
+<!DOCTYPE html><!--[if lt IE 9]>-->
+<html class="no-js" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Table – Basic example - Canada.ca Design System</title>
+    <link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
+    <link rel="stylesheet" href="../css/responsive-tables-demo-only.css">
+
+
+    <!--[if lt IE 9]>
+      <script src="/javascripts/head-ie8-a371085ca251931cc9b5360c7da328f6.js"></script>
+    <![endif]-->
+    <!-- <script src="./scaling-sample/javascripts/vendor/modernizr.js"></script> JM: flex-box stuff, not entirely sure the benefit yet -->
+
+  </head>
+  <body>
+    <script>document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
+    <!-- Disable browser validation for any examples that include form elements -->
+    <form action="/form-handler" method="post" novalidate class="mrgn-rght-lg mrgn-lft-lg mrgn-tp-lg mrgn-bttm-lg">
+        
+        <table class="experimental wb-tables table" id="myTable">
+            <caption>Telephone numbers for personal taxes, benefits and trusts</caption>
+            <thead>
+              <tr>
+                <th scope="col">What do you want to call about?</th>
+                <th scope="col">Number</th>
+                <th scope="col">Hours</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td data-label="What do you want to call about?">
+                  <ul class="left-mobile">
+                    <li>Get Proof of Income (Option C print-out)</li>
+                    <li>Request remittance voucher</li>
+                    <li>Tax-free savings account (TFSA) contribution room</li>
+                    <li>Unused RRSP contributions to claim</li>
+                    <li>Registered retirement savings plan (RRSP) contributions this year</li>
+                    <li>Estimated GST/HST credit payment amount, three weeks before next payment</li>
+                    <li>Estimated Child Benefit payment amount, two weeks before next payment</li>
+                    <li>Find out if you are eligible for the Canada child benefit (CCB), and the GST/HST credit, as well as the dates you can expect to receive them</li>
+                  </ul>
+                </td>
+                <td data-label="Number" class="nobreak">1-800-267-6999</td>
+                <td data-label="Hours">
+                  <label class="label label-success">Always open (automated line)</label>
+                  <p>No wait times</p>
+                </td>
+              </tr>
+              <tr>
+                <td data-label="What do you want to call about?">
+                 <span class="left-mobile">
+                    <ul>
+                      <li>Check status of 2018 tax return</li>
+                      <li>Estimated 2018 refund amount</li>
+                      <li>When to expect your 2018 refund</li>
+                    </ul>
+                  </span>
+                </td>  
+                <td data-label="Number" class="nobreak">1-800-959-1956</td>
+                <td data-label="Hours"><label class="label label-success">Always open (automated line)</label>
+                  <p>No wait times</p>
+                </td>
+              </tr>
+              <tr>
+                <td data-label="What do you want to call about?">
+                  <span class="left-mobile">
+                    <ul>
+                      <li>Check tax account balance</li>
+                    </ul>
+                  </span>
+                </td>
+                <td data-label="Number" class="nobreak">1-866-474-8272</td>
+                <td data-label="Hours">
+                  <label class="label label-success">Always open (automated line)</label>
+                  <p>No wait times</p>
+                </td>              
+              </tr>
+            </tbody>
+          </table>
+          <p><strong>Sources:</strong> Canada Revenue Agency <a href="https://www.canada.ca/en/revenue-agency/corporate/contact-information.html">Contact information</a> (simplified).</p>
+
+    </form>
+   <script type="text/javascript" src="https://www.canada.ca/etc/clientlibs/granite/jquery.min.js"></script>
+   <script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/wet-boew/js/wet-boew.min.js"></script>
+
+    <!--  <script src="./scaling-sample/javascripts/vendor/iframeResizer.contentWindow.js"></script>
+    JM: supposed to force a frame to resize - but not seeing any benefit on initial tinkering -->
+  </body>
+</html>

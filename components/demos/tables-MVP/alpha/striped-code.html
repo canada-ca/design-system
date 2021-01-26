@@ -1,0 +1,196 @@
+<div class="wb-tabs wb-prettify all-pre">
+  <div class="tabpanels">
+    <details id="optional-details-panel1">
+      <summary>HTML</summary>
+      <pre><code>&lt;table class="experimental table table-striped" id="myTable"&gt;
+       &lt;caption class="wb-inv"&gt;Population growth in Canadian cities&lt;/caption&gt;
+        &lt;thead&gt;
+          &lt;tr&gt;
+            &lt;th scope="col"&gt;City&lt;/th&gt;
+            &lt;th scope="col"&gt;Population in 2007&lt;/th&gt;
+            &lt;th scope="col"&gt;Population in 2017&lt;/th&gt;
+            &lt;th scope="col"&gt;Percentage change&lt;/th&gt;
+         &lt;/tr&gt;
+        &lt;/thead&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td data-label="City"&gt;Toronto&lt;/td&gt;
+            &lt;td data-label="Population in 2007"&gt;5,418,207&lt;/td&gt;
+            &lt;td data-label="Population in 2017"&gt;6,346,088&lt;/td&gt;
+            &lt;td data-label="Percentage change"&gt;17.1%&lt;/td&gt;
+           &lt;/tr&gt;
+           &lt;tr&gt;
+            &lt;td data-label="City"&gt;Montréal&lt;/td&gt;
+            &lt;td data-label="Population in 2007"&gt;3,714,846&lt;/td&gt;
+            &lt;td data-label="Population in 2017"&gt;4,138,254&lt;/td&gt;
+            &lt;td data-label="Percentage change"&gt;11.4%&lt;/td&gt;
+           &lt;/tr&gt;
+           &lt;tr&gt;
+            &lt;td data-label="City"&gt;Vancouver&lt;/td&gt;
+            &lt;td data-label="Population in 2007"&gt;2,218,134&lt;/td&gt;
+            &lt;td data-label="Population in 2017"&gt;2,571,262&lt;/td&gt;
+            &lt;td data-label="Percentage change"&gt;15.9%&lt;/td&gt;
+           &lt;/tr&gt;
+           &lt;tr&gt;
+            &lt;td data-label="City"&gt;Ottawa–Gatineau&lt;/td&gt;
+            &lt;td data-label="Population in 2007"&gt;1,188,073&lt;/td&gt;
+            &lt;td data-label="Population in 2017"&gt;1,377,016 &lt;/td&gt;
+            &lt;td data-label="Percentage change"&gt;15.9%&lt;/td&gt;
+           &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;</code></pre>
+    </details>
+    <details id="optional-details-panel2">
+      <summary>CSS</summary>
+      <pre><code>
+
+      .experimental caption {
+        text-align: left;
+      }
+
+      .experimental td ul {
+        padding-inline-start: 20px;
+      }
+
+      .experimental .nobreak {
+        white-space: nowrap;
+      }
+
+      /* CREATE MOBILE CARDS */
+      @media screen and (max-width: 425px) {
+
+        .table.experimental > tbody > tr > td:first-child {
+          border-top: none;
+        }
+
+        table.experimental tr {
+          border: 1px solid #ddd;
+          padding: .35em;
+        }
+
+        table.experimental {
+          border: 0;
+        }
+
+        table.experimental caption {
+          font-size: 1.1em;
+        }
+
+        table.experimental thead {
+          border: none;
+          clip: rect(0 0 0 0);
+          height: 1px;
+          margin: -1px;
+          overflow: hidden;
+          padding: 0;
+          position: absolute;
+          width: 1px;
+        }
+
+        table.experimental tr {
+          display: block;
+          margin-bottom: .625em;
+        }
+
+        table.experimental td {
+          display: block;
+          font-size: 1em;
+          text-align: right;
+        }
+
+        table.experimental td::before {
+          content: attr(data-label);
+          font-weight: bold;
+          float: left;
+        }
+
+        table.experimental td:last-child {
+          border-bottom: 0;
+        }
+
+        .experimental .left-mobile {
+          text-align: left !important;
+          clear: both !important;
+          display: block;
+        }
+      }
+
+      /* TABLET CARDS */
+      @media screen and (max-width: 768px) {
+
+        .table.experimental.tblt-crds > tbody > tr > td:first-child {
+          border-top: none;
+        }
+
+        table.experimental.tblt-crds tr {
+          border: 1px solid #ddd;
+          padding: .35em;
+        }
+
+        table.experimental.tblt-crds {
+          border: 0;
+        }
+
+        table.experimental.tblt-crds caption {
+          font-size: 1.1em;
+        }
+
+        table.experimental.tblt-crds thead {
+          border: none;
+          clip: rect(0 0 0 0);
+          height: 1px;
+          margin: -1px;
+          overflow: hidden;
+          padding: 0;
+          position: absolute;
+          width: 1px;
+        }
+
+        table.experimental.tblt-crds tr {
+          display: block;
+          margin-bottom: .625em;
+        }
+
+        table.experimental.tblt-crds td {
+          display: block;
+          font-size: 1em;
+          text-align: right;
+        }
+
+        table.experimental.tblt-crds td::before {
+          content: attr(data-label);
+          font-weight: bold;
+          float: left;
+        }
+
+        table.experimental.tblt-crds td:last-child {
+          border-bottom: 0;
+        }
+
+        .experimental.tblt-crds .left-mobile {
+          text-align: left !important;
+          clear: both !important;
+          display: block;
+        }
+      }
+
+
+      @media (min-width: 769px) {
+      /* small table text for desktop table content - works when 'main' is 20px, design system demos are a bit off - to look
+      into */
+        .tbl-sm-txt.experimental tr {
+          font-size: .85em;
+        }
+
+        .tbl-sm-txt.experimental thead {
+          font-size: .95em;
+        }
+      }
+            </code></pre>
+    </details>
+    <!-- <details id="optional-details-panel3">
+        <summary>JavaScript</summary>
+        <pre><code></code></pre> No JS for basic/striped no filter
+    </details> -->
+  </div>
+</div>

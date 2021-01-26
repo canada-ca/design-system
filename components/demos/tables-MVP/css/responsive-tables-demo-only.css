@@ -1,0 +1,156 @@
+
+/* table patterns should include
+- filter version or no filter
+- default or small text variant
+- content floating right or left in cards view (see CRA contact us page)
+- different break points into cards depending on content? If only 2-3 columns... vs 5-6... diff break points could be ideal
+- Jennifer will bring together all the css for the various options for the design system
+*/
+
+
+.experimental caption {
+  text-align: left;
+}
+
+.experimental td ul {
+  padding-inline-start: 20px;
+}
+
+.experimental .nobreak {
+  white-space: nowrap;
+}
+
+/* CREATE CARDS */
+@media screen and (max-width: 550px) { /* have to fudge the break point for the demo */
+
+  /* removes the first line, so we don't have a double line in the card on mobile */
+  .table.experimental > tbody > tr > td:first-child {
+    border-top: none;
+  }
+
+  table.experimental tr {
+    border: 1px solid #ddd;
+    padding: .35em;
+  }
+
+  table.experimental {
+    border: 0;
+  }
+
+  table.experimental caption {
+    font-size: 1.1em;
+  }
+
+  table.experimental thead {
+    border: none;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+
+  table.experimental tr {
+    display: block;
+    margin-bottom: .625em;
+  }
+
+  table.experimental td {
+    display: block;
+    font-size: 1em;
+    text-align: right;
+  }
+
+  table.experimental td::before {
+    content: attr(data-label);
+    font-weight: bold;
+    float: left;
+  }
+
+  table.experimental td:last-child {
+    border-bottom: 0;
+  }
+
+  .experimental .left-mobile {
+    text-align: left !important;
+    clear: both !important;
+    display: block;
+  }
+}
+
+/* TABLET CARDS */
+@media screen and (max-width: 674px) {
+
+  /* removes the first line, so we don't have a double line in the card on mobile */
+  .table.experimental.tblt-crds > tbody > tr > td:first-child {
+      border-top: none;
+  }
+
+  table.experimental.tblt-crds tr {
+    border: 1px solid #ddd;
+    padding: .35em;
+  }
+
+  table.experimental.tblt-crds {
+    border: 0;
+  }
+
+  table.experimental.tblt-crds  caption {
+    font-size: 1.1em;
+  }
+
+  table.experimental.tblt-crds thead {
+    border: none;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+
+  table.experimental.tblt-crds  tr {
+    /* border-bottom: 3px solid #ddd; */
+    display: block;
+    margin-bottom: .625em;
+  }
+
+  table.experimental.tblt-crds  td {
+    /* border-bottom: 1px solid #ddd; */
+    display: block;
+    font-size: 1em;
+    text-align: right;
+  }
+
+  table.experimental.tblt-crds td::before {
+    content: attr(data-label);
+    font-weight: bold;
+    float: left;
+  }
+
+  table.experimental.tblt-crds td:last-child {
+    border-bottom: 0;
+  }
+  
+  .experimental.tblt-crds .left-mobile {
+    text-align: left !important;
+    clear: both !important;
+    display: block;
+  }
+}
+
+
+@media (min-width: 674px) {
+    /* small table text for content with long entries */
+  .tbl-sm-txt.experimental tr {
+    font-size: .85em;
+  }
+
+  .tbl-sm-txt.experimental thead {
+    font-size: .95em;
+  }
+}
+
