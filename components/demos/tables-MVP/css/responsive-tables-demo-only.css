@@ -21,7 +21,7 @@
 }
 
 /* CREATE CARDS */
-@media screen and (max-width: 550px) { /* have to fudge the break point for the demo */
+@media screen and (max-width: 768px) {
 
   /* removes the first line, so we don't have a double line in the card on mobile */
   .table.experimental > tbody > tr > td:first-child {
@@ -81,10 +81,10 @@
 }
 
 /* TABLET CARDS */
-@media screen and (max-width: 674px) {
+/* @media screen and (max-width: 674px) { */
 
   /* removes the first line, so we don't have a double line in the card on mobile */
-  .table.experimental.tblt-crds > tbody > tr > td:first-child {
+  /* .table.experimental.tblt-crds > tbody > tr > td:first-child {
       border-top: none;
   }
 
@@ -112,15 +112,15 @@
     width: 1px;
   }
 
-  table.experimental.tblt-crds  tr {
+  table.experimental.tblt-crds  tr { */
     /* border-bottom: 3px solid #ddd; */
-    display: block;
+    /* display: block;
     margin-bottom: .625em;
   }
 
-  table.experimental.tblt-crds  td {
+  table.experimental.tblt-crds  td { */
     /* border-bottom: 1px solid #ddd; */
-    display: block;
+    /* display: block;
     font-size: 1em;
     text-align: right;
   }
@@ -134,13 +134,13 @@
   table.experimental.tblt-crds td:last-child {
     border-bottom: 0;
   }
-  
+
   .experimental.tblt-crds .left-mobile {
     text-align: left !important;
     clear: both !important;
     display: block;
   }
-}
+} */
 
 
 @media (min-width: 674px) {
