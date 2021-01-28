@@ -15,7 +15,7 @@
     "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/breadcrumb-trail.html\">Breadcrumb trail</a>",
     "USE": "Represents the location of the current page as it stands in relation to the site’s user navigation model - <strong>Mandatory pattern</strong>",
     "CAT": "Design pattern",
-    "TYPE": "Site, Interaction",
+    "TYPE": "Site, Interaction, Navigation",
     "MANDATORY": "Mandatory"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/buttons.html\">Buttons</a>",
@@ -165,7 +165,7 @@
     "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/home-page.html\">Home page</a>",
     "USE": "Shows the Government of Canada’s most visited and important products and services",
     "CAT": "Template",
-    "TYPE": "Government-wide template",
+    "TYPE": "Government-wide template, Navigation",
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/icons.html\">Icons</a>",
@@ -195,7 +195,7 @@
     "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/institutional-profile-pages.html\">Institutional landing page</a>",
     "USE": "Home page of each Government of Canada institution - <strong>Mandatory template</strong>",
     "CAT": "Template",
-    "TYPE": "Institutional",
+    "TYPE": "Institutional, Navigation",
     "MANDATORY": "Mandatory"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/recommended-templates/institutional-service-performance-reporting-pages.html\">Institutional service performance reporting page</a>",
@@ -207,7 +207,7 @@
     "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/interactive-questions.html\">Interactive questions</a>",
     "USE": "Use to present a sequence of simple questions that leads to answer needed to continue or complete task",
     "CAT": "Design pattern",
-    "TYPE": "Destination",
+    "TYPE": "Destination, Navigation",
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/language-toggle.html\">Language toggle link</a>",
@@ -351,7 +351,7 @@
     "NAME": "<a href=\"https://design.canada.ca/recommended-templates/service-initiation-pages.html\">Service initiation page</a>",
     "USE": "Gives people the information they need before starting the task, such as explaining eligibility criteria or steps to follow. Gives people easy access to service standards, turnaround times, related services, guides and help.",
     "CAT": "Template",
-    "TYPE": "Destination",
+    "TYPE": "Destination, Navigation",
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/share-page.html\">Share this page</a>",
@@ -405,7 +405,7 @@
     "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/theme-topic.html\">Theme and topic page</a>",
     "USE": "Allows people to discover services and information related to a specific theme or topic across government - <strong>Mandatory template</strong>",
     "CAT": "Template",
-    "TYPE": "Theme template",
+    "TYPE": "Theme template, Navigation",
     "MANDATORY": "Mandatory"
   }, {
 	"NAME": "<a href=\"https://design.canada.ca/recommended-templates/transparency.html\">Transparency and corporate reporting</a>",
