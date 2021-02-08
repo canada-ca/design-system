@@ -209,6 +209,13 @@
     "CAT": "Design pattern",
     "TYPE": "Destination, Navigation",
     "MANDATORY": "No"
+
+  }, {
+    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/labels.html\">Labels</a>",
+    "USE": "Labels are visual indicators that assign a tag to items such as events, products, programs or services",
+    "CAT": "Design pattern",
+    "TYPE": "Visual",
+    "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/language-toggle.html\">Language toggle link</a>",
     "USE": "Gives people access to site content in either French or English - <strong>Mandatory pattern</strong>",
