@@ -618,24 +618,5 @@
     }
 }
 
-.alpha-top {
-  padding-top: 2px;
-  padding-bottom: 2px;
-  top: 0;
-  background-color: #f2f2f2;
-  z-index: 100;
-}
 
-.alpha-label {
-  background-color: black;
-  border: none;
-  color: white;
-  font-weight: 700;
-  padding: 8px 8px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  margin: 4px 2px;
-  border-radius: 0px;
-  font-size: 14px !important;
-}
+/*# sourceMappingURL=bootstrap.min.css.map */
