@@ -201,9 +201,9 @@
 
 <p><br/><figure>
 
-	<p>Structured data needs to be a “true representation” of the page. You can’t add structured data about content that is not covered in the page.</p>
+	<p>Structured data needs to be a “true representation” of the page. You can’t add structured data about content that isn't covered in the page.</p>
 
- <p>Adding structured data is just one of the techniques you can use to optimize your content for search. Improving the actual content on the page is the first step to take.</p>
+ <p>Adding structured data is just one of the techniques you can use to optimize your content for search. Improving the actual content of the page should always be the first step you take.</p>
 
 		<ul>
             <li><a href="https://developers.google.com/search/docs/guides/intro-structured-data">Google: Understand how structured data works</a></li>
@@ -213,7 +213,7 @@
 
 	<h2 id="how">How to add structured data</h2>
 	<h3>Step 1: Choose a schema</h3>
-	<p>A structured data schema is a set of pairs of fields and values you can use to add meaning to your page.</p>
+	<p>A structured data schema is a set of field-and-value pairs you can use to add meaning to your page.</p>
 	<p>There are multiple schemas you can choose from.</p>
 	<p>Consult the list of schemas on Schema.org or Google, or look at the examples provided on this page.</p>
 	<ul>
@@ -224,17 +224,17 @@
 
 	<h3>Step 2: Write JSON-LD code</h3>
 
-	<p>While structured data can also be written in RDFa, we suggest using JSON-LD instead. JSON-LD is becoming the preferred structured data language of search engines. It also allows a bit more flexibility, like allowing you to inject HTML in search results rich snippets.</p>
+	<p>While structured data can be written in RDFa, we suggest using JSON-LD instead. JSON-LD is becoming the preferred structured data language of search engines. It also allows a bit more flexibility, like allowing you to inject HTML in the rich snippets of search results.</p>
 
 	<p>JSON-LD exists separate from the actual content. If you update the content, remember to adjust the JSON-LD code accordingly.</p>
 
-	<p>Because some elements may already be coded in RDFa in your templates, make sure there is no collision between the 2. </p>
+	<p>Because some elements may already be coded in RDFa in your templates, make sure there is no collision between the two. </p>
 
 	<p>Use a validator, such as <a href="https://jsonlint.com/">JSONLint</a>, to make sure your JSON-LD code is valid.</p>
 
 	<h4>Adding JSON-LD in Adobe Experience Manager (AEM)</h4>
 	<p>If your page is published in AEM, you can add structured data in JSON-LD by using the structured data component in the page properties.</p>
-	<p>Follow <a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">instructions in GCPedia</a> (only available on the GC network).</p>
+	<p>Follow the <a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">instructions in GCPedia</a> (only available on the GC network).</p>
 
 
 
@@ -267,7 +267,7 @@
 <li>whether the click-through rate is different with a rich snippet</li>
 </ul>
 
-<p>Adding tracking (UTM) codes to hyperlinks in the rich data can also help you understand when people are clicking in the links in the rich snippet.</p>
+<p>Adding tracking (UTM) codes to hyperlinks in the rich data can also help you understand when people are clicking the links in the rich snippet.</p>
 <ul>
 <li><a href="https://www.gcpedia.gc.ca/gcwiki/images/2/26/UTM_Code_Guidelines.pdf">UTM code guidelines</a> (only available on the GC network)</li>
 </ul>
@@ -405,13 +405,18 @@ type="application/ld+json"&gt;
 <details>
 <summary><h3 class="h4">FAQPage</h3></summary>
 <h4>When to use</h4>
-<p>Use to add a set of “questions and answers” (or a set of headings and their respective content). Either tag the visible content (using RDFa), or add a layer in JSON-LD. </p>
+<p>Use to add a set of headings and their respective content that provide answers for the key tasks associated with a page. </p>
 
 <p>Use on:</p>
 <ul>
-				<li>Service initiation pages</li>
-				<li>Guidance documents</li>
-				<li>Actual FAQs, though FAQ pages are strongly discouraged on Canada.ca in most cases - read our blog post: <a href="https://blog.canada.ca/2020/05/25/avoiding-faqs.html">Avoiding FAQs, with one exception</a> </li>
+				<li>service initiation pages</li>
+				<li>guidance documents</li>
+				<li>actual FAQs</li>
+</ul>
+<p>FAQ pages are strongly discouraged on Canada.ca in most cases.</p
+
+<ul>
+<li><a href="https://blog.canada.ca/2020/05/25/avoiding-faqs.html">Avoiding FAQs, with one exception</a> (blog post)</li>
 </ul>
 <h4>Official guidance</h4>
 <ul>
@@ -632,7 +637,7 @@ type="application/ld+json"&gt;
 <h4>When to use</h4>
 <p>Use to identify any section of content that would be best suitable for text-to-speech: the part of the page that encapsulates the most important content people are looking for on that page.</p>
 
-<p>Can be used on any page. </p>
+<p>You can use this schema on any page. </p>
 
 <h4>Official guidance</h4>
 
