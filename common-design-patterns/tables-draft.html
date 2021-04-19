@@ -25,8 +25,8 @@
 
 		<![endif]-->
 <noscript><link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/wet-boew/css/noscript.min.css" /></noscript>
- 
-	
+
+
  <!-- Global site tag (gtag.js) - Google Analytics -->
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-105628416-2"></script>
@@ -37,7 +37,7 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
- 
+
   gtag('config', 'UA-105628416-2');
 
 </script>
@@ -137,7 +137,7 @@
 <div class="container">
 <ol class="breadcrumb">
 	<li><a href='https://www.canada.ca/en.html'>Canada.ca</a></li>
-	<li><a href='https://www.canada.ca/en/government/about.html'>About Canada.ca</a></li>	
+	<li><a href='https://www.canada.ca/en/government/about.html'>About Canada.ca</a></li>
 <li><a href='https://www.canada.ca/en/government/about/design-system.html'>Canada.ca design system</a></li>
 	<li><a href='https://www.canada.ca/en/government/about/design-system/pattern-library.html'>Template and pattern library for Canada.ca</a></li>
 </ol>
@@ -147,31 +147,51 @@
 
 <!--/* Hide Nav; Hide Right Rail /*-->
 
-<main role="main" property="mainContentOfPage" class="container">
+	<main role="main" property="mainContentOfPage" class="container wb-prettify all-pre">
+		<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Tables</span>: <span>Canada.ca design
+					system</span></span></h1>
 
+		<div class="row">
+			<div class="col-md-12 pull-left">
+				<ul class="list-inline small mrgn-bttm-sm" style="line-height:1.65em" id="list-inline-desktop-only">
+					<li class="mrgn-rght-lg"> Last updated: 2021-04-19</li>
 
-<h1 property="name" id="wb-cont" dir="ltr">Data tables - Canada.ca design pattern</h1>
+				</ul>
+			</div>
 
+		</div>
 
-
-
-		<div><div class="mwsgeneric-base-html parbase section">
-
-
-
-<p class="gc-byline"><strong>From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
-
-<section>
 <p>Data tables are a means for efficiently communicating data in rows and columns.</p>
+
+	<section>
+		<h2>On this page</h2>
+		<ul>
+			<li><a href="#when">When to use</a></li>
+			<li><a href="#avoid">What to avoid</a></li>
+			<li><a href="#how">How to implement</a></li>
+			<li><a href="#research">Research and blog posts</a></li>
+			<li><a href="#latest">Latest changes</a></li>
+			<li><a href="#discuss">Discussion</a></li>
+		</ul>
+	</section>
+
 <section>
-<h2>When to use this pattern</h2>
+<h2 id="when">When to use this pattern</h2>
 <ul>
 	<li>Use data tables to present data</li>
-	<li>Do not use data tables to force layout for text</li>
+	<li><mark>something about contact us/filtering phone numbers?</mark></li>
 </ul>
 </section>
 <section>
-<h2>How to use this pattern</h2>
+		<h2 id="avoid">What to avoid</h2>
+		<ul>
+			<li>Do not use data tables to force layout for text</li>
+		</ul>
+		</section>
+
+<section>
+<h2 id="how">How to implement</h2>
+
 <ul>
 	<li>Use defined presentation classes for tables included in <abbr title="Web Experience Toolkit">WET</abbr></li>
 	<li>Ensure each column treats only one data facet</li>
@@ -182,24 +202,185 @@
 	</li>
 	<li>Add optional pagination controls for any table with more than 12 rows</li>
 	<li>Never include tabular data as an image</li>
+	<li>Responsive provisional feature is only supported on basic/simple tables</li>
+	<li>Responsive provisional feature is not supported by IE 11</li>
 </ul>
-</section>
-<section>
-<h2>Working example</h2>
-<ul>
-	<li><a href="http://wet-boew.github.io/themes-dist/GCWeb/docs/ref/tables/tables-en.html">WET: Tables</a></li>
-</ul>
-</section>
-<section class="panel panel-primary">
-<header class="panel-heading">
-	<h3 class="panel-title">Example</h3>
-</header>
-<div class="panel-body">
-	<figure class="mrgn-bttm-sm">
-		<figcaption class="text-center"><b>Data tables pattern</b></figcaption>
-		<img src="https://www.canada.ca/content/dam/tbs-sct/images/government-communications/canada-content-style-guide/data-tables-pattern-eng.jpg" class="img-responsive center-block" alt="Screenshot illustrating the data table pattern on Canada.ca. Details on this graphic can be found in the surrounding text."></figure>
+
+	<p>Responsive tables have a few options available:</p>
+	<ol>
+		<li><a href="#default">Basic table</a></li>
+		<li><a href="#left">Left aligned card(s)</a></li>
+		<li><a href="#success">Small text</a></li>
+	</ol>
+
+
+
+<h3 id="default">Basic responsive cards</h3>
+
+<p>Responsive cards work with or without a filter. Add the class <code>wb-tables</code> and any <code>data-wb-tables=""
+</code> values you require.</p>
+
+<div class="pattern-demo mrgn-bttm-md">
+
+<table class="provisional gc-table table" id="myTable1">
+	<caption>Population growth in Canadian cities</caption>
+	<thead>
+		<tr>
+			<th>City</th>
+			<th>Population in 2007</th>
+			<th>Population in 2017</th>
+			<th>Percentage change</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td data-label="City">Toronto</td>
+			<td data-label="Population in 2007">5,418,207</td>
+			<td data-label="Population in 2017">6,346,088</td>
+			<td data-label="Percentage change">17.1%</td>
+		</tr>
+		<tr>
+			<td data-label="City">Montréal</td>
+			<td data-label="Population in 2007">3,714,846</td>
+			<td data-label="Population in 2017">4,138,254</td>
+			<td data-label="Percentage change">11.4%</td>
+		</tr>
+		<tr>
+			<td data-label="City">Vancouver</td>
+			<td data-label="Population in 2007">2,218,134</td>
+			<td data-label="Population in 2017">2,571,262</td>
+			<td data-label="Percentage change">15.9%</td>
+		</tr>
+		<tr>
+			<td data-label="City">Ottawa–Gatineau</td>
+			<td data-label="Population in 2007">1,188,073</td>
+			<td data-label="Population in 2017">1,377,016 </td>
+			<td data-label="Percentage change">15.9%</td>
+		</tr>
+	</tbody>
+</table>
 </div>
-</section>
+
+<details>
+	<summary>Code</summary>
+	<pre><code>&lt;a href="#"&gt;Evaluation of the Citizenship Program&lt;/a&gt; &lt;span class="label label-default"&gt;July 2020&lt;/span&gt;</code></pre>
+</details>
+
+<h3 id="left">Left aligned card(s)</h3>
+<p><span class="label label-info">Optional</span></p>
+<p>The class <code>text-left</code> can be added to any <code>&lt;td&gt;</code> so that it aligns to the left side on
+	the cards.</p>
+
+<div class="pattern-demo mrgn-bttm-md">
+
+<table class="provisional gc-table table" id="myTable2">
+	<caption>Telephone numbers for personal taxes, benefits and trusts</caption>
+	<thead>
+		<tr>
+			<th>Reason for your call</th>
+			<th>Number</th>
+			<th>Hours</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td data-label="Reason for your call">
+				<ul class="text-left">
+					<li>Item one</li>
+					<li>Item two</li>
+				</ul>
+			</td>
+			<td data-label="Number" class="nowrap">1-XXX-XXX-XXXX</td>
+			<td data-label="Hours">Always open (automated line)</td>
+		</tr>
+		<tr>
+			<td data-label="Reason for your call">
+				<ul class="text-left">
+					<li>Item one</li>
+					<li>Item two</li>
+				</ul>
+			</td>
+			<td data-label="Number" class="nowrap">1-XXX-XXX-XXXX</td>
+			<td data-label="Hours">Always open (automated line)</td>
+		</tr>
+		<tr>
+			<td data-label="Reason for your call">
+				<ul class="text-left">
+					<li>Item one</li>
+					<li>Item two</li>
+				</ul>
+			</td>
+			<td data-label="Number" class="nowrap">1-XXX-XXX-XXXX</td>
+			<td data-label="Hours">Always open (automated line)</td>
+		</tr>
+		<tr>
+			<td data-label="Reason for your call">
+				<ul class="text-left">
+					<li>Item one</li>
+					<li>Item two</li>
+				</ul>
+			</td>
+			<td data-label="Number" class="nowrap">1-XXX-XXX-XXXX</td>
+			<td data-label="Hours">Always open (automated line)</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<details>
+	<summary>Code</summary>
+	<pre><code>&lt;a href="#"&gt;Evaluation of the Citizenship Program&lt;/a&gt; &lt;span class="label label-default"&gt;July 2020&lt;/span&gt;</code></pre>
+</details>
+
+<h3>Responsive cards with small class for smaller text</h3>
+<p><span class="label label-info">Optional</span></p>
+<p>The class <code>small</code> can be added to the <code>&lt;table&gt;</code> to make all the text smaller when values and labels are long</p>
+<div class="pattern-demo mrgn-bttm-md">
+
+<table class="provisional gc-table table small" id="myTable3">
+	<caption>The following is a list of ranitidine products being recalled in Canada at this time</caption>
+	<thead>
+		<tr>
+			<th>Company</th>
+			<th>Product Name/Active Pharmaceutical Ingredient (API)</th>
+			<th>DIN</th>
+			<th>Strength</th>
+			<th>Lot</th>
+			<th>Date added</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td data-label="Company">Apotex Inc.</td>
+			<td data-label="Product Name/Active Pharmaceutical Ingredient (API)">Acid Reducer (ranitidine) sold under the
+				brand names Equate and Selection</td>
+			<td data-label="DIN">02296160</td>
+			<td data-label="Strength">150 mg</td>
+			<td data-label="Lot">All lots</td>
+			<td data-label="Date added">September 25, 2019</td>
+		</tr>
+		<tr>
+			<td data-label="Company">Apotex Inc.</td>
+			<td data-label="Product Name/Active Pharmaceutical Ingredient (API)">Apo-Ranitidine Oral Solution</td>
+			<td data-label="DIN">02280833</td>
+			<td data-label="Strength">15 mg/mL</td>
+			<td data-label="Lot">All lots</td>
+			<td data-label="Date added">September 25, 2019</td>
+		</tr>
+		<tr>
+			<td data-label="Company">Apotex Inc.</td>
+			<td data-label="Product Name/Active Pharmaceutical Ingredient (API)">Apo-Ranitidine Tablet 150mg</td>
+			<td data-label="DIN">00733059</td>
+			<td data-label="Strength">300 mg</td>
+			<td data-label="Lot">All lots</td>
+			<td data-label="Date added">September 25, 2019</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<details>
+	<summary>Code</summary>
+	<pre><code>&lt;a href="#"&gt;Evaluation of the Citizenship Program&lt;/a&gt; &lt;span class="label label-default"&gt;July 2020&lt;/span&gt;</code></pre>
+</details>
 </section>
 
 
