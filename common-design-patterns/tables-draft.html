@@ -178,8 +178,8 @@
 <section>
 <h2 id="when">When to use this pattern</h2>
 <ul>
-	<li>Use data tables to present data</li>
-	<li><mark>something about contact us/filtering phone numbers?</mark></li>
+	<li>Use to present data</li>
+	<li>Use to organize related information, such as contact numbers and details</li>
 </ul>
 </section>
 <section>
@@ -202,23 +202,28 @@
 	</li>
 	<li>Add optional pagination controls for any table with more than 12 rows</li>
 	<li>Never include tabular data as an image</li>
-	<li>Responsive provisional feature is only supported on basic/simple tables</li>
-	<li>Responsive provisional feature is not supported by IE 11</li>
+	<li>Name the <code>data-label</code> the same as the <code>&lt;td&gt;</code>items to have the mobile cards labeled correctly (javascript to do this automatically is being developed)</li>
 </ul>
 
-	<p>Responsive tables have a few options available:</p>
+	<p>Responsive provisional tables have a few options available:</p>
 	<ol>
 		<li><a href="#default">Basic table</a></li>
 		<li><a href="#left">Left aligned card(s)</a></li>
 		<li><a href="#success">Small text</a></li>
 	</ol>
 
+	<p>Responsive provisional tables are:</p>
+	<ul>
+		<li>only supported on basic/simple tables</li>
+		<li>not supported by IE 11</li>
+	</ul>
+
 
 
 <h3 id="default">Basic responsive cards</h3>
 
 <p>Responsive cards work with or without a filter. Add the class <code>wb-tables</code> and any <code>data-wb-tables=""
-</code> values you require.</p>
+</code> values you require to the <code>&lt;table&gt;</code>.</p>
 
 <div class="pattern-demo mrgn-bttm-md">
 
@@ -364,7 +369,58 @@
 </div>
 <details>
 	<summary>Code</summary>
-	<pre><code>&lt;a href="#"&gt;Evaluation of the Citizenship Program&lt;/a&gt; &lt;span class="label label-default"&gt;July 2020&lt;/span&gt;</code></pre>
+	<pre><code>&lt;table class="provisional gc-table table" id="myTable2"&gt;
+  &lt;caption&gt;Telephone numbers for personal taxes, benefits and trusts&lt;/caption&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Reason for your call&lt;/th&gt;
+      &lt;th&gt;Number&lt;/th&gt;
+      &lt;th&gt;Hours&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td data-label="Reason for your call"&gt;
+        &lt;ul class="text-left"&gt;
+          &lt;li&gt;Item one&lt;/li&gt;
+          &lt;li&gt;Item two&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/td&gt;
+      &lt;td data-label="Number" class="nowrap"&gt;1-XXX-XXX-XXXX&lt;/td&gt;
+      &lt;td data-label="Hours"&gt;Always open (automated line)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td data-label="Reason for your call"&gt;
+        &lt;ul class="text-left"&gt;
+          &lt;li&gt;Item one&lt;/li&gt;
+          &lt;li&gt;Item two&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/td&gt;
+      &lt;td data-label="Number" class="nowrap"&gt;1-XXX-XXX-XXXX&lt;/td&gt;
+      &lt;td data-label="Hours"&gt;Always open (automated line)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td data-label="Reason for your call"&gt;
+        &lt;ul class="text-left"&gt;
+          &lt;li&gt;Item one&lt;/li&gt;
+          &lt;li&gt;Item two&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/td&gt;
+      &lt;td data-label="Number" class="nowrap"&gt;1-XXX-XXX-XXXX&lt;/td&gt;
+      &lt;td data-label="Hours"&gt;Always open (automated line)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td data-label="Reason for your call"&gt;
+        &lt;ul class="text-left"&gt;
+          &lt;li&gt;Item one&lt;/li&gt;
+          &lt;li&gt;Item two&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/td&gt;
+      &lt;td data-label="Number" class="nowrap"&gt;1-XXX-XXX-XXXX&lt;/td&gt;
+      &lt;td data-label="Hours"&gt;Always open (automated line)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</code></pre>
 </details>
 
 <h3>Responsive cards with small class for smaller text</h3>
@@ -415,7 +471,46 @@
 </div>
 <details>
 	<summary>Code</summary>
-	<pre><code>&lt;a href="#"&gt;Evaluation of the Citizenship Program&lt;/a&gt; &lt;span class="label label-default"&gt;July 2020&lt;/span&gt;</code></pre>
+	<pre><code>&lt;table class="provisional gc-table table small" id="myTable3"&gt;
+  &lt;caption&gt;The following is a list of ranitidine products being recalled in Canada at this time&lt;/caption&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Company&lt;/th&gt;
+      &lt;th&gt;Product Name/Active Pharmaceutical Ingredient (API)&lt;/th&gt;
+      &lt;th&gt;DIN&lt;/th&gt;
+      &lt;th&gt;Strength&lt;/th&gt;
+      &lt;th&gt;Lot&lt;/th&gt;
+      &lt;th&gt;Date added&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td data-label="Company"&gt;Apotex Inc.&lt;/td&gt;
+      &lt;td data-label="Product Name/Active Pharmaceutical Ingredient (API)"&gt;Acid Reducer (ranitidine) sold under the
+        brand names Equate and Selection&lt;/td&gt;
+      &lt;td data-label="DIN"&gt;02296160&lt;/td&gt;
+      &lt;td data-label="Strength"&gt;150 mg&lt;/td&gt;
+      &lt;td data-label="Lot"&gt;All lots&lt;/td&gt;
+      &lt;td data-label="Date added"&gt;September 25, 2019&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td data-label="Company"&gt;Apotex Inc.&lt;/td&gt;
+      &lt;td data-label="Product Name/Active Pharmaceutical Ingredient (API)"&gt;Apo-Ranitidine Oral Solution&lt;/td&gt;
+      &lt;td data-label="DIN"&gt;02280833&lt;/td&gt;
+      &lt;td data-label="Strength"&gt;15 mg/mL&lt;/td&gt;
+      &lt;td data-label="Lot"&gt;All lots&lt;/td&gt;
+      &lt;td data-label="Date added"&gt;September 25, 2019&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td data-label="Company"&gt;Apotex Inc.&lt;/td&gt;
+      &lt;td data-label="Product Name/Active Pharmaceutical Ingredient (API)"&gt;Apo-Ranitidine Tablet 150mg&lt;/td&gt;
+      &lt;td data-label="DIN"&gt;00733059&lt;/td&gt;
+      &lt;td data-label="Strength"&gt;300 mg&lt;/td&gt;
+      &lt;td data-label="Lot"&gt;All lots&lt;/td&gt;
+      &lt;td data-label="Date added"&gt;September 25, 2019&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</code></pre>
 </details>
 </section>
 
