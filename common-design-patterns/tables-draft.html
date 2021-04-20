@@ -13,6 +13,8 @@
 <link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon">
 <link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css"><link rel="stylesheet" href="../css/custom.css">
 <link rel="stylesheet" href="../css/split-h1.css">
+<link rel="stylesheet" href="../css/iframe.css">
+
 <!--<![endif]-->
 <!--[if lt IE 9]>
 		<link href="./GCWeb/assets/favicon.ico" rel="shortcut icon" />
@@ -187,12 +189,14 @@
 		<h2 id="avoid">What to avoid</h2>
 		<ul>
 			<li>Do not use data tables to force layout for text</li>
+			<li>Never include tabular data as an image</li>
 		</ul>
 		</section>
 
 <section>
 <h2 id="how">How to implement</h2>
 
+<!--
 <ul>
 	<li>Use defined presentation classes for tables included in <abbr title="Web Experience Toolkit">WET</abbr></li>
 	<li>Ensure each column treats only one data facet</li>
@@ -202,29 +206,190 @@
 		</ul>
 	</li>
 	<li>Add optional pagination controls for any table with more than 12 rows</li>
-	<li>Never include tabular data as an image</li>
+
+
 	<li>Name the <code>data-label</code> the same as the <code>&lt;td&gt;</code>items to have the mobile cards labeled correctly (javascript to do this automatically is being developed)</li>
 </ul>
+	-->
 
-	<p>Responsive provisional tables have a few options available:</p>
+	<p>There are 2 main types of tables:</p>
 	<ol>
-		<li><a href="#default">Basic table</a></li>
-		<li><a href="#left">Left aligned card(s)</a></li>
-		<li><a href="#success">Small text</a></li>
+		<li><a href="#basic">Basic tables</a></li>
+		<li><a href="#responsive">Responsive tables (beta)</a></li>
 	</ol>
 
-	<p>Responsive provisional tables are:</p>
+
+
+<h3 id="basic">Basic tables</h3>
+<p>Use basic tables when the content is not likely to be consumed on mobile or small tablet.</p>
+
+<div class="pattern-demo mrgn-bttm-md">
+	<div id="demo" class="pattern-demo pattern-demo-component">
+		<div id="basic-demo" class="component-demo example-frame-bkg">
+			<div id="unfiltered-layout" class="layout-demo example-frame-bkg">
+				<iframe title="Basic table example" class="example-frame example-frame-resizable example-frame-m"
+					src="./demos/tables/wet4/basic.html" frameborder="0" loading="lazy"
+					onload="resizeIframe(this);"></iframe>
+			</div>
+		<div class="btn-group">
+			<button id="resize-iframe-mobile" class="btn btn-default"><span class="fas fa-mobile-alt"></span>
+				<strong>SM</strong></button>
+			<button id="resize-iframe-tablet" class="btn btn-default"><span class="fas fa-tablet-alt"></span>
+				<strong>MD</strong></button>
+			<button id="resize-iframe-desktop" class="btn btn-default"><span class="fas fa-desktop"></span>
+				<strong>LG</strong></button>
+		</div>
+	</div>
+</div>
+<!--
+<table class="table" id="myTable0">
+<caption>Population growth in Canadian cities</caption>
+<thead>
+	<tr>
+		<th>City</th>
+		<th>Population in 2007</th>
+		<th>Population in 2017</th>
+		<th>Percentage change</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td data-label="City">Toronto</td>
+		<td data-label="Population in 2007">5,418,207</td>
+		<td data-label="Population in 2017">6,346,088</td>
+		<td data-label="Percentage change">17.1%</td>
+	</tr>
+	<tr>
+		<td data-label="City">Montréal</td>
+		<td data-label="Population in 2007">3,714,846</td>
+		<td data-label="Population in 2017">4,138,254</td>
+		<td data-label="Percentage change">11.4%</td>
+	</tr>
+	<tr>
+		<td data-label="City">Vancouver</td>
+		<td data-label="Population in 2007">2,218,134</td>
+		<td data-label="Population in 2017">2,571,262</td>
+		<td data-label="Percentage change">15.9%</td>
+	</tr>
+	<tr>
+		<td data-label="City">Ottawa–Gatineau</td>
+		<td data-label="Population in 2007">1,188,073</td>
+		<td data-label="Population in 2017">1,377,016 </td>
+		<td data-label="Percentage change">15.9%</td>
+	</tr>
+</tbody>
+</table> -->
+</div>
+
+<details>
+<summary>Code</summary>
+<pre><code>&lt;table class="table" id="myTable0"&gt;
+&lt;caption&gt;Population growth in Canadian cities&lt;/caption&gt;
+&lt;thead&gt;
+	&lt;tr&gt;
+		&lt;th&gt;City&lt;/th&gt;
+		&lt;th&gt;Population in 2007&lt;/th&gt;
+		&lt;th&gt;Population in 2017&lt;/th&gt;
+		&lt;th&gt;Percentage change&lt;/th&gt;
+	&lt;/tr&gt;
+&lt;/thead&gt;
+	&lt;tbody&gt;
+	&lt;tr&gt;
+		&lt;td data-label="City"&gt;Toronto&lt;/td&gt;
+		&lt;td data-label="Population in 2007"&gt;5,418,207&lt;/td&gt;
+		&lt;td data-label="Population in 2017"&gt;6,346,088&lt;/td&gt;
+		&lt;td data-label="Percentage change"&gt;17.1%&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td data-label="City"&gt;Montréal&lt;/td&gt;
+		&lt;td data-label="Population in 2007"&gt;3,714,846&lt;/td&gt;
+		&lt;td data-label="Population in 2017"&gt;4,138,254&lt;/td&gt;
+		&lt;td data-label="Percentage change"&gt;11.4%&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td data-label="City"&gt;Vancouver&lt;/td&gt;
+		&lt;td data-label="Population in 2007"&gt;2,218,134&lt;/td&gt;
+		&lt;td data-label="Population in 2017"&gt;2,571,262&lt;/td&gt;
+		&lt;td data-label="Percentage change"&gt;15.9%&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td data-label="City"&gt;Ottawa–Gatineau&lt;/td&gt;
+		&lt;td data-label="Population in 2007"&gt;1,188,073&lt;/td&gt;
+		&lt;td data-label="Population in 2017"&gt;1,377,016 &lt;/td&gt;
+		&lt;td data-label="Percentage change"&gt;15.9%&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;</code></pre>
+</details>
+
+
+
+
+<h3>Customizing basic tables</h3>
+<table class="table">
+ <thead>
+	 <tr>
+			 <th>Option</th>
+			 <th>Description</th>
+			 <th>How to use</th>
+	 </tr>
+</thead>
+<tbody>
+	<tr>
+			<td>Pagination</td>
+			<td>***</td>
+			<td>***</td>
+	</tr>
+
+	<tr>
+			<td>Sorting</td>
+			<td>***</td>
+			<td>***</td>
+	</tr>
+
+	 <tr>
+			 <td>Adjust column width</td>
+			 <td>***</td>
+			 <td>***</td>
+	 </tr>
+	 <tr>
+			 <td>Striped rows</td>
+			 <td>***</td>
+			 <td>***</td>
+	 </tr>
+	 <tr>
+			 <td>Hover rows</td>
+			 <td>***</td>
+			 <td>***</td>
+	 </tr>
+	 <tr>
+			 <td>Border rows</td>
+			 <td>***</td>
+			 <td>***</td>
+	 </tr>
+	 <tr>
+			 <td>Condensed rows</td>
+			 <td>***</td>
+			 <td>***</td>
+	 </tr>
+</tbody>
+</table>
+
+<!--
+<p>Add the class <code>wb-tables</code> and any <code>data-wb-tables=""
+</code> values you require to the <code>&lt;table&gt;</code></p> -->
+<h3 id="responsive">Beta responsive tables</h3>
+
+
+	<p>Beta responsive tables are:</p>
 	<ul>
-		<li>only supported on basic/simple tables</li>
+		<li>only supported on basic tables</li>
 		<li>not supported by IE 11</li>
 	</ul>
 
 
 
-<h3 id="default">Basic responsive cards</h3>
-
-<p>Responsive cards work with or without a filter. Add the class <code>wb-tables</code> and any <code>data-wb-tables=""
-</code> values you require to the <code>&lt;table&gt;</code>.</p>
+<p>Responsive tables create cards in mobile and small tablet view. The responsive cards work with the same customization options as basic tables.</p>
 
 <div class="pattern-demo mrgn-bttm-md">
 
@@ -308,6 +473,33 @@
 	&lt;/table&gt;</code></pre>
 </details>
 
+
+
+
+<h3>Customizing responsive tables</h3>
+ <table class="table">
+	 <thead>
+		 <tr>
+				 <th>Option</th>
+				 <th>Description</th>
+				 <th>How to use</th>
+		 </tr>
+ </thead>
+ <tbody>
+		 <tr>
+				 <td>Left aligned</td>
+				 <td>Align the text in any cell on mobile cards</td>
+				 <td>Add the class <code>text-left</code> to any <code>&lt;td&gt;</code></td>
+		 </tr>
+		 <tr>
+				 <td>Small text</td>
+				 <td>Make text smaller in mobile cards</td>
+				 <td>Add the class <code>small</code> the <code>&lt;table&gt;</code>.</td>
+		 </tr>
+ </tbody>
+</table>
+
+<!--
 <h3 id="left">Left aligned card(s)</h3>
 <p><span class="label label-info">Optional</span></p>
 <p>The class <code>text-left</code> can be added to any <code>&lt;td&gt;</code> so that it aligns to the left side on
@@ -513,10 +705,13 @@
   &lt;/tbody&gt;
 &lt;/table&gt;</code></pre>
 </details>
+-->
 </section>
+
+
 <section>
 <h2 id="research">Research and blog posts</h2>
-<p>We tested the use of responsive tables successfully during optimization projects with Health Canada for recalls and safety sorting, <abbr title="Canada Revenue Agency">CRA</abbr> for organizing contact us information, and across various COVID-19 optimizations. Responsive tables make it easier for users on mobile devices to use without having to scroll to the side to see all the content.</p>
+<p>We tested the use of responsive tables successfully during optimization projects with Health Canada for recalls and safety sorting, <abbr title="Canada Revenue Agency">CRA</abbr> for organizing contact us information, and across various COVID-19 optimizations. Responsive tables make it easier for users on small screens to use without having to scroll to the side to see all the content.</p>
 </section>
 
 <section>
@@ -605,6 +800,8 @@
 	<!--[if gte IE 9 | !IE ]><!-->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.js"></script>
 	<script src="https://wet-boew.github.io/themes-dist/GCWeb/wet-boew/js/wet-boew.min.js"></script>
+		<script src="../js/demo-toggles.js"></script>
+		<script src="../js/resize-iframe.js"></script>
 	<!--<![endif]-->
 	<!--[if lt IE 9]>
 			<script src="./wet-boew/js/ie8-wet-boew2.min.js"></script>
