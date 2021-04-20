@@ -192,12 +192,16 @@
 			<li>Never include tabular data as an image</li>
 </ul>
 
-<p><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp5-3">Use tables to organize data: Canada.ca Content Style Guide
-</a></p>
+
 		</section>
 
 <section>
 <h2 id="how">How to implement</h2>
+
+<p><a
+		href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp5-3">Use
+		tables to organize data: Canada.ca Content Style Guide
+	</a></p>
 
 <!--
 <ul>
@@ -322,13 +326,18 @@
 	 </tr>
 </thead>
 <tbody>
-	<tr>
+	<!-- <tr>
 			<td>Pagination</td>
 			<td>***</td>
 			<td>***</td>
+	</tr> -->
+	<tr>
+		<td>Filtering and pagination</td>
+		<td>Allows search of the table items</td>
+		<td>Add the class <code>wb-tables</code> to the <code>&lt;table&gt;</code></td>
 	</tr>
 
-	<tr>
+	<!-- <tr>
 			<td>Sorting</td>
 			<td>***</td>
 			<td>***</td>
@@ -338,18 +347,18 @@
 			 <td>Adjust column width</td>
 			 <td>***</td>
 			 <td>***</td>
-	 </tr>
+	 </tr> -->
 	 <tr>
 			 <td>Striped rows</td>
-			 <td>***</td>
-			 <td>***</td>
+			 <td>Alternates the colour of the table rows from white to grey</td>
+			 <td>Add the class <code>table-striped</code> to the <code>&lt;table&gt;</code> </td>
 	 </tr>
 	 <tr>
 			 <td>Hover rows</td>
-			 <td>***</td>
-			 <td>***</td>
+			 <td>Causes the background to darken when a mouse hovers over a row</td>
+			<td>Add the class <code>table-hover</code> to the <code>&lt;table&gt;</code> </td>
 	 </tr>
-	 <tr>
+	 <!-- <tr>
 			 <td>Border rows</td>
 			 <td>***</td>
 			 <td>***</td>
@@ -358,7 +367,9 @@
 			 <td>Condensed rows</td>
 			 <td>***</td>
 			 <td>***</td>
-	 </tr>
+	 </tr> -->
+
+	 <mark>how do we want to deal with the DataTables API? <code>data-wb-tables=""</code> is whats doing a lot of the stuff and it I don't find the documentation is clear on <a href="https://wet-boew.github.io/v4.0-ci/demos/tables/tables-en.html">DataTables API</a></mark>
 </tbody>
 </table>
 
@@ -452,7 +463,7 @@
 		 <tr>
 				 <td>Left aligned</td>
 				 <td>Align the text in any cell on mobile cards</td>
-				 <td>Add the class <code>text-left</code> to any <code>&lt;td&gt;</code></td>
+				 <td>Add the class <code>text-left</code> to the <code>&lt;td&gt;</code> you wish to align left</td>
 		 </tr>
 		 <!-- This is not unique to mobile cards or responsiveness <tr>
 				 <td>Small text</td>
