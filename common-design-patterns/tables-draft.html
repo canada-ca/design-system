@@ -157,7 +157,7 @@
 		<div class="row">
 			<div class="col-md-12 pull-left">
 				<ul class="list-inline small mrgn-bttm-sm" style="line-height:1.65em" id="list-inline-desktop-only">
-					<li class="mrgn-rght-lg"> Last updated: 2021-04-20</li>
+					<li class="mrgn-rght-lg"> Last updated: 2021-04-27</li>
 
 				</ul>
 			</div>
@@ -183,6 +183,10 @@
 <ul>
 	<li>Use to present data</li>
 	<li>Use to organize related information, such as contact numbers and details</li>
+	<li>Consult <a
+			href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp5-3">Use
+			tables to organize data: Canada.ca Content Style Guide
+		</a> </li>
 </ul>
 </section>
 <section>
@@ -190,6 +194,10 @@
 		<ul>
 			<li>Do not use data tables to force layout for text</li>
 			<li>Never include tabular data as an image</li>
+			<li>Consult <a
+					href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp5-3">Use
+					tables to organize data: Canada.ca Content Style Guide
+				</a> </li>
 </ul>
 
 
@@ -198,10 +206,10 @@
 <section>
 <h2 id="how">How to implement</h2>
 
-<p><a
-		href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp5-3">Use
-		tables to organize data: Canada.ca Content Style Guide
-	</a></p>
+<p>You can use either the <strong>beta</strong> or the <strong>stable</strong> version of this pattern. The beta tables uses provisional CSS and makes table responsive on small screens.</p>
+
+<details>
+	<summary>Beta (responsive) data tables</summary>
 
 <!--
 <ul>
@@ -219,14 +227,17 @@
 </ul>
 	-->
 
-	<p>There are 2 main types of tables:</p>
-	<ol>
-		<li><a href="#basic">Basic tables</a></li>
-		<li><a href="#responsive">Responsive tables (beta)</a></li>
-	</ol>
 
 
+	<p>Beta responsive tables are:</p>
+	<ul>
+		<li>supported only for simple WET tables that don't have merged rows or columns</li>
+		<li>not supported by IE 11</li>
+	</ul>
 
+	<p>Responsive tables create cards in mobile and small tablet view.</p>
+
+<!--
 <h3 id="basic">Basic tables</h3>
 <p>Use basic tables when the content is not likely to be consumed on small screens.</p>
 
@@ -313,91 +324,18 @@
 &lt;/table&gt;</code></pre>
 </details>
 
+-->
 
 
 
-<h3>Customizing basic tables</h3>
-<table class="table">
- <thead>
-	 <tr>
-			 <th>Option</th>
-			 <th>Description</th>
-			 <th>How to use</th>
-	 </tr>
-</thead>
-<tbody>
-	<!-- <tr>
-			<td>Pagination</td>
-			<td>***</td>
-			<td>***</td>
-	</tr> -->
-
-	<!-- <tr>
-			<td>Sorting</td>
-			<td>***</td>
-			<td>***</td>
-	</tr> -->
-
-	 <tr>
-			 <td>Table borders</td>
-			 <td>Adds a border to help visually separate the table cells when they have a lot of content</td>
-			<td>Add the class <code>table-bordered</code> to the <code>&lt;table&gt;</code> </td>
-	 </tr>
-	<tr>
-		<td>Condensed spacing</td>
-		<td>Narrows the height of the cells within the table</td>
-		<td>Add the class <code>table-condensed</code> to the <code>&lt;table&gt;</code> </td>
-	</tr>
-	 <tr>
-			 <td>Striped rows</td>
-			 <td>Alternates the colour of the table rows from white to grey</td>
-			 <td>Add the class <code>table-striped</code> to the <code>&lt;table&gt;</code> </td>
-	 </tr>
-	 <tr>
-			 <td>Hover rows</td>
-			 <td>Causes the background to darken when a mouse hovers over a row</td>
-			<td>Add the class <code>table-hover</code> to the <code>&lt;table&gt;</code> </td>
-	 </tr>
-		<tr>
-			<td>Enable DataTables plugin</td>
-			<td>Provides searching, sorting, filtering, pagination, etc. <a href="https://wet-boew.github.io/v4.0-ci/demos/tables/tables-en.html">DataTables plugin documentation</a></td>
-			<td>Add the class <code>wb-tables</code> to the <code>&lt;table&gt;</code> and add the appropriate
-				<code>data-wb-tables=""</code> values</td>
-		</tr>
-	 <!-- <tr>
-			 <td>Border rows</td>
-			 <td>***</td>
-			 <td>***</td>
-	 </tr>
-	 <tr>
-			 <td>Condensed rows</td>
-			 <td>***</td>
-			 <td>***</td>
-	 </tr> -->
-
-</tbody>
-</table>
-
-<!--
-<p>Add the class <code>wb-tables</code> and any <code>data-wb-tables=""
-</code> values you require to the <code>&lt;table&gt;</code></p> -->
-<h3 id="responsive">Beta responsive tables</h3>
-
-
-	<p>Beta responsive tables are:</p>
-	<ul>
-		<li>supported only for simple WET tables that don't have merged rows or columns</li>
-		<li>not supported by IE 11</li>
-	</ul>
 
 
 
-<p>Responsive tables create cards in mobile and small tablet view. The responsive cards work with the same customization options as basic tables.</p>
 	<div class="pattern-demo pattern-demo-component">
 		<div id="basic-demo" class="component-demo example-frame-bkg">
 			<div id="unfiltered-layout" class="layout-demo example-frame-bkg">
 				<iframe title="Basic table example" class="example-frame example-frame-resizable example-frame-m"
-					src="../components/demos/tables/wet4/basic.html" loading="lazy"
+					src="../components/demos/tables/wet4/basic.html" frameborder="0" loading="lazy"
 					onload="resizeIframe(this);"></iframe>
 			</div>
 			<div class="btn-group">
@@ -455,27 +393,52 @@
 
 
 
-<h3>Customizing responsive tables</h3>
- <table class="table">
-	 <thead>
-		 <tr>
-				 <th>Option</th>
-				 <th>Description</th>
-				 <th>How to use</th>
-		 </tr>
- </thead>
- <tbody>
-		 <tr>
-				 <td>Left aligned</td>
-				 <td>Align the text in any cell on mobile cards</td>
-				 <td>Add the class <code>text-left</code> to an html element within the <code>&lt;td&gt;</code> you wish to align left, such as a <code>&lt;span&gt;</code> or <code>&lt;ul&gt;</code></td>
-		 </tr>
-		 <!-- This is not unique to mobile cards or responsiveness <tr>
-				 <td>Small text</td>
-				 <td>Make text smaller in mobile cards</td>
-				 <td>Add the class <code>small</code> the <code>&lt;table&gt;</code>.</td>
-		 </tr> -->
- </tbody>
+<h3>Customizing tables</h3>
+<table class="table">
+ <thead>
+	 <tr>
+			 <th>Option</th>
+			 <th>Description</th>
+			 <th>How to use</th>
+	 </tr>
+</thead>
+<tbody>
+
+	 <tr>
+			 <td>Table borders</td>
+			 <td>Adds a border to help visually separate the table cells when they have a lot of content</td>
+			<td>Add the class <code>table-bordered</code> to the <code>&lt;table&gt;</code> </td>
+	 </tr>
+	<tr>
+		<td>Condensed spacing</td>
+		<td>Narrows the height of the cells within the table</td>
+		<td>Add the class <code>table-condensed</code> to the <code>&lt;table&gt;</code> </td>
+	</tr>
+	 <tr>
+			 <td>Striped rows</td>
+			 <td>Alternates the colour of the table rows from white to grey</td>
+			 <td>Add the class <code>table-striped</code> to the <code>&lt;table&gt;</code> </td>
+	 </tr>
+	 <tr>
+			 <td>Hover rows</td>
+			 <td>Causes the background to darken when a mouse hovers over a row</td>
+			<td>Add the class <code>table-hover</code> to the <code>&lt;table&gt;</code> </td>
+	 </tr>
+
+	 <tr>
+			 <td>Left aligned</td>
+			 <td>Align the text in any cell on mobile cards</td>
+			 <td>Add the class <code>text-left</code> to the <code>&lt;td&gt;</code> you wish to align left</td>
+	 </tr>
+
+		<tr>
+			<td>Enable DataTables plugin</td>
+			<td>Provides searching, sorting, filtering, pagination, etc. <a href="https://wet-boew.github.io/v4.0-ci/demos/tables/tables-en.html">DataTables plugin documentation</a></td>
+			<td>Add the class <code>wb-tables</code> to the <code>&lt;table&gt;</code> and add the appropriate
+				<code>data-wb-tables=""</code> values</td>
+		</tr>
+
+</tbody>
 </table>
 
 <!--
@@ -685,7 +648,40 @@
 &lt;/table&gt;</code></pre>
 </details>
 -->
-</section>
+
+</details>
+
+<details>
+	<summary>Stable data tables</summary>
+<p>The beta version will eventually replace the stable version.</p>
+<ul>
+	<li>Use defined presentation classes for tables included in <abbr title="Web Experience Toolkit">WET</abbr></li>
+	<li>Ensure each column treats only one data facet</li>
+	<li>Where possible, use <abbr title="Web Experience Toolkit">WET</abbr> 4 tables to enable sorting and filtering controls
+		<ul>
+			<li>this is recommended when there are more than 12 rows</li>
+		</ul>
+	</li>
+	<li>Add optional pagination controls for any table with more than 12 rows</li>
+	<li>Never include tabular data as an image</li>
+</ul>
+
+<h2>Working example</h2>
+<ul>
+	<li><a href="http://wet-boew.github.io/themes-dist/GCWeb/docs/ref/tables/tables-en.html">WET: Tables</a></li>
+</ul>
+<section class="panel panel-primary">
+<header class="panel-heading">
+	<h3 class="panel-title">Example</h3>
+</header>
+<div class="panel-body">
+	<figure class="mrgn-bttm-sm">
+		<figcaption class="text-center"><b>Data tables pattern</b></figcaption>
+		<img src="https://www.canada.ca/content/dam/tbs-sct/images/government-communications/canada-content-style-guide/data-tables-pattern-eng.jpg" class="img-responsive center-block" alt="Screenshot illustrating the data table pattern on Canada.ca. Details on this graphic can be found in the surrounding text."></figure>
+</div></section>
+
+
+</details>
 
 
 <section>
@@ -696,7 +692,7 @@
 <section>
 <h2 id="latest">Latest changes</h2>
 	<dl class="dl-horizontal">
-		<dt><time datetime="2021-04-20" class="link-muted">2021-04-20</time></dt>
+		<dt><time datetime="2021-04-27" class="link-muted">2021-04-27</time></dt>
 		<dd>Updated to include the provisional code for responsive cards</dd>
 	</dl>
 </section>
@@ -704,6 +700,7 @@
 	<h2 id="discuss">Discussion</h2>
 	<p><a href="https://github.com/canada-ca/design-system-systeme-conception/issues">Discuss the pattern in github
 			issues</a></p>
+</section>
 </section>
 <div class="row pagedetails">
 	<div class="col-sm-6 col-lg-4 mrgn-tp-sm">
