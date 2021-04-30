@@ -338,18 +338,20 @@
 	<div class="pattern-demo pattern-demo-component">
 		<div id="basic-demo" class="component-demo example-frame-bkg">
 			<div id="unfiltered-layout" class="layout-demo example-frame-bkg">
+				<h3 class="h4 hidden-xs hidden-sm">Screen size:</h3>
+				<div class="btn-group hidden-xs hidden-sm">
+					<button id="resize-iframe-mobile" class="btn btn-default"><span class="fas fa-mobile-alt"></span>
+						<strong>Small</strong></button>
+					<button id="resize-iframe-tablet" class="btn btn-default"><span class="fas fa-tablet-alt"></span>
+						<strong>Medium</strong></button>
+					<button id="resize-iframe-desktop" class="btn btn-default"><span class="fas fa-desktop"></span>
+						<strong>Large</strong></button>
+				</div>
 				<iframe title="Basic table example" class="example-frame example-frame-resizable example-frame-m"
 					src="../components/demos/tables/wet4/basic.html" frameborder="0" loading="lazy"
 					onload="resizeIframe(this);"></iframe>
 			</div>
-			<div class="btn-group hidden-xs hidden-sm">
-				<button id="resize-iframe-mobile" class="btn btn-default"><span class="fas fa-mobile-alt"></span>
-					<strong>Small</strong></button>
-				<button id="resize-iframe-tablet" class="btn btn-default"><span class="fas fa-tablet-alt"></span>
-					<strong>Medium</strong></button>
-				<button id="resize-iframe-desktop" class="btn btn-default"><span class="fas fa-desktop"></span>
-					<strong>Large</strong></button>
-			</div>
+
 		</div>
 	</div>
 
