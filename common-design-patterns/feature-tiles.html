@@ -319,10 +319,34 @@
 			<script src="./wet-boew/js/ie8-wet-boew2.min.js"></script>
 
 			<![endif]-->
-	<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>
-	<script>
-	document.getElementById('submissionPage').value = location.href;
-</script>
+	<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>      <script>
+         document.getElementById('submissionPage').value = location.href;
+      </script>
+	  <!-- START SCRIPT PAGE FEEDBACK WIDGET -->
 
-</body>
+			<script>
+				$(document).on("wb-ready.wb", function () {
+					$("#btnno").click(function (e) {
+						$(".gc-pg-hlpfl-no").removeClass("nojs-show");
+						$(".gc-pg-hlpfl-btn").addClass("hide");
+						$("#helpful").val("No");
+					});
+					$("#gc-pg-hlpfl-frm").submit(function (e) {
+						e.preventDefault();
+						$(".gc-pg-hlpfl-thnk").removeClass("hide");
+						$("#gc-pg-hlpfl-frm").addClass("hide nojs-show");
+						$.ajax({
+							url: 'https://pagesuccessemailqueue.azurewebsites.net/api/QueueProblemForm',
+							type: 'POST',
+							dataType: 'text',
+							data: $('form#gc-pg-hlpfl-frm').serialize(),
+							success: function (data) { },
+							error: function (xhr, status, err) {
+								console.log(xhr.responseText);
+							}
+						});
+					});
+				});
+			</script>
+			<!-- END SCRIPT PAGE FEEDBACK WIDGET --></body>
 	</html>
