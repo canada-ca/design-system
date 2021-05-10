@@ -6,22 +6,22 @@
          wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
       <title>Choosing what to improve - Continuous improvement of the Government of Canada web content - Canada.ca</title>
       <meta content="width=device-width,initial-scale=1" name="viewport">
-	<link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon">
-	<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
-	<link rel="stylesheet" href="../css/custom.css">
-	<link rel="stylesheet" href="../css/provisional-alerts.css">
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
-		integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous" />
+		<link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon">
+		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
+		<link rel="stylesheet" href="../css/custom.css">
+		<link rel="stylesheet" href="../css/provisional-alerts.css">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+			integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous" />
 
-      <link rel="stylesheet" href="../css/split-h1.css">
-      <noscript>
-         <link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/wet-boew/css/noscript.min.css" />
-      </noscript>
-      <style>
-         .pattern-demo {
-         padding: 19px;
-         }
-      </style>
+		<link rel="stylesheet" href="../css/split-h1.css">
+		<noscript>
+			<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/wet-boew/css/noscript.min.css" />
+		</noscript>
+		<style>
+			.pattern-demo {
+			padding: 19px;
+			}
+		</style>
 
       <!-- Global site tag (gtag.js) - Google Analytics -->
       <script async src="https://www.googletagmanager.com/gtag/js?id=UA-105628416-2"></script>
@@ -285,7 +285,7 @@
 			</div>
 		</div>
 		<!-- END PAGE FEEDBACK WIDGET -->
-		<div class="pagedetails ">
+		<div class="pagedetails">
 
 			<dl id="wb-dtmd">
 				<dt>Date modified:</dt>
@@ -340,5 +340,32 @@
       <script>
          document.getElementById('submissionPage').value = location.href;
       </script>
+	  <!-- START SCRIPT PAGE FEEDBACK WIDGET -->
+
+			<script>
+				$(document).on("wb-ready.wb", function () {
+					$("#btnno").click(function (e) {
+						$(".gc-pg-hlpfl-no").removeClass("nojs-show");
+						$(".gc-pg-hlpfl-btn").addClass("hide");
+						$("#helpful").val("No");
+					});
+					$("#gc-pg-hlpfl-frm").submit(function (e) {
+						e.preventDefault();
+						$(".gc-pg-hlpfl-thnk").removeClass("hide");
+						$("#gc-pg-hlpfl-frm").addClass("hide nojs-show");
+						$.ajax({
+							url: 'https://pagesuccessemailqueue.azurewebsites.net/api/QueueProblemForm',
+							type: 'POST',
+							dataType: 'text',
+							data: $('form#gc-pg-hlpfl-frm').serialize(),
+							success: function (data) { },
+							error: function (xhr, status, err) {
+								console.log(xhr.responseText);
+							}
+						});
+					});
+				});
+			</script>
+			<!-- END SCRIPT PAGE FEEDBACK WIDGET -->
    </body>
 </html>
