@@ -26,8 +26,8 @@
 
 		<![endif]-->
 <noscript><link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/wet-boew/css/noscript.min.css" /></noscript>
- 
-	
+
+
  <!-- Global site tag (gtag.js) - Google Analytics -->
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-105628416-2"></script>
@@ -38,7 +38,7 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
- 
+
   gtag('config', 'UA-105628416-2');
 
 </script>
@@ -138,7 +138,7 @@
 <div class="container">
 <ol class="breadcrumb">
 	<li><a href='https://www.canada.ca/en.html'>Canada.ca</a></li>
-	<li><a href='https://www.canada.ca/en/government/about.html'>About Canada.ca</a></li>	
+	<li><a href='https://www.canada.ca/en/government/about.html'>About Canada.ca</a></li>
 <li><a href='https://www.canada.ca/en/government/about/design-system.html'>Canada.ca design system</a></li>
 	<li><a href='https://www.canada.ca/en/government/about/design-system/pattern-library.html'>Template and pattern library for Canada.ca</a></li>
 </ol>
@@ -467,11 +467,37 @@ Audience pages - Canada.ca mandatory template</h1>
 			<script src="./wet-boew/js/ie8-wet-boew2.min.js"></script>
 
 			<![endif]-->
-	<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>
-	<script>
+	<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>	<script>
 	document.getElementById('submissionPage').value = location.href;
 </script>
+<!-- START SCRIPT PAGE FEEDBACK WIDGET -->
 
+			<script>
+				$(document).on("wb-ready.wb", function () {
+					$("#btnno").click(function (e) {
+						$(".gc-pg-hlpfl-no").removeClass("nojs-show");
+						$(".gc-pg-hlpfl-btn").addClass("hide");
+						$("#helpful").val("No");
+					});
+					$("#gc-pg-hlpfl-frm").submit(function (e) {
+						e.preventDefault();
+						$(".gc-pg-hlpfl-thnk").removeClass("hide");
+						$("#gc-pg-hlpfl-frm").addClass("hide nojs-show");
+						$.ajax({
+							url: 'https://pagesuccessemailqueue.azurewebsites.net/api/QueueProblemForm',
+							type: 'POST',
+							dataType: 'text',
+							data: $('form#gc-pg-hlpfl-frm').serialize(),
+							success: function (data) { },
+							error: function (xhr, status, err) {
+								console.log(xhr.responseText);
+							}
+						});
+					});
+				});
+			</script>
+			<!-- END SCRIPT PAGE FEEDBACK WIDGET -->
 </body>
+
 
 	</html>
