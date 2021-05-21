@@ -313,12 +313,6 @@
     "TYPE": "Promotion",
     "MANDATORY": "No"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/feature-banner.html\">Promotional feature banner</a>",
-    "USE": "Use to promote government-wide and institution-specific activities, initiatives, programs, and services",
-    "CAT": "Design pattern",
-    "TYPE": "Promotion, Visual",
-    "MANDATORY": "No"
-  }, {
     "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/related-links.html\">Related links</a>",
     "USE": "The related links pattern is a list of links to content that is related to the page on which it appears",
     "CAT": "Design pattern",
