@@ -1,14 +1,69 @@
-<nav class="provisional gc-subway">
-	<h1>[Service name]</h1>
-	<ul class="gc-subway-steps">
-		<li><a href="#">[Step / section page name 1]<span class="wb-inv">: Service name</span></a></li>
-		<li><a href="#">[Step / section page name 2]<span class="wb-inv">: Service name</span></a></li>
-		<li><a aria-current="page" class="active">[Step / section page name 3]<span class="wb-inv">: Service name</span></a></li>
-		<li><a href="#">[Step / section page name 4]<span class="wb-inv">: Service name</span></a></li>
-		<li><a href="#">[Step / section page name 5]<span class="wb-inv">: Service name</span></a></li>
-		<li><a href="#">[Step / section page name 6]<span class="wb-inv">: Service name</span></a></li>
-	</ul>
-</nav>
-<h1 property="name" id="wb-cont-demo" class="provisional gc-thickline">[Service/step name 3]</h1>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam commodo elementum est, ac ultrices urna convallis vitae. Nulla nec convallis felis. Ut pretium nisl nisi. Nam gravida gravida aliquet. Morbi tincidunt lorem in purus imperdiet, id rutrum mauris sodales. Vivamus nec mattis tellus. Nunc turpis dolor, malesuada non magna nec, scelerisque tristique velit.</p>
-<p>Sed consectetur eu ligula a molestie. Vivamus convallis libero malesuada pharetra suscipit. In a pulvinar mi, quis aliquet mauris. Duis convallis nunc nunc, in euismod nisi volutpat sit amet. Integer convallis lacus non orci imperdiet, ac convallis massa mollis.</p>
+<html class="no-js" lang="fr" dir="ltr">
+	<head>
+		<meta content="text/html;charset=UTF-8">
+		<title>Subway navigation example</title>
+		<link rel="stylesheet" href="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/css/theme.min.css">
+	</head>
+	<body style="font-size: 20px;">
+		<main class="container" property="mainContentOfPage" resource="#wb-main" typeof="WebPageElement">
+			<nav>
+				<ul id="wb-tphp">
+					<li class="wb-slc">
+						<a class="wb-sl" href="#wb-cont">Skip to main content</a>
+					</li>
+					<li class="wb-slc">
+						<a class="wb-sl" href="#gc-document-nav">Skip to: [Service name]</a>
+					</li>
+					<li class="wb-slc visible-sm visible-md visible-lg">
+						<a class="wb-sl" href="#wb-info">Skip to About this site</a>
+					</li>
+					<li class="wb-slc">
+						<a class="wb-sl" href="?wbdisable=true" rel="alternate">Switch to basic HTML version</a>
+					</li>
+				</ul>
+			</nav>
+			<nav class="provisional gc-subway">
+				<h1 id="gc-document-nav">[Service name]</h1>
+				<ul>
+					<li>
+						<a href="#" class="active" aria-current="page">[Page 1]</a>
+					</li>
+					<li>
+						<a href="#" class="hidden-xs hidden-sm">[Page 2]</a>
+						<a href="#gc-document-nav" class="visible-xs visible-sm">[Page 2]</a>
+					</li>
+					<li>
+						<a href="#" class="hidden-xs hidden-sm">[Page 3]</a>
+						<a href="#gc-document-nav" class="visible-xs visible-sm">[Page 3]</a>
+					</li>
+					<li>
+						<a href="#" class="hidden-xs hidden-sm">[Page 4]</a>
+						<a href="#gc-document-nav" class="visible-xs visible-sm">[Page 4]</a>
+					</li>
+					<li>
+						<a href="#" class="hidden-xs hidden-sm">[Page 5]</a>
+						<a href="#gc-document-nav" class="visible-xs visible-sm">[Page 5]</a>
+					</li>
+					<li>
+						<a href="#" class="hidden-xs hidden-sm">[Page 6]</a>
+						<a href="#gc-document-nav" class="visible-xs visible-sm">[Page 6]</a>
+					</li>
+				</ul>
+			</nav>
+
+			<h1 property="name" id="wb-cont" class="gc-thickline">[Page 1]</h1>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam commodo elementum est, ac ultrices urna convallis vitae. Nulla nec convallis felis. Ut pretium nisl nisi. Nam gravida gravida aliquet. Morbi tincidunt lorem in purus imperdiet, id rutrum mauris sodales. Vivamus nec mattis tellus. Nunc turpis dolor, malesuada non magna nec, scelerisque tristique velit.</p>
+			<p>Sed consectetur eu ligula a molestie. Vivamus convallis libero malesuada pharetra suscipit. In a pulvinar mi, quis aliquet mauris. Duis convallis nunc nunc, in euismod nisi volutpat sit amet. Integer convallis lacus non orci imperdiet, ac convallis massa mollis. Aliquam erat volutpat. Ut maximus euismod auctor. Ut ac gravida nunc. Nam non efficitur neque. Pellentesque tincidunt, libero luctus condimentum laoreet, turpis magna maximus nibh, at cursus lectus tellus in augue. Aenean scelerisque eros dui, at tincidunt eros tristique nec.</p>
+			<nav class="mrgn-bttm-lg mrgn-tp-lg">
+				<h3 class="wb-inv">Document navigation</h3>
+				<ul class="pager">
+					<li class="next"><a href="#wb-cont" rel="next"><span class="wb-inv">Next: </span>[Page 2]</a></li>
+				</ul>
+			</nav>
+		</main>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha384-rY/jv8mMhqDabXSo+UCggqKtdmBfd3qC2/KvyTDNQ6PcUJXaxK1tMepoQda4g5vB" crossorigin="anonymous"></script>
+		<script src="https://wet-boew.github.io/themes-dist/GCWeb/wet-boew/js/wet-boew.min.js"></script>
+		<script src="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/js/theme.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.3.2/iframeResizer.contentWindow.min.js"></script>
+	</body>
+</html>
