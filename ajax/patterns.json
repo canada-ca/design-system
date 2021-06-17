@@ -326,10 +326,10 @@
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/report-problem.html\">Report a problem</a>",
-    "USE": "Allows people to provide feedback via a form for any problems that may have happened - <strong>Mandatory pattern</strong>",
+    "USE": "Allows people to provide feedback via a form for any problems that may have happened",
     "CAT": "Design pattern",
     "TYPE": "Site-wide pattern, Interaction",
-    "MANDATORY": "Mandatory"
+    "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/services-information.html\">Services and information</a>",
     "USE": "Use to present sets of links with accompanying descriptions",
