@@ -7,9 +7,9 @@
 		<meta content="width=device-width,initial-scale=1" name="viewport">
 		<link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon">
 		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
+		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/wet-boew.min.css" />
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous" />
 		<link rel="stylesheet" href="../css/custom.css">
-		<link rel="stylesheet" href="../css/provisional-alerts.css">
-		<link rel="stylesheet" href="../css/split-h1.css">
 		<noscript>
 			<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/wet-boew/css/noscript.min.css" />
 		</noscript>
@@ -40,6 +40,12 @@
 			gtag('js', new Date());
 			gtag('config', 'UA-105628416-2');
 		</script>
+		<style>
+			iframe {
+				width: 1px;
+				min-width: 100%;
+			}
+		</style>
 	</head>
 	<body class="cnt-wdth-lmtd" vocab="http://schema.org/" typeof="WebPage">
 		<ul id="wb-tphp">
@@ -133,11 +139,6 @@
 				</div>
 			</div>
 			<p>Break up long and complex content into sections that each focus on a step or specific answer people need before moving to the next step or section. Ideal for presenting services and processes.</p>
-			<!--
-			<div class="pattern-demo mrgn-bttm-md">
-				<img src="../images/subway-navigation.png" alt="Subway navigation pattern example" class="img-responsive">
-			</div>
-			-->
 			<section>
 				<h2 class="h3">On this page</h2>
 				<ul>
@@ -169,28 +170,54 @@
 				</ol>
 				<h3 id="1">1. Index page</h3>
 				<p><strong>When to use:</strong> use as the landing page for a set of related pages that use the subway navigation. Index page is optional.</p>
-				<div class="pattern-demo">
-					<figure id="iframe">
-					</figure>
-				</div>
+				<iframe title="Subway index navigation example" class="pattern-demo" src="fragments/gc-subway-index.html" frameBorder="0" loading="lazy"></iframe>
 				<details class="mrgn-tp-lg">
 					<summary>Code</summary>
 					<details>
 						<summary>HTML</summary>
-						<pre><code>&lt;nav class="provisional gc-subway"&gt;
-	&lt;h1&gt;[Service name]&lt;/h1&gt;
-	&lt;ul class="gc-subway-steps"&gt;
-		&lt;li&gt;&lt;a href="#"&gt;[Step / section page name 1]&lt;span class="wb-inv"&gt;: Service name&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-		&lt;li&gt;&lt;a href="#"&gt;[Step / section page name 2]&lt;span class="wb-inv"&gt;: Service name&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-		&lt;li class="active"&gt;&lt;a aria-current="page"&gt;[Step / section page name 3]&lt;span class="wb-inv"&gt;: Service name&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-		&lt;li&gt;&lt;a href="#"&gt;[Step / section page name 4]&lt;span class="wb-inv"&gt;: Service name&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-		&lt;li&gt;&lt;a href="#"&gt;[Step / section page name 5]&lt;span class="wb-inv"&gt;: Service name&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-		&lt;li&gt;&lt;a href="#"&gt;[Step / section page name 6]&lt;span class="wb-inv"&gt;: Service name&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-	&lt;/ul&gt;
-&lt;/nav&gt;
-&lt;h1 property="name" id="wb-cont-demo" class="provisional gc-thickline"&gt;[Service/step name 3]&lt;/h1&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam commodo elementum est, ac ultrices urna convallis vitae. Nulla nec convallis felis. Ut pretium nisl nisi. Nam gravida gravida aliquet. Morbi tincidunt lorem in purus imperdiet, id rutrum mauris sodales. Vivamus nec mattis tellus. Nunc turpis dolor, malesuada non magna nec, scelerisque tristique velit.&lt;/p&gt;
-&lt;p&gt;Sed consectetur eu ligula a molestie. Vivamus convallis libero malesuada pharetra suscipit. In a pulvinar mi, quis aliquet mauris. Duis convallis nunc nunc, in euismod nisi volutpat sit amet. Integer convallis lacus non orci imperdiet, ac convallis massa mollis.&lt;/p&gt;</code></pre>
+						<pre><code>&lt;h1 property="name" id="wb-cont" class="gc-thickline"&gt;[Name of service]&lt;/h1&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut [...].&lt;/p&gt;
+&lt;nav class="provisional gc-subway"&gt;
+	&lt;h2&gt;Sections&lt;/h2&gt;
+	&lt;dl&gt;
+		&lt;dt&gt;
+			&lt;a href="gc-subway-en.html"&gt;[Step / section page name 1]&lt;/a&gt;
+		&lt;/dt&gt;
+		&lt;dd&gt;
+			Page description. Lorem ipsum dolor sit amet, consectetur adipiscing elit
+		&lt;/dd&gt;
+		&lt;dt&gt;
+			&lt;a href="page2-en.html"&gt;[Step / section page name 2]&lt;/a&gt;
+		&lt;/dt&gt;
+		&lt;dd&gt;
+			Page description. Lorem ipsum dolor sit amet, consectetur adipiscing elit
+		&lt;/dd&gt;
+		&lt;dt&gt;
+			&lt;a href="#"&gt;[Step / section page name 3]&lt;/a&gt;
+		&lt;/dt&gt;
+		&lt;dd&gt;
+			Page description. Lorem ipsum dolor sit amet, consectetur adipiscing elit
+		&lt;/dd&gt;
+		&lt;dt&gt;
+			&lt;a href="#"&gt;[Step / section page name 4]&lt;/a&gt;
+		&lt;/dt&gt;
+		&lt;dd&gt;
+			Page description. Lorem ipsum dolor sit amet, consectetur adipiscing elit
+		&lt;/dd&gt;
+		&lt;dt&gt;
+			&lt;a href="#"&gt;[Step / section page name 5]&lt;/a&gt;
+		&lt;/dt&gt;
+		&lt;dd&gt;
+			Page description. Lorem ipsum dolor sit amet, consectetur adipiscing elit
+		&lt;/dd&gt;
+		&lt;dt&gt;
+			&lt;a href="#"&gt;[Step / section page name 6]&lt;/a&gt;
+		&lt;/dt&gt;
+		&lt;dd&gt;
+			Page description. Lorem ipsum dolor sit amet, consectetur adipiscing elit
+		&lt;/dd&gt;
+	&lt;/dl&gt;
+&lt;/nav&gt;</code></pre>
 					</details>
 					<details>
 						<summary>CSS</summary>
@@ -310,29 +337,50 @@
 				</details>
 				<h3 id="2">2. Step page</h3>
 				<p><strong>When to use:</strong> Use on each page tied by the subway navigation.</p>
-				<figure class="pattern-demo">
-					<div data-ajax-replace="fragments/gc-subway-page.html" ></div>
-					<div class="clearfix"></div>
-				</figure>
+				<iframe title="Subway navigation example" class="pattern-demo" frameBorder="0" loading="lazy" src="fragments/gc-subway-page.html"></iframe>
 				<div class="mrgn-tp-lg">
 					<details class="wb-prettify all-pre">
 						<summary>Code</summary>
 							<details>
 								<summary>HTML</summary>
 								<pre><code>&lt;nav class="provisional gc-subway"&gt;
-		&lt;h1&gt;[Service name]&lt;/h1&gt;
-		&lt;ul class="gc-subway-steps"&gt;
-		&lt;li&gt;&lt;a href="#"&gt;[Step / section page name 1]&lt;span class="wb-inv"&gt;: [Service name]&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-		&lt;li&gt;&lt;a href="#"&gt;[Step / section page name 2]&lt;span class="wb-inv"&gt;: [Service name]&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-			&lt;li&gt;&lt;a href="#"&gt;[Step / section page name 1]&lt;span class="wb-inv"&gt;: [Service name]&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-			&lt;li class="active"&gt;&lt;a aria-current="page"&gt;[Step / section page name 3]&lt;span class="wb-inv"&gt;: [Service name]&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-			&lt;li&gt;&lt;a href="#"&gt;[Step / section page name 4]&lt;span class="wb-inv"&gt;: [Service name]&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-			&lt;li&gt;&lt;a href="#"&gt;[Step / section page name 5]&lt;span class="wb-inv"&gt;: [Service name]&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-		&lt;/ul&gt;
-	&lt;/nav&gt;
-	&lt;h1 property="name" id="wb-cont" class="provisional gc-thickline"&gt;[Step / section page name 3]&lt;/h1&gt;
-	&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam commodo elementum est, ac ultrices urna convallis vitae. Nulla nec convallis felis. Ut pretium nisl nisi. Nam gravida gravida aliquet. Morbi tincidunt lorem in purus imperdiet, id rutrum mauris sodales. Vivamus nec mattis tellus. Nunc turpis dolor, malesuada non magna nec, scelerisque tristique velit.&lt;/p&gt;
-	&lt;p&gt;Sed consectetur eu ligula a molestie. Vivamus convallis libero malesuada pharetra suscipit. In a pulvinar mi, quis aliquet mauris. Duis convallis nunc nunc, in euismod nisi volutpat sit amet. Integer convallis lacus non orci imperdiet, ac convallis massa mollis.&lt;/p&gt;</code></pre>
+	&lt;h1 id="gc-document-nav"&gt;[Service name]&lt;/h1&gt;
+	&lt;ul&gt;
+		&lt;li&gt;
+			&lt;a href="#" class="active" aria-current="page"&gt;[Page 1]&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a href="#" class="hidden-xs hidden-sm"&gt;[Page 2]&lt;/a&gt;
+			&lt;a href="#gc-document-nav" class="visible-xs visible-sm"&gt;[Page 2]&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a href="#" class="hidden-xs hidden-sm"&gt;[Page 3]&lt;/a&gt;
+			&lt;a href="#gc-document-nav" class="visible-xs visible-sm"&gt;[Page 3]&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a href="#" class="hidden-xs hidden-sm"&gt;[Page 4]&lt;/a&gt;
+			&lt;a href="#gc-document-nav" class="visible-xs visible-sm"&gt;[Page 4]&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a href="#" class="hidden-xs hidden-sm"&gt;[Page 5]&lt;/a&gt;
+			&lt;a href="#gc-document-nav" class="visible-xs visible-sm"&gt;[Page 5]&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a href="#" class="hidden-xs hidden-sm"&gt;[Page 6]&lt;/a&gt;
+			&lt;a href="#gc-document-nav" class="visible-xs visible-sm"&gt;[Page 6]&lt;/a&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/nav&gt;
+
+&lt;h1 property="name" id="wb-cont" class="gc-thickline"&gt;[Page 1]&lt;/h1&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam commodo elementum est, ac ultrices urna convallis vitae. Nulla nec convallis felis. Ut pretium nisl nisi. Nam gravida gravida aliquet. Morbi tincidunt lorem in purus imperdiet, id rutrum mauris sodales. Vivamus nec mattis tellus. Nunc turpis dolor, malesuada non magna nec, scelerisque tristique velit.&lt;/p&gt;
+&lt;p&gt;Sed consectetur eu ligula a molestie. Vivamus convallis libero malesuada pharetra suscipit. In a pulvinar mi, quis aliquet mauris. Duis convallis nunc nunc, in euismod nisi volutpat sit amet. Integer convallis lacus non orci imperdiet, ac convallis massa mollis. Aliquam erat volutpat. Ut maximus euismod auctor. Ut ac gravida nunc. Nam non efficitur neque. Pellentesque tincidunt, libero luctus condimentum laoreet, turpis magna maximus nibh, at cursus lectus tellus in augue. Aenean scelerisque eros dui, at tincidunt eros tristique nec.&lt;/p&gt;
+&lt;nav class="mrgn-bttm-lg mrgn-tp-lg"&gt;
+	&lt;h3 class="wb-inv"&gt;Document navigation&lt;/h3&gt;
+	&lt;ul class="pager"&gt;
+		&lt;li class="next"&gt;&lt;a href="#wb-cont" rel="next"&gt;&lt;span class="wb-inv"&gt;Next: &lt;/span&gt;[Page 2]&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/nav&gt;</code></pre>
 							</details>
 							<details>
 								<summary>CSS</summary>
@@ -469,6 +517,7 @@ var $document = wb.doc,
 	mainClass = "gc-subway-section",
 	toggleClass = "wb-inv",
 	desktopInited = false,
+	skipLink = false,
 	$html = wb.html,
 	$h1, $h2, $h1Copy, $menu, $main,
 
@@ -482,10 +531,23 @@ var $document = wb.doc,
 		// returns DOM object = proceed with init
 		// returns undefined = do not proceed with init (e.g., already initialized)
 		var elm = wb.init( event, componentName, selector ),
+			h1,
 			$elm;
 
 		if ( elm ) {
 			$elm = $( elm );
+			$h1 = $( "h1", $elm );
+			h1 = $h1.get( 0 );
+
+			// Ensure the element have an ID
+			if ( !h1.id ) {
+				h1.id = wb.getId();
+			}
+
+			// Add subway H1 to skip links
+			if ( !skipLink ) {
+				skipLink = wb.addSkipLink( wb.i18n( "skip-prefix" ) + " " + h1.textContent, { href: "#" + h1.id } );
+			}
 
 			// trigger resizing
 			onResize( $elm );
@@ -507,7 +569,7 @@ var $document = wb.doc,
 		}
 
 		// Ensure the page contains at least two heading level 1
-		if ( $( "main h1" ).length < 2 ) {
+		if ( $( "main h1" ).length &lt; 2 ) {
 			$document.off( wb.resizeEvents, onResize );
 			$elm.addClass( "no-blink p-0" );
 			return;
@@ -539,12 +601,11 @@ var $document = wb.doc,
 	 * @param {jQuery DOM element} $elm Element targetted by this plugin, which is the nav
 	 */
 	initDesktop = function( $elm ) {
-		$h1 = $( "h1", $elm );
-		$h2 = $( "<h2 class='h3 hidden-xs visible-md visible-lg mrgn-tp-0'>Sections</h2>" );
-		$h1Copy = $( "<p class='gc-subway-h1' aria-hidden='true'>" + $h1.text() + "</p>" );
-		$( "ul", $elm ).first().wrap( "<div class='gc-subway-menu-nav'></div>" );
+		$h2 = $( "&lt;h2 class='h3 hidden-xs visible-md visible-lg mrgn-tp-0'&gt;Sections&lt;/h2&gt;" );
+		$h1Copy = $( "&lt;div class='gc-subway-h1' aria-hidden='true'&gt;" + $h1.text() + "&lt;/div&gt;" );
+		$( "ul", $elm ).first().wrap( "&lt;div class='gc-subway-menu-nav'&gt;&lt;/div&gt;" );
 		$menu = $( ".gc-subway-menu-nav", $elm );
-		$elm.nextUntil( ".pagedetails, .gc-subway-section-end" ).wrapAll( "<section class='provisional " + mainClass + "'>" );
+		$elm.nextUntil( ".pagedetails, .gc-subway-section-end" ).wrapAll( "&lt;section class='provisional " + mainClass + "'&gt;" );
 		$main = $elm.next();
 
 		// Prevent on-load blinking on desktop
@@ -581,30 +642,102 @@ wb.add( selector );
 				<h2 id="discuss">Discussion</h2>
 				<p><a href="https://github.com/canada-ca/design-system-systeme-conception/issues">Discuss the pattern in github issues</a></p>
 			</section>
-			<div class="row pagedetails">
-				<div class="col-sm-6 col-lg-4 mrgn-tp-sm">
-					<div class="panel-pane pane-block pane-bean-report-problem-button">
-						<div class="pane-content">
-							<section>
-								<div class="field field-name-field-bean-wetkit-body field-type-text-long field-label-hidden">
-									<div class="field-items">
-										<div class="field-item even"><a class="btn btn-default btn-block" href="https://www.canada.ca/en/report-problem.html">Report a problem on this page</a></div>
+			<!-- START PAGE FEEDBACK WIDGET -->
+			<div class="row row-no-gutters mrgn-tp-xl">
+				<div class="col-sm-7 col-lg-6">
+					<section class="gc-pg-hlpfl provisional">
+						<div class="well mrgn-bttm-0">
+							<form id="gc-pg-hlpfl-frm" action="#" method="post" autocomplete="off">
+								<input type="hidden" name="institutionopt" value="tbs">
+								<input type="hidden" name="themeopt" value="Policies">
+								<input type="hidden" name="language" value="EN">
+								<input type="hidden" name="pageTitle" value="Designing content for Canada.ca">
+								<input type="hidden" name="submissionPage" value="https://design.canada.ca/common-design-patterns/subway-navigation.html">
+								<input type="hidden" name="sectionopt" value="Design system">
+								<input type="hidden" id="helpful" name="helpful" value="Yes">
+								<div class="gc-pg-hlpfl-btn">
+									<div class="row row-no-gutters">
+										<div class="col-xs-12 col-sm-7 mrgn-tp-sm">
+											<h2 class="mrgn-tp-sm h5">Did you find what you were looking for?</h2>
+										</div>
+										<div class="col-xs-8 col-sm-5 text-right">
+											<button id="btnyes" type="submit" value="Yes" class="btn btn-primary">Yes</button>
+											<button id="btnno" type="button"
+												class="btn btn-primary mrgn-lft-sm nojs-hide">No</button>
+										</div>
 									</div>
 								</div>
-							</section>
+								<p class="h3 hidden nojs-show">If not, tell us why:</p>
+								<div class="gc-pg-hlpfl-no nojs-show">
+									<fieldset>
+										<legend class="h4 mrgn-tp-0 mrgn-bttm-md">What was wrong?</legend>
+										<div class="radio">
+											<label for="problem1">
+												<input name="problem" id="problem1" type="radio"
+													value="I can't find the information"
+													data-gc-analytics-wtph-value="I can't find the information-Je ne peux pas trouver l'information"
+													data-gc-analytics-collect="notPrivate">
+												I can't <strong>find</strong> the information
+											</label>
+										</div>
+										<div class="radio">
+											<label for="problem2">
+												<input name="problem" id="problem2" type="radio"
+													value="The information is hard to understand"
+													data-gc-analytics-wtph-value="The information is hard to understand-L'information est difficile à comprendre"
+													data-gc-analytics-collect="notPrivate">
+												The information is hard to <strong>understand</strong>
+											</label>
+										</div>
+										<div class="radio">
+											<label for="problem3">
+												<input name="problem" id="problem3" type="radio"
+													value="There was an error / something didn't work"
+													data-gc-analytics-wtph-value="There was an error or something didn't work-Il y avait une erreur ou quelque chose ne fonctionnait pas"
+													data-gc-analytics-collect="notPrivate">
+												There was an error or something <strong>didn't work</strong>
+											</label>
+										</div>
+										<div class="radio">
+											<label for="problem4">
+												<input name="problem" id="problem4" type="radio" value="Other reason"
+													data-gc-analytics-wtph-value="Other reason-Autre raison"
+													data-gc-analytics-collect="notPrivate">
+												Other reason
+											</label>
+										</div>
+									</fieldset>
+									<label for="problem6" class="mrgn-bttm-0">Please provide more details</label>
+									<p class="small">
+										<strong>You will not receive a reply. Telephone numbers and email addresses will be
+											removed.</strong>
+										<br>
+										<span class="small">Maximum 300 characters</span>
+									</p>
+									<textarea id="problem6" name="details" class="full-width" maxlength="300"></textarea>
+									<button type="submit" value="No" class="btn btn-primary mrgn-tp-md mrgn-bttm-sm">Submit</button>
+								</div>
+							</form>
+							<div class="gc-pg-hlpfl-thnk hide">
+								<p class="h6 mrgn-tp-sm mrgn-bttm-sm"><span class="far fa-check-circle text-success mrgn-rght-sm"
+										aria-hidden="true"></span> Thank you for your feedback</p>
+							</div>
 						</div>
+					</section>
+				</div>
+				<div class="col-sm-3 col-sm-offset-1 col-lg-offset-3">
+					<div class="wb-share"
+						data-wb-share="{"pnlId":"pnlShrPg", "lnkClass": "btn btn-default btn-block mrgn-tp-md"}">
 					</div>
 				</div>
-				<div class="col-sm-3 mrgn-tp-sm pull-right">
-					<div class="wb-share" data-wb-share='{&#34;lnkClass&#34;: &#34;btn btn-default btn-block&#34;}'></div>
-				</div>
-				<div class="datemod col-xs-12 mrgn-tp-lg">
+			</div>
+			<!-- END PAGE FEEDBACK WIDGET -->
+				<div class="pagedetails">
 					<dl id="wb-dtmd">
 						<dt>Date modified:</dt>
 						<dd><time property="dateModified">2021-01-20</time></dd>
 					</dl>
 				</div>
-			</div>
 		</main>
 		<footer id="wb-info">
 			<div class="landscape">
@@ -649,9 +782,35 @@ wb.add( selector );
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.js"></script>
 		<script src="https://wet-boew.github.io/themes-dist/GCWeb/wet-boew/js/wet-boew.min.js"></script>
 		<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>
-		<script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.3.2/iframeResizer.min.js" integrity="sha512-dnvR4Aebv5bAtJxDunq3eE8puKAJrY9GBJYl9GC6lTOEC76s1dbDfJFcL9GyzpaDW4vlI/UjR8sKbc1j6Ynx6w==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 		<script>
-			var pattern_demo = new pym.Parent("iframe", "fragments/gc-subway-index.html", { trackscroll: true });
+			iFrameResize({ log: true }, 'iframe')
 		</script>
+		<!-- START SCRIPT PAGE FEEDBACK WIDGET -->
+		<script>
+			$(document).on("wb-ready.wb", function () {
+				$("#btnno").click(function (e) {
+					$(".gc-pg-hlpfl-no").removeClass("nojs-show");
+					$(".gc-pg-hlpfl-btn").addClass("hide");
+					$("#helpful").val("No");
+				});
+				$("#gc-pg-hlpfl-frm").submit(function (e) {
+					e.preventDefault();
+					$(".gc-pg-hlpfl-thnk").removeClass("hide");
+					$("#gc-pg-hlpfl-frm").addClass("hide nojs-show");
+					$.ajax({
+						url: 'https://pagesuccessemailqueue.azurewebsites.net/api/QueueProblemForm',
+						type: 'POST',
+						dataType: 'text',
+						data: $('form#gc-pg-hlpfl-frm').serialize(),
+						success: function (data) { },
+						error: function (xhr, status, err) {
+							console.log(xhr.responseText);
+						}
+					});
+				});
+			});
+		</script>
+		<!-- END SCRIPT PAGE FEEDBACK WIDGET -->
 	</body>
 </html>

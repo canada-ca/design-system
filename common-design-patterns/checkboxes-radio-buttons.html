@@ -106,31 +106,29 @@
 	</header>
 	<!--/* Hide Nav; Hide Right Rail /*-->
 	<main property="mainContentOfPage" class="container">
-		<h1 property="name" id="wb-cont" dir="ltr">Checkboxes and radio buttons - Beta - Canada.ca design pattern</h1>
-		<p class="gc-byline"><strong>From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
-		<span class="wb-prettify all-pre"></span>
-		<div class="row profile">
-			<div class="col-md-9">
-				<p>Checkboxes and radio buttons are form controls. They help people select an answer to a question or confirm completion.</p>
-				<p>Large checkboxes and radio buttons are easier to select and use, particularly on mobile devices.</p>
-			</div>
-			<div class="col-md-3">
-				<div class="small">
-					<ul class="list-unstyled">
-						<li><span class="label label-info">Beta</span></li>
-						<li class="mrgn-rght-lg"><strong>Version:</strong> 0.1</li>
-						<li class="mrgn-rght-lg"><strong>Updated:</strong> October 21, 2020</li>
-					</ul>
+
+				<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Checkboxes and radio buttons</span>: <span>Canada.ca design system</span></span></h1>
+
+				 <div class="row">
+					<div class="col-md-12 pull-left">
+						<ul class="list-inline small mrgn-bttm-sm" style="line-height:1.65em" id="list-inline-desktop-only">
+							<li class="mrgn-rght-lg"> <span class="label label-info">Beta</span></li>
+							<li class="mrgn-rght-lg"> Last updated: 2020-10-21</li>
+
+						</ul>
+					</div>
+					</div>
+					<section>
+					<p>Checkboxes and radio buttons are form controls. They help people select an answer to a question or confirm completion.</p>
+					<p>Large checkboxes and radio buttons are easier to select and use, particularly on mobile devices.</p>
 				</div>
-			</div>
-			<div class="col-md-12">
 				<section>
 					<h2>On this page</h2>
 					<ul>
 						<li><a href="#use">When to use</a></li>
 						<li><a href="#avoid">What to avoid</a></li>
 						<li><a href="#implement">How to implement</a></li>
-						<li><a href="#configuration">Configuration options</a></li>
+						<li><a href="#research">Research and blog posts</a></li>
 						<li><a href="#latest">Latest changes</a></li>
 						<li><a href="#discuss">Discussion</a></li>
 					</ul>
@@ -748,7 +746,7 @@
 						</details>
 					</section>
 					<section>
-						<h2 id="configuration">Configuration options</h2>
+						<h3 id="configuration">Configuration options</h2>
 						<table class="table">
 							<thead>
 								<tr>
@@ -781,6 +779,15 @@
 							</tbody>
 						</table>
 					</section>
+
+					<h2 id="research">Research and blog posts</h2>
+
+					<p>We successfully tested the use of interactive checklists during an optimization project with the Canada Revenue Agency and to create checklists for travel restrictions due to COVID-19.</p>
+					<ul>
+					  <li><a href="https://blog.canada.ca/2020/11/12/interactive-checklists.html">Using interactive checklists to simplify eligibility criteria</a> (blog post)</li>
+					  <li><a href="https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html">Research summary: Contact the CRA</a></li>
+					</ul>
+
 					<section>
 						<h2 id="versions">Latest changes</h2>
 						<dl class="dl-horizontal">
@@ -795,28 +802,102 @@
 				</section>
 			</div>
 		</div>
-		<div class="row pagedetails">
-			<div class="col-sm-6 col-lg-4 mrgn-tp-sm">
-				<div class="panel-pane pane-block pane-bean-report-problem-button">
-					<div class="pane-content">
-						<div class="field field-name-field-bean-wetkit-body field-type-text-long field-label-hidden">
-							<div class="field-items">
-								<div class="field-item even"><a class="btn btn-default btn-block" href="https://www.canada.ca/en/report-problem.html">Report a problem on this page</a></div>
+		<!-- START PAGE FEEDBACK WIDGET -->
+		<div class="row row-no-gutters mrgn-tp-xl">
+			<div class="col-sm-7 col-lg-6">
+				<section class="gc-pg-hlpfl provisional">
+					<div class="well mrgn-bttm-0">
+						<form id="gc-pg-hlpfl-frm" action="#" method="post" autocomplete="off">
+							<input type="hidden" name="institutionopt" value="tbs">
+							<input type="hidden" name="themeopt" value="Policies">
+							<input type="hidden" name="language" value="EN">
+							<input type="hidden" name="pageTitle" value="Designing content for Canada.ca">
+							<input type="hidden" name="submissionPage" value="https://design.canada.ca/common-design-patterns/checkboxes-radio-buttons.html">
+							<input type="hidden" name="sectionopt" value="Design system">
+							<input type="hidden" id="helpful" name="helpful" value="Yes">
+							<div class="gc-pg-hlpfl-btn">
+								<div class="row row-no-gutters">
+									<div class="col-xs-12 col-sm-7 mrgn-tp-sm">
+										<h2 class="mrgn-tp-sm h5">Did you find what you were looking for?</h2>
+									</div>
+									<div class="col-xs-8 col-sm-5 text-right">
+										<button id="btnyes" type="submit" value="Yes" class="btn btn-primary">Yes</button>
+										<button id="btnno" type="button"
+											class="btn btn-primary mrgn-lft-sm nojs-hide">No</button>
+									</div>
+								</div>
 							</div>
+							<p class="h3 hidden nojs-show">If not, tell us why:</p>
+							<div class="gc-pg-hlpfl-no nojs-show">
+								<fieldset>
+									<legend class="h4 mrgn-tp-0 mrgn-bttm-md">What was wrong?</legend>
+									<div class="radio">
+										<label for="problem1">
+											<input name="problem" id="problem1" type="radio"
+												value="I can't find the information"
+												data-gc-analytics-wtph-value="I can't find the information-Je ne peux pas trouver l'information"
+												data-gc-analytics-collect="notPrivate">
+											I can't <strong>find</strong> the information
+										</label>
+									</div>
+									<div class="radio">
+										<label for="problem2">
+											<input name="problem" id="problem2" type="radio"
+												value="The information is hard to understand"
+												data-gc-analytics-wtph-value="The information is hard to understand-L'information est difficile à comprendre"
+												data-gc-analytics-collect="notPrivate">
+											The information is hard to <strong>understand</strong>
+										</label>
+									</div>
+									<div class="radio">
+										<label for="problem3">
+											<input name="problem" id="problem3" type="radio"
+												value="There was an error / something didn't work"
+												data-gc-analytics-wtph-value="There was an error or something didn't work-Il y avait une erreur ou quelque chose ne fonctionnait pas"
+												data-gc-analytics-collect="notPrivate">
+											There was an error or something <strong>didn't work</strong>
+										</label>
+									</div>
+									<div class="radio">
+										<label for="problem4">
+											<input name="problem" id="problem4" type="radio" value="Other reason"
+												data-gc-analytics-wtph-value="Other reason-Autre raison"
+												data-gc-analytics-collect="notPrivate">
+											Other reason
+										</label>
+									</div>
+								</fieldset>
+								<label for="problem6" class="mrgn-bttm-0">Please provide more details</label>
+								<p class="small">
+									<strong>You will not receive a reply. Telephone numbers and email addresses will be
+										removed.</strong>
+									<br>
+									<span class="small">Maximum 300 characters</span>
+								</p>
+								<textarea id="problem6" name="details" class="full-width" maxlength="300"></textarea>
+								<button type="submit" value="No" class="btn btn-primary mrgn-tp-md mrgn-bttm-sm">Submit</button>
+							</div>
+						</form>
+						<div class="gc-pg-hlpfl-thnk hide">
+							<p class="h6 mrgn-tp-sm mrgn-bttm-sm"><span class="far fa-check-circle text-success mrgn-rght-sm"
+									aria-hidden="true"></span> Thank you for your feedback</p>
 						</div>
 					</div>
+				</section>
+			</div>
+			<div class="col-sm-3 col-sm-offset-1 col-lg-offset-3">
+				<div class="wb-share"
+					data-wb-share="{&quot;pnlId&quot;:&quot;pnlShrPg&quot;, &quot;lnkClass&quot;: &quot;btn btn-default btn-block mrgn-tp-md&quot;}">
 				</div>
 			</div>
-			<div class="col-sm-3 mrgn-tp-sm pull-right">
-				<div class="wb-share" data-wb-share='{&#34;lnkClass&#34;: &#34;btn btn-default btn-block&#34;}'></div>
-			</div>
-			<div class="datemod col-xs-12 mrgn-tp-lg">
+		</div>
+		<!-- END PAGE FEEDBACK WIDGET -->
+			<div class="pagedetails">
 				<dl id="wb-dtmd">
 					<dt>Date modified:</dt>
-					<dd><time property="dateModified">October 21, 2020</time></dd>
+					<dd><time property="dateModified">2021-04-22</time></dd>
 				</dl>
 			</div>
-		</div>
 	</main>
 	<footer id="wb-info">
 		<div class="landscape">

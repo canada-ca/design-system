@@ -103,8 +103,10 @@
 <h2>You are here:</h2>
 <div class="container">
 <ol class="breadcrumb">
-<li><a href="https://www.canada.ca/en.html">Home</a></li><li><a href="#">[Institution name]</a></li><li><a href="#">[Topic name]</a></li><li><a href="index-en.html">[Service name]</a></li>
-</ol>
+  <li><a href="https://www.canada.ca/en.html">Home</a></li>
+  <li><a href="#">[Theme name]</a></li>
+  <li><a href="#">[Topic name]</a></li>
+  <li><a href="./sip-index-en.html">[Service name]</a></li></ol>
 </div>
 </nav>
 </header>
@@ -128,10 +130,28 @@
 			<li><a href="./sip-how-much.html">How much you can get</a></li>
 			<li><a href="./sip-contact.html">Contact [institution name]</a></li>
 		</ul>
+    <div class="row guidance-details">
+      <div class="col-md-8">
+        <details>
+          <summary><b>Guidance:</b> Steps navigation menu <span class="fas fa-info-circle"></span></summary>
+          <p>Use the <a href="../common-design-patterns/subway-navigation.html">Subway navigation</a> pattern for navigation between steps of the service initiation process. </p>
+          <p>Adjust the steps and labels for your specific service.</p>
+        </details>
+      </div>
+    </div>
 	  </nav>
 	</section>
   <section role="group" aria-labelledby="wb-cont" class="gc-nav-section provisional">
 	<h1 property="name" id="wb-cont" class="provisional gc-thickline">Apply</h1>
+  <div class="row guidance-details">
+    <div class="col-md-8">
+      <details>
+        <summary><b>Guidance:</b> Service and section headings <span class="fas fa-info-circle"></span></summary>
+        <p>Use the <a href="../common-design-patterns/subway-navigation.html">Subway navigation</a> pattern for navigation between steps of the service initiation process. </p>
+
+      </details>
+    </div>
+  </div>
     <h2 class="h3 mrgn-tp-md">On this page</h2>
     <ul>
       <li><a href="#how">How to apply</a></li>
@@ -149,10 +169,11 @@
  <h2 id="how_long">How long will it take to process</h2>
 <p>Our standard is to process applications within 30 days. </p>
 
-<p>Current processing time is:</p>
+<!-- <p><span class="bg-success h3">Current processing time is: [00] business days</span></p> -->
+<p><strong>Current processing time is:</strong></p>
+<p><span class="label label-success h3">[00] business days</span></p>
 
-<p>17 days</p>
-<p>Last updated: Janurary 31, 2021. Expected processing time is updated daily. </p>
+<p class="small">Last updated: Janurary 31, 2021. Expected processing time is updated daily. </p>
 </section>
 <section>
  <h2 id="other_ways">Other ways to apply</h2>
@@ -305,5 +326,6 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.js"></script>
 <script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/wet-boew.min.js"></script>
 <script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>
+<script src="../js/guidance-toggle.js"></script>
 </body>
 </html>

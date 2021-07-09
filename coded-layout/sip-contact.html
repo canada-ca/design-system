@@ -103,7 +103,10 @@
 <h2>You are here:</h2>
 <div class="container">
 <ol class="breadcrumb">
-<li><a href="https://www.canada.ca/en.html">Home</a></li><li><a href="#">[Institution name]</a></li><li><a href="#">[Topic name]</a></li><li><a href="index-en.html">[Service name]</a></li>
+<li><a href="https://www.canada.ca/en.html">Home</a></li>
+<li><a href="#">[Theme name]</a></li>
+<li><a href="#">[Topic name]</a></li>
+<li><a href="./sip-index-en.html">[Service name]</a></li>
 </ol>
 </div>
 </nav>
@@ -124,14 +127,32 @@
 		<ul id="menubar1" class="gc-navseq" role="menu" aria-label="Section menu">
 			<li><a href="./sip-who.html">Who can apply</a></li>
 			<li><a href="./sip-before.html">Before you start</a></li>
-			<li><a href="./apply.html">Apply</a></li>
+			<li><a href="./sip-apply.html">Apply</a></li>
 		  <li><a href="./sip-how-much.html">How much you can get</a></li>
 			<li class="active"><a aria-current="step">Contact [institution name]</a></li>
 		</ul>
+    <div class="row guidance-details">
+      <div class="col-md-8">
+        <details>
+          <summary><b>Guidance:</b> Steps navigation menu <span class="fas fa-info-circle"></span></summary>
+          <p>Use the <a href="../common-design-patterns/subway-navigation.html">Subway navigation</a> pattern for navigation between steps of the service initiation process. </p>
+          <p>Adjust the steps and labels for your specific service.</p>
+        </details>
+      </div>
+    </div>
 	  </nav>
 	</section>
   <section role="group" aria-labelledby="wb-cont" class="gc-nav-section provisional">
 	<h1 property="name" id="wb-cont" class="provisional gc-thickline">Contact [institution name]</h1>
+  <div class="row guidance-details">
+    <div class="col-md-8">
+      <details>
+        <summary><b>Guidance:</b> Service and section headings <span class="fas fa-info-circle"></span></summary>
+        <p>Use the <a href="../common-design-patterns/subway-navigation.html">Subway navigation</a> pattern for navigation between steps of the service initiation process. </p>
+
+      </details>
+    </div>
+  </div>
   <dl class="dl-horizontal brdr-0">
       <dt>Online:</dt>
       <dd>
@@ -139,41 +160,29 @@
         <div class="mrgn-tp-lg">
             <a href="#" class="btn btn-call-to-action">Sign in to [account name]</a>  <span class="register mrgn-lft-md"><a href="#">Register</a></span>
         </div>
-        <p class="mrgn-tp-lg">[Summary of what can be done online]</p>
+        <p class="mrgn-tp-lg">[Summary of what can be done online. Use a bullet list if there are many options]</p>
 
       </dd>
       <dt>By phone:</dt>
       <dd>
+				<details>
+					<summary>Call to [what you're doing by phone]</summary>
+
         <dl class="dl-horizontal brdr-0">
          <dt>Before you call</dt>
          <dd>
-          <p>To verify your identity, you'll need</p>
+          <p>To verify your identity, you'll need:</p>
           <ul>
-           <li>Social Insurance Number</li>
-           <li>Personal details about the children in your care</li>
-           <li>Information from previous benefit payments</li>
+           <li>[identity proof 1]</li>
+           <li>[identity proof 2]</li>
+           <li>[identity proof 3]</li>
           </ul>
-          <!--div class="mrgn-tp-lg beforeCall" style="">
-           <label class="container-checks">Social Insurance Number
-           <input class="btnCheck" type="checkbox">
-           <span class="checkmark"></span> </label>
-           <label class="container-checks">Personal details about the children in your care
-           <input class="btnCheck" type="checkbox">
-           <span class="checkmark"></span> </label>
-           <label class="container-checks">Information from previous benefit payments
-           <input class="btnCheck" type="checkbox">
-           <span class="checkmark"></span> </label>
-           <br>
-           <p><span id="check-message">
-            <label class="label label-danger">You need all of the above to call</label>
-            </span></p>
-          </div-->
-         <p>If you are calling the CRA on behalf of someone else, you must be an <a href="/en/revenue-agency/services/tax/representative-authorization.html">authorized representative</a>.</p>
+
          </dd>
          <dt>Telephone number</dt>
          <dd>
-          <p><strong>1-800-387-1193</strong></p>
-          <p>Yukon, Northwest Territories and Nunavut:<br><strong>1-866-426-1527</strong></p>
+          <p><strong>1-800-xxx-xxxxx</strong></p>
+          <p>Yukon, Northwest Territories and Nunavut:<br><strong>1-866-xxx-xxxx</strong></p>
          </dd>
 
 
@@ -199,10 +208,12 @@
 
    </tbody>
   </table>
-  <p>Closed on <a href="/en/revenue-agency/services/tax/public-holidays.html">public holidays</a></p>
+  <p>Closed on <a href="#">public holidays</a></p>
 
           </dd>
         </dl>
+	</details>
+
         </dd>
 
       </dl>
@@ -333,5 +344,6 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.js"></script>
 <script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/wet-boew.min.js"></script>
 <script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>
+<script src="../js/guidance-toggle.js"></script>
 </body>
 </html>
