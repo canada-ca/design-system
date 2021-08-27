@@ -213,8 +213,10 @@
 
 		<div class="container">
 			<div class="row">
-				<h1 property="name" id="wb-cont">The Honourable [Minister name], MP</h1>
-				<div class="guidance-details">
+				<h1 class="off-psec" property="name" id="wb-cont">The Honourable [Minister name], MP</h1>
+				<h1 class="on-psec wb-inv" property="name" id="wb-cont">Parliamentary secretary’s name</h1> <!-- modification for parliamentary secretary -->
+
+				<div class="guidance-details guidance-minister">
 					<div class="container">
 						<div class="row col-md-8">
 							<details>
@@ -224,6 +226,8 @@
 								<p>Provides the name of the minister.</p>
 								<ul>
 									<li>must follow mandatory text format: The Honourable [minister’s first and last names], MP</li>
+									<li>the minister’s name must be a unique H1</li>
+									<li>must be the first component on the page</li>
 								</ul>
 								<p><span class="label label-danger">Mandatory</span></p>
 								<h3>Minister's picture</h3>
@@ -241,10 +245,32 @@
 						</div>
 					</div>
 				</div>
+				<div class="guidance-details guidance-psec wb-inv">
+					<div class="container">
+						<div class="row col-md-8">
+							<details>
+								<summary><b>Guidance:</b> Parliamentary secretary’s name and picture <span
+										class="fas fa-info-circle"></span></summary>
+								<p><span class="label label-danger">Mandatory</span></p>
+								<h3>Parliamentary secretary’s name</h3>
+								<p>Provides the name of the Parliamentary secretary.</p>
+								<ul>
+									<li>must follow mandatory text format: [parliamentary secretary’s first and last names]</li>
+									<li>the parliamentary secretary’s name must be a unique H1</li>
+									<li>must be the first component on the page</li>
+								</ul>
+								<p><span class="label label-info">Optional</span></p>
+								<h3>arliamentary secretary’s picture</h3>
+								<p>Presents a high-quality image of the parliamentary secretary.</p>
+
+							</details>
+						</div>
+					</div>
+				</div>
 				<div class="col-md-3">
 					<p class="mrgn-tp-lg"><img src="./images/265x352.png" alt="" class="img-responsive"></p>
 				</div>
-				<div class="col-md-6">
+				<div class="col-md-6 guidance-minister">
 					<p class="mrgn-tp-lg"><strong>Minister of <a href="#">[Portfolio name one]</a> and <a href="#">[Portfolio name
 								two]</a></strong><a href="#"></a></p>
 					<p>Represents the riding of <a href="#">[Riding name]</a></p>
@@ -253,34 +279,68 @@
 						<li><a href="#">Ministerial briefing book</a></li>
 						<li><a href="#">Ministerial appointments</a></li>
 					</ul>
-					<div class="guidance-details">
-						<div class="container">
-							<div class="row col-md-8">
-								<details>
-									<summary><b>Guidance:</b> Ministerial role(s) and riding <span class="fas fa-info-circle"></span></summary>
-									<p><span class="label label-danger">Mandatory</span></p>
-									<p>Lists the official role(s) of the minister, with links to lead institutional profile, riding information, mandate
-									letter, briefing book, and ministerial appointments where applicable.</p>
-									<ul>
-										<li>mandate letter, briefing book and ministerial appointments must be presented if content is available</li>
-										<li>the name of the riding is hyperlinked to the appropriate riding page from <a
-												href="http://www.parl.ca/">www.parl.gc.ca</a>:</li>
-										<li>it must follow the following text format, each with the corresponding hyperlink:
-											<ul>
-												<li><strong>Minister of [insert portfolio name]</strong></li>
-												<li>Represents the riding of [riding name]</li>
-												<li>Ministerial mandate letter</li>
-												<li>Ministerial briefing book</li>
-												<li>Ministerial appointments</li>
-											</ul>
-										</li>
-										<li>appears below the minister’s name</li>
-									</ul>
+						<div class="guidance-details">
+							<div class="container">
+								<div class="row col-md-8">
+									<details>
+										<summary><b>Guidance:</b> Ministerial role(s) and riding <span class="fas fa-info-circle"></span>
+										</summary>
+										<p><span class="label label-danger">Mandatory</span></p>
+										<p>Lists the official role(s) of the minister, with links to lead institutional profile, riding
+											information, mandate
+											letter, briefing book, and ministerial appointments where applicable.</p>
+										<ul>
+											<li>mandate letter, briefing book and ministerial appointments must be presented if content is
+												available</li>
+											<li>the name of the riding is hyperlinked to the appropriate riding page from <a
+													href="http://www.parl.ca/">www.parl.gc.ca</a>:</li>
+											<li>it must follow the following text format, each with the corresponding hyperlink:
+												<ul>
+													<li><strong>Minister of [insert portfolio name]</strong></li>
+													<li>Represents the riding of [riding name]</li>
+													<li>Ministerial mandate letter</li>
+													<li>Ministerial briefing book</li>
+													<li>Ministerial appointments</li>
+												</ul>
+											</li>
+											<li>appears below the minister’s name</li>
+										</ul>
 
-								</details>
+									</details>
+								</div>
+							</div>
+						</div>
+				</div>
+				<div class="col-md-6 guidance-psec wb-inv">
+
+					<p class="mrgn-tp-lg"><strong>Parliamentary secretary to the <a href="#">[Minister of portfolio name]</a></strong></p>
+
+						<div class="guidance-details wb-inv">
+							<div class="container">
+								<div class="row col-md-8">
+									<details>
+										<summary><b>Guidance:</b> Parliamentary secretary’s role(s) <span class="fas fa-info-circle"></span>
+										</summary>
+										<p><span class="label label-danger">Mandatory</span></p>
+										<p>Lists the official role(s) of the parliamentary secretary, with link(s) to related ministerial
+											profile.</p>
+										<ul>
+											<li>it must follow mandatory text format: Parliamentary Secretary to the Minister of [insert
+												portfolio name]</li>
+											<li>the supported minister is hyperlinked to the appropriate ministerial profile page</li>
+											<li>when used for the head of a quasi-judicial arm’s-length institution, text must be the official
+												title of the head
+												without any hyperlink</li>
+											<li>appears below the parliamentary secretary’s name</li>
+										</ul>
+
+									</details>
+								</div>
 							</div>
 						</div>
 					</div>
+					<div class="col-md-6">
+
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore amet ducimus nihil, voluptate quibusdam?
 						Excepturi in aspernatur rem ipsam aperiam voluptates fugit officiis culpa, ratione, et maxime impedit.</p>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique ex commodi autem laudantium aliquam id,
@@ -292,18 +352,20 @@
 									<summary><b>Guidance:</b> Biographical overview <span class="fas fa-info-circle"></span>
 									</summary>
 									<p><span class="label label-danger">Mandatory</span></p>
-									<p>Provides background information about the minister.</p>
+									<p>Provides background information about the minister or parliamentary secretary.</p>
 									<ul>
 										<li>keep the text short and concise</li>
 										<li> must be consistent with the biographies presented on the <a href="http://pm.gc.ca/eng/cabinet">Prime Minister’s
 												website</a></li>
-										<li>appears below the minister’s name, roles, and riding details</li>
+										<li>appears below the minister’s or parliamentary secretary's name, roles, and riding details</li>
 									</ul>
 
 								</details>
 							</div>
 						</div>
 					</div>
+
+
 					<section>
 						<h2>Contact information</h2>
 						<p>House of Commons<br>
@@ -323,7 +385,7 @@
 												<li>contact information includes email address, mailing address, telephone number and fax number</li>
 												<li>the email address is hyperlinked</li>
 												<li>appears below the biographical overview</li>
-												<li> heading is labelled “Contact information”</li>
+												<li>heading is labelled “Contact information”</li>
 												<li>telephone numbers:
 													<ul>
 														<li>the heading “Telephone:” precedes the telephone number</li>
@@ -477,13 +539,18 @@
 			$(".off-psec").click(function () {
 					$(this).addClass("wb-inv");
 					$(".off-psec").addClass("wb-inv");
+					$(".guidance-minister").addClass("wb-inv");
 					$(".on-psec").removeClass("wb-inv");
+					$(".guidance-psec").removeClass("wb-inv");
+
 				});
 
 			$(".on-psec").click(function () {
 					$(this).addClass("wb-inv");
 					$(".on-psec").removeClass("wb-inv");
 					$(".off-psec").removeClass("wb-inv");
+					$(".guidance-minister").removeClass("wb-inv");
+					$(".guidance-psec").addClass("wb-inv");
 				});
 		</script>
 		<script src="../js/guidance-toggle.js"></script>
