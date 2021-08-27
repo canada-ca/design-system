@@ -206,15 +206,12 @@
 					</div>
 				</div>
 			</div>
-			<a class="off-psec btn btn-sm btn-default mrgn-tp-lg"><span class="fas fa-eye"></span>&nbsp;&nbsp;<b>Parliamentary
-					secretary modification</b></a>
-			<a class="on-psec btn btn-sm btn-default mrgn-tp-lg wb-inv"><span class="fas fa-eye"></span>&nbsp;&nbsp;<b>Minister
-					profile</b></a>
+
 
 		<div class="container">
 			<div class="row">
-				<h1 class="off-psec" property="name" id="wb-cont">The Honourable [Minister name], MP</h1>
-				<h1 class="on-psec wb-inv" property="name" id="wb-cont">Parliamentary secretary’s name</h1> <!-- modification for parliamentary secretary -->
+				<h1 class="guidance-minister" property="name" id="wb-cont">The Honourable [Minister name], MP</h1>
+				<h1 class="guidance-psec wb-inv" property="name" id="wb-cont">Parliamentary secretary’s name</h1> <!-- modification for parliamentary secretary -->
 
 				<div class="guidance-details guidance-minister">
 					<div class="container">
@@ -260,7 +257,7 @@
 									<li>must be the first component on the page</li>
 								</ul>
 								<p><span class="label label-info">Optional</span></p>
-								<h3>arliamentary secretary’s picture</h3>
+								<h3>Parliamentary secretary’s picture</h3>
 								<p>Presents a high-quality image of the parliamentary secretary.</p>
 
 							</details>
@@ -311,9 +308,13 @@
 							</div>
 						</div>
 				</div>
+								<a class="off-psec btn btn-sm btn-default mrgn-tp-lg"><span class="fas fa-eye"></span>&nbsp;&nbsp;<b>Parliamentary
+										secretary modification</b></a>
+								<a class="on-psec btn btn-sm btn-default mrgn-tp-lg wb-inv"><span class="fas fa-eye"></span>&nbsp;&nbsp;<b>Minister
+										profile</b></a>
 				<div class="col-md-6 guidance-psec wb-inv">
 
-					<p class="mrgn-tp-lg"><strong>Parliamentary secretary to the <a href="#">[Minister of portfolio name]</a></strong></p>
+					<p class="mrgn-tp-lg"><strong>Parliamentary secretary to the <a href="#">[Minister of portfolio name]</a></strong></p> <!-- modification for parliamentary secretary -->
 
 						<div class="guidance-details wb-inv">
 							<div class="container">
@@ -547,7 +548,6 @@
 
 			$(".on-psec").click(function () {
 					$(this).addClass("wb-inv");
-					$(".on-psec").removeClass("wb-inv");
 					$(".off-psec").removeClass("wb-inv");
 					$(".guidance-minister").removeClass("wb-inv");
 					$(".guidance-psec").addClass("wb-inv");
