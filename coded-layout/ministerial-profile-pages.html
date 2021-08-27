@@ -206,6 +206,11 @@
 					</div>
 				</div>
 			</div>
+			<a class="off-psec btn btn-sm btn-default mrgn-tp-lg"><span class="fas fa-eye"></span>&nbsp;&nbsp;<b>Parliamentary
+					secretary modification</b></a>
+			<a class="on-psec btn btn-sm btn-default mrgn-tp-lg wb-inv"><span class="fas fa-eye"></span>&nbsp;&nbsp;<b>Minister
+					profile</b></a>
+
 		<div class="container">
 			<div class="row">
 				<h1 property="name" id="wb-cont">The Honourable [Minister name], MP</h1>
@@ -284,7 +289,7 @@
 						<div class="container">
 							<div class="row col-md-8">
 								<details>
-									<summary><b>Guidance:</b> Biographical overview<span class="fas fa-info-circle"></span>
+									<summary><b>Guidance:</b> Biographical overview <span class="fas fa-info-circle"></span>
 									</summary>
 									<p><span class="label label-danger">Mandatory</span></p>
 									<p>Provides background information about the minister.</p>
@@ -469,16 +474,16 @@
 					$(".intro").removeClass("col-md-12").addClass("col-md-6");
 				});
 
-			$(".off-followus").click(function () {
+			$(".off-psec").click(function () {
 					$(this).addClass("wb-inv");
-					$(".followus").addClass("wb-inv");
-					$(".on-followus").removeClass("wb-inv");
+					$(".off-psec").addClass("wb-inv");
+					$(".on-psec").removeClass("wb-inv");
 				});
 
-			$(".on-followus").click(function () {
+			$(".on-psec").click(function () {
 					$(this).addClass("wb-inv");
-					$(".followus").removeClass("wb-inv");
-					$(".off-followus").removeClass("wb-inv");
+					$(".on-psec").removeClass("wb-inv");
+					$(".off-psec").removeClass("wb-inv");
 				});
 		</script>
 		<script src="../js/guidance-toggle.js"></script>
