@@ -178,15 +178,13 @@
 				<div class="container">
 					<ol class="breadcrumb">
 						<li><a href="https://www.canada.ca/en.html">Canada.ca</a></li>
-						<li class="guidance-shared"><a href="https://www.canada.ca/en/government/ministers.html">Ministers and Parliamentary Secretaries</a></li>
-						<li class="guidance-head wb-inv"><a href="#">[Institutional landing page]</a></li>
-
+						<li><a href="https://www.canada.ca/en/government/ministers.html">Ministers and Parliamentary Secretaries</a></li>
 					</ol>
 				</div>
 			</nav>
 		</header>
 		<main property="mainContentOfPage" typeof="WebPageElement">
-			<div class="guidance-details guidance-shared">
+			<div class="guidance-details">
 				<div class="container">
 					<div class="row col-md-8">
 						<details>
@@ -198,41 +196,19 @@
 									<a href="https://www.canada.ca/en.html">Canada.ca</a> >
 									<a href="https://www.canada.ca/en/government/ministers.html">Ministers and Parliamentary Secretaries</a>
 								</p>
+								<p>For heads of organizations, the breadcrumb trail should link back to the institutional landing page.</p>
 
 							</section>
 						</details>
 					</div>
 				</div>
 			</div>
-				<div class="guidance-details guidance-head wb-inv">
-					<div class="container">
-						<div class="row col-md-8">
-							<details>
-								<summary><b>Guidance:</b> Breadcrumb <span class="fas fa-info-circle"></span></summary>
-								<section>
-									<h3>Breadcrumb</h3>
-									<p><span class="label label-danger">Mandatory</span></p>
-									<p>For heads of organizations, the breadcrumb trail should link back to the institutional landing
-										page.</p>
 
-								</section>
-							</details>
-						</div>
-					</div>
-				</div>
 
 		<div class="container">
-				<a class="off-psec btn btn-sm btn-default mrgn-tp-lg"><span class="fas fa-eye"></span>&nbsp;&nbsp;<b>Parliamentary
-						secretary</b></a>
-				<a class="on-head btn btn-sm btn-default mrgn-tp-lg"><span class="fas fa-eye"></span>&nbsp;&nbsp;<b>Head of
-						instutition</b></a>
-				<a class="on-psec btn btn-sm btn-default mrgn-tp-lg wb-inv"><span class="fas fa-eye"></span>&nbsp;&nbsp;<b>Minister
-						profile</b></a>
-
 			<div class="row">
 				<h1 class="guidance-minister" property="name" id="wb-cont">The Honourable [Minister name], MP</h1>
 				<h1 class="guidance-psec wb-inv" property="name" id="wb-cont-2">Parliamentary secretary’s name</h1> <!-- modification for parliamentary secretary -->
-				<h1 class="guidance-head wb-inv" property="name" id="wb-cont-3">Head of institution or organization's name</h1><!-- modification for heads of institutions -->
 
 				<div class="guidance-details guidance-minister">
 					<div class="container">
@@ -260,21 +236,22 @@
 						</div>
 					</div>
 				</div>
-				<div class="guidance-details guidance-psec-head wb-inv">
+				<div class="guidance-details guidance-psec wb-inv">
 					<div class="container">
 						<div class="row col-md-8">
 							<details>
-								<summary><b>Guidance:</b> Name and picture <span
+								<summary><b>Guidance:</b> Parliamentary secretary’s name and picture <span
 										class="fas fa-info-circle"></span></summary>
 								<p><span class="label label-danger">Mandatory</span></p>
-								<h3>Name</h3>
+								<h3>Parliamentary secretary’s name</h3>
+								<p>Provides the name of the Parliamentary secretary.</p>
 								<ul>
-									<li>must follow mandatory text format: [first and last names]</li>
-									<li>the name must be a unique H1</li>
+									<li>must follow mandatory text format: [parliamentary secretary’s first and last names]</li>
+									<li>the parliamentary secretary’s name must be a unique H1</li>
 								</ul>
 								<p><span class="label label-info">Optional</span></p>
-								<h3>Picture</h3>
-								<p>Presents a high-quality image.</p>
+								<h3>Parliamentary secretary’s picture</h3>
+								<p>Presents a high-quality image of the parliamentary secretary.</p>
 
 							</details>
 						</div>
@@ -334,10 +311,10 @@
 							</div>
 						</div>
 				</div>
-					<div class="col-md-6 guidance-head wb-inv">
-						<p class="mrgn-tp-lg"><strong>Head of <a href="#">[Institution or organization name]</a></strong>.</p>
-							<mark>what else? that's it? any guidance</mark>
-					</div>
+								<a class="off-psec btn btn-sm btn-default mrgn-tp-lg"><span class="fas fa-eye"></span>&nbsp;&nbsp;<b>Parliamentary
+										secretary</b></a>
+								<a class="on-psec btn btn-sm btn-default mrgn-tp-lg wb-inv"><span class="fas fa-eye"></span>&nbsp;&nbsp;<b>Minister
+										profile</b></a>
 				<div class="col-md-6 guidance-psec wb-inv">
 
 					<p class="mrgn-tp-lg"><strong>Parliamentary secretary to the <a href="#">[Minister of portfolio name]</a></strong></p> <!-- modification for parliamentary secretary -->
@@ -378,7 +355,7 @@
 									<summary><b>Guidance:</b> Biographical overview <span class="fas fa-info-circle"></span>
 									</summary>
 									<p><span class="label label-danger">Mandatory</span></p>
-									<p>Provides background information about the minister, parliamentary secretary or head of instutition or organization.</p>
+									<p>Provides background information about the minister or parliamentary secretary.</p>
 									<ul>
 										<li>keep the text short and concise</li>
 										<li>must be consistent with the biographies presented on the <a href="http://pm.gc.ca/eng/cabinet">Prime Minister’s
@@ -562,36 +539,17 @@
 			$(".off-psec").click(function () {
 					$(this).addClass("wb-inv");
 					$(".off-psec").addClass("wb-inv");
-					$(".on-head").removeClass("wb-inv");
 					$(".guidance-minister").addClass("wb-inv");
-					$(".guidance-head").addClass("wb-inv");
 					$(".on-psec").removeClass("wb-inv");
 					$(".guidance-psec").removeClass("wb-inv");
-					$(".guidance-shared").removeClass("wb-inv");
-					$(".guidance-psec-head").removeClass("wb-inv");
 
-				});
-			$(".on-head").click(function () {
-					$(this).addClass("wb-inv");
-					$(".off-psec").removeClass("wb-inv");
-					$(".on-psec").removeClass("wb-inv");
-					$(".guidance-minister").addClass("wb-inv");
-					$(".guidance-psec").addClass("wb-inv");
-					$(".guidance-shared").addClass("wb-inv");
-					$(".guidance-psec-head").removeClass("wb-inv");
-					$(".guidance-head").removeClass("wb-inv");
 				});
 
 			$(".on-psec").click(function () {
 					$(this).addClass("wb-inv");
 					$(".off-psec").removeClass("wb-inv");
-					$(".on-head").removeClass("wb-inv");
-					$(".guidance-head").addClass("wb-inv");
 					$(".guidance-minister").removeClass("wb-inv");
 					$(".guidance-psec").addClass("wb-inv");
-					$(".guidance-psec-head").addClass("wb-inv");
-					$(".guidance-shared").removeClass("wb-inv");
-
 				});
 		</script>
 		<script src="../js/guidance-toggle.js"></script>
