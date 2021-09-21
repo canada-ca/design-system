@@ -139,8 +139,7 @@
 
     </header>
     <main role="main" property="mainContentOfPage" class="container wb-prettify all-pre">
-      <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Buttons</span>: <span>Research</span></span></h1>
-
+      <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Alerts</span>: <span>Code</span></span></h1>
         <div class="row">
          <div class="col-md-12">
            <ul class="list-inline small mrgn-bttm-sm" style="line-height:1.65em" id="list-inline-desktop-only">
@@ -150,42 +149,112 @@
            </ul>
          </div>
             <div class="col-md-12">
-                <p class="pagetag">Buttons are clickable objects intended to encourage a person to take action.</p>
+                <p class="pagetag">Alerts are used to call attention to information that needs to stand out from the rest of the page content. Use alerts to provide contextual feedback messages for typical user actions.
+</p>
             </div>
 
             <div class="col-md-12">
                 <div class="btn-group mrgn-bttm-sm mrgn-tp-md">
-                  <a class="btn btn-default" href="./buttons.html"><span class="fas fa-pen-square"></span> Design</a>
-                  <a class="btn btn-default" href="./buttons-code.html"><span class="fas fa-laptop-code"></span> Code</a>
-                    <a class="btn btn-default active"><span class="fas fa-microscope" ></span> <strong>Research</strong></a>
-
+                  <a class="btn btn-default" href="./alerts.html"><span class="fas fa-pen-square"></span> Design</a>
+                    <a class="btn btn-default active"><span class="fas fa-laptop-code"></span> <strong>Code</strong></a>
+                    <a class="btn btn-default" href="./alerts-research.html"><span class="fas fa-microscope"></span> Research</a>
                 </div>
             </div>
         </div>
 
 
-        <h2 id="research">Research and blog posts</h2>
+            <h2 id="variations">Code for variants</h2>
+            <div class="col-md-4 ds-modifier">
+        <form>
+           <!--<p><span class="lead"><span class="fas fa-tools"></span> Modify the design</span></p>-->
+           <div class="row">
+              <div class="col-xs-6">
+        <div class="radioselected">
+                 <div class="wb-fieldflow" data-wb-fieldflow='{"renderas":"radio", "isoptional": true, "noForm": true, "reset": [{ "action": "removeClass", "source":"#alert1", "class": "alert alert-info alert-success alert-warning alert-danger                " }, { "action": "addClass", "source":"#infohidden, .infohidden", "class": "hidden" } ]}'>
+                    <p><span class="h4 mrgn-tp-0">Type</span></p>
+                    <ul>
+                       <li data-wb-fieldflow='[{"action": "addClass", "source": "#alert1", "class": "alert alert-info", "live": true}, {"action": "toggle", "toggle": ".cl-alert-info, .cl-info", "live": true}]'>Info</li>
+                       <li data-wb-fieldflow='[{"action": "addClass", "source": "#alert1", "class": "alert alert-success", "live": true}, {"action": "toggle", "toggle": ".cl-alert-success, .cl-success", "live": true}]'>Success</li>
+                       <li data-wb-fieldflow='[{"action": "addClass", "source": "#alert1", "class": "alert alert-warning", "live": true}, {"action": "toggle", "toggle": ".cl-alert-warning, .cl-warning", "live": true}]'>Warning</li>
+                       <li data-wb-fieldflow='[{"action": "addClass", "source": "#alert1", "class": "alert alert-danger", "live": true}, {"action": "toggle", "toggle": ".cl-alert-danger, .cl-danger", "live": true}]'>Danger</li>
+                    </ul>
+                 </div>
+         </div>
+              </div>
+              <div class="col-xs-6">
+                 <div class="radioselected">
+         <div class="wb-fieldflow" data-wb-fieldflow='{"renderas":"radio", "isoptional": true, "noForm": true, "reset": [{"action": "addClass", "source":"#h2, #notitle", "class": "hidden"} ]}'>
+                    <p><span class="h4 mrgn-tp-0">Title</span></p>
+                    <ul>
+                       <li data-wb-fieldflow='[{"action": "removeClass", "source": "#title", "class": "hidden", "live": true}, {"action": "toggle", "toggle": ".cl-h2", "live": true}]'>With title</li>
+           <li data-wb-fieldflow='[{"action": "addClass", "source": "#title, #titlehidden", "class": "hidden", "live": true}, {"action": "toggle", "toggle": ".cl-notitle, #notitle", "live": true}]'>No title</li>
+                    </ul>
+                 </div>
+        </div>
 
-     <ul>
-       <li><a href="https://blog.canada.ca/2020/12/17/choosing-buttons.html">Choosing the right button for task success</a></li>
-     </ul>
+
+           </div>
+     </div>
+        </form>
+     </div>
+     <!-- Field flow appearance -->
+     <div class="col-md-8">
+        <div class="ds-example">
+           <div class="wb-tabs">
+              <div class="tabpanels">
+                 <details id="app1">
+                    <summary>Appearance</summary>
+                    <div class="panel panel-body brdr-0 brdr-rds-0">
+                       <section id="alert1" class="alert alert-info">
+               <p id="title" class="mrgn-tp-0 h3">Descriptive title</p>
+                          <p>Content of your alert <a href="" id="link1">link text</a>.</p>
+                       </section>
+                    </div>
+
+                 </details>
+                 <!-- Field flow code -->
+                 <details id="app2">
+                    <summary>HTML code</summary>
+                       <pre><code>&lt;section class="<strong><span class="cl-alert-info" id="infohidden">alert alert-info</span><span class="hidden cl-alert-success">alert alert-success</span><span class="hidden cl-alert-warning">alert alert-warning</span><span class="hidden cl-alert-danger">alert alert-danger</span></strong>"&gt;
+<span id="titlehidden" class="cl-h2">&lt;p class="<strong>h3</strong> mrgn-tp-0"&gt;Descriptive title&lt;/p&gt;</span><span class="cl-notitle hidden"><strong>&lt;span class="wb-inv"&gt;</strong>Alert: <strong><span class="infohidden cl-info">Info</span><span class="hidden cl-success">Success</span><span class="hidden cl-warning">Warning</span><span class="hidden cl-danger">Danger</span></strong>&lt;/span&gt;</strong></span>
+&lt;p&gt;Content of your alert &lt;a href="#"&gt;link text&lt;/a&gt;.&lt;/p&gt;
+&lt;/section&gt;</code>
+</pre>
+<p><strong>Coding considerations:</strong></p>
+        <div id="notitle" class="hidden panel panel-default panel-body hidden"><section  class="alert alert-warning"><span class="fas fa-check fa-li text-success"></span>If the alert doesn't have a title, add invisible text inside a <code>&lt;span class="wb-inv"&gt;</code> to provide the same experience to screen reader users</section></div>
+    <ul class="fa-ul">
+           <li><span class="fas fa-check fa-li text-success"></span>Begin <code>&lt;section&gt;</code> with a heading that is specific to the featured content, and contained within it</li>
+           <li><span class="fas fa-times fa-li text-danger"></span>Do not use <code>&lt;section&gt;</code> within another section, or validation issues occur
+              <ul>
+                 <li>Use <code>&lt;div&gt;</code> to style the alert</li>
+              </ul>
+           </li>
+        </ul>
+                    </details>
+                 </details>
+<details id="app3">
+<summary>Prototyping libraries</summary>
+<section class="alert alert-info">
+<p>The following prototyping libraries are currently being developed and will be available to download once the CRA web service manual is officially launched:</p>
+<ul>
+<li>Axure library</li>
+<li>Figma UI kit</li>
+</ul>
+</section>
+</details>
+              </div>
+           </div>
+        </div>
+
+     </div>
+  </div>
 
 
-       <section>
-         <h2 id="latest">Latest changes</h2>
-           <dl class="dl-horizontal">
-              <dt><time datetime="2021-01-20" class="link-muted">2021-01-20</time></dt>
-              <dd>Added a new beta version of a persistent sign-in button.</dd>
-           </dl>
-       </section>
 
-       <section>
-                 <h2 id="discuss">Discussion</h2>
+        </div>
+        </div>
 
-                 <p><span class="fab fa-slack"></span> <a href="https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM">Join the conversation on Slack</a></p>
-                 <p><span class="fas fa-envelope-square"></span> <a href="mailto:dto.btn@tbs-sct.gc.ca">Email: dto.btn@tbs-sct.gc.ca</a></p>
-                 <p><span class="fab fa-github"></span> <a href="https://github.com/canada-ca/design-system-systeme-conception/issues">Report an issue in GitHub</a></p>
-              </section>
+        
 
 
         <div class="row pagedetails">
