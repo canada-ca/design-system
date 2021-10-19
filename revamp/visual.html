@@ -110,10 +110,11 @@
 <ul class="list-unstyled list-inline" role="menu">
 
   <li><a aria-posinset="1" aria-setsize="3" class="mb-item" href="./started.html" role="menuitem" tabindex="-1">Get started</a></li>
-	<li><a aria-posinset="2" aria-setsize="3" class="mb-item" href="./visual.html" role="menuitem" tabindex="-1">Visual foundations</a></li>
+  <li class="active"><a aria-posinset="2" aria-setsize="3" class="mb-item" href="#" role="menuitem" tabindex="0">Visual foundations</a></li>
 	<li><a aria-posinset="3" aria-setsize="3" class="mb-item" href="./library.html" role="menuitem" tabindex="-2">Components and patterns</a></li>
 	<li><a aria-posinset="4" aria-setsize="3" class="mb-item" href="./writing.html" role="menuitem" tabindex="-3">Writing</a></li>
-  <li class="active"><a aria-posinset="5" aria-setsize="3" class="mb-item" href="#" role="menuitem" tabindex="0">Community</a></li>
+  <li><a aria-posinset="5" aria-setsize="3" class="mb-item" href="./community.html" role="menuitem" tabindex="-1">Community</a></li>
+
 
 </ul>
 </nav>
@@ -124,50 +125,128 @@
 
       </header>
       <main role="main" property="mainContentOfPage" class="container wb-prettify all-pre">
-         <h1 property="name" id="wb-cont" dir="ltr">Community</h1>
+         <h1 property="name" id="wb-cont" dir="ltr">Visual foundations</h1>
 
 
 
-         <section class="gc-srvinfo mrgn-bttm-lg">
-           <div class="row">
-    <section class="wb-eqht gc-drmt">
+ <h2 id="canada">Canada.ca brand</h2>
+ <p>The Canada.ca brand is the trusted GC digital brand.</p>
+ <p>All institutions that are subject to the GC design system must use the Canada.ca theme for their public-facing website.</p>
+ <p>To adopt the Canada.ca brand, you must use the following elements: </p>
 
-      <div class="col-md-4">
-       <section>
-        <h3 class="h5"><a href="./community/principles.html">Community principles</a></h3>
-        <p>Principles to follow when you use the Canada.ca design system or contribute to it.</p>
-       </section>
-      </div>
+ <h3>Styles</h3>
+ <ul>
+ <li><a href="https://design.canada.ca/styles/typography.html">Typography</a></li>
+ <li><a href="https://design.canada.ca/styles/colours.html">Colours</a></li>
+ <li><a href="https://design.canada.ca/styles/layouts.html">Layouts</a></li>
+ </ul>
+ <h3>Header</h3>
+ <table class="table table-bordered table-condensed">
 
-     <div class="col-md-4">
-      <section>
-       <h3 class="h5"><a href="./community/contribution-process.html">How to contribute to the design system</a></h3>
-       <p>How and when new designs should be included in the Canada.ca design system</p>
-      </section>
-     </div>
+ <caption>
 
-    </section>
-   </div>
+ Global header requirements
+
+ </caption>
+
+ <thead>
+
+   <tr class="active">
+     <th scope="col">Header element</th>
+     <th scope="col">Standard page</th>
+     <th scope="col">Campaign page</th>
+     <th scope="col">Transactional page</th>
+   </tr>
+ </thead>
+ <tbody>
+   <tr>
+     <td><a href="https://design.canada.ca/common-design-patterns/signature.html">Government of Canada signature (linked to Canada.ca home)</a></td>
+     <td>Mandatory</td>
+     <td>Mandatory</td>
+     <td>Mandatory, but link to Canada.ca home page is optional</td>
+   </tr>
+   <tr>
+     <td><a href="https://design.canada.ca/common-design-patterns/language-toggle.html">Language toggle</a></td>
+     <td>Mandatory</td>
+     <td>Mandatory</td>
+     <td>Mandatory</td>
+   </tr>
+   <tr>
+     <td><a href="https://design.canada.ca/common-design-patterns/search-box.html">Site search box</a></td>
+     <td>Mandatory</td>
+     <td>Optional</td>
+     <td>Optional</td>
+   </tr>
+   <tr>
+     <td><a href="https://design.canada.ca/common-design-patterns/site-menu.html">Theme and topic menu</a></td>
+     <td>Mandatory</td>
+     <td>Optional</td>
+     <td>Optional</td>
+   </tr>
+     <tr><td><a href="https://design.canada.ca/common-design-patterns/breadcrumb-trail.html">Breadcrumb trail</a></td>
+     <td>Mandatory</td>
+     <td>Optional</td>
+     <td>Optional</td>
+   </tr>
+   <tr>
+     <td>Background colour (white)</td>
+     <td>Mandatory</td>
+     <td>Optional</td>
+     <td>Mandatory</td>
+   </tr>
+ </tbody></table>
+
+ <h3>Footer</h3>
+ <table class="table table-bordered table-condensed">
+ <caption>Global footer requirements</caption>
+ <thead>
+   <tr class="active">
+     <th scope="col">Footer element</th>
+     <th scope="col">Standard page</th>
+     <th scope="col">Campaign page</th>
+     <th scope="col">Transactional page</th>
+   </tr>
+ </thead>
+ <tbody>
+   <tr>
+     <td><a href="https://design.canada.ca/common-design-patterns/report-problem.html">Report a problem</a></td>
+     <td>Mandatory</td>
+     <td>Mandatory</td>
+     <td>Mandatory</td>
+   </tr>
+   <tr>
+     <td><a href="https://design.canada.ca/common-design-patterns/share-page.html">Share this page</a></td>
+     <td>Optional</td>
+     <td>Optional</td>
+     <td>Optional</td>
+   </tr>
+   <tr>
+     <td><a href="https://design.canada.ca/common-design-patterns/date-modified.html">Date modified</a></td>
+     <td>Mandatory</td>
+     <td>Mandatory</td>
+     <td>Mandatory, but can instead be a version number when used for an application</td>
+   </tr>
+   <tr>
+     <td><a href="https://design.canada.ca/common-design-patterns/site-footer.html">Footer links</a></td>
+     <td>Mandatory</td>
+     <td>Optional</td>
+     <td>Optional</td>
+   </tr>
+   <tr>
+     <td><a href="https://design.canada.ca/common-design-patterns/site-footer.html#structure">Sub-footer links<p></p></a></td>
+     <td>Mandatory</td>
+     <td>Optional</td>
+     <td>Optional</td>
+   </tr>
+   <tr>
+     <td><a href="https://design.canada.ca/common-design-patterns/site-footer.html#other">Canada wordmark</a></td>
+     <td>Mandatory</td>
+     <td>Mandatory</td>
+     <td>Mandatory</td>
+   </tr>
+ </tbody></table>
 
 
-
-   </section>
-
-         <h2 id="connect">Connect with us</h2>
-
-         <p>The Digital Transformation Office of at the Treasury Board Secretariat is the team leading Borealis.</p>
-
-          <ul>
-            <li>Email: <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></li>
-            <li>Twitter: #Canadadotca (English) / #Canadapointca (French)</li>
-            <li>Slack: <a href="https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM">http://design-GC-conception.slack.com</a></li>
-            <li>Blog: <a href="https://blog.canada.ca/">blog.canada.ca</a></li>
-          </ul>
-
-         </div>
-
-
-	</div>
 
          <div class="row pagedetails">
             <div class="col-sm-6 col-lg-4 mrgn-tp-sm">
