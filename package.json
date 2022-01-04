@@ -17,7 +17,5 @@
     "url": "https://github.com/canada-ca/design-system/issues"
   },
   "homepage": "https://github.com/canada-ca/design-system#readme",
-  "devDependencies": {
-    "vnu-jar": "^21.9.2"
-  }
+  "devDependencies": {}
 }
