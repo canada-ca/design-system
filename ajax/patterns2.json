@@ -46,7 +46,7 @@
     "USE": "Use as visualization techniques for communicating data or statistics",
     "CAT": "Design pattern",
     "TYPE": "Visual",
-    "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/docs/ref/charts/charts-en.html\">WET: Charts and graphs</a>",
+    "EXAMPLE": "<a href=\"https://wet-boew.github.io/wet-boew/demos/charts/custom-en.html\">WET: Charts and graphs</a>",
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/collapsible-content.html\">Expand/collapse</a>",
