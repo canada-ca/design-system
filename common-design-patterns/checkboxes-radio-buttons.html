@@ -9,7 +9,7 @@
 	</title>
 	<meta content="width=device-width,initial-scale=1" name="viewport">
 	<link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon">
-	<link rel="stylesheet" href="../css/theme.css">
+	<link rel="stylesheet" href="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/css/theme.min.css">
 	<link rel="stylesheet" href="../css/custom.css">
 	<noscript>
 		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/wet-boew/css/noscript.min.css" />
@@ -51,10 +51,10 @@
 				</div>
 				<section id="wb-srch" class="col-lg-8 text-right">
 					<h2>Search</h2>
-					<form action="https://recherche-search.gc.ca/rGs/s_r?#wb-land" method="get" role="search" class="form-inline">
+					<form action="https://canada.ca/en/sr/srb.html" method="get" name="cse-search-box" role="search" class="form-inline">
 						<div class="form-group">
 							<label for="wb-srch-q" class="wb-inv">Search website</label>
-							<input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="27" maxlength="150" placeholder="Search Canada.ca">
+							<input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="38" maxlength="150" placeholder="Search Canada.ca">
 							<input name="st" value="s" type="hidden" />
 							<input name="num" value="10" type="hidden" />
 							<input name="langs" value="eng" type="hidden" />
@@ -105,16 +105,14 @@
 		</nav>
 	</header>
 	<!--/* Hide Nav; Hide Right Rail /*-->
-	<main property="mainContentOfPage" class="container">
+	<main property="mainContentOfPage" class="container wb-prettify all-pre">
 
 				<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Checkboxes and radio buttons</span>: <span>Canada.ca design system</span></span></h1>
-
 				 <div class="row">
 					<div class="col-md-12 pull-left">
 						<ul class="list-inline small mrgn-bttm-sm" style="line-height:1.65em" id="list-inline-desktop-only">
 							<li class="mrgn-rght-lg"> <span class="label label-info">Beta</span></li>
-							<li class="mrgn-rght-lg"> Last updated: 2020-10-21</li>
-
+							<li class="mrgn-rght-lg"> Last updated: 2021-06-02 </li>
 						</ul>
 					</div>
 					</div>
@@ -161,7 +159,7 @@
 						<h4>Large checkboxes target with explicit labels</h4>
 						<div class="panel panel-default pattern-demo">
 							<div class="panel-body">
-								<fieldset class="provisional gc-chckbxrdio">
+								<fieldset class="gc-chckbxrdio">
 									<legend>Choose your condiments:</legend>
 									<ul class="list-unstyled lst-spcd-2">
 										<li class="checkbox">
@@ -184,7 +182,7 @@
 							<summary>Code</summary>
 							<details>
 								<summary>HTML</summary>
-								<pre><code>&lt;fieldset class="provisional gc-chckbxrdio"&gt;
+								<pre><code>&lt;fieldset class="gc-chckbxrdio"&gt;
 	&lt;legend&gt;Choose your condiments:&lt;/legend&gt;
 	&lt;ul class="list-unstyled lst-spcd-2"&gt;
 		&lt;li class="checkbox"&gt;
@@ -204,78 +202,107 @@
 							</details>
 							<details>
 								<summary>CSS</summary>
-								<pre><code>.provisional.gc-chckbxrdio label {
-	cursor: pointer;
-	display: block;
-	font-size: 20px;
+								<pre><code>.gc-chckbxrdio label {
+  cursor: pointer;
+  display: block;
+  font-size: 20px;
 }
-.provisional.gc-chckbxrdio legend {
-	float: none;
-	font-size: 22px;
-	font-weight: 700;
-	margin-bottom: 15px;
-	margin-top: 0;
+
+.gc-chckbxrdio legend {
+  float: none;
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 15px;
+  margin-top: 0;
 }
-.provisional.gc-chckbxrdio input[type="checkbox"] {
-	border: 0;
-	clip: rect(0 0 0 0);
-	height: 1px;
-	margin: -1px;
-	overflow: hidden;
-	padding: 0;
-	position: absolute;
-	width: 1px;
+
+.gc-chckbxrdio input[type="checkbox"] {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
 }
-.provisional.gc-chckbxrdio input[type="checkbox"][disabled] + label {
-	cursor: not-allowed;
-	opacity: .5;
+
+.gc-chckbxrdio input[type="checkbox"][disabled] + label {
+  cursor: not-allowed;
+  opacity: .5;
 }
-.provisional.gc-chckbxrdio input[type="checkbox"] + label {
-	display: inline-block;
-	line-height: 2;
-	margin-left: 36px;
-	width: auto;
+
+.gc-chckbxrdio input[type="checkbox"] + label {
+  display: inline-block;
+  line-height: 2;
+  margin-left: 36px;
+  width: auto;
 }
-.provisional.gc-chckbxrdio input[type="checkbox"] + label::before {
-	border: 4px solid #fff;
-	-webkit-box-shadow: 0 0 0 2px #000;
-	box-shadow: 0 0 0 2px #000;
-	content: "";
-	display: inline-block;
-	height: 36px;
-	left: 0;
-	position: absolute;
-	top: 2px;
-	width: 36px;
+
+.gc-chckbxrdio input[type="checkbox"] + label::before {
+  border: 4px solid #fff;
+  -webkit-box-shadow: 0 0 0 2px #000;
+          box-shadow: 0 0 0 2px #000;
+  content: "";
+  display: inline-block;
+  height: 36px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 36px;
 }
-.provisional.gc-chckbxrdio input[type="checkbox"] + label:hover::before {
-	background-image: -webkit-gradient(linear, left top, left bottom, from(#e6e5e5), color-stop(50%, white));
-	background-image: linear-gradient(to bottom, #e6e5e5, white 50%);
+
+.gc-chckbxrdio input[type="checkbox"] + label:hover::before {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#e6e5e5), color-stop(50%, white));
+  background-image: linear-gradient(to bottom, #e6e5e5, white 50%);
 }
-.provisional.gc-chckbxrdio input[type="checkbox"]:focus + label::before {
-	-webkit-box-shadow: 0 0 0 2px #000, 0 0 8px 4px #3b99fc;
-	box-shadow: 0 0 0 2px #000, 0 0 8px 4px #3b99fc;
+
+.gc-chckbxrdio input[type="checkbox"]:focus + label::before {
+  -webkit-box-shadow: 0 0 0 2px #000, 0 0 8px 4px #3b99fc;
+          box-shadow: 0 0 0 2px #000, 0 0 8px 4px #3b99fc;
 }
-.provisional.gc-chckbxrdio input[type="checkbox"]:checked + label::after {
-	border-color: #333;
-	border-style: solid;
-	border-width: 0 5px 5px 0;
-	content: "";
-	display: inline-block;
-	height: 26px;
-	left: 12px;
-	position: absolute;
-	top: 4px;
-	-webkit-transform: rotate(45deg);
-	transform: rotate(45deg);
-	width: 13px;
+
+.gc-chckbxrdio.checkbox input[type="checkbox"] + label,
+.gc-chckbxrdio.checkbox input[type="checkbox"] + label + ul {
+  font-size: 17px;
+  min-height: 23px;
+}
+
+.gc-chckbxrdio.checkbox input[type="checkbox"] + label::before {
+  height: 24px;
+  left: 6px;
+  top: 4px;
+  width: 24px;
+}
+
+.gc-chckbxrdio.checkbox input[type="checkbox"]:checked + label::after {
+  border-width: 0 3px 3px 0;
+  height: 16px;
+  left: 14px;
+  top: 6px;
+  width: 9px;
+}
+
+.gc-chckbxrdio input[type="checkbox"]:checked + label::after {
+  border-color: #333;
+  border-style: solid;
+  border-width: 0 5px 5px 0;
+  content: "";
+  display: inline-block;
+  height: 26px;
+  left: 12px;
+  position: absolute;
+  top: 4px;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+  width: 13px;
 }</code></pre>
 							</details>
 						</details>
 						<h4>Large disabled checkboxes target with explicit labels</h4>
 						<div class="panel panel-default pattern-demo">
 							<div class="panel-body">
-								<fieldset class="provisional gc-chckbxrdio">
+								<fieldset class="gc-chckbxrdio">
 									<legend>Choose your condiments:</legend>
 									<ul class="list-unstyled lst-spcd-2">
 										<li class="checkbox">
@@ -298,7 +325,7 @@
 							<summary>Code</summary>
 							<details>
 								<summary>HTML</summary>
-								<pre><code>&lt;fieldset class="provisional gc-chckbxrdio"&gt;
+								<pre><code>&lt;fieldset class="gc-chckbxrdio"&gt;
 	&lt;legend&gt;Choose your condiments:;&lt;/legend&gt;
 	&lt;ul class="list-unstyled lst-spcd-2"&gt;
 		&lt;li class="checkbox"&gt;
@@ -318,71 +345,100 @@
 							</details>
 							<details>
 								<summary>CSS</summary>
-								<pre><code>.provisional.gc-chckbxrdio label {
-	cursor: pointer;
-	display: block;
-	font-size: 20px;
+								<pre><code>.gc-chckbxrdio label {
+  cursor: pointer;
+  display: block;
+  font-size: 20px;
 }
-.provisional.gc-chckbxrdio legend {
-	float: none;
-	font-size: 22px;
-	font-weight: 700;
-	margin-bottom: 15px;
-	margin-top: 0;
+
+.gc-chckbxrdio legend {
+  float: none;
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 15px;
+  margin-top: 0;
 }
-.provisional.gc-chckbxrdio input[type="checkbox"] {
-	border: 0;
-	clip: rect(0 0 0 0);
-	height: 1px;
-	margin: -1px;
-	overflow: hidden;
-	padding: 0;
-	position: absolute;
-	width: 1px;
+
+.gc-chckbxrdio input[type="checkbox"] {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
 }
-.provisional.gc-chckbxrdio input[type="checkbox"][disabled] + label {
-	cursor: not-allowed;
-	opacity: .5;
+
+.gc-chckbxrdio input[type="checkbox"][disabled] + label {
+  cursor: not-allowed;
+  opacity: .5;
 }
-.provisional.gc-chckbxrdio input[type="checkbox"] + label {
-	display: inline-block;
-	line-height: 2;
-	margin-left: 36px;
-	width: auto;
+
+.gc-chckbxrdio input[type="checkbox"] + label {
+  display: inline-block;
+  line-height: 2;
+  margin-left: 36px;
+  width: auto;
 }
-.provisional.gc-chckbxrdio input[type="checkbox"] + label::before {
-	border: 4px solid #fff;
-	-webkit-box-shadow: 0 0 0 2px #000;
-	box-shadow: 0 0 0 2px #000;
-	content: "";
-	display: inline-block;
-	height: 36px;
-	left: 0;
-	position: absolute;
-	top: 2px;
-	width: 36px;
+
+.gc-chckbxrdio input[type="checkbox"] + label::before {
+  border: 4px solid #fff;
+  -webkit-box-shadow: 0 0 0 2px #000;
+          box-shadow: 0 0 0 2px #000;
+  content: "";
+  display: inline-block;
+  height: 36px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 36px;
 }
-.provisional.gc-chckbxrdio input[type="checkbox"] + label:hover::before {
-	background-image: -webkit-gradient(linear, left top, left bottom, from(#e6e5e5), color-stop(50%, white));
-	background-image: linear-gradient(to bottom, #e6e5e5, white 50%);
+
+.gc-chckbxrdio input[type="checkbox"] + label:hover::before {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#e6e5e5), color-stop(50%, white));
+  background-image: linear-gradient(to bottom, #e6e5e5, white 50%);
 }
-.provisional.gc-chckbxrdio input[type="checkbox"]:focus + label::before {
-	-webkit-box-shadow: 0 0 0 2px #000, 0 0 8px 4px #3b99fc;
-	box-shadow: 0 0 0 2px #000, 0 0 8px 4px #3b99fc;
+
+.gc-chckbxrdio input[type="checkbox"]:focus + label::before {
+  -webkit-box-shadow: 0 0 0 2px #000, 0 0 8px 4px #3b99fc;
+          box-shadow: 0 0 0 2px #000, 0 0 8px 4px #3b99fc;
 }
-.provisional.gc-chckbxrdio input[type="checkbox"]:checked + label::after {
-	border-color: #333;
-	border-style: solid;
-	border-width: 0 5px 5px 0;
-	content: "";
-	display: inline-block;
-	height: 26px;
-	left: 12px;
-	position: absolute;
-	top: 4px;
-	-webkit-transform: rotate(45deg);
-	transform: rotate(45deg);
-	width: 13px;
+
+.gc-chckbxrdio.checkbox input[type="checkbox"] + label,
+.gc-chckbxrdio.checkbox input[type="checkbox"] + label + ul {
+  font-size: 17px;
+  min-height: 23px;
+}
+
+.gc-chckbxrdio.checkbox input[type="checkbox"] + label::before {
+  height: 24px;
+  left: 6px;
+  top: 4px;
+  width: 24px;
+}
+
+.gc-chckbxrdio.checkbox input[type="checkbox"]:checked + label::after {
+  border-width: 0 3px 3px 0;
+  height: 16px;
+  left: 14px;
+  top: 6px;
+  width: 9px;
+}
+
+.gc-chckbxrdio input[type="checkbox"]:checked + label::after {
+  border-color: #333;
+  border-style: solid;
+  border-width: 0 5px 5px 0;
+  content: "";
+  display: inline-block;
+  height: 26px;
+  left: 12px;
+  position: absolute;
+  top: 4px;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+  width: 13px;
 }</code></pre>
 							</details>
 						</details>
@@ -410,7 +466,7 @@
 										<label class="wb-inv" for="exampleInputPassword2">Password</label>
 										<input type="password" class="form-control" id="exampleInputPassword2" placeholder="Password" />
 									</div>
-									<div class="checkbox provisional gc-chckbxrdio">
+									<div class="checkbox gc-chckbxrdio">
 										<input id="remember2" type="checkbox" />
 										<label for="remember2">Remember me</label>
 									</div>
@@ -431,7 +487,7 @@
 		&lt;label class="wb-inv" for="exampleInputPassword2"&gt;Password&lt;/label&gt;
 		&lt;input type="password" class="form-control" id="exampleInputPassword2" placeholder="Password" /&gt;
 	&lt;/div&gt;
-	&lt;div class="checkbox provisional gc-chckbxrdio"&gt;
+	&lt;div class="checkbox gc-chckbxrdio"&gt;
 		&lt;input id="remember2" type="checkbox" /&gt;
 		&lt;label for="remember2"&gt;Remember me&lt;/label&gt;
 	&lt;/div&gt;
@@ -440,89 +496,108 @@
 							</details>
 							<details>
 								<summary>CSS</summary>
-								<pre><code>.provisional.gc-chckbxrdio label {
-	cursor: pointer;
-	display: block;
-	font-size: 20px;
+								<pre><code>.gc-chckbxrdio label {
+  cursor: pointer;
+  display: block;
+  font-size: 20px;
 }
-.provisional.gc-chckbxrdio legend {
-	float: none;
-	font-size: 22px;
-	font-weight: 700;
-	margin-bottom: 15px;
-	margin-top: 0;
+
+.gc-chckbxrdio legend {
+  float: none;
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 15px;
+  margin-top: 0;
 }
-.provisional.gc-chckbxrdio input[type="checkbox"] {
-	border: 0;
-	clip: rect(0 0 0 0);
-	height: 1px;
-	margin: -1px;
-	overflow: hidden;
-	padding: 0;
-	position: absolute;
-	width: 1px;
+
+.gc-chckbxrdio input[type="checkbox"] {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
 }
-.provisional.gc-chckbxrdio input[type="checkbox"][disabled] + label {
-	cursor: not-allowed;
-	opacity: .5;
+
+.gc-chckbxrdio input[type="checkbox"][disabled] + label {
+  cursor: not-allowed;
+  opacity: .5;
 }
-.provisional.gc-chckbxrdio input[type="checkbox"] + label {
-	display: inline-block;
-	line-height: 2;
-	margin-left: 36px;
-	width: auto;
+
+.gc-chckbxrdio input[type="checkbox"] + label {
+  display: inline-block;
+  line-height: 2;
+  margin-left: 36px;
+  width: auto;
 }
-.provisional.gc-chckbxrdio input[type="checkbox"] + label::before {
-	border: 4px solid #fff;
-	-webkit-box-shadow: 0 0 0 2px #000;
-	box-shadow: 0 0 0 2px #000;
-	content: "";
-	display: inline-block;
-	height: 36px;
-	left: 0;
-	position: absolute;
-	top: 2px;
-	width: 36px;
+
+.gc-chckbxrdio input[type="checkbox"] + label::before {
+  border: 4px solid #fff;
+  -webkit-box-shadow: 0 0 0 2px #000;
+          box-shadow: 0 0 0 2px #000;
+  content: "";
+  display: inline-block;
+  height: 36px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 36px;
 }
-.provisional.gc-chckbxrdio input[type="checkbox"] + label:hover::before {
-	background-image: -webkit-gradient(linear, left top, left bottom, from(#e6e5e5), color-stop(50%, white));
-	background-image: linear-gradient(to bottom, #e6e5e5, white 50%);
+
+.gc-chckbxrdio input[type="checkbox"] + label:hover::before {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#e6e5e5), color-stop(50%, white));
+  background-image: linear-gradient(to bottom, #e6e5e5, white 50%);
 }
-.provisional.gc-chckbxrdio input[type="checkbox"]:focus + label::before {
-	-webkit-box-shadow: 0 0 0 2px #000, 0 0 8px 4px #3b99fc;
-	box-shadow: 0 0 0 2px #000, 0 0 8px 4px #3b99fc;
+
+.gc-chckbxrdio input[type="checkbox"]:focus + label::before {
+  -webkit-box-shadow: 0 0 0 2px #000, 0 0 8px 4px #3b99fc;
+          box-shadow: 0 0 0 2px #000, 0 0 8px 4px #3b99fc;
 }
-.provisional.gc-chckbxrdio.checkbox input[type="checkbox"] + label,
-.provisional.gc-chckbxrdio.checkbox input[type="checkbox"] + label + ul {
-	font-size: 17px;
-	min-height: 23px;
+
+.gc-chckbxrdio.checkbox input[type="checkbox"] + label,
+.gc-chckbxrdio.checkbox input[type="checkbox"] + label + ul {
+  font-size: 17px;
+  min-height: 23px;
 }
-.provisional.gc-chckbxrdio.checkbox input[type="checkbox"] + label::before {
-	height: 24px;
-	left: 6px;
-	top: 4px;
-	width: 24px;
+
+.gc-chckbxrdio.checkbox input[type="checkbox"] + label::before {
+  height: 24px;
+  left: 6px;
+  top: 4px;
+  width: 24px;
 }
-.provisional.gc-chckbxrdio.checkbox input[type="checkbox"]:checked + label::after {
-	border-width: 0 3px 3px 0;
-	height: 16px;
-	left: 14px;
-	top: 6px;
-	width: 9px;
+
+.gc-chckbxrdio.checkbox input[type="checkbox"]:checked + label::after {
+  border-width: 0 3px 3px 0;
+  height: 16px;
+  left: 14px;
+  top: 6px;
+  width: 9px;
 }
-.provisional.gc-chckbxrdio input[type="checkbox"]:checked + label::after {
-	border-color: #333;
-	border-style: solid;
-	border-width: 0 5px 5px 0;
-	content: "";
-	display: inline-block;
-	height: 26px;
-	left: 12px;
-	position: absolute;
-	top: 4px;
-	-webkit-transform: rotate(45deg);
-	transform: rotate(45deg);
-	width: 13px;
+
+.gc-chckbxrdio input[type="checkbox"]:checked + label::after {
+  border-color: #333;
+  border-style: solid;
+  border-width: 0 5px 5px 0;
+  content: "";
+  display: inline-block;
+  height: 26px;
+  left: 12px;
+  position: absolute;
+  top: 4px;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+  width: 13px;
+}
+
+.gc-chckbxrdio.form-inline .label-inline {
+  padding-right: 20px;
+}
+
+.gc-chckbxrdio.form-inline .label-inline label {
+  padding-left: 10px;
 }</code></pre>
 							</details>
 						</details>
@@ -533,7 +608,7 @@
 						<p><b>When to use:</b> Use radio buttons when only one selection can be made in a list.</p>
 						<div class="panel panel-default pattern-demo">
 							<div class="panel-body">
-								<fieldset class="provisional gc-chckbxrdio">
+								<fieldset class="gc-chckbxrdio">
 									<legend>Which is your favorite pet?</legend>
 									<ul class="list-unstyled lst-spcd-2">
 										<li class="radio">
@@ -556,7 +631,7 @@
 							<summary>Code</summary>
 							<details>
 								<summary>HTML</summary>
-								<pre><code>&lt;fieldset class="provisional gc-chckbxrdio"&gt;
+								<pre><code>&lt;fieldset class="gc-chckbxrdio"&gt;
 	&lt;legend&gt;Which is your favorite pet?&lt;/legend&gt;
 	&lt;ul class="list-unstyled lst-spcd-2"&gt;
 		&lt;li class="radio"&gt;
@@ -576,70 +651,15 @@
 							</details>
 							<details>
 								<summary>CSS</summary>
-								<pre><code>.provisional.gc-chckbxrdio label {
-	cursor: pointer;
-	display: block;
-	font-size: 20px;
-}
-.provisional.gc-chckbxrdio legend {
-	float: none;
-	font-size: 22px;
-	font-weight: 700;
-	margin-bottom: 15px;
-	margin-top: 0;
-}
-.provisional.gc-chckbxrdio input[type="radio"] {
-	border: 0;
-	clip: rect(0 0 0 0);
-	height: 1px;
-	margin: -1px;
-	overflow: hidden;
-	padding: 0;
-	position: absolute;
-	width: 1px;
-}
-.provisional.gc-chckbxrdio input[type="radio"][disabled] + label {
-	cursor: not-allowed;
-	opacity: .5;
-}
-.provisional.gc-chckbxrdio input[type="radio"] + label {
-	display: inline-block;
-	line-height: 2;
-	margin-left: 36px;
-	width: auto;
-}
-.provisional.gc-chckbxrdio input[type="radio"] + label::before {
-	border: 4px solid #fff;
-	-webkit-box-shadow: 0 0 0 2px #000;
-	box-shadow: 0 0 0 2px #000;
-	content: "";
-	display: inline-block;
-	height: 36px;
-	left: 0;
-	position: absolute;
-	top: 2px;
-	width: 36px;
-}
-.provisional.gc-chckbxrdio input[type="radio"] + label:hover::before {
-	background-image: -webkit-gradient(linear, left top, left bottom, from(#e6e5e5), color-stop(50%, white));
-	background-image: linear-gradient(to bottom, #e6e5e5, white 50%);
-}
-.provisional.gc-chckbxrdio input[type="radio"]:focus + label::before {
-	-webkit-box-shadow: 0 0 0 2px #000, 0 0 8px 4px #3b99fc;
-	box-shadow: 0 0 0 2px #000, 0 0 8px 4px #3b99fc;
-}
-.provisional.gc-chckbxrdio input[type="radio"] + label::before {
-	border-radius: 50%;
-}
-.provisional.gc-chckbxrdio input[type="radio"]:checked + label::before {
-	background: #444;
-}</code></pre>
+								<pre><code>
+
+</code></pre>
 							</details>
 						</details>
 						<h4>Large radio buttons target with explicit labels in an inline form</h4>
 						<div class="panel panel-default pattern-demo">
 							<div class="panel-body">
-								<fieldset class="provisional gc-chckbxrdio form-inline">
+								<fieldset class="gc-chckbxrdio form-inline">
 									<legend>Choose an option:</legend>
 									<div class="label-inline">
 										<input id="inlineRadio1" type="radio" name="optradio">
@@ -660,7 +680,7 @@
 							<summary>Code</summary>
 							<details>
 								<summary>HTML</summary>
-								<pre><code>&lt;fieldset class="provisional gc-chckbxrdio form-inline"&gt;
+								<pre><code>&lt;fieldset class="gc-chckbxrdio form-inline"&gt;
 	&lt;legend&gt;Choose an option&lt;/legend&gt;
 	&lt;div class="label-inline"&gt;
 		&lt;input id="inlineRadio1" type="radio" name="optradio"&gt;
