@@ -136,7 +136,7 @@
 			 <div class="row">
 				<div class="col-md-12 pull-left">
 					<ul class="list-inline small mrgn-bttm-sm" style="line-height:1.65em" id="list-inline-desktop-only">
-							<li class="mrgn-rght-lg"> Last updated: 2020-12-18</li>
+							<li class="mrgn-rght-lg"> Last updated: 2022-05-10</li>
 
 					</ul>
 				</div>
@@ -165,12 +165,12 @@
 					<h2 id="when">When to use</h2>
 					<p>Use contextual alerts to:</p>
 					<ul>
-						<li>bring a person’s attention to an important change at the page or subsection level like a service or site outage, recent changes to a process or service</li>
+						<li>bring a person’s attention to an important change at the page or subsection level like a service or site outage, recent or upcoming changes to a process or service</li>
 						<li>provide the result of a user-action, for example, confirm success, or notify a person of an error</li>
 						<li>warn a person of a consequence of an action or inaction related to their task</li>
 					</ul>
 
-					<p>To use contextual alerts during a crisis, follow these guidelines:</p>
+					<p>To use contextual alerts during urgent service disruptions, follow these guidelines:</p>
 					<ul>
 						<li><a href="../crisis/alerts.html">Canada.ca alerts and service disruptions</a></li>
 					</ul>
@@ -197,7 +197,7 @@
 						<dt>Applies to the entire site</dt>
 						<dd>Place it at the top of the page above the main heading</dd>
 						<dt>Applies to the page</dt>
-						<dd>Place it underneath the page heading</dd>
+						<dd>Place it underneath the page heading</br></br>In some cases, where evidence shows an alert is being missed, consider repeating a part of the alert within the relevant section of web content.</dd>
 						<dt>Applies to a subsection of the page</dt>
 						<dd>Place it within that subsection, generally underneath the subsection heading or between 2 paragraphs</dd>
 					</dl>
@@ -231,7 +231,12 @@
 						</section>
 						<section>
 							<h3 id="warning">2. Warning alert</h3>
-							<p><strong>When to use:</strong> Use the warning alert to draw attention to a possible consequence of an action or inaction, such as legal penalty that could apply.</p>
+							<p><strong>When to use:</strong> Use the warning alert to draw attention to:</p>
+							<ul>
+								<li>a possible consequence of an action or inaction, such as legal penalty that could apply</li>
+								<li>the date of an upcoming change to a policy or process that will affect a significant number of people, such as a change to travel requirements</li>
+							</ul>
+							
 							<div class="pattern-demo mrgn-bttm-md">
 								<section class="provisional alert alert-warning">
 									<h3>Changes to impaired driving and cannabis-related crime laws</h3>
@@ -247,7 +252,30 @@
  &lt;p&gt;&lt;a href="https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/impaired-driving-cannabis-penalties-affect-immigration-status.html"&gt;New penalties and how you could be afected&lt;/a&gt;&lt;/p&gt;
 &lt;/section&gt;</code></pre>
 							</details>
-						</section>
+					
+						<br>
+						
+						<div class="pattern-demo mrgn-bttm-md">
+							<section class="provisional alert alert-warning">
+							
+								<p><strong>Starting April 1, 2022,</strong> pre-entry tests will no longer be required for fully vaccinated travellers entering Canada by land, air, or water. Until then, follow the pre-entry test requirements.
+</p>
+								<p><a href="https://www.canada.ca/en/public-health/news/2022/03/government-of-canada-will-remove-pre-entry-test-requirement-for-fully-vaccinated-travellers-on-april-1.html">News release</a></p>
+							</section>
+						</div>
+						
+						<details>
+							<summary>Code</summary>
+							<pre><code>&lt;section class="alert alert-warning"&gt;
+
+&lt;p&gt;&lt;strong&gt;Starting April 1, 2022,&lt;/strong&gt; pre-entry tests will no longer be required for fully vaccinated travellers entering Canada by land, air, or water. Until then, follow the pre-entry test requirements.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.canada.ca/en/public-health/news/2022/03/government-of-canada-will-remove-pre-entry-test-requirement-for-fully-vaccinated-travellers-on-april-1.html"&gt;News release&lt;/a&gt;&lt;/p&gt;
+&lt;/section&gt;</code></pre>
+						</details>
+						
+						
+							</section>
+						
 						<section>
 							<h3 id="info">3. Info alert</h3>
 							<p><strong>When to use:</strong> Use the info alert to draw attention to a clarification of surrounding content or helpful advice, such as the number of weeks it will take to receive a refund when an application is sent by mail vs by phone.</p>
@@ -295,6 +323,14 @@
 
 				<h2 id="latest">Latest changes</h2>
 				<section>
+					
+
+<dl class="dl-horizontal">
+	 <dt><time datetime="2022-05-10" class="link-muted">2022-05-10</time></dt>
+	 <dd>Added an additional warning alert example that includes a date.</dd>
+</dl>
+
+
 					 <dl class="dl-horizontal">
 							<dt><time datetime="2020-12-18" class="link-muted">2020-12-18</time></dt>
 							<dd>Promoted the beta alert pattern to the stable alert pattern.</dd>
