@@ -95,7 +95,7 @@
     "USE": "Use to present important new information that needs to appear in a pre-existing context",
     "CAT": "Design pattern",
     "TYPE": "Visual",
-    "EXAMPLE": "<a href=\"http://wet-boew.github.io/wet-boew-styleguide/design/alerts-en.html\">WET: Alerts</a>",
+    "EXAMPLE": "<a href=\"http://wet-boew.github.io/wet-boew-styleguide/design/alerts.html\">WET: Alerts</a>",
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/contributors.html\">Contributors</a>",
