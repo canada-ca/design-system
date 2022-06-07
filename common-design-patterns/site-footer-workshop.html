@@ -199,15 +199,14 @@ main themes within Canada.ca. Departments also have the option to add a contextu
 <p>Different footer elements apply depending on the type of page you’re creating.</p>
 
 <ul>
-  <li><strong>Standard web page</strong>: Pages where people are engaged in a transactional process such that mistakenly following other links  would result in errors, loss of data or accidental termination of the session.</li>
-<li><strong>Campaigns</strong>: Landing pages for external marketing or advertising campaigns. The flexibility in layout allows institutions to match elements of their external campaign with the landing page.</li>
+  <li><strong>Standard web page</strong>: Pages where people can navigate away without losing data, triggering errors or terminating their session.</li>
+<li><strong>Transactional page</strong>: Pages on which people are using an application where they might lose data, trigger errors or terminate their session if they mistakenly follow other links.</li>
+<li><strong>Campaigns</strong>: Landing pages for external marketing or advertising campaigns. The flexibility in layout allows institutions
+to match elements of their external campaign with the landing page.</li>
 </ul>
 
 </section>
 <section>
-<h2>How to implement the site footer</h2>
-<p>If you're not on the Managed Web Service, you can implement the site footer by using the <a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-en.html">Centrally Deployed Templates Solution (CDTS)</a>.</p>
-<p>Follow these requirements:</p>
 <table class="table table-bordered table-condensed">
 
 <caption>
@@ -220,7 +219,7 @@ Global footer requirements
 
   <tr class="active">
 
-    <th scope="col">Footer element</th>
+    <th scope="col">Site footer element</th>
     <th scope="col">Standard page</th>
     <th scope="col">Campaign page</th>
     <th scope="col">Transactional page</th>
@@ -230,7 +229,7 @@ Global footer requirements
 
 <tbody>
 
-  <tr>
+  <!-- <tr>
 
     <td><a href="https://design.canada.ca/common-design-patterns/report-problem.html">Report a problem</a></td>
     <td>Optional</td>
@@ -246,8 +245,8 @@ Global footer requirements
     <td>Optional</td>
     <td>Optional</td>
 
-  </tr>
-  <tr>
+  </tr> -->
+  <!-- <tr>
 
     <td><a href="https://design.canada.ca/common-design-patterns/date-modified.html">Date modified</a></td>
 
@@ -255,19 +254,28 @@ Global footer requirements
     <td>Mandatory</td>
     <td>Mandatory, but can instead be a version number when used for an application</td>
 
-  </tr>
+  </tr> -->
   <tr>
 
-    <td><a href="#links">Footer links</a></td>
+    <td><a href="#cont-links">Contextual footer band</a></td>
 
-    <td>Mandatory</td>
+    <td>Optional</td>
     <td>Optional</td>
     <td>Optional</td>
 
   </tr>
+	<tr>
+	
+		<td><a href="#links">Main footer band</a></td>
+	
+		<td>Mandatory</td>
+		<td>Optional</td>
+		<td>Optional</td>
+	
+	</tr>
   <tr>
 
-    <td><a href="#sublinks">Sub-footer links<p></p></a></td>
+    <td><a href="#sublinks">Sub-footer band<p></p></a></td>
     <td>Mandatory</td>
     <td>Optional</td>
     <td>Optional</td>
@@ -285,7 +293,7 @@ Global footer requirements
 </tbody></table>
 </section>
 <section>
-<h2 id="links">Footer links</h2>
+<h2 id="links">Main footer band</h2>
 <p>Government-wide tasks and government links have been prioritized according to demand, derived from search logs and web traffic data. They appear in the following order:</p>
 <ul>
 	<li>Contact us - should be contextualized to link to the contact information for a specific department or a specific program</li>
@@ -298,7 +306,9 @@ Global footer requirements
 	<li>How government works</li>
 	<li>Open government</li>
 </ul>
-<h3 id="sublinks">Sub-footer links</h3>
+<h2 id="cont-links">Contextual footer band</h2>
+<p></p>
+<h2 id="sublinks">Sub-footer band</h3>
 <p>Utility links appear after links to government-wide tasks and government links, in the following order:</p>
 <ul>
 	<li>Social media</li>
