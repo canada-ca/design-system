@@ -24,6 +24,34 @@
 			gtag('js', new Date());
 			gtag('config', 'UA-105628416-2');
 		</script>
+			<style>
+				/* override the removal of the underline .gc-prtts a */
+
+				.gc-prtts a {
+					text-decoration: underline !important;
+				}
+				/* fix spacing, update in provisional social-media css */
+				.provisional.followus-vertical.mrgn-blk-2 ul {
+					margin-block-start: 1.6em;
+				}
+			
+				/* update in provisional social-media css too */
+				.provisional.followus h2 {
+					font-size: 1.2em;
+					/* margin-top: 10px; remove this margin from the social-media css*/
+					margin-top: 15px !important;
+					/* will be handled by mrgn-tp-md class, but put here to fix the issue while I adjust css */
+				}
+			
+				.provisional.followus-vertical ul {
+					font-size: 18px;
+				}
+			
+				.provisional.ministers .ln-hght {
+					line-height: 1.4 !important;
+					/* not sure how else to target this, using <small> should always fix the line-height.. */
+				}
+			</style>
 	</head>
 	<body class="cnt-wdth-lmtd" vocab="http://schema.org/" typeof="WebPage">
 		<ul id="wb-tphp">
@@ -397,14 +425,14 @@
 							<div class="col-sm-6">
 								<div class="well well-sm brdr-rds-0 eqht-trgt">
 									<img class="img-responsive full-width" src="../images/360x203.jpg" alt="">
-									<h3 class="h5"><a href="#" class="stretched-link">[Feature hyperlink text]<mark>underline missing</mark></a></h3>
+									<h3 class="h5"><a href="#" class="stretched-link">[Feature hyperlink text]</a></h3>
 									<p>Brief description of the feature being promoted.</p>
 								</div>
 							</div>
 							<div class="col-sm-6">
 								<div class="well well-sm brdr-rds-0 eqht-trgt">
 									<img class="img-responsive full-width" src="../images/360x203.jpg" alt="">
-									<h3 class="h5"><a href="#" class="stretched-link">[Feature hyperlink text]<mark>underline missing</mark></a></h3>
+									<h3 class="h5"><a href="#" class="stretched-link">[Feature hyperlink text]</a></h3>
 									<p>Brief description of the feature being promoted.</p>
 								</div>
 							</div>
