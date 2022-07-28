@@ -6,13 +6,13 @@
     "TYPE": "Destination",
     "MANDATORY": "No"
   }, {
-	"NAME": "<a href=\"https://design.canada.ca/common-design-patterns/contextual-signin.html\">Contextual Sign in button</a>",
+    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/contextual-signin.html\">Contextual Sign in button</a>",
     "USE": "The Sign in button is an optional header element that directs people to government accounts that require authentication.",
     "CAT": "Design pattern",
     "TYPE": "Interaction, Visual",
     "MANDATORY": "No"
   }, {
-	"NAME": "<a href=\"https://design.canada.ca/recommended-templates/generic-destination.html\">Basic page layout</a>",
+    "NAME": "<a href=\"https://design.canada.ca/recommended-templates/generic-destination.html\">Basic page layout</a>",
     "USE": "The basic layout for Canada.ca pages.",
     "CAT": "Template",
     "TYPE": "Destination",
@@ -36,7 +36,7 @@
     "TYPE": "Promotion",
     "MANDATORY": "No"
   }, {
-  	"NAME": "<a href=\"https://design.canada.ca/common-design-patterns/canada-dot-ca.html\">Canada.ca domain</a>",
+    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/canada-dot-ca.html\">Canada.ca domain</a>",
     "USE": "The primary domain for the Government of Canada's public-facing web presence.",
     "CAT": "Design pattern",
     "TYPE": "Site-wide pattern",
@@ -415,7 +415,7 @@
     "TYPE": "Theme template, Navigation",
     "MANDATORY": "Mandatory"
   }, {
-	"NAME": "<a href=\"https://design.canada.ca/recommended-templates/transparency.html\">Transparency and corporate reporting</a>",
+    "NAME": "<a href=\"https://design.canada.ca/recommended-templates/transparency.html\">Transparency and corporate reporting</a>",
     "USE": "A corporate reporting page provides proactive disclosure of information offered by that institution.",
     "CAT": "Template",
     "TYPE": "Institutional",
@@ -432,5 +432,5 @@
     "CAT": "Style",
     "TYPE": "Site-wide pattern, Visual",
     "MANDATORY": "Mandatory"
-    }]
+  }]
 }
