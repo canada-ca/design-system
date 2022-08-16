@@ -100,227 +100,342 @@
   </nav>
 </header>
 <main role="main" property="mainContentOfPage" class="container wb-prettify all-pre">
-  <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Global header</span>: <span>Canada.ca design system</span></span></h1>
-  <div class="row">
-    <div class="col-md-12 pull-left">
-      <ul class="list-inline small mrgn-bttm-sm" style="line-height:1.65em" id="list-inline-desktop-only">
-        <li class="mrgn-rght-lg"> Last updated: 2022-MM-DD</li>
-      </ul>
+<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Global header - Canada.ca design pattern</span>: <span>Canada.ca design system</span></span></h1>
+<div class="row">
+  <div class="col-md-12 pull-left">
+    <ul class="list-inline small mrgn-bttm-sm" style="line-height:1.65em" id="list-inline-desktop-only">
+      <li class="mrgn-rght-lg"> Last updated: 2022-08-16</li>
+    </ul>
+  </div>
+</div>
+<p><span class="label label-danger">Mandatory on standard pages</span></p>
+<p>The global header is at the top of each web page from the Government of Canada.</p>
+<p>Having the same global header on all pages:</p>
+<ul>
+  <li>strengthens the Canada.ca brand</li>
+  <li>promotes trust</li>
+  <li>provides a unified experience on the Government of Canada web presence</li>
+  <li>allows navigation across the broad range of services and information offered</li>
+</ul>
+<div class="pattern-demo mrgn-tp-lg">
+  <figure class="mrgn-bttm-lg">
+    <figcaption><b>Global header – large screen</b></figcaption>
+    <img src="https://test.canada.ca/spec2.0/images/header-en.png" class="img-responsive" alt="Diagram of global header for large screens. Text version below:">
+    <details>
+      <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Text version</summary>
+      <p>The global header has the Government of Canada signature in the top left. Under the signature is the theme and topic menu, and under the menu is the breadcrumb trail. The language toggle link is at the rop right. Under the language toggle is the site search box. </p>
+    </details>
+  </figure>
+</div>
+<div class="pattern-demo">
+  <figure class="mrgn-bttm-lg">
+    <figcaption><b>Global header – small screen</b></figcaption>
+    <img src="../images/header_small_en.png" class="img-responsive" alt="Diagram of global header for small screens. Text version below:">
+    <details>
+      <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Text version</summary>
+      <p>The global header has the Government of Canada signature in the top left.  The language toggle link is at the rop right. Under the signature and the language toggle is the site search box. Under the search box is the theme and topic menu. Under the theme and topic menu is the breadcrumb trail.</p>
+    </details>
+  </figure>
+</div>
+<section>
+  <h2>On this page</h2>
+  <ul>
+    <li><a href="#when">When to use</a></li>
+    <li><a href="#implementation">Implementation resources</a></li>
+    <li><a href="#changes">Latest changes</a></li>
+  </ul>
+</section>
+<h2 id="when">When to use</h2>
+<p>Include the global header on all Government of Canada web pages. Determine which header elements to use based on the type of page you’re creating.</p>
+<div class="wb-tabs">
+<div class="tabpanels">
+<details id="001" open="open">
+  <summary><strong>Standard pages</strong></summary>
+  <div class="col-md-9">
+    <p class="mrgn-tp-lg"><strong>Standard web pages</strong> are pages where people can navigate away without losing data, triggering errors or terminating their session.</p>
+  </div>
+  <div class="col-md-12">
+    <h3>Global header requirements for a standard page</h3>
+    <div class="panel panel-default mrgn-tp-md">
+      <table class="table table-striped table-condensed" id="mandatory-01" aria-live="polite">
+        <caption class="wb-inv">
+        Global header requirements
+        </caption>
+        <thead>
+          <tr>
+            <th class="col-md-4">Element</th>
+            <th class="col-md-3">Mandatory</th>
+          </tr>
+        </thead>
+        <tr>
+          <td><a href="https://design.canada.ca/common-design-patterns/signature.html">Government of Canada signature</a></td>
+          <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Yes</span></td>
+        </tr>
+        <tr>
+          <td>Link to Canada.ca home</td>
+          <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Yes</span></td>
+        </tr>
+        <tr>
+          <td><a href="https://design.canada.ca/common-design-patterns/language-toggle.html">Language toggle</a></td>
+          <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Yes</span></td>
+        </tr>
+        <tr>
+          <td><a href="https://design.canada.ca/common-design-patterns/search-box.html">Site search box</a></td>
+          <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Yes</span></td>
+        </tr>
+        <tr>
+          <td>Key line</td>
+          <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Yes</span></td>
+        </tr>
+        <tr>
+          <td><a href="https://design.canada.ca/common-design-patterns/site-menu.html">Theme and topic menu</a></td>
+          <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Yes</span></td>
+        </tr>
+        <tr>
+          <td><a href="https://design.canada.ca/common-design-patterns/breadcrumb-trail.html">Breadcrumb trail</a></td>
+          <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Yes</span></td>
+        </tr>
+        <tr>
+          <td><a href="https://design.canada.ca/common-design-patterns/sign-in.html">Sign in button</a></td>
+          <td>Optional</td>
+        </tr>
+        <tr>
+          <td>Background colour (white)</td>
+          <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Yes</span></td>
+        </tr>
+      </table>
     </div>
   </div>
-  <p><span class="label label-danger">Mandatory on standard pages</span></p>
-  <p>The global header is at the top of each web page from the Government of Canada.</p>
-  <div class="pattern-demo">
-    <figure class="mrgn-bttm-lg">
-      <figcaption><b>Global header – large screen</b></figcaption>
-      <img src="https://test.canada.ca/spec2.0/images/header-en.png" class="img-responsive" alt="Diagram of global header for large screens. Text version below:">
-      <details>
-        <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Text version</summary>
-        <p>The global header has the Government of Canada signature in the top left. Under the signature is the theme and topic menu, and under the menu is the breadcrumb trail. The language toggle link is at the rop right. Under the language toggle is the site search box. </p>
-      </details>
-    </figure>
+</details>
+<details id="002">
+  <summary><strong>Transactional pages</strong></summary>
+  <div class="col-md-9">
+    <p class="mrgn-tp-lg"><strong>Transactional web pages</strong> are pages with an interaction task where people might lose data, trigger errors, or terminate their session if they navigate away from the page.</p>
   </div>
-  <div class="pattern-demo">
-    <figure class="mrgn-bttm-lg">
-      <figcaption><b>Global header – small screen</b></figcaption>
-      <img src="../images/header_small_en.png" class="img-responsive" alt="Diagram of global header for small screens. Text version below:">
-      <details>
-        <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Text version</summary>
-        <p>The global header has the Government of Canada signature in the top left.  The language toggle link is at the rop right. Under the signature and the language toggle is the site search box. Under the search box is the theme and topic menu. Under the theme and topic menu is the breadcrumb trail.</p>
-      </details>
-    </figure>
+  <div class="col-md-12">
+    <h3>Global header requirements for transactional pages</h3>
+    <div class="panel panel-default mrgn-tp-md">
+      <table class="table table-striped table-condensed" id="mandatory-02" aria-live="polite">
+        <caption class="wb-inv">
+        Global header requirements
+        </caption>
+        <thead>
+          <tr>
+            <th class="col-md-4">Element</th>
+            <th class="col-md-3">Mandatory</th>
+          </tr>
+        </thead>
+        <tr>
+          <td><a href="https://design.canada.ca/common-design-patterns/signature.html">Government of Canada signature</a></td>
+          <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Yes</span></td>
+        </tr>
+        <tr>
+          <td>Link to Canada.ca home</td>
+          <td>Not reccomended</td>
+        </tr>
+        <tr>
+          <td><a href="https://design.canada.ca/common-design-patterns/language-toggle.html">Language toggle</a></td>
+          <td>Not recommended</td>
+        </tr>
+        <tr>
+          <td><a href="https://design.canada.ca/common-design-patterns/search-box.html">Site search box</a></td>
+          <td>Not recommended</td>
+        </tr>
+        <tr>
+          <td>Key line</td>
+          <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Yes</span></td>
+        </tr>
+        <tr>
+          <td><a href="https://design.canada.ca/common-design-patterns/site-menu.html">Theme and topic menu</a></td>
+          <td>Not recommended</td>
+        </tr>
+        <tr>
+          <td><a href="https://design.canada.ca/common-design-patterns/breadcrumb-trail.html">Breadcrumb trail</a></td>
+          <td>Optional</td>
+        </tr>
+        <tr>
+          <td><a href="https://design.canada.ca/common-design-patterns/sign-in.html">Sign in button</a></td>
+          <td>Optional</td>
+        </tr>
+        <tr>
+          <td>Background colour (white)</td>
+          <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Yes</span></td>
+        </tr>
+      </table>
+    </div>
   </div>
-  <section>
-    <h2>On this page</h2>
+</details>
+<details id="003">
+  <summary><strong>Campaign pages</strong></summary>
+  <div class="col-md-9">
+    <p class="mrgn-tp-lg">A <strong>campaign web page</strong> is a landing page for external marketing or advertising campaigns. The flexibility in layout allows institutions to match elements of their external campaign with the landing page.</p>
+  </div>
+  <div class="col-md-12">
+    <h3>Global header requirements for a campaign page</h3>
+    <div class="panel panel-default mrgn-tp-md">
+      <table class="table table-striped table-condensed" id="mandatory-03" aria-live="polite">
+        <caption class="wb-inv">
+        Global header requirements
+        </caption>
+        <thead>
+          <tr>
+            <th class="col-md-4">Element</th>
+            <th class="col-md-3">Mandatory</th>
+          </tr>
+        </thead>
+        <tr>
+          <td><a href="https://design.canada.ca/common-design-patterns/signature.html">Government of Canada signature</a></td>
+          <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Yes</span></td>
+        </tr>
+        <tr>
+          <td>Link to Canada.ca home</td>
+          <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Yes</span></td>
+        </tr>
+        <tr>
+          <td><a href="https://design.canada.ca/common-design-patterns/language-toggle.html">Language toggle</a></td>
+          <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Yes</span></td>
+        </tr>
+        <tr>
+          <td><a href="https://design.canada.ca/common-design-patterns/search-box.html">Site search box</a></td>
+          <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Yes</span></td>
+        </tr>
+        <tr>
+          <td>Key line</td>
+          <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Yes</span></td>
+        </tr>
+        <tr>
+          <td><a href="https://design.canada.ca/common-design-patterns/site-menu.html">Theme and topic menu</a></td>
+          <td>Optional</td>
+        </tr>
+        <tr>
+          <td><a href="https://design.canada.ca/common-design-patterns/breadcrumb-trail.html">Breadcrumb trail</a></td>
+          <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Yes</span></td>
+        </tr>
+        <tr>
+          <td><a href="https://design.canada.ca/common-design-patterns/sign-in.html">Sign in button</a></td>
+          <td>Optional</td>
+        </tr>
+        <tr>
+          <td>Background colour (white)</td>
+          <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Yes</span></td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</details>
+<h2 id="implementation">Implementation resources</h2>
+<ul>
+  <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-en.html">Centrally Deployed Templates Solution (CDTS)</a>
     <ul>
-      <li><a href="#objective">Objective</a></li>
-      <li><a href="#when">When to use</a></li>
-      <li><a href="#how">How to implement</a></li>
-      <li><a href="#changes">Latest changes</a></li>
+      <li><a href="https://cdts.service.canada.ca/app/cls/WET/gcweb/v4_0_45/cdts/samples/">CDTS Samples</a> - provides links to sample pages that demonstrate how to implement various CDTS features </li>
     </ul>
-  </section>
-  <h2 id="objective">Objective</h2>
-  <p>Having the same global header on all pages strengthen the global Canada.ca brand and promotes trust. It also provides a unified experience on the Government of Canada web presence and allows navigation across the broad range of services and information offered.</p>
-  <h2 id="when">When to use</h2>
-  <p>The global header should be on all pages from the Goverment of Canada. Some elements are optional in these situations:</p>
-  <ul>
-    <li><strong>Transactional scenarios</strong>: Pages where people are engaged in a transactional process such that mistakenly following other links  would result in errors, loss of data or accidental termination of the session.</li>
-    <li><strong>Campaigns</strong>: Landing pages for external marketing or advertising campaigns. The flexibility in layout allows institutions to match elements of their external campaign with the landing page.</li>
-  </ul>
-  <h2 id="how">How to implement</h2>
-  <p>If you're not on the Managed Web Service, you can implement the global header by using the <a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-en.html">Centrally Deployed Templates Solution (CDTS)</a>.</p>
-  <p>Follow these requirements:</p>
-  <table class="table table-bordered table-condensed">
-    <caption>
-    Global header requirements
-    </caption>
-    <thead>
-      <tr class="active">
-        <th scope="col" class="col-md-4">Header element</th>
-        <th scope="col" class="col-md-2">Standard page</th>
-        <th scope="col" class="col-md-2">Campaign page</th>
-        <th scope="col" class="col-md-2">Transactional page</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a href="signature.html">Government of Canada signature (linked to Canada.ca home)</a></td>
-        <td>Mandatory</td>
-        <td>Mandatory</td>
-        <td>Mandatory, but link to Canada.ca home page is optional</td>
-      </tr>
-      <tr>
-        <td><a href="language-toggle.html">Language toggle</a></td>
-        <td>Mandatory</td>
-        <td>Mandatory</td>
-        <td>Mandatory <sup id="table1-fn1-rf"><a class="fn-lnk" href="#table1-fn1"><span class="wb-inv">table 1 note </span>1</a></sup></td>
-      </tr>
-      <tr>
-        <td><a href="search-box.html">Site search box</a></td>
-        <td>Mandatory</td>
-        <td>Optional</td>
-        <td>Optional</td>
-      </tr>
-      <tr>
-        <td><a href="contextual-signin.html">Contextual Sign in button</a></td>
-        <td>Optional</td>
-        <td>Optional</td>
-        <td>Optional</td>
-      </tr>
-      <tr>
-        <td><a href="site-menu.html">Theme and topic menu</a></td>
-        <td>Mandatory</td>
-        <td>Optional</td>
-        <td>Optional</td>
-      </tr>
-      <tr>
-        <td><a href="breadcrumb-trail.html">Breadcrumb trail</a></td>
-        <td>Mandatory</td>
-        <td>Optional</td>
-        <td>Optional</td>
-      </tr>
-      <tr>
-        <td>Background colour (white)</td>
-        <td>Mandatory</td>
-        <td>Optional</td>
-        <td>Mandatory</td>
-      </tr>
-    </tbody>
-    <tfoot>
-      <tr>
-        <td colspan="4" class="wb-fnote"><h2 id="table1-fn" class="wb-inv">Table 1 Notes</h2>
-          <dl>
-            <dt>Table 1 Note 1</dt>
-            <dd id="table1-fn1">
-              <p>Transactional web applications must be developed so that people can toggle between official languages on any given page or screen. Some legacy web applications may not have been designed this way. Such applications should be updated to allow this functionality. Until they are replaced or updated, the language toggle can be omitted if its use would result in a loss of data.</p>
-              <p class="fn-rtn"> <a href="#table1-fn1-rf"><span class="wb-inv">Return to table 1 note </span>1<span class="wb-inv"> referrer</span></a> </p>
-            </dd>
-          </dl></td>
-      </tr>
-    </tfoot>
-  </table>
-  <h2 id="changes">Latest changes</h2>
-  <dl class="dl-horizontal">
-    <dt>
-      <time datetime="2022-MM-DD" class="link-muted">2022-MM-DD</time>
-    </dt>
-    <dd>Added contextual Sign in button to the global header</dd>
-    <dt>
-      <time datetime="2020-06-25" class="link-muted">2020-06-25</time>
-    </dt>
-    <dd>The small screen version was modified to a slimmer version</dd>
-  </dl>
-  
-  <!-- START PAGE FEEDBACK WIDGET -->
-  <div class="row row-no-gutters mrgn-tp-xl">
-    <div class="col-sm-7 col-lg-6">
-      <section class="gc-pg-hlpfl provisional">
-        <div class="well mrgn-bttm-0">
-          <form id="gc-pg-hlpfl-frm" action="#" method="post" autocomplete="off">
-            <input type="hidden" name="institutionopt" value="tbs">
-            <input type="hidden" name="themeopt" value="Policies">
-            <input type="hidden" name="language" value="EN">
-            <input type="hidden" name="pageTitle" value="Designing content for Canada.ca">
-            <input type="hidden" name="submissionPage" value="https://design.canada.ca/common-design-patterns/global-header.html">
-            <input type="hidden" name="sectionopt" value="Design system">
-            <input type="hidden" id="helpful" name="helpful" value="Yes">
-            <div class="gc-pg-hlpfl-btn">
-              <div class="row row-no-gutters">
-                <div class="col-xs-12 col-sm-7 mrgn-tp-sm">
-                  <h2 class="mrgn-tp-sm h5">Did you find what you were looking for?</h2>
-                </div>
-                <div class="col-xs-8 col-sm-5 text-right">
-                  <button id="btnyes" type="submit" value="Yes" class="btn btn-primary">Yes</button>
-                  <button id="btnno" type="button"
+  </li>
+  <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing.html">GCWeb (WET)</a></li>
+  <li><a href="https://drupalwxt.github.io/en/docs/environment/">Drupal WxT</a></li>
+  <li>AEM/Managed Web Service - documentation for AEM is available on GCpedia</li>
+</ul>
+<h2 id="changes">Latest changes</h2>
+<dl class="dl-horizontal">
+  <dt>
+    <time datetime="2022-08-16" class="link-muted">2022-08-16</time>
+  </dt>
+  <dd>Updated content design for clarity, added contextual Sign in button, added implementation resources to the global header </dd>
+  <dt>
+    <time datetime="2020-06-25" class="link-muted">2020-06-25</time>
+  </dt>
+  <dd>The small screen version was modified to a slimmer version</dd>
+</dl>
+
+<!-- START PAGE FEEDBACK WIDGET -->
+<div class="row row-no-gutters mrgn-tp-xl">
+  <div class="col-sm-7 col-lg-6">
+    <section class="gc-pg-hlpfl provisional">
+      <div class="well mrgn-bttm-0">
+        <form id="gc-pg-hlpfl-frm" action="#" method="post" autocomplete="off">
+          <input type="hidden" name="institutionopt" value="tbs">
+          <input type="hidden" name="themeopt" value="Policies">
+          <input type="hidden" name="language" value="EN">
+          <input type="hidden" name="pageTitle" value="Designing content for Canada.ca">
+          <input type="hidden" name="submissionPage" value="https://design.canada.ca/common-design-patterns/global-header.html">
+          <input type="hidden" name="sectionopt" value="Design system">
+          <input type="hidden" id="helpful" name="helpful" value="Yes">
+          <div class="gc-pg-hlpfl-btn">
+            <div class="row row-no-gutters">
+              <div class="col-xs-12 col-sm-7 mrgn-tp-sm">
+                <h2 class="mrgn-tp-sm h5">Did you find what you were looking for?</h2>
+              </div>
+              <div class="col-xs-8 col-sm-5 text-right">
+                <button id="btnyes" type="submit" value="Yes" class="btn btn-primary">Yes</button>
+                <button id="btnno" type="button"
 												class="btn btn-primary mrgn-lft-sm nojs-hide">No</button>
-                </div>
               </div>
             </div>
-            <p class="h3 hidden nojs-show">If not, tell us why:</p>
-            <div class="gc-pg-hlpfl-no nojs-show">
-              <fieldset>
-                <legend class="h4 mrgn-tp-0 mrgn-bttm-md">What was wrong?</legend>
-                <div class="radio">
-                  <label for="problem1">
-                    <input name="problem" id="problem1" type="radio"
+          </div>
+          <p class="h3 hidden nojs-show">If not, tell us why:</p>
+          <div class="gc-pg-hlpfl-no nojs-show">
+            <fieldset>
+              <legend class="h4 mrgn-tp-0 mrgn-bttm-md">What was wrong?</legend>
+              <div class="radio">
+                <label for="problem1">
+                  <input name="problem" id="problem1" type="radio"
 													value="I can't find the information"
 													data-gc-analytics-wtph-value="I can't find the information-Je ne peux pas trouver l'information"
 													data-gc-analytics-collect="notPrivate">
-                    I can't <strong>find</strong> the information </label>
-                </div>
-                <div class="radio">
-                  <label for="problem2">
-                    <input name="problem" id="problem2" type="radio"
+                  I can't <strong>find</strong> the information </label>
+              </div>
+              <div class="radio">
+                <label for="problem2">
+                  <input name="problem" id="problem2" type="radio"
 													value="The information is hard to understand"
 													data-gc-analytics-wtph-value="The information is hard to understand-L'information est difficile à comprendre"
 													data-gc-analytics-collect="notPrivate">
-                    The information is hard to <strong>understand</strong> </label>
-                </div>
-                <div class="radio">
-                  <label for="problem3">
-                    <input name="problem" id="problem3" type="radio"
+                  The information is hard to <strong>understand</strong> </label>
+              </div>
+              <div class="radio">
+                <label for="problem3">
+                  <input name="problem" id="problem3" type="radio"
 													value="There was an error / something didn't work"
 													data-gc-analytics-wtph-value="There was an error or something didn't work-Il y avait une erreur ou quelque chose ne fonctionnait pas"
 													data-gc-analytics-collect="notPrivate">
-                    There was an error or something <strong>didn't work</strong> </label>
-                </div>
-                <div class="radio">
-                  <label for="problem4">
-                    <input name="problem" id="problem4" type="radio" value="Other reason"
+                  There was an error or something <strong>didn't work</strong> </label>
+              </div>
+              <div class="radio">
+                <label for="problem4">
+                  <input name="problem" id="problem4" type="radio" value="Other reason"
 													data-gc-analytics-wtph-value="Other reason-Autre raison"
 													data-gc-analytics-collect="notPrivate">
-                    Other reason </label>
-                </div>
-              </fieldset>
-              <label for="problem6" class="mrgn-bttm-0">Please provide more details</label>
-              <p class="small"> <strong>You will not receive a reply. Telephone numbers and email addresses will be
-                removed.</strong> <br>
-                <span class="small">Maximum 300 characters</span> </p>
-              <textarea id="problem6" name="details" class="full-width" maxlength="300"></textarea>
-              <button type="submit" value="No" class="btn btn-primary mrgn-tp-md mrgn-bttm-sm">Submit</button>
-            </div>
-          </form>
-          <div class="gc-pg-hlpfl-thnk hide">
-            <p class="h6 mrgn-tp-sm mrgn-bttm-sm"><span class="far fa-check-circle text-success mrgn-rght-sm"
-										aria-hidden="true"></span> Thank you for your feedback</p>
+                  Other reason </label>
+              </div>
+            </fieldset>
+            <label for="problem6" class="mrgn-bttm-0">Please provide more details</label>
+            <p class="small"> <strong>You will not receive a reply. Telephone numbers and email addresses will be
+              removed.</strong> <br>
+              <span class="small">Maximum 300 characters</span> </p>
+            <textarea id="problem6" name="details" class="full-width" maxlength="300"></textarea>
+            <button type="submit" value="No" class="btn btn-primary mrgn-tp-md mrgn-bttm-sm">Submit</button>
           </div>
+        </form>
+        <div class="gc-pg-hlpfl-thnk hide">
+          <p class="h6 mrgn-tp-sm mrgn-bttm-sm"><span class="far fa-check-circle text-success mrgn-rght-sm"
+										aria-hidden="true"></span> Thank you for your feedback</p>
         </div>
-      </section>
-    </div>
-    <div class="col-sm-3 col-sm-offset-1 col-lg-offset-3">
-      <div class="wb-share"
+      </div>
+    </section>
+  </div>
+  <div class="col-sm-3 col-sm-offset-1 col-lg-offset-3">
+    <div class="wb-share"
 						data-wb-share="{&quot;pnlId&quot;:&quot;pnlShrPg&quot;, &quot;lnkClass&quot;: &quot;btn btn-default btn-block mrgn-tp-md&quot;}"> </div>
-    </div>
   </div>
-  <!-- END PAGE FEEDBACK WIDGET -->
-  <div class="pagedetails">
-    <dl id="wb-dtmd">
-      <dt>Date modified:</dt>
-      <dd>
-        <time property="dateModified">2022-MM-DD</time>
-      </dd>
-    </dl>
-  </div>
+</div>
+<!-- END PAGE FEEDBACK WIDGET -->
+<div class="pagedetails">
+  <dl id="wb-dtmd">
+    <dt>Date modified:</dt>
+    <dd>
+      <time property="dateModified">2022-08-16</time>
+    </dd>
+  </dl>
+</div>
 </main>
 <footer id="wb-info">
   <div class="landscape">
