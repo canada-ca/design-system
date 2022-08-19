@@ -167,7 +167,7 @@
 <div class="gc-stp-stp">
 	<div class="row">
 		<ul class="toc lst-spcd col-md-12">
-			<li class="col-md-4 col-sm-6"><a class="list-group-item active">Site footer</a></li>
+			<li class="col-md-4 col-sm-6"><a class="list-group-item active">Global footer</a></li>
 			<li class="col-md-4 col-sm-6"><a class="list-group-item" href="site-footer-main.html">Main footer band</a></li>
 			<li class="col-md-4 col-sm-6"><a class="list-group-item" href="site-footer-sub.html">Sub-footer band</a></li>
 			<li class="col-md-4 col-sm-6"><a class="list-group-item" href="site-footer-contextual.html">Contextual footer band</a></li>
@@ -180,16 +180,15 @@
 <section>
 <section>
 <p><span class="label label-danger">Mandatory</span></p>
-<p>The global (site-wide) footer at the bottom of each web page contains 2 main bands:</p>
+<p>The global (site-wide) footer at the bottom of each web page contains up to 3 bands:</p>
 
 <ul>
+	<li>contextual band</li>
 	<li>main footer band</li>
 	<li>sub-footer band</li>
 </ul>
-
-<p>Departments also have the option to add a contextual band with links that are unique to their service offerings.
 </p>
-<p>Use the site footer in conjunction with the <a href="site-footer-content.html">content footer pattern</a>. It’s not included on this page as it belongs to the page configuration, not to the footer.</p>
+<p><a href="site-footer-content.html">See Content footer pattern</a> for guidance on how to apply the Date modified, Share this page, Report a problem or Page feedback tool components.</p>
 
 </section>
 
@@ -199,14 +198,24 @@
 <p>The purpose of footer navigation menus is to help people discover government-related content contained in the deeper
 parts of the site’s user navigation model. The footer menus also provide direct, centralized access to GC-wide tasks
 (for example, Contact us, News, Open government).</p>
-<p>Different footer elements should be used depending on the type of page you’re creating.</p>
-
+<p>Determine which footer elements to use based on the type of page you’re creating.</p>
+<mark>as list for Laura</mark>
 <ul>
-  <li><strong>Standard web page</strong>: Pages where people can navigate away without losing data, triggering errors or terminating their session.</li>
-<li><strong>Transactional page</strong>: Pages on which people are using an application where they might lose data, trigger errors or terminate their session if they mistakenly follow other links.</li>
-<li><strong>Campaigns</strong>: Landing pages for external marketing or advertising campaigns. The flexibility in layout allows institutions
-to match elements of their external campaign with the landing page.</li>
+  <li><strong>Standard pages</strong> are pages where people can navigate away without losing data, triggering errors or terminating their
+session.</li>
+<li><strong>Transactional pages</strong> are pages with an interaction task where people might lose data, trigger errors or terminate their
+session if they navigate away from the page.</li>
+<li><strong>Campaign pages</strong> are landing pages for external marketing or advertising campaigns. The flexibility in layout
+allows
+institutions to match elements of their external campaign with the landing page.</li>
 </ul>
+<mark>as paragraph for Laura</mark>
+<p><strong>Standard pages</strong> are pages where people can navigate away without losing data, triggering errors or terminating their
+session.</p>
+<p><strong>Transactional pages</strong> are pages with an interaction task where people might lose data, trigger errors or terminate their
+session if they navigate away from the page.</p>
+<p><strong>Campaign pages</strong> are landing pages for external marketing or advertising campaigns. The flexibility in layout allows
+institutions to match elements of their external campaign with the landing page.</p>
 
 </section>
 <section>
@@ -222,7 +231,7 @@ Global footer requirements
 
   <tr class="active">
 
-    <th scope="col">Site footer element</th>
+    <th scope="col">Global footer element</th>
     <th scope="col">Standard page</th>
     <th scope="col">Campaign page</th>
     <th scope="col">Transactional page</th>
@@ -231,10 +240,19 @@ Global footer requirements
 </thead>
 
 <tbody>
+			<tr>
+			
+				<td><a href="site-footer-contextual.html">1: Contextual footer band</a></td>
+			
+				<td>Optional</td>
+				<td>Optional</td>
+				<td>Optional</td>
+			
+			</tr>
 
 	<tr>
 	
-		<td><a href="site-footer-main.html">Main footer band</a></td>
+		<td><a href="site-footer-main.html">2: Main footer band</a></td>
 	
 		<td>Mandatory</td>
 		<td>Optional</td>
@@ -243,21 +261,13 @@ Global footer requirements
 	</tr>
   <tr>
 
-    <td><a href="site-footer-sub.html">Sub-footer band with Canada wordmark<p></p></a></td>
+    <td><a href="site-footer-sub.html">3: Sub-footer band with Canada wordmark<p></p></a></td>
     <td>Mandatory</td>
     <td>Mandatory</td>
     <td>Mandatory</td>
 
   </tr>
-		<tr>
-		
-			<td><a href="site-footer-contextual.html">Contextual footer band</a></td>
-		
-			<td>Optional</td>
-			<td>Optional</td>
-			<td>Optional</td>
-		
-		</tr>
+
 
 
 </tbody></table>
@@ -265,14 +275,29 @@ Global footer requirements
 
 </section>
 <section>
+<h2>How to implement</h2>
+<p>If you are looking for details on implementing the footer, see:</p>
+<ul>
+	<li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/internet-en.html">Centrally deployed templates solution</a>
+		<ul>
+			<li><a href="https://cdts.service.canada.ca/app/cls/WET/gcweb/v4_0_45/cdts/samples/">CDTS Samples</a> - provides links to sample pages that demonstrate how to implement various CDTS features</li>
+		</ul>
+	</li>
+	<li><a href="https://wet-boew.github.io/GCWeb/docs/implementing.html">GCweb (WET) theme</a></li>
+	<li><a href="https://drupalwxt.github.io/en/docs/environment/">Drupal WxT</a></li>
+	<li><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">AEM/Managed Web Service</a> - documentation for AEM is available on GCpedia</li>
+</ul>
+</section>
+
+<section>
 	<div class="pattern-demo">
 		<figure class="mrgn-bttm-lg">
-			<figcaption><b>Site footer – large screen</b></figcaption>
+			<figcaption><b>Global footer – large screen</b></figcaption>
 			<img src="../images/footer-en.png" class="img-responsive"
-				alt="Diagram of site footer for large screens. Text version below:">
+				alt="Diagram of global footer for large screens. Text version below:">
 			<details>
 				<summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Text version</summary>
-				<p>On large screens the site footer includes 3 distinct bands of links, each arranged in 3 columns. The first band is the
+				<p>On large screens the global footer includes 3 distinct bands of links, each arranged in 3 columns. The first band is the
 				contextual footer. It contains a title and 3 contextual links. The second band is the main footer. It contains links to:
 				“All contacts,” “Departments and agencies,” “About government.” There is a small decorative line as a break before
 				continuing with links to all themes and audiences. The sub-footer at the bottom contains links to: “Social media,”
@@ -284,12 +309,12 @@ Global footer requirements
 	
 	<div class="pattern-demo">
 		<figure class="mrgn-bttm-lg">
-			<figcaption><b>Site footer – small screen</b></figcaption>
+			<figcaption><b>Gobal footer – small screen</b></figcaption>
 			<img src="../images/footer2-mobile-en.png" class="img-responsive"
-				alt="Diagram of site footer for small screens. Text version below:">
+				alt="Diagram of global footer for small screens. Text version below:">
 			<details>
 				<summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Text version</summary>
-				<p>On small screens the site footer includes 3 distinct bands of links, each arranged in a single column. The first band is
+				<p>On small screens the global footer includes 3 distinct bands of links, each arranged in a single column. The first band is
 				the contextual footer. It contains a title and 3 contextual links. The second band is the main footer. It contains links
 				to: “All contacts,” “Departments and agencies,” “About government.” There is a small decorative line as a break before
 				continuing with links to all themes and audiences. The sub-footer at the bottom contains links to: “Social media,”
@@ -300,14 +325,6 @@ Global footer requirements
 	</div>
 </section>
 
-<h2>How to implement</h2>
-<p>If you are looking for details on implementing the footer, see:</p>
-<ul>
-	<li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/internet-en.html">Centrally deployed templates solution</a></li>
-	<li><a href="https://wet-boew.github.io/GCWeb/docs/implementing.html">Web Experience Toolkit/GCweb theme</a></li>
-	<li><a href="https://drupalwxt.github.io/en/docs/environment/">Drupal WxT</a></li>
-	<li><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">AEM/Managed Web Service</a></li>
-</ul>
 
 </div>
 
