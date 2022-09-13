@@ -1,9 +1,9 @@
 {
   "data": [{
-    "NAME": "<a href=\"https://design.canada.ca/recommended-templates/laws-regulations-pages.html#act-profile\">Act profile page</a>",
-    "USE": "Gives a 1 or 2 sentence description of the act, allows allows people to read the legislation, and relates an act to topics, institutions, ministers and other legislation.",
-    "CAT": "Template",
-    "TYPE": "Destination",
+    "NAME": "<a href=\"https://design.canada.ca/continuous-improvement/monitoring/feedback.html\">Page feedback tool</a>",
+    "USE": "The feedback tool is an optional pattern to uncover specific page-level issues affecting task performance.",
+    "CAT": "Design pattern",
+    "TYPE": "Interaction",
     "MANDATORY": "No"
   }, {
     "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/contextual-signin.html\">Sign in button</a>",
