@@ -1,5 +1,47 @@
-Gemfile.lock
-spec/examples.txt
-*.gem
-tmp/
-spec/fixtures/site/.jekyll-cache
+#ignore file with API key
+**/config/
+*.ini
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+.obsidian/
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+#IDE
+.vscode/
+
+# Jekyll
+.jekyll-cache
+_site
+vendor
+
+# Vite Ruby
+/public/vite*
+node_modules
+# Vite uses dotenv and suggests to ignore local-only env files. See
+# https://vitejs.dev/guide/env-and-mode.html#env-files
+*.local
