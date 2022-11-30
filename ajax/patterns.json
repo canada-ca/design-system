@@ -373,8 +373,8 @@
     "TYPE": "Navigation",
     "MANDATORY": "No"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/site-footer.html\">Site footer</a>",
-    "USE": "The global (site-wide) footer at the bottom of each web page - <strong>Mandatory pattern</strong>",
+    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/site-footer.html\">Global footer</a>",
+    "USE": "The site-wide footer at the bottom of each web page, includes the contextual band, the main band and the sub-footer band - <strong>Mandatory pattern</strong>",
     "CAT": "Design pattern",
     "TYPE": "Site-wide pattern, Interaction",
     "MANDATORY": "Mandatory"
