@@ -1,5 +1,122 @@
 {
 	"data": [{
+		"NAME": "<a href=\"https://blog.canada.ca/2022/03/23/task-success\">Using task success data to improve user experience</a>",
+		"SOURCE": "Blog post",
+		"DESCRIPTION": "Using task success to improve user experience: Evidence from the GC Task Success Survey can help support positive cultural change within your organization.",
+		"WHENTOUSE": "How to use the task success survey to improve the performance of top task content",
+		"CATEGORY": "",
+		"TYPE": "",
+		"MANDATORY": "",
+		"TANDP": "0"
+	},{
+		"NAME": "<a href=\"https://blog.canada.ca/2022/02/07/chatbots\">Thinking of adding a chatbot?</a>",
+		"SOURCE": "Blog post",
+		"DESCRIPTION": "Thinking of adding a chatbot?: Before deciding to develop a chatbot to improve your service delivery, it’s important to evaluate if this solution is the right fit for the people you serve, and the team you have to build and support it.",
+		"WHENTOUSE": "What to consider when deciding if a chatbot is the best way to help your users find the answers they need",
+		"CATEGORY": "",
+		"TYPE": "",
+		"MANDATORY": "",
+		"TANDP": "0"
+	},{
+		"NAME": "<a href=\"https://blog.canada.ca/2021/12/07/design-with-humility">Design with humility</a>",
+		"SOURCE": "Blog post",
+		"DESCRIPTION": "Design with humility: When you design content for Canada.ca, you design for people. Put people at the centre of your work and take the time to watch how they use your design. Humility is an amazing driving force that will help you build better services.",
+		"WHENTOUSE": "Put people at the centre of your work, take time to watch how they use your design, be open to new insights, produce products that meet people’s needs.",
+		"CATEGORY": "",
+		"TYPE": "",
+		"MANDATORY": "",
+		"TANDP": "0"
+	},{
+		"NAME": "<a href=\"https://blog.canada.ca/2021/10/08/promotional-carousels">Avoid promotional carousels, improve web content</a>",
+		"SOURCE": "Blog post",
+		"DESCRIPTION": "Avoid promotional carousels, improve web content: Carousels used for promotional purposes on Canada.ca aren’t as effective as you might think. Let’s look at why that is and how you can design content that is more successful at reaching your audience.",
+		"WHENTOUSE": "The pitfalls of using carousels (rotating slides that display multiple items within the same space) and how to design more effective promotions",
+		"CATEGORY": "",
+		"TYPE": "",
+		"MANDATORY": "",
+		"TANDP": "0"
+	},{
+		"NAME": "<a href=\"https://blog.canada.ca/2021/07/20/effective-links">3 steps to making links more effective</a>",
+		"SOURCE": "Blog post",
+		"DESCRIPTION": "3 steps to making links more effective: Remove barriers and make it easier for people to find those paths through careful selection, strategic placement and clear labelling of your links.",
+		"WHENTOUSE": "When to add links, where to place links and how to write good link text",
+		"CATEGORY": "",
+		"TYPE": "",
+		"MANDATORY": "",
+		"TANDP": "0"
+	},{
+		"NAME": "<a href=\"https://blog.canada.ca/2021/05/10/codesign-with-deciders">Co-design with approvers at the table</a>",
+		"SOURCE": "Blog post",
+		"DESCRIPTION": "Co-design with approvers at the table: Developing trustworthy, up-to-date content on Canada.ca, that is designed with users in mind, requires collaboration and planning. Learn how to navigate approvals and get content live on Canada.ca quickly when people need it most.",
+		"WHENTOUSE": "How building a co-design culture and working directly with approvers can help you get content live more quickly",
+		"CATEGORY": "",
+		"TYPE": "",
+		"MANDATORY": "",
+		"TANDP": "0"
+	},{
+		"NAME": "<a href=\"https://blog.canada.ca/2020/09/24/covid-top-tasks">Improving Canada.ca by focusing on COVID-19 top tasks</a>",
+		"SOURCE": "Blog post",
+		"DESCRIPTION": "Using data to understand changing navigation needs is key to ensuring the right content is always up front and centre.",
+		"WHENTOUSE": "Using data to understand changing navigation needs and ensure the right content is up front and centre",
+		"CATEGORY": "",
+		"TYPE": "",
+		"MANDATORY": "",
+		"TANDP": "0"
+	},{
+		"NAME": "<a href=\"https://blog.canada.ca/2020/08/28/recycling-existing-solutions">Recycling an existing solution for the COVID-19 real-time updates</a>",
+		"SOURCE": "Blog post",
+		"DESCRIPTION": "You don't always a need to reinvent the wheel. Finding ways to reduce workloads and delivery times by re-using solutions that we know work.",
+		"WHENTOUSE": "Reduce workloads and delivery times by re-using solutions that have worked in similar situations.",
+		"CATEGORY": "",
+		"TYPE": "",
+		"MANDATORY": "",
+		"TANDP": "0"
+	},{
+		"NAME": "<a href=\"https://blog.canada.ca/2020/08/10/canadadotca-trusted-source">Canada.ca is a trusted source</a>",
+		"SOURCE": "Blog post",
+		"DESCRIPTION": "Changing \“Home\” to \“Canada.ca\” in the Canada.ca breadcrumb to improve trust and awareness",
+		"WHENTOUSE": "Changing \“Home\” to \“Canada.ca\” in the Canada.ca breadcrumb to improve trust and brand awareness",
+		"CATEGORY": "",
+		"TYPE": "",
+		"MANDATORY": "",
+		"TANDP": "0"
+	},{
+		"NAME": "<a href=\"https://blog.canada.ca/2020/07/15/alert-fatigue">Canada.ca is a trusted source</a>",
+		"SOURCE": "Blog post",
+		"DESCRIPTION": "Alerts draw attention to information that is out of the ordinary, but you must carefully manage their life-cycle if you want them to be effective.",
+		"WHENTOUSE": "Alerts draw attention to changes in regular content. Learn how to make sure they have the highest impact.",
+		"CATEGORY": "",
+		"TYPE": "",
+		"MANDATORY": "",
+		"TANDP": "0"
+	},{
+		"NAME": "<a href=\"https://blog.canada.ca/2019/12/20/top-ten-lessons">Top 10 content design lessons the Canada.ca design team learned in 2019</a>",
+		"SOURCE": "Blog post",
+		"DESCRIPTION": "Top 10 content design lessons the Canada.ca design team learned in 2019",
+		"WHENTOUSE": "Watch users, work with others, be open to change, guide people, use the right words, test your content, focus on top tasks.",
+		"CATEGORY": "",
+		"TYPE": "",
+		"MANDATORY": "",
+		"TANDP": "0"
+	},{
+		"NAME": "<a href=\"https://blog.canada.ca/2019/12/20/top-ten-lessons">Content design tips from our Travel advice and advisories and Contact the CRA optimization projects</a>",
+		"SOURCE": "Blog post",
+		"DESCRIPTION": "Put answers in web content, lead users to information, help people make choices, build on previous experiments",
+		"WHENTOUSE": "Put answers in web content, lead users to information, help people make choices, build on previous experiments",
+		"CATEGORY": "",
+		"TYPE": "",
+		"MANDATORY": "",
+		"TANDP": "0"
+	},{
+		"NAME": "<a href=\"https://blog.canada.ca/2019/08/26/content-design-tips">Six content design tips from our Student loans and Parental benefits optimization projects</a>",
+		"SOURCE": "Blog post",
+		"DESCRIPTION": "Remove layers, group content by task, use evidence to design language, don’t make people do math, use numbers sparingly, put answers where people look for them ",
+		"WHENTOUSE": "Remove layers, group content by task, use evidence to design language, don’t make people do math, use numbers sparingly, put answers where people look for them",
+		"CATEGORY": "",
+		"TYPE": "",
+		"MANDATORY": "",
+		"TANDP": "0"
+	},{
 		"NAME": "<a href=\"https://blog.canada.ca/research-summaries/wayfinding-on-canada-ca\">Wayfinding on Canada.ca</a>",
 		"SOURCE": "Research summary",
 		"DESCRIPTION": "explains the context of the research and the insights that drove the design updates",
