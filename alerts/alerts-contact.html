@@ -1,4 +1,6 @@
-<!DOCTYPE html>
+---
+---
+<!doctype html>
 <!--[if lt IE 9]><html class="no-js lt-ie9" lang="en" dir="ltr"><![endif]-->
 <!--[if gt IE 8]><!--><html class="no-js" lang="en" dir="ltr"><!--<![endif]-->
 	<head>
@@ -9,8 +11,9 @@
 		<!-- Meta data -->
 		<!-- Meta data-->
 		<!-- Load closure template scripts -->
-		<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_31/cdts/compiled/soyutils.js"></script>
-		<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_31/cdts/compiled/wet-en.js"></script>
+		<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_47/cdts/compiled/soyutils.js"></script>
+		<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_47/cdts/compiled/wet-en.js"></script>
+		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css"/>
 
 		<!-- Write closure template -->
 		<script type="text/javascript">
@@ -232,21 +235,6 @@
 </script>
     </main>
     </div>
-		<div id="def-footer">
-
-		</div>
-		<!-- Write closure template -->
-		<script type="text/javascript">
-			var defFooter = document.getElementById("def-footer");
-			defFooter.outerHTML = wet.builder.footer({
-				showFooter: true,
-				showFeatures: true
-			});
-		</script>
-		<!-- Write closure template -->
-		<script type="text/javascript">
-			document.write(wet.builder.refFooter({
-			}));
-		</script>
+		{% include footer-en.html %}
 	</body>
 </html>
