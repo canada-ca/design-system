@@ -2,3 +2,4 @@
 node_modules/
 images/.DS_Store
 _site
+Gemfile.lock

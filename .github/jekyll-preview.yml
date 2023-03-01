@@ -22,7 +22,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           src: .
-          config: _config.yml,_config_preview.yml
+          config: _config.yml,_config.preview.yml
           dest: preview
 
       - name: Preview URL
