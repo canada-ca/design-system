@@ -1,12 +1,12 @@
 remote_theme: wet-boew/gcweb-jekyll
-title: Demo of Canada.ca design system
+title: Canada.ca design system
 
 language: en
 
 #
 # Page front matter defaults
-defaults:
-  - scope:
-      path: "" # Ensure it's applied to all pages
-    values:
-      layout: default
+# defaults:
+#  - scope:
+#      path: "" # Ensure it's applied to all pages
+#    values:
+#      layout: default
