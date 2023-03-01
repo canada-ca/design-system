@@ -3,7 +3,7 @@ name: Jekyll Preview
 on:
   pull_request:
     branches:
-      - main
+      - master
 
 jobs:
   build-and-deploy:
