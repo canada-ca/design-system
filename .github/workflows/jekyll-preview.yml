@@ -26,4 +26,4 @@ jobs:
           dest: preview
 
       - name: Preview URL
-        run: echo "Preview URL: https://${{ github.repository_owner }}.github.io/${{ github.repository_name }}/preview/"
+        run: echo "Preview URL https://${{ github.repository_owner }}.github.io/${{ github.repository_name }}/preview/"
