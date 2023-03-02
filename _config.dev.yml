@@ -1,16 +1,10 @@
-# Site settings
-analytics:
-  adobe:
-    tracking_id: be5dfd287373/0127575cd23a/launch-913b1beddf7a-staging
-    service: TBS-DTO-TEST_TEST-BTN-SCT
-
 remote_theme: wet-boew/gcweb-jekyll
 title: Canada.ca design system
 
 language: en
 
-baseurl:
-url:
+baseurl: ""
+url: "http://localhost:4000"  
 
 # Page front matter defaults
 defaults:

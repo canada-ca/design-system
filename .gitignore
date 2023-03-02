@@ -36,3 +36,4 @@ Temporary Items
 _site
 node_modules/
 vendor
+Gemfile.lock
