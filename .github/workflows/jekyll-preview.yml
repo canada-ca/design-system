@@ -1,0 +1,29 @@
+name: Jekyll Preview
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: |
+          bundle install
+          npm install
+
+      - name: Build and deploy
+        uses: helaili/jekyll-action@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          src: .
+          config: _config.yml,_config_preview.yml
+          dest: preview
+
+      - name: Preview URL
+        run: echo "Preview URL: https://${{ github.repository_owner }}.github.io/${{ github.repository_name }}/preview/"
