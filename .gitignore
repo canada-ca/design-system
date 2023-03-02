@@ -2,8 +2,4 @@
 node_modules/
 images/.DS_Store
 _site
-<<<<<<< HEAD
 Gemfile.lock
-=======
-Gemfile.lock
->>>>>>> 55c16e84 (Update Gemfile)
