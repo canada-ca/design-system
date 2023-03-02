@@ -1,4 +1,4 @@
-name: Jekyll Preview
+name: Jekyll PR Preview
 
 on:
   pull_request:
