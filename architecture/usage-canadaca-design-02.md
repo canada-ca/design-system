@@ -33,12 +33,10 @@
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-105628416-2"></script> 
 <script>
-
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', 'UA-105628416-2');
-
 </script>
 </head>
 <body class="cnt-wdth-lmtd" vocab="http://schema.org/" typeof="WebPage">
