@@ -1,3 +1,5 @@
+lines (289 sloc)  15.9 KB
+
 ---
 ---
 <!doctype html><!--[if lt IE 9]><html class="no-js lt-ie9" lang="en" dir="ltr"><![endif]--><!--[if gt IE 8]><!-->
@@ -7,36 +9,39 @@
 <meta charset="utf-8">
 <!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
 		wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
-<title>Carousels - Canada.ca design pattern - Canada.ca </title>
+<title>Disclaimer overlay - Canada.ca design pattern- Canada.ca</title>
 <meta content="width=device-width,initial-scale=1" name="viewport">
-<!--test--> 
+
 <!--[if gte IE 9 | !IE ]><!-->
-<link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon">
-<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
-<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/wet-boew.min.css" />
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous" />
-<link rel="stylesheet" href="../css/custom.css">
-<!--<![endif]--> 
+<link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon">      <link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
+      <link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/wet-boew.min.css" />
+      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+         integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous" />
+      <link rel="stylesheet" href="../css/custom.css"><!--<![endif]-->
 <!--[if lt IE 9]>
 		<link href="./GCWeb/assets/favicon.ico" rel="shortcut icon" />
 		<link rel="stylesheet" href="http://wet-boew.github.io/themes-dist/GCWeb/GCWeb/css/ie8-theme.min.css" />
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 		<script src="./wet-boew/js/ie8-wet-boew.min.js"></script>
-		<![endif]--> 
+		<![endif]-->
 <!--[if lte IE 9]>
 		<![endif]-->
-<noscript>
-<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/wet-boew/css/noscript.min.css" />
-</noscript>
+<noscript><link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/wet-boew/css/noscript.min.css" /></noscript>
 
-<!-- Global site tag (gtag.js) - Google Analytics --> 
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105628416-2"></script> 
+ <!-- Global site tag (gtag.js) - Google Analytics -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105628416-2"></script>
+
 <script>
+
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
+
+
   gtag('config', 'UA-105628416-2');
+
 </script>
 </head>
 <body class="cnt-wdth-lmtd" vocab="http://schema.org/" typeof="WebPage">
