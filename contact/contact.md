@@ -129,9 +129,9 @@
 <!--/* Hide Nav; Hide Right Rail /*-->
 
 <main role="main" property="mainContentOfPage" class="container">
-  <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Contact DTO</span>: <span>Canada.ca design
+  <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Contact the Digital Transformation Office</span>: <span>Canada.ca design
     system</span></span></h1>
-  <p>Connect with the Digital Transformation Office to ask questions or make suggestions about the Canada.ca design system. Request a pattern or component you'd like to see.</p>
+  <p>Contact us to ask design questions or make suggestions about the design of Canada.ca.</p>
   <h2><span class="far fa-envelope fa-lg mrgn-rght-sm"></span> Email</h2>
   <ul class="mrgn-tp-lg">
     <li><a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></li>
