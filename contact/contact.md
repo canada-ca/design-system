@@ -121,7 +121,6 @@
       <ol class="breadcrumb">
         <li><a href="https://www.canada.ca/en.html">Canada.ca</a></li>
         <li><a href="https://www.canada.ca/en/government/about.html">About Canada.ca</a></li>
-        <li><a href="https://www.canada.ca/en/government/about/design-system.html">Canada.ca design system</a></li>
       </ol>
     </div>
   </nav>
@@ -131,7 +130,7 @@
 
 <main role="main" property="mainContentOfPage" class="container">
   <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Contact DTO</span>: <span>Canada.ca design
-    pattern</span></span></h1>
+    system</span></span></h1>
   <p>Connect with the Digital Transformation Office to ask questions or make suggestions about the Canada.ca design system. Request a pattern or component you'd like to see.</p>
   <h2>Email</h2>
   <ul class="fa-ul">
