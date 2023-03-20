@@ -143,15 +143,8 @@
   <ul>
     <li><a href="http://design-GC-conception.slack.com">http://design-GC-conception.slack.com</a></li>
   </ul>
-  <h2>Sign up to the Digital Transformation Office mailing list</h2>
   <aside>
-    <h2 id="connect-with-the-digital-transformation-office-at-treasury-board-secretariat">Connect with the Digital Transformation Office at Treasury Board Secretariat</h2>
-    <ul>
-      <li>Email: <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></li>
-      <li>Twitter: #CanadaDotCa (English) / #CanadaPointCa (French)</li>
-      <li>Slack: <a href="https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM">http://design-GC-conception.slack.com</a></li>
-    </ul>
-    <h2 id="sign-up-to-the-digital-transformation-office-mailing-list">Sign up to the Digital Transformation Office mailing list</h2>
+    <h2>Sign up to the Digital Transformation Office mailing list</h2>
     <div class="row">
       <form action="https://github.us12.list-manage.com/subscribe/post?u=5700d338d6ab413ebca1099f4&amp;id=c6bb0b9f64" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="col-sm-8 validate paddingc" target="_blank" novalidate>
         <div id="mc_embed_signup_scroll" class="well well-sm">
