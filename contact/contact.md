@@ -134,7 +134,7 @@
   <p>Connect with the Digital Transformation Office to ask questions or make suggestions about the Canada.ca design system. Request a pattern or component you'd like to see.</p>
   <h2>Email</h2>
   <ul class="fa-ul">
-    <li><span class="fa-li"><span class="far fa-envelope fa-lg"></span></span> <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></li>
+    <li><span class="fa-2x"><span class="far fa-envelope fa-lg"></span></span> <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></li>
   </ul>
   <h2>Twitter</h2>
   <ul class="fa-ul">
