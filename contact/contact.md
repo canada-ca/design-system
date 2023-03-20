@@ -133,16 +133,16 @@
     system</span></span></h1>
   <p>Connect with the Digital Transformation Office to ask questions or make suggestions about the Canada.ca design system. Request a pattern or component you'd like to see.</p>
   <h2>Email</h2>
-  <ul class="fa-ul">
-    <li><span class="fa-2x"><span class="far fa-envelope fa-lg"></span></span> <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></li>
+  <ul class="fa-ul mrgn-tp-lg">
+    <li><span class="fa-li"><span class="far fa-envelope fa-2x"></span></span> <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></li>
   </ul>
   <h2>Twitter</h2>
-  <ul class="fa-ul">
-    <li><span class="fa-li"><span class="fab fa-twitter fa-lg"></span></span> #CanadaDotCa (English) / #CanadaPointCa (French)</li>
+  <ul class="fa-ul mrgn-tp-lg">
+    <li><span class="fa-li"><span class="fab fa-twitter fa-2x"></span></span> #CanadaDotCa (English) / #CanadaPointCa (French)</li>
   </ul>
   <h2>Slack</h2>
-  <ul class="fa-ul">
-    <li><span class="fa-li"><span class="fab fa-slack fa-lg"></span></span> <a href="http://design-GC-conception.slack.com">http://design-GC-conception.slack.com</a></li>
+  <ul class="fa-ul mrgn-tp-lg">
+    <li><span class="fa-li"><span class="fab fa-slack fa-2x"></span></span> <a href="http://design-GC-conception.slack.com">http://design-GC-conception.slack.com</a></li>
   </ul>
   <aside>
     <h2>Sign up to the Digital Transformation Office mailing list</h2>
