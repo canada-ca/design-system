@@ -42,14 +42,10 @@
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-105628416-2"></script> 
 <script>
-
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
-
   gtag('config', 'UA-105628416-2');
-
 </script>
 </head>
 <body class="cnt-wdth-lmtd" vocab="http://schema.org/" typeof="WebPage">
@@ -83,11 +79,8 @@
             <input name="st1rt" value="0" type="hidden">
             <input name="s5bm3ts21rch" value="x" type="hidden"/>
             <datalist id="wb-srch-q-ac"> 
-              
               <!--[if lte IE 9]><select><![endif]--> 
-              
               <!--[if lte IE 9]></select><![endif]--> 
-              
             </datalist>
           </div>
           <div class="form-group submit">
@@ -137,6 +130,97 @@
 <main role="main" property="mainContentOfPage" class="container">
   <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Contact DTO</span>: <span>Canada.ca design
     pattern</span></span></h1>
+  <p>Connect with the Digital Transformation Office to ask questions or make suggestions about the Canada.ca design system. Request a pattern or component you'd like to see.</p>
+  <h2>Email</h2>
+  <ul>
+    <li><a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></li>
+  </ul>
+  <h2>Twitter</h2>
+  <ul>
+    <li>#CanadaDotCa (English) / #CanadaPointCa (French)</li>
+  </ul>
+  <h2>Slack</h2>
+  <ul>
+    <li><a href="http://design-GC-conception.slack.com">http://design-GC-conception.slack.com</a></li>
+  </ul>
+  <h2>Sign up to the Digital Transformation Office mailing list</h2>
+  <aside>
+    <h2 id="connect-with-the-digital-transformation-office-at-treasury-board-secretariat">Connect with the Digital Transformation Office at Treasury Board Secretariat</h2>
+    <ul>
+      <li>Email: <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></li>
+      <li>Twitter: #CanadaDotCa (English) / #CanadaPointCa (French)</li>
+      <li>Slack: <a href="https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM">http://design-GC-conception.slack.com</a></li>
+    </ul>
+    <h2 id="sign-up-to-the-digital-transformation-office-mailing-list">Sign up to the Digital Transformation Office mailing list</h2>
+    <div class="row">
+      <form action="https://github.us12.list-manage.com/subscribe/post?u=5700d338d6ab413ebca1099f4&amp;id=c6bb0b9f64" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="col-sm-8 validate paddingc" target="_blank" novalidate>
+        <div id="mc_embed_signup_scroll" class="well well-sm">
+          <fieldset class="gc-chckbxrdio">
+            <legend>Preferred newsletter format</legend>
+            <ul class="list-unstyled lst-spcd-2">
+              <li class="radio">
+                <input type="radio" value="html" name="EMAILTYPE" id="mce-EMAILTYPE-0">
+                <label for="mce-EMAILTYPE-0">HTML</label>
+              </li>
+              <li class="radio">
+                <input type="radio" value="text" name="EMAILTYPE" id="mce-EMAILTYPE-1">
+                <label for="mce-EMAILTYPE-1">plain text <small>(We recommend 'plain text' if your firewall might block HTML emails)</small></label>
+              </li>
+            </ul>
+          </fieldset>
+          <div class="mc-field-group">
+            <div class="input-group">
+              <label class="wb-inv" for="mce-EMAIL">Email address</label>
+              <input type="email" value="" name="EMAIL" class="form-control required email" id="mce-EMAIL" placeholder="Email address">
+              <span class="input-group-btn">
+              <button type="submit" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success nowrap">Subscribe</button>
+              </span> </div>
+          </div>
+          <div id="mce-responses" class="clear">
+            <div class="response" id="mce-error-response" style="display:none"></div>
+            <div class="response" id="mce-success-response" style="display:none"></div>
+          </div>
+          <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+          <div style="position: absolute; left: -5000px;" aria-hidden="true">
+            <input type="text" name="b_5700d338d6ab413ebca1099f4_c6bb0b9f64" tabindex="-1" value="">
+          </div>
+        </div>
+      </form>
+    </div>
+    <script type='text/javascript' src='https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script> 
+    <script type='text/javascript'>
+			( function( $ ) {
+				window.fnames = new Array();
+				window.ftypes = new Array();
+				fnames[ 0 ]='EMAIL';
+				ftypes[ 0 ]='email';
+				fnames[ 1 ]='FNAME';
+				ftypes[ 1 ]='text';
+				fnames[ 2 ]='LNAME';
+				ftypes[ 2 ]='text';
+				fnames[ 3 ]='ADDRESS';
+				ftypes[ 3 ]='address';
+				fnames[ 4 ]='PHONE';
+				ftypes[ 4 ]='phone';
+				fnames[ 5 ]='BIRTHDAY';
+				ftypes[ 5 ]='birthday';
+			}( jQuery ));
+			var $mcj = jQuery.noConflict( true );
+		</script> 
+    <!--End mc_embed_signup-->
+    <div class="mce-privacy" style="padding-top: 9px;"> <a href="#privacy-notice-modal" aria-controls="privacy-notice-modal" class="overlay-lnk light-link wb-lbx" aria-label="Privacy Statement Link">Privacy notice</a> </div>
+    <section class="mfp-hide modal-dialog modal-content overlay-def" id="privacy-notice-modal">
+      <header class="modal-header">
+        <h2 class="modal-title">Privacy notice</h2>
+      </header>
+      <div class="modal-body">
+        <p>Our newsletter feature uses <a href="https://mailchimp.com/">Mailchimp</a>, a third-party application. Sign-up is voluntary and subject to the <a href="https://mailchimp.com/legal/terms/">Terms of Use</a> for the Mailchimp platform.  When you sign up, your email address and language preference (English or French) is collected. No other personal information is collected.</p>
+        <p>The collection and use of your personal information is authorized by the <em>Financial Administration Act</em>. Collection and use of your personal information for this site is in accordance with the federal <em>Privacy Act</em>. Your personal information may be used to respond to your inquiries, if applicable, and to help evaluate the effectiveness of Treasury Board of Canada Secretariat (TBS) programs in responding to client needs. In exceptional circumstances (e.g., individuals who make inappropriate remarks or threats), personal information may be disclosed without your consent pursuant to subsection 8(2) of the <em>Privacy Act</em>.</p>
+        <p>Any personal information that may be collected is described in the Standard Personal Information Bank entitled <a href="http://www.infosource.gc.ca/emp/emp03-eng.asp#psu938">Outreach Activities, PSU 938</a>, which can be found in the TBS webpage <a href="https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings.html">Information about programs and information holdings</a>.</p>
+        <p>Any questions, comments, concerns or complaints you may have regarding this Statement, your privacy rights and the Privacy Act may be directed to the TBS Access to Information and Privacy Coordinator by email at <a href="mailto:ATIP.AIPRP@TBS-SCT.gc.ca">ATIP.AIPRP@tbs-sct.gc.ca</a> or by telephone at 1-866-312-1511. You may also wish to contact the Office of the Privacy Commissioner of Canada by email at <a href="mailto:info@priv.gc.ca">info@priv.gc.ca</a> or by telephone at 1-800-282-1376. You have the right to complain to the Office of the Privacy Commissioner of Canada about the handling of your personal information by TBS.</p>
+      </div>
+    </section>
+  </aside>
   
   <!-- START PAGE FEEDBACK WIDGET -->
   <div class="row row-no-gutters mrgn-tp-xl">
