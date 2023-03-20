@@ -22,6 +22,7 @@
 <link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
 <link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/wet-boew.min.css" />
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"> 
 <link rel="stylesheet" href="../css/custom.css">
 <link rel="stylesheet" href="../css/split-h1.css">
 
@@ -131,15 +132,15 @@
   <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Contact DTO</span>: <span>Canada.ca design
     pattern</span></span></h1>
   <p>Connect with the Digital Transformation Office to ask questions or make suggestions about the Canada.ca design system. Request a pattern or component you'd like to see.</p>
-  <h2>Email</h2>
+  <h2><span class="far fa-envelope mrgn-rght-sm fa-lg"></span> Email</h2>
   <ul>
     <li><a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></li>
   </ul>
-  <h2>Twitter</h2>
+  <h2><span class="fas fa-hashtag mrgn-rght-sm"></span> Twitter</h2>
   <ul>
     <li>#CanadaDotCa (English) / #CanadaPointCa (French)</li>
   </ul>
-  <h2>Slack</h2>
+  <h2><span class="fab fa-slack mrgn-rght-sm"></span> Slack</h2>
   <ul>
     <li><a href="http://design-GC-conception.slack.com">http://design-GC-conception.slack.com</a></li>
   </ul>
