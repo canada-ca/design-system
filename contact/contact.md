@@ -136,13 +136,13 @@
   <ul class="fa-ul">
     <li><span class="fa-li"><span class="far fa-envelope"></span></span> <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></li>
   </ul>
-  <h2><span class="fas fa-hashtag mrgn-rght-sm"></span> Twitter</h2>
-  <ul>
-    <li>#CanadaDotCa (English) / #CanadaPointCa (French)</li>
+  <h2>Twitter</h2>
+  <ul class="fa-ul">
+    <li><span class="fa-li"><span class="fas fa-hashtag"></span></span> #CanadaDotCa (English) / #CanadaPointCa (French)</li>
   </ul>
-  <h2><span class="fab fa-slack mrgn-rght-sm"></span> Slack</h2>
-  <ul>
-    <li><a href="http://design-GC-conception.slack.com">http://design-GC-conception.slack.com</a></li>
+  <h2>Slack</h2>
+  <ul class="fa-ul">
+    <li><span class="fa-li"><span class="fab fa-slack"></span></span> <a href="http://design-GC-conception.slack.com">http://design-GC-conception.slack.com</a></li>
   </ul>
   <aside>
     <h2>Sign up to the Digital Transformation Office mailing list</h2>
