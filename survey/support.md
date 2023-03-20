@@ -1,0 +1,96 @@
+---
+altLangPage: https://conception.canada.ca/sondage/soutien.html
+breadcrumbs:
+ - title: About Canada.ca
+   link: https://www.canada.ca/en/government/about.html
+ - title: Analytics and feedback
+   link: https://www.canada.ca/en/analytics.html
+ - title: GC Task Success Survey
+   link: survey.html
+dateModified: 2023-03-28
+description: ""
+title: Contact and support for the GC Task Success Survey
+---
+
+## On this page
+
+* [Office hours](#office-hours)
+* [When to contact Principal Publisher](#principal-publisher)
+* [When to contact the Digital Transformation Office](#digital-transformation-office)
+* [Working group](#working-group)
+
+The survey is a collaboration between Principal Publisher and the Digital Transformation Office.
+
+## Office hours
+
+Book a timeslot where you can meet one-on-one with a subject matter expert to get answers to your questions.
+
+Office Hours are a bi-weekly (every second Wednesday) virtual one-hour session from 1:00-2:00 PM where users can book 15-minute timeslots to meet one-on-one with a Subject Matter Expert (SME).
+
+This time can be used to:
+
+* ask questions
+* get advice
+* brainstorm next steps
+* learn more about the inner workings of the survey
+
+If we are unable to answer your question during the session, we will connect with other members of the team and get back to you via email.
+
+[How to obtain this service](https://www.gcpedia.gc.ca/wiki/Government_of_Canada_Task_Success_Survey#Support) (internal only)
+
+## Principal publisher
+
+Contact the Principal Publisher for questions related to:
+
+* technical question for the survey and invitation manager
+* improving your survey results
+* custom task lists
+* updates to task lists
+* suggesting changes to the survey design (questions, functionality)
+* feedback analysis
+
+Submit a Service Desk request using the following categories from the drop-down menus:
+
+<table class="table wb-tables table-striped">
+    <caption></caption>
+    <tbody>
+        <tr>
+            <th>Updates to task lists</th>
+            <td>Category > Website Surveys<br>Subcategory > GC Task Success Survey: Request edit to the task list</td>
+        </tr>
+        <tr>
+            <th>Review task lists</th>
+            <td>Category > Website Surveys<br>Subcategory > GC Task Success Survey: Task list review</td>
+        </tr>
+        <tr>
+            <th>Request a custom task list</th>
+            <td>Category > Website Surveys<br>Subcategory > GC Task Success Survey: Request a custom task list</td>
+        </tr>
+        <tr>
+            <th>Improve survey results</th>
+            <td>Category > Website Surveys<br>Subcategory > GC Task Success Survey: Other
+        </tr>
+        <tr>
+            <th>Survey invitations</th>
+            <td>Category > Website Surveys<br>Subcategory > Invitation manager: Support
+        </tr>
+    </tbody>
+</table>
+
+[Submit a Service Desk request (internal only)](http://requestform.portal.gc.ca/tickets.html)
+
+## Digital Transformation Office
+
+Contact the Digital Transformation Office for questions related to:
+
+* the Feedback Viewer tool
+* writing tasks
+* taking action and implementing changes
+
+Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
+
+## Working Group
+
+The GC Task Success Survey Working Group guides the direction of the survey. Members of the working group provide input and strategize the way forward for the survey.
+
+[Working group meeting agendas and presentations](https://www.gcpedia.gc.ca/wiki/Government_of_Canada_Task_Success_Survey/Working_Group) (internal only on GCPedia).
