@@ -132,9 +132,9 @@
   <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Contact DTO</span>: <span>Canada.ca design
     pattern</span></span></h1>
   <p>Connect with the Digital Transformation Office to ask questions or make suggestions about the Canada.ca design system. Request a pattern or component you'd like to see.</p>
-  <h2><span class="far fa-envelope mrgn-rght-sm fa-lg"></span> Email</h2>
-  <ul>
-    <li><a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></li>
+  <h2>Email</h2>
+  <ul class="fa-ul">
+    <li><span class="fa-li"><span class="far fa-envelope"></span></span> <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></li>
   </ul>
   <h2><span class="fas fa-hashtag mrgn-rght-sm"></span> Twitter</h2>
   <ul>
