@@ -140,7 +140,7 @@
   <ul class="mrgn-tp-lg">
     <li>#CanadaDotCa (English) / #CanadaPointCa (French)</li>
   </ul>
-  <h2><span class="fab fa-slack fa-2x mrgn-rght-sm"></span> Slack</h2>
+  <h2><span class="fab fa-slack fa-lg mrgn-rght-sm"></span> Slack</h2>
   <ul class="mrgn-tp-lg">
     <li><a href="http://design-GC-conception.slack.com">http://design-GC-conception.slack.com</a></li>
   </ul>
