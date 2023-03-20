@@ -4,13 +4,12 @@ analytics:
   adobe:
     tracking_id: be5dfd287373/0127575cd23a/launch-f7c3e6060667
     service: TBS-DTO_BTN-SCT
-
+baseurl: ""
+language: en
+plugins:
+  - jekyll-remote-theme
 remote_theme: wet-boew/gcweb-jekyll
 title: Canada.ca design system
-
-language: en
-
-baseurl: ""
 url: "https://design.canada.ca"
 
 #
