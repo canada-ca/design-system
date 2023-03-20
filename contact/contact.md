@@ -138,7 +138,7 @@
   </ul>
   <h2>Twitter</h2>
   <ul class="fa-ul">
-    <li><span class="fa-li"><span class="fas fa-hashtag"></span></span> #CanadaDotCa (English) / #CanadaPointCa (French)</li>
+    <li><span class="fa-li"><span class="fab fa-twitter"></span></span> #CanadaDotCa (English) / #CanadaPointCa (French)</li>
   </ul>
   <h2>Slack</h2>
   <ul class="fa-ul">
