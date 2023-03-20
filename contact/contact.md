@@ -16,6 +16,7 @@
 <meta name="dcterms.issued" title="W3CDTF" content="2023-03-20"/>
 <meta name="dcterms.modified" title="W3CDTF" content="2023-03-20"/>
 <meta content="width=device-width,initial-scale=1" name="viewport">
+<link href="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/favicon.ico" rel="icon" type="image/x-icon" />  
 
 <!--[if gte IE 9 | !IE ]><!-->
 <link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon">
@@ -134,15 +135,15 @@
   <p>Connect with the Digital Transformation Office to ask questions or make suggestions about the Canada.ca design system. Request a pattern or component you'd like to see.</p>
   <h2>Email</h2>
   <ul class="fa-ul">
-    <li><span class="fa-li"><span class="far fa-envelope"></span></span> <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></li>
+    <li><span class="fa-li"><span class="far fa-envelope fa-lg"></span></span> <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></li>
   </ul>
   <h2>Twitter</h2>
   <ul class="fa-ul">
-    <li><span class="fa-li"><span class="fab fa-twitter"></span></span> #CanadaDotCa (English) / #CanadaPointCa (French)</li>
+    <li><span class="fa-li"><span class="fab fa-twitter fa-lg"></span></span> #CanadaDotCa (English) / #CanadaPointCa (French)</li>
   </ul>
   <h2>Slack</h2>
   <ul class="fa-ul">
-    <li><span class="fa-li"><span class="fab fa-slack"></span></span> <a href="http://design-GC-conception.slack.com">http://design-GC-conception.slack.com</a></li>
+    <li><span class="fa-li"><span class="fab fa-slack fa-lg"></span></span> <a href="http://design-GC-conception.slack.com">http://design-GC-conception.slack.com</a></li>
   </ul>
   <aside>
     <h2>Sign up to the Digital Transformation Office mailing list</h2>
