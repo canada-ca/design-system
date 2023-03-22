@@ -11,7 +11,7 @@ breadcrumbs:
     link: https://design.canada.ca/feedback/benefits.html
 dateModified: 2023-02-28
 layout: default
-title: Case study: Identifying a content gap with page feedback
+title: Case study - Identifying a content gap with page feedback
 ---
 
 In December 2020, when Health Canada approved the first COVID vaccine, they added the page feedback tool at the bottom of the vaccine content pages. The feedback highlighted a content gap that they wouldn’t have identified through analytics alone.
