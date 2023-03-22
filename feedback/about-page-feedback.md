@@ -64,11 +64,11 @@ The feedback tool invites visitors to:
 <details>
   <summary>Image of the form after clicking "No"</summary>
   <figure class="mrgn-tp-lg">
-    <img class="img-responsive border" alt="A long description can be found after the image." src="images/description-en.png" />
+    <img class="img-responsive border" alt="A long description can be found after the image." src="images/description-en.jpg" />
     </figure>
     <details>
     <summary>Feedback tool</summary>
-    <p>A heading labelled "What was wrong"</p>
+    <p>A heading labelled "Please provide more details"</p>
   
     <p>Followed by the text "You will not receive a reply. Don't include personal information (telephone, email, SIN, financial, medical, or work details). Maximum 300 characters", and a text field to provide more details.</p>
     </details>
