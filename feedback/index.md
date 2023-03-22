@@ -6,6 +6,7 @@ breadcrumb:
   - title: Analytics and feedback
     link: https://www.canada.ca/en/analytics.html
 dateModified: 2023-02-28
+layout: default
 title: Page feedback tool
 ---
 
