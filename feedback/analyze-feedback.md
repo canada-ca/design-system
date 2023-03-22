@@ -252,4 +252,3 @@ Include other data sources in your reporting to build a more complete picture, c
   <li class="next"><a href="insights.html" rel="next">Next: Sharing insights</a></li>
   </ul>
 </nav>
-</div>
