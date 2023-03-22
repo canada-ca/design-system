@@ -75,8 +75,8 @@ A simple text only summary can be just as effective as charts or graphs when:
 *   Changes in trends
 *   Priority areas: Top issues seen in feedback (illustrated with select feedback examples)
 
-  *   What pages are those issues found on
-  *   Supporting data from call centres, web analytics, search, usability studies, or other sources
+    *   What pages are those issues found on
+    *   Supporting data from call centres, web analytics, search, usability studies, or other sources
 
 *   What’s working well? Results based on iterative improvements
 *   Recommendations for quick fixes
@@ -87,7 +87,7 @@ Highlight problems that go beyond the scope of your team’s work and need to be
 *   content gaps / incorrect information that require a subject matter expert
 *   technical issues
 
-## OTemplates for slides and charts
+## Templates for slides and charts
 
 Charts can help illustrate trends, spot anomalies, confirm or explore research questions in the feedback.
 
