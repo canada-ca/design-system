@@ -31,7 +31,7 @@ title: How the page feedback tool works
 
 The page feedback tool is still in a pilot phase. This means that you can use the pattern, but there may be changes to how it looks or is coded in the future.
 
-## Why collect user feedback
+## Why collect user feedback [why]
 
 The primary purpose of collecting feedback is to use it as a **research tool** to improve content.
 
@@ -43,7 +43,7 @@ First person feedback captured “in the moment” of failure gives us a lens in
 
 Combining feedback insights with other quantitative data is an important step towards building a service culture that is human-centred and evidence-driven to continuously improve our services in a timely manner for Canadians.
 
-## Feedback tool design
+## Feedback tool design [how]
 
 The feedback tool is an **optional** pattern. It can be added to the bottom of a content page after the page content and before the date modified. It replaces the “Report a problem” pattern while actively collecting user feedback.
 
@@ -74,7 +74,7 @@ The feedback tool invites visitors to:
     </details>
 </details>
               
-## Protecting personal information
+## Protecting personal information [privacy]
 
 Filters are in place to remove these common types of personal information and profanity if submitted:
 
