@@ -24,8 +24,8 @@ title: How to access page feedback
       
 
 ## On this page
-    *   [Where feedback is stored](#where-feedback-is-stored)
-    *   [How to access feedback](#how-to-access-feedback)
+* [Where feedback is stored](#where-feedback-is-stored)
+* [How to access feedback](#how-to-access-feedback)
 
 ## Where feedback is stored
 
@@ -39,17 +39,14 @@ The Feedback Viewer is a password protected environment available to all page fe
 
 Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
 
-**Sign in:** [Feedback Viewer](https://feedback-viewer.tbs.alpha.canada.ca)
-
 ### Feedback Viewer filters
 
 The Feedback Viewer includes filters so that you can access and download specific feedback, including:
-
-    *   Date range
-    *   Institution, Theme, and section of content
-    *   URL
-    *   Language
-    *   Comment field search
+*   Date range
+*   Institution, Theme, and section of content
+*   URL
+*   Language
+*   Comment field search
 
 
 <details>
@@ -62,4 +59,3 @@ The Feedback Viewer includes filters so that you can access and download specifi
 <li class="next"><a href="analyze-feedback.html" rel="next">Next: Methods for analyzing feedback</a></li>
 </ul>
 </nav>
-</div>
