@@ -1,6 +1,6 @@
 ---
 altLangPage: https://conception.canada.ca/retroaction/index.html
-breadcrumb:
+breadcrumbs:
   - title: About Canada.ca
     link: https://www.canada.ca/en/government/about.html
   - title: Analytics and feedback
