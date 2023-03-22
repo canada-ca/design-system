@@ -13,8 +13,8 @@ title: Page feedback tool
 The page feedback tool is a <strong>research tool</strong> that can help you better understand issues affecting task success at the page level.  
 
 <section>
-## Get started
-Understanding the page level user experience of Canada.ca
+<h2>Get started</h2>
+<P>Understanding the page level user experience of Canada.ca</p>
 
 <div class="row">
 <section class="wb-eqht gc-drmt">
@@ -42,8 +42,8 @@ Understanding the page level user experience of Canada.ca
 </section>
 </div>
 
-## Implementing the page feedback tool
-Code and implementation guidance for using the page feedback tool
+<h2>Implementing the page feedback tool</h2>
+<P>Code and implementation guidance for using the page feedback tool.</p>
 
 <div class="row">
 <section class="wb-eqht gc-drmt">
@@ -59,8 +59,8 @@ Code and implementation guidance for using the page feedback tool
 </section>
 </div>
 
-## Using and understanding page feedback
-Accessing and analyzing user feedback from your page feedback tool. Data in Adobe Analytics.
+<h2>Using and understanding page feedback</h2>
+<p>Accessing and analyzing user feedback from your page feedback tool. Data in Adobe Analytics.</p>
 
 <div class="row">
 <section class="wb-eqht gc-drmt">
@@ -97,8 +97,8 @@ Accessing and analyzing user feedback from your page feedback tool. Data in Adob
 </section>
 </div>
 
-## Support
-Where to go for help with your page feedback
+<h2>Support</h2>
+<P>Where to go for help with your page feedback</p>
 
 <div class="row">
 <section class="wb-eqht gc-drmt">
@@ -106,7 +106,7 @@ Where to go for help with your page feedback
 <div class="col-md-4">
   <section>
     <h3 class="h5"><a href="support.html">Contact</a></h3>
-    <p>Contact us to get help with your page feedback tool or join the working group</p>
+    <p>Contact us to get help with your page feedback tool or join the working group.</p>
   </section>
 </div>
 
