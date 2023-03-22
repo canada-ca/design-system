@@ -8,7 +8,7 @@ breadcrumbs:
   - title: Page feedback
     link: https://design.canada.ca/feedback/index.html
   - title: How to use feedback
-    link: https://design.canada.ca/feedback/benefits.html
+    link: https://design.canada.ca/feedback/benefits.html    
 dateModified: 2023-02-28
 layout: default
 title: Case study: Identifying a content gap with page feedback
