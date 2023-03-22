@@ -56,25 +56,20 @@ The feedback tool invites visitors to:
 <details>
   <summary>Image of the Canada.ca footer with the feedback tool</summary>
   <figure class="mrgn-tp-lg">
-    <img class="img-responsive border" alt="Image of the footer, with the feedback tool placed after the page content and before the Date modified" src="images/footer_feedback_EN.png" />
+    <img class="img-responsive border" alt="Image of the footer, with the feedback tool placed after the page content and before the Date modified" src="images/footer-feedback-en.png" />
     </figure>
 </details>
 
 
 <details>
-  <summary>Image of the options after clicking "No"</summary>
+  <summary>Image of the form after clicking "No"</summary>
   <figure class="mrgn-tp-lg">
-    <img class="img-responsive border" alt="A long description can be found after the image." src="images/page-feedback-detail.png" />
+    <img class="img-responsive border" alt="A long description can be found after the image." src="images/description-en.png" />
     </figure>
     <details>
     <summary>Feedback tool</summary>
-    <p>A heading labelled "What was wrong", followed by options to select:</p>
-    <ul>
-    <li>I can't find the information</li>
-    <li>The information is hard to understand</li>
-    <li>There was an error or something didn't work</li>
-    <li>Other reason</li>
-  </ul>
+    <p>A heading labelled "What was wrong"</p>
+  
     <p>Followed by the text "You will not receive a reply. Don't include personal information (telephone, email, SIN, financial, medical, or work details). Maximum 300 characters", and a text field to provide more details.</p>
     </details>
 </details>
