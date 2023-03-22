@@ -5,12 +5,13 @@ analytics:
     tracking_id: be5dfd287373/0127575cd23a/launch-f7c3e6060667
     service: TBS-DTO_BTN-SCT
 baseurl: ""
-contextualFooter:
-  title: Digital Transformation Office (DTO)
-  links: 
-    - url: "mailto:dto.btn@tbs-sct.gc.ca"
-      text: Contact us
-language: en
+global:
+  contextualFooter:
+    title: Digital Transformation Office (DTO)
+    links: 
+      - url: "mailto:dto.btn@tbs-sct.gc.ca"
+        text: Contact us
+  lang: en
 plugins:
   - jekyll-remote-theme
 remote_theme: wet-boew/gcweb-jekyll
