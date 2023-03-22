@@ -25,7 +25,7 @@ title: How the page feedback tool works
 
 ## On this page
 
-*   [Why collect user feedback][#why-collect-user-feedback]
+*   [Why collect user feedback] (#why-collect-user-feedback)
 *   [Feedback tool design](#feedback-tool-design)
 *   [Protecting personal information](#protecting-personal-information)
 
