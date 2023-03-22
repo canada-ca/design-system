@@ -6,7 +6,7 @@ breadcrumbs:
   - title: Analytics and feedback
     link: https://www.canada.ca/en/analytics.html
   - title: Page feedback
-    link: https://www.canada.ca/en/government/about/design-system/feedback/index.html
+    link: https://design.canada.ca/feedback/index.html
 dateModified: 2023-02-28
 layout: default
 title: How the page feedback tool works
