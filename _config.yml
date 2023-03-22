@@ -4,19 +4,22 @@ analytics:
   adobe:
     tracking_id: be5dfd287373/0127575cd23a/launch-f7c3e6060667
     service: TBS-DTO_BTN-SCT
-
+baseurl: ""
+contextualFooter:
+  title: Digital Transformation Office (DTO)
+  links: 
+    - url: "mailto:dto.btn@tbs-sct.gc.ca"
+      text: Contact us
+language: en
+plugins:
+  - jekyll-remote-theme
 remote_theme: wet-boew/gcweb-jekyll
 title: Canada.ca design system
-
-language: en
-
-baseurl: ""
 url: "https://design.canada.ca"
 
-#
 # Page front matter defaults
-# defaults:
-#  - scope:
-#      path: "" # Ensure it's applied to all pages
-#    values:
-#      layout: default
+defaults:
+  - scope:
+      path: "" # Ensure it's applied to all pages
+    values:
+      pageclass: cnt-wdth-lmtd
