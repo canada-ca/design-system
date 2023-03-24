@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/retroaction/index.html
+altLangPage: https://conception.canada.ca/retroaction/methodes.html
 breadcrumbs:
   - title: About Canada.ca
     link: https://www.canada.ca/en/government/about.html
@@ -22,7 +22,7 @@ title: Methods for analyzing feedback
   			</ul>
   		</div>
 </div>
-    
+
 ## On this page
 
 *   [Who should analyze feedback](#who-should-analyze-feedback)
@@ -92,7 +92,7 @@ A small dataset may only need a few tags to make sense of the feedback. A large 
 <summary>Consider tags based on a task or issue</summary>
 
 <p><strong>Task-based tags</strong> are recommended when analyzing feedback for a group of pages where there are multiple user tasks.</p>
-  
+
 <p>To identify tasks, ask yourself why the user came to the site. What were they trying to do, or what question were they trying to answer? </p>
 
 <p><strong>Issue-based tags</strong> may be a better strategy when gathering feedback on a single page, single topic, or where a single task dominates your feedback.</p>
@@ -197,8 +197,8 @@ A small dataset may only need a few tags to make sense of the feedback. A large 
 
     </tbody>
   </table>
-          
-          
+
+
 <a class="btn btn-primary" href="images/feedback-tagging-template.xlsx" role="button">
 <span class="fa fa-download" aria-hidden="true"></span> Download a tagging strategy template (Excel, 61KB)</a>
 </details>
@@ -245,7 +245,7 @@ Include other data sources in your reporting to build a more complete picture, c
 *   search trends
 *   usability study results
 *   questions received through social media
-  
+
 
 <nav role="navigation" class="mrgn-bttm-lg">
   <ul class="pager">

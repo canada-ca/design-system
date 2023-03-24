@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/retroaction/index.html
+altLangPage: https://conception.canada.ca/retroaction/quand.html
 breadcrumbs:
   - title: About Canada.ca
     link: https://www.canada.ca/en/government/about.html
@@ -16,7 +16,7 @@ title: When to use the page feedback tool
   <div class="row">
   <ul class="toc lst-spcd col-md-12">
     <li class="col-md-4 col-sm-6"><a class="list-group-item " href="about-page-feedback.html">How the tool works</a></li>
-          
+
     <li class="col-md-4 col-sm-6"><a class="list-group-item active" href="when.html">When to use page feedback</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="benefits.html">How feedback can help</a></li>
   </ul>
@@ -80,7 +80,7 @@ We don't recommend keeping the feedback tool on a page continuously. This reiter
 ### Secure spaces
 
 We don't recommend using the tool within secure spaces. In these spaces, it is better to ensure users have clear access to direct support channels.
-  
+
 <nav role="navigation" class="mrgn-bttm-lg">
     <ul class="pager">
     <li class="next"><a href="benefits.html" rel="next">Next: How feedback can help</a></li>

@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/retroaction/index.html
+altLangPage: https://conception.canada.ca/retroaction/fonctionnement.html
 breadcrumbs:
   - title: About Canada.ca
     link: https://www.canada.ca/en/government/about.html
@@ -36,7 +36,7 @@ The page feedback tool is still in a pilot phase. This means that you can use th
 The primary purpose of collecting feedback is to use it as a **research tool** to improve content.
 
 > Client feedback is a critical input into ensuring that services meet the needs of clients and to support continual improvement.
-> 
+>
 > Source: [Guideline on Service and Digital](https://www.canada.ca/en/government/system/digital-government/guideline-service-digital.html#ToC2_2)
 
 First person feedback captured “in the moment” of failure gives us a lens into the issues affecting a page of content, task or service.
@@ -69,11 +69,11 @@ The feedback tool invites visitors to:
     <details>
     <summary>Feedback tool</summary>
     <p>A heading labelled "Please provide more details"</p>
-  
+
     <p>Followed by the text "You will not receive a reply. Don't include personal information (telephone, email, SIN, financial, medical, or work details). Maximum 300 characters", and a text field to provide more details.</p>
     </details>
 </details>
-              
+
 ## Protecting personal information
 
 Filters are in place to remove these common types of personal information and profanity if submitted:

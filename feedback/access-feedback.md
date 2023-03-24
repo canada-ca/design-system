@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/retroaction/index.html
+altLangPage: https://conception.canada.ca/retroaction/access-feedback.html
 breadcrumbs:
   - title: About Canada.ca
     link: https://www.canada.ca/en/government/about.html
@@ -21,7 +21,7 @@ title: How to access page feedback
   			</ul>
   		</div>
   	</div>
-      
+
 
 ## On this page
 * [Where feedback is stored](#where-feedback-is-stored)

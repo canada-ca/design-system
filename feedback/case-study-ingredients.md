@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/retroaction/index.html
+altLangPage: https://conception.canada.ca/retroaction/etude-cas-ingredients.html
 breadcrumbs:
   - title: About Canada.ca
     link: https://www.canada.ca/en/government/about.html
@@ -58,7 +58,7 @@ The link to ingredients from the "On this page" navigation became the second mos
       <td>2</td>
     </tr>
   </table>
-  
+
 </details>
 </figcaption>
 </figure>

@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/retroaction/index.html
+altLangPage: https://conception.canada.ca/retroaction/communiquer.html
 breadcrumbs:
   - title: About Canada.ca
     link: https://www.canada.ca/en/government/about.html
@@ -22,7 +22,7 @@ title: Sharing insights from feedback
   			</ul>
   		</div>
 </div>
-    
+
 ## On this page
 *   [Building a narrative with data](#building-a-narrative-with-data)
 *   [Outline for a text only summary](#outline-for-a-text-only-summary)
