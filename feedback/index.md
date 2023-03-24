@@ -52,6 +52,7 @@ The page feedback tool is a <strong>research tool</strong> that can help you bet
   <section>
     <h3><a href="../design-system/design-patterns/page-feedback.html">Implementation</a></h3>
     <p>Get the code to implement the page feedback tool on your site</p>
+    <mark>done but not merged into the repo</mark>
   </section>
 </div>
 
