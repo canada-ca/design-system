@@ -49,7 +49,6 @@ The feedback tool is an **optional** pattern. It can be added to the bottom of a
 The feedback tool invites visitors to:
 
 *   indicate if they found what they were looking for (yes / no)
-*   indicate a reason for why not
 *   offer their feedback describing the problem
 
 <details>
