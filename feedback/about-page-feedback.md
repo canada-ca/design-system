@@ -16,7 +16,6 @@ title: How the page feedback tool works
   <div class="row">
     <ul class="toc lst-spcd col-md-12">
       <li class="col-md-4 col-sm-6"><a class="list-group-item active" href="about-page-feedback.html">How the tool works</a></li>
-
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="when.html">When to use page feedback</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="benefits.html">How feedback can help</a></li>
     </ul>
