@@ -35,34 +35,32 @@ Feedback about ingredients on the Pfizer-BioNTech “What you should know” pag
 The link to ingredients from the "On this page" navigation became the second most used link on the page after the addition.
 
 <figure class="gc-complex-img" role="group">
-  <img alt="A long description can be found after the image." src="https://d33wubrfki0l68.cloudfront.net/089065ffe5c8fea339c60eb88f22690d18629a74/d8e4e/images/action-2.png" />
+  <img alt="A long description can be found after the image." src="./images/action-2.png" />
   <figcaption>
     <details>
       <summary>Feedback from ingredient list</summary>
-
-<table class="table">
-    <tr>
-      <th>Date</th>
-      <th>Number of comments about ingredients and allergies</th>
-    </tr>
-    <tr>
-      <td>December 13, 2020</td>
-      <td>35</td>
-    </tr>
-    <tr>
-      <td>December 14, 2020</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>December 15, 2020</td>
-      <td>2</td>
-    </tr>
-  </table>
-
-</details>
-</figcaption>
+      <table class="table">
+        <tr>
+          <th>Date</th>
+          <th>Number of comments about ingredients and allergies</th>
+        </tr>
+        <tr>
+          <td>December 13, 2020</td>
+          <td>35</td>
+        </tr>
+        <tr>
+          <td>December 14, 2020</td>
+          <td>16</td>
+        </tr>
+        <tr>
+          <td>December 15, 2020</td>
+          <td>2</td>
+        </tr>
+      </table>
+    </details>
+  </figcaption>
 </figure>
 
 ## Learn more
 
-*   [Blog post: Use data to make better content](https://blog.canada.ca/2021/02/04/data-to-action)
+* [Blog post: Use data to make better content](https://blog.canada.ca/2021/02/04/data-to-action)

@@ -11,17 +11,16 @@ dateModified: 2023-02-28
 layout: default
 title: How to access page feedback
 ---
-  <div class="gc-stp-stp">
-  		<div class="row">
-  			<ul class="toc lst-spcd col-md-12">
-  				<li class="col-md-4 col-sm-6"><a class="list-group-item active" href="access-feedback.html">Access feedback</a></li>
-  								<li class="col-md-4 col-sm-6"><a class="list-group-item" href="analyze-feedback.html">Analyzing feedback</a></li>
-  			<li class="col-md-4 col-sm-6"><a class="list-group-item" href="insights.html">Sharing insights</a></li>
-        	<li class="col-md-4 col-sm-6"><a class="list-group-item" href="prioritize.html">Deciding what to improve</a></li>
-  			</ul>
-  		</div>
-  	</div>
-
+<div class="gc-stp-stp">
+  <div class="row">
+    <ul class="toc lst-spcd col-md-12">
+      <li class="col-md-4 col-sm-6"><a class="list-group-item active" href="access-feedback.html">Access feedback</a></li>
+      <li class="col-md-4 col-sm-6"><a class="list-group-item" href="analyze-feedback.html">Analyzing feedback</a></li>
+      <li class="col-md-4 col-sm-6"><a class="list-group-item" href="insights.html">Sharing insights</a></li>
+      <li class="col-md-4 col-sm-6"><a class="list-group-item" href="prioritize.html">Deciding what to improve</a></li>
+    </ul>
+  </div>
+</div>
 
 ## On this page
 * [Where feedback is stored](#where-feedback-is-stored)
@@ -42,20 +41,19 @@ Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
 ### Feedback Viewer filters
 
 The Feedback Viewer includes filters so that you can access and download specific feedback, including:
-*   Date range
-*   Institution, Theme, and section of content
-*   URL
-*   Language
-*   Comment field search
-
+* Date range
+* Institution, Theme, and section of content
+* URL
+* Language
+* Comment field search
 
 <details>
-<summary>Image of the Feedback Viewer</summary>
-<p><img src="images/feedback-viewer.png" alt="screenshot of the Feedback viewer showing the filter categories" class="img-responsive"/></p>
+  <summary>Image of the Feedback Viewer</summary>
+  <p><img src="images/feedback-viewer.png" alt="screenshot of the Feedback viewer showing the filter categories" class="img-responsive"/></p>
 </details>
 
 <nav role="navigation" class="mrgn-bttm-lg">
-<ul class="pager">
-<li class="next"><a href="analyze-feedback.html" rel="next">Next: Methods for analyzing feedback</a></li>
-</ul>
+  <ul class="pager">
+    <li class="next"><a href="analyze-feedback.html" rel="next">Next: Methods for analyzing feedback</a></li>
+  </ul>
 </nav>

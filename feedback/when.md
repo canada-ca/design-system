@@ -16,32 +16,32 @@ title: When to use the page feedback tool
   <div class="row">
   <ul class="toc lst-spcd col-md-12">
     <li class="col-md-4 col-sm-6"><a class="list-group-item " href="about-page-feedback.html">How the tool works</a></li>
-
     <li class="col-md-4 col-sm-6"><a class="list-group-item active" href="when.html">When to use page feedback</a></li>
-      <li class="col-md-4 col-sm-6"><a class="list-group-item" href="benefits.html">How feedback can help</a></li>
+    <li class="col-md-4 col-sm-6"><a class="list-group-item" href="benefits.html">How feedback can help</a></li>
   </ul>
   </div>
 </div>
 
 ## On this page
-*   [Use cases for the page feedback tool](#use-cases-for-the-page-feedback-tool)
-*   [Expectations and commitment](#expectations-and-commitment)
-*   [How not to use the tool](#how-not-to-use-the-tool)
+
+* [Use cases for the page feedback tool](#use-cases-for-the-page-feedback-tool)
+* [Expectations and commitment](#expectations-and-commitment)
+* [How not to use the tool](#how-not-to-use-the-tool)
 
 ## Use cases for the page feedback tool
 
 Consider adding the page feedback tool to:
 
-*   uncover specific page-level issues affecting you GC Task Success Survey task score
-*   understand content issues on pages you will be working on in the future
-*   understand if new or existing pages are meeting user needs
-*   identify emerging issues
-*   monitor after page improvements have gone live
+* uncover specific page-level issues affecting you GC Task Success Survey task score
+* understand content issues on pages you will be working on in the future
+* understand if new or existing pages are meeting user needs
+* identify emerging issues
+* monitor after page improvements have gone live
 
 We recommend using the feedback tool where there is a commitment to reading and acting on input:
 
-*   on specific pages; and
-*   for a defined period of time
+* on specific pages; and
+* for a defined period of time
 
 ## Expectation and commitment
 
@@ -57,9 +57,9 @@ The feedback tool should not be used for the following purposes:
 
 The feedback tool is biased towards collecting ‘no’ answers in several ways:
 
-*   Humans, by nature, have a negativity bias
-*   We are only collecting feedback is someone selects ‘no’
-*   If they did find an answer and were successful, they may never have reached the bottom of the page
+* Humans, by nature, have a negativity bias
+* We are only collecting feedback is someone selects ‘no’
+* If they did find an answer and were successful, they may never have reached the bottom of the page
 
 ### Evaluating statistical significance of feedback based on page visits
 
@@ -82,7 +82,7 @@ We don't recommend keeping the feedback tool on a page continuously. This reiter
 We don't recommend using the tool within secure spaces. In these spaces, it is better to ensure users have clear access to direct support channels.
 
 <nav role="navigation" class="mrgn-bttm-lg">
-    <ul class="pager">
+  <ul class="pager">
     <li class="next"><a href="benefits.html" rel="next">Next: How feedback can help</a></li>
-    </ul>
+  </ul>
 </nav>

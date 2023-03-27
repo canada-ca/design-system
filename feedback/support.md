@@ -13,16 +13,16 @@ title: Get support for the page feedback tool
 ---
 
 ## On this page
-*   [Contact and support](#contact-and-support)
-*   [Working group](#working-group)
+* [Contact and support](#contact-and-support)
+* [Working group](#working-group)
 
 ## Contact and support
 
 Contact the Digital Transformation Office for questions related to:
 
-*   installing the feedback tool
-*   the Feedback Viewer tool
-*   how to analyze feedback
+* installing the feedback tool
+* the Feedback Viewer tool
+* how to analyze feedback
 
 Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
 

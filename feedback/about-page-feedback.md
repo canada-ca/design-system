@@ -24,9 +24,9 @@ title: How the page feedback tool works
 
 ## On this page
 
-*   [Why collect user feedback](#why-collect-user-feedback)
-*   [Feedback tool design](#feedback-tool-design)
-*   [Protecting personal information](#protecting-personal-information)
+* [Why collect user feedback](#why-collect-user-feedback)
+* [Feedback tool design](#feedback-tool-design)
+* [Protecting personal information](#protecting-personal-information)
 
 The page feedback tool is still in a pilot phase. This means that you can use the pattern, but there may be changes to how it looks or is coded in the future.
 
@@ -48,44 +48,41 @@ The feedback tool is an **optional** pattern. It can be added to the bottom of a
 
 The feedback tool invites visitors to:
 
-*   indicate if they found what they were looking for (yes / no)
-*   offer their feedback describing the problem
+* indicate if they found what they were looking for (yes / no)
+* offer their feedback describing the problem
 
 <details>
   <summary>Image of the Canada.ca footer with the feedback tool</summary>
   <figure class="mrgn-tp-lg">
     <img class="img-responsive border" alt="Image of the footer, with the feedback tool placed after the page content and before the Date modified" src="images/footer-feedback-en.png" />
-    </figure>
+  </figure>
 </details>
-
 
 <details>
   <summary>Image of the form after clicking "No"</summary>
   <figure class="mrgn-tp-lg">
     <img class="img-responsive border" alt="A long description can be found after the image." src="images/description-en.jpg" />
-    </figure>
     <details>
-    <summary>Feedback tool</summary>
-    <p>A heading labelled "Please provide more details"</p>
-
-    <p>Followed by the text "You will not receive a reply. Don't include personal information (telephone, email, SIN, financial, medical, or work details). Maximum 300 characters", and a text field to provide more details.</p>
+      <summary>Feedback tool</summary>
+      <p>A heading labelled "Please provide more details". Followed by the text "You will not receive a reply. Don't include personal information (telephone, email, SIN, financial, medical, or work details). Maximum 300 characters", and a text field to provide more details.</p>
     </details>
+  </figure>
 </details>
 
 ## Protecting personal information
 
 Filters are in place to remove these common types of personal information and profanity if submitted:
 
-*   phone numbers
-*   email addresses
-*   social insurance numbers
-*   passport numbers
-*   postal codes
-*   curse words
+* phone numbers
+* email addresses
+* social insurance numbers
+* passport numbers
+* postal codes
+* curse words
 
 When personal information is automatically scrubbed, it is replaced with hashtags (###).
 <nav role="navigation" class="mrgn-bttm-lg">
-<ul class="pager">
-<li class="next"><a href="when.html" rel="next">Next: When to use page feedback</a></li>
-</ul>
+  <ul class="pager">
+    <li class="next"><a href="when.html" rel="next">Next: When to use page feedback</a></li>
+  </ul>
 </nav>
