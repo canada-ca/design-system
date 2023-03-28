@@ -5,8 +5,6 @@ breadcrumbs:
     link: "https://www.canada.ca/en/government/about.html"
   - title: Canada.ca design system
     link: "https://www.canada.ca/en/government/about/design-system.html"
-  - title: Architecture Specification
-    link: "https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification.html"
 css:
 - https://design.canada.ca/css/split-h1.css
 - https://design.canada.ca/css/custom.css
