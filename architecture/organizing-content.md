@@ -7,16 +7,9 @@ breadcrumbs:
     link: "https://www.canada.ca/en/government/about/design-system.html"
   - title: Architecture Specification
     link: "https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification.html"
-css:
-- https://design.canada.ca/css/split-h1.css
-- https://design.canada.ca/css/custom.css
-- https://use.fontawesome.com/releases/v5.15.4/css/all.css
-- https://prycrane.github.io/experimental/prycrane/datatables/css/datatables-fun.css
 date: 2017-10-05
 dateModified: 2023-03-28
 description: "How to organize your content on Canada.ca"
-language: en
-layout: default
 title: "Organizing content on Canada.ca"
 ---
 <p class="gc-byline"><strong>From: <a href="/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
