@@ -26,7 +26,7 @@ title: When to use the page feedback tool
 
 * [Use cases for the page feedback tool](#use-cases-for-the-page-feedback-tool)
 * [Expectations and commitment](#expectations-and-commitment)
-* [How not to use the tool](#how-not-to-use-the-tool)
+* [How not to use the feedback tool](#how-not-to-use-the-feedback-tool)
 
 ## Use cases for the page feedback tool
 
@@ -43,7 +43,7 @@ We recommend using the feedback tool where there is a commitment to reading and 
 * on specific pages; and
 * for a defined period of time
 
-## Expectation and commitment
+## Expectations and commitment
 
 It is important to commit to reading, considering, and taking action based on what is submitted through feedback. Without this commitment, we are wasting peoples’ time.
 
