@@ -59,11 +59,3 @@ title: "Who has to use the Canada.ca design sytem"
       </ul>
       <p>These modifications help users distinguish between different sites, and they ensure that the overall Canada.ca design remains unique.</p>
     </section>
-    <nav role="navigation" class="mrgn-bttm-lg">
-      <h2 class="wb-inv">Document navigation</h2>
-      <ul class="pager">
-        <li class="next"><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html" rel="next">Next<span class="wb-inv">: Mandatory elements</span></a></li>
-      </ul>
-    </nav>
-  </section>
-</div>
