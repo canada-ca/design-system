@@ -1,3 +1,3 @@
 source "https://rubygems.org"
 
-gem 'github-pages'
+gem "jekyll-remote-theme", github: "benbalter/jekyll-remote-theme", branch: "master"
