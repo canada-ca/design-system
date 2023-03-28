@@ -1,5 +1,5 @@
 ---
-altLangPage: "#"
+altLangPage: "https://conception.canada.ca/architecture/modeles.html"
 breadcrumbs:
   - title: About Canada.ca
     link: "https://www.canada.ca/en/government/about.html"
