@@ -23,10 +23,10 @@ title: "Organizing content on Canada.ca"
 <div class="mrgn-tp-md mrgn-bttm-sm brdr-bttm">
   <div class="row  mrgn-bttm-sm">
     <ul class="toc lst-spcd col-md-12">
-      <li class="col-md-4"> <a href="/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/usage-canadaca-design.html" class="list-group-item">Who has to use this design system</a> </li>
-      <li class="col-md-4"> <a href="/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html" class="list-group-item">Mandatory elements</a> </li>
-      <li class="col-md-4"> <a href="/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/organizing-content.html" class="list-group-item cust-active active">Organizing content</a> </li>
-      <li class="col-md-4"> <a href="/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/templates.html" class="list-group-item">Designing content</a> </li>
+      <li class="col-md-4"><a href="usage-canadaca-design.html" class="list-group-item">Who has to use this design system</a> </li>
+      <li class="col-md-4"><a href="mandatory-elements.html" class="list-group-item">Mandatory elements</a> </li>
+      <li class="col-md-4"><a href="organizing-content.html" class="list-group-item cust-active active">Organizing content</a> </li>
+      <li class="col-md-4"><a href="templates.html" class="list-group-item">Designing content</a> </li>
     </ul>
   </div>
 </div>
