@@ -381,7 +381,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/usage-canadaca-design.html\">Who has to use this design system</a>",
+    "NAME": "<a href=\"https://design.canada.ca/architecture/usage-canadaca-design.html\">Who has to use this design system</a>",
     "SOURCE": "Content and Information Architecture Specification",
     "DESCRIPTION": "Which institutions must use the Canada.ca design system for their public-facing web presence",
     "WHENTOUSE": "Which institutions must use the Canada.ca design system for their public-facing web presence",
@@ -390,7 +390,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html\">Mandatory elements</a>",
+    "NAME": "<a href=\"https://design.canada.ca/architecture/mandatory-elements.html\">Mandatory elements</a>",
     "SOURCE": "Content and Information Architecture Specification",
     "DESCRIPTION": "What every institution must follow: colours, typography, header and footer, and mandatory templates",
     "WHENTOUSE": "What every institution must follow: colours, typography, header and footer, and mandatory templates",
@@ -399,7 +399,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/organizing-content.html#toc1\">User navigation</a>",
+    "NAME": "<a href=\"https://design.canada.ca/architecture/organizing-content.html#toc1\">User navigation</a>",
     "SOURCE": "Content and Information Architecture Specification",
     "DESCRIPTION": "How people find tasks on Canada.ca",
     "WHENTOUSE": "How people find tasks on Canada.ca",
@@ -408,7 +408,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/organizing-content.html#user\">User-need categories for destination content</a>",
+    "NAME": "<a href=\"https://design.canada.ca/architecture/organizing-content.html#user\">User-need categories for destination content</a>",
     "SOURCE": "Content and Information Architecture Specification",
     "DESCRIPTION": "How people find tasks on Canada.ca",
     "WHENTOUSE": "How people find tasks on Canada.ca",
@@ -417,7 +417,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/organizing-content.html#toc3\">URL model</a>",
+    "NAME": "<a href=\"https://design.canada.ca/architecture/organizing-content.html#toc3\">URL model</a>",
     "SOURCE": "Content and Information Architecture Specification",
     "DESCRIPTION": "Canada.ca URL model",
     "WHENTOUSE": "Canada.ca URL model",
@@ -426,7 +426,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/templates.html#principles\">Design principles</a>",
+    "NAME": "<a href=\"https://design.canada.ca/architecture/templates.html#principles\">Design principles</a>",
     "SOURCE": "Content and Information Architecture Specification",
     "DESCRIPTION": "Design principles of Canada.ca",
     "WHENTOUSE": "Design principles of Canada.ca",
