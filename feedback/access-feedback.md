@@ -34,7 +34,7 @@ When a user submits a comment, it is sent and stored in a database managed by th
 
 Feedback can be viewed and downloaded as CSV or Excel files at any time using the Feedback Viewer website.
 
-The Feedback Viewer is a password protected environment available to all page feedback participants. Contact the DTO to access to the site.
+The Feedback Viewer is a password protected environment available to all page feedback participants. It is only available from within the GC network. Contact the DTO to access to the site.
 
 Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
 
