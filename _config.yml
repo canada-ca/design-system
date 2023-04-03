@@ -26,6 +26,7 @@ defaults:
       path: "" # Ensure it's applied to all pages
     values:
       css:
-        - ./css/split-h1.css
+        - /css/split-h1.css
         - https://use.fontawesome.com/releases/v5.15.4/css/all.css
+      layout: default
       pageclass: cnt-wdth-lmtd
