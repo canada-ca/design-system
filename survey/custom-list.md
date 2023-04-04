@@ -1,13 +1,6 @@
 ---
 altLangPage: https://conception.canada.ca/sondage/liste-personnalisee.html
-breadcrumbs:
- - title: About Canada.ca
-   link: https://www.canada.ca/en/government/about.html
- - title: Analytics and feedback
-   link: https://www.canada.ca/en/analytics.html
- - title: GC Task Success Survey
-   link: survey.html
-dateModified: 2023-03-28
+dateModified: 2023-04-05
 description: ""
 title: Request a custom task list for the GC Task Success Survey
 ---
@@ -27,11 +20,10 @@ A Custom Task List is a list of tasks that can be used to get additional targete
 
 ## On this page
 
-* [When to consider a custom task list](#when)
-* [How to request a custom task list](#request)
-* [Guidance for completing the custom task list template](#guidance)
-* [Analytics](#analytics)
-* [Service standards](#standards)
+* [When to consider a custom task list](#when-to-consider-a-custom-task-list)
+* [How to request a custom task list](#how-to-request-a-custom-task-list)
+* [Guidance for completing the custom task list template](#guidance-for-completing-the-custom-task-list-template)
+* [Service standards](#service-standards)
 
 ## When to consider a custom task list
 
@@ -48,17 +40,17 @@ A Custom Task List includes the ability for branching (i.e. creating sub-tasks) 
 1.  **Fill out the custom task list template**
     * [Download the custom task list Excel template](https://www.gcpedia.gc.ca/gcwiki/images/8/8f/Custom-Task-List-Template.xlsx) (internal only)
     * [Read the guidance on completing the custom task list template](#guidance).
+
 2.  **Submit a request through the Principal Publisher Service Desk and attach the completed template**
-    
+
     [Submit a Service Desk request](http://requestform.portal.gc.ca/tickets.html) (internal only)
-    
+
     Select the following categories from the drop-down menus when submitting the request:
-    
+
     * _Category > Website Surveys_
     * _Subcategory > GC Task Success Survey: Request a custom task list_
-    
+
     Once your request is received, Principal Publisher will guide you through the process of creating and implementing your custom task list.
-    
 
 ## Guidance for completing the custom task list template
 
@@ -141,12 +133,6 @@ A Custom Task List includes the ability for branching (i.e. creating sub-tasks) 
         </details>
     </li>
 </ul>
-
-## Analytics
-
-Survey data is available through Adobe Analytics.
-
-[See the user guide on GCPedia](https://www.gcpedia.gc.ca/wiki/Adobe_Analytics_User_Guide_-_Task_Success_Survey_Reports) (internal only)
 
 ## Service Standards
 

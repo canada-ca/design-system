@@ -1,13 +1,6 @@
 ---
 altLangPage: https://conception.canada.ca/sondage/modifier-taches.html
-breadcrumbs:
- - title: About Canada.ca
-   link: https://www.canada.ca/en/government/about.html
- - title: Analytics and feedback
-   link: https://www.canada.ca/en/analytics.html
- - title: GC Task Success Survey
-   link: survey.html
-dateModified: 2023-03-28
+dateModified: 2023-04-05
 description: ""
 title: Adding or editing tasks in the GC Task Success Survey
 ---
@@ -27,9 +20,9 @@ title: Adding or editing tasks in the GC Task Success Survey
 
 To request changes to a task list, submit a request through the Principal Publisher Service Desk.
 
-Select the following categories from the drop-down menus when submitting the request:  
+Select the following categories from the drop-down menus when submitting the request:
 
-> Category > Website Surveys  
+> Category > Website Surveys
 > Subcategory > GC Task Success Survey: Request edit to task list
 
 Changes are reviewed by theme leads, Digital Transformation Office (DTO) and Principal Publisher. Updates to the task list are compiled and implemented on a monthly basis.

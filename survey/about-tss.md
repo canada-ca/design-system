@@ -1,13 +1,6 @@
 ---
 altLangPage: https://conception.canada.ca/sondage/apercu-srt.html
-breadcrumbs:
-  - title: About Canada.ca
-    link: https://www.canada.ca/en/government/about.html
-  - title: Analytics and feedback
-    link: https://www.canada.ca/en/analytics.html
-  - title: GC Task Success Survey
-    link: https://design.canada.ca/survey/survey.html
-dateModified: 2023-02-28
+dateModified: 2023-04-05
 description: ""
 title: Why measure task success
 ---
@@ -24,11 +17,11 @@ title: Why measure task success
 
 ## On this page
 
-* [What are top tasks](#what-are-top-tasks) 
+* [What are top tasks](#what-are-top-tasks)
 * [Why measure task success](#why-measure-task-success)
-* [Delivering better services](#delivering-better-services) 
- 
-## What are top tasks 
+* [Delivering better services](#delivering-better-services)
+
+## What are top tasks
 
 People come to Canada.ca with a goal in mind and a task that they want to accomplish.
 
@@ -47,12 +40,12 @@ Canada.ca's site structure is designed to reflect the top tasks Canadians are tr
 
 The [Policy on Service and Digital](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32603) and [Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) call on institutions to deliver services that are user-centric by design.
 
-The GC Task Success Survey measures the performance of the Government of Canada web presence for users in three ways: task success, ease and satisfaction.
+The GC Task Success Survey measures the performance of the Government of Canada web presence for visitors in three ways: task success, ease and satisfaction.
 
-The survey helps center our work on user needs by:
+The survey helps center our work on visitor needs by:
 
-* measuring how effectively digital content is serving user needs
-* receiving feedback from users about their experience
+* measuring how effectively digital content is serving visitor needs
+* receiving comments from visitors about their experience
 * identifying areas to prioritize for improvement
 
 ### Common performance indicators

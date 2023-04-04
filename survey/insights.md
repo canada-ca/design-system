@@ -1,13 +1,6 @@
 ---
 altLangPage: https://conception.canada.ca/sondage/partager.html
-breadcrumbs:
- - title: About Canada.ca
-   link: https://www.canada.ca/en/government/about.html
- - title: Analytics and feedback
-   link: https://www.canada.ca/en/analytics.html
- - title: GC Task Success Survey
-   link: survey.html
-dateModified: 2023-03-28
+dateModified: 2023-04-05
 description: ""
 title: Sharing insights from feedback
 ---
@@ -117,4 +110,10 @@ Share small and big wins with your results.
 * Analytics visits, specific page actions, click overlays
 * Supporting data from other channels or data sources
 
-* [Next: Deciding what to improve](prioritize.html)
+<nav role="navigation" class="mrgn-bttm-lg">
+    <ul class="pager">
+        <li class="next">
+            <a href="prioritize.html" rel="next">Next: Deciding what to improve</a>
+        </li>
+    </ul>
+</nav>

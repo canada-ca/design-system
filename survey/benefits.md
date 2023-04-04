@@ -1,13 +1,6 @@
 ---
 altLangPage: https://conception.canada.ca/sondage/utiliser.html
-breadcrumbs:
- - title: About Canada.ca
-   link: https://www.canada.ca/en/government/about.html
- - title: Analytics and feedback
-   link: https://www.canada.ca/en/analytics.html
- - title: GC Task Success Survey
-   link: survey.html
-dateModified: 2023-03-28
+dateModified: 2023-04-05
 description: ""
 title: How to use survey results and comments
 ---
@@ -21,15 +14,15 @@ title: How to use survey results and comments
     </ul>
   </div>
 </div>
-    
+
 There are a number of short, medium, and longer term actions that can be taken to improve workflows, processes, and content using the GC Task Success Survey.
 
 ## On this page
 
 * [Improve understanding of issues](#improve-understanding-of-issues)
-* [Improve content and navigation]()
-* [Decide what to improve]()
-* [Case studies]()
+* [Improve content and navigation](#improve-content-and-navigation)
+* [Decide what to improve](#decide-what-to-improve)
+* [Case studies](#case-studies)
 
 ## Improve understanding of issues
 
@@ -51,7 +44,7 @@ There are a number of short, medium, and longer term actions that can be taken t
             <td data-label="What to do"><span class="text-left">Corroborate survey data with other sources such as: web analytics, call reports, social media trends, and previous usability research</span></td>
         </tr>
         <tr>
-            <td data-label="Type"><span class="text-left">Socialize and raise awareness of survey results</span></td>          
+            <td data-label="Type"><span class="text-left">Socialize and raise awareness of survey results</span></td>
             <td data-label="What to do"><span class="text-left">Brief senior management, policy, program, and content owners with survey results and insights from comments - leveraging quotes from real users.
             <br><br>Incorporate survey results and comments into existing reporting activities.</span></td>
         </tr>
@@ -100,7 +93,7 @@ There are a number of short, medium, and longer term actions that can be taken t
 * Gather baseline measurements prior to content, service or policy changes
 * Consider adding the [page feedback tool](https://design.canada.ca/continuous-improvement/monitoring/feedback.html) to better understand pain points on specific pages
 * Monitor for changes to results and comments while undertaking improvements
-    
+
 ## Case studies
 
 <div class="row wb-eqht-grd main-card mrgn-tp-lg">
@@ -110,7 +103,7 @@ There are a number of short, medium, and longer term actions that can be taken t
                 <img src="images/thumbnail-button.jpg" alt="" class="img-responsive mrgn-bttm-md thumbnail" />
             </div>
             <h3><a class='stretched-link' href="case-study-ei.html">Improved content design</a></h3>
-            <p>Using feedback to improve the  Submit an EI report task</p>
+            <p>Using comments to improve the  Submit an EI report task</p>
         </div>
     </div>
 </div>

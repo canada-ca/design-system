@@ -1,13 +1,6 @@
 ---
 altLangPage: https://conception.canada.ca/sondage/commentaires.html
-breadcrumbs:
- - title: About Canada.ca
-   link: https://www.canada.ca/en/government/about.html
- - title: Analytics and feedback
-   link: https://www.canada.ca/en/analytics.html
- - title: GC Task Success Survey
-   link: survey.html
-dateModified: 2023-03-28
+dateModified: 2023-04-05
 description: ""
 title: How to analyze comments
 ---
@@ -154,7 +147,7 @@ A small dataset may only need a few tags to make sense of the comments. A large 
     <p>The purpose of tagging is to help you identify user priorities and group comments into smaller datasets to analyze. A “good enough” approach to defining and assigning tags will do.</p>
     <p>If you have more comments than you can manage to review, classify and analyze, adjust your strategy: choose a specific task or time frame to focus on.</p>
 </details>
-  
+
 ## Tools and templates for comment analysis
 
 For small datasets, any spreadsheet software should be adequate (Excel, Google Sheets) to sort and review comments.
@@ -162,6 +155,7 @@ For small datasets, any spreadsheet software should be adequate (Excel, Google S
 For larger datasets, it’s helpful to use a tool that has more advanced functionality to sort, filter, and tag. If you have a data science specialist, they may prefer or have access to other specialized software.
 
 ### Templates
+
 * [Download a tagging strategy template](images/feedback-tagging-template.xlsx) (Excel, 61KB)
 * [Download a template to analyze page feedback and/or GC TSS comments](https://docs.google.com/spreadsheets/d/1pcQgee6lN6P30EIMRb3o6RxcTPBiUFtsZAmbeVNpDW4/edit?usp=sharing) (Google Sheets)
 

@@ -1,13 +1,6 @@
 ---
 altLangPage: https://conception.canada.ca/sondage/decider.html
-breadcrumbs:
- - title: About Canada.ca
-   link: https://www.canada.ca/en/government/about.html
- - title: Analytics and feedback
-   link: https://www.canada.ca/en/analytics.html
- - title: GC Task Success Survey
-   link: survey.html
-dateModified: 2023-03-28
+dateModified: 2023-04-05
 description: ""
 title: Deciding what to improve
 ---
@@ -18,11 +11,11 @@ title: Deciding what to improve
             <li class="col-md-4 col-sm-6"><a class="list-group-item" href="access-results.html">Survey results and reports</a></li>
             <li class="col-md-4 col-sm-6"><a class="list-group-item" href="analyze-feedback.html">How to analyze feedback</a></li>
             <li class="col-md-4 col-sm-6"><a class="list-group-item" href="insights.html">Sharing feedback insights</a></li>
-            <li class="col-md-4 col-sm-6"><a class="list-group-item active" href="prioritize.html">Deciding what to improve</a></li>      
+            <li class="col-md-4 col-sm-6"><a class="list-group-item active" href="prioritize.html">Deciding what to improve</a></li>
         </ul>
     </div>
 </div>
-    
+
 You won’t be able to improve everything. Some tasks are much more important to your users – and to your mandate – than others.
 
 ## On this page

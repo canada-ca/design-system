@@ -1,22 +1,15 @@
 ---
 altLangPage: https://conception.canada.ca/sondage/soutien.html
-breadcrumbs:
- - title: About Canada.ca
-   link: https://www.canada.ca/en/government/about.html
- - title: Analytics and feedback
-   link: https://www.canada.ca/en/analytics.html
- - title: GC Task Success Survey
-   link: survey.html
-dateModified: 2023-03-28
+dateModified: 2023-04-05
 description: ""
-title: Contact and support for the GC Task Success Survey
+title: GC Task Success Survey
 ---
 
-<p>The GC Task Success Survey is a continuously running web intercept survey that asks questions related to three key elements: task success, ease, and satisfaction.
+<p>The GC Task Success Survey is a continuously running web intercept survey that asks questions related to three key elements: task success, ease, and satisfaction.</p>
 
 <section>
     <h2>Get started</h2>
-    <p>Measuring the user experience of Canada.ca.</p>
+    <p>Measuring the visitor experience of Canada.ca.</p>
     <div class="row">
         <section class="wb-eqht gc-drmt">
             <div class="col-md-4">
@@ -40,13 +33,13 @@ title: Contact and support for the GC Task Success Survey
         </section>
     </div>
     <h2>Accessing and analyzing survey data</h2>
-    <p>Understanding results and user comments from your survey</p>
+    <p>Understanding results and visitor comments from your survey</p>
     <div class="row">
         <section class="wb-eqht gc-drmt">
             <div class="col-md-4">
                 <section>
                     <h3 class="h5"><a href="access-results.html">Survey results, reports, and comments</a></h3>
-                    <p>Get survey datasets, access and download comments</p>
+                    <p>Get survey datasets, access and download responses</p>
                 </section>
             </div>
             <div class="col-md-4">
@@ -110,10 +103,5 @@ title: Contact and support for the GC Task Success Survey
                 </section>
             </div>
         </section>
-    </div>
-    <div class="well well-sm mrgn-tp-lg">
-        <h3 class="mrgn-tp-md">Stay up to date</h3>
-        <p>We occasionally send out updates about the GC Task Success Survey.</p>
-        <a href="https://forms.office.com/r/gMwR9wiuJa" class="btn btn-primary mrgn-bttm-md" role="button">Sign up for updates</a>
     </div>
 </section>

@@ -1,13 +1,6 @@
 ---
 altLangPage: https://conception.canada.ca/sondage/methodologie.html
-breadcrumbs:
- - title: About Canada.ca
-   link: https://www.canada.ca/en/government/about.html
- - title: Analytics and feedback
-   link: https://www.canada.ca/en/analytics.html
- - title: GC Task Success Survey
-   link: survey.html
-dateModified: 2023-03-28
+dateModified: 2023-04-05
 description: ""
 title: GC Task Success Survey methodology
 ---
@@ -15,7 +8,7 @@ title: GC Task Success Survey methodology
 <div class="gc-stp-stp">
     <div class="row">
         <ul class="toc lst-spcd col-md-12">
-            <li class="col-md-4 col-sm-6"><a class="list-group-item" href="about-tss.html">Why measure task success</a></li>     
+            <li class="col-md-4 col-sm-6"><a class="list-group-item" href="about-tss.html">Why measure task success</a></li>
             <li class="col-md-4 col-sm-6"><a class="list-group-item active" href="methods.html">Survey methodology</a></li>
             <li class="col-md-4 col-sm-6"><a class="list-group-item" href="benefits.html">How to use survey results</a></li>
         </ul>
@@ -45,7 +38,7 @@ When visitors arrive on a webpage, a pop-up invites visitors at random to comple
     * Yes
     * No
 
-2.  **First, pick the category that best describes the main reason for your visit today**  
+2.  **First, pick the category that best describes the main reason for your visit today**
 
     [Read the full list of categories and tasks on GCPedia](https://www.gcpedia.gc.ca/wiki/Government_of_Canada_Task_Success_Survey_-_Current_and_past_task_lists) (internal only)
 
@@ -65,7 +58,7 @@ When visitors arrive on a webpage, a pop-up invites visitors at random to comple
     * Easy
     * Very easy
 
-5.  **Were you able to complete what you came to do?**  
+5.  **Were you able to complete what you came to do?**
 
     * Yes, I think so (go to question 6)
     * No, I don't think so (go to question 7)
@@ -74,7 +67,7 @@ When visitors arrive on a webpage, a pop-up invites visitors at random to comple
 6.  If yes, open text question - **How could we have created a better experience for you?** (optional)
 
 7.  If no, open text question - **Why weren’t you able to complete what you came to do?**
-     
+
 <nav role="navigation" class="mrgn-bttm-lg">
     <ul class="pager">
         <li class="next"><a href="benefits.html" rel="next">Next: How to use survey results</a></li>

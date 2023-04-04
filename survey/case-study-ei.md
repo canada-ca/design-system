@@ -1,13 +1,6 @@
 ---
 altLangPage: https://conception.canada.ca/sondage/cas-ae.html
-breadcrumbs:
- - title: About Canada.ca
-   link: https://www.canada.ca/en/government/about.html
- - title: Analytics and feedback
-   link: https://www.canada.ca/en/analytics.html
- - title: GC Task Success Survey
-   link: survey.html
-dateModified: 2023-03-28
+dateModified: 2023-04-05
 description: ""
 title: "Case study: Improved content design"
 ---
@@ -15,14 +8,14 @@ title: "Case study: Improved content design"
 <div class="gc-stp-stp">
   <div class="row">
     <ul class="toc lst-spcd col-md-12">
-      <li class="col-md-4 col-sm-6"><a class="list-group-item" href="about-tss.html">Why measure task success</a></li>     
+      <li class="col-md-4 col-sm-6"><a class="list-group-item" href="about-tss.html">Why measure task success</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="methods.html">Survey methodology</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="benefits.html">How to use survey results</a></li>
     </ul>
   </div>
 </div>
 
-By reading GC Task Success Survey feedback for the Submit and Employment Insurance report task, the team at Employment and Social Development Canada (ESDC) was able to spot an issue that they believed could be improved through minor content design changes.
+By reading GC Task Success Survey comments for the Submit and Employment Insurance report task, the team at Employment and Social Development Canada (ESDC) was able to spot an issue that they believed could be improved through minor content design changes.
 
 ## Problem to solve: the reporting link was hard to find
 

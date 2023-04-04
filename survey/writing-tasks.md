@@ -1,13 +1,6 @@
 ---
 altLangPage: https://conception.canada.ca/sondage/rediger-taches.html
-breadcrumbs:
- - title: About Canada.ca
-   link: https://www.canada.ca/en/government/about.html
- - title: Analytics and feedback
-   link: https://www.canada.ca/en/analytics.html
- - title: GC Task Success Survey
-   link: survey.html
-dateModified: 2023-03-28
+dateModified: 2023-04-05
 description: ""
 title: Choosing and writing tasks for the GC Task Success Survey
 ---
@@ -33,7 +26,7 @@ title: Choosing and writing tasks for the GC Task Success Survey
 
 A task is what people come to your content to do. That can mean getting answers, like learning about a subject, or performing a transaction, like applying for a program.
 
-Top tasks should reflect what users are coming to the site to do, rather than departmental priorities.
+Top tasks should reflect what visitors are coming to the site to do, rather than departmental priorities.
 
 ## What tasks should we measure
 
@@ -53,12 +46,12 @@ The purpose of these recommendations is to make tasks easy to scan and understan
 
 <div class="row wb-eqht mrgn-tp-lg">
     <section class="col-md-5 col-xs-6">
-        <h2 class="mrgn-tp-0 text-success h4"><span class="glyphicon glyphicon-ok-circle"></span> What to do </h2>
-        <p>Military missions, operations, and deployments </p>
+        <h2 class="mrgn-tp-0 text-success h4"><span class="glyphicon glyphicon-ok-circle"></span> What to do</h2>
+        <p>Military missions, operations, and deployments</p>
         <p>Local weather forecast</p>
-    </section>  
+    </section>
     <section class="col-md-5 brdr-lft col-xs-6">
-        <h2 class="mrgn-tp-0 text-danger h4"><span class="glyphicon glyphicon-remove-circle"></span> Avoid </h2>
+        <h2 class="mrgn-tp-0 text-danger h4"><span class="glyphicon glyphicon-remove-circle"></span> Avoid</h2>
         <p>Find out where the military is currently deployed on operations around the world</p>
         <p>Learn about your local weather forecast</p>
     </section>
@@ -69,22 +62,22 @@ The purpose of these recommendations is to make tasks easy to scan and understan
 
 <div class="row wb-eqht mrgn-tp-lg">
     <section class="col-md-5 col-xs-6">
-        <h2 class="mrgn-tp-0 text-success h4"><span class="glyphicon glyphicon-ok-circle"></span> What to do </h2>
+        <h2 class="mrgn-tp-0 text-success h4"><span class="glyphicon glyphicon-ok-circle"></span> What to do</h2>
         <p>Join the Cadets</p>
         <p>Write the troops</p>
    </section>
 </div>
 <hr>
-  
+
 ### Make tasks descriptive enough to be understood when read on their own
 
 <div class="row wb-eqht mrgn-tp-lg">
     <section class="col-md-5 col-xs-6">
-        <h2 class="mrgn-tp-0 text-success h4"><span class="glyphicon glyphicon-ok-circle"></span> What to do </h2>
+        <h2 class="mrgn-tp-0 text-success h4"><span class="glyphicon glyphicon-ok-circle"></span> What to do</h2>
         <p>Search [specific type] of records</p>
     </section>
     <section class="col-md-5 brdr-lft col-xs-6">
-        <h2 class="mrgn-tp-0 text-danger h4"><span class="glyphicon glyphicon-remove-circle"></span> Avoid </h2>
+        <h2 class="mrgn-tp-0 text-danger h4"><span class="glyphicon glyphicon-remove-circle"></span> Avoid</h2>
         <p>Search records</p>
     </section>
 </div>
@@ -112,13 +105,13 @@ The purpose of these recommendations is to make tasks easy to scan and understan
 
 <div class="row wb-eqht mrgn-tp-lg">
     <section class="col-md-12 col-xs-12">
-        <h2 class="mrgn-tp-0 text-success h4"><span class="glyphicon glyphicon-ok-circle"></span> What to do </h2>
+        <h2 class="mrgn-tp-0 text-success h4"><span class="glyphicon glyphicon-ok-circle"></span> What to do</h2>
         <ul>
-            <li> Jobs with [x] / Student jobs with [x]</li>
-            <li> Contact [institution name]</li>
-            <li> [Name] account (register, sign-in, help)</li>
-            <li> Check the status of [name]</li>
-            <li> Apply for a [program / fund / benefit]</li>
+            <li>Jobs with [x] / Student jobs with [x]</li>
+            <li>Contact [institution name]</li>
+            <li>[Name] account (register, sign-in, help)</li>
+            <li>Check the status of [name]</li>
+            <li>Apply for a [program / fund / benefit]</li>
         </ul>
     </section>
 </div>
@@ -129,31 +122,31 @@ The purpose of these recommendations is to make tasks easy to scan and understan
 
 <div class="row wb-eqht mrgn-tp-lg">
     <section class="col-md-5 col-xs-6">
-        <h2 class="mrgn-tp-0 text-success h4"><span class="glyphicon glyphicon-ok-circle"></span> What to do </h2>
+        <h2 class="mrgn-tp-0 text-success h4"><span class="glyphicon glyphicon-ok-circle"></span> What to do</h2>
         <p>Get my T4 or Check my T4</p>
         <p>Get / Check my Record of Employment</p>
     </section>
     <section class="col-md-5 brdr-lft col-xs-6">
-        <h2 class="mrgn-tp-0 text-danger h4"><span class="glyphicon glyphicon-remove-circle"></span> Avoid </h2>
+        <h2 class="mrgn-tp-0 text-danger h4"><span class="glyphicon glyphicon-remove-circle"></span> Avoid</h2>
         <p>See my T4</p>
         <p>View my Record of Employment</p>
     </section>
 </div>
 
 * * *
-    
+
 ### Avoid complex words when there are simpler alternative
 
 <div class="row wb-eqht mrgn-tp-lg">
     <section class="col-md-5 col-xs-6">
-        <h2 class="mrgn-tp-0 text-success h4"><span class="glyphicon glyphicon-ok-circle"></span> What to do </h2>
-        <p> Read the [name]</p>
-        <p> Sign up for the [program]</p>
+        <h2 class="mrgn-tp-0 text-success h4"><span class="glyphicon glyphicon-ok-circle"></span> What to do</h2>
+        <p>Read the [name]</p>
+        <p>Sign up for the [program]</p>
     </section>
     <section class="col-md-5 brdr-lft col-xs-6">
-        <h2 class="mrgn-tp-0 text-danger h4"><span class="glyphicon glyphicon-remove-circle"></span> Avoid </h2>
-        <p>  Consult the [name]</p>
-        <p> Enrol in the [program]</p>
+        <h2 class="mrgn-tp-0 text-danger h4"><span class="glyphicon glyphicon-remove-circle"></span> Avoid</h2>
+        <p>Consult the [name]</p>
+        <p>Enrol in the [program]</p>
     </section>
 </div>
 
@@ -167,12 +160,12 @@ Lead with "find" when:
 
 * referring to a physical location
 * looking up a specific piece of data out of a dataset
- 
+
 <div class="well well-sm">
     <p>Examples</p>
     <ul>
-        <li>Find a visa application centre</li> 
-        <li>Find federal properties for sale</li> 
+        <li>Find a visa application centre</li>
+        <li>Find federal properties for sale</li>
     </ul>
 </div>
 

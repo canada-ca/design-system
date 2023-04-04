@@ -1,13 +1,6 @@
 ---
 altLangPage: https://conception.canada.ca/sondage/epurer-taches.html
-breadcrumbs:
- - title: About Canada.ca
-   link: https://www.canada.ca/en/government/about.html
- - title: Analytics and feedback
-   link: https://www.canada.ca/en/analytics.html
- - title: GC Task Success Survey
-   link: survey.html
-dateModified: 2023-03-28
+dateModified: 2023-04-05
 description: ""
 title: Task list clean up
 ---
@@ -22,7 +15,7 @@ title: Task list clean up
         </ul>
     </div>
 </div>
-    
+
 Reviewing tasks in the survey helps ensure top tasks make up the majority of tasks in the survey and that tasks are unambiguous and clearly worded.
 
 ## On this page
@@ -63,7 +56,7 @@ This can also help when the task is understood when taken out of survey context 
     <h4>How to do it</h4>
     <ol>
         <li>Look up your response rates</li>
-        <li>Identify tasks with fewer than 100 responses</li>    
+        <li>Identify tasks with fewer than 100 responses</li>
     </ol>
     <h4>Outcomes for this step</h4>
     <ol>
