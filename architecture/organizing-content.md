@@ -10,6 +10,7 @@ breadcrumbs:
 date: 2017-10-05
 dateModified: 2023-03-28
 description: "How to organize your content on Canada.ca"
+layout: default
 title: "Organizing content on Canada.ca"
 ---
 <p class="gc-byline"><strong>From: <a href="/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
