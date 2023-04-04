@@ -10,6 +10,7 @@ breadcrumbs:
 date: 2017-10-05
 dateModified: 2023-03-28
 description: "Mandatory elements for all Government of Canada webpages."
+layout: default
 title: "Mandatory elements of the Canada.ca design system"
 ---
 <p class="gc-byline"><strong>From: <a href="/c%09ontent/canadasite/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
