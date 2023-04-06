@@ -14,7 +14,7 @@ dateModified: 2023-04-06
 description: "The requirements listed in this design manual apply to departments and other portions of the federal public administration as set out in Schedules I, I.1 and II of the Financial Administration Act. As such, in-scope institutions must apply Canada.ca design requirements for all public-facing web sites or digital services."
 layout: default
 language: en
-title: "Main footer band"
+title: "Global footer: Main band"
 ---
 <p><strong>Last updated</strong>: 2023-04-06</p>
 <div>
