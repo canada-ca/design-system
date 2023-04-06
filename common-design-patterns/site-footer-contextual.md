@@ -1,149 +1,21 @@
 ---
+altLangPage: "https://conception.canada.ca/configurations-conception-communes/pied-page-contextuelle.html"
+breadcrumbs:
+  - title: About Canada.ca
+    link: "https://www.canada.ca/en/government/about.html"
+  - title: Canada.ca design system
+    link: "https://www.canada.ca/en/government/about/design-system.html"
+  - title: Template and pattern library
+    link: "https://www.canada.ca/en/government/about/design-system/pattern-library.html"
+  - title: Global footer
+    link: "https://design.canada.ca/common-design-patterns/site-footer.html"
+date: 2022-11-30
+dateModified: 2023-04-06
+description: "This is an optional element of the global (site-wide) footer."
+layout: default
+language: en
+title: "Contextual footer"
 ---
-<!doctype html><!--[if lt IE 9]><html class="no-js lt-ie9" lang="en" dir="ltr"><![endif]--><!--[if gt IE 8]><!-->
-<html class="no-js" lang="en" dir="ltr">
-<!--<![endif]-->
-<head>
-<meta charset="utf-8">
-<!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
-		wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
-<title>Contextual footer - Canada.ca design system - Canada.ca</title>
-<meta content="width=device-width,initial-scale=1" name="viewport">
-<meta name="description" content="This is an optional element of the global (site-wide) footer." />
-<meta name="author" content="Treasury Board Secretariat of Canada" />
-<meta name="dcterms.title" content="Contextual footer" />
-<meta name="dcterms.description" content="This is an optional element of the global (site-wide) footer." />
-<meta name="dcterms.creator" content="Treasury Board Secretariat of Canada" />
-<meta name="dcterms.language" content="eng" />
-<meta name="dcterms.subject" content="Design system" />
-<meta name="dcterms.issued" content="2022-11-30" />
-<meta name="dcterms.modified" content="2023-02-08" />
-
-<!--[if gte IE 9 | !IE ]><!-->
-<link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon">
-<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
-<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/wet-boew.min.css" />
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous" />
-<link rel="stylesheet" href="../css/custom.css">
-<link rel="stylesheet" href="../css/split-h1.css">
-
-<!--<![endif]-->
-<!--[if lt IE 9]>
-		<link href="./GCWeb/assets/favicon.ico" rel="shortcut icon" />
-
-		<link rel="stylesheet" href="http://wet-boew.github.io/themes-dist/GCWeb/GCWeb/css/ie8-theme.min.css" />
-		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-		<script src="./wet-boew/js/ie8-wet-boew.min.js"></script>
-		<![endif]-->
-<!--[if lte IE 9]>
-
-
-		<![endif]-->
-<noscript>
-<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/wet-boew/css/noscript.min.css" />
-</noscript>
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105628416-2"></script>
-<script>
-
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-
-  gtag('config', 'UA-105628416-2');
-
-</script>
-</head>
-<body class="cnt-wdth-lmtd" vocab="http://schema.org/" typeof="WebPage">
-<ul id="wb-tphp">
-  <li class="wb-slc"> <a class="wb-sl" href="#wb-cont">Skip to main content</a> </li>
-  <li class="wb-slc"> <a class="wb-sl" href="#wb-info">Skip to "About government"</a> </li>
-</ul>
-<header>
-  <div id="wb-bnr" class="container">
-    <section id="wb-lng" class="text-right">
-      <h2 class="wb-inv">Language selection</h2>
-      <div class="row">
-        <div class="col-md-12">
-          <ul class="list-inline margin-bottom-none">
-            <li><a lang="fr" href="https://conception.canada.ca/configurations-conception-communes/pied-page-contextuelle.html">Français</a></li>
-          </ul>
-        </div>
-      </div>
-    </section>
-    <div class="row">
-      <div class="brand col-xs-5 col-md-4"> <a href="https://www.canada.ca/en.html"><img src="http://www.canada.ca/etc/designs/canada/wet-boew/assets/sig-blk-en.svg" alt=""><span class="wb-inv"> Government of Canada / <span lang="fr">Gouvernement du Canada</span></span></a> </div>
-      <section id="wb-srch" class="col-lg-8 text-right">
-        <h2>Search</h2>
-        <form action="https://canada.ca/en/sr/srb.html" method="get" name="cse-search-box" role="search" class="form-inline">
-          <div class="form-group">
-            <label for="wb-srch-q" class="wb-inv">Search website</label>
-            <input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="38" maxlength="150" placeholder="Search Canada.ca">
-            <input name="st" value="s" type="hidden"/>
-            <input name="num" value="10" type="hidden"/>
-            <input name="langs" value="eng" type="hidden"/>
-            <input name="st1rt" value="0" type="hidden">
-            <input name="s5bm3ts21rch" value="x" type="hidden"/>
-            <datalist id="wb-srch-q-ac">
-
-              <!--[if lte IE 9]><select><![endif]-->
-
-              <!--[if lte IE 9]></select><![endif]-->
-
-            </datalist>
-          </div>
-          <div class="form-group submit">
-            <button type="submit" id="wb-srch-sub" class="btn btn-primary btn-small" name="wb-srch-sub"><span class="glyphicon-search glyphicon"></span><span class="wb-inv">Search</span></button>
-          </div>
-        </form>
-      </section>
-    </div>
-  </div>
-  <nav class="gweb-v2 gcweb-menu" typeof="SiteNavigationElement">
-    <div class="container">
-      <h2 class="wb-inv">Menu</h2>
-      <button type="button" aria-haspopup="true" aria-controls="gc-mnu" aria-expanded="false"><span class="wb-inv">Main </span>Menu <span class="expicon glyphicon glyphicon-chevron-down"></span></button>
-      <ul id="gc-mnu" role="menu" aria-orientation="vertical" data-ajax-replace="https://www.canada.ca/content/dam/canada/sitemenu/sitemenu-v2-en.html">
-        <li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/jobs.html">Jobs and the workplace</a></li>
-        <li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/immigration-citizenship.html">Immigration and citizenship</a></li>
-        <li role="none presentation"><a role="menuitem" tabindex="-1" href="https://travel.gc.ca/">Travel and tourism</a></li>
-        <li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/business.html">Business and industry</a></li>
-        <li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/benefits.html">Benefits</a></li>
-        <li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/health.html">Health</a></li>
-        <li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/taxes.html">Taxes</a></li>
-        <li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/environment.html">Environment and natural resources</a></li>
-        <li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/defence.html">National security and defence</a></li>
-        <li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/culture.html">Culture, history and sport</a></li>
-        <li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/policing.html">Policing, justice and emergencies</a></li>
-        <li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/transport.html">Transport and infrastructure</a></li>
-        <li role="none presentation"><a role="menuitem" tabindex="-1" href="http://international.gc.ca/world-monde/index.aspx?lang=eng">Canada and the world</a></li>
-        <li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/finance.html">Money and finances</a></li>
-        <li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/finance.html">Science and innovation</a></li>
-      </ul>
-    </div>
-  </nav>
-  <nav id="wb-bc" property="breadcrumb">
-    <h2>You are here:</h2>
-    <div class="container">
-      <ol class="breadcrumb">
-        <li><a href="https://www.canada.ca/en.html">Canada.ca</a></li>
-        <li><a href="https://www.canada.ca/en/government/about.html">About Canada.ca</a></li>
-        <li><a href="https://www.canada.ca/en/government/about/design-system.html">Canada.ca design system</a></li>
-        <li><a href="https://www.canada.ca/en/government/about/design-system/pattern-library.html">Template and pattern library for Canada.ca</a></li>
-        <li><a href="site-footer.html">Global footer</a></li>
-      </ol>
-    </div>
-  </nav>
-</header>
-
-<!--/* Hide Nav; Hide Right Rail /*-->
-
-<main role="main" property="mainContentOfPage" class="container">
-  <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Global footer: Contextual band</span>: <span>Canada.ca design
-    system </span></span></h1>
   <p><strong>Last updated</strong>: 2023-02-08</p>
   <div>
     <div class="mwsgeneric-base-html parbase section">
@@ -155,9 +27,9 @@
           organization.</p>
         <p><strong>2022 design update</strong>: We’ve recently updated this pattern as part of a new navigation strategy coming
           out of the Wayfinding research project. To find out more about this project, visit the <a href="#research">Research and rationale</a> section on this page.</p>
-
+        
         <!--<a href="">Blog post link</a>-->
-
+        
         <div class="pattern-demo mrgn-tp-lg"> <img src="../images/footer-contextual.jpg" class="img-responsive"
 				alt="Diagram of contextual band for large screens. Text version below:"> </div>
         <h2>On this page</h2>
@@ -246,7 +118,7 @@
           <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/no-footer-main-en.html">Contextual band and sub-footer band</a></li>
           <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/only-footer-contextual-en.html">Contextual band and sub-footer band with no optional links</a></li>
           <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/only-footer-corporate-en.html">Sub-footer band only</a></li>
-          <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/no-footers-en.html">Sub-footer band with no optional links</a></li>
+          <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/no-footers-en.html">Sub-footer band only with no optional links</a></li>
         </ul>
       </section>
       <section>
@@ -324,7 +196,7 @@
       </section>
     </div>
   </div>
-
+  
   <!-- START PAGE FEEDBACK WIDGET -->
   <div class="row row-no-gutters mrgn-tp-xl">
     <div class="col-sm-7 col-lg-6">
@@ -402,53 +274,3 @@
     </div>
   </div>
   <!-- END PAGE FEEDBACK WIDGET -->
-  <div class="pagedetails">
-    <dl id="wb-dtmd">
-      <dt>Date modified:</dt>
-      <dd>
-        <time property="dateModified">2023-02-08</time>
-      </dd>
-    </dl>
-  </div>
-</main>
-{% include footer-en.html %}
-<!--[if gte IE 9 | !IE ]><!-->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.js"></script>
-<script src="https://wet-boew.github.io/themes-dist/GCWeb/wet-boew/js/wet-boew.min.js"></script>
-<!--<![endif]-->
-<!--[if lt IE 9]>
-			<script src="./wet-boew/js/ie8-wet-boew2.min.js"></script>
-
-			<![endif]-->
-<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script> <script>
-         document.getElementById('submissionPage').value = location.href;
-      </script>
-<!-- START SCRIPT PAGE FEEDBACK WIDGET -->
-
-<script>
-				$(document).on("wb-ready.wb", function () {
-					$("#btnno").click(function (e) {
-						$(".gc-pg-hlpfl-no").removeClass("nojs-show");
-						$(".gc-pg-hlpfl-btn").addClass("hide");
-						$("#helpful").val("No");
-					});
-					$("#gc-pg-hlpfl-frm").submit(function (e) {
-						e.preventDefault();
-						$(".gc-pg-hlpfl-thnk").removeClass("hide");
-						$("#gc-pg-hlpfl-frm").addClass("hide nojs-show");
-						$.ajax({
-							url: 'https://pagesuccessemailqueue.azurewebsites.net/api/QueueProblemForm',
-							type: 'POST',
-							dataType: 'text',
-							data: $('form#gc-pg-hlpfl-frm').serialize(),
-							success: function (data) { },
-							error: function (xhr, status, err) {
-								console.log(xhr.responseText);
-							}
-						});
-					});
-				});
-			</script>
-<!-- END SCRIPT PAGE FEEDBACK WIDGET -->
-</body>
-</html>
