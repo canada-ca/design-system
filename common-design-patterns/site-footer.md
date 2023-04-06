@@ -13,7 +13,6 @@ date: 2019-01-08
 dateModified: 2023-04-06
 description: "The global (site-wide) footer at the bottom of each page. It includes the main band, a contextual band and a sub-footer band. This is a mandatory pattern with optional elements."
 layout: default
-language: en
 title: "Global footer"
 ---
 <p><strong>Last updated</strong>: 2023-04-06</p>
