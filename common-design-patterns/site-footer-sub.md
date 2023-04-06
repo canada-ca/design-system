@@ -16,8 +16,6 @@ layout: default
 title: "Global footer: Sub-footer band"
 ---
 <p><strong>Last updated</strong>: 2023-04-06</p>
-<div>
-  <div class="mwsgeneric-base-html parbase section">
     <section>
       <p><span class="label label-danger">Mandatory</span></p>
       <p>The sub-footer band is a secondary element of the global footer. It contains a series of corporate links and the Canada wordmark.</p>
@@ -219,5 +217,3 @@ title: "Global footer: Sub-footer band"
         <li><a href="mailto:dto.btn@tbs-sct.gc.ca">Send an email to the Digital Transformation Office</a></li>
       </ul>
     </section>
-  </div>
-</div>
