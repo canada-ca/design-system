@@ -16,7 +16,7 @@ layout: default
 language: en
 title: "Main footer band"
 ---
-<p><strong>Last updated</strong>: 2023-02-08</p>
+<p><strong>Last updated</strong>: 2023-04-06</p>
 <div>
   <div class="mwsgeneric-base-html parbase section">
     <section>
