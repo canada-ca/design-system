@@ -13,7 +13,6 @@ date: 2022-11-30
 dateModified: 2023-04-06
 description: "This is an optional element of the global (site-wide) footer."
 layout: default
-language: en
 title: "Global footer: Contextual band"
 ---
 <p><strong>Last updated</strong>: 2023-02-08</p>
