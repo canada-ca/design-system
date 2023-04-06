@@ -39,5 +39,5 @@ defaults:
       - title: Analytics and feedback
         link: https://www.canada.ca/en/analytics.html
       - title: GC Task Success Survey
-        link: survey/survey.html
+        link: survey/index.html
       layout: default

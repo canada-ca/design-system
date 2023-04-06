@@ -1,5 +1,14 @@
 ---
 altLangPage: https://conception.canada.ca/sondage/cas-ae.html
+breadcrumbs:
+- title: About Canada.ca
+  link: https://www.canada.ca/en/government/about.html
+- title: Analytics and feedback
+  link: https://www.canada.ca/en/analytics.html
+- title: GC Task Success Survey
+  link: survey/index.html
+- title: How to use survey results
+  link: survey/benefits.html
 dateModified: 2023-04-05
 description: ""
 title: "Case study: Improved content design"

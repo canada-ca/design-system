@@ -25,7 +25,7 @@ title: Why measure task success
 
 People come to Canada.ca with a goal in mind and a task that they want to accomplish.
 
-
+Types of tasks:
 
 * **Answer seeking:** find or look up an answer to a specific question, understand or learn about something in more detail
 * **Process or transactional:** complete an action such as: register, sign-in, apply, check a status, contact

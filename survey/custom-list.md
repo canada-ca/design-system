@@ -55,18 +55,18 @@ A Custom Task List includes the ability for branching (i.e. creating sub-tasks) 
 ## Guidance for completing the custom task list template
 
 <ul class="list-unstyled">
-	<li>
-		<details>
-			<summary>Contact information</summary>
+    <li>
+        <details>
+            <summary>Contact information</summary>
             <h3>Institution Name (department, agency or organization)</h3>
             <p>Enter the name of your institution.</p>
             <h3>Contact details (name, email and telephone number)</h3>
             <p>Enter the contact details of the person who is best able to answer questions about the information you provided in this request.</p>
         </details>
     </li>
-	<li>
-		<details>
-		    <summary>Task IDs, branching and levels</summary>
+    <li>
+        <details>
+            <summary>Task IDs, branching and levels</summary>
             <h3>ID</h3>
             <p>Each task and sub-task should be entered on a separate line in the spreadsheet. Each line gets a unique ID: 1, 2, 3 etc…</p>
             <h3>Branching</h3>
@@ -94,8 +94,8 @@ A Custom Task List includes the ability for branching (i.e. creating sub-tasks) 
             <p>If you included a “y” in the Branching column for a task, you must include a branching question. We recommend using “What specifically were you trying to do or find?”. You can edit this text if it does not align with your sub-tasks.</p>
             <h3>Enchaînement de question FR</h3>
             <p>If you included a “y” in the Branching column for a task, you must include a branching question. We recommend using “Que tentiez-vous précisément d’accomplir ou de trouver ?”. You can edit this text if it does not align with your sub-tasks.</p>
-		</details>
-	</li>
+        </details>
+    </li>
     <li>
         <details>
             <summary>Task labels</summary>
