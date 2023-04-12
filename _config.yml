@@ -11,7 +11,7 @@ global:
       en: Digital Transformation Office (DTO)
     links:
       en:
-        - url: "mailto:dto.btn@tbs-sct.gc.ca"
+        - url: "/contact-us/"
           text: Contact us
   lang: en
 plugins:
