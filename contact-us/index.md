@@ -17,7 +17,7 @@ Contact us to ask design questions or make suggestions about the design of Canad
 <div class="row">
   <div class="col-md-8">
     <details class="mrgn-tp-lg">
-      <summary>Information about Privacy</summary>
+      <summary>Information about privacy</summary>
       <p class="mrgn-tp-lg">We collect the personal information you submit through this contact form under the authority of the <i>Financial Administration Act</i>, so we can respond to you. Providing the information requested on this form is voluntary. The personal information collected will be available to those program staff responsible for administering the website and will be used and protected in accordance with the <i>Privacy Act</i> and as described in Personal Information Bank PSU 914 Public Communications. Under the <i>Privacy Act</i>, you have the right to the correction of, access to, and protection of your personal information. If you have any questions about this privacy statement, contact the TBS Access to Information and Privacy Coordinator. If you are not satisfied with TBS’s response to your privacy concern, you may contact the Office of the Privacy Commissioner.</p>
       <h2>Contact information</h2>
       <p>Treasury Board’s ATIP Coordinator</p>
