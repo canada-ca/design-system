@@ -32,8 +32,6 @@ The Feedback Viewer is password protected.
 Password instructions can be found on [GCPedia (internal only)](https://www.gcpedia.gc.ca/wiki/Government_of_Canada_Task_Success_Survey_-_Access_Data#Raw_survey_responses_and_comments).
 {: .alert .alert-info}
 
-[Sign in to the Feedback Viewer](https://feedback-viewer.tbs.alpha.canada.ca){: .btn .btn-primary}
-
 ## Survey reports
 
 Download annual and quarterly results from the GC Task Success Survey
