@@ -53,7 +53,7 @@ The page feedback tool is a <strong>research tool</strong> that can help you bet
   </div>
 
   <h2>Using and understanding page feedback</h2>
-  <p>Accessing and analyzing user feedback from your page feedback tool. Data in Adobe Analytics.</p>
+  <p>Accessing and analyzing user feedback from your page feedback tool.</p>
   <div class="row">
     <section class="wb-eqht gc-drmt">
       <div class="col-md-4">
