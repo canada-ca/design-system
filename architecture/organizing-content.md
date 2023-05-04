@@ -46,7 +46,7 @@ title: "Organizing content on Canada.ca"
     <p>See where your content fits under themes and their corresponding topics in the <a href="/en/government/about/design-system/topic-tree-content-types.html#tree">Canada.ca Topic tree</a>.</p>
     <figure class="mrgn-bttm-lg">
       <figcaption class="text-center"><b>Navigation conceptual overview</b></figcaption>
-      <img src="https://www.canada.ca/content/dam/tbs-sct/images/government-communications/canada-content-style-guide/conceptual-overview-eng.png" class="img-responsive center-block" alt="Diagram of user navigation conceptual overview. Text version below:">
+      <img src="./images/conceptual-overview-eng.png" class="img-responsive center-block" alt="Diagram of user navigation conceptual overview. Text version below:">
       <details>
         <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Text version</summary>
         <p>People who may not understand the operations or organization of the Government of Canada (GC) may access content through theme navigation. Theme pages organize topics in a way that people understand so they can find content that supports their tasks quickly. Theme pages link to topic pages and/or destination content. Topic pages allow people to discover top-task content related to a specific GC-wide topic. They also link to destination content.
