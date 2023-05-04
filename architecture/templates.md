@@ -13,7 +13,7 @@ description: "Templates and design patterns of the Canada.ca design system."
 layout: default
 title: "Designing content on Canada.ca"
 ---
-<p class="gc-byline"><strong>From: <a href="/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
+<p class="gc-byline"><strong>From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
 <div>
   <div class="mrgn-tp-md mrgn-bttm-sm brdr-bttm">
     <div class="row  mrgn-bttm-sm">
