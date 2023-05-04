@@ -13,7 +13,7 @@ description: "The requirements listed in this design manual apply to departments
 layout: default
 title: "Who has to use the Canada.ca design sytem"
 ---
-<p class="gc-byline"><strong>From: <a href="/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
+<p class="gc-byline"><strong>From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
 <div>
   <div class="mrgn-tp-md mrgn-bttm-sm brdr-bttm">
     <div class="row  mrgn-bttm-sm">
