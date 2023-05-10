@@ -1,12 +1,5 @@
 ---
 altLangPage: "https://conception.canada.ca/architecture/organiser-contenu.html"
-breadcrumbs:
-  - title: About Canada.ca
-    link: "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca design system
-    link: "https://www.canada.ca/en/government/about/design-system.html"
-  - title: Architecture Specification
-    link: "https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification.html"
 date: 2017-10-05
 dateModified: 2023-03-28
 description: "How to organize your content on Canada.ca"
