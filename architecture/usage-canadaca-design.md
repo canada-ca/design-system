@@ -1,12 +1,5 @@
 ---
 altLangPage: "https://conception.canada.ca/architecture/utilisation-concept-canadaca.html"
-breadcrumbs:
-  - title: About Canada.ca
-    link: "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca design system
-    link: "https://www.canada.ca/en/government/about/design-system.html"
-  - title: Architecture Specification
-    link: "https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification.html"
 date: 2017-10-05
 dateModified: 2023-03-28
 description: "The requirements listed in this design manual apply to departments and other portions of the federal public administration as set out in Schedules I, I.1 and II of the Financial Administration Act. As such, in-scope institutions must apply Canada.ca design requirements for all public-facing web sites or digital services."
