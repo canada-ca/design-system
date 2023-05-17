@@ -7,7 +7,7 @@ analytics:
 baseurl: ""
 global:
   contextualFooter:
-    title: 
+    title:
       en: Digital Transformation Office (DTO)
     links:
       en:
@@ -26,6 +26,27 @@ defaults:
       path: "" # Ensure it's applied to all pages
     values:
       css:
-        - ./css/split-h1.css
+        - /css/split-h1.css
         - https://use.fontawesome.com/releases/v5.15.4/css/all.css
       pageclass: cnt-wdth-lmtd
+  - scope:
+      path: "survey"
+    values:
+      breadcrumbs:
+      - title: About Canada.ca
+        link: https://www.canada.ca/en/government/about.html
+      - title: Analytics and feedback
+        link: https://www.canada.ca/en/analytics.html
+      - title: GC Task Success Survey
+        link: survey/index.html
+      layout: default
+  - scope:
+      path: "architecture"
+    values:
+      breadcrumbs:
+        - title: About Canada.ca
+          link: "https://www.canada.ca/en/government/about.html"
+        - title: Canada.ca design system
+          link: "https://www.canada.ca/en/government/about/design-system.html"
+        - title: Architecture Specification
+          link: "https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification.html"
