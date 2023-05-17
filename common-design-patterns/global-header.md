@@ -331,7 +331,7 @@ title: "Global header"
     <div class="pattern-demo mrgn-tp-lg">
       <figure>
         <figcaption><b>Minimum global header - small screen</b></figcaption>
-        <img src=../images/01-global-header-campaign-small-en.png" class="img-responsive" alt="">
+        <img src="../images/01-global-header-campaign-small-en.png" class="img-responsive" alt="">
         <details class="mrgn-tp-md">
           <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: minimum global header - small screen</summary>
           <p class="mrgn-tp-lg">On small screens, the minimum global header on a campaign page has 3 rows:</p>
