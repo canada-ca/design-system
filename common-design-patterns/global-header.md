@@ -32,7 +32,7 @@ title: "Global header"
   </ul>
   <p><strong>2023 design update</strong>: We’ve recently updated this pattern as part of a new navigation strategy coming out of the Wayfinding research project. To find out more about this project, visit <a href="#research">Research and rationale</a>.</p>
   <div class="pattern-demo mrgn-tp-lg">
-    <figure class="mrgn-bttm-sm"><img src="/images/01-sign-in-desktop-en.jpg" class="img-responsive" alt=""></figure>
+    <figure class="mrgn-bttm-sm"><img src="../images/01-sign-in-desktop-en.jpg" class="img-responsive" alt=""></figure>
   </div>
   <section>
     <h2>On this page</h2>
@@ -78,11 +78,11 @@ title: "Global header"
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Mandatory</span></td>
                 </tr>
                 <tr>
-                  <td><a href="https://design.canada.ca/common-design-patterns/language-toggle.html">Language toggle</a></td>
+                  <td><a href="language-toggle.html">Language toggle</a></td>
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Mandatory</span></td>
                 </tr>
                 <tr>
-                  <td><a href="https://design.canada.ca/common-design-patterns/search-box.html">Site search box</a></td>
+                  <td><a href="search-box.html">Site search box</a></td>
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Mandatory</span></td>
                 </tr>
                 <tr>
@@ -90,15 +90,15 @@ title: "Global header"
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Mandatory</span></td>
                 </tr>
                 <tr>
-                  <td><a href="https://design.canada.ca/common-design-patterns/site-menu.html">Theme and topic menu</a></td>
+                  <td><a href="site-menu.html">Theme and topic menu</a></td>
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Mandatory</span> <span class="small">(<a href="#smenu-note" id="smenu">Note</a>)</span></td>
                 </tr>
                 <tr>
-                  <td><a href="https://design.canada.ca/common-design-patterns/breadcrumb-trail.html">Breadcrumb trail</a></td>
+                  <td><a href="breadcrumb-trail.html">Breadcrumb trail</a></td>
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Mandatory</span></td>
                 </tr>
                 <tr>
-                  <td><a href="https://design.canada.ca/common-design-patterns/sign-in.html">Sign in button</a></td>
+                  <td><a href="sign-in.html">Sign in button</a></td>
                   <td>Optional</td>
                 </tr>
                 <tr>
@@ -137,15 +137,15 @@ title: "Global header"
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Mandatory</span> <span class="small">(Link to Canada.ca home page is optional)</span></td>
                 </tr>
                 <tr>
-                  <td><a href="https://design.canada.ca/common-design-patterns/language-toggle.html">Language toggle</a></td>
+                  <td><a href="language-toggle.html">Language toggle</a></td>
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Mandatory</span> <span class="small">(<a href="#lt-note" id="lt">Note</a>)</span></td>
                 </tr>
                 <tr>
-                  <td><a href="https://design.canada.ca/common-design-patterns/search-box.html">Site search box</a></td>
+                  <td><a href="search-box.html">Site search box</a></td>
                   <td>Optional</td>
                 </tr>
                 <tr>
-                  <td><a href="https://design.canada.ca/common-design-patterns/sign-in.html">Sign in button</a></td>
+                  <td><a href="sign-in.html">Sign in button</a></td>
                   <td>Optional</td>
                 </tr>
                 <tr>
@@ -153,11 +153,11 @@ title: "Global header"
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Mandatory</span></td>
                 </tr>
                 <tr>
-                  <td><a href="https://design.canada.ca/common-design-patterns/site-menu.html">Theme and topic menu</a></td>
+                  <td><a href="site-menu.html">Theme and topic menu</a></td>
                   <td>Optional</td>
                 </tr>
                 <tr>
-                  <td><a href="https://design.canada.ca/common-design-patterns/breadcrumb-trail.html">Breadcrumb trail</a></td>
+                  <td><a href="breadcrumb-trail.html">Breadcrumb trail</a></td>
                   <td>Optional</td>
                 </tr>
                 <tr>
@@ -196,15 +196,15 @@ title: "Global header"
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Mandatory</span></td>
                 </tr>
                 <tr>
-                  <td><a href="https://design.canada.ca/common-design-patterns/language-toggle.html">Language toggle</a></td>
+                  <td><a href="language-toggle.html">Language toggle</a></td>
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Mandatory</span></td>
                 </tr>
                 <tr>
-                  <td><a href="https://design.canada.ca/common-design-patterns/search-box.html">Site search box</a></td>
+                  <td><a href="search-box.html">Site search box</a></td>
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Mandatory</span></td>
                 </tr>
                 <tr>
-                  <td><a href="https://design.canada.ca/common-design-patterns/sign-in.html">Sign in button</a></td>
+                  <td><a href="sign-in.html">Sign in button</a></td>
                   <td>Optional</td>
                 </tr>
                 <tr>
@@ -212,11 +212,11 @@ title: "Global header"
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Mandatory</span></td>
                 </tr>
                 <tr>
-                  <td><a href="https://design.canada.ca/common-design-patterns/site-menu.html">Theme and topic menu</a></td>
+                  <td><a href="site-menu.html">Theme and topic menu</a></td>
                   <td>Optional</td>
                 </tr>
                 <tr>
-                  <td><a href="https://design.canada.ca/common-design-patterns/breadcrumb-trail.html">Breadcrumb trail</a></td>
+                  <td><a href="breadcrumb-trail.html">Breadcrumb trail</a></td>
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Mandatory</span></td>
                 </tr>
                 <tr>
@@ -251,7 +251,7 @@ title: "Global header"
     <div class="pattern-demo mrgn-tp-lg">
       <figure>
         <figcaption><b>Global header – large screen</b></figcaption>
-        <img src="/images/01-sign-in-desktop-en.jpg" class="img-responsive" alt="">
+        <img src="../images/01-sign-in-desktop-en.jpg" class="img-responsive" alt="">
         <details class="mrgn-tp-md">
           <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: global header – large screen</summary>
           <p class="mrgn-tp-lg">On large screens, the global header on a standard page has 4 rows:</p>
@@ -267,7 +267,7 @@ title: "Global header"
     <div class="pattern-demo mrgn-tp-lg">
       <figure>
         <figcaption><b>Global header – small screen</b></figcaption>
-        <img src="/images/01-sign-in-mobile-en.jpg" class="img-responsive" alt="">
+        <img src="../images/01-sign-in-mobile-en.jpg" class="img-responsive" alt="">
         <details class="mrgn-tp-md">
           <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: global header – small screen</summary>
           <p class="mrgn-tp-lg">On small screens, the global header on a standard page has 4 rows:</p>
@@ -286,7 +286,7 @@ title: "Global header"
     <div class="pattern-demo mrgn-tp-lg">
       <figure>
         <figcaption><b>Minimum global header - large screen</b></figcaption>
-        <img src="/images/01-global-header-transactional-desktop-en.png" class="img-responsive" alt="">
+        <img src="../images/01-global-header-transactional-desktop-en.png" class="img-responsive" alt="">
         <details class="mrgn-tp-md">
           <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: minimum global header - large screen</summary>
           <p class="mrgn-tp-lg">On large screens, the minimum global header on a transactional page has 2 rows:</p>
@@ -300,7 +300,7 @@ title: "Global header"
     <div class="pattern-demo mrgn-tp-lg">
       <figure>
         <figcaption><b>Minimum global header - small screen</b></figcaption>
-        <img src="/images/01-global-header-transactional-small-en.png" class="img-responsive" alt="">
+        <img src="../images/01-global-header-transactional-small-en.png" class="img-responsive" alt="">
         <details class="mrgn-tp-md">
           <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: minimum global header - small screen</summary>
           <p class="mrgn-tp-lg">On small screens, the minimum global header on a transactional page has a single row:</p>
@@ -316,7 +316,7 @@ title: "Global header"
     <div class="pattern-demo mrgn-tp-lg">
       <figure>
         <figcaption><b>Minimum global header - large screen</b></figcaption>
-        <img src="/images/01-global-header-campaign-desktop-en.png" class="img-responsive" alt="">
+        <img src="../images/01-global-header-campaign-desktop-en.png" class="img-responsive" alt="">
         <details class="mrgn-tp-md">
           <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: minimum global header - large screen</summary>
           <p class="mrgn-tp-lg">On large screens, the minimum global header on a campaign page has 3 rows:</p>
@@ -331,7 +331,7 @@ title: "Global header"
     <div class="pattern-demo mrgn-tp-lg">
       <figure>
         <figcaption><b>Minimum global header - small screen</b></figcaption>
-        <img src="/images/01-global-header-campaign-small-en.png" class="img-responsive" alt="">
+        <img src=../images/01-global-header-campaign-small-en.png" class="img-responsive" alt="">
         <details class="mrgn-tp-md">
           <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: minimum global header - small screen</summary>
           <p class="mrgn-tp-lg">On small screens, the minimum global header on a campaign page has 3 rows:</p>
