@@ -26,7 +26,7 @@ title: "Breadcrumb trail"
   <p><span class="label label-danger">Mandatory on standard and campaign pages</span></p>
   <p>The breadcrumb trail is a horizontal series of links that gives people a sense of where they are in relation to Canada.ca’s navigation model.  It represents the location of a page in relation to its parent and provides a clear way to navigate to higher levels in the site structure.</p>
   <div class="pattern-demo mrgn-tp-lg">
-    <figure class="mrgn-bttm-sm"><img src="./images/01-breadcrumbs-main-en.png" class="img-responsive" alt=""></figure>
+    <figure class="mrgn-bttm-sm"><img src="../images/01-breadcrumbs-main-en.png" class="img-responsive" alt=""></figure>
   </div>
   <section>
     <h2>On this page</h2>
@@ -160,7 +160,7 @@ title: "Breadcrumb trail"
   <div class="pattern-demo mrgn-tp-lg">
     <figure>
       <figcaption><b>Global header with breadcrumb trail  - large screen</b></figcaption>
-      <img src="./images/01-breadcrumbs-main-en.png" class="img-responsive" alt=" ">
+      <img src="../images/01-breadcrumbs-main-en.png" class="img-responsive" alt=" ">
       <details class="mrgn-tp-md">
         <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: global header with breadcrumb trail  - large screen</summary>
         <p class="mrgn-tp-lg">The breadcrumbs appear under the menu button in a horizontal line.</p>
@@ -170,7 +170,7 @@ title: "Breadcrumb trail"
   <div class="pattern-demo mrgn-tp-lg">
     <figure>
       <figcaption><b>Global header – small screen</b></figcaption>
-      <img src="./images/01-breadcrumbs-sm-en.png" class="img-responsive" alt=" ">
+      <img src="../images/01-breadcrumbs-sm-en.png" class="img-responsive" alt=" ">
       <details class="mrgn-tp-md">
         <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: global header with breadcrumb trail  - small screen</summary>
         <p class="mrgn-tp-lg">The breadcrumbs appear under the menu button.</p>
