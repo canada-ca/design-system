@@ -6,7 +6,7 @@ breadcrumbs:
   - title: Canada.ca design system
     link: "https://www.canada.ca/en/government/about/design-system.html"
 date: 2017-10-05
-dateModified: 2023-03-28
+dateModified: 2023-05-17
 description: "The requirements listed in this design manual apply to departments and other portions of the federal public administration as set out in Schedules I, I.1 and II of the Financial Administration Act. As such, in-scope institutions must apply Canada.ca design requirements for all public-facing web sites or digital services."
 layout: default
 title: "Global header"
