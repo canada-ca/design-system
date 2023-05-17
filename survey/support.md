@@ -8,8 +8,8 @@ title: Contact and support for the GC Task Success Survey
 ## On this page
 
 * [Office hours](#office-hours)
-* [When to contact the Digital Transformation Office](#when-to-contact-the-Digital-Transformation-Office)
-* [When to contact Principal Publisher](#when-to-contact-Principal-Publisher)
+* [When to contact the Digital Transformation Office](#when-to-contact-the-digital-transformation-office)
+* [When to contact Principal Publisher](#when-to-contact-principal-publisher)
 
 The survey is a collaboration between Principal Publisher and the Digital Transformation Office.
 
