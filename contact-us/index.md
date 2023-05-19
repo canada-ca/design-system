@@ -1,5 +1,5 @@
 ---
-altLangPage: "contactez-nous.html"
+altLangPage: "https://conception.canada.ca/contactez-nous/"
 breadcrumbs: false
 contextualFooter:
   title: ""

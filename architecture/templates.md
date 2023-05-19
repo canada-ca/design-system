@@ -37,13 +37,13 @@ title: "Designing content on Canada.ca"
       <section class="wb-eqht gc-drmt">
         <div class="col-md-4">
           <section>
-            <h3 class="h5"><a href="/en/government/about/design-system/pattern-library.html">Template and pattern library for Canada.ca</a></h3>
+            <h3 class="h5"><a href="https://www.canada.ca/en/government/about/design-system/pattern-library.html">Template and pattern library for Canada.ca</a></h3>
             <p>Find the template or pattern you need for your content</p>
           </section>
         </div>
         <div class="col-md-4">
           <section>
-            <h3 class="h5"><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html">Content style guide</a></h3>
+            <h3 class="h5"><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html">Content style guide</a></h3>
             <p>Writing principles and techniques to make content clear and accessible to all</p>
           </section>
         </div>
@@ -53,7 +53,7 @@ title: "Designing content on Canada.ca"
       <h2 id="principles">Design principles</h2>
       <p>Canada.ca is based on the following principles.</p>
       <h3>Open, collaborative concept design</h3>
-      <p>The rules and concepts presented in this design system have been developed in collaboration with Government of Canada <a href="/en/government/about/design-system/theme-lead-departments.html">Theme lead departments</a>. Other departments and agencies have also provided input.</p>
+      <p>The rules and concepts presented in this design system have been developed in collaboration with Government of Canada <a href="https://www.canada.ca/en/government/about/design-system/theme-lead-departments.html">Theme lead departments</a>. Other departments and agencies have also provided input.</p>
       <p>We are actively engaging with the community in several ways:</p>
       <ul>
         <li>a social media presence, through the use of #Canadadotca</li>
@@ -63,7 +63,7 @@ title: "Designing content on Canada.ca"
       </ul>
       <h3>Evidence-based iteration</h3>
       <p>The rules and concepts presented here have been designed and revised based on evidence of people’s needs and their success on the site.</p>
-      <pthe structure of the main menu canada.ca was based on an understanding what canadians are looking for. this came from a review public web usage data. data collected across government departments and agencies.<>
+      <p>the structure of the main menu canada.ca was based on an understanding what canadians are looking for. this came from a review public web usage data. data collected across government departments and agencies.</p>
       <p>The Canada.ca IA, templates and patterns have been adjusted since 2013. This reflects the outcomes of user research and usability testing with thousands of Canadians. Usability tests have been performed in English and French, on mobile, tablet, and desktop environments, and with assistive technologies.</p>
       <p>As new research and testing is undertaken and departments try new ideas, this design system will continue to be updated.</p>
       <p>This system is a living and evolving toolbox. Its role is to help departments save time and money by using existing patterns and styles for their specific content. It provides a consistent framework for the Government of Canada web presence, while being flexible enough to allow innovative design solutions.</p>
@@ -87,7 +87,6 @@ title: "Designing content on Canada.ca"
         <li>provides people with the necessary navigation cues, when search doesn’t take them to the right place</li>
         <li>ensures filters are based on the underlying IA, such as the topic structure, to improve overall search precision and relevance</li>
       </ul>
-      </pthe>
     </section>
     <section>
       <h2 id="help">Help improve this design system</h2>
