@@ -53,7 +53,7 @@ title: "Designing content on Canada.ca"
       <h2 id="principles">Design principles</h2>
       <p>Canada.ca is based on the following principles.</p>
       <h3>Open, collaborative concept design</h3>
-      <p>The rules and concepts presented in this design system have been developed in collaboration with Government of Canada <a href="/en/government/about/design-system/theme-lead-departments.html">Theme lead departments</a>. Other departments and agencies have also provided input.</p>
+      <p>The rules and concepts presented in this design system have been developed in collaboration with Government of Canada <a href="https://www.canada.ca/en/government/about/design-system/theme-lead-departments.html">Theme lead departments</a>. Other departments and agencies have also provided input.</p>
       <p>We are actively engaging with the community in several ways:</p>
       <ul>
         <li>a social media presence, through the use of #Canadadotca</li>
