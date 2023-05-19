@@ -20,7 +20,7 @@ title: "Who has to use the Canada.ca design sytem"
   </div>
   <p class="hidden" id="#who-has-to-use">Federal public administration listed in Schedules I, I.1 and II of the Financial Administration Act must apply Canada.ca design requirements for all their public-facing websites or digital services</p>
   <p>The Canada.ca Content and Information Architecture Specification is referenced in "Appendix D: Mandatory Procedures for Social Media and Web Communications" of the&nbsp;<a href="http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682"><cite>Directive on the  Management of Communications</cite></a>. Its requirements apply to departments and other  portions of the federal public administration listed in Schedules&nbsp;<a href="https://laws-lois.justice.gc.ca/eng/acts/f-11/page-19.html#docCont">I</a>,&nbsp;<a href="https://laws-lois.justice.gc.ca/eng/acts/f-11/page-20.html#docCont">I.1</a>&nbsp;and&nbsp;<a href="https://laws-lois.justice.gc.ca/eng/acts/f-11/page-21.html#docCont">II</a>&nbsp;of the <cite>Financial Administration Act</cite>.</p>
-  <p><a href="/en/government/about/design-system/institutions-list.html">These organizations</a> must apply Canada.ca design requirements for all their public-facing  websites or digital services, regardless of the technology, domain name (both canada.ca and gc.ca) or  publishing platform through which these are delivered. </p>
+  <p><a href="https://www.canada.ca/en/government/about/design-system/institutions-list.html">These organizations</a> must apply Canada.ca design requirements for all their public-facing  websites or digital services, regardless of the technology, domain name (both canada.ca and gc.ca) or  publishing platform through which these are delivered. </p>
   <section>
     <h2>Out-of-scope situations</h2>
     <p>The Canada.ca global  header and footer design may not be applied or replicated in the following  situations:</p>
@@ -46,3 +46,10 @@ title: "Who has to use the Canada.ca design sytem"
       </ul>
       <p>These modifications help users distinguish between different sites, and they ensure that the overall Canada.ca design remains unique.</p>
     </section>
+      <nav role="navigation" class="mrgn-bttm-lg">
+    <h2 class="wb-inv">Document navigation</h2>
+    <ul class="pager">
+      <li class="next"><a href="mandatory-elements.html" rel="next">Next<span class="wb-inv">: Organizing your content</span></a></li>
+    </ul>
+  </nav>
+</div>

@@ -75,8 +75,8 @@ title: "Mandatory elements of the Canada.ca design system"
   <nav role="navigation" class="mrgn-bttm-lg">
     <h2 class="wb-inv">Document navigation</h2>
     <ul class="pager">
-      <li class="previous"><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/usage-canadaca-design.html" rel="prev">Previous<span class="wb-inv">: Who has to use this design system</span></a></li>
-      <li class="next"><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/organizing-content.html" rel="next">Next<span class="wb-inv">: Organizing your content</span></a></li>
+      <li class="previous"><a href="usage-canadaca-design.html" rel="prev">Previous<span class="wb-inv">: Who has to use this design system</span></a></li>
+      <li class="next"><a href="organizing-content.html" rel="next">Next<span class="wb-inv">: Organizing your content</span></a></li>
     </ul>
   </nav>
 </div>
