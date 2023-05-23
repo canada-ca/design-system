@@ -24,7 +24,7 @@ title: Sharing insights from feedback
 </div>
 
 ## On this page
-* [OBuilding a narrative with data](#obuilding-a-narrative-with-data)
+* [Building a narrative with data](#building-a-narrative-with-data)
 * [Outline for a text only summary](#outline-for-a-text-only-summary)
 * [Templates for slides and charts](#templates-for-slides-and-charts)
 * [Showing before and after results](#showing-before-and-after-results)
