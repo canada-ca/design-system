@@ -4,8 +4,8 @@
   "data": [{
     "NAME": "<a href=\"https://blog.canada.ca/research-summaries/wayfinding-on-canada-ca.html\">Wayfinding on Canada.ca</a>",
     "SOURCE": "Research summary",
-    "DESCRIPTION": "explains the context of the research and the insights that drove the design updates",
-    "WHENTOUSE": "Explains the context of the research and the insights that drove the design updates",
+    "DESCRIPTION": "Examining how users navigate through Canada.ca. Results led to changes that will replace the theme and topic menu. Changes include a new footer, contextual Sign in button and a layered theme page template.",
+    "WHENTOUSE": "",
     "CATEGORY": "",
     "TYPE": "",
     "MANDATORY": "",
