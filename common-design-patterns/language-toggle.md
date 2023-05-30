@@ -125,7 +125,7 @@ title: "Language toggle"
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
     <figcaption><b>Language toggle (French page) - small screen</b></figcaption>
-    <img src="./images/01-lang-toggle-sm-fr.png" class="img-responsive" alt="">
+    <img src="../images/01-lang-toggle-sm-fr.png" class="img-responsive" alt="">
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: Language toggle (French page) - small screen</summary>
       <p class="mrgn-tp-lg">Standard header of an English Canada.ca page with a highlight of the linked abbreviation FR in the top-right corner</p>
