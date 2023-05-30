@@ -95,7 +95,6 @@ title: "Government of Canada signature"
 <p>The implementation reference includes how to configure each element of the header.</p>
 <ul>
   <li><a href="https://wet-boew.github.io/GCWeb/sites/header/header-docs-en.html">GCWeb (WET) header documentation</a></li>
-  <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-en.html">Quick implementation guide - GCWeb theme</a></li>
 </ul>
 <h3>Implementations</h3>
 <p>Determine what best suits the type of page you're creating.</p>
