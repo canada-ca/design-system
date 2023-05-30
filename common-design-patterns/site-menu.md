@@ -196,7 +196,6 @@ title: "Theme and topic menu"
 <ul>
   <li><a href="https://wet-boew.github.io/GCWeb/sites/gcweb-menu/gcweb-menu-docs-en.html">Theme and topic menu</a></li>
   <li><a href="https://wet-boew.github.io/GCWeb/sites/header/header-docs-en.html">GCWeb (WET) header documentation</a></li>
-  <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-en.html">Quick implementation guide - GCWeb theme</a></li>
 </ul>
 <h3>Implementations</h3>
 <p>Determine whether you have to include the Theme and topic menu.</p>
@@ -235,7 +234,7 @@ title: "Theme and topic menu"
 <p>We updated the theme and topic menu guidance to align with a new overall navigation strategy that came out of the Wayfinding research project.</p>
 <p><a href="https://blog.canada.ca/research-summaries/wayfinding-on-canada-ca">Wayfinding on Canada.ca research summary</a><br>
   This summary explains the context of the research and the insights that drove the design updates.</p>
-<p><a href="https://blog.canada.ca/research-summaries/wayfinding-on-canada-ca.html">Wayfinding research project improves our approach to navigation on Canada.ca</a><br>
+<p><a href="https://blog.canada.ca/2022/12/21/wayfinding-research-project">Wayfinding research project improves our approach to navigation on Canada.ca</a><br>
   This blog post explains the changes that are being made to the Canada.ca design, and how they are being implemented.</p>
 <h2 id="changes">Latest changes</h2>
 <dl class="dl-horizontal">
