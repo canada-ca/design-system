@@ -128,7 +128,7 @@ title: "Language toggle"
     <img src="../images/01-lang-toggle-sm-fr.png" class="img-responsive" alt="">
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: Language toggle (French page) - small screen</summary>
-      <p class="mrgn-tp-lg">Standard header of an English Canada.ca page with a highlight of the linked abbreviation FR in the top-right corner</p>
+      <p class="mrgn-tp-lg">Standard header of a French Canada.ca page with a highlight of the linked abbreviation EN in the top-right corner</p>
     </details>
   </figure>
 </div>
@@ -138,7 +138,6 @@ title: "Language toggle"
 <p>The implementation reference includes how to configure each element of the header.</p>
 <ul>
   <li><a href="https://wet-boew.github.io/GCWeb/sites/header/header-docs-en.html">GCWeb (WET) header documentation</a></li>
-  <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-en.html">Quick implementation guide - GCWeb theme</a></li>
 </ul>
 <h3>Implementations</h3>
 <p>Determine what best suits the type of page you're creating.</p>
