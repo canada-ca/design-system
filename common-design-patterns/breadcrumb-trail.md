@@ -44,7 +44,6 @@ title: "Breadcrumb trail"
   <h2 id="avoid">What to avoid</h2>
   <p>Don’t program the breadcrumb trail to be generated dynamically based on a visitor’s journey to a page. It should represent the location of a page as it stands in relation to the site’s navigation model.</p>
   <p>Avoid long link labels that push content down on mobile. Use shortened versions of multi-word page titles when possible.</p>
-  <p>Avoid long link labels. Use a shortened version of the page title if necessary.</p>
   <p>Don’t display the current page at the end of the breadcrumb trail (linked or unlinked). It increases the length of the breadcrumb unnecessarily, especially on mobile. The heading of the page is enough to let people know where they are.</p>
   <h2 id="content">Content and design</h2>
   <p>Find content and design specifications and visual examples.</p>
@@ -153,7 +152,7 @@ title: "Breadcrumb trail"
 </div>
 <h5 class="mrgn-tp-lg">Application</h5>
 <div class="container">
-  <p class="breadcrumb">Home <span class="glyphicon glyphicon-chevron-right small"></span></p>
+  <p class="breadcrumb">Home</p>
 </div>
 <div class="cnt-wdth-lmtd">
   <h3>Visual examples</h3>
@@ -184,7 +183,6 @@ title: "Breadcrumb trail"
   <ul>
     <li><a href="https://wet-boew.github.io/GCWeb/sites/breadcrumbs/breadcrumbs-en.html">Breadcrumbs - GCWeb (WET) documentation</a></li>
     <li><a href="https://wet-boew.github.io/GCWeb/sites/header/header-docs-en.html">GCWeb (WET) header documentation</a></li>
-    <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-en.html">Quick implementation guide - GCWeb theme</a></li>
   </ul>
   <h3>Implementations</h3>
   <p>Determine what best suits the type of page you're creating. Refer to your implementation's guidance if you want to exclude breadcrumbs.</p>
