@@ -7,13 +7,15 @@ layout: default
 title: "Mandatory elements of the Canada.ca design system"
 ---
 <p class="gc-byline"><strong>From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
-<div class="row  mrgn-bttm-sm">
-  <ul class="toc lst-spcd col-md-12">
-    <li class="col-md-4"><a href="usage-canadaca-design.html" class="list-group-item">Who has to use this design system</a> </li>
-    <li class="col-md-4"><a href="mandatory-elements.html" class="list-group-item cust-active active">Mandatory elements</a> </li>
-    <li class="col-md-4"><a href="organizing-content.html" class="list-group-item">Organizing content</a> </li>
-    <li class="col-md-4"><a href="templates.html" class="list-group-item">Designing content</a> </li>
-  </ul>
+<div class="mrgn-tp-md mrgn-bttm-sm brdr-bttm">
+  <div class="row  mrgn-bttm-sm">
+    <ul class="toc lst-spcd col-md-12">
+      <li class="col-md-4"><a href="usage-canadaca-design.html" class="list-group-item">Who has to use this design system</a> </li>
+      <li class="col-md-4"><a href="mandatory-elements.html" class="list-group-item">Mandatory elements</a> </li>
+      <li class="col-md-4"><a href="organizing-content.html" class="list-group-item">Organizing content</a> </li>
+      <li class="col-md-4"><a href="templates.html" class="list-group-item cust-active active">Designing content</a> </li>
+    </ul>
+  </div>
 </div>
 <p>Government of Canada web pages must be easily identifiable as part of Canada.ca. Each page must convey the overall brand and feel of Canada.ca, and provide a consistent experience for site visitors. </p>
 <p>These mandatory elements were designed to reflect the trusted digital brand of the Government of Canada: modern, open, helpful and credible.</p>
