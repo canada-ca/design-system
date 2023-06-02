@@ -19,7 +19,7 @@ title: "About Canada.ca"
         <ul>
           <li><a href="{{ baseurlcanadaca }}/en/government/about/design-system/pattern-library.html">Template and pattern library for Canada.ca</a></li>
           <li><a href="{{ baseurlcanadaca }}/en/government/about/top-tasks-for-canada-ca.html">Top tasks for Canada.ca</a></li>
-          <li><a href="{{ baseurlcanadaca }}/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification.html">Content and Information Architecture Specification</a></li>
+          <li><a href="{{ site.url }}/architecture/canada-content-information-architecture-specification.html">Content and Information Architecture Specification</a></li>
           <li><a href="{{ baseurlcanadaca }}/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html">Content Style Guide</a></li>
         </ul>
       </section>
