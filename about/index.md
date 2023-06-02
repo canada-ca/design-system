@@ -6,7 +6,6 @@ description: "Canada.ca is the Government of Canada's digital presence."
 layout: default
 title: "About Canada.ca"
 ---
-<h1 property="name" id="wb-cont" dir="ltr"> About Canada.ca</h1>
 <div class="mwsgeneric-base-html parbase section">
   <div class="row profile">
     <div class="col-md-8">
