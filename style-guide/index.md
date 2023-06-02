@@ -494,7 +494,7 @@ title: "Canada.ca Content Style Guide"
       <p>If your text contains technical terms that consist of long, multi-syllable words that you need to use for your specialized audience, remove these terms before you test the content for readability to see whether the surrounding text can be simplified. Reinsert the technical terms once you've simplified the surrounding text.</p>
       <p>The Readability Statistics dialog box will appear and show the Flesch-Kincaid grade level. </p>
       <figure class="mrgn-bttm-lg">
-        <figcaption class="text-center"> <strong>Figure 2</strong> </figcaption>
+        <figcaption class="text-center"><strong>Figure 2</strong></figcaption>
         <img alt="Screen capture of a readability statistics dialog box in Microsoft Word. Text version below:" class="img-responsive center-block mrgn-bttm-md" src="{{ site.url }}/style-guide/images/csc-grc-fig-02-eng.jpg">
         <details>
           <summary> Figure 2 - Text version </summary>
@@ -1808,7 +1808,7 @@ title: "Canada.ca Content Style Guide"
       <h5>Example <span class="wb-inv">of functional images</span></h5>
       <figure class="mrgn-bttm-lg">
         <figcaption class="text-center"> <strong>Figure 4</strong> </figcaption>
-        <img alt="Map of Canada: current conditions" class="img-responsive center-block" src="{{ site.url }}/style-guide/images/csc-grc-fig-04-eng.JPG">
+        <img alt="Map of Canada: current conditions" class="img-responsive center-block" src="{{ site.url }}/style-guide/images/csc-grc-fig-04-eng.jpg">
         <details>
           <summary>Figure 4 - Text version </summary>
           <table class="table table-bordered table-condensed">
@@ -1926,7 +1926,7 @@ title: "Canada.ca Content Style Guide"
       </figure>
       <figure class="mrgn-bttm-lg">
         <figcaption class="text-center"> <strong>Figure 5</strong> </figcaption>
-        <img alt="Bar chart for number of pages by main purpose and audience" class="img-responsive center-block" src="{{ site.url }}/style-guide/images/csc-grc-fig-05-eng.JPG">
+        <img alt="Bar chart for number of pages by main purpose and audience" class="img-responsive center-block" src="{{ site.url }}/style-guide/images/csc-grc-fig-05-eng.jpg">
         <details>
           <summary> Figure 5 - Text version </summary>
           <table class="table table-bordered table-condensed">
@@ -2007,7 +2007,7 @@ title: "Canada.ca Content Style Guide"
     <p>Get details about the templates above in the <cite><a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-eng.asp">Canada.ca Content and Information Architecture Specification</a></cite>. </p>
     <section>
       <h5>Example <span class="wb-inv">of a decorative image</span></h5>
-      <p><img alt="A Royal Canadian Mounted Police officer on the Canada.ca web page related to jobs and the workplace." class="img-responsive center-block" src="{{ site.url }}/style-guide/images/csc-grc-fig-06-eng.JPG"></p>
+      <p><img alt="A Royal Canadian Mounted Police officer on the Canada.ca web page related to jobs and the workplace." class="img-responsive center-block" src="{{ site.url }}/style-guide/images/csc-grc-fig-06-eng.jpg"></p>
       <p><strong>Description of the image</strong></p>
       <p>A Royal Canadian Mounted Police officer on the Canada.ca web page related to jobs and the workplace.</p>
     </section>
