@@ -43,5 +43,5 @@ title: "Canada.ca Content and Information Architecture Specification"
     </div>
   </section>
 </div>
-<p class="mrgn-tp-lg small">© Her Majesty the Queen in Right of Canada, represented by the President of the Treasury Board, 2017,<br>
+<p class="mrgn-tp-lg small">© Her Majesty the Queen in Right of Canada, represented by the President of the Treasury Board, 2017<br>
   ISBN: 978-0-660-09331-4</p>
