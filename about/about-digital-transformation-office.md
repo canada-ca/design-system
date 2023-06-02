@@ -13,4 +13,4 @@ title: "About the Digital Transformation Office"
   <li>make information and services that are in demand and published on digital channels easier to find and understand based on insight from user research </li>
   <li>help communications teams develop their skills and processes as they make a sustainable shift to digital in their organization </li>
 </ul>
-<p><a href="{{ site.baseurlblogca }}/pages/signup.html">Sign up for our mailing list</a> to find out about workshops, events, user research and usability testing activities that you may want to participate in.</p>
+<p><a href="{{ site.urlblogca }}/pages/signup.html">Sign up for our mailing list</a> to find out about workshops, events, user research and usability testing activities that you may want to participate in.</p>
