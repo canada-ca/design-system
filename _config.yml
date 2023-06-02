@@ -5,6 +5,8 @@ analytics:
     tracking_id: be5dfd287373/0127575cd23a/launch-f7c3e6060667
     service: TBS-DTO_BTN-SCT
 baseurl: ""
+baseurlcanadaca: "https://www.canada.ca/"
+baseurlblogca: "https://blog.canada.ca/" 
 global:
   contextualFooter:
     title:
