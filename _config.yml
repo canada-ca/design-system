@@ -21,7 +21,8 @@ title: Canada.ca design system
 url: "https://design.canada.ca"
 
 # url variables
-urlcanadaca: "https://www.canada.ca" # Canada.ca
+urlconceptioncanadaca: "https://conception.canada.ca" # conception.canada.ca (French)
+urlcanadaca: "https://www.canada.ca" # Canada.ca (AEM)
 urlblogca: "https://blog.canada.ca"  # Canada.ca design blog
 
 # Page front matter defaults
