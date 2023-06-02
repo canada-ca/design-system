@@ -7,13 +7,15 @@ layout: default
 title: "Who has to use the Canada.ca design sytem"
 ---
 <p class="gc-byline"><strong>From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
-<div class="row  mrgn-bttm-sm">
-  <ul class="toc lst-spcd col-md-12">
-    <li class="col-md-4"><a href="canada-content-information-architecture-specification/usage-canadaca-design.html" class="list-group-item cust-active active">Who has to use this design system</a> </li>
-    <li class="col-md-4"><a href="mandatory-elements.html" class="list-group-item">Mandatory elements</a> </li>
-    <li class="col-md-4"><a href="organizing-content.html" class="list-group-item">Organizing content</a> </li>
-    <li class="col-md-4"><a href="templates.html" class="list-group-item">Designing content</a> </li>
-  </ul>
+<div class="mrgn-tp-md mrgn-bttm-sm brdr-bttm">
+  <div class="row  mrgn-bttm-sm">
+    <ul class="toc lst-spcd col-md-12">
+      <li class="col-md-4"><a href="usage-canadaca-design.html" class="list-group-item">Who has to use this design system</a> </li>
+      <li class="col-md-4"><a href="mandatory-elements.html" class="list-group-item">Mandatory elements</a> </li>
+      <li class="col-md-4"><a href="organizing-content.html" class="list-group-item">Organizing content</a> </li>
+      <li class="col-md-4"><a href="templates.html" class="list-group-item cust-active active">Designing content</a> </li>
+    </ul>
+  </div>
 </div>
 <p class="hidden" id="#who-has-to-use">Federal public administration listed in Schedules I, I.1 and II of the Financial Administration Act must apply Canada.ca design requirements for all their public-facing websites or digital services</p>
 <p>The Canada.ca Content and Information Architecture Specification is referenced in "Appendix D: Mandatory Procedures for Social Media and Web Communications" of the&nbsp;<a href="http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682"><cite>Directive on the  Management of Communications</cite></a>. Its requirements apply to departments and other  portions of the federal public administration listed in Schedules&nbsp;<a href="https://laws-lois.justice.gc.ca/eng/acts/f-11/page-19.html#docCont">I</a>,&nbsp;<a href="https://laws-lois.justice.gc.ca/eng/acts/f-11/page-20.html#docCont">I.1</a>&nbsp;and&nbsp;<a href="https://laws-lois.justice.gc.ca/eng/acts/f-11/page-21.html#docCont">II</a>&nbsp;of the <cite>Financial Administration Act</cite>.</p>
