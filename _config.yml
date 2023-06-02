@@ -5,8 +5,6 @@ analytics:
     tracking_id: be5dfd287373/0127575cd23a/launch-f7c3e6060667
     service: TBS-DTO_BTN-SCT
 baseurl: ""
-baseurlcanadaca: "https://www.canada.ca"
-baseurlblogca: "https://blog.canada.ca" 
 global:
   contextualFooter:
     title:
@@ -21,6 +19,10 @@ plugins:
 remote_theme: wet-boew/gcweb-jekyll
 title: Canada.ca design system
 url: "https://design.canada.ca"
+
+# url variables
+urlcanadaca: "https://www.canada.ca" # Canada.ca
+urlblogca: "https://blog.canada.ca"  # Canada.ca design blog
 
 # Page front matter defaults
 defaults:
