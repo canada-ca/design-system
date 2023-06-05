@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/a-propos/a-propos.html"
+altLangPage: "https://conception.canada.ca/a-propos/derniers-changements.html"
 date: 2017-10-05
 dateModified: 2023-03-28
 description: "Latest changes to the Canada.ca design system"
