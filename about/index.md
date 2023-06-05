@@ -18,7 +18,7 @@ title: "About Canada.ca"
         <h2>Most requested</h2>
         <ul>
           <li><a href="{{ site.urlcanadaca }}/en/government/about/design-system/pattern-library.html">Template and pattern library for Canada.ca</a></li>
-          <li><a href="{{ site.urlcanadaca }}/en/government/about/top-tasks-for-canada-ca.html">Top tasks for Canada.ca</a></li>
+          <li><a href="{{ site.url }}/about/top-tasks-for-canada-ca.html">Top tasks for Canada.ca</a></li>
           <li><a href="{{ site.url }}/architecture/canada-content-information-architecture-specification.html">Content and Information Architecture Specification</a></li>
           <li><a href="{{ site.url }}/style-guide/">Content Style Guide</a></li>
         </ul>
@@ -79,7 +79,7 @@ title: "About Canada.ca"
         </div>
         <div class="col-md-6">
           <section>
-            <h3 class="h5"><a href="{{ site.urlcanadaca }}/en/government/about/about-digital-transformation-office.html">Digital Transformation Office</a></h3>
+            <h3 class="h5"><a href="{{ site.url }}//about/digital-transformation-office.html">Digital Transformation Office</a></h3>
             <p>Meet the team that is working with federal departments to improve Canada.ca.</p>
           </section>
         </div>
