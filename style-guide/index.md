@@ -1,5 +1,5 @@
 ---
-altLangPage: "{{ site.urlconceptioncanadaca }}/a-propos/a-propos.html"
+altLangPage: "https://conception.canada.ca/guide-redaction"
 date: 2017-10-05
 dateModified:  2023-05-25
 description: "These are the rules to create web content that can be easily found, understood and used."
