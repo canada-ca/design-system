@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/a-propos/a-propos.html"
+altLangPage: "https://conception.canada.ca/a-propos/bureau-transformation-numerique.html"
 date: 2017-10-05
 dateModified:  2023-05-25
 description: "The Digital Transformation Office (DTO) is part of the Treasury Board of Canada Secretariat’s Strategic Communications and Ministerial Affairs sector."
