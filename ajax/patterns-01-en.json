@@ -1227,7 +1227,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc5\">Writing principles for web content</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#toc5\">Writing principles for web content</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "Writing principles that reflect how people read and use web content",
     "WHENTOUSE": "Writing principles that reflect how people read and use web content",
@@ -1236,7 +1236,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc6\">Plain language</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#toc6\">Plain language</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "Use plain language to makes information readable and understandable for everyone.",
     "WHENTOUSE": "Use plain language to makes information readable and understandable for everyone.",
@@ -1245,7 +1245,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc7\">Writing tone</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#toc7\">Writing tone</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "Guidelines on the right tone to use when designing content for Canada.ca",
     "WHENTOUSE": "Guidelines on the right tone to use when designing content for Canada.ca",
@@ -1254,7 +1254,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc8\">Writing style</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#toc8\">Writing style</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "Detailed rules on the formatting and style to use on Canada.ca",
     "WHENTOUSE": "Detailed rules on the formatting and style to use on Canada.ca",
@@ -1263,7 +1263,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp4-1\">Capitalization and punctuation</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#wp4-1\">Capitalization and punctuation</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "Use these styles for capitalization and punctuation of content in text, links and applications.",
     "WHENTOUSE": "Use these styles for capitalization and punctuation of content in text, links and applications.",
@@ -1272,7 +1272,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp4-2\">Underlining, bold and italics</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#wp4-2\">Underlining, bold and italics</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "When to use underline, bold and italics on Canada.ca",
     "WHENTOUSE": "When to use underline, bold and italics on Canada.ca",
@@ -1281,7 +1281,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp4-3\">Symbols</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#wp4-3\">Symbols</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "When to use symbols such as &amp; and % on Canada.ca",
     "WHENTOUSE": "When to use symbols such as &amp; and % on Canada.ca",
@@ -1290,7 +1290,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp4-4\">Abbreviations and acronyms</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#wp4-4\">Abbreviations and acronyms</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "Don't use an abbreviation or acronym unless it's better known to the widest audience than its long-form equivalent",
     "WHENTOUSE": "Don't use an abbreviation or acronym unless it's better known to the widest audience than its long-form equivalent",
@@ -1299,7 +1299,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp4-5\">Contractions</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#wp4-5\">Contractions</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "Use contractions that people use when they speak.",
     "WHENTOUSE": "Use contractions that people use when they speak.",
@@ -1308,7 +1308,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp4-6\">Numbers</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#wp4-6\">Numbers</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "How to write numbers on Canada.ca",
     "WHENTOUSE": "How to write numbers on Canada.ca",
@@ -1317,7 +1317,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp4-7\">Dates</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#wp4-7\">Dates</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "How to write dates on Canada.ca",
     "WHENTOUSE": "How to write dates on Canada.ca",
@@ -1326,7 +1326,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp4-8\">Times</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#wp4-8\">Times</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "How to write times on Canada.ca",
     "WHENTOUSE": "How to write times on Canada.ca",
@@ -1335,7 +1335,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp4-9\">Phone numbers</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#wp4-9\">Phone numbers</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "How to write phone numbers on Canada.ca",
     "WHENTOUSE": "How to write phone numbers on Canada.ca",
@@ -1344,7 +1344,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp4-10\">Addresses</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#wp4-10\">Addresses</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "How to write addresses on Canada.ca",
     "WHENTOUSE": "How to write addresses on Canada.ca",
@@ -1353,7 +1353,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp4-11\">Words and expressions in transition</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#wp4-11\">Words and expressions in transition</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "Special rules for Words and expressions commonly written in 2 or more different ways (like webpage and web page)",
     "WHENTOUSE": "Special rules for Words and expressions commonly written in 2 or more different ways (like webpage and web page)",
@@ -1362,7 +1362,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc9\">Content structure</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#toc9\">Content structure</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "How to organize the structure and layout of content components to help people find what they need quickly",
     "WHENTOUSE": "Content Style Guide",
@@ -1371,7 +1371,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp5-1\">Page titles and headings</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#wp5-1\">Page titles and headings</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "Write titles and headings that are meaningful and help people scan the page",
     "WHENTOUSE": "Write titles and headings that are meaningful and help people scan the page",
@@ -1380,7 +1380,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp5-2\">Lists</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#wp5-2\">Lists</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "How to write lists that help people scan",
     "WHENTOUSE": "How to write lists that help people scan",
@@ -1389,7 +1389,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp5-3\">Tables</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#wp5-3\">Tables</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "How to design tables to organize data",
     "WHENTOUSE": "How to design tables to organize data",
@@ -1398,7 +1398,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc10\">Images and videos</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#toc10\">Images and videos</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "How to use images and videos in your content",
     "WHENTOUSE": "How to use images and videos in your content",
@@ -1407,7 +1407,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc11\">Links</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#toc11\">Links</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "How to use links on Canada.ca",
     "WHENTOUSE": "How to use links on Canada.ca",

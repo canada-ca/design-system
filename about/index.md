@@ -29,7 +29,7 @@ title: "About Canada.ca"
       <div class="wb-eqht row">
         <div class="col-md-6">
           <section>
-            <h3 class="h5"><a href="{{ site.urlcanadaca }}/en/government/about/design-system/latest-changes.html">Design updates</a></h3>
+            <h3 class="h5"><a href="{{ site.url }}/about/latest-changes.html">Design updates</a></h3>
             <p>Changes to the design of Canada.ca to continuously improve in response to user needs.</p>
           </section>
         </div>

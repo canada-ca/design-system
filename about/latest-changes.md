@@ -138,7 +138,7 @@ title: "Latest changes to the Canada.ca design system"
     <summary>February 3, 2020</summary>
     <p>We made the following changes:</p>
     <ul>
-      <li>we’ve added <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp1-2-1b">Writing for inclusivity</a> to the Writing principles for web content section of the <cite>Canada.ca Content Style Guide</cite></li>
+      <li>we’ve added <a href="{{ site.url }}/style-guide/#wp1-2-1b">Writing for inclusivity</a> to the Writing principles for web content section of the <cite>Canada.ca Content Style Guide</cite></li>
       <li>we modified the wording for the Access to Information and Privacy requests on the <a href="{{ site.url }}/recommended-templates/transparency.html">Transparency and corporate reporting</a> template</li>
     </ul>
   </details>

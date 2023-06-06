@@ -2,7 +2,7 @@
 altLangPage: "https://conception.canada.ca/architecture/specifications-contenu-architecture-information-canada.html"
 breadcrumbs:
   - title: About Canada.ca
-    link: "https://www.canada.ca/en/government/about.html"
+    link: "{{ site.urlcanadaca }}/about/"
   - title: Canada.ca design system
     link: "https://www.canada.ca/en/government/about/design-system.html"
 date: 2017-10-05

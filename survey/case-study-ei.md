@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/sondage/cas-ae.html
 breadcrumbs:
 - title: About Canada.ca
-  link: https://www.canada.ca/en/government/about.html
+  link: {{ site.urlcanadaca }}/about/
 - title: Analytics and feedback
   link: https://www.canada.ca/en/analytics.html
 - title: GC Task Success Survey
@@ -83,6 +83,6 @@ As a team, they:
 ## Learn more
 
 * [Blog post on making links more effective](https://blog.canada.ca/2021/07/20/effective-links.html)
-* [Links - Canada.ca Content Style Guide](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp7-1)
+* [Links - Canada.ca Content Style Guide]({{ site.url }}/style-guide/#wp7-1)
 * [Information foraging: A Theory of How people navigate on the web](https://www.nngroup.com/articles/information-foraging/)
   

@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/retroaction/index.html
 breadcrumbs:
   - title: About Canada.ca
-    link: https://www.canada.ca/en/government/about.html
+    link: {{ site.urlcanadaca }}/about/
   - title: Analytics and feedback
     link: https://www.canada.ca/en/analytics.html
 dateModified: 2023-02-28
