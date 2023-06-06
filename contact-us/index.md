@@ -35,7 +35,7 @@ Contact us to ask design questions or make suggestions about the design of Canad
       <h2>References</h2>
       <ul>
         <li><a href="https://laws-lois.justice.gc.ca/ENG/ACTS/P-21/index.html"><cite>Privacy Act</cite></a></li>
-        <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-personal-information-banks.html#psu914">Personal Information Bank PSU 914 Communications</a></li>
+        <li><a href="{{ site.urlcanadaca }}/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-personal-information-banks.html#psu914">Personal Information Bank PSU 914 Communications</a></li>
       </ul>
     </details>
   </div>

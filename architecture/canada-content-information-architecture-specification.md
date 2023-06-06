@@ -2,7 +2,7 @@
 altLangPage: "https://conception.canada.ca/architecture/specifications-contenu-architecture-information-canada.html"
 breadcrumbs:
   - title: About Canada.ca
-    link: "{{ site.urlcanadaca }}/about/"
+    link: "https://design.canada.ca/about/"
   - title: Canada.ca design system
     link: "https://www.canada.ca/en/government/about/design-system.html"
 date: 2017-10-05
@@ -11,7 +11,7 @@ description: "The requirements listed in this design manual apply to departments
 layout: default
 title: "Canada.ca Content and Information Architecture Specification"
 ---
-<p class="gc-byline"><strong>From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
+<p class="gc-byline"><strong>From: <a href="{{ site.urlcanadaca }}/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
 <p>The Canada.ca design system provides user-tested templates, patterns and design principles. The system allows designers and developers to create a more usable, consistent and trustworthy online experience for people who access Government of Canada digital services.</p>
 <p class="text-right">Version 2.1.2</p>
 <p class="text-right">Revised:

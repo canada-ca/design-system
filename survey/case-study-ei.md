@@ -33,7 +33,7 @@ By reading GC Task Success Survey comments for the Submit and Employment Insuran
         <img src="images/before-ei.png" class="img-responsive" alt="">
     </a>
     <div class="media-body">
-        <p>A common complaint was that the <strong>reporting link was hard to find</strong> on the <a href="https://www.canada.ca/en/services/benefits/ei/employment-insurance-reporting.html">Employment Insurance reporting page</a>.</p>
+        <p>A common complaint was that the <strong>reporting link was hard to find</strong> on the <a href="{{ site.urlcanadaca }}/en/services/benefits/ei/employment-insurance-reporting.html">Employment Insurance reporting page</a>.</p>
         <blockquote>“Finding the sign-in homepage link is a challenge”</blockquote>
         <ul>
             <li>There was an inline link to begin a report in the middle of a long paragraph.</li>
@@ -76,7 +76,7 @@ As a team, they:
             <li>acted on survey comments, socialized and leveraged GC Task Success survey comments</li>
             <li>learned to use A/B testing and can now apply the skill to more complex problems</li>
         </ul>
-        <p><a href="https://www.canada.ca/en/services/benefits/ei/employment-insurance-reporting.html">View the result</a></p>
+        <p><a href="{{ site.urlcanadaca }}/en/services/benefits/ei/employment-insurance-reporting.html">View the result</a></p>
     </div>
 </section>
 

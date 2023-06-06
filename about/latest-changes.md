@@ -106,7 +106,7 @@ title: "Latest changes to the Canada.ca design system"
     <summary>October 21, 2020</summary>
     <p>We made the following changes:</p>
     <ul>
-      <li>we modified the <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html">Mandatory elements of the design system</a> to specify that using the <a href="{{ site.url }}/common-design-patterns/canada-dot-ca.html">Canada.ca domain</a> is mandatory</li>
+      <li>we modified the <a href="{{ site.urlcanadaca }}/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html">Mandatory elements of the design system</a> to specify that using the <a href="{{ site.url }}/common-design-patterns/canada-dot-ca.html">Canada.ca domain</a> is mandatory</li>
       <li>we added a beta version of the <a href="{{ site.url }}/common-design-patterns/checkboxes-radio-buttons.html">Checkboxes and radio buttons</a> design pattern</li>
     </ul>
   </details>

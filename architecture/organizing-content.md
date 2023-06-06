@@ -6,7 +6,7 @@ description: "How to organize your content on Canada.ca"
 layout: default
 title: "Organizing content on Canada.ca"
 ---
-<p class="gc-byline"><strong>From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
+<p class="gc-byline"><strong>From: <a href="{{ site.urlcanadaca }}/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
 <div class="mrgn-tp-md mrgn-bttm-sm brdr-bttm">
   <div class="row  mrgn-bttm-sm">
     <ul class="toc lst-spcd col-md-12">
@@ -255,7 +255,7 @@ title: "Organizing content on Canada.ca"
 <h2 id="state">Content types and content states</h2>
 <h3>Content types</h3>
 <p>A content type is a unique element describing the nature of the page content.</p>
-<p>Use the <a href="https://www.canada.ca/en/government/about/design-system/topic-tree-content-types.html#types">Canada.ca  content type list</a>, a common taxonomy, to classify and filter large lists of content based on content type. </p>
+<p>Use the <a href="{{ site.urlcanadaca }}/en/government/about/design-system/topic-tree-content-types.html#types">Canada.ca  content type list</a>, a common taxonomy, to classify and filter large lists of content based on content type. </p>
 <h3>Content states</h3>
 <p>There are 3 content states for content published on Canada.ca: </p>
 <ol>

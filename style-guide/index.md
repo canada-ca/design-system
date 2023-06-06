@@ -830,7 +830,7 @@ title: "Canada.ca Content Style Guide"
           <li><a href="http://canadabusiness.ca/eng/page/2852/pof-191/">Financing your new business</a></li>
           <li><a href="http://www.canadabusiness.ca/eng/page/2772/">Financing for innovation</a></li>
           <li><a href="http://www.ic.gc.ca/eic/site/csbfp-pfpec.nsf/eng/h_la00007.html">Find a loan for your small business</a></li>
-          <li><a href="https://www.canada.ca/en/employment-social-development/programs/job-grant/employers.html">Canada job grants for employers</a></li>
+          <li><a href="{{ site.urlcanadaca }}/en/employment-social-development/programs/job-grant/employers.html">Canada job grants for employers</a></li>
         </ul>
       </section>
       <p class="mrgn-tp-lg">When the meaning of list items depends on a lead-in phrase, don't capitalize the first letter of each unless it's a proper name.</p>
