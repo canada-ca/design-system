@@ -78,7 +78,7 @@ title: "Designing content on Canada.ca"
       <p>The Canada.ca design system provides people with consistent navigation, content labels, templates and patterns. Whether they enter Canada.ca pages directly through Internet search engines or by way of social media or direct traffic, consistency helps ensure users can find, begin, and complete the most in-demand tasks.</p>
       <h3>Optimized for mobile devices</h3>
       <p>Canadians are increasingly using mobile devices, including tablets and smart phones.</p>
-      <p>The existing Canada.ca design helps people easily find the same content on either their mobile or desktop device. The design system, including <a href="http://www.tbs-sct.gc.ca/ws-nw/wa-aw/wet-boew/index-eng.asp">Web Experience Toolkit (WET)</a> templates and design components, have been tested and verified as mobile-friendly.</p>
+      <p>The existing Canada.ca design helps people easily find the same content on either their mobile or desktop device. The design system, including <a href="https://www.tbs-sct.gc.ca/ws-nw/wa-aw/wet-boew/index-eng.asp">Web Experience Toolkit (WET)</a> templates and design components, have been tested and verified as mobile-friendly.</p>
       <p>A separate mobile instance of the site is not needed.</p>
       <p>To perform well on mobile devices, the IA is as simple and as flat as possible. In-page navigation is more effective than menus and page sizes must be limited. The content specifications and writing guidance take this mobile context into account. They also specify how to create content that will be easily downloaded on mobile devices. This allows people to access information quickly while on the go.</p>
       <h3>Integrated with search</h3>

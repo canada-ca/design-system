@@ -27,7 +27,7 @@ Select the following categories from the drop-down menus when submitting the req
 
 Changes are reviewed by theme leads, Digital Transformation Office (DTO) and Principal Publisher. Updates to the task list are compiled and implemented on a monthly basis.
 
-[Submit a Service Desk request (internal only)](http://requestform.portal.gc.ca/tickets.html)
+[Submit a Service Desk request (internal only)](https://requestform.portal.gc.ca/tickets.html)
 
 ## Current and past task lists
 

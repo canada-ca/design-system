@@ -45,12 +45,12 @@ title: "Canada.ca Content Style Guide"
   <h2 id="toc2">Purpose</h2>
   <p>This guide establishes the rules you must use to develop and edit English web content that will be published on a Government of Canada website. The rules are different from practices adapted to print to support principles related to accessibility, readability and usability.</p>
   <p>The purpose of these rules is to make web content easy to find, easy to understand and easy to use for everyone, including people who have physical or cognitive disabilities. </p>
-  <p>The techniques described in this guide complement the rules set out in <cite><a href="http://www.btb.termiumplus.gc.ca/tpv2guides/guides/tcdnstyl/index-eng.html?lang=eng">The Canadian Style</a></cite>. If there are conflicts between this guide and <cite>The Canadian Style</cite> or any other resource, this guide takes priority for content published online.</p>
+  <p>The techniques described in this guide complement the rules set out in <cite><a href="https://www.btb.termiumplus.gc.ca/tpv2guides/guides/tcdnstyl/index-eng.html?lang=eng">The Canadian Style</a></cite>. If there are conflicts between this guide and <cite>The Canadian Style</cite> or any other resource, this guide takes priority for content published online.</p>
   <p>As web and language trends evolve, we'll update this guide to meet the changing needs of our audiences.</p>
 </section>
 <section>
   <h2 id="toc3">Use of the style guide</h2>
-  <p>This style guide is referenced in the <cite><a href="http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682">Directive on the Management of Communications</a></cite>. The requirements apply to departments and other organizations of the federal public administration listed in Schedules <a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/page-30.html#h-74">I</a>, <a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/page-31.html#h-75">I.1</a> and <a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/page-32.html#h-76">II</a> of the <cite>Financial Administration Act</cite>.</p>
+  <p>This style guide is referenced in the <cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682">Directive on the Management of Communications</a></cite>. The requirements apply to departments and other organizations of the federal public administration listed in Schedules <a href="https://laws-lois.justice.gc.ca/eng/acts/F-11/page-30.html#h-74">I</a>, <a href="https://laws-lois.justice.gc.ca/eng/acts/F-11/page-31.html#h-75">I.1</a> and <a href="https://laws-lois.justice.gc.ca/eng/acts/F-11/page-32.html#h-76">II</a> of the <cite>Financial Administration Act</cite>.</p>
   <p>These organizations must follow this style guide's requirements for all public-facing websites and digital services, regardless of the technology, domain name or publishing platform used.</p>
   <h3>Out-of-scope situations</h3>
   <p>Institutions that fall outside of Schedules I, I.1, and II of the <cite>Financial Administration Act</cite> do not have to follow this style guide. However, all institutions are encouraged to use it for both their internal and external web products. Following this guide's rules and techniques will make it easier for everyone to find, understand and use the government's digital content.</p>
@@ -69,7 +69,7 @@ title: "Canada.ca Content Style Guide"
         <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27088">Standard on Optimizing Websites and Applications for Mobile Devices</a></cite></li>
         <li><cite><a href="/en/treasury-board-secretariat/services/government-communications/guidance-publishing-government.html">Guidance on Publishing in the Government of Canada</a></cite></li>
         <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27167">Procedures for Publishing</a></cite></li>
-        <li><cite><a href="http://laws-lois.justice.gc.ca/eng/acts/O-3.01/">Official Languages Act</a></cite></li>
+        <li><cite><a href="https://laws-lois.justice.gc.ca/eng/acts/O-3.01/">Official Languages Act</a></cite></li>
       </ul>
     </li>
   </ul>
@@ -119,7 +119,7 @@ title: "Canada.ca Content Style Guide"
     <section>
       <h4 id="wp1-2-1">Writing for accessibility</h4>
       <p>Making content accessible means a wide range of people can use it, including people with physical and cognitive disabilities (for example, reading disorders, attention deficit disorders, memory disorders). </p>
-      <p>To make your content accessible, consider how assistive technologies work and how some writing practices may impact people's ability to read or understand text. Remember to also refer to the <cite><a href="http://www.w3.org/TR/WCAG/">Web Content Accessibility Guidelines (WCAG) 2.0</a></cite>.</p>
+      <p>To make your content accessible, consider how assistive technologies work and how some writing practices may impact people's ability to read or understand text. Remember to also refer to the <cite><a href="https://www.w3.org/TR/WCAG/">Web Content Accessibility Guidelines (WCAG) 2.0</a></cite>.</p>
       <h4 id="wp1-2-1b">Writing for inclusivity</h4>
       <p>Make gender-inclusive writing your standard practice. Avoid references to gender whenever possible.</p>
       <p>For more guidance, including how to write inclusively in French, see the Translation Bureau’s <a href="https://www.btb.termiumplus.gc.ca/tpv2guides/guides/wrtps/index-eng.html?lang=eng&amp;lettr=indx_catlog_g&amp;page=9tZXuAe4oZYs.html">Gender-inclusive writing: correspondence</a>.</p>
@@ -146,7 +146,7 @@ title: "Canada.ca Content Style Guide"
       <p>People will view your content on different sizes of screens. Phone and tablet screens display less content than desktop and laptop screens.&nbsp;Readers who use small screens:</p>
       <ul>
         <li>have to go through more steps to access the same amount of information</li>
-        <li>rely on their&nbsp;short-term memory&nbsp;to <a href="http://www.nngroup.com/articles/short-term-memory-and-web-usability/">recall information that isn't visible on the screen</a></li>
+        <li>rely on their&nbsp;short-term memory&nbsp;to <a href="https://www.nngroup.com/articles/short-term-memory-and-web-usability/">recall information that isn't visible on the screen</a></li>
       </ul>
     </section>
   </section>
@@ -154,7 +154,7 @@ title: "Canada.ca Content Style Guide"
     <h3 id="wp1-3">1.3 Provide equivalent content in both official languages</h3>
     <section class="alert alert-warning">
       <h4 class="h3">Official languages requirements</h4>
-      <p>According to the <cite><a href="http://laws-lois.justice.gc.ca/eng/acts/o-3.01/page-1.html">Official Languages Act</a></cite>, you must publish communications and provide services to the public in both official languages.</p>
+      <p>According to the <cite><a href="https://laws-lois.justice.gc.ca/eng/acts/o-3.01/page-1.html">Official Languages Act</a></cite>, you must publish communications and provide services to the public in both official languages.</p>
     </section>
     <p>Government content must:</p>
     <ul>
@@ -164,7 +164,7 @@ title: "Canada.ca Content Style Guide"
     </ul>
     <section>
       <h4>Persons responsible for official languages</h4>
-      <p>The <a href="http://www.tbs-sct.gc.ca/psm-fpfm/ve/ol-lo/lst-eng.asp">person responsible for official languages in your institution</a> can help answer questions about your obligations and about exceptions.</p>
+      <p>The <a href="https://www.tbs-sct.gc.ca/psm-fpfm/ve/ol-lo/lst-eng.asp">person responsible for official languages in your institution</a> can help answer questions about your obligations and about exceptions.</p>
       <p>Your communications team can help determine whether it's appropriate to communicate with audiences in other languages, in addition to Canada's official languages.</p>
     </section>
   </section>
@@ -385,8 +385,8 @@ title: "Canada.ca Content Style Guide"
     <p>Tools you can use to see which search terms are most popular: </p>
     <ul>
       <li><a href="https://www.google.ca/trends/explore">Google Trends</a></li>
-      <li><a href="http://adwords.google.com/keywordplanner">Google Keyword Planner</a></li>
-      <li><a href="http://www.bing.com/toolbox/keywords">Bing Keyword Research</a></li>
+      <li><a href="https://adwords.google.com/keywordplanner">Google Keyword Planner</a></li>
+      <li><a href="https://www.bing.com/toolbox/keywords">Bing Keyword Research</a></li>
       <li>Mozilla Firefox's Keywords Everywhere&nbsp; </li>
     </ul>
     <p>Refer to your analytics to find out which search terms your audience uses to find related content.</p>
@@ -457,7 +457,7 @@ title: "Canada.ca Content Style Guide"
       <p><strong>Write</strong>: You can apply for your child to become a Canadian citizen after they arrive in Canada as a permanent resident.</p>
       <p>Related links</p>
       <ul>
-        <li><cite><a href="http://laws-lois.justice.gc.ca/eng/acts/c-29/FullText.html">Citizenship Act</a></cite>, section 5.1</li>
+        <li><cite><a href="https://laws-lois.justice.gc.ca/eng/acts/c-29/FullText.html">Citizenship Act</a></cite>, section 5.1</li>
       </ul>
       <p><strong>Instead of</strong>: After your child arrives in Canada as a permanent resident, you can apply for citizenship on the child's behalf under section 5.1 of the <cite>Citizenship Act</cite>.</p>
     </section>
@@ -659,8 +659,8 @@ title: "Canada.ca Content Style Guide"
       <p>Name the other organization when your content refers to it.</p>
       <section>
         <h5>Example <span class="wb-inv">of a reference to a third party</span></h5>
-        <p><strong>Write</strong>: If you plan to <a href="http://www.cbp.gov/travel">travel to or transit through the United States</a>, find out about the rules you need to follow from U.S. Customs and Border Protection.<br>
-          <strong>Instead of</strong>: If you plan to travel to or transit through the U.S., CBSA encourages you to visit the <a href="http://www.cbp.gov/travel">U.S. Customs and Border Protection website</a> for information on the U.S. Western Hemisphere Travel Initiative, and the requirements for entering or returning to the U.S.</p>
+        <p><strong>Write</strong>: If you plan to <a href="https://www.cbp.gov/travel">travel to or transit through the United States</a>, find out about the rules you need to follow from U.S. Customs and Border Protection.<br>
+          <strong>Instead of</strong>: If you plan to travel to or transit through the U.S., CBSA encourages you to visit the <a href="https://www.cbp.gov/travel">U.S. Customs and Border Protection website</a> for information on the U.S. Western Hemisphere Travel Initiative, and the requirements for entering or returning to the U.S.</p>
       </section>
     </section>
     <div class="well panel"> 
@@ -827,9 +827,9 @@ title: "Canada.ca Content Style Guide"
         <h5>Example <span class="wb-inv">of punctuation in independent list items</span></h5>
         <p><strong>Most requested</strong></p>
         <ul>
-          <li><a href="http://canadabusiness.ca/eng/page/2852/pof-191/">Financing your new business</a></li>
-          <li><a href="http://www.canadabusiness.ca/eng/page/2772/">Financing for innovation</a></li>
-          <li><a href="http://www.ic.gc.ca/eic/site/csbfp-pfpec.nsf/eng/h_la00007.html">Find a loan for your small business</a></li>
+          <li><a href="https://canadabusiness.ca/eng/page/2852/pof-191/">Financing your new business</a></li>
+          <li><a href="https://www.canadabusiness.ca/eng/page/2772/">Financing for innovation</a></li>
+          <li><a href="https://www.ic.gc.ca/eic/site/csbfp-pfpec.nsf/eng/h_la00007.html">Find a loan for your small business</a></li>
           <li><a href="{{ site.urlcanadaca }}/en/employment-social-development/programs/job-grant/employers.html">Canada job grants for employers</a></li>
         </ul>
       </section>
@@ -894,7 +894,7 @@ title: "Canada.ca Content Style Guide"
         <li>for long passages of text, such as quotations</li>
         <li>in page titles</li>
       </ul>
-      <p>Follow <cite><a href="http://www.btb.termiumplus.gc.ca/tcdnstyl-chap?lang=eng&amp;lettr=chap_catlog&amp;info0=6#zz6">The Canadian Style</a></cite>'s rules for applying italics for the following:</p>
+      <p>Follow <cite><a href="https://www.btb.termiumplus.gc.ca/tcdnstyl-chap?lang=eng&amp;lettr=chap_catlog&amp;info0=6#zz6">The Canadian Style</a></cite>'s rules for applying italics for the following:</p>
       <ul>
         <li>French and foreign words (article 6.03)</li>
         <li>Latin terms and abbreviations (article 6.04)</li>
@@ -905,7 +905,7 @@ title: "Canada.ca Content Style Guide"
       <div class="well panel"> 
         <!--UPDATE LATER-->
         <p><a href="{{ site.urlconceptioncanadaca }}/guide-redaction/#wp4-2" aria-label="See how the rule for bold, italics and underlining applies to content in French">See how this rule applies to content in French</a></p>
-        <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20bold,%20italics%20and%20underlining%20on%20Canada.ca:%20http://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/csc-grc-eng.asp#wp4-2" aria-label="Share the rule for capitalization and punctuation by email">Share this rule by email</a></p>
+        <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20bold,%20italics%20and%20underlining%20on%20Canada.ca:%20https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/csc-grc-eng.asp#wp4-2" aria-label="Share the rule for capitalization and punctuation by email">Share this rule by email</a></p>
       </div>
     </section>
   </section>
@@ -1581,7 +1581,7 @@ title: "Canada.ca Content Style Guide"
           </tbody>
           <tfoot>
             <tr>
-              <td class="small" colspan="10"><p>Source : <a href="http://www.nhl.com">nhl.com</a></p></td>
+              <td class="small" colspan="10"><p>Source : <a href="https://www.nhl.com">nhl.com</a></p></td>
             </tr>
           </tfoot>
         </table>
@@ -1632,7 +1632,7 @@ title: "Canada.ca Content Style Guide"
           </tbody>
           <tfoot>
             <tr>
-              <td class="small" colspan="3"><p>Source : <a href="http://www.nhl.com">nhl.com</a></p></td>
+              <td class="small" colspan="3"><p>Source : <a href="https://www.nhl.com">nhl.com</a></p></td>
             </tr>
           </tfoot>
         </table>
@@ -1666,7 +1666,7 @@ title: "Canada.ca Content Style Guide"
           </tbody>
           <tfoot>
             <tr>
-              <td class="small" colspan="2"><p>Source : <a href="http://www.nhl.com">nhl.com</a></p></td>
+              <td class="small" colspan="2"><p>Source : <a href="https://www.nhl.com">nhl.com</a></p></td>
             </tr>
           </tfoot>
         </table>
@@ -1692,7 +1692,7 @@ title: "Canada.ca Content Style Guide"
           </tbody>
           <tfoot>
             <tr>
-              <td class="small" colspan="2"><p>Source : <a href="http://www.nhl.com">nhl.com</a></p></td>
+              <td class="small" colspan="2"><p>Source : <a href="https://www.nhl.com">nhl.com</a></p></td>
             </tr>
           </tfoot>
         </table>
@@ -1719,7 +1719,7 @@ title: "Canada.ca Content Style Guide"
   <section>
     <h4 id="wp5-3-3">Limit the use of texture and colour </h4>
     <p>Avoid formatting cells with textures or colours, because it can make text difficult to read.</p>
-    <p>If you must use textures and colours in a table, explain what they mean (for example, in a table note or in a legend). Make sure you comply with the <a href="http://www.w3.org/TR/2008/REC-WCAG20-20081211/#visual-audio-contrast-contrast">minimum colour contrast rules (1.4.3)</a> from the <cite>Web Content Accessibility Guidelines (WCAG) 2.0</cite>.</p>
+    <p>If you must use textures and colours in a table, explain what they mean (for example, in a table note or in a legend). Make sure you comply with the <a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#visual-audio-contrast-contrast">minimum colour contrast rules (1.4.3)</a> from the <cite>Web Content Accessibility Guidelines (WCAG) 2.0</cite>.</p>
     <p><strong>Never</strong> rely on colour or texture alone to convey important information. </p>
   </section>
   <section>
@@ -2017,7 +2017,7 @@ title: "Canada.ca Content Style Guide"
     <p>Learn where to place images and videos on Canada.ca and what size they should be: </p>
     <ul>
       <li>use the templates in the <cite><a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-eng.asp">Canada.ca Content and Information Architecture Specification</a></cite></li>
-      <li>see the <a href="http://wet-boew.github.io/themes-dist/GCWeb/index-en.html">Canada.ca page types on GitHub</a></li>
+      <li>see the <a href="https://wet-boew.github.io/themes-dist/GCWeb/index-en.html">Canada.ca page types on GitHub</a></li>
     </ul>
     <div class="well panel"> 
       <!--UPDATE LATER-->
@@ -2215,9 +2215,9 @@ title: "Canada.ca Content Style Guide"
       <h4 class="h5">Example <span class="wb-inv">of appropriate use of links</span></h4>
       <h6>Write:</h6>
       <p>A Food Guide serving is&nbsp;how much&nbsp;food you should eat from each of the 4 food groups every day. In some cases, a serving is the amount of a given food group that you normally eat in one sitting, like an apple. In other cases, the daily amount is more than one serving, such as for rice or pasta.</p>
-      <p><a href="http://www.hc-sc.gc.ca/fn-an/food-guide-aliment/basics-base/quantit-eng.php">Number of daily food servings for children, teens and adults</a></p>
+      <p><a href="https://www.hc-sc.gc.ca/fn-an/food-guide-aliment/basics-base/quantit-eng.php">Number of daily food servings for children, teens and adults</a></p>
       <h6>Instead of:</h6>
-      <p>A Food Guide Serving is simply a reference amount. It helps you understand&nbsp;<a href="http://www.hc-sc.gc.ca/fn-an/food-guide-aliment/basics-base/quantit-eng.php">how much</a> food is recommended every day from each of the four food groups. In some cases, a Food Guide Serving may be close to what you eat, such as an apple. In other cases, such as rice or pasta, you may serve yourself more than one Food Guide Serving.</p>
+      <p>A Food Guide Serving is simply a reference amount. It helps you understand&nbsp;<a href="https://www.hc-sc.gc.ca/fn-an/food-guide-aliment/basics-base/quantit-eng.php">how much</a> food is recommended every day from each of the four food groups. In some cases, a Food Guide Serving may be close to what you eat, such as an apple. In other cases, such as rice or pasta, you may serve yourself more than one Food Guide Serving.</p>
     </section>
     <section>
       <h4 id="wp7-1-1">Carefully select related content</h4>
@@ -2258,17 +2258,17 @@ title: "Canada.ca Content Style Guide"
         <h6>Write:</h6>
         <p>To get the highest Employment Insurance amount available to you:</p>
         <ol>
-          <li>open the <a href="http://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=ins5241&amp;ln=eng">form you need to declare your income</a></li>
+          <li>open the <a href="https://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=ins5241&amp;ln=eng">form you need to declare your income</a></li>
           <li>identify your highest weeks of insurable income in the shortest period below:
             <ul>
               <li>the last 52 weeks of employment </li>
               <li>since the start of your last claim </li>
             </ul>
           </li>
-          <li>return the completed form in person to the <a href="http://www.servicecanada.gc.ca/cgi-bin/sc-srch.cgi?app=hme&amp;ln=eng">Service Canada office closest to you</a></li>
+          <li>return the completed form in person to the <a href="https://www.servicecanada.gc.ca/cgi-bin/sc-srch.cgi?app=hme&amp;ln=eng">Service Canada office closest to you</a></li>
         </ol>
         <h6>Instead of:</h6>
-        <p>To ensure that you are paid the maximum Employment Insurance (EI) benefit rate that you are entitled to, complete the <a href="http://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=ins5241&amp;ln=eng">Claimant Attestation - Highest Weeks of Insurable Earnings (Variable Best Weeks) form</a> with the required information about your highest weeks of insurable earnings in the last 52 weeks of employment or since the start of your last claim, whichever is the shorter period of the two.</p>
+        <p>To ensure that you are paid the maximum Employment Insurance (EI) benefit rate that you are entitled to, complete the <a href="https://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=ins5241&amp;ln=eng">Claimant Attestation - Highest Weeks of Insurable Earnings (Variable Best Weeks) form</a> with the required information about your highest weeks of insurable earnings in the last 52 weeks of employment or since the start of your last claim, whichever is the shorter period of the two.</p>
       </section>
       <div class="well panel"> 
         <!--UPDATE LATER-->
@@ -3117,34 +3117,34 @@ title: "Canada.ca Content Style Guide"
 <section>
   <h2 id="toc13">Resources</h2>
   <p><cite><a href="https://www.canadapost.ca/tools/pg/manual/PGaddress-e.asp">Addressing Guidelines</a></cite>, Canada Post<br>
-    <a href="http://www.omafra.gov.on.ca/english/nfporgs/07-049.htm">Clear Writing</a>, Ministry of Agriculture, Food and Rural Affairs of Ontario<br>
-    <cite><a href="http://www.publications.gc.ca/site/eng/413603/publication.html">Communicating with Seniors: Advice, Techniques and Tips</a></cite>, Health Canada <br>
-    <a href="http://dyslexiahelp.umich.edu/sites/default/files/good_fonts_for_dyslexia_study.pdf">Good Fonts for Dyslexia</a>, Luz Rello, NLP &amp; Web Research Groups, et Ricardo Baeza-Yates, Yahoo! Labs &amp; Web Research Group, UPF<br>
+    <a href="https://www.omafra.gov.on.ca/english/nfporgs/07-049.htm">Clear Writing</a>, Ministry of Agriculture, Food and Rural Affairs of Ontario<br>
+    <cite><a href="https://www.publications.gc.ca/site/eng/413603/publication.html">Communicating with Seniors: Advice, Techniques and Tips</a></cite>, Health Canada <br>
+    <a href="https://dyslexiahelp.umich.edu/sites/default/files/good_fonts_for_dyslexia_study.pdf">Good Fonts for Dyslexia</a>, Luz Rello, NLP &amp; Web Research Groups, et Ricardo Baeza-Yates, Yahoo! Labs &amp; Web Research Group, UPF<br>
     <a href="https://www.nngroup.com/articles/how-users-read-on-the-web/">How Users Read on the Web, Nielsen Norman Group</a><br>
-    <cite><a href="http://ccat-ctac.org/CMFiles/Publication/CCAT-EN-new2.pdf">Introduction to Administrative Justice and To Plain Language</a></cite> (PDF), Council of Canadian Administrative Tribunals<br>
+    <cite><a href="https://ccat-ctac.org/CMFiles/Publication/CCAT-EN-new2.pdf">Introduction to Administrative Justice and To Plain Language</a></cite> (PDF), Council of Canadian Administrative Tribunals<br>
     <a href="https://www.gov.uk/guidance/content-design/what-is-content-design">Introduction to content design</a>, Government Digital Service, GOV.UK<br>
-    <a href="http://www.noslangues-ourlanguages.gc.ca/index-eng.php">Language Portal of Canada</a>, Government of Canada<br>
-    <cite><a href="http://www.ccat-ctac.org/CMFiles/Publication/Literacyandjustice.pdf">Literacy and Access to Administrative Justice in Canada</a></cite> (PDF), Council of Canadian Administrative Tribunals<br>
-    <a href="http://abclifeliteracy.ca/workplace-literacy-facts">Literacy and Numeracy in Canada</a>, ABC Life Literacy Canada<br>
+    <a href="https://www.noslangues-ourlanguages.gc.ca/index-eng.php">Language Portal of Canada</a>, Government of Canada<br>
+    <cite><a href="https://www.ccat-ctac.org/CMFiles/Publication/Literacyandjustice.pdf">Literacy and Access to Administrative Justice in Canada</a></cite> (PDF), Council of Canadian Administrative Tribunals<br>
+    <a href="https://abclifeliteracy.ca/workplace-literacy-facts">Literacy and Numeracy in Canada</a>, ABC Life Literacy Canada<br>
     <a href="https://www.nngroup.com/articles/writing-for-lower-literacy-users/">Lower-Literacy Users: Writing for a Broad Consumer Audience</a>, Jakob Nielsen, Nielsen Norman Group<br>
     <a href="https://www.nngroup.com/articles/minimize-cognitive-load/">Minimize Cognitive Load to Maximize Usability</a>, Kathryn Whitenton, Nielsen Norman Group<br>
     <a href="https://www.nngroup.com/articles/mobile-ux/">Mobile User Experience: Limitations and Strengths</a>, Raluca Budio, Nielsen Norman Group<br>
-    <a href="http://grammar.about.com/od/mo/g/Negative-Contraction.htm">Negative contraction</a>, Richard Nordquist<br>
-    <cite><a href="http://publications.gc.ca/site/eng/9.644871/publication.html">Plain Language Clear and Simple</a></cite>, Public Works and Government Services Canada (reprinted 2003)<br>
-    <a href="http://plainlanguagenetwork.org/">Plain Language Association International</a><br>
+    <a href="https://grammar.about.com/od/mo/g/Negative-Contraction.htm">Negative contraction</a>, Richard Nordquist<br>
+    <cite><a href="https://publications.gc.ca/site/eng/9.644871/publication.html">Plain Language Clear and Simple</a></cite>, Public Works and Government Services Canada (reprinted 2003)<br>
+    <a href="https://plainlanguagenetwork.org/">Plain Language Association International</a><br>
     <a href="https://www.navigatormm.com/blog/plain-language-please-heres-why-to-avoid-marketese-online/">Plain Language, Please! Here's Why to Avoid "Marketese" Only</a>, Sarah Bauer<br>
-    <cite><a href="http://www.publications.gc.ca/site/eng/9.695565/publication.html">Reaching Out: A Guide to Communicating With Aboriginal Seniors</a></cite>, Health Canada <br>
-    <a href="http://www.noslangues-ourlanguages.gc.ca/index-eng.php">Resources of the Language Portal of Canada</a>, Government of Canada<br>
-    <cite><a href="http://www.statcan.gc.ca/pub/89-555-x/89-555-x2013001-eng.htm">Skills in Canada: First Results from the Programme for the International Assessment of Adult Competencies</a></cite>, Statistics Canada<br>
-    <a href="http://www.statcan.gc.ca/daily-quotidien/160518/dq160518b-eng.htm">Study: Literacy and numeracy among off-reserve First Nations people and Métis</a>, 2012, Statistics Canada<br>
-    <a href="http://www.statcan.gc.ca/daily-quotidien/141104/dq141104b-eng.htm">Study: University graduates with lower levels of literacy and numeracy skills</a>, 2012, Statistics Canada<br>
-    <a href="http://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;index=frt">TERMIUM Plus</a>®, Translation Bureau<br>
-    <cite><a href="http://www.btb.termiumplus.gc.ca/tpv2guides/guides/tcdnstyl/index-eng.html?lang=eng">The Canadian Style</a></cite>, Translation Bureau <br>
-    <a href="http://www.musanim.com/miller1956/">The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing</a>, George A. Miller<br>
+    <cite><a href="https://www.publications.gc.ca/site/eng/9.695565/publication.html">Reaching Out: A Guide to Communicating With Aboriginal Seniors</a></cite>, Health Canada <br>
+    <a href="https://www.noslangues-ourlanguages.gc.ca/index-eng.php">Resources of the Language Portal of Canada</a>, Government of Canada<br>
+    <cite><a href="https://www.statcan.gc.ca/pub/89-555-x/89-555-x2013001-eng.htm">Skills in Canada: First Results from the Programme for the International Assessment of Adult Competencies</a></cite>, Statistics Canada<br>
+    <a href="https://www.statcan.gc.ca/daily-quotidien/160518/dq160518b-eng.htm">Study: Literacy and numeracy among off-reserve First Nations people and Métis</a>, 2012, Statistics Canada<br>
+    <a href="https://www.statcan.gc.ca/daily-quotidien/141104/dq141104b-eng.htm">Study: University graduates with lower levels of literacy and numeracy skills</a>, 2012, Statistics Canada<br>
+    <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;index=frt">TERMIUM Plus</a>®, Translation Bureau<br>
+    <cite><a href="https://www.btb.termiumplus.gc.ca/tpv2guides/guides/tcdnstyl/index-eng.html?lang=eng">The Canadian Style</a></cite>, Translation Bureau <br>
+    <a href="https://www.musanim.com/miller1956/">The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing</a>, George A. Miller<br>
     <a href="https://gathercontent.com/blog/use-pair-writing-to-collaborate-with-subject-matter-experts">Use pair writing to collaborate with subject matter experts</a>, Jonathan Kahn, GatherContent<br>
-    <a href="http://www.searchenginepeople.com/blog/watch-your-punctuation-online.html">Watch Your Punctuation Online</a>, Search Engine People<br>
-    <cite><a href="http://www.w3.org/TR/WCAG/">Web Content Accessibility Guidelines (WCAG) 2.0</a></cite>, World Wide Web Consortium (W3C)<br>
-    <a href="http://www.deque.com/blog/dont-screen-readers-read-whats-screen-part-1-punctuation-typographic-symbols/">Why Don't Screen Readers Always Read What's on the Screen?</a>, The Deque Blog<br>
+    <a href="https://www.searchenginepeople.com/blog/watch-your-punctuation-online.html">Watch Your Punctuation Online</a>, Search Engine People<br>
+    <cite><a href="https://www.w3.org/TR/WCAG/">Web Content Accessibility Guidelines (WCAG) 2.0</a></cite>, World Wide Web Consortium (W3C)<br>
+    <a href="https://www.deque.com/blog/dont-screen-readers-read-whats-screen-part-1-punctuation-typographic-symbols/">Why Don't Screen Readers Always Read What's on the Screen?</a>, The Deque Blog<br>
     <a href="https://www.nngroup.com/topic/writing-web/">Writing for the web</a>, Nielsen Norman Group<br>
     <cite><a href="https://www.uottawa.ca/uoweb/en/web-standards/web-writing">Writing for the Web: Principles and Guidelines</a></cite>, University of Ottawa</p>
   <p class="mrgn-tp-lg text-center small">© Her Majesty the Queen in Right of Canada, represented by the President of the Treasury Board, 2017, ISBN: 978-0-660-09352-9</p>

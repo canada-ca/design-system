@@ -231,7 +231,7 @@ title: "Organizing content on Canada.ca"
           <li>vanity URL for print:  canada.ca/employment-insurance-maternity </li>
           <li>vanity URL for television or radio:  canada.ca/employmentinsurancematernity (spoken “canada dot c a slash employment  insurance maternity”) </li>
         </ul>
-        <p><strong>Note</strong>: your account manager can submit new vanity URLs and change requests to the Principal Publisher using the <a href="http://requestform.portal.gc.ca/tickets.html">Request form for Canada.ca</a>. </p>
+        <p><strong>Note</strong>: your account manager can submit new vanity URLs and change requests to the Principal Publisher using the <a href="https://requestform.portal.gc.ca/tickets.html">Request form for Canada.ca</a>. </p>
       </section>
       <h3>Sub-domains</h3>
       <p>Only use subdomains for content or services hosted outside the Managed Web Service.</p>
@@ -248,7 +248,7 @@ title: "Organizing content on Canada.ca"
           </ul>
         </li>
       </ul>
-      <p><strong>Note</strong>: your account manager can submit new Canada.ca sub-domains and change requests to the Principal Publisher using the <a href="http://requestform.portal.gc.ca/tickets.html">Request form for Canada.ca</a>. Sub-domain requests are reviewed by the Treasury Board of Canada Secretariat. </p>
+      <p><strong>Note</strong>: your account manager can submit new Canada.ca sub-domains and change requests to the Principal Publisher using the <a href="https://requestform.portal.gc.ca/tickets.html">Request form for Canada.ca</a>. Sub-domain requests are reviewed by the Treasury Board of Canada Secretariat. </p>
     </section>
   </section>
 </section>
