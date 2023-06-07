@@ -13,10 +13,8 @@ title: "Canada.ca Content and Information Architecture Specification"
 ---
 <p class="gc-byline"><strong>From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
 <p>The Canada.ca design system provides user-tested templates, patterns and design principles. The system allows designers and developers to create a more usable, consistent and trustworthy online experience for people who access Government of Canada digital services.</p>
-<p class="text-right">Version 2.1.2</p>
-<p class="text-right">Revised:
-  <time datetime="2020-10-21">October 21, 2020</time>
-</p>
+<p>Version 2.1.2</p>
+<p>Revised: <time datetime="2020-10-21">October 21, 2020</time></p>
 <div class="row">
   <section class="wb-eqht gc-drmt">
     <div class="col-md-4">
@@ -45,5 +43,5 @@ title: "Canada.ca Content and Information Architecture Specification"
     </div>
   </section>
 </div>
-<p class="mrgn-tp-lg text-center small">© Her Majesty the Queen in Right of Canada, represented by the President of the Treasury Board, 2017,<br>
+<p class="mrgn-tp-lg small">© Her Majesty the Queen in Right of Canada, represented by the President of the Treasury Board, 2017<br>
   ISBN: 978-0-660-09331-4</p>
