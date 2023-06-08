@@ -325,8 +325,7 @@ title: "Global footer"
     <dt>
       <time datetime="2022-11-30" class="link-muted">2022-11-30</time>
     </dt>
-    <dd>Updated pattern to reflect design changes from the Wayfinding project, moved detailed specifications to sub pages
-      specific to individual bands</dd>
+    <dd>Updated pattern to reflect design changes from the Wayfinding project, moved detailed specifications to sub pages specific to individual bands</dd>
   </dl>
 </section>
 <section>
