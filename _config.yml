@@ -78,7 +78,7 @@ defaults:
         - title: Canada.ca Content Style Guide
           link: https://design.canada.ca/style-guide/
   - scope:
-      path: "style-guide/index.html"
+      path: "style-guide/index.md"
     values:
       breadcrumbs:
         - title: About Canada.ca
