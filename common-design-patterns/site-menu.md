@@ -57,7 +57,7 @@ title: "Theme and topic menu"
   </li>
   <li>you’ve added a <a href="contextual-signin.html">contextual Sign in button</a> where it’s relevant to the content</li>
 </ul>
-<p>A group of pages might be an entire theme, all the pages related to a specific program or service, or all the pages related to a single organization.</p>
+<p>A group of pages might be all the pages related to a specific program or service, or all the pages related to a single organization.</p>
 <h3>Future state</h3>
 <p>Eventually we will retire the theme and topic menu pattern. The theme page links are in the main band of the global footer.</p>
 <h2 id="avoid">What to avoid</h2>
