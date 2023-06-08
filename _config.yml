@@ -76,4 +76,12 @@ defaults:
         - title: Design system
           link: https://www.canada.ca/en/government/about/design-system.html
         - title: Canada.ca Content Style Guide
-          link: https://design.canada.ca/style-guide/		  
+          link: https://design.canada.ca/style-guide/
+  - scope:
+      path: "style-guide/index.html"
+    values:
+      breadcrumbs:
+        - title: About Canada.ca
+          link: https://design.canada.ca/about/
+        - title: Design system
+          link: https://www.canada.ca/en/government/about/design-system.html
