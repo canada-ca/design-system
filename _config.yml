@@ -64,7 +64,7 @@ defaults:
   - scope:
       path: "about/index.md"
     values:
-      breadcrumbs: false	  
+      breadcrumbs: true
   - scope:
       path: "style-guide"
     values:
