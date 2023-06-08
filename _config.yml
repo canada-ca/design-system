@@ -65,8 +65,8 @@ defaults:
       path: "about/index.md"
     values:
       breadcrumbs:
-        - title: 
-          link: 		  
+        - title: false
+          link: false 		  
   - scope:
       path: "style-guide"
     values:
