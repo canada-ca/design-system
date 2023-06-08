@@ -144,5 +144,5 @@ title: "Government of Canada signature"
   <dt>
     <time datetime="2023-MM-DD" class="link-muted">2023-MM-DD</time>
   </dt>
-  <dd>Updated the guidance to include content and design specifications, visual examples and implementation guidance</dd>
+  <dd>Updated the guidance to include advice on what to avoid, content and design specifications, visual examples, implementation guidance, research findings and policy rationale</dd>
 </dl>
