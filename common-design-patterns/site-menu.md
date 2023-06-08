@@ -232,14 +232,16 @@ title: "Theme and topic menu"
 <p>Consult research findings and policy rationale.</p>
 <h3>Research findings</h3>
 <p>We updated the theme and topic menu guidance to align with a new overall navigation strategy that came out of the Wayfinding research project.</p>
-<p><a href="https://blog.canada.ca/research-summaries/wayfinding-on-canada-ca">Wayfinding on Canada.ca research summary</a><br>
-  This summary explains the context of the research and the insights that drove the design updates.</p>
-<p><a href="https://blog.canada.ca/2022/12/21/wayfinding-research-project">Wayfinding research project improves our approach to navigation on Canada.ca</a><br>
-  This blog post explains the changes that are being made to the Canada.ca design, and how they are being implemented.</p>
+<ul>
+<li><a href="https://blog.canada.ca/research-summaries/wayfinding-on-canada-ca">Wayfinding on Canada.ca research summary</a><br>
+  This summary explains the context of the research and the insights that drove the design updates.</li>
+<li><a href="https://blog.canada.ca/2022/12/21/wayfinding-research-project">Wayfinding research project improves our approach to navigation on Canada.ca</a><br>
+  This blog post explains the changes that are being made to the Canada.ca design, and how they are being implemented.</li>
+</ul>
 <h2 id="changes">Latest changes</h2>
 <dl class="dl-horizontal">
   <dt>
     <time datetime="2023-MM-DD" class="link-muted">2023-MM-DD</time>
   </dt>
-  <dd>Updated pattern to reflect design changes from wayfinding project</dd>
+  <dd>Updated pattern to reflect design changes from wayfinding project, and to include advice on what to avoid, content and design specifications, visual examples, implementation guidance, research and policy rationale</dd>
 </dl>
