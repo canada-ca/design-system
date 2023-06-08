@@ -60,7 +60,13 @@ defaults:
     values:
       breadcrumbs:
         - title: About Canada.ca
-          link: https://design.canada.ca/about/
+          link: https://design.canada.ca/about/	
+  - scope:
+      path: "about/index.html"
+    values:
+      breadcrumbs:
+        - title: ""
+          link: ""		  
   - scope:
       path: "style-guide"
     values:
