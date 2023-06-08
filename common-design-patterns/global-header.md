@@ -414,7 +414,7 @@ title: "Global header"
     <dt>
       <time datetime="YYYY-MM-DD" class="link-muted">YYYY-MM-DD</time>
     </dt>
-    <dd>Updated pattern to reflect design changes from the trust study and wayfinding project, added visual examples for the different types of pages, included links to research projects that inform header guidance</dd>
+    <dd>Updated pattern to reflect design changes from the trust study and wayfinding project, added advice on what to avoid, added visual examples for the different types of pages, included links to research projects that inform header guidance</dd>
     <dt>
       <time datetime="2022-08-17" class="link-muted">2022-08-17</time>
     </dt>
