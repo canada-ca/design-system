@@ -221,12 +221,14 @@ title: "Breadcrumb trail"
     <h2 id="research">Research and rationale</h2>
     <p>Consult research findings and policy rationale.</p>
     <h3>Research findings</h3>
-    <p><a href="https://blog.canada.ca/2020/08/10/CanadaDotCa-trusted-source.html">Canada.ca is a trusted source</a><br>
-      Explains the decision to use “Canada.ca” as the label for the first link in the breadcrumb.</p>
-    <p><a href="https://blog.canada.ca/research-summaries/wayfinding-on-canada-ca.html">Wayfinding on Canada.ca research summary</a><br>
-      Research shows that people navigating on the site use breadcrumb links nearly twice as often as they use the Theme and topic menu.</p>
+    <ul>
+    <li><a href="https://blog.canada.ca/2020/08/10/CanadaDotCa-trusted-source.html">Canada.ca is a trusted source</a><br>
+      Explains the decision to use “Canada.ca” as the label for the first link in the breadcrumb.</li>
+    <li><a href="https://blog.canada.ca/research-summaries/wayfinding-on-canada-ca.html">Wayfinding on Canada.ca research summary</a><br>
+      Research shows that people navigating on the site use breadcrumb links nearly twice as often as they use the Theme and topic menu.</li>
+    </ul>
+     <h3>Policy rationale</h3>
     <p>The spacing specifications for the breadcrumb links are designed so that touch targets meet WCAG AAA requirements.</p>
-    <h3>Policy rationale</h3>
     <p>As part of the global header, the breadcrumb is a mandatory element under the Content and Information Architecture Specification.</p>
     <ul>
       <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html">Mandatory elements of the design system</a></li>
@@ -236,7 +238,7 @@ title: "Breadcrumb trail"
       <dt>
         <time datetime="2023-MM-DD" class="link-muted">2023-MM-DD</time>
       </dt>
-      <dd>Updated the guidance to include content and design specifications, visual examples and implementation guidance</dd>
+      <dd>Updated the guidance to include advice on what to avoid, content and design specifications, visual examples, implementation guidance, research findings and policy rationale</dd>
     </dl>
   </div>
 </div>
