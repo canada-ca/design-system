@@ -55,14 +55,12 @@ defaults:
           link: https://www.canada.ca/en/government/about/design-system.html
         - title: Information architecture specification
           link: https://design.canada.ca/architecture/canada-content-information-architecture-specification.html
- - scope:
+  - scope:
       path: "about"
-{% if page.url != "index.html" %}
     values:
       breadcrumbs:
         - title: About Canada.ca
           link: https://design.canada.ca/about/
-{% endif %}
   - scope:
       path: "style-guide"
     values:
