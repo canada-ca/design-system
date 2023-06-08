@@ -118,7 +118,6 @@ title: "Site search box"
           <summary><strong>GC-AEM</strong></summary>
           <p class="mrgn-tp-lg">For the Government of Canada Adobe Experience Manager (AEM):</p>
           <ul>
-            <li><a href="https://www.gcpedia.gc.ca/gcwiki/images/9/9a/AEM-6.5-Documentation-Unit-3-7-Changing-the-Default-Breadcrumb.pdf">Changing the default breadcrumb (PDF - GCPedia link - only available on the Government of Canada network)</a></li>
             <li><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">AEM/Managed Web Service documentation (GCPedia link - only available on the Government of Canada network)</a></li>
           </ul>
         </details>
@@ -159,5 +158,5 @@ title: "Site search box"
     <dt>
       <time datetime="2023-MM-DD" class="link-muted">2023-MM-DD</time>
     </dt>
-    <dd>Updated the guidance to include content and design specifications, visual examples and implementation guidance</dd>
+    <dd>Updated the guidance to include advice on what to avoid, content and design specifications, visual examples, implementation guidance, support for search configuration, and policy rationale</dd>
   </dl>
