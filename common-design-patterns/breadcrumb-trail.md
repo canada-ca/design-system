@@ -222,9 +222,9 @@ title: "Breadcrumb trail"
     <h3>Research findings</h3>
     <ul>
     <li><a href="https://blog.canada.ca/2020/08/10/CanadaDotCa-trusted-source.html">Canada.ca is a trusted source</a><br>
-      Explains the decision to use “Canada.ca” as the label for the first link in the breadcrumb.</li>
+      Explains the decision to use “Canada.ca” as the label for the first link in the breadcrumb</li>
     <li><a href="https://blog.canada.ca/research-summaries/wayfinding-on-canada-ca.html">Wayfinding on Canada.ca research summary</a><br>
-      Research shows that people navigating on the site use breadcrumb links nearly twice as often as they use the Theme and topic menu.</li>
+      Research showing that people navigating on the site use breadcrumb links nearly twice as often as they use the Theme and topic menu</li>
     </ul>
      <h3>Policy rationale</h3>
     <p>The spacing specifications for the breadcrumb links are designed so that touch targets meet WCAG AAA requirements.</p>
