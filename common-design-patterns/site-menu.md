@@ -58,7 +58,7 @@ title: "Theme and topic menu"
 </ul>
 <p>A group of pages might be all the pages related to a specific program or service, or all the pages related to a single organization.</p>
 <h3>Future state</h3>
-<p>Eventually we will retire the theme and topic menu pattern. The theme page links are in the main band of the global footer.</p>
+<p>Eventually we will retire the theme and topic menu pattern. Links to the theme pages will remain available through the main band of the global footer and the breadcrumb trail.</p>
 <h2 id="avoid">What to avoid</h2>
 <p>Don’t repurpose the Theme and topic menu for other navigation. The menu is a global navigation tool. It’s confusing for users if it behaves differently depending on where they are in the site.</p>
 <p>Don’t remove it from standard destination pages before you meet the conditions above.</p>
