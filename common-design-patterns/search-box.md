@@ -149,7 +149,7 @@ title: "Site search box"
   <h2 id="research">Research and rationale</h2>
   <p>Placing site search in the top-right corner of a web page is an established web convention.</p>
   <h3>Policy rationale</h3>
-  <p>As part of the global header, the site search box is a mandatory element under the Content and Information Architecture Specification.</p>
+  <p>As part of the global header, the site search box is a mandatory element under the <cite>Content and Information Architecture Specification.</cite></p>
   <ul>
     <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html">Mandatory elements of the design system</a></li>
   </ul>
