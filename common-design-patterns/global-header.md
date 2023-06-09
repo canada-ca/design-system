@@ -392,9 +392,9 @@ title: "Global header"
   <p>We updated the global header for Canada.ca to align with a new overall navigation strategy that came out of the Wayfinding research project.</p>
   <ul>
     <li><a href="https://blog.canada.ca/research-summaries/wayfinding-on-canada-ca">Wayfinding on Canada.ca research summary</a><br>
-      Explains the context of the research and the insights that drove the design updates.</li>
+      Explains the context of the research and the insights that drove the design updates</li>
     <li><a href="https://blog.canada.ca/2022/12/21/wayfinding-research-project">Wayfinding research project improves our approach to navigation on Canada.ca</a><br>
-      This blog post explains the changes that are being made to the Canada.ca design, and how they are being implemented.</li>
+      Blog post explaining the changes that are being made to the Canada.ca design, and how they are being implemented</li>
   </ul>
   <h3>Policy rationale</h3>
   <p>This pattern is a mandatory element of the <cite>Content and Information Architecture Specification.</cite></p>
