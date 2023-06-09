@@ -405,7 +405,7 @@ title: "Global header"
       This blog post explains the changes that are being made to the Canada.ca design, and how they are being implemented.</li>
   </ul>
   <h3>Policy rationale</h3>
-  <p>This pattern is a mandatory element of the Content and Information Architecture Specification.</p>
+  <p>This pattern is a mandatory element of the <cite>Content and Information Architecture Specification.</cite></p>
   <ul>
     <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html">Mandatory elements of the design system</a></li>
   </ul>
