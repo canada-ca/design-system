@@ -406,7 +406,7 @@ title: "Global header"
     <dt>
       <time datetime="YYYY-MM-DD" class="link-muted">YYYY-MM-DD</time>
     </dt>
-    <dd>Updated the Global header pattern to reflect design changes from the Canada.ca trust study and wayfinding project. This includes documenting criteria for when the theme and topic menu can be removed, clarifying the colour of the flag in the Government of Canada signature and documenting that institutions can contextualize the search box. Also added guidance on what to avoid, research findings and policy rationale.</dd>
+    <dd>Updated pattern to reflect design changes from the trust study and wayfinding project, added advice on what to avoid, added visual examples for the different types of pages, included links to research projects that inform header guidance</dd>
     <dt>
       <time datetime="2022-08-17" class="link-muted">2022-08-17</time>
     </dt>
