@@ -181,7 +181,7 @@ title: "Theme and topic menu"
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
     <figcaption><b>Theme and topic menu with most requested submenu open - small screen</b></figcaption>
-    <img src="../images/01-menu-mobile-mr-en.png" class="img-responsive" alt=" ">
+    <img src="../images/01-menu-mobile-mr-en.png" class="img-responsive mrgn-tp-md" alt=" ">
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: theme and topic menu with most requested submenu open - small screen</summary>
       <p class="mrgn-tp-lg">The "Most requested" menu is expanded. It has a downwards-facing chevron to the left of the words "Most requested". Underneath this heading are links to the 7 most requested pages for that theme.</p>
