@@ -12,7 +12,6 @@ breadcrumbs:
 date: 2017-10-05
 dateModified: 2023-05-17
 description: "Guidance about using the language toggle on Canada.ca. Government of Canada content is available in both official languages. A language toggle in the global header provides access to the corresponding page in the other official language."
-layout: default
 title: "Language toggle"
 ---
 <div class="row">
