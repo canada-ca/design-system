@@ -47,19 +47,19 @@ title: "Breadcrumb trail"
   <h2 id="content">Content and design</h2>
   <p>Find content and design specifications and visual examples.</p>
   <h3>Content specifications</h3>
-    <p>Align the breadcrumb trail to the left directly below the menu button (or the divider line if there is no menu button)</p>
-  <p>Use “Canada.ca” as the text of the first breadcrumb link on standard and campaign pages</p>
+    <p>Align the breadcrumb trail to the left directly below the menu button (or the divider line if there is no menu button).</p>
+  <p>Use “Canada.ca” as the text of the first breadcrumb link on standard and campaign pages.</p>
       <ul>
-        <li>Link to the Canada.ca home page in the language of the current page</li>
+        <li>Link to the Canada.ca home page in the language of the current page.</li>
       </ul>
-    <p>You can use either “Home” or the name of the process or application as the text of the first breadcrumb link on transactional pages that use a breadcrumb trail</p>
+    <p>You can use either “Home” or the name of the process or application as the text of the first breadcrumb link on transactional pages that use a breadcrumb trail.</p>
       <ul>
-        <li>Link to the starting page of the process or the landing page of the application</li>
+        <li>Link to the starting page of the process or the landing page of the application.</li>
       </ul>
-    <p>Use a single right chevron icon to separate each breadcrumb link</p>
-  <p>Reflect the title of the page in the breadcrumb label</p>
+    <p>Use a single right chevron icon to separate each breadcrumb link.</p>
+  <p>Reflect the title of the page in the breadcrumb label.</p>
       <ul>
-        <li>Shorten breadcrumb labels where possible to improve readability and reduce space</li>
+        <li>Shorten breadcrumb labels where possible to improve readability and reduce space.</li>
       </ul>
   <p>For example, these breadcrumbs:</p>
 </div>
@@ -72,13 +72,9 @@ title: "Breadcrumb trail"
 </div>
 <div class="cnt-wdth-lmtd">
   <h4>Accessibility</h4>
-  <ul>
-    <li>Include “You are here:” as invisible help text</li>
-  </ul>
+    <p>Include “You are here:” as invisible help text.</p>
   <h4>Interactions</h4>
-  <ul>
-    <li>When selected, each breadcrumb should bring the user to a unique page</li>
-  </ul>
+    <p>When selected, each breadcrumb should bring the user to a unique page.</p>
   <h3>Design specifications</h3>
   <p>Design specifications for the breadcrumbs are:</p>
   <ul>
@@ -104,9 +100,9 @@ title: "Breadcrumb trail"
     <li>Icon: glyphicon-chevron-right</li>
   </ul>
   <h4>Accessibility</h4>
-  <p>Code breadcrumbs as an ordered list</p>
+  <p>Code breadcrumbs as an ordered list.</p>
   <h4>Breadcrumb structure</h4>
-  <p>Here are some examples of breadcrumbs for different locations on Canada.ca</p>
+  <p>Here are some examples of breadcrumbs for different locations on Canada.ca:</p>
 </div>
 <h5 class="mrgn-tp-lg">Theme pages, institutional and organizational pages</h5>
 <div class="container">
