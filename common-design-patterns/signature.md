@@ -47,11 +47,9 @@ title: "Government of Canada signature"
 <h2 id="content">Content and design</h2>
 <p>Find content and design specifications and visual examples.</p>
 <h3>Content specifications</h3>
-<ul>
-  <li>The Government of Canada signature appears in the top-left corner of the page</li>
-  <li>The signature is composed of the flag symbol in Federal Identity Policy red, followed by the words Government of Canada in English and Gouvernement du Canada in French, both in black text</li>
-  <li>The signature must appear as English first on English pages and French first on French pages</li>
-</ul>
+  <p>The Government of Canada signature appears in the top-left corner of the page</p>
+  <p>The signature is composed of the flag symbol in Federal Identity Policy red, followed by the words Government of Canada in English and Gouvernement du Canada in French, both in black text</p>
+  <p>The signature must appear as English first on English pages and French first on French pages</p>
 <h4>Accessibility</h4>
 <p>Include Government of Canada as alt text on the English side, Gouvernement du Canada as alt text on the French side.</p>
 <h4>Interactions</h4>
