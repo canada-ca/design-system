@@ -43,7 +43,7 @@ A Custom Task List includes the ability for branching (i.e. creating sub-tasks) 
 
 2.  **Submit a request through the Principal Publisher Service Desk and attach the completed template**
 
-    [Submit a Service Desk request](http://requestform.portal.gc.ca/tickets.html) (internal only)
+    [Submit a Service Desk request](https://requestform.portal.gc.ca/tickets.html) (internal only)
 
     Select the following categories from the drop-down menus when submitting the request:
 

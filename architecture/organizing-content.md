@@ -43,7 +43,7 @@ title: "Organizing content on Canada.ca"
       <details>
         <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Text version</summary>
         <p>People who may not understand the operations or organization of the Government of Canada (GC) may access content through theme navigation. Theme pages organize topics in a way that people understand so they can find content that supports their tasks quickly. Theme pages link to topic pages and/or destination content. Topic pages allow people to discover top-task content related to a specific GC-wide topic. They also link to destination content.
-          
+
           People can also access content through institutional navigation. This navigation is intended for people who are accustomed to dealing with specific institutions. An Institutional/Organizational profile presents all timely and relevant content offered by an institution. It then leads people to either theme or topic pages, or directly into destination content. Destination content is about services or information, program and policy development, news, campaigns and promotions, or corporate information.</p>
       </details>
     </figure>
@@ -231,7 +231,7 @@ title: "Organizing content on Canada.ca"
           <li>vanity URL for print:  canada.ca/employment-insurance-maternity </li>
           <li>vanity URL for television or radio:  canada.ca/employmentinsurancematernity (spoken “canada dot c a slash employment  insurance maternity”) </li>
         </ul>
-        <p><strong>Note</strong>: your account manager can submit new vanity URLs and change requests to the Principal Publisher using the <a href="http://requestform.portal.gc.ca/tickets.html">Request form for Canada.ca</a>. </p>
+        <p><strong>Note</strong>: your account manager can submit new vanity URLs and change requests to the Principal Publisher using the <a href="https://requestform.portal.gc.ca/tickets.html">Request form for Canada.ca</a>. </p>
       </section>
       <h3>Sub-domains</h3>
       <p>Only use subdomains for content or services hosted outside the Managed Web Service.</p>
@@ -248,7 +248,7 @@ title: "Organizing content on Canada.ca"
           </ul>
         </li>
       </ul>
-      <p><strong>Note</strong>: your account manager can submit new Canada.ca sub-domains and change requests to the Principal Publisher using the <a href="http://requestform.portal.gc.ca/tickets.html">Request form for Canada.ca</a>. Sub-domain requests are reviewed by the Treasury Board of Canada Secretariat. </p>
+      <p><strong>Note</strong>: your account manager can submit new Canada.ca sub-domains and change requests to the Principal Publisher using the <a href="https://requestform.portal.gc.ca/tickets.html">Request form for Canada.ca</a>. Sub-domain requests are reviewed by the Treasury Board of Canada Secretariat. </p>
     </section>
   </section>
 </section>

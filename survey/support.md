@@ -53,7 +53,7 @@ Contact the Principal Publisher for questions related to:
 * suggesting changes to the survey design (questions, functionality)
 * feedback analysis
 
-[Submit a Service Desk request (internal only)](http://requestform.portal.gc.ca/tickets.html) using the following categories from the drop-down menus:
+[Submit a Service Desk request (internal only)](https://requestform.portal.gc.ca/tickets.html) using the following categories from the drop-down menus:
 
 <table class="table wb-tables table-striped">
     <caption></caption>
