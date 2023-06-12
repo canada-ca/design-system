@@ -47,25 +47,20 @@ title: "Breadcrumb trail"
   <h2 id="content">Content and design</h2>
   <p>Find content and design specifications and visual examples.</p>
   <h3>Content specifications</h3>
-  <ul>
-    <li>Align the breadcrumb trail to the left directly below the menu button (or the divider line if there is no menu button)</li>
-    <li>Use “Canada.ca” as the text of the first breadcrumb link on standard and campaign pages
+    <p>Align the breadcrumb trail to the left directly below the menu button (or the divider line if there is no menu button)</p>
+  <p>Use “Canada.ca” as the text of the first breadcrumb link on standard and campaign pages</p>
       <ul>
         <li>Link to the Canada.ca home page in the language of the current page</li>
       </ul>
-    </li>
-    <li>You can use either “Home” or the name of the process or application as the text of the first breadcrumb link on transactional pages that use a breadcrumb trail
+    <p>You can use either “Home” or the name of the process or application as the text of the first breadcrumb link on transactional pages that use a breadcrumb trail</p>
       <ul>
         <li>Link to the starting page of the process or the landing page of the application</li>
       </ul>
-    </li>
-    <li>Use a single right chevron icon to separate each breadcrumb link</li>
-    <li>Reflect the title of the page in the breadcrumb label
+    <p>Use a single right chevron icon to separate each breadcrumb link</p>
+  <p>Reflect the title of the page in the breadcrumb label</p>
       <ul>
         <li>Shorten breadcrumb labels where possible to improve readability and reduce space</li>
       </ul>
-    </li>
-  </ul>
   <p>For example, these breadcrumbs:</p>
 </div>
 <div class="container">
