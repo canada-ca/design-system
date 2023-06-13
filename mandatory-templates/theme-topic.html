@@ -343,188 +343,165 @@
 									<summary>CSS</summary>
 									<pre><code>
 
-.provisional.profile {
-	position: relative;
-	overflow-x: hidden;
-}
+	.provisional.gc-topic-bg div {
+		background: no-repeat;
+		margin-left: -15px;
+		min-height: 200px;
+		overflow: hidden;
+		width: calc(50vw - 15px);
+	}
+	
+	.provisional.gc-most-requested {
+		border: none;
+	}
+	
+	.provisional.gc-most-requested h2 {
+		font-size: 1.1em;
+		margin-top: 15px;
+	}
+	
+	.provisional.gc-most-requested ul {
+		margin-bottom: 15px;
+		margin-top: 15px;
+	}
+	
+	.provisional.gc-most-requested ul li {
+		font-family: Lato,sans-serif;
+		font-size: 87%;
+		font-weight: 700;
+		line-height: 1.5em;
+	}
 
-.provisional.profile .pagetag {
-	max-width: 65ch;
-}
-
-.provisional.single-feature figcaption {
-	margin-top: 5px;
-	text-decoration: underline;
-}
-
-.provisional .thumbnail {
-	border-color: #335075;
-	border-width: 1px;
-	padding: 0px;
-}
-
-.provisional.contributors {
-	font-size: 16px;
-	font-weight: 600;
-}
-
-.provisional.from {
-	font-size: 17px;
-	margin-top: 7px;
-}
-
-.provisional.contributors ul {
-	margin-block-start: 0em;
-	margin-block-end: 0em;
-	margin-inline-start: -50px;
-	margin-inline-end: 0px;
-	padding-inline-start: 0px;
-}
-
-.provisional.most-requested-bullets li {
-	font-family: 'Lato', sans-serif;
-	font-size: 17px;
-	font-weight: 600;
-	line-height: 26px;
-	margin-top: 0
-}
-
-.provisional.most-requested-bullets .pddng-r-0 {
-	padding-right: 0px;
-}
-
-.provisional.most-requested-bullets h2 {
-	font-size: 1.2em;
-}
-
-.provisional.list-bld {
-	font-weight: 600;
-}
-
-.provisional.followus h2 {
-	font-size: 1.1em;
-	margin-top: 10px;
-}
-
-.provisional.followus {
-	padding: 0;
-}
-
-.provisional.followus h2 {
-	display: block;
-}
-
-.provisional.followus h2,
-.provisional.followus ul {
-	margin-left: 0;
-}
-
-.provisional.followus-vertical {
-	line-height: 0em;
-}
-
-.provisional.followus-vertical,
-.provisional.followus {
-	background-color: transparent;
-}
-
-.provisional.followus-vertical a {
-	text-decoration: none;
-}
-
-.provisional.followus-vertical ul {
-	display: block;
-	list-style-type: none;
-	margin-block-start: 1em;
-	padding-inline-start: 1em;
-	font-size: 16px;
-	margin-block-end: 0em;
-}
-
-.provisional.followus-vertical ul li {
-	margin-bottom: 15px;
-}
-
-.provisional.followus-vertical ul li:last-child {
-	margin-bottom: 0px;
-}
-
-.provisional.followus-vertical ul li a {
-	border: none;
-	padding: 0px 5px;
-}
-
-.provisional.followus ul li a {
-	border: none;
-}
-
-.provisional .social-lnk {
-	position: relative;
-	bottom:-18px;
-	left:45px;
-}
-
-.provisional.followus-vertical li {
-	display: block;
-	background-position: left;
-}
-
-.provisional.followus .facebook,
-.provisional.followus .twitter,
-.provisional.followus .youtube,
-.provisional.followus .instagram {
-	display: block;
-	height: 38px;
-	width: 38px;
-}
-/* remove this section if you do not want the new icons */
-
-.provisional.followus .facebook {
-	background: url("https://design.canada.ca/images/social-media/facebook.png") 0 0 / cover no-repeat;
-}
-.provisional.followus .twitter {
-	background: url("https://design.canada.ca/images/social-media/twitter.png") 0 0 / cover no-repeat;
-}
-.provisional.followus .youtube {
-	background: url("https://design.canada.ca/images/social-media/youtube.png") 0 0 / cover no-repeat;
-}
-.provisional.followus .instagram {
-	background: url("https://design.canada.ca/images/social-media/instagram.png") 0 0 / cover no-repeat;
-}
-.provisional.followus .linkedin {
-	background: url("https://design.canada.ca/images/social-media/linkedin.png") 0 0 / cover no-repeat;
-}
-/* end of new social media icons */
-
-@media screen and (min-width: 991px) {
-	.provisional.contributors li {
+	.provisional.gc-followus .facebook::before,.provisional.gc-followus .instagram::before,.provisional.gc-followus .linkedin::before,.provisional.gc-followus .twitter::before,.provisional.gc-followus .youtube::before {
+		background-repeat: no-repeat;
+		background-size: cover;
+		content: "";
+		height: 38px;
+		margin-right: 10px;
+		min-width: 38px
+	}
+	
+	.provisional.gc-followus h2 {
+		font-size: 1.1em
+	}
+	
+	.provisional.gc-followus ul {
+		display: block;
+		font-size: 87%;
+		font-weight: 700;
+		list-style: none;
+		-webkit-margin-before: 1em;
+		margin-block-start:1em;-webkit-padding-start: calc(1em + 6px);
+		padding-inline-start:calc(1em + 6px)}
+	
+	.provisional.gc-followus ul li {
+		margin-bottom: 21px
+	}
+	
+	.provisional.gc-followus ul li:last-child {
+		margin-bottom: 15px
+	}
+	
+	.provisional.gc-followus ul li a {
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: flex;
+		line-height: 1.54;
+		max-width: -webkit-max-content;
+		max-width: -moz-max-content;
+		max-width: max-content;
+		text-decoration: none
+	}
+	
+	.provisional.gc-followus ul li a::before {
+		margin-right: 10px;
+		margin-top: -6px
+	}
+	
+	.provisional.gc-followus ul li a:active,.provisional.gc-followus ul li a:focus,.provisional.gc-followus ul li a:hover {
+		text-decoration: underline
+	}
+	
+	.provisional.gc-followus ul.list-inline {
+		-webkit-padding-start: 0;
+		padding-inline-start:0}
+	
+	.provisional.gc-followus ul.list-inline li {
 		display: inline-block;
-		margin-right: .7em;
+		padding-right: 0
 	}
-	.provisional.contributors li:first-child:before {
-		content: none;
+	
+	.provisional.gc-followus ul.list-inline li a {
+		height: 38px;
+		overflow: hidden;
+		width: 38px
 	}
-	.provisional.contributors li:before {
-		content: "\2022";
-		margin-right: .7em;
+	
+	.provisional.gc-followus ul.list-inline li a::before {
+		margin-top: 0
 	}
-}
+	
+	.provisional.gc-followus ul.list-inline li a:active,.provisional.gc-followus ul.list-inline li a:focus,.provisional.gc-followus ul.list-inline li a:hover {
+		outline: solid 2px #0535d2
+	}
+	
+	.provisional.gc-followus .facebook::before {
+		background-image: url(../assets/gc-follow-us/facebook.svg)
+	}
+	
+	.provisional.gc-followus .twitter::before {
+		background-image: url(../assets/gc-follow-us/twitter.svg)
+	}
+	
+	.provisional.gc-followus .youtube::before {
+		background-image: url(../assets/gc-follow-us/youtube.svg)
+	}
+	
+	.provisional.gc-followus .instagram::before {
+		background-image: url(../assets/gc-follow-us/instagram.svg)
+	}
+	
+	.provisional.gc-followus .linkedin::before {
+		background-image: url(../assets/gc-follow-us/linkedin.svg)
+	}
+	
+	.provisional.gc-contributors {
+		margin-top: 38px
+	}
 
-@media screen and (max-width: 1200px) {
-	.provisional.contributors ul {
-		margin-inline-start: -30px;
+	.provisional.gc-contributors h2,.provisional.gc-contributors ul {
+		display: inline;
+		font-size: 87%;
+		margin-top: 0
 	}
-}
 
-@media screen and (max-width: 991px) {
-	.provisional.most-requested-bullets li {
-		font-size: 19px;
-	}
-	.provisional.contributors ul {
-		margin-inline-start: 1.5em;
-	}
-}
+	.provisional.gc-contributors ul {
+		-webkit-padding-start: 0;
+		padding-inline-start:0}
 
+	.provisional.gc-contributors ul li {
+		display: inline-block;
+		font-weight: 700;
+		margin-right: .7em
+	}
+	
+	@media screen and (max-width: 991px)
+	.provisional.gc-contributors ul {
+		-webkit-padding-start: 20px;
+		padding-inline-start: 20px;
+	}
+	
+	@media screen and (max-width: 991px)
+	.provisional.gc-contributors h2, .provisional.gc-contributors ul {
+		display: block;
+	}
+	
+	@media screen and (max-width: 991px)
+	.provisional.gc-contributors ul li {
+		display: list-item;
+		margin-right: 0;
+	}
+	
 </code></pre>
 								</details>
 							</div>
