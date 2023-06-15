@@ -29,7 +29,6 @@ defaults:
         - /css/split-h1.css
         - https://use.fontawesome.com/releases/v5.15.4/css/all.css
       pageclass: cnt-wdth-lmtd
-      layout: default
   - scope:
       path: "survey"
     values:
@@ -60,3 +59,24 @@ defaults:
           link: https://www.canada.ca/en/government/about/design-system.html
         - title: Template and pattern library for Canada.ca
           link: https://www.canada.ca/en/government/about/design-system/pattern-library.html
+      css:
+        - ../css/blog.css
+        - ../css/custom.css
+      layout: default
+  - scope:
+      path: "common-design-patterns/global-header/"
+    values:
+      breadcrumbs:
+        - title: About Canada.ca
+          link: https://www.canada.ca/en/government/about.html
+        - title: Canada.ca design system
+          link: https://www.canada.ca/en/government/about/design-system.html
+        - title: Template and pattern library for Canada.ca
+          link: https://www.canada.ca/en/government/about/design-system/pattern-library.html
+        - title: Global header
+          link: "https://design.canada.ca/common-design-patterns/global-header.html"
+      css:
+        - ../../css/blog.css
+        - ../../css/custom.css
+      layout: default
+      permalink: /common-design-patterns/:basename:output_ext

@@ -1,14 +1,5 @@
 ---
 altLangPage: "https://conception.canada.ca/configurations-conception-communes/fil-ariane.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca design system
-    link: "https://www.canada.ca/en/government/about/design-system.html"
-  - title: Template and pattern library
-    link: "https://www.canada.ca/en/government/about/design-system/pattern-library.html"    
-  - title: Global header
-    link: "https://design.canada.ca/common-design-patterns/global-header.html"
 date: 2017-10-05
 dateModified: 2023-05-17
 description: "Guidance about using the language toggle on Canada.ca. Government of Canada content is available in both official languages. A language toggle in the global header provides access to the corresponding page in the other official language."
@@ -17,14 +8,14 @@ title: "Language toggle"
 <div class="row">
   <div class="col-md-12 pull-left">
     <ul class="list-inline small mrgn-bttm-sm" id="list-inline-desktop-only">
-      <li class="mrgn-rght-lg"> Last updated: YYYY-MM-DD</li>
+      <li class="mrgn-rght-lg"> Last updated: {{ page.dateModified }}</li>
     </ul>
   </div>
 </div>
 <p><span class="label label-danger">Mandatory</span></p>
 <p>All public-facing Government of Canada content is available in both official languages. A language toggle in the global header provides access to the corresponding page in the other official language.</p>
 <div class="pattern-demo mrgn-tp-lg">
-  <figure class="mrgn-bttm-sm"><img src="../images/01-lang-toggle-en.png" class="img-responsive" alt=""></figure>
+  <figure class="mrgn-bttm-sm"><img src="../../images/01-lang-toggle-en.png" class="img-responsive" alt=""></figure>
 </div>
 <section>
   <h2>On this page</h2>
@@ -94,7 +85,7 @@ title: "Language toggle"
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
     <figcaption><b>Language toggle (English page) - large screen</b></figcaption>
-    <img src="../images/01-lang-toggle-en.png" class="img-responsive" alt="">
+    <img src="../../images/01-lang-toggle-en.png" class="img-responsive" alt="">
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: language toggle (English page) - large screen</summary>
       <p class="mrgn-tp-lg">Standard header of an English Canada.ca page with a highlight of the linked word Français in the top-right corner</p>
@@ -104,7 +95,7 @@ title: "Language toggle"
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
     <figcaption><b>Language toggle (French page) - large screen</b></figcaption>
-    <img src="../images/01-lang-toggle-fr.png" class="img-responsive" alt="">
+    <img src="../../images/01-lang-toggle-fr.png" class="img-responsive" alt="">
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: language toggle (French page) - large screen</summary>
       <p class="mrgn-tp-lg">Standard header of a French Canada.ca page with a highlight of the linked word English in the top-right corner</p>
@@ -114,7 +105,7 @@ title: "Language toggle"
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
     <figcaption><b>Language toggle (English page) - small screen</b></figcaption>
-    <img src="../images/01-lang-toggle-sm-en.png" class="img-responsive" alt="">
+    <img src="../../images/01-lang-toggle-sm-en.png" class="img-responsive" alt="">
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: language toggle - small screen</summary>
       <p class="mrgn-tp-lg">Standard header of an English Canada.ca page with a highlight of the linked abbreviation FR in the top-right corner</p>
@@ -124,7 +115,7 @@ title: "Language toggle"
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
     <figcaption><b>Language toggle (French page) - small screen</b></figcaption>
-    <img src="../images/01-lang-toggle-sm-fr.png" class="img-responsive" alt="">
+    <img src="../../images/01-lang-toggle-sm-fr.png" class="img-responsive" alt="">
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: Language toggle (French page) - small screen</summary>
       <p class="mrgn-tp-lg">Standard header of a French Canada.ca page with a highlight of the linked abbreviation EN in the top-right corner</p>
@@ -184,7 +175,7 @@ title: "Language toggle"
   <h2 id="changes">Latest changes</h2>
   <dl class="dl-horizontal">
     <dt>
-      <time datetime="2023-MM-DD" class="link-muted">2023-MM-DD</time>
+      <time>2023-MM-DD</time>
     </dt>
     <dd>Updated the guidance to include advice on what to avoid, content and design specifications, visual examples, implementation guidance, and policy rationale</dd>
   </dl>
