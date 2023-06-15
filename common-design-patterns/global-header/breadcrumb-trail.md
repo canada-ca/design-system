@@ -1,23 +1,14 @@
 ---
 altLangPage: "https://conception.canada.ca/configurations-conception-communes/fil-ariane.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca design system
-    link: "https://www.canada.ca/en/government/about/design-system.html"
-  - title: Template and pattern library
-    link: "https://www.canada.ca/en/government/about/design-system/pattern-library.html"    
-  - title: Global header
-    link: "https://design.canada.ca/common-design-patterns/global-header.html"
 date: 2017-10-05
 dateModified: 2023-05-17
-description: "Guidance about using breadcrumbs on Canada.ca. The breadcrumb trail provides a series of navigational links that gives people a sense of where they are in relation to the site structure."
+description: "Guidance for using breadcrumbs on Canada.ca - a navigational tool that shows where users are in the site structure."
 title: "Breadcrumb trail"
 ---
 <div class="row">
   <div class="col-md-12 pull-left">
     <ul class="list-inline small mrgn-bttm-sm" id="list-inline-desktop-only">
-      <li class="mrgn-rght-lg"> Last updated: YYYY-MM-DD</li>
+      <li class="mrgn-rght-lg"> Last updated: {{ page.dateModified }}</li>
     </ul>
   </div>
 </div>
@@ -25,7 +16,7 @@ title: "Breadcrumb trail"
   <p><span class="label label-danger">Mandatory on standard and campaign pages</span></p>
   <p>The breadcrumb trail is a horizontal series of links that gives people a sense of where they are in relation to Canada.ca’s navigation model.  It represents the location of a page in relation to its parent and provides a clear way to navigate to higher levels in the site structure.</p>
   <div class="pattern-demo mrgn-tp-lg">
-    <figure class="mrgn-bttm-sm"><img src="../images/01-breadcrumbs-main-en.png" class="img-responsive" alt=""></figure>
+    <figure class="mrgn-bttm-sm"><img src="../../images/01-breadcrumbs-main-en.png" class="img-responsive" alt=""></figure>
   </div>
   <section>
     <h2>On this page</h2>
@@ -149,7 +140,7 @@ title: "Breadcrumb trail"
   <div class="pattern-demo mrgn-tp-lg">
     <figure>
       <figcaption><b>Global header with breadcrumb trail  - large screen</b></figcaption>
-      <img src="../images/01-breadcrumbs-main-en.png" class="img-responsive" alt=" ">
+      <img src="../../images/01-breadcrumbs-main-en.png" class="img-responsive" alt=" ">
       <details class="mrgn-tp-md">
         <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: global header with breadcrumb trail  - large screen</summary>
         <p class="mrgn-tp-lg">The breadcrumbs appear under the menu button in a horizontal line.</p>
@@ -159,7 +150,7 @@ title: "Breadcrumb trail"
   <div class="pattern-demo mrgn-tp-lg">
     <figure>
       <figcaption><b>Global header – small screen</b></figcaption>
-      <img src="../images/01-breadcrumbs-sm-en.png" class="img-responsive" alt=" ">
+      <img src="../../images/01-breadcrumbs-sm-en.png" class="img-responsive" alt=" ">
       <details class="mrgn-tp-md">
         <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: global header with breadcrumb trail  - small screen</summary>
         <p class="mrgn-tp-lg">The breadcrumbs appear under the menu button.</p>
@@ -226,7 +217,7 @@ title: "Breadcrumb trail"
     <h2 id="changes">Latest changes</h2>
     <dl class="dl-horizontal">
       <dt>
-        <time datetime="2023-MM-DD" class="link-muted">2023-MM-DD</time>
+        <time>2023-MM-DD</time>
       </dt>
       <dd>Updated the guidance to include advice on what to avoid, content and design specifications, visual examples, implementation guidance, research findings and policy rationale</dd>
     </dl>

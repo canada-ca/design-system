@@ -1,14 +1,5 @@
 ---
 altLangPage: "https://conception.canada.ca/configurations-conception-communes/champ-recherche.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca design system
-    link: "https://www.canada.ca/en/government/about/design-system.html"
-  - title: Template and pattern library
-    link: "https://www.canada.ca/en/government/about/design-system/pattern-library.html"    
-  - title: Global header
-    link: "https://design.canada.ca/common-design-patterns/global-header.html" 
 date: 2017-10-05
 dateModified: 2023-05-17
 description: "Guidance about using the site search box on Canada.ca. The site search box allows people to search Government of Canada content. It appears in the global header across Canada.ca."
@@ -17,7 +8,7 @@ title: "Site search box"
 <div class="row">
   <div class="col-md-12 pull-left">
     <ul class="list-inline small mrgn-bttm-sm" id="list-inline-desktop-only">
-      <li class="mrgn-rght-lg"> Last updated: YYYY-MM-DD</li>
+      <li class="mrgn-rght-lg"> Last updated: {{ page.dateModified }}</li>
     </ul>
   </div>
 </div>
@@ -25,7 +16,7 @@ title: "Site search box"
 <p>The site search box is an element of the global header. It allows people to search Government of Canada content using a simple search field.</p>
 <p>Results for site search are at the level of all Government of Canada web content, or a subset of content at the department or agency level.</p>
 <div class="pattern-demo mrgn-tp-lg">
-  <figure class="mrgn-bttm-sm"><img src="../images/01-site-search-en.png" class="img-responsive" alt=""></figure>
+  <figure class="mrgn-bttm-sm"><img src="../../images/01-site-search-en.png" class="img-responsive" alt=""></figure>
 </div>
 <section>
   <h2>On this page</h2>
@@ -81,7 +72,7 @@ title: "Site search box"
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
     <figcaption><b>Site search box - large screen</b></figcaption>
-    <img src="../images/01-site-search-en.png" class="img-responsive" alt=" ">
+    <img src="../../images/01-site-search-en.png" class="img-responsive" alt=" ">
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: site search box - large screen</summary>
       <p class="mrgn-tp-lg">The search box appears in the top-right corner, underneath the language toggle and directly across from the Government of Canada signature. </p>
@@ -92,7 +83,7 @@ title: "Site search box"
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
     <figcaption><b>Site search box- small screen</b></figcaption>
-    <img src="../images/01-site-search-sm-en.png" class="img-responsive" alt=" ">
+    <img src="../../images/01-site-search-sm-en.png" class="img-responsive" alt=" ">
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: site search box - small screen</summary>
       <p class="mrgn-tp-lg">The search box appears in the header, directly below the Government of Canada signature and the language toggle. It spans across the screen.</p>
@@ -155,7 +146,7 @@ title: "Site search box"
   <h2 id="changes">Latest changes</h2>
   <dl class="dl-horizontal">
     <dt>
-      <time datetime="2023-MM-DD" class="link-muted">2023-MM-DD</time>
+      <time>2023-MM-DD</time>
     </dt>
     <dd>Updated the guidance to include advice on what to avoid, content and design specifications, visual examples, implementation guidance, support for search configuration, and policy rationale</dd>
   </dl>

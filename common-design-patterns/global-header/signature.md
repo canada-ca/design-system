@@ -1,14 +1,5 @@
 ---
 altLangPage: "https://conception.canada.ca/configurations-conception-communes/fil-ariane.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca design system
-    link: "https://www.canada.ca/en/government/about/design-system.html"
-  - title: Template and pattern library
-    link: "https://www.canada.ca/en/government/about/design-system/pattern-library.html"    
-  - title: Global header
-    link: "https://design.canada.ca/common-design-patterns/global-header.html"
 date: 2017-10-05
 dateModified: 2023-05-17
 description: "Guidance about using the Government of Canada signature on Canada.ca. The signature is an official symbol of the Government of Canada. It always appears in the global header across Canada.ca."
@@ -17,7 +8,7 @@ title: "Government of Canada signature"
 <div class="row">
   <div class="col-md-12 pull-left">
     <ul class="list-inline small mrgn-bttm-sm" id="list-inline-desktop-only">
-      <li class="mrgn-rght-lg"> Last updated: YYYY-MM-DD</li>
+      <li class="mrgn-rght-lg"> Last updated: {{ page.dateModified }}</li>
     </ul>
   </div>
 </div>
@@ -25,7 +16,7 @@ title: "Government of Canada signature"
 <p>The Government of Canada signature is a mandatory element of the global header. The signature is an official symbol of the Government of Canada. It combines the flag symbol and “Government of Canada” in both official languages.</p>
 <p>The Government of Canada signature helps users identify that the page they are on belongs to the Government of Canada.</p>
 <div class="pattern-demo mrgn-tp-lg">
-  <figure class="mrgn-bttm-sm"><img src="../images/01-sig-en.png" class="img-responsive" alt=""></figure>
+  <figure class="mrgn-bttm-sm"><img src="../../images/01-sig-en.png" class="img-responsive" alt=""></figure>
 </div>
 <section>
   <h2>On this page</h2>
@@ -69,7 +60,7 @@ title: "Government of Canada signature"
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
     <figcaption><b>Government of Canada signature - large screen</b></figcaption>
-    <img src="../images/01-sig-en.png" class="img-responsive" alt="">
+    <img src="../../images/01-sig-en.png" class="img-responsive" alt="">
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: Government of Canada signature - large screen</summary>
       <p class="mrgn-tp-lg">The Government of Canada signature is in the top-left corner of the website. It is composed of the flag symbol in red, followed by the words <strong>Government of Canada</strong> in English and <strong>Gouvernement du Canada</strong> in French, both in black text.</p>
@@ -79,7 +70,7 @@ title: "Government of Canada signature"
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
     <figcaption><b>Government of Canada signature - small screen</b></figcaption>
-    <img src="../images/01-sig-sm-en.png" class="img-responsive" alt="">
+    <img src="../../images/01-sig-sm-en.png" class="img-responsive" alt="">
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: Government of Canada signature - small screen</summary>
       <p class="mrgn-tp-lg">The Government of Canada signature is in the top-left corner of the website. It is composed of the flag symbol in red, followed by the words <strong>Government of Canada</strong> in English and <strong>Gouvernement du Canada</strong> in French, both in black text.</p>
@@ -139,7 +130,7 @@ title: "Government of Canada signature"
 <h2 id="changes">Latest changes</h2>
 <dl class="dl-horizontal">
   <dt>
-    <time datetime="2023-MM-DD" class="link-muted">2023-MM-DD</time>
+    <time>2023-MM-DD</time>
   </dt>
   <dd>Updated the guidance to include advice on what to avoid, content and design specifications, visual examples, implementation guidance, research findings and policy rationale</dd>
 </dl>
