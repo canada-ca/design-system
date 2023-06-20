@@ -1,14 +1,5 @@
 ---
 altLangPage: "https://conception.canada.ca/configurations-conception-communes/pied-page-principale.html"
-breadcrumbs:
-  - title: About Canada.ca
-    link: "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca design system
-    link: "https://www.canada.ca/en/government/about/design-system.html"
-  - title: Template and pattern library
-    link: "https://www.canada.ca/en/government/about/design-system/pattern-library.html"
-  - title: Global footer
-    link: "https://design.canada.ca/common-design-patterns/site-footer.html"
 date: 2022-11-30
 dateModified: 2023-04-06
 description: "The requirements listed in this design manual apply to departments and other portions of the federal public administration as set out in Schedules I, I.1 and II of the Financial Administration Act. As such, in-scope institutions must apply Canada.ca design requirements for all public-facing web sites or digital services."
