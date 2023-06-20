@@ -81,7 +81,7 @@ title: "Site search box"
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
     <figcaption><b>Site search box - large screen</b></figcaption>
-    <img src="../images/01-site-search-en.png" class="img-responsive" alt=" ">
+    <img src="../../images/01-site-search-en.png" class="img-responsive" alt=" ">
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: site search box - large screen</summary>
       <p class="mrgn-tp-lg">The search box appears in the top-right corner, underneath the language toggle and directly across from the Government of Canada signature. </p>
@@ -92,7 +92,7 @@ title: "Site search box"
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
     <figcaption><b>Site search box- small screen</b></figcaption>
-    <img src="../images/01-site-search-sm-en.png" class="img-responsive" alt=" ">
+    <img src="../../images/01-site-search-sm-en.png" class="img-responsive" alt=" ">
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: site search box - small screen</summary>
       <p class="mrgn-tp-lg">The search box appears in the header, directly below the Government of Canada signature and the language toggle. It spans across the screen.</p>
