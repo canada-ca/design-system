@@ -22,7 +22,7 @@ title: "Global footer: Main band"
   theme pages within Canada.ca.</p>
 <p><strong>2022 design update</strong>: We’ve recently updated this pattern as part of a new navigation strategy coming
   out of the Wayfinding research project. To find out more about this project, visit the <a href="#research">Research and rationale</a> section on this page.</p>
-<div class="pattern-demo mrgn-tp-lg"><img src="../images/footer-main-crop.jpg" class="img-responsive" alt=""></div>
+<div class="pattern-demo mrgn-tp-lg"><img src="../../images/footer-main-crop.jpg" class="img-responsive" alt=""></div>
 <section>
   <h2>On this page</h2>
   <ul>
@@ -84,7 +84,7 @@ title: "Global footer: Main band"
 <div class="pattern-demo mrgn-bttm-md">
   <figure class="mrgn-bttm-lg">
     <figcaption><b>Main band – large screen</b></figcaption>
-    <img src="../images/footer-main.jpg" class="img-responsive"
+    <img src="../../images/footer-main.jpg" class="img-responsive"
 				alt="Diagram of main band for large screens. Text version below:">
     <details>
       <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Text version</summary>
@@ -95,7 +95,7 @@ title: "Global footer: Main band"
 <div class="pattern-demo">
   <figure class="mrgn-bttm-lg">
     <figcaption><b>Main band – small screen</b></figcaption>
-    <img src="../images/footer-main-mobile.jpg" class="img-responsive"
+    <img src="../../images/footer-main-mobile.jpg" class="img-responsive"
 				alt="Diagram of main band for small screens. Text version below:">
     <details>
       <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Text version</summary>
