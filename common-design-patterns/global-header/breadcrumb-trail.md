@@ -1,14 +1,5 @@
 ---
 altLangPage: "https://conception.canada.ca/configurations-conception-communes/fil-ariane.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca design system
-    link: "https://www.canada.ca/en/government/about/design-system.html"
-  - title: Template and pattern library
-    link: "https://www.canada.ca/en/government/about/design-system/pattern-library.html"    
-  - title: Global header
-    link: "https://design.canada.ca/common-design-patterns/global-header.html"
 date: 2017-10-05
 dateModified: 2023-05-17
 description: "Guidance about using breadcrumbs on Canada.ca. The breadcrumb trail provides a series of navigational links that gives people a sense of where they are in relation to the site structure."
