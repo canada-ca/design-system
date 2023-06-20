@@ -1,197 +1,161 @@
 ---
-altLangPage: https://conception.canada.ca/configurations-conception-communes/connexion-contextuel.html
-dateModified: 2023-06-15
-description: The Sign in button directs to authenticated government accounts. It's a persistent call to action in a group of related pages.
-layout: default
-title: Contextual Sign in button
+altLangPage: "https://conception.canada.ca/configurations-conception-communes/champ-recherche.html"
+breadcrumbs:
+  - title: "About Canada.ca"
+    link:  "https://www.canada.ca/en/government/about.html"
+  - title: Canada.ca design system
+    link: "https://www.canada.ca/en/government/about/design-system.html"
+  - title: Template and pattern library
+    link: "https://www.canada.ca/en/government/about/design-system/pattern-library.html"    
+  - title: Global header
+    link: "https://design.canada.ca/common-design-patterns/global-header.html" 
+date: 2017-10-05
+dateModified: 2023-05-17
+description: "Guidance about using the site search box on Canada.ca. The site search box allows people to search Government of Canada content. It appears in the global header across Canada.ca."
+title: "Site search box"
 ---
 <div class="row">
-	<div class="col-md-12 pull-left">
-		<ul class="list-inline small mrgn-bttm-sm" style="line-height:1.65em" id="list-inline-desktop-only">
-			<li class="mrgn-rght-lg"> Last updated: {{ page.dateModified }}</li>
-		</ul>
-	</div>
+  <div class="col-md-12 pull-left">
+    <ul class="list-inline small mrgn-bttm-sm" id="list-inline-desktop-only">
+      <li class="mrgn-rght-lg"> Last updated: YYYY-MM-DD</li>
+    </ul>
+  </div>
+</div>
+<p><span class="label label-danger">Mandatory on standard and campaign pages</span></p>
+<p>The site search box is an element of the global header. It allows people to search Government of Canada content using a simple search field.</p>
+<p>Results for site search are at the level of all Government of Canada web content, or a subset of content at the department or agency level.</p>
+<div class="pattern-demo mrgn-tp-lg">
+  <figure class="mrgn-bttm-sm"><img src="../images/01-site-search-en.png" class="img-responsive" alt=""></figure>
 </div>
 <section>
-	<p>The Sign in button is an optional header element that directs people to government accounts that require authentication. It is a contextual and persistent call to action within a group of related pages.</p>
-	<div class="pattern-demo">
-		<figure class="mrgn-bttm-lg">
-			<figcaption><b>Sign in - large screen</b></figcaption>
-			<img src="../../images/sign-in-desktop-en.jpg" class="img-responsive brdr" alt="Sign in header for large screens">
-		</figure>
-		<figure class="mrgn-bttm-lg">
-			<figcaption><b>Sign in - small screen</b></figcaption>
-			<img src="../../images/sign-in-mobile-en.jpg" class="img-responsive brdr" alt="Sign in header for small screens">
-		</figure>
-	</div>
-</section>
-<section>
-	<h2>On this page</h2>
-	<ul>
-		<li><a href="#when">When to use</a></li>
-		<li><a href="#avoid">What to avoid</a></li>
-		<li><a href="#content">Content and design</a></li>
-		<li><a href="#how">How to implement</a></li>
-		<li><a href="#research">Research and rationale</a></li>
-		<li><a href="#latest">Latest changes</a></li>
-	</ul>
-</section>
-<section>
-	<h2 id="when">When to use</h2>
-	<p>Add the Sign in button when signing in to an account is a key task within a series of pages. This includes:</p>
-	<ul>
-		<li>pages where there is already a link or button to an account or accounts</li>
-		<li>a set of pages that support a specific service (such as Employment insurance, GST)</li>
-		<li>pages where analytics show people are using the menu or the search bar to access an account</li>
-	</ul>
-	<p>You can use the Sign in button in addition to a supertask button on the same page. If you have an existing super task button, don't remove it. Instead, add the Sign in button. You may see changes in use over time in your analytics that show that you can remove the super task button.</p>
-</section>
-<section>
-	<h2 id="avoid">What to avoid</h2>
-	<ul>
-		<li>Use Sign in, not Log in</li>
-		<li>Exclude the Sign in button from:
-			<ul>
-				<li>account-chooser pages or sign-in process pages</li>
-				<li>pages that aren't related to the authenticated service</li>
-			</ul>
-		</li>
-	</ul>
-</section>
-<section>
-	<h2 id="content">Content and design</h2>
-	<p>Find content and design specifications and visual examples.</p>
-	<h3>Content specifications</h3>
-	<p>Use “Sign in” as the label</p>
+  <h2>On this page</h2>
   <ul>
-    <li><b>Small screens</b>: total of 12 characters including spaces (no additional descriptive text)</li>
-    <li><b>Large/medium screens</b>: total of 25 characters including spaces (for additional descriptive text if needed, such as “Sign in to [account name]”)</li>
+    <li><a href="#when">When to use</a></li>
+    <li><a href="#avoid">What to avoid</a></li>
+    <li><a href="#content">Content and design</a></li>
+    <li><a href="#implementation">How to implement</a></li>
+    <li><a href="#research">Research and rationale</a></li>
+    <li><a href="#changes">Latest changes</a></li>
   </ul>
 </section>
-<section>
-	<h3>Interactions</h3>
-	<p>Link the Sign in button directly to the page where you begin your sign-in process, or to an account-chooser page with the different accounts you can sign in to.</p>
-	<h3>Design specifications</h3>
-	<p>Button structure</p>
-	<ul>
-		<li>Border:
-			<ul>
-				<li>1px solid</li>
-				<li>radius: 0</li>
-			</ul>
-		</li>
-		<li>Font:
-			<ul>
-				<li>weight: 400</li>
-				<li>family: Lato</li>
-				<li>size: 16px</li>
-				<li>colour: #fff</li>
-			</ul>
-		</li>
-		<li>Margin:
-			<ul>
-				<li>top margin: 5px</li>
-				<li>other margins: 0px</li>
-			</ul>
-		</li>
-		<li>Padding:
-			<ul>
-				<li>top: 10px</li>
-				<li>bottom: 10px</li>
-				<li>left: 14px</li>
-				<li>right: 14px</li>
-			</ul>
-		</li>
-	</ul>
-	<p>Default state</p>
-	<ul>
-		<li>background colour: #26374a</li>
-		<li>border colour: #26374a</li>
-	</ul>
-	<p>Hover state</p>
-	<ul>
-		<li>background colour: #444</li>
-		<li>border colour: #444</li>
-	</ul>
-	<h3> Visual examples</h3>
-	<div class="pattern-demo mrgn-tp-lg">
-		<figure>
-			<figcaption><b>Contextual Sign in button - large screen</b></figcaption>
-			<img src="../../images/sign-in-desktop-en.jpg" class="img-responsive brdr" alt="Sign in header for large screens">
-			<details class="mrgn-tp-md">
-				<summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: Contextual Sign in button - large screen</summary>
-				<p class="mrgn-tp-lg">Standard header of an English Canada.ca page with the Sign in button highlighted</p>
-			</details>
-		</figure>
-	</div>
-	<div class="pattern-demo mrgn-tp-lg">
-		<figure>
-			<figcaption><b>Contextual Sign in button - small screen</b></figcaption>
-			<img src="../../images/sign-in-mobile-en.jpg" class="img-responsive brdr" alt="Sign in header for small screens">
-			<details class="mrgn-tp-md">
-				<summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: Contextual Sign in button - small screen</summary>
-				<p class="mrgn-tp-lg">Standard header of an English Canada.ca page with the Sign in button highlighted</p>
-			</details>
-		</figure>
-	</div>
-</section>
-<section>
-	<h2 id="how">How to implement</h2>
-	<p>Find working examples and code for implementing the header.</p>
-	<h3>GCweb (WET) theme implementation reference</h3>
-	<p>The implementation reference includes how to configure each element of the header.</p>
-	<ul>
-		<li><a href="https://wet-boew.github.io/GCWeb/sites/authentication/authentication-en.html">Authentication patterns</a></li>
-	</ul>
-	<h3>Implementations</h3>
-	<p>Determine what best suits the type of page you're creating.</p>
-	<div class="row">
-		<div class="col-md-8">
-			<div class="wb-tabs mrgn-tp-lg">
-				<div class="tabpanels">
-				<details id="004" open="open">
-					<summary><strong>GC-AEM</strong></summary>
-					<p class="mrgn-tp-lg">For the Government of Canada Adobe Experience Manager (AEM):</p>
-					<ul>
-						<li><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">AEM/Managed Web Service documentation (GCPedia link - only available on the Government of Canada network)</a></li>
-					</ul>
-				</details>
-				<details id="005">
-					<summary><strong>CDTS</strong></summary>
-					<p class="mrgn-tp-lg">For the Centrally Deployed Templates Solution (CDTS):</p>
-					<ul>
-						<li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-en.html">CDTS documentation</a></li>
-					</ul>
-				</details>
-				<details id="006">
-					<summary><strong>Drupal WxT</strong></summary>
-					<p class="mrgn-tp-lg">For Drupal WxT:</p>
-					<ul>
-						<li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</a></li>
-					</ul>
-				</details>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<section>
-	<h2 id="research">Research and rationale</h2>
-	<ul>
-		<li><a href="https://blog.canada.ca/2022/09/23/introducing-contextual-sign-in-button">Introducing the contextual Sign in button</a></li>
-	</ul>
-	<p>We introduced the contextual sign in button to improve findability for this top task.</p>
-</section>
-<section>
-	<h2 id="latest">Latest changes</h2>
-	<dl class="dl-horizontal">
-		<dt>
-			<time>2023-06-15</time>
-		</dt>
-		<dd>Updated the guidance to include advice on what to avoid, content and design specifications, visual examples, implementation guidance, and policy rationale</dd>
-		<dt>
-			<time>2022-08-17</time>
-		</dt>
-		<dd>Expanded Sign in button guidance</dd>
-	</dl>
-</section>
+<h2 id="when">When to use</h2>
+<p>The site search box is mandatory on all pages, except transactional pages.</p>
+<h2 id="avoid">What to avoid</h2>
+<p>Don’t use the site search box for searching anything other than content indexed by GC Search. Place search for other datasets within the content area of the page.</p>
+<h2 id="content">Content and design</h2>
+<p>Find content and design specifications and visual examples.</p>
+<h3>Content specifications</h3>
+<p>The site search box consists of 3 visual elements:</p>
+<ul>
+  <li>text input field (maximum 170 characters)</li>
+  <li>input box placeholder text</li>
+  <li>search button with magnifying glass icon</li>
+</ul>
+<p>In the text input field, the placeholder label is:</p>
+<ul>
+  <li>“Search Canada.ca” in English</li>
+  <li>&laquo;&nbsp;Rechercher dans Canada.ca&nbsp;&raquo; in French</li>
+</ul>
+<p>The placeholder label in a contextualized search box is:</p>
+<ul>
+  <li>“Search [institution]” in English</li>
+  <li>&laquo;&nbsp;Rechercher dans [institution]&nbsp;&raquo; in French</li>
+</ul>
+<h4>Interactions</h4>
+<ul>
+  <li>Searches query the GC Search index. Typing a search term in the input field and selecting the search icon opens a results page.</li>
+</ul>
+<h3>Design specifications</h3>
+<p>Design specifications for the site search box are:</p>
+<ul>
+  <li>Position: top-right corner of the global header area, below the language toggle link</li>
+  <li>Form class:  form-inline</li>
+  <li>Button icon:  glyphicon-search glyphicon</li>
+  <li>Button class: btn btn-primary btn-small</li>
+  <li>Colour: #26374a</li>
+  <li>Length of input field: maxlength=170</li>
+  <li>Value size: 34</li>
+</ul>
+<p>The search elements are responsive.  They scale according to screen size.</p>
+<h3>Visual examples</h3>
+<div class="pattern-demo mrgn-tp-lg">
+  <figure>
+    <figcaption><b>Site search box - large screen</b></figcaption>
+    <img src="../images/01-site-search-en.png" class="img-responsive" alt=" ">
+    <details class="mrgn-tp-md">
+      <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: site search box - large screen</summary>
+      <p class="mrgn-tp-lg">The search box appears in the top-right corner, underneath the language toggle and directly across from the Government of Canada signature. </p>
+      <p>The site search bar is a rectangle, defined by a light grey border. Within the rectangle are the words, ‘Search Canada.ca’.  To the right of the rectangle is a blue square with a white magnifying glass icon within.</p>
+         </details>
+  </figure>
+</div>
+<div class="pattern-demo mrgn-tp-lg">
+  <figure>
+    <figcaption><b>Site search box- small screen</b></figcaption>
+    <img src="../images/01-site-search-sm-en.png" class="img-responsive" alt=" ">
+    <details class="mrgn-tp-md">
+      <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: site search box - small screen</summary>
+      <p class="mrgn-tp-lg">The search box appears in the header, directly below the Government of Canada signature and the language toggle. It spans across the screen.</p>
+      <p>The site search bar is a rectangle, defined by a light grey border. Within the rectangle are the words, ‘Search Canada.ca’.  To the right of the rectangle is a blue square with a white magnifying glass icon within. </p>
+    </details>
+  </figure>
+</div>
+<h2 id="implementation">How to implement</h2>
+<p>Find working examples for implementing the site search box.</p>
+<h3>GCweb (WET) theme implementation reference</h3>
+<p>The implementation reference includes how to configure each element of the header.</p>
+<ul>
+  <li><a href="https://wet-boew.github.io/GCWeb/sites/header/header-docs-en.html">GCWeb (WET) header documentation</a></li>
+</ul>
+<h3>Implementations</h3>
+<p>Determine what best suits the type of page you're creating.</p>
+<div class="row">
+  <div class="col-md-8">
+    <div class="wb-tabs mrgn-tp-lg">
+      <div class="tabpanels">
+        <details id="004" open="open">
+          <summary><strong>GC-AEM</strong></summary>
+          <p class="mrgn-tp-lg">For the Government of Canada Adobe Experience Manager (AEM):</p>
+          <ul>
+            <li><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">AEM/Managed Web Service documentation (GCPedia link - only available on the Government of Canada network)</a></li>
+          </ul>
+        </details>
+        <details id="005">
+          <summary><strong>CDTS</strong></summary>
+          <p class="mrgn-tp-lg">For the Centrally Deployed Templates Solution (CDTS):</p>
+          <ul>
+            <li><a href="https://cdts.service.canada.ca/app/cls/WET/gcweb/v4_0_45/cdts/samples/custom-search-en.html">Custom search</a> - configuration options for the site search box</li>
+            <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-en.html">CDTS documentation</a></li>
+          </ul>
+        </details>
+        <details id="006">
+          <summary><strong>Drupal WxT</strong></summary>
+          <p class="mrgn-tp-lg">For Drupal WxT:</p>
+          <ul>
+            <li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</a></li>
+          </ul>
+        </details>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="cnt-wdth-lmtd">
+  <h3>Configure search</h3>
+  <p>The Principal Publisher provides support for GC Search adoption, search configuration, indexing of web pages, functionality errors and other search related requests:</p>
+  <ul>
+    <li><a href="https://www.gcpedia.gc.ca/wiki/GC_Search_Support">GC Search Support (only available on the GC network)</a></li>
+  </ul>
+  <h2 id="research">Research and rationale</h2>
+  <p>Placing site search in the top-right corner of a web page is an established web convention.</p>
+  <h3>Policy rationale</h3>
+  <p>As part of the global header, the site search box is a mandatory element under the <cite>Content and Information Architecture Specification.</cite></p>
+  <ul>
+    <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html">Mandatory elements of the design system</a></li>
+  </ul>
+  <h2 id="changes">Latest changes</h2>
+  <dl class="dl-horizontal">
+    <dt>
+      <time datetime="2023-MM-DD" class="link-muted">2023-MM-DD</time>
+    </dt>
+    <dd>Updated the guidance to include advice on what to avoid, content and design specifications, visual examples, implementation guidance, support for search configuration, and policy rationale</dd>
+  </dl>
