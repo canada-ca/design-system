@@ -75,7 +75,8 @@ title: Contextual Sign in button
 	<ul>
 		<li>Border:
 			<ul>
-				<li>1px solid</li>
+				<li>weight: 1px</li>
+				<li>style: solid</li>
 				<li>radius: 0</li>
 			</ul>
 		</li>
