@@ -201,7 +201,7 @@ title: "Contextual footer"
         
         <!--<a href="">Blog post link</a>-->
         
-        <div class="pattern-demo mrgn-tp-lg"> <img src="../images/footer-contextual.jpg" class="img-responsive"
+        <div class="pattern-demo mrgn-tp-lg"> <img src="../../images/footer-contextual.jpg" class="img-responsive"
 				alt="Diagram of contextual band for large screens. Text version below:"> </div>
         <h2>On this page</h2>
         <ul>
