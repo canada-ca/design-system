@@ -17,7 +17,7 @@ title: "Global footer: Contextual band"
         organization.</p>
       <p><strong>2022 design update</strong>: We’ve recently updated this pattern as part of a new navigation strategy coming
         out of the Wayfinding research project. To find out more about this project, visit the <a href="#research">Research and rationale</a> section on this page.</p>
-      <div class="pattern-demo mrgn-tp-lg"> <img src="../images/footer-contextual.jpg" class="img-responsive"
+      <div class="pattern-demo mrgn-tp-lg"> <img src="../../images/footer-contextual.jpg" class="img-responsive"
 				alt="Diagram of contextual band for large screens. Text version below:"> </div>
       <h2>On this page</h2>
       <ul>
@@ -69,7 +69,7 @@ title: "Global footer: Contextual band"
       <div class="pattern-demo">
         <figure class="mrgn-bttm-lg">
           <figcaption><b>Example for the Veterans and military theme</b></figcaption>
-          <img src="../images/contextual-footer-theme-en.jpg" class="img-responsive" alt="Contextual band for a theme. Text version below:">
+          <img src="../../images/contextual-footer-theme-en.jpg" class="img-responsive" alt="Contextual band for a theme. Text version below:">
           <details>
             <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Text version</summary>
             <p>Contextual band for the Veterans and military theme with the title “Contacts” and 3 contextual links: “Veterans contacts,” “Military contacts,” and “Contact the RCMP”</p>
@@ -79,7 +79,7 @@ title: "Global footer: Contextual band"
       <div class="pattern-demo">
         <figure class="mrgn-bttm-lg">
           <figcaption><b>Example for an institution</b></figcaption>
-          <img src="../images/contextual-footer-institutional-en.jpg" class="img-responsive" alt="Contextual band for an institution. Text version below:">
+          <img src="../../images/contextual-footer-institutional-en.jpg" class="img-responsive" alt="Contextual band for an institution. Text version below:">
           <details>
             <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Text version</summary>
             <p>Contextual band for an institution with the title “Agriculture and Agri-Food Canada” and 3 contextual links: “Contact AAFC,” “News,” and “Consultations”</p>
