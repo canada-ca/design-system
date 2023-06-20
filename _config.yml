@@ -64,7 +64,7 @@ defaults:
         - ../css/blog.css
         - ../css/custom.css
   - scope:
-      path: "common-design-patterns/global-header/*.md"
+      path: "common-design-patterns/site-footer/*.md"
     values:
       breadcrumbs:
         - title: About Canada.ca
@@ -74,7 +74,7 @@ defaults:
         - title: Template and pattern library for Canada.ca
           link: https://www.canada.ca/en/government/about/design-system/pattern-library.html
         - title: Global header
-          link: "https://design.canada.ca/common-design-patterns/global-header.html"
+          link: "https://design.canada.ca/common-design-patterns/site-footer.html"
       css:
         - ../../css/blog.css
         - ../../css/custom.css
