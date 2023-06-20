@@ -16,11 +16,11 @@ title: Contextual Sign in button
 <div class="pattern-demo">
   <figure class="mrgn-bttm-lg">
     <figcaption><b>Sign in - large screen</b></figcaption>
-    <img src="../../images/sign-in-desktop-en.jpg" class="img-responsive brdr" alt="Sign in header for large screens">
+    <img src="../../images/01-sign-in-desktop-en.png" class="img-responsive brdr" alt="Sign in header for large screens">
   </figure>
   <figure class="mrgn-bttm-lg">
     <figcaption><b>Sign in - small screen</b></figcaption>
-    <img src="../../images/sign-in-mobile-en.jpg" class="img-responsive brdr" alt="Sign in header for small screens">
+    <img src="../../images/01-sign-in-mobile-en.png" class="img-responsive brdr" alt="Sign in header for small screens">
   </figure>
 </div>
 </section>
@@ -116,7 +116,7 @@ title: Contextual Sign in button
 	<div class="pattern-demo mrgn-tp-lg">
 		<figure>
 			<figcaption><b>Contextual Sign in button - large screen</b></figcaption>
-			<img src="../../images/sign-in-desktop-en.jpg" class="img-responsive brdr" alt="Sign in header for large screens">
+			<img src="../../images/01-sign-in-desktop-en.png" class="img-responsive brdr" alt="Sign in header for large screens">
 			<details class="mrgn-tp-md">
 				<summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: Contextual Sign in button - large screen</summary>
 				<p class="mrgn-tp-lg">Standard header of an English Canada.ca page with the Sign in button highlighted</p>
@@ -126,7 +126,7 @@ title: Contextual Sign in button
 	<div class="pattern-demo mrgn-tp-lg">
 		<figure>
 			<figcaption><b>Contextual Sign in button - small screen</b></figcaption>
-			<img src="../../images/sign-in-mobile-en.jpg" class="img-responsive brdr" alt="Sign in header for small screens">
+			<img src="../../images/01-sign-in-mobile-en.png" class="img-responsive brdr" alt="Sign in header for small screens">
 			<details class="mrgn-tp-md">
 				<summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: Contextual Sign in button - small screen</summary>
 				<p class="mrgn-tp-lg">Standard header of an English Canada.ca page with the Sign in button highlighted</p>
