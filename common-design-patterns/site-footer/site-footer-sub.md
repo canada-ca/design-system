@@ -11,7 +11,7 @@ title: "Global footer: Sub-footer band"
   <p>The sub-footer band is a secondary element of the global footer. It contains a series of corporate links and the Canada wordmark.</p>
   <p><strong>2022 design update</strong>: We’ve recently updated this pattern as part of a new navigation strategy coming
     out of the Wayfinding research project. To find out more about this project, visit the <a href="#research">Research and rationale</a> section on this page.</p>
-  <div class="pattern-demo"> <img src="../images/footer-sub-crop.jpg" class="img-responsive"
+  <div class="pattern-demo"> <img src="../../images/footer-sub-crop.jpg" class="img-responsive"
 				alt=""> </div>
   <h2>On this page</h2>
   <ul>
@@ -56,7 +56,7 @@ title: "Global footer: Sub-footer band"
     <div class="pattern-demo mrgn-bttm-md">
       <figure class="mrgn-bttm-lg">
         <figcaption><b>Sub-footer band – large screen</b></figcaption>
-        <img src="../images/footer-sub.jpg" class="img-responsive"
+        <img src="../../images/footer-sub.jpg" class="img-responsive"
 				alt="Diagram of sub-footer band for large screens. Text version below:">
         <details>
           <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Text version</summary>
@@ -69,7 +69,7 @@ title: "Global footer: Sub-footer band"
     <div class="pattern-demo">
       <figure class="mrgn-bttm-lg">
         <figcaption><b>Sub-footer band – small screen</b></figcaption>
-        <img src="../images/footer-sub-mobile.jpg" class="img-responsive"
+        <img src="../../images/footer-sub-mobile.jpg" class="img-responsive"
 				alt="Diagram of sub-footer band for small screens. Text version below:">
         <details>
           <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Text version</summary>
@@ -85,7 +85,7 @@ title: "Global footer: Sub-footer band"
     <div class="pattern-demo mrgn-bttm-md">
       <figure class="mrgn-bttm-lg">
         <figcaption><b>Minimum sub-footer – large screen</b></figcaption>
-        <img src="../images/footer-min-en.png" class="img-responsive"
+        <img src="../../images/footer-min-en.png" class="img-responsive"
 						alt="Diagram of minimum sub-footer for large screens. Text version below:">
         <details>
           <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Text version</summary>
@@ -98,7 +98,7 @@ title: "Global footer: Sub-footer band"
     <div class="pattern-demo">
       <figure class="mrgn-bttm-lg">
         <figcaption><b>Minimum sub-footer – small screen</b></figcaption>
-        <img src="../images/footer-min-mobile-en.png" class="img-responsive"
+        <img src="../../images/footer-min-mobile-en.png" class="img-responsive"
 						alt="Diagram of minimum sub-footer for small screens. Text version below:">
         <details>
           <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Text version</summary>
