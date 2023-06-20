@@ -2,6 +2,7 @@
 altLangPage: "https://conception.canada.ca/configurations-conception-communes/champ-recherche.html"
 dateModified: 2023-05-17
 description: "Guidance about using the site search box on Canada.ca. The site search box allows people to search Government of Canada content. It appears in the global header across Canada.ca."
+layout: default
 title: "Site search box"
 ---
 <div class="row">
