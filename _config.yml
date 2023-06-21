@@ -40,6 +40,11 @@ defaults:
         link: https://www.canada.ca/en/analytics.html
       - title: GC Task Success Survey
         link: survey/index.html
+      css:
+        - https://design.canada.ca/css/split-h1.css
+        - https://use.fontawesome.com/releases/v5.15.4/css/all.css
+      layout: default
+      pageclass: cnt-wdth-lmtd
   - scope:
       path: "architecture"
     values:
