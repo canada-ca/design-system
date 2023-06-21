@@ -22,28 +22,28 @@ url: "https://design.canada.ca"
 
 # Page front matter defaults
 defaults:
-  - scope:
+   - scope:
       path: "*.md" # Ensure it's applied to all pages
-	values:
+	 values:
       css:
-        - https://design.canada.ca/css/split-h1.css
-        - https://use.fontawesome.com/releases/v5.15.4/css/all.css
-  - scope:
+         - https://design.canada.ca/css/split-h1.css
+         - https://use.fontawesome.com/releases/v5.15.4/css/all.css
+   - scope:
       path: "survey"
-    values:
-      breadcrumbs:
-      - title: About Canada.ca
-        link: https://www.canada.ca/en/government/about.html
-      - title: Analytics and feedback
-        link: https://www.canada.ca/en/analytics.html
-      - title: GC Task Success Survey
-        link: survey/index.html
-      css:
+     values:
+        breadcrumbs:
+           - title: About Canada.ca
+             link: https://www.canada.ca/en/government/about.html
+           - title: Analytics and feedback
+             link: https://www.canada.ca/en/analytics.html
+           - title: GC Task Success Survey
+             link: survey/index.html
+        css:
         - https://design.canada.ca/css/split-h1.css
         - https://use.fontawesome.com/releases/v5.15.4/css/all.css
-      layout: default
-      pageclass: cnt-wdth-lmtd
-  - scope:
+        layout: default
+        pageclass: cnt-wdth-lmtd
+   - scope:
       path: "architecture"
     values:
       breadcrumbs:
@@ -58,7 +58,7 @@ defaults:
         - https://use.fontawesome.com/releases/v5.15.4/css/all.css
       layout: default
       pageclass: cnt-wdth-lmtd
-  - scope:
+   - scope:
       path: "common-design-patterns/*.md"
     values:
       breadcrumbs:
@@ -75,7 +75,7 @@ defaults:
         - https://use.fontawesome.com/releases/v5.15.4/css/all.css
       layout: default
       pageclass: cnt-wdth-lmtd
-  - scope:
+   - scope:
       path: "common-design-patterns/global-footer/*.md"
     values:
       breadcrumbs:
