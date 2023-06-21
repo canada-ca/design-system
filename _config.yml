@@ -23,7 +23,7 @@ url: "https://design.canada.ca"
 # Page front matter defaults
 defaults:
   - scope:
-      path: "./*.md" # Ensure it's applied to all pages
+      path: "*.md" # Ensure it's applied to all pages
     values:
       css:
         - /css/split-h1.css
