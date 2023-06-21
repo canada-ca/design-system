@@ -65,6 +65,8 @@ defaults:
         - title: Template and pattern library for Canada.ca
           link: https://www.canada.ca/en/government/about/design-system/pattern-library.html
       css:
+        - https://design.canada.ca/css/split-h1.css
+        - https://use.fontawesome.com/releases/v5.15.4/css/all.css	  
         - ../css/blog.css
         - ../css/custom.css
       pageclass: cnt-wdth-lmtd
