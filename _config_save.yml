@@ -1,0 +1,72 @@
+analytics:
+  providers:
+  - adobe
+  adobe:
+    tracking_id: be5dfd287373/0127575cd23a/launch-f7c3e6060667
+    service: TBS-DTO_BTN-SCT
+baseurl: ""
+global:
+  contextualFooter:
+    title:
+      en: Digital Transformation Office (DTO)
+    links:
+      en:
+        - url: "/contact-us/"
+          text: Contact us
+  lang: en
+plugins:
+  - jekyll-remote-theme
+remote_theme: wet-boew/gcweb-jekyll
+title: Canada.ca design system
+url: "https://design.canada.ca"
+
+# Page front matter defaults
+defaults:
+  - scope:
+      path: "" # Ensure it's applied to all pages
+    values:
+      css:
+        - /css/split-h1.css
+        - https://use.fontawesome.com/releases/v5.15.4/css/all.css
+      pageclass: cnt-wdth-lmtd
+  - scope:
+      path: "survey"
+    values:
+      breadcrumbs:
+      - title: About Canada.ca
+        link: https://www.canada.ca/en/government/about.html
+      - title: Analytics and feedback
+        link: https://www.canada.ca/en/analytics.html
+      - title: GC Task Success Survey
+        link: survey/index.html
+      layout: default
+  - scope:
+      path: "architecture"
+    values:
+      breadcrumbs:
+        - title: About Canada.ca
+          link: https://www.canada.ca/en/government/about.html
+        - title: Canada.ca design system
+          link: https://www.canada.ca/en/government/about/design-system.html
+        - title: Information architecture specification
+          link: https://design.canada.ca/architecture/canada-content-information-architecture-specification.html
+  - scope:
+     path: "common-design-patterns/global-footer/*.md"
+   values:
+     breadcrumbs:
+        - title: About Canada.ca
+          link: https://www.canada.ca/en/government/about.html
+        - title: Canada.ca design system
+          link: https://www.canada.ca/en/government/about/design-system.html  		 
+        - title: Template and pattern library for Canada.ca
+          link: https://www.canada.ca/en/government/about/design-system/pattern-library.html
+        - title: Global footer
+          link: https://design.canada.ca/common-design-patterns/site-footer.html
+     css:
+        - https://design.canada.ca/css/split-h1.css
+        - https://design.canada.ca/css/blog.css
+        - https://design.canada.ca/css/css/custom.css
+        - https://use.fontawesome.com/releases/v5.15.4/css/all.css
+     layout: default
+     pageclass: cnt-wdth-lmtd
+     permalink: /common-design-patterns/:basename:output_ext
