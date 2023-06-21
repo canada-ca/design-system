@@ -67,7 +67,8 @@ defaults:
       css:
         - ../css/blog.css
         - ../css/custom.css
-  - scope:
+  - 
+     scope:
       path: "common-design-patterns/global-footer/*.md"
     values:
       breadcrumbs:
