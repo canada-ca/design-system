@@ -25,6 +25,9 @@ defaults:
   - scope:
       path: "/*.md" # Ensure it's applied to all pages
     values:
+      css:
+        - https://design.canada.ca/css/split-h1.css
+        - https://use.fontawesome.com/releases/v5.15.4/css/all.css
       layout: default
   - scope:
       path: "survey"
@@ -36,10 +39,7 @@ defaults:
         link: https://www.canada.ca/en/analytics.html
       - title: GC Task Success Survey
         link: survey/index.html
-      css:
-        - https://design.canada.ca/css/split-h1.css
-        - https://use.fontawesome.com/releases/v5.15.4/css/all.css	  
-	  pageclass: cnt-wdth-lmtd
+      pageclass: cnt-wdth-lmtd
   - scope:
       path: "architecture"
     values:
@@ -61,6 +61,9 @@ defaults:
           link: https://www.canada.ca/en/government/about/design-system.html
         - title: Template and pattern library for Canada.ca
           link: https://www.canada.ca/en/government/about/design-system/pattern-library.html
+      css:
+        - ../css/blog.css
+        - ../css/custom.css
       pageclass: cnt-wdth-lmtd
   - scope:
       path: "common-design-patterns/global-footer/*.md"
