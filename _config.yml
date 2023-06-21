@@ -69,3 +69,4 @@ defaults:
         - https://use.fontawesome.com/releases/v5.15.4/css/all.css
      layout: default
      pageclass: cnt-wdth-lmtd
+     permalink: /common-design-patterns/:basename:output_ext
