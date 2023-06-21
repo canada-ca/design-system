@@ -29,7 +29,6 @@ defaults:
         - https://design.canada.ca/css/split-h1.css
         - https://use.fontawesome.com/releases/v5.15.4/css/all.css
       layout: default
-      pageclass: cnt-wdth-lmtd
   - scope:
       path: "survey"
     values:
@@ -40,6 +39,7 @@ defaults:
         link: https://www.canada.ca/en/analytics.html
       - title: GC Task Success Survey
         link: survey/index.html
+      pageclass: cnt-wdth-lmtd
   - scope:
       path: "architecture"
     values:
@@ -50,6 +50,7 @@ defaults:
           link: https://www.canada.ca/en/government/about/design-system.html
         - title: Information architecture specification
           link: https://design.canada.ca/architecture/canada-content-information-architecture-specification.html
+      pageclass: cnt-wdth-lmtd
   - scope:
       path: "common-design-patterns/*.md"
     values:
@@ -63,6 +64,7 @@ defaults:
       css:
         - ../css/blog.css
         - ../css/custom.css
+      pageclass: cnt-wdth-lmtd
   - scope:
       path: "common-design-patterns/global-footer/*.md"
     values:
@@ -78,4 +80,5 @@ defaults:
       css:
         - ../../css/blog.css
         - ../../css/custom.css
+      pageclass: cnt-wdth-lmtd
       permalink: /common-design-patterns/:basename:output_ext
