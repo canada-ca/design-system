@@ -83,7 +83,9 @@ defaults:
         - title: Global footer
           link: "https://design.canada.ca/common-design-patterns/site-footer.html"
       css:
-        - ../../css/blog.css
-        - ../../css/custom.css
+        - https://design.canada.ca/css/split-h1.css
+        - https://use.fontawesome.com/releases/v5.15.4/css/all.css	  
+        - ../css/blog.css
+        - ../css/custom.css
       pageclass: cnt-wdth-lmtd
       permalink: /common-design-patterns/:basename:output_ext
