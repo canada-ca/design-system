@@ -54,7 +54,8 @@ defaults:
         - title: Information architecture specification
           link: https://design.canada.ca/architecture/canada-content-information-architecture-specification.html
   -
-          path: "common-design-patterns/*.md"
+    scope:
+      path: "common-design-patterns/*.md"
     values:
       breadcrumbs:
         - title: About Canada.ca
@@ -67,7 +68,6 @@ defaults:
         - ../css/blog.css
         - ../css/custom.css
   - scope:
-    
       path: "common-design-patterns/global-footer/*.md"
     values:
       breadcrumbs:
