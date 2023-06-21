@@ -52,3 +52,9 @@ defaults:
           link: https://design.canada.ca/architecture/canada-content-information-architecture-specification.html
   -scope:
      path: "common-design-patterns/global-footer/*.md"
+   values:
+     breadcrumbs:
+        - title: About Canada.ca
+          link: https://www.canada.ca/en/government/about.html
+        - title: Canada.ca design system
+          link: https://www.canada.ca/en/government/about/design-system.html  		 
