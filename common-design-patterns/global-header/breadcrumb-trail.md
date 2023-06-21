@@ -3,13 +3,12 @@ altLangPage: "https://conception.canada.ca/configurations-conception-communes/fi
 date: 2017-10-05
 dateModified: 2023-05-17
 description: "Guidance about using breadcrumbs on Canada.ca. The breadcrumb trail provides a series of navigational links that gives people a sense of where they are in relation to the site structure."
-layout: default
 title: "Breadcrumb trail"
 ---
 <div class="row">
   <div class="col-md-12 pull-left">
     <ul class="list-inline small mrgn-bttm-sm" id="list-inline-desktop-only">
-      <li class="mrgn-rght-lg"> Last updated: YYYY-MM-DD</li>
+      <li class="mrgn-rght-lg"> Last updated: {{ page.dateModified }}</li>
     </ul>
   </div>
 </div>
