@@ -68,5 +68,4 @@ defaults:
         - https://design.canada.ca/css/css/custom.css
         - https://use.fontawesome.com/releases/v5.15.4/css/all.css
      layout: default
-	 pageclass: cnt-wdth-lmtd
-	 
+     pageclass: cnt-wdth-lmtd
