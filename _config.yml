@@ -22,17 +22,15 @@ url: "https://design.canada.ca"
 
 # Page front matter defaults
 defaults:
-  - 
-    scope:
-      path: "*.md" # Ensure it's applied to all pages
-    values:
-      css:
-        - https://design.canada.ca/css/split-h1.css
-        - https://use.fontawesome.com/releases/v5.15.4/css/all.css
-      layout: defaults
-      pageclass: cnt-wdth-lmtds
-  -
-    scope:
+- scope:
+    path: "*.md" # Ensure it's applied to all pages
+  values:
+    css:
+      - https://design.canada.ca/css/split-h1.css
+      - https://use.fontawesome.com/releases/v5.15.4/css/all.css
+    layout: defaults
+    pageclass: cnt-wdth-lmtds
+  - scope:
       path: "survey"
     values:
       breadcrumbs:
@@ -42,44 +40,41 @@ defaults:
         link: https://www.canada.ca/en/analytics.html
       - title: GC Task Success Survey
         link: survey/index.html
-  - 
-    scope:
+  - scope:
       path: "architecture"
     values:
       breadcrumbs:
-        - title: About Canada.ca
-          link: https://www.canada.ca/en/government/about.html
-        - title: Canada.ca design system
-          link: https://www.canada.ca/en/government/about/design-system.html
-        - title: Information architecture specification
-          link: https://design.canada.ca/architecture/canada-content-information-architecture-specification.html
-  -
-    scope:
-      path: "common-design-patterns/*.md"
+      - title: About Canada.ca
+        link: https://www.canada.ca/en/government/about.html
+      - title: Canada.ca design system
+        link: https://www.canada.ca/en/government/about/design-system.html
+      - title: Information architecture specification
+       link: https://design.canada.ca/architecture/canada-content-information-architecture-specification.html
+  - scope:
+     path: "common-design-patterns/*.md"
     values:
       breadcrumbs:
-        - title: About Canada.ca
+      - title: About Canada.ca
           link: https://www.canada.ca/en/government/about.html
-        - title: Canada.ca design system
+      - title: Canada.ca design system
           link: https://www.canada.ca/en/government/about/design-system.html
-        - title: Template and pattern library for Canada.ca
+      - title: Template and pattern library for Canada.ca
           link: https://www.canada.ca/en/government/about/design-system/pattern-library.html
       css:
-        - ../css/blog.css
-        - ../css/custom.css
-  - 
-     scope:
+      - ../css/blog.css
+      - ../css/custom.css
+  - scope:
       path: "common-design-patterns/global-footer/*.md"
     values:
       breadcrumbs:
-        - title: About Canada.ca
-          link: https://www.canada.ca/en/government/about.html
-        - title: Canada.ca design system
-          link: https://www.canada.ca/en/government/about/design-system.html
-        - title: Template and pattern library for Canada.ca
-          link: https://www.canada.ca/en/government/about/design-system/pattern-library.html
-        - title: Global footer
-          link: "https://design.canada.ca/common-design-patterns/site-footer.html"
+      - title: About Canada.ca
+        link: https://www.canada.ca/en/government/about.html
+      - title: Canada.ca design system
+        link: https://www.canada.ca/en/government/about/design-system.html
+      - title: Template and pattern library for Canada.ca
+        link: https://www.canada.ca/en/government/about/design-system/pattern-library.html
+      - title: Global footer
+        link: "https://design.canada.ca/common-design-patterns/site-footer.html"
       css:
         - ../../css/blog.css
         - ../../css/custom.css
