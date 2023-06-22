@@ -8,7 +8,7 @@ title: Contextual Sign in button
 <div class="row">
 	<div class="col-md-12 pull-left">
 		<ul class="list-inline small mrgn-bttm-sm" style="line-height:1.65em" id="list-inline-desktop-only">
-			<li class="mrgn-rght-lg"> Last updated: {{ page.dateModified }}</li>
+			<li class="mrgn-rght-lg">Last updated: {{ page.dateModified }}</li>
 		</ul>
 	</div>
 </div>
