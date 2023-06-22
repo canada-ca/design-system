@@ -30,6 +30,7 @@ defaults:
         - https://use.fontawesome.com/releases/v5.15.4/css/all.css
         - https://design.canada.ca/css/blog.css
         - https://design.canada.ca/css/custom.css
+      pageclass: cnt-wdth-lmtd
       layout: default
   - scope:
       path: "survey"
