@@ -83,9 +83,9 @@ title: "Breadcrumb trail"
     <li>Spacing
       <ul>
         <li>vertical padding: 13px</li>
-        <li>Horizontal padding: 2px</li>
+        <li>horizontal padding: 2px</li>
         <li>margin top: 15px</li>
-        <li>Line-height: 23px</li>
+        <li>line-height: 23px</li>
       </ul>
     </li>
     <li>Icon: glyphicon-chevron-right</li>
