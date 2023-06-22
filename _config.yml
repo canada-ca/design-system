@@ -28,8 +28,8 @@ defaults:
 	  css:
         - https://design.canada.ca/css/split-h1.css
         - https://use.fontawesome.com/releases/v5.15.4/css/all.css
-		layout: default
-        pageclass: cnt-wdth-lmtd
+	  layout: default
+      pageclass: cnt-wdth-lmtd
   - scope:
       path: "survey"
     values:
