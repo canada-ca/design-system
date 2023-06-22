@@ -23,7 +23,6 @@ title: Contextual Sign in button
     <img src="../../images/01-sign-in-mobile-en.png" class="img-responsive brdr" alt="Sign in header for small screens">
   </figure>
 </div>
-</section>
 <section>
 	<h2>On this page</h2>
 	<ul>
