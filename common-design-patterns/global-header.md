@@ -1,9 +1,8 @@
 ---
-altLangPage: "https://conception.canada.ca/architecture/specifications-contenu-architecture-information-canada.html"   
+altLangPage: "https://conception.canada.ca/architecture/specifications-contenu-architecture-information-canada.html"
 date: 2017-10-05
 dateModified: 2023-05-17
 description: "The requirements listed in this design manual apply to departments and other portions of the federal public administration as set out in Schedules I, I.1 and II of the Financial Administration Act. As such, in-scope institutions must apply Canada.ca design requirements for all public-facing web sites or digital services."
-layout: default
 title: "Global header"
 ---
 <div class="cnt-wdth-lmtd">
@@ -44,7 +43,7 @@ title: "Global header"
   <li><a href="global-header.html#001">Standard pages</a></li>
   <li><a href="global-header.html#002">Transactional pages</a></li>
   <li><a href="global-header.html#003">Campaign pages</a></li>
-</ul>--> 
+</ul>-->
 </div>
 <div class="row">
   <div class="col-md-8">

@@ -1,9 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/configurations-conception-communes/menu-site.html"
-date: 2017-10-05
 dateModified: 2023-05-17
 description: "Guidance about using the theme and topic menu on Canada.ca. The theme and topic menu provides access to the top tasks from all Government of Canada websites grouped under the main themes of Canada.ca."
-layout: default
 title: "Theme and topic menu"
 ---
 <div class="row">
@@ -62,7 +60,7 @@ title: "Theme and topic menu"
 <ol>
 	<li>Menu button:
 		<ul>
-			<li>label is “MENU” with a downwards caret</li>
+			<li>label is “<span class="text-uppercase">Menu</span>” with a downwards caret</li>
 		</ul>
 	</li>
 	<li class="mrgn-tp-lg">Theme list, which includes the 15 main Canada.ca themes in the following order:
@@ -189,7 +187,7 @@ title: "Theme and topic menu"
 	<li><a href="https://wet-boew.github.io/GCWeb/sites/header/header-docs-en.html">GCWeb (WET) header documentation</a></li>
 </ul>
 <h3>Implementations</h3>
-<p>Determine whether you have to include the Theme and topic menu.</p>
+<p>Determine what best suits the type of page you're creating. Refer to your implementation's guidance if you want to exclude breadcrumbs.</p>
 <div class="row">
 	<div class="col-md-8">
 		<div class="wb-tabs mrgn-tp-lg">
@@ -198,13 +196,14 @@ title: "Theme and topic menu"
 					<summary><strong>GC-AEM</strong></summary>
 					<p class="mrgn-tp-lg">For the Government of Canada Adobe Experience Manager (AEM):</p>
 					<ul>
-						<li><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">AEM/Managed Web Service documentation (GCPedia link - only available on the Government of Canada network)</a></li>
+						<li><a href="https://www.gcpedia.gc.ca/gcwiki/images/9/9a/AEM-6.5-Documentation-Unit-3-7-Changing-the-Default-Breadcrumb.pdf">Changing the default breadcrumb (PDF - GCPedia link - only available on the Government of Canada network)</a></li>
 					</ul>
 				</details>
 				<details id="005">
 					<summary><strong>CDTS</strong></summary>
 					<p class="mrgn-tp-lg">For the Centrally Deployed Templates Solution (CDTS):</p>
 					<ul>
+						<li><a href="https://cdts.service.canada.ca/app/cls/WET/gcweb/v4_0_47/cdts/samples/breadcrumbs-en.html">Breadcrumbs - CDTS documentation </a></li>
 						<li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-en.html">CDTS documentation</a></li>
 					</ul>
 				</details>
@@ -222,17 +221,27 @@ title: "Theme and topic menu"
 <h2 id="research">Research and rationale</h2>
 <p>Consult research findings and policy rationale.</p>
 <h3>Research findings</h3>
-<p>We updated the theme and topic menu guidance to align with a new overall navigation strategy that came out of the Wayfinding research project.</p>
 <ul>
-<li><a href="https://blog.canada.ca/research-summaries/wayfinding-on-canada-ca">Wayfinding on Canada.ca research summary</a><br>
-	Explains the context of the research and the insights that drove the design updates</li>
-<li><a href="https://blog.canada.ca/2022/12/21/wayfinding-research-project">Wayfinding research project improves our approach to navigation on Canada.ca</a><br>
-	Blog post explaining the changes that are being made to the Canada.ca design, and how they are being implemented</li>
+<li>
+  <a href="https://blog.canada.ca/2020/08/10/CanadaDotCa-trusted-source.html">Canada.ca is a trusted source</a>
+  <br>Explains the decision to use “Canada.ca” as the label for the first link in the breadcrumb
+</li>
+<li>
+  <a href="https://blog.canada.ca/research-summaries/wayfinding-on-canada-ca.html">Wayfinding on Canada.ca research summary</a>
+  <br>Research showing that people navigating on the site use breadcrumb links nearly twice as often as they use the Theme and topic menu</li>
 </ul>
+
+<h3>Policy rationale</h3>
+<p>The spacing specifications for the breadcrumb links are designed so that touch targets meet WCAG AAA requirements.</p>
+<p>As part of the global header, the breadcrumb is a mandatory element under the <cite>Content and Information Architecture Specification.</cite></p>
+<ul>
+  <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html">Mandatory elements of the design system</a></li>
+</ul>
+
 <h2 id="changes">Latest changes</h2>
 <dl class="dl-horizontal">
-	<dt>
-		<time>2023-MM-DD</time>
-	</dt>
-	<dd>Updated pattern to reflect design changes from wayfinding project, and to include advice on what to avoid, content and design specifications, visual examples, implementation guidance, research and policy rationale</dd>
+  <dt>
+    <time datetime="2023-MM-DD" class="link-muted">2023-MM-DD</time>
+  </dt>
+  <dd>Updated the guidance to include advice on what to avoid, content and design specifications, visual examples, implementation guidance, research findings and policy rationale</dd>
 </dl>

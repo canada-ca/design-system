@@ -1,9 +1,7 @@
 ---
-altLangPage: "https://conception.canada.ca/configurations-conception-communes/fil-ariane.html"
-date: 2017-10-05
+altLangPage: "https://conception.canada.ca/configurations-conception-communes/changer-langue.html"
 dateModified: 2023-05-17
 description: "Guidance about using the language toggle on Canada.ca. Government of Canada content is available in both official languages. A language toggle in the global header provides access to the corresponding page in the other official language."
-layout: default
 title: "Language toggle"
 ---
 <div class="row">
@@ -29,16 +27,21 @@ title: "Language toggle"
     <li><a href="#changes">Latest changes</a></li>
   </ul>
 </section>
+
 <h2 id="when">When to use</h2>
 <p>The language toggle is mandatory on all pages.</p>
 <p>New transactional pages for web applications must allow people to toggle between official languages. Legacy web applications that don’t support toggling should be updated or replaced. Until then, you can omit the language toggle if its use results in a loss of data.</p>
+
 <h2 id="avoid">What to avoid</h2>
 <p>Don’t put other language options in the language toggle. It is only for English and French. Links to content in other languages should appear in the content area of the page.</p>
 <p>Don’t use the language toggle to point to anything other than the corresponding page in the equivalent language.</p>
+
 <h2 id="content">Content and design</h2>
 <p>Find content and design specifications and visual examples.</p>
+
 <h3>Content specifications</h3>
 <p>Ensure that the language toggle links to the corresponding page in the alternate language.</p>
+
 <h4>Large screens</h4>
 <ul>
   <li>On English pages, the link label text is “Français”</li>

@@ -2,7 +2,6 @@
 altLangPage: "https://conception.canada.ca/configurations-conception-communes/champ-recherche.html"
 dateModified: 2023-05-17
 description: "Guidance about using the site search box on Canada.ca. The site search box allows people to search Government of Canada content. It appears in the global header across Canada.ca."
-layout: default
 title: "Site search box"
 ---
 <div class="row">
@@ -60,8 +59,8 @@ title: "Site search box"
 <p>Design specifications for the site search box are:</p>
 <ul>
   <li>Position: top-right corner of the global header area, below the language toggle link</li>
-  <li>Form class:  form-inline</li>
-  <li>Button icon:  glyphicon-search glyphicon</li>
+  <li>Form class: form-inline</li>
+  <li>Button icon: glyphicon-search glyphicon</li>
   <li>Button class: btn btn-primary btn-small</li>
   <li>Colour: #26374a</li>
   <li>Length of input field: maxlength=170</li>
@@ -82,7 +81,7 @@ title: "Site search box"
 </div>
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
-    <figcaption><b>Site search box- small screen</b></figcaption>
+    <figcaption><b>Site search box - small screen</b></figcaption>
     <img src="../../images/01-site-search-sm-en.png" class="img-responsive" alt=" ">
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: site search box - small screen</summary>
@@ -130,23 +129,22 @@ title: "Site search box"
     </div>
   </div>
 </div>
-<div class="cnt-wdth-lmtd">
-  <h3>Configure search</h3>
-  <p>The Principal Publisher provides support for GC Search adoption, search configuration, indexing of web pages, functionality errors and other search related requests:</p>
-  <ul>
-    <li><a href="https://www.gcpedia.gc.ca/wiki/GC_Search_Support">GC Search Support (only available on the GC network)</a></li>
-  </ul>
-  <h2 id="research">Research and rationale</h2>
-  <p>Placing site search in the top-right corner of a web page is an established web convention.</p>
-  <h3>Policy rationale</h3>
-  <p>As part of the global header, the site search box is a mandatory element under the <cite>Content and Information Architecture Specification.</cite></p>
-  <ul>
-    <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html">Mandatory elements of the design system</a></li>
-  </ul>
-  <h2 id="changes">Latest changes</h2>
-  <dl class="dl-horizontal">
-    <dt>
-      <time datetime="2023-MM-DD" class="link-muted">2023-MM-DD</time>
-    </dt>
-    <dd>Updated the guidance to include advice on what to avoid, content and design specifications, visual examples, implementation guidance, support for search configuration, and policy rationale</dd>
-  </dl>
+<h3>Configure search</h3>
+<p>The Principal Publisher provides support for GC Search adoption, search configuration, indexing of web pages, functionality errors and other search related requests:</p>
+<ul>
+  <li><a href="https://www.gcpedia.gc.ca/wiki/GC_Search_Support">GC Search Support (only available on the GC network)</a></li>
+</ul>
+<h2 id="research">Research and rationale</h2>
+<p>Placing site search in the top-right corner of a web page is an established web convention.</p>
+<h3>Policy rationale</h3>
+<p>As part of the global header, the site search box is a mandatory element under the <cite>Content and Information Architecture Specification.</cite></p>
+<ul>
+  <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html">Mandatory elements of the design system</a></li>
+</ul>
+<h2 id="changes">Latest changes</h2>
+<dl class="dl-horizontal">
+  <dt>
+    <time datetime="2023-MM-DD" class="link-muted">2023-MM-DD</time>
+  </dt>
+  <dd>Updated the guidance to include advice on what to avoid, content and design specifications, visual examples, implementation guidance, support for search configuration, and policy rationale</dd>
+</dl>
