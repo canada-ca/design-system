@@ -24,7 +24,7 @@ url: "https://design.canada.ca"
 defaults:
   - scope:
       path: "*.md" # Ensure it's applied to all pages
-    values:
+	  values:
 	  css:
         - https://design.canada.ca/css/split-h1.css
         - https://use.fontawesome.com/releases/v5.15.4/css/all.css
