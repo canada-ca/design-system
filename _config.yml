@@ -23,11 +23,13 @@ url: "https://design.canada.ca"
 # Page front matter defaults
 defaults:
   - scope:
-      path: "/*.md" # Ensure it's applied to all pages
+      path: "**/*.md" # Ensure it's applied to all pages
     values:
       css:
         - https://design.canada.ca/css/split-h1.css
         - https://use.fontawesome.com/releases/v5.15.4/css/all.css
+        - https://design.canada.ca/css/blog.css
+        - https://design.canada.ca/css/custom.css
       layout: default
   - scope:
       path: "survey"
@@ -39,10 +41,6 @@ defaults:
         link: https://www.canada.ca/en/analytics.html
       - title: GC Task Success Survey
         link: survey/index.html
-      css:
-        - https://design.canada.ca/css/split-h1.css
-        - https://use.fontawesome.com/releases/v5.15.4/css/all.css
-      pageclass: cnt-wdth-lmtd
   - scope:
       path: "architecture"
     values:
@@ -53,7 +51,6 @@ defaults:
           link: https://www.canada.ca/en/government/about/design-system.html
         - title: Information architecture specification
           link: https://design.canada.ca/architecture/canada-content-information-architecture-specification.html
-      pageclass: cnt-wdth-lmtd
   - scope:
       path: "common-design-patterns/*.md"
     values:
@@ -64,12 +61,6 @@ defaults:
           link: https://www.canada.ca/en/government/about/design-system.html
         - title: Template and pattern library for Canada.ca
           link: https://www.canada.ca/en/government/about/design-system/pattern-library.html
-      css:
-        - https://design.canada.ca/css/split-h1.css
-        - https://use.fontawesome.com/releases/v5.15.4/css/all.css	  
-        - ../css/blog.css
-        - ../css/custom.css
-      pageclass: cnt-wdth-lmtd
   - scope:
       path: "common-design-patterns/global-footer/*.md"
     values:
@@ -81,11 +72,5 @@ defaults:
         - title: Template and pattern library for Canada.ca
           link: https://www.canada.ca/en/government/about/design-system/pattern-library.html
         - title: Global footer
-          link: "https://design.canada.ca/common-design-patterns/site-footer.html"
-      css:
-        - https://design.canada.ca/css/split-h1.css
-        - https://use.fontawesome.com/releases/v5.15.4/css/all.css	  
-        - ../css/blog.css
-        - ../css/custom.css
-      pageclass: cnt-wdth-lmtd
+          link: https://design.canada.ca/common-design-patterns/site-footer.html
       permalink: /common-design-patterns/:basename:output_ext
