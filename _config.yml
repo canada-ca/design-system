@@ -7,11 +7,11 @@ analytics:
 baseurl: ""
 global:
   contextualFooter:
-    title: 
+    title:
       en: Digital Transformation Office (DTO)
     links:
       en:
-        - url: "mailto:dto.btn@tbs-sct.gc.ca"
+        - url: "/contact-us/"
           text: Contact us
   lang: en
 plugins:
@@ -30,3 +30,24 @@ defaults:
         - https://use.fontawesome.com/releases/v5.15.4/css/all.css
       layout: default
       pageclass: cnt-wdth-lmtd
+  - scope:
+      path: "survey"
+    values:
+      breadcrumbs:
+      - title: About Canada.ca
+        link: https://www.canada.ca/en/government/about.html
+      - title: Analytics and feedback
+        link: https://www.canada.ca/en/analytics.html
+      - title: GC Task Success Survey
+        link: survey/index.html
+      layout: default
+  - scope:
+      path: "architecture"
+    values:
+      breadcrumbs:
+        - title: About Canada.ca
+          link: https://www.canada.ca/en/government/about.html
+        - title: Canada.ca design system
+          link: https://www.canada.ca/en/government/about/design-system.html
+        - title: Information architecture specification
+          link: https://design.canada.ca/architecture/canada-content-information-architecture-specification.html
