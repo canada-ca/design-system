@@ -75,3 +75,4 @@ defaults:
         - title: Global header
           link: https://design.canada.ca/common-design-patterns/global-header.html
       permalink: /common-design-patterns/:basename:output_ext
+
