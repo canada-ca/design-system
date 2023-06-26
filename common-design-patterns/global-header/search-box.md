@@ -16,7 +16,7 @@ title: "Site search box"
 <p>The site search box is an element of the global header. It allows people to search Government of Canada content using a simple search field.</p>
 <p>Results for site search are at the level of all Government of Canada web content, or a subset of content at the department or agency level.</p>
 <div class="pattern-demo mrgn-tp-lg">
-  <figure class="mrgn-bttm-sm"><img src="../images/01-site-search-en.png" class="img-responsive" alt=""></figure>
+  <figure class="mrgn-bttm-sm"><img src="../../images/01-site-search-en.png" class="img-responsive" alt=""></figure>
 </div>
 <section>
   <h2>On this page</h2>
