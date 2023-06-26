@@ -1,7 +1,7 @@
 ---
-altLangPage: "https://conception.canada.ca/architecture/specifications-contenu-architecture-information-canada.html"
+altLangPage: "https://conception.canada.ca/configurations-conception-communes/en-tete-general.html"
 date: 2017-10-05
-dateModified: 2023-05-17
+dateModified: 2023-06-26
 description: "The requirements listed in this design manual apply to departments and other portions of the federal public administration as set out in Schedules I, I.1 and II of the Financial Administration Act. As such, in-scope institutions must apply Canada.ca design requirements for all public-facing web sites or digital services."
 title: "Global header"
 ---
