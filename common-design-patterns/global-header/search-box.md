@@ -57,7 +57,6 @@ title: "Site search box"
   <li>Searches query the GC Search index. Typing a search term in the input field and selecting the search icon opens a results page.</li>
 </ul>
 <h3>Design specifications</h3>
-<p>Design specifications for the site search box are:</p>
 <ul>
   <li>Position: top-right corner of the global header area, below the language toggle link</li>
   <li>Form class: form-inline</li>
