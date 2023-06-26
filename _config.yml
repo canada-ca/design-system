@@ -19,6 +19,7 @@ plugins:
 remote_theme: wet-boew/gcweb-jekyll
 title: Canada.ca design system
 url: "https://design.canada.ca"
+altLangUrl: "https://conception.canada.ca"
 
 # Page front matter defaults
 defaults:
@@ -28,8 +29,8 @@ defaults:
       css:
         - https://design.canada.ca/css/split-h1.css
         - https://use.fontawesome.com/releases/v5.15.4/css/all.css
-        - https://design.canada.ca/css/blog.css
-        - https://design.canada.ca/css/custom.css
+        - /css/blog.css
+        - /css/custom.css
       layout: default
       pageclass: cnt-wdth-lmtd
   - scope:
