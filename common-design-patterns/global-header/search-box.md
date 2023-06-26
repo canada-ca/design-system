@@ -45,12 +45,12 @@ title: "Site search box"
 <p>In the text input field, the placeholder label is:</p>
 <ul>
   <li>“Search Canada.ca” in English</li>
-  <li>&laquo;&nbsp;Rechercher dans Canada.ca&nbsp;&raquo; in French</li>
+  <li>"Rechercher dans Canada.ca" in French</li>
 </ul>
 <p>The placeholder label in a contextualized search box is:</p>
 <ul>
   <li>“Search [institution]” in English</li>
-  <li>&laquo;&nbsp;Rechercher dans [institution]&nbsp;&raquo; in French</li>
+  <li>"Rechercher dans [institution]" in French</li>
 </ul>
 <h4>Interactions</h4>
 <ul>
