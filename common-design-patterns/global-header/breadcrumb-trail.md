@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/configurations-conception-communes/fil-ariane.html"
 date: 2017-10-05
-dateModified: 2023-05-17
+dateModified: 2023-06-26
 description: "Guidance about using breadcrumbs on Canada.ca. The breadcrumb trail provides a series of navigational links that gives people a sense of where they are in relation to the site structure."
 title: "Breadcrumb trail"
 ---
