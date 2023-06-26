@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/configurations-conception-communes/connexion-contextuel.html
 date: 2022-09-23
-dateModified: 2023-06-15
+dateModified: 2023-06-26
 description: The Sign in button directs to authenticated government accounts. It's a persistent call to action in a group of related pages.
 layout: default
 title: Contextual Sign in button
