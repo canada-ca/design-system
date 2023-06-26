@@ -129,7 +129,7 @@ title: "Government of Canada signature"
 <h2 id="changes">Latest changes</h2>
 <dl class="dl-horizontal">
   <dt>
-    <time>2023-MM-DD</time>
+    <time>2023-06-26</time>
   </dt>
   <dd>Updated the guidance to include advice on what to avoid, content and design specifications, visual examples, implementation guidance, research findings and policy rationale</dd>
 </dl>
