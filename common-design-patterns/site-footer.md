@@ -3,10 +3,9 @@ altLangPage: "https://conception.canada.ca/configurations-conception-communes/pi
 date: 2019-01-08
 dateModified: 2023-04-06
 description: "The global (site-wide) footer at the bottom of each page. It includes the main band, contextual band and sub-footer band. This is a mandatory pattern with optional elements."
-layout: default
 title: "Global footer"
 ---
-<p><strong>Last updated</strong>: 2023-04-06</p>
+<p><strong>Last updated</strong>: {{ page.dateModified }}</p>
 <p><span class="label label-danger">Mandatory</span></p>
 <p>The global (site-wide) footer at the bottom of each web page contains up to 3 bands:</p>
 <ul>
