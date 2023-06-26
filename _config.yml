@@ -23,11 +23,14 @@ url: "https://design.canada.ca"
 # Page front matter defaults
 defaults:
   - scope:
-      path: "" # Ensure it's applied to all pages
+      path: "**/*.md" # Ensure it's applied to all pages
     values:
       css:
         - /css/split-h1.css
         - https://use.fontawesome.com/releases/v5.15.4/css/all.css
+        - /css/blog.css
+        - /css/custom.css
+      layout: default
       pageclass: cnt-wdth-lmtd
   - scope:
       path: "survey"
@@ -39,7 +42,6 @@ defaults:
         link: https://www.canada.ca/en/analytics.html
       - title: GC Task Success Survey
         link: survey/index.html
-      layout: default
   - scope:
       path: "architecture"
     values:
@@ -50,3 +52,27 @@ defaults:
           link: https://www.canada.ca/en/government/about/design-system.html
         - title: Information architecture specification
           link: https://design.canada.ca/architecture/canada-content-information-architecture-specification.html
+  - scope:
+      path: "common-design-patterns/*.md"
+    values:
+      breadcrumbs:
+        - title: About Canada.ca
+          link: https://www.canada.ca/en/government/about.html
+        - title: Canada.ca design system
+          link: https://www.canada.ca/en/government/about/design-system.html
+        - title: Template and pattern library for Canada.ca
+          link: https://www.canada.ca/en/government/about/design-system/pattern-library.html
+  - scope:
+      path: "common-design-patterns/global-header/*.md"
+    values:
+      breadcrumbs:
+        - title: About Canada.ca
+          link: https://www.canada.ca/en/government/about.html
+        - title: Canada.ca design system
+          link: https://www.canada.ca/en/government/about/design-system.html
+        - title: Template and pattern library for Canada.ca
+          link: https://www.canada.ca/en/government/about/design-system/pattern-library.html
+        - title: Global header
+          link: https://design.canada.ca/common-design-patterns/global-header.html
+      permalink: /common-design-patterns/:basename:output_ext
+
