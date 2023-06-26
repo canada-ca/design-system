@@ -16,7 +16,7 @@ title: "Site search box"
 <p>The site search box is an element of the global header. It allows people to search Government of Canada content using a simple search field.</p>
 <p>Results for site search are at the level of all Government of Canada web content, or a subset of content at the department or agency level.</p>
 <div class="pattern-demo mrgn-tp-lg">
-  <figure class="mrgn-bttm-sm"><img src="../images/01-site-search-en.png" class="img-responsive" alt=""></figure>
+  <figure class="mrgn-bttm-sm"><img src="../../images/01-site-search-en.png" class="img-responsive" alt=""></figure>
 </div>
 <section>
   <h2>On this page</h2>
@@ -45,19 +45,18 @@ title: "Site search box"
 <p>In the text input field, the placeholder label is:</p>
 <ul>
   <li>“Search Canada.ca” in English</li>
-  <li>&laquo;&nbsp;Rechercher dans Canada.ca&nbsp;&raquo; in French</li>
+  <li>"Rechercher dans Canada.ca" in French</li>
 </ul>
 <p>The placeholder label in a contextualized search box is:</p>
 <ul>
   <li>“Search [institution]” in English</li>
-  <li>&laquo;&nbsp;Rechercher dans [institution]&nbsp;&raquo; in French</li>
+  <li>"Rechercher dans [institution]" in French</li>
 </ul>
 <h4>Interactions</h4>
 <ul>
   <li>Searches query the GC Search index. Typing a search term in the input field and selecting the search icon opens a results page.</li>
 </ul>
 <h3>Design specifications</h3>
-<p>Design specifications for the site search box are:</p>
 <ul>
   <li>Position: top-right corner of the global header area, below the language toggle link</li>
   <li>Form class: form-inline</li>

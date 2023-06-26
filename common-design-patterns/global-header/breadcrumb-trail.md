@@ -65,7 +65,6 @@ title: "Breadcrumb trail"
   <h4>Interactions</h4>
     <p>When selected, each breadcrumb should bring the user to a unique page.</p>
   <h3>Design specifications</h3>
-  <p>Design specifications for the breadcrumbs are:</p>
   <ul>
     <li>Type: link</li>
     <li>Position: top left</li>
