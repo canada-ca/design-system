@@ -3,10 +3,9 @@ altLangPage: "https://conception.canada.ca/configurations-conception-communes/pi
 date: 2022-11-30
 dateModified: 2023-04-06
 description: "The requirements listed in this design manual apply to departments and other portions of the federal public administration as set out in Schedules I, I.1 and II of the Financial Administration Act. As such, in-scope institutions must apply Canada.ca design requirements for all public-facing web sites or digital services."
-layout: default
 title: "Global footer: Main band"
 ---
-<p><strong>Last updated</strong>: 2023-04-06</p>
+<p><strong>Last updated</strong>: {{ page.dateModified }}</p>
 <p><span class="label label-danger">Mandatory on standard pages</span></p>
 <p>The main footer band is the primary element of the global footer. It provides links to the Government of Canada All contacts
   page, the directory of departments and agencies and the About government theme page. It also provides links to all the
