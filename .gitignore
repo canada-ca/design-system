@@ -40,3 +40,6 @@ _site
 vendor
 Gemfile
 Gemfile*
+
+# Python
+*.py
