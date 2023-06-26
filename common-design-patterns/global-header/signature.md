@@ -46,7 +46,6 @@ title: "Government of Canada signature"
 <h4>Interactions</h4>
 <p>When selected, the signature brings the user to the homepage of Canada.ca.</p>
 <h3>Design specifications</h3>
-<p>Design specifications for the signature are:</p>
 <ul>
   <li>Type: image</li>
   <li>Position: top left</li>
