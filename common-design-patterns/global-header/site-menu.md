@@ -1,6 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/configurations-conception-communes/menu-site.html"
-dateModified: 2023-05-17
+date: 2017-10-05
+dateModified: 2023-06-26
 description: "Guidance about using the theme and topic menu on Canada.ca. The theme and topic menu provides access to the top tasks from all Government of Canada websites grouped under the main themes of Canada.ca."
 title: "Theme and topic menu"
 ---
