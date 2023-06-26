@@ -1,5 +1,6 @@
 ---
 altLangPage: "https://conception.canada.ca/configurations-conception-communes/fil-ariane.html"
+date: 2017-10-05
 dateModified: 2023-05-17
 description: "Guidance about using the Government of Canada signature on Canada.ca. The signature is an official symbol of the Government of Canada. It always appears in the global header across Canada.ca."
 title: "Government of Canada signature"
