@@ -19,6 +19,7 @@ plugins:
 remote_theme: wet-boew/gcweb-jekyll
 title: Canada.ca design system
 url: "https://design.canada.ca"
+altLangUrl: "https://conception.canada.ca"
 
 # Page front matter defaults
 defaults:
