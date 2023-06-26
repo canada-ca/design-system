@@ -404,7 +404,7 @@ title: "Global header"
   <h2 id="changes">Latest changes</h2>
   <dl class="dl-horizontal">
     <dt>
-      <time datetime="YYYY-MM-DD" class="link-muted">YYYY-MM-DD</time>
+      <time datetime=2023-06-26" class="link-muted">2023-06-26</time>
     </dt>
     <dd>Updated pattern to reflect design changes from the trust study and wayfinding project, added advice on what to avoid, added visual examples for the different types of pages, included links to research projects that inform header guidance</dd>
     <dt>
