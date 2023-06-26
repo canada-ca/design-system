@@ -144,7 +144,7 @@ title: "Site search box"
 <h2 id="changes">Latest changes</h2>
 <dl class="dl-horizontal">
   <dt>
-    <time datetime="2023-MM-DD" class="link-muted">2023-MM-DD</time>
+    <time datetime="2023-06-26" class="link-muted">2023-06-26</time>
   </dt>
   <dd>Updated the guidance to include advice on what to avoid, content and design specifications, visual examples, implementation guidance, support for search configuration, and policy rationale</dd>
 </dl>
