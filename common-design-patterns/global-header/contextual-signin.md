@@ -185,7 +185,7 @@ title: Contextual Sign in button
 	<h2 id="latest">Latest changes</h2>
 	<dl class="dl-horizontal">
 		<dt>
-			<time>2023-06-15</time>
+			<time>2023-06-26</time>
 		</dt>
 		<dd>Updated the guidance to include advice on what to avoid, content and design specifications, visual examples, implementation guidance, and policy rationale</dd>
 		<dt>
