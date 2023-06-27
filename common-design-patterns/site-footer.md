@@ -1,602 +1,325 @@
 ---
+altLangPage: "https://conception.canada.ca/configurations-conception-communes/pied-page.html"
+date: 2019-01-08
+dateModified: 2023-04-06
+description: "The global (site-wide) footer at the bottom of each page. It includes the main band, contextual band and sub-footer band. This is a mandatory pattern with optional elements."
+title: "Global footer"
 ---
-<!doctype html><!--[if lt IE 9]><html class="no-js lt-ie9" lang="en" dir="ltr"><![endif]--><!--[if gt IE 8]><!-->
-<html class="no-js" lang="en" dir="ltr">
-<!--<![endif]-->
-<head>
-<meta charset="utf-8">
-<!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
-		wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
-<title>Global footer - Canada.ca design system - Canada.ca</title>
-<meta content="width=device-width,initial-scale=1" name="viewport">
-<meta name="description" content="The global (site-wide) footer at the bottom of each page. It includes the main band, a contextual band and a sub-footer band. This is a mandatory pattern with optional elements." />
-<meta name="author" content="Treasury Board Secretariat of Canada" />
-<meta name="dcterms.title" content="Global footer" />
-<meta name="dcterms.description" content="The global (site-wide) footer at the bottom of each page. It includes the main band, a contextual band and a sub-footer band. This is a mandatory pattern with optional elements." />
-<meta name="dcterms.creator" content="Treasury Board Secretariat of Canada" />
-<meta name="dcterms.language" content="eng" />
-<meta name="dcterms.subject" content="Design system" />
-<meta name="dcterms.issued" content="2019-01-08" />
-<meta name="dcterms.modified" content="2023-02-08" />
-<!--[if gte IE 9 | !IE ]><!-->
-<link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon">
-<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
-<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/wet-boew.min.css" />
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous" />
-<link rel="stylesheet" href="../css/custom.css">
-<link rel="stylesheet" href="../css/split-h1.css">
-
-<!--<![endif]-->
-
-<!--[if lt IE 9]>
-		<link href="./GCWeb/assets/favicon.ico" rel="shortcut icon" />
-
-		<link rel="stylesheet" href="http://wet-boew.github.io/themes-dist/GCWeb/GCWeb/css/ie8-theme.min.css" />
-		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-		<script src="./wet-boew/js/ie8-wet-boew.min.js"></script>
-		<![endif]-->
-<!--[if lte IE 9]>
-
-
-		<![endif]-->
-<noscript>
-<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/wet-boew/css/noscript.min.css" />
-</noscript>
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105628416-2"></script>
-<script>
-
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-
-  gtag('config', 'UA-105628416-2');
-
-</script>
-</head>
-<body class="cnt-wdth-lmtd" vocab="http://schema.org/" typeof="WebPage">
-<ul id="wb-tphp">
-  <li class="wb-slc"> <a class="wb-sl" href="#wb-cont">Skip to main content</a> </li>
-  <li class="wb-slc"> <a class="wb-sl" href="#wb-info">Skip to "About government"</a> </li>
+<p><strong>Last updated</strong>: {{ page.dateModified }}</p>
+<p><span class="label label-danger">Mandatory</span></p>
+<p>The global (site-wide) footer at the bottom of each web page contains up to 3 bands:</p>
+<ul>
+  <li>Contextual band</li>
+  <li>Main band</li>
+  <li>Sub-footer band</li>
 </ul>
-<header>
-  <div id="wb-bnr" class="container">
-    <section id="wb-lng" class="text-right">
-      <h2 class="wb-inv">Language selection</h2>
-      <div class="row">
+<p><strong>2022 design update</strong>: We’ve recently updated this pattern as part of a new navigation strategy coming
+  out of the Wayfinding research project. To find out more about this project, visit the <a href="#research">Research and rationale</a> section on this page.</p>
+<!--<a href="">Blog post link</a>-->
+<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/footer-en-crop.png" class="img-responsive" alt=""> </div>
+<p><a href="site-footer-content.html">See Content footer pattern</a> for guidance on how to apply the Date modified, Share this page, Report a problem or Page feedback tool components.</p>
+<section>
+  <h2>On this page</h2>
+  <ul>
+    <li><a href="#use">When to use</a></li>
+    <li><a href="#avoid">What to avoid</a></li>
+    <li><a href="#design">Content and design</a></li>
+    <li><a href="#implement">How to implement</a></li>
+    <li><a href="#research">Research and rationale</a></li>
+    <li><a href="#latest">Latest changes</a></li>
+    <li><a href="#discuss">Discussion</a></li>
+  </ul>
+</section>
+<section>
+  <h2 id="use">When to use</h2>
+  <p>The footer acts as a rescue for people. They check it if they don't find what they want in the main content of the page.</p>
+  <p>Each element of the global footer provides direct, centralized access to specific types of content (for example, Contacts, Departments and agencies, Privacy).</p>
+  <p>Determine which footer elements to use based on the type of page you’re creating.</p>
+  <div class="wb-tabs">
+    <div class="tabpanels">
+      <details id="001" open="open">
+        <summary><strong>Standard pages</strong></summary>
+        <div class="col-md-9">
+          <p class="mrgn-tp-lg"><strong>Standard pages</strong> are pages where people can navigate away without losing data, triggering errors or terminating their session.</p>
+        </div>
         <div class="col-md-12">
-          <ul class="list-inline margin-bottom-none">
-            <li><a lang="fr" href="https://conception.canada.ca/configurations-conception-communes/pied-page.html">Français</a></li>
-          </ul>
+          <h3>Global footer requirements for a standard page</h3>
+          <div class="panel panel-default mrgn-tp-md">
+            <table class="table table-striped table-condensed" id="mandatory-01" aria-live="polite">
+              <caption class="wb-inv">
+              Global footer requirements
+              </caption>
+              <thead>
+                <tr>
+                  <th class="col-md-4">Footer element</th>
+                  <th class="col-md-3">Mandatory</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>1. <a href="site-footer-contextual.html">Contextual band</a></td>
+                  <td>Optional</td>
+                </tr>
+                <tr>
+                  <td>2. <a href="site-footer-main.html">Main band</a></td>
+                  <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Mandatory</span></td>
+                </tr>
+                <tr>
+                  <td>3. <a href="site-footer-sub.html">Sub-footer band with Canada wordmark
+                    <p></p>
+                    </a></td>
+                  <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Mandatory</span></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
         </div>
-      </div>
-    </section>
-    <div class="row">
-      <div class="brand col-xs-5 col-md-4"> <a href="https://www.canada.ca/en.html"><img src="http://www.canada.ca/etc/designs/canada/wet-boew/assets/sig-blk-en.svg" alt=""><span class="wb-inv"> Government of Canada / <span lang="fr">Gouvernement du Canada</span></span></a> </div>
-      <section id="wb-srch" class="col-lg-8 text-right">
-        <h2>Search</h2>
-        <form action="https://canada.ca/en/sr/srb.html" method="get" name="cse-search-box" role="search" class="form-inline">
-          <div class="form-group">
-            <label for="wb-srch-q" class="wb-inv">Search website</label>
-            <input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="38" maxlength="150" placeholder="Search Canada.ca">
-            <input name="st" value="s" type="hidden"/>
-            <input name="num" value="10" type="hidden"/>
-            <input name="langs" value="eng" type="hidden"/>
-            <input name="st1rt" value="0" type="hidden">
-            <input name="s5bm3ts21rch" value="x" type="hidden"/>
-            <datalist id="wb-srch-q-ac">
-
-              <!--[if lte IE 9]><select><![endif]-->
-
-              <!--[if lte IE 9]></select><![endif]-->
-
-            </datalist>
+      </details>
+      <details id="002">
+        <summary><strong>Transactional pages</strong></summary>
+        <div class="col-md-9">
+          <p class="mrgn-tp-lg"><strong>Transactional pages</strong> are pages with an interaction task where people might lose data, trigger errors, or terminate their session if they navigate away from the page.</p>
+        </div>
+        <div class="col-md-12">
+          <h3>Global footer requirements for a transactional page</h3>
+          <div class="panel panel-default mrgn-tp-md">
+            <table class="table table-striped table-condensed" id="mandatory-02" aria-live="polite">
+              <caption class="wb-inv">
+              Global footer requirements
+              </caption>
+              <thead>
+                <tr>
+                  <th class="col-md-4">Footer element</th>
+                  <th class="col-md-3">Mandatory</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>1. <a href="site-footer-contextual.html">Contextual band</a></td>
+                  <td>Optional</td>
+                </tr>
+                <tr>
+                  <td>2. <a href="site-footer-main.html">Main band</a></td>
+                  <td>Optional</td>
+                </tr>
+                <tr>
+                  <td>3. <a href="site-footer-sub.html">Sub-footer band with Canada wordmark</a></td>
+                  <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Mandatory</span></td>
+                </tr>
+              </tbody>
+            </table>
           </div>
-          <div class="form-group submit">
-            <button type="submit" id="wb-srch-sub" class="btn btn-primary btn-small" name="wb-srch-sub"><span class="glyphicon-search glyphicon"></span><span class="wb-inv">Search</span></button>
+        </div>
+      </details>
+      <details id="003">
+        <summary><strong>Campaign pages</strong></summary>
+        <div class="col-md-9">
+          <p class="mrgn-tp-lg"><strong>Campaign pages</strong> are landing pages for external marketing or advertising
+            campaigns. The flexibility in layout allows institutions to include elements of their external campaign in the page.</p>
+        </div>
+        <div class="col-md-12">
+          <h3>Global footer requirements for a campaign page</h3>
+          <div class="panel panel-default mrgn-tp-md">
+            <table class="table table-striped table-condensed" id="mandatory-03" aria-live="polite">
+              <caption class="wb-inv">
+              Global footer requirements
+              </caption>
+              <thead>
+                <tr>
+                  <th class="col-md-4">Footer element</th>
+                  <th class="col-md-3">Mandatory</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>1. <a href="site-footer-contextual.html">Contextual band</a></td>
+                  <td>Optional</td>
+                </tr>
+                <tr>
+                  <td>2. <a href="site-footer-main.html">Main band</a></td>
+                  <td>Optional</td>
+                </tr>
+                <tr>
+                  <td>3. <a href="site-footer-sub.html">Sub-footer band with Canada wordmark</a></td>
+                  <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Mandatory</span></td>
+                </tr>
+              </tbody>
+            </table>
           </div>
-        </form>
-      </section>
+        </div>
+      </details>
     </div>
   </div>
-  <nav class="gweb-v2 gcweb-menu" typeof="SiteNavigationElement">
-    <div class="container">
-      <h2 class="wb-inv">Menu</h2>
-      <button type="button" aria-haspopup="true" aria-controls="gc-mnu" aria-expanded="false"><span class="wb-inv">Main </span>Menu <span class="expicon glyphicon glyphicon-chevron-down"></span></button>
-      <ul id="gc-mnu" role="menu" aria-orientation="vertical" data-ajax-replace="https://www.canada.ca/content/dam/canada/sitemenu/sitemenu-v2-en.html">
-        <li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/jobs.html">Jobs and the workplace</a></li>
-        <li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/immigration-citizenship.html">Immigration and citizenship</a></li>
-        <li role="none presentation"><a role="menuitem" tabindex="-1" href="https://travel.gc.ca/">Travel and tourism</a></li>
-        <li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/business.html">Business and industry</a></li>
-        <li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/benefits.html">Benefits</a></li>
-        <li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/health.html">Health</a></li>
-        <li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/taxes.html">Taxes</a></li>
-        <li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/environment.html">Environment and natural resources</a></li>
-        <li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/defence.html">National security and defence</a></li>
-        <li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/culture.html">Culture, history and sport</a></li>
-        <li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/policing.html">Policing, justice and emergencies</a></li>
-        <li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/transport.html">Transport and infrastructure</a></li>
-        <li role="none presentation"><a role="menuitem" tabindex="-1" href="http://international.gc.ca/world-monde/index.aspx?lang=eng">Canada and the world</a></li>
-        <li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/finance.html">Money and finances</a></li>
-        <li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/finance.html">Science and innovation</a></li>
-      </ul>
-    </div>
-  </nav>
-  <nav id="wb-bc" property="breadcrumb">
-    <h2>You are here:</h2>
-    <div class="container">
-      <ol class="breadcrumb">
-        <li><a href="https://www.canada.ca/en.html">Canada.ca</a></li>
-        <li><a href="https://www.canada.ca/en/government/about.html">About Canada.ca</a></li>
-        <li><a href="https://www.canada.ca/en/government/about/design-system.html">Canada.ca design system</a></li>
-        <li><a href="https://www.canada.ca/en/government/about/design-system/pattern-library.html">Template and pattern library for Canada.ca</a></li>
-      </ol>
-    </div>
-  </nav>
-</header>
-
-<!--/* Hide Nav; Hide Right Rail /*-->
-
-<main role="main" property="mainContentOfPage" class="container">
-  <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Global footer</span>: <span>Canada.ca design system</span></span></h1>
-  <p><strong>Last updated</strong>: 2023-02-08</p>
-  <div>
-    <div class="mwsgeneric-base-html parbase section">
-
-      <!-- <p class="gc-byline"><strong>From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong> -->
-
-      <p><span class="label label-danger">Mandatory</span></p>
-      <p>The global (site-wide) footer at the bottom of each web page contains up to 3 bands:</p>
-      <ul>
-        <li>Contextual band</li>
-        <li>Main band</li>
-        <li>Sub-footer band</li>
-      </ul>
-      <p><strong>2022 design update</strong>: We’ve recently updated this pattern as part of a new navigation strategy coming
-        out of the Wayfinding research project. To find out more about this project, visit the <a href="#research">Research and rationale</a> section on this page.</p>
-
-      <!--<a href="">Blog post link</a>-->
-      <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/footer-en-crop.png" class="img-responsive"
-				alt=""> </div>
-      <p><a href="site-footer-content.html">See Content footer pattern</a> for guidance on how to apply the Date modified, Share this page, Report a problem or Page feedback tool components.</p>
-      <section>
-        <h2>On this page</h2>
-        <ul>
-          <li><a href="#use">When to use</a></li>
-          <li><a href="#avoid">What to avoid</a></li>
-          <li><a href="#design">Content and design</a></li>
-          <li><a href="#implement">How to implement</a></li>
-          <li><a href="#research">Research and rationale</a></li>
-          <li><a href="#latest">Latest changes</a></li>
-          <li><a href="#discuss">Discussion</a></li>
-        </ul>
-      </section>
-      <section>
-        <h2 id="use">When to use</h2>
-        <p>The footer acts as a rescue for people. They check it if they don't find what they want in the main content of the page.</p>
-        <p>Each element of the global footer provides direct, centralized access to specific types of content (for example, Contacts, Departments and agencies, Privacy).</p>
-        <p>Determine which footer elements to use based on the type of page you’re creating.</p>
-        <div class="wb-tabs">
-          <div class="tabpanels">
-            <details id="001" open="open">
-              <summary><strong>Standard pages</strong></summary>
-              <div class="col-md-9">
-                <p class="mrgn-tp-lg"><strong>Standard pages</strong> are pages where people can navigate away without losing
-                  data, triggering errors or terminating their session.</p>
-              </div>
-              <div class="col-md-12">
-                <h3>Global footer requirements for a standard page</h3>
-                <div class="panel panel-default mrgn-tp-md">
-                  <table class="table table-striped table-condensed" id="mandatory-01" aria-live="polite">
-                    <caption class="wb-inv">
-                    Global footer requirements
-                    </caption>
-                    <thead>
-                      <tr>
-                        <th class="col-md-4">Footer element</th>
-                        <th class="col-md-3">Mandatory</th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                      <tr>
-                        <td>1. <a href="site-footer-contextual.html">Contextual band</a></td>
-                        <td>Optional</td>
-                      </tr>
-                      <tr>
-                        <td>2. <a href="site-footer-main.html">Main band</a></td>
-                        <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Mandatory</span></td>
-                      </tr>
-                      <tr>
-                        <td>3. <a href="site-footer-sub.html">Sub-footer band with Canada wordmark
-                          <p></p>
-                          </a></td>
-                        <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Mandatory</span></td>
-                      </tr>
-                    </tbody>
-                  </table>
-                </div>
-              </div>
-            </details>
-            <details id="002">
-              <summary><strong>Transactional pages</strong></summary>
-              <div class="col-md-9">
-                <p class="mrgn-tp-lg"><strong>Transactional pages</strong> are pages with an interaction task where people
-                  might lose data, trigger errors, or terminate their session if they navigate away from the page.</p>
-              </div>
-              <div class="col-md-12">
-                <h3>Global footer requirements for a transactional page</h3>
-                <div class="panel panel-default mrgn-tp-md">
-                  <table class="table table-striped table-condensed" id="mandatory-02" aria-live="polite">
-                    <caption class="wb-inv">
-                    Global footer requirements
-                    </caption>
-                    <thead>
-                      <tr>
-                        <th class="col-md-4">Footer element</th>
-                        <th class="col-md-3">Mandatory</th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                      <tr>
-                        <td>1. <a href="site-footer-contextual.html">Contextual band</a></td>
-                        <td>Optional</td>
-                      </tr>
-                      <tr>
-                        <td>2. <a href="site-footer-main.html">Main band</a></td>
-                        <td>Optional</td>
-                      </tr>
-                      <tr>
-                        <td>3. <a href="site-footer-sub.html">Sub-footer band with Canada wordmark</a></td>
-                        <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Mandatory</span></td>
-                      </tr>
-                    </tbody>
-                  </table>
-                </div>
-              </div>
-            </details>
-            <details id="003">
-              <summary><strong>Campaign pages</strong></summary>
-              <div class="col-md-9">
-                <p class="mrgn-tp-lg"><strong>Campaign pages</strong> are landing pages for external marketing or advertising
-                  campaigns. The flexibility in layout allows institutions to include elements of their external campaign in the page.</p>
-              </div>
-              <div class="col-md-12">
-                <h3>Global footer requirements for a campaign page</h3>
-                <div class="panel panel-default mrgn-tp-md">
-                  <table class="table table-striped table-condensed" id="mandatory-03" aria-live="polite">
-                    <caption class="wb-inv">
-                    Global footer requirements
-                    </caption>
-                    <thead>
-                      <tr>
-                        <th class="col-md-4">Footer element</th>
-                        <th class="col-md-3">Mandatory</th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                      <tr>
-                        <td>1. <a href="site-footer-contextual.html">Contextual band</a></td>
-                        <td>Optional</td>
-                      </tr>
-                      <tr>
-                        <td>2. <a href="site-footer-main.html">Main band</a></td>
-                        <td>Optional</td>
-                      </tr>
-                      <tr>
-                        <td>3. <a href="site-footer-sub.html">Sub-footer band with Canada wordmark</a></td>
-                        <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Mandatory</span></td>
-                      </tr>
-                    </tbody>
-                  </table>
-                </div>
-              </div>
-            </details>
-          </div>
-        </div>
-      </section>
-      <section>
-        <h2 id="avoid">What to avoid</h2>
-        <p>Don’t customize the mandatory elements of the global footer, beyond what is recommended in the guidance for each. Consistency in this space is essential for building brand awareness and user trust.</p>
-        <p>For example, the Canada wordmark should always appear in the lower right corner and the links in the main band should never change.</p>
-      </section>
-      <section>
-        <h2 id="design">Content and design</h2>
-        <p>Find detailed content and design specifications for each element of the footer:</p>
-        <ol>
-          <li><a href="site-footer-contextual.html">Contextual band</a></li>
-          <li><a href="site-footer-main.html">Main band</a></li>
-          <li><a href="site-footer-sub.html">Sub-footer band</a></li>
-        </ol>
-        <h3>Visual examples</h3>
-        <details>
-          <summary class="bg-info">Standard pages</summary>
-          <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
-            <figure class="mrgn-tp-md mrgn-bttm-lg">
-              <figcaption><b>Global footer – large screen</b></figcaption>
-              <img src="../images/footer-en.png" class="img-responsive"
+</section>
+<section>
+  <h2 id="avoid">What to avoid</h2>
+  <p>Don’t customize the mandatory elements of the global footer, beyond what is recommended in the guidance for each. Consistency in this space is essential for building brand awareness and user trust.</p>
+  <p>For example, the Canada wordmark should always appear in the lower right corner and the links in the main band should never change.</p>
+</section>
+<section>
+  <h2 id="design">Content and design</h2>
+  <p>Find detailed content and design specifications for each element of the footer:</p>
+  <ol>
+    <li><a href="site-footer-contextual.html">Contextual band</a></li>
+    <li><a href="site-footer-main.html">Main band</a></li>
+    <li><a href="site-footer-sub.html">Sub-footer band</a></li>
+  </ol>
+  <h3>Visual examples</h3>
+  <details>
+    <summary class="bg-info">Standard pages</summary>
+    <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
+      <figure class="mrgn-tp-md mrgn-bttm-lg">
+        <figcaption><b>Global footer – large screen</b></figcaption>
+        <img src="../images/footer-en.png" class="img-responsive"
 				alt="Diagram of global footer for large screens. Text version below:">
-              <details>
-                <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Text version</summary>
-                <p>On large screens the global footer includes 3 distinct bands of links. The first is the
-                  contextual band. It contains a title and 3 contextual links in a single row. The second is the main band. It’s arranged in 3 columns and contains links to
-                  “All contacts,” “Departments and agencies,” and “About government.” There is a small decorative line as a break before
-                  continuing with links to all themes and audiences. The sub-footer is at the bottom and contains links to “Social media,”
-                  “Mobile applications,” “About Canada.ca,” “Terms and conditions,” and “Privacy.” These are all aligned to the left in a single
-                  row. It also includes the Canada wordmark in the same row, aligned to the right.</p>
-              </details>
-            </figure>
-          </div>
-          <div class="pattern-demo mrgn-tp-md mrgn-tp-lg">
-            <figure class="mrgn-tp-md mrgn-bttm-lg">
-              <figcaption><b>Global footer – small screen</b></figcaption>
-              <img src="../images/footer-mobile-en.png" class="img-responsive"
-				alt="Diagram of global footer for small screens. Text version below:">
-              <details>
-                <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Text version</summary>
-                <p>On small screens the global footer includes 3 distinct bands of links. The first is
-                  the contextual band. It contains a title and 3 contextual links in a single column. The second is the main band. It’s arranged in a single column and contains links
-                  to “All contacts,” “Departments and agencies,” and “About government.” There is a small decorative line as a break before
-                  continuing with links to all themes and audiences. The sub-footer is at the bottom and contains links to “Social media,”
-                  “Mobile applications,” “About Canada.ca,” “Terms and conditions,” and “Privacy,” arranged in 2 columns. Below these links is a final row with a “Top of page” link aligned to the left and the Canada wordmark aligned to the right.</p>
-              </details>
-            </figure>
-          </div>
-        </details>
         <details>
-          <summary class="bg-info">Transactional and campaign pages</summary>
-          <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
-            <figure class="mrgn-tp-md mrgn-bttm-lg">
-              <figcaption><b>Minimum global footer – large screen</b></figcaption>
-              <img src="../images/footer-min-en.png" class="img-responsive"
-					alt="Diagram of minimum global footer for large screens. Text version below:">
-              <details>
-                <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Text version</summary>
-                <p>On large screens, the minimum global footer for transactional and campaign pages includes only the sub-footer band with links
-                  to “Terms and conditions” and “Privacy.” These are aligned to the left in a single row. It also
-                  includes the Canada wordmark in the same row, aligned to the right.</p>
-              </details>
-            </figure>
-          </div>
-          <div class="pattern-demo mrgn-tp-md mrgn-tp-lg">
-            <figure class="mrgn-tp-md mrgn-bttm-lg">
-              <figcaption><b>Minimum global footer – small screen</b></figcaption>
-              <img src="../images/footer-min-mobile-en.png" class="img-responsive"
-					alt="Diagram of minimum global footer for small screens. Text version below:">
-              <details>
-                <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Text version</summary>
-                <p>On small screens, the minimum global footer for transactional and campaign pages includes only the sub-footer band, with
-                  links to “Terms and conditions” and “Privacy.” Below these links is a final row with a “Top of page”
-                  link, aligned to the left and the Canada wordmark aligned to the right.</p>
-              </details>
-            </figure>
-          </div>
+          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Text version</summary>
+          <p>On large screens the global footer includes 3 distinct bands of links. The first is the
+            contextual band. It contains a title and 3 contextual links in a single row. The second is the main band. It’s arranged in 3 columns and contains links to
+            “All contacts,” “Departments and agencies,” and “About government.” There is a small decorative line as a break before
+            continuing with links to all themes and audiences. The sub-footer is at the bottom and contains links to “Social media,”
+            “Mobile applications,” “About Canada.ca,” “Terms and conditions,” and “Privacy.” These are all aligned to the left in a single
+            row. It also includes the Canada wordmark in the same row, aligned to the right.</p>
         </details>
-      </section>
-      <section>
-        <h2 id="implement">How to implement</h2>
-        <h3>GCweb (WET) theme implementation reference</h3>
-        <h4>Default</h4>
+      </figure>
+    </div>
+    <div class="pattern-demo mrgn-tp-md mrgn-tp-lg">
+      <figure class="mrgn-tp-md mrgn-bttm-lg">
+        <figcaption><b>Global footer – small screen</b></figcaption>
+        <img src="../images/footer-mobile-en.png" class="img-responsive"
+				alt="Diagram of global footer for small screens. Text version below:">
+        <details>
+          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Text version</summary>
+          <p>On small screens the global footer includes 3 distinct bands of links. The first is
+            the contextual band. It contains a title and 3 contextual links in a single column. The second is the main band. It’s arranged in a single column and contains links
+            to “All contacts,” “Departments and agencies,” and “About government.” There is a small decorative line as a break before
+            continuing with links to all themes and audiences. The sub-footer is at the bottom and contains links to “Social media,”
+            “Mobile applications,” “About Canada.ca,” “Terms and conditions,” and “Privacy,” arranged in 2 columns. Below these links is a final row with a “Top of page” link aligned to the left and the Canada wordmark aligned to the right.</p>
+        </details>
+      </figure>
+    </div>
+  </details>
+  <details>
+    <summary class="bg-info">Transactional and campaign pages</summary>
+    <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
+      <figure class="mrgn-tp-md mrgn-bttm-lg">
+        <figcaption><b>Minimum global footer – large screen</b></figcaption>
+        <img src="../images/footer-min-en.png" class="img-responsive"
+					alt="Diagram of minimum global footer for large screens. Text version below:">
+        <details>
+          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Text version</summary>
+          <p>On large screens, the minimum global footer for transactional and campaign pages includes only the sub-footer band with links
+            to “Terms and conditions” and “Privacy.” These are aligned to the left in a single row. It also
+            includes the Canada wordmark in the same row, aligned to the right.</p>
+        </details>
+      </figure>
+    </div>
+    <div class="pattern-demo mrgn-tp-md mrgn-tp-lg">
+      <figure class="mrgn-tp-md mrgn-bttm-lg">
+        <figcaption><b>Minimum global footer – small screen</b></figcaption>
+        <img src="../images/footer-min-mobile-en.png" class="img-responsive"
+					alt="Diagram of minimum global footer for small screens. Text version below:">
+        <details>
+          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Text version</summary>
+          <p>On small screens, the minimum global footer for transactional and campaign pages includes only the sub-footer band, with
+            links to “Terms and conditions” and “Privacy.” Below these links is a final row with a “Top of page”
+            link, aligned to the left and the Canada wordmark aligned to the right.</p>
+        </details>
+      </figure>
+    </div>
+  </details>
+</section>
+<section>
+  <h2 id="implement">How to implement</h2>
+  <h3>GCweb (WET) theme implementation reference</h3>
+  <h4>Default</h4>
+  <ul>
+    <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/no-footer-contextual-en.html">Main band and sub-footer band</a></li>
+  </ul>
+  <h4>Alternate options for standard pages</h4>
+  <ul>
+    <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/footers-en.html">Complete footer (contextual, main and sub-footer bands)</a></li>
+  </ul>
+  <h4>Alternate options for transactional or campaign pages</h4>
+  <ul>
+    <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/no-footer-contextual-en.html">Main band and sub-footer band</a></li>
+    <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/only-footer-main-en.html">Main band and sub-footer band with no optional links</a></li>
+    <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/no-footer-main-en.html">Contextual band and sub-footer band</a></li>
+    <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/only-footer-contextual-en.html">Contextual band and sub-footer band with no optional links</a></li>
+    <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/only-footer-corporate-en.html">Sub-footer band only</a></li>
+    <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/no-footers-en.html">Sub-footer band only with no optional links</a></li>
+  </ul>
+</section>
+<section>
+  <h3>Implementations</h3>
+  <p>Determine the footer configuration that best suits your needs for the type of page you're creating. Refer to your implementation's guidance to customize the contextual band or sub-footer band links.</p>
+  <div class="wb-tabs mrgn-tp-lg">
+    <div class="tabpanels">
+      <details id="004" open="open">
+        <summary><strong>GC-AEM</strong></summary>
+        <p class="mrgn-tp-lg">For the Government of Canada Adobe Experience Manager (AEM):</p>
         <ul>
-          <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/no-footer-contextual-en.html">Main band and sub-footer band</a></li>
+          <li><a href="https://www.gcpedia.gc.ca/gcwiki/images/2/22/AEM-6.5-Documentation-Unit_3-1-1-_Customizing_Global_Footer.pdf">Customizing the Global footer (PDF - only available on the Government of Canada network)</a></li>
+          <li><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">AEM/Managed Web Service documentation (only available on the Government of Canada network)</a></li>
         </ul>
-        <h4>Alternate options for standard pages</h4>
+      </details>
+      <details id="005">
+        <summary><strong>CDTS</strong></summary>
+        <p class="mrgn-tp-lg">For the Centrally Deployed Templates Solution (CDTS):</p>
         <ul>
-          <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/footers-en.html">Complete footer (contextual, main and sub-footer bands)</a></li>
+          <li><a href="https://cdts.service.canada.ca/app/cls/WET/gcweb/v4_0_47/cdts/samples/footer-en.html">Complete footer (contextual, main, sub-footer bands)</a></li>
+          <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-en.html">CDTS documentation</a></li>
         </ul>
-        <h4>Alternate options for transactional or campaign pages</h4>
+      </details>
+      <details id="006">
+        <summary><strong>Drupal WxT</strong></summary>
+        <p class="mrgn-tp-lg">For Drupal WxT:</p>
         <ul>
-          <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/no-footer-contextual-en.html">Main band and sub-footer band</a></li>
-          <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/only-footer-main-en.html">Main band and sub-footer band with no optional links</a></li>
-          <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/no-footer-main-en.html">Contextual band and sub-footer band</a></li>
-          <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/only-footer-contextual-en.html">Contextual band and sub-footer band with no optional links</a></li>
-          <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/only-footer-corporate-en.html">Sub-footer band only</a></li>
-          <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/no-footers-en.html">Sub-footer band with no optional links</a></li>
+          <li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</a></li>
         </ul>
-      </section>
-      <section>
-        <h3>Implementations</h3>
-        <p>Determine the footer configuration that best suits your needs for the type of page you're creating. Refer to your implementation's guidance to customize the contextual band or sub-footer band links.</p>
-        <div class="wb-tabs mrgn-tp-lg">
-          <div class="tabpanels">
-            <details id="004" open="open">
-              <summary><strong>GC-AEM</strong></summary>
-              <p class="mrgn-tp-lg">For the Government of Canada Adobe Experience Manager (AEM):</p>
-              <ul>
-                <li><a href="https://www.gcpedia.gc.ca/gcwiki/images/2/22/AEM-6.5-Documentation-Unit_3-1-1-_Customizing_Global_Footer.pdf">Customizing the Global footer (PDF - only available on the Government of Canada network)</a></li>
-                <li><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">AEM/Managed Web Service documentation (only available on the Government of Canada network)</a></li>
-              </ul>
-            </details>
-            <details id="005">
-              <summary><strong>CDTS</strong></summary>
-              <p class="mrgn-tp-lg">For the Centrally Deployed Templates Solution (CDTS):</p>
-              <ul>
-                <li><a href="https://cdts.service.canada.ca/app/cls/WET/gcweb/v4_0_47/cdts/samples/footer-en.html">Complete footer (contextual, main, sub-footer bands)</a></li>
-                <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-en.html">CDTS documentation</a></li>
-              </ul>
-            </details>
-            <details id="006">
-              <summary><strong>Drupal WxT</strong></summary>
-              <p class="mrgn-tp-lg">For Drupal WxT:</p>
-              <ul>
-                <li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</a></li>
-              </ul>
-              <p>2023 footer update:</p>
-              <ul>
-                <li><a href="https://github.com/drupalwxt/wxt/releases/tag/4.4.1">Drupal WxT (4.4.1) release notes</a></li>
-                <li><a href="https://drupalwxt.github.io/en/docs/general/update/">Drupal WxT update process</a></li>
-              </ul>
-            </details>
-          </div>
-        </div>
-      </section>
-      <section>
-        <h2 id="research">Research and rationale</h2>
-        <p>We updated the global footer for Canada.ca to align with a new overall navigation strategy that came out of the
-          Wayfinding research project.</p>
+        <p>2023 footer update:</p>
         <ul>
-          <li><a href="https://blog.canada.ca/research-summaries/wayfinding-on-canada-ca">Wayfinding on Canada.ca research summary</a><br>
-            This summary explains the context of the research and the insights that drove the design updates.</li>
-          <li><a href="https://blog.canada.ca/2022/12/21/wayfinding-research-project">Wayfinding research project improves our approach to navigation on Canada.ca</a><br>
-            This blog post explains the changes that are being made to the Canada.ca design, and how they are being implemented.</li>
+          <li><a href="https://github.com/drupalwxt/wxt/releases/tag/4.4.1">Drupal WxT (4.4.1) release notes</a></li>
+          <li><a href="https://drupalwxt.github.io/en/docs/general/update/">Drupal WxT update process</a></li>
         </ul>
-      </section>
-      <section>
-        <h2 id="latest">Latest changes</h2>
-        <dl class="dl-horizontal">
-          <dt>
-            <time datetime="2023-02-08" class="link-muted">2023-02-08</time>
-          </dt>
-          <dd>Added links to GC-AEM, CDTS and Drupal WxT implementation guidance</dd>
-          <dt>
-            <time datetime="2022-12-23" class="link-muted">2022-12-23</time>
-          </dt>
-          <dd>Added links to the research summary and blog post for the Wayfinding project</dd>
-          <dt>
-            <time datetime="2022-11-30" class="link-muted">2022-11-30</time>
-          </dt>
-          <dd>Updated pattern to reflect design changes from the Wayfinding project, moved detailed specifications to sub pages
-            specific to individual bands</dd>
-        </dl>
-      </section>
-      <section>
-        <h2 id="discuss">Discussion</h2>
-        <ul>
-          <li><a href="https://github.com/canada-ca/design-system-systeme-conception/issues">Discuss the pattern in GitHub
-            issues</a></li>
-          <li><a href="https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM">Join the conversation on Slack</a></li>
-          <li><a href="mailto:dto.btn@tbs-sct.gc.ca">Send an email to the Digital Transformation Office</a></li>
-        </ul>
-      </section>
-
-      <!-- START PAGE FEEDBACK WIDGET -->
-      <div class="row row-no-gutters mrgn-tp-xl">
-        <div class="col-sm-7 col-lg-6">
-          <section class="gc-pg-hlpfl provisional">
-            <div class="well mrgn-bttm-0">
-              <form id="gc-pg-hlpfl-frm" action="#" method="post" autocomplete="off">
-                <input type="hidden" name="institutionopt" value="tbs">
-                <input type="hidden" name="themeopt" value="Policies">
-                <input type="hidden" name="language" value="EN">
-                <input type="hidden" name="pageTitle" value="Designing content for Canada.ca">
-                <input type="hidden" name="submissionPage" value="https://design.canada.ca/common-design-patterns/site-footer.html">
-                <input type="hidden" name="sectionopt" value="Design system">
-                <input type="hidden" id="helpful" name="helpful" value="Yes">
-                <div class="gc-pg-hlpfl-btn">
-                  <div class="row row-no-gutters">
-                    <div class="col-xs-12 col-sm-7 mrgn-tp-sm">
-                      <h2 class="mrgn-tp-sm h5">Did you find what you were looking for?</h2>
-                    </div>
-                    <div class="col-xs-8 col-sm-5 text-right">
-                      <button id="btnyes" type="submit" value="Yes" class="btn btn-primary">Yes</button>
-                      <button id="btnno" type="button" class="btn btn-primary mrgn-lft-sm nojs-hide">No</button>
-                    </div>
-                  </div>
-                </div>
-                <p class="h3 hidden nojs-show">If not, tell us why:</p>
-                <div class="gc-pg-hlpfl-no nojs-show">
-                  <fieldset>
-                    <legend class="h4 mrgn-tp-0 mrgn-bttm-md">What was wrong?</legend>
-                    <div class="radio">
-                      <label for="problem1">
-                        <input name="problem" id="problem1" type="radio" value="I can't find the information"
-														data-gc-analytics-wtph-value="I can't find the information-Je ne peux pas trouver l'information"
-														data-gc-analytics-collect="notPrivate">
-                        I can't <strong>find</strong> the information </label>
-                    </div>
-                    <div class="radio">
-                      <label for="problem2">
-                        <input name="problem" id="problem2" type="radio" value="The information is hard to understand"
-														data-gc-analytics-wtph-value="The information is hard to understand-L'information est difficile à comprendre"
-														data-gc-analytics-collect="notPrivate">
-                        The information is hard to <strong>understand</strong> </label>
-                    </div>
-                    <div class="radio">
-                      <label for="problem3">
-                        <input name="problem" id="problem3" type="radio" value="There was an error / something didn't work"
-														data-gc-analytics-wtph-value="There was an error or something didn't work-Il y avait une erreur ou quelque chose ne fonctionnait pas"
-														data-gc-analytics-collect="notPrivate">
-                        There was an error or something <strong>didn't work</strong> </label>
-                    </div>
-                    <div class="radio">
-                      <label for="problem4">
-                        <input name="problem" id="problem4" type="radio" value="Other reason"
-														data-gc-analytics-wtph-value="Other reason-Autre raison" data-gc-analytics-collect="notPrivate">
-                        Other reason </label>
-                    </div>
-                  </fieldset>
-                  <label for="problem6" class="mrgn-bttm-0">Please provide more details</label>
-                  <p class="small"> <strong>You will not receive a reply. Telephone numbers and email addresses will be
-                    removed.</strong> <br>
-                    <span class="small">Maximum 300 characters</span> </p>
-                  <textarea id="problem6" name="details" class="full-width" maxlength="300"></textarea>
-                  <button type="submit" value="No" class="btn btn-primary mrgn-tp-md mrgn-bttm-sm">Submit</button>
-                </div>
-              </form>
-              <div class="gc-pg-hlpfl-thnk hide">
-                <p class="h6 mrgn-tp-sm mrgn-bttm-sm"><span class="far fa-check-circle text-success mrgn-rght-sm"
-											aria-hidden="true"></span> Thank you for your feedback</p>
-              </div>
-            </div>
-          </section>
-        </div>
-        <div class="col-sm-3 col-sm-offset-1 col-lg-offset-3">
-          <div class="wb-share"
-							data-wb-share="{&quot;pnlId&quot;:&quot;pnlShrPg&quot;, &quot;lnkClass&quot;: &quot;btn btn-default btn-block mrgn-tp-md&quot;}"> </div>
-        </div>
-      </div>
-      <!-- END PAGE FEEDBACK WIDGET -->
-      <div class="pagedetails">
-        <dl id="wb-dtmd">
-          <dt>Date modified:</dt>
-          <dd>
-            <time property="dateModified">2023-02-08</time>
-          </dd>
-        </dl>
-      </div>
+      </details>
     </div>
   </div>
-</main>
-{% include footer-en.html %}
-<!--[if gte IE 9 | !IE ]><!-->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.js"></script>
-<script src="https://wet-boew.github.io/themes-dist/GCWeb/wet-boew/js/wet-boew.min.js"></script>
-<!--<![endif]-->
-<!--[if lt IE 9]>
-			<script src="./wet-boew/js/ie8-wet-boew2.min.js"></script>
-
-			<![endif]-->
-<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script> <script>
-         document.getElementById('submissionPage').value = location.href;
-      </script>
-<!-- START SCRIPT PAGE FEEDBACK WIDGET -->
-
-<script>
-				$(document).on("wb-ready.wb", function () {
-					$("#btnno").click(function (e) {
-						$(".gc-pg-hlpfl-no").removeClass("nojs-show");
-						$(".gc-pg-hlpfl-btn").addClass("hide");
-						$("#helpful").val("No");
-					});
-					$("#gc-pg-hlpfl-frm").submit(function (e) {
-						e.preventDefault();
-						$(".gc-pg-hlpfl-thnk").removeClass("hide");
-						$("#gc-pg-hlpfl-frm").addClass("hide nojs-show");
-						$.ajax({
-							url: 'https://pagesuccessemailqueue.azurewebsites.net/api/QueueProblemForm',
-							type: 'POST',
-							dataType: 'text',
-							data: $('form#gc-pg-hlpfl-frm').serialize(),
-							success: function (data) { },
-							error: function (xhr, status, err) {
-								console.log(xhr.responseText);
-							}
-						});
-					});
-				});
-			</script>
-<!-- END SCRIPT PAGE FEEDBACK WIDGET -->
-</body>
-</html>
+</section>
+<section>
+  <h2 id="research">Research and rationale</h2>
+  <p>We updated the global footer for Canada.ca to align with a new overall navigation strategy that came out of the
+    Wayfinding research project.</p>
+  <ul>
+    <li><a href="https://blog.canada.ca/research-summaries/wayfinding-on-canada-ca">Wayfinding on Canada.ca research summary</a><br>
+      This summary explains the context of the research and the insights that drove the design updates.</li>
+    <li><a href="https://blog.canada.ca/2022/12/21/wayfinding-research-project">Wayfinding research project improves our approach to navigation on Canada.ca</a><br>
+      This blog post explains the changes that are being made to the Canada.ca design, and how they are being implemented.</li>
+  </ul>
+</section>
+<section>
+  <h2 id="latest">Latest changes</h2>
+  <dl class="dl-horizontal">
+    <dt>
+      <time datetime="2023-02-08" class="link-muted">2023-02-08</time>
+    </dt>
+    <dd>Added links to GC-AEM, CDTS and Drupal WxT implementation guidance</dd>
+    <dt>
+      <time datetime="2022-12-23" class="link-muted">2022-12-23</time>
+    </dt>
+    <dd>Added links to the research summary and blog post for the Wayfinding project</dd>
+    <dt>
+      <time datetime="2022-11-30" class="link-muted">2022-11-30</time>
+    </dt>
+    <dd>Updated pattern to reflect design changes from the Wayfinding project, moved detailed specifications to sub pages specific to individual bands</dd>
+  </dl>
+</section>
+<section>
+  <h2 id="discuss">Discussion</h2>
+  <ul>
+    <li><a href="https://github.com/canada-ca/design-system-systeme-conception/issues">Discuss the pattern in GitHub
+      issues</a></li>
+    <li><a href="https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM">Join the conversation on Slack</a></li>
+    <li><a href="mailto:dto.btn@tbs-sct.gc.ca">Send an email to the Digital Transformation Office</a></li>
+  </ul>
+</section>
