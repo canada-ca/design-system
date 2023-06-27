@@ -39,11 +39,6 @@ title: "Global header"
   </section>
   <h2 id="when">When to use</h2>
   <p>The global header is mandatory on all Government of Canada web pages. Determine which header elements to use based on the type of page you’re creating.</p>
-  <!--<ul>
-  <li><a href="global-header.html#001">Standard pages</a></li>
-  <li><a href="global-header.html#002">Transactional pages</a></li>
-  <li><a href="global-header.html#003">Campaign pages</a></li>
-</ul>-->
 </div>
 <div class="row">
   <div class="col-md-8">
@@ -404,7 +399,7 @@ title: "Global header"
   <h2 id="changes">Latest changes</h2>
   <dl class="dl-horizontal">
     <dt>
-      <time datetime=2023-06-26" class="link-muted">2023-06-26</time>
+      <time datetime="2023-06-26" class="link-muted">2023-06-26</time>
     </dt>
     <dd>Updated pattern to reflect design changes from the trust study and wayfinding project, added advice on what to avoid, added visual examples for the different types of pages, included links to research projects that inform header guidance</dd>
     <dt>
@@ -416,3 +411,4 @@ title: "Global header"
     </dt>
     <dd>The small screen version was modified to a slimmer version</dd>
   </dl>
+</div>
