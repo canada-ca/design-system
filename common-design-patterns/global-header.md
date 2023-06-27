@@ -5,41 +5,39 @@ dateModified: 2023-06-26
 description: "The requirements listed in this design manual apply to departments and other portions of the federal public administration as set out in Schedules I, I.1 and II of the Financial Administration Act. As such, in-scope institutions must apply Canada.ca design requirements for all public-facing web sites or digital services."
 title: "Global header"
 ---
-<div class="cnt-wdth-lmtd">
-  <div class="row">
-    <div class="col-md-12 pull-left">
-      <ul class="list-inline small mrgn-bttm-sm" style="line-height:1.65em" id="list-inline-desktop-only">
-        <li class="mrgn-rght-lg">Last updated:  {{ page.dateModified }}</li>
-      </ul>
-    </div>
-  </div>
-  <p><span class="label label-danger">Mandatory</span></p>
-  <p>The global header is at the top of each web page from the Government of Canada.</p>
-  <p>Having the same global header on all pages:</p>
-  <ul>
-    <li>strengthens the Canada.ca brand</li>
-    <li>promotes trust</li>
-    <li>provides a unified experience on the Government of Canada web presence</li>
-    <li>allows navigation across the broad range of services and information offered</li>
-  </ul>
-  <p><strong>2023 design update</strong>: We’ve recently updated this pattern as part of a new navigation strategy coming out of the Wayfinding research project. To find out more about this project, visit <a href="#research">Research and rationale</a>.</p>
-  <div class="pattern-demo mrgn-tp-lg">
-    <figure class="mrgn-bttm-sm"><img src="../images/01-sign-in-desktop-en.jpg" class="img-responsive" alt=""></figure>
-  </div>
-  <section>
-    <h2>On this page</h2>
-    <ul>
-      <li><a href="#when">When to use</a></li>
-      <li><a href="#avoid">What to avoid</a></li>
-      <li><a href="#content">Content and design</a></li>
-      <li><a href="#implementation">How to implement</a></li>
-      <li><a href="#research">Research and rationale</a></li>
-      <li><a href="#changes">Latest changes</a></li>
+<div class="row">
+  <div class="col-md-12 pull-left">
+    <ul class="list-inline small mrgn-bttm-sm" style="line-height:1.65em" id="list-inline-desktop-only">
+      <li class="mrgn-rght-lg">Last updated:  {{ page.dateModified }}</li>
     </ul>
-  </section>
-  <h2 id="when">When to use</h2>
-  <p>The global header is mandatory on all Government of Canada web pages. Determine which header elements to use based on the type of page you’re creating.</p>
+  </div>
 </div>
+<p><span class="label label-danger">Mandatory</span></p>
+<p>The global header is at the top of each web page from the Government of Canada.</p>
+<p>Having the same global header on all pages:</p>
+<ul>
+  <li>strengthens the Canada.ca brand</li>
+  <li>promotes trust</li>
+  <li>provides a unified experience on the Government of Canada web presence</li>
+  <li>allows navigation across the broad range of services and information offered</li>
+</ul>
+<p><strong>2023 design update</strong>: We’ve recently updated this pattern as part of a new navigation strategy coming out of the Wayfinding research project. To find out more about this project, visit <a href="#research">Research and rationale</a>.</p>
+<div class="pattern-demo mrgn-tp-lg">
+  <figure class="mrgn-bttm-sm"><img src="../images/01-sign-in-desktop-en.jpg" class="img-responsive" alt=""></figure>
+</div>
+<section>
+  <h2>On this page</h2>
+  <ul>
+    <li><a href="#when">When to use</a></li>
+    <li><a href="#avoid">What to avoid</a></li>
+    <li><a href="#content">Content and design</a></li>
+    <li><a href="#implementation">How to implement</a></li>
+    <li><a href="#research">Research and rationale</a></li>
+    <li><a href="#changes">Latest changes</a></li>
+  </ul>
+</section>
+<h2 id="when">When to use</h2>
+<p>The global header is mandatory on all Government of Canada web pages. Determine which header elements to use based on the type of page you’re creating.</p>
 <div class="row">
   <div class="col-md-8">
     <div class="wb-tabs mrgn-tp-lg">
@@ -218,129 +216,127 @@ title: "Global header"
     </div>
   </div>
 </div>
-<div class="cnt-wdth-lmtd">
-  <h2 id="avoid">What to avoid</h2>
-  <p>Don’t customize the mandatory elements of the global header, beyond what is recommended in the guidance for each. Consistency in this space is essential for building brand awareness and user trust.</p>
-  <p>For example, the flag symbol in the Government of Canada signature should always be the proper red and the first breadcrumb link should always be labeled “Canada.ca” and point to the Canada.ca home page.</p>
-  <h2 id="content">Content and design</h2>
-  <p>Find content and design specifications and visual examples.</p>
-  <ul>
-    <li><a href="signature.html">Government of Canada signature</a></li>
-    <li><a href="language-toggle.html">Language toggle</a></li>
-    <li><a href="search-box.html">Site search box</a></li>
-    <li><a href="contextual-signin.html">Sign in button</a></li>
-    <li><a href="site-menu.html">Theme and topic menu</a></li>
-    <li><a href="breadcrumb-trail.html">Breadcrumb trail</a></li>
-  </ul>
-  <h3>Visual examples</h3>
-  <details>
-    <summary class="bg-info">Standard pages</summary>
-    <div class="pattern-demo mrgn-tp-lg">
-      <figure>
-        <figcaption><b>Global header – large screen</b></figcaption>
-        <img src="../images/01-sign-in-desktop-en.jpg" class="img-responsive" alt="">
-        <details class="mrgn-tp-md">
-          <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: global header – large screen</summary>
-          <p class="mrgn-tp-lg">On large screens, the global header on a standard page has 4 rows:</p>
-          <ol>
-            <li>Language toggle in the top-right corner</li>
-            <li>Government of Canada signature in the left corner, site search box on the right</li>
-            <li>Below a divider line, the theme and topic menu is on the left, the optional Sign in button is on the right</li>
-            <li>Breadcrumb on the left</li>
-          </ol>
-        </details>
-      </figure>
-    </div>
-    <div class="pattern-demo mrgn-tp-lg">
-      <figure>
-        <figcaption><b>Global header – small screen</b></figcaption>
-        <img src="../images/01-sign-in-mobile-en.jpg" class="img-responsive" alt="">
-        <details class="mrgn-tp-md">
-          <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: global header – small screen</summary>
-          <p class="mrgn-tp-lg">On small screens, the global header on a standard page has 4 rows:</p>
-          <ol>
-            <li>Government of Canada signature in the top-left corner, language toggle in the top-right corner</li>
-            <li>Site search box directly below, it spans the entire row</li>
-            <li>Below a divider line, the theme and topic menu is on the left, the optional Sign in button is on the right</li>
-            <li>Breadcrumb on the left</li>
-          </ol>
-        </details>
-      </figure>
-    </div>
-  </details>
-  <details>
-    <summary class="bg-info">Transactional pages</summary>
-    <div class="pattern-demo mrgn-tp-lg">
-      <figure>
-        <figcaption><b>Minimum global header - large screen</b></figcaption>
-        <img src="../images/01-global-header-transactional-desktop-en.png" class="img-responsive" alt="">
-        <details class="mrgn-tp-md">
-          <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: minimum global header - large screen</summary>
-          <p class="mrgn-tp-lg">On large screens, the minimum global header on a transactional page has 2 rows:</p>
-          <ol>
-            <li>Language toggle in the top-right corner</li>
-            <li>Government of Canada signature in the top-left corner with a divider line underneath</li>
-          </ol>
-        </details>
-      </figure>
-    </div>
-    <div class="pattern-demo mrgn-tp-lg">
-      <figure>
-        <figcaption><b>Minimum global header - small screen</b></figcaption>
-        <img src="../images/01-global-header-transactional-small-en.png" class="img-responsive" alt="">
-        <details class="mrgn-tp-md">
-          <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: minimum global header - small screen</summary>
-          <p class="mrgn-tp-lg">On small screens, the minimum global header on a transactional page has a single row:</p>
-          <ol>
-            <li>Government of Canada signature in the top-left corner, language toggle in the top-right corner, with a divider line underneath</li>
-          </ol>
-        </details>
-      </figure>
-    </div>
-  </details>
-  <details>
-    <summary class="bg-info">Campaign pages</summary>
-    <div class="pattern-demo mrgn-tp-lg">
-      <figure>
-        <figcaption><b>Minimum global header - large screen</b></figcaption>
-        <img src="../images/01-global-header-campaign-desktop-en.png" class="img-responsive" alt="">
-        <details class="mrgn-tp-md">
-          <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: minimum global header - large screen</summary>
-          <p class="mrgn-tp-lg">On large screens, the minimum global header on a campaign page has 3 rows:</p>
-          <ol>
-            <li>Language toggle in the top-right corner</li>
-            <li>Government of Canada signature in the top-left corner, site search box on the right</li>
-            <li>Below a divider line, the breadcrumb on the left</li>
-          </ol>
-        </details>
-      </figure>
-    </div>
-    <div class="pattern-demo mrgn-tp-lg">
-      <figure>
-        <figcaption><b>Minimum global header - small screen</b></figcaption>
-        <img src="../images/01-global-header-campaign-small-en.png" class="img-responsive" alt="">
-        <details class="mrgn-tp-md">
-          <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: minimum global header - small screen</summary>
-          <p class="mrgn-tp-lg">On small screens, the minimum global header on a campaign page has 3 rows:</p>
-          <ol>
-            <li>Government of Canada signature in the top-left corner, language toggle on the far right</li>
-            <li>Site search box directly below, it spans the entire row</li>
-            <li>Below a divider line, the breadcrumb on the left</li>
-          </ol>
-        </details>
-      </figure>
-    </div>
-  </details>
-  <h2 id="implementation">How to implement</h2>
-  <p>Find working examples and code for implementing the header.</p>
-  <h3>GCweb (WET) theme implementation reference</h3>
-  <p>The implementation reference includes how to configure each element of the header.</p>
-  <ul>
-    <li><a href="https://wet-boew.github.io/GCWeb/sites/header/header-docs-en.html">GCWeb (WET) header documentation</a></li>
-  </ul>
-  <h3>Implementations</h3>
-  <p>Determine what best suits the type of page you're creating. Refer to your implementation's guidance if you want to exclude breadcrumbs.</p>
-</div>
+<h2 id="avoid">What to avoid</h2>
+<p>Don’t customize the mandatory elements of the global header, beyond what is recommended in the guidance for each. Consistency in this space is essential for building brand awareness and user trust.</p>
+<p>For example, the flag symbol in the Government of Canada signature should always be the proper red and the first breadcrumb link should always be labeled “Canada.ca” and point to the Canada.ca home page.</p>
+<h2 id="content">Content and design</h2>
+<p>Find content and design specifications and visual examples.</p>
+<ul>
+  <li><a href="signature.html">Government of Canada signature</a></li>
+  <li><a href="language-toggle.html">Language toggle</a></li>
+  <li><a href="search-box.html">Site search box</a></li>
+  <li><a href="contextual-signin.html">Sign in button</a></li>
+  <li><a href="site-menu.html">Theme and topic menu</a></li>
+  <li><a href="breadcrumb-trail.html">Breadcrumb trail</a></li>
+</ul>
+<h3>Visual examples</h3>
+<details>
+  <summary class="bg-info">Standard pages</summary>
+  <div class="pattern-demo mrgn-tp-lg">
+    <figure>
+      <figcaption><b>Global header – large screen</b></figcaption>
+      <img src="../images/01-sign-in-desktop-en.jpg" class="img-responsive" alt="">
+      <details class="mrgn-tp-md">
+        <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: global header – large screen</summary>
+        <p class="mrgn-tp-lg">On large screens, the global header on a standard page has 4 rows:</p>
+        <ol>
+          <li>Language toggle in the top-right corner</li>
+          <li>Government of Canada signature in the left corner, site search box on the right</li>
+          <li>Below a divider line, the theme and topic menu is on the left, the optional Sign in button is on the right</li>
+          <li>Breadcrumb on the left</li>
+        </ol>
+      </details>
+    </figure>
+  </div>
+  <div class="pattern-demo mrgn-tp-lg">
+    <figure>
+      <figcaption><b>Global header – small screen</b></figcaption>
+      <img src="../images/01-sign-in-mobile-en.jpg" class="img-responsive" alt="">
+      <details class="mrgn-tp-md">
+        <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: global header – small screen</summary>
+        <p class="mrgn-tp-lg">On small screens, the global header on a standard page has 4 rows:</p>
+        <ol>
+          <li>Government of Canada signature in the top-left corner, language toggle in the top-right corner</li>
+          <li>Site search box directly below, it spans the entire row</li>
+          <li>Below a divider line, the theme and topic menu is on the left, the optional Sign in button is on the right</li>
+          <li>Breadcrumb on the left</li>
+        </ol>
+      </details>
+    </figure>
+  </div>
+</details>
+<details>
+  <summary class="bg-info">Transactional pages</summary>
+  <div class="pattern-demo mrgn-tp-lg">
+    <figure>
+      <figcaption><b>Minimum global header - large screen</b></figcaption>
+      <img src="../images/01-global-header-transactional-desktop-en.png" class="img-responsive" alt="">
+      <details class="mrgn-tp-md">
+        <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: minimum global header - large screen</summary>
+        <p class="mrgn-tp-lg">On large screens, the minimum global header on a transactional page has 2 rows:</p>
+        <ol>
+          <li>Language toggle in the top-right corner</li>
+          <li>Government of Canada signature in the top-left corner with a divider line underneath</li>
+        </ol>
+      </details>
+    </figure>
+  </div>
+  <div class="pattern-demo mrgn-tp-lg">
+    <figure>
+      <figcaption><b>Minimum global header - small screen</b></figcaption>
+      <img src="../images/01-global-header-transactional-small-en.png" class="img-responsive" alt="">
+      <details class="mrgn-tp-md">
+        <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: minimum global header - small screen</summary>
+        <p class="mrgn-tp-lg">On small screens, the minimum global header on a transactional page has a single row:</p>
+        <ol>
+          <li>Government of Canada signature in the top-left corner, language toggle in the top-right corner, with a divider line underneath</li>
+        </ol>
+      </details>
+    </figure>
+  </div>
+</details>
+<details>
+  <summary class="bg-info">Campaign pages</summary>
+  <div class="pattern-demo mrgn-tp-lg">
+    <figure>
+      <figcaption><b>Minimum global header - large screen</b></figcaption>
+      <img src="../images/01-global-header-campaign-desktop-en.png" class="img-responsive" alt="">
+      <details class="mrgn-tp-md">
+        <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: minimum global header - large screen</summary>
+        <p class="mrgn-tp-lg">On large screens, the minimum global header on a campaign page has 3 rows:</p>
+        <ol>
+          <li>Language toggle in the top-right corner</li>
+          <li>Government of Canada signature in the top-left corner, site search box on the right</li>
+          <li>Below a divider line, the breadcrumb on the left</li>
+        </ol>
+      </details>
+    </figure>
+  </div>
+  <div class="pattern-demo mrgn-tp-lg">
+    <figure>
+      <figcaption><b>Minimum global header - small screen</b></figcaption>
+      <img src="../images/01-global-header-campaign-small-en.png" class="img-responsive" alt="">
+      <details class="mrgn-tp-md">
+        <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: minimum global header - small screen</summary>
+        <p class="mrgn-tp-lg">On small screens, the minimum global header on a campaign page has 3 rows:</p>
+        <ol>
+          <li>Government of Canada signature in the top-left corner, language toggle on the far right</li>
+          <li>Site search box directly below, it spans the entire row</li>
+          <li>Below a divider line, the breadcrumb on the left</li>
+        </ol>
+      </details>
+    </figure>
+  </div>
+</details>
+<h2 id="implementation">How to implement</h2>
+<p>Find working examples and code for implementing the header.</p>
+<h3>GCweb (WET) theme implementation reference</h3>
+<p>The implementation reference includes how to configure each element of the header.</p>
+<ul>
+  <li><a href="https://wet-boew.github.io/GCWeb/sites/header/header-docs-en.html">GCWeb (WET) header documentation</a></li>
+</ul>
+<h3>Implementations</h3>
+<p>Determine what best suits the type of page you're creating. Refer to your implementation's guidance if you want to exclude breadcrumbs.</p>
 <div class="row">
   <div class="col-md-8">
     <div class="wb-tabs mrgn-tp-lg">
@@ -370,45 +366,43 @@ title: "Global header"
     </div>
   </div>
 </div>
-<div class="cnt-wdth-lmtd">
-  <h2 id="research">Research and rationale</h2>
-  <p>Consult research findings and policy rationale.</p>
-  <h3>Research findings</h3>
-  <p>Two research projects informed the latest updates to the header guidance.</p>
-  <h4>Trust Signals for Canada.ca study</h4>
-  <p>Our Canada.ca trust study and prior research show that a consistent header is necessary to maintaining a trusted brand.</p>
-  <p>For example, people trust:</p>
-  <ul>
-    <li>the flag in the Government of Canada signature more when it’s red</li>
-    <li>a white background more than dark mode</li>
-  </ul>
-  <p>If you want to know more about this research, contact the Digital Transformation Office at <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a>.</p>
-  <h4>Wayfinding on Canada.ca project</h4>
-  <p>We updated the global header for Canada.ca to align with a new overall navigation strategy that came out of the Wayfinding research project.</p>
-  <ul>
-    <li><a href="https://blog.canada.ca/research-summaries/wayfinding-on-canada-ca">Wayfinding on Canada.ca research summary</a><br>
-      Explains the context of the research and the insights that drove the design updates</li>
-    <li><a href="https://blog.canada.ca/2022/12/21/wayfinding-research-project">Wayfinding research project improves our approach to navigation on Canada.ca</a><br>
-      Blog post explaining the changes that are being made to the Canada.ca design, and how they are being implemented</li>
-  </ul>
-  <h3>Policy rationale</h3>
-  <p>This pattern is a mandatory element of the <cite>Content and Information Architecture Specification.</cite></p>
-  <ul>
-    <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html">Mandatory elements of the design system</a></li>
-  </ul>
-  <h2 id="changes">Latest changes</h2>
-  <dl class="dl-horizontal">
-    <dt>
-      <time datetime="2023-06-26" class="link-muted">2023-06-26</time>
-    </dt>
-    <dd>Updated pattern to reflect design changes from the trust study and wayfinding project, added advice on what to avoid, added visual examples for the different types of pages, included links to research projects that inform header guidance</dd>
-    <dt>
-      <time datetime="2022-08-17" class="link-muted">2022-08-17</time>
-    </dt>
-    <dd>Updated content design for clarity, added contextual Sign in button, added implementation resources to the global header</dd>
-    <dt>
-      <time datetime="2020-06-25" class="link-muted">2020-06-25</time>
-    </dt>
-    <dd>The small screen version was modified to a slimmer version</dd>
-  </dl>
-</div>
+<h2 id="research">Research and rationale</h2>
+<p>Consult research findings and policy rationale.</p>
+<h3>Research findings</h3>
+<p>Two research projects informed the latest updates to the header guidance.</p>
+<h4>Trust Signals for Canada.ca study</h4>
+<p>Our Canada.ca trust study and prior research show that a consistent header is necessary to maintaining a trusted brand.</p>
+<p>For example, people trust:</p>
+<ul>
+  <li>the flag in the Government of Canada signature more when it’s red</li>
+  <li>a white background more than dark mode</li>
+</ul>
+<p>If you want to know more about this research, contact the Digital Transformation Office at <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a>.</p>
+<h4>Wayfinding on Canada.ca project</h4>
+<p>We updated the global header for Canada.ca to align with a new overall navigation strategy that came out of the Wayfinding research project.</p>
+<ul>
+  <li><a href="https://blog.canada.ca/research-summaries/wayfinding-on-canada-ca">Wayfinding on Canada.ca research summary</a><br>
+    Explains the context of the research and the insights that drove the design updates</li>
+  <li><a href="https://blog.canada.ca/2022/12/21/wayfinding-research-project">Wayfinding research project improves our approach to navigation on Canada.ca</a><br>
+    Blog post explaining the changes that are being made to the Canada.ca design, and how they are being implemented</li>
+</ul>
+<h3>Policy rationale</h3>
+<p>This pattern is a mandatory element of the <cite>Content and Information Architecture Specification.</cite></p>
+<ul>
+  <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html">Mandatory elements of the design system</a></li>
+</ul>
+<h2 id="changes">Latest changes</h2>
+<dl class="dl-horizontal">
+  <dt>
+    <time datetime="2023-06-26" class="link-muted">2023-06-26</time>
+  </dt>
+  <dd>Updated pattern to reflect design changes from the trust study and wayfinding project, added advice on what to avoid, added visual examples for the different types of pages, included links to research projects that inform header guidance</dd>
+  <dt>
+    <time datetime="2022-08-17" class="link-muted">2022-08-17</time>
+  </dt>
+  <dd>Updated content design for clarity, added contextual Sign in button, added implementation resources to the global header</dd>
+  <dt>
+    <time datetime="2020-06-25" class="link-muted">2020-06-25</time>
+  </dt>
+  <dd>The small screen version was modified to a slimmer version</dd>
+</dl>
