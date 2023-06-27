@@ -120,9 +120,9 @@ title: "Theme and topic menu"
 	</li>
 	<li class="mrgn-tp-lg">Theme list styles:
 		<ul>
-			<li>Background colour: (#444)</li>
+			<li>Background colour: #444)/li>
 			<li>Text colour: white (#FFF)</li>
-			<li>Background colour selected: (#FFF)</li>
+			<li>Background colour selected: #FFF</li>
 			<li>Text colour when selected: dark grey (#333)</li>
 			<li>Text size: 18px</li>
 			<li>Font: Noto Sans</li>
