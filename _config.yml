@@ -27,7 +27,7 @@ defaults:
       path: "**/*.md" # Ensure it's applied to all pages
     values:
       css:
-        - https://design.canada.ca/css/split-h1.css
+        - /css/split-h1.css
         - https://use.fontawesome.com/releases/v5.15.4/css/all.css
         - /css/blog.css
         - /css/custom.css
@@ -76,7 +76,7 @@ defaults:
         - title: Global header
           link: https://design.canada.ca/common-design-patterns/global-header.html
       permalink: /common-design-patterns/:basename:output_ext
-  - scope:
+ - scope:
       path: "common-design-patterns/global-footer/*.md"
     values:
       breadcrumbs:
