@@ -44,12 +44,12 @@ title: "Site search box"
 </ul>
 <p>In the text input field, the placeholder label is:</p>
 <ul>
-  <li>“Search Canada.ca” in English</li>
+  <li>"Search Canada.ca" in English</li>
   <li>"Rechercher dans Canada.ca" in French</li>
 </ul>
 <p>The placeholder label in a contextualized search box is:</p>
 <ul>
-  <li>“Search [institution]” in English</li>
+  <li>"Search [institution]" in English</li>
   <li>"Rechercher dans [institution]" in French</li>
 </ul>
 <h4>Interactions</h4>
@@ -76,7 +76,7 @@ title: "Site search box"
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: site search box - large screen</summary>
       <p class="mrgn-tp-lg">The search box appears in the top-right corner, underneath the language toggle and directly across from the Government of Canada signature. </p>
       <p>The site search bar is a rectangle, defined by a light grey border. Within the rectangle are the words, ‘Search Canada.ca’.  To the right of the rectangle is a blue square with a white magnifying glass icon within.</p>
-         </details>
+    </details>
   </figure>
 </div>
 <div class="pattern-demo mrgn-tp-lg">
