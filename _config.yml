@@ -87,6 +87,22 @@
     },
     {
       "scope": {
+        "path": "architecture/canada-content-information-architecture-specification.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+            "title": "About Canada.ca",
+            "link": "https://www.canada.ca/en/government/about.html"
+          },
+          {
+            "title": "Design system",
+            "link": "https://www.canada.ca/en/government/about/design-system.html"
+          }
+        ]
+      }
+    },
+    {
+      "scope": {
         "path": "common-design-patterns/*.md"
       },
       "values": {
