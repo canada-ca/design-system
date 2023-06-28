@@ -12,26 +12,24 @@
   "global": {
     "contextualFooter": {
       "title": {
-        "fr": "Bureau de la transformation numérique (BTN)"
+        "en": "Digital Transformation Office (DTO)"
       },
       "links": {
-        "fr": [{
-          "url": "/contactez-nous/",
-          "text": "Contactez-nous"
+        "en": [{
+          "url": "/contact-us/",
+          "text": "Contact us"
         }]
       }
     },
-    "lang": "fr"
+    "lang": "en"
   },
   "plugins": [
     "jekyll-remote-theme"
   ],
   "remote_theme": "wet-boew/gcweb-jekyll",
-  "title": "Système de conception",
-  "url": "https://conception.canada.ca",
+  "title": "Design system",
+  "url": "https://design.canada.ca",
   "altLangUrl": "https://conception.canada.ca",
-  "canadacaUrl": "https://www.canada.ca",
-  "blogcaUrl": "https://blog.canada.ca",
   "defaults": [{
       "scope": {
         "path": "**/*.md"
@@ -49,20 +47,20 @@
     },
     {
       "scope": {
-        "path": "sondage"
+        "path": "survey"
       },
       "values": {
         "breadcrumbs": [{
-            "title": "À propos de Canada.ca",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html"
+            "title": "About Canada.ca",
+            "link": "https://www.canada.ca/en/government/about.html"
           },
           {
-            "title": "Analyses, sondage et commentaires",
-            "link": "https://www.canada.ca/fr/analytique.html"
+            "title": "Analytics and feedback",
+            "link": "https://www.canada.ca/en/analytics.html"
           },
           {
-            "title": "Sondage sur la réussite des tâches",
-            "link": "sondage/index.html"
+            "title": "GC Task Success Survey",
+            "link": "survey/index.html"
           }
         ]
       }
@@ -73,120 +71,120 @@
       },
       "values": {
         "breadcrumbs": [{
-            "title": "À propos de Canada.ca",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html"
+            "title": "About Canada.ca",
+            "link": "https://www.canada.ca/en/government/about.html"
           },
           {
-            "title": "Système de conception",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html"
+            "title": "Design system",
+            "link": "https://www.canada.ca/en/government/about/design-system.html"
           },
           {
-            "title": "Spécifications de l'architecture de l'information",
-            "link": "https://conception.canada.ca/architecture/specifications-contenu-architecture-information-canada.html"
+            "title": "Information architecture specification",
+            "link": "https://design.canada.ca/architecture/canada-content-information-architecture-specification.html"
           }
         ]
       }
     },
     {
       "scope": {
-        "path": "architecture/specifications-contenu-architecture-information-canada.md"
+        "path": "architecture/canada-content-information-architecture-specification.md"
       },
       "values": {
         "breadcrumbs": [{
-            "title": "À propos de Canada.ca",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html"
+            "title": "About Canada.ca",
+            "link": "https://www.canada.ca/en/government/about.html"
           },
           {
-            "title": "Système de conception",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html"
+            "title": "Design system",
+            "link": "https://www.canada.ca/en/government/about/design-system.html"
           }
         ]
       }
     },
     {
       "scope": {
-        "path": "configurations-conception-communes/*.md"
+        "path": "common-design-patterns/*.md"
       },
       "values": {
         "breadcrumbs": [{
-            "title": "À propos de Canada.ca",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html"
+            "title": "About Canada.ca",
+            "link": "https://www.canada.ca/en/government/about.html"
           },
           {
-            "title": "Système de conception",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html"
+            "title": "Design system",
+            "link": "https://www.canada.ca/en/government/about/design-system.html"
           },
           {
-            "title": "Modèles et conception",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html"
+            "title": "Template and pattern library",
+            "link": "https://www.canada.ca/en/government/about/design-system/pattern-library.html"
           }
         ]
       }
     },
     {
       "scope": {
-        "path": "configurations-conception-communes/en-tete-global/*.md"
+        "path": "common-design-patterns/global-header/*.md"
       },
       "values": {
         "breadcrumbs": [{
-            "title": "À propos de Canada.ca",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html"
+            "title": "About Canada.ca",
+            "link": "https://www.canada.ca/en/government/about.html"
           },
           {
-            "title": "Système de conception",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html"
+            "title": "Design system",
+            "link": "https://www.canada.ca/en/government/about/design-system.html"
           },
           {
-            "title": "Modèles et conception",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html"
+            "title": "Template and pattern library",
+            "link": "https://www.canada.ca/en/government/about/design-system/pattern-library.html"
           },
           {
-            "title": "En-tête général",
-            "link": "https://conception.canada.ca/configurations-conception-communes/en-tete-general.html"
+            "title": "Global header",
+            "link": "https://design.canada.ca/common-design-patterns/global-header.html"
           }
         ],
-        "permalink": "/configurations-conception-communes/:basename:output_ext"
+        "permalink": "/common-design-patterns/:basename:output_ext"
       }
     },
     {
       "scope": {
-        "path": "configurations-conception-communes/pied-page-general/*.md"
+        "path": "common-design-patterns/global-footer/*.md"
       },
       "values": {
         "breadcrumbs": [{
-            "title": "À propos de Canada.ca",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html"
+            "title": "About Canada.ca",
+            "link": "https://www.canada.ca/en/government/about.html"
           },
           {
-            "title": "Système de conception",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html"
+            "title": "Design system",
+            "link": "https://www.canada.ca/en/government/about/design-system.html"
           },
           {
-            "title": "Modèles et conception",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html"
+            "title": "Template and pattern library",
+            "link": "https://www.canada.ca/en/government/about/design-system/pattern-library.html"
           },
           {
-            "title": "Pied de page général",
-            "link": "https://conception.canada.ca/configurations-conception-communes/pied-page.html"
+            "title": "Global footer",
+            "link": "https://design.canada.ca/common-design-patterns/site-footer.html"
           }
         ],
-        "permalink": "/configurations-conception-communes/:basename:output_ext"
+        "permalink": "/common-design-patterns/:basename:output_ext"
       }
     },
     {
       "scope": {
-        "path": "a-propos"
+        "path": "about"
       },
       "values": {
         "breadcrumbs": [{
-          "title": "À propos de Canada.ca",
-          "link": "https://conception.canada.ca/a-propos/a-propos.html"
+          "title": "About Canada.ca",
+          "link": "https://design.canada.ca/about/"
         }]
       }
     },
     {
       "scope": {
-        "path": "a-propos/index.md"
+        "path": "about/index.md"
       },
       "values": {
         "breadcrumbs": true
@@ -194,36 +192,36 @@
     },
     {
       "scope": {
-        "path": "guide-redaction/*.md"
+        "path": "style-guide/*.md"
       },
       "values": {
         "breadcrumbs": [{
-            "title": "À propos de Canada.ca",
-            "link": "https://conception.canada.ca/a-propos/a-propos.html"
+            "title": "About Canada.ca",
+            "link": "https://design.canada.ca/about/"
           },
           {
-            "title": "Système de conception",
+            "title": "Design system",
             "link": "https://www.canada.ca/en/government/about/design-system.html"
           },
           {
-            "title": "Guide de rédaction du contenu",
-            "link": "https://conception.canada.ca/guide-redaction/"
+            "title": "Canada.ca Content Style Guide",
+            "link": "https://design.canada.ca/style-guide/"
           }
         ]
       }
     },
     {
       "scope": {
-        "path": "guide-redaction/index.md"
+        "path": "style-guide/index.md"
       },
       "values": {
         "breadcrumbs": [{
-            "title": "À propos de Canada.ca",
-            "link": "https://conception.canada.ca/a-propos/a-propos.html"
+            "title": "About Canada.ca",
+            "link": "https://design.canada.ca/about/"
           },
           {
-            "title": "Système de conception",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html"
+            "title": "Design system",
+            "link": "https://www.canada.ca/en/government/about/design-system.html"
           }
         ]
       }
