@@ -27,11 +27,9 @@
     "jekyll-remote-theme"
   ],
   "remote_theme": "wet-boew/gcweb-jekyll",
-  "title": "Canada.ca design system",
+  "title": "Design system",
   "url": "https://design.canada.ca",
   "altLangUrl": "https://conception.canada.ca",
-  "canadacaUrl": "https://www.canada.ca",
-  "blogcaUrl": "https://blog.canada.ca",
   "defaults": [{
       "scope": {
         "path": "**/*.md"
@@ -69,7 +67,7 @@
     },
     {
       "scope": {
-        "path": "architecture/*.md"
+        "path": "architecture"
       },
       "values": {
         "breadcrumbs": [{
@@ -127,6 +125,31 @@
           {
             "title": "Global header",
             "link": "https://design.canada.ca/common-design-patterns/global-header.html"
+          }
+        ],
+        "permalink": "/common-design-patterns/:basename:output_ext"
+      }
+    },
+    {
+      "scope": {
+        "path": "common-design-patterns/global-footer/*.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+            "title": "About Canada.ca",
+            "link": "https://www.canada.ca/en/government/about.html"
+          },
+          {
+            "title": "Design system",
+            "link": "https://www.canada.ca/en/government/about/design-system.html"
+          },
+          {
+            "title": "Template and pattern library",
+            "link": "https://www.canada.ca/en/government/about/design-system/pattern-library.html"
+          },
+          {
+            "title": "Global footer",
+            "link": "https://design.canada.ca/common-design-patterns/site-footer.html"
           }
         ],
         "permalink": "/common-design-patterns/:basename:output_ext"
