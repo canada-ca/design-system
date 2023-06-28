@@ -3,7 +3,6 @@ altLangPage: "https://conception.canada.ca/architecture/elements-obligatoires.ht
 date: 2017-10-05
 dateModified: 2023-03-28
 description: "Mandatory elements for all Government of Canada webpages."
-layout: default
 title: "Mandatory elements of the Canada.ca design system"
 ---
 
