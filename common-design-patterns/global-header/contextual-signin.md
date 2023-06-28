@@ -137,7 +137,7 @@ title: Contextual Sign in button
 </section>
 <section>
 	<h2 id="how">How to implement</h2>
-	<p>Find working examples and code for implementing the header.</p>
+	<p>Find working examples and code for implementing the Sign in button.</p>
 	<h3>GCweb (WET) theme implementation reference</h3>
 	<p>The implementation reference includes how to configure each element of the header.</p>
 	<ul>
