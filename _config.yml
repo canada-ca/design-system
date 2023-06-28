@@ -1,202 +1,191 @@
 {
-    "analytics": {
-        "providers": [
-            "adobe"
-        ],
-        "adobe": {
-            "tracking_id": "be5dfd287373/0127575cd23a/launch-f7c3e6060667",
-            "service": "TBS-DTO_BTN-SCT"
-        }
-    },
-    "baseurl": "",
-    "global": {
-        "contextualFooter": {
-            "title": {
-                "en": "Digital Transformation Office (DTO)"
-            },
-            "links": {
-                "en": [
-                    {
-                        "url": "/contact-us/",
-                        "text": "Contact us"
-                    }
-                ]
-            }
-        },
-        "lang": "en"
-    },
-    "plugins": [
-        "jekyll-remote-theme"
+  "analytics": {
+    "providers": [
+      "adobe"
     ],
-    "remote_theme": "wet-boew/gcweb-jekyll",
-    "title": "Canada.ca design system",
-    "url": "https://design.canada.ca",
-    "altLangUrl": "https://conception.canada.ca",
-    "canadacaUrl": "https://www.canada.ca",
-    "blogcaUrl": "https://blog.canada.ca",
-    "defaults": [
-        {
-            "scope": {
-                "path": "**/*.md"
-            },
-            "values": {
-                "css": [
-                    "/css/split-h1.css",
-                    "https://use.fontawesome.com/releases/v5.15.4/css/all.css",
-                    "/css/blog.css",
-                    "/css/custom.css"
-                ],
-                "layout": "default",
-                "pageclass": "cnt-wdth-lmtd"
-            }
-        },
-        {
-            "scope": {
-                "path": "survey"
-            },
-            "values": {
-                "breadcrumbs": [
-                    {
-                        "title": "About Canada.ca",
-                        "link": "https://www.canada.ca/en/government/about.html"
-                    },
-                    {
-                        "title": "Analytics and feedback",
-                        "link": "https://www.canada.ca/en/analytics.html"
-                    },
-                    {
-                        "title": "GC Task Success Survey",
-                        "link": "survey/index.html"
-                    }
-                ]
-            }
-        },
-        {
-            "scope": {
-                "path": "architecture/*.md"
-            },
-            "values": {
-                "breadcrumbs": [
-                    {
-                        "title": "About Canada.ca",
-                        "link": "https://www.canada.ca/en/government/about.html"
-                    },
-                    {
-                        "title": "Design system",
-                        "link": "https://www.canada.ca/en/government/about/design-system.html"
-                    },
-                    {
-                        "title": "Information architecture specification",
-                        "link": "https://design.canada.ca/architecture/canada-content-information-architecture-specification.html"
-                    }
-                ]
-            }
-        },
-        {
-            "scope": {
-                "path": "common-design-patterns/*.md"
-            },
-            "values": {
-                "breadcrumbs": [
-                    {
-                        "title": "About Canada.ca",
-                        "link": "https://www.canada.ca/en/government/about.html"
-                    },
-                    {
-                        "title": "Design system",
-                        "link": "https://www.canada.ca/en/government/about/design-system.html"
-                    },
-                    {
-                        "title": "Template and pattern library",
-                        "link": "https://www.canada.ca/en/government/about/design-system/pattern-library.html"
-                    }
-                ]
-            }
-        },
-        {
-            "scope": {
-                "path": "common-design-patterns/global-header/*.md"
-            },
-            "values": {
-                "breadcrumbs": [
-                    {
-                        "title": "About Canada.ca",
-                        "link": "https://www.canada.ca/en/government/about.html"
-                    },
-                    {
-                        "title": "Design system",
-                        "link": "https://www.canada.ca/en/government/about/design-system.html"
-                    },
-                    {
-                        "title": "Template and pattern library",
-                        "link": "https://www.canada.ca/en/government/about/design-system/pattern-library.html"
-                    },
-                    {
-                        "title": "Global header",
-                        "link": "https://design.canada.ca/common-design-patterns/global-header.html"
-                    }
-                ],
-                "permalink": "/common-design-patterns/:basename:output_ext"
-            }
-        },
-        {
-            "scope": {
-                "path": "about"
-            },
-            "values": {
-                "breadcrumbs": [
-                    {
-                        "title": "About Canada.ca",
-                        "link": "https://design.canada.ca/about/"
-                    }
-                ]
-            }
-        },
-        {
-            "scope": {
-                "path": "about/index.md"
-            },
-            "values": {
-                "breadcrumbs": true
-            }
-        },
-        {
-            "scope": {
-                "path": "style-guide/*.md"
-            },
-            "values": {
-                "breadcrumbs": [
-                    {
-                        "title": "About Canada.ca",
-                        "link": "https://design.canada.ca/about/"
-                    },
-                    {
-                        "title": "Design system",
-                        "link": "https://www.canada.ca/en/government/about/design-system.html"
-                    },
-                    {
-                        "title": "Canada.ca Content Style Guide",
-                        "link": "https://design.canada.ca/style-guide/"
-                    }
-                ]
-            }
-        },
-        {
-            "scope": {
-                "path": "style-guide/index.md"
-            },
-            "values": {
-                "breadcrumbs": [
-                    {
-                        "title": "About Canada.ca",
-                        "link": "https://design.canada.ca/about/"
-                    },
-                    {
-                        "title": "Design system",
-                        "link": "https://www.canada.ca/en/government/about/design-system.html"
-                    }
-                ]
-            }
-        }
-    ]
+    "adobe": {
+      "tracking_id": "be5dfd287373/0127575cd23a/launch-f7c3e6060667",
+      "service": "TBS-DTO_BTN-SCT"
+    }
+  },
+  "baseurl": "",
+  "global": {
+    "contextualFooter": {
+      "title": {
+        "en": "Digital Transformation Office (DTO)"
+      },
+      "links": {
+        "en": [{
+          "url": "/contact-us/",
+          "text": "Contact us"
+        }]
+      }
+    },
+    "lang": "en"
+  },
+  "plugins": [
+    "jekyll-remote-theme"
+  ],
+  "remote_theme": "wet-boew/gcweb-jekyll",
+  "title": "Canada.ca design system",
+  "url": "https://design.canada.ca",
+  "altLangUrl": "https://conception.canada.ca",
+  "canadacaUrl": "https://www.canada.ca",
+  "blogcaUrl": "https://blog.canada.ca",
+  "defaults": [{
+      "scope": {
+        "path": "**/*.md"
+      },
+      "values": {
+        "css": [
+          "/css/split-h1.css",
+          "https://use.fontawesome.com/releases/v5.15.4/css/all.css",
+          "/css/blog.css",
+          "/css/custom.css"
+        ],
+        "layout": "default",
+        "pageclass": "cnt-wdth-lmtd"
+      }
+    },
+    {
+      "scope": {
+        "path": "survey"
+      },
+      "values": {
+        "breadcrumbs": [{
+            "title": "About Canada.ca",
+            "link": "https://www.canada.ca/en/government/about.html"
+          },
+          {
+            "title": "Analytics and feedback",
+            "link": "https://www.canada.ca/en/analytics.html"
+          },
+          {
+            "title": "GC Task Success Survey",
+            "link": "survey/index.html"
+          }
+        ]
+      }
+    },
+    {
+      "scope": {
+        "path": "architecture/*.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+            "title": "About Canada.ca",
+            "link": "https://www.canada.ca/en/government/about.html"
+          },
+          {
+            "title": "Design system",
+            "link": "https://www.canada.ca/en/government/about/design-system.html"
+          },
+          {
+            "title": "Information architecture specification",
+            "link": "https://design.canada.ca/architecture/canada-content-information-architecture-specification.html"
+          }
+        ]
+      }
+    },
+    {
+      "scope": {
+        "path": "common-design-patterns/*.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+            "title": "About Canada.ca",
+            "link": "https://www.canada.ca/en/government/about.html"
+          },
+          {
+            "title": "Design system",
+            "link": "https://www.canada.ca/en/government/about/design-system.html"
+          },
+          {
+            "title": "Template and pattern library",
+            "link": "https://www.canada.ca/en/government/about/design-system/pattern-library.html"
+          }
+        ]
+      }
+    },
+    {
+      "scope": {
+        "path": "common-design-patterns/global-header/*.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+            "title": "About Canada.ca",
+            "link": "https://www.canada.ca/en/government/about.html"
+          },
+          {
+            "title": "Design system",
+            "link": "https://www.canada.ca/en/government/about/design-system.html"
+          },
+          {
+            "title": "Template and pattern library",
+            "link": "https://www.canada.ca/en/government/about/design-system/pattern-library.html"
+          },
+          {
+            "title": "Global header",
+            "link": "https://design.canada.ca/common-design-patterns/global-header.html"
+          }
+        ],
+        "permalink": "/common-design-patterns/:basename:output_ext"
+      }
+    },
+    {
+      "scope": {
+        "path": "about"
+      },
+      "values": {
+        "breadcrumbs": [{
+          "title": "About Canada.ca",
+          "link": "https://design.canada.ca/about/"
+        }]
+      }
+    },
+    {
+      "scope": {
+        "path": "about/index.md"
+      },
+      "values": {
+        "breadcrumbs": true
+      }
+    },
+    {
+      "scope": {
+        "path": "style-guide/*.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+            "title": "About Canada.ca",
+            "link": "https://design.canada.ca/about/"
+          },
+          {
+            "title": "Design system",
+            "link": "https://www.canada.ca/en/government/about/design-system.html"
+          },
+          {
+            "title": "Canada.ca Content Style Guide",
+            "link": "https://design.canada.ca/style-guide/"
+          }
+        ]
+      }
+    },
+    {
+      "scope": {
+        "path": "style-guide/index.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+            "title": "About Canada.ca",
+            "link": "https://design.canada.ca/about/"
+          },
+          {
+            "title": "Design system",
+            "link": "https://www.canada.ca/en/government/about/design-system.html"
+          }
+        ]
+      }
+    }
+  ]
 }
