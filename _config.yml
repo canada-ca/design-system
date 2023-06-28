@@ -19,12 +19,9 @@ plugins:
 remote_theme: wet-boew/gcweb-jekyll
 title: Canada.ca design system
 url: "https://design.canada.ca"
-altLangUrl: "https://conception.canada.ca"
-
-# url variables
-urlconceptioncanadaca: "https://conception.canada.ca" # conception.canada.ca (French)
-urlcanadaca: "https://www.canada.ca" # Canada.ca (AEM)
-urlblogca: "https://blog.canada.ca"  # Canada.ca design blog
+altLangUrl: "https://conception.canada.ca" 
+canadacaUrl: "https://www.canada.ca" # Canada.ca (AEM)
+blogcaUrl: "https://blog.canada.ca"  # Canada.ca design blog
 
 # Page front matter defaults
 defaults:
@@ -49,7 +46,7 @@ defaults:
       - title: GC Task Success Survey
         link: survey/index.html
   - scope:
-      path: "architecture"
+      path: "architecture/*.md""
     values:
       breadcrumbs:
         - title: About Canada.ca
@@ -92,7 +89,7 @@ defaults:
     values:
       breadcrumbs: true
   - scope:
-      path: "style-guide"
+      path: "style-guide/*.md"
     values:
       breadcrumbs:
         - title: About Canada.ca
