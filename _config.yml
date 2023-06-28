@@ -81,4 +81,31 @@ defaults:
         - title: Global header
           link: https://design.canada.ca/common-design-patterns/global-header.html
       permalink: /common-design-patterns/:basename:output_ext
-
+  - scope:
+      path: "about"
+    values:
+      breadcrumbs:
+        - title: About Canada.ca
+          link: https://design.canada.ca/about/	
+  - scope:
+      path: "about/index.md"
+    values:
+      breadcrumbs: true
+  - scope:
+      path: "style-guide"
+    values:
+      breadcrumbs:
+        - title: About Canada.ca
+          link: https://design.canada.ca/about/
+        - title: Design system
+          link: https://www.canada.ca/en/government/about/design-system.html
+        - title: Canada.ca Content Style Guide
+          link: https://design.canada.ca/style-guide/
+  - scope:
+      path: "style-guide/index.md"
+    values:
+      breadcrumbs:
+        - title: About Canada.ca
+          link: https://design.canada.ca/about/
+        - title: Design system
+          link: https://www.canada.ca/en/government/about/design-system.html
