@@ -3,7 +3,6 @@ altLangPage: "https://conception.canada.ca/architecture/modeles.html"
 date: 2017-10-05
 dateModified: 2023-03-28
 description: "Templates and design patterns of the Canada.ca design system."
-layout: default
 title: "Designing content on Canada.ca"
 ---
 <p class="gc-byline"><strong>From: <a href="{{ site.urlcanadaca }}/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
