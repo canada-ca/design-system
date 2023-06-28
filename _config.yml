@@ -46,7 +46,7 @@ defaults:
       - title: GC Task Success Survey
         link: survey/index.html
   - scope:
-      path: "architecture/*.md""
+      path: "architecture/*.md"
     values:
       breadcrumbs:
         - title: About Canada.ca
