@@ -31,7 +31,7 @@
   "url": "https://design.canada.ca",
   "altLangUrl": "https://conception.canada.ca",
   "include": [
-    "/_redirects"
+    "_redirects"
   ],
   "defaults": [{
       "scope": {
