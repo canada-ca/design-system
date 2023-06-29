@@ -14,13 +14,15 @@ global:
         - url: "/contact-us/"
           text: Contact us
   lang: en
-include: _redirects
 plugins:
   - jekyll-remote-theme
 remote_theme: wet-boew/gcweb-jekyll
 title: Canada.ca design system
 url: "https://design.canada.ca"
 altLangUrl: "https://conception.canada.ca"
+
+# include redirect file
+include: /_redirects
 
 # Page front matter defaults
 defaults:
