@@ -138,6 +138,8 @@ title: "Theme and topic menu"
 		</ul>
 	</li>
 </ol>
+<h4>Accessibility</h4>
+<p>Style the menu button label as capital letters, but write the label in sentence case (Menu), so screen readers don't read each letter individually.</p>
 <h3>Visual examples</h3>
 <div class="pattern-demo mrgn-tp-lg">
 	<figure>
