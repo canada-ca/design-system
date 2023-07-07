@@ -65,8 +65,24 @@ title: "Global footer: Main band"
 <ul>
   <li>Background colour: Primary accent colour (#26374a)</li>
   <li>Text colour: white (#FFFFFF)</li>
-  <li>Text size: 14 px or 0.875 em</li>
-  <li>Font: Noto Sans</li>
+  <li>Font family:
+    <ul>
+      <li>header: Lato</li>
+      <li>links: Noto Sans</li>
+    </ul>
+  </li>
+  <li>Text size (base size for the footer is 16px):
+    <ul>
+      <li>header: 19px or 1.2em</li>
+      <li>links: 14px or 0.875em</li>
+    </ul>
+  </li>
+  <li>Font weight:
+    <ul>
+      <li>header: 700 or bold</li>
+      <li>links: 400 or regular</li>
+    </ul>
+  </li>
   <li>Silhouette image of parliament set to the lower right</li>
   <li>Columns: 3 column in large and medium screen formats, 1 column in small screen format</li>
 </ul>
