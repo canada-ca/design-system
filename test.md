@@ -20,7 +20,7 @@ Use this design system to provide a more usable, consistent and trustworthy onli
             <p>Writing principles and techniques to make content clear and accessible to all</p>
         </div>
         <div class="col-md-4">
-            <h3 class="h5"><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification.html">Canada.ca Content and Information Architecture Specification</a></h3>
+            <h3 class="h5"><a href="./canada-content-information-architecture-specification.html">Canada.ca Content and Information Architecture Specification</a></h3>
             <p>Who has to use the Canada.ca design system, mandatory elements, how to organize content and design principles</p>
         </div>
         <div class="col-md-4">
