@@ -4,12 +4,14 @@
 
 ### macOS ###
 # General
-.DS_Store
+*.py
+.aider*
 .AppleDouble
+.DS_Store
 .LSOverride
 .obsidian/
-*.py
 log*.md
+
 
 # Icon must end with two \r
 Icon
@@ -18,20 +20,20 @@ Icon
 ._*
 
 # Files that might appear in the root of a volume
+.com.apple.timemachine.donotpresent
 .DocumentRevisions-V100
 .fseventsd
 .Spotlight-V100
 .TemporaryItems
 .Trashes
 .VolumeIcon.icns
-.com.apple.timemachine.donotpresent
 
 # Directories potentially created on remote AFP share
 .AppleDB
+.apdisk
 .AppleDesktop
 Network Trash Folder
 Temporary Items
-.apdisk
 
 # Node
 node_modules/
@@ -39,6 +41,6 @@ node_modules/
 # Jekyll
 .jekyll-cache
 _site
-vendor
 Gemfile
 Gemfile*
+vendor

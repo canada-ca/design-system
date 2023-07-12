@@ -3,9 +3,9 @@ altLangUrl:
   fr: https://conception.canada.ca
 analytics:
   providers:
-    adobe:
-      tracking_id: be5dfd287373/0127575cd23a/launch-f7c3e6060667
-      service: TBS-DTO_BTN-SCT
+    # adobe:
+    #   tracking_id: be5dfd287373/0127575cd23a/launch-f7c3e6060667
+    #   service: TBS-DTO-DESIGN_CONCEPTION-BTN-SCT
     google:
       tracking_id: GTM-KMVB8C2
 author:
@@ -54,6 +54,7 @@ themeopt: Policies
 title: Canada.ca design system
 url: "https://design.canada.ca"
 webmaster_verification:
+  google: Nt_CftRIypA9xVS7Znb2VkrsYbtIDuFWHryxSAC6OwM
   yandex: b8834a99b9021b0e
 defaults:
   - scope:

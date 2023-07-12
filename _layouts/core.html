@@ -15,7 +15,9 @@
 		<meta content="width=device-width, initial-scale=1" name="viewport">
 		{% include metadata.html %}
 		{% include resources-inc/head.html %}
-		{% include analytics.html %}<!-- Custom code -->
+		<!-- Custom code starts here -->
+		{% include analytics.html %}
+		<!-- Custom code ends here -->
 	</head>
 	<body {% if page.pageclass %}class="{{ page.pageclass }}" {% endif %}vocab="http://schema.org/" typeof="WebPage">
 		{%- if page.pageType == "archived" -%}

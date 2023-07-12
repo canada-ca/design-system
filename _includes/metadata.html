@@ -1,3 +1,4 @@
+<!-- Custom code starts here -->
 <link rel="canonical" href="{{ page.url | remove_first: '/' | remove_first: page.lang | prepend: site.altLangUrl[ page.lang ] }}" />
 <link rel="alternate" href="{{ page.altLangPage | prepend: site.altLangUrl[ i18nText-altLang ] }}" hreflang="{{ i18nText-altLang }}" />
 
@@ -145,3 +146,4 @@
 {%- if page.layout == "post" %}
 	{% include json-ld-page.html %}
 {%- endif %}
+<!-- Custom code ends here -->

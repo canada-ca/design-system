@@ -12,6 +12,7 @@ layout: core
 	{%- endif -%}
 {%- endcapture -%}
 	<main class="container" property="mainContentOfPage" resource="#wb-main" typeof="{% if page.layout == 'post' %}Blog{% else %}WebPageElement{% endif %}">
+		<!-- Custom code starts here -->
 		{%- if page.section-title or site.title -%}
 		<h1 property="name" id="wb-cont" property="name headline" dir="ltr">
 			<span class="stacked">
@@ -21,6 +22,7 @@ layout: core
 		{%- else -%}
 		<h1 class="gc-thickline" id="wb-cont">{{ page-title }}</h1>
 		{%- endif -%}
+		<!-- Custom code ends here -->
 		{{ content }}
 		{% include page-details/footer.html %}
 	</main>
