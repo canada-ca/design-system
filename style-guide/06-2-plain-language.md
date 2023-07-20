@@ -1,3 +1,5 @@
+---
+---
 <section>
   <h2 id="toc6">2.0 Plain language</h2>
   <div class="panel panel-default">
