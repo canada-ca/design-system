@@ -1,7 +1,11 @@
 ---
+altLangPage: "https://conception.canada.ca/configurations-conception-communes/en-tete-general.html"
+date: 2017-10-05
+dateModified: 2023-06-26
+description: "The requirements listed in this design manual apply to departments and other portions of the federal public administration as set out in Schedules I, I.1 and II of the Financial Administration Act. As such, in-scope institutions must apply Canada.ca design requirements for all public-facing web sites or digital services."
+title: "2.0 Plain language"
 ---
-<section>
-  <h2 id="toc6">2.0 Plain language</h2>
+<section id="toc6">
   <div class="panel panel-default">
     <header class="panel-heading">
       <h3 class="panel-title">In this section</h3>
