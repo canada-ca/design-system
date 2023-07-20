@@ -33,3 +33,4 @@ title: "Canada.ca Content Style Guide"
     </div>
   </div>
 </section>
+{% include 01-summary-of-changes.html %}
