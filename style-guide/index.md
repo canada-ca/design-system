@@ -15,19 +15,19 @@ title: "Canada.ca Content Style Guide"
     </header>
     <div class="panel-body">
       <ul>
-        <li><a href="#toc1">Summary of changes</a></li>
-        <li><a href="#toc2">Purpose</a></li>
-        <li><a href="#toc3">Use of the style guide</a></li>
-        <li><a href="#toc4">Related policies, standards and procedures</a></li>
-        <li><a href="#toc5">1.0 Writing principles for web content</a></li>
-        <li><a href="#toc6">2.0 Plain language</a></li>
-        <li><a href="#toc7">3.0 Tone</a></li>
-        <li><a href="#toc8">4.0 Style</a></li>
-        <li><a href="#toc9">5.0 Content structure</a></li>
-        <li><a href="#toc10">6.0 Images and videos</a></li>
-        <li><a href="#toc11">7.0 Links</a></li>
-        <li><a href="#toc12">Web content makeovers</a></li>
-        <li><a href="#toc13">Resources</a></li>
+        <li><a href="#sg-toc1">Summary of changes</a></li>
+        <li><a href="#sg-toc2">Purpose</a></li>
+        <li><a href="#sg-toc3">Use of the style guide</a></li>
+        <li><a href="#sg-toc4">Related policies, standards and procedures</a></li>
+        <li><a href="#sg-toc5">1.0 Writing principles for web content</a></li>
+        <li><a href="#sg-toc6">2.0 Plain language</a></li>
+        <li><a href="#sg-toc7">3.0 Tone</a></li>
+        <li><a href="#sg-toc8">4.0 Style</a></li>
+        <li><a href="#sg-toc9">5.0 Content structure</a></li>
+        <li><a href="#sg-toc10">6.0 Images and videos</a></li>
+        <li><a href="#sg-toc11">7.0 Links</a></li>
+        <li><a href="#sg-toc12">Web content makeovers</a></li>
+        <li><a href="#sg-toc13">Resources</a></li>
       </ul>
     </div>
   </div>
@@ -35,3 +35,5 @@ title: "Canada.ca Content Style Guide"
 {% include_relative 01-summary-of-changes.html %}
 {% include_relative 02-purpose.html %}
 {% include_relative 03-use-of-the-style-guide.html %}
+{% include_relative 04-related-policies-standards-procedures.html %}
+{% include_relative 05-1-writing-principles-for-web-content.html %}
