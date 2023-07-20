@@ -34,3 +34,4 @@ title: "Canada.ca Content Style Guide"
 </section>
 {% include_relative 01-summary-of-changes.html %}
 {% include_relative 02-purpose.html %}
+{% include_relative 03-use-of-the-style-guide.html %}
