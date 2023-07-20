@@ -37,4 +37,4 @@ title: "Canada.ca Content Style Guide"
 {% include_relative 03-use-of-the-style-guide.html %}
 {% include_relative 04-related-policies-standards-procedures.html %}
 {% include_relative 05-1-writing-principles-for-web-content.html %}
-{% include_relative 06-2-plain-language.html %}
+{% include_relative 06-2-plain-language.md %}
