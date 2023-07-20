@@ -49,7 +49,7 @@ title: "2.0 Plain language"
     <li>improve task completion and cuts costs by, for example, reducing enquiries</li>
   </ul>
   <section>
-    <p>{{ site.url }}</p>
+    <p>Site: {{ site.url }}</p>
     <h3 id="wp2-1">2.1 Start with the most important information</h3>
     <p>Start your content with the most important information, and be direct. When people scan web pages, they tend to start in the top left hand corner and scan to the right and down. As they move down the page, they scan less and less to the right.</p>
     <p>Organize your content using an inverted pyramid structure to:</p>
