@@ -58,7 +58,7 @@ title: "2.0 Plain language"
     </ul>
     <figure class="mrgn-bttm-lg">
       <figcaption class="text-center"> <strong>Figure 1</strong> </figcaption>
-      <img alt="Pyramid upside down showing how to start a web page with key information first. Text version below:" class="img-responsive center-block" id="fig1" src="{{ site.url }}/style-guide/images/csc-grc-fig-01-eng.jpg">
+      <img alt="Pyramid upside down showing how to start a web page with key information first. Text version below:" class="img-responsive center-block" id="fig1" src="https://{{ site.url }}/style-guide/images/csc-grc-fig-01-eng.jpg">
       <details class="brdr-tp brdr-rght brdr-bttm brdr-lft">
         <summary class="wb-toggle" data-toggle="'{&quot;print&quot;:&quot;on&quot;}'">Figure 1 - Text version </summary>
         <p>Inverted pyramid divided into four sections, from top to bottom. The image shows the order of information on a web page.</p>
@@ -330,7 +330,7 @@ title: "2.0 Plain language"
       <p>The Readability Statistics dialog box will appear and show the Flesch-Kincaid grade level. </p>
       <figure class="mrgn-bttm-lg">
         <figcaption class="text-center"><strong>Figure 2</strong></figcaption>
-        <img alt="Screen capture of a readability statistics dialog box in Microsoft Word. Text version below:" class="img-responsive center-block mrgn-bttm-md" src="{{ site.url }}/style-guide/images/csc-grc-fig-02-eng.jpg">
+        <img alt="Screen capture of a readability statistics dialog box in Microsoft Word. Text version below:" class="img-responsive center-block mrgn-bttm-md" src="https://{{ site.url }}/style-guide/images/csc-grc-fig-02-eng.jpg">
         <details>
           <summary> Figure 2 - Text version </summary>
           <p>A screen capture of Microsoft Word's readability statistics dialog box shows that a sample of text got a Flesch-Kincaid reading level of 5.8.</p>
