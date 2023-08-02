@@ -32,10 +32,6 @@ The survey is a collaboration between Principal Publisher and the Digital Transf
 
 When visitors arrive on a webpage, a pop-up invites visitors at random to complete the survey at the end of their visit. If visitors select "Yes, after my visit" on the pop-up, the survey opens in a separate window or tab. Visitors are asked to return to that window or tab to complete the survey after they have finished their visit on the website.
 
-<figure class="mrgn-tp-lg">
-<img class="img-responsive border" alt="Survey invitation that reads "You are one of the few visitors who have been selected to share your feedback. Please take less than 5 minutes at the end of your visit to answer 6 questions about your experience online" Then there are two option for yes and no." src="images/pop-up-en.png" />
-</figure>
-
 ![Survey invitation that reads "You are one of the few visitors who have been selected to share your feedback. Please take less than 5 minutes at the end of your visit to answer 6 questions about your experience online" Then there are two option for yes and no.](images/pop-up-en.png)
 
 ### Survey questions
