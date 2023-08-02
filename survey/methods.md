@@ -36,6 +36,8 @@ When visitors arrive on a webpage, a pop-up invites visitors at random to comple
 <img class="img-responsive border" alt="Survey invitation that reads "You are one of the few visitors who have been selected to share your feedback. Please take less than 5 minutes at the end of your visit to answer 6 questions about your experience online" Then there are two option for yes and no." src="images/pop-up-en.png" />
 </figure>
 
+![Survey invitation that reads "You are one of the few visitors who have been selected to share your feedback. Please take less than 5 minutes at the end of your visit to answer 6 questions about your experience online" Then there are two option for yes and no.](images/pop-up-en.png)
+
 ### Survey questions
 
 1.  **Have you finished your visit?**
