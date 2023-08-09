@@ -1,0 +1,17 @@
+<!-- Custom code starts here -->
+{% if site.analytics.providers.google %}
+  {% include providers/google.html %}
+{% endif %}
+{% if site.analytics.providers.google_universal %}
+  {% include providers/google-universal.html %}
+{% endif %}
+{% if site.analytics.providers.google_gtag %}
+  {% include providers/google-gtag.html %}
+{% endif %}
+{% if site.analytics.providers.adobe %}
+  {% include providers/adobehead.html %}
+{% endif %}
+{% if site.analytics.providers.custom %}
+  {% include providers/custom.html %}
+{% endif %}
+<!-- Custom code starts here -->

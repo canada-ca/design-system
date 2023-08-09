@@ -1,10 +1,40 @@
+altLangUrl:
+  en: https://design.canada.ca
+  fr: https://conception.canada.ca
 analytics:
   providers:
-  - adobe
-  adobe:
-    tracking_id: be5dfd287373/0127575cd23a/launch-f7c3e6060667
-    service: TBS-DTO_BTN-SCT
+    # adobe:
+    #   tracking_id: be5dfd287373/0127575cd23a/launch-f7c3e6060667
+    #   service: TBS-DTO-DESIGN_CONCEPTION-BTN-SCT
+    google:
+      tracking_id: GTM-KMVB8C2
+author:
+  en: Treasury Board Secretariat of Canada
 baseurl: ""
+exclude:
+  - .editorconfig
+  - .jekyll-cache
+  - .gitignore
+  - .github
+  - "*.gpg"
+  - "*.py"
+  - "*.tmp"
+  - CNAME
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - gcweb-jekyll.gemspec
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE*
+  - log_*
+  - netlify.toml
+  - node_modules
+  - package*.json
+  - README.md
+  - screenshot.*
+  - SECURITY.md
+  - vendor
+institutionopt: tbs
 global:
   contextualFooter:
     title:
@@ -14,27 +44,31 @@ global:
         - url: "/contact-us/"
           text: Contact us
   lang: en
+language:
+  en: English
+  fr: Français
 plugins:
   - jekyll-remote-theme
 remote_theme: wet-boew/gcweb-jekyll
+themeopt: Policies
 title: Canada.ca design system
 url: "https://design.canada.ca"
-altLangUrl: "https://conception.canada.ca"
-
-# Page front matter defaults
+webmaster_verification:
+  google: Nt_CftRIypA9xVS7Znb2VkrsYbtIDuFWHryxSAC6OwM
+  yandex: b8834a99b9021b0e
 defaults:
   - scope:
-      path: "**/*.md" # Ensure it's applied to all pages
+      path: "**/*.md"
     values:
       css:
-        - /css/split-h1.css
         - https://use.fontawesome.com/releases/v5.15.4/css/all.css
-        - /css/blog.css
         - /css/custom.css
       layout: default
+      noReportProblem: true
       pageclass: cnt-wdth-lmtd
+      script: /js/gc-pg-hlpfl.js
   - scope:
-      path: "survey"
+      path: survey
     values:
       breadcrumbs:
       - title: About Canada.ca
@@ -44,24 +78,24 @@ defaults:
       - title: GC Task Success Survey
         link: survey/index.html
   - scope:
-      path: "architecture"
+      path: architecture
     values:
       breadcrumbs:
         - title: About Canada.ca
           link: https://www.canada.ca/en/government/about.html
-        - title: Canada.ca design system
+        - title: Design system
           link: https://www.canada.ca/en/government/about/design-system.html
         - title: Information architecture specification
           link: https://design.canada.ca/architecture/canada-content-information-architecture-specification.html
   - scope:
-      path: "common-design-patterns/*.md"
+      path: common-design-patterns/*.md
     values:
       breadcrumbs:
         - title: About Canada.ca
           link: https://www.canada.ca/en/government/about.html
-        - title: Canada.ca design system
+        - title: Design system
           link: https://www.canada.ca/en/government/about/design-system.html
-        - title: Template and pattern library for Canada.ca
+        - title: Template and pattern library
           link: https://www.canada.ca/en/government/about/design-system/pattern-library.html
   - scope:
       path: "common-design-patterns/global-header/*.md"
@@ -69,9 +103,9 @@ defaults:
       breadcrumbs:
         - title: About Canada.ca
           link: https://www.canada.ca/en/government/about.html
-        - title: Canada.ca design system
+        - title: Design system
           link: https://www.canada.ca/en/government/about/design-system.html
-        - title: Template and pattern library for Canada.ca
+        - title: Template and pattern library
           link: https://www.canada.ca/en/government/about/design-system/pattern-library.html
         - title: Global header
           link: https://design.canada.ca/common-design-patterns/global-header.html
@@ -82,9 +116,9 @@ defaults:
       breadcrumbs:
         - title: About Canada.ca
           link: https://www.canada.ca/en/government/about.html
-        - title: Canada.ca design system
+        - title: Design system
           link: https://www.canada.ca/en/government/about/design-system.html
-        - title: Template and pattern library for Canada.ca
+        - title: Template and pattern library
           link: https://www.canada.ca/en/government/about/design-system/pattern-library.html
         - title: Global footer
           link: https://design.canada.ca/common-design-patterns/site-footer.html

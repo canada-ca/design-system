@@ -1,0 +1,1167 @@
+.beta-top, .alpha-top
+  padding-top: 2px !important
+  padding-bottom: 2px !important
+  top: 0
+  background-color: #f2f2f2
+  z-index: 100
+
+.beta, .alpha
+  padding-top: 5px
+  padding-bottom: 5px
+  background-color: white
+  z-index: 100
+
+.alpha-label
+  background-color: black
+  border: none
+  color: white
+  font-weight: 700
+  padding: 4px 8px
+  text-align: center
+  text-decoration: none
+  display: inline-block
+  margin: 4px 2px
+  border-radius: 0px
+  font-size: 14px !important
+
+.beta-label
+  background-color: #0052a3
+  border: none
+  color: white
+  font-weight: 700
+  padding: 4px 8px
+  text-align: center
+  text-decoration: none
+  display: inline-block
+  margin: 4px 2px
+  border-radius: 0px
+  font-size: 14px !important
+
+.beta-fill, .alpha-fill
+  background-color: #f2f2f2
+  padding: 0.6em 1em 0.6em 0.6em
+
+.colour-card-sm
+  width: 260px
+  box-shadow: 0px 0px 10px #ddd
+  margin-bottom: 10px
+
+  .card-thumbnail
+    height: 104px
+    padding-left: 10px
+    box-shadow: 0px 0px 10px #ddd
+
+  .card-details
+    min-height: 104px
+    padding-left: 10px
+
+/* In tablet view - needs to be thinner to not overlap in columns and larger description space for line breaks */
+@media only screen and (min-width: 992px) and (max-width: 1199px)
+  .colour-card-sm
+    width: 220px
+
+  .component-tombstone
+    line-height: 1.65em
+
+.pattern-demo.component
+  padding-top: 35px
+
+.pattern-demo-design-variant
+  padding: 10px
+  padding-top: 35px
+  margin-bottom: 10px
+
+.btn-sm-txt
+  font-size: 14px !important
+
+.pattern-link
+  padding: 0 25px
+  /* height: 50px;*/
+
+  span
+    float: left
+    margin: 3px 10px 0 -10px
+    height: 30px
+    width: 30px
+    background-color: #637a06
+
+  .white
+    color: white
+    text-align: center
+    padding-top: 7px
+
+abbr
+  text-decoration: none !important
+
+figure img
+  border: 1px #ddd solid !important
+
+/* fix spacing on lines*/
+main
+  line-height: 1.65em !important
+
+.gc-drmt p
+  line-height: 1.35em !important
+
+/* fixes these times of tables from the title truncating*/
+@media only screen and (min-width: 768px)
+  .dl-horizontal
+    dt
+      width: 11em !important
+
+    dd
+      margin-left: 11em !important
+
+.pattern-demo
+  padding: 19px
+  border: 1px solid #e3e3e3
+  box-shadow: 0px 0px 10px #ddd
+
+  &.no-pddng
+    padding: 0px !important
+
+/*styling for class=h1*/
+.h1
+  border-bottom: 1px solid #af3c43
+  margin-bottom: 0.2em
+  margin-top: 1em
+  padding-bottom: 0.2em
+
+div.toc .active
+  background-color: #333 !important
+  border-color: #8f8f8f !important
+
+.do-guideline
+  margin-left: 12px
+  padding-left: 20px
+  border-width: 0px 0px 0px 6px !important
+  border: solid #278400
+
+.dont-guideline
+  margin-left: 12px
+  padding-left: 20px
+  border-width: 0px 0px 0px 6px !important
+  border: solid #d3080c
+
+.design-usage
+  ~ .design-usage
+    margin-top: 30px
+    padding-top: 30px
+
+  h3
+    margin-bottom: 20px
+
+.tt-img .btn-sm
+  margin-top: 16px
+  margin-left: 4px
+
+.padding-rght
+  padding-right: 10px
+
+.guidance-ban-nav
+  padding-top: 4px !important
+  padding-bottom: 4px !important
+  top: 0
+  background-color: #26374a
+  z-index: 100
+  position: sticky
+
+  .btn-group
+    .btn
+      height: 36px
+      padding-top: 5px
+      background-color: #26374a
+      color: white
+      border: 1px solid #4072bb
+
+    .active
+      background-color: #305991
+      font-weight: 800
+
+  .btn-sm
+    padding-top: 5px
+    margin-right: 5px
+
+.guidance-nav
+  color: white !important
+  text-decoration: underline
+  padding-top: 6px
+
+  a
+    display: block
+    color: white !important
+    white-space: nowrap
+    overflow: hidden
+    text-overflow: ellipsis
+    max-width: 100ch
+
+    &:hover, &:visited
+      color: white !important
+
+  i
+    text-decoration: none
+
+.guidance-options, .get-code
+  padding-left: 8px
+  padding-right: 8px
+
+@media only screen and (max-width: 767px)
+  .btn-links-mobile
+    width: 100%
+  .guidance-ban-nav .btn-group
+    width: 100% !important
+    margin-top: 7px
+  .guidance-toggle
+    width: 50% !important
+  .pstn-get-code
+    position: absolute
+    top: -74px
+    right: 4px
+
+@media only screen and (max-width: 370px)
+  .guidance-ban-nav .btn-group .btn
+    padding-left: 0px
+    padding-right: 0px
+
+    i
+      display: none !important
+
+  .guidance-nav a
+    max-width: 22ch
+
+/* pattern demo */
+.pattern-demo-code-ex
+  details
+    margin-bottom: 0px !important
+
+  .featured
+    margin-left: 0.07em !important
+    margin-right: 0.07em !important
+
+.pattern-demo
+  padding: 0px !important
+  margin: 0px !important
+  border: none !important
+
+.pattern-demo-code-ex
+  margin-left: -35px !important
+  margin-right: -35px !important
+
+.guidance-details
+  details, summary
+    background-color: white !important
+
+  details summary
+    &:focus, &:hover
+      background-color: white !important
+
+.example-frame-bkg
+  background-color: #f5f5f5
+
+.example-frame
+  display: block
+  width: 100%
+  max-width: 100%
+  border: 0
+  border-right: 1px solid #b1b4b6
+  background: #fff
+
+.example-frame-xs
+  height: 150px
+
+.example-frame-s
+  height: 250px
+
+.example-frame-m
+  height: 350px
+
+.example-frame-l
+  height: 450px
+
+.example-frame-xl
+  height: 550px
+
+.example-frame-resizable
+  min-width: 230px
+  min-height: 60px
+  overflow: auto
+  -webkit-transform: translate3d(0, 0, 0)
+  transform: translate3d(0, 0, 0)
+
+@media (min-width: 48.0625em)
+  .example-frame-resizable
+    resize: both
+
+.ip-cover-img
+  background-image: url("https://test.canada.ca/experimental/working-on/images/ip-cover-image.jpg")
+  background-repeat: no-repeat
+  background-size: cover
+  background-position: right
+  margin-top: 15px
+  padding-bottom: 25px
+
+.most-requested
+  li
+    font-family: "Lato", sans-serif
+    font-size: 17px
+    font-weight: 600
+    line-height: 26px
+    margin-top: 0
+
+  h2
+    font-size: 1.2em
+
+.ip-btn
+  font-size: 1em
+
+/* supports the 3 column layout for MR instead of 4 columns */
+
+.list-responsive-3
+  > li
+    float: left
+    padding-right: 5px
+    width: 50%
+
+    &:nth-child(2n + 2)
+      clear: right
+
+  &:before
+    content: " "
+    display: table
+
+  &:after
+    content: " "
+    display: table
+    clear: both
+
+.followus
+  background-color: #f5f5f5
+
+  ul li a
+    border: solid 2px #f5f5f5
+
+.featured
+  margin-bottom: 0em
+  padding-top: 20px
+  padding-bottom: 20px
+  background: #31708f
+
+  a
+    color: #fff
+
+ul.feeds-cont li a
+  font-weight: bold
+
+.followus.experimental
+  padding: 0
+
+  h2
+    display: block
+    margin-left: 0
+
+  ul
+    margin-left: 0
+
+@media screen and (max-width: 1200px)
+  .featured
+    padding-left: 0.8em
+
+@media screen and (min-width: 1200px)
+  .list-responsive-3 > li
+    width: 33%
+
+
+@media screen and (max-width: 767px)
+  .ip-cover-hide-tablet
+    background-image: url("none") !important
+
+  @media screen and (max-width: 425px)
+    .ip-cover-hide-mobile
+      background-image: url("none") !important
+
+/*Text decoration override for Safari*/
+
+a:not([href])
+  color: #333
+  text-decoration: none
+
+/*Resize h2*/
+
+h2, .h2
+  font-size: 1.7em
+
+/*Collapsed menu design (on hold)*/
+
+.section-menu
+  &.mobile
+    margin-bottom: 40px
+
+  .menu-title
+    font-size: 1.4em
+    font-weight: 600
+    margin-top: 0px
+
+main#steps-navigation, h1#wb-cont-section
+  border-bottom: 0px
+
+/*Vertical steps CSS*/
+
+.vertical-steps
+  .small, small
+    line-height: 0em
+
+  *
+    font-weight: inherit !important
+    font-size: inherit !important
+    margin-top: 0px !important
+    margin-bottom: 0px !important
+    line-height: inherit !important
+
+.fa-vertical-steps *
+  font-size: inherit !important
+  margin-top: 0px !important
+  margin-bottom: 0px !important
+  line-height: inherit !important
+
+.vertical-steps
+  margin-top: 6px
+  list-style: none
+
+ol.vertical-steps
+  margin-left: -10px
+  counter-reset: step-counter
+
+ul.vertical-steps
+  margin-left: -16px
+
+.vertical-steps > li
+  padding-bottom: 30px
+  margin-left: -12px
+  border-left: 5px solid #26374a
+  position: relative
+
+ol.vertical-steps > li
+  padding-left: 29px
+  counter-increment: step-counter
+
+ul.vertical-steps > li, .vertical-steps ul > li
+  padding-left: 25px
+
+ul.vertical-steps li::first-line
+  line-height: 1em
+
+.vertical-steps li a::before
+  text-decoration: underline
+
+ul.vertical-steps.noline > li
+  border-left: 5px solid transparent
+
+.vertical-steps > li > :first-child::before
+  border-radius: 50%
+  border: 3px solid #26374a
+  background-color: #fff
+  float: left
+  display: inline-block
+  text-decoration: none
+  box-sizing: content-box
+  line-height: 1.6
+  text-align: center
+  -webkit-transition: all 0.2s
+
+  /* For Safari 3.1 to 6.0*/
+  transition: all 0.2s
+
+ol.vertical-steps > li > :first-child::before
+  height: 34px
+  width: 34px
+  margin-left: -52px
+
+ul.vertical-steps > li >
+  \:first-child::before
+    height: 18px
+    width: 18px
+    margin-left: -40px
+    content: ""
+
+  a[href]:hover::before
+    width: 20px
+    height: 20px
+    margin-top: -1px
+    font-size: 1.2em
+    margin-right: 5px
+    margin-left: -41px
+    line-height: 1.55
+
+ol.vertical-steps > li >
+  \:first-child::before
+    content: counter(step-counter)
+
+  a[href]:hover::before
+    width: 36px
+    height: 36px
+    margin-top: -2px
+    font-size: 1.2em
+    margin-right: -2px
+    margin-left: -53px
+    line-height: 1.5
+
+.vertical-steps > li
+  &:last-child, &.completed:last-child
+    border-left: 5px solid transparent
+    padding-bottom: 0
+
+ul.fa-vertical-steps li:last-child
+  border-left: 5px solid transparent
+  padding-bottom: 0
+
+/*completed*/
+
+.vertical-steps li.completed
+  border-color: #ccc
+
+.fa-vertical-steps li.completed
+  border-color: #ccc
+
+  span.fa-li
+    border-color: #ccc
+
+.vertical-steps li
+  &.completed > :first-child::before
+    border-color: #ccc
+
+  &.active > :first-child::before
+    background-color: #26374a
+    color: #fff
+
+/*active*/
+
+.fa-vertical-steps li.active span.fa-li
+  background-color: #26374a
+  color: #fff
+
+/*FA icons*/
+
+ul.fa-vertical-steps
+  margin-left: 0.9em
+  list-style: none
+
+  li span.fa-li
+    border-radius: 50%
+    border: 3px solid #26374a
+    background-color: #fff
+    height: 40px
+    width: 40px
+    font-size: 1em
+    margin-left: 16px
+    padding-top: 1px
+    -webkit-transition: all 0.2s
+
+    /* For Safari 3.1 to 6.0*/
+    transition: all 0.2s
+
+  > li
+    padding-bottom: 24px
+    border-left: 5px solid #26374a
+    position: relative
+    padding-left: 29px
+
+.fa-vertical-steps > li > a[href]:hover span.fa-li
+  height: 44px
+  width: 44px
+  padding-top: 2px
+  font-size: 1.2em
+  margin-left: 14px
+  margin-top: -0.03em
+
+/*sub-steps*/
+
+.vertical-steps li
+  ul, ol
+    margin-top: 16px !important
+
+.fa-vertical-steps li
+  ul, ol
+    margin-top: 16px !important
+
+ol.vertical-steps
+  ol.vertical-steps
+    counter-reset: step-counter
+
+    > li
+      counter-increment: step-counter
+
+      > :first-child::before
+        content: counter(step-counter, upper-alpha)
+
+    ol.vertical-steps
+      counter-reset: step-counter
+
+      > li
+        counter-increment: step-counter
+
+        > :first-child::before
+          content: counter(step-counter, lower-roman)
+
+  &.lst-lwr-rmn > li > :first-child::before
+    content: counter(step-counter, lower-roman) !important
+
+  &.lst-upr-rmn > li > :first-child::before
+    content: counter(step-counter, upper-roman) !important
+
+  &.lst-upr-alph > li > :first-child::before
+    content: counter(step-counter, upper-alpha) !important
+
+  &.lst-lwr-alph > li > :first-child::before
+    content: counter(step-counter, lower-alpha) !important
+
+  &.lst-num > li > :first-child::before
+    content: counter(step-counter) !important
+
+/*sub-sub-steps
+
+/*custom list-type
+
+/*Vertical steps in mobile (experimental)*/
+
+.section-menu.mobile >
+  .vertical-steps
+    border-right: 5px solid #26374a
+    border-top: 5px solid #26374a
+    border-radius: 0 6px 6px 0
+    padding-top: 30px
+    margin-top: -18px
+
+    > li:last-child
+      border-bottom: 5px solid #26374a
+      border-left: 5px solid #26374a
+      border-bottom-left-radius: 6px
+      padding-bottom: 30px
+
+  .menu-title
+    margin-bottom: -18px
+    background-color: white
+    padding: 20px 10px 10px 20px
+    display: inline-block
+    margin-left: -20px
+    font-size: 1.3em !important
+    margin-right: 25px
+
+/* Top of page button*/
+
+nav#tp-pg
+  position: fixed
+  bottom: -110px
+  left: 0px
+  width: 100%
+  text-align: center
+  text-transform: uppercase
+  z-index: 1049
+  transition: bottom 0.5s
+
+  > a
+    text-decoration: none
+    padding: 10px 26px 26px 26px
+    background-color: #26374a
+    color: #fff
+    border: 1px solid #dcdee1
+    border-radius: 4px 4px 0 0
+
+    &:visited
+      color: #fff
+
+    &:hover, &:focus
+      background-color: #444
+      color: #fff
+
+    &::before
+      content: "\e093"
+      font-family: "Glyphicons Halflings"
+      line-height: 1em
+      font-size: 1.2em
+      top: 0.15em
+      position: relative
+      padding-right: 0.5em
+
+@media (min-width: 992px)
+  main#steps-navigation h1#wb-cont-section
+    border-bottom: 0px
+    font-size: 1.3em
+    color: #777
+    margin-top: 20px
+    margin-bottom: -5px
+    font-weight: 200
+
+  #steps-content h1#wb-cont
+    margin-top: 0px
+    width: 100%
+
+  nav#tp-pg
+    bottom: 100px
+    right: -160px
+    width: auto
+    left: auto
+    transition: right 0.5s
+
+    &.stuck
+      right: 0px
+      bottom: 100px
+
+  .wb-disable nav#tp-pg
+    right: 0px
+    bottom: 100px
+
+  nav#tp-pg > a
+    padding: 10px 26px 10px 16px
+    border-radius: 4px 0 0 4px
+    border-right-width: 0px
+
+  @media (max-width: 991px)
+  nav#tp-pg.stuck, .wb-disable nav#tp-pg
+    bottom: 5px
+
+/*Screen reader resolution content*/
+@media screen and (min-width: 1200px)
+  .wb-inv-lg
+    clip: rect(1px, 1px, 1px, 1px)
+    height: 1px
+    margin: 0
+    overflow: hidden
+    position: absolute
+    width: 1px
+
+@media screen and (max-width: 1199px) and (min-width: 992px)
+  .wb-inv-md
+    clip: rect(1px, 1px, 1px, 1px)
+    height: 1px
+    margin: 0
+    overflow: hidden
+    position: absolute
+    width: 1px
+
+@media screen and (max-width: 991px) and (min-width: 768px)
+  .wb-inv-sm
+    clip: rect(1px, 1px, 1px, 1px)
+    height: 1px
+    margin: 0
+    overflow: hidden
+    position: absolute
+    width: 1px
+
+
+body .alert .text-default
+  color: inherit
+
+/* blockquote with quote design*/
+
+blockquote
+  margin-left: 12px
+  border-left-width: 6px !important
+  border-left-color: #d4d4d4
+
+  &:lang(en)::before
+    content: "\201F"
+    color: #d4d4d4
+    font-size: 4em
+    position: absolute
+    background: #fff
+    margin-left: -0.5em
+    padding-top: 20px
+    line-height: 0.5em
+    height: 38px
+
+  &:lang(fr)::before
+    content: "\ab"
+    color: #d4d4d4
+    font-size: 2.8em
+    position: absolute
+    background: #fff
+    margin-left: -0.7em
+    padding-bottom: 10px
+
+/* Callout*/
+
+.callout
+  padding: 19px
+  margin-bottom: 20px
+  border: 1px solid #e3e3e3
+  box-shadow: 0px 0px 10px #ddd
+
+  h2, h3, h4, h5, h6
+    margin-top: 0
+
+  p:last-of-type, ul:last-of-type
+    margin-bottom: 0
+
+.most-requested + .callout
+  margin-top: 30px
+
+/*Removes current class alerts overrides (remove when this code replaces current alert CSS)*/
+
+.provisional
+  .alert-info > :first-child::before, .alert-success > :first-child::before, .alert-warning > :first-child::before, .alert-danger > :first-child::before
+    content: none
+
+  .alert
+    background-color: inherit
+
+    >
+      \:first-child
+        margin-left: 15px
+
+      p
+        margin-bottom: 0px
+
+    margin-left: 10px
+    border-left: 6px solid #000
+    padding: 0 0 0 15px
+    background-clip: content-box
+    margin-bottom: 23px
+
+/*replacement code*/
+
+.alert >
+  .ul, .ol
+    margin-bottom: 0px
+
+.provisional
+  .alert
+    > *
+      margin-left: 15px
+
+    details
+      margin-left: 0.5em
+      padding-top: 15px
+
+    >
+      \:first-child:not(details)
+        padding-top: 15px
+        margin-top: auto
+
+      \:last-child
+        padding-bottom: 25px
+
+    &:before
+      font-size: 26px
+      margin-left: -1.48em
+      padding: 2px
+      line-height: 2.3em
+      font-family: "Glyphicons Halflings"
+      position: absolute
+
+  .alert-info
+    border-image: linear-gradient(to bottom, #269abc 16px, #269abc 16px, rgba(0, 0, 0, 0) 16px, rgba(0, 0, 0, 0) 48px, #269abc 48px, #269abc 48px) 1 100%
+    border-color: #269abc
+
+  .alert-success
+    border-image: linear-gradient(to bottom, #278400 16px, #278400 16px, rgba(0, 0, 0, 0) 16px, rgba(0, 0, 0, 0) 48px, #278400 48px, #278400 48px) 1 100%
+    border-color: #278400
+
+  .alert-warning
+    border-image: linear-gradient(to bottom, #f90 16px, #f90 16px, rgba(0, 0, 0, 0) 16px, rgba(0, 0, 0, 0) 48px, #f90 48px, #f90 48px) 1 100%
+    border-color: #f90
+
+  .alert-danger
+    border-image: linear-gradient(to bottom, #d3080c 16px, #d3080c 16px, rgba(0, 0, 0, 0) 16px, rgba(0, 0, 0, 0) 48px, #d3080c 48px, #d3080c 48px) 1 100%
+    border-color: #d3080c
+
+  .alert-info::before
+    content: "\e086"
+    color: #269abc
+
+  .alert-success::before
+    content: "\e084"
+    color: #278400
+
+  .alert-warning::before
+    content: "\e107"
+    color: #f90
+
+  .alert-danger::before
+    content: "\e101"
+    color: #d3080c
+
+  &.alert-info > :first-child::before, &.alert-success > :first-child::before, &.alert-warning > :first-child::before, &.alert-danger > :first-child::before
+    color: inherit
+    content: none
+
+  &.alert
+    background-clip: content-box
+    background-color: inherit
+    border-left: 6px solid #000
+    margin-bottom: 23px
+    margin-left: 10px
+    padding: 0 0 0 15px
+
+    >
+      p, ul, ol
+        margin-bottom: 0px
+
+      *
+        margin-left: 15px
+
+    details
+      margin-left: 0.5em
+      padding-top: 15px
+
+    >
+      \:first-child:not(details)
+        margin-top: auto
+        padding-top: 15px
+
+      \:last-child
+        padding-bottom: 25px
+
+    &::before
+      font-family: "Glyphicons Halflings"
+      font-size: 26px
+      line-height: 2.3em
+      margin-left: -1.27em
+      padding: 2px
+      position: absolute
+
+    > :first-child
+      margin-left: 15px
+
+  &.alert-info
+    border-color: #269abc
+    border-image: linear-gradient(to bottom, #269abc 16px, #269abc 16px, transparent 16px, transparent 48px, #269abc 48px, #269abc 48px) 1 100%
+
+    &::before
+      color: #269abc
+      content: ""
+
+  &.alert-success
+    border-color: #278400
+    border-image: linear-gradient(to bottom, #278400 16px, #278400 16px, transparent 16px, transparent 48px, #278400 48px, #278400 48px) 1 100%
+
+    &::before
+      color: #278400
+      content: ""
+
+  &.alert-warning
+    border-color: #ee7100
+    border-image: linear-gradient(to bottom, #ee7100 16px, #ee7100 16px, transparent 16px, transparent 48px, #ee7100 48px, #ee7100 48px) 1 100%
+
+    &::before
+      color: #ee7100
+      content: ""
+
+  &.alert-danger
+    border-color: #d3080c
+    border-image: linear-gradient(to bottom, #d3080c 16px, #d3080c 16px, transparent 16px, transparent 48px, #d3080c 48px, #d3080c 48px) 1 100%
+
+    &::before
+      color: #d3080c
+      content: ""
+
+/*Stacked H1*/
+h1
+  border-bottom: none
+
+  &#wb-cont::after
+    content: ""
+    /* This is necessary for the pseudo element to work.
+    display: block
+    /* This will put the pseudo element on its own line.
+    width: 70px
+    /* Change this to whatever width you want to have before hover.
+    padding-bottom: 8px
+    /* This creates some space between the element and the border.
+    border-bottom: 0.18em solid #af3c43
+    /* This creates the border. Replace black with whatever color you want.*/
+
+  span.stacked
+    display: flex
+    flex-direction: column-reverse
+    margin-left: -9999px
+
+    span
+      &:nth-child(1)
+        margin-top: -1.1em
+        margin-left: 9999px
+
+      &:nth-child(2)
+        margin-left: 9999px
+        font-size: 26px
+        color: #555
+        font-weight: 500
+        margin-bottom: 0.17em
+
+.provisional
+  &.most-requested-bullets
+    li
+      font-family: "Lato", sans-serif
+      font-size: 17px
+      font-weight: 600
+      line-height: 26px
+      margin-top: 0
+
+    .pddng-r-0
+      padding-right: 0px
+
+    h2
+      font-size: 1.2em
+
+  &.list-bld
+    font-weight: 600
+
+  &.followus
+    h2
+      font-size: 1.1em
+      margin-top: 10px
+      display: block
+      margin-left: 0
+
+    padding: 0
+
+    ul
+      margin-left: 0
+
+  &.followus-vertical
+    line-height: 0em
+    background-color: transparent
+
+  &.followus
+    background-color: transparent
+
+  &.followus-vertical
+    a
+      text-decoration: none
+
+    ul
+      display: block
+      list-style-type: none
+      margin-block-start: 1em
+      padding-inline-start: 1em
+      font-size: 16px
+      margin-block-end: 0em
+
+      li
+        margin-bottom: 15px
+
+        &:last-child
+          margin-bottom: 0px
+
+        a
+          border: none
+          padding: 0px 5px
+
+  &.followus ul li a
+    border: none
+
+  .social-lnk
+    position: relative
+    bottom: -18px
+    left: 45px
+
+  &.followus-vertical li
+    display: block
+    background-position: left
+
+  &.followus
+    .facebook, .twitter, .youtube, .instagram, .linkedin
+      display: block
+      height: 38px
+      width: 38px
+
+    .facebook
+      background: url("../../images/social-media/facebook.png") 0 (0 / cover) no-repeat
+
+    .twitter
+      background: url("../../images/social-media/twitter.png") 0 (0 / cover) no-repeat
+
+    .youtube
+      background: url("../../images/social-media/youtube.png") 0 (0 / cover) no-repeat
+
+    .instagram
+      background: url("../../images/social-media/instagram.png") 0 (0 / cover) no-repeat
+
+    .linkedin
+      background: url("../../images/social-media/linkedin.png") 0 (0 / cover) no-repeat
+
+  .thumbnail
+    border-color: #335075
+    border-width: 1px
+    padding: 0px
+
+  &.profile
+    position: relative
+    overflow-x: hidden
+
+    .pagetag
+      max-width: 65ch
+
+  &.single-feature figcaption
+    margin-top: 5px
+    text-decoration: underline
+
+  .thumbnail
+    border-color: #335075
+    border-width: 1px
+    padding: 0px
+
+  &.contributors
+    font-size: 16px
+    font-weight: 600
+
+  &.from
+    font-size: 17px
+    margin-top: 7px
+
+  &.contributors ul
+    margin-block-start: 0em
+    margin-block-end: 0em
+    margin-inline-start: -50px
+    margin-inline-end: 0px
+    padding-inline-start: 0px
+
+@media screen and (max-width: 767px)
+  .btn-call-to-action
+    font-size: 19px !important
+
+  .most-requested li
+    font-size: 19px
+
+  .list-responsive-3 > li
+    clear: right
+    width: 100%
+
+  .mobile-left
+    float: left !important
+  .wb-inv-xs
+    clip: rect(1px, 1px, 1px, 1px)
+    height: 1px
+    margin: 0
+    overflow: hidden
+    position: absolute
+    width: 1px
+
+@media screen and (max-width: 991px)
+  .provisional.most-requested-bullets li
+    font-size: 19px
+  .provisional .mobile-left
+    float: left !important
+
+    /* important is needed to override float right*/
+
+@media screen and (min-width: 992px)
+  .provisional.contributors li
+    display: inline-block
+    margin-right: 0.7em
+
+  .provisional.contributors li
+    &:first-child:before
+      content: none
+
+    &:before
+      content: "\2022"
+      margin-right: 0.7em
+
+@media screen and (max-width: 1200px)
+  .provisional.contributors ul
+    margin-inline-start: -30px
+
+@media screen and (max-width: 991px)
+  .provisional.contributors ul
+    margin-inline-start: 1.5em
+
