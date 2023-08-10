@@ -9,8 +9,9 @@ breadcrumbs:
   link: survey/index.html
 - title: How to use survey results
   link: survey/benefits.html
+date: null
 dateModified: 2023-04-05
-description: ""
+description: null
 title: "Case study: Improved content design"
 ---
 
@@ -85,4 +86,3 @@ As a team, they:
 * [Blog post on making links more effective](https://blog.canada.ca/2021/07/20/effective-links.html)
 * [Links - Canada.ca Content Style Guide](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp7-1)
 * [Information foraging: A Theory of How people navigate on the web](https://www.nngroup.com/articles/information-foraging/)
-  

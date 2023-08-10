@@ -1,14 +1,8 @@
 ---
 altLangPage: https://conception.canada.ca/retroaction/quand.html
-breadcrumbs:
-  - title: About Canada.ca
-    link: https://www.canada.ca/en/government/about.html
-  - title: Analytics and feedback
-    link: https://www.canada.ca/en/analytics.html
-  - title: Page feedback
-    link: https://design.canada.ca/feedback/index.html
+date: null
 dateModified: 2023-02-28
-layout: default
+description: null
 title: When to use the page feedback tool
 ---
 

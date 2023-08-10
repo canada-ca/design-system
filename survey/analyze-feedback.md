@@ -1,7 +1,8 @@
 ---
 altLangPage: https://conception.canada.ca/sondage/commentaires.html
+date: null
 dateModified: 2023-04-05
-description: ""
+description: null
 title: How to analyze comments
 ---
 
