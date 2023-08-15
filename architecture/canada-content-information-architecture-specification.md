@@ -8,7 +8,6 @@ breadcrumbs:
 date: 2017-10-05
 dateModified: 2023-03-28
 description: "The requirements listed in this design manual apply to departments and other portions of the federal public administration as set out in Schedules I, I.1 and II of the Financial Administration Act. As such, in-scope institutions must apply Canada.ca design requirements for all public-facing web sites or digital services."
-layout: default
 title: "Canada.ca Content and Information Architecture Specification"
 ---
 <p class="gc-byline"><strong>From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
@@ -19,8 +18,8 @@ title: "Canada.ca Content and Information Architecture Specification"
   <section class="wb-eqht gc-drmt">
     <div class="col-md-4">
       <section>
-        <h3 class="h5"><a href="usage-canadaca-design.html">Who has to use this design system</a></h3>
-        <p>Scope of the Canada.ca design system</p>
+        <h3 class="h5"><a href="usage-canadaca-design.html">Who has to use the Canada.ca design</a></h3>
+        <p>Scope of the Canada.ca design</p>
       </section>
     </div>
     <div class="col-md-4">

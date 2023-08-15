@@ -1,18 +1,14 @@
 ---
 altLangPage: "https://conception.canada.ca/contactez-nous/"
 breadcrumbs: false
-contextualFooter:
-  title: ""
-dateModified: 2023-04-18
+date: 2023-04-18
+dateModified: 2023-08-14
 description: "Contact the Digital Transformation Office about the Canada.ca design system."
-lang: en
-layout: default
 nomenu: true
 noReportProblem: true
 nositesearch: true
 script: ./gc-referrer.js
 share: false
-showFeedback: false
 title: "Contact the Digital Transformation Office"
 ---
 Contact us to ask design questions or make suggestions about the design of Canada.ca.

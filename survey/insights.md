@@ -1,7 +1,8 @@
 ---
 altLangPage: https://conception.canada.ca/sondage/partager.html
+date: null
 dateModified: 2023-04-05
-description: ""
+description: null
 title: Sharing insights from feedback
 ---
 
@@ -15,7 +16,7 @@ title: Sharing insights from feedback
         </ul>
     </div>
 </div>
-    
+
 ## On this page
 
 * [Building a narrative with data](#building-a-narrative-with-data)

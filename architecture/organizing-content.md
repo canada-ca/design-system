@@ -3,7 +3,6 @@ altLangPage: "https://conception.canada.ca/architecture/organiser-contenu.html"
 date: 2017-10-05
 dateModified: 2023-03-28
 description: "How to organize your content on Canada.ca"
-layout: default
 title: "Organizing content on Canada.ca"
 ---
 <p class="gc-byline"><strong>From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
@@ -43,7 +42,7 @@ title: "Organizing content on Canada.ca"
       <details>
         <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Text version</summary>
         <p>People who may not understand the operations or organization of the Government of Canada (GC) may access content through theme navigation. Theme pages organize topics in a way that people understand so they can find content that supports their tasks quickly. Theme pages link to topic pages and/or destination content. Topic pages allow people to discover top-task content related to a specific GC-wide topic. They also link to destination content.
-          
+
           People can also access content through institutional navigation. This navigation is intended for people who are accustomed to dealing with specific institutions. An Institutional/Organizational profile presents all timely and relevant content offered by an institution. It then leads people to either theme or topic pages, or directly into destination content. Destination content is about services or information, program and policy development, news, campaigns and promotions, or corporate information.</p>
       </details>
     </figure>

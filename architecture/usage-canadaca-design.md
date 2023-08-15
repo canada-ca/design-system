@@ -3,8 +3,7 @@ altLangPage: "https://conception.canada.ca/architecture/utilisation-concept-cana
 date: 2017-10-05
 dateModified: 2023-03-28
 description: "The requirements listed in this design manual apply to departments and other portions of the federal public administration as set out in Schedules I, I.1 and II of the Financial Administration Act. As such, in-scope institutions must apply Canada.ca design requirements for all public-facing web sites or digital services."
-layout: default
-title: "Who has to use the Canada.ca design system"
+title: "Who has to use the Canada.ca design"
 ---
 <p class="gc-byline"><strong>From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
 <div class="mrgn-tp-md mrgn-bttm-sm brdr-bttm">
@@ -30,7 +29,7 @@ title: "Who has to use the Canada.ca design system"
 <h2>Using the Web Experience Toolkit</h2>
 <p>All institutions are encouraged to use the components in the <a href="http://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/ws-nw/wet-boew-eng.asp">Web Experience  Toolkit</a>&nbsp;for  both their internal and external web products. These components are open source and free. They reflect the results of  ongoing usability testing. They make it easier to meet accessibility requirements and  provide responsive design for a variety of devices with a range of screen  sizes.</p>
 <h3>Adapting the Web Experience Toolkit for out-of-scope situations</h3>
-<p>If your website or service is out of scope for the Canada.ca design system, but you wish to use the Web Experience Toolkit, you must make the following minimum  modifications.</p>
+<p>If your website or service is out of scope for the Canada.ca design, but you wish to use the Web Experience Toolkit, you must make the following minimum  modifications.</p>
 <h4>Global header</h4>
 <ul type="disc">
   <li>Change the contents of the global navigation menu so that they are clearly different from the menu labels used on Canada.ca</li>
