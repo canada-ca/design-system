@@ -6,7 +6,6 @@ description: "Mandatory elements for all Government of Canada webpages."
 layout: default
 title: "Mandatory elements of the Canada.ca design"
 ---
-<p class="gc-byline"><strong>From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
 <div class="mrgn-tp-md mrgn-bttm-sm brdr-bttm">
   <div class="row  mrgn-bttm-sm">
     <ul class="toc lst-spcd col-md-12">
@@ -68,4 +67,3 @@ title: "Mandatory elements of the Canada.ca design"
   <li><a href="https://design.canada.ca/mandatory-templates/news-pages.html#landing">News landing page</a></li>
   <li><a href="https://design.canada.ca/mandatory-templates/news-pages.html#results">News results page</a></li>
   <li><a href="https://design.canada.ca/mandatory-templates/search-page.html">Search page</a></li>
-</ul>
