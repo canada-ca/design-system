@@ -18,8 +18,8 @@ title: "Canada.ca Content and Information Architecture Specification"
   <section class="wb-eqht gc-drmt">
     <div class="col-md-4">
       <section>
-        <h3 class="h5"><a href="usage-canadaca-design.html">Who has to use this design system</a></h3>
-        <p>Scope of the Canada.ca design system</p>
+        <h3 class="h5"><a href="usage-canadaca-design.html">Who has to use the Canada.ca design</a></h3>
+        <p>Scope of the Canada.ca design</p>
       </section>
     </div>
     <div class="col-md-4">
