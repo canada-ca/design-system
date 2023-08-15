@@ -3,8 +3,9 @@ altLangPage: https://conception.canada.ca/test.html
 breadcrumbs:
   - title: About Canada.ca
     link: https://www.canada.ca/en/government/about.html
+date: null
 dateModified: 2023-02-20
-layout: default
+description: null
 title: Canada.ca design system
 ---
 Use this design system to provide a more usable, consistent and trustworthy online experience for people who access Government of Canada digital services.
