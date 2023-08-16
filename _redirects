@@ -1,0 +1,7 @@
+# Redirects from what the browser requests to what design-system.ca serves
+/common-design-patterns/redirect-test.html  /common-design-patterns/breadcrumb-trail.html 301!
+/covid/alerts.html /crisis/alerts.html 301!
+/covid/content.html /crisis/content.html 301!
+/continuous-improvement/monitoring/GCTSS.html /survey/index.html 301!
+/mandatory-templates/theme-pages.html /mandatory-templates/theme-topic.html 301!
+/mandatory-templates/topic-pages.html /mandatory-templates/theme-topic.html 301!
