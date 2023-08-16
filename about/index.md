@@ -81,7 +81,7 @@ title: "About Canada.ca"
       </div>
       <div class="col-md-6">
         <section>
-          <h3 class="h5"><a href="{{ site.url }}//about/digital-transformation-office.html">Digital Transformation Office</a></h3>
+          <h3 class="h5"><a href="{{ site.url }}/about/digital-transformation-office.html">Digital Transformation Office</a></h3>
           <p>Meet the team that is working with federal departments to improve Canada.ca.</p>
         </section>
       </div>
