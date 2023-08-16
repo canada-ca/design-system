@@ -88,6 +88,12 @@ defaults:
           title: Templates and patterns
         - link: https://design.canada.ca/recommended-templates/generic-destination.html
           title: Generic destination template
+      css:
+        - https://design.canada.ca/css/custom.css
+        - https://design.canada.ca/css/beta/ilp.css
+        - https://design.canada.ca/css/beta/social-media.css
+        - https://design.canada.ca/css/beta/mr-bullets.css
+        - https://design.canada.ca/css/guidance-draft.css
   - scope:
       path: survey
     values:
