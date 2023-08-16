@@ -6,6 +6,9 @@ description: "Canada.ca is the Government of Canada's digital presence."
 layout: default
 title: "About Canada.ca"
 ---
+<p>{{ site.urlcanadaca }}</p>
+<p>{{  site.url }}</p>
+<p>{{ site.urlblogca }}</p>
 <div class="row profile">
   <div class="col-md-8">
     <p>Canada.ca is the Government of Canada's digital presence. The goal of this site is to make it easier for Canadians to find and understand Government of Canada information and services.</p>
