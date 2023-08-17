@@ -524,6 +524,17 @@
           }
         ]
       }
+    },
+    {
+      "scope": {
+        "path": "index.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+          "title": "About Canada.ca",
+          "link": "https://design.canada.ca/about/"
+        }]
+      }
     }
   ]
 }
