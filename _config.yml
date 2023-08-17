@@ -39,8 +39,7 @@
     "vendor"
   ],
   "include": [
-    "_redirects",
-    "index.html"
+    "_redirects"
   ],
   "institutionopt": "tbs",
   "global": {
@@ -95,11 +94,11 @@
       },
       "values": {
         "breadcrumbs": [{
-            "link": "about/",
+            "link": "https://design.canada.ca/about/",
             "title": "About Canada.ca"
           },
           {
-            "link": "https://www.canada.ca/en/government/about/design-system.html",
+            "link": "https://design.canada.ca/",
             "title": "Canada.ca design system"
           }
         ]
@@ -111,11 +110,11 @@
       },
       "values": {
         "breadcrumbs": [{
-            "link": "about/",
+            "link": "https://design.canada.ca/about/",
             "title": "About Canada.ca"
           },
           {
-            "link": "https://www.canada.ca/en/government/about/design-system.html",
+            "link": "https://design.canada.ca/",
             "title": "Canada.ca design system"
           },
           {
@@ -136,7 +135,7 @@
       "values": {
         "breadcrumbs": [{
             "title": "About Canada.ca",
-            "link": "about/"
+            "link": "https://design.canada.ca/about/"
           },
           {
             "title": "Analytics and feedback",
@@ -156,15 +155,15 @@
       "values": {
         "breadcrumbs": [{
             "title": "About Canada.ca",
-            "link": "about/"
+            "link": "https://design.canada.ca/about/"
           },
           {
             "title": "Design system",
-            "link": "https://www.canada.ca/en/government/about/design-system.html"
+            "link": "https://design.canada.ca/"
           },
           {
             "title": "Information architecture specification",
-            "link": "architecture/canada-content-information-architecture-specification.html"
+            "link": "https://design.canada.ca/architecture/canada-content-information-architecture-specification.html"
           }
         ]
       }
@@ -176,15 +175,15 @@
       "values": {
         "breadcrumbs": [{
             "title": "About Canada.ca",
-            "link": "about/"
+            "link": "https://design.canada.ca/about/"
           },
           {
             "title": "Design system",
-            "link": "https://www.canada.ca/en/government/about/design-system.html"
+            "link": "https://design.canada.ca/"
           },
           {
             "title": "Templates and patterns",
-            "link": "https://www.canada.ca/en/government/about/design-system/pattern-library.html"
+            "link": "https://design.canada.ca/pattern-library.html"
           }
         ]
       }
@@ -196,15 +195,15 @@
       "values": {
         "breadcrumbs": [{
             "title": "About Canada.ca",
-            "link": "about/"
+            "link": "https://design.canada.ca/about/"
           },
           {
             "title": "Design system",
-            "link": "https://www.canada.ca/en/government/about/design-system.html"
+            "link": "https://design.canada.ca/"
           },
           {
             "title": "Templates and patterns",
-            "link": "https://www.canada.ca/en/government/about/design-system/pattern-library.html"
+            "link": "https://design.canada.ca/pattern-library.html"
           },
           {
             "title": "Global header",
@@ -221,15 +220,15 @@
       "values": {
         "breadcrumbs": [{
             "title": "About Canada.ca",
-            "link": "about/"
+            "link": "https://design.canada.ca/about/"
           },
           {
             "title": "Design system",
-            "link": "https://www.canada.ca/en/government/about/design-system.html"
+            "link": "https://design.canada.ca/"
           },
           {
             "title": "Templates and patterns",
-            "link": "https://www.canada.ca/en/government/about/design-system/pattern-library.html"
+            "link": "https://design.canada.ca/pattern-library.html"
           },
           {
             "title": "Global footer",
@@ -245,11 +244,11 @@
       },
       "values": {
         "breadcrumbs": [{
-            "link": "about/",
+            "link": "https://design.canada.ca/about/",
             "title": "About Canada.ca"
           },
           {
-            "link": "https://www.canada.ca/en/government/about/design-system.html",
+            "link": "https://design.canada.ca/",
             "title": "Canada.ca design system"
           },
           {
@@ -265,11 +264,11 @@
       },
       "values": {
         "breadcrumbs": [{
-            "link": "about/",
+            "link": "https://design.canada.ca/about/",
             "title": "About Canada.ca"
           },
           {
-            "link": "https://www.canada.ca/en/government/about/design-system.html",
+            "link": "https://design.canada.ca/",
             "title": "Canada.ca design system"
           },
           {
@@ -285,11 +284,11 @@
       },
       "values": {
         "breadcrumbs": [{
-            "link": "about/",
+            "link": "https://design.canada.ca/about/",
             "title": "About Canada.ca"
           },
           {
-            "link": "https://www.canada.ca/en/government/about/design-system.html",
+            "link": "https://design.canada.ca/",
             "title": "Canada.ca design system"
           },
           {
@@ -306,7 +305,7 @@
       "values": {
         "breadcrumbs": [{
             "title": "About Canada.ca",
-            "link": "about/"
+            "link": "https://design.canada.ca/about/"
           },
           {
             "title": "Analytics and feedback",
@@ -325,11 +324,11 @@
       },
       "values": {
         "breadcrumbs": [{
-            "link": "about/",
+            "link": "https://design.canada.ca/about/",
             "title": "About Canada.ca"
           },
           {
-            "link": "https://www.canada.ca/en/government/about/design-system.html",
+            "link": "https://design.canada.ca/",
             "title": "Canada.ca design system"
           }
         ]
@@ -341,11 +340,11 @@
       },
       "values": {
         "breadcrumbs": [{
-            "link": "about/",
+            "link": "https://design.canada.ca/about/",
             "title": "About Canada.ca"
           },
           {
-            "link": "https://www.canada.ca/en/government/about/design-system.html",
+            "link": "https://design.canada.ca/",
             "title": "Canada.ca design system"
           },
           {
@@ -361,11 +360,11 @@
       },
       "values": {
         "breadcrumbs": [{
-            "link": "about/",
+            "link": "https://design.canada.ca/about/",
             "title": "About Canada.ca"
           },
           {
-            "link": "https://www.canada.ca/en/government/about/design-system.html",
+            "link": "https://design.canada.ca/",
             "title": "Canada.ca design system"
           },
           {
@@ -381,11 +380,11 @@
       },
       "values": {
         "breadcrumbs": [{
-            "link": "about/",
+            "link": "https://design.canada.ca/about/",
             "title": "About Canada.ca"
           },
           {
-            "link": "https://www.canada.ca/en/government/about/design-system.html",
+            "link": "https://design.canada.ca/",
             "title": "Canada.ca design system"
           },
           {
@@ -401,11 +400,11 @@
       },
       "values": {
         "breadcrumbs": [{
-            "link": "about/",
+            "link": "https://design.canada.ca/about/",
             "title": "About Canada.ca"
           },
           {
-            "link": "https://www.canada.ca/en/government/about/design-system.html",
+            "link": "https://design.canada.ca/",
             "title": "Canada.ca design system"
           },
           {
@@ -414,18 +413,19 @@
           }
         ]
       }
-    }, {
+    },
+    {
       "scope": {
         "path": "style-guide/*.md"
       },
       "values": {
         "breadcrumbs": [{
             "title": "About Canada.ca",
-            "link": "about/"
+            "link": "https://design.canada.ca/about/"
           },
           {
             "title": "Design system",
-            "link": "https://www.canada.ca/en/government/about/design-system.html"
+            "link": "https://design.canada.ca/"
           },
           {
             "title": "Canada.ca Content Style Guide",
@@ -441,17 +441,15 @@
       "values": {
         "breadcrumbs": [{
             "title": "About Canada.ca",
-            "link": "about/"
+            "link": "https://design.canada.ca/about/"
           },
           {
             "title": "Design system",
-            "link": "https://www.canada.ca/en/government/about/design-system.html"
+            "link": "https://design.canada.ca/"
           }
         ]
       }
-    }
-
-    ,
+    },
     {
       "scope": {
         "path": "about"
@@ -482,11 +480,47 @@
           },
           {
             "title": "Design system",
-            "link": "https://www.canada.ca/en/government/about/design-system.html"
+            "link": "https://design.canada.ca/"
           },
           {
             "title": "Canada.ca Content Style Guide",
             "link": "https://design.canada.ca/style-guide/"
+          }
+        ]
+      }
+    },
+    {
+      "scope": {
+        "path": "pattern-library.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+            "title": "About Canada.ca",
+            "link": "https://design.canada.ca/about/"
+          },
+          {
+            "title": "Design system",
+            "link": "https://design.canada.ca/"
+          }
+        ]
+      }
+    },
+    {
+      "scope": {
+        "path": "find-right-template-design-pattern-web-content.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+            "title": "About Canada.ca",
+            "link": "https://design.canada.ca/about/"
+          },
+          {
+            "title": "Design system",
+            "link": "https://design.canada.ca/"
+          },
+          {
+            "title": "Templates and patterns",
+            "link": "https://design.canada.ca/pattern-library.html"
           }
         ]
       }
