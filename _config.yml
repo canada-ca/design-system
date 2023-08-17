@@ -474,6 +474,10 @@
         "breadcrumbs": [{
           "title": "About Canada.ca",
           "link": "https://design.canada.ca/about/"
+        },
+        {
+          "link": "https://design.canada.ca/",
+          "title": "Canada.ca design system"
         }]
       }
     },
