@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/configurations-conception-communes/boutons.html
+altLangPage: https://conception.canada.ca/configurations-conception-communes/nouveautes.html
 date: null
 dateModified: '2019-11-28'
 description: null
