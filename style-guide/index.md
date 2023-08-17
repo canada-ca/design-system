@@ -7,8 +7,6 @@ layout: default
 title: "Canada.ca Content Style Guide"
 ---
 <p>These are the rules to create web content that can be easily found, understood and used. They are based on writing principles and techniques that help make web content clear and adapted to the needs of all people. Use it with the <a href="{{ site.url }}/architecture/canada-content-information-architecture-specification.html">Content and Information Architecture Specification</a> when you're designing and organizing web content.</p>
-<p>Version 2.2.1</p>
-<p>Revised: February 3, 2020</p>
 <section>
   <div class="panel panel-default">
     <header class="panel-heading">
