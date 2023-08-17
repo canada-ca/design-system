@@ -59,7 +59,7 @@ title: "Template and pattern library for Canada.ca"
       <div class="mrgn-tp-md mrgn-bttm-md">
         <table class="wb-tables table table-striped small" aria-live="polite" id="design" data-page-length="100" data-wb-tables="{
             &quot;bDeferRender&quot;: true,
-            &quot;ajaxSource&quot;: &quot;https://design.canada.ca/ajax/patterns-01-en.json&quot;,
+            &quot;ajaxSource&quot;: &quot;./ajax/patterns-01-en.json&quot;,
             &quot;order&quot;: [0, &quot;asc&quot;],
             &quot;paging&quot;: false,
             &quot;info&quot;: false,
