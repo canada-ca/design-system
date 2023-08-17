@@ -449,5 +449,46 @@
         ]
       }
     }
+
+    ,
+    {
+      "scope": {
+        "path": "about"
+      },
+      "values": {
+        "breadcrumbs": [{
+          "title": "About Canada.ca",
+          "link": "https://design.canada.ca/about/"
+        }]
+      }
+    },
+    {
+      "scope": {
+        "path": "about/index.md"
+      },
+      "values": {
+        "breadcrumbs": true
+      }
+    },
+    {
+      "scope": {
+        "path": "style-guide/*.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+            "title": "About Canada.ca",
+            "link": "https://design.canada.ca/about/"
+          },
+          {
+            "title": "Design system",
+            "link": "https://www.canada.ca/en/government/about/design-system.html"
+          },
+          {
+            "title": "Canada.ca Content Style Guide",
+            "link": "https://design.canada.ca/style-guide/"
+          }
+        ]
+      }
+    }
   ]
 }
