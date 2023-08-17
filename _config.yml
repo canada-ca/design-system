@@ -39,7 +39,8 @@
     "vendor"
   ],
   "include": [
-    "_redirects"
+    "_redirects",
+    "index.html"
   ],
   "institutionopt": "tbs",
   "global": {
