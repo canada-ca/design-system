@@ -6,7 +6,7 @@ description: "The Canada.ca design holds the building blocks for Canada.ca  – 
 layout: "without-h1"
 title: "Canada.ca design system"
 ---
-<h1>Canada.ca design system</h1>
+<h1 property="name" id="wb-cont" property="name headline" dir="ltr">Canada.ca design system</h1>
 <p>Use this design system to provide a more usable, consistent and trustworthy online experience for people who access Government of Canada digital services.</p>
 <section>
   <div class="row">
