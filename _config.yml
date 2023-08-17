@@ -487,6 +487,7 @@
         "path": "about/index.md"
       },
       "values": {
+        "title": false
         "breadcrumbs": true
       }
     },
