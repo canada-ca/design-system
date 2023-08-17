@@ -10,27 +10,27 @@ title: "Canada.ca design system"
   <div class="row">
     <section class="wb-eqht gc-drmt">
       <div class="col-md-4">
-        <h3 class="h5"><a href="/en/government/about/design-system/pattern-library.html">Template and design pattern library</a></h3>
+        <h3 class="h5"><a href="{{ site.url }}/pattern-library.html">Template and design pattern library</a></h3>
         <p>User-tested templates, page layouts, design patterns, guidelines, and code samples</p>
       </div>
       <div class="col-md-4">
-        <h3 class="h5"><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html">Canada.ca Content Style guide</a></h3>
+        <h3 class="h5"><a href="{{ site.url }}/style-guide/">Canada.ca Content Style guide</a></h3>
         <p>Writing principles and techniques to make content clear and accessible to all</p>
       </div>
       <div class="col-md-4">
-        <h3 class="h5"><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification.html">Canada.ca Content and Information Architecture Specification</a></h3>
+        <h3 class="h5"><a href="{{ site.url }}/architecture/canada-content-information-architecture-specification.html">Canada.ca Content and Information Architecture Specification</a></h3>
         <p>Who has to use the Canada.ca design system, mandatory elements, how to organize content and design principles</p>
       </div>
       <div class="col-md-4">
-        <h3 class="h5"><a href="https://design.canada.ca/continuous-improvement.html">Continuous improvement of web content </a></h3>
+        <h3 class="h5"><a href="{{ site.url }}/continuous-improvement.html">Continuous improvement of web content </a></h3>
         <p>Choosing what to improve, organizing and preparing your team, research and prototyping, designing content, monitoring and measuring success</p>
       </div>
       <div class="col-md-4">
-        <h3 class="h5"><a href="https://blog.canada.ca/">Canada.ca blog</a></h3>
+        <h3 class="h5"><a href="{{ site.urlblogca }}">Canada.ca blog</a></h3>
         <p>Evidence and insights on improving information and services on Canada.ca</p>
       </div>
       <div class="col-md-4">
-        <h3 class="h5"><a href="/en/government/about/design-system/latest-changes.html">Latest changes to the Canada.ca design system</a></h3>
+        <h3 class="h5"><a href="{{ site.url }}/about/latest-changes.html">Latest changes to the Canada.ca design system</a></h3>
         <p>Latest changes to the design system, templates and patterns, style guide and other tools</p>
       </div>
     </section>
