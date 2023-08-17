@@ -13,7 +13,15 @@ title: "Latest changes to the Canada.ca design system"
   All</button>
 </div>
 <div id="expand-collapse">
-  <details open>
+  <details open="open">
+    <summary>July 12, 2023</summary>
+    <p>Updated the <a href="{{ site.url }}/common-design-patterns/subway-navigation.html">Subway pattern</a> to remove "avoid sub-steps". This reflects that there may be instances where more complex processes would benefit from the use of sub-steps.</p>
+  </details>
+  <details>
+    <summary>June 29, 2023</summary>
+    <p>Updated the <a href="{{ site.url }}/common-design-patterns/global-header.html">Global header</a> pattern to reflect design changes from the Canada.ca trust study and wayfinding project. This includes documenting criteria for when the theme and topic menu can be removed, clarifying the colour of the flag in the Government of Canada signature and documenting that institutions can contextualize the search box. Also added guidance on what to avoid, research findings and policy rationale.</p>
+  </details>
+  <details>
     <summary>November 30, 2022</summary>
     <p>Updated the <a href="{{ site.url }}/common-design-patterns/site-footer.html">Global footer</a> pattern to reflect design changes from the Canada.ca Wayfinding project, including modifications to the main footer band and sub-footer band, as well as a new contextual footer band</p>
   </details>
