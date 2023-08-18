@@ -1,7 +1,7 @@
 --- 
 altLangPage: "https://conception.canada.ca/bibliotheque-modeles.html"
 date: 2021-05-03
-dateModified: 2019-11-28
+dateModified: 2023-08-19
 description: "A collection of the patterns and page layouts to be used for Government of Canada digital content."
 title: "Template and pattern library for Canada.ca"
 ---
