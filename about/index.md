@@ -17,7 +17,7 @@ title: "About Canada.ca"
     <section class="lnkbx">
       <h2>Most requested</h2>
       <ul>
-        <li><a href="{{ site.urlcanadaca }}/en/government/about/design-system/pattern-library.html">Template and pattern library for Canada.ca</a></li>
+        <li><a href="{{ site.url }}/pattern-library.html">Template and pattern library for Canada.ca</a></li>
         <li><a href="{{ site.url }}/about/top-tasks-for-canada-ca.html">Top tasks for Canada.ca</a></li>
         <li><a href="{{ site.url }}/architecture/canada-content-information-architecture-specification.html">Content and Information Architecture Specification</a></li>
         <li><a href="{{ site.url }}/style-guide/">Content Style Guide</a></li>
@@ -48,7 +48,7 @@ title: "About Canada.ca"
       </div>
       <div class="col-md-6">
         <section>
-          <h3 class="h5"><a href="{{ site.urlcanadaca }}/en/government/about/design-system.html">Canada.ca design system</a></h3>
+          <h3 class="h5"><a href="{{ site.url }}">Canada.ca design system</a></h3>
           <p>Content and Information Architecture Specification, Content Style Guide, templates and design patterns, topic tree, institutions list, theme lead departments.</p>
         </section>
       </div>
