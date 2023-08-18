@@ -2,8 +2,8 @@
 altLangPage: "https://conception.canada.ca/bibliotheque-modeles.html"
 date: 2021-05-03
 dateModified: 2019-11-28
-description: "Find the right template and design patterns for Canada.ca web content"
-title: "A series of questions to help identify what Canada.ca template and/or design pattern is the best fit for the content."
+description: "A series of questions to help identify what Canada.ca template and/or design pattern is the best fit for the content."
+title: "Find the right template and design patterns for your web content"
 ---
 <div class="home">
   <section> 
