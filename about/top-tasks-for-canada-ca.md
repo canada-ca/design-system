@@ -26,109 +26,109 @@ title: "Top tasks for Canada.ca"
     <tr>
       <td>1</td>
       <td>Check your application status</td>
-      <td><a href="/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
       <td>42347</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Apply for a work permit</td>
-      <td><a href="/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
       <td>29094</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Apply for a visitor visa to Canada</td>
-      <td><a href="/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
       <td>14206</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Check online mail</td>
-      <td><a href="/en/revenue-agency.html">Canada Revenue Agency</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/revenue-agency.html">Canada Revenue Agency</a></td>
       <td>13703</td>
     </tr>
     <tr>
       <td>5</td>
       <td>Access My Account</td>
-      <td><a href="/en/revenue-agency.html">Canada Revenue Agency</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/revenue-agency.html">Canada Revenue Agency</a></td>
       <td>12973</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Apply for Canadian citizenship</td>
-      <td><a href="/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
       <td>11953</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Study in Canada – for non-Canadians</td>
-      <td><a href="/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
       <td>11548</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Immigrate through Express Entry</td>
-      <td><a href="/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
       <td>11392</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Jobs in the private sector</td>
-      <td><a href="/en/employment-social-development.html">Employment and Social Development Canada</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/employment-social-development.html">Employment and Social Development Canada</a></td>
       <td>10323</td>
     </tr>
     <tr>
       <td>10</td>
       <td>Jobs in the federal public service</td>
-      <td><a href="/en/public-service-commission.html">Canada Revenue Agency</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/public-service-commission.html">Canada Revenue Agency</a></td>
       <td>8483</td>
     </tr>
     <tr>
       <td>11</td>
       <td>See my T4 information</td>
-      <td><a href="/en/revenue-agency.html">Canada Revenue Agency</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/revenue-agency.html">Canada Revenue Agency</a></td>
       <td>8423</td>
     </tr>
     <tr>
       <td>12</td>
       <td>Contact Immigration, Refugees and Citizenship Canada</td>
-      <td><a href="/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
       <td>8076</td>
     </tr>
     <tr>
       <td>13</td>
       <td>Check processing times</td>
-      <td><a href="/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
       <td>7009</td>
     </tr>
     <tr>
       <td>14</td>
       <td>Get a copy of a notice of assessment or reassessment</td>
-      <td><a href="/en/revenue-agency.html">Canada Revenue Agency</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/revenue-agency.html">Canada Revenue Agency</a></td>
       <td>6983</td>
     </tr>
     <tr>
       <td>15</td>
       <td>Submit an Employment Insurance (EI) report</td>
-      <td><a href="/en/employment-social-development.html">Employment and Social Development Canada</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/employment-social-development.html">Employment and Social Development Canada</a></td>
       <td>6232</td>
     </tr>
     <tr>
       <td>16</td>
       <td>My Service Canada Account (MSCA) - Check your Employment Insurance (EI) claim status and correspondence</td>
-      <td><a href="/en/employment-social-development.html">Employment and Social Development Canada</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/employment-social-development.html">Employment and Social Development Canada</a></td>
       <td>5586</td>
     </tr>
     <tr>
       <td>17</td>
       <td>My Service Canada Account (MSCA) - Sign in</td>
-      <td><a href="/en/employment-social-development.html">Employment and Social Development Canada</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/employment-social-development.html">Employment and Social Development Canada</a></td>
       <td>5584</td>
     </tr>
     <tr>
       <td>18</td>
       <td>Check if you need a visa or electronic travel authorization (eTA) to travel to Canada</td>
-      <td><a href="/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
       <td>5357</td>
     </tr>
     <tr>
@@ -140,91 +140,91 @@ title: "Top tasks for Canada.ca"
     <tr>
       <td>20</td>
       <td>Renew a Canadian passport</td>
-      <td><a href="/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
       <td>5042</td>
     </tr>
     <tr>
       <td>21</td>
       <td>Employment Insurance (EI) - Apply for Employment Insurance</td>
-      <td><a href="/en/employment-social-development.html">Employment and Social Development Canada</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/employment-social-development.html">Employment and Social Development Canada</a></td>
       <td>4964</td>
     </tr>
     <tr>
       <td>22</td>
       <td>Immigrate as a provincial nominee</td>
-      <td><a href="/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
       <td>4367</td>
     </tr>
     <tr>
       <td>23</td>
       <td>COVID-19 requirements for travellers</td>
-      <td><a href="/en/public-health.html">Public Health Agency of Canada</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/public-health.html">Public Health Agency of Canada</a></td>
       <td>4041</td>
     </tr>
     <tr>
       <td>24</td>
       <td>Apply for a new Canadian passport</td>
-      <td><a href="/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
       <td>3943</td>
     </tr>
     <tr>
       <td>25</td>
       <td>Find out when I can expect my tax refund</td>
-      <td><a href="/en/revenue-agency.html">Canada Revenue Agency</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/revenue-agency.html">Canada Revenue Agency</a></td>
       <td>3876</td>
     </tr>
     <tr>
       <td>26</td>
       <td>File a GST/HST return</td>
-      <td><a href="/en/revenue-agency.html">Canada Revenue Agency</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/revenue-agency.html">Canada Revenue Agency</a></td>
       <td>3248</td>
     </tr>
     <tr>
       <td>27</td>
       <td>IRCC secure account - register, sign in, help</td>
-      <td><a href="/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
       <td>2920</td>
     </tr>
     <tr>
       <td>28</td>
       <td>Sponsor your family members to immigrate to Canada</td>
-      <td><a href="/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
       <td>2878</td>
     </tr>
     <tr>
       <td>29</td>
       <td>Make a payment to the Canada Revenue Agency</td>
-      <td><a href="/en/revenue-agency.html">Canada Revenue Agency</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/revenue-agency.html">Canada Revenue Agency</a></td>
       <td>2851</td>
     </tr>
     <tr>
       <td>30</td>
       <td>Open a My Account</td>
-      <td><a href="/en/revenue-agency.html">Canada Revenue Agency</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/revenue-agency.html">Canada Revenue Agency</a></td>
       <td>2695</td>
     </tr>
     <tr>
       <td>31</td>
       <td>Get, renew or replace a permanent resident card</td>
-      <td><a href="/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
       <td>2654</td>
     </tr>
     <tr>
       <td>32</td>
       <td>Vaccines and treatment</td>
-      <td><a href="/en/health-canada.html">Health Canada</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/health-canada.html">Health Canada</a></td>
       <td>2631</td>
     </tr>
     <tr>
       <td>33</td>
       <td>Find an IRCC application package or form</td>
-      <td><a href="/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
       <td>2586</td>
     </tr>
     <tr>
       <td>34</td>
       <td>Find my Tax-free savings Account (TFSA) contribution limit</td>
-      <td><a href="/en/revenue-agency.html">Canada Revenue Agency</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/revenue-agency.html">Canada Revenue Agency</a></td>
       <td>2464</td>
     </tr>
     <tr>
@@ -236,13 +236,13 @@ title: "Top tasks for Canada.ca"
     <tr>
       <td>36</td>
       <td>Find out which tax deductions, credits, or expenses I can claim</td>
-      <td><a href="/en/revenue-agency.html">Canada Revenue Agency</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/revenue-agency.html">Canada Revenue Agency</a></td>
       <td>2339</td>
     </tr>
     <tr>
       <td>37</td>
       <td>My Service Canada Account (MSCA) - View payment information</td>
-      <td><a href="/en/employment-social-development.html">Employment and Social Development Canada</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/employment-social-development.html">Employment and Social Development Canada</a></td>
       <td>2295</td>
     </tr>
     <tr>
@@ -254,13 +254,13 @@ title: "Top tasks for Canada.ca"
     <tr>
       <td>39</td>
       <td>Find a visa application centre</td>
-      <td><a href="/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
       <td>1941</td>
     </tr>
     <tr>
       <td>40</td>
       <td>COVID-19 cases, statistics</td>
-      <td><a href="/en/health-canada.html">Health Canada</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/health-canada.html">Health Canada</a></td>
       <td>1765</td>
     </tr>
     <tr>
@@ -272,13 +272,13 @@ title: "Top tasks for Canada.ca"
     <tr>
       <td>42</td>
       <td>Find my Registered Retirement Savings Plan (RRSP) contribution limit</td>
-      <td><a href="/en/revenue-agency.html">Canada Revenue Agency</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/revenue-agency.html">Canada Revenue Agency</a></td>
       <td>1581</td>
     </tr>
     <tr>
       <td>43</td>
       <td>My Service Canada Account (MSCA) - Register for an account</td>
-      <td><a href="/en/employment-social-development.html">Employment and Social Development Canada</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/employment-social-development.html">Employment and Social Development Canada</a></td>
       <td>1538</td>
     </tr>
     <tr>
@@ -290,7 +290,7 @@ title: "Top tasks for Canada.ca"
     <tr>
       <td>45</td>
       <td>Employment Insurance (EI) - Check eligibility</td>
-      <td><a href="/en/employment-social-development.html">Employment and Social Development Canada</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/employment-social-development.html">Employment and Social Development Canada</a></td>
       <td>1504</td>
     </tr>
     <tr>
@@ -302,25 +302,25 @@ title: "Top tasks for Canada.ca"
     <tr>
       <td>47</td>
       <td>Find out how much my benefit payment will be</td>
-      <td><a href="/en/revenue-agency.html">Canada Revenue Agency</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/revenue-agency.html">Canada Revenue Agency</a></td>
       <td>1476</td>
     </tr>
     <tr>
       <td>48</td>
       <td>Symptoms of COVID-19</td>
-      <td><a href="/en/health-canada.html">Health Canada</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/health-canada.html">Health Canada</a></td>
       <td>1473</td>
     </tr>
     <tr>
       <td>49</td>
       <td>Get an income tax form and guide</td>
-      <td><a href="/en/revenue-agency.html">Canada Revenue Agency</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/revenue-agency.html">Canada Revenue Agency</a></td>
       <td>1471</td>
     </tr>
     <tr>
       <td>50</td>
       <td>Calculate payroll deductions</td>
-      <td><a href="/en/revenue-agency.html">Canada Revenue Agency</a></td>
+      <td><a href="{{ site.urlcanadaca }}/en/revenue-agency.html">Canada Revenue Agency</a></td>
       <td>1464</td>
     </tr>
   </tbody>
@@ -342,121 +342,121 @@ title: "Top tasks for Canada.ca"
       <tr>
         <td>1</td>
         <td>Check your application status</td>
-        <td><a href="/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
         <td>37747</td>
       </tr>
       <tr>
         <td>2</td>
         <td>IRCC secure account - register, sign in, help</td>
-        <td><a href="/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
         <td>11842</td>
       </tr>
       <tr>
         <td>3</td>
         <td>Apply for a work permit</td>
-        <td><a href="/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
         <td>10663</td>
       </tr>
       <tr>
         <td>4</td>
         <td>Immigrate through Express Entry</td>
-        <td><a href="/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
         <td>9417</td>
       </tr>
       <tr>
         <td>5</td>
         <td>Submit an Employment Insurance (EI) report</td>
-        <td><a href="/en/employment-social-development.html">Employment and Social Development Canada</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/employment-social-development.html">Employment and Social Development Canada</a></td>
         <td>8885</td>
       </tr>
       <tr>
         <td>6</td>
         <td>See my T4 information</td>
-        <td><a href="/en/revenue-agency.html">Canada Revenue Agency</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/revenue-agency.html">Canada Revenue Agency</a></td>
         <td>8533</td>
       </tr>
       <tr>
         <td>7</td>
         <td>Get a copy of a notice of assessment or reassessment</td>
-        <td><a href="/en/revenue-agency.html">Canada Revenue Agency</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/revenue-agency.html">Canada Revenue Agency</a></td>
         <td>8018</td>
       </tr>
       <tr>
         <td>8</td>
         <td>Study in Canada – for non-Canadians</td>
-        <td><a href="/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
         <td>7594</td>
       </tr>
       <tr>
         <td>9</td>
         <td>Check the status of an Employment Insurance (EI) claim</td>
-        <td><a href="/en/employment-social-development.html">Employment and Social Development Canada</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/employment-social-development.html">Employment and Social Development Canada</a></td>
         <td>7390</td>
       </tr>
       <tr>
         <td>10</td>
         <td>Canada Recovery Benefit (CRB)</td>
-        <td><a href="/en/revenue-agency.html">Canada Revenue Agency</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/revenue-agency.html">Canada Revenue Agency</a></td>
         <td>6633</td>
       </tr>
       <tr>
         <td>11</td>
         <td>Apply for a visitor visa to Canada</td>
-        <td><a href="/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
         <td>6275</td>
       </tr>
       <tr>
         <td>12</td>
         <td>Jobs in the federal public service</td>
-        <td><a href="/en/public-service-commission.html">Canada Revenue Agency</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/public-service-commission.html">Canada Revenue Agency</a></td>
         <td>6189</td>
       </tr>
       <tr>
         <td>13</td>
         <td>Check [CRA] online mail</td>
-        <td><a href="/en/revenue-agency.html">Canada Revenue Agency</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/revenue-agency.html">Canada Revenue Agency</a></td>
         <td>6056</td>
       </tr>
       <tr>
         <td>14</td>
         <td>Jobs in the private sector</td>
-        <td><a href="/en/employment-social-development.html">Employment and Social Development Canada</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/employment-social-development.html">Employment and Social Development Canada</a></td>
         <td>5931</td>
       </tr>
       <tr>
         <td>15</td>
         <td>Check processing times</td>
-        <td><a href="/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
         <td>5681</td>
       </tr>
       <tr>
         <td>16</td>
         <td>Apply for Employment Insurance (EI) regular benefits</td>
-        <td><a href="/en/employment-social-development.html">Employment and Social Development Canada</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/employment-social-development.html">Employment and Social Development Canada</a></td>
         <td>5185</td>
       </tr>
       <tr>
         <td>17</td>
         <td>Apply for Canadian citizenship</td>
-        <td><a href="/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
         <td>4602</td>
       </tr>
       <tr>
         <td>18</td>
         <td>Contact Immigration, Refugees and Citizenship Canada</td>
-        <td><a href="/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
         <td>4541</td>
       </tr>
       <tr>
         <td>19</td>
         <td>COVID-19 cases, statistics</td>
-        <td><a href="/en/health-canada.html">Health Canada</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/health-canada.html">Health Canada</a></td>
         <td>3615</td>
       </tr>
       <tr>
         <td>20</td>
         <td>COVID-19 testing requirements for travellers</td>
-        <td><a href="/en/public-health.html">Public Health Agency of Canada</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/public-health.html">Public Health Agency of Canada</a></td>
         <td>3565</td>
       </tr>
       <tr>
@@ -474,13 +474,13 @@ title: "Top tasks for Canada.ca"
       <tr>
         <td>23</td>
         <td>Vaccines and treatment</td>
-        <td><a href="/en/health-canada.html">Health Canada</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/health-canada.html">Health Canada</a></td>
         <td>3437</td>
       </tr>
       <tr>
         <td>24</td>
         <td>Get your Canadian COVID-19 proof of vaccination</td>
-        <td><a href="/en/health-canada.html">Health Canada</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/health-canada.html">Health Canada</a></td>
         <td>3352</td>
       </tr>
       <tr>
@@ -492,19 +492,19 @@ title: "Top tasks for Canada.ca"
       <tr>
         <td>26</td>
         <td>Open a My Account</td>
-        <td><a href="/en/revenue-agency.html">Canada Revenue Agency</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/revenue-agency.html">Canada Revenue Agency</a></td>
         <td>3049</td>
       </tr>
       <tr>
         <td>27</td>
         <td>Immigrate as a provincial nominee</td>
-        <td><a href="/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
         <td>2609</td>
       </tr>
       <tr>
         <td>28</td>
         <td>Canada Recovery Sickness Benefit (CRSB)</td>
-        <td><a href="/en/revenue-agency.html">Canada Revenue Agency</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/revenue-agency.html">Canada Revenue Agency</a></td>
         <td>2563</td>
       </tr>
       <tr>
@@ -516,73 +516,73 @@ title: "Top tasks for Canada.ca"
       <tr>
         <td>30</td>
         <td>File a GST/HST return</td>
-        <td><a href="/en/revenue-agency.html">Canada Revenue Agency</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/revenue-agency.html">Canada Revenue Agency</a></td>
         <td>2138</td>
       </tr>
       <tr>
         <td>31</td>
         <td>Sponsor your family members to immigrate to Canada</td>
-        <td><a href="/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
         <td>2136</td>
       </tr>
       <tr>
         <td>32</td>
         <td>Find an IRCC application package or form</td>
-        <td><a href="/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
         <td>2067</td>
       </tr>
       <tr>
         <td>33</td>
         <td>[COVID] Symptoms and testing</td>
-        <td><a href="/en/health-canada.html">Health Canada</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/health-canada.html">Health Canada</a></td>
         <td>2051</td>
       </tr>
       <tr>
         <td>34</td>
         <td>Canada Worker Lockdown Benefit (CWLB)</td>
-        <td><a href="/en/revenue-agency.html">Canada Revenue Agency</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/revenue-agency.html">Canada Revenue Agency</a></td>
         <td>2047</td>
       </tr>
       <tr>
         <td>35</td>
         <td>Find my Tax-free savings Account (TFSA) contribution limit</td>
-        <td><a href="/en/revenue-agency.html">Canada Revenue Agency</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/revenue-agency.html">Canada Revenue Agency</a></td>
         <td>1962</td>
       </tr>
       <tr>
         <td>36</td>
         <td>Find out when I can expect my tax refund</td>
-        <td><a href="/en/revenue-agency.html">Canada Revenue Agency</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/revenue-agency.html">Canada Revenue Agency</a></td>
         <td>1937</td>
       </tr>
       <tr>
         <td>37</td>
         <td>Make a payment to the Canada Revenue Agency</td>
-        <td><a href="/en/revenue-agency.html">Canada Revenue Agency</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/revenue-agency.html">Canada Revenue Agency</a></td>
         <td>1840</td>
       </tr>
       <tr>
         <td>38</td>
         <td>Find out which tax deductions, credits, or expenses I can claim</td>
-        <td><a href="/en/revenue-agency.html">Canada Revenue Agency</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/revenue-agency.html">Canada Revenue Agency</a></td>
         <td>1806</td>
       </tr>
       <tr>
         <td>39</td>
         <td>Check if you need a visa or electronic travel authorization (eTA) to travel to Canada copy</td>
-        <td><a href="/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
         <td>1725</td>
       </tr>
       <tr>
         <td>40</td>
         <td>Get current and forecasted weather for your location</td>
-        <td><a href="/en/environment-climate-change.html">Environment and Climate Change Canada</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/environment-climate-change.html">Environment and Climate Change Canada</a></td>
         <td>1713</td>
       </tr>
       <tr>
         <td>41</td>
         <td>My Service Canada Account (MSCA) - register, sign in, help</td>
-        <td><a href="/en/employment-social-development.html">Employment and Social Development Canada</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/employment-social-development.html">Employment and Social Development Canada</a></td>
         <td>1699</td>
       </tr>
       <tr>
@@ -594,31 +594,31 @@ title: "Top tasks for Canada.ca"
       <tr>
         <td>43</td>
         <td>Canada Recovery Caregiving Benefit (CRCB)</td>
-        <td><a href="/en/revenue-agency.html">Canada Revenue Agency</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/revenue-agency.html">Canada Revenue Agency</a></td>
         <td>1637</td>
       </tr>
       <tr>
         <td>44</td>
         <td>Get, renew or replace a permanent resident card</td>
-        <td><a href="/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
         <td>1621</td>
       </tr>
       <tr>
         <td>45</td>
         <td>Sign up for direct deposit or update your banking information</td>
-        <td><a href="/en/public-services-procurement.html">Environment and Climate Change Canada</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/public-services-procurement.html">Environment and Climate Change Canada</a></td>
         <td>1613</td>
       </tr>
       <tr>
         <td>46</td>
         <td>Apply for a new Canadian passport</td>
-        <td><a href="/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
         <td>1585</td>
       </tr>
       <tr>
         <td>47</td>
         <td>Comprehensive Ranking System (CRS) tool - skilled immigrants (Express Entry)</td>
-        <td><a href="/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/immigration-refugees-citizenship.html">Immigration, Refugees and Citizenship Canada</a></td>
         <td>1560</td>
       </tr>
       <tr>
@@ -630,13 +630,13 @@ title: "Top tasks for Canada.ca"
       <tr>
         <td>49</td>
         <td>Travel inside Canada [COVID-19]</td>
-        <td><a href="/en/health-canada.html">Health Canada</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/health-canada.html">Health Canada</a></td>
         <td>1368</td>
       </tr>
       <tr>
         <td>50</td>
         <td>Get an income tax form and guide</td>
-        <td><a href="/en/revenue-agency.html">Canada Revenue Agency</a></td>
+        <td><a href="{{ site.urlcanadaca }}/en/revenue-agency.html">Canada Revenue Agency</a></td>
         <td>1353</td>
       </tr>
     </tbody>
