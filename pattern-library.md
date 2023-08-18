@@ -2,7 +2,7 @@
 altLangPage: "https://conception.canada.ca/bibliotheque-modeles.html"
 date: 2021-05-03
 dateModified: 2019-11-28
-description: "The Canada.ca design holds the building blocks for Canada.ca  – our templates and patterns make Government of Canada digital services more usable, consistent and trustworthy."
+description: "A collection of the patterns and page layouts to be used for Government of Canada digital content."
 title: "Template and pattern library for Canada.ca"
 ---
 <p>These patterns and page layouts have been user-tested. They were designed to help you develop digital content focused on the task people are trying to accomplish.</p>
