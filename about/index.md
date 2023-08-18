@@ -48,7 +48,7 @@ title: "About Canada.ca"
       </div>
       <div class="col-md-6">
         <section>
-          <h3 class="h5"><a href="{{ site.url }}">Canada.ca design system</a></h3>
+          <h3 class="h5"><a href="{{ site.url }}/">Canada.ca design system</a></h3>
           <p>Content and Information Architecture Specification, Content Style Guide, templates and design patterns, topic tree, institutions list, theme lead departments.</p>
         </section>
       </div>
