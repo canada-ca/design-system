@@ -492,6 +492,17 @@
     },
     {
       "scope": {
+        "path": "about/digital-transformation-office.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+          "title": "About Canada.ca",
+          "link": "https://design.canada.ca/about/"
+        }]
+      }
+    },
+    {
+      "scope": {
         "path": "style-guide/*.md"
       },
       "values": {
