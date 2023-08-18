@@ -3,7 +3,7 @@ altLangPage: "https://conception.canada.ca/bibliotheque-modeles.html"
 date: 2021-05-03
 dateModified: 2019-11-28
 description: "Find the right template and design patterns for Canada.ca web content"
-title: "Find the right template and design patterns for your web content"
+title: "A series of questions to help identify what Canada.ca template and/or design pattern is the best fit for the content."
 ---
 <div class="home">
   <section> 
@@ -11,7 +11,6 @@ title: "Find the right template and design patterns for your web content"
     <p>Answer the following questions to find out if there is a template or design pattern you could leverage to design user-centered and task-based content.</p>
     <div class="wb-frmvld">
       <form method="get">
-        
         <!-- Wizard Q1 -->
         <div id="question-1" class="wb-fieldflow" data-wb-fieldflow="{
 							&quot;renderas&quot;:&quot;radio&quot;, 
