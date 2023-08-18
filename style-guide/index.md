@@ -262,7 +262,7 @@ title: "Canada.ca Content Style Guide"
       <div class="well panel"> 
         <!--UPDATE LATER-->
         <p><a href="{{ site.urlconception }}/guide-redaction/#wp2-1" aria-label="See how the rule for the inverted pyramid structure applies to content in French">See how this rule applies to content in French</a></p>
-        <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20the%20inverted%20pyramid%20structure%20to%20organize%20content%20on%20Canada.ca:%20{{ site.url }}/style-guide/#wp2-1" aria-label="Share the rule for the inverted pyramid structure by email">Share this rule by email</a></p>
+        <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20the%20inverted%20pyramid%20structure%20to%20organize%20content%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp2-1" aria-label="Share the rule for the inverted pyramid structure by email">Share this rule by email</a></p>
       </div>
     </section>
   </section>
@@ -285,7 +285,7 @@ title: "Canada.ca Content Style Guide"
     <div class="well panel"> 
       <!--UPDATE LATER-->
       <p><a href="{{ site.urlconception }}/guide-redaction/#wp2-1" aria-label="See how the rule for using simple and common words applies to content in French">See how this rule applies to content in French</a></p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20simple%20and%20common%20words%20on%20Canada.ca:%20{{ site.url }}/style-guide/#wp2-2" aria-label="Share the rule for using simple and common words by email">Share this rule by email</a></p>
+      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20simple%20and%20common%20words%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp2-2" aria-label="Share the rule for using simple and common words by email">Share this rule by email</a></p>
     </div>
   </section>
   <section>
@@ -325,7 +325,7 @@ title: "Canada.ca Content Style Guide"
       <div class="well panel"> 
         <!--UPDATE LATER-->
         <p><a href="{{ site.urlconception }}/guide-redaction/#wp2-3" aria-label="See how the rule for active voice and positive form applies to content in French">See how this rule applies to content in French</a></p>
-        <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20the%20active%20voice%20and%20positive%20form%20on%20Canada.ca:%20{{ site.url }}/style-guide/#wp2-3" aria-label="Share the rule for active voice and positive form by email">Share this rule by email</a></p>
+        <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20the%20active%20voice%20and%20positive%20form%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp2-3" aria-label="Share the rule for active voice and positive form by email">Share this rule by email</a></p>
       </div>
     </section>
   </section>
@@ -347,7 +347,7 @@ title: "Canada.ca Content Style Guide"
     <div class="well panel"> 
       <!--UPDATE LATER-->
       <p><a href="{{ site.urlconception }}/guide-redaction/#wp2-4" aria-label="See how the rule for using verbs instead of nouns formed from verbs applies to content in French">See how this rule applies to content in French</a></p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20verbs%20instead%20of%20nouns%20formed%20from%20verbs%20on%20Canada.ca:%20{{ site.url }}/style-guide/#wp2-4" aria-label="Share the rule for using verbs instead of nouns formed from verbs by email">Share this rule by email</a></p>
+      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20verbs%20instead%20of%20nouns%20formed%20from%20verbs%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp2-4" aria-label="Share the rule for using verbs instead of nouns formed from verbs by email">Share this rule by email</a></p>
     </div>
   </section>
   <section>
@@ -376,7 +376,7 @@ title: "Canada.ca Content Style Guide"
     <div class="well panel"> 
       <!--UPDATE LATER-->
       <p><a href="{{ site.urlconception }}/guide-redaction/#wp2-5" aria-label="See how the rule for jargon, idioms and expressions applies to content in French">See how this rule applies to content in French</a></p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20jargon,%20idioms%20and%20expressions%20on%20Canada.ca:%20{{ site.url }}/style-guide/#wp2-5" aria-label="Share the rule for jargon, idioms and expressions by email">Share this rule by email</a></p>
+      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20jargon,%20idioms%20and%20expressions%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp2-5" aria-label="Share the rule for jargon, idioms and expressions by email">Share this rule by email</a></p>
     </div>
     <h4 class="h5">Identify keywords your audience is using to find your content</h4>
     <p>Tools you can use to see which search terms are most popular: </p>
@@ -413,7 +413,7 @@ title: "Canada.ca Content Style Guide"
     <div class="well panel"> 
       <!--UPDATE LATER-->
       <p><a href="{{ site.urlconception }}/guide-redaction/#wp2-6" aria-label="See how the rule for using simple sentences applies to content in French">See how this rule applies to content in French</a></p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20simple%20sentences%20on%20Canada.ca:%20{{ site.url }}/style-guide/#wp2-6" aria-label="Share the rule for using simple sentences by email">Share this rule by email</a></p>
+      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20simple%20sentences%20on%20Canada.ca:%20https://design.canada.ca//style-guide/#wp2-6" aria-label="Share the rule for using simple sentences by email">Share this rule by email</a></p>
     </div>
   </section>
   <section>
@@ -442,7 +442,7 @@ title: "Canada.ca Content Style Guide"
     <div class="well panel"> 
       <!--UPDATE LATER-->
       <p><a href="{{ site.urlconception }}/guide-redaction/#wp2-7" aria-label="See how the rule for using short sentences and paragraphs applies to content in French">See how this rule applies to content in French</a></p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20short%20sentences%20and%20paragraphs%20on%20Canada.ca:%20{{ site.url }}/style-guide/#wp2-7" aria-label="Share the rule for using short sentences and paragraphs by email">Share this rule by email</a></p>
+      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20short%20sentences%20and%20paragraphs%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp2-7" aria-label="Share the rule for using short sentences and paragraphs by email">Share this rule by email</a></p>
     </div>
   </section>
   <section>
@@ -461,7 +461,7 @@ title: "Canada.ca Content Style Guide"
     <div class="well panel"> 
       <!--UPDATE LATER-->
       <p><a href="{{ site.urlconception }}/guide-redaction/#wp2-8" aria-label="See how the rule for explaining references to legislation applies to content in French">See how this rule applies to content in French</a></p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20explaining%20references%20to%20legislation%20on%20Canada.ca:%20{{ site.url }}/style-guide/#wp2-8" aria-label="Share the rule for explaining references to legislation by email">Share this rule by email</a></p>
+      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20explaining%20references%20to%20legislation%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp2-8" aria-label="Share the rule for explaining references to legislation by email">Share this rule by email</a></p>
     </div>
   </section>
   <section>
@@ -529,7 +529,7 @@ title: "Canada.ca Content Style Guide"
     <div class="well panel"> 
       <!--UPDATE LATER-->
       <p><a href="{{ site.urlconception }}/guide-redaction/#wp2-9" aria-label="See how the rule for measuring content for readability applies to content in French">See how this rule applies to content in French</a></p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20measuring%20the%20reading%20level%20of%20content%20on%20Canada.ca:%20{{ site.url }}/style-guide/#wp2-9" aria-label="Share the rule for measuring content for readability by email">Share this rule by email</a></p>
+      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20measuring%20the%20reading%20level%20of%20content%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp2-9" aria-label="Share the rule for measuring content for readability by email">Share this rule by email</a></p>
     </div>
   </section>
 </section>
@@ -612,7 +612,7 @@ title: "Canada.ca Content Style Guide"
       <div class="well panel"> 
         <!--UPDATE LATER-->
         <p><a href="{{ site.urlconception }}/guide-redaction/#wp3-1" aria-label="See how the rule for writing directly to the audience applies to content in French">See how this rule applies to content in French</a></p>
-        <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20writing%20directly%20to%20the%20audience%20on%20Canada.ca:%20{{ site.url }}/style-guide/#wp3-1" aria-label="Share the rule for writing directly to the audience by email">Share this rule by email</a></p>
+        <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20writing%20directly%20to%20the%20audience%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp3-1" aria-label="Share the rule for writing directly to the audience by email">Share this rule by email</a></p>
       </div>
     </section>
   </section>
@@ -663,7 +663,7 @@ title: "Canada.ca Content Style Guide"
     <div class="well panel"> 
       <!--UPDATE LATER-->
       <p><a href="{{ site.urlconception }}/guide-redaction/#wp3-2" aria-label="See how the rule for referring to the Government of Canada applies to content in French">See how this rule applies to content in French</a></p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20'we'%20on%20Canada.ca%20to%20refer%20to%20the%20Government%20of%20Canada:%20{{ site.url }}/style-guide/#wp3-2" aria-label="Share the rule for referring to the Government of Canada by email">Share this rule by email</a></p>
+      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20'we'%20on%20Canada.ca%20to%20refer%20to%20the%20Government%20of%20Canada:%20https://design.canada.ca/style-guide/#wp3-2" aria-label="Share the rule for referring to the Government of Canada by email">Share this rule by email</a></p>
     </div>
   </section>
   <section>
@@ -693,7 +693,7 @@ title: "Canada.ca Content Style Guide"
     <div class="well panel"> 
       <!--UPDATE LATER-->
       <p><a href="{{ site.urlconception }}/guide-redaction/#wp3-3" aria-label="See how the rule for expressing an obligation or a recommendation applies to content in French">See how this rule applies to content in French</a></p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20expressing%20an%20obligation%20or%20a%20recommendation%20on%20Canada.ca:%20{{ site.url }}/style-guide/#wp3-3" aria-label="Share the rule for expressing an obligation or a recommendation by email">Share this rule by email</a></p>
+      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20expressing%20an%20obligation%20or%20a%20recommendation%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp3-3" aria-label="Share the rule for expressing an obligation or a recommendation by email">Share this rule by email</a></p>
     </div>
   </section>
 </section>
@@ -866,7 +866,7 @@ title: "Canada.ca Content Style Guide"
     <div class="well panel"> 
       <!--UPDATE LATER-->
       <p><a href="{{ site.urlconception }}/guide-redaction/#wp4-1" aria-label="See how the rule for capitalization and punctuation applies to content in French">See how this rule applies to content in French</a></p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20capitalization%20and%20punctuation%20on%20Canada.ca:%20{{ site.url }}/style-guide/#wp4-1" aria-label="Share the rule for capitalization and punctuation by email">Share this rule by email</a></p>
+      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20capitalization%20and%20punctuation%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp4-1" aria-label="Share the rule for capitalization and punctuation by email">Share this rule by email</a></p>
     </div>
   </section>
   <section>
@@ -938,7 +938,7 @@ title: "Canada.ca Content Style Guide"
     <div class="well panel"> 
       <!--UPDATE LATER-->
       <p><a href="{{ site.urlconception }}/guide-redaction/#wp4-3" aria-label="See how the rule for symbols applies to content in French">See how this rule applies to content in French</a></p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20symbols%20on%20Canada.ca:%20{{ site.url }}/style-guide/#wp4-3" aria-label="Share the rule for symbols by email">Share this rule by email</a></p>
+      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20symbols%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp4-3" aria-label="Share the rule for symbols by email">Share this rule by email</a></p>
     </div>
   </section>
   <section>
@@ -981,7 +981,7 @@ title: "Canada.ca Content Style Guide"
     <div class="well panel"> 
       <!--UPDATE LATER-->
       <p><a href="{{ site.urlconception }}/guide-redaction/#wp4-4" aria-label="See how the rule for abbreviations and acronyms applies to content in French">See how this rule applies to content in French</a></p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20abbreviations%20and%20acronyms%20on%20Canada.ca:%20{{ site.url }}/style-guide/#wp4-4" aria-label="Share the rule for abbreviations and acronyms by email">Share this rule by email</a></p>
+      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20abbreviations%20and%20acronyms%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp4-4" aria-label="Share the rule for abbreviations and acronyms by email">Share this rule by email</a></p>
     </div>
   </section>
   <section>
@@ -1027,7 +1027,7 @@ title: "Canada.ca Content Style Guide"
     <div class="well panel"> 
       <!--UPDATE LATER-->
       <p>This rule doesn't apply in French.</p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20contractions%20on%20Canada.ca:%20{{ site.url }}/style-guide/#wp4-5" aria-label="Share the rule for contractions by email">Share this rule by email</a></p>
+      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20contractions%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp4-5" aria-label="Share the rule for contractions by email">Share this rule by email</a></p>
     </div>
   </section>
   <section>
@@ -1060,7 +1060,7 @@ title: "Canada.ca Content Style Guide"
     <div class="well panel"> 
       <!--UPDATE LATER-->
       <p><a href="{{ site.urlconception }}/guide-redaction/#wp4-6" aria-label="See how the style rule for numbers applies to content in French">See how this rule applies to content in French</a></p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20style%20rule%20for%20numbers%20on%20Canada.ca:%20{{ site.url }}/style-guide/#wp4-6" aria-label="Share the style rule for numbers by email">Share this rule by email</a></p>
+      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20style%20rule%20for%20numbers%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp4-6" aria-label="Share the style rule for numbers by email">Share this rule by email</a></p>
     </div>
   </section>
   <section>
@@ -1103,7 +1103,7 @@ title: "Canada.ca Content Style Guide"
     <div class="well panel"> 
       <!--UPDATE LATER-->
       <p><a href="{{ site.urlconception }}/guide-redaction/#wp4-7" aria-label="See how the style rule for dates applies to content in French">See how this rule applies to content in French</a></p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20style%20rule%20for%20dates%20on%20Canada.ca:%20{{ site.url }}/style-guide/#wp4-7" aria-label="Share the style rule for dates by email">Share this rule by email</a></p>
+      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20style%20rule%20for%20dates%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp4-7" aria-label="Share the style rule for dates by email">Share this rule by email</a></p>
     </div>
   </section>
   <section>
@@ -1159,7 +1159,7 @@ title: "Canada.ca Content Style Guide"
     <div class="well panel"> 
       <!--UPDATE LATER-->
       <p><a href="{{ site.urlconception }}/guide-redaction/#wp4-9" aria-label="See how the style rules for times, phone numbers and mailing addresses apply to content in French">See how this rule applies to content in French</a></p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=%20See%20the%20style%20rules%20for%20times,%20phone%20numbers%20and%20mailing%20addresses%20on%20Canada.ca:%20{{ site.url }}/style-guide/#wp4-9" aria-label="Share the style rules for times, phone numbers and mailing addresses by email">Share this rule by email</a></p>
+      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=%20See%20the%20style%20rules%20for%20times,%20phone%20numbers%20and%20mailing%20addresses%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp4-9" aria-label="Share the style rules for times, phone numbers and mailing addresses by email">Share this rule by email</a></p>
     </div>
   </section>
   <section>
@@ -1176,7 +1176,7 @@ title: "Canada.ca Content Style Guide"
   <div class="well panel"> 
     <!--UPDATE LATER-->
     <p>This rule doesn't apply to content in French.</p>
-    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20words%20and%20expressions%20in%20transition%20on%20Canada.ca:%20{{ site.url }}/style-guide/#wp4-11" aria-label="Share the rule for words and expressions in transition by email">Share this rule by email</a></p>
+    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20words%20and%20expressions%20in%20transition%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp4-11" aria-label="Share the rule for words and expressions in transition by email">Share this rule by email</a></p>
   </div>
 </section>
 <section>
@@ -1306,7 +1306,7 @@ title: "Canada.ca Content Style Guide"
   <div class="well panel"> 
     <!--UPDATE LATER-->
     <p><a href="{{ site.urlconception }}/guide-redaction/#wp5-1" aria-label="See how the rule for writing useful page titles and headings applies to content in French">See how this rule applies to content in French</a></p>
-    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20writing%20useful%20page%20titles%20and%20headings%20on%20Canada.ca:%20{{ site.url }}/style-guide/#wp5-1" aria-label="Share the rule for writing useful page titles and headings by email">Share this rule by email</a></p>
+    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20writing%20useful%20page%20titles%20and%20headings%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp5-1" aria-label="Share the rule for writing useful page titles and headings by email">Share this rule by email</a></p>
   </div>
   <h5 class="h4">Publication and program titles usually don't make good web page titles</h5>
   <p>Using the titles of reports, brochures, publications or programs as the web page title can make it difficult for people to find your content, even if it relates to their task.</p>
@@ -1408,7 +1408,7 @@ title: "Canada.ca Content Style Guide"
   <div class="well panel"> 
     <!--UPDATE LATER-->
     <p><a href="{{ site.urlconception }}/guide-redaction/#wp5-2" aria-label="See how the rule for using lists to support scanning applies to content in French">See how this rule applies to content in French</a></p>
-    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20lists%20to%20support%20scanning%20on%20Canada.ca:%20{{ site.url }}/style-guide/#wp5-2" aria-label="Share the rule for using lists to support scanning by email">Share this rule by email</a></p>
+    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20lists%20to%20support%20scanning%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp5-2" aria-label="Share the rule for using lists to support scanning by email">Share this rule by email</a></p>
   </div>
 </section>
 <section>
@@ -1738,7 +1738,7 @@ title: "Canada.ca Content Style Guide"
   <div class="well panel"> 
     <!--UPDATE LATER-->
     <p><a href="{{ site.urlconception }}/guide-redaction/#wp5-3" aria-label="See how the rule for using tables to organize data applies to content in French">See how this rule applies to content in French</a></p>
-    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20tables%20to%20organize%20data%20on%20Canada.ca:%20{{ site.url }}/style-guide/#wp5-3" aria-label="Share the rule for using tables to organize data by email">Share this rule by email</a></p>
+    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20tables%20to%20organize%20data%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp5-3" aria-label="Share the rule for using tables to organize data by email">Share this rule by email</a></p>
   </div>
 </section>
 <section>
@@ -2019,7 +2019,7 @@ title: "Canada.ca Content Style Guide"
     <div class="well panel"> 
       <!--UPDATE LATER-->
       <p><a href="{{ site.urlconception }}/guide-redaction/#wp6-1" aria-label="See how the rule for using images applies to content in French">See how this rule applies to content in French</a></p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20images%20on%20Canada.ca:%20{{ site.url }}/style-guide/#wp6-1" aria-label="Share the rule for using images by email">Share this rule by email</a></p>
+      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20images%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp6-1" aria-label="Share the rule for using images by email">Share this rule by email</a></p>
     </div>
   </section>
 </section>
@@ -2039,7 +2039,7 @@ title: "Canada.ca Content Style Guide"
   <div class="well panel"> 
     <!--UPDATE LATER-->
     <p><a href="{{ site.urlconception }}/guide-redaction/#wp6-2" aria-label="See how the rule for using images applies to content in French">See how this rule applies to content in French</a></p>
-    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20images%20on%20Canada.ca:%20{{ site.url }}/style-guide/#wp6-2" aria-label="Share the rule for using images by email">Share this rule by email</a></p>
+    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20images%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp6-2" aria-label="Share the rule for using images by email">Share this rule by email</a></p>
   </div>
 </section>
 <section>
@@ -2149,7 +2149,7 @@ title: "Canada.ca Content Style Guide"
   <div class="well panel"> 
     <!--UPDATE LATER-->
     <p><a href="{{ site.urlconception }}/guide-redaction/#wp6-3" aria-label="See how the rule for long descriptions applies to content in French">See how this rule applies to content in French</a></p>
-    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20including%20a%20long%20description%20for%20complex%20images%20on%20Canada.ca:%20{{ site.url }}/style-guide/#wp6-3" aria-label="Share the rule for long descriptions by email">Share this rule by email</a></p>
+    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20including%20a%20long%20description%20for%20complex%20images%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp6-3" aria-label="Share the rule for long descriptions by email">Share this rule by email</a></p>
   </div>
 </section>
 <section>
@@ -2170,7 +2170,7 @@ title: "Canada.ca Content Style Guide"
   <div class="well panel"> 
     <!--UPDATE LATER-->
     <p><a href="{{ site.urlconception }}/guide-redaction/#wp6-4" aria-label="See how the rule for transcripts applies to content in French">See how this rule applies to content in French</a></p>
-    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20including%20a%20transcript%20that%20describes%20audio%20and%20videos%20files%20on%20Canada.ca:%20{{ site.url }}/style-guide/#wp6-4" aria-label="Share the rule for transcripts by email">Share this rule by email</a></p>
+    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20including%20a%20transcript%20that%20describes%20audio%20and%20videos%20files%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp6-4" aria-label="Share the rule for transcripts by email">Share this rule by email</a></p>
   </div>
 </section>
 <section>
@@ -2224,7 +2224,7 @@ title: "Canada.ca Content Style Guide"
     <div class="well panel"> 
       <!--UPDATE LATER-->
       <p><a href="{{ site.urlconception }}/guide-redaction/#wp7-1" aria-label="See how the rule for using links strategically applies to content in French">See how this rule applies to content in French</a></p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20links%20strategically%20on%20Canada.ca:%20{{ site.url }}/style-guide/#wp7-1" aria-label="Share the rule for using links strategically by email">Share this rule by email</a></p>
+      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20links%20strategically%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp7-1" aria-label="Share the rule for using links strategically by email">Share this rule by email</a></p>
     </div>
   </section>
   <section>
@@ -2270,7 +2270,7 @@ title: "Canada.ca Content Style Guide"
       <div class="well panel"> 
         <!--UPDATE LATER-->
         <p><a href="{{ site.urlconception }}/guide-redaction/#wp7-2" aria-label="See how the rule for writing descriptive links applies to content in French">See how this rule applies to content in French</a></p>
-        <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20writing%20descriptive%20links%20on%20Canada.ca:%20{{ site.url }}/style-guide/#wp7-2" aria-label="Share the rule for writing descriptive links by email">Share this rule by email</a></p>
+        <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20writing%20descriptive%20links%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp7-2" aria-label="Share the rule for writing descriptive links by email">Share this rule by email</a></p>
       </div>
     </section>
   </section>
@@ -2280,7 +2280,7 @@ title: "Canada.ca Content Style Guide"
     <div class="well panel"> 
       <!--UPDATE LATER-->
       <p><a href="{{ site.urlconception }}/guide-redaction/#wp7-3" aria-label="See how the rule for verifying links applies to content in French">See how this rule applies to content in French</a></p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20making%20sure%20links%20work%20as%20expected%20on%20Canada.ca:%20{{ site.url }}/style-guide/#wp7-3" aria-label="Share the rule for verifying links by email">Share this rule by email</a></p>
+      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20making%20sure%20links%20work%20as%20expected%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp7-3" aria-label="Share the rule for verifying links by email">Share this rule by email</a></p>
     </div>
   </section>
   <section>
@@ -2299,7 +2299,7 @@ title: "Canada.ca Content Style Guide"
       <div class="well panel"> 
         <!--UPDATE LATER-->
         <p><a href="{{ site.urlconception }}/guide-redaction/#wp7-4" aria-label="See how the rule for non-government content applies to content in French">See how this rule applies to content in French</a></p>
-        <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20including%20links%20to%20unilingual%20non-government%20content%20on%20Canada.ca:%20{{ site.url }}/style-guide/#wp7-4" aria-label="Share the rule for non-government content by email">Share this rule by email</a></p>
+        <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20including%20links%20to%20unilingual%20non-government%20content%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp7-4" aria-label="Share the rule for non-government content by email">Share this rule by email</a></p>
       </div>
     </section>
   </section>
@@ -2312,7 +2312,7 @@ title: "Canada.ca Content Style Guide"
   <div class="well panel"> 
     <!--UPDATE LATER-->
     <p><a href="{{ site.urlconception }}/guide-redaction/#wp7-5" aria-label="See how the rule for non-government content applies to content in French">See how this rule applies to content in French</a></p>
-    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20including%20links%20to%20internal-to-government%20content%20on%20Canada.ca:%20{{ site.url }}/style-guide/#wp7-5" aria-label="Share the rule for internal-to-government content by email">Share this rule by email</a></p>
+    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20including%20links%20to%20internal-to-government%20content%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp7-5" aria-label="Share the rule for internal-to-government content by email">Share this rule by email</a></p>
   </div>
 </section>
 <section>
@@ -3144,5 +3144,4 @@ title: "Canada.ca Content Style Guide"
     <a href="https://www.deque.com/blog/dont-screen-readers-read-whats-screen-part-1-punctuation-typographic-symbols/">Why Don't Screen Readers Always Read What's on the Screen?</a>, The Deque Blog<br>
     <a href="https://www.nngroup.com/topic/writing-web/">Writing for the web</a>, Nielsen Norman Group<br>
     <cite><a href="https://www.uottawa.ca/uoweb/en/web-standards/web-writing">Writing for the Web: Principles and Guidelines</a></cite>, University of Ottawa</p>
-  <p class="mrgn-tp-lg text-center small">© Her Majesty the Queen in Right of Canada, represented by the President of the Treasury Board, 2017, ISBN: 978-0-660-09352-9</p>
 </section>
