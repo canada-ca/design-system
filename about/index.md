@@ -3,9 +3,10 @@ altLangPage: "https://conception.canada.ca/a-propos/"
 date: 2017-10-05
 dateModified: 2023-03-28
 description: "Canada.ca is the Government of Canada's digital presence."
-layout: default
+layout: without-h1
 title: "About Canada.ca"
 ---
+<h1 property="name headline" id="wb-cont" dir="ltr">About Canada.ca</h1>
 <div class="row profile">
   <div class="col-md-8">
     <p>Canada.ca is the Government of Canada's digital presence. The goal of this site is to make it easier for Canadians to find and understand Government of Canada information and services.</p>
