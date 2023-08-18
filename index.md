@@ -2,7 +2,7 @@
 altLangPage: "https://conception.canada.ca/"
 date: 2021-05-03
 dateModified: 2023-06-01
-description: "The Canada.ca design holds the building blocks for Canada.ca  – our templates and patterns make Government of Canada digital services more usable, consistent and trustworthy."
+description: "The Canada.ca design system holds the reusable styles, templates and patterns that make Government of Canada digital services more usable, consistent and trustworthy."
 layout: "without-h1"
 title: "Canada.ca design system"
 ---
