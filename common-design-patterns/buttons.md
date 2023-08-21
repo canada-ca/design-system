@@ -27,7 +27,6 @@ title: Buttons
       <li> <a href="#how"> How to implement </a> </li>
       <li> <a href="#research"> Research and blog posts </a> </li>
       <li> <a href="#latest"> Latest changes </a> </li>
-      <li> <a href="#discuss"> Discussion </a> </li>
     </ul>
   </section>
   <section>
@@ -179,8 +178,3 @@ title: Buttons
       </dl>
     </section>
   </section>
-  <section>
-    <h2 id="discuss"> Discussion </h2>
-    <p> <a href="https://github.com/canada-ca/design-system-systeme-conception/issues"> Discuss the pattern in github issues </a> </p>
-  </section>
-</section>
