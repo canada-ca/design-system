@@ -2,7 +2,7 @@
 altLangPage: "https://conception.canada.ca/X.html"
 date: 2023-08-13
 dateModified: 2023-08-13
-description: "TGuidance about using the introduction block pattern on Canada.ca."
+description: "Guidance about using the introduction block pattern on Canada.ca."
 title: "Introduction block"
 ---
 <p><strong>Last updated</strong>: {{ page.dateModified }}</p>
