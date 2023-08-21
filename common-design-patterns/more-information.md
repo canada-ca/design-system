@@ -63,7 +63,7 @@ title: More information for design pattern
    </h2>
    <ul>
     <li>
-     <a href="http://wet-boew.github.io/themes-dist/GCWeb/topic-en.html">
+     <a href="https://wet-boew.github.io/GCWeb/templates/topic/topic-en.html">
       Topic template
      </a>
     </li>
