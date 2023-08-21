@@ -40,11 +40,6 @@ title: Basic content page layout recommended template
     How to implement
    </a>
   </li>
-  <li>
-   <a href="#discuss">
-    Discussion
-   </a>
-  </li>
  </ul>
 </section>
 
