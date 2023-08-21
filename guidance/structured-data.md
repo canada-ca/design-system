@@ -70,7 +70,6 @@ title: Adding structured data on Canada.ca pages
   </h3>
   <figure>
    <img alt="A long description can be found after the image." class="img-responsive border" src="../images/rich-snippet.png" title="Exampel of a rich snippet" width="700">
-   </img>
   </figure>
   <details>
    <summary>

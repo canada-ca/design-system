@@ -27,7 +27,6 @@ title: "Global footer"
     <li><a href="#implement">How to implement</a></li>
     <li><a href="#research">Research and rationale</a></li>
     <li><a href="#latest">Latest changes</a></li>
-    <li><a href="#discuss">Discussion</a></li>
   </ul>
 </section>
 <section>
@@ -313,13 +312,4 @@ title: "Global footer"
     </dt>
     <dd>Updated pattern to reflect design changes from the Wayfinding project, moved detailed specifications to sub pages specific to individual bands</dd>
   </dl>
-</section>
-<section>
-  <h2 id="discuss">Discussion</h2>
-  <ul>
-    <li><a href="https://github.com/canada-ca/design-system-systeme-conception/issues">Discuss the pattern in GitHub
-      issues</a></li>
-    <li><a href="https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM">Join the conversation on Slack</a></li>
-    <li><a href="mailto:dto.btn@tbs-sct.gc.ca">Send an email to the Digital Transformation Office</a></li>
-  </ul>
 </section>
