@@ -1,5 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/configurations-conception-communes/navigation-metro.html
+css:
+   - https://design.canada.ca/css-coded-layout/custom.css
 date: 2021-01-20
 dateModified: 2023-07-12
 description: "Break up long and complex content into sections that each focus on a step or specific answer people need before moving to the next step or section."
