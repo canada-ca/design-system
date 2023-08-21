@@ -13,16 +13,16 @@ title: "Subway navigation"
     </ul>
   </div>
 </div>
-<p> Break up long and complex content into pages that each focus on a step or specific answer people need before moving to the next step or section. Ideal for presenting services and processes. </p>
+<p>Break up long and complex content into pages that each focus on a step or specific answer people need before moving to the next step or section. Ideal for presenting services and processes. </p>
 <section>
   <h2 class="h3">On this page</h2>
   <ul>
-    <li> <a href="#when"> When to use </a> </li>
-    <li> <a href="#avoid"> What to avoid </a> </li>
-    <li> <a href="#how"> How to implement </a> </li>
-    <li> <a href="#research"> Research and blog posts </a> </li>
-    <li> <a href="#latest"> Latest changes </a> </li>
-    <li> <a href="#discuss"> Discussion </a> </li>
+    <li> <a href="#when">When to use</a></li>
+    <li> <a href="#avoid">What to avoid</a></li>
+    <li> <a href="#how">How to implement</a></li>
+    <li> <a href="#research">Research and blog posts</a></li>
+    <li> <a href="#latest">Latest changes</a></li>
+    <li> <a href="#discuss">Discussion</a></li>
   </ul>
 </section>
 <section>
@@ -44,7 +44,7 @@ title: "Subway navigation"
   </ol>
   <h3 id="1">1. Index page</h3>
   <p><strong> When to use: </strong> use as the landing page for a set of related pages that use the subway navigation.</p>
-  <iframe class="pattern-demo" frameborder="0" loading="lazy" src="fragments/gc-subway-index.html" title="Subway index navigation example"></iframe>
+  <iframe title="Subway index navigation example" class="pattern-demo" src="fragments/gc-subway-index.html" frameBorder="0" loading="lazy"></iframe>
   <details class="mrgn-tp-lg">
     <summary>Code</summary>
     <details>
@@ -211,7 +211,7 @@ title: "Subway navigation"
   </details>
   <h3 id="2">2. Step page</h3>
   <p> <strong>When to use:</strong> Use on each page tied by the subway navigation. </p>
-  <iframe class="pattern-demo" frameborder="0" loading="lazy" src="fragments/gc-subway-page.html" title="Subway navigation example"></iframe>
+  <iframe title="Subway navigation example" class="pattern-demo" frameBorder="0" loading="lazy" src="fragments/gc-subway-page.html"></iframe>
   <div class="mrgn-tp-lg">
     <details class="wb-prettify all-pre">
       <summary> Code </summary>
