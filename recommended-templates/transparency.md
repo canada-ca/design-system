@@ -63,11 +63,6 @@ title: Transparency and corporate reporting recommended template
      Latest changes
     </a>
    </li>
-   <li>
-    <a href="#discuss">
-     Discussion
-    </a>
-   </li>
   </ul>
  </section>
  <section>
@@ -249,14 +244,4 @@ title: Transparency and corporate reporting recommended template
    corrected capitalization of certain items in the template (short form of pulications).
   </p>
  </section>
- <h2 id="discuss">
-  Discussion
- </h2>
- <p>
-  <a href="https://github.com/canada-ca/design-system-systeme-conception/issues">
-   Discuss the template in github issues
-  </a>
- </p>
-</section>
-
 
