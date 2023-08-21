@@ -71,11 +71,6 @@ title: Labels
      Latest changes
     </a>
    </li>
-   <li>
-    <a href="#discuss">
-     Discussion
-    </a>
-   </li>
   </ul>
  </section>
  <section>
@@ -324,16 +319,6 @@ title: Labels
     Added label documentation to the design system
    </dd>
   </dl>
- </section>
- <section>
-  <h2 id="discuss">
-   Discussion
-  </h2>
-  <p>
-   <a href="https://github.com/canada-ca/design-system-systeme-conception/issues">
-    Discuss the pattern in github issues
-   </a>
-  </p>
  </section>
 </section>
 
