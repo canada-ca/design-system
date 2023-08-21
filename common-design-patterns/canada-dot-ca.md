@@ -46,11 +46,6 @@ title: Canada.ca domain design pattern
      How to implement
     </a>
    </li>
-   <li>
-    <a href="#discuss">
-     Discussion
-    </a>
-   </li>
   </ul>
  </section>
  <section>
@@ -96,16 +91,6 @@ title: Canada.ca domain design pattern
     URL model
    </a>
    .
-  </p>
- </section>
- <section>
-  <h2 id="discuss">
-   Discussion
-  </h2>
-  <p>
-   <a href="https://github.com/canada-ca/design-system-systeme-conception/issues">
-    Discuss the pattern in github issues
-   </a>
   </p>
  </section>
 </section>

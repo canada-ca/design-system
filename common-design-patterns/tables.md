@@ -50,11 +50,6 @@ title: Tables
     Latest changes
    </a>
   </li>
-  <li>
-   <a href="#discuss">
-    Discussion
-   </a>
-  </li>
  </ul>
 </section>
 
@@ -488,17 +483,6 @@ title: Tables
     Updated to include the provisional code for responsive cards
    </dd>
   </dl>
- </section>
- <section>
-  <h2 id="discuss">
-   Discussion
-  </h2>
-  <p>
-   <a href="https://github.com/canada-ca/design-system-systeme-conception/issues">
-    Discuss the pattern in github
-						issues
-   </a>
-  </p>
  </section>
 </section>
 

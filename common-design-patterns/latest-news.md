@@ -41,11 +41,6 @@ title: Latest news
      How to implement
     </a>
    </li>
-   <li>
-    <a href="#discuss">
-     Discussion
-    </a>
-   </li>
   </ul>
  </section>
  <section>
@@ -311,16 +306,6 @@ title: Latest news
       </section>
      </section>
     </details>
-    <section>
-     <h2 id="discuss">
-      Discussion
-     </h2>
-     <p>
-      <a href="https://github.com/canada-ca/design-system-systeme-conception/issues">
-       Discuss the pattern in github issues
-      </a>
-     </p>
-    </section>
    </div>
   </div>
  </section>

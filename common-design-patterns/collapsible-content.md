@@ -318,14 +318,6 @@ title: Expand/Collapse design pattern
    </strong>
    guidance was changed to allow the use of expand/collapse for mutually exclusive answers.
   </p>
-  <h2 id="discuss">
-   Discussion
-  </h2>
-  <p>
-   <a href="https://github.com/canada-ca/design-system-systeme-conception/issues">
-    Discuss the pattern in github issues
-   </a>
-  </p>
  </section>
 </div>
 
