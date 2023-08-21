@@ -200,16 +200,5 @@ title: Basic content page layout recommended template
  </div>
 </section>
 
-<section>
- <h2 id="discuss">
-  Discussion
- </h2>
- <p>
-  <a href="https://github.com/canada-ca/design-system-systeme-conception/issues">
-   Discuss the template in github issues
-  </a>
- </p>
-</section>
-
 
 
