@@ -1,132 +1,55 @@
 ---
 altLangPage: https://conception.canada.ca/configurations-conception-communes/navigation-metro.html
-date: null
-dateModified: '2023-07-12'
-description: null
-title: Subway navigation
+date: 2021-01-20
+dateModified: 2023-07-12
+description: "Break up long and complex content into sections that each focus on a step or specific answer people need before moving to the next step or section."
+title: "Subway navigation"
 ---
-
-
 <div class="row">
- <div class="col-md-12 pull-left">
-  <ul class="list-inline small mrgn-bttm-sm" id="list-inline-desktop-only" style="line-height:1.65em">
-   <li class="mrgn-rght-lg">
-    <span class="label label-info">
-     Beta
-    </span>
-   </li>
-   <li class="mrgn-rght-lg">
-    Last updated: 2023-07-12
-   </li>
-  </ul>
- </div>
+  <div class="col-md-12 pull-left">
+    <ul class="list-inline small mrgn-bttm-sm" id="list-inline-desktop-only" style="line-height:1.65em">
+      <li class="mrgn-rght-lg"> <span class="label label-info"> Beta </span> </li>
+      <li class="mrgn-rght-lg"> Last updated: 2023-07-12 </li>
+    </ul>
+  </div>
 </div>
-
-<p>
- Break up long and complex content into pages that each focus on a step or specific answer people need before moving to the next step or section. Ideal for presenting services and processes.
-</p>
-
+<p> Break up long and complex content into pages that each focus on a step or specific answer people need before moving to the next step or section. Ideal for presenting services and processes. </p>
 <section>
- <h2 class="h3">
-  On this page
- </h2>
- <ul>
-  <li>
-   <a href="#when">
-    When to use
-   </a>
-  </li>
-  <li>
-   <a href="#avoid">
-    What to avoid
-   </a>
-  </li>
-  <li>
-   <a href="#how">
-    How to implement
-   </a>
-  </li>
-  <li>
-   <a href="#research">
-    Research and blog posts
-   </a>
-  </li>
-  <li>
-   <a href="#latest">
-    Latest changes
-   </a>
-  </li>
-  <li>
-   <a href="#discuss">
-    Discussion
-   </a>
-  </li>
- </ul>
+  <h2 class="h3">On this page</h2>
+  <ul>
+    <li> <a href="#when"> When to use </a> </li>
+    <li> <a href="#avoid"> What to avoid </a> </li>
+    <li> <a href="#how"> How to implement </a> </li>
+    <li> <a href="#research"> Research and blog posts </a> </li>
+    <li> <a href="#latest"> Latest changes </a> </li>
+    <li> <a href="#discuss"> Discussion </a> </li>
+  </ul>
 </section>
-
 <section>
- <h2 id="when">
-  When to use
- </h2>
- <p>
-  Use to group related task pages together and provide navigation between these pages.
- </p>
- <p>
-  Keep the number of pages tied together to a reasonable number (ideally 6 or less, maximum 8).
- </p>
+  <h2 id="when">When to use</h2>
+  <p> Use to group related task pages together and provide navigation between these pages. </p>
+  <p> Keep the number of pages tied together to a reasonable number (ideally 6 or less, maximum 8). </p>
 </section>
-
 <section>
- <h2 id="avoid">
-  What to avoid
- </h2>
- <p>
-  Don't use numbers when you use this pattern for sequenced steps. Testing has shown that Canadians are less likely to get to the section they need if the elements are numbered.
- </p>
+  <h2 id="avoid">What to avoid</h2>
+  <p> Don't use numbers when you use this pattern for sequenced steps. Testing has shown that Canadians are less likely to get to the section they need if the elements are numbered. </p>
 </section>
-
 <section>
- <h2 id="how">
-  How to implement
- </h2>
- <p>
-  This pattern is still in beta, and the code is still under review. Use it sparingly, as it may still be subject to change.
- </p>
- <p>
-  You will need to use provisional CSS to use this design pattern.
- </p>
- <ol>
-  <li>
-   <a href="#1">
-    Index page
-   </a>
-  </li>
-  <li>
-   <a href="#2">
-    Step page
-   </a>
-  </li>
- </ol>
- <h3 id="1">
-  1. Index page
- </h3>
- <p>
-  <strong>
-   When to use:
-  </strong>
-  use as the landing page for a set of related pages that use the subway navigation.
- </p>
- <iframe class="pattern-demo" frameborder="0" loading="lazy" src="fragments/gc-subway-index.html" title="Subway index navigation example">
- </iframe>
- <details class="mrgn-tp-lg">
-  <summary>
-   Code
-  </summary>
-  <details>
-   <summary>
-    HTML
-   </summary>
-   <pre><code>&lt;h1 property="name" id="wb-cont" class="gc-thickline"&gt;[Name of service]&lt;/h1&gt;
+  <h2 id="how">How to implement</h2>
+  <p> This pattern is still in beta, and the code is still under review. Use it sparingly, as it may still be subject to change. </p>
+  <p> You will need to use provisional CSS to use this design pattern. </p>
+  <ol>
+    <li> <a href="#1">Index page</a></li>
+    <li> <a href="#2">Step page</a></li>
+  </ol>
+  <h3 id="1">1. Index page</h3>
+  <p><strong> When to use: </strong> use as the landing page for a set of related pages that use the subway navigation.</p>
+  <iframe class="pattern-demo" frameborder="0" loading="lazy" src="fragments/gc-subway-index.html" title="Subway index navigation example"></iframe>
+  <details class="mrgn-tp-lg">
+    <summary>Code</summary>
+    <details>
+      <summary>HTML</summary>
+      <pre><code>&lt;h1 property="name" id="wb-cont" class="gc-thickline"&gt;[Name of service]&lt;/h1&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut [...].&lt;/p&gt;
 &lt;nav class="provisional gc-subway"&gt;
 	&lt;h2&gt;Sections&lt;/h2&gt;
@@ -169,12 +92,10 @@ title: Subway navigation
 		&lt;/dd&gt;
 	&lt;/dl&gt;
 &lt;/nav&gt;</code></pre>
-  </details>
-  <details>
-   <summary>
-    CSS
-   </summary>
-   <pre><code>.provisional.gc-subway {
+    </details>
+    <details>
+      <summary>CSS</summary>
+      <pre><code>.provisional.gc-subway {
 	border-radius: 0px 6px 6px 0px;
 	border-right: 4px solid #26374a;
 	border-top: 4px solid #26374a;
@@ -286,29 +207,17 @@ title: Subway navigation
 		display: block;
 	}
 }</code></pre>
+    </details>
   </details>
- </details>
- <h3 id="2">
-  2. Step page
- </h3>
- <p>
-  <strong>
-   When to use:
-  </strong>
-  Use on each page tied by the subway navigation.
- </p>
- <iframe class="pattern-demo" frameborder="0" loading="lazy" src="fragments/gc-subway-page.html" title="Subway navigation example">
- </iframe>
- <div class="mrgn-tp-lg">
-  <details class="wb-prettify all-pre">
-   <summary>
-    Code
-   </summary>
-   <details>
-    <summary>
-     HTML
-    </summary>
-    <pre><code>&lt;nav class="provisional gc-subway"&gt;
+  <h3 id="2">2. Step page</h3>
+  <p> <strong>When to use:</strong> Use on each page tied by the subway navigation. </p>
+  <iframe class="pattern-demo" frameborder="0" loading="lazy" src="fragments/gc-subway-page.html" title="Subway navigation example"></iframe>
+  <div class="mrgn-tp-lg">
+    <details class="wb-prettify all-pre">
+      <summary> Code </summary>
+      <details>
+        <summary> HTML </summary>
+        <pre><code>&lt;nav class="provisional gc-subway"&gt;
 	&lt;h1 id="gc-document-nav"&gt;[Service name]&lt;/h1&gt;
 	&lt;ul&gt;
 		&lt;li&gt;
@@ -346,12 +255,10 @@ title: Subway navigation
 		&lt;li class="next"&gt;&lt;a href="#wb-cont" rel="next"&gt;&lt;span class="wb-inv"&gt;Next: &lt;/span&gt;[Page 2]&lt;/a&gt;&lt;/li&gt;
 	&lt;/ul&gt;
 &lt;/nav&gt;</code></pre>
-   </details>
-   <details>
-    <summary>
-     CSS
-    </summary>
-    <pre class="prettyprint lang-css"><code>.provisional.gc-subway {
+      </details>
+      <details>
+        <summary>CSS</summary>
+        <pre class="prettyprint lang-css"><code>.provisional.gc-subway {
 		border-radius: 0px 6px 6px 0px;
 		border-right: 4px solid #26374a;
 		border-top: 4px solid #26374a;
@@ -463,12 +370,10 @@ title: Subway navigation
 		display: block;
 		}
 	}</code></pre>
-   </details>
-   <details>
-    <summary>
-     JS
-    </summary>
-    <pre><code>( function( $, window, wb ) {
+      </details>
+      <details>
+        <summary>JS</summary>
+        <pre><code>( function( $, window, wb ) {
 "use strict";
 
 var $document = wb.doc,
@@ -593,72 +498,34 @@ $document.on( "timerpoke.wb " + initEvent, selector + ".provisional", init );
 wb.add( selector );
 
 } )( jQuery, window, wb );</code></pre>
-   </details>
-  </details>
- </div>
+      </details>
+    </details>
+  </div>
 </section>
-
-<h2 id="research">
- Research and blog posts
-</h2>
-
-<p>
- This pattern was developed with CRA during an optimization project on the Canada Child Benefit. It works well on mobile devices and is an effective way to show the relationship between related pages.
-</p>
-
-<h2 id="latest">
- Latest changes
-</h2>
-
+<h2 id="research">Research and blog posts</h2>
+<p> This pattern was developed with CRA during an optimization project on the Canada Child Benefit. It works well on mobile devices and is an effective way to show the relationship between related pages. </p>
+<h2 id="latest"> Latest changes </h2>
 <section>
- <dl class="dl-horizontal">
-  <dt>
-   <time class="link-muted" datetime="2023-07-12">
-    2023-07-12
-   </time>
-  </dt>
-  <dd>
-   Updated the Subway pattern to remove 'avoid sub-steps'. This reflects that there may be instances where more complex processes would benefit from the use of sub-steps.
-  </dd>
-  <dt>
-   <time class="link-muted" datetime="2022-10-26">
-    2022-10-26
-   </time>
-  </dt>
-  <dd>
-   Clarified that index page is required
-  </dd>
-  <dt>
-   <time class="link-muted" datetime="2022-05-06">
-    2022-05-06
-   </time>
-  </dt>
-  <dd>
-   Changed 'sections' to 'pages' in introduction
-  </dd>
-  <dt>
-   <time class="link-muted" datetime="2021-01-20">
-    2021-01-20
-   </time>
-  </dt>
-  <dd>
-   Launched the subway navigation pattern in Beta
-  </dd>
- </dl>
+  <dl class="dl-horizontal">
+    <dt>
+      <time class="link-muted" datetime="2023-07-12">2023-07-12</time>
+    </dt>
+    <dd> Updated the Subway pattern to remove 'avoid sub-steps'. This reflects that there may be instances where more complex processes would benefit from the use of sub-steps. </dd>
+    <dt>
+      <time class="link-muted" datetime="2022-10-26">2022-10-26</time>
+    </dt>
+    <dd> Clarified that index page is required </dd>
+    <dt>
+      <time class="link-muted" datetime="2022-05-06">2022-05-06</time>
+    </dt>
+    <dd> Changed 'sections' to 'pages' in introduction </dd>
+    <dt>
+      <time class="link-muted" datetime="2021-01-20">2021-01-20</time>
+    </dt>
+    <dd> Launched the subway navigation pattern in Beta </dd>
+  </dl>
 </section>
-
 <section>
- <h2 id="discuss">
-  Discussion
- </h2>
- <p>
-  <a href="https://github.com/canada-ca/design-system-systeme-conception/issues">
-   Discuss the pattern in github issues
-  </a>
- </p>
+  <h2 id="discuss"> Discussion </h2>
+  <p> <a href="https://github.com/canada-ca/design-system-systeme-conception/issues"> Discuss the pattern in github issues </a> </p>
 </section>
-
-
-
-
-
