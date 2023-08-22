@@ -56,7 +56,7 @@ title: "Canada.ca Content Style Guide"
   <h2 id="toc4">Related policies, standards and procedures</h2>
   <p>Content must comply with: </p>
   <ul>
-    <li>templates, content components, character limits and other requirements as described in the <cite><a href="{{ site.urlcanada.ca }}/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification.html">Canada.ca Content and Information Architecture Specification</a></cite></li>
+    <li>templates, content components, character limits and other requirements as described in the <cite><a href="{{ site.url }}/architecture/canada-content-information-architecture-specification.html">Canada.ca Content and Information Architecture Specification</a></cite></li>
     <li>requirements set out in the related legislated and policy instruments, including:
       <ul>
         <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30683">Policy on Communications and Federal Identity</a></cite></li>
