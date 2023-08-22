@@ -1,0 +1,10 @@
+# Redirects from what the browser requests to what design-system.ca serves
+/covid/alerts.html /crisis/alerts.html 301!
+/covid/content.html /crisis/content.html 301!
+/continuous-improvement/monitoring/GCTSS.html /survey/index.html 301!
+/mandatory-templates/theme-pages.html /mandatory-templates/theme-topic.html 301!
+/mandatory-templates/topic-pages.html /mandatory-templates/theme-topic.html 301!
+/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html  /style-guide 301!
+/en/government/about/design-system/pattern-library/find-right-template-design-pattern-web-content.html /find-right-template-design-pattern-web-content.html 301! 
+/en/government/about/design-system.html /design-system.html 301! 
+/en/government/about/design-system/pattern-library.html /pattern-library.html 301!

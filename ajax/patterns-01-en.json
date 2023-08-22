@@ -2,7 +2,7 @@
 --- 
 {
   "data": [{
-    "NAME": "<a href=\"https://blog.canada.ca/research-summaries/wayfinding-on-canada-ca.html\">Wayfinding on Canada.ca</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/wayfinding-on-canada-ca.html\">Wayfinding on Canada.ca</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Examining how users navigate through Canada.ca. Results led to changes that will replace the theme and topic menu. Changes include a new footer, contextual Sign in button and a layered theme page template.",
     "WHENTOUSE": "",
@@ -11,7 +11,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/research-summaries/recalls-research-summary.html\">Recalls and safety alerts</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/recalls-research-summary.html\">Recalls and safety alerts</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Optimizing content for mobile can improve findability and overall task success rates. Provide answers, not information, optimize task flow, simplify approach, customize search, and use clear, shortened, scannable content.",
     "WHENTOUSE": "",
@@ -20,7 +20,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/research-summaries/recalls-safety-alerts-research-summary.html\">Recalls and safety alerts search optimization, Round 2</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/recalls-safety-alerts-research-summary.html\">Recalls and safety alerts search optimization, Round 2</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Experimenting with an open source solution to support effective search. What we learned: understand search use cases, fix the data at the source with the right people, and dedicate resources to performance monitoring and data curation.",
     "WHENTOUSE": "",
@@ -29,7 +29,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/research-summaries/electronic-procurement-research-summary.html\">Electronic Procurement Solution</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/electronic-procurement-research-summary.html\">Electronic Procurement Solution</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Moving paper-based processes online means rethinking how to present documentation. Effective techniques included customized search and wizards, navigable HTML instead of PDFs, and a summary of essential details for improved scannability.",
     "WHENTOUSE": "",
@@ -38,7 +38,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/research-summaries/travel-advice-research-summary.html\">Travel advice and advisories</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/travel-advice-research-summary.html\">Travel advice and advisories</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Designing content that clearly conveys risk requires a focus on findability. Techniques included using clear headings and link labels for better \"scent of information,\" making content easy to scan, and improving relationships between parent topics and sub-topics.",
     "WHENTOUSE": "",
@@ -47,7 +47,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html\">Contact the CRA</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/cra-contact-us-research-summary.html\">Contact the CRA</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Improving contact pages can reduce misdirected calls and mail, and redirect some people to online resources. Help people choose the right option using collapsible content, group details for richer search engine results, use wizards to guide people through options.",
     "WHENTOUSE": "",
@@ -56,7 +56,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/research-summaries/maternity-parental-research-summary.html\">EI maternity and parental benefits</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/maternity-parental-research-summary.html\">EI maternity and parental benefits</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "For complex financial tasks with eligibility requirements, focus on simplifying content. Incorporate the words people are searching for, use headings to improve scannability, use the expand/collapse pattern to reduce complexity, help people do the math.",
     "WHENTOUSE": "",
@@ -65,7 +65,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/research-summaries/student-loans-research-summary.html\">Student loans and grants</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/student-loans-research-summary.html\">Student loans and grants</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "When provinces/territories are the service providers, Canada.ca pages need to redirect people. Reduce program information that doesn't have the answers people are looking for, adjust navigation routes to focus on tasks, use evidence to design language.",
     "WHENTOUSE": "",
@@ -74,7 +74,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/research-summaries/find-job-research-summary.html\">Find a job</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/find-job-research-summary.html\">Find a job</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Making it easier to find government jobs, we learned to eliminate redundant pages, orient content for users and their top tasks, design for answers not information, use searchable job titles, meet user expectations for a single job search platform.",
     "WHENTOUSE": "",
@@ -83,7 +83,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/research-summaries/citizenship-test-research-summary.html\">Prepare for the citizenship test</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/citizenship-test-research-summary.html\">Prepare for the citizenship test</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "When turning long documents into web content, present step-by-step processes in a clear sequence, include search and navigation features within the document, eliminate distracting links, and use plain language to make labels clearer.",
     "WHENTOUSE": "",
@@ -92,7 +92,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/research-summaries/business-account-research-summary.html\">Business account maintenance</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/business-account-research-summary.html\">Business account maintenance</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Reduce call volumes by answering common questions in web content. Front load labels by putting keywords first, reorganize content based on where people look for answers, add a simple wizard to help people get a precise answer.",
     "WHENTOUSE": "",
@@ -101,7 +101,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/research-summaries/caregiving-research-summary.html\">EI special benefits</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/caregiving-research-summary.html\">EI special benefits</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Reduce ineligible applications by helping people understand eligibility rules and how to apply. Offer a simple visual overview of the complete process, use keywords strategically, put important details where people expect them, and simplify language.",
     "WHENTOUSE": "",
@@ -110,7 +110,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/research-summaries/taxfiling-research-summary.html\">GST/HST and payroll</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/taxfiling-research-summary.html\">GST/HST and payroll</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "When people can find information but don't understand it (high findability, low task success), use techniques to increase understanding. Match user language, use a step-by-step structure, and reduce complexity by breaking long pages into smaller chunks.",
     "WHENTOUSE": "",
@@ -119,7 +119,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/research-summaries/diseases-research-summary.html\">Disease and immunization information</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/diseases-research-summary.html\">Disease and immunization information</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Design content to help people make informed choices about their health. Provide answers, not information, design for mobile first, reduce layers, and get content out of PDFs and posters.",
     "WHENTOUSE": "",
@@ -128,7 +128,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/research-summaries/weather-research-summary.html\">Weather information</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/weather-research-summary.html\">Weather information</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Redesigning content for a primarily mobile audience means maximizing real estate. Group tasks and sub-tasks together, shorten breadcrumbs, choose the right alert style, shorten content by focusing on answers not information. ",
     "WHENTOUSE": "",
@@ -137,7 +137,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2018/03/29/visit-canada-optimization.html\">Travel documents</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2018/03/29/visit-canada-optimization.html\">Travel documents</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Content about rules can be complex. Focus on guiding people to the answers they need for their situation. Simplify navigation to reduce cognitve load, use a wizard to guide people through the task, and reduce links that take people away from their ideal path.",
     "WHENTOUSE": "",
@@ -146,7 +146,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2018/02/20/starting_a_business.html\">Business start-up activities</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2018/02/20/starting_a_business.html\">Business start-up activities</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "To improve user experience for multi-step tasks, map out different actions and decisions that a user has to make, make key task links more prominent, reduce links that take people away from their ideal path.",
     "WHENTOUSE": "",
@@ -155,7 +155,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2022/02/07/chatbots\">Thinking of adding a chatbot&#63;</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2022/02/07/chatbots\">Thinking of adding a chatbot&#63;</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "Thinking of adding a chatbot&#63; Before deciding to develop a chatbot to improve your service delivery, it’s important to evaluate if this solution is the right fit for the people you serve, and the team you have to build and support it.",
     "WHENTOUSE": "What to consider when deciding if a chatbot is the best way to help your users find the answers they need",
@@ -164,7 +164,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2021/12/07/design-with-humility\">Design with humility</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2021/12/07/design-with-humility\">Design with humility</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "Design with humility: When you design content for Canada.ca, you design for people. Put people at the centre of your work and take the time to watch how they use your design. Humility is an amazing driving force that will help you build better services.",
     "WHENTOUSE": "Put people at the centre of your work, take time to watch how they use your design, be open to new insights, produce products that meet people’s needs.",
@@ -173,7 +173,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2021/10/08/promotional-carousels\">Avoid promotional carousels, improve web content</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2021/10/08/promotional-carousels\">Avoid promotional carousels, improve web content</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "Avoid promotional carousels, improve web content: Carousels used for promotional purposes on Canada.ca aren’t as effective as you might think. Let’s look at why that is and how you can design content that is more successful at reaching your audience.",
     "WHENTOUSE": "The pitfalls of using carousels (rotating slides that display multiple items within the same space) and how to design more effective promotions",
@@ -182,7 +182,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2021/07/20/effective-links\">3 steps to making links more effective</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2021/07/20/effective-links\">3 steps to making links more effective</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "3 steps to making links more effective: Remove barriers and make it easier for people to find those paths through careful selection, strategic placement and clear labelling of your links.",
     "WHENTOUSE": "When to add links, where to place links and how to write good link text",
@@ -191,7 +191,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2021/05/10/codesign-with-deciders\">Co-design with approvers at the table</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2021/05/10/codesign-with-deciders\">Co-design with approvers at the table</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "Co-design with approvers at the table: Developing trustworthy, up-to-date content on Canada.ca, that is designed with users in mind, requires collaboration and planning. Learn how to navigate approvals and get content live on Canada.ca quickly when people need it most.",
     "WHENTOUSE": "How building a co-design culture and working directly with approvers can help you get content live more quickly",
@@ -200,7 +200,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2020/09/24/covid-top-tasks\">Improving Canada.ca by focusing on COVID-19 top tasks</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2020/09/24/covid-top-tasks\">Improving Canada.ca by focusing on COVID-19 top tasks</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "Using data to understand changing navigation needs is key to ensuring the right content is always up front and centre.",
     "WHENTOUSE": "Using data to understand changing navigation needs and ensure the right content is up front and centre",
@@ -209,7 +209,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2020/08/10/canadadotca-trusted-source\">Canada.ca is a trusted source</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2020/08/10/canadadotca-trusted-source\">Canada.ca is a trusted source</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "Changing &ldquo;Home&ldquo; to &ldquo;Canada.ca&ldquo; in the Canada.ca breadcrumb to improve trust and awareness",
     "WHENTOUSE": "Changing &ldquo;Home&ldquo; to &ldquo;Canada.ca&ldquo; in the Canada.ca breadcrumb to improve trust and brand awareness",
@@ -218,7 +218,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2020/07/15/alert-fatigue\">Alert fatigue during COVID-19</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2020/07/15/alert-fatigue\">Alert fatigue during COVID-19</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "Alerts draw attention to information that is out of the ordinary, but you must carefully manage their life-cycle if you want them to be effective.",
     "WHENTOUSE": "Alerts draw attention to changes in regular content. Learn how to make sure they have the highest impact.",
@@ -227,7 +227,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2019/12/20/top-ten-lessons\">Top 10 content design lessons the Canada.ca design team learned in 2019</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2019/12/20/top-ten-lessons\">Top 10 content design lessons the Canada.ca design team learned in 2019</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "Top 10 content design lessons the Canada.ca design team learned in 2019",
     "WHENTOUSE": "Watch users, work with others, be open to change, guide people, use the right words, test your content, focus on top tasks.",
@@ -236,7 +236,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2019/12/20/top-ten-lessons\">Content design tips from our Travel advice and advisories and Contact the CRA optimization projects</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2019/12/20/top-ten-lessons\">Content design tips from our Travel advice and advisories and Contact the CRA optimization projects</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "Put answers in web content, lead users to information, help people make choices, build on previous experiments",
     "WHENTOUSE": "Put answers in web content, lead users to information, help people make choices, build on previous experiments",
@@ -245,7 +245,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2019/08/26/content-design-tips\">Six content design tips from our Student loans and Parental benefits optimization projects</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2019/08/26/content-design-tips\">Six content design tips from our Student loans and Parental benefits optimization projects</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "Remove layers, group content by task, use evidence to design language, don’t make people do math, use numbers sparingly, put answers where people look for them ",
     "WHENTOUSE": "Remove layers, group content by task, use evidence to design language, don’t make people do math, use numbers sparingly, put answers where people look for them",
@@ -254,7 +254,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2022/12/21/wayfinding-research-project\">Wayfinding research project improves our approach to navigation on Canada.ca</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2022/12/21/wayfinding-research-project\">Wayfinding research project improves our approach to navigation on Canada.ca</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "Explains the navigation changes coming out of the Canada.ca Wayfinding research study: replacing the theme and topic menu, new footer, a contextual Sign in button and a layered theme page template.",
     "WHENTOUSE": "Explains the navigation changes coming out of the Canada.ca Wayfinding research study: replacing the theme and topic menu, new footer, a contextual Sign in button and a layered theme page template.",
@@ -263,7 +263,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2022/09/23/introducing-contextual-sign-in-button\">Introducing the contextual Sign in button</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2022/09/23/introducing-contextual-sign-in-button\">Introducing the contextual Sign in button</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "Add a contextual Sign in button to the Canada.ca header on pages where people need to sign in to an account",
     "WHENTOUSE": "Add a contextual Sign in button to the Canada.ca header on pages where people need to sign in to an account",
@@ -281,7 +281,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2021/04/08/using-interactive-questions.html\">The magic of using interactive questions</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2021/04/08/using-interactive-questions.html\">The magic of using interactive questions</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "This pattern is used to present people with a sequence of simple questions that leads to the specific answer they need to continue with or complete their task.",
     "WHENTOUSE": "This pattern is used to present people with a sequence of simple questions that leads to the specific answer they need to continue with or complete their task.",
@@ -290,7 +290,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2021/03/25/maintaining-web-content.html\">Maintaining and improving web content through its life cycle</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2021/03/25/maintaining-web-content.html\">Maintaining and improving web content through its life cycle</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "Small changes make a big difference to improve Canada.ca. Let’s continue the discussion on data to action. Here are 4 common issues and actions you can take.",
     "WHENTOUSE": "Small changes make a big difference to improve Canada.ca. Let’s continue the discussion on data to action. Here are 4 common issues and actions you can take.",
@@ -299,7 +299,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2021/03/01/work-with-call-centres.html\">The importance of working with call centres</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2021/03/01/work-with-call-centres.html\">The importance of working with call centres</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "Using call center data can help you improve your web content and services with real people in mind.",
     "WHENTOUSE": "Using call center data can help you improve your web content and services with real people in mind.",
@@ -308,7 +308,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2021/02/04/data-to-action.html\">Using data to make better content</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2021/02/04/data-to-action.html\">Using data to make better content</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "We wanted to share some of our most recent experiences with using data to make important content work better.",
     "WHENTOUSE": "We wanted to share some of our most recent experiences with using data to make important content work better.",
@@ -317,7 +317,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2020/12/18/2020-silver-linings.html\">Silver linings from 2020</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2020/12/18/2020-silver-linings.html\">Silver linings from 2020</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "It almost feels like an understatement to say that 2020 has been a challenging year filled with a lot of change. Despite the challenges, there have been many silver linings.",
     "WHENTOUSE": "It almost feels like an understatement to say that 2020 has been a challenging year filled with a lot of change. Despite the challenges, there have been many silver linings.",
@@ -326,7 +326,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2020/11/12/interactive-checklists.html\">Using interactive checklists to simplify eligibility criteria</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2020/11/12/interactive-checklists.html\">Using interactive checklists to simplify eligibility criteria</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "How interactive checklists can help people slow down and pay attention to eligibility criteria.",
     "WHENTOUSE": "How interactive checklists can help people slow down and pay attention to eligibility criteria.",
@@ -335,7 +335,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2020/12/17/choosing-buttons.html\">Choosing the right button for task success</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2020/12/17/choosing-buttons.html\">Choosing the right button for task success</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "How using the right button style in the right situation can help people succeed better on your web page.",
     "WHENTOUSE": "How using the right button style in the right situation can help people succeed better on your web page.",
@@ -344,7 +344,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2020/10/28/transparency-template.html\">Increasing transparency on Canada.ca</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2020/10/28/transparency-template.html\">Increasing transparency on Canada.ca</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "We launched a new transparency template in the GC Design System.",
     "WHENTOUSE": "We launched a new transparency template in the GC Design System.",
@@ -353,7 +353,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2020/10/21/using-graphics.html\">Using graphics to bridge language gaps</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2020/10/21/using-graphics.html\">Using graphics to bridge language gaps</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "The Northwest Territories (NWT) shared how they use illustrations to make COVID-19 web content and communications products more accessible to all their communities.",
     "WHENTOUSE": "The Northwest Territories (NWT) shared how they use illustrations to make COVID-19 web content and communications products more accessible to all their communities.",
@@ -362,7 +362,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2020/10/09/collect-feedback.html\">Collect feedback, find issues</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2020/10/09/collect-feedback.html\">Collect feedback, find issues</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "In May 2020, a few teams collaborated to launch a pilot study of a widget for getting people’s feedback on Canada.ca pages.",
     "WHENTOUSE": "In May 2020, a few teams collaborated to launch a pilot study of a widget for getting people’s feedback on Canada.ca pages.",
@@ -371,7 +371,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2020/10/02/labelling-study.html\">Labelling study: which words work best</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2020/10/02/labelling-study.html\">Labelling study: which words work best</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "The public depends on us to choose the right words for the category and link labels to ensure that they can find answers quickly and easily on Canada.ca.",
     "WHENTOUSE": "The public depends on us to choose the right words for the category and link labels to ensure that they can find answers quickly and easily on Canada.ca.",
@@ -380,7 +380,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2020/09/18/expand-collapse.html\">Using expand/collapse for making choices</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2020/09/18/expand-collapse.html\">Using expand/collapse for making choices</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "Using the expand/collapse design pattern to present a choice between mutually exclusive answers",
     "WHENTOUSE": "Using the expand/collapse design pattern to present a choice between mutually exclusive answers",
@@ -389,7 +389,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2017/12/11/top-100-for-gc.html\">How we identify top tasks for Canada.ca</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2017/12/11/top-100-for-gc.html\">How we identify top tasks for Canada.ca</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "How we identiy top tasks to help prioritize work",
     "WHENTOUSE": "How we identiy top tasks to help prioritize work",
@@ -398,7 +398,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2017/12/12/optimization-overview.html\">How we're optimizing Canada.ca top tasks</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2017/12/12/optimization-overview.html\">How we're optimizing Canada.ca top tasks</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "Optimization projects are a way to make meaningful improvements for Canadians.",
     "WHENTOUSE": "Optimization projects are a way to make meaningful improvements for Canadians.",
@@ -408,7 +408,7 @@
     "TANDP": "0"
   }, {
 
-    "NAME": "<a href=\"https://blog.canada.ca/2018/05/30/trust-and-older-content.html\">Dates matter: Trust and older content on Canada.ca</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2018/05/30/trust-and-older-content.html\">Dates matter: Trust and older content on Canada.ca</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "In a recent usability study, we saw people disregarding Canada.ca search results that seemed too old. Find out how you can validate your content and show that it's still current.",
     "WHENTOUSE": "In a recent usability study, we saw people disregarding Canada.ca search results that seemed too old. Find out how you can validate your content and show that it's still current.",
@@ -417,7 +417,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2020/01/28/voice-search-optimization.html\">Optimize your content for voice search</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2020/01/28/voice-search-optimization.html\">Optimize your content for voice search</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "What we learned about improving voice services for Canadians",
     "WHENTOUSE": "What we learned about improving voice services for Canadians",
@@ -426,7 +426,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2020/02/05/method-to-measure.html\">Finding the right method to measure online task success</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2020/02/05/method-to-measure.html\">Finding the right method to measure online task success</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "What we learned about exit surveys, usability testing and analytics funnels",
     "WHENTOUSE": "What we learned about exit surveys, usability testing and analytics funnels",
@@ -435,7 +435,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2020/05/25/avoiding-faqs.html\">Avoiding FAQs, with one exception</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2020/05/25/avoiding-faqs.html\">Avoiding FAQs, with one exception</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "Why FAQs are an ineffective content design choice most of the time, and when they can actually work",
     "WHENTOUSE": "Why FAQs are an ineffective content design choice most of the time, and when they can actually work",
@@ -444,7 +444,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2020/05/26/descriptive-link-text.html\">A case for descriptive link text</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2020/05/26/descriptive-link-text.html\">A case for descriptive link text</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "Clear link text can help thousands more people get to the Canada.ca content they need quickly and easily.",
     "WHENTOUSE": "Clear link text can help thousands more people get to the Canada.ca content they need quickly and easily.",
@@ -453,7 +453,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2020/06/05/designing-for-accessibility.html\">Designing for accessibility during COVID-19</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2020/06/05/designing-for-accessibility.html\">Designing for accessibility during COVID-19</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "Designing digital government services with accessibility in mind is key to ensuring that everyone can get the services they need quickly and easily.",
     "WHENTOUSE": "Designing digital government services with accessibility in mind is key to ensuring that everyone can get the services they need quickly and easily.",
@@ -507,7 +507,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://blog.canada.ca/2022/07/28/news-releases\">Using alerts to keep news releases and web content in syn</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2022/07/28/news-releases\">Using alerts to keep news releases and web content in syn</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "Use a temporary alert to synchronize communications when you can’t update web content at the same time a news release is published.",
     "WHENTOUSE": "Use a temporary alert to synchronize communications when you can’t update web content at the same time a news release is published.",
@@ -1227,7 +1227,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc5\">Writing principles for web content</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#toc5\">Writing principles for web content</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "Writing principles that reflect how people read and use web content",
     "WHENTOUSE": "Writing principles that reflect how people read and use web content",
@@ -1236,7 +1236,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc6\">Plain language</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#toc6\">Plain language</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "Use plain language to makes information readable and understandable for everyone.",
     "WHENTOUSE": "Use plain language to makes information readable and understandable for everyone.",
@@ -1245,7 +1245,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc7\">Writing tone</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#toc7\">Writing tone</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "Guidelines on the right tone to use when designing content for Canada.ca",
     "WHENTOUSE": "Guidelines on the right tone to use when designing content for Canada.ca",
@@ -1254,7 +1254,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc8\">Writing style</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#toc8\">Writing style</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "Detailed rules on the formatting and style to use on Canada.ca",
     "WHENTOUSE": "Detailed rules on the formatting and style to use on Canada.ca",
@@ -1263,7 +1263,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp4-1\">Capitalization and punctuation</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#wp4-1\">Capitalization and punctuation</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "Use these styles for capitalization and punctuation of content in text, links and applications.",
     "WHENTOUSE": "Use these styles for capitalization and punctuation of content in text, links and applications.",
@@ -1272,7 +1272,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp4-2\">Underlining, bold and italics</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#wp4-2\">Underlining, bold and italics</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "When to use underline, bold and italics on Canada.ca",
     "WHENTOUSE": "When to use underline, bold and italics on Canada.ca",
@@ -1281,7 +1281,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp4-3\">Symbols</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#wp4-3\">Symbols</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "When to use symbols such as &amp; and % on Canada.ca",
     "WHENTOUSE": "When to use symbols such as &amp; and % on Canada.ca",
@@ -1290,7 +1290,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp4-4\">Abbreviations and acronyms</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#wp4-4\">Abbreviations and acronyms</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "Don't use an abbreviation or acronym unless it's better known to the widest audience than its long-form equivalent",
     "WHENTOUSE": "Don't use an abbreviation or acronym unless it's better known to the widest audience than its long-form equivalent",
@@ -1299,7 +1299,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp4-5\">Contractions</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#wp4-5\">Contractions</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "Use contractions that people use when they speak.",
     "WHENTOUSE": "Use contractions that people use when they speak.",
@@ -1308,7 +1308,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp4-6\">Numbers</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#wp4-6\">Numbers</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "How to write numbers on Canada.ca",
     "WHENTOUSE": "How to write numbers on Canada.ca",
@@ -1317,7 +1317,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp4-7\">Dates</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#wp4-7\">Dates</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "How to write dates on Canada.ca",
     "WHENTOUSE": "How to write dates on Canada.ca",
@@ -1326,7 +1326,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp4-8\">Times</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#wp4-8\">Times</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "How to write times on Canada.ca",
     "WHENTOUSE": "How to write times on Canada.ca",
@@ -1335,7 +1335,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp4-9\">Phone numbers</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#wp4-9\">Phone numbers</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "How to write phone numbers on Canada.ca",
     "WHENTOUSE": "How to write phone numbers on Canada.ca",
@@ -1344,7 +1344,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp4-10\">Addresses</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#wp4-10\">Addresses</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "How to write addresses on Canada.ca",
     "WHENTOUSE": "How to write addresses on Canada.ca",
@@ -1353,7 +1353,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp4-11\">Words and expressions in transition</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#wp4-11\">Words and expressions in transition</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "Special rules for Words and expressions commonly written in 2 or more different ways (like webpage and web page)",
     "WHENTOUSE": "Special rules for Words and expressions commonly written in 2 or more different ways (like webpage and web page)",
@@ -1362,7 +1362,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc9\">Content structure</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#toc9\">Content structure</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "How to organize the structure and layout of content components to help people find what they need quickly",
     "WHENTOUSE": "Content Style Guide",
@@ -1371,7 +1371,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp5-1\">Page titles and headings</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#wp5-1\">Page titles and headings</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "Write titles and headings that are meaningful and help people scan the page",
     "WHENTOUSE": "Write titles and headings that are meaningful and help people scan the page",
@@ -1380,7 +1380,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp5-2\">Lists</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#wp5-2\">Lists</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "How to write lists that help people scan",
     "WHENTOUSE": "How to write lists that help people scan",
@@ -1389,7 +1389,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp5-3\">Tables</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#wp5-3\">Tables</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "How to design tables to organize data",
     "WHENTOUSE": "How to design tables to organize data",
@@ -1398,7 +1398,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc10\">Images and videos</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#toc10\">Images and videos</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "How to use images and videos in your content",
     "WHENTOUSE": "How to use images and videos in your content",
@@ -1407,7 +1407,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc11\">Links</a>",
+    "NAME": "<a href=\"{{ site.url }}/style-guide/#toc11\">Links</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "How to use links on Canada.ca",
     "WHENTOUSE": "How to use links on Canada.ca",
