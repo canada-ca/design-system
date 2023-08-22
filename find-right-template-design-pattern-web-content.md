@@ -1,5 +1,5 @@
 --- 
-altLangPage: "https://conception.canada.ca/bibliotheque-modeles.html"
+altLangPage: "https://conception.canada.ca/trouvez-modeles-configurations-conception-contenu-web.html"
 date: 2021-05-03
 dateModified: 2019-11-28
 description: "A series of questions to help identify what Canada.ca template and/or design pattern is the best fit for the content."
