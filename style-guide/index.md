@@ -220,7 +220,7 @@ title: "Canada.ca Content Style Guide"
     </ul>
     <figure class="mrgn-bttm-lg">
       <figcaption class="text-center"> <strong>Figure 1</strong> </figcaption>
-      <img alt="Pyramid upside down showing how to start a web page with key information first. Text version below:" class="img-responsive center-block" id="fig1" src="./images/csc-grc-fig-01-eng">
+      <img alt="Pyramid upside down showing how to start a web page with key information first. Text version below:" class="img-responsive center-block" id="fig1" src="./images/csc-grc-fig-01-eng.jpg">
       <details class="brdr-tp brdr-rght brdr-bttm brdr-lft">
         <summary class="wb-toggle" data-toggle="'{&quot;print&quot;:&quot;on&quot;}'"> Figure 1 - Text version </summary>
         <p>Inverted pyramid divided into four sections, from top to bottom. The image shows the order of information on a web page.</p>
@@ -492,7 +492,7 @@ title: "Canada.ca Content Style Guide"
       <p>The Readability Statistics dialog box will appear and show the Flesch-Kincaid grade level. </p>
       <figure class="mrgn-bttm-lg">
         <figcaption class="text-center"><strong>Figure 2</strong></figcaption>
-        <img alt="Screen capture of a readability statistics dialog box in Microsoft Word. Text version below:" class="img-responsive center-block mrgn-bttm-md" src="./images/csc-grc-fig-02-eng">
+        <img alt="Screen capture of a readability statistics dialog box in Microsoft Word. Text version below:" class="img-responsive center-block mrgn-bttm-md" src="./images/csc-grc-fig-02-eng.jpg">
         <details>
           <summary> Figure 2 - Text version </summary>
           <p>A screen capture of Microsoft Word's readability statistics dialog box shows that a sample of text got a Flesch-Kincaid reading level of 5.8.</p>
@@ -777,7 +777,7 @@ title: "Canada.ca Content Style Guide"
         <h5>Example <span class="wb-inv">of question marks being used in forms, wizards, surveys or quizzes</span></h5>
         <figure class="mrgn-bttm-lg">
           <figcaption class="text-center"> <strong>Figure 3</strong> </figcaption>
-          <img alt="A web page containing a heading with a question mark. Text version below:" class="img-responsive center-block" id="fig3" src="./images/csc-grc-fig-03-eng">
+          <img alt="A web page containing a heading with a question mark. Text version below:" class="img-responsive center-block" id="fig3" src="./images/csc-grc-fig-03-eng.jpg">
           <details class="brdr-tp brdr-rght brdr-bttm brdr-lft">
             <summary class="wb-toggle" data-toggle="'{&quot;print&quot;:&quot;on&quot;}'"> Figure 3 - Text version </summary>
             <p>A web page containing a heading with a question mark. </p>
@@ -2004,7 +2004,7 @@ title: "Canada.ca Content Style Guide"
     <p>Get details about the templates above in the <cite><a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-eng.asp">Canada.ca Content and Information Architecture Specification</a></cite>. </p>
     <section>
       <h5>Example <span class="wb-inv">of a decorative image</span></h5>
-      <p><img alt="A Royal Canadian Mounted Police officer on the Canada.ca web page related to jobs and the workplace." class="img-responsive center-block" src="./images/csc-grc-fig-06-eng"></p>
+      <p><img alt="A Royal Canadian Mounted Police officer on the Canada.ca web page related to jobs and the workplace." class="img-responsive center-block" src="./images/csc-grc-fig-06-eng.jpg"></p>
       <p><strong>Description of the image</strong></p>
       <p>A Royal Canadian Mounted Police officer on the Canada.ca web page related to jobs and the workplace.</p>
     </section>
@@ -2052,7 +2052,7 @@ title: "Canada.ca Content Style Guide"
     <h4 class="h5">Example<span class="wb-inv">: Long description for the balanced scorecard</span></h4>
     <figure class="mrgn-bttm-lg">
       <figcaption class="text-center"> <strong>Figure 1: using a balanced scorecard approach to monitor key performance indicators</strong> </figcaption>
-      <img alt="A balanced scorecard showing how business activities align with an organization's vision and strategy to monitor key performance indicators. Text version below. " class="img-responsive center-block" src="./images/csc-grc-fig-01b-eng">
+      <img alt="A balanced scorecard showing how business activities align with an organization's vision and strategy to monitor key performance indicators. Text version below. " class="img-responsive center-block" src="./images/csc-grc-fig-01b-eng.jpg">
       <h5>Alternative text</h5>
       <p>You could write the following alternative text for the image shown in Figure 1:</p>
       <p>A balanced scorecard showing how business activities align with an organization's vision and strategy to monitor key performance indicators. Text version below. </p>
@@ -2090,7 +2090,7 @@ title: "Canada.ca Content Style Guide"
     <h4 class="h5">Example<span class="wb-inv">: Long description for the bar chart illustrating the proportion of men and women in the public service for selected years from 1983 to 2010</span></h4>
     <figure class="mrgn-bttm-lg">
       <figcaption class="text-center"> <strong>Figure 2: proportion of men and women in the public service for selected years from 1983 to 2010</strong> </figcaption>
-      <img alt="Comparison of the ratio of women and men in the civil service between 1983 and 2010. Text version below." class="img-responsive center-block" src="./images/csc-grc-fig-02b-eng">
+      <img alt="Comparison of the ratio of women and men in the civil service between 1983 and 2010. Text version below." class="img-responsive center-block" src="./images/csc-grc-fig-02b-eng.jpg">
       <p>Source: Office of the Chief Human Resources Officer, Treasury Board of Canada Secretariat <br>
         Note: Includes all tenures. Figures do not include employees on leave without pay.</p>
       <h5>Alternative text</h5>
