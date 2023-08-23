@@ -10,7 +10,7 @@ title: Social media channels design pattern
 
 <p>The social media channels pattern provides links to official Government of Canada (GC) social media accounts.</p>
 
-<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/social-media-en.png" class="img-responsive" alt=""> </div>
+<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/social-media-vertical-en.png" class="img-responsive" alt=""> </div>
 
 <section>
   <h2>On this page</h2>
@@ -65,58 +65,157 @@ title: Social media channels design pattern
 
   <h3>Design specifications</h3>
 
+  <ul>
+  <li>Lightbox design specifications
+    <ul>
+        <li>Modal header background colour: #2e5274</li>
+        <li>Header:  H2, Lato, styled as font size: 1.15em</li>
+    </ul>
+    </li>
+    <li>Links:
+        <ul>
+        <li>Font: Noto Sans, 16px, standard link colours</li>
+        </ul>
+    </li>
+    <li>Button is styled as a primary button.</li>
+  </ul>
+
  <p>The following social media link classes and associated icons are available.</p>
 
+<div class="row mrgn-tp-lg">
+  <div class="col-md-8">
+    <div class="panel panel-default">
+      <table class="table table-striped" id="social-media" aria-live="polite">
+        <caption class="wb-inv">
+        Social media link classes and associated icons
+        </caption>
+        <thead>
+          <tr>
+            <th class="col-md-4">Social media platform</th>
+            <th class="col-md-6">CSS class</th>
+            <th class="col-md-2">Link to SVG file (GitHub)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Facebook</td>
+            <td><p>facebook</p></td>
+            <td class="text-center"><img src="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/facebook.svg"></td>
+          </tr>
+          <tr>
+            <td>Twitter</td>
+            <td><p>twitter</p></td>
+            <td class="text-center"><img src="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/twitter.svg"></td>
+          </tr>
+          <tr>
+            <td>YouTube</td>
+            <td><p>youtube</p></td>
+            <td class="text-center"><img src="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/youtube.svg"></td>
+          </tr>
+          <tr>
+            <td>LinkedIn</td>
+            <td><p>linkedin</p></td>
+            <td class="text-center"><img src="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/linkedin.svg"></td>
+          </tr>
+          <tr>
+            <td>Instagram</td>
+            <td>instagram</td>
+            <td class="text-center"><img src="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/instagram.svg"></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
 
-  <h4>Accessibility</h4>
-    <ul>
-      <li>If you’re superimposing text over an image, ensure there’s a contrast ratio of at least 4.5:1.</li>
-    </ul>
+<p><a href="https://design.canada.ca/contact-us/">Contact the Digital Transformation Office (DTO)</a> if you want to include a platform that is not represented here.</p>
 
   <h3>Visual examples</h3>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
       <figure class="mrgn-tp-md mrgn-bttm-lg">
-        <figcaption><b>Introduction block - Large screen</b></figcaption>
-        <img src="../images/intro-block-en.png" class="img-responsive"
-				alt="Introduction block pattern for large screens. Text version below:">
+        <figcaption><b>Social media channels (vertical view with labels) - large screen</b></figcaption>
+        <img src="../images/social-media-vertical-en.png" class="img-responsive"
+				alt="Social media channels (vertical view with labels) for large screens. Text version below:">
         <details>
           <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
-          <p>The introduction block appears below the global header and the Canada.ca breadcrumb. It consists of an h1 for Institution name and a short description of the institution’s mandate.</p>
+          <p>Social media channel links appear in a section with the heading “On social media”.  Below the heading is a vertical list with associated icons and labels:</p>
+          <ul>
+            <li>Facebook icon followed by the placeholder text FacebookPageName</li>
+            <li>Twitter icon followed by the placeholder text @TwitterAccount</li>
+            <li>Youtube icon followed by the placeholder text  YouTubeName</li>
+            <li>Instagram icon followed by the placeholder text InstagramName</li>
+            <li>LinkedIn icon followed by the placeholder text LinkedInName</li>
+          </ul>
         </details>
       </figure>
     </div>
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
       <figure class="mrgn-tp-md mrgn-bttm-lg">
-        <figcaption><b>Introduction block - small screen</b></figcaption>
-        <img src="../images/intro-block-en-sm.png" class="img-responsive"
-				alt="Introduction block pattern for small screens. Text version below:">
+        <figcaption><b>Social media channels (horizontal view) - large screen</b></figcaption>
+        <img src="../images/social-media-horizontal-en.png" class="img-responsive"
+				alt="Social media channels (horizontal view) for large screens. Text version below:">
         <details>
           <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
-          <p>The introduction block appears below the global header and the Canada.ca breadcrumb. It consists of an h1 for Institution name and a short description of the institution’s mandate.</p>
+          <p>Social media channel links appear in a section with the heading “On social media”.  Below the heading is a horizontal list with associated icons, but without labels:</p>
+        <ul>
+            <li>Facebook</li>
+            <li>Twitter</li>
+            <li>Youtube</li>
+            <li>Instagram</li>
+            <li>LinkedIn</li>
+        </ul>
         </details>
       </figure>
     </div>
+    <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
+      <figure class="mrgn-tp-md mrgn-bttm-lg">
+        <figcaption><b>Social media channels (vertical view with labels) - small screen</b></figcaption>
+        <img src="../images/social-media-vertical-en-sm.png" class="img-responsive"
+				alt="Social media channels (vertical view with labels) for small screens. Text version below:">
+        <details>
+          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
+          <p>Social media channel links appear in a section with the heading “On social media”.  Below the heading is a vertical list with associated icons and labels:</p>
+          <ul>
+            <li>Facebook icon followed by the placeholder text FacebookPageName</li>
+            <li>Twitter icon followed by the placeholder text @TwitterAccount</li>
+            <li>Youtube icon followed by the placeholder text  YouTubeName</li>
+            <li>Instagram icon followed by the placeholder text InstagramName</li>
+            <li>LinkedIn icon followed by the placeholder text LinkedInName</li>
+          </ul>
+        </details>
+      </figure>
+    </div>
+        <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
+      <figure class="mrgn-tp-md mrgn-bttm-lg">
+        <figcaption><b>Social media lightbox modal for multiple accounts</b></figcaption>
+        <img src="../images/social-media-lightbox-en.png" class="img-responsive"
+				alt="Social media lightbox modal for multiple accounts. Text version below:">
+        <details>
+          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
+          <p>An overlay lightbox for displaying multiple Facebook accounts. There is a header indicating which social media platform, below there are two links titled [First Facebook account title] and [Second Facebook account title]. The lightbox has a close button and an X in the corner to exit the modal. </p>
+        </details>
+      </figure>
+    </div>
+
 </section>
+
 <section>
   <h2 id="implement">How to implement</h2>
 </section>
 
 <section>
   <h2 id="research">Research and rationale</h2>
-  <p>Consult research findings and policy rationale.</p>
-
-  <h3>Research fidings</h3>
-  <p><a href="https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html">Research summary: Contact the CRA</a></p> 
-  <p>Canada Revenue Agency and DTO developed the introduction block as part of the optimization project for CRA contacts.</p> 
-
-  <p>We found the introduction block design to be useful on institutional landing pages, especially in situations where a supertask button is needed. Check the research summary for additional information about other aspects of the project.</p>
+  <p>Consult the policy rationale.</p>
 
   <h3>Policy rationale</h3>
 
-  <p>The introduction block pattern is required in the following mandatory templates:</p>
+  <p>The content within the social media channels section must follow the <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=30682">Directive on the Management of Communications</a>.</p>
+
+  <p>This is an optional pattern for the following mandatory templates:</p>
   <ul>
     <li><a href="">Institutional landing page</a></li>
     <li><a href="https://design.canada.ca/mandatory-templates/theme-topic.html">Theme and topic page template</a></li>
+    <li><a href="https://design.canada.ca/mandatory-templates/ministerial-profile-pages.html">Ministerial pages</a></li>
   </ul>
 
 </section>
@@ -126,7 +225,7 @@ title: Social media channels design pattern
     <dt>
       <time datetime="2023-08-13" class="link-muted">2023-08-20</time>
     </dt>
-    <dd>Updated the guidance to include content and design specifications, visual examples and implementation guidance</dd>
+    <dd>Updated the guidance to include content and design specifications, visual examples and implementation guidance.</dd>
   </dl>
 </section>
 
