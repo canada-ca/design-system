@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/configurations-conception-communes/services-renseignements.html
 date: null
-dateModified: '2018-12-19'
+dateModified: '2023-08-23'
 description: Guidance about using the services and information pattern on Canada.ca.
 title: Services and information
 ---
@@ -157,17 +157,21 @@ title: Services and information
 
 <section>
   <h2 id="research">Research and rationale</h2>
-  <p>Consult the policy rationale.</p>
+  <p>Consult resarch findings and policy rationale.</p>
+  
+  <h3>Research findings</h3>
+  <p><a href="https://blog.canada.ca/research-summaries/business-account-research-summary.html">Research summary: Tax filing</a></p>
+  <p>This research summary explains how choosing the right keywords helped users find the path they needed. It also explains how the team reduced and simplified text by putting keywords at the beginning of titles, links and doormats. Improved scent of information</p>
+
+  <p><a href="https://blog.canada.ca/2018/08/16/collab-gsthst-payroll.html">CRA and TBS collaborate to optimize GST/HST and Payroll webpage content</a></p>
+  <p>This blog post explains how shorter keyword phrases showed significant advantages over full sentences on navigation pages. They made the key information easier to find.</p>
 
   <h3>Policy rationale</h3>
 
-  <p>The content within the social media channels section must follow the <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=30682">Directive on the Management of Communications</a>.</p>
-
-  <p>This is an optional pattern for the following mandatory templates:</p>
+  <p>Services and information is an required pattern for the following mandatory templates:</p>
   <ul>
     <li><a href="">Institutional landing page</a></li>
     <li><a href="https://design.canada.ca/mandatory-templates/theme-topic.html">Theme and topic page template</a></li>
-    <li><a href="https://design.canada.ca/mandatory-templates/ministerial-profile-pages.html">Ministerial pages</a></li>
   </ul>
 
 </section>
@@ -175,72 +179,8 @@ title: Services and information
   <h2 id="latest">Latest changes</h2>
   <dl class="dl-horizontal">
     <dt>
-      <time datetime="2023-08-13" class="link-muted">2023-08-20</time>
+      <time datetime="2023-08-13" class="link-muted">2023-08-23</time>
     </dt>
-    <dd>Updated the guidance to include content and design specifications, visual examples and implementation guidance.</dd>
+    <dd>Updated the guidance to include content and design specifications, visual examples and implementation guidance</dd>
   </dl>
 </section>
-
-
-  <section class="panel panel-primary">
-   <header class="panel-heading">
-    <h3 class="panel-title">
-     Examples
-    </h3>
-   </header>
-   <div class="panel-body">
-    <div class="row">
-     <div class="col-sm-6">
-      <figure class="mrgn-bttm-sm">
-       <figcaption class="text-center">
-        <b>
-         Doormat links in 2 columns pattern
-        </b>
-       </figcaption>
-       <img alt="Screenshot illustrating a set of doormat links in 2 columns on Canada.ca. Details on this graphic can be found in the surrounding text." class="img-responsive center-block" src="https://www.canada.ca/content/dam/tbs-sct/images/government-communications/canada-content-style-guide/services-and-information-2column-eng.jpg"/>
-      </figure>
-     </div>
-     <div class="col-sm-6">
-      <figure class="mrgn-bttm-sm">
-       <figcaption class="text-center">
-        <b>
-         Doormat links in single column pattern
-        </b>
-       </figcaption>
-       <img alt="Screenshot illustrating a set of doormat links in a single column on Canada.ca. Details on this graphic can be found in the surrounding text." class="img-responsive center-block" src="https://www.canada.ca/content/dam/tbs-sct/images/government-communications/canada-content-style-guide/services-and-information-1column-eng.jpg"/>
-      </figure>
-     </div>
-    </div>
-    <div class="clearfix">
-    </div>
-    <div class="row mrgn-tp-sm">
-     <div class="col-sm-6">
-      <figure class="mrgn-bttm-sm">
-       <figcaption class="text-center">
-        <b>
-         Sequential doormat links in single column pattern
-        </b>
-       </figcaption>
-       <img alt="Screenshot showing a set of sequential doormat links in a single column. Details on this graphic can be found in the surrounding text." class="img-responsive center-block" src="https://www.canada.ca/content/dam/tbs-sct/images/government-communications/canada-content-style-guide/services-and-information-sequential-eng.jpg"/>
-      </figure>
-     </div>
-     <div class="col-sm-6">
-      <figure class="mrgn-bttm-sm">
-       <figcaption class="text-center">
-        <b>
-         Doormat links in 2 columns grouped with headings pattern
-        </b>
-       </figcaption>
-       <img alt="Screenshot showing a set of doormat links in 2 columns, grouped with headings on Canada.ca. Details on this graphic can be found in the surrounding text." class="img-responsive center-block" src="https://www.canada.ca/content/dam/tbs-sct/images/government-communications/canada-content-style-guide/services-and-information-headings-eng.jpg"/>
-      </figure>
-     </div>
-    </div>
-   </div>
-  </section>
- </section>
-</div>
-
-
-
-
-
