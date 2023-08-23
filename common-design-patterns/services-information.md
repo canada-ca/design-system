@@ -5,208 +5,183 @@ dateModified: '2018-12-19'
 description: Guidance about using the services and information pattern on Canada.ca.
 title: Services and information
 ---
+<p><strong>Last updated</strong>: {{ page.dateModified }}</p>
 
+<p>The services and information pattern presents sets of links with accompanying descriptions (also known as doormats). It acts as a roadmap when a landing page has a series of pages to link to. Each link with its description provides a concise summary of what a person will find on destination pages. </p>
 
-<div>
- <p class="gc-byline">
-  <strong>
-   From:
-   <a href="https://www.canada.ca/en/treasury-board-secretariat.html">
-    Treasury Board of Canada Secretariat
-   </a>
-  </strong>
- </p>
- <section>
-  <p>
-   Services and information is a pattern for presenting sets of links with accompanying descriptions (also known as doormat). Each link with its description provides an accurate and concise description of what a person will find on the destination page. Together, these sets of links and descriptions provide clear and distinct choices for people trying to complete their task.
-  </p>
-  <section>
-   <h2>
-    When to use this pattern
-   </h2>
+<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/services-info-en.png" class="img-responsive" alt=""> </div>
+
+<section>
+  <h2>On this page</h2>
+  <ul>
+    <li><a href="#use">When to use</a></li>
+    <li><a href="#avoid">What to avoid</a></li>
+    <li><a href="#design">Content and design</a></li>
+    <li><a href="#implement">How to implement</a></li>
+    <li><a href="#research">Research and rationale</a></li>
+    <li><a href="#latest">Latest changes</a></li>
+    <li><a href="#discuss">Discussion</a></li>
+  </ul>
+</section>
+<section>
+  <h2 id="use">When to use</h2>
+  <p>Use the services and information pattern whenever the primary purpose of the page is to provide clear choices to navigate to tasks. Together, these sets of links and descriptions provide clear and distinct choices for people trying to complete their task.</p>
+</section>
+<section>
+  <h2 id="avoid">What to avoid</h2>
+  <p>Don’t repeat links that are found in your most requested pattern (if using both patterns on the same page).</p>
+
+  <p>Don’t use decorative icons or images in the pattern, as these can distract from people’s ability to make choices.</p>
+</section>
+<section>
+  <h2 id="design">Content and design</h2>
+  <p>Find content and design specifications and visual examples.</p>
+
+  <h3>Content specifications</h3>
+  <p>Style is very important when implementing the services and information pattern. Please see the Canada.ca Content Style Guide for more information on how to write content for this pattern.</p>
+  <ul>
+    <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html">Canada.ca Content Style Guide</a></li>
+  </ul>
+<p>Each doormat consists of a heading and a description. The heading is a link.</p>
+   
+ <h4>Doormats</h4>
    <ul>
-    <li>
-     Use this pattern to provide links to topics or destination content related to the page it is on
-    </li>
-    <li>
-     Use when the primary purpose of the page is to provide clear choices to navigate to tasks
+    <li>Optimal limit of doormats on a page is 9</li>
+    <li>You can use headings to group sets of doormats if needed</li>
+   </ul>
+
+   <h4>Linked doormat headings</h4>
+    <ul>
+    <li>The optimal character limit for links is 45 characters (with spaces) for both official languages, but can extend to 75 characters (with spaces)</li>
+    <li>Don’t end doormat headings with punctuation (for example, “How do you apply for funding?”)</li>
+   </ul>
+
+   <h4>Descriptions</h4>
+    <ul>
+    <li>Optimal character limit for descriptions is 120 characters (with spaces) in both official languages</li>
+    <li>Recommended style is to list keywords or keyword phrases separated by commas; full sentences aren’t required
+        <ul>
+            <li>Don’t use introductory phrases such as “Includes…”, “Information on…” or “Learn more about…”</li>
+            <li>Don’t include links in the descriptions</li>
+            <li>Don’t include promotional messaging</li>
+            <li>Don’t add extra formatting to the descriptions (bold, bullets, etc.)</li>
+        </ul>
     </li>
    </ul>
-  </section>
-  <section>
-   <h2>
-    How to use this pattern
-   </h2>
-   <section>
-    <h3>
-     Content requirements
-    </h3>
+
+  <h3>Design specifications</h3>
+
+  <ul>
+  <li>Layout
     <ul>
-     <li>
-      Content for each link and description pairing is written for a grade 6-8 reading level
-     </li>
-     <li>
-      Keep punctuation simple
-     </li>
-     <li>
-      Use popular keywords that the target audience will likely know and use; base choices on research and evidence
-     </li>
-     <li>
-      Don’t use acronyms or abbreviations unless most people know these better than the long-form equivalent
-     </li>
-     <li>
-      See the
-      <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html">
-       Canada.ca Content Style Guide
-      </a>
-      for more information on how to write content for this pattern
-     </li>
+        <li>Columns:
+            <ul>
+                <li>3 for large screens</li>
+                <li>2 for medium screens</li>
+                <li>1 for small screens </li>
+            </ul>
+            </li>
+        <li>Tab order is from left to right, then top to bottom</li>
     </ul>
-   </section>
-   <section>
-    <h3>
-     Link requirements
-    </h3>
-    <ul>
-     <li>
-      Link text must make sense within the context of the page
-      <ul>
-       <li>
-        It does not need to exactly match the destination page title
-       </li>
-       <li>
-        It does not need to be unique across Canada.ca
-       </li>
-       <li>
-        It must be descriptive, unique within the page, and clearly distinguishable from the other links on the page
-       </li>
-       <li>
-        Don’t end linked text with punctuation (for example, “How do you apply for funding?”)
-       </li>
-       <li>
-        The linked text must speak to a person (for example, “Apply for funding”)
-       </li>
-      </ul>
-     </li>
-     <li>
-      The optimal character limit for links is 45 characters (with spaces) for both official languages, but can extend to 75 characters (with spaces)
-     </li>
-     <li>
-      Use only standard link styles as defined in the Web Experience Toolkit (WET)
-     </li>
-    </ul>
-   </section>
-   <section>
-    <h3>
-     Link descriptions
-    </h3>
-    <ul>
-     <li>
-      The link description complements the link it accompanies to provide greater detail and clarity about the scope of the link itself
-      <ul>
-       <li>
-        Recommended style is to list keywords or keyword phrases separated by commas; full sentences are not required
-       </li>
-       <li>
-        Don’t use introductory phrases such as “Includes…”, “Information on…” or “Learn more about…”
-       </li>
-       <li>
-        Don’t include links
-       </li>
-       <li>
-        Don’t include promotional messaging
-       </li>
-      </ul>
-     </li>
-     <li>
-      The character limit for link descriptions is 120 characters (with spaces) in both official languages
-     </li>
-     <li>
-      Drop-down menus are permitted in place of a link description in specific circumstances:
-      <ul>
-       <li>
-        When used to provide access to a large number of items at the same level (for example, lists of countries or species)
-       </li>
-       <li>
-        When the destination page consists primarily of a list of links, and so can be completely replaced by the drop-down menu
-       </li>
-      </ul>
-     </li>
-     <li>
-      Use only standard presentation styles as defined in
-      <abbr title="Web Experience Toolkit">
-       WET
-      </abbr>
-     </li>
-    </ul>
-   </section>
-   <section>
-    <h3>
-     Grouping sets of links with accompanying descriptions
-    </h3>
-    <p>
-     The following styles may be used:
-    </p>
-    <ul>
-     <li>
-      Demand-based
-      <ul>
-       <li>
-        Prioritization is based on demand (for example, based on web metrics), with higher demand links appearing ahead of lower demand ones
-       </li>
-      </ul>
-     </li>
-     <li>
-      Sequential
-      <ul>
-       <li>
-        Use sequential, numbered doormats when links must be followed in a step-by-step order (for example, confirming eligibility, registering and then charging for GST/HST)
-       </li>
-       <li>
-        Use to allow people to skip over optional/non-applicable steps or steps they have previously completed
-       </li>
-      </ul>
-     </li>
-     <li>
-      Subheadings
-      <ul>
-       <li>
-        Use to group links and descriptions that are very similar, in cases where it wouldn’t make sense to move the group into a sub-topic page
-       </li>
-       <li>
-        Use to avoid information overload; ideally no more than 9 links with descriptions per subheading
-       </li>
-      </ul>
-     </li>
-     <li>
-      Combinations of the above, as appropriate; however, limit application to avoid overly complex sets of links and descriptions
-     </li>
-    </ul>
-    <p>
-     In all cases, priority sequencing is as follows:
-    </p>
-    <ul>
-     <li>
-      In a single column layout, the priority sequencing is top to bottom
-     </li>
-     <li>
-      In using across multiple columns, the priority sequencing is from left to right, then top to bottom
-     </li>
-    </ul>
-   </section>
-  </section>
-  <section>
-   <h2>
-    Working example
-   </h2>
-   <ul>
-    <li>
-     <a href="https://wet-boew.github.io/GCWeb/templates/topic/topic-en.html">
-      Topic template
-     </a>
     </li>
-   </ul>
-  </section>
+    <li>Headings:
+        <ul>
+        <li>Colour: <a href="https://design.canada.ca/styles/colours.html">Standard Canada.ca link colours</a></li>
+        <li>Font size: Canada.ca H3 (1em)</li>
+        <li>Font type: Lato Sans</li>
+        </ul>
+    </li>
+    <li>Descriptions:
+     <ul>
+        <li>Colour: <a href="https://design.canada.ca/styles/colours.html">Standard Canada.ca link colours</a></li>
+        <li>Font size:
+            <ul>
+                <li>17px (desktop)</li>
+                <li>19px (mobile)</li>
+            </ul>
+        </li>
+        <li>Font type: Noto Sans</li>
+        </ul>
+    </li>
+  </ul>
+
+  <h4>Accessibility</h4>
+  <p>The heading is generally “Services and information” in English and “Services et renseignements” in French. It’s required for the semantic outline and screen readers, but you can style it as invisible.</p>
+
+  <h3>Visual examples</h3>
+    <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
+      <figure class="mrgn-tp-md mrgn-bttm-lg">
+        <figcaption><b>Services and information - large screen</b></figcaption>
+        <img src="../images/services-info-en.png" class="img-responsive"
+				alt="Services and information for large screens. Text version below:">
+        <details>
+          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
+          <p> Nine separate doormats are displayed across three columns and three rows. Each doormat has a linked heading. Below the heading are keywords that describe what will be found by clicking on the linked heading.</p>
+        </details>
+      </figure>
+    </div>
+    <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
+      <figure class="mrgn-tp-md mrgn-bttm-lg">
+        <figcaption><b>Services and information - small screen</b></figcaption>
+        <img src="../images/services-info-en-sm.png" class="img-responsive"
+				alt="Social media channels (vertical view with labels) for small screens. Text version below:">
+        <details>
+          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
+          <p>Nine separate doormats are displayed in a list. Each doormat has a linked heading. Below the heading are keywords that describe what will be found by clicking on the linked heading.</p>
+        </details>
+      </figure>
+    </div>
+</section>
+
+<section>
+  <h2 id="implement">How to implement</h2>
+
+  <p>Determine what best suits the type of page you're creating.</p>
+  <p>For the Government of Canada Adobe Experience Manager (AEM):</p>
+  <ul>
+    <li><a href="https://www.gcpedia.gc.ca/gcwiki/images/8/8c/AEM-6.5-Documentation-Unit-4-11-Doormat-links-Component.pdf"></a>Doormat links component</li>
+    <li><a href="https://www.gcpedia.gc.ca/gcwiki/images/2/2b/AEM-6.5-Documentation-Unit-4-12-Doormat-link-set-Component.pdf">Doormat link set component</a></li>
+    <li><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">AEM/Managed Web Service documentation (GCPedia link - only available on the Government of Canada network)</a></li>
+  </ul>
+
+  <p>For the Centrally Deployed Templates Solution (CDTS):</p>
+  <ul>
+    <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-en.html">CDTS documentation</li>
+  </ul>
+
+  <p>For Drupal WxT:</p>
+    <ul>
+    <li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</li>
+  </ul>
+</section>
+
+<section>
+  <h2 id="research">Research and rationale</h2>
+  <p>Consult the policy rationale.</p>
+
+  <h3>Policy rationale</h3>
+
+  <p>The content within the social media channels section must follow the <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=30682">Directive on the Management of Communications</a>.</p>
+
+  <p>This is an optional pattern for the following mandatory templates:</p>
+  <ul>
+    <li><a href="">Institutional landing page</a></li>
+    <li><a href="https://design.canada.ca/mandatory-templates/theme-topic.html">Theme and topic page template</a></li>
+    <li><a href="https://design.canada.ca/mandatory-templates/ministerial-profile-pages.html">Ministerial pages</a></li>
+  </ul>
+
+</section>
+<section>
+  <h2 id="latest">Latest changes</h2>
+  <dl class="dl-horizontal">
+    <dt>
+      <time datetime="2023-08-13" class="link-muted">2023-08-20</time>
+    </dt>
+    <dd>Updated the guidance to include content and design specifications, visual examples and implementation guidance.</dd>
+  </dl>
+</section>
+
+
   <section class="panel panel-primary">
    <header class="panel-heading">
     <h3 class="panel-title">
