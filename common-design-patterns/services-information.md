@@ -2,8 +2,8 @@
 altLangPage: https://conception.canada.ca/configurations-conception-communes/services-renseignements.html
 date: null
 dateModified: '2018-12-19'
-description: null
-title: Services and information design pattern
+description: Guidance about using the services and information pattern on Canada.ca.
+title: Services and information
 ---
 
 
