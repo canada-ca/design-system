@@ -47,13 +47,9 @@ title: "Canada.ca Content Style Guide"
 </section>
 <section>
   <h2 id="toc3">Use of the style guide</h2>
-  <p>The Canada.ca Content Style Guide is referenced in "Appendix D: Mandatory Procedures for Social Media and Web Communications" of the Directive on the Management of Communications. Its requirements apply to departments and other portions of the federal public administration listed in Schedules I, I.1 and II of the Financial Administration Act.</p>
-  <p>These organizations must use the Canada.ca Style Guide for all their public-facing websites or digital services.</p>
-  <ul>
-    <li><a href="https://www.canada.ca/en/government/about/design-system/institutions-list.html">Institutions list for Canada.ca</a></li>
-  </ul>
+  <p>All departments and other portions of the federal public administration subject to the Directive on the Management of Communications must use the Canada.ca  Style Guide. These organizations must follow this style guide's requirements for all public-facing websites and digital services, regardless of the technology, domain name or publishing platform used. This requirement is referenced in Appendix D: Mandatory Procedures for Social Media and Web Communications in the <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=30682">Directive on the Management of Communications</a>.</p>
   <h3>Out-of-scope situations</h3>
-  <p>Institutions that fall outside of Schedules I, I.1, and II of the <cite>Financial Administration Act</cite> do not have to follow this style guide. However, all institutions are encouraged to use it for both their internal and external web products. Following this guide's rules and techniques will make it easier for everyone to find, understand and use the government's digital content.</p>
+  <p>Institutions that fall outside of the Directive on the Management of Communications do not have to follow this style guide. However, all institutions are encouraged to use it for both their internal and external web products. Following this guide's rules and techniques will make it easier for everyone to find, understand and use the government's digital content.</p>
 </section>
 <section>
   <h2 id="toc4">Related policies, standards and procedures</h2>
