@@ -48,7 +48,7 @@ title: "Canada.ca Content Style Guide"
 <section>
   <h2 id="toc3">Use of the style guide</h2>
   <p>The Canada.ca Content Style Guide is referenced in "Appendix D: Mandatory Procedures for Social Media and Web Communications" of the Directive on the Management of Communications. Its requirements apply to departments and other portions of the federal public administration listed in Schedules I, I.1 and II of the Financial Administration Act.</p>
-  <p>These organizations must use the Canada.ca Style Guide for all their public-facing websites or digital services:</p>
+  <p>These organizations must use the Canada.ca Style Guide for all their public-facing websites or digital services.</p>
   <ul>
     <li><a href="https://www.canada.ca/en/government/about/design-system/institutions-list.html">Institutions list for Canada.ca</a></li>
   </ul>
