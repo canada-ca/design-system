@@ -747,8 +747,8 @@ title: "Canada.ca Content Style Guide"
     <p>Lowercase the short form of proper names.</p>
     <section>
       <h4 class="h5">Example <span class="wb-inv">of proper names and their short forms</span></h4>
-      <p><strong>Full names</strong>: Agriculture and Agri-Food Canada, Canada Pension Plan<br>
-        <strong>Short form</strong>: the department, the plan</p>
+      <p><strong>Full names</strong>: Agriculture and Agri-Food Canada, Canada Pension Plan, the Public Service of Canada<br>
+        <strong>Short form</strong>: the department, the plan, the public service</p>
       <section>
         <h5>All caps</h5>
         <p>Don't capitalize all the letters in a word.</p>
