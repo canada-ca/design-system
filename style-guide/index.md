@@ -117,9 +117,12 @@ title: "Canada.ca Content Style Guide"
       <p>Making content accessible means a wide range of people can use it, including people with physical and cognitive disabilities (for example, reading disorders, attention deficit disorders, memory disorders). </p>
       <p>To make your content accessible, consider how assistive technologies work and how some writing practices may impact people's ability to read or understand text. Remember to also refer to the <cite><a href="https://www.w3.org/TR/WCAG/">Web Content Accessibility Guidelines (WCAG) 2.0</a></cite>.</p>
       <h4 id="wp1-2-1b">Writing for inclusivity</h4>
-      <p>Make gender-inclusive writing your standard practice. Avoid references to gender whenever possible.</p>
-      <p>For more guidance, including how to write inclusively in French, see the Translation Bureau’s <a href="https://www.btb.termiumplus.gc.ca/tpv2guides/guides/wrtps/index-eng.html?lang=eng&amp;lettr=indx_catlog_g&amp;page=9tZXuAe4oZYs.html">Gender-inclusive writing: correspondence</a>.</p>
-      <a>
+      <p>Make gender-inclusive writing your standard practice.</p>
+      <p>For more guidance on inclusive writing, see the Language Portal of Canada’s guidelines and resources:</p>
+      <ul>
+        <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/inclusive-writing-guidelines-resources">Inclusive writing for English</a> (only in English)</li>
+        <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/ecriture-inclusive-lignes-directrices-ressources">Écriture inclusive – Lignes directrices et ressources, du Bureau de la traduction</a> (only in French)</li>
+      </ul>
       <h4 id="wp1-2-2">Writing for readability</h4>
       <p>Readability is the ease with which a person can read and understand a text. Readable content means better task completion and higher client satisfaction. </p>
       <p>To make your content readable, consider your audience's reading level and literacy needs. Not everyone reads at the same level or understands content in the same way. Even when content is presented clearly and simply, people who have low literacy levels and other difficulties can find it hard to understand text. </p>
@@ -129,7 +132,6 @@ title: "Canada.ca Content Style Guide"
         <li>read word by word and slowly move their eyes across each line of text</li>
         <li>skip over large amounts of information when it contains many multi-syllable words, uncommon terms and long sentences </li>
       </ul>
-      </a>
       <p><a>Techniques for improving and measuring readability are in the </a><a href="#toc6">section on plain language</a>.</p>
       <h4 id="wp1-2-3">Writing for specialized audiences</h4>
       <p>Sometimes, your content targets people who have in-depth knowledge of a subject.</p>
