@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/guide-redaction"
 date: 2017-10-05
-dateModified:  2023-05-25
+dateModified:  2023-08-24
 description: "These are the rules to create web content that can be easily found, understood and used."
 title: "Canada.ca Content Style Guide"
 ---
@@ -47,10 +47,9 @@ title: "Canada.ca Content Style Guide"
 </section>
 <section>
   <h2 id="toc3">Use of the style guide</h2>
-  <p>This style guide is referenced in the <cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682">Directive on the Management of Communications</a></cite>. The requirements apply to departments and other organizations of the federal public administration listed in Schedules <a href="https://laws-lois.justice.gc.ca/eng/acts/F-11/page-30.html#h-74">I</a>, <a href="https://laws-lois.justice.gc.ca/eng/acts/F-11/page-31.html#h-75">I.1</a> and <a href="https://laws-lois.justice.gc.ca/eng/acts/F-11/page-32.html#h-76">II</a> of the <cite>Financial Administration Act</cite>.</p>
-  <p>These organizations must follow this style guide's requirements for all public-facing websites and digital services, regardless of the technology, domain name or publishing platform used.</p>
+  <p>All departments and other portions of the federal public administration subject to the Directive on the Management of Communications must use the Canada.ca  Style Guide. These organizations must follow this style guide's requirements for all public-facing websites and digital services, regardless of the technology, domain name or publishing platform used. This requirement is referenced in Appendix D: Mandatory Procedures for Social Media and Web Communications in the <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=30682">Directive on the Management of Communications</a>.</p>
   <h3>Out-of-scope situations</h3>
-  <p>Institutions that fall outside of Schedules I, I.1, and II of the <cite>Financial Administration Act</cite> do not have to follow this style guide. However, all institutions are encouraged to use it for both their internal and external web products. Following this guide's rules and techniques will make it easier for everyone to find, understand and use the government's digital content.</p>
+  <p>Institutions that fall outside of the Directive on the Management of Communications do not have to follow this style guide. However, all institutions are encouraged to use it for both their internal and external web products. Following this guide's rules and techniques will make it easier for everyone to find, understand and use the government's digital content.</p>
 </section>
 <section>
   <h2 id="toc4">Related policies, standards and procedures</h2>
@@ -118,9 +117,12 @@ title: "Canada.ca Content Style Guide"
       <p>Making content accessible means a wide range of people can use it, including people with physical and cognitive disabilities (for example, reading disorders, attention deficit disorders, memory disorders). </p>
       <p>To make your content accessible, consider how assistive technologies work and how some writing practices may impact people's ability to read or understand text. Remember to also refer to the <cite><a href="https://www.w3.org/TR/WCAG/">Web Content Accessibility Guidelines (WCAG) 2.0</a></cite>.</p>
       <h4 id="wp1-2-1b">Writing for inclusivity</h4>
-      <p>Make gender-inclusive writing your standard practice. Avoid references to gender whenever possible.</p>
-      <p>For more guidance, including how to write inclusively in French, see the Translation Bureau’s <a href="https://www.btb.termiumplus.gc.ca/tpv2guides/guides/wrtps/index-eng.html?lang=eng&amp;lettr=indx_catlog_g&amp;page=9tZXuAe4oZYs.html">Gender-inclusive writing: correspondence</a>.</p>
-      <a>
+      <p>Make gender-inclusive writing your standard practice.</p>
+      <p>For more guidance on inclusive writing, see the Language Portal of Canada’s guidelines and resources:</p>
+      <ul>
+        <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/inclusive-writing-guidelines-resources">Inclusive writing for English</a> (only in English)</li>
+        <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/ecriture-inclusive-lignes-directrices-ressources">Écriture inclusive – Lignes directrices et ressources, du Bureau de la traduction</a> (only in French)</li>
+      </ul>
       <h4 id="wp1-2-2">Writing for readability</h4>
       <p>Readability is the ease with which a person can read and understand a text. Readable content means better task completion and higher client satisfaction. </p>
       <p>To make your content readable, consider your audience's reading level and literacy needs. Not everyone reads at the same level or understands content in the same way. Even when content is presented clearly and simply, people who have low literacy levels and other difficulties can find it hard to understand text. </p>
@@ -130,7 +132,6 @@ title: "Canada.ca Content Style Guide"
         <li>read word by word and slowly move their eyes across each line of text</li>
         <li>skip over large amounts of information when it contains many multi-syllable words, uncommon terms and long sentences </li>
       </ul>
-      </a>
       <p><a>Techniques for improving and measuring readability are in the </a><a href="#toc6">section on plain language</a>.</p>
       <h4 id="wp1-2-3">Writing for specialized audiences</h4>
       <p>Sometimes, your content targets people who have in-depth knowledge of a subject.</p>
@@ -747,8 +748,8 @@ title: "Canada.ca Content Style Guide"
     <p>Lowercase the short form of proper names.</p>
     <section>
       <h4 class="h5">Example <span class="wb-inv">of proper names and their short forms</span></h4>
-      <p><strong>Full names</strong>: Agriculture and Agri-Food Canada, Canada Pension Plan<br>
-        <strong>Short form</strong>: the department, the plan</p>
+      <p><strong>Full names</strong>: Agriculture and Agri-Food Canada, Canada Pension Plan, the Public Service of Canada<br>
+        <strong>Short form</strong>: the department, the plan, the public service</p>
       <section>
         <h5>All caps</h5>
         <p>Don't capitalize all the letters in a word.</p>
