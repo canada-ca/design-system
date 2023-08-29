@@ -68,7 +68,7 @@ title: Most requested
                 <li>Font weight: Bold</li>
                 <li>Heading: H2, Lato: 1.2em</li>
                 <li>Line height: 2em (base size is 20px)</li>
-                <li>Text size: 87% (base size is 20px)</mark></li>
+                <li>Text size: 87% (base size is 20px)</li>
             </ul>
         </li>
     </ul>
@@ -97,25 +97,24 @@ title: Most requested
 <section>
     <h2 id="implement">How to implement</h2>
     <p>Find working examples and code for implementing the most requested pattern.</p>
-  <h3>GCweb (WET) theme implementation reference</h3>
+    <h3>GCweb (WET) theme implementation reference</h3>
     <ul>
-      <li><a href="https://wet-boew.github.io/GCWeb/components/gc-most-requested/gc-most-requested-en.html">Most requested</a></li>
+        <li><a href="https://wet-boew.github.io/GCWeb/components/gc-most-requested/gc-most-requested-en.html">Most requested</a></li>
     </ul>
-  <h3>Implementations</h3>
-  <p>Determine what best suits the type of page you're creating.</p>
-  <p>For the Government of Canada Adobe Experience Manager (AEM):</p>
-  <ul>
-    <li><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">AEM/Managed Web Service documentation (GCPedia link - only available on the Government of Canada network) </a></li>
-  </ul>
-  <p>For the Centrally Deployed Templates Solution (CDTS):</p>
-  <ul>
-    <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-en.html">CDTS documentation</li>
-  </ul>
-  <p>For Drupal WxT:</p>
+    <h3>Implementations</h3>
+    <p>Determine what best suits the type of page you're creating.</p>
+    <p>For the Government of Canada Adobe Experience Manager (AEM):</p>
     <ul>
-    <li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</li>
-  </ul>
-</section>
+        <li><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">AEM/Managed Web Service documentation (GCPedia link - only available on the Government of Canada network)</a></li>
+    </ul>
+    <p>For the Centrally Deployed Templates Solution (CDTS):</p>
+    <ul>
+        <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-en.html">CDTS documentation</a></li>
+    </ul>
+    <p>For Drupal WxT:</p>
+    <ul>
+        <li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</a></li>
+    </ul>
 </section>
 <section>
     <h2 id="research">Research and rationale</h2>
@@ -137,7 +136,7 @@ title: Most requested
             <time datetime="2023-08-20" class="link-muted">2023-08-20</time>
         </dt>
         <dd>Updated guidance to reflect the banded style for the most requested pattern</dd>
-         <dt>
+        <dt>
             <time datetime="2018-12-19" class="link-muted">2018-12-19</time>
         </dt>
         <dd>Documented the most requested pattern</dd>
