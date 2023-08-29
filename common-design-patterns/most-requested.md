@@ -67,8 +67,8 @@ title: Most requested
                 <li>Font family: Noto Sans</li>
                 <li>Font weight: Bold</li>
                 <li>Heading: H2, Lato: 1.2em</li>
-                <li><mark>Line height: 2em (base size is X)</mark></li>
-                <li><mark>Text size: 19px</mark></li>
+                <li>Line height: 2em (base size is 20px)</li>
+                <li>Text size: 87% (base size is 20px)</mark></li>
             </ul>
         </li>
     </ul>
