@@ -9,7 +9,7 @@ title: "Introduction block"
 
 <p>The introduction block pattern introduces the content of a landing page.</p>
 
-<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/intro-block-en.png" class="img-responsive" alt=""> </div>
+<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/intro-block-full-en.png" class="img-responsive" alt=""> </div>
 
 <section>
   <h2>On this page</h2>
@@ -63,7 +63,7 @@ title: "Introduction block"
   <p>Only use decorative images because the image is hidden on small screens.</p>
   <p>Don't apply a link to the image, use the featured link pattern instead.</p>
   <ul>
-    <li><a href="#">Featured link pattern</a></li>
+    <li><a href="./featured-link.html">Featured link pattern</a></li>
   </ul>
   <p>Limit use of text in images.</p>
   <ul>
@@ -123,7 +123,7 @@ title: "Introduction block"
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
       <figure class="mrgn-tp-md mrgn-bttm-lg">
         <figcaption><b>Introduction block - small screen</b></figcaption>
-        <img src="../images/intro-block-en-sm.png" class="img-responsive"
+        <img src="../images/intro-block-sm-en.png" class="img-responsive"
 				alt="Introduction block pattern for small screens. Text version below:">
         <details>
           <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
