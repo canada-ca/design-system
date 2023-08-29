@@ -1,9 +1,9 @@
 ---
 altLangPage: "https://conception.canada.ca/configurations-conception-communes/en-demande.html"
 date: 2018-12-19
-dateModified: 2023-06-26
-description: ""
-title: "Most requested"
+dateModified: 2023-08-30
+description: Guidance about using the most requested pattern on Canada.ca. The most requested pattern provides links to top tasks on navigation pages
+title: Most requested
 ---
 <div class="row">
   <div class="col-md-12 pull-left">
