@@ -86,7 +86,7 @@ title: Introduction block
         <li>The title is an H1 and the short description uses body text</li>
         <li>Use <a href="https://design.canada.ca/styles/typography.html">standard typography styles</a></li>
       </ul> 
-    <li>
+    </li>
     <li>Image
       <ul>
       <li>1200px by 726px</li>
