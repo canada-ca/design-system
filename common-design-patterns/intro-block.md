@@ -132,6 +132,7 @@ title: Introduction block
       </figure>
     </div>
 </section>
+
 <section>
   <h2 id="implement">How to implement</h2>
   <mark>we need the right text for here linking to the GCWeb example</mark>
