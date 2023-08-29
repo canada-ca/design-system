@@ -32,7 +32,7 @@ title: "Canada.ca Content Style Guide"
 </section>
 <section>
   <h2 id="toc1">Summary of changes</h2>
-  <p>Here are the changes we made to this version of the guide: </p>
+  <p>Here are the changes we made to this version of the guide:</p>
   <ul>
     <li>we’ve added “Writing for inclusivity” to the <a href="#toc5">Writing principles for web content</a> section</li>
   </ul>
