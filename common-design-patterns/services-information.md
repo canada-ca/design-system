@@ -10,7 +10,7 @@ title: Services and information
     The services and information pattern presents sets of links with accompanying descriptions (also known as doormats). It acts as a roadmap when a landing page has a series of pages to link to. Each link with its description provides a
     concise summary of what a person will find on destination pages.
 </p>
-<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/services-info-en.png" class="img-responsive" alt="" /></div>
+<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/services-info-generic-en.png" class="img-responsive" alt="" /></div>
 <section>
     <h2>On this page</h2>
     <ul>
@@ -122,7 +122,7 @@ title: Services and information
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
             <figcaption><b>Services and information - small screen</b></figcaption>
-            <img src="../images/services-info-en-sm.png" class="img-responsive" alt="Social media channels (vertical view with labels) for small screens. Text version below:" />
+            <img src="../images/services-info-sm-en.png" class="img-responsive" alt="Social media channels (vertical view with labels) for small screens. Text version below:" />
             <details>
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
                 <p>Nine separate doormats are displayed in a list. Each doormat has a linked heading. Below the heading are keywords that describe what will be found by clicking on the linked heading.</p>
@@ -135,7 +135,7 @@ title: Services and information
     <p>Determine what best suits the type of page you're creating.</p>
     <p>For the Government of Canada Adobe Experience Manager (AEM):</p>
     <ul>
-        <li><a href="https://www.gcpedia.gc.ca/gcwiki/images/8/8c/AEM-6.5-Documentation-Unit-4-11-Doormat-links-Component.pdf"></a>Doormat links component</li>
+        <li><a href="https://www.gcpedia.gc.ca/gcwiki/images/8/8c/AEM-6.5-Documentation-Unit-4-11-Doormat-links-Component.pdf">Doormat links component</a></li>
         <li><a href="https://www.gcpedia.gc.ca/gcwiki/images/2/2b/AEM-6.5-Documentation-Unit-4-12-Doormat-link-set-Component.pdf">Doormat link set component</a></li>
         <li><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">AEM/Managed Web Service documentation (GCPedia link - only available on the Government of Canada network)</a></li>
     </ul>
