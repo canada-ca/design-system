@@ -134,6 +134,7 @@ title: "Introduction block"
 </section>
 <section>
   <h2 id="implement">How to implement</h2>
+  <mark>we need the right text for here linking to the GCWeb example</mark>
 </section>
 
 <section>
@@ -159,7 +160,7 @@ title: "Introduction block"
   <h2 id="latest">Latest changes</h2>
   <dl class="dl-horizontal">
     <dt>
-      <time datetime="2023-08-13" class="link-muted">2023-08-20</time>
+      <time datetime="2023-08-20" class="link-muted">2023-08-20</time>
     </dt>
     <dd>Updated the guidance to include content and design specifications, visual examples and implementation guidance</dd>
   </dl>
