@@ -76,7 +76,7 @@ title: Most requested
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
             <figcaption><b>Most requested - Large screen</b></figcaption>
-            <img src="../images/intro-block-en.png" class="img-responsive" alt="Most requested pattern for large screens. Text version below:" />
+            <img src="../images/most-requested-en.png" class="img-responsive" alt="Most requested pattern for large screens. Text version below:" />
             <details>
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
                 <p>Most requested links appear in a horizontal band with the heading “Most requested”. Links are organized in a bulleted list.</p>
@@ -86,7 +86,7 @@ title: Most requested
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
             <figcaption><b>Most requested - small screen</b></figcaption>
-            <img src="../images/intro-block-sm-en.png" class="img-responsive" alt="Most requested pattern for small screens. Text version below:" />
+            <img src="../images/most-requested-sm-en.png" class="img-responsive" alt="Most requested pattern for small screens. Text version below:" />
             <details>
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
                 <p>Most requested links appear in a bulleted list underneath the heading “Most requested”.</p>
@@ -97,19 +97,34 @@ title: Most requested
 <section>
     <h2 id="implement">How to implement</h2>
     <p>Find working examples and code for implementing the most requested pattern.</p>
+  <h3>GCweb (WET) theme implementation reference</h3>
+    <ul>
+      <li><a href="https://wet-boew.github.io/GCWeb/components/gc-most-requested/gc-most-requested-en.html">Most requested</a></li>
+    </ul>
+  <h3>Implementations</h3>
+  <p>Determine what best suits the type of page you're creating.</p>
+  <p>For the Government of Canada Adobe Experience Manager (AEM):</p>
+  <ul>
+    <li><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">AEM/Managed Web Service documentation (GCPedia link - only available on the Government of Canada network) </a></li>
+  </ul>
+  <p>For the Centrally Deployed Templates Solution (CDTS):</p>
+  <ul>
+    <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-en.html">CDTS documentation</li>
+  </ul>
+  <p>For Drupal WxT:</p>
+    <ul>
+    <li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</li>
+  </ul>
+</section>
 </section>
 <section>
     <h2 id="research">Research and rationale</h2>
-    <p>Consult research findings and policy rationale.</p>
     <h3>Research fidings</h3>
-    <p><a href="https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html">Research summary: Contact the CRA</a></p>
-    <p>Canada Revenue Agency and DTO developed the introduction block as part of the optimization project for CRA contacts.</p>
-    <p>
-        We found the introduction block design to be useful on institutional landing pages, especially in situations where a supertask button is needed. Check the research summary for additional information about other aspects of the
-        project.
-    </p>
+    <p>The banded approach to the most requested pattern was successfully tested on the Canada.ca home page in 2018.</p>
+    <p>As part of the Contact the Canada Revenue Agency (CRA) project in 2019, the banded approach was successfully tested on a prototype of the CRA institutional landing page.</p>
+    <p>The usefulness of most requested links for navigation pages was reconfirmed as part of the Wayfinding project in 2022.</p>
     <h3>Policy rationale</h3>
-    <p>The introduction block pattern is required in the following mandatory templates:</p>
+    <p>The most requested pattern is required in the following mandatory templates:</p>
     <ul>
         <li><a href="">Institutional landing page</a></li>
         <li><a href="https://design.canada.ca/mandatory-templates/theme-topic.html">Theme and topic page template</a></li>
@@ -121,6 +136,10 @@ title: Most requested
         <dt>
             <time datetime="2023-08-20" class="link-muted">2023-08-20</time>
         </dt>
-        <dd>Updated the guidance to include content and design specifications, visual examples and implementation guidance</dd>
+        <dd>Updated guidance to reflect the banded style for the most requested pattern</dd>
+         <dt>
+            <time datetime="2018-12-19" class="link-muted">2018-12-19</time>
+        </dt>
+        <dd>Documented the most requested pattern</dd>
     </dl>
 </section>
