@@ -7,7 +7,7 @@ title: About the institution
 ---
 <p><strong>Last updated</strong>: {{ page.dateModified }}</p>
 <p>The about the institution pattern is a section on an institutional landing page that provides links to corporate, program and policy information.</p>
-<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/about-institution-en.png" class="img-responsive" alt="" /></div>
+<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/about-institution-mask-en.png" class="img-responsive" alt="" /></div>
 <section>
     <h2>On this page</h2>
     <ul>
@@ -102,7 +102,7 @@ title: About the institution
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
             <figcaption><b>About the institution - large screen</b></figcaption>
-            <img src="../images/about-institution-en.png" class="img-responsive" alt="About the institution for large screens. Text version below:" />
+            <img src="../images/about-institution-mask-en.png" class="img-responsive" alt="About the institution for large screens. Text version below:" />
             <details>
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
                 <p>About the institution links appear in a section with the heading “About the [Institution]”. The links appear in a bulleted list that spans across two columns. The first column has:</p>
@@ -126,8 +126,8 @@ title: About the institution
     </div>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
-            <figcaption><b>Contact us band - small screen</b></figcaption>
-            <img src="../images/about-institution-sm-en.png" class="img-responsive" alt="Contact us band for small screens. Text version below:" />
+            <figcaption><b>About the institution - small screen</b></figcaption>
+            <img src="../images/about-institution-sm-en.png" class="img-responsive" alt="About the institution for small screens. Text version below:" />
             <details>
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
                 <p>About the institution links appear in a section with the heading “About the [Institution]”. The design organizes links in a bulleted list:</p>
@@ -150,10 +150,10 @@ title: About the institution
 <section>
     <h2 id="implement">How to implement</h2>
     <p>Find working examples and code for implementing the contact us band pattern.</p>
-    <mark>need to link to GCWeb component coming up</mark>
     <h3>GCweb (WET) theme implementation reference</h3>
     <p>The implementation reference includes how to configure elements of the design system.</p>
     <ul>
+        <li><a href="">GCWeb (WET) Institutional landing page</a><li>
         <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-en.html">Quick implementation guide - GCWeb theme</a></li>
     </ul>
     <h3>Implementations</h3>
