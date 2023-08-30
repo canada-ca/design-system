@@ -68,7 +68,9 @@ title: Contact us band
                   <li>If you have multiple sets of links to present on the same page, you can use more than one contact us band on the page in alternating background colours of white and grey (zebra striping).</li>
                </ul>
             </li>
-         </ul>
+          </ul>
+        <li>
+    </ul>
          <h3>Visual examples</h3>
          <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
             <figure class="mrgn-tp-md mrgn-bttm-lg">
