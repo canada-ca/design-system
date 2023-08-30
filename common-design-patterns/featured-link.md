@@ -7,7 +7,7 @@ title: Featured link
 ---
 <p><strong>Last updated</strong>: {{ page.dateModified }}</p>
 <p>The featured link is a short, descriptive link that your institution needs to feature prominently.</p>
-<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/featured-link-en.png" class="img-responsive" alt="" /></div>
+<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/featured-link-generic-en.png" class="img-responsive" alt="" /></div>
 <section>
     <h2>On this page</h2>
     <ul>
@@ -70,35 +70,23 @@ title: Featured link
     <h3>Visual examples</h3>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
-            <figcaption><b>Services and information - large screen</b></figcaption>
-            <img src="../images/services-info-en.png" class="img-responsive" alt="Services and information for large screens. Text version below:" />
+            <figcaption><b>Featured link - large screen</b></figcaption>
+            <img src="../images/featured-link-en.png" class="img-responsive" alt="Featured link for large screens. Text version below:" />
             <details>
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
-                <p>Nine separate doormats are displayed across three columns and three rows. Each doormat has a linked heading. Below the heading are keywords that describe what will be found by clicking on the linked heading.</p>
-            </details>
-        </figure>
-    </div>
-    <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
-        <figure class="mrgn-tp-md mrgn-bttm-lg">
-            <figcaption><b>Services and information - small screen</b></figcaption>
-            <img src="../images/services-info-sm-en.png" class="img-responsive" alt="Social media channels (vertical view with labels) for small screens. Text version below:" />
-            <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
-                <p>Nine separate doormats are displayed in a list. Each doormat has a linked heading. Below the heading are keywords that describe what will be found by clicking on the linked heading.</p>
+                <p> A featured link is displayed in a blue band that spans the length of the screen. Above the featured link is the department name (Natural Resources Canada) followed by a short description about the department. Below the featured link is a Most requested heading followed by three links.</p>
             </details>
         </figure>
     </div>
 </section>
 <section>
     <h2 id="implement">How to implement</h2>
-    <p>Determine what best suits the type of page you're creating.</p>
-    <p>For the Government of Canada Adobe Experience Manager (AEM):</p>
+    <p>Find working examples and code for implementing the featured link, including the randomizer functionality.</p>
+    <h3>GCWeb</h3>
     <ul>
-        <li><a href="https://www.gcpedia.gc.ca/gcwiki/images/8/8c/AEM-6.5-Documentation-Unit-4-11-Doormat-links-Component.pdf">Doormat links component</a></li>
-        <li><a href="https://www.gcpedia.gc.ca/gcwiki/images/2/2b/AEM-6.5-Documentation-Unit-4-12-Doormat-link-set-Component.pdf">Doormat link set component</a></li>
-        <li><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">AEM/Managed Web Service documentation (GCPedia link - only available on the Government of Canada network)</a></li>
+        <li><a href="https://wet-boew.github.io/GCWeb/components/gc-featured-link/gc-featured-link-en.html">Featured link - Canada.ca</a></li>
     </ul>
-    <p>For the Centrally Deployed Templates Solution (CDTS):</p>
+    <h3>Randomizer in WET</h3>
     <ul>
         <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-en.html">CDTS documentation</a></li>
     </ul>
