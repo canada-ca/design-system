@@ -120,6 +120,7 @@ title: Featured link
       </div>
     </div>
   </div>
+  </div>
 </section>
 <section>
     <h2 id="research">Research and rationale</h2>
