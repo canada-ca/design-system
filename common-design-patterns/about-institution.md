@@ -144,6 +144,7 @@ title: About the institution
 <section>
   <h2 id="implement">How to implement</h2>
   <p>Find working examples and code for implementing the contact us band pattern.</p>
+  <mark>need to link to GCWeb component coming up</mark>
   <h3>GCweb (WET) theme implementation reference</h3>
   <p>The implementation reference includes how to configure elements of the design system.</p>
     <ul>
@@ -151,29 +152,42 @@ title: About the institution
     </ul>
   <h3>Implementations</h3>
   <p>Determine what best suits the type of page you're creating.</p>
-  <h4>GC-AEM</h4>
-  <p>For the Government of Canada Adobe Experience Manager (AEM):</p>
-  <ul>
-    <li><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">AEM/Managed Web Service documentation (GCPedia link - only available on the Government of Canada network)</a></li>
-  </ul>
-  <h4>CDTS</h4>
-  <p>For the Centrally Deployed Templates Solution (CDTS):</p>
-  <ul>
-    <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-en.html">CDTS documentation</li>
-  </ul>
-  <h4>Drupal WxT</h4>
-  <p>For Drupal WxT:</p>
-    <ul>
-    <li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</li>
-  </ul>
+  <div class="row">
+  <div class="col-md-8">
+    <div class="wb-tabs mrgn-tp-lg">
+      <div class="tabpanels">
+        <details id="004" open="open">
+          <summary><strong>GC-AEM</strong></summary>
+          <p class="mrgn-tp-lg">For the Government of Canada Adobe Experience Manager (AEM):</p>
+          <ul>
+            <li><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">AEM/Managed Web Service documentation (GCPedia link - only available on the Government of Canada network)</a></li>
+          </ul>
+        </details>
+        <details id="005">
+          <summary><strong>CDTS</strong></summary>
+          <p class="mrgn-tp-lg">For the Centrally Deployed Templates Solution (CDTS):</p>
+          <ul>
+            <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-en.html">CDTS documentation</a></li>
+          </ul>
+        </details>
+        <details id="006">
+          <summary><strong>Drupal WxT</strong></summary>
+          <p class="mrgn-tp-lg">For Drupal WxT:</p>
+          <ul>
+            <li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</a></li>
+          </ul>
+        </details>
+      </div>
+    </div>
+  </div>
 </section>
 <section>
   <h2 id="research">Research and rationale</h2>
   <p>Consult resarch findings and policy rationale.</p> 
   <h3>Research findings</h3>
-  <p>Canada Revenue Agency and the Digital Transformation Office developed contact bands as part of the optimization project for CRA contacts. We found contact bands to be useful for providing access to specific contact information for different services.</p>
+  <p>Research shows that this section isn’t what most people are looking for when they reach an institutional landing page. Therefore, this pattern appears near the bottom of the page so it doesn’t interfere with more important tasks.</p>
   <h3>Policy rationale</h3>
-  <p>The Contact us band is required in the following mandatory templates:</p>
+  <p>The About the institution pattern is required in the following mandatory templates:</p>
   <ul>
     <li><a href="">Institutional landing page</a></li>
   </ul>
@@ -184,6 +198,6 @@ title: About the institution
     <dt>
       <time datetime="2023-08-23" class="link-muted">2023-08-23</time>
     </dt>
-    <dd>Updated the guidance to include content and design specifications, visual examples and implementation guidance</dd>
+    <dd>Added About the institution guidance to support updates to the Institutional landing page template</dd>
   </dl>
 </section>
