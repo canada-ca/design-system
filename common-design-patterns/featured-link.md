@@ -53,11 +53,12 @@ title: Featured link
             <ul>
                 <li>Default colour: #31708F</li>
                 <li>Opacity: 0.9</li>
-                <li>Padding:
-                  <ul>
-                    <li>Bottom: 15px</li>
-                    <li>Top: 15px</li>
-                  </ul>
+                <li>
+                    Padding:
+                    <ul>
+                        <li>Bottom: 15px</li>
+                        <li>Top: 15px</li>
+                    </ul>
                 </li>
             </ul>
         </li>
@@ -73,7 +74,10 @@ title: Featured link
             <img src="../images/featured-link-en.png" class="img-responsive" alt="Featured link for large screens. Text version below:" />
             <details>
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
-                <p> A featured link is displayed in a blue band that spans the length of the screen. Above the featured link is the department name (Natural Resources Canada) followed by a short description about the department. Below the featured link is a Most requested heading followed by three links.</p>
+                <p>
+                    A featured link is displayed in a blue band that spans the length of the screen. Above the featured link is the department name (Natural Resources Canada) followed by a short description about the department. Below the
+                    featured link is a Most requested heading followed by three links.
+                </p>
             </details>
         </figure>
     </div>
@@ -91,36 +95,36 @@ title: Featured link
         <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-en.html">Quick implementation guide - GCWeb theme</a></li>
     </ul>
     <h3>Implementations</h3>
-  <p>Determine what best suits the type of page you're creating.</p>
-  <div class="row">
-  <div class="col-md-8">
-    <div class="wb-tabs mrgn-tp-lg">
-      <div class="tabpanels">
-        <details id="004" open="open">
-          <summary><strong>GC-AEM</strong></summary>
-          <p class="mrgn-tp-lg">For the Government of Canada Adobe Experience Manager (AEM):</p>
-          <ul>
-            <li><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">AEM/Managed Web Service documentation (GCPedia link - only available on the Government of Canada network)</a></li>
-          </ul>
-        </details>
-        <details id="005">
-          <summary><strong>CDTS</strong></summary>
-          <p class="mrgn-tp-lg">For the Centrally Deployed Templates Solution (CDTS):</p>
-          <ul>
-            <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-en.html">CDTS documentation</a></li>
-          </ul>
-        </details>
-        <details id="006">
-          <summary><strong>Drupal WxT</strong></summary>
-          <p class="mrgn-tp-lg">For Drupal WxT:</p>
-          <ul>
-            <li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</a></li>
-          </ul>
-        </details>
-      </div>
+    <p>Determine what best suits the type of page you're creating.</p>
+    <div class="row">
+        <div class="col-md-8">
+            <div class="wb-tabs mrgn-tp-lg">
+                <div class="tabpanels">
+                    <details id="004" open="open">
+                        <summary><strong>GC-AEM</strong></summary>
+                        <p class="mrgn-tp-lg">For the Government of Canada Adobe Experience Manager (AEM):</p>
+                        <ul>
+                            <li><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">AEM/Managed Web Service documentation (GCPedia link - only available on the Government of Canada network)</a></li>
+                        </ul>
+                    </details>
+                    <details id="005">
+                        <summary><strong>CDTS</strong></summary>
+                        <p class="mrgn-tp-lg">For the Centrally Deployed Templates Solution (CDTS):</p>
+                        <ul>
+                            <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-en.html">CDTS documentation</a></li>
+                        </ul>
+                    </details>
+                    <details id="006">
+                        <summary><strong>Drupal WxT</strong></summary>
+                        <p class="mrgn-tp-lg">For Drupal WxT:</p>
+                        <ul>
+                            <li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</a></li>
+                        </ul>
+                    </details>
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
-  </div>
 </section>
 <section>
     <h2 id="research">Research and rationale</h2>
