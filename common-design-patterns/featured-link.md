@@ -88,8 +88,11 @@ title: Featured link
     </ul>
     <h3>Randomizer in WET</h3>
     <ul>
-        <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-en.html">CDTS documentation</a></li>
+        <li><a href="https://wet-boew.github.io/v4.0-ci/demos/wb-randomize/wb-randomize-en.html">Randomize</a> - working examples and code</li>
+        <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-en.html">Quick implementation guide - GCWeb theme</a></li>
     </ul>
+    <h3>Implementations</h3>
+    <p>Determine what best suits the type of page you're creating.</p>
     <p>For Drupal WxT:</p>
     <ul>
         <li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</a></li>
