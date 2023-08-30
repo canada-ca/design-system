@@ -39,25 +39,34 @@ title: About the institution
         <li>Transparency</li>
         <li>Accessibility</li>
     </ul>
-    <p>Mandatory links:</p>
+    <p>Optional links:</p>
     <ul>
-        <li>Programs</li>
-        <li>Consultations</li>
-        <li>Organizational structure</li>
-        <li>Reports</li>
-        <li>Job opportunities</li>
         <li>
-            More: About the [Institution]
+            Recommended:
             <ul>
-                <li>only if you have a general “About” page for your institution</li>
-            </ul>
-        </li>
-        <li>
-            Other links can include any content that falls under corporate information or program and policy development content types
-            <ul>
-                <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/organizing-content.html#corporate">Corporate information</a></li>
+                <li>Programs</li>
+                <li>Consultations</li>
+                <li>Organizational structure</li>
+                <li>Reports</li>
+                <li>Job opportunities</li>
                 <li>
-                    <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/organizing-content.html#program">Program and policy development</a>
+                    More: About the [Institution]
+                    <ul>
+                        <li>only if you have a general “About” page for your institution</li>
+                    </ul>
+                </li>
+                <li>
+                    Other links can include any content that falls under corporate information or program and policy development content types
+                    <ul>
+                        <li>
+                            <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/organizing-content.html#corporate">Corporate information</a>
+                        </li>
+                        <li>
+                            <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/organizing-content.html#program">
+                                Program and policy development
+                            </a>
+                        </li>
+                    </ul>
                 </li>
             </ul>
         </li>
@@ -153,7 +162,8 @@ title: About the institution
     <h3>GCweb (WET) theme implementation reference</h3>
     <p>The implementation reference includes how to configure elements of the design system.</p>
     <ul>
-        <li><a href="">GCWeb (WET) Institutional landing page</a><li>
+        <li><a href="">GCWeb (WET) Institutional landing page</a></li>
+        <li></li>
         <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-en.html">Quick implementation guide - GCWeb theme</a></li>
     </ul>
     <h3>Implementations</h3>
