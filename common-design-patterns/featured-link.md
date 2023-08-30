@@ -93,6 +93,17 @@ title: Featured link
     </ul>
     <h3>Implementations</h3>
     <p>Determine what best suits the type of page you're creating.</p>
+    <h3>GC-AEM</h3>
+    <p>For the Government of Canada Adobe Experience Manager (AEM):</p>
+    <ul>
+        <li><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">AEM/Managed Web Service documentation (GCPedia link - only available on the Government of Canada network)</a></li>
+    </ul>
+    <h3>CDTS</h3>
+    <p>For the Centrally Deployed Templates Solution (CDTS):</p>
+    <ul>
+        <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-en.html">CDTS documentation</a></li>
+    </ul>
+    <h3>Drupal WxT</h3>
     <p>For Drupal WxT:</p>
     <ul>
         <li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</a></li>
@@ -100,27 +111,19 @@ title: Featured link
 </section>
 <section>
     <h2 id="research">Research and rationale</h2>
-    <p>Consult resarch findings and policy rationale.</p>
-    <h3>Research findings</h3>
-    <p><a href="https://blog.canada.ca/research-summaries/business-account-research-summary.html">Research summary: Tax filing</a></p>
-    <p>
-        This research summary explains how choosing the right keywords helped users find the path they needed. It also explains how the team reduced and simplified text by putting keywords at the beginning of titles, links and doormats.
-        Improved scent of information
-    </p>
-    <p><a href="https://blog.canada.ca/2018/08/16/collab-gsthst-payroll.html">CRA and TBS collaborate to optimize GST/HST and Payroll webpage content</a></p>
-    <p>This blog post explains how shorter keyword phrases showed significant advantages over full sentences on navigation pages. They made the key information easier to find.</p>
+    <p>The featured link provides a controlled way to offer promotional space “above the fold” on landing pages.</p>
     <h3>Policy rationale</h3>
-    <p>Services and information is an required pattern for the following mandatory templates:</p>
+    <p>It’s an optional pattern for the following mandatory templates:</p>
     <ul>
         <li><a href="">Institutional landing page</a></li>
-        <li><a href="https://design.canada.ca/mandatory-templates/theme-topic.html">Theme and topic page template</a></li>
+        <li>Canada.ca home page</li>
     </ul>
 </section>
 <section>
     <h2 id="latest">Latest changes</h2>
     <dl class="dl-horizontal">
         <dt>
-            <time datetime="2023-08-13" class="link-muted">2023-08-23</time>
+            <time datetime="2023-08-23" class="link-muted">2023-08-23</time>
         </dt>
         <dd>Updated the guidance to include content and design specifications, visual examples and implementation guidance</dd>
     </dl>
