@@ -93,46 +93,50 @@ title: About the institution
   <h3>Visual examples</h3>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
       <figure class="mrgn-tp-md mrgn-bttm-lg">
-        <figcaption><b>Standard contact us band - large screen</b></figcaption>
-        <img src="../images/contact-band-en.png" class="img-responsive"
-				alt="Contact us band for large screens. Text version below:">
+        <figcaption><b>About the institution  - large screen</b></figcaption>
+        <img src="../images/about-institution-en.png" class="img-responsive"
+				alt="About the institution for large screens. Text version below:">
         <details>
           <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
-          <p>A horizontal grey band with a Contact us heading followed by three links in a single row. The first link is Contact [Institution], the following links are placeholders for top contact tasks.</p>
+          <p>About the institution links appear in a section with the heading “About the [Institution]”.  The links appear in a bulleted list that spans across two columns. The first column has:</p>
+          <ul>
+            <li>Mandate</li>
+            <li>Organizational structure</li>
+            <li>Transparency</li>
+            <li>Accessibility</li>
+            <li>Job opportunities</li>
+          </ul>
+          <p>The second column has:</p>
+          <ul>
+            <li>Reports</li>
+            <li>Compliance</li>
+            <li>Enforcements notifications</li>
+            <li>[Institutional link]</li>
+            <li>More: About the [institution]</li>
+          </ul>
         </details>
       </figure>
     </div>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
       <figure class="mrgn-tp-md mrgn-bttm-lg">
         <figcaption><b>Contact us band - small screen</b></figcaption>
-        <img src="../images/contact-band-sm-en.png" class="img-responsive"
+        <img src="../images/about-institution-sm-en.png" class="img-responsive"
 				alt="Contact us band for small screens. Text version below:">
         <details>
           <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
-          <p>A single column with light grey shading in the background. A Contact us heading is followed by three links. The first link is Contact [Institution], the following links are placeholders for top contact tasks.</p>
-        </details>
-      </figure>
-    </div>
-    <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
-      <figure class="mrgn-tp-md mrgn-bttm-lg">
-        <figcaption><b>Multiple contact us bands - large screen</b></figcaption>
-        <img src="../images/contact-band-multi-en.png" class="img-responsive"
-				alt="Multiple contact us bands for large screens. Text version below:">
-        <details>
-          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
-          <p>A horizontal white band with a Contacts for [subject] heading followed by six links. The links are presented in two rows with three links in each row.</p>
-          <p>Following the white band is a horizontal grey band with a Contacts for [subject] heading followed by six links. The links are presented in two rows with three links in each row.</p>
-        </details>
-      </figure>
-    </div>
-     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
-      <figure class="mrgn-tp-md mrgn-bttm-lg">
-        <figcaption><b>Multiple contact us bands - small screen</b></figcaption>
-        <img src="../images/contact-band-multi-sm-en.png" class="img-responsive" alt="Multiple contact us bands for small screens. Text version below:">
-        <details>
-          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
-          <p>A single column with white shading contains a Contacts for [subject] heading followed by six links.</p>
-          <p>Following that column is a single column with grey shading contains a Contacts for [subject] heading followed by six links.</p>
+          <p>About the institution links appear in a section with the heading “About the [Institution]”.  The design organizes links in a bulleted list:</p>
+          <ul>
+            <li>Mandate</li>
+            <li>Organizational structure</li>
+            <li>Transparency</li>
+            <li>Accessibility</li>
+            <li>Job opportunities</li>
+            <li>Reports</li>
+            <li>Compliance</li>
+            <li>Enforcements notifications</li>
+            <li>[Institutional link]</li>
+            <li>More: About the [institution]</li>
+          </ul>
         </details>
       </figure>
     </div>
