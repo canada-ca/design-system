@@ -62,12 +62,14 @@ title: Contact us band
                         <li>Top: 15px</li>
                     </ul>
                 </li>
-                <li>
-                    Layout:
-                    <ul>
-                        <li>If you have multiple sets of links to present on the same page, you can use more than one contact us band on the page in alternating background colours of white and grey (zebra striping).</li>
-                    </ul>
-                </li>
+
+                <li></li>
+            </ul>
+        </li>
+        <li>
+            Layout:
+            <ul>
+                <li>If you have multiple sets of links to present on the same page, you can use more than one contact us band on the page in alternating background colours of white and grey (zebra striping).</li>
             </ul>
         </li>
     </ul>
