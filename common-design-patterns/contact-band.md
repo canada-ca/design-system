@@ -20,7 +20,6 @@ title: Contact us band
     <li><a href="#implement">How to implement</a></li>
     <li><a href="#research">Research and rationale</a></li>
     <li><a href="#latest">Latest changes</a></li>
-    <li><a href="#discuss">Discussion</a></li>
   </ul>
 </section>
 <section>
@@ -88,7 +87,7 @@ title: Contact us band
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
       <figure class="mrgn-tp-md mrgn-bttm-lg">
         <figcaption><b>Contact us band - small screen</b></figcaption>
-        <img src="../images/contact-band-en-sm.png" class="img-responsive"
+        <img src="../images/contact-band-sm-en.png" class="img-responsive"
 				alt="Contact us band for small screens. Text version below:">
         <details>
           <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
@@ -111,7 +110,7 @@ title: Contact us band
      <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
       <figure class="mrgn-tp-md mrgn-bttm-lg">
         <figcaption><b>Multiple contact us bands - small screen</b></figcaption>
-        <img src="../images/contact-band-multi-en-sm.png" class="img-responsive"
+        <img src="../images/contact-band-multi-sm-en.png" class="img-responsive"
 				alt="Multiple contact us bands for small screens. Text version below:">
         <details>
           <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
