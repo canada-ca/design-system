@@ -6,11 +6,8 @@ description: Guidance about using the contact us band on Canada.ca
 title: Contact us band
 ---
 <p><strong>Last updated</strong>: {{ page.dateModified }}</p>
-
 <p>The Contact us band provides relevant contact information.</p>
-
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/contact-band-en.png" class="img-responsive" alt=""> </div>
-
 <section>
   <h2>On this page</h2>
   <ul>
@@ -38,13 +35,11 @@ title: Contact us band
 <section>
   <h2 id="design">Content and design</h2>
   <p>Find content and design specifications and visual examples.</p>
-
   <h3>Content specifications</h3>
   <p>Use a descriptive heading that starts with ‘Contact’ or ‘Contacts’.</p>
   <p>Use descriptive link text so it's clear what contact information the user will be brought to.</p>
   <p>The optimal number of links is three.</p>
   <p>If you are using a contextual footer that contains the same contact links, ensure you use the same link labels.</p>
-
   <h3>Design specifications</h3>
   <ul>
   <li>Text uses standard Canada.ca styles:
@@ -64,14 +59,12 @@ title: Contact us band
             <li>Top: 15px</li>
           </ul>
         </li>
-      </li>
     <li>Layout:
      <ul>
         <li>If you have multiple sets of links to present on the same page, you can use more than one contact us band on the page in alternating background colours of white and grey (zebra striping).</li>
         </ul>
     </li>
   </ul>
-
   <h3>Visual examples</h3>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
       <figure class="mrgn-tp-md mrgn-bttm-lg">
@@ -110,8 +103,7 @@ title: Contact us band
      <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
       <figure class="mrgn-tp-md mrgn-bttm-lg">
         <figcaption><b>Multiple contact us bands - small screen</b></figcaption>
-        <img src="../images/contact-band-multi-sm-en.png" class="img-responsive"
-				alt="Multiple contact us bands for small screens. Text version below:">
+        <img src="../images/contact-band-multi-sm-en.png" class="img-responsive" alt="Multiple contact us bands for small screens. Text version below:">
         <details>
           <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
           <p>A single column with white shading contains a Contacts for [subject] heading followed by six links.</p>
@@ -120,64 +112,48 @@ title: Contact us band
       </figure>
     </div>
 </section>
-
 <section>
   <h2 id="implement">How to implement</h2>
-
   <p>Find working examples and code for implementing the contact us band pattern.</p>
-
   <h3>GCweb (WET) theme implementation reference</h3>
-
   <p>The implementation reference includes how to configure elements of the design system.</p>
     <ul>
       <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-en.html">Quick implementation guide - GCWeb theme</a></li>
     </ul>
-
   <h3>Implementations</h3>
   <p>Determine what best suits the type of page you're creating.</p>
-
   <h4>GC-AEM</h4>
   <p>For the Government of Canada Adobe Experience Manager (AEM):</p>
   <ul>
     <li><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">AEM/Managed Web Service documentation (GCPedia link - only available on the Government of Canada network)</a></li>
   </ul>
-
   <h4>CDTS</h4>
   <p>For the Centrally Deployed Templates Solution (CDTS):</p>
   <ul>
     <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-en.html">CDTS documentation</li>
   </ul>
-
   <h4>Drupal WxT</h4>
   <p>For Drupal WxT:</p>
     <ul>
     <li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</li>
   </ul>
 </section>
-
 <section>
   <h2 id="research">Research and rationale</h2>
-  <p>Consult resarch findings and policy rationale.</p>
-  
+  <p>Consult resarch findings and policy rationale.</p> 
   <h3>Research findings</h3>
   <p>Canada Revenue Agency and the Digital Transformation Office developed contact bands as part of the optimization project for CRA contacts. We found contact bands to be useful for providing access to specific contact information for different services.</p>
-
-  <p><a href="https://blog.canada.ca/2018/08/16/collab-gsthst-payroll.html">CRA and TBS collaborate to optimize GST/HST and Payroll webpage content</a></p>
-  <p>This blog post explains how shorter keyword phrases showed significant advantages over full sentences on navigation pages. They made the key information easier to find.</p>
-
   <h3>Policy rationale</h3>
-
   <p>The Contact us band is required in the following mandatory templates:</p>
   <ul>
     <li><a href="">Institutional landing page</a></li>
   </ul>
-
 </section>
 <section>
   <h2 id="latest">Latest changes</h2>
   <dl class="dl-horizontal">
     <dt>
-      <time datetime="2023-08-13" class="link-muted">2023-08-23</time>
+      <time datetime="2023-08-23" class="link-muted">2023-08-23</time>
     </dt>
     <dd>Updated the guidance to include content and design specifications, visual examples and implementation guidance</dd>
   </dl>
