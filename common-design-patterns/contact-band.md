@@ -62,8 +62,6 @@ title: Contact us band
                         <li>Top: 15px</li>
                     </ul>
                 </li>
-
-                <li></li>
             </ul>
         </li>
         <li>
@@ -128,32 +126,33 @@ title: Contact us band
     <h3>Implementations</h3>
     <p>Determine what best suits the type of page you're creating.</p>
     <div class="row">
-    <div class="col-md-8">
-      <div class="wb-tabs mrgn-tp-lg">
-        <div class="tabpanels">
-          <details id="004" open="open">
-            <summary><strong>GC-AEM</strong></summary>
-            <p class="mrgn-tp-lg">For the Government of Canada Adobe Experience Manager (AEM):</p>
-            <ul>
-              <li><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">AEM/Managed Web Service documentation (GCPedia link - only available on the Government of Canada network)</a></li>
-            </ul>
-          </details>
-          <details id="005">
-            <summary><strong>CDTS</strong></summary>
-            <p class="mrgn-tp-lg">For the Centrally Deployed Templates Solution (CDTS):</p>
-            <ul>
-              <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-en.html">CDTS documentation</a></li>
-            </ul>
-          </details>
-          <details id="006">
-            <summary><strong>Drupal WxT</strong></summary>
-            <p class="mrgn-tp-lg">For Drupal WxT:</p>
-            <ul>
-              <li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</a></li>
-            </ul>
-          </details>
+        <div class="col-md-8">
+            <div class="wb-tabs mrgn-tp-lg">
+                <div class="tabpanels">
+                    <details id="004" open="open">
+                        <summary><strong>GC-AEM</strong></summary>
+                        <p class="mrgn-tp-lg">For the Government of Canada Adobe Experience Manager (AEM):</p>
+                        <ul>
+                            <li><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">AEM/Managed Web Service documentation (GCPedia link - only available on the Government of Canada network)</a></li>
+                        </ul>
+                    </details>
+                    <details id="005">
+                        <summary><strong>CDTS</strong></summary>
+                        <p class="mrgn-tp-lg">For the Centrally Deployed Templates Solution (CDTS):</p>
+                        <ul>
+                            <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-en.html">CDTS documentation</a></li>
+                        </ul>
+                    </details>
+                    <details id="006">
+                        <summary><strong>Drupal WxT</strong></summary>
+                        <p class="mrgn-tp-lg">For Drupal WxT:</p>
+                        <ul>
+                            <li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</a></li>
+                        </ul>
+                    </details>
+                </div>
+            </div>
         </div>
-      </div>
     </div>
 </section>
 <section>
