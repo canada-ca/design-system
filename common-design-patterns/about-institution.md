@@ -2,12 +2,12 @@
 altLangPage: https://conception.canada.ca/configurations-conception-communes/X.html
 date: null
 dateModified: '2023-08-23'
-description: Guidance about using the contact us band on Canada.ca
-title: Contact us band
+description: Guidance about using the About the institution section on institutional landing pages. The about the institution pattern provides links to an institution’s content.
+title: About the institution
 ---
 <p><strong>Last updated</strong>: {{ page.dateModified }}</p>
-<p>The Contact us band provides relevant contact information.</p>
-<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/contact-band-en.png" class="img-responsive" alt=""> </div>
+<p>The about the institution pattern is a section on an institutional landing page that provides links to corporate, program and policy information.</p>
+<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/about-institution-en.png" class="img-responsive" alt=""> </div>
 <section>
   <h2>On this page</h2>
   <ul>
@@ -21,25 +21,45 @@ title: Contact us band
 </section>
 <section>
   <h2 id="use">When to use</h2>
-  <p>Use the contact us band on pages to:</p>
-    <ul>
-      <li>present contact information consistently in a variety of contexts</li>
-      <li>provide access to multiple contact options</li>
-    </ul>
+  <p>About the institution is a mandatory pattern on an institutional landing page.  It must include mandate and transparency links.</p>
 </section>
 <section>
   <h2 id="avoid">What to avoid</h2>
-  <p>Don’t add borders to this band.</p>
-  <p>Don’t add non-contact links in a contact band.</p>
+  <p>Don’t use icons or images (only include links).</p>
 </section>
 <section>
   <h2 id="design">Content and design</h2>
   <p>Find content and design specifications and visual examples.</p>
   <h3>Content specifications</h3>
-  <p>Use a descriptive heading that starts with ‘Contact’ or ‘Contacts’.</p>
-  <p>Use descriptive link text so it's clear what contact information the user will be brought to.</p>
-  <p>The optimal number of links is three.</p>
-  <p>If you are using a contextual footer that contains the same contact links, ensure you use the same link labels.</p>
+  <p>The heading is “About” followed by the name of the institution.</p>
+  <p>The heading appears above the links on all screen sizes.</p>
+  <p>Mandatory links:</p>
+  <ul>
+    <li>Mandate</li>
+    <li>Transparency</li>
+    <li>Accessibility</li>
+  </ul>
+  <p>Mandatory links:</p>
+  <ul>
+    <li>Programs</li>
+    <li>Consultations</li>
+    <li>Organizational structure</li>
+    <li>Reports</li>
+    <li>Job opportunities</li>
+    <li>More: About the [Institution] 
+        <ul>
+            <li>only if you have a general “About” page for your institution</li>
+        </ul>
+    </li>
+    <li>Other links can include any content that falls under corporate information or program and policy development content types
+        <ul>
+            <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/organizing-content.html#corporate">Corporate information</a></li>
+            <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/organizing-content.html#program">Program and policy development</a></li>
+        </ul>
+    </li>
+  </ul>
+  <p>Organize the links in an unstyled list.</p>
+  <p>Recommended maximum of 10 links.</p>
   <h3>Design specifications</h3>
   <ul>
   <li>Text uses standard Canada.ca styles:
