@@ -70,10 +70,7 @@ title: Contact us band
                 </li>
             </ul>
         </li>
-
-        <li></li>
     </ul>
-
     <h3>Visual examples</h3>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
