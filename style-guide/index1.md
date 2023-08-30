@@ -14,3 +14,4 @@ title: "Canada.ca Content Style Guide"
 {% include_relative 07-toc6.html %}
 {% include_relative 08-toc7.html %}
 {% include_relative 09-toc8.html %}
+{% include_relative 10-toc9.html %}
