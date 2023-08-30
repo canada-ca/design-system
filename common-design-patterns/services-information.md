@@ -20,7 +20,6 @@ title: Services and information
         <li><a href="#implement">How to implement</a></li>
         <li><a href="#research">Research and rationale</a></li>
         <li><a href="#latest">Latest changes</a></li>
-        <li><a href="#discuss">Discussion</a></li>
     </ul>
 </section>
 <section>
