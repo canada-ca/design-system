@@ -62,26 +62,31 @@ title: About the institution
   <p>Recommended maximum of 10 links.</p>
   <h3>Design specifications</h3>
   <ul>
-  <li>Text uses standard Canada.ca styles:
-    <ul>
-        <li><a href="https://design.canada.ca/styles/typography.html">Typography</a></li>
-        <li><a href="https://design.canada.ca/styles/colours.html">Colours</a></li>
-        <li>Heading is coded as an H2 but styled as an H3</li>
-        <li>Make the links bold and arrange them in a horizontal no-bullet list</li>
-    </ul>
-    </li>
-    <li>Background:
+    <li>Heading: 
         <ul>
-        <li>Default colour: #f5f5f5</li>
-        <li>Padding:
-          <ul>
-            <li>Bottom: 15px</li>
-            <li>Top: 15px</li>
-          </ul>
-        </li>
-    <li>Layout:
-     <ul>
-        <li>If you have multiple sets of links to present on the same page, you can use more than one contact us band on the page in alternating background colours of white and grey (zebra striping).</li>
+            <li>Uses standard Canada.ca styles:
+                <ul>
+                    <li><a href="https://design.canada.ca/styles/typography.html">Typography</a></li>
+                    <li><a href="https://design.canada.ca/styles/colours.html">Colours</a></li>
+                    <li>Heading is coded as an H2 but styled as an H3</li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li>List links:</li>
+        <ul>
+            <li>Uses standard Canada.ca styles:
+                <ul>
+                    <li><a href="https://design.canada.ca/styles/typography.html">Typography</a></li>
+                    <li><a href="https://design.canada.ca/styles/colours.html">Colours</a></li>
+                </ul>
+            </li>
+            <li>Line-height of link: 1.65em</li>
+        </ul>
+    <li>The list of links appears in:
+        <ul>
+            <li>2 columns on large screens</li>
+            <li>1 column on small screens</li>
         </ul>
     </li>
   </ul>
