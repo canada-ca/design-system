@@ -17,26 +17,6 @@ layout: without-h1
 		</div>
 	</div>
 </div>
-<section class="well well-sm provisional gc-most-requested">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-2">
-				<h2>Most requested</h2>
-			</div>
-			<div class="col-md-10">
-				<ul class="colcount-md-2">
-					<li><a href="#">[Top task hyperlink]</a></li>
-					<li><a href="#">[Top task hyperlink]</a></li>
-					<li><a href="#">[Top task hyperlink]</a></li>
-					<li><a href="#">[Top task hyperlink]</a></li>
-					<li><a href="#">[Top task hyperlink]</a></li>
-					<li><a href="#">[Top task hyperlink]</a></li>
-					<li><a href="#">[Top task hyperlink]</a></li>
-				</ul>
-			</div>
-		</div>
-	</div>
-</section>
 <div class="container">
 	<section class="gc-srvinfo">
 		<h2 class="wb-inv">Services and information</h2>
