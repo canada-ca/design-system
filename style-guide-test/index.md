@@ -3,8 +3,8 @@ altLangPage: "https://conception.canada.ca/guide-redaction"
 date: 2023-08-31
 dateModified:  2023-08-31
 description: "These are the rules to create web content that can be easily found, understood and used."
-title: "Canada.ca Content Style Guide"
 layout: without-h1
+title: "Canada.ca Content Style Guide"
 ---
 <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Canada.ca Content Style Guide</span>: <span>Canada.ca design system</span></span></h1>
 <div class="container">
