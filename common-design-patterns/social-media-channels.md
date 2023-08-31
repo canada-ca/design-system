@@ -92,27 +92,27 @@ title: Social media channels design pattern
                         <tr>
                             <td>Facebook</td>
                             <td><p>facebook</p></td>
-                            <td class="text-center"><img src="../images/social-media/facebook.svg" /></td>
+                            <td class="text-center"><img style="max-width:50px;" src="../images/social-media/facebook.svg" /></td>
                         </tr>
                         <tr>
                             <td>Twitter</td>
                             <td><p>twitter</p></td>
-                            <td class="text-center"><img src="../images/social-media/twitter.svg" /></td>
+                            <td class="text-center"><img style="max-width:50px;" src="../images/social-media/twitter.svg" /></td>
                         </tr>
                         <tr>
                             <td>YouTube</td>
                             <td><p>youtube</p></td>
-                            <td class="text-center"><img src="../images/social-media/youtube.svg" /></td>
-                        </tr>
-                        <tr>
-                            <td>LinkedIn</td>
-                            <td><p>linkedin</p></td>
-                            <td class="text-center"><img src="../images/social-media/linkedin.svg" /></td>
+                            <td class="text-center"><img style="max-width:50px;" src="../images/social-media/youtube.svg" /></td>
                         </tr>
                         <tr>
                             <td>Instagram</td>
                             <td>instagram</td>
-                            <td class="text-center"><img src="../images/social-media/instagram.svg" /></td>
+                            <td class="text-center"><img style="max-width:50px;" src="../images/social-media/instagram.svg" /></td>
+                        </tr>
+                        <tr>
+                            <td>LinkedIn</td>
+                            <td><p>linkedin</p></td>
+                            <td class="text-center"><img style="max-width:50px;" src="../images/social-media/linkedin.svg" /></td>
                         </tr>
                     </tbody>
                 </table>
