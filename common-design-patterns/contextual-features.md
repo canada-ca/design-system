@@ -75,25 +75,29 @@ title: Context-specific features
                 <li>Image should appear first, followed by hyperlinked title and then description</li>
                 <li>Image dimensions are 360px x 203px</li>
                 <li>News items is coded as an unstyled list</li>
-                <li>Enclose the feature within a grey container:</li>
+                <li>
+                    Enclose the feature within a grey container:
+                    <ul>
+                        <li>background colour: #f5f5f5</li>
+                        <li>border: 1px solid #e3e3e3</li>
+                        <li>border radius: 4px</li>
+                        <li>bottom margin: 20px</li>
+                        <li>
+                            box shadow:
+                            <ul>
+                                <li>blur radius: 1px</li>
+                                <li>colour: black with 5% opacity</li>
+                                <li>offset x: 0</li>
+                                <li>offset y: 1px</li>
+                                <li>type: inset</li>
+                            </ul>
+                        </li>
+                        <li>minimum height: 20px</li>
+                        <li>padding: 19px</li>
+                    </ul>
+                </li>
             </ul>
         </li>
-        <li>background colour: #f5f5f5</li>
-        <li>border: 1px solid #e3e3e3</li>
-        <li>border radius: 4px</li>
-        <li>bottom margin: 20px</li>
-        <li>
-            box shadow:
-            <ul>
-                <li>blur radius: 1px</li>
-                <li>colour: black with 5% opacity</li>
-                <li>offset x: 0</li>
-                <li>offset y: 1px</li>
-                <li>type: inset</li>
-            </ul>
-        </li>
-        <li>minimum height: 20px</li>
-        <li>padding: 19px</li>
     </ul>
     <li>
         Layout for single features:
