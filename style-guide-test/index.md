@@ -26,8 +26,8 @@ title: "Canada.ca Content Style Guide"
 				<p>Canada.ca Content Style Guide on one HTML page</p>
       </div>
 			<div class="col-md-4">
-				<h3><a href="#">[Subtopic hyperlink text]</a></h3>
-				<p>Summary of the information or tasks that can be accomplished on the sub-topic page. Remove prose or promotional messaging. Use action verbs.</p>
+				<h3><a href="#">Introduction</a></h3>
+				<p>Purpose, use, summary of changes, and related policies, standards and procedures</p>
 			</div>
 			<div class="col-md-4">
 				<h3><a href="#">[Subtopic hyperlink text]</a></h3>
