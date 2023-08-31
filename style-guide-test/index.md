@@ -6,6 +6,7 @@ description: "These are the rules to create web content that can be easily found
 title: "Canada.ca Content Style Guide"
 layout: without-h1
 ---
+<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Canada.ca Content Style Guide</span>: <span>Canada.ca design system</span></span></h1>
 <div class="container">
 	<div class="row">
 		<div class="col-md-6">
