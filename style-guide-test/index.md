@@ -6,11 +6,10 @@ description: "These are the rules to create web content that can be easily found
 layout: without-h1
 title: "Canada.ca Content Style Guide"
 ---
-<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Canada.ca Content Style Guide</span>: <span>Canada.ca design system</span></span></h1>
 <div class="container">
 	<div class="row">
 		<div class="col-md-6">
-			<h1 property="name" id="wb-cont">Canada.ca Content Style Guide</h1>
+			<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Canada.ca Content Style Guide</span>: <span>Canada.ca design system</span></span></h1>
 			<p>These are the rules to create web content that can be easily found, understood and used. They are based on writing principles and techniques that help make web content clear and adapted to the needs of all people. Use the style guide with the <cite>Canada.ca Content and Information Specification</cite> when you're designing and organizing web content.</p>
 		</div>
 		<div class="col-md-6 mrgn-tp-sm hidden-sm hidden-xs provisional gc-topic-bg">
