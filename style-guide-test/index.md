@@ -4,12 +4,13 @@ date: 2023-31-23
 dateModified:  2023-31-23
 description: "These are the rules to create web content that can be easily found, understood and used."
 title: "Canada.ca Content Style Guide"
+layout: without-h1
 ---
 <div class="container">
 	<div class="row">
 		<div class="col-md-6">
-			<h1 property="name" id="wb-cont">[Theme - Topic title]</h1>
-			<p>1-2 sentences that describe the topics and top tasks that can be accessed on this page.</p>
+			<h1 property="name" id="wb-cont">Canada.ca Content Style Guide</h1>
+			<p>These are the rules to create web content that can be easily found, understood and used. They are based on writing principles and techniques that help make web content clear and adapted to the needs of all people. Use the style guide with the <cite>Canada.ca Content and Information Specification</cite> when you're designing and organizing web content.</p>
 		</div>
 		<div class="col-md-6 mrgn-tp-sm hidden-sm hidden-xs provisional gc-topic-bg">
 			<div data-bgimg="imgages/letter.png"></div>
