@@ -191,7 +191,7 @@ title: Context-specific features
     <ul>
         <li><a href="">Institutional landing page</a></li>
         <li><a href="">Theme and topic page</a></li>
-        <li><a href="">Ministerial pages</a></li>
+        <li><a href="https://design.canada.ca/mandatory-templates/ministerial-profile-pages">Ministerial pages</a></li>
     </ul>
 </section>
 <section>
