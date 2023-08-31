@@ -92,27 +92,27 @@ title: Social media channels design pattern
                         <tr>
                             <td>Facebook</td>
                             <td><p>facebook</p></td>
-                            <td class="text-center"><img src="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/facebook.svg" /></td>
+                            <td class="text-center"><img src="../images/social-media/facebook.svg" /></td>
                         </tr>
                         <tr>
                             <td>Twitter</td>
                             <td><p>twitter</p></td>
-                            <td class="text-center"><img src="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/twitter.svg" /></td>
+                            <td class="text-center"><img src="../images/social-media/twitter.svg" /></td>
                         </tr>
                         <tr>
                             <td>YouTube</td>
                             <td><p>youtube</p></td>
-                            <td class="text-center"><img src="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/youtube.svg" /></td>
+                            <td class="text-center"><img src="../images/social-media/youtube.svg" /></td>
                         </tr>
                         <tr>
                             <td>LinkedIn</td>
                             <td><p>linkedin</p></td>
-                            <td class="text-center"><img src="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/linkedin.svg" /></td>
+                            <td class="text-center"><img src="../images/social-media/linkedin.svg" /></td>
                         </tr>
                         <tr>
                             <td>Instagram</td>
                             <td>instagram</td>
-                            <td class="text-center"><img src="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/instagram.svg" /></td>
+                            <td class="text-center"><img src="../images/social-media/instagram.svg" /></td>
                         </tr>
                     </tbody>
                 </table>
