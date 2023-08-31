@@ -7,7 +7,7 @@ title: Social media channels design pattern
 ---
 <p><strong>Last updated</strong>: {{ page.dateModified }}</p>
 <p>The social media channels pattern provides links to official Government of Canada (GC) social media accounts.</p>
-<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/social-media-vertical-en.png" class="img-responsive" alt="" /></div>
+<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/social-media-vertical-mask-en.png" class="img-responsive" alt="" /></div>
 <section>
     <h2>On this page</h2>
     <ul>
@@ -124,7 +124,7 @@ title: Social media channels design pattern
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
             <figcaption><b>Social media channels (vertical view with labels) - large screen</b></figcaption>
-            <img src="../images/social-media-vertical-en.png" class="img-responsive" alt="Social media channels (vertical view with labels) for large screens. Text version below:" />
+            <img src="../images/social-media-vertical-mask-en.png" class="img-responsive" alt="Social media channels (vertical view with labels) for large screens. Text version below:" />
             <details>
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
                 <p>Social media channel links appear in a section with the heading “On social media”. Below the heading is a vertical list with associated icons and labels:</p>
@@ -141,7 +141,7 @@ title: Social media channels design pattern
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
             <figcaption><b>Social media channels (horizontal view) - large screen</b></figcaption>
-            <img src="../images/social-media-horizontal-en.png" class="img-responsive" alt="Social media channels (horizontal view) for large screens. Text version below:" />
+            <img src="../images/social-media-horizontal-mask-en.png" class="img-responsive" alt="Social media channels (horizontal view) for large screens. Text version below:" />
             <details>
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
                 <p>Social media channel links appear in a section with the heading “On social media”. Below the heading is a horizontal list with associated icons, but without labels:</p>
