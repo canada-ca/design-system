@@ -85,18 +85,20 @@ title: Minister or institutional head pattern
         <li>
             Optional links
             <ul>
-                <li>Text uses standard Canada.ca styles</li>
-                <li></li>
-                <li><a href="https://design.canada.ca/styles/typography.html">Typography</a></li>
-                <li></li>
-                <li><a href="https://design.canada.ca/styles/colours.html">Colours</a></li>
-                <li></li>
-            </ul>
-        </li>
-        <li>
-            Use a list
-            <ul>
-                <li>Has a small class which is 87% of the standard body size</li>
+                <li>
+                    Text uses standard Canada.ca styles
+                    <ul>
+                        <li><a href="https://design.canada.ca/styles/typography.html">Typography</a></li>
+                        <li></li>
+                        <li><a href="https://design.canada.ca/styles/colours.html">Colours</a></li>
+                    </ul>
+                </li>
+                <li>
+                    Use a list
+                    <ul>
+                        <li>Has a small class which is 87% of the standard body size</li>
+                    </ul>
+                </li>
             </ul>
         </li>
         <li>Images: 200px by 250px</li>
