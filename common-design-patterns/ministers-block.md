@@ -194,9 +194,7 @@ title: Minister or institutional head pattern
 <section>
     <h2 id="research">Research and rationale</h2>
     <p>Consult policy rationale.</p>
-
     <h3>Policy rationale</h3>
-
     <p>The Minister or institutional head pattern is required on the following mandatory templates:</p>
     <ul>
         <li><a href="">Institutional landing page</a></li>
@@ -211,5 +209,3 @@ title: Minister or institutional head pattern
         <dd>Added guidance to support updates to the Institutional landing page</dd>
     </dl>
 </section>
-
-
