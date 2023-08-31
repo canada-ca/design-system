@@ -12,7 +12,7 @@ title: "Canada.ca Content Style Guide"
 			<p>1-2 sentences that describe the topics and top tasks that can be accessed on this page.</p>
 		</div>
 		<div class="col-md-6 mrgn-tp-sm hidden-sm hidden-xs provisional gc-topic-bg">
-			<div data-bgimg="img/825x200.jpg"></div>
+			<div data-bgimg="imgages/letter.png"></div>
 		</div>
 	</div>
 </div>
