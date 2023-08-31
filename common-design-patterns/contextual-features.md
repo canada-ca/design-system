@@ -98,23 +98,23 @@ title: Context-specific features
                 </li>
             </ul>
         </li>
+        <li>
+            Layout for single features:
+            <ul>
+                <li>Place the image on the left, with the hyperlinked title and description to the right of the image</li>
+                <li>Image dimensions are 360px x 203px</li>
+                <li>
+                    Apply a 5px grey border to the image
+                    <ul>
+                        <li>background: #eaebed</li>
+                        <li>border colour: #eee</li>
+                        <li>border radius: 0</li>
+                        <li>padding: 5px</li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
     </ul>
-    <li>
-        Layout for single features:
-        <ul>
-            <li>Place the image on the left, with the hyperlinked title and description to the right of the image</li>
-            <li>Image dimensions are 360px x 203px</li>
-            <li>
-                Apply a 5px grey border to the image
-                <ul>
-                    <li>background: #eaebed</li>
-                    <li>border colour: #eee</li>
-                    <li>border radius: 0</li>
-                    <li>padding: 5px</li>
-                </ul>
-            </li>
-        </ul>
-    </li>
     <h3>Visual examples</h3>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
