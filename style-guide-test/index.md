@@ -17,21 +17,14 @@ title: "Canada.ca Content Style Guide"
 		</div>
 	</div>
 </div>
-<div class="container">
+<div class="container mrgn-tp-lg">
 	<section class="gc-srvinfo">
-		<h2 class="wb-inv">Services and information</h2>
+		<h2 class="wb-inv">Canada.ca Content Style Guide sections</h2>
 		<div class="row wb-eqht-grd">
 			<div class="col-md-4">
-				<h3><a href="#">[Subtopic hyperlink text with action]</a></h3>
-				<p>Summary of the information or tasks that can be accomplished on the sub-topic page. Use the following drop down to navigate to a relevant page.</p>
-				<div class="wb-fieldflow" data-wb-fieldflow='{"inline": true, "defaultselectedlabel": false, "i18n": { "btn": "Go"} }'>
-					<p>[Navigate to a relevant page]</p>
-					<ul>
-						<li><a href="../service-en.html">Service page</a></li>
-						<li><a href="../institutional/institution-en.html">Institutional page</a></li>
-						<li><a href="../content-en.html">Content page</a></li>
-					</ul>
-				</div>
+				<h3><a href="{{ site.url }}/style-guide/">Full document view</a></h3>
+				<p>Veiw entire Canada.ca Content Style Guide on one HTML page.</p>
+      </div>
 			</div>
 			<div class="col-md-4">
 				<h3><a href="#">[Subtopic hyperlink text]</a></h3>
