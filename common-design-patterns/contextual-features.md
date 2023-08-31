@@ -133,7 +133,7 @@ title: Context-specific features
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
             <figcaption><b>Context-specific features - small screen </b></figcaption>
-            <img src="../images/contextual-features-en-sm.png" class="img-responsive" alt="Context-specific features for small screen. Text version below:" />
+            <img src="../images/contextual-features-sm-en.png" class="img-responsive" alt="Context-specific features for small screen. Text version below:" />
             <details>
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
                 <p>
