@@ -128,4 +128,15 @@
       </div>
     </section>
   </section>
+<section>
+  <h3 id="wp7-5">7.5 Linking to internal-to-government content</h3>
+  <p>In most cases, public-facing content should not link to content that is accessible only through internal government networks. Occasionally, the audience for content that is accessible to the public may be primarily internal. </p>
+  <p>When a link leads to content available only on internal government networks, write "(accessible only on the Government of Canada network)."</p>
+  <!--UPDATE LATER-->
+  <div class="well panel"> 
+    <!--UPDATE LATER-->
+    <p><a href="{{ site.urlconception }}/guide-redaction/#wp7-5" aria-label="See how the rule for non-government content applies to content in French">See how this rule applies to content in French</a></p>
+    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20including%20links%20to%20internal-to-government%20content%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp7-5" aria-label="Share the rule for internal-to-government content by email">Share this rule by email</a></p>
+  </div>
+</section>
 </section>
