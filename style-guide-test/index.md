@@ -25,7 +25,6 @@ title: "Canada.ca Content Style Guide"
 				<h3><a href="{{ site.url }}/style-guide/">Full document view</a></h3>
 				<p>Veiw entire Canada.ca Content Style Guide on one HTML page.</p>
       </div>
-			</div>
 			<div class="col-md-4">
 				<h3><a href="#">[Subtopic hyperlink text]</a></h3>
 				<p>Summary of the information or tasks that can be accomplished on the sub-topic page. Remove prose or promotional messaging. Use action verbs.</p>
