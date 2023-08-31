@@ -89,7 +89,6 @@ title: Minister or institutional head pattern
                     Text uses standard Canada.ca styles
                     <ul>
                         <li><a href="https://design.canada.ca/styles/typography.html">Typography</a></li>
-                        <li></li>
                         <li><a href="https://design.canada.ca/styles/colours.html">Colours</a></li>
                     </ul>
                 </li>
