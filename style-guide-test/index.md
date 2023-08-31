@@ -22,7 +22,7 @@ title: "Canada.ca Content Style Guide"
 		<h2 class="wb-inv">Canada.ca Content Style Guide sections</h2>
 		<div class="row wb-eqht-grd">
 			<div class="col-md-4">
-				<h3><a href="{{ site.url }}/style-guide/">Full document</a></h3>
+				<h3><a href="{{ site.url }}/style-guide/">Full Guide (all sections)</a></h3>
 				<p>Canada.ca Content Style Guide on one HTML page</p>
       </div>
 			<div class="col-md-4">
