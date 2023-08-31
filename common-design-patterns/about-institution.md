@@ -163,7 +163,6 @@ title: About the institution
     <p>The implementation reference includes how to configure elements of the design system.</p>
     <ul>
         <li><a href="">GCWeb (WET) Institutional landing page</a></li>
-        <li></li>
         <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-en.html">Quick implementation guide - GCWeb theme</a></li>
     </ul>
     <h3>Implementations</h3>
