@@ -48,9 +48,9 @@ title: "Contact information design pattern"
       <li>
         <details>
           <summary class="bg-info">
-            <div class="row">
-              <div class="col-md-7">4.10 Addresses</div>
-              <div class="text-right col-md-5 small">Content Style Guide</div>
+            <div class="row mrgn-tp-0 mrgn-bttm-0">
+              <div class="col-md-7 mrgn-tp-0 mrgn-bttm-0">4.10 Addresses</div>
+              <div class="text-right col-md-5 small mrgn-tp-0 mrgn-bttm-0">Content Style Guide</div>
             </div>
           </summary>
           <div class="mrgn-tp-lg"> 
