@@ -27,7 +27,7 @@ title: "Contact information design pattern"
   <section>
     <div class="pull-right co-md-6"> 
       <!-- 4.0 Style START id="toc8" --> 
-      {% include style-guide/09-toc8.html %} 
+      {% include style-guide/09-toc8.html#wp4-10 %} 
       <!-- 4.0 Style END --> 
     </div>
     <h2>How to use this pattern </h2>
