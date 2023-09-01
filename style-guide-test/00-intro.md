@@ -26,4 +26,4 @@ title: "Introduction"
 <!-- Use of the style guide END --> 
 <!-- Related policies, standards and procedures START id="toc4" --> 
 {% include style-guide/05-toc4.html %} 
-<!-- Related policies, standards and procedures of changes END --> 
+<!-- Related policies, standards and procedures of changes END -->
