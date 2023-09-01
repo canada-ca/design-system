@@ -9,7 +9,7 @@ breadcrumbs:
     link: "./style-guide-test/"    
 date: 2023-08-31
 dateModified:  2023-08-31
-description: "7.0 Links"
+description: "Use links and anchors strategically and effectively"
 layout: without-h1
 title: "7.0 Links"
 ---
