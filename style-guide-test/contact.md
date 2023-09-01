@@ -25,7 +25,7 @@ title: "Formats"
     </ul>
   </section>
   <section>
-    <div class="pull-right co-md-4">
+    <div class="pull-right co-md-5">
       <p>Hi!</p>
     </div>
     <h2>How to use this pattern </h2>
