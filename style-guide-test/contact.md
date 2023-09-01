@@ -25,11 +25,12 @@ title: "Contact information design pattern"
     </ul>
   </section>
   <section>
-    <h2>How to use this pattern </h2>
+    <h2>How to use this pattern</h2>
+        <h3>Content Style Guide</h3>
     <ul class="list-unstyled mrgn-tp-lg">
       <li>
         <details>
-          <summary class="bg-info">Check the Style Guide - 4.10 Addresses</summary>
+          <summary class="bg-info">4.10 Addresses</summary>
           <div class="mrgn-tp-lg"> 
             <!-- 4.0 Style START id="toc8" --> 
             {% include style-guide/09-toc8-wp4-10.html %} 
