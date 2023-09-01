@@ -14,9 +14,6 @@ layout: without-h1
 title: "Introduction"
 ---
 <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Introduction</span>: <span>Canada.ca Content Style Guide</span></span></h1>
-<!-- Intro START id="intro" -->
-{% include style-guide/01-intro.html %} 
-<!-- Intro of changes END --> 
 <!-- Summary of changes START id="toc1" --> 
 {% include style-guide/02-toc1.html %} 
 <!-- Summary of changes END --> 
