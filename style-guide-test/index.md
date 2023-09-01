@@ -61,11 +61,11 @@ title: "Canada.ca Content Style Guide"
         <p>Two case studies - examples of plain language and complex table improvements</p>
       </div>
       <div class="col-md-4">
-        <h3><a href="o9-resources.html">Resources</a></h3>
+        <h3><a href="09-resources.html">Resources</a></h3>
         <p>Sources used to create the Content Style Guide</p>
       </div>
       <div class="col-md-4">
-        <h3><a href="formats.html">Formats</a></h3>
+        <h3><a href="10-formats.html">Formats</a></h3>
         <p>Avaialable in open source formats - HTML, PDF, and EPUB</p>
       </div>
     </div>
