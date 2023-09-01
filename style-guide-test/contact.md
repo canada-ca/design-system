@@ -47,7 +47,12 @@ title: "Contact information design pattern"
     <ul class="list-unstyled mrgn-tp-lg">
       <li>
         <details>
-          <summary class="bg-info"><div class="text-left">4.10 Addresses</div><div class="text-right small">Content Style Guide</div></summary>
+          <summary class="bg-info">
+            <div class="row">
+              <div class="col-md-7">4.10 Addresses</div>
+              <div class="text-right col-md-5 small">Content Style Guide</div>
+            </div>
+          </summary>
           <div class="mrgn-tp-lg"> 
             <!-- 4.0 Style START id="toc8" --> 
             {% include style-guide/09-toc8-wp4-10.html %} 
