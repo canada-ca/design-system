@@ -9,7 +9,11 @@ breadcrumbs:
     link: "./style-guide-test/"    
 date: 2023-08-31
 dateModified:  2023-08-31
-description: "1.0 Writing principles of the Canada.ca Content Style Guide"
+description: "Keep style and punctuation simple"
 layout: without-h1
-title: "1.0 Writing principles"
+title: "4.0 Style"
 ---
+<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>4.0 Style</span>: <span>Canada.ca Content Style Guide</span></span></h1>
+<!-- 4.0 Style START id="toc8" --> 
+{% include style-guide/09-toc8.html %} 
+<!-- 4.0 Style END --> 
