@@ -13,6 +13,7 @@ description: "7.0 Links"
 layout: without-h1
 title: "7.0 Links"
 ---
+<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>7.0 Links</span>: <span>Canada.ca Content Style Guide</span></span></h1>
 <!-- 7.0 Links START id="toc11" --> 
 {% include style-guide/12-toc11.html %} 
 <!-- 7.0 Links END --> 
