@@ -29,7 +29,7 @@ title: "Contact information design pattern"
     <ul class="list-unstyled">
       <li>
         <details>
-          <summary>Check the Style Guide - 4.10 Addresses</summary>
+          <summary class="bg-info">Check the Style Guide - 4.10 Addresses</summary>
           <div class="mrgn-tp-lg small"> 
             <!-- 4.0 Style START id="toc8" --> 
             {% include style-guide/09-toc8-wp4-10.html %} 
@@ -38,7 +38,7 @@ title: "Contact information design pattern"
         </details>
       </li>
     </ul>
-    <ul>
+    <ul class="mrgn-tp-lg">
       <li>The heading is “Contact us”</li>
       <li>Do not add borders to this block
         <ul>
