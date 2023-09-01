@@ -11,8 +11,9 @@ date: 2023-08-31
 dateModified:  2023-08-31
 description: "Write with the proper tone"
 layout: without-h1
-title: "1.0 Writing principles"
+title: "3.0 Tone"
 ---
+<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>3.0 Tone</span>: <span>Canada.ca Content Style Guide</span></span></h1>
 <!-- 3.0 Tone START id="toc7" --> 
 {% include style-guide/08-toc7.html %} 
 <!-- 3.0 Tone END --> 
