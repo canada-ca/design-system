@@ -14,4 +14,4 @@ layout: without-h1
 title: "Introduction"
 ---
 <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Introduction</span>: <span>Canada.ca Content Style Guide</span></span></h1>
-{% include_relative /style-guide/01-intro.html %} 
+
