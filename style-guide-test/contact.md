@@ -48,7 +48,7 @@ title: "Contact information design pattern"
       <li> For the contact address pattern:
         <ul>
           <li>when street or mailing address information is available, place it first, followed by other contact channels </li>
-          <li>follow the <a href="https://design.canada.ca/style-guide/">Canada.ca Content Style Guide</a> when writing text for this block</li>
+          <li>follow the Canada.ca Content Style Guide when writing text for this block</li>
           <li>label telephone, email, TTY, etc., numbers appropriately, for example “Telephone:” for a telephone number</li>
           <li>where possible, the email link must point to a web form rather than presenting a mailto link</li>
         </ul>
