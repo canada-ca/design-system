@@ -25,6 +25,7 @@ title: "Contact information design pattern"
     </ul>
   </section>
   <section>
+    <h2>How to use this pattern </h2>
     <ul class="list-unstyled">
       <li>
         <details>
@@ -37,7 +38,6 @@ title: "Contact information design pattern"
         </details>
       </li>
     </ul>
-    <h2>How to use this pattern </h2>
     <ul>
       <li>The heading is “Contact us”</li>
       <li>Do not add borders to this block
