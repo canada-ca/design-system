@@ -14,7 +14,7 @@ layout: without-h1
 title: "Formats"
 ---
 <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Contact information design pattern</span>: <span>Canada.ca design system</span></span></h1>
-<p class="gc-byline"> <strong> From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html"> Treasury Board of Canada Secretariat </a> </strong> </p>
+<p class="gc-byline"><strong>From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html"> Treasury Board of Canada Secretariat</a></strong></p>
 <section>
   <p>There  are 2 patterns for presenting contact information on Canada.ca pages. The contact information pattern is a standardized block that presents the street or mailing address, email address and telephone numbers, while the contact links pattern presents links to contact pages.</p>
   <section>
@@ -25,8 +25,10 @@ title: "Formats"
     </ul>
   </section>
   <section>
-    <div class="pull-right co-md-6">
-      <p>Hi!</p>
+    <div class="pull-right co-md-6"> 
+      <!-- 4.0 Style START id="toc8" --> 
+      {% include style-guide/09-toc8.html#wp4-10 %} 
+      <!-- 4.0 Style END --> 
     </div>
     <h2>How to use this pattern </h2>
     <ul>
