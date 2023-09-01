@@ -26,7 +26,7 @@ title: "Contact information design pattern"
   </section>
   <section>
     <h2>How to use this pattern </h2>
-    <ul class="list-unstyled">
+    <ul class="list-unstyled mrgn-tp-lg">
       <li>
         <details>
           <summary class="bg-info">Check the Style Guide - 4.10 Addresses</summary>
