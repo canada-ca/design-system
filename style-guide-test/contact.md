@@ -9,9 +9,9 @@ breadcrumbs:
     link: "https://design.canada.ca/pattern-library.html"    
 date: 2023-08-31
 dateModified:  2023-08-31
-description: "Avaialable in open source formats - HTML, PDF, and EPUB"
+description: "The contact information pattern is a standardized block that presents the street or mailing address, email address and telephone numbers, while the contact links pattern presents links to contact pages."
 layout: without-h1
-title: "Formats"
+title: "Contact information design pattern"
 ---
 <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Contact information design pattern</span>: <span>Canada.ca design system</span></span></h1>
 <p class="gc-byline"><strong>From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html"> Treasury Board of Canada Secretariat</a></strong></p>
