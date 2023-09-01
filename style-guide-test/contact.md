@@ -48,7 +48,7 @@ title: "Contact information design pattern"
       <li>
         <details>
           <summary class="bg-info">4.10 Addresses
-            <div class="pull-right text-right col-md-5 small mrgn-tp-sm mrgn-bttm-md">Content Style Guide</div>
+            <div class="pull-right text-right col-md-5 small mrgn-tp-0 mrgn-bttm-md">Content Style Guide</div>
           </summary>
           <div class="mrgn-tp-lg"> 
             <!-- 4.0 Style START id="toc8" --> 
