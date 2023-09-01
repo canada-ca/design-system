@@ -30,7 +30,7 @@ title: "Contact information design pattern"
       <li>
         <details>
           <summary class="bg-info">Check the Style Guide - 4.10 Addresses</summary>
-          <div class="mrgn-tp-lg small"> 
+          <div class="mrgn-tp-lg"> 
             <!-- 4.0 Style START id="toc8" --> 
             {% include style-guide/09-toc8-wp4-10.html %} 
             <!-- 4.0 Style END --> 
