@@ -6,10 +6,10 @@ description: "These are the rules to create web content that can be easily found
 title: "Canada.ca Content Style Guide"
 ---
 <!-- Intro START id="intro" -->
-{% include style-guide/01-intro.html %} 
+{% include /style-guide/01-intro.html %} 
 <!-- Intro of changes END --> 
 <!-- Summary of changes START id="toc1" --> 
-{% include style-guide/02-toc1.html %} 
+{% include /style-guide/02-toc1.html %} 
 <!-- Summary of changes END --> 
 <!-- Purpose START id="toc2" --> 
 {% include style-guide/03-toc2.html %} 
@@ -30,7 +30,7 @@ title: "Canada.ca Content Style Guide"
 {% include style-guide/08-toc7.html %} 
 <!-- 3.0 Tone END --> 
 <!-- 4.0 Style START id="toc8" --> 
-{% include_relative html/09-toc8.html %} 
+{% include style-guide/09-toc8.html %} 
 <!-- 4.0 Style END --> 
 <!-- 5.0 Content structure START id="toc9" --> 
 {% include style-guide/10-toc9.html %} 
