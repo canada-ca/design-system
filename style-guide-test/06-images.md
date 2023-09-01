@@ -9,7 +9,7 @@ breadcrumbs:
     link: "./style-guide-test/"    
 date: 2023-08-31
 dateModified:  2023-08-31
-description: "6.0 Images and videos"
+description: "Present images and videos strategically and effectively"
 layout: without-h1
 title: "6.0 Images and videos"
 ---
