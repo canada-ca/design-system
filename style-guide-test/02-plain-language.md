@@ -9,11 +9,11 @@ breadcrumbs:
     link: "./style-guide-test/"    
 date: 2023-08-31
 dateModified:  2023-08-31
-description: "1.0 Writing principles of the Canada.ca Content Style Guide"
+description: "Write in plain language"
 layout: without-h1
-title: "1.0 Writing principles"
+title: "2.0 Plain language"
 ---
-<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>1.0 Writing principles</span>: <span>Canada.ca Content Style Guide</span></span></h1>
-<!-- Related policies, standards and procedures of changes END --> 
-<!-- 1.0 Writing principles for web content START id="toc5" --> 
-{% include style-guide/06-toc5.html %} 
+<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>2.0 Plain language</span>: <span>Canada.ca Content Style Guide</span></span></h1>
+<!-- 2.0 Plain language START id="toc6" --> 
+{% include style-guide/07-toc6.html %} 
+<!-- 2.0 Plain language END --> 
