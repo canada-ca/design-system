@@ -1,5 +1,10 @@
 ---
 altLangPage: "https://conception.canada.ca/guide-redaction"
+breadcrumbs:
+  - title: About Canada.ca
+    link: "https://www.canada.ca/en/government/about.html"
+  - title: Canada.ca design system
+    link: "https://www.canada.ca/en/government/about/design-system.html"
 date: 2023-08-31
 dateModified:  2023-08-31
 description: "These are the rules to create web content that can be easily found, understood and used."
