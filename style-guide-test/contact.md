@@ -26,7 +26,24 @@ title: "Contact information design pattern"
   </section>
   <section>
     <h2>How to use this pattern</h2>
-        <h3>Content Style Guide</h3>
+    <ul class="mrgn-tp-lg">
+      <li>The heading is “Contact us”</li>
+      <li>Do not add borders to this block
+        <ul>
+          <li>the aim is to reduce visual noise and avoid “banner blindness” (where people automatically interpret content in boxes as ads)</li>
+        </ul>
+      </li>
+    </ul>
+    <ul class="mrgn-tp-lg">
+      <li>For the contact address pattern:
+        <ul>
+          <li>when street or mailing address information is available, place it first, followed by other contact channels </li>
+          <li>follow the Canada.ca Content Style Guide when writing text for this block</li>
+          <li>label telephone, email, TTY, etc., numbers appropriately, for example “Telephone:” for a telephone number</li>
+          <li>where possible, the email link must point to a web form rather than presenting a mailto link</li>
+        </ul>
+      </li>
+    </ul>
     <ul class="list-unstyled mrgn-tp-lg">
       <li>
         <details>
@@ -40,20 +57,6 @@ title: "Contact information design pattern"
       </li>
     </ul>
     <ul class="mrgn-tp-lg">
-      <li>The heading is “Contact us”</li>
-      <li>Do not add borders to this block
-        <ul>
-          <li>the aim is to reduce visual noise and avoid “banner blindness” (where people automatically interpret content in boxes as ads)</li>
-        </ul>
-      </li>
-      <li> For the contact address pattern:
-        <ul>
-          <li>when street or mailing address information is available, place it first, followed by other contact channels </li>
-          <li>follow the Canada.ca Content Style Guide when writing text for this block</li>
-          <li>label telephone, email, TTY, etc., numbers appropriately, for example “Telephone:” for a telephone number</li>
-          <li>where possible, the email link must point to a web form rather than presenting a mailto link</li>
-        </ul>
-      </li>
       <li>For the contact links pattern:
         <ul>
           <li>use standard link styles </li>
