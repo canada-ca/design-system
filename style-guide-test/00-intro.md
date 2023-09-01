@@ -14,6 +14,7 @@ layout: without-h1
 title: "Introduction"
 ---
 <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Introduction</span>: <span>Canada.ca Content Style Guide</span></span></h1>
+<p>The Purpose, use, summary of changes, and related policies, and standards and procedures of the Canada.ca Content Style Guide.</p>
 <!-- Summary of changes START id="toc1" --> 
 {% include style-guide/02-toc1.html %} 
 <!-- Summary of changes END --> 
