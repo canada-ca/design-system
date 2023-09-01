@@ -9,7 +9,7 @@ breadcrumbs:
     link: "./style-guide-test/"    
 date: 2023-08-31
 dateModified:  2023-08-31
-description: "1.0 Writing principles of the Canada.ca Content Style Guide"
+description: "Rules that reflect how people read and use web content"
 layout: without-h1
 title: "1.0 Writing principles"
 ---
