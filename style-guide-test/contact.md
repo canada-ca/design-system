@@ -25,11 +25,18 @@ title: "Contact information design pattern"
     </ul>
   </section>
   <section>
-    <div class="pull-right co-md-4"> 
-      <!-- 4.0 Style START id="toc8" --> 
-      {% include style-guide/09-toc8-wp4-10.html %} 
-      <!-- 4.0 Style END --> 
-    </div>
+    <ul class="list-unstyled">
+      <li>
+        <details>
+          <summary>Check the Style Guide - 4.10 Addresses</summary>
+          <div class="mrgn-tp-lg"> 
+            <!-- 4.0 Style START id="toc8" --> 
+            {% include style-guide/09-toc8-wp4-10.html %} 
+            <!-- 4.0 Style END --> 
+          </div>
+        </details>
+      </li>
+    </ul>
     <h2>How to use this pattern </h2>
     <ul>
       <li>The heading is “Contact us”</li>
