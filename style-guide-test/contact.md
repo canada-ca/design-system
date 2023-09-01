@@ -25,27 +25,30 @@ title: "Formats"
     </ul>
   </section>
   <section>
-    <h2> How to use this pattern </h2>
+    <div class="pull-right co-md-4">
+      <p>Hi!</p>
+    </div>
+    <h2>How to use this pattern </h2>
     <ul>
-      <li> The heading is “Contact us” </li>
-      <li> Do not add borders to this block
+      <li>The heading is “Contact us”</li>
+      <li>Do not add borders to this block
         <ul>
-          <li> the aim is to reduce visual noise and avoid “banner blindness” (where people automatically interpret content in boxes as ads) </li>
+          <li>the aim is to reduce visual noise and avoid “banner blindness” (where people automatically interpret content in boxes as ads)</li>
         </ul>
       </li>
       <li> For the contact address pattern:
         <ul>
           <li>when street or mailing address information is available, place it first, followed by other contact channels </li>
-          <li>follow the <a href="https://design.canada.ca/style-guide/">Canada.ca Content Style Guide</a> when writing text for this block </li>
-          <li> label telephone, email, TTY, etc., numbers appropriately, for example “Telephone:” for a telephone number </li>
-          <li> where possible, the email link must point to a web form rather than presenting a mailto link </li>
+          <li>follow the <a href="https://design.canada.ca/style-guide/">Canada.ca Content Style Guide</a> when writing text for this block</li>
+          <li>label telephone, email, TTY, etc., numbers appropriately, for example “Telephone:” for a telephone number</li>
+          <li>where possible, the email link must point to a web form rather than presenting a mailto link</li>
         </ul>
       </li>
-      <li> For the contact links pattern:
+      <li>For the contact links pattern:
         <ul>
-          <li> use standard link styles </li>
-          <li> use bullets, not numbered lists </li>
-          <li> links point to contact pages (see the <a href="../recommended-templates/contact-us-pages.html"> Contact us templates </a> section) </li>
+          <li>use standard link styles </li>
+          <li>use bullets, not numbered lists </li>
+          <li>links point to contact pages (see the <a href="../recommended-templates/contact-us-pages.html"> Contact us templates </a> section) </li>
         </ul>
       </li>
     </ul>
