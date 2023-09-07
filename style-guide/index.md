@@ -46,4 +46,4 @@ title: "Canada.ca Content Style Guide"
 <!-- Web content makeovers END --> 
 <!-- Resources START id="toc13" --> 
 {% include style-guide/14-toc13.html %} 
-<!-- Resources END --
+<!-- Resources END --> 
