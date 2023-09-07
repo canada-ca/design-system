@@ -133,8 +133,8 @@ title: Monitoring and measuring task success
 
 <ul>
  <li>
-  <a href="./monitoring/feedback.html">
-   Page feedback pilot - Experimental
+  <a href="https://design.canada.ca/feedback/index.html">
+   Page feedback tool
   </a>
  </li>
  <li>
@@ -162,8 +162,3 @@ title: Monitoring and measuring task success
 <p>
  Over time, programs and policies change and your content will need to change accordingly. With each change comes a new opportunity to research, prototype, and test out solutions before going live.
 </p>
-
-
-
-
-
