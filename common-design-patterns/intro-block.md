@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/X.html"
+altLangPage: "https://conception.canada.ca/configurations-conception-communes/block-introduction.html"
 date: 2023-08-20
 dateModified: 2023-08-20
 description: Guidance about using the introduction block pattern on Canada.ca.
@@ -17,7 +17,6 @@ title: Introduction block
         <li><a href="#implement">How to implement</a></li>
         <li><a href="#research">Research and rationale</a></li>
         <li><a href="#latest">Latest changes</a></li>
-        <li><a href="#discuss">Discussion</a></li>
     </ul>
 </section>
 <section>
