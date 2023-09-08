@@ -16,4 +16,4 @@ title: "Resources"
 <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Resources</span>: <span>Canada.ca Content Style Guide</span></span></h1>
 <!-- Resources START id="toc13" --> 
 {% include style-guide/14-toc13.html %} 
-<!-- Resources END --
+<!-- Resources END -->
