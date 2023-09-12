@@ -1,5 +1,5 @@
 ---
---- 
+---
 {
   "data": [{
     "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/wayfinding-on-canada-ca.html\">Wayfinding on Canada.ca</a>",
@@ -272,7 +272,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"{{ site.url }}/continuous-improvement/monitoring/feedback.html\">Page feedback tool</a>",
+    "NAME": "<a href=\"{{ site.url }}/feedback/index.html\">Page feedback tool</a>",
     "SOURCE": "Continuous improvement",
     "DESCRIPTION": "The feedback tool is an optional pattern to uncover specific page-level issues affecting task performance.",
     "WHENTOUSE": "The feedback tool is an optional pattern to uncover specific page-level issues affecting task performance.",
