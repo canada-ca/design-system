@@ -5,54 +5,58 @@ dateModified:  2023-08-25
 description: "These are the rules to create web content that can be easily found, understood and used."
 title: "Canada.ca Content Style Guide"
 ---
-<p>These are the rules to create web content that can be easily found, understood and used. They are based on writing principles and techniques that help make web content clear and adapted to the needs of all people. Use it with the <a href="{{ site.url }}/architecture/canada-content-information-architecture-specification.html">Content and Information Architecture Specification</a> when you're designing and organizing web content.</p>
-<section>
-  <div class="panel panel-default">
-    <header class="panel-heading">
-      <h2 class="panel-title">Table of contents</h2>
-    </header>
-    <div class="panel-body">
-      <ul>
-        <li><a href="#toc1">Summary of changes</a></li>
-        <li><a href="#toc2">Purpose</a></li>
-        <li><a href="#toc3">Use of the style guide</a></li>
-        <li><a href="#toc4">Related policies, standards and procedures</a></li>
-        <li><a href="#toc5">1.0 Writing principles for web content</a></li>
-        <li><a href="#toc6">2.0 Plain language</a></li>
-        <li><a href="#toc7">3.0 Tone</a></li>
-        <li><a href="#toc8">4.0 Style</a></li>
-        <li><a href="#toc9">5.0 Content structure</a></li>
-        <li><a href="#toc10">6.0 Images and videos</a></li>
-        <li><a href="#toc11">7.0 Links</a></li>
-        <li><a href="#toc12">Web content makeovers</a></li>
-        <li><a href="#toc13">Resources</a></li>
-      </ul>
+<section id="intro">
+  <p>These are the rules to create web content that can be easily found, understood and used. They are based on writing principles and techniques that help make web content clear and adapted to the needs of all people. Use it with the <a href="{{ site.url }}/architecture/canada-content-information-architecture-specification.html">Content and Information Architecture Specification</a> when you're designing and organizing web content.</p>
+  <section id="toc">
+    <div class="row mrgn-tp-lg">
+      <div class="col-md-8">
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <h2 class="mrgn-tp-sm">Table of contents</h2>
+            <ul>
+              <li><a href="#toc1">Summary of changes</a></li>
+              <li><a href="#toc2">Purpose</a></li>
+              <li><a href="#toc3">Use of the style guide</a></li>
+              <li><a href="#toc4">Related policies, standards and procedures</a></li>
+              <li><a href="#toc5">1.0 Writing principles for web content</a></li>
+              <li><a href="#toc6">2.0 Plain language</a></li>
+              <li><a href="#toc7">3.0 Tone</a></li>
+              <li><a href="#toc8">4.0 Style</a></li>
+              <li><a href="#toc9">5.0 Content structure</a></li>
+              <li><a href="#toc10">6.0 Images and videos</a></li>
+              <li><a href="#toc11">7.0 Links</a></li>
+              <li><a href="#toc12">Web content makeovers</a></li>
+              <li><a href="#toc13">Resources</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
     </div>
-  </div>
+  </section>
 </section>
-<section>
-  <h2 id="toc1">Summary of changes</h2>
-  <p>Here are the changes we made to this version of the guide: </p>
+<section id="toc1">
+  <h2>Summary of changes</h2>
+  <p>Here are the changes we made to this version of the guide:</p>
   <ul>
     <li>we’ve added “Writing for inclusivity” to the <a href="#toc5">Writing principles for web content</a> section</li>
   </ul>
   <p>Refer to the listed section for details.</p>
 </section>
-<section>
-  <h2 id="toc2">Purpose</h2>
+<section id="toc2">
+  <h2>Purpose</h2>
   <p>This guide establishes the rules you must use to develop and edit English web content that will be published on a Government of Canada website. The rules are different from practices adapted to print to support principles related to accessibility, readability and usability.</p>
   <p>The purpose of these rules is to make web content easy to find, easy to understand and easy to use for everyone, including people who have physical or cognitive disabilities. </p>
   <p>The techniques described in this guide complement the rules set out in <cite><a href="https://www.btb.termiumplus.gc.ca/tpv2guides/guides/tcdnstyl/index-eng.html?lang=eng">The Canadian Style</a></cite>. If there are conflicts between this guide and <cite>The Canadian Style</cite> or any other resource, this guide takes priority for content published online.</p>
   <p>As web and language trends evolve, we'll update this guide to meet the changing needs of our audiences.</p>
 </section>
-<section>
-  <h2 id="toc3">Use of the style guide</h2>
+<section id="toc3">
+  <h2>Use of the style guide</h2>
   <p>All departments and other portions of the federal public administration subject to the Directive on the Management of Communications must use the Canada.ca  Style Guide. These organizations must follow this style guide's requirements for all public-facing websites and digital services, regardless of the technology, domain name or publishing platform used. This requirement is referenced in Appendix D: Mandatory Procedures for Social Media and Web Communications in the <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=30682">Directive on the Management of Communications</a>.</p>
   <h3>Out-of-scope situations</h3>
   <p>Institutions that fall outside of the Directive on the Management of Communications do not have to follow this style guide. However, all institutions are encouraged to use it for both their internal and external web products. Following this guide's rules and techniques will make it easier for everyone to find, understand and use the government's digital content.</p>
 </section>
-<section>
-  <h2 id="toc4">Related policies, standards and procedures</h2>
+<section id="toc4">
+  <h2>Related policies, standards and procedures</h2>
   <p>Content must comply with: </p>
   <ul>
     <li>templates, content components, character limits and other requirements as described in the <cite><a href="{{ site.url }}/architecture/canada-content-information-architecture-specification.html">Canada.ca Content and Information Architecture Specification</a></cite></li>
@@ -70,31 +74,34 @@ title: "Canada.ca Content Style Guide"
     </li>
   </ul>
 </section>
-<section>
-  <h2 id="toc5">1.0 Writing principles for web content</h2>
-  <div class="panel panel-default">
-    <header class="panel-heading">
-      <h3 class="panel-title">In this section</h3>
-    </header>
-    <div class="panel-body">
-      <ul>
-        <li><a href="#wp1-1">1.1 Help people complete tasks</a></li>
-        <li><a href="#wp1-2">1.2 Consider the needs of the audience</a>
+<section id="toc5"> {% unless page.title == "1.0 Writing principles" %}
+  <h2>1.0 Writing principles for web content</h2>
+  {% endunless %}
+  <div class="row mrgn-tp-lg">
+    <div class="col-md-8">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <h3 class="mrgn-tp-sm">In this section</h3>
           <ul>
-            <li><a href="#wp1-2-1">Writing for accessibility</a></li>
-            <li><a href="#wp1-2-1b">Writing for inclusivity</a></li>
-            <li><a href="#wp1-2-2">Writing for readability</a></li>
-            <li><a href="#wp1-2-3">Writing for specialized audiences</a></li>
-            <li><a href="#wp1-2-4">Consider all screen sizes</a></li>
+            <li><a href="#wp1-1">1.1 Help people complete tasks</a></li>
+            <li><a href="#wp1-2">1.2 Consider the needs of the audience</a>
+              <ul>
+                <li><a href="#wp1-2-1">Writing for accessibility</a></li>
+                <li><a href="#wp1-2-1b">Writing for inclusivity</a></li>
+                <li><a href="#wp1-2-2">Writing for readability</a></li>
+                <li><a href="#wp1-2-3">Writing for specialized audiences</a></li>
+                <li><a href="#wp1-2-4">Consider all screen sizes</a></li>
+              </ul>
+            </li>
+            <li><a href="#wp1-3">1.3 Provide equivalent content in both official languages</a></li>
           </ul>
-        </li>
-        <li><a href="#wp1-3">1.3 Provide equivalent content in both official languages</a></li>
-      </ul>
+        </div>
+      </div>
     </div>
   </div>
-  <p>The rules in this guide reflect how people read and use web content. </p>
-  <section>
-    <h3 id="wp1-1">1.1 Help people complete tasks</h3>
+  <p>The rules in this guide reflect how people read and use web content.</p>
+  <section id="wp1-1">
+    <h3>1.1 Help people complete tasks</h3>
     <p>Most people come to a government website to complete a task and expect us to provide information that will help them. Tasks can be:</p>
     <ul>
       <li>transactional (submit a form or download a report)</li>
@@ -109,21 +116,25 @@ title: "Canada.ca Content Style Guide"
       <li><strong>consistent</strong>: use a standardized approach so that people can scan content quickly and easily with a sense of confidence and trust</li>
     </ul>
   </section>
-  <section>
-    <h3 id="wp1-2">1.2 Consider the needs of the audience</h3>
+  <section id="wp1-2">
+    <h3>1.2 Consider the needs of the audience</h3>
     <p>When planning web content, consider people's needs. Make sure that the content is accessible, clear and adapted to the widest audience.</p>
-    <section>
-      <h4 id="wp1-2-1">Writing for accessibility</h4>
-      <p>Making content accessible means a wide range of people can use it, including people with physical and cognitive disabilities (for example, reading disorders, attention deficit disorders, memory disorders). </p>
+    <section id="wp1-2-1">
+      <h4>Writing for accessibility</h4>
+      <p>Making content accessible means a wide range of people can use it, including people with physical and cognitive disabilities (for example, reading disorders, attention deficit disorders, memory disorders).</p>
       <p>To make your content accessible, consider how assistive technologies work and how some writing practices may impact people's ability to read or understand text. Remember to also refer to the <cite><a href="https://www.w3.org/TR/WCAG/">Web Content Accessibility Guidelines (WCAG) 2.0</a></cite>.</p>
-      <h4 id="wp1-2-1b">Writing for inclusivity</h4>
+    </section>
+    <section id="wp1-2-1b">
+      <h4>Writing for inclusivity</h4>
       <p>Make gender-inclusive writing your standard practice.</p>
       <p>For more guidance on inclusive writing, see the Language Portal of Canada’s guidelines and resources:</p>
       <ul>
         <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/inclusive-writing-guidelines-resources">Inclusive writing for English</a> (only in English)</li>
         <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/ecriture-inclusive-lignes-directrices-ressources">Écriture inclusive – Lignes directrices et ressources, du Bureau de la traduction</a> (only in French)</li>
       </ul>
-      <h4 id="wp1-2-2">Writing for readability</h4>
+    </section>
+    <section id="wp1-2-2">
+      <h4>Writing for readability</h4>
       <p>Readability is the ease with which a person can read and understand a text. Readable content means better task completion and higher client satisfaction. </p>
       <p>To make your content readable, consider your audience's reading level and literacy needs. Not everyone reads at the same level or understands content in the same way. Even when content is presented clearly and simply, people who have low literacy levels and other difficulties can find it hard to understand text. </p>
       <p>According to Statistics Canada (2012) and Canadian literacy organizations, almost 50% of Canadians have literacy challenges. Research shows that people with literacy challenges:</p>
@@ -133,14 +144,18 @@ title: "Canada.ca Content Style Guide"
         <li>skip over large amounts of information when it contains many multi-syllable words, uncommon terms and long sentences </li>
       </ul>
       <p><a>Techniques for improving and measuring readability are in the </a><a href="#toc6">section on plain language</a>.</p>
-      <h4 id="wp1-2-3">Writing for specialized audiences</h4>
+    </section>
+    <section id="wp1-2-3">
+      <h4>Writing for specialized audiences</h4>
       <p>Sometimes, your content targets people who have in-depth knowledge of a subject.</p>
       <p>When writing for a specialized audience, you can use terms they're familiar with, even if those terms aren't familiar to a general audience.&nbsp; Include a summary in plain language for:</p>
       <ul>
         <li>people who aren't familiar with the subject </li>
         <li>specialists who might be scanning the content to decide whether it's relevant to their task</li>
       </ul>
-      <h4 id="wp1-2-4">Consider all screen sizes</h4>
+    </section>
+    <section id="wp1-2-4">
+      <h4>Consider all screen sizes</h4>
       <p>People will view your content on different sizes of screens. Phone and tablet screens display less content than desktop and laptop screens.&nbsp;Readers who use small screens:</p>
       <ul>
         <li>have to go through more steps to access the same amount of information</li>
@@ -148,8 +163,8 @@ title: "Canada.ca Content Style Guide"
       </ul>
     </section>
   </section>
-  <section>
-    <h3 id="wp1-3">1.3 Provide equivalent content in both official languages</h3>
+  <section id="wp1-3">
+    <h3>1.3 Provide equivalent content in both official languages</h3>
     <section class="alert alert-warning">
       <h4 class="h3">Official languages requirements</h4>
       <p>According to the <cite><a href="https://laws-lois.justice.gc.ca/eng/acts/o-3.01/page-1.html">Official Languages Act</a></cite>, you must publish communications and provide services to the public in both official languages.</p>
@@ -167,41 +182,42 @@ title: "Canada.ca Content Style Guide"
     </section>
   </section>
 </section>
-<section>
-  <h2 id="toc6">2.0 Plain language</h2>
-  <div class="panel panel-default">
-    <header class="panel-heading">
-      <h3 class="panel-title">In this section</h3>
-    </header>
-    <div class="panel-body">
-      <ul>
-        <li><a href="#wp2-1">2.1 Start with the most important information</a></li>
-        <li><a href="#wp2-2">2.2 Use simple and common words</a></li>
-        <li><a href="#wp2-3">2.3 Use active voice and positive form</a>
+<section id="toc6"> {% unless page.title == "2.0 Plain language" %}
+  <h2>2.0 Plain language</h2>
+  {% endunless %}
+  <div class="row mrgn-tp-lg">
+    <div class="col-md-8">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <h3 class="mrgn-tp-sm">In this section</h3>
           <ul>
-            <li><a href="#wp2-3-1">Active or passive voice</a></li>
-            <li><a href="#wp2-3-2">Positive or negative form</a></li>
+            <li><a href="#wp2-1">2.1 Start with the most important information</a></li>
+            <li><a href="#wp2-2">2.2 Use simple and common words</a></li>
+            <li><a href="#wp2-3">2.3 Use active voice and positive form</a>
+              <ul>
+                <li><a href="#wp2-3-1">Active or passive voice</a></li>
+                <li><a href="#wp2-3-2">Positive or negative form</a></li>
+              </ul>
+            </li>
+            <li><a href="#wp2-4">2.4 Use verbs instead of nouns formed from verbs</a></li>
+            <li><a href="#wp2-5">2.5 Avoid jargon, idioms and expressions</a></li>
+            <li><a href="#wp2-6">2.6 Use simple sentences</a></li>
+            <li><a href="#wp2-7">2.7 Use short sentences and paragraphs</a></li>
+            <li><a href="#wp2-8">2.8 Explain references to legislation</a></li>
+            <li><a href="#wp2-9">2.9 Check the reading level of the content</a>
+              <ul>
+                <li><a href="#wp2-9-1">Use a readability tool</a></li>
+                <li><a href="#wp2-9-2">Follow the reading level requirements</a></li>
+                <li><a href="#wp2-9-3">Verify whether the content is easy to understand</a></li>
+              </ul>
+            </li>
           </ul>
-        </li>
-        <li><a href="#wp2-4">2.4 Use verbs instead of nouns formed from verbs</a></li>
-        <li><a href="#wp2-5">2.5 Avoid jargon, idioms and expressions</a></li>
-        <li><a href="#wp2-6">2.6 Use simple sentences</a></li>
-        <li><a href="#wp2-7">2.7 Use short sentences and paragraphs</a></li>
-        <li><a href="#wp2-8">2.8 Explain references to legislation</a></li>
-        <li><a href="#wp2-9">2.9 Check the reading level of the content</a>
-          <ul>
-            <li><a href="#wp2-9-1">Use a readability tool</a></li>
-            <li><a href="#wp2-9-2">Follow the reading level requirements</a></li>
-            <li><a href="#wp2-9-3">Verify whether the content is easy to understand</a></li>
-          </ul>
-        </li>
-      </ul>
+        </div>
+      </div>
     </div>
   </div>
-  <section class="alert alert-warning">
-    <h3>Plain language requirements</h3>
-    <p>The use of plain language is a requirement of the <cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682">Directive on the Management of Communications</a></cite>. </p>
-  </section>
+  <h3>Plain language requirements</h3>
+  <p>The use of plain language is a requirement of the <cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682">Directive on the Management of Communications</a></cite>. </p>
   <p>Writing in plain language doesn't mean over-simplifying or leaving out critical information. Using plain language actually makes critical information accessible and readable for everyone.</p>
   <p>By writing plainly and simply, you: </p>
   <ul>
@@ -211,8 +227,8 @@ title: "Canada.ca Content Style Guide"
     <li>save resources when editing and translating your text</li>
     <li>improve task completion and cuts costs by, for example, reducing enquiries</li>
   </ul>
-  <section>
-    <h3 id="wp2-1">2.1 Start with the most important information</h3>
+  <section id="wp2-1">
+    <h3>2.1 Start with the most important information</h3>
     <p>Start your content with the most important information, and be direct. When people scan web pages, they tend to start in the top left hand corner and scan to the right and down. As they move down the page, they scan less and less to the right.</p>
     <p>Organize your content using an inverted pyramid structure to:</p>
     <ul>
@@ -220,7 +236,7 @@ title: "Canada.ca Content Style Guide"
       <li>place supporting and relevant details toward the end of the text </li>
     </ul>
     <figure class="mrgn-bttm-lg">
-      <figcaption class="text-center"> <strong>Figure 1</strong> </figcaption>
+      <figcaption class="text-center"><strong>Figure 1</strong></figcaption>
       <img alt="Pyramid upside down showing how to start a web page with key information first. Text version below:" class="img-responsive center-block" id="fig1" src="./images/csc-grc-fig-01-eng.jpg">
       <details class="brdr-tp brdr-rght brdr-bttm brdr-lft">
         <summary class="wb-toggle" data-toggle="'{&quot;print&quot;:&quot;on&quot;}'"> Figure 1 - Text version </summary>
@@ -251,8 +267,8 @@ title: "Canada.ca Content Style Guide"
         </ul>
       </details>
     </figure>
-    <section>
-      <h4 id="wp2-1-1">Get to the point</h4>
+    <section id="wp2-1-1">
+      <h4>Get to the point</h4>
       <p>Omit background information and messages that welcome people to your program or site. These kinds of messages get in people's way when they're trying to accomplish a task.</p>
       <p>Write direct statements.</p>
       <section>
@@ -267,8 +283,8 @@ title: "Canada.ca Content Style Guide"
       </div>
     </section>
   </section>
-  <section>
-    <h3 id="wp2-2">2.2 Use simple and common words</h3>
+  <section id="wp2-2">
+    <h3>2.2 Use simple and common words</h3>
     <p>Replace long words with short, simple and everyday words that most people understand and use. Simple words have 2 syllables or less. They're easier to scan than long, complex words. </p>
     <section>
       <h4>Example <span class="wb-inv">of simple and common words</span></h4>
@@ -289,15 +305,15 @@ title: "Canada.ca Content Style Guide"
       <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20simple%20and%20common%20words%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp2-2" aria-label="Share the rule for using simple and common words by email">Share this rule by email</a></p>
     </div>
   </section>
-  <section>
-    <h3 id="wp2-3">2.3 Use active voice and positive form</h3>
+  <section id="wp2-3">
+    <h3>2.3 Use active voice and positive form</h3>
     <p>Whenever possible use the:</p>
     <ul>
       <li>active voice instead of the passive voice</li>
       <li>positive form instead of the negative form</li>
     </ul>
-    <section>
-      <h4 id="wp2-3-1">Active or passive voice</h4>
+    <section id="wp2-3-1">
+      <h4>Active or passive voice</h4>
       <p>In an active sentence, the subject does the action. The sentence is clear and direct.</p>
       <p>In a passive sentence, it may not be clear who or what is doing the action. </p>
       <section>
@@ -306,8 +322,8 @@ title: "Canada.ca Content Style Guide"
           <strong>Passive</strong>: You may be asked to provide proof of citizenship.</p>
       </section>
     </section>
-    <section>
-      <h4 id="wp2-3-2">Positive or negative form</h4>
+    <section id="wp2-3-2">
+      <h4>Positive or negative form</h4>
       <p>Whenever possible, tell people what they may or must do instead of what they may not or must not do. Avoid negatives, double negatives and exceptions to exceptions.</p>
       <section>
         <h5>Examples <span class="wb-inv">of positive and negative sentences</span></h5>
@@ -330,8 +346,8 @@ title: "Canada.ca Content Style Guide"
       </div>
     </section>
   </section>
-  <section>
-    <h3 id="wp2-4">2.4 Use verbs instead of nouns formed from verbs</h3>
+  <section id="wp2-4">
+    <h3>2.4 Use verbs instead of nouns formed from verbs</h3>
     <p>Avoid using nouns that are formed from verbs. They can be vague. Verbs alone clearly express the action needed.</p>
     <section>
       <h4 class="h5">Examples <span class="wb-inv">of the use of verbs instead of nouns</span></h4>
@@ -351,8 +367,8 @@ title: "Canada.ca Content Style Guide"
       <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20verbs%20instead%20of%20nouns%20formed%20from%20verbs%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp2-4" aria-label="Share the rule for using verbs instead of nouns formed from verbs by email">Share this rule by email</a></p>
     </div>
   </section>
-  <section>
-    <h3 id="wp2-5">2.5 Avoid jargon, idioms and expressions </h3>
+  <section id="wp2-5">
+    <h3>2.5 Avoid jargon, idioms and expressions </h3>
     <p>Where possible, avoid using jargon, idioms and expressions. Use the clearest, most popular term for your audience.</p>
     <p>Legal and technical terms and "government-speak" confuse most people.</p>
     <p>People who don't speak English or French might use online tools to translate text. These tools don't always translate idioms and expressions accurately. </p>
@@ -389,8 +405,8 @@ title: "Canada.ca Content Style Guide"
     </ul>
     <p>Refer to your analytics to find out which search terms your audience uses to find related content.</p>
   </section>
-  <section>
-    <h3 id="wp2-6">2.6 Use simple sentences</h3>
+  <section id="wp2-6">
+    <h3>2.6 Use simple sentences</h3>
     <p>Keep sentence structure simple by putting the subject and the verb at the beginning of the sentence and by using the subject + verb + object construction. This structure helps the reader understand what the subject of the sentence is doing by placing the subject first, followed by the verb.</p>
     <p>Avoid complex and compound sentences. They generally contain too much information for people to understand when they're scanning.</p>
     <section>
@@ -417,8 +433,8 @@ title: "Canada.ca Content Style Guide"
       <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20simple%20sentences%20on%20Canada.ca:%20https://design.canada.ca//style-guide/#wp2-6" aria-label="Share the rule for using simple sentences by email">Share this rule by email</a></p>
     </div>
   </section>
-  <section>
-    <h3 id="wp2-7">2.7 Use short sentences and paragraphs</h3>
+  <section id="wp2-7">
+    <h3>2.7 Use short sentences and paragraphs</h3>
     <p>Be concise. Use as few words as possible to express an idea. By being concise, you'll help everyone, even specialists, complete the task they set out to do.</p>
     <p>Keep sentences and paragraphs short to make them easier to scan on any screen size. People who have learning disabilities may find it difficult to scan and understand long sentences and paragraphs. </p>
     <p>Try to keep sentences under 20 words. You can do this by:&nbsp; </p>
@@ -446,8 +462,8 @@ title: "Canada.ca Content Style Guide"
       <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20short%20sentences%20and%20paragraphs%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp2-7" aria-label="Share the rule for using short sentences and paragraphs by email">Share this rule by email</a></p>
     </div>
   </section>
-  <section>
-    <h3 id="wp2-8">2.8 Explain references to legislation</h3>
+  <section id="wp2-8">
+    <h3>2.8 Explain references to legislation</h3>
     <p>When explaining a requirement that comes from an act or regulation, avoid mentioning the act or regulation by name. Include only the information people need to complete the task.</p>
     <p>If you <strong>must </strong>include the name of the act or regulation, always give a plain-language description. First, explain what your audience needs to know and why they need to know more about the act or regulation. Then, you may add the reference to the act or regulation.</p>
     <section>
@@ -465,12 +481,12 @@ title: "Canada.ca Content Style Guide"
       <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20explaining%20references%20to%20legislation%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp2-8" aria-label="Share the rule for explaining references to legislation by email">Share this rule by email</a></p>
     </div>
   </section>
-  <section>
-    <h3 id="wp2-9">2.9 Check the reading level of the content</h3>
+  <section id="wp2-9">
+    <h3>2.9 Check the reading level of the content</h3>
     <p>Check the reading level of your text. Make sure that it meets the reading level you're targeting based on the literacy needs of your audience. Do this every so often while you're writing content. You can use various tools to do this. </p>
     <p>Readability tools help you check if content is too wordy or complex. Writing content at a reading level above grade 8 can make it difficult for many people to understand or complete their task. </p>
-    <section>
-      <h4 id="wp2-9-1">Use a readability tool</h4>
+    <section id="wp2-9-1">
+      <h4>Use a readability tool</h4>
       <p>You can use a readability tool like Flesch-Kincaid to check the reading level of your English content. This tool is available as part of Microsoft Word. It generally reflects the years of education needed to understand the text.</p>
       <p>To use Flesch-Kincaid: </p>
       <ol start="1" type="1">
@@ -501,8 +517,8 @@ title: "Canada.ca Content Style Guide"
       </figure>
       <p>In newer versions of Microsoft Word, search for "Flesch-Kincaid" using the help feature.</p>
     </section>
-    <section>
-      <h4 id="wp2-9-2">Follow the reading level requirements</h4>
+    <section id="wp2-9-2">
+      <h4>Follow the reading level requirements</h4>
       <p>Evaluate the reading level of content as follows for:</p>
       <ul>
         <li>navigation content (home, theme and topic pages), aim for no higher than grade 8</li>
@@ -510,8 +526,8 @@ title: "Canada.ca Content Style Guide"
         <li>content intended for experts, determine the appropriate grade level and apply it across all content for this audience</li>
       </ul>
     </section>
-    <section>
-      <h4 id="wp2-9-3">Verify whether the content is easy to understand</h4>
+    <section id="wp2-9-3">
+      <h4>Verify whether the content is easy to understand</h4>
       <p>Readability tools reveal the reading level of your content, but they can't tell you whether it makes sense. </p>
       <p>To check whether your content is easy to read and understand, test it:</p>
       <ul>
@@ -534,27 +550,30 @@ title: "Canada.ca Content Style Guide"
     </div>
   </section>
 </section>
-<section>
-  <h2 id="toc7">3.0 Tone</h2>
-  <div class="panel panel-default">
-    <header class="panel-heading">
-      <h3 class="panel-title">In this section</h3>
-    </header>
-    <div class="panel-body">
-      <ul>
-        <li><a href="#wp3-1">3.1 Write directly to the person</a>
+<section id="toc7"> {% unless page.title == "3.0 Tone" %}
+  <h2>3.0 Tone</h2>
+  {% endunless %}
+  <div class="row mrgn-tp-lg">
+    <div class="col-md-8">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <h3 class="mrgn-tp-sm">In this section</h3>
           <ul>
-            <li><a href="#wp3-1-1">Address the person in page titles, links and navigation labels</a></li>
-            <li><a href="#wp3-1-2">Don't use the first person</a></li>
+            <li><a href="#wp3-1">3.1 Write directly to the person</a>
+              <ul>
+                <li><a href="#wp3-1-1">Address the person in page titles, links and navigation labels</a></li>
+                <li><a href="#wp3-1-2">Don't use the first person</a></li>
+              </ul>
+            </li>
+            <li><a href="#wp3-2">3.2 Use "we" to refer to the Government of Canada</a>
+              <ul>
+                <li><a href="#wp3-2-1">Third parties</a></li>
+              </ul>
+            </li>
+            <li><a href="#wp3-3">3.3 Expressing an obligation or a recommendation</a></li>
           </ul>
-        </li>
-        <li><a href="#wp3-2">3.2 Use "we" to refer to the Government of Canada</a>
-          <ul>
-            <li><a href="#wp3-2-1">Third parties</a></li>
-          </ul>
-        </li>
-        <li><a href="#wp3-3">3.3 Expressing an obligation or a recommendation</a></li>
-      </ul>
+        </div>
+      </div>
     </div>
   </div>
   <p>The tone of the government's web content should be:</p>
@@ -565,8 +584,8 @@ title: "Canada.ca Content Style Guide"
     <li>professional</li>
   </ul>
   <p>Write as if you were talking to your audience in person, but with the authority of an institution that provides information as part of its mandate.</p>
-  <section>
-    <h3 id="wp3-1">3.1 Write directly to the person</h3>
+  <section id="wp3-1">
+    <h3>3.1 Write directly to the person</h3>
     <p>Use an informal tone, and speak directly <strong>to</strong> people by using the second person ("you," "your"). </p>
     <section>
       <h4 class="h5">Examples <span class="wb-inv">of statements that use the second person</span></h4>
@@ -575,8 +594,8 @@ title: "Canada.ca Content Style Guide"
         <li>To get this benefit you must…</li>
       </ul>
     </section>
-    <section>
-      <h4 id="wp3-1-1">Address the person in page titles, links and navigation labels</h4>
+    <section id="wp3-1-1">
+      <h4>Address the person in page titles, links and navigation labels</h4>
       <p>For page titles, links and navigation labels, use the possessive adjective "your" when the audience might consider the item being referred to as belonging to them.</p>
       <section>
         <h5>Examples <span class="wb-inv">of navigation labels that address the person</span></h5>
@@ -594,8 +613,8 @@ title: "Canada.ca Content Style Guide"
         </ul>
       </section>
     </section>
-    <section>
-      <h4 id="wp3-1-2">Don't use the first person</h4>
+    <section id="wp3-1-2">
+      <h4>Don't use the first person</h4>
       <p>Don't switch from speaking to people to speaking on their behalf. Don't use "I" or "my" statements.</p>
       <section>
         <h5>Example <span class="wb-inv">of statements that don't use "I" or "my"</span></h5>
@@ -617,8 +636,8 @@ title: "Canada.ca Content Style Guide"
       </div>
     </section>
   </section>
-  <section>
-    <h3 id="wp3-2">3.2 Use "we" to refer to the Government of Canada</h3>
+  <section id="wp3-2">
+    <h3>3.2 Use "we" to refer to the Government of Canada</h3>
     <p>We generally provide information to people from the perspective of the government as a whole rather than from a specific institution.</p>
     <p>Use "we" and "our" when writing on behalf of the Government of Canada. </p>
     <section>
@@ -651,8 +670,8 @@ title: "Canada.ca Content Style Guide"
       <p><span id="exmp1"><strong>Write</strong>: <a href="#exmp1" aria-label="Example of an effective hyperlink reference. The full text simulates the hyperlink.">Determine whether you're eligible</a>. <br>
         </span> <span id="exmp2"><strong>Instead of</strong>: Get <a href="#exmp2" aria-label="Example of an ineffective hyperlink reference. The text &quot;more information about eligibility on the Canada.ca website&quot; simulates the hyperlink">more information about eligibility on the Canada.ca website</a>.</span></p>
     </section>
-    <section>
-      <h4 id="wp3-2-1">Third parties</h4>
+    <section id="wp3-2-1">
+      <h4>Third parties</h4>
       <p>Don't provide information on behalf of another organization. Don't duplicate information provided on another organization's website. Instead, direct people to that website to get the information.</p>
       <p>Name the other organization when your content refers to it.</p>
       <section>
@@ -667,11 +686,11 @@ title: "Canada.ca Content Style Guide"
       <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20'we'%20on%20Canada.ca%20to%20refer%20to%20the%20Government%20of%20Canada:%20https://design.canada.ca/style-guide/#wp3-2" aria-label="Share the rule for referring to the Government of Canada by email">Share this rule by email</a></p>
     </div>
   </section>
-  <section>
-    <h3 id="wp3-3">3.3 Expressing an obligation or a recommendation</h3>
+  <section id="wp3-3">
+    <h3>3.3 Expressing an obligation or a recommendation</h3>
     <p>As a government organization, we often publish rules, information and instructions that are set out in law. We also provide advice on how to follow them. </p>
-    <section>
-      <h4 id="wp3-3-1">Express an obligation</h4>
+    <section id="wp3-3-1">
+      <h4>Express an obligation</h4>
       <p>When telling people about:</p>
       <ul>
         <li>what the law requires them to do, use "must" instead of "legally required to" or similar language</li>
@@ -683,8 +702,8 @@ title: "Canada.ca Content Style Guide"
           <strong>Administrative</strong>: After you apply online, you'll need to provide us with the following documents before we can finalize your claim.</p>
       </section>
     </section>
-    <section>
-      <h4 id="wp3-3-2">Express a recommendation </h4>
+    <section id="wp3-3-2">
+      <h4>Express a recommendation </h4>
       <p>When telling people that they're allowed to perform an action:</p>
       <ul>
         <li>do use "may" or "might" (expresses permission or a possibility)</li>
@@ -698,43 +717,46 @@ title: "Canada.ca Content Style Guide"
     </div>
   </section>
 </section>
-<section>
-  <h2 id="toc8">4.0 Style</h2>
-  <div class="panel panel-default">
-    <header class="panel-heading">
-      <h3 class="panel-title">In this section</h3>
-    </header>
-    <div class="panel-body">
-      <ul>
-        <li><a href="#wp4-1">4.1 Capitalization and punctuation</a>
+<section id="toc8"> {% unless page.title == "4.0 Style" %}
+  <h2>4.0 Style</h2>
+  {% endunless %}
+  <div class="row mrgn-tp-lg">
+    <div class="col-md-8">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <h3 class="mrgn-tp-sm">In this section</h3>
           <ul>
-            <li><a href="#wp4-1-1">Titles, headings and subheadings</a></li>
-            <li><a href="#wp4-1-2">Lists</a></li>
-            <li><a href="#wp4-1-3">Links</a></li>
-            <li><a href="#wp4-1-4">Commas</a></li>
-            <li><a href="#wp4-1-5">Hyphen and dashes</a></li>
+            <li><a href="#wp4-1">4.1 Capitalization and punctuation</a>
+              <ul>
+                <li><a href="#wp4-1-1">Titles, headings and subheadings</a></li>
+                <li><a href="#wp4-1-2">Lists</a></li>
+                <li><a href="#wp4-1-3">Links</a></li>
+                <li><a href="#wp4-1-4">Commas</a></li>
+                <li><a href="#wp4-1-5">Hyphen and dashes</a></li>
+              </ul>
+            </li>
+            <li><a href="#wp4-2">4.2 Underlining, bold and italics</a></li>
+            <li><a href="#wp4-3">4.3 Symbols</a></li>
+            <li><a href="#wp4-4">4.4 Abbreviations and acronyms</a>
+              <ul>
+                <li><a href="#wp4-4-1">Latin abbreviations</a></li>
+              </ul>
+            </li>
+            <li><a href="#wp4-5">4.5 Contractions</a></li>
+            <li><a href="#wp4-6">4.6 Numbers</a></li>
+            <li><a href="#wp4-7">4.7 Dates </a></li>
+            <li><a href="#wp4-8">4.8 Times </a></li>
+            <li><a href="#wp4-9">4.9 Phone numbers </a></li>
+            <li><a href="#wp4-10">4.10 Addresses </a></li>
+            <li><a href="#wp4-11">4.11 Words and expressions in transition</a></li>
           </ul>
-        </li>
-        <li><a href="#wp4-2">4.2 Underlining, bold and italics</a></li>
-        <li><a href="#wp4-3">4.3 Symbols</a></li>
-        <li><a href="#wp4-4">4.4 Abbreviations and acronyms</a>
-          <ul>
-            <li><a href="#wp4-4-1">Latin abbreviations</a></li>
-          </ul>
-        </li>
-        <li><a href="#wp4-5">4.5 Contractions</a></li>
-        <li><a href="#wp4-6">4.6 Numbers</a></li>
-        <li><a href="#wp4-7">4.7 Dates </a></li>
-        <li><a href="#wp4-8">4.8 Times </a></li>
-        <li><a href="#wp4-9">4.9 Phone numbers </a></li>
-        <li><a href="#wp4-10">4.10 Addresses </a></li>
-        <li><a href="#wp4-11">4.11 Words and expressions in transition</a></li>
-      </ul>
+        </div>
+      </div>
     </div>
   </div>
   <p>On the web, less is more. Keep style and punctuation simple. Formatting (such as bold, italics and underlining) and complex punctuation can be distracting and make reading difficult for many people.</p>
-  <section>
-    <h3 id="wp4-1">4.1 Capitalization and punctuation </h3>
+  <section id="wp4-1">
+    <h3>4.1 Capitalization and punctuation </h3>
     <p>Use these styles for capitalization and punctuation of content in text, links and applications.</p>
     <p>Capitalize the main words of:</p>
     <ul>
@@ -760,8 +782,8 @@ title: "Canada.ca Content Style Guide"
         </ul>
       </section>
     </section>
-    <section>
-      <h4 id="wp4-1-1">Titles, headings and subheadings</h4>
+    <section id="wp4-1-1">
+      <h4>Titles, headings and subheadings</h4>
       <ul>
         <li>Capitalize the first letter of the first word (sentence case) of all page titles, headings, subheadings, table captions and table headers</li>
         <li>Capitalize proper nouns in page titles, headings and subheadings</li>
@@ -814,8 +836,8 @@ title: "Canada.ca Content Style Guide"
         </figure>
       </section>
     </section>
-    <section>
-      <h4 id="wp4-1-2">Lists</h4>
+    <section id="wp4-1-2">
+      <h4>Lists</h4>
       <ul>
         <li>Avoid having more than 1 sentence in a single list item</li>
         <li>Don't end the list items with any punctuation</li>
@@ -842,20 +864,20 @@ title: "Canada.ca Content Style Guide"
         </ul>
       </section>
     </section>
-    <section>
-      <h4 id="wp4-1-3">Links</h4>
+    <section id="wp4-1-3">
+      <h4>Links</h4>
       <p>Use lower case for a link in a sentence, unless the link contains a proper name.</p>
     </section>
-    <section>
-      <h4 id="wp4-1-4">Commas</h4>
+    <section id="wp4-1-4">
+      <h4>Commas</h4>
       <p>Remove unnecessary commas to make web content easier to read: </p>
       <ul>
         <li>avoid multiple commas in a sentence by breaking it up into a few shorter sentences</li>
         <li>place a comma before "and" and "or" only if it will help people understand a list of items in a sentence</li>
       </ul>
     </section>
-    <section>
-      <h4 id="wp4-1-5">Hyphen and dashes</h4>
+    <section id="wp4-1-5">
+      <h4>Hyphen and dashes</h4>
       <p>Hyphens and dashes have different uses. They aren't interchangeable. Avoid using dashes: </p>
       <ul>
         <li>use a hyphen (-) to join words together</li>
@@ -870,8 +892,8 @@ title: "Canada.ca Content Style Guide"
       <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20capitalization%20and%20punctuation%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp4-1" aria-label="Share the rule for capitalization and punctuation by email">Share this rule by email</a></p>
     </div>
   </section>
-  <section>
-    <h3 id="wp4-2">4.2 Underlining, bold and italics</h3>
+  <section id="wp4-2">
+    <h3>4.2 Underlining, bold and italics</h3>
     <p>Formatting must support the most important information on the page. </p>
     <p>Don't combine styles, like underlining and bold formatting, unless it's part of the hyperlinked text found on a topic page.</p>
     <section>
@@ -907,8 +929,8 @@ title: "Canada.ca Content Style Guide"
       </div>
     </section>
   </section>
-  <section>
-    <h3 id="wp4-3">4.3 Symbols</h3>
+  <section id="wp4-3">
+    <h3>4.3 Symbols</h3>
     <p>Some symbols make web content more difficult to read while others improve readability. Research whether they're understood by a wide audience before using them.</p>
     <section>
       <h4>Ampersand</h4>
@@ -942,8 +964,8 @@ title: "Canada.ca Content Style Guide"
       <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20symbols%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp4-3" aria-label="Share the rule for symbols by email">Share this rule by email</a></p>
     </div>
   </section>
-  <section>
-    <h3 id="wp4-4">4.4 Abbreviations and acronyms</h3>
+  <section id="wp4-4">
+    <h3>4.4 Abbreviations and acronyms</h3>
     <p>Don't use an abbreviation or acronym unless it's better known to the widest audience than its long-form equivalent. For example: </p>
     <ul>
       <li>EI</li>
@@ -970,8 +992,8 @@ title: "Canada.ca Content Style Guide"
     <p>If your content contains a lot of abbreviations and acronyms, rethink its structure. Consider placing related content under distinct headings and sections.</p>
     <p>For example, when introducing legal requirements, use the title of the act once, if necessary, and then talk about what people "must" do. The context will make it clear that the things they "must" do are requirements under the act. Don't use the abbreviation for the act, because it makes the text harder to follow. </p>
     <p>Close the topic before referring to other obligations under different legislation.</p>
-    <section>
-      <h4 id="wp4-4-1">Latin abbreviations</h4>
+    <section id="wp4-4-1">
+      <h4>Latin abbreviations</h4>
       <p>Avoid using e.g. and i.e. Use clearer alternatives instead, for example:</p>
       <p><strong>Write</strong>: for example, such as, or like<br>
         <strong>Instead of</strong>: e.g.</p>
@@ -985,8 +1007,8 @@ title: "Canada.ca Content Style Guide"
       <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20abbreviations%20and%20acronyms%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp4-4" aria-label="Share the rule for abbreviations and acronyms by email">Share this rule by email</a></p>
     </div>
   </section>
-  <section>
-    <h3 id="wp4-5">4.5 Contractions</h3>
+  <section id="wp4-5">
+    <h3>4.5 Contractions</h3>
     <p>Use contractions that people use when they speak. They're easier to scan than the full form.</p>
     <p>Use most positive contractions of auxiliary verbs. For example:</p>
     <ul>
@@ -1031,8 +1053,8 @@ title: "Canada.ca Content Style Guide"
       <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20contractions%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp4-5" aria-label="Share the rule for contractions by email">Share this rule by email</a></p>
     </div>
   </section>
-  <section>
-    <h3 id="wp4-6">4.6 Numbers</h3>
+  <section id="wp4-6">
+    <h3>4.6 Numbers</h3>
     <section>
       <h4>General </h4>
       <ul>
@@ -1064,8 +1086,8 @@ title: "Canada.ca Content Style Guide"
       <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20style%20rule%20for%20numbers%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp4-6" aria-label="Share the style rule for numbers by email">Share this rule by email</a></p>
     </div>
   </section>
-  <section>
-    <h3 id="wp4-7">4.7 Dates</h3>
+  <section id="wp4-7">
+    <h3>4.7 Dates</h3>
     <ul>
       <li>Write dates without an ordinal indicator ("st," "nd," "rd," "th") </li>
     </ul>
@@ -1107,25 +1129,25 @@ title: "Canada.ca Content Style Guide"
       <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20style%20rule%20for%20dates%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp4-7" aria-label="Share the style rule for dates by email">Share this rule by email</a></p>
     </div>
   </section>
-  <section>
-    <h3 id="wp4-8">4.8 Times</h3>
+  <section id="wp4-8">
+    <h3>4.8 Times</h3>
     <ul>
       <li>4:30&nbsp;pm</li>
       <li>9&nbsp;am to 5&nbsp;pm</li>
     </ul>
   </section>
-  <section>
-    <h3 id="wp4-9">4.9 Phone numbers</h3>
+  <section id="wp4-9">
+    <h3>4.9 Phone numbers</h3>
     <p>Use non-breaking hyphens (Ctrl+Shift+Hyphen) in phone numbers. For example:</p>
     <ul>
       <li>if you need help, call 1-800-622-6232</li>
       <li>613-999-9900 ext.&nbsp;123</li>
     </ul>
   </section>
-  <section>
-    <h3 id="wp4-10">4.10 Addresses</h3>
-    <section>
-      <h4 id="wp4-10-1">Mailing addresses</h4>
+  <section id="wp4-10">
+    <h3>4.10 Addresses</h3>
+    <section id="wp4-10-1">
+      <h4>Mailing addresses</h4>
       <ul>
         <li>Abbreviate street types, street direction and province or territory</li>
         <li>Use the <a href="https://www.canadapost.ca/tools/pg/manual/PGaddress-e.asp#1442131">correct abbreviations for provinces and territories</a></li>
@@ -1147,8 +1169,8 @@ title: "Canada.ca Content Style Guide"
           Gatineau QC&nbsp;&nbsp;K1A 0S5</p>
       </section>
     </section>
-    <section>
-      <h4 id="wp4-10-2">Email addresses</h4>
+    <section id="wp4-10-2">
+      <h4>Email addresses</h4>
       <p>Spell out email addresses instead of embedding them within your text.</p>
       <p><strong>Write</strong>:</p>
       <ul>
@@ -1163,8 +1185,8 @@ title: "Canada.ca Content Style Guide"
       <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=%20See%20the%20style%20rules%20for%20times,%20phone%20numbers%20and%20mailing%20addresses%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp4-9" aria-label="Share the style rules for times, phone numbers and mailing addresses by email">Share this rule by email</a></p>
     </div>
   </section>
-  <section>
-    <h3 id="wp4-11">4.11 Words and expressions in transition</h3>
+  <section id="wp4-11">
+    <h3>4.11 Words and expressions in transition</h3>
     <p>Words and expressions in transition are those written commonly in 2 or more different ways. Reduce confusion by using the following spellings: </p>
     <ul>
       <li>website (not "web site")</li>
@@ -1180,37 +1202,40 @@ title: "Canada.ca Content Style Guide"
     <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20words%20and%20expressions%20in%20transition%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp4-11" aria-label="Share the rule for words and expressions in transition by email">Share this rule by email</a></p>
   </div>
 </section>
-<section>
-  <h2 id="toc9">5.0 Content structure</h2>
-  <div class="panel panel-default">
-    <header class="panel-heading">
-      <h3 class="panel-title">In this section</h3>
-    </header>
-    <div class="panel-body">
-      <ul class="list-unstyled">
-        <li><a href="#wp5-1">5.1 Write useful page titles and headings</a>
-          <ul>
-            <li><a href="#wp5-1-1">Make the page title unique</a></li>
-            <li><a href="#wp5-1-2">Use a page title, headings and subheadings to show structure</a></li>
+<section id="toc9"> {% unless page.title == "5.0 Content structure" %}
+  <h2>5.0 Content structure</h2>
+  {% endunless %}
+  <div class="row mrgn-tp-lg">
+    <div class="col-md-8">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <h3 class="mrgn-tp-sm">In this section</h3>
+          <ul class="list-unstyled">
+            <li><a href="#wp5-1">5.1 Write useful page titles and headings</a>
+              <ul>
+                <li><a href="#wp5-1-1">Make the page title unique</a></li>
+                <li><a href="#wp5-1-2">Use a page title, headings and subheadings to show structure</a></li>
+              </ul>
+            </li>
+            <li><a href="#wp5-2">5.2 Use lists to help people scan </a>
+              <ul>
+                <li><a href="#wp5-2-1">Lead-in sentence</a></li>
+                <li><a href="#wp5-2-2">Numbered lists</a></li>
+                <li><a href="#wp5-2-3">Bulleted lists</a></li>
+                <li><a href="#wp5-2-4">Alphabetical lists</a></li>
+              </ul>
+            </li>
+            <li><a href="#wp5-3">5.3 Use tables to organize data</a>
+              <ul>
+                <li><a href="#wp5-3-1">Use column and row headers</a></li>
+                <li><a href="#wp5-3-2">Use the simplest structure possible</a></li>
+                <li><a href="#wp5-3-3">Limit the use of texture and colour</a></li>
+                <li><a href="#wp5-3-4">Avoid having blank cells</a></li>
+              </ul>
+            </li>
           </ul>
-        </li>
-        <li><a href="#wp5-2">5.2 Use lists to help people scan </a>
-          <ul>
-            <li><a href="#wp5-2-1">Lead-in sentence</a></li>
-            <li><a href="#wp5-2-2">Numbered lists</a></li>
-            <li><a href="#wp5-2-3">Bulleted lists</a></li>
-            <li><a href="#wp5-2-4">Alphabetical lists</a></li>
-          </ul>
-        </li>
-        <li><a href="#wp5-3">5.3 Use tables to organize data</a>
-          <ul>
-            <li><a href="#wp5-3-1">Use column and row headers</a></li>
-            <li><a href="#wp5-3-2">Use the simplest structure possible</a></li>
-            <li><a href="#wp5-3-3">Limit the use of texture and colour</a></li>
-            <li><a href="#wp5-3-4">Avoid having blank cells</a></li>
-          </ul>
-        </li>
-      </ul>
+        </div>
+      </div>
     </div>
   </div>
   <p>The structure and layout of content components help people find what they need quickly. Content components include: </p>
@@ -1241,8 +1266,8 @@ title: "Canada.ca Content Style Guide"
       <li>several web pages contain pieces of content that relate to the same subject, consider combining them into a single page</li>
     </ul>
   </section>
-  <section>
-    <h3 id="wp5-1">5.1 Write useful page titles and headings</h3>
+  <section id="wp5-1">
+    <h3>5.1 Write useful page titles and headings</h3>
     <p>In your page title, accurately describe what's on the page. A descriptive page title is important because search engines often display the title without the context that the rest of the page provides.</p>
     <p>Most people scan page titles and headings, looking for keywords that will confirm that they have found what they're looking for. People who use assistive technology may listen for keywords using software or may use keyboard shortcuts to access all the headings on a page.</p>
     <p>When writing a page title, heading or subheading, make sure that it: </p>
@@ -1256,8 +1281,8 @@ title: "Canada.ca Content Style Guide"
       <li>contains no abbreviation unless the audience knows it better than it knows its long-form equivalent </li>
       <li>contains no promotional messaging (boastful, subjective claims) because it might confuse and stop people from navigating to the page </li>
     </ul>
-    <section>
-      <h4 id="wp5-1-1">Make the page title unique</h4>
+    <section id="wp5-1-1">
+      <h4>Make the page title unique</h4>
       <p>Most search engines identify relevant search results based on:</p>
       <ul>
         <li>page title </li>
@@ -1270,8 +1295,8 @@ title: "Canada.ca Content Style Guide"
     </section>
   </section>
 </section>
-<section>
-  <h4 id="wp5-1-2">Use a page title, headings and subheadings to show structure</h4>
+<section id="wp5-1-2">
+  <h4>Use a page title, headings and subheadings to show structure</h4>
   <p>The page title, headings and subheadings help people find information on the screen easily. Use headings to divide text into logical sections approximately every 200 words.</p>
   <p>Structuring headings clearly helps establish the authority of one heading over another.</p>
   <p>For the page <strong>title</strong>:</p>
@@ -1329,8 +1354,8 @@ title: "Canada.ca Content Style Guide"
   <p><strong>Description metadata field</strong>: The description metatdata is the content you see under the blue hyperlinked text in search results. <strong>Avoid listing only keywords</strong>, because search engines might ignore these. Write 1 or 2 short sentences that summarize the page. Make sure they contain keywords that people use when searching for your content (for example, abbreviations familiar to your audience). </p>
   <p>Refer to the <a href="#toc6">section on plain language</a> for tips on using simple and common words as keywords.</p>
 </section>
-<section>
-  <h3 id="wp5-2">5.2 Use lists to help people scan </h3>
+<section id="wp5-2">
+  <h3>5.2 Use lists to help people scan </h3>
   <p>A short vertical list is easier for people to scan and remember than a long paragraph. If possible, aim for maximum of 7 items in your list.</p>
   <p>When writing lists:</p>
   <ul>
@@ -1344,8 +1369,8 @@ title: "Canada.ca Content Style Guide"
     </li>
     <li>if a list contains more than 7 items, consider breaking it up into categories </li>
   </ul>
-  <section>
-    <h4 id="wp5-2-1">Lead-in sentence</h4>
+  <section id="wp5-2-1">
+    <h4>Lead-in sentence</h4>
     <p>If you need to clarify the relationship between each element, start the list with a lead-in paragraph that:</p>
     <ul>
       <li>introduces or applies to all the list items </li>
@@ -1357,8 +1382,8 @@ title: "Canada.ca Content Style Guide"
       <li>"To be eligible, you must meet 1 or more of the following requirements:"</li>
     </ul>
   </section>
-  <section>
-    <h4 id="wp5-2-2">Numbered lists</h4>
+  <section id="wp5-2-2">
+    <h4>Numbered lists</h4>
     <p>Use numbered lists to show:</p>
     <ul>
       <li>ranking </li>
@@ -1367,8 +1392,8 @@ title: "Canada.ca Content Style Guide"
       <li>step-by-step instructions </li>
     </ul>
   </section>
-  <section>
-    <h4 id="wp5-2-3">Bulleted lists</h4>
+  <section id="wp5-2-3">
+    <h4>Bulleted lists</h4>
     <p>Place only one idea in each bulleted item. If you need to include more information to explain an idea, use sub-bullets, but use them sparingly.</p>
     <section>
       <h5>Example <span class="wb-inv">of bulleted list items</span></h5>
@@ -1400,8 +1425,8 @@ title: "Canada.ca Content Style Guide"
       <p>Take a look at the <a href="#wp4-1">section on capitalization and punctuation rules that apply to lists</a>.</p>
     </section>
   </section>
-  <section>
-    <h4 id="wp5-2-4">Alphabetical lists</h4>
+  <section id="wp5-2-4">
+    <h4>Alphabetical lists</h4>
     <p>Only present your web content in an alphabetical order if it's the most logical and intuitive approach for the audience. </p>
     <p>For example, listing provinces and territories in alphabetical order could be appropriate. </p>
     <p>If you present content in alphabetical order in English, also present it in alphabetical order in French to provide the same intuitive experience.</p>
@@ -1412,8 +1437,8 @@ title: "Canada.ca Content Style Guide"
     <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20lists%20to%20support%20scanning%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp5-2" aria-label="Share the rule for using lists to support scanning by email">Share this rule by email</a></p>
   </div>
 </section>
-<section>
-  <h3 id="wp5-3">5.3 Use tables to organize data</h3>
+<section id="wp5-3">
+  <h3>5.3 Use tables to organize data</h3>
   <p>Use tables to organize and present data. Make sure that the:</p>
   <ul>
     <li>value of each cell relates to the column and row headers</li>
@@ -1448,8 +1473,8 @@ title: "Canada.ca Content Style Guide"
       </tbody>
     </table>
   </section>
-  <section>
-    <h4 id="wp5-3-1">Use column and row headers</h4>
+  <section id="wp5-3-1">
+    <h4>Use column and row headers</h4>
     <p>Each column and row of a table must have a header that describes the information in that column or row.</p>
     <p>Column and row headers are different from headings and subheadings:</p>
     <ul>
@@ -1714,8 +1739,8 @@ title: "Canada.ca Content Style Guide"
       </section>
     </section>
   </section>
-  <section>
-    <h4 id="wp5-3-3">Limit the use of texture and colour </h4>
+  <section id="wp5-3-3">
+    <h4>Limit the use of texture and colour </h4>
     <p>Avoid formatting cells with textures or colours, because it can make text difficult to read.</p>
     <p>If you must use textures and colours in a table, explain what they mean (for example, in a table note or in a legend). Make sure you comply with the <a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#visual-audio-contrast-contrast">minimum colour contrast rules (1.4.3)</a> from the <cite>Web Content Accessibility Guidelines (WCAG) 2.0</cite>.</p>
     <p><strong>Never</strong> rely on colour or texture alone to convey important information. </p>
@@ -1742,25 +1767,28 @@ title: "Canada.ca Content Style Guide"
     <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20tables%20to%20organize%20data%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp5-3" aria-label="Share the rule for using tables to organize data by email">Share this rule by email</a></p>
   </div>
 </section>
-<section>
-  <h2 id="toc10">6.0 Images and videos</h2>
-  <div class="panel panel-default">
-    <header class="panel-heading">
-      <h3 class="panel-title">In this section</h3>
-    </header>
-    <div class="panel-body">
-      <ul>
-        <li><a href="#wp6-1">6.1 Understand the purpose of images online</a>
+<section id="toc10"> {% unless page.title == "6.0 Images and videos" %}
+  <h2>6.0 Images and videos</h2>
+  {% endunless %}
+  <div class="row mrgn-tp-lg">
+    <div class="col-md-8">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <h3 class="mrgn-tp-sm">In this section</h3>
           <ul>
-            <li><a href="#wp6-1-1">Functional images</a></li>
-            <li><a href="#wp6-1-2">Decorative images</a></li>
-            <li><a href="#wp6-1-3">Image sizing and placement</a></li>
+            <li><a href="#wp6-1">6.1 Understand the purpose of images online</a>
+              <ul>
+                <li><a href="#wp6-1-1">Functional images</a></li>
+                <li><a href="#wp6-1-2">Decorative images</a></li>
+                <li><a href="#wp6-1-3">Image sizing and placement</a></li>
+              </ul>
+            </li>
+            <li><a href="#wp6-2">6.2 Include alternative text for images</a></li>
+            <li><a href="#wp6-3">6.3 Include long descriptions for complex images</a></li>
+            <li><a href="#wp6-4">6.4 Include transcripts to describe audio and video files</a></li>
           </ul>
-        </li>
-        <li><a href="#wp6-2">6.2 Include alternative text for images</a></li>
-        <li><a href="#wp6-3">6.3 Include long descriptions for complex images</a></li>
-        <li><a href="#wp6-4">6.4 Include transcripts to describe audio and video files</a></li>
-      </ul>
+        </div>
+      </div>
     </div>
   </div>
   <p>You can use images and videos to: </p>
@@ -1773,21 +1801,19 @@ title: "Canada.ca Content Style Guide"
   <p>When planning your content, weigh the benefits of using videos with the impact on people who will try to view them using mobile devices. Data plans and reliable network access vary.</p>
   <h3 class="h4">Obtain permission to publish</h3>
   <p>Make sure that you have the appropriate permissions to publish images, audio files and videos online. You'll need to have the written proof of those rights. Refer to the <cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27167">Procedures for Publishing</a></cite> or contact your institution's authoring team for more details.</p>
-  <section>
-    <h4>Help with images, audio files or videos on Canada.ca</h4>
-    <p>For specific information about consent forms or licensing requirements related to Canada.ca, contact the Principal Publisher: <a href="mailto:na-web_support-soutien_du_web-gd@servicecanada.gc.ca">na-web_support-soutien_du_web-gd@servicecanada.gc.ca</a>.</p>
-  </section>
+  <h4>Help with images, audio files or videos on Canada.ca</h4>
+  <p>For specific information about consent forms or licensing requirements related to Canada.ca, contact the Principal Publisher: <a href="mailto:na-web_support-soutien_du_web-gd@servicecanada.gc.ca">na-web_support-soutien_du_web-gd@servicecanada.gc.ca</a>.</p>
 </section>
-<section>
-  <h3 id="wp6-1">6.1 Understand the purpose of images online</h3>
+<section id="wp6-1">
+  <h3>6.1 Understand the purpose of images online</h3>
   <p>Images can distract people. They can also make the page take longer to load. Make sure your images <strong>add value</strong> to your content.</p>
   <p>There are 2 main types of images: </p>
   <ul>
     <li>functional images</li>
     <li>decorative images </li>
   </ul>
-  <section>
-    <h4 id="wp6-1-1">Functional images</h4>
+  <section id="wp6-1-1">
+    <h4>Functional images</h4>
     <p>Functional images:</p>
     <ul>
       <li>illustrate information or data to help people understand it</li>
@@ -1991,8 +2017,8 @@ title: "Canada.ca Content Style Guide"
       </figure>
     </section>
   </section>
-  <section>
-    <h4 id="wp6-1-2">Decorative images</h4>
+  <section id="wp6-1-2">
+    <h4>Decorative images</h4>
     <p>Use decorative images only to provide visual context for the following templates: </p>
     <ul>
       <li>a theme or topic page </li>
@@ -2010,8 +2036,8 @@ title: "Canada.ca Content Style Guide"
       <p>A Royal Canadian Mounted Police officer on the Canada.ca web page related to jobs and the workplace.</p>
     </section>
   </section>
-  <section>
-    <h4 id="wp6-1-3">Image sizing and placement</h4>
+  <section id="wp6-1-3">
+    <h4>Image sizing and placement</h4>
     <p>Learn where to place images and videos on Canada.ca and what size they should be: </p>
     <ul>
       <li>use the templates in the <cite><a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-eng.asp">Canada.ca Content and Information Architecture Specification</a></cite></li>
@@ -2024,8 +2050,8 @@ title: "Canada.ca Content Style Guide"
     </div>
   </section>
 </section>
-<section>
-  <h3 id="wp6-2">6.2 Include alternative text for images</h3>
+<section id="wp6-2">
+  <h3>6.2 Include alternative text for images</h3>
   <p>Alternative text (or alt text) is text that describes an image. It makes it possible for people using assistive technologies to access the information conveyed by an image. It also helps search engines better understand the purpose of the image.</p>
   <p>When you're writing alternative text for a <a href="#wp6-1-1">functional image</a>:</p>
   <ul>
@@ -2043,8 +2069,8 @@ title: "Canada.ca Content Style Guide"
     <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20images%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp6-2" aria-label="Share the rule for using images by email">Share this rule by email</a></p>
   </div>
 </section>
-<section>
-  <h3 id="wp6-3">6.3 Include long descriptions for complex images</h3>
+<section id="wp6-3">
+  <h3>6.3 Include long descriptions for complex images</h3>
   <p>Long descriptions explain information that is presented in complex infographics or images. You must provide a long description if you can't describe the content and function of the image in less than 140 characters. If you can describe the image in less than 140 characters, use alternative text instead.</p>
   <p>If a detailed and equivalent explanation of the image appears in the text immediately before or after a complex image, you don't have to provide a long description.</p>
   <p>If you provide a long description for an image, you must also provide alternative text for the long description.</p>
@@ -2153,8 +2179,8 @@ title: "Canada.ca Content Style Guide"
     <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20including%20a%20long%20description%20for%20complex%20images%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp6-3" aria-label="Share the rule for long descriptions by email">Share this rule by email</a></p>
   </div>
 </section>
-<section>
-  <h3 id="wp6-4">6.4 Include transcripts to describe audio and video files</h3>
+<section id="wp6-4">
+  <h3>6.4 Include transcripts to describe audio and video files</h3>
   <p>A transcript is the text equivalent of an audio or video file. They make it easier for people who need to access information in audio or visual media but can't hear or see the content because:</p>
   <ul>
     <li>they have a disability</li>
@@ -2174,34 +2200,37 @@ title: "Canada.ca Content Style Guide"
     <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20including%20a%20transcript%20that%20describes%20audio%20and%20videos%20files%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp6-4" aria-label="Share the rule for transcripts by email">Share this rule by email</a></p>
   </div>
 </section>
-<section>
-  <h2 id="toc11">7.0 Links</h2>
-  <div class="panel panel-default">
-    <header class="panel-heading">
-      <h3 class="panel-title">In this section</h3>
-    </header>
-    <div class="panel-body">
-      <ul>
-        <li><a href="#wp7-1">7.1 Use links strategically</a>
+<section id="toc11"> {% unless page.title == "7.0 Links" %}
+  <h2>7.0 Links</h2>
+  {% endunless %}
+  <div class="row mrgn-tp-lg">
+    <div class="col-md-8">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <h3 class="mrgn-tp-sm">In this section</h3>
           <ul>
-            <li><a href="#wp7-1-1">Carefully select related content</a></li>
+            <li><a href="#wp7-1">7.1 Use links strategically</a>
+              <ul>
+                <li><a href="#wp7-1-1">Carefully select related content</a></li>
+              </ul>
+            </li>
+            <li><a href="#wp7-2">7.2 Write descriptive links</a>
+              <ul>
+                <li><a href="#wp7-2-1">Focus on the task</a></li>
+              </ul>
+            </li>
+            <li><a href="#wp7-3">7.3 Make sure that links work</a></li>
+            <li><a href="#wp7-4">7.4 Linking to non-government content </a></li>
           </ul>
-        </li>
-        <li><a href="#wp7-2">7.2 Write descriptive links</a>
-          <ul>
-            <li><a href="#wp7-2-1">Focus on the task</a></li>
-          </ul>
-        </li>
-        <li><a href="#wp7-3">7.3 Make sure that links work</a></li>
-        <li><a href="#wp7-4">7.4 Linking to non-government content </a></li>
-      </ul>
+        </div>
+      </div>
     </div>
   </div>
   <p>A link (or hyperlink) is a word, phrase or image on a web page that people click on to move to another part of the same content or to access an entirely different web resource (such as a web page, video or downloadable file).</p>
   <p>People who use assistive technology can navigate web content using links. For example, screen readers list all links on a page without the contextual content. </p>
   <p>Your links should be descriptive and able to stand alone so that it's clear what people can expect if they click on them.</p>
-  <section>
-    <h3 id="wp7-1">7.1 Use links strategically</h3>
+  <section id="wp7-1">
+    <h3>7.1 Use links strategically</h3>
     <p>Be strategic about how you place and create links on a web page and about how many links you provide:</p>
     <ul>
       <li>include links that directly support the topic or task on the current page</li>
@@ -2209,16 +2238,14 @@ title: "Canada.ca Content Style Guide"
       <li>don't include links to intranet sites unless the content targets government employees, in which case you should add "(accessible only on the Government of Canada network)"</li>
       <li>don't bury links that are crucial to completing a task in the middle of a paragraph or at the bottom of the page</li>
     </ul>
-    <section>
-      <h4 class="h5">Example <span class="wb-inv">of appropriate use of links</span></h4>
-      <h6>Write:</h6>
-      <p>A Food Guide serving is&nbsp;how much&nbsp;food you should eat from each of the 4 food groups every day. In some cases, a serving is the amount of a given food group that you normally eat in one sitting, like an apple. In other cases, the daily amount is more than one serving, such as for rice or pasta.</p>
-      <p><a href="https://www.hc-sc.gc.ca/fn-an/food-guide-aliment/basics-base/quantit-eng.php">Number of daily food servings for children, teens and adults</a></p>
-      <h6>Instead of:</h6>
-      <p>A Food Guide Serving is simply a reference amount. It helps you understand&nbsp;<a href="https://www.hc-sc.gc.ca/fn-an/food-guide-aliment/basics-base/quantit-eng.php">how much</a> food is recommended every day from each of the four food groups. In some cases, a Food Guide Serving may be close to what you eat, such as an apple. In other cases, such as rice or pasta, you may serve yourself more than one Food Guide Serving.</p>
-    </section>
-    <section>
-      <h4 id="wp7-1-1">Carefully select related content</h4>
+    <h4 class="h5">Example <span class="wb-inv">of appropriate use of links</span></h4>
+    <h6>Write:</h6>
+    <p>A Food Guide serving is&nbsp;how much&nbsp;food you should eat from each of the 4 food groups every day. In some cases, a serving is the amount of a given food group that you normally eat in one sitting, like an apple. In other cases, the daily amount is more than one serving, such as for rice or pasta.</p>
+    <p><a href="https://www.hc-sc.gc.ca/fn-an/food-guide-aliment/basics-base/quantit-eng.php">Number of daily food servings for children, teens and adults</a></p>
+    <h6>Instead of:</h6>
+    <p>A Food Guide Serving is simply a reference amount. It helps you understand&nbsp;<a href="https://www.hc-sc.gc.ca/fn-an/food-guide-aliment/basics-base/quantit-eng.php">how much</a> food is recommended every day from each of the four food groups. In some cases, a Food Guide Serving may be close to what you eat, such as an apple. In other cases, such as rice or pasta, you may serve yourself more than one Food Guide Serving.</p>
+    <section id="wp7-1-1">
+      <h4>Carefully select related content</h4>
       <p>Providing links to other relevant web pages can help people find related information quickly. Links to your pages from other pages may also help improve where your page ranks in search results. </p>
       <p>Be sure to select related links carefully. Too many links on a page can cause people to leave the page without reading important information or can discourage them from completing a task. </p>
     </section>
@@ -2228,8 +2255,8 @@ title: "Canada.ca Content Style Guide"
       <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20links%20strategically%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp7-1" aria-label="Share the rule for using links strategically by email">Share this rule by email</a></p>
     </div>
   </section>
-  <section>
-    <h3 id="wp7-2">7.2 Write descriptive links</h3>
+  <section id="wp7-2">
+    <h3>7.2 Write descriptive links</h3>
     <p>A link must describe the content a person will find once they click on it. It's easier to complete a task when a link's destination matches a person's expectations. Make sure links are descriptive so that person will understand what they'll get when they click on them.</p>
     <p>The text you hyperlink doesn't have to match the title of the destination page to be compliant with <cite>Web Content Accessibility Guidelines</cite>. Text in a link gets some context from the web page's content. Make sure the main keywords of the link text correspond to the page title so that people know they're in the right place. </p>
     <p>Tips for providing useful links:</p>
@@ -2247,8 +2274,8 @@ title: "Canada.ca Content Style Guide"
       <li>vague statements such as "click here" or "read more" </li>
       <li>promotional messaging that might confuse someone who is deciding whether to go to the page that is being linked&nbsp;to</li>
     </ul>
-    <section>
-      <h4 id="wp7-2-1">Focus on the task</h4>
+    <section id="wp7-2-1">
+      <h4>Focus on the task</h4>
       <p>When writing instructions for completing a task, sometimes you need to insert a link to guide the person to forms or other documents. Focus on the action they must perform when you create the link. </p>
       <p>Don't repeat the name of a form or document in the steps to accomplish a task if the name isn't descriptive. </p>
       <section>
@@ -2275,8 +2302,8 @@ title: "Canada.ca Content Style Guide"
       </div>
     </section>
   </section>
-  <section>
-    <h3 id="wp7-3">7.3 Make sure that links work</h3>
+  <section id="wp7-3">
+    <h3>7.3 Make sure that links work</h3>
     <p>Make sure that your links work. Check that they take people to the correct page, which contains up-to-date information, in the appropriate official language. Links that don't work frustrate people and hurt the credibility of your content.</p>
     <div class="well panel"> 
       <!--UPDATE LATER-->
@@ -2284,8 +2311,8 @@ title: "Canada.ca Content Style Guide"
       <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20making%20sure%20links%20work%20as%20expected%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp7-3" aria-label="Share the rule for verifying links by email">Share this rule by email</a></p>
     </div>
   </section>
-  <section>
-    <h3 id="wp7-4">7.4 Linking to non-government content</h3>
+  <section id="wp7-4">
+    <h3>7.4 Linking to non-government content</h3>
     <p>Some non-government web content isn't available in both official languages. If you're linking to external web content that isn't available in the language of the current page, say in which language(s) it is available after the link. </p>
     <p>On English pages, write the following after a link that leads to content that isn't available in English: "(XXXX only)".</p>
     <p>If the link leads to content only available in: </p>
@@ -2305,8 +2332,8 @@ title: "Canada.ca Content Style Guide"
     </section>
   </section>
 </section>
-<section>
-  <h3 id="wp7-5">7.5 Linking to internal-to-government content</h3>
+<section id="wp7-5">
+  <h3>7.5 Linking to internal-to-government content</h3>
   <p>In most cases, public-facing content should not link to content that is accessible only through internal government networks. Occasionally, the audience for content that is accessible to the public may be primarily internal. </p>
   <p>When a link leads to content available only on internal government networks, write "(accessible only on the Government of Canada network)."</p>
   <!--UPDATE LATER-->
@@ -2316,833 +2343,821 @@ title: "Canada.ca Content Style Guide"
     <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20including%20links%20to%20internal-to-government%20content%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp7-5" aria-label="Share the rule for internal-to-government content by email">Share this rule by email</a></p>
   </div>
 </section>
-<section>
-  <h2 id="toc12">Web content makeovers</h2>
-  <section>
-    <h3>Case study A: improve plain language and content structure </h3>
-    <section>
-      <h4>Before</h4>
-      <p>The Employment Insurance (EI) program offers temporary financial assistance to Canadians and individuals who are legally entitled to work in Canada, have a valid Social Insurance Number and remain in Canada during their benefit period. One type of benefits that the&nbsp;EI&nbsp;program offers is regular benefits.&nbsp;EI&nbsp;regular benefits are offered to people who have lost their employment through no fault of their own (for example, because of a shortage of work or because they were employed in seasonal work) and who are ready, willing, and capable of working each day but unable to find work.</p>
-      <p>Flesch-Kincaid reading level: 17.2</p>
-    </section>
-    <section>
-      <h4>After</h4>
-      <p>The Employment Insurance (EI) program could give you temporary financial help if you lost your job.</p>
-      <p>To qualify for regular benefits, you must: </p>
-      <ul>
-        <li>be Canadian or legally able to work in Canada</li>
-        <li>have a valid social insurance number</li>
-        <li>have lost your job through no fault of your own</li>
-        <li>be ready, willing and able to work each day but still can't find work</li>
-        <li>stay in Canada while you're getting EI help</li>
-      </ul>
-      <p>Flesch-Kincaidreading level<em>: </em>5.9</p>
-    </section>
-    <section>
-      <h4>What we did</h4>
-      <p>To improve this content, we:</p>
-      <ul>
-        <li>created a list out of the items in the text&nbsp; </li>
-        <li>replaced complex nouns with verbs and complex verbs with simpler forms</li>
-      </ul>
-    </section>
-  </section>
-  <section>
-    <h3>Case study B: improve and simplify tables</h3>
-    <section>
-      <h4>Before</h4>
-      <table class="table table-bordered table-condensed">
-        <caption class="text-center">
-        <strong>Table: supporting families and communities (in $ millions), Budget 2013</strong>
-        </caption>
-        <thead>
-          <tr class="active">
-            <th scope="col">Supporting Families and Communities (in $ millions)</th>
-            <th class="text-right" scope="col">2013 to 2014</th>
-            <th class="text-right" scope="col">2014 to 2015</th>
-            <th class="text-right" scope="col">Total</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <th scope="row"><strong>Support for Families</strong></th>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Expanding Tax Relief for Home Care Services</span></th>
-            <td class="text-right">5</td>
-            <td class="text-right">5</td>
-            <td class="text-right">10</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Palliative and End-of-Life Care</span></th>
-            <td class="text-right">1</td>
-            <td class="text-right">1</td>
-            <td class="text-right">2</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Tariff Relief for Canadians Consumers</span></th>
-            <td class="text-right">76</td>
-            <td class="text-right">76</td>
-            <td class="text-right">152</td>
-          </tr>
-          <tr>
-            <th scope="row">Subtotal—Support for Families</th>
-            <td class="text-right">82</td>
-            <td class="text-right">82</td>
-            <td class="text-right">164</td>
-          </tr>
-          <tr>
-            <th scope="row">&nbsp;</th>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <th scope="row"><strong>Investing in Communities</strong></th>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Housing for Canadians in Need</span></th>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Homelessness Partnering Strategy</span></th>
-            <td class="text-right">&nbsp;</td>
-            <td class="text-right">119</td>
-            <td class="text-right">119</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Investment in Affordable Housing</span></th>
-            <td class="text-right">&nbsp;</td>
-            <td class="text-right">253</td>
-            <td class="text-right">253</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Investment in Nunavut Housing</span></th>
-            <td class="text-right">30</td>
-            <td class="text-right">70</td>
-            <td class="text-right">100</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Supporting and Honouring Veterans</span></th>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Enhancing Veterans Affairs Canada's Funeral and Burial Program</span></th>
-            <td class="text-right">63</td>
-            <td class="text-right">2</td>
-            <td class="text-right">65</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Road to 2017</span></th>
-            <td class="text-right">1</td>
-            <td class="text-right">2</td>
-            <td class="text-right">3</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Investments in Arts and Culture</span></th>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Massey Hall Revitalization</span></th>
-            <td class="text-right">8</td>
-            <td class="text-right">&nbsp;</td>
-            <td class="text-right">8</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Expanding Library Services for the</span></th>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Blind and Partially Sighted</span></th>
-            <td class="text-right">3</td>
-            <td class="text-right">&nbsp;</td>
-            <td class="text-right">3</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">First-Time Donor's Super Credit</span></th>
-            <td class="text-right">25</td>
-            <td class="text-right">25</td>
-            <td class="text-right">50</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Supporting the Economic Transition of Communities Economically Linked to the Chrysotile Asbestos Industry</span></th>
-            <td class="text-right">3</td>
-            <td class="text-right">5</td>
-            <td class="text-right">8</td>
-          </tr>
-          <tr>
-            <th scope="row">Subtotal—Investing in Communities</th>
-            <td class="text-right">133</td>
-            <td class="text-right">476</td>
-            <td class="text-right">609</td>
-          </tr>
-          <tr>
-            <th scope="row">&nbsp;</th>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <th scope="row"><strong>Protecting Canada's Natural Environment</strong></th>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Nature Conservancy of Canada</span></th>
-            <td class="text-right">20</td>
-            <td class="text-right">&nbsp;</td>
-            <td class="text-right">20</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Improving the Conservation of Fisheries</span></th>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Through Community Partnerships</span></th>
-            <td class="text-right">5</td>
-            <td class="text-right">5</td>
-            <td class="text-right">10</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Salmon Conservation Stamp</span></th>
-            <td class="text-right">1</td>
-            <td class="text-right">1</td>
-            <td class="text-right">2</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Enabling Responsible Marine Management</span></th>
-            <td class="text-right">4</td>
-            <td class="text-right">&nbsp;</td>
-            <td class="text-right">4</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Protecting Against Invasive Species</span></th>
-            <td class="text-right">2</td>
-            <td class="text-right">2</td>
-            <td class="text-right">3</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Expanding Tax Support for Clean Energy Generation</span></th>
-            <td class="text-right">&nbsp;</td>
-            <td class="text-right">1</td>
-            <td class="text-right">1</td>
-          </tr>
-          <tr>
-            <th scope="row">Subtotal—Protecting Canada's Natural Environment</th>
-            <td class="text-right">32</td>
-            <td class="text-right">9</td>
-            <td class="text-right">41</td>
-          </tr>
-          <tr>
-            <th scope="row">&nbsp;</th>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <th scope="row"><strong>Building Strong Aboriginal Communities</strong></th>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Resolving Specific Claims</span></th>
-            <td class="text-right">27</td>
-            <td class="text-right">27</td>
-            <td class="text-right">54</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">First Nations Land Management Regime</span></th>
-            <td class="text-right">2</td>
-            <td class="text-right">7</td>
-            <td class="text-right">9</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">First Nations Policing Program</span></th>
-            <td class="text-right">18</td>
-            <td class="text-right">18</td>
-            <td class="text-right">36</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Aboriginal Justice Strategy</span></th>
-            <td class="text-right">11</td>
-            <td class="text-right">&nbsp;</td>
-            <td class="text-right">11</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Renewal of the Family Violence Prevention Program</span></th>
-            <td class="text-right">12</td>
-            <td class="text-right">12</td>
-            <td class="text-right">24</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Improving Health Services to First Nations Communities</span></th>
-            <td class="text-right">24</td>
-            <td class="text-right">24</td>
-            <td class="text-right">48</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Enhancing Mental Health Services in First Nations Communities</span></th>
-            <td class="text-right">2</td>
-            <td class="text-right">2</td>
-            <td class="text-right">4</td>
-          </tr>
-          <tr>
-            <th scope="row">Subtotal—Building Strong Aboriginal Communities</th>
-            <td class="text-right">95</td>
-            <td class="text-right">90</td>
-            <td class="text-right">185</td>
-          </tr>
-          <tr>
-            <th scope="row">&nbsp;</th>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <th scope="row"><strong>Total—Supporting Families and Communities</strong></th>
-            <td class="text-right"><strong>342</strong></td>
-            <td class="text-right"><strong>657</strong></td>
-            <td class="text-right"><strong>999</strong></td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md"><strong>Less funds existing in the fiscal framework</strong></span></th>
-            <td class="text-right"><strong>76</strong></td>
-            <td class="text-right"><strong>422</strong></td>
-            <td class="text-right"><strong>498</strong></td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md"><strong>Less funds sourced from internal reallocations</strong></span></th>
-            <td class="text-right"><strong>1</strong></td>
-            <td class="text-right"><strong>11</strong></td>
-            <td class="text-right"><strong>12</strong></td>
-          </tr>
-          <tr>
-            <th scope="row"><strong>Net fiscal cost</strong></th>
-            <td class="text-right"><strong>265</strong></td>
-            <td class="text-right"><strong>224</strong></td>
-            <td class="text-right"><strong>489</strong></td>
-          </tr>
-        </tbody>
-        <tfoot>
-          <tr>
-            <td colspan="4">Note: Totals may not add due to rounding.</td>
-          </tr>
-        </tfoot>
-      </table>
-    </section>
-    <section>
-      <h4>After</h4>
-      <table class="table table-bordered table-condensed">
-        <caption class="text-center">
-        <strong>Table 1: supporting families and communities for fiscal years 2013 to 2014 and 2014 to 2015, net fiscal costs (in $ millions)<sup id="table1-fn1-rf"><a class="fn-lnk" href="#table1-fn1"><span class="wb-inv">table 1 note </span>1</a></sup></strong>
-        </caption>
-        <thead>
-          <tr class="active">
-            <th scope="col">Cost breakdown </th>
-            <th scope="col">2013 to 2014</th>
-            <th scope="col">2014 to 2015</th>
-            <th scope="col">Total</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <th scope="row">Total: supporting families and communities<sup id="table1-fn2-rf"><a class="fn-lnk" href="#table1-fn2"><span class="wb-inv">table 1 note </span>2</a></sup></th>
-            <td>342</td>
-            <td>657</td>
-            <td>999</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Less funds existing in the fiscal framework</span></th>
-            <td>(76)</td>
-            <td>(422)</td>
-            <td>(498)</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Less funds sourced from internal reallocations</span></th>
-            <td>(1)</td>
-            <td>(11)</td>
-            <td>(12)</td>
-          </tr>
-          <tr>
-            <th scope="row">Net fiscal costs</th>
-            <td>265</td>
-            <td>224</td>
-            <td>489</td>
-          </tr>
-        </tbody>
-        <tfoot>
-          <tr>
-            <td colspan="4"><section class="wb-fnote">
-                <h5 class="wb-inv" id="table1-fn">Table 1 Notes</h5>
-                <dl>
-                  <dt> Table 1 Note 1 </dt>
-                  <dd id="table1-fn1">
-                    <p>Totals may not add due to rounding.</p>
-                    <p class="fn-rtn"> <a href="#table1-fn1-rf"><span class="wb-inv">Return to table 1 note </span>1<span class="wb-inv"> referrer</span></a></p>
-                  </dd>
-                  <dt> Table 1 Note 2 </dt>
-                  <dd id="table1-fn2">
-                    <p>See Table 1B for detailed breakdown.</p>
-                    <p class="fn-rtn"> <a href="#table1-fn2-rf"><span class="wb-inv">Return to table 1 note </span>2<span class="wb-inv"> referrer</span></a></p>
-                  </dd>
-                </dl>
-              </section></td>
-          </tr>
-        </tfoot>
-      </table>
-      <table class="table table-bordered table-condensed">
-        <caption class="text-center">
-        <strong>Table 1A: supporting families and communities for fiscal years 2013 to 2014 and 2014 to 2015, total costs (in $ millions)<sup id="table2-fn1-rf"><a class="fn-lnk" href="#table2-fn1"><span class="wb-inv">table 2 note </span>1</a></sup></strong>
-        </caption>
-        <thead>
-          <tr class="active">
-            <th scope="col">Initiatives and programs</th>
-            <th class="text-right" scope="col">2013 to 2014</th>
-            <th class="text-right" scope="col">2014 to 2015</th>
-            <th class="text-right" scope="col">Total</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Support for families<sup id="table2-fn2-rf"><a class="fn-lnk" href="#table2-fn2"><span class="wb-inv">table 2 note </span>2</a></sup></span></th>
-            <td class="text-right">82</td>
-            <td class="text-right">82</td>
-            <td class="text-right">164</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Investing in communities<sup id="table2-fn3-rf"><a class="fn-lnk" href="#table2-fn3"><span class="wb-inv">table 2 note </span>3</a></sup></span></th>
-            <td class="text-right">133</td>
-            <td class="text-right">476</td>
-            <td class="text-right">609</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Protecting Canada's natural environment<sup id="table2-fn4-rf"><a class="fn-lnk" href="#table2-fn4"><span class="wb-inv">table 2 note </span>4</a></sup></span></th>
-            <td class="text-right">32</td>
-            <td class="text-right">9</td>
-            <td class="text-right">41</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Building strong Aboriginal communities<sup id="table2-fn5-rf"><a class="fn-lnk" href="#table2-fn5"><span class="wb-inv">table 2 note </span>5</a></sup></span></th>
-            <td class="text-right">95</td>
-            <td class="text-right">90</td>
-            <td class="text-right">185</td>
-          </tr>
-          <tr>
-            <th scope="row">Total: supporting families and communities </th>
-            <td class="text-right">342</td>
-            <td class="text-right">657</td>
-            <td class="text-right">999</td>
-          </tr>
-        </tbody>
-        <tfoot>
-          <tr>
-            <td colspan="4"><section class="wb-fnote">
-                <h5 class="wb-inv" id="table2-fn">Table 2 Notes</h5>
-                <dl>
-                  <dt> Table 2 Note 1 </dt>
-                  <dd id="table2-fn1">
-                    <p>Totals may not add due to rounding.</p>
-                    <p class="fn-rtn"> <a href="#table2-fn1-rf"><span class="wb-inv">Return to table 2 note </span>1<span class="wb-inv"> referrer</span></a></p>
-                  </dd>
-                  <dt> Table 2 Note 2 </dt>
-                  <dd id="table2-fn2">
-                    <p>See Table 1B for detailed breakdown.</p>
-                    <p class="fn-rtn"> <a href="#table2-fn2-rf"><span class="wb-inv">Return to table 2 note </span>2<span class="wb-inv"> referrer</span></a></p>
-                  </dd>
-                  <dt> Table 2 Note 3 </dt>
-                  <dd id="table2-fn3">
-                    <p>See Table 1C for detailed breakdown.</p>
-                    <p class="fn-rtn"> <a href="#table2-fn3-rf"><span class="wb-inv">Return to table 2 note </span>3<span class="wb-inv"> referrer</span></a></p>
-                  </dd>
-                  <dt> Table 2 Note 4 </dt>
-                  <dd id="table2-fn4">
-                    <p>See Table 1D for detailed breakdown.</p>
-                    <p class="fn-rtn"> <a href="#table2-fn4-rf"><span class="wb-inv">Return to table 2 note </span>4<span class="wb-inv"> referrer</span></a></p>
-                  </dd>
-                  <dt> Table 2 Note 5 </dt>
-                  <dd id="table2-fn5">
-                    <p>See Table 1E for detailed breakdown.</p>
-                    <p class="fn-rtn"> <a href="#table2-fn5-rf"><span class="wb-inv">Return to table 2 note </span>5<span class="wb-inv"> referrer</span></a></p>
-                  </dd>
-                </dl>
-              </section></td>
-          </tr>
-        </tfoot>
-      </table>
-      <table class="table table-bordered table-condensed">
-        <caption class="text-center">
-        <strong>Table 1B: support for families for fiscal years 2013 to 2014 and 2014 to 2015 (in $ millions)<sup id="table3-fn1-rf"><a class="fn-lnk" href="#table3-fn1"><span class="wb-inv">table 3 note </span>1</a></sup></strong>
-        </caption>
-        <thead>
-          <tr class="active">
-            <th scope="col">Initiatives and programs </th>
-            <th class="text-right" scope="col">2013 to 2014</th>
-            <th class="text-right" scope="col">2014 to 2015</th>
-            <th class="text-right" scope="col">Total</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Expanding tax relief for home care services</span></th>
-            <td class="text-right">5</td>
-            <td class="text-right">5</td>
-            <td class="text-right">10</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Palliative and end-of-life care</span></th>
-            <td class="text-right">1</td>
-            <td class="text-right">1</td>
-            <td class="text-right">2</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Tariff relief for Canadian consumers</span></th>
-            <td class="text-right">76</td>
-            <td class="text-right">76</td>
-            <td class="text-right">152</td>
-          </tr>
-          <tr>
-            <th scope="row">Subtotal: support for families</th>
-            <td class="text-right">82</td>
-            <td class="text-right">82</td>
-            <td class="text-right">164</td>
-          </tr>
-        </tbody>
-        <tfoot>
-          <tr>
-            <td colspan="4"><section class="wb-fnote">
-                <h5 class="wb-inv" id="table3-fn">Table 3 Notes</h5>
-                <dl>
-                  <dt> Table 3 Note 1 </dt>
-                  <dd id="table3-fn1">
-                    <p>Totals may not add due to rounding.</p>
-                    <p class="fn-rtn"> <a href="#table3-fn1-rf"><span class="wb-inv">Return to table 3 note </span>1<span class="wb-inv"> referrer</span></a></p>
-                  </dd>
-                </dl>
-              </section></td>
-          </tr>
-        </tfoot>
-      </table>
-      <table class="table table-bordered table-condensed">
-        <caption class="text-center">
-        <strong>Table 1C: investing in communities for fiscal years 2013 to 2014 and 2014 to 2015 (in $ millions)<sup id="table4-fn1-rf"><a class="fn-lnk" href="#table4-fn1"><span class="wb-inv">table 4 note </span>1</a></sup></strong>
-        </caption>
-        <thead>
-          <tr class="active">
-            <th scope="col">Initiatives and programs </th>
-            <th class="text-right" scope="col">2013 to 2014</th>
-            <th class="text-right" scope="col">2014 to 2015</th>
-            <th class="text-right" scope="col">Total</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Housing for Canadians in need</span></th>
-            <td class="text-right">0</td>
-            <td class="text-right">0</td>
-            <td class="text-right">0</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Homelessness partnering strategy</span></th>
-            <td class="text-right">0</td>
-            <td class="text-right">119</td>
-            <td class="text-right">119</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Investment in affordable housing</span></th>
-            <td class="text-right">0</td>
-            <td class="text-right">253</td>
-            <td class="text-right">253</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Investment in Nunavut housing</span></th>
-            <td class="text-right">30</td>
-            <td class="text-right">70</td>
-            <td class="text-right">100</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Supporting and Honouring veterans</span></th>
-            <td class="text-right">0</td>
-            <td class="text-right">0</td>
-            <td class="text-right">0</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Enhancing Veterans Affairs Canada's Funeral and Burial Program</span></th>
-            <td class="text-right">63</td>
-            <td class="text-right">2</td>
-            <td class="text-right">65</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Road to 2017</span></th>
-            <td class="text-right">1</td>
-            <td class="text-right">2</td>
-            <td class="text-right">3</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Investments in arts and culture</span></th>
-            <td class="text-right">0</td>
-            <td class="text-right">0</td>
-            <td class="text-right">0</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Massey Hall revitalization</span></th>
-            <td class="text-right">8</td>
-            <td class="text-right">0</td>
-            <td class="text-right">8</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Expanding library services for the blind and partially sighted</span></th>
-            <td class="text-right">3</td>
-            <td class="text-right">0</td>
-            <td class="text-right">3</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">First-time Donor's Super Credit</span></th>
-            <td class="text-right">25</td>
-            <td class="text-right">25</td>
-            <td class="text-right">50</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Supporting the economic transition of communities economically linked to the chrysotile asbestos industry</span></th>
-            <td class="text-right">3</td>
-            <td class="text-right">5</td>
-            <td class="text-right">8</td>
-          </tr>
-          <tr>
-            <th scope="row">Subtotal: investing in communities</th>
-            <td class="text-right">133</td>
-            <td class="text-right">476</td>
-            <td class="text-right">609</td>
-          </tr>
-        </tbody>
-        <tfoot>
-          <tr>
-            <td colspan="4"><section class="wb-fnote">
-                <h5 class="wb-inv" id="table4-fn">Table 4 Notes</h5>
-                <dl>
-                  <dt> Table 4 Note 1 </dt>
-                  <dd id="table4-fn1">
-                    <p>Totals may not add due to rounding.</p>
-                    <p class="fn-rtn"> <a href="#table4-fn1-rf"><span class="wb-inv">Return to table 4 note </span>1<span class="wb-inv"> referrer</span></a></p>
-                  </dd>
-                </dl>
-              </section></td>
-          </tr>
-        </tfoot>
-      </table>
-      <table class="table table-bordered table-condensed">
-        <caption class="text-center">
-        <strong>Table 1D: protecting Canada's natural environment for fiscal years 2013 to 2014 and 2014 to 2015 (in $&nbsp;millions)<sup id="table5-fn1-rf"><a class="fn-lnk" href="#table5-fn1"><span class="wb-inv">table 5 note </span>1</a></sup></strong>
-        </caption>
-        <thead>
-          <tr class="active">
-            <th scope="col">Initiatives and programs </th>
-            <th class="text-right" scope="col">2013 to 2014</th>
-            <th class="text-right" scope="col">2014 to 2015</th>
-            <th class="text-right" scope="col">Total</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Nature Conservancy of Canada</span></th>
-            <td class="text-right">20</td>
-            <td class="text-right">0</td>
-            <td class="text-right">20</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Improving the conservation of fisheries through community partnerships</span></th>
-            <td class="text-right">5</td>
-            <td class="text-right">5</td>
-            <td class="text-right">10</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Salmon conservation stamp</span></th>
-            <td class="text-right">1</td>
-            <td class="text-right">1</td>
-            <td class="text-right">2</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Enabling responsible marine management</span></th>
-            <td class="text-right">4</td>
-            <td class="text-right">0</td>
-            <td class="text-right">4</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Protecting against invasive species</span></th>
-            <td class="text-right">2</td>
-            <td class="text-right">2</td>
-            <td class="text-right">3</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Expanding tax support for clean energy generation</span></th>
-            <td class="text-right">0</td>
-            <td class="text-right">1</td>
-            <td class="text-right">1</td>
-          </tr>
-          <tr>
-            <th scope="row">Subtotal: protecting Canada's natural environment</th>
-            <td class="text-right">32</td>
-            <td class="text-right">9</td>
-            <td class="text-right">41</td>
-          </tr>
-        </tbody>
-        <tfoot>
-          <tr>
-            <td colspan="4"><section class="wb-fnote">
-                <h5 class="wb-inv" id="table5-fn">Table 5 Notes</h5>
-                <dl>
-                  <dt> Table 5 Note 1 </dt>
-                  <dd id="table5-fn1">
-                    <p>Totals may not add due to rounding.</p>
-                    <p class="fn-rtn"> <a href="#table5-fn1-rf"><span class="wb-inv">Return to table 5 note </span>1<span class="wb-inv"> referrer</span></a></p>
-                  </dd>
-                </dl>
-              </section></td>
-          </tr>
-        </tfoot>
-      </table>
-      <table class="table table-bordered table-condensed">
-        <caption class="text-center">
-        <strong>Table 1E: building strong Aboriginal communities for fiscal years 2013 to 2014 and 2014 to 2015 (in $&nbsp;millions)<sup id="table6-fn1-rf"><a class="fn-lnk" href="#table6-fn1"><span class="wb-inv">table 6 note </span>1</a></sup></strong>
-        </caption>
-        <thead>
-          <tr class="active">
-            <th scope="col">Initiatives and programs</th>
-            <th class="text-right" scope="col">2013 to 2014</th>
-            <th class="text-right" scope="col">2014 to 2015</th>
-            <th class="text-right" scope="col">Total</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <th scope="row" class="td"><span class="mrgn-lft-md">Resolving specific claims</span></th>
-            <td class="text-right">27</td>
-            <td class="text-right">27</td>
-            <td class="text-right">54</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">First Nations Land Management Regime</span></th>
-            <td class="text-right">2</td>
-            <td class="text-right">7</td>
-            <td class="text-right">9</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">First Nations Policing Program</span></th>
-            <td class="text-right">18</td>
-            <td class="text-right">18</td>
-            <td class="text-right">36</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Aboriginal Justice Strategy</span></th>
-            <td class="text-right">11</td>
-            <td class="text-right">0</td>
-            <td class="text-right">11</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Renewal of the Family Violence Prevention Program</span></th>
-            <td class="text-right">12</td>
-            <td class="text-right">12</td>
-            <td class="text-right">24</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Improving health services to First Nations Communities</span></th>
-            <td class="text-right">24</td>
-            <td class="text-right">24</td>
-            <td class="text-right">48</td>
-          </tr>
-          <tr>
-            <th scope="row"><span class="mrgn-lft-md">Enhancing mental health services in First Nations communities</span></th>
-            <td class="text-right">2</td>
-            <td class="text-right">2</td>
-            <td class="text-right">4</td>
-          </tr>
-          <tr>
-            <th scope="row">Subtotal: building strong Aboriginal communities</th>
-            <td class="text-right">95</td>
-            <td class="text-right">90</td>
-            <td class="text-right">185</td>
-          </tr>
-        </tbody>
-        <tfoot>
-          <tr>
-            <td colspan="4"><section class="wb-fnote">
-                <h5 class="wb-inv" id="table6-fn">Table 6 Notes</h5>
-                <dl>
-                  <dt> Table 6 Note 1 </dt>
-                  <dd id="table6-fn1">
-                    <p>Totals may not add due to rounding.</p>
-                    <p class="fn-rtn"> <a href="#table6-fn1-rf"><span class="wb-inv">Return to table 6 note </span>1<span class="wb-inv"> referrer</span></a></p>
-                  </dd>
-                </dl>
-              </section></td>
-          </tr>
-        </tfoot>
-      </table>
-    </section>
-    <section>
-      <h4>What we did</h4>
-      <p>To create these tables, we: </p>
-      <ul>
-        <li>divided a complex table into several simple tables that are more accessible and can be viewed easily on mobile devices</li>
-        <li>applied the inverted pyramid approach to provide the summary or conclusion first, followed by increasingly detailed information </li>
-        <li>created a clear title for each table</li>
-        <li>updated titles to reflect capitalization requirements</li>
-        <li>used existing subheadings embedded in the original example to create table headers</li>
-        <li>made sure that the last 3 column headers reflect the unit value of the information in each column</li>
-        <li>added zeros to provide relevant information in otherwise empty cells </li>
-        <li>removed empty cells, rows and irrelevant information (underlining) and subheadings (such as those that were not aligned with the column headers)</li>
-      </ul>
-    </section>
-  </section>
+<section id="toc12"> {% unless page.title == "Web content makeovers" %}
+  <h2>Web content makeovers</h2>
+  {% endunless %}
+  <h3>Case study A: improve plain language and content structure </h3>
+  <h4>Before</h4>
+  <p>The Employment Insurance (EI) program offers temporary financial assistance to Canadians and individuals who are legally entitled to work in Canada, have a valid Social Insurance Number and remain in Canada during their benefit period. One type of benefits that the&nbsp;EI&nbsp;program offers is regular benefits.&nbsp;EI&nbsp;regular benefits are offered to people who have lost their employment through no fault of their own (for example, because of a shortage of work or because they were employed in seasonal work) and who are ready, willing, and capable of working each day but unable to find work.</p>
+  <p>Flesch-Kincaid reading level: 17.2</p>
+  <h4>After</h4>
+  <p>The Employment Insurance (EI) program could give you temporary financial help if you lost your job.</p>
+  <p>To qualify for regular benefits, you must: </p>
+  <ul>
+    <li>be Canadian or legally able to work in Canada</li>
+    <li>have a valid social insurance number</li>
+    <li>have lost your job through no fault of your own</li>
+    <li>be ready, willing and able to work each day but still can't find work</li>
+    <li>stay in Canada while you're getting EI help</li>
+  </ul>
+  <p>Flesch-Kincaidreading level<em>: </em>5.9</p>
+  <h4>What we did</h4>
+  <p>To improve this content, we:</p>
+  <ul>
+    <li>created a list out of the items in the text&nbsp; </li>
+    <li>replaced complex nouns with verbs and complex verbs with simpler forms</li>
+  </ul>
+  <h3>Case study B: improve and simplify tables</h3>
+  <h4>Before</h4>
+  <table class="table table-bordered table-condensed">
+    <caption class="text-center">
+    <strong>Table: supporting families and communities (in $ millions), Budget 2013</strong>
+    </caption>
+    <thead>
+      <tr class="active">
+        <th scope="col">Supporting Families and Communities (in $ millions)</th>
+        <th class="text-right" scope="col">2013 to 2014</th>
+        <th class="text-right" scope="col">2014 to 2015</th>
+        <th class="text-right" scope="col">Total</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row"><strong>Support for Families</strong></th>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Expanding Tax Relief for Home Care Services</span></th>
+        <td class="text-right">5</td>
+        <td class="text-right">5</td>
+        <td class="text-right">10</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Palliative and End-of-Life Care</span></th>
+        <td class="text-right">1</td>
+        <td class="text-right">1</td>
+        <td class="text-right">2</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Tariff Relief for Canadians Consumers</span></th>
+        <td class="text-right">76</td>
+        <td class="text-right">76</td>
+        <td class="text-right">152</td>
+      </tr>
+      <tr>
+        <th scope="row">Subtotal—Support for Families</th>
+        <td class="text-right">82</td>
+        <td class="text-right">82</td>
+        <td class="text-right">164</td>
+      </tr>
+      <tr>
+        <th scope="row">&nbsp;</th>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Investing in Communities</strong></th>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Housing for Canadians in Need</span></th>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Homelessness Partnering Strategy</span></th>
+        <td class="text-right">&nbsp;</td>
+        <td class="text-right">119</td>
+        <td class="text-right">119</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Investment in Affordable Housing</span></th>
+        <td class="text-right">&nbsp;</td>
+        <td class="text-right">253</td>
+        <td class="text-right">253</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Investment in Nunavut Housing</span></th>
+        <td class="text-right">30</td>
+        <td class="text-right">70</td>
+        <td class="text-right">100</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Supporting and Honouring Veterans</span></th>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Enhancing Veterans Affairs Canada's Funeral and Burial Program</span></th>
+        <td class="text-right">63</td>
+        <td class="text-right">2</td>
+        <td class="text-right">65</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Road to 2017</span></th>
+        <td class="text-right">1</td>
+        <td class="text-right">2</td>
+        <td class="text-right">3</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Investments in Arts and Culture</span></th>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Massey Hall Revitalization</span></th>
+        <td class="text-right">8</td>
+        <td class="text-right">&nbsp;</td>
+        <td class="text-right">8</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Expanding Library Services for the</span></th>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Blind and Partially Sighted</span></th>
+        <td class="text-right">3</td>
+        <td class="text-right">&nbsp;</td>
+        <td class="text-right">3</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">First-Time Donor's Super Credit</span></th>
+        <td class="text-right">25</td>
+        <td class="text-right">25</td>
+        <td class="text-right">50</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Supporting the Economic Transition of Communities Economically Linked to the Chrysotile Asbestos Industry</span></th>
+        <td class="text-right">3</td>
+        <td class="text-right">5</td>
+        <td class="text-right">8</td>
+      </tr>
+      <tr>
+        <th scope="row">Subtotal—Investing in Communities</th>
+        <td class="text-right">133</td>
+        <td class="text-right">476</td>
+        <td class="text-right">609</td>
+      </tr>
+      <tr>
+        <th scope="row">&nbsp;</th>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Protecting Canada's Natural Environment</strong></th>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Nature Conservancy of Canada</span></th>
+        <td class="text-right">20</td>
+        <td class="text-right">&nbsp;</td>
+        <td class="text-right">20</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Improving the Conservation of Fisheries</span></th>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Through Community Partnerships</span></th>
+        <td class="text-right">5</td>
+        <td class="text-right">5</td>
+        <td class="text-right">10</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Salmon Conservation Stamp</span></th>
+        <td class="text-right">1</td>
+        <td class="text-right">1</td>
+        <td class="text-right">2</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Enabling Responsible Marine Management</span></th>
+        <td class="text-right">4</td>
+        <td class="text-right">&nbsp;</td>
+        <td class="text-right">4</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Protecting Against Invasive Species</span></th>
+        <td class="text-right">2</td>
+        <td class="text-right">2</td>
+        <td class="text-right">3</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Expanding Tax Support for Clean Energy Generation</span></th>
+        <td class="text-right">&nbsp;</td>
+        <td class="text-right">1</td>
+        <td class="text-right">1</td>
+      </tr>
+      <tr>
+        <th scope="row">Subtotal—Protecting Canada's Natural Environment</th>
+        <td class="text-right">32</td>
+        <td class="text-right">9</td>
+        <td class="text-right">41</td>
+      </tr>
+      <tr>
+        <th scope="row">&nbsp;</th>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Building Strong Aboriginal Communities</strong></th>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Resolving Specific Claims</span></th>
+        <td class="text-right">27</td>
+        <td class="text-right">27</td>
+        <td class="text-right">54</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">First Nations Land Management Regime</span></th>
+        <td class="text-right">2</td>
+        <td class="text-right">7</td>
+        <td class="text-right">9</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">First Nations Policing Program</span></th>
+        <td class="text-right">18</td>
+        <td class="text-right">18</td>
+        <td class="text-right">36</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Aboriginal Justice Strategy</span></th>
+        <td class="text-right">11</td>
+        <td class="text-right">&nbsp;</td>
+        <td class="text-right">11</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Renewal of the Family Violence Prevention Program</span></th>
+        <td class="text-right">12</td>
+        <td class="text-right">12</td>
+        <td class="text-right">24</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Improving Health Services to First Nations Communities</span></th>
+        <td class="text-right">24</td>
+        <td class="text-right">24</td>
+        <td class="text-right">48</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Enhancing Mental Health Services in First Nations Communities</span></th>
+        <td class="text-right">2</td>
+        <td class="text-right">2</td>
+        <td class="text-right">4</td>
+      </tr>
+      <tr>
+        <th scope="row">Subtotal—Building Strong Aboriginal Communities</th>
+        <td class="text-right">95</td>
+        <td class="text-right">90</td>
+        <td class="text-right">185</td>
+      </tr>
+      <tr>
+        <th scope="row">&nbsp;</th>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Total—Supporting Families and Communities</strong></th>
+        <td class="text-right"><strong>342</strong></td>
+        <td class="text-right"><strong>657</strong></td>
+        <td class="text-right"><strong>999</strong></td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md"><strong>Less funds existing in the fiscal framework</strong></span></th>
+        <td class="text-right"><strong>76</strong></td>
+        <td class="text-right"><strong>422</strong></td>
+        <td class="text-right"><strong>498</strong></td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md"><strong>Less funds sourced from internal reallocations</strong></span></th>
+        <td class="text-right"><strong>1</strong></td>
+        <td class="text-right"><strong>11</strong></td>
+        <td class="text-right"><strong>12</strong></td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Net fiscal cost</strong></th>
+        <td class="text-right"><strong>265</strong></td>
+        <td class="text-right"><strong>224</strong></td>
+        <td class="text-right"><strong>489</strong></td>
+      </tr>
+    </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="4">Note: Totals may not add due to rounding.</td>
+      </tr>
+    </tfoot>
+  </table>
+  <h4>After</h4>
+  <table class="table table-bordered table-condensed">
+    <caption class="text-center">
+    <strong>Table 1: supporting families and communities for fiscal years 2013 to 2014 and 2014 to 2015, net fiscal costs (in $ millions)<sup id="table1-fn1-rf"><a class="fn-lnk" href="#table1-fn1"><span class="wb-inv">table 1 note </span>1</a></sup></strong>
+    </caption>
+    <thead>
+      <tr class="active">
+        <th scope="col">Cost breakdown </th>
+        <th scope="col">2013 to 2014</th>
+        <th scope="col">2014 to 2015</th>
+        <th scope="col">Total</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row">Total: supporting families and communities<sup id="table1-fn2-rf"><a class="fn-lnk" href="#table1-fn2"><span class="wb-inv">table 1 note </span>2</a></sup></th>
+        <td>342</td>
+        <td>657</td>
+        <td>999</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Less funds existing in the fiscal framework</span></th>
+        <td>(76)</td>
+        <td>(422)</td>
+        <td>(498)</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Less funds sourced from internal reallocations</span></th>
+        <td>(1)</td>
+        <td>(11)</td>
+        <td>(12)</td>
+      </tr>
+      <tr>
+        <th scope="row">Net fiscal costs</th>
+        <td>265</td>
+        <td>224</td>
+        <td>489</td>
+      </tr>
+    </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="4"><section class="wb-fnote">
+            <h5 class="wb-inv" id="table1-fn">Table 1 Notes</h5>
+            <dl>
+              <dt> Table 1 Note 1 </dt>
+              <dd id="table1-fn1">
+                <p>Totals may not add due to rounding.</p>
+                <p class="fn-rtn"> <a href="#table1-fn1-rf"><span class="wb-inv">Return to table 1 note </span>1<span class="wb-inv"> referrer</span></a></p>
+              </dd>
+              <dt> Table 1 Note 2 </dt>
+              <dd id="table1-fn2">
+                <p>See Table 1B for detailed breakdown.</p>
+                <p class="fn-rtn"> <a href="#table1-fn2-rf"><span class="wb-inv">Return to table 1 note </span>2<span class="wb-inv"> referrer</span></a></p>
+              </dd>
+            </dl>
+          </section></td>
+      </tr>
+    </tfoot>
+  </table>
+  <table class="table table-bordered table-condensed">
+    <caption class="text-center">
+    <strong>Table 1A: supporting families and communities for fiscal years 2013 to 2014 and 2014 to 2015, total costs (in $ millions)<sup id="table2-fn1-rf"><a class="fn-lnk" href="#table2-fn1"><span class="wb-inv">table 2 note </span>1</a></sup></strong>
+    </caption>
+    <thead>
+      <tr class="active">
+        <th scope="col">Initiatives and programs</th>
+        <th class="text-right" scope="col">2013 to 2014</th>
+        <th class="text-right" scope="col">2014 to 2015</th>
+        <th class="text-right" scope="col">Total</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Support for families<sup id="table2-fn2-rf"><a class="fn-lnk" href="#table2-fn2"><span class="wb-inv">table 2 note </span>2</a></sup></span></th>
+        <td class="text-right">82</td>
+        <td class="text-right">82</td>
+        <td class="text-right">164</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Investing in communities<sup id="table2-fn3-rf"><a class="fn-lnk" href="#table2-fn3"><span class="wb-inv">table 2 note </span>3</a></sup></span></th>
+        <td class="text-right">133</td>
+        <td class="text-right">476</td>
+        <td class="text-right">609</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Protecting Canada's natural environment<sup id="table2-fn4-rf"><a class="fn-lnk" href="#table2-fn4"><span class="wb-inv">table 2 note </span>4</a></sup></span></th>
+        <td class="text-right">32</td>
+        <td class="text-right">9</td>
+        <td class="text-right">41</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Building strong Aboriginal communities<sup id="table2-fn5-rf"><a class="fn-lnk" href="#table2-fn5"><span class="wb-inv">table 2 note </span>5</a></sup></span></th>
+        <td class="text-right">95</td>
+        <td class="text-right">90</td>
+        <td class="text-right">185</td>
+      </tr>
+      <tr>
+        <th scope="row">Total: supporting families and communities </th>
+        <td class="text-right">342</td>
+        <td class="text-right">657</td>
+        <td class="text-right">999</td>
+      </tr>
+    </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="4"><section class="wb-fnote">
+            <h5 class="wb-inv" id="table2-fn">Table 2 Notes</h5>
+            <dl>
+              <dt> Table 2 Note 1 </dt>
+              <dd id="table2-fn1">
+                <p>Totals may not add due to rounding.</p>
+                <p class="fn-rtn"> <a href="#table2-fn1-rf"><span class="wb-inv">Return to table 2 note </span>1<span class="wb-inv"> referrer</span></a></p>
+              </dd>
+              <dt> Table 2 Note 2 </dt>
+              <dd id="table2-fn2">
+                <p>See Table 1B for detailed breakdown.</p>
+                <p class="fn-rtn"> <a href="#table2-fn2-rf"><span class="wb-inv">Return to table 2 note </span>2<span class="wb-inv"> referrer</span></a></p>
+              </dd>
+              <dt> Table 2 Note 3 </dt>
+              <dd id="table2-fn3">
+                <p>See Table 1C for detailed breakdown.</p>
+                <p class="fn-rtn"> <a href="#table2-fn3-rf"><span class="wb-inv">Return to table 2 note </span>3<span class="wb-inv"> referrer</span></a></p>
+              </dd>
+              <dt> Table 2 Note 4 </dt>
+              <dd id="table2-fn4">
+                <p>See Table 1D for detailed breakdown.</p>
+                <p class="fn-rtn"> <a href="#table2-fn4-rf"><span class="wb-inv">Return to table 2 note </span>4<span class="wb-inv"> referrer</span></a></p>
+              </dd>
+              <dt> Table 2 Note 5 </dt>
+              <dd id="table2-fn5">
+                <p>See Table 1E for detailed breakdown.</p>
+                <p class="fn-rtn"> <a href="#table2-fn5-rf"><span class="wb-inv">Return to table 2 note </span>5<span class="wb-inv"> referrer</span></a></p>
+              </dd>
+            </dl>
+          </section></td>
+      </tr>
+    </tfoot>
+  </table>
+  <table class="table table-bordered table-condensed">
+    <caption class="text-center">
+    <strong>Table 1B: support for families for fiscal years 2013 to 2014 and 2014 to 2015 (in $ millions)<sup id="table3-fn1-rf"><a class="fn-lnk" href="#table3-fn1"><span class="wb-inv">table 3 note </span>1</a></sup></strong>
+    </caption>
+    <thead>
+      <tr class="active">
+        <th scope="col">Initiatives and programs </th>
+        <th class="text-right" scope="col">2013 to 2014</th>
+        <th class="text-right" scope="col">2014 to 2015</th>
+        <th class="text-right" scope="col">Total</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Expanding tax relief for home care services</span></th>
+        <td class="text-right">5</td>
+        <td class="text-right">5</td>
+        <td class="text-right">10</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Palliative and end-of-life care</span></th>
+        <td class="text-right">1</td>
+        <td class="text-right">1</td>
+        <td class="text-right">2</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Tariff relief for Canadian consumers</span></th>
+        <td class="text-right">76</td>
+        <td class="text-right">76</td>
+        <td class="text-right">152</td>
+      </tr>
+      <tr>
+        <th scope="row">Subtotal: support for families</th>
+        <td class="text-right">82</td>
+        <td class="text-right">82</td>
+        <td class="text-right">164</td>
+      </tr>
+    </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="4"><section class="wb-fnote">
+            <h5 class="wb-inv" id="table3-fn">Table 3 Notes</h5>
+            <dl>
+              <dt> Table 3 Note 1 </dt>
+              <dd id="table3-fn1">
+                <p>Totals may not add due to rounding.</p>
+                <p class="fn-rtn"> <a href="#table3-fn1-rf"><span class="wb-inv">Return to table 3 note </span>1<span class="wb-inv"> referrer</span></a></p>
+              </dd>
+            </dl>
+          </section></td>
+      </tr>
+    </tfoot>
+  </table>
+  <table class="table table-bordered table-condensed">
+    <caption class="text-center">
+    <strong>Table 1C: investing in communities for fiscal years 2013 to 2014 and 2014 to 2015 (in $ millions)<sup id="table4-fn1-rf"><a class="fn-lnk" href="#table4-fn1"><span class="wb-inv">table 4 note </span>1</a></sup></strong>
+    </caption>
+    <thead>
+      <tr class="active">
+        <th scope="col">Initiatives and programs </th>
+        <th class="text-right" scope="col">2013 to 2014</th>
+        <th class="text-right" scope="col">2014 to 2015</th>
+        <th class="text-right" scope="col">Total</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Housing for Canadians in need</span></th>
+        <td class="text-right">0</td>
+        <td class="text-right">0</td>
+        <td class="text-right">0</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Homelessness partnering strategy</span></th>
+        <td class="text-right">0</td>
+        <td class="text-right">119</td>
+        <td class="text-right">119</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Investment in affordable housing</span></th>
+        <td class="text-right">0</td>
+        <td class="text-right">253</td>
+        <td class="text-right">253</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Investment in Nunavut housing</span></th>
+        <td class="text-right">30</td>
+        <td class="text-right">70</td>
+        <td class="text-right">100</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Supporting and Honouring veterans</span></th>
+        <td class="text-right">0</td>
+        <td class="text-right">0</td>
+        <td class="text-right">0</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Enhancing Veterans Affairs Canada's Funeral and Burial Program</span></th>
+        <td class="text-right">63</td>
+        <td class="text-right">2</td>
+        <td class="text-right">65</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Road to 2017</span></th>
+        <td class="text-right">1</td>
+        <td class="text-right">2</td>
+        <td class="text-right">3</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Investments in arts and culture</span></th>
+        <td class="text-right">0</td>
+        <td class="text-right">0</td>
+        <td class="text-right">0</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Massey Hall revitalization</span></th>
+        <td class="text-right">8</td>
+        <td class="text-right">0</td>
+        <td class="text-right">8</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Expanding library services for the blind and partially sighted</span></th>
+        <td class="text-right">3</td>
+        <td class="text-right">0</td>
+        <td class="text-right">3</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">First-time Donor's Super Credit</span></th>
+        <td class="text-right">25</td>
+        <td class="text-right">25</td>
+        <td class="text-right">50</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Supporting the economic transition of communities economically linked to the chrysotile asbestos industry</span></th>
+        <td class="text-right">3</td>
+        <td class="text-right">5</td>
+        <td class="text-right">8</td>
+      </tr>
+      <tr>
+        <th scope="row">Subtotal: investing in communities</th>
+        <td class="text-right">133</td>
+        <td class="text-right">476</td>
+        <td class="text-right">609</td>
+      </tr>
+    </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="4"><section class="wb-fnote">
+            <h5 class="wb-inv" id="table4-fn">Table 4 Notes</h5>
+            <dl>
+              <dt> Table 4 Note 1 </dt>
+              <dd id="table4-fn1">
+                <p>Totals may not add due to rounding.</p>
+                <p class="fn-rtn"> <a href="#table4-fn1-rf"><span class="wb-inv">Return to table 4 note </span>1<span class="wb-inv"> referrer</span></a></p>
+              </dd>
+            </dl>
+          </section></td>
+      </tr>
+    </tfoot>
+  </table>
+  <table class="table table-bordered table-condensed">
+    <caption class="text-center">
+    <strong>Table 1D: protecting Canada's natural environment for fiscal years 2013 to 2014 and 2014 to 2015 (in $&nbsp;millions)<sup id="table5-fn1-rf"><a class="fn-lnk" href="#table5-fn1"><span class="wb-inv">table 5 note </span>1</a></sup></strong>
+    </caption>
+    <thead>
+      <tr class="active">
+        <th scope="col">Initiatives and programs </th>
+        <th class="text-right" scope="col">2013 to 2014</th>
+        <th class="text-right" scope="col">2014 to 2015</th>
+        <th class="text-right" scope="col">Total</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Nature Conservancy of Canada</span></th>
+        <td class="text-right">20</td>
+        <td class="text-right">0</td>
+        <td class="text-right">20</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Improving the conservation of fisheries through community partnerships</span></th>
+        <td class="text-right">5</td>
+        <td class="text-right">5</td>
+        <td class="text-right">10</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Salmon conservation stamp</span></th>
+        <td class="text-right">1</td>
+        <td class="text-right">1</td>
+        <td class="text-right">2</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Enabling responsible marine management</span></th>
+        <td class="text-right">4</td>
+        <td class="text-right">0</td>
+        <td class="text-right">4</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Protecting against invasive species</span></th>
+        <td class="text-right">2</td>
+        <td class="text-right">2</td>
+        <td class="text-right">3</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Expanding tax support for clean energy generation</span></th>
+        <td class="text-right">0</td>
+        <td class="text-right">1</td>
+        <td class="text-right">1</td>
+      </tr>
+      <tr>
+        <th scope="row">Subtotal: protecting Canada's natural environment</th>
+        <td class="text-right">32</td>
+        <td class="text-right">9</td>
+        <td class="text-right">41</td>
+      </tr>
+    </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="4"><section class="wb-fnote">
+            <h5 class="wb-inv" id="table5-fn">Table 5 Notes</h5>
+            <dl>
+              <dt> Table 5 Note 1 </dt>
+              <dd id="table5-fn1">
+                <p>Totals may not add due to rounding.</p>
+                <p class="fn-rtn"> <a href="#table5-fn1-rf"><span class="wb-inv">Return to table 5 note </span>1<span class="wb-inv"> referrer</span></a></p>
+              </dd>
+            </dl>
+          </section></td>
+      </tr>
+    </tfoot>
+  </table>
+  <table class="table table-bordered table-condensed">
+    <caption class="text-center">
+    <strong>Table 1E: building strong Aboriginal communities for fiscal years 2013 to 2014 and 2014 to 2015 (in $&nbsp;millions)<sup id="table6-fn1-rf"><a class="fn-lnk" href="#table6-fn1"><span class="wb-inv">table 6 note </span>1</a></sup></strong>
+    </caption>
+    <thead>
+      <tr class="active">
+        <th scope="col">Initiatives and programs</th>
+        <th class="text-right" scope="col">2013 to 2014</th>
+        <th class="text-right" scope="col">2014 to 2015</th>
+        <th class="text-right" scope="col">Total</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row" class="td"><span class="mrgn-lft-md">Resolving specific claims</span></th>
+        <td class="text-right">27</td>
+        <td class="text-right">27</td>
+        <td class="text-right">54</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">First Nations Land Management Regime</span></th>
+        <td class="text-right">2</td>
+        <td class="text-right">7</td>
+        <td class="text-right">9</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">First Nations Policing Program</span></th>
+        <td class="text-right">18</td>
+        <td class="text-right">18</td>
+        <td class="text-right">36</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Aboriginal Justice Strategy</span></th>
+        <td class="text-right">11</td>
+        <td class="text-right">0</td>
+        <td class="text-right">11</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Renewal of the Family Violence Prevention Program</span></th>
+        <td class="text-right">12</td>
+        <td class="text-right">12</td>
+        <td class="text-right">24</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Improving health services to First Nations Communities</span></th>
+        <td class="text-right">24</td>
+        <td class="text-right">24</td>
+        <td class="text-right">48</td>
+      </tr>
+      <tr>
+        <th scope="row"><span class="mrgn-lft-md">Enhancing mental health services in First Nations communities</span></th>
+        <td class="text-right">2</td>
+        <td class="text-right">2</td>
+        <td class="text-right">4</td>
+      </tr>
+      <tr>
+        <th scope="row">Subtotal: building strong Aboriginal communities</th>
+        <td class="text-right">95</td>
+        <td class="text-right">90</td>
+        <td class="text-right">185</td>
+      </tr>
+    </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="4"><section class="wb-fnote">
+            <h5 class="wb-inv" id="table6-fn">Table 6 Notes</h5>
+            <dl>
+              <dt> Table 6 Note 1 </dt>
+              <dd id="table6-fn1">
+                <p>Totals may not add due to rounding.</p>
+                <p class="fn-rtn"> <a href="#table6-fn1-rf"><span class="wb-inv">Return to table 6 note </span>1<span class="wb-inv"> referrer</span></a></p>
+              </dd>
+            </dl>
+          </section></td>
+      </tr>
+    </tfoot>
+  </table>
+  <h4>What we did</h4>
+  <p>To create these tables, we: </p>
+  <ul>
+    <li>divided a complex table into several simple tables that are more accessible and can be viewed easily on mobile devices</li>
+    <li>applied the inverted pyramid approach to provide the summary or conclusion first, followed by increasingly detailed information </li>
+    <li>created a clear title for each table</li>
+    <li>updated titles to reflect capitalization requirements</li>
+    <li>used existing subheadings embedded in the original example to create table headers</li>
+    <li>made sure that the last 3 column headers reflect the unit value of the information in each column</li>
+    <li>added zeros to provide relevant information in otherwise empty cells </li>
+    <li>removed empty cells, rows and irrelevant information (underlining) and subheadings (such as those that were not aligned with the column headers)</li>
+  </ul>
 </section>
-<section>
-  <h2 id="toc13">Resources</h2>
-  <p><cite><a href="https://www.canadapost.ca/tools/pg/manual/PGaddress-e.asp">Addressing Guidelines</a></cite>, Canada Post<br>
-    <a href="https://www.omafra.gov.on.ca/english/nfporgs/07-049.htm">Clear Writing</a>, Ministry of Agriculture, Food and Rural Affairs of Ontario<br>
-    <cite><a href="https://www.publications.gc.ca/site/eng/413603/publication.html">Communicating with Seniors: Advice, Techniques and Tips</a></cite>, Health Canada <br>
-    <a href="https://dyslexiahelp.umich.edu/sites/default/files/good_fonts_for_dyslexia_study.pdf">Good Fonts for Dyslexia</a>, Luz Rello, NLP &amp; Web Research Groups, et Ricardo Baeza-Yates, Yahoo! Labs &amp; Web Research Group, UPF<br>
-    <a href="https://www.nngroup.com/articles/how-users-read-on-the-web/">How Users Read on the Web, Nielsen Norman Group</a><br>
-    <cite><a href="https://ccat-ctac.org/CMFiles/Publication/CCAT-EN-new2.pdf">Introduction to Administrative Justice and To Plain Language</a></cite> (PDF), Council of Canadian Administrative Tribunals<br>
-    <a href="https://www.gov.uk/guidance/content-design/what-is-content-design">Introduction to content design</a>, Government Digital Service, GOV.UK<br>
-    <a href="https://www.noslangues-ourlanguages.gc.ca/index-eng.php">Language Portal of Canada</a>, Government of Canada<br>
-    <cite><a href="https://www.ccat-ctac.org/CMFiles/Publication/Literacyandjustice.pdf">Literacy and Access to Administrative Justice in Canada</a></cite> (PDF), Council of Canadian Administrative Tribunals<br>
-    <a href="https://abclifeliteracy.ca/workplace-literacy-facts">Literacy and Numeracy in Canada</a>, ABC Life Literacy Canada<br>
-    <a href="https://www.nngroup.com/articles/writing-for-lower-literacy-users/">Lower-Literacy Users: Writing for a Broad Consumer Audience</a>, Jakob Nielsen, Nielsen Norman Group<br>
-    <a href="https://www.nngroup.com/articles/minimize-cognitive-load/">Minimize Cognitive Load to Maximize Usability</a>, Kathryn Whitenton, Nielsen Norman Group<br>
-    <a href="https://www.nngroup.com/articles/mobile-ux/">Mobile User Experience: Limitations and Strengths</a>, Raluca Budio, Nielsen Norman Group<br>
-    <a href="https://grammar.about.com/od/mo/g/Negative-Contraction.htm">Negative contraction</a>, Richard Nordquist<br>
-    <cite><a href="https://publications.gc.ca/site/eng/9.644871/publication.html">Plain Language Clear and Simple</a></cite>, Public Works and Government Services Canada (reprinted 2003)<br>
-    <a href="https://plainlanguagenetwork.org/">Plain Language Association International</a><br>
-    <a href="https://www.navigatormm.com/blog/plain-language-please-heres-why-to-avoid-marketese-online/">Plain Language, Please! Here's Why to Avoid "Marketese" Only</a>, Sarah Bauer<br>
-    <cite><a href="https://www.publications.gc.ca/site/eng/9.695565/publication.html">Reaching Out: A Guide to Communicating With Aboriginal Seniors</a></cite>, Health Canada <br>
-    <a href="https://www.noslangues-ourlanguages.gc.ca/index-eng.php">Resources of the Language Portal of Canada</a>, Government of Canada<br>
-    <cite><a href="https://www.statcan.gc.ca/pub/89-555-x/89-555-x2013001-eng.htm">Skills in Canada: First Results from the Programme for the International Assessment of Adult Competencies</a></cite>, Statistics Canada<br>
-    <a href="https://www.statcan.gc.ca/daily-quotidien/160518/dq160518b-eng.htm">Study: Literacy and numeracy among off-reserve First Nations people and Métis</a>, 2012, Statistics Canada<br>
-    <a href="https://www.statcan.gc.ca/daily-quotidien/141104/dq141104b-eng.htm">Study: University graduates with lower levels of literacy and numeracy skills</a>, 2012, Statistics Canada<br>
-    <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;index=frt">TERMIUM Plus</a>®, Translation Bureau<br>
-    <cite><a href="https://www.btb.termiumplus.gc.ca/tpv2guides/guides/tcdnstyl/index-eng.html?lang=eng">The Canadian Style</a></cite>, Translation Bureau <br>
-    <a href="https://www.musanim.com/miller1956/">The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing</a>, George A. Miller<br>
-    <a href="https://gathercontent.com/blog/use-pair-writing-to-collaborate-with-subject-matter-experts">Use pair writing to collaborate with subject matter experts</a>, Jonathan Kahn, GatherContent<br>
-    <a href="https://www.searchenginepeople.com/blog/watch-your-punctuation-online.html">Watch Your Punctuation Online</a>, Search Engine People<br>
-    <cite><a href="https://www.w3.org/TR/WCAG/">Web Content Accessibility Guidelines (WCAG) 2.0</a></cite>, World Wide Web Consortium (W3C)<br>
-    <a href="https://www.deque.com/blog/dont-screen-readers-read-whats-screen-part-1-punctuation-typographic-symbols/">Why Don't Screen Readers Always Read What's on the Screen?</a>, The Deque Blog<br>
-    <a href="https://www.nngroup.com/topic/writing-web/">Writing for the web</a>, Nielsen Norman Group<br>
-    <cite><a href="https://www.uottawa.ca/uoweb/en/web-standards/web-writing">Writing for the Web: Principles and Guidelines</a></cite>, University of Ottawa</p>
+<section id="toc13"> {% unless page.title == "Resources" %}
+  <h2>Resources</h2>
+  {% endunless %}
+  <ul>
+    <li><a href="https://www.canadapost.ca/tools/pg/manual/PGaddress-e.asp">Addressing Guidelines</a>, Canada Post</li>
+    <li><a href="https://www.omafra.gov.on.ca/english/nfporgs/07-049.htm">Clear Writing</a>, Ministry of Agriculture, Food and Rural Affairs of Ontario</li>
+    <li><a href="https://www.publications.gc.ca/site/eng/413603/publication.html">Communicating with Seniors: Advice, Techniques and Tips</a>, Health Canada</li>
+    <li><a href="https://dyslexiahelp.umich.edu/sites/default/files/good_fonts_for_dyslexia_study.pdf">Good Fonts for Dyslexia</a>, Luz Rello, NLP &amp; Web Research Groups, et Ricardo Baeza-Yates, Yahoo! Labs &amp; Web Research Group, UPF</li>
+    <li><a href="https://www.nngroup.com/articles/how-users-read-on-the-web/">How Users Read on the Web, Nielsen Norman Group</a></li>
+    <li><a href="https://ccat-ctac.org/CMFiles/Publication/CCAT-EN-new2.pdf">Introduction to Administrative Justice and To Plain Language</a> (PDF), Council of Canadian Administrative Tribunals</li>
+    <li><a href="https://www.gov.uk/guidance/content-design/what-is-content-design">Introduction to content design</a>, Government Digital Service, GOV.UK</li>
+    <li><a href="https://www.noslangues-ourlanguages.gc.ca/index-eng.php">Language Portal of Canada</a>, Government of Canada</li>
+    <li><a href="https://www.ccat-ctac.org/CMFiles/Publication/Literacyandjustice.pdf">Literacy and Access to Administrative Justice in Canada</a> (PDF), Council of Canadian Administrative Tribunals</li>
+    <li><a href="https://abclifeliteracy.ca/workplace-literacy-facts">Literacy and Numeracy in Canada</a>, ABC Life Literacy Canada</li>
+    <li><a href="https://www.nngroup.com/articles/writing-for-lower-literacy-users/">Lower-Literacy Users: Writing for a Broad Consumer Audience</a>, Jakob Nielsen, Nielsen Norman Group</li>
+    <li><a href="https://www.nngroup.com/articles/minimize-cognitive-load/">Minimize Cognitive Load to Maximize Usability</a>, Kathryn Whitenton, Nielsen Norman Group</li>
+    <li><a href="https://www.nngroup.com/articles/mobile-ux/">Mobile User Experience: Limitations and Strengths</a>, Raluca Budio, Nielsen Norman Group</li>
+    <li><a href="https://grammar.about.com/od/mo/g/Negative-Contraction.htm">Negative contraction</a>, Richard Nordquist</li>
+    <li><a href="https://publications.gc.ca/site/eng/9.644871/publication.html">Plain Language Clear and Simple</a>, Public Works and Government Services Canada (reprinted 2003)</li>
+    <li><a href="https://plainlanguagenetwork.org/">Plain Language Association International</a></li>
+    <li><a href="https://www.navigatormm.com/blog/plain-language-please-heres-why-to-avoid-marketese-online/">Plain Language, Please! Here's Why to Avoid "Marketese" Only</a>, Sarah Bauer</li>
+    <li><a href="https://www.publications.gc.ca/site/eng/9.695565/publication.html">Reaching Out: A Guide to Communicating With Aboriginal Seniors</a>, Health Canada</li>
+    <li><a href="https://www.noslangues-ourlanguages.gc.ca/index-eng.php">Resources of the Language Portal of Canada</a>, Government of Canada</li>
+    <li><a href="https://www.statcan.gc.ca/pub/89-555-x/89-555-x2013001-eng.htm">Skills in Canada: First Results from the Programme for the International Assessment of Adult Competencies</a>, Statistics Canada</li>
+    <li><a href="https://www.statcan.gc.ca/daily-quotidien/160518/dq160518b-eng.htm">Study: Literacy and numeracy among off-reserve First Nations people and Métis</a>, 2012, Statistics Canada</li>
+    <li><a href="https://www.statcan.gc.ca/daily-quotidien/141104/dq141104b-eng.htm">Study: University graduates with lower levels of literacy and numeracy skills</a>, 2012, Statistics Canada</li>
+    <li><a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;index=frt">TERMIUM Plus</a>®, Translation Bureau</li>
+    <li><a href="https://www.btb.termiumplus.gc.ca/tpv2guides/guides/tcdnstyl/index-eng.html?lang=eng">The Canadian Style</a>, Translation Bureau</li>
+    <li><a href="https://www.musanim.com/miller1956/">The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing</a>, George A. Miller</li>
+    <li><a href="https://gathercontent.com/blog/use-pair-writing-to-collaborate-with-subject-matter-experts">Use pair writing to collaborate with subject matter experts</a>, Jonathan Kahn, GatherContent</li>
+    <li><a href="https://www.searchenginepeople.com/blog/watch-your-punctuation-online.html">Watch Your Punctuation Online</a>, Search Engine People</li>
+    <li><a href="https://www.w3.org/TR/WCAG/">Web Content Accessibility Guidelines (WCAG) 2.0</a>, World Wide Web Consortium (W3C)</li>
+    <li><a href="https://www.deque.com/blog/dont-screen-readers-read-whats-screen-part-1-punctuation-typographic-symbols/">Why Don't Screen Readers Always Read What's on the Screen?</a>, The Deque Blog</li>
+    <li><a href="https://www.nngroup.com/topic/writing-web/">Writing for the web</a>, Nielsen Norman Group</li>
+    <li><a href="https://www.uottawa.ca/uoweb/en/web-standards/web-writing">Writing for the Web: Principles and Guidelines</a>, University of Ottawa</li>
+  </ul>
 </section>
