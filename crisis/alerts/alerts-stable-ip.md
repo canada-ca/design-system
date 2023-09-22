@@ -1,6 +1,5 @@
 ---
 altLangPage: https://conception.canda.ca/alertes/alertes-profil-inst-stable.html
-breadcrumbs: []
 date: null
 dateModified: '2019-04-01'
 description: null
