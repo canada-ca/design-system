@@ -20,7 +20,7 @@ title: How page feedback can help your work
 
 * [Improve content and navigation](#improve-content-and-navigation)
 * [Inform policy and program owners](#inform-policy-and-program-owners)
-* [Professionalize content and research operations](#professionalize-content-and-researc-operations)
+* [Professionalize content and research operations](#professionalize-content-and-research-operations)
 * [Case studies](#case-studies)
 
 ## Improve content and navigation
