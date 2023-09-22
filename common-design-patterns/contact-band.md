@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/configurations-conception-communes/X.html
+altLangPage: https://conception.canada.ca/configurations-conception-communes/bande-de-coordonnees.html
 date: null
 dateModified: '2023-08-23'
 description: Guidance about using the contact us band on Canada.ca
