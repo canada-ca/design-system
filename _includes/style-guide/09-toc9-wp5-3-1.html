@@ -1,1 +1,80 @@
-
+<section id="wp5-3-1">
+  <h4>Use column and row headers</h4>
+  <p>Each column and row of a table must have a header that describes the information in that column or row.</p>
+  <p>Column and row headers are different from headings and subheadings:</p>
+  <ul>
+    <li>column and row headers appear in the cells at the top and on the far left of a table</li>
+    <li>headings and subheadings refer to the title of a table or a section of content that appears on a web page</li>
+  </ul>
+  <p>Check that there is a consistent relationship between the columns and rows.</p>
+  <p>For example, to check the table above, ask yourself whether you can align the information that appears in:</p>
+  <ul>
+    <li>the column, with the column header that appears directly above it ("Vote 1," "2011 to 2012" ($ millions) and "2012 to 2013" ($ millions)) </li>
+    <li>a row, with the row header that defines it ("Net budgetary authorities" and "Year-to-date expenditures ending December 31") </li>
+  </ul>
+  <p>Your web team will use the information in the headers to code the table. Afterwards, screen readers will be able to correctly interpret the data within the table.</p>
+  <p>In the following example, all the cells in the first: </p>
+  <ul>
+    <li>row are column headers and appear bolded and in grey&nbsp; </li>
+    <li>column are row headers (except the top-left cell) and appear bolded</li>
+  </ul>
+  <table class="table table-condensed table-bordered">
+    <caption>
+    <strong>Disclosure of contracts over $10,000 from January to March 2010<sup id="table2b-fn1-rf"><a class="fn-lnk" href="#table2b-fn1"><span class="wb-inv">table 2 note </span>*</a></sup></strong>
+    </caption>
+    <thead>
+      <tr class="active">
+        <th scope="col" class="text-center">Date contract was awarded</th>
+        <th scope="col" class="text-center">Vendor name</th>
+        <th scope="col" class="text-center">Description </th>
+        <th scope="col" class="text-center">Value</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>2010-02-01<sup id="table2b-fn2-rf"><a class="fn-lnk" href="#table2b-fn2"><span class="wb-inv">table 2 note </span>**</a></sup></strong></td>
+        <td>ABC Business Solutions</td>
+        <td>Rental of machinery office furniture and fixtures</td>
+        <td class="text-right">$227,703.22</td>
+      </tr>
+      <tr>
+        <td><strong>2010-02-20</strong></td>
+        <td>IT Consultants R Us</td>
+        <td>Other professional services not elsewhere specified</td>
+        <td class="text-right">$227,956.64</td>
+      </tr>
+      <tr>
+        <td><strong>2010-02-23</strong></td>
+        <td>Management Consulting Group Limited</td>
+        <td>Management consulting</td>
+        <td class="text-right">$285,575.89</td>
+      </tr>
+      <tr>
+        <td><strong>2010-03-01</strong></td>
+        <td>XYZ Consultants</td>
+        <td>Other professional services not elsewhere specified </td>
+        <td class="text-right">$56,294.42</td>
+      </tr>
+    </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="4"><section class="wb-fnote">
+            <h5 class="wb-inv" id="table2b-fn">Table 2 Notes</h5>
+            <dl>
+              <dt> Table 2 Note * </dt>
+              <dd id="table2b-fn1">
+                <p>Fourth quarter of the April 1, 2009, to March 31, 2010, fiscal year.</p>
+                <p class="fn-rtn"> <a href="#table2b-fn1-rf"><span class="wb-inv">Return to table 2 note </span>*<span class="wb-inv"> referrer</span></a> </p>
+              </dd>
+              <dt> Table 2 Note ** </dt>
+              <dd id="table2b-fn2">
+                <p>Dates in this table represent the year, month and day (yyyy-mm-dd).</p>
+                <p class="fn-rtn"> <a href="#table2b-fn2-rf"><span class="wb-inv">Return to table 2 note </span>**<span class="wb-inv"> referrer</span></a> </p>
+              </dd>
+            </dl>
+          </section></td>
+      </tr>
+    </tfoot>
+  </table>
+  <p class="mrgn-tp-lg">By looking at the column headers "Date contract was awarded," "Vendor name" and "Value," people can understand that on February 23, 2010, Management Consulting Group Limited was awarded a contract valued at $285,575.89.</p>
+</section>
