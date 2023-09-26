@@ -7,10 +7,10 @@ title: "Canada.ca Content Style Guide"
 ---
 <!-- Intro START id="intro" -->
 {% include style-guide/00-intro.html %} 
-<!-- Intro END -->
-<!-- TOC START id="toc" -->
+<!-- Intro END --> 
+<!-- TOC START id="toc" --> 
 {% include style-guide/00-toc.html %} 
-<!-- TOC  END -->
+<!-- TOC  END --> 
 <!-- Summary of changes START id="toc1" --> 
 {% include style-guide/01-toc1.html %} 
 <!-- Summary of changes END --> 
@@ -29,27 +29,24 @@ title: "Canada.ca Content Style Guide"
 <!-- 2.0 Plain language START id="toc6" --> 
 {% include style-guide/06-toc6.html %} 
 <!-- 2.0 Plain language END --> 
-<!-- Summary of changes START id="toc7" --> 
+<!-- 3.0 Tone START id="toc7" --> 
 {% include style-guide/07-toc7.html %} 
-<!-- Summary of changes END --> 
-<!-- 3.0 Tone START id="toc8" --> 
-{% include style-guide/08-toc8.html %} 
 <!-- 3.0 Tone END --> 
-<!-- 4.0 Style START id="toc9" --> 
-{% include style-guide/09-toc9.html %} 
+<!-- 4.0 Style START id="toc8" --> 
+{% include style-guide/08-toc8.html %} 
 <!-- 4.0 Style END --> 
-<!-- 5.0 Content structure START id="toc10" --> 
-{% include style-guide/10-toc10.html %} 
+<!-- 5.0 Content structure START id="toc9" --> 
+{% include style-guide/09-toc9.html %} 
 <!-- 5.0 Content structure END --> 
-<!-- 6.0 Images and videos START id="toc11" --> 
-{% include style-guide/11-toc11.html %} 
+<!-- 6.0 Images and videos START id="toc10" --> 
+{% include style-guide/10-toc10.html %} 
 <!-- 6.0 Images and videose END --> 
-<!-- 7.0 Links START id="toc12" --> 
-{% include style-guide/12-toc12.html %} 
+<!-- 7.0 Links START id="toc11" --> 
+{% include style-guide/11-toc11.html %} 
 <!-- 7.0 Links END --> 
-<!-- Web content makeovers START id="toc13" --> 
-{% include style-guide/13-toc13.html %} 
+<!-- Web content makeovers START id="toc12" --> 
+{% include style-guide/12-toc12.html %} 
 <!-- Web content makeovers END --> 
-<!-- Resources START id="toc14" --> 
-{% include style-guide/14-toc14.html %} 
+<!-- Resources START id="toc13" --> 
+{% include style-guide/13-toc13.html %} 
 <!-- Resources END --> 
