@@ -66,7 +66,7 @@
   "remote_theme": "wet-boew/gcweb-jekyll",
   "themeopt": "Policies",
   "title": "Canada.ca design system",
-  "url": "https://design.canada.ca",
+  "url": "",
   "urlconception": "https://conception.canada.ca",
   "urlcanadaca": "https://www.canada.ca",
   "urlblogca": "https://blog.canada.ca",
@@ -83,6 +83,7 @@
           "https://use.fontawesome.com/releases/v5.15.4/css/all.css",
           "/css/custom.css"
         ],
+        "lang": "en",
         "layout": "default",
         "pageclass": "cnt-wdth-lmtd",
         "script": "/js/gc-pg-hlpfl.js",
@@ -393,7 +394,7 @@
     },
     {
       "scope": {
-        "path": "recommended-template/*.md"
+        "path": "recommended-templates/*.md"
       },
       "values": {
         "breadcrumbs": [{

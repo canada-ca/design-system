@@ -2,6 +2,24 @@
 ---
 {
   "data": [{
+    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/canada-child-benefit.html\">Canada Child Benefit</a>",
+    "SOURCE": "Research summary",
+    "DESCRIPTION": "This research summary explains the context of the research project in which the subway navigation pattern was created and all the considerations that were taken into account.",
+    "WHENTOUSE": "",
+    "CATEGORY": "",
+    "TYPE": "",
+    "MANDATORY": "",
+    "TANDP": "0"
+  },{
+    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/trust.html\">Trust study</a>",
+    "SOURCE": "Research summary",
+    "DESCRIPTION": "This trust study helps to better understand which Government of Canada design elements are more strongly associated with trust and confidence in the brand.",
+    "WHENTOUSE": "",
+    "CATEGORY": "",
+    "TYPE": "",
+    "MANDATORY": "",
+    "TANDP": "0"
+  },{
     "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/wayfinding-on-canada-ca.html\">Wayfinding on Canada.ca</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Examining how users navigate through Canada.ca. Results led to changes that will replace the theme and topic menu. Changes include a new footer, contextual Sign in button and a layered theme page template.",
@@ -462,7 +480,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca//en/government/about/design-system/institutions-list.html\">Institutions subject to the Canada.ca design system</a>",
+    "NAME": "<a href=\"https://www.canada.ca/en/government/about/design-system/institutions-list.html\">Institutions subject to the Canada.ca design system</a>",
     "SOURCE": "Designing content",
     "DESCRIPTION": "List of Government of Canada institutions subject to the Canada.ca design system",
     "WHENTOUSE": "List of Government of Canada institutions subject to the Canada.ca design system",
@@ -471,7 +489,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://www.canada.ca//en/government/about/design-system/theme-lead-departments.html\">Theme and audience lead departments</a>",
+    "NAME": "<a href=\"https://www.canada.ca/en/government/about/design-system/theme-lead-departments.html\">Theme and audience lead departments</a>",
     "SOURCE": "Designing content",
     "DESCRIPTION": "Departments responsible for the 15 themes and 3 audience pages on Canada.ca",
     "WHENTOUSE": "Departments responsible for the 15 themes and 3 audience pages on Canada.ca",
