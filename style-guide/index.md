@@ -1632,7 +1632,7 @@ title: "Canada.ca Content Style Guide"
         <li>Toronto Maple Leafs: 11</li>
         <li>Ottawa Senators: 1</li>
       </ul>
-      <p><strong>Western conference National Hockey League </strong>:</p>
+      <p><strong>Western conference National Hockey League</strong>:</p>
       <p>The Stanley Cup Canadian winning teams from 1927 to 2013</p>
       <ul>
         <li>Edmonton Oilers: 5</li>
