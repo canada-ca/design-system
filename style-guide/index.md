@@ -165,7 +165,7 @@ title: "Canada.ca Content Style Guide"
   <section id="wp1-3">
     <h3>1.3 Provide equivalent content in both official languages</h3>
     <section class="alert alert-warning">
-      <h4 class="h3">Official languages requirements</h4>
+      <h4>Official languages requirements</h4>
       <p>According to the <cite><a href="https://laws-lois.justice.gc.ca/eng/acts/o-3.01/page-1.html">Official Languages Act</a></cite>, you must publish communications and provide services to the public in both official languages.</p>
     </section>
     <p>Government content must:</p>
@@ -269,7 +269,7 @@ title: "Canada.ca Content Style Guide"
       <h4>Get to the point</h4>
       <p>Omit background information and messages that welcome people to your program or site. These kinds of messages get in people's way when they're trying to accomplish a task.</p>
       <p>Write direct statements.</p>
-      <h5>Example <span class="wb-inv">of direct statements</span></h5>
+      <h5>Example of direct statements</h5>
       <p><strong>Write</strong>: Present your passport to the border officer.<br>
         <strong>Instead of</strong>: According to Canadian legislation, you're required to present your passport to the agent who will welcome you into the country.</p>
       <div class="well panel"> 
@@ -282,7 +282,7 @@ title: "Canada.ca Content Style Guide"
   <section id="wp2-2">
     <h3>2.2 Use simple and common words</h3>
     <p>Replace long words with short, simple and everyday words that most people understand and use. Simple words have 2 syllables or less. They're easier to scan than long, complex words.</p>
-    <h4>Example <span class="wb-inv">of simple and common words</span></h4>
+    <h4>Example of simple and common words</h4>
     <p><strong>Write</strong>: ask<br>
       <strong>Instead of</strong>: make a request</p>
     <p><strong>Write</strong>: you must<br>
@@ -310,14 +310,14 @@ title: "Canada.ca Content Style Guide"
       <h4>Active or passive voice</h4>
       <p>In an active sentence, the subject does the action. The sentence is clear and direct.</p>
       <p>In a passive sentence, it may not be clear who or what is doing the action.</p>
-      <h5>Example <span class="wb-inv">of passive and active sentences</span></h5>
+      <h5>Example of passive and active sentences</h5>
       <p><strong>Active</strong>: We may ask you to provide proof of citizenship.<br>
         <strong>Passive</strong>: You may be asked to provide proof of citizenship.</p>
     </section>
     <section id="wp2-3-2">
       <h4>Positive or negative form</h4>
       <p>Whenever possible, tell people what they may or must do instead of what they may not or must not do. Avoid negatives, double negatives and exceptions to exceptions.</p>
-      <h5>Examples <span class="wb-inv">of positive and negative sentences</span></h5>
+      <h5>Examples of positive and negative sentences</h5>
       <p><strong>Positive</strong>: You're entitled to part of the deduction.<br>
         <strong>Negative</strong>: You're not entitled to the entire deduction.</p>
       <p><strong>Positive</strong>: The procedure will be effective.<br>
@@ -325,7 +325,7 @@ title: "Canada.ca Content Style Guide"
       <p><strong>Positive</strong>: You may claim a child born in 1972 or earlier as a dependent, if he or she has a mental or physical disability.<br>
         <strong>Double negative</strong>: You may not claim anything for a dependent child born in 1972 or earlier, unless the child has a mental or physical disability.</p>
       <p class="mrgn-tp-lg">If something has serious consequences, you can use the negative form to explain that something isn't possible or should not be done.</p>
-      <h5>Examples <span class="wb-inv">of using the negative form for something that has serious consequences</span></h5>
+      <h5>Examples of using the negative form for something that has serious consequences</h5>
       <p><strong>Write</strong>: Do&nbsp;<strong>not</strong>&nbsp;try to locate the source of carbon monoxide. Leave your home immediately and move to fresh air.</p>
       <div class="well panel"> 
         <!--UPDATE LATER-->
@@ -337,7 +337,7 @@ title: "Canada.ca Content Style Guide"
   <section id="wp2-4">
     <h3>2.4 Use verbs instead of nouns formed from verbs</h3>
     <p>Avoid using nouns that are formed from verbs. They can be vague. Verbs alone clearly express the action needed.</p>
-    <h4 class="h5">Examples <span class="wb-inv">of the use of verbs instead of nouns</span></h4>
+    <h4>Examples of the use of verbs instead of nouns</h4>
     <p><strong>Write</strong>: apply<br>
       <strong>Instead of</strong>: submit your application</p>
     <p><strong>Write</strong>: consider<br>
@@ -354,11 +354,11 @@ title: "Canada.ca Content Style Guide"
     </div>
   </section>
   <section id="wp2-5">
-    <h3>2.5 Avoid jargon, idioms and expressions </h3>
+    <h3>2.5 Avoid jargon, idioms and expressions</h3>
     <p>Where possible, avoid using jargon, idioms and expressions. Use the clearest, most popular term for your audience.</p>
     <p>Legal and technical terms and "government-speak" confuse most people.</p>
     <p>People who don't speak English or French might use online tools to translate text. These tools don't always translate idioms and expressions accurately.</p>
-    <h4 class="h5">Examples <span class="wb-inv">of jargon, idioms and expressions</span></h4>
+    <h4>Examples of jargon, idioms and expressions</h4>
     <p><strong>Jargon</strong>: bench warrant (an order by a judge to arrest someone who didn't show up in court or comply with certain conditions)</p>
     <p><strong>Idiom</strong>: to hire a helping hand (meaning to hire an employee)</p>
     <p><strong>Expression</strong>: attack your least favourite task first (meaning do your least favourite task first)</p>
@@ -367,12 +367,12 @@ title: "Canada.ca Content Style Guide"
       <li>explain it using simple, familiar words or give an example to help non-specialists understand</li>
       <li>never use jargon to explain jargon</li>
     </ul>
-    <h4 class="h5">Examples <span class="wb-inv">of statements that avoid the use of jargon</span></h4>
+    <h4>Examples of statements that avoid the use of jargon</h4>
     <p><strong>Write</strong>: You have to file your income tax return (T1) by April 30.<br>
       <strong>Instead of</strong>: You have to file your T1 return by April 30.</p>
     <p><strong>Write</strong>: Learn about savings plans that can help you save enough money to retire.<br>
       <strong>Instead of</strong>: Learn about different types of savings plans that will let you build up your retirement nest egg.</p>
-    <h4 class="h5">Identify keywords your audience is using to find your content</h4>
+    <h4>Identify keywords your audience is using to find your content</h4>
     <p>Tools you can use to see which search terms are most popular:</p>
     <ul>
       <li><a href="https://www.google.ca/trends/explore">Google Trends</a></li>
@@ -391,15 +391,15 @@ title: "Canada.ca Content Style Guide"
     <h3>2.6 Use simple sentences</h3>
     <p>Keep sentence structure simple by putting the subject and the verb at the beginning of the sentence and by using the subject + verb + object construction. This structure helps the reader understand what the subject of the sentence is doing by placing the subject first, followed by the verb.</p>
     <p>Avoid complex and compound sentences. They generally contain too much information for people to understand when they're scanning.</p>
-    <h4 class="h5">Examples <span class="wb-inv">of simple sentences</span></h4>
+    <h4>Examples of simple sentences</h4>
     <p><strong>Write</strong>: Learn about Canada's transportation system. Find information about using paved roads, bike trails, airports and ports across the country. <br>
       <strong>Instead of</strong>: Canada's vast transportation system enables millions of people each year to travel throughout the country, around the world, and to work and back. From this page you can access a wealth of transportation information related to travelling and commuting.</p>
     <p class="mrgn-tp-lg">Replace complex sentence structures with direct statements.</p>
-    <h4 class="h5">Examples <span class="wb-inv">of direct statements</span></h4>
+    <h4>Examples of direct statements</h4>
     <p><strong>Write</strong>: You have until April 30 to file your tax return.<br>
       <strong>Instead of</strong>: The period of time that you have to file your tax return ends on April 30.</p>
     <p class="mrgn-tp-lg">Replace noun strings (a series of 2 or more nouns used to name something) with direct statements.</p>
-    <h4>Examples <span class="wb-inv">of statements that avoid chains of nouns</span></h4>
+    <h4>Examples of statements that avoid chains of nouns</h4>
     <p><strong>Write</strong>: The evaluation team will submit its final report on the training program in September.<br>
       <strong>Instead of</strong>: The training program evaluation team will submit its final report in September.</p>
     <p>Surround a long sentence with shorter ones because it helps people understand the long sentence.</p>
@@ -419,7 +419,7 @@ title: "Canada.ca Content Style Guide"
       <li>limiting each sentence to 1 idea </li>
       <li>removing unnecessary words</li>
     </ul>
-    <h4 class="h5">Examples <span class="wb-inv">of shortened sentences</span></h4>
+    <h4>Examples of shortened sentences</h4>
     <p><strong>Write</strong>: We received your request for funding and approved it. <br>
       <strong>Instead of</strong>: We received your request for funding, which we've thoroughly reviewed and approved in a timely manner.</p>
     <p><strong>Write</strong>: We'll consider any type of investment.<br>
@@ -440,7 +440,7 @@ title: "Canada.ca Content Style Guide"
     <h3>2.8 Explain references to legislation</h3>
     <p>When explaining a requirement that comes from an act or regulation, avoid mentioning the act or regulation by name. Include only the information people need to complete the task.</p>
     <p>If you <strong>must </strong>include the name of the act or regulation, always give a plain-language description. First, explain what your audience needs to know and why they need to know more about the act or regulation. Then, you may add the reference to the act or regulation.</p>
-    <h4 class="h5">Examples <span class="wb-inv">of references to legislation</span></h4>
+    <h4>Examples of references to legislation</h4>
     <p><strong>Write</strong>: You can apply for your child to become a Canadian citizen after they arrive in Canada as a permanent resident.</p>
     <p>Related links</p>
     <ul>
@@ -558,7 +558,7 @@ title: "Canada.ca Content Style Guide"
   <section id="wp3-1">
     <h3>3.1 Write directly to the person</h3>
     <p>Use an informal tone, and speak directly <strong>to</strong> people by using the second person ("you," "your").</p>
-    <h4 class="h5">Examples <span class="wb-inv">of statements that use the second person</span></h4>
+    <h4>Examples of statements that use the second person</h4>
     <ul>
       <li>Send your application to…</li>
       <li>To get this benefit you must…</li>
@@ -567,13 +567,13 @@ title: "Canada.ca Content Style Guide"
   <section id="wp3-1-1">
     <h4>Address the person in page titles, links and navigation labels</h4>
     <p>For page titles, links and navigation labels, use the possessive adjective "your" when the audience might consider the item being referred to as belonging to them.</p>
-    <h5>Examples <span class="wb-inv">of navigation labels that address the person</span></h5>
+    <h5>Examples of navigation labels that address the person</h5>
     <ul>
       <li>Change your address</li>
       <li>Replace your card</li>
     </ul>
     <p class="mrgn-tp-lg">If the subject of the title, link or label refers to general information, use the indefinite article ("a" or "an") or no article at all.</p>
-    <h5>Examples <span class="wb-inv">of navigation labels that don't use a possessive adjective</span></h5>
+    <h5>Examples of navigation labels that don't use a possessive adjective</h5>
     <ul>
       <li>Start a new business</li>
       <li>Pay application fees</li>
@@ -582,7 +582,7 @@ title: "Canada.ca Content Style Guide"
   <section id="wp3-1-2">
     <h4>Don't use the first person</h4>
     <p>Don't switch from speaking to people to speaking on their behalf. Don't use "I" or "my" statements.</p>
-    <h5>Example <span class="wb-inv">of statements that don't use "I" or "my"</span></h5>
+    <h5>Example of statements that don't use "I" or "my"</h5>
     <p><strong>Write</strong>:</p>
     <ul>
       <li>How to renew your passport</li>
@@ -602,7 +602,7 @@ title: "Canada.ca Content Style Guide"
   <h3>3.2 Use "we" to refer to the Government of Canada</h3>
   <p>We generally provide information to people from the perspective of the government as a whole rather than from a specific institution.</p>
   <p>Use "we" and "our" when writing on behalf of the Government of Canada.</p>
-  <h4 class="h5">Examples <span class="wb-inv">of statements that use "we" or "our" to refer to the Government of Canada</span></h4>
+  <h4>Examples of statements that use "we" or "our" to refer to the Government of Canada</h4>
   <p><strong>Write</strong>: If you started a new&nbsp;claim within the last 52 weeks and there are still weeks payable on that claim,&nbsp;we will automatically renew your existing claim.<br>
     <strong>Instead of</strong>: If you started a new&nbsp;claim within the last 52 weeks and there are still weeks payable on that claim,&nbsp;Service Canada will automatically renew your existing claim.</p>
   <p class="mrgn-tp-lg">Use "Government of Canada" when:</p>
@@ -616,21 +616,21 @@ title: "Canada.ca Content Style Guide"
     <li>person needs to contact the institution by phone, mail or online process</li>
     <li>role of the institution in a process is relevant to the task</li>
   </ul>
-  <h4 class="h5">Examples <span class="wb-inv">of statements that refer to specific institutions</span></h4>
+  <h4>Examples of statements that refer to specific institutions</h4>
   <ul>
     <li>The Canada Revenue Agency will inform you if you have to repay&nbsp;benefits.</li>
     <li>The Canadian Food Inspection Agency gives permits for some meat products. </li>
     <li>All restricted or controlled drugs need an import permit from Health Canada.</li>
   </ul>
   <p class="mrgn-tp-lg">Don't include references to your website on your website.</p>
-  <h4 class="h5">Example <span class="wb-inv">of a statement that doesn't refer to Canada.ca on the Canada.ca site</span></h4>
+  <h4>Example of a statement that doesn't refer to Canada.ca on the Canada.ca site</h4>
   <p><span id="exmp1"><strong>Write</strong>: <a href="#exmp1" aria-label="Example of an effective hyperlink reference. The full text simulates the hyperlink.">Determine whether you're eligible</a>. <br>
     </span> <span id="exmp2"><strong>Instead of</strong>: Get <a href="#exmp2" aria-label="Example of an ineffective hyperlink reference. The text &quot;more information about eligibility on the Canada.ca website&quot; simulates the hyperlink">more information about eligibility on the Canada.ca website</a>.</span></p>
   <section id="wp3-2-1">
     <h4>Third parties</h4>
     <p>Don't provide information on behalf of another organization. Don't duplicate information provided on another organization's website. Instead, direct people to that website to get the information.</p>
     <p>Name the other organization when your content refers to it.</p>
-    <h5>Example <span class="wb-inv">of a reference to a third party</span></h5>
+    <h5>Example of a reference to a third party</h5>
     <p><strong>Write</strong>: If you plan to <a href="https://www.cbp.gov/travel">travel to or transit through the United States</a>, find out about the rules you need to follow from U.S. Customs and Border Protection.<br>
       <strong>Instead of</strong>: If you plan to travel to or transit through the U.S., CBSA encourages you to visit the <a href="https://www.cbp.gov/travel">U.S. Customs and Border Protection website</a> for information on the U.S. Western Hemisphere Travel Initiative, and the requirements for entering or returning to the U.S.</p>
   </section>
@@ -650,12 +650,12 @@ title: "Canada.ca Content Style Guide"
       <li>what the law requires them to do, use "must" instead of "legally required to" or similar language</li>
       <li>an administrative requirement, use "need to"</li>
     </ul>
-    <h5>Example <span class="wb-inv">of statements that express legal and administrative requirements</span></h5>
+    <h5>Example of statements that express legal and administrative requirements</h5>
     <p><strong>Legal</strong>: To be eligible for compassionate care benefits, you must be able to show that…<br>
       <strong>Administrative</strong>: After you apply online, you'll need to provide us with the following documents before we can finalize your claim.</p>
   </section>
   <section id="wp3-3-2">
-    <h4>Express a recommendation </h4>
+    <h4>Express a recommendation</h4>
     <p>When telling people that they're allowed to perform an action:</p>
     <ul>
       <li>do use "may" or "might" (expresses permission or a possibility)</li>
@@ -667,7 +667,6 @@ title: "Canada.ca Content Style Guide"
     <p><a href="{{ site.urlconception }}/guide-redaction/#wp3-3" aria-label="See how the rule for expressing an obligation or a recommendation applies to content in French">See how this rule applies to content in French</a></p>
     <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20expressing%20an%20obligation%20or%20a%20recommendation%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp3-3" aria-label="Share the rule for expressing an obligation or a recommendation by email">Share this rule by email</a></p>
   </div>
-</section>
 </section>
 <section id="toc8">
   <h2>4.0 Style</h2>
@@ -707,7 +706,7 @@ title: "Canada.ca Content Style Guide"
   </div>
   <p>On the web, less is more. Keep style and punctuation simple. Formatting (such as bold, italics and underlining) and complex punctuation can be distracting and make reading difficult for many people.</p>
   <section id="wp4-1">
-    <h3>4.1 Capitalization and punctuation </h3>
+    <h3>4.1 Capitalization and punctuation</h3>
     <p>Use these styles for capitalization and punctuation of content in text, links and applications.</p>
     <p>Capitalize the main words of:</p>
     <ul>
@@ -719,7 +718,7 @@ title: "Canada.ca Content Style Guide"
       <li>Government of Canada</li>
     </ul>
     <p>Lowercase the short form of proper names.</p>
-    <h4 class="h5">Example <span class="wb-inv">of proper names and their short forms</span></h4>
+    <h4>Example of proper names and their short forms</h4>
     <p><strong>Full names</strong>: Agriculture and Agri-Food Canada, Canada Pension Plan, the Public Service of Canada<br>
       <strong>Short form</strong>: the department, the plan, the public service</p>
     <h5>All caps</h5>
@@ -741,7 +740,7 @@ title: "Canada.ca Content Style Guide"
         <li>You may use punctuation at the end of page titles, headings and subheadings for campaign slogans </li>
         <li>Only use question marks when asking for information in a form, wizard, survey or quiz</li>
       </ul>
-      <h5>Example <span class="wb-inv">of question marks being used in forms, wizards, surveys or quizzes</span></h5>
+      <h5>Example of question marks being used in forms, wizards, surveys or quizzes</h5>
       <figure class="mrgn-bttm-lg">
         <figcaption class="text-center"> <strong>Figure 3</strong> </figcaption>
         <img alt="A web page containing a heading with a question mark. Text version below:" class="img-responsive center-block" id="fig3" src="/images/fig-03-eng.jpg">
@@ -786,7 +785,7 @@ title: "Canada.ca Content Style Guide"
         <li>Don't end the list items with any punctuation</li>
       </ul>
       <p>When list items are grammatically independent of each other or follow a heading, capitalize the first letter of each list&nbsp;item.</p>
-      <h5>Example <span class="wb-inv">of punctuation in independent list items</span></h5>
+      <h5>Example of punctuation in independent list items</h5>
       <p><strong>Most requested</strong></p>
       <ul>
         <li><a href="https://canadabusiness.ca/eng/page/2852/pof-191/">Financing your new business</a></li>
@@ -795,7 +794,7 @@ title: "Canada.ca Content Style Guide"
         <li><a href="{{ site.urlcanadaca }}/en/employment-social-development/programs/job-grant/employers.html">Canada job grants for employers</a></li>
       </ul>
       <p class="mrgn-tp-lg">When the meaning of list items depends on a lead-in phrase, don't capitalize the first letter of each unless it's a proper name.</p>
-      <h5>Example <span class="wb-inv">of punctuation in interdependent list items preceded by a colon</span></h5>
+      <h5>Example of punctuation in interdependent list items preceded by a colon</h5>
       <p>Representatives can be:</p>
       <ul>
         <li>citizenship or immigration consultants</li>
@@ -907,7 +906,7 @@ title: "Canada.ca Content Style Guide"
       <li>only use an abbreviation for a secondary reference if analytics data or usability testing determines that people often use and search for the abbreviation </li>
     </ul>
     <p>Always spell out an abbreviation the first time you use it on a page.&nbsp;</p>
-    <h4 class="h5">Example <span class="wb-inv">of statements that avoid the use of abbreviations and acronyms</span></h4>
+    <h4>Example of statements that avoid the use of abbreviations and acronyms</h4>
     <p><strong>Write</strong>: There are 15 client contact centres across Canada.<br>
       <strong>Instead of</strong>: There are 15 CCCs across Canada.</p>
     <p><strong>Write</strong>: The&nbsp;act&nbsp;strengthens the Government of Canada's commitment to…<br>
@@ -965,7 +964,7 @@ title: "Canada.ca Content Style Guide"
     </ul>
     <h4>Negative contractions: exceptions</h4>
     <p>Don't<strong> </strong>use contractions when there is a <strong>critical</strong> difference between two things, for example, between doing and not doing something.</p>
-    <h5>Example <span class="wb-inv">of statements showing differences that are critical and not critical</span></h5>
+    <h5>Example of statements showing differences that are critical and not critical</h5>
     <p><strong>Critical</strong>: Do <strong>not</strong> drive while taking this medicine.<br>
       <strong>Not critical</strong>: Most people<strong> don't</strong> have reactions to the flu vaccine.</p>
     <div class="well panel"> 
@@ -976,7 +975,7 @@ title: "Canada.ca Content Style Guide"
   </section>
   <section id="wp4-6">
     <h3>4.6 Numbers</h3>
-    <h4>General </h4>
+    <h4>General</h4>
     <ul>
       <li>Write numbers as numerals (0, 1, 2, 3, etc.), except in:
         <ul>
@@ -1084,7 +1083,7 @@ title: "Canada.ca Content Style Guide"
         [Additional delivery information]<br>
         [Suite or office]-[Civic number] [Street name] [Abbreviated street type] [Abbreviated street direction]<br>
         [City] [Two-letter province or territory abbreviation] [Postal code]</p>
-      <h4 class="h5">Example<span class="wb-inv"> of a mailing address.</span></h4>
+      <h4>Example of a mailing address.</h4>
       <p>Integrity Regime<br>
         Departmental Oversight Branch<br>
         Public Services and Procurement Canada<br>
@@ -1167,7 +1166,7 @@ title: "Canada.ca Content Style Guide"
     <li>lists </li>
     <li>tables</li>
   </ul>
-  <h3 class="h4">On a web page</h3>
+  <h3>On a web page</h3>
   <p>Make sure you:</p>
   <ul>
     <li>divide the page into logical sections to give an overview of the information it contains</li>
@@ -1178,7 +1177,7 @@ title: "Canada.ca Content Style Guide"
     <li>more visible to search engines and easier to find</li>
     <li>easier to view on mobile devices</li>
   </ul>
-  <h3 class="h4">Across multiple web pages</h3>
+  <h3>Across multiple web pages</h3>
   <p>Think about how a person will journey through the content. If:</p>
   <ul>
     <li>your web page content covers too many topics, you might need to divide it into several pages</li>
@@ -1245,7 +1244,7 @@ title: "Canada.ca Content Style Guide"
         <h5>Navigation pane</h5>
         <p>Use the navigation pane feature in Microsoft Word. When you select Find (or press Control + F), a small window will display all the headings in your document.</p>
       </details>
-      <h5 class="h4">Publication and program titles usually don't make good web page titles</h5>
+      <h5>Publication and program titles usually don't make good web page titles</h5>
       <p>Using the titles of reports, brochures, publications or programs as the web page title can make it difficult for people to find your content, even if it relates to their task.</p>
       <p>The titles of publications are usually not written in plain language, short enough or descriptive enough.</p>
       <p>To help make sure your page ranks high in search results, use page titles that:</p>
@@ -1257,9 +1256,9 @@ title: "Canada.ca Content Style Guide"
       <p class="mrgn-tp-lg">When you post a publication online, you must adapt it for the web. Here are some things you can do to get better results:</p>
       <h4>Write a title that describes the contents of the page</h4>
       <p>The web page title (Heading1) is the title you see at the top of the page when you're looking at it. Make sure that it accurately describes, in plain language, what your publication is about.</p>
-      <h4>Use the first paragraph to introduce your publication </h4>
+      <h4>Use the first paragraph to introduce your publication</h4>
       <p>The first paragraph of your web page should introduce your publication in plain language. It helps people who've landed on the page decide whether they've found what they are looking for. You can include the title of your publication here.</p>
-      <h4>Include keywords in the page's metadata </h4>
+      <h4>Include keywords in the page's metadata</h4>
       <p>Use the title tag and the description metadata field to improve where your publication ranks in search results. Here's what you can do:</p>
       <p><strong>Title tag</strong>: The page title tag is the blue hyperlinked text you see when a search engine generates a list of results. Write an effective page title (Heading1), and use it as your title tag.</p>
       <p><strong>Description metadata field</strong>: The description metatdata is the content you see under the blue hyperlinked text in search results. <strong>Avoid listing only keywords</strong>, because search engines might ignore these. Write 1 or 2 short sentences that summarize the page. Make sure they contain keywords that people use when searching for your content (for example, abbreviations familiar to your audience).</p>
@@ -1272,7 +1271,7 @@ title: "Canada.ca Content Style Guide"
     </div>
   </section>
   <section id="wp5-2">
-    <h3>5.2 Use lists to help people scan </h3>
+    <h3>5.2 Use lists to help people scan</h3>
     <p>A short vertical list is easier for people to scan and remember than a long paragraph. If possible, aim for maximum of 7 items in your list.</p>
     <p>When writing lists:</p>
     <ul>
@@ -1312,7 +1311,7 @@ title: "Canada.ca Content Style Guide"
     <section id="wp5-2-3">
       <h4>Bulleted lists</h4>
       <p>Place only one idea in each bulleted item. If you need to include more information to explain an idea, use sub-bullets, but use them sparingly.</p>
-      <h5>Example <span class="wb-inv">of bulleted list items</span></h5>
+      <h5>Example of bulleted list items</h5>
       <p><strong>Write</strong>:<br>
         To draft a high-quality source document:</p>
       <ul>
@@ -1361,7 +1360,7 @@ title: "Canada.ca Content Style Guide"
       <li>value of each cell aligns with the column header that appears directly above it </li>
     </ul>
     <p>Give your table a clear title that describes the information in it.</p>
-    <h4 class="h5">Example <span class="wb-inv">of a table that organizes data</span></h4>
+    <h4>Example of a table that organizes data</h4>
     <table class="table table-condensed table-bordered">
       <caption>
       <strong>Comparison of net budgetary authorities and expenditures for Vote 1 as of December 31, for fiscal years 2011 to 2012 and 2012 to 2013 ($ millions)</strong>
@@ -1474,9 +1473,9 @@ title: "Canada.ca Content Style Guide"
         <li>turn a complex table into one or more simple tables</li>
         <li>convert a table to a list if the data is simple</li>
       </ul>
-      <h5 class="h4">Before: complex table</h5>
+      <h5>Before: complex table</h5>
       <p>The following table is complex and poorly designed. It would be difficult for someone using a screen reader or a mobile device to access and understand the information.</p>
-      <h6 class="h5">Example <span class="wb-inv">of a complex table</span></h6>
+      <h6>Example of a complex table</h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
         <strong>National Hockey League Stanley Cup Canadian winning teams (1927–2013)</strong>
@@ -1519,9 +1518,9 @@ title: "Canada.ca Content Style Guide"
           </tr>
         </tfoot>
       </table>
-      <h5 class="h4">After: simple tables</h5>
+      <h5>After: simple tables</h5>
       <p>The complex table easily converts into simple tables.</p>
-      <h6 class="h5">Example: one simple table</h6>
+      <h6>Example: one simple table</h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
         <strong>National Hockey League Stanley Cup Canadian winning teams (1927 to 2013)</strong>
@@ -1567,7 +1566,7 @@ title: "Canada.ca Content Style Guide"
         </tfoot>
       </table>
       <p class="mrgn-tp-lg">If it's important to highlight Stanley Cup championships by NHL conference (region), present the information using 2 simpler tables, and use table titles to clarify which conference the teams represent.</p>
-      <h6 class="h5">Example: multiple simple tables </h6>
+      <h6>Example: multiple simple tables</h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
         <strong>Table 1: Eastern conference: National Hockey League Stanley Cup Canadian winning teams (1927 to 2013)</strong>
@@ -1625,7 +1624,7 @@ title: "Canada.ca Content Style Guide"
         </tfoot>
       </table>
       <p class="mrgn-tp-md">The complex table also easily converts into 2 lists.</p>
-      <h6 class="h5">Example: convert tables to text </h6>
+      <h6>Example: convert tables to text</h6>
       <p><strong>Eastern conference National Hockey League</strong>:</p>
       <p>The Stanley Cup Canadian winning teams from 1927 to 2013</p>
       <ul>
@@ -1641,13 +1640,13 @@ title: "Canada.ca Content Style Guide"
       </ul>
     </section>
     <section id="wp5-3-3">
-      <h4>Limit the use of texture and colour </h4>
+      <h4>Limit the use of texture and colour</h4>
       <p>Avoid formatting cells with textures or colours, because it can make text difficult to read.</p>
       <p>If you must use textures and colours in a table, explain what they mean (for example, in a table note or in a legend). Make sure you comply with the <a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#visual-audio-contrast-contrast">minimum colour contrast rules (1.4.3)</a> from the <cite>Web Content Accessibility Guidelines (WCAG) 2.0</cite>.</p>
       <p><strong>Never</strong> rely on colour or texture alone to convey important information.</p>
     </section>
     <section id="wp5-3-4">
-      <h4>Avoid having blank cells </h4>
+      <h4>Avoid having blank cells</h4>
       <p>Assistive technologies like a screen reader will notify the person if the cell is blank. If a cell has no value, explain why in your table's:</p>
       <ul>
         <li>notes </li>
@@ -1700,7 +1699,7 @@ title: "Canada.ca Content Style Guide"
     <li>reflect Canada's diverse population as much as possible (including seniors, youth, Indigenous peoples, and people from a wide variety of ethnic origins)</li>
   </ul>
   <p>When planning your content, weigh the benefits of using videos with the impact on people who will try to view them using mobile devices. Data plans and reliable network access vary.</p>
-  <h3 class="h4">Obtain permission to publish</h3>
+  <h3>Obtain permission to publish</h3>
   <p>Make sure that you have the appropriate permissions to publish images, audio files and videos online. You'll need to have the written proof of those rights. Refer to the <cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27167">Procedures for Publishing</a></cite> or contact your institution's authoring team for more details.</p>
   <h4>Help with images, audio files or videos on Canada.ca</h4>
   <p>For specific information about consent forms or licensing requirements related to Canada.ca, contact the Principal Publisher: <a href="mailto:na-web_support-soutien_du_web-gd@servicecanada.gc.ca">na-web_support-soutien_du_web-gd@servicecanada.gc.ca</a>.</p>
@@ -1729,7 +1728,7 @@ title: "Canada.ca Content Style Guide"
       <li>graphs </li>
     </ul>
     <p><a href="#wp6-2">Include the appropriate alternative text</a> to describe the image for people who are unable to view it.</p>
-    <h5>Example <span class="wb-inv">of functional images</span></h5>
+    <h5>Example of functional images</h5>
     <figure class="mrgn-bttm-lg">
       <figcaption class="text-center"> <strong>Figure 4</strong> </figcaption>
       <img alt="Map of Canada: current conditions" class="img-responsive center-block" src="/images/fig-04-eng.jpg">
@@ -1928,7 +1927,7 @@ title: "Canada.ca Content Style Guide"
     <p>Don't place meaningful text, such as campaign or program titles, in decorative images.</p>
     <p><a href="#wp6-2">Include the appropriate alternative text</a> to describe the image for people who are unable to view it.</p>
     <p>Get details about the templates above in the <cite><a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-eng.asp">Canada.ca Content and Information Architecture Specification</a></cite>.</p>
-    <h5>Example <span class="wb-inv">of a decorative image</span></h5>
+    <h5>Example of a decorative image</h5>
     <p><img alt="A Royal Canadian Mounted Police officer on the Canada.ca web page related to jobs and the workplace." class="img-responsive center-block" src="/images/fig-06-eng.jpg"></p>
     <p><strong>Description of the image</strong></p>
     <p>A Royal Canadian Mounted Police officer on the Canada.ca web page related to jobs and the workplace.</p>
@@ -1972,7 +1971,7 @@ title: "Canada.ca Content Style Guide"
   <p>If a detailed and equivalent explanation of the image appears in the text immediately before or after a complex image, you don't have to provide a long description.</p>
   <p>If you provide a long description for an image, you must also provide alternative text for the long description.</p>
   <p>Figure 1 illustrates a number of concepts. It requires a long description.</p>
-  <h4 class="h5">Example<span class="wb-inv">: Long description for the balanced scorecard</span></h4>
+  <h4>Example: Long description for the balanced scorecard</h4>
   <figure class="mrgn-bttm-lg">
     <figcaption class="text-center"> <strong>Figure 1: using a balanced scorecard approach to monitor key performance indicators</strong> </figcaption>
     <img alt="A balanced scorecard showing how business activities align with an organization's vision and strategy to monitor key performance indicators. Text version below. " class="img-responsive center-block" src="/images/fig-01b-eng.jpg">
@@ -2008,7 +2007,7 @@ title: "Canada.ca Content Style Guide"
     </ul>
   </figure>
   <p>Figure 2 is a bar chart. The information in it came from a data table. You could therefore use the table as the long description for this image.</p>
-  <h4 class="h5">Example<span class="wb-inv">: Long description for the bar chart illustrating the proportion of men and women in the public service for selected years from 1983 to 2010</span></h4>
+  <h4>Example: Long description for the bar chart illustrating the proportion of men and women in the public service for selected years from 1983 to 2010</h4>
   <figure class="mrgn-bttm-lg">
     <figcaption class="text-center"> <strong>Figure 2: proportion of men and women in the public service for selected years from 1983 to 2010</strong> </figcaption>
     <img alt="Comparison of the ratio of women and men in the civil service between 1983 and 2010. Text version below." class="img-responsive center-block" src="/images/fig-02b-eng.jpg">
@@ -2130,7 +2129,7 @@ title: "Canada.ca Content Style Guide"
       <li>don't include links to intranet sites unless the content targets government employees, in which case you should add "(accessible only on the Government of Canada network)"</li>
       <li>don't bury links that are crucial to completing a task in the middle of a paragraph or at the bottom of the page</li>
     </ul>
-    <h4 class="h5">Example <span class="wb-inv">of appropriate use of links</span></h4>
+    <h4>Example of appropriate use of links</h4>
     <h6>Write:</h6>
     <p>A Food Guide serving is&nbsp;how much&nbsp;food you should eat from each of the 4 food groups every day. In some cases, a serving is the amount of a given food group that you normally eat in one sitting, like an apple. In other cases, the daily amount is more than one serving, such as for rice or pasta.</p>
     <p><a href="https://www.hc-sc.gc.ca/fn-an/food-guide-aliment/basics-base/quantit-eng.php">Number of daily food servings for children, teens and adults</a></p>
@@ -2171,7 +2170,7 @@ title: "Canada.ca Content Style Guide"
     <h4>Focus on the task</h4>
     <p>When writing instructions for completing a task, sometimes you need to insert a link to guide the person to forms or other documents. Focus on the action they must perform when you create the link.</p>
     <p>Don't repeat the name of a form or document in the steps to accomplish a task if the name isn't descriptive.</p>
-    <h4 class="h5">Example <span class="wb-inv">of the use of links that focus on the task</span></h4>
+    <h4>Example of the use of links that focus on the task</h4>
     <h6>Write:</h6>
     <p>To get the highest Employment Insurance amount available to you:</p>
     <ol>
@@ -2212,7 +2211,7 @@ title: "Canada.ca Content Style Guide"
     <li>Inuktitut, write "(Inuktitut only)"</li>
     <li>Spanish and Portuguese, write "(Spanish and Portuguese only)"</li>
   </ul>
-  <h4 class="h5">Example <span class="wb-inv">of a link that leads to content only available in French</span></h4>
+  <h4>Example of a link that leads to content only available in French</h4>
   <p><strong>Write</strong>: Find out how to <a href="https://passeport.ants.gouv.fr/Vos-demarches/Renouvellement-perte-ou-vol">renew your French passport while abroad in Canada</a> (French only).</p>
   <div class="well panel"> 
     <!--UPDATE LATER-->
@@ -2233,7 +2232,7 @@ title: "Canada.ca Content Style Guide"
 </section>
 <section id="toc12">
   <h2>Web content makeovers</h2>
-  <h3>Case study A: improve plain language and content structure </h3>
+  <h3>Case study A: improve plain language and content structure</h3>
   <h4>Before</h4>
   <p>The Employment Insurance (EI) program offers temporary financial assistance to Canadians and individuals who are legally entitled to work in Canada, have a valid Social Insurance Number and remain in Canada during their benefit period. One type of benefits that the&nbsp;EI&nbsp;program offers is regular benefits.&nbsp;EI&nbsp;regular benefits are offered to people who have lost their employment through no fault of their own (for example, because of a shortage of work or because they were employed in seasonal work) and who are ready, willing, and capable of working each day but unable to find work.</p>
   <p>Flesch-Kincaid reading level: 17.2</p>
