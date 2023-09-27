@@ -1,1 +1,2 @@
-
+# Redirects from what the browser requests to what design-system.ca serves
+/covid/alerts.html /crisis/alerts.html 301!
