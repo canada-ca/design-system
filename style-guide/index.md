@@ -38,7 +38,7 @@ title: "Canada.ca Content Style Guide"
   <h2>Summary of changes</h2>
   <p>Here are the changes we made to this version of the guide:</p>
   <ul>
-    <li>we’ve added “Writing for inclusivity” to the <a href="#toc5">Writing principles for web content</a> section</li>
+    <li>we’ve added "Writing for inclusivity" to the <a href="#toc5">Writing principles for web content</a> section</li>
   </ul>
   <p>Refer to the listed section for details.</p>
 </section>
@@ -235,7 +235,7 @@ title: "Canada.ca Content Style Guide"
     </ul>
     <figure class="mrgn-bttm-lg">
       <figcaption class="text-center"> <strong>Figure 1</strong> </figcaption>
-      <img alt="Pyramid upside down showing how to start a web page with key information first. Text version below:" class="img-responsive center-block" id="fig1" src="/images/fig-01-eng.jpg">
+      <img alt="Pyramid upside down showing how to start a web page with key information first. Text version below:" class="img-responsive center-block" id="fig1" src="/style-guide/images/fig-01-eng.jpg">
       <details class="brdr-tp brdr-rght brdr-bttm brdr-lft">
         <summary class="wb-toggle" data-toggle="'{&quot;print&quot;:&quot;on&quot;}'"> Figure 1 - Text version </summary>
         <p>Inverted pyramid divided into four sections, from top to bottom. The image shows the order of information on a web page.</p>
@@ -481,7 +481,7 @@ title: "Canada.ca Content Style Guide"
       <p>The Readability Statistics dialog box will appear and show the Flesch-Kincaid grade level.</p>
       <figure class="mrgn-bttm-lg">
         <figcaption class="text-center"><strong>Figure 2</strong></figcaption>
-        <img alt="Screen capture of a readability statistics dialog box in Microsoft Word. Text version below:" class="img-responsive center-block mrgn-bttm-md" src="/images/fig-02-eng.jpg">
+        <img alt="Screen capture of a readability statistics dialog box in Microsoft Word. Text version below:" class="img-responsive center-block mrgn-bttm-md" src="/style-guide/images/fig-02-eng.jpg">
         <details>
           <summary> Figure 2 - Text version </summary>
           <p>A screen capture of Microsoft Word's readability statistics dialog box shows that a sample of text got a Flesch-Kincaid reading level of 5.8.</p>
@@ -743,7 +743,7 @@ title: "Canada.ca Content Style Guide"
       <h5>Example of question marks being used in forms, wizards, surveys or quizzes</h5>
       <figure class="mrgn-bttm-lg">
         <figcaption class="text-center"> <strong>Figure 3</strong> </figcaption>
-        <img alt="A web page containing a heading with a question mark. Text version below:" class="img-responsive center-block" id="fig3" src="/images/fig-03-eng.jpg">
+        <img alt="A web page containing a heading with a question mark. Text version below:" class="img-responsive center-block" id="fig3" src="/style-guide/images/fig-03-eng.jpg">
         <details class="brdr-tp brdr-rght brdr-bttm brdr-lft">
           <summary class="wb-toggle" data-toggle="'{&quot;print&quot;:&quot;on&quot;}'"> Figure 3 - Text version </summary>
           <p>A web page containing a heading with a question mark.</p>
@@ -1731,7 +1731,7 @@ title: "Canada.ca Content Style Guide"
     <h5>Example of functional images</h5>
     <figure class="mrgn-bttm-lg">
       <figcaption class="text-center"> <strong>Figure 4</strong> </figcaption>
-      <img alt="Map of Canada: current conditions" class="img-responsive center-block" src="/images/fig-04-eng.jpg">
+      <img alt="Map of Canada: current conditions" class="img-responsive center-block" src="/style-guide/images/fig-04-eng.jpg">
       <details>
         <summary>Figure 4 - Text version </summary>
         <table class="table table-bordered table-condensed">
@@ -1849,7 +1849,7 @@ title: "Canada.ca Content Style Guide"
     </figure>
     <figure class="mrgn-bttm-lg">
       <figcaption class="text-center"> <strong>Figure 5</strong> </figcaption>
-      <img alt="Bar chart for number of pages by main purpose and audience" class="img-responsive center-block" src="/images/fig-05-eng.png">
+      <img alt="Bar chart for number of pages by main purpose and audience" class="img-responsive center-block" src="/style-guide/images/fig-05-eng.png">
       <details>
         <summary> Figure 5 - Text version </summary>
         <table class="table table-bordered table-condensed">
@@ -1928,7 +1928,7 @@ title: "Canada.ca Content Style Guide"
     <p><a href="#wp6-2">Include the appropriate alternative text</a> to describe the image for people who are unable to view it.</p>
     <p>Get details about the templates above in the <cite><a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-eng.asp">Canada.ca Content and Information Architecture Specification</a></cite>.</p>
     <h5>Example of a decorative image</h5>
-    <p><img alt="A Royal Canadian Mounted Police officer on the Canada.ca web page related to jobs and the workplace." class="img-responsive center-block" src="/images/fig-06-eng.jpg"></p>
+    <p><img alt="A Royal Canadian Mounted Police officer on the Canada.ca web page related to jobs and the workplace." class="img-responsive center-block" src="/style-guide/images/fig-06-eng.jpg"></p>
     <p><strong>Description of the image</strong></p>
     <p>A Royal Canadian Mounted Police officer on the Canada.ca web page related to jobs and the workplace.</p>
   </section>
@@ -1974,7 +1974,7 @@ title: "Canada.ca Content Style Guide"
   <h4>Example: Long description for the balanced scorecard</h4>
   <figure class="mrgn-bttm-lg">
     <figcaption class="text-center"> <strong>Figure 1: using a balanced scorecard approach to monitor key performance indicators</strong> </figcaption>
-    <img alt="A balanced scorecard showing how business activities align with an organization's vision and strategy to monitor key performance indicators. Text version below. " class="img-responsive center-block" src="/images/fig-01b-eng.jpg">
+    <img alt="A balanced scorecard showing how business activities align with an organization's vision and strategy to monitor key performance indicators. Text version below. " class="img-responsive center-block" src="/style-guide/images/fig-01b-eng.jpg">
     <h5>Alternative text</h5>
     <p>You could write the following alternative text for the image shown in Figure 1:</p>
     <p>A balanced scorecard showing how business activities align with an organization's vision and strategy to monitor key performance indicators. Text version below.</p>
@@ -2010,7 +2010,7 @@ title: "Canada.ca Content Style Guide"
   <h4>Example: Long description for the bar chart illustrating the proportion of men and women in the public service for selected years from 1983 to 2010</h4>
   <figure class="mrgn-bttm-lg">
     <figcaption class="text-center"> <strong>Figure 2: proportion of men and women in the public service for selected years from 1983 to 2010</strong> </figcaption>
-    <img alt="Comparison of the ratio of women and men in the civil service between 1983 and 2010. Text version below." class="img-responsive center-block" src="/images/fig-02b-eng.jpg">
+    <img alt="Comparison of the ratio of women and men in the civil service between 1983 and 2010. Text version below." class="img-responsive center-block" src="/style-guide/images/fig-02b-eng.jpg">
     <p>Source: Office of the Chief Human Resources Officer, Treasury Board of Canada Secretariat <br>
       Note: Includes all tenures. Figures do not include employees on leave without pay.</p>
     <h5>Alternative text</h5>
