@@ -69,9 +69,9 @@ title: Content footer
   </p>
   <ul>
    <li>
-    <a href="report-problem.html">
-     Report a problem
-    </a>
+     <a href="https://design.canada.ca/continuous-improvement/monitoring/feedback.html">
+    Page feedback tool
+   </a>
     (optional)
    </li>
    <li>
@@ -90,18 +90,6 @@ title: Content footer
   <p>
    Insert the content footer within the content area block so that its margins are aligned with the main page content.
   </p>
-  <h2>
-   Page feedback tool pilot
-  </h2>
-  <p>
-   The Page feedback tool is a pilot product. Add the pattern to the content footer instead of the “Report a problem”
-          pattern to actively collect user feedback.
-  </p>
-  <p>
-   <a href="https://design.canada.ca/continuous-improvement/monitoring/feedback.html">
-    Page feedback tool
-   </a>
-  </p>
  </section>
  <h2>
   Example
@@ -119,7 +107,7 @@ title: Content footer
      Text version
     </summary>
     <p>
-     The content footer contains the following components: Report a problem, Share this page and Date modified.
+     The content footer contains the following components: Page feedback tool, Share this page and Date modified.
     </p>
    </details>
   </figure>

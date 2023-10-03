@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/configurations-conception-communes/date-modification.html
 date: null
-dateModified: '2022-11-30'
+dateModified: '2023-10-03'
 description: null
 title: Date modified
 ---
@@ -57,7 +57,7 @@ title: Date modified
       Date modified section
      </b>
     </figcaption>
-    <img alt="Date modified: 2017-12-05' appears highlighted below the main content area." src="../images/datemod-en.png"/>
+    <img alt="Date modified: 2023-08-01' appears highlighted below the main content area." src="../images/datemod-en.png"/>
    </figure>
   </section>
   <section>
