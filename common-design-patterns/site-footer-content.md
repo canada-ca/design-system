@@ -69,7 +69,7 @@ title: Content footer
   </p>
   <ul>
    <li>
-     <a href="https://design.canada.ca/continuous-improvement/monitoring/feedback.html">
+     <a href="https://test.canada.ca/experimental/feedback-retroaction/page-feedback.html">
     Page feedback tool
    </a>
     (optional)
