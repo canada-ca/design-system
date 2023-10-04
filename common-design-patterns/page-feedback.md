@@ -91,7 +91,7 @@ title: "Page feedback tool"
       <details>
         <summary>Code</summary>
         <span class="wb-prettify all-pre"></span>
-        <pre>  
+        <pre><code>
 &lt;div class&#x3D;&quot;row row-no-gutters mrgn-tp-xl&quot;&gt;
   &lt;div class&#x3D;&quot;col-sm-7 col-lg-6&quot;&gt;
     &lt;section class&#x3D;&quot;gc-pg-hlpfl provisional&quot;&gt;
@@ -158,7 +158,7 @@ title: "Page feedback tool"
     &lt;div class&#x3D;&quot;wb-share&quot; data-wb-share&#x3D;&quot;{&quot;pnlId&quot;:&quot;pnlShrPg&quot;, &quot;lnkClass&quot;: &quot;btn btn-default btn-block mrgn-tp-md&quot;}&quot;&gt;&lt;&#x2F;div&gt;
   &lt;&#x2F;div&gt;
 &lt;&#x2F;div&gt;
-        </pre>
+        </code></pre>
       </details>
     </div>
   </div>
@@ -191,7 +191,7 @@ title: "Page feedback tool"
       </details>
       <details>
         <summary>Code</summary>
-        <pre>
+        <pre class="prettyprint"><code>
    &lt;!-- START PAGE FEEDBACK WIDGET --&gt;
    &lt;div class=&quot;row row-no-gutters mrgn-tp-xl&quot;&gt;
    &lt;div class=&quot;col-sm-7 col-lg-6&quot;&gt;
@@ -293,7 +293,7 @@ title: "Page feedback tool"
    &lt;/script&gt;
    &lt;!-- END SCRIPT PAGE FEEDBACK WIDGET --&gt;
 
-</pre>
+ </code></pre>
       </details>
     </div>
   </div>
