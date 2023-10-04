@@ -98,7 +98,9 @@ title: "Page feedback tool"
     <div class="col-md-8">
       <div class="mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
-          <figcaption><b>1. Initial view of the feedback tool</b></figcaption>
+          <figcaption>
+            <h4>1. Initial view of the feedback tool</h4>
+          </figcaption>
           <img src="/images/page-feedback.png" class="img-responsive" alt="1. Initial view of the feedback tool. Text version below:" />
           <details>
             <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
@@ -107,7 +109,9 @@ title: "Page feedback tool"
         </figure>
       </div>
       <figure class="mrgn-tp-md mrgn-bttm-lg">
-        <figcaption><b>2. View after selecting "No"</b></figcaption>
+        <figcaption>
+          <h4>2. View after selecting "No"</h4>
+        </figcaption>
         <img src="/images/description-en.jpg" class="img-responsive" alt="2. View after selecting No. Text version below:" />
         <details>
           <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
@@ -115,7 +119,10 @@ title: "Page feedback tool"
         </details>
       </figure>
       <figure class="mrgn-tp-md mrgn-bttm-lg">
-        <figcaption><b>2b. Optional view after selecting "No" with contact option</b> The expand/collapse pattern labeled “Need urgent help with a problem? Contact us” will be closed by default.</figcaption>
+        <figcaption>
+          <h4>2b. Optional view after selecting "No" with contact option</h4>
+          <p>The expand/collapse pattern labeled “Need urgent help with a problem? Contact us” will be closed by default.</p>
+        </figcaption>
         <img src="/images/urgent-help-en.jpg" class="img-responsive" alt="2b. Optional view after selecting No with contact option. Text version below:" />
         <details>
           <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
@@ -125,7 +132,9 @@ title: "Page feedback tool"
         </details>
       </figure>
       <figure class="mrgn-tp-md mrgn-bttm-lg">
-        <figcaption><b>3. View after selecting "Yes" or after submitting feedback</b></figcaption>
+        <figcaption>
+          <h4>3. View after selecting "Yes" or after submitting feedback</h4>
+        </figcaption>
         <img src="/images/thank-you-en.jpg" class="img-responsive" alt="3. View after selecting Yes or after submitting feedback. Text version below:" />
         <details>
           <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
