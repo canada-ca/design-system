@@ -191,6 +191,76 @@ title: "Page feedback tool"
         <p>Email: dto.btn@tbs-sct.gc.ca</p>
         <h4><span class="label label-warning">Optional</span> Contact link</h4>
         <p><strong>Only consider adding a contact link if</strong> you have tried to make the page content clearer for how to contact the program or service and users are still using the feedback tool to get a response for their situation.</p>
+      </details>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-8">
+      <h3>Feedback tool code for non-AEM pages</h3>
+      <p>Use these instructions for any page that is not hosted on the Adobe Managed Web Service.</p>
+      <details>
+        <summary>Instructions</summary>
+        <h4>Add the feedback component</h4>
+        <p>Insert the feedback tool code where the “Report a problem on this page” is located in your page's HTML.</p>
+        <h4>Add the mandatory hidden values</h4>
+        <p>Update the data attribute for the institutional acronym (unilingual value)</p>
+        <h4>Canada.ca institutional acronyms</h4>
+        <ul>
+          <li>AAFC</li>
+          <li>ATSSC</li>
+          <li>CATSA</li>
+          <li>CFIA</li>
+          <li>CIRNAC</li>
+          <li>NSERC</li>
+          <li>CBSA</li>
+          <li>CCG</li>
+          <li>CGC</li>
+          <li>CIHR</li>
+          <li>CIPO</li>
+          <li>CRA</li>
+          <li>CRTC</li>
+          <li>CSA</li>
+          <li>CSEC</li>
+          <li>CSPS</li>
+          <li>DFO</li>
+          <li>DND</li>
+          <li>ECCC</li>
+          <li>ESDC</li>
+          <li>FCAC</li>
+          <li>FIN</li>
+          <li>GAC</li>
+          <li>HC</li>
+          <li>INFC</li>
+          <li>IRCC</li>
+          <li>ISC</li>
+          <li>ISED</li>
+          <li>JUS</li>
+          <li>LAC</li>
+          <li>NFB</li>
+          <li>NRC</li>
+          <li>NRCan</li>
+          <li>OSB</li>
+          <li>PBC</li>
+          <li>PC</li>
+          <li>PCH</li>
+          <li>PCO</li>
+          <li>PHAC</li>
+          <li>PS</li>
+          <li>PSC</li>
+          <li>SSC</li>
+          <li>PSPC</li>
+          <li>RCMP</li>
+          <li>StatCan</li>
+          <li>TBS</li>
+          <li>TC</li>
+          <li>VAC</li>
+          <li>WAGE</li>
+          <li>WD</li>
+        </ul>
+        <h4><span class="label label-primary">Recommended</span> Add a theme hidden value in the feedback code</h4>
+        <p>This is useful when you want to download feedback for an entire theme of pages at the same time.</p>
+        <p>In most cases, you should include the Canada.ca theme for your content (full list below).</p>
+        <p>This is a unilingual value - enter the same theme value to your English and French pages.</p>
         <h4>Canada.ca theme values</h4>
         <ul>
           <li>About Gov</li>
@@ -224,19 +294,6 @@ title: "Page feedback tool"
         <h4><span class="label label-warning">Optional</span> Contact link</h4>
         <p><strong>Only consider adding a contact link if</strong> you have tried to make the page content clearer for how to contact the program or service and users are still using the feedback tool to get a response for their situation.</p>
       </details>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-md-8">
-      <h3>Feedback tool code for non-AEM pages</h3>
-      <p>Use these instructions for any page that is not hosted on the Adobe Managed Web Service.</p>
-      <details>
-        <summary>Instructions</summary>
-        <h3>Add the feedback component</h3>
-        <p>Insert the feedback tool code where the “Report a problem on this page” is located in your page's HTML.</p>
-        <h4>Add the mandatory hidden values</h4>
-        <p>Update the data attribute for the institutional acronym (unilingual value)</p>
-        Canada.ca institutional acronyms </details>
       <details>
         <summary>Code</summary>
         <ul>
@@ -246,11 +303,13 @@ title: "Page feedback tool"
       </details>
     </div>
   </div>
-  <h3 id="guidance">Accessing and analyzing feedback</h3>
-  <p>Feedback can be viewed and downloaded as CSV or Excel files at any time using the Feedback Viewer website.</p>
-  <p>The Feedback Viewer is a password protected environment available to all page feedback participants. Contact the DTO to access to the site.</p>
-  <p>Email: <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></p>
-  <p><a href="https://design.canada.ca/feedback/index.html">Full guidance for using and analyzing page feedback</a></p>
+  <section id="guidance">
+    <h3>Accessing and analyzing feedback</h3>
+    <p>Feedback can be viewed and downloaded as CSV or Excel files at any time using the Feedback Viewer website.</p>
+    <p>The Feedback Viewer is a password protected environment available to all page feedback participants. Contact the DTO to access to the site.</p>
+    <p>Email: <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></p>
+    <p><a href="https://design.canada.ca/feedback/index.html">Full guidance for using and analyzing page feedback</a></p>
+  </section>
 </section>
 <section id="research">
   <h2>Research and rationale</h2>
