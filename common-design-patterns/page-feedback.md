@@ -159,7 +159,7 @@ title: "Page feedback tool"
         <p>This is useful when you want to download feedback for an entire theme of pages at the same time.</p>
         <p>In most cases, you should include the Canada.ca theme for your content (full list below).</p>
         <p>This is a unilingual value - enter the same theme value to your English and French pages.</p>
-        <h4>Canada.ca theme values</h4>
+        <h5>Canada.ca theme values</h5>
         <ul>
           <li>About Gov</li>
           <li>Benefits</li>
@@ -204,7 +204,7 @@ title: "Page feedback tool"
         <p>Insert the feedback tool code where the “Report a problem on this page” is located in your page's HTML.</p>
         <h4>Add the mandatory hidden values</h4>
         <p>Update the data attribute for the institutional acronym (unilingual value)</p>
-        <h4>Canada.ca institutional acronyms</h4>
+        <h5>Canada.ca institutional acronyms</h5>
         <ul>
           <li>AAFC</li>
           <li>ATSSC</li>
@@ -261,7 +261,7 @@ title: "Page feedback tool"
         <p>This is useful when you want to download feedback for an entire theme of pages at the same time.</p>
         <p>In most cases, you should include the Canada.ca theme for your content (full list below).</p>
         <p>This is a unilingual value - enter the same theme value to your English and French pages.</p>
-        <h4>Canada.ca theme values</h4>
+        <h5>Canada.ca theme values</h5>
         <ul>
           <li>About Gov</li>
           <li>Benefits</li>
