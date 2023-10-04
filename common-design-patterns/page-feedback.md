@@ -8,7 +8,7 @@ title: "Page feedback tool"
 <p class="small">Last updated: October 6, 2023</p>
 <p><span class="label label-warning">Optional</span></p>
 <p>The feedback tool is an <strong>optional</strong> pattern to collect feedback on the page experience. When in use, it is included at the bottom of the page before the date modified.</p>
-<div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
+<div class="mrgn-tp-md mrgn-bttm-md">
   <figure class="mrgn-tp-md mrgn-bttm-lg"><img src="/images/page-feedback.png" class="img-responsive" alt="" /></figure>
 </div>
 <h2 id="on-this-page">On this page</h2>
@@ -96,7 +96,7 @@ title: "Page feedback tool"
   <h3>Visual examples</h3>
   <div class="row">
     <div class="col-md-8">
-      <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
+      <div class="mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
           <figcaption><b>1. Initial view of the feedback tool</b></figcaption>
           <img src="/images/page-feedback.png" class="img-responsive" alt="1. Initial view of the feedback tool. Text version below:" />
@@ -116,7 +116,7 @@ title: "Page feedback tool"
       </figure>
       <figure class="mrgn-tp-md mrgn-bttm-lg">
         <figcaption><b>2b. Optional view after selecting "No" with contact option</b> The expand/collapse pattern labeled “Need urgent help with a problem? Contact us” will be closed by default.</figcaption>
-        <img src="/images/urgent-help-en.png" class="img-responsive" alt="2b. Optional view after selecting No with contact option. Text version below:" />
+        <img src="/images/urgent-help-en.jpg" class="img-responsive" alt="2b. Optional view after selecting No with contact option. Text version below:" />
         <details>
           <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
           <p>After interacting with the “No” button in, a text entry screen will replace the prompt.</p>
