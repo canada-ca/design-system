@@ -116,7 +116,7 @@ title: "Page feedback tool"
       </figure>
       <figure class="mrgn-tp-md mrgn-bttm-lg">
         <figcaption><b>2b. Optional view after selecting "No" with contact option</b> The expand/collapse pattern labeled “Need urgent help with a problem? Contact us” will be closed by default.</figcaption>
-        <img src="/images/urgent-help-en.jpg" class="img-responsive" alt="2b. Optional view after selecting No with contact option. Text version below:" />
+        <img src="/images/urgent-help-en.png" class="img-responsive" alt="2b. Optional view after selecting No with contact option. Text version below:" />
         <details>
           <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
           <p>After interacting with the “No” button in, a text entry screen will replace the prompt.</p>
