@@ -5,7 +5,7 @@ dateModified: "2023-10-06"
 description: "The feedback tool is an optional pattern to collect feedback on the page experience."
 title: "Page feedback tool"
 ---
-<p class="small">Last updated: March 28, 2023</p>
+<p class="small">Last updated: October 6, 2023</p>
 <p><span class="label label-warning">Optional</span></p>
 <p>The feedback tool is an <strong>optional</strong> pattern to collect feedback on the page experience. It replaces the “Report a problem” pattern while actively collecting user feedback.</p>
 <p><img src="/images/page-feedback.png" alt="A heading labelled &quot;Did you find what you were looking for?&quot;, followed by options to select yes or no." /></p>
