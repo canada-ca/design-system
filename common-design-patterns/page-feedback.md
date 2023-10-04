@@ -92,79 +92,72 @@ title: "Page feedback tool"
         <summary>Code</summary>
         <span class="wb-prettify all-pre"></span>
         <pre>  
-		&lt;div class=&quot;row row-no-gutters mrgn-tp-xl&quot;&gt;
-        &lt;div class=&quot;col-sm-7 col-lg-6&quot;&gt;
-        &lt;section class=&quot;gc-pg-hlpfl provisional&quot;&gt;
-        &lt;div class=&quot;well mrgn-bttm-0&quot;&gt;
-        &lt;form id=&quot;gc-pg-hlpfl-frm&quot; action=&quot;/gc/services/generateemail&quot; method=&quot;post&quot; autocomplete=&quot;off&quot; class=&quot;provisional wb-postback&quot; data-wb-postback=&quot;{&quot;success&quot;:&quot;.gc-pg-hlpfl-thnk&quot;,&quot;content&quot;:&quot;#gc-pg-hlpfl-frm&quot;}&quot;&gt;
-        &lt;input type=&quot;hidden&quot; name=&quot;institutionopt&quot; value=&quot;Institution - required - must use same acronym value EN and FR&quot;&gt;
-        &lt;input type=&quot;hidden&quot; name=&quot;themeopt&quot; value=&quot;Theme - required - must use same value EN and FR&quot;&gt;
-        &lt;input type=&quot;hidden&quot; name=&quot;sectionopt&quot; value=&quot;Section - required but can be blank - same value EN and FR&quot;&gt;
-        &lt;input type=&quot;hidden&quot; name=&quot;pageTitle&quot; value=&quot;Page title (EN) - required&quot;&gt;
-        &lt;input type=&quot;hidden&quot; name=&quot;emailTemplate&quot; value=&quot;servcan/gc-pagesuccessen&quot;&gt;
-        &lt;div class=&quot;gc-pg-hlpfl-btn&quot;&gt;
-        &lt;div class=&quot;row row-no-gutters&quot;&gt;
-        &lt;div class=&quot;col-xs-12 col-sm-7 mrgn-tp-sm&quot;&gt;
-        &lt;h2 class=&quot;mrgn-tp-sm h5&quot;&gt;Did you find what you were looking for?&lt;/h2&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-xs-8 col-sm-5 text-right&quot;&gt;
-        &lt;button type=&quot;submit&quot; name=&quot;helpful&quot; value=&quot;Yes&quot; class=&quot;btn btn-primary&quot; data-gc-analytics-wtph&gt;Yes&lt;/button&gt;
-        &lt;button type=&quot;button&quot; class=&quot;btn btn-primary mrgn-lft-sm nojs-hide&quot; data-wb-doaction=&quot;[                                    {&quot;action&quot;:&quot;removeClass&quot;,&quot;source&quot;:&quot;.gc-pg-hlpfl-no&quot;,&quot;class&quot;:&quot;nojs-show&quot;},
-        {&quot;action&quot;:&quot;addClass&quot;,&quot;source&quot;:&quot;.gc-pg-hlpfl-btn&quot;,&quot;class&quot;:&quot;hide&quot;}
-        ]&quot; data-gc-analytics-wtph-no&gt;No&lt;/button&gt;
-        &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;p class=&quot;h3 hidden nojs-show&quot;&gt;If not, tell us why:&lt;/p&gt;
-        &lt;div class=&quot;gc-pg-hlpfl-no nojs-show&quot;&gt;
-        &lt;fieldset&gt;
-        &lt;legend class=&quot;h4 mrgn-tp-0 mrgn-bttm-md&quot;&gt;What was wrong?&lt;/legend&gt;
-        
-        &lt;div class=&quot;radio&quot;&gt;
-        &lt;label for=&quot;problem1&quot;&gt;
-        &lt;input name=&quot;problem&quot; id=&quot;problem1&quot; type=&quot;radio&quot; value=&quot;I can't find the information&quot; data-gc-analytics-wtph-value=&quot;I can't find the information-Je ne peux pas trouver l'information&quot; data-gc-analytics-collect=&quot;notPrivate&quot;&gt;I can't &lt;strong&gt;find&lt;/strong&gt; the information
-        &lt;/label&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;radio&quot;&gt;
-        &lt;label for=&quot;problem2&quot;&gt;
-        &lt;input name=&quot;problem&quot; id=&quot;problem2&quot; type=&quot;radio&quot; value=&quot;The information is hard to understand&quot; data-gc-analytics-wtph-value=&quot;The information is hard to understand-L'information est difficile à comprendre&quot; data-gc-analytics-collect=&quot;notPrivate&quot;&gt; The information is hard to &lt;strong&gt;understand&lt;/strong&gt;
-        &lt;/label&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;radio&quot;&gt;
-        &lt;label for=&quot;problem3&quot;&gt;
-        &lt;input name=&quot;problem&quot; id=&quot;problem3&quot; type=&quot;radio&quot; value=&quot;There was an error / something didn't work&quot; data-gc-analytics-wtph-value=&quot;There was an error or something didn't work-Il y avait une erreur ou quelque chose ne fonctionnait pas&quot; data-gc-analytics-collect=&quot;notPrivate&quot;&gt; There was an error or something &lt;strong&gt;didn't work&lt;/strong&gt;
-        &lt;/label&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;radio&quot;&gt;
-        &lt;label for=&quot;problem4&quot;&gt;
-        &lt;input name=&quot;problem&quot; id=&quot;problem4&quot; type=&quot;radio&quot; value=&quot;Other reason&quot; data-gc-analytics-wtph-value=&quot;Other reason-Autre raison&quot; data-gc-analytics-collect=&quot;notPrivate&quot;&gt;
-        Other reason
-        &lt;/label&gt;
-        &lt;/div&gt;
-        &lt;/fieldset&gt;
-        &lt;label for=&quot;problem6&quot; class=&quot;mrgn-bttm-0&quot;&gt;Please provide more details&lt;/label&gt;
-        &lt;p class=&quot;small&quot;&gt;
-        &lt;strong&gt;You will not receive a reply. Don't include personal information (telephone, email, SIN, financial, medical, or work details).&lt;/strong&gt;
-        &lt;br&gt;
-        &lt;span class=&quot;small&quot;&gt;Maximum 300 characters&lt;/span&gt;
-        &lt;/p&gt;
-        &lt;textarea id=&quot;problem6&quot; name=&quot;details&quot; class=&quot;full-width&quot; maxlength=&quot;300&quot;&gt;&lt;/textarea&gt;
-        &lt;button type=&quot;submit&quot; name=&quot;helpful&quot; value=&quot;No&quot; class=&quot;btn btn-primary mrgn-tp-md mrgn-bttm-sm&quot; data-gc-analytics-wtph-submit&gt;Submit&lt;/button&gt;
-        &lt;/div&gt;
-        &lt;input type=&quot;hidden&quot; name=&quot;problem&quot; value=&quot;&quot;&gt;
-        &lt;/form&gt;
-        &lt;div class=&quot;gc-pg-hlpfl-thnk hide&quot;&gt;
-        &lt;p class=&quot;h6 mrgn-tp-sm mrgn-bttm-sm&quot;&gt;&lt;span class=&quot;far fa-check-circle text-success mrgn-rght-sm&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt; Thank you for your feedback&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;/section&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-sm-3 col-sm-offset-1 col-lg-offset-3&quot;&gt;
-        &lt;div class=&quot;wb-share&quot; data-wb-share=&quot;{&quot;pnlId&quot;:&quot;pnlShrPg&quot;, &quot;lnkClass&quot;: &quot;btn btn-default btn-block mrgn-tp-md&quot;}&quot;&gt;&lt;/div&gt;
-        &lt;/div&gt;
-        &lt;/div&gt;
+&lt;div class&#x3D;&quot;row row-no-gutters mrgn-tp-xl&quot;&gt;
+  &lt;div class&#x3D;&quot;col-sm-7 col-lg-6&quot;&gt;
+    &lt;section class&#x3D;&quot;gc-pg-hlpfl provisional&quot;&gt;
+      &lt;div class&#x3D;&quot;well mrgn-bttm-0&quot;&gt;
+        &lt;form id&#x3D;&quot;gc-pg-hlpfl-frm&quot; action&#x3D;&quot;&#x2F;gc&#x2F;services&#x2F;generateemail&quot; method&#x3D;&quot;post&quot; autocomplete&#x3D;&quot;off&quot; class&#x3D;&quot;provisional wb-postback&quot; data-wb-postback&#x3D;&quot;{&quot;success&quot;:&quot;.gc-pg-hlpfl-thnk&quot;,&quot;content&quot;:&quot;#gc-pg-hlpfl-frm&quot;}&quot;&gt;
+          &lt;input type&#x3D;&quot;hidden&quot; name&#x3D;&quot;institutionopt&quot; value&#x3D;&quot;Institution - required - must use same acronym value EN and FR&quot;&gt;
+          &lt;input type&#x3D;&quot;hidden&quot; name&#x3D;&quot;themeopt&quot; value&#x3D;&quot;Theme - required - must use same value EN and FR&quot;&gt;
+          &lt;input type&#x3D;&quot;hidden&quot; name&#x3D;&quot;sectionopt&quot; value&#x3D;&quot;Section - required but can be blank - same value EN and FR&quot;&gt;
+          &lt;input type&#x3D;&quot;hidden&quot; name&#x3D;&quot;pageTitle&quot; value&#x3D;&quot;Page title (EN) - required&quot;&gt;
+          &lt;input type&#x3D;&quot;hidden&quot; name&#x3D;&quot;emailTemplate&quot; value&#x3D;&quot;servcan&#x2F;gc-pagesuccessen&quot;&gt;
+          &lt;div class&#x3D;&quot;gc-pg-hlpfl-btn&quot;&gt;
+            &lt;div class&#x3D;&quot;row row-no-gutters&quot;&gt;
+              &lt;div class&#x3D;&quot;col-xs-12 col-sm-7 mrgn-tp-sm&quot;&gt;
+                &lt;h2 class&#x3D;&quot;mrgn-tp-sm h5&quot;&gt;Did you find what you were looking for?&lt;&#x2F;h2&gt;
+              &lt;&#x2F;div&gt;
+              &lt;div class&#x3D;&quot;col-xs-8 col-sm-5 text-right&quot;&gt;
+                &lt;button type&#x3D;&quot;submit&quot; name&#x3D;&quot;helpful&quot; value&#x3D;&quot;Yes&quot; class&#x3D;&quot;btn btn-primary&quot; data-gc-analytics-wtph&gt;Yes&lt;&#x2F;button&gt;
+                &lt;button type&#x3D;&quot;button&quot; class&#x3D;&quot;btn btn-primary mrgn-lft-sm nojs-hide&quot; data-wb-doaction&#x3D;&quot;[ {&quot;action&quot;:&quot;removeClass&quot;,&quot;source&quot;:&quot;.gc-pg-hlpfl-no&quot;,&quot;class&quot;:&quot;nojs-show&quot;}, {&quot;action&quot;:&quot;addClass&quot;,&quot;source&quot;:&quot;.gc-pg-hlpfl-btn&quot;,&quot;class&quot;:&quot;hide&quot;} ]&quot; data-gc-analytics-wtph-no&gt;
+                No
+                &lt;&#x2F;button&gt;
+              &lt;&#x2F;div&gt;
+            &lt;&#x2F;div&gt;
+          &lt;&#x2F;div&gt;
+          &lt;p class&#x3D;&quot;h3 hidden nojs-show&quot;&gt;If not, tell us why:&lt;&#x2F;p&gt;
+          &lt;div class&#x3D;&quot;gc-pg-hlpfl-no nojs-show&quot;&gt;
+            &lt;fieldset&gt;
+              &lt;legend class&#x3D;&quot;h4 mrgn-tp-0 mrgn-bttm-md&quot;&gt;What was wrong?&lt;&#x2F;legend&gt;
+              &lt;div class&#x3D;&quot;radio&quot;&gt;
+                &lt;label for&#x3D;&quot;problem1&quot;&gt;
+                  &lt;input name&#x3D;&quot;problem&quot; id&#x3D;&quot;problem1&quot; type&#x3D;&quot;radio&quot; value&#x3D;&quot;I can&#39;t find the information&quot; data-gc-analytics-wtph-value&#x3D;&quot;I can&#39;t find the information-Je ne peux pas trouver l&#39;information&quot; data-gc-analytics-collect&#x3D;&quot;notPrivate&quot;&gt;
+                  I can&#39;t &lt;strong&gt;find&lt;&#x2F;strong&gt; the information &lt;&#x2F;label&gt;
+              &lt;&#x2F;div&gt;
+              &lt;div class&#x3D;&quot;radio&quot;&gt;
+                &lt;label for&#x3D;&quot;problem2&quot;&gt;
+                  &lt;input name&#x3D;&quot;problem&quot; id&#x3D;&quot;problem2&quot; type&#x3D;&quot;radio&quot; value&#x3D;&quot;The information is hard to understand&quot; data-gc-analytics-wtph-value&#x3D;&quot;The information is hard to understand-L&#39;information est difficile à comprendre&quot; data-gc-analytics-collect&#x3D;&quot;notPrivate&quot;&gt;
+                  The information is hard to &lt;strong&gt;understand&lt;&#x2F;strong&gt; &lt;&#x2F;label&gt;
+              &lt;&#x2F;div&gt;
+              &lt;div class&#x3D;&quot;radio&quot;&gt;
+                &lt;label for&#x3D;&quot;problem3&quot;&gt;
+                  &lt;input name&#x3D;&quot;problem&quot; id&#x3D;&quot;problem3&quot; type&#x3D;&quot;radio&quot; value&#x3D;&quot;There was an error &#x2F; something didn&#39;t work&quot; data-gc-analytics-wtph-value&#x3D;&quot;There was an error or something didn&#39;t work-Il y avait une erreur ou quelque chose ne fonctionnait pas&quot; data-gc-analytics-collect&#x3D;&quot;notPrivate&quot;&gt;
+                  There was an error or something &lt;strong&gt;didn&#39;t work&lt;&#x2F;strong&gt; &lt;&#x2F;label&gt;
+              &lt;&#x2F;div&gt;
+              &lt;div class&#x3D;&quot;radio&quot;&gt;
+                &lt;label for&#x3D;&quot;problem4&quot;&gt;
+                  &lt;input name&#x3D;&quot;problem&quot; id&#x3D;&quot;problem4&quot; type&#x3D;&quot;radio&quot; value&#x3D;&quot;Other reason&quot; data-gc-analytics-wtph-value&#x3D;&quot;Other reason-Autre raison&quot; data-gc-analytics-collect&#x3D;&quot;notPrivate&quot;&gt;
+                  Other reason &lt;&#x2F;label&gt;
+              &lt;&#x2F;div&gt;
+            &lt;&#x2F;fieldset&gt;
+            &lt;label for&#x3D;&quot;problem6&quot; class&#x3D;&quot;mrgn-bttm-0&quot;&gt;Please provide more details&lt;&#x2F;label&gt;
+            &lt;p class&#x3D;&quot;small&quot;&gt; &lt;strong&gt;You will not receive a reply. Don&#39;t include personal information (telephone, email, SIN, financial, medical, or work details).&lt;&#x2F;strong&gt; &lt;br&gt;
+              &lt;span class&#x3D;&quot;small&quot;&gt;Maximum 300 characters&lt;&#x2F;span&gt; &lt;&#x2F;p&gt;
+            &lt;textarea id&#x3D;&quot;problem6&quot; name&#x3D;&quot;details&quot; class&#x3D;&quot;full-width&quot; maxlength&#x3D;&quot;300&quot;&gt;&lt;&#x2F;textarea&gt;
+            &lt;button type&#x3D;&quot;submit&quot; name&#x3D;&quot;helpful&quot; value&#x3D;&quot;No&quot; class&#x3D;&quot;btn btn-primary mrgn-tp-md mrgn-bttm-sm&quot; data-gc-analytics-wtph-submit&gt;Submit&lt;&#x2F;button&gt;
+          &lt;&#x2F;div&gt;
+          &lt;input type&#x3D;&quot;hidden&quot; name&#x3D;&quot;problem&quot; value&#x3D;&quot;&quot;&gt;
+        &lt;&#x2F;form&gt;
+        &lt;div class&#x3D;&quot;gc-pg-hlpfl-thnk hide&quot;&gt;
+          &lt;p class&#x3D;&quot;h6 mrgn-tp-sm mrgn-bttm-sm&quot;&gt;&lt;span class&#x3D;&quot;far fa-check-circle text-success mrgn-rght-sm&quot; aria-hidden&#x3D;&quot;true&quot;&gt;&lt;&#x2F;span&gt; Thank you for your feedback&lt;&#x2F;p&gt;
+        &lt;&#x2F;div&gt;
+      &lt;&#x2F;div&gt;
+    &lt;&#x2F;section&gt;
+  &lt;&#x2F;div&gt;
+  &lt;div class&#x3D;&quot;col-sm-3 col-sm-offset-1 col-lg-offset-3&quot;&gt;
+    &lt;div class&#x3D;&quot;wb-share&quot; data-wb-share&#x3D;&quot;{&quot;pnlId&quot;:&quot;pnlShrPg&quot;, &quot;lnkClass&quot;: &quot;btn btn-default btn-block mrgn-tp-md&quot;}&quot;&gt;&lt;&#x2F;div&gt;
+  &lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
         </pre>
       </details>
     </div>
