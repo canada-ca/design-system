@@ -163,7 +163,7 @@ title: "Page feedback tool"
     </div>
   </div>
   <div class="row">
-    <div class="col-md-8">
+    <div class="col-md-12">
       <h3>Feedback tool code for non-AEM pages</h3>
       <p>Use this feedback tool code for any page that is not hosted on the Adobe Managed Web Service.</p>
       <details>
