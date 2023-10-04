@@ -104,7 +104,6 @@ title: "Page feedback tool"
       </details>
     </figure>
   </div>
-  <p><img src="/images/page-feedback.png" alt="" /></p>
   <h4>2. View after selecting "No"</h4>
   <p><img src="/images/description-en.jpg" alt="" /></p>
   <h4>3. View after selecting "Yes" or after submitting feedback</h4>
