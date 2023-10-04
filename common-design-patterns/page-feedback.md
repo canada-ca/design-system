@@ -18,7 +18,6 @@ title: "Page feedback tool"
   <li><a href="#content-and-design">Content and design</a></li>
   <li><a href="#how">How to implement</a></li>
   <li><a href="#research">Research and rationale</a></li>
-  <li><a href="#discussion">Discussion</a></li>
 </ul>
 <section id="when-to-use">
   <h2>When to use</h2>
@@ -51,6 +50,7 @@ title: "Page feedback tool"
     <li>Thank you message</li>
   </ul>
   <p>This pattern also has detailed documentation for use and analysis of feedback.</p>
+  <p><a href="/feedback/">Page feedback tool (Analytics and feedback)</a></p>
   <h3>Content specifications</h3>
   <p>When you first add the feedback tool to your page, use the default option without the contact link.</p>
   <p><strong>Only consider adding a contact link if</strong> you have tried to make the page content clearer for how to contact the program or service and users are still using the feedback tool to get a response for their situation.</p>
@@ -104,7 +104,7 @@ title: "Page feedback tool"
           <img src="/images/page-feedback.png" class="img-responsive" alt="1. Initial view of the feedback tool. Text version below:" />
           <details>
             <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
-            <p>On page load, the feedback is located at the bottom of the web page above the date modified. A small gray well includes the prompt “Did you find what you were looking for?” followed by buttons for “Yes” and “No”.</p>
+            <p class="mrgn-tp-md">On page load, the feedback is located at the bottom of the web page above the date modified. A small gray well includes the prompt “Did you find what you were looking for?” followed by buttons for “Yes” and “No”.</p>
           </details>
         </figure>
       </div>
@@ -115,7 +115,7 @@ title: "Page feedback tool"
         <img src="/images/description-en.jpg" class="img-responsive" alt="2. View after selecting No. Text version below:" />
         <details>
           <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
-          <p>After interacting with the “No” button in, a text entry screen will replace the prompt. There is a heading for “Please provide more details” followed by instructions to not include personal information: “You will not receive a reply. Don’t include personal information (telephone, email, SIN financial, medical, or work details. Maximum 300 characters.” There is a small text entry box followed by a button for “Submit”.</p>
+          <p class="mrgn-tp-md">After interacting with the “No” button in, a text entry screen will replace the prompt. There is a heading for “Please provide more details” followed by instructions to not include personal information: “You will not receive a reply. Don’t include personal information (telephone, email, SIN financial, medical, or work details. Maximum 300 characters.” There is a small text entry box followed by a button for “Submit”.</p>
         </details>
       </figure>
       <figure class="mrgn-tp-md mrgn-bttm-lg">
@@ -126,7 +126,7 @@ title: "Page feedback tool"
         <img src="/images/urgent-help-en.png" class="img-responsive" alt="2b. Optional view after selecting No with contact option. Text version below:" />
         <details>
           <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
-          <p>After interacting with the “No” button in, a text entry screen will replace the prompt.</p>
+          <p class="mrgn-tp-md">After interacting with the “No” button in, a text entry screen will replace the prompt.</p>
           <p>In the contact option, there is an expand/collapse pattern with the header “Need urgent help with a problem? Contact us”. When the expand/collapse pattern is opened, there is a customizable link to contact the service.</p>
           <p>After the expand/collapse pattern, there is a heading for “Please provide more details” followed by instructions to not include personal information: “You will not receive a reply. Don’t include personal information (telephone, email, SIN financial, medical, or work details. Maximum 300 characters.” There is a small text entry box followed by a button for “Submit”.</p>
         </details>
@@ -138,7 +138,7 @@ title: "Page feedback tool"
         <img src="/images/thank-you-en.jpg" class="img-responsive" alt="3. View after selecting Yes or after submitting feedback. Text version below:" />
         <details>
           <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
-          <p>When users select “Yes” from the initial prompt or after submitting their feedback, a thank you message is displayed. There is a green checkmark icon followed by the heading “Thank you for your feedback”</p>
+          <p class="mrgn-tp-md">When users select “Yes” from the initial prompt or after submitting their feedback, a thank you message is displayed. There is a green checkmark icon followed by the heading “Thank you for your feedback”</p>
         </details>
       </figure>
     </div>
