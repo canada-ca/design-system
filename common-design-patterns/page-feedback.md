@@ -296,7 +296,7 @@ title: "Page feedback tool"
       </details>
       <details>
         <summary>Code</summary>
-        <ul>
+        <ul class="mrgn-tp-lg">
           <li><a href="https://wet-boew.github.io/GCWeb/sites/feedback/feedback-docs-en.html#variantPFT">Page Feedback Tool (default)</a></li>
           <li><a href="https://wet-boew.github.io/GCWeb/sites/feedback/feedback-docs-en.html#variantPFTContact">Page Feedback Tool with contact link</a></li>
         </ul>
