@@ -90,7 +90,9 @@ title: "Page feedback tool"
       </details>
       <details>
         <summary>Code</summary>
-        <span class="wb-prettify all-pre"></span> &lt;div class=&quot;row row-no-gutters mrgn-tp-xl&quot;&gt;
+        <span class="wb-prettify all-pre"></span>
+        <pre>  
+		&lt;div class=&quot;row row-no-gutters mrgn-tp-xl&quot;&gt;
         &lt;div class=&quot;col-sm-7 col-lg-6&quot;&gt;
         &lt;section class=&quot;gc-pg-hlpfl provisional&quot;&gt;
         &lt;div class=&quot;well mrgn-bttm-0&quot;&gt;
@@ -162,7 +164,7 @@ title: "Page feedback tool"
         &lt;div class=&quot;col-sm-3 col-sm-offset-1 col-lg-offset-3&quot;&gt;
         &lt;div class=&quot;wb-share&quot; data-wb-share=&quot;{&quot;pnlId&quot;:&quot;pnlShrPg&quot;, &quot;lnkClass&quot;: &quot;btn btn-default btn-block mrgn-tp-md&quot;}&quot;&gt;&lt;/div&gt;
         &lt;/div&gt;
-        &lt;/div&gt; </code>
+        &lt;/div&gt;
         </pre>
       </details>
     </div>
