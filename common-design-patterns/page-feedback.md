@@ -152,7 +152,7 @@ title: "Page feedback tool"
       <h3>Feedback tool code for AEM pages</h3>
       <p>Use this feedback code for any page hosted on the Adobe Managed Web Service.</p>
       <details>
-        <summary>Instructions</summary>
+        <summary>Instructions for AEM pages</summary>
         <h4>Add the feedback component</h4>
         <p><a href="https://test.canada.ca/experimental/feedback-retroaction/page-feedback-oct.html">How to add the feedback component to your page in AEM.</a> (Internal only on GCPedia)</p>
         <h4><span class="label label-primary">Recommended</span> Add a theme hidden value in the feedback code</h4>
@@ -199,7 +199,7 @@ title: "Page feedback tool"
       <h3>Feedback tool code for non-AEM pages</h3>
       <p>Use these instructions for any page that is not hosted on the Adobe Managed Web Service.</p>
       <details>
-        <summary>Instructions</summary>
+        <summary>Instructions for non-AEM pages</summary>
         <h4>Add the feedback component</h4>
         <p>Insert the feedback tool code where the “Report a problem on this page” is located in your page's HTML.</p>
         <h4>Add the mandatory hidden values</h4>
@@ -295,7 +295,7 @@ title: "Page feedback tool"
         <p><strong>Only consider adding a contact link if</strong> you have tried to make the page content clearer for how to contact the program or service and users are still using the feedback tool to get a response for their situation.</p>
       </details>
       <details>
-        <summary>Code</summary>
+        <summary>Page Feedback Tool code</summary>
         <ul class="mrgn-tp-lg">
           <li><a href="https://wet-boew.github.io/GCWeb/sites/feedback/feedback-docs-en.html#variantPFT">Page Feedback Tool (default)</a></li>
           <li><a href="https://wet-boew.github.io/GCWeb/sites/feedback/feedback-docs-en.html#variantPFTContact">Page Feedback Tool with contact link</a></li>
