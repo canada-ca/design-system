@@ -68,7 +68,7 @@ title: "Page feedback tool"
   <h2>How to implement</h2>
   <p>Add it to the bottom of a content page after the page content and before the date modified. </p>
   <div class="row">
-    <div class="col-md-8">
+    <div class="col-md-12">
       <h3>Feedback tool code for AEM pages</h3>
       <p>Use this feedback code for any page hosted on the Adobe Managed Web Service.</p>
       <details>
