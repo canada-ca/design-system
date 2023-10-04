@@ -94,40 +94,46 @@ title: "Page feedback tool"
     <li>Checkmark colour: success class</li>
   </ul>
   <h3>Visual examples</h3>
-  <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
-    <figure class="mrgn-tp-md mrgn-bttm-lg">
-      <figcaption><b>1. Initial view of the feedback tool</b></figcaption>
-      <img src="/images/page-feedback.png" class="img-responsive" alt="1. Initial view of the feedback tool. Text version below:" />
-      <details>
-        <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
-        <p>On page load, the feedback is located at the bottom of the web page above the date modified. A small gray well includes the prompt “Did you find what you were looking for?” followed by buttons for “Yes” and “No”.</p>
-      </details>
-    </figure>
-  </div>
-  <h4>2. View after selecting "No"</h4>
-  <p><img src="/images/description-en.jpg" alt="" /></p>
-  <h4>3. View after selecting "Yes" or after submitting feedback</h4>
-  <p><img src="/images/thank-you-en.jpg" alt="" /></p>
   <div class="row">
     <div class="col-md-8">
-      <details>
-        <summary>Feedback tool</summary>
-        <p class="mrgn-tp-lg">A heading labelled "Did you find what you were looking for?", followed by options to select yes or no.</p>
-        <p>A heading labelled "Please provide more details", followed by the text "You will not receive a reply.
-          Don't include personal information (telephone, email, SIN, financial, medical, or work details).
-          Maximum 300 characters", and a text field to provide more details.</p>
-        <p>A heading labelled "Thank you for your feedback"</p>
-      </details>
+      <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
+        <figure class="mrgn-tp-md mrgn-bttm-lg">
+          <figcaption><b>1. Initial view of the feedback tool</b></figcaption>
+          <img src="/images/page-feedback.png" class="img-responsive" alt="1. Initial view of the feedback tool. Text version below:" />
+          <details>
+            <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
+            <p>On page load, the feedback is located at the bottom of the web page above the date modified. A small gray well includes the prompt “Did you find what you were looking for?” followed by buttons for “Yes” and “No”.</p>
+          </details>
+        </figure>
+      </div>
+      <figure class="mrgn-tp-md mrgn-bttm-lg">
+        <figcaption><b>2. View after selecting "No"</b></figcaption>
+        <img src="/images/description-en.jpg" class="img-responsive" alt="2. View after selecting No. Text version below:" />
+        <details>
+          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
+          <p>After interacting with the “No” button in, a text entry screen will replace the prompt. There is a heading for “Please provide more details” followed by instructions to not include personal information: “You will not receive a reply. Don’t include personal information (telephone, email, SIN financial, medical, or work details. Maximum 300 characters.” There is a small text entry box followed by a button for “Submit”.</p>
+        </details>
+      </figure>
+      <figure class="mrgn-tp-md mrgn-bttm-lg">
+        <figcaption><b>2b. Optional view after selecting "No" with contact option</b> The expand/collapse pattern labeled “Need urgent help with a problem? Contact us” will be closed by default.</figcaption>
+        <img src="/images/urgent-help-en.jpg" class="img-responsive" alt="2b. Optional view after selecting No with contact option. Text version below:" />
+        <details>
+          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
+          <p>After interacting with the “No” button in, a text entry screen will replace the prompt.</p>
+          <p>In the contact option, there is an expand/collapse pattern with the header “Need urgent help with a problem? Contact us”. When the expand/collapse pattern is opened, there is a customizable link to contact the service.</p>
+          <p>After the expand/collapse pattern, there is a heading for “Please provide more details” followed by instructions to not include personal information: “You will not receive a reply. Don’t include personal information (telephone, email, SIN financial, medical, or work details. Maximum 300 characters.” There is a small text entry box followed by a button for “Submit”.</p>
+        </details>
+      </figure>
+      <figure class="mrgn-tp-md mrgn-bttm-lg">
+        <figcaption><b>3. View after selecting "Yes" or after submitting feedback</b></figcaption>
+        <img src="/images/thank-you-en.jpg" class="img-responsive" alt="3. View after selecting Yes or after submitting feedback. Text version below:" />
+        <details>
+          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
+          <p>When users select “Yes” from the initial prompt or after submitting their feedback, a thank you message is displayed. There is a green checkmark icon followed by the heading “Thank you for your feedback”</p>
+        </details>
+      </figure>
     </div>
   </div>
-  <h3>Content specifications</h3>
-  <h4>Interactions</h4>
-  <p><strong>If a user selects "No"</strong> to the prompt "Did you find what you were looking for?" they will be shown an open text field to enter their comment. It begins with a heading labelled "Please provide more details", followed by the text "You will not receive a reply.
-    Don't include personal information (telephone, email, SIN, financial, medical, or work details).
-    Maximum 300 characters". After selecting "Submit", the user is shown a thank you message.</p>
-  <p><strong>If a user selects "Yes"</strong> to the prompt "Did you find what you were looking for?" they will only be shown a thank you message.</p>
-  <h3>Design specifications</h3>
-  <p>The feedback widget replaces the "Report a problem" pattern when in use.</p>
 </section>
 <section id="how">
   <h2>How to implement</h2>
