@@ -191,7 +191,7 @@ title: "Page feedback tool"
       </details>
       <details>
         <summary>Code</summary>
-        <pre class="prettyprint"><code>
+        <pre>
    &lt;!-- START PAGE FEEDBACK WIDGET --&gt;
    &lt;div class=&quot;row row-no-gutters mrgn-tp-xl&quot;&gt;
    &lt;div class=&quot;col-sm-7 col-lg-6&quot;&gt;
@@ -293,7 +293,7 @@ title: "Page feedback tool"
    &lt;/script&gt;
    &lt;!-- END SCRIPT PAGE FEEDBACK WIDGET --&gt;
 
- </code></pre>
+</pre>
       </details>
     </div>
   </div>
