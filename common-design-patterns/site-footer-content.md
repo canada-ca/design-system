@@ -101,14 +101,14 @@ title: Content footer
      Content footer
     </b>
    </figcaption>
-   <img alt="Diagram of content footer." class="img-responsive" src="../images/content-footer-en.jpg"/>
+   <img alt="Screenshot of the content footer." class="img-responsive" src="../images/content-footer-en.jpg"/>
    <details>
     <summary class="wb-toggle" data-toggle='{"print":"on"}'>
-     Text version
+     Image description: Content footer
     </summary>
-    <p>
-     The content footer contains the following components: Page feedback tool, Share this page and Date modified.
-    </p>
+    <p>On the left is the initial view of the page feedback tool. A small gray well has a prompt “Did you find what you were looking for?” followed by buttons for “Yes” and “No”.</p>
+    <p>On the right is a grey well with a share icon and the text “Share this page”.</p>
+    <p>Below the page feedback tool is the text “Date modified: 2023-08-01”.</p>
    </details>
   </figure>
  </div>
