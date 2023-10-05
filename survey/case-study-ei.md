@@ -38,7 +38,7 @@ By reading GC Task Success Survey comments for the Submit and Employment Insuran
         <blockquote>“Finding the sign-in homepage link is a challenge”</blockquote>
         <ul>
             <li>There was an inline link to begin a report in the middle of a long paragraph.</li>
-            <li>The primary call-to-action button was after serveral lengthy paragraphs of text.</li>
+            <li>The primary call-to-action button was after several lengthy paragraphs of text.</li>
         </ul>
     </div>
 </section>
