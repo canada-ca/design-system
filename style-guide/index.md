@@ -295,7 +295,7 @@ title: "Canada.ca Content Style Guide"
       <strong>Instead of</strong>: obtain</p>
     <div class="well panel"> 
       <!--UPDATE LATER-->
-      <p><a href="{{ site.urlconception }}/guide-redaction/#wp2-1" aria-label="See how the rule for using simple and common words applies to content in French">See how this rule applies to content in French</a></p>
+      <p><a href="{{ site.urlconception }}/guide-redaction/#wp2-2" aria-label="See how the rule for using simple and common words applies to content in French">See how this rule applies to content in French</a></p>
       <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20simple%20and%20common%20words%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp2-2" aria-label="Share the rule for using simple and common words by email">Share this rule by email</a></p>
     </div>
   </section>
