@@ -3043,6 +3043,6 @@ title: "Canada.ca Content Style Guide"
     <li><a href="https://www.w3.org/TR/WCAG/">Web Content Accessibility Guidelines (WCAG) 2.0</a>, World Wide Web Consortium (W3C)</li>
     <li><a href="https://www.deque.com/blog/dont-screen-readers-read-whats-screen-part-1-punctuation-typographic-symbols/">Why Don't Screen Readers Always Read What's on the Screen?</a>, The Deque Blog</li>
     <li><a href="https://www.nngroup.com/topic/writing-web/">Writing for the web</a>, Nielsen Norman Group</li>
-    <li><a href="https://www.uottawa.ca/uoweb/en/web-standards/web-writing">Writing for the Web: Principles and Guidelines</a>, University of Ottawa</li>
+    <li>Writing for the Web: Principles and Guidelines, University of Ottawa</li>
   </ul>
 </section>
