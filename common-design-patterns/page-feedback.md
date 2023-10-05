@@ -308,7 +308,7 @@ title: "Page feedback tool"
     <p>Feedback can be viewed and downloaded as CSV or Excel files at any time using the Feedback Viewer website.</p>
     <p>The Feedback Viewer is a password protected environment available to all page feedback participants. Contact the DTO to access to the site.</p>
     <p>Email: <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></p>
-    <p><a href="https://design.canada.ca/feedback/index.html">Full guidance for using and analyzing page feedback</a></p>
+    <p><a href="/feedback/">Full guidance for using and analyzing page feedback</a></p>
   </section>
 </section>
 <section id="research">
