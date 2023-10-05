@@ -67,7 +67,7 @@ title: "Canada.ca Content Style Guide"
         <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601">Standard on Web Accessibility</a></cite></li>
         <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25875">Standard on Web Interoperability</a></cite></li>
         <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27088">Standard on Optimizing Websites and Applications for Mobile Devices</a></cite></li>
-        <li><cite><a href="{{ site.altLangUrl }}/en/treasury-board-secretariat/services/government-communications/guidance-publishing-government.html">Guidance on Publishing in the Government of Canada</a></cite></li>
+        <li><cite><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/guidance-publishing-government.html">Guidance on Publishing in the Government of Canada</a></cite></li>
         <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27167">Procedures for Publishing</a></cite></li>
         <li><cite><a href="https://laws-lois.justice.gc.ca/eng/acts/O-3.01/">Official Languages Act</a></cite></li>
       </ul>
