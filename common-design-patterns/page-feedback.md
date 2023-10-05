@@ -182,7 +182,7 @@ title: "Page feedback tool"
           <li>Veterans</li>
         </ul>
         <p>If you would like to add a new theme value that is not currently in the Feedback Viewer, contact the Digital Transformation Office. We will add the new theme value into the Feedback Viewer.</p>
-        <p>Email: dto.btn@tbs-sct.gc.ca</p>
+        <p>Email: <a href="maito:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></p>
         <h4><span class="label label-warning">Optional</span> Add a “Section” hidden value in the feedback code</h4>
         <p>This is useful when you want to download feedback for multiple pages at the same time.</p>
         <p>Consider including this value when you're adding the feedback tool to multiple pages on the same topic, such as “passports” or “employment insurance”.</p>
@@ -284,7 +284,7 @@ title: "Page feedback tool"
           <li>Veterans</li>
         </ul>
         <p>If you would like to add a new theme value that is not currently in the Feedback Viewer, contact the Digital Transformation Office. We will add the new theme value into the Feedback Viewer.</p>
-        <p>Email: dto.btn@tbs-sct.gc.ca</p>
+        <p>Email: <a href="maito:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></p>
         <h4><span class="label label-warning">Optional</span> Add a “Section” hidden value in the feedback code</h4>
         <p>This is useful when you want to download feedback for multiple pages at the same time.</p>
         <p>Consider including this value when you're adding the feedback tool to multiple pages on the same topic, such as “passports” or “employment insurance”.</p>
