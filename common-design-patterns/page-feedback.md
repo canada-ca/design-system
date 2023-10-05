@@ -154,7 +154,7 @@ title: "Page feedback tool"
       <details>
         <summary>Instructions for AEM pages</summary>
         <h4>Add the feedback component</h4>
-        <p><a href="https://test.canada.ca/experimental/feedback-retroaction/page-feedback-oct.html">How to add the feedback component to your page in AEM.</a> (Internal only on GCPedia)</p>
+        <p><a href="#">How to add the feedback component to your page in AEM.</a> (Internal only on GCPedia)</p>
         <h4><span class="label label-primary">Recommended</span> Add a theme hidden value in the feedback code</h4>
         <p>This is useful when you want to download feedback for an entire theme of pages at the same time.</p>
         <p>In most cases, you should include the Canada.ca theme for your content (full list below).</p>
