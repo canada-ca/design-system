@@ -5,7 +5,7 @@ dateModified: "2023-10-06"
 description: "The feedback tool is an optional pattern to collect feedback on the page experience."
 title: "Page feedback tool"
 ---
-<p class="small">Last updated: October 6, 2023</p>
+<p class="small">Last updated: 2023-10-06</p>
 <p>The feedback tool is an <strong>optional</strong> pattern to collect feedback on the page experience. When in use, it is included at the bottom of the page before the date modified.</p>
 <div class="mrgn-tp-md mrgn-bttm-md">
   <figure class="mrgn-tp-md mrgn-bttm-lg"><img src="/images/page-feedback.png" class="img-responsive" alt="" /></figure>
