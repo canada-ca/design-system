@@ -272,13 +272,13 @@ title: "Canada.ca Content Style Guide"
       <h5>Example of direct statements</h5>
       <p><strong>Write</strong>: Present your passport to the border officer.<br>
         <strong>Instead of</strong>: According to Canadian legislation, you're required to present your passport to the agent who will welcome you into the country.</p>
-      <h4>See how the rule for the inverted pyramid structure applies in French</h4>
+      <h4>See how this rule applies in French</h4>
       <ul>
         <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-1">2.1 Commencer par les renseignements les plus importants</a></span></li>
       </ul>
     </section>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for the inverted pyramid structure", "title": "2.1 Start with the most important information", "url": "{{ site.url }}/style-guide/#wp2-1", "pnlId": "wp2-1"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for the inverted pyramid structure", "title": "2.1 Start with the most important information", "url": "{{ site.url }}/style-guide/#wp2-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-1"}'></div>
     </div>
   </section>
 </section>
