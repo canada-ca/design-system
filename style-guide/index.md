@@ -918,7 +918,7 @@ title: "Canada.ca Content Style Guide"
     <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-3">4.3 Symboles</a></span></li>
   </ul>
   <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for abbreviations and acronyms", "title": "4.3 Symboles", "url": "https://design.canada.ca/style-guide/#wp4-3", "pnlId": "wp4-3"}'></div>
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for abbreviations and acronyms", "title": "4.3 Symboles", "url": "https://design.canada.ca/style-guide/#wp4-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-3"}'></div>
   </div>
 </section>
 <section id="wp4-4">
@@ -1079,7 +1079,7 @@ title: "Canada.ca Content Style Guide"
     <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-7">4.7 Dates</a></span></li>
   </ul>
   <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for dates", "title": "4.7 Dates", "url": "https://design.canada.ca/style-guide/#wp4-7", "pnlId": "wp4-7"}'></div>
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for dates", "title": "4.7 Dates", "url": "https://design.canada.ca/style-guide/#wp4-7", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-7"}'></div>
   </div>
 </section>
 <section id="wp4-8">
@@ -1093,7 +1093,7 @@ title: "Canada.ca Content Style Guide"
     <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-7">4.8 Heures</a></span></li>
   </ul>
   <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for dates", "title": "4.8 Times", "url": "https://design.canada.ca/style-guide/#wp4-8", "pnlId": "wp4-8"}'></div>
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for dates", "title": "4.8 Times", "url": "https://design.canada.ca/style-guide/#wp4-8", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-8"}'></div>
   </div>
 </section>
 <section id="wp4-9">
@@ -1149,7 +1149,7 @@ title: "Canada.ca Content Style Guide"
     <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-10">4.10 Adresses</a></span></li>
   </ul>
   <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rules for addresses", "title": "4.10 Addresses", "url": "https://design.canada.ca/style-guide/#wp4-10", "pnlId": "wp4-10"}'></div>
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rules for addresses", "title": "4.10 Addresses", "url": "https://design.canada.ca/style-guide/#wp4-10", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-10"}'></div>
   </div>
 </section>
 <section id="wp4-11">
