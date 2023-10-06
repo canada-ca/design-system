@@ -2119,11 +2119,6 @@ title: "Canada.ca Content Style Guide"
     </table>
   </figure>
   <p>Work with your web team to determine the best way to include the long description information. They'll guide you on how to make sure the image is accessible to people using assistive technology. They'll also ensure that your image meets the <cite><a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-eng.asp">Canada.ca Content and Information Architecture Specification</a></cite>.</p>
-  <div class="well panel"> 
-    <!--UPDATE LATER-->
-    <p><a href="{{ site.urlconception }}/guide-redaction/#wp6-3" aria-label="See how the rule for long descriptions applies to content in French">See how this rule applies to content in French</a></p>
-    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20including%20a%20long%20description%20for%20complex%20images%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp6-3" aria-label="Share the rule for long descriptions by email">Share this rule by email</a></p>
-  </div>
   <h4>See how the rule for long descriptions applies in French</h4>
   <ul>
     <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp6-3">6.3 Ajouter une description longue pour expliquer les images complexes</a></span></li>
@@ -2147,11 +2142,6 @@ title: "Canada.ca Content Style Guide"
     <li>important sounds (such as an explosion)</li>
     <li>important action (for example, people running away from an explosion or characters wearing disguises)</li>
   </ul>
-  <div class="well panel"> 
-    <!--UPDATE LATER-->
-    <p><a href="{{ site.urlconception }}/guide-redaction/#wp6-4" aria-label="See how the rule for transcripts applies to content in French">See how this rule applies to content in French</a></p>
-    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20including%20a%20transcript%20that%20describes%20audio%20and%20videos%20files%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp6-4" aria-label="Share the rule for transcripts by email">Share this rule by email</a></p>
-  </div>
   <h4>See how the rule for transcripts applies in French</h4>
   <ul>
     <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp6-4">6.4 Ajouter une transcription pour décrire les fichiers audio et vidéo</a></span></li>
@@ -2287,11 +2277,6 @@ title: "Canada.ca Content Style Guide"
   </ul>
   <h4>Example of a link that leads to content only available in French</h4>
   <p><strong>Write</strong>: Find out how to <a href="https://passeport.ants.gouv.fr/Vos-demarches/Renouvellement-perte-ou-vol">renew your French passport while abroad in Canada</a> (French only).</p>
-  <div class="well panel"> 
-    <!--UPDATE LATER-->
-    <p><a href="{{ site.urlconception }}/guide-redaction/#wp7-4" aria-label="See how the rule for non-government content applies to content in French">See how this rule applies to content in French</a></p>
-    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20including%20links%20to%20unilingual%20non-government%20content%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp7-4" aria-label="Share the rule for non-government content by email">Share this rule by email</a></p>
-  </div>
   <h4>See how the rule for non-government content applies in French</h4>
   <ul>
     <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp7-4">7.4 Créer des liens vers du contenu externe</a></span></li>
