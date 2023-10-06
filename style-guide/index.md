@@ -609,12 +609,14 @@ title: "Canada.ca Content Style Guide"
     <p><strong>Instead of</strong>: How do I renew my passport?</p>
     <h5>Exception</h5>
     <p>You may use "my" in content, page titles and links for proper names (such as My Service Canada Account).</p>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urlconception }}/guide-redaction/#wp3-1" aria-label="See how the rule for writing directly to the audience applies to content in French">See how this rule applies to content in French</a></p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20writing%20directly%20to%20the%20audience%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp3-1" aria-label="Share the rule for writing directly to the audience by email">Share this rule by email</a></p>
-    </div>
   </section>
+  <h4>See how the rule for writing directly to the audience applies in French</h4>
+  <ul>
+    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp3-1">3.1 Écrire directement à la personne</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for writing directly to the audience", "title": "3.1 Write directly to the person", "url": "{{ site.url }}/style-guide/#wp3-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp3-1"}'></div>
+  </div>
 </section>
 <section id="wp3-2">
   <h3>3.2 Use "we" to refer to the Government of Canada</h3>
@@ -652,10 +654,12 @@ title: "Canada.ca Content Style Guide"
     <p><strong>Write</strong>: If you plan to <a href="https://www.cbp.gov/travel">travel to or transit through the United States</a>, find out about the rules you need to follow from U.S. Customs and Border Protection.<br>
       <strong>Instead of</strong>: If you plan to travel to or transit through the U.S., CBSA encourages you to visit the <a href="https://www.cbp.gov/travel">U.S. Customs and Border Protection website</a> for information on the U.S. Western Hemisphere Travel Initiative, and the requirements for entering or returning to the U.S.</p>
   </section>
-  <div class="well panel"> 
-    <!--UPDATE LATER-->
-    <p><a href="{{ site.urlconception }}/guide-redaction/#wp3-2" aria-label="See how the rule for referring to the Government of Canada applies to content in French">See how this rule applies to content in French</a></p>
-    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20'we'%20on%20Canada.ca%20to%20refer%20to%20the%20Government%20of%20Canada:%20https://design.canada.ca/style-guide/#wp3-2" aria-label="Share the rule for referring to the Government of Canada by email">Share this rule by email</a></p>
+  <h4>See how the rule for referring to the Government of Canada applies in French</h4>
+  <ul>
+    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp3-2">3.2 Utiliser le pronom &laquo;&nbsp;nous&nbsp;&raquo; pour désigner le gouvernement du Canada</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for referring to the Government of Canada", "title": "3.2 Use we to refer to the Government of Canada", "url": "{{ site.url }}/style-guide/#wp3-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp3-2"}'></div>
   </div>
 </section>
 <section id="wp3-3">
@@ -680,10 +684,12 @@ title: "Canada.ca Content Style Guide"
       <li>don't use "can" or "could" (expresses ability)</li>
     </ul>
   </section>
-  <div class="well panel"> 
-    <!--UPDATE LATER-->
-    <p><a href="{{ site.urlconception }}/guide-redaction/#wp3-3" aria-label="See how the rule for expressing an obligation or a recommendation applies to content in French">See how this rule applies to content in French</a></p>
-    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20expressing%20an%20obligation%20or%20a%20recommendation%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp3-3" aria-label="Share the rule for expressing an obligation or a recommendation by email">Share this rule by email</a></p>
+  <h4>See how the rule for expressing an obligation or a recommendation applies in French</h4>
+  <ul>
+    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp3-3">3.3 Exprimer une obligation ou une recommandation</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for expressing an obligation or a recommendation", "title": "3.3 Expressing an obligation or a recommendation", "url": "{{ site.url }}/style-guide/#wp3-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp3-3"}'></div>
   </div>
 </section>
 <section id="toc8">
