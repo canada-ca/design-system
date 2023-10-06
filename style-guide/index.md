@@ -848,11 +848,6 @@ title: "Canada.ca Content Style Guide"
         <li>simplify your sentence instead of using em dashes</li>
       </ul>
     </section>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urlconception }}/guide-redaction/#wp4-1" aria-label="See how the rule for capitalization and punctuation applies to content in French">See how this rule applies to content in French</a></p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20capitalization%20and%20punctuation%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp4-1" aria-label="Share the rule for capitalization and punctuation by email">Share this rule by email</a></p>
-    </div>
     <h4>See how the rule for capitalization and punctuation applies in French</h4>
     <ul>
       <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-1">4.1 Majuscules et ponctuation</a></span></li>
@@ -926,7 +921,6 @@ title: "Canada.ca Content Style Guide"
     <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for abbreviations and acronyms", "title": "4.3 Symboles", "url": "https://design.canada.ca/style-guide/#wp4-3", "pnlId": "wp4-3"}'></div>
   </div>
 </section>
-</section>
 <section id="wp4-4">
   <h3>4.4 Abbreviations and acronyms</h3>
   <p>Don't use an abbreviation or acronym unless it's better known to the widest audience than its long-form equivalent. For example:</p>
@@ -969,7 +963,6 @@ title: "Canada.ca Content Style Guide"
   <div class="mrgn-tp-lg">
     <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for abbreviations and acronyms", "title": "4.4 Abbreviations and acronyms", "url": "https://design.canada.ca/style-guide/#wp4-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-4"}'></div>
   </div>
-</section>
 </section>
 <section id="wp4-5">
   <h3>4.5 Contractions</h3>
@@ -1103,7 +1096,6 @@ title: "Canada.ca Content Style Guide"
     <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for dates", "title": "4.8 Times", "url": "https://design.canada.ca/style-guide/#wp4-8", "pnlId": "wp4-8"}'></div>
   </div>
 </section>
-</section>
 <section id="wp4-9">
   <h3>4.9 Phone numbers</h3>
   <p>Use non-breaking hyphens (Ctrl+Shift+Hyphen) in phone numbers. For example:</p>
@@ -1118,7 +1110,6 @@ title: "Canada.ca Content Style Guide"
   <div class="mrgn-tp-lg">
     <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for phone numbers", "title": "4.9 Phone numbers", "url": "https://design.canada.ca/style-guide/#wp4-9", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-9"}'></div>
   </div>
-</section>
 </section>
 <section id="wp4-10">
   <h3>4.10 Addresses</h3>
@@ -1153,11 +1144,6 @@ title: "Canada.ca Content Style Guide"
     </ul>
     <p><strong>Instead of</strong>: <a href="mailto:abcxyz@canada.ca">Email us</a> to submit a request.</p>
   </section>
-  <div class="well panel"> 
-    <!--UPDATE LATER-->
-    <p><a href="{{ site.urlconception }}/guide-redaction/#wp4-10" aria-label="See how the style rules for mailing addresses apply to content in French">See how this rule applies to content in French</a></p>
-    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=%20See%20the%20style%20rules%20for%20mailing%20addresses%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp4-10" aria-label="Share the style rules for mailing addresses by email">Share this rule by email</a></p>
-  </div>
   <h4>See how the rule for addresses applies in French</h4>
   <ul>
     <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-10">4.10 Adresses</a></span></li>
@@ -1322,10 +1308,12 @@ title: "Canada.ca Content Style Guide"
       <p><strong>Description metadata field</strong>: The description metatdata is the content you see under the blue hyperlinked text in search results. <strong>Avoid listing only keywords</strong>, because search engines might ignore these. Write 1 or 2 short sentences that summarize the page. Make sure they contain keywords that people use when searching for your content (for example, abbreviations familiar to your audience).</p>
       <p>Refer to the <a href="#toc6">section on plain language</a> for tips on using simple and common words as keywords.</p>
     </section>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urlconception }}/guide-redaction/#wp5-1" aria-label="See how the rule for writing useful page titles and headings applies to content in French">See how this rule applies to content in French</a></p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20writing%20useful%20page%20titles%20and%20headings%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp5-1" aria-label="Share the rule for writing useful page titles and headings by email">Share this rule by email</a></p>
+    <h4>See how the rule for writing useful page titles and headings applies in French</h4>
+    <ul>
+      <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp5-1">5.1 Rédiger des titres et sous-titres de page descriptifs</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for writing useful page titles and headings", "title": "5.1 Write useful page titles and headings", "url": "https://design.canada.ca/style-guide/#wp5-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp5-1"}'></div>
     </div>
   </section>
   <section id="wp5-2">
@@ -1403,10 +1391,12 @@ title: "Canada.ca Content Style Guide"
       <p>For example, listing provinces and territories in alphabetical order could be appropriate.</p>
       <p>If you present content in alphabetical order in English, also present it in alphabetical order in French to provide the same intuitive experience.</p>
     </section>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urlconception }}/guide-redaction/#wp5-2" aria-label="See how the rule for using lists to support scanning applies to content in French">See how this rule applies to content in French</a></p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20lists%20to%20support%20scanning%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp5-2" aria-label="Share the rule for using lists to support scanning by email">Share this rule by email</a></p>
+    <h4>See how the rule for using lists applies in French</h4>
+    <ul>
+      <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp5-2">5.2 Utiliser des listes d'éléments pour aider les gens à survoler le texte</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for using lists to support scanning", "title": "5.2 Use lists to help people scan", "url": "https://design.canada.ca/style-guide/#wp5-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp5-2"}'></div>
     </div>
   </section>
   <section id="wp5-3">
@@ -1719,10 +1709,12 @@ title: "Canada.ca Content Style Guide"
         <li>"n/a" (not applicable)</li>
       </ul>
     </section>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urlconception }}/guide-redaction/#wp5-3" aria-label="See how the rule for using tables to organize data applies to content in French">See how this rule applies to content in French</a></p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20tables%20to%20organize%20data%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp5-3" aria-label="Share the rule for using tables to organize data by email">Share this rule by email</a></p>
+    <h4>See how the rule for using tables to organize data applies in French</h4>
+    <ul>
+      <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp5-3">5.3 Utiliser des tableaux pour organiser des données</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for using tables to organize data", "title": "5.3 Use tables to organize data", "url": "https://design.canada.ca/style-guide/#wp5-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp5-3"}'></div>
     </div>
   </section>
 </section>
@@ -1997,12 +1989,14 @@ title: "Canada.ca Content Style Guide"
       <li>use the templates in the <cite><a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-eng.asp">Canada.ca Content and Information Architecture Specification</a></cite></li>
       <li>see the <a href="https://wet-boew.github.io/themes-dist/GCWeb/index-en.html">Canada.ca page types on GitHub</a></li>
     </ul>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urlconception }}/guide-redaction/#wp6-1" aria-label="See how the rule for using images applies to content in French">See how this rule applies to content in French</a></p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20images%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp6-1" aria-label="Share the rule for using images by email">Share this rule by email</a></p>
-    </div>
   </section>
+  <h4>See how the rule for using images applies in French</h4>
+  <ul>
+    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp6-1">6.1 Comprendre le but des images sur le Web</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for using images", "title": "6.1 Understand the purpose of images online", "url": "https://design.canada.ca/style-guide/#wp6-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp6-1"}'></div>
+  </div>
 </section>
 <section id="wp6-2">
   <h3>6.2 Include alternative text for images</h3>
@@ -2017,10 +2011,12 @@ title: "Canada.ca Content Style Guide"
     <li>don't use "image of..." or "graphic of..." to describe the image; screen readers do this already</li>
   </ul>
   <p><a href="#wp6-1-2">Decorative images</a> don't require additional information to make them accessible or visible to search engines. Use the null indicator as the alternative text (alt="").</p>
-  <div class="well panel"> 
-    <!--UPDATE LATER-->
-    <p><a href="{{ site.urlconception }}/guide-redaction/#wp6-2" aria-label="See how the rule for using images applies to content in French">See how this rule applies to content in French</a></p>
-    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20images%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp6-2" aria-label="Share the rule for using images by email">Share this rule by email</a></p>
+  <h4>See how the rule for alternative text for images applies in French</h4>
+  <ul>
+    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp6-2">6.2 Ajouter un texte alternatif aux images</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for alternative text for images", "title": "6.2 Include alternative text for images", "url": "https://design.canada.ca/style-guide/#wp6-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp6-2"}'></div>
   </div>
 </section>
 <section id="wp6-3">
@@ -2128,6 +2124,13 @@ title: "Canada.ca Content Style Guide"
     <p><a href="{{ site.urlconception }}/guide-redaction/#wp6-3" aria-label="See how the rule for long descriptions applies to content in French">See how this rule applies to content in French</a></p>
     <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20including%20a%20long%20description%20for%20complex%20images%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp6-3" aria-label="Share the rule for long descriptions by email">Share this rule by email</a></p>
   </div>
+  <h4>See how the rule for long descriptions applies in French</h4>
+  <ul>
+    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp6-3">6.3 Ajouter une description longue pour expliquer les images complexes</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for long descriptions", "title": "6.3 Include long descriptions for complex images", "url": "https://design.canada.ca/style-guide/#wp6-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp6-3"}'></div>
+  </div>
 </section>
 <section id="wp6-4">
   <h3>6.4 Include transcripts to describe audio and video files</h3>
@@ -2148,6 +2151,13 @@ title: "Canada.ca Content Style Guide"
     <!--UPDATE LATER-->
     <p><a href="{{ site.urlconception }}/guide-redaction/#wp6-4" aria-label="See how the rule for transcripts applies to content in French">See how this rule applies to content in French</a></p>
     <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20including%20a%20transcript%20that%20describes%20audio%20and%20videos%20files%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp6-4" aria-label="Share the rule for transcripts by email">Share this rule by email</a></p>
+  </div>
+  <h4>See how the rule for transcripts applies in French</h4>
+  <ul>
+    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp6-4">6.4 Ajouter une transcription pour décrire les fichiers audio et vidéo</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for transcripts", "title": "6.4 Include transcripts to describe audio and video files", "url": "https://design.canada.ca/style-guide/#wp6-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp6-4"}'></div>
   </div>
 </section>
 <section id="toc11">
