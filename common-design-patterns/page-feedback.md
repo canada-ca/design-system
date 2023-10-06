@@ -6,7 +6,6 @@ description: "The feedback tool is an optional pattern to collect feedback on th
 title: "Page feedback tool"
 ---
 <p class="small">Last updated: October 6, 2023</p>
-<p><span class="label label-warning">Optional</span></p>
 <p>The feedback tool is an <strong>optional</strong> pattern to collect feedback on the page experience. When in use, it is included at the bottom of the page before the date modified.</p>
 <div class="mrgn-tp-md mrgn-bttm-md">
   <figure class="mrgn-tp-md mrgn-bttm-lg"><img src="/images/page-feedback.png" class="img-responsive" alt="" /></figure>
@@ -103,7 +102,7 @@ title: "Page feedback tool"
           </figcaption>
           <img src="/images/page-feedback.png" class="img-responsive" alt="1. Initial view of the feedback tool. Text version below:" />
           <details>
-            <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
+            <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: Initial view</summary>
             <p class="mrgn-tp-md">On page load, the feedback is located at the bottom of the web page above the date modified. A small gray well includes the prompt “Did you find what you were looking for?” followed by buttons for “Yes” and “No”.</p>
           </details>
         </figure>
@@ -114,7 +113,7 @@ title: "Page feedback tool"
         </figcaption>
         <img src="/images/description-en.jpg" class="img-responsive" alt="2a. Default view after selecting No. Text version below:" />
         <details>
-          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
+          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: Default view</summary>
           <p class="mrgn-tp-md">After interacting with the “No” button in, a text entry screen will replace the prompt. There is a heading for “Please provide more details” followed by instructions to not include personal information: “You will not receive a reply. Don’t include personal information (telephone, email, SIN financial, medical, or work details. Maximum 300 characters.” There is a small text entry box followed by a button for “Submit”.</p>
         </details>
       </figure>
@@ -125,7 +124,7 @@ title: "Page feedback tool"
         </figcaption>
         <img src="/images/urgent-help-en.png" class="img-responsive" alt="2b. Optional view after selecting No with contact option. Text version below:" />
         <details>
-          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
+          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: Optional view after selection "No"</summary>
           <p class="mrgn-tp-md">After interacting with the “No” button in, a text entry screen will replace the prompt.</p>
           <p>In the contact option, there is an expand/collapse pattern with the header “Need urgent help with a problem? Contact us”. When the expand/collapse pattern is opened, there is a customizable link to contact the service.</p>
           <p>After the expand/collapse pattern, there is a heading for “Please provide more details” followed by instructions to not include personal information: “You will not receive a reply. Don’t include personal information (telephone, email, SIN financial, medical, or work details. Maximum 300 characters.” There is a small text entry box followed by a button for “Submit”.</p>
@@ -137,7 +136,7 @@ title: "Page feedback tool"
         </figcaption>
         <img src="/images/thank-you-en.jpg" class="img-responsive" alt="3. View after selecting Yes or after submitting feedback. Text version below:" />
         <details>
-          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
+          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: View after selecting "Yes" or after submitting feedback</summary>
           <p class="mrgn-tp-md">When users select “Yes” from the initial prompt or after submitting their feedback, a thank you message is displayed. There is a green checkmark icon followed by the heading “Thank you for your feedback”</p>
         </details>
       </figure>
@@ -149,12 +148,12 @@ title: "Page feedback tool"
   <p>Add it to the bottom of a content page after the page content and before the date modified. </p>
   <div class="row">
     <div class="col-md-8">
-      <h3>Feedback tool code for AEM pages</h3>
+      <h3>Feedback tool code for pages on the Managed Web Service (MWS)</h3>
       <p>Use this feedback code for any page hosted on the Adobe Managed Web Service.</p>
       <details>
-        <summary>Instructions for AEM pages</summary>
+        <summary>Instructions for MWS pages</summary>
         <h4>Add the feedback component</h4>
-        <p><a href="#">How to add the feedback component to your page in AEM.</a> (Internal only on GCPedia)</p>
+        <p><a href="#">How to add the feedback component to your page in Adobe Experience Manager (AEM).</a> (Internal only on GCPedia)</p>
         <h4><span class="label label-primary">Recommended</span> Add a theme hidden value in the feedback code</h4>
         <p>This is useful when you want to download feedback for an entire theme of pages at the same time.</p>
         <p>In most cases, you should include the Canada.ca theme for your content (full list below).</p>
@@ -196,10 +195,10 @@ title: "Page feedback tool"
   </div>
   <div class="row">
     <div class="col-md-8">
-      <h3>Feedback tool code for non-AEM pages</h3>
+      <h3>Feedback tool code for pages outside the Managed Web Service (MWS)</h3>
       <p>Use these instructions for any page that is not hosted on the Adobe Managed Web Service.</p>
       <details>
-        <summary>Instructions for non-AEM pages</summary>
+        <summary>Instructions for non-MWS pages</summary>
         <h4>Add the feedback component</h4>
         <p>Insert the feedback tool code where the “Report a problem on this page” is located in your page's HTML.</p>
         <h4>Add the mandatory hidden values</h4>
