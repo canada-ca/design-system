@@ -161,7 +161,7 @@ title: "Page feedback tool"
         <p>This is a unilingual value - enter the same theme value to your English and French pages.</p>
         <h5>Canada.ca theme values</h5>
         <ul>
-          <li>About Gov</li>
+          <li>AboutGov</li>
           <li>Benefits</li>
           <li>Business</li>
           <li>CanadaTheWorld</li>
@@ -263,7 +263,7 @@ title: "Page feedback tool"
         <p>This is a unilingual value - enter the same theme value to your English and French pages.</p>
         <h5>Canada.ca theme values</h5>
         <ul>
-          <li>About Gov</li>
+          <li>AboutGov</li>
           <li>Benefits</li>
           <li>Business</li>
           <li>CanadaTheWorld</li>
