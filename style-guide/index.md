@@ -853,300 +853,334 @@ title: "Canada.ca Content Style Guide"
       <p><a href="{{ site.urlconception }}/guide-redaction/#wp4-1" aria-label="See how the rule for capitalization and punctuation applies to content in French">See how this rule applies to content in French</a></p>
       <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20capitalization%20and%20punctuation%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp4-1" aria-label="Share the rule for capitalization and punctuation by email">Share this rule by email</a></p>
     </div>
-  </section>
-  <section id="wp4-2">
-    <h3>4.2 Underlining, bold and italics</h3>
-    <p>Formatting must support the most important information on the page.</p>
-    <p>Don't combine styles, like underlining and bold formatting, unless it's part of the hyperlinked text found on a topic page.</p>
-    <h4>Underlining</h4>
-    <p>Use underlining for links only.</p>
-    <h4>Bold</h4>
-    <p>Use bold for emphasis, <strong>but</strong> use it sparingly: the more you use it, the less effective it is.</p>
-    <h4>Italics</h4>
-    <p>People with dyslexia or other reading disorders may find it difficult to read italicized text.</p>
-    <p>Don't use italics:</p>
+    <h4>See how the rule for capitalization and punctuation applies in French</h4>
     <ul>
-      <li>for design or decorative purposes</li>
-      <li>to emphasize a word or phrase (use bold sparingly instead)</li>
-      <li>for long passages of text, such as quotations</li>
-      <li>in page titles</li>
+      <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-1">4.1 Majuscules et ponctuation</a></span></li>
     </ul>
-    <p>Follow <cite><a href="https://www.btb.termiumplus.gc.ca/tcdnstyl-chap?lang=eng&amp;lettr=chap_catlog&amp;info0=6#zz6">The Canadian Style</a></cite>'s rules for applying italics for the following:</p>
-    <ul>
-      <li>French and foreign words (article 6.03)</li>
-      <li>Latin terms and abbreviations (article 6.04)</li>
-      <li>titles of publications (including acts and legislation) and works of art (article 6.05)</li>
-      <li>legal references (article 6.06)</li>
-      <li>mathematical, statistical and scientific material (article 6.11)</li>
-    </ul>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urlconception }}/guide-redaction/#wp4-2" aria-label="See how the rule for bold, italics and underlining applies to content in French">See how this rule applies to content in French</a></p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20bold,%20italics%20and%20underlining%20on%20Canada.ca:%20https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/csc-grc-eng.asp#wp4-2" aria-label="Share the rule for capitalization and punctuation by email">Share this rule by email</a></p>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for capitalization and punctuation", "title": "4.1 Capitalization and punctuation", "url": "https://design.canada.ca/style-guide/#wp4-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-1"}'></div>
     </div>
   </section>
-  <section id="wp4-3">
-    <h3>4.3 Symbols</h3>
-    <p>Some symbols make web content more difficult to read while others improve readability. Research whether they're understood by a wide audience before using them.</p>
-    <h4>Ampersand</h4>
-    <ul>
-      <li>Spell out the word "and" instead of using an ampersand (&amp;)</li>
-      <li>Use the ampersand only for proper names when it's part of a company name and in certain abbreviations, including:
-        <ul>
-          <li>R&amp;D (research and development)</li>
-          <li>O&amp;M (operating and maintenance)</li>
-        </ul>
-      </li>
-    </ul>
-    <h4>Percent</h4>
-    <ul>
-      <li>20% (not 20 percent)</li>
-      <li>A quarter or one quarter (not ¼)</li>
-      <li>Half (not ½)</li>
-    </ul>
-    <h4>Currency</h4>
-    <ul>
-      <li>$100 per month</li>
-    </ul>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urlconception }}/guide-redaction/#wp4-3" aria-label="See how the rule for symbols applies to content in French">See how this rule applies to content in French</a></p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20symbols%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp4-3" aria-label="Share the rule for symbols by email">Share this rule by email</a></p>
-    </div>
-  </section>
-  <section id="wp4-4">
-    <h3>4.4 Abbreviations and acronyms</h3>
-    <p>Don't use an abbreviation or acronym unless it's better known to the widest audience than its long-form equivalent. For example:</p>
-    <ul>
-      <li>EI</li>
-      <li>RCMP</li>
-      <li>T4</li>
-    </ul>
-    <h4>Research common keywords</h4>
-    <p>Check your analytics to find out what keywords your audiences are using to find your content.</p>
-    <p>If you have to use a multi-word term more than once on a web page, use the full term the first time you use it. For any further uses of the term:</p>
-    <ul>
-      <li>use a short form such as "the program" or "the plan," in lower case instead of repeating the full term or using an abbreviation</li>
-      <li>only use an abbreviation for a secondary reference if analytics data or usability testing determines that people often use and search for the abbreviation </li>
-    </ul>
-    <p>Always spell out an abbreviation the first time you use it on a page.&nbsp;</p>
-    <h4>Example of statements that avoid the use of abbreviations and acronyms</h4>
-    <p><strong>Write</strong>: There are 15 client contact centres across Canada.<br>
-      <strong>Instead of</strong>: There are 15 CCCs across Canada.</p>
-    <p><strong>Write</strong>: The&nbsp;act&nbsp;strengthens the Government of Canada's commitment to…<br>
-      <strong>Instead of</strong>: The&nbsp;EEA&nbsp;strengthens the Government of Canada's commitment to…</p>
-    <p>Include abbreviations that your audience uses in your metadata (for example, in the description field) to help search engines find your page more easily.</p>
-    <h4>Avoid abbreviations and acronyms by rethinking the content</h4>
-    <p>If your content contains a lot of abbreviations and acronyms, rethink its structure. Consider placing related content under distinct headings and sections.</p>
-    <p>For example, when introducing legal requirements, use the title of the act once, if necessary, and then talk about what people "must" do. The context will make it clear that the things they "must" do are requirements under the act. Don't use the abbreviation for the act, because it makes the text harder to follow.</p>
-    <p>Close the topic before referring to other obligations under different legislation.</p>
-    <section id="wp4-4-1">
-      <h4>Latin abbreviations</h4>
-      <p>Avoid using e.g. and i.e. Use clearer alternatives instead, for example:</p>
-      <p><strong>Write</strong>: for example, such as, or like<br>
-        <strong>Instead of</strong>: e.g.</p>
-      <p><strong>Write</strong>: that is, in other words<br>
-        <strong>Instead of</strong>: i.e.</p>
-      <p>You may use these abbreviations when space is limited, for example, in a table or a figure.</p>
-    </section>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urlconception }}/guide-redaction/#wp4-4" aria-label="See how the rule for abbreviations and acronyms applies to content in French">See how this rule applies to content in French</a></p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20abbreviations%20and%20acronyms%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp4-4" aria-label="Share the rule for abbreviations and acronyms by email">Share this rule by email</a></p>
-    </div>
-  </section>
-  <section id="wp4-5">
-    <h3>4.5 Contractions</h3>
-    <p>Use contractions that people use when they speak. They're easier to scan than the full form.</p>
-    <p>Use most positive contractions of auxiliary verbs. For example:</p>
-    <ul>
-      <li>you've (you have), you're (you are), you'll (you will) or you'd (you would)</li>
-      <li>we've (we have), we're (we are), we'll (we will) or we'd (we would)</li>
-    </ul>
-    <p>Use some negative contractions of auxiliary verbs. For example:</p>
-    <ul>
-      <li>can't (cannot)</li>
-      <li>don't (do not) or didn't (did not)</li>
-      <li>won't (will not)</li>
-      <li>isn't (is not)</li>
-      <li>weren't (were not) or wasn't (was not)</li>
-      <li>aren't (are not)</li>
-    </ul>
-    <p>Use, but don't confuse:</p>
-    <ul>
-      <li><strong>its</strong> (possessive) and <strong>it's</strong> (it is)</li>
-      <li><strong>they're</strong> (they are) and <strong>their</strong> (possessive)</li>
-    </ul>
-    <p>Uncommon or more complex contractions can be harder for people with low literacy skills to understand.</p>
-    <p>Don't use:</p>
-    <ul>
-      <li>should've (should have) or could've (could have)</li>
-      <li>shouldn't (should not), couldn't (could not) or wouldn't (would not)</li>
-      <li>mightn't (might not)</li>
-      <li>mustn't (must not)</li>
-      <li>it'll (it will)</li>
-    </ul>
-    <h4>Negative contractions: exceptions</h4>
-    <p>Don't<strong> </strong>use contractions when there is a <strong>critical</strong> difference between two things, for example, between doing and not doing something.</p>
-    <h5>Example of statements showing differences that are critical and not critical</h5>
-    <p><strong>Critical</strong>: Do <strong>not</strong> drive while taking this medicine.<br>
-      <strong>Not critical</strong>: Most people<strong> don't</strong> have reactions to the flu vaccine.</p>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p>This rule doesn't apply in French.</p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20contractions%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp4-5" aria-label="Share the rule for contractions by email">Share this rule by email</a></p>
-    </div>
-  </section>
-  <section id="wp4-6">
-    <h3>4.6 Numbers</h3>
-    <h4>General</h4>
-    <ul>
-      <li>Write numbers as numerals (0, 1, 2, 3, etc.), except in:
-        <ul>
-          <li>proper names (First Baptist Church) </li>
-          <li>titles (Three Men in a Boat)</li>
-          <li>figurative expressions (one day, things will be better)</li>
-        </ul>
-      </li>
-      <li>Keep Roman numerals when used in proper names (<cite>Canada Gazette</cite>, Part II)</li>
-      <li>Place a non-breaking space (Ctrl+Shift+Spacebar) between all numeral and word combinations ($5&nbsp;million,&nbsp;20 years) </li>
-      <li>Write first, second, third, and so on, up to and including ninth</li>
-      <li>Use the ordinal indicator in the same text size (not in superscript) for numbers 10 and above (10th, 50th, 150th) </li>
-      <li>Use "to" instead of an en dash in number ranges (for example, $4,000 to $10,000, 4 to 10 years)</li>
-    </ul>
-    <h4>Ages</h4>
-    <ul>
-      <li>Adults aged 30 or more </li>
-      <li>People 30 to 65 years old</li>
-      <li>A 10-year-old child</li>
-    </ul>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urlconception }}/guide-redaction/#wp4-6" aria-label="See how the style rule for numbers applies to content in French">See how this rule applies to content in French</a></p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20style%20rule%20for%20numbers%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp4-6" aria-label="Share the style rule for numbers by email">Share this rule by email</a></p>
-    </div>
-  </section>
-  <section id="wp4-7">
-    <h3>4.7 Dates</h3>
-    <ul>
-      <li>Write dates without an ordinal indicator ("st," "nd," "rd," "th") </li>
-    </ul>
-    <p class="mrgn-lft-lg"><strong>Write</strong>: July&nbsp;31, 2016, or just July&nbsp;31 if the year is already clear<br>
-      <strong>Instead of</strong>: July&nbsp;31st, 2016, or July&nbsp;31st</p>
-    <ul>
-      <li>Use non-breaking spaces between the month and the day </li>
-      <li>Use the numeric date format <strong>only</strong> when space is limited (for example, in a table)
-        <ul>
-          <li>write yyyy-mm-dd</li>
-          <li>explain the format in surrounding text (for example, notes, legends)</li>
-        </ul>
-      </li>
-      <li>Capitalize the first letter of the month (for example, January, February, March)</li>
-      <li>Abbreviate month names when space is limited (for example, Jan, Feb, Mar)</li>
-    </ul>
-    <h4>Date ranges</h4>
-    <ul>
-      <li>Use "to" instead of an en dash in date ranges. For example:
-        <ul>
-          <li>calendar year 2014</li>
-          <li>Monday to Friday</li>
-          <li>March 29 to April 4</li>
-          <li>fiscal year 2015 to 2016</li>
-          <li>January to March 2016 (instead of Q1, Q2, Q3 or Q4)</li>
-        </ul>
-      </li>
-      <li>For date ranges like fiscal years, explain what period the range covers in surrounding text. For example:
-        <ul>
-          <li>This report covers the 2015 to 2016 fiscal year. A fiscal year runs from April 1 to March 31.</li>
-        </ul>
-      </li>
-    </ul>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urlconception }}/guide-redaction/#wp4-7" aria-label="See how the style rule for dates applies to content in French">See how this rule applies to content in French</a></p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20style%20rule%20for%20dates%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp4-7" aria-label="Share the style rule for dates by email">Share this rule by email</a></p>
-    </div>
-  </section>
-  <section id="wp4-8">
-    <h3>4.8 Times</h3>
-    <ul>
-      <li>4:30&nbsp;pm</li>
-      <li>9&nbsp;am to 5&nbsp;pm</li>
-    </ul>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urlconception }}/guide-redaction/#wp4-9" aria-label="See how the style rules for times apply to content in French">See how this rule applies to content in French</a></p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=%20See%20the%20style%20rules%20for%20times%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp4-8" aria-label="Share the style rules for times by email">Share this rule by email</a></p>
-    </div>
-  </section>
-  <section id="wp4-9">
-    <h3>4.9 Phone numbers</h3>
-    <p>Use non-breaking hyphens (Ctrl+Shift+Hyphen) in phone numbers. For example:</p>
-    <ul>
-      <li>if you need help, call 1-800-622-6232</li>
-      <li>613-999-9900 ext.&nbsp;123</li>
-    </ul>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urlconception }}/guide-redaction/#wp4-9" aria-label="See how the style rules for phone numbers apply to content in French">See how this rule applies to content in French</a></p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=%20See%20the%20style%20rules%20for%20phone%20numbers%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp4-9" aria-label="Share the style rules for phone numbers by email">Share this rule by email</a></p>
-    </div>
-  </section>
-  <section id="wp4-10">
-    <h3>4.10 Addresses</h3>
-    <section id="wp4-10-1">
-      <h4>Mailing addresses</h4>
+</section>
+<section id="wp4-2">
+  <h3>4.2 Underlining, bold and italics</h3>
+  <p>Formatting must support the most important information on the page.</p>
+  <p>Don't combine styles, like underlining and bold formatting, unless it's part of the hyperlinked text found on a topic page.</p>
+  <h4>Underlining</h4>
+  <p>Use underlining for links only.</p>
+  <h4>Bold</h4>
+  <p>Use bold for emphasis, <strong>but</strong> use it sparingly: the more you use it, the less effective it is.</p>
+  <h4>Italics</h4>
+  <p>People with dyslexia or other reading disorders may find it difficult to read italicized text.</p>
+  <p>Don't use italics:</p>
+  <ul>
+    <li>for design or decorative purposes</li>
+    <li>to emphasize a word or phrase (use bold sparingly instead)</li>
+    <li>for long passages of text, such as quotations</li>
+    <li>in page titles</li>
+  </ul>
+  <p>Follow <cite><a href="https://www.btb.termiumplus.gc.ca/tcdnstyl-chap?lang=eng&amp;lettr=chap_catlog&amp;info0=6#zz6">The Canadian Style</a></cite>'s rules for applying italics for the following:</p>
+  <ul>
+    <li>French and foreign words (article 6.03)</li>
+    <li>Latin terms and abbreviations (article 6.04)</li>
+    <li>titles of publications (including acts and legislation) and works of art (article 6.05)</li>
+    <li>legal references (article 6.06)</li>
+    <li>mathematical, statistical and scientific material (article 6.11)</li>
+  </ul>
+  <h4>See how the rule for bold, italics and underlining applies in French</h4>
+  <ul>
+    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-2">4.2 Soulignement, caractères gras et italique</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for bold, italics and underlining", "title": "4.2 Underlining, bold and italics", "url": "https://design.canada.ca/style-guide/#wp4-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-2"}'></div>
+  </div>
+</section>
+<section id="wp4-3">
+  <h3>4.3 Symbols</h3>
+  <p>Some symbols make web content more difficult to read while others improve readability. Research whether they're understood by a wide audience before using them.</p>
+  <h4>Ampersand</h4>
+  <ul>
+    <li>Spell out the word "and" instead of using an ampersand (&amp;)</li>
+    <li>Use the ampersand only for proper names when it's part of a company name and in certain abbreviations, including:
       <ul>
-        <li>Abbreviate street types, street direction and province or territory</li>
-        <li>Use the <a href="https://www.canadapost.ca/tools/pg/manual/PGaddress-e.asp#1442131">correct abbreviations for provinces and territories</a></li>
-        <li>Insert 2 spaces between the province or territory abbreviation and the postal code</li>
-        <li>Use uppercase to write the letters in the postal code</li>
-        <li>Don't use punctuation except for a hyphen between the unit designator and the civic number</li>
+        <li>R&amp;D (research and development)</li>
+        <li>O&amp;M (operating and maintenance)</li>
       </ul>
-      <p>[Organization name or person name]<br>
-        [Additional delivery information]<br>
-        [Suite or office]-[Civic number] [Street name] [Abbreviated street type] [Abbreviated street direction]<br>
-        [City] [Two-letter province or territory abbreviation] [Postal code]</p>
-      <h4>Example of a mailing address.</h4>
-      <p>Integrity Regime<br>
-        Departmental Oversight Branch<br>
-        Public Services and Procurement Canada<br>
-        Portage III Tower A 10A1 <br>
-        105-11 Laurier St<br>
-        Gatineau QC&nbsp;&nbsp;K1A 0S5</p>
-    </section>
-    <section id="wp4-10-2">
-      <h4>Email addresses</h4>
-      <p>Spell out email addresses instead of embedding them within your text.</p>
-      <p><strong>Write</strong>:</p>
+    </li>
+  </ul>
+  <h4>Percent</h4>
+  <ul>
+    <li>20% (not 20 percent)</li>
+    <li>A quarter or one quarter (not ¼)</li>
+    <li>Half (not ½)</li>
+  </ul>
+  <h4>Currency</h4>
+  <ul>
+    <li>$100 per month</li>
+  </ul>
+  <h4>See how the rule for symbols applies to content in French</h4>
+  <ul>
+    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-3">4.3 Symboles</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for abbreviations and acronyms", "title": "4.3 Symboles", "url": "https://design.canada.ca/style-guide/#wp4-3", "pnlId": "wp4-3"}'></div>
+  </div>
+</section>
+</section>
+<section id="wp4-4">
+  <h3>4.4 Abbreviations and acronyms</h3>
+  <p>Don't use an abbreviation or acronym unless it's better known to the widest audience than its long-form equivalent. For example:</p>
+  <ul>
+    <li>EI</li>
+    <li>RCMP</li>
+    <li>T4</li>
+  </ul>
+  <h4>Research common keywords</h4>
+  <p>Check your analytics to find out what keywords your audiences are using to find your content.</p>
+  <p>If you have to use a multi-word term more than once on a web page, use the full term the first time you use it. For any further uses of the term:</p>
+  <ul>
+    <li>use a short form such as "the program" or "the plan," in lower case instead of repeating the full term or using an abbreviation</li>
+    <li>only use an abbreviation for a secondary reference if analytics data or usability testing determines that people often use and search for the abbreviation </li>
+  </ul>
+  <p>Always spell out an abbreviation the first time you use it on a page.&nbsp;</p>
+  <h4>Example of statements that avoid the use of abbreviations and acronyms</h4>
+  <p><strong>Write</strong>: There are 15 client contact centres across Canada.<br>
+    <strong>Instead of</strong>: There are 15 CCCs across Canada.</p>
+  <p><strong>Write</strong>: The&nbsp;act&nbsp;strengthens the Government of Canada's commitment to…<br>
+    <strong>Instead of</strong>: The&nbsp;EEA&nbsp;strengthens the Government of Canada's commitment to…</p>
+  <p>Include abbreviations that your audience uses in your metadata (for example, in the description field) to help search engines find your page more easily.</p>
+  <h4>Avoid abbreviations and acronyms by rethinking the content</h4>
+  <p>If your content contains a lot of abbreviations and acronyms, rethink its structure. Consider placing related content under distinct headings and sections.</p>
+  <p>For example, when introducing legal requirements, use the title of the act once, if necessary, and then talk about what people "must" do. The context will make it clear that the things they "must" do are requirements under the act. Don't use the abbreviation for the act, because it makes the text harder to follow.</p>
+  <p>Close the topic before referring to other obligations under different legislation.</p>
+  <section id="wp4-4-1">
+    <h4>Latin abbreviations</h4>
+    <p>Avoid using e.g. and i.e. Use clearer alternatives instead, for example:</p>
+    <p><strong>Write</strong>: for example, such as, or like<br>
+      <strong>Instead of</strong>: e.g.</p>
+    <p><strong>Write</strong>: that is, in other words<br>
+      <strong>Instead of</strong>: i.e.</p>
+    <p>You may use these abbreviations when space is limited, for example, in a table or a figure.</p>
+  </section>
+  <h4>See how the rule for abbreviations and acronyms applies in French</h4>
+  <ul>
+    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-4">4.4 Abréviations, acronymes et référence</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for abbreviations and acronyms", "title": "4.4 Abbreviations and acronyms", "url": "https://design.canada.ca/style-guide/#wp4-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-4"}'></div>
+  </div>
+</section>
+</section>
+<section id="wp4-5">
+  <h3>4.5 Contractions</h3>
+  <p>Use contractions that people use when they speak. They're easier to scan than the full form.</p>
+  <p>Use most positive contractions of auxiliary verbs. For example:</p>
+  <ul>
+    <li>you've (you have), you're (you are), you'll (you will) or you'd (you would)</li>
+    <li>we've (we have), we're (we are), we'll (we will) or we'd (we would)</li>
+  </ul>
+  <p>Use some negative contractions of auxiliary verbs. For example:</p>
+  <ul>
+    <li>can't (cannot)</li>
+    <li>don't (do not) or didn't (did not)</li>
+    <li>won't (will not)</li>
+    <li>isn't (is not)</li>
+    <li>weren't (were not) or wasn't (was not)</li>
+    <li>aren't (are not)</li>
+  </ul>
+  <p>Use, but don't confuse:</p>
+  <ul>
+    <li><strong>its</strong> (possessive) and <strong>it's</strong> (it is)</li>
+    <li><strong>they're</strong> (they are) and <strong>their</strong> (possessive)</li>
+  </ul>
+  <p>Uncommon or more complex contractions can be harder for people with low literacy skills to understand.</p>
+  <p>Don't use:</p>
+  <ul>
+    <li>should've (should have) or could've (could have)</li>
+    <li>shouldn't (should not), couldn't (could not) or wouldn't (would not)</li>
+    <li>mightn't (might not)</li>
+    <li>mustn't (must not)</li>
+    <li>it'll (it will)</li>
+  </ul>
+  <h4>Negative contractions: exceptions</h4>
+  <p>Don't<strong> </strong>use contractions when there is a <strong>critical</strong> difference between two things, for example, between doing and not doing something.</p>
+  <h5>Example of statements showing differences that are critical and not critical</h5>
+  <p><strong>Critical</strong>: Do <strong>not</strong> drive while taking this medicine.<br>
+    <strong>Not critical</strong>: Most people<strong> don't</strong> have reactions to the flu vaccine.</p>
+  <h4>See how the rule for contractions applies in French</h4>
+  <ul>
+    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-5">4.5 Forme contractée</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for contractions", "title": "4.5 Contractions", "url": "https://design.canada.ca/style-guide/#wp4-5", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-5"}'></div>
+  </div>
+</section>
+<section id="wp4-6">
+  <h3>4.6 Numbers</h3>
+  <h4>General</h4>
+  <ul>
+    <li>Write numbers as numerals (0, 1, 2, 3, etc.), except in:
       <ul>
-        <li>Please submit your request by email to <a href="mailto:abcxyz@canada.ca">abcxyz@canada.ca</a>.</li>
-        <li>Please submit your request by email: <a href="mailto:abcxyz@canada.ca">abcxyz@canada.ca</a>.</li>
+        <li>proper names (First Baptist Church) </li>
+        <li>titles (Three Men in a Boat)</li>
+        <li>figurative expressions (one day, things will be better)</li>
       </ul>
-      <p><strong>Instead of</strong>: <a href="mailto:abcxyz@canada.ca">Email us</a> to submit a request.</p>
-    </section>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urlconception }}/guide-redaction/#wp4-10" aria-label="See how the style rules for mailing addresses apply to content in French">See how this rule applies to content in French</a></p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=%20See%20the%20style%20rules%20for%20mailing%20addresses%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp4-10" aria-label="Share the style rules for mailing addresses by email">Share this rule by email</a></p>
-    </div>
-  </section>
-  <section id="wp4-11">
-    <h3>4.11 Words and expressions in transition</h3>
-    <p>Words and expressions in transition are those written commonly in 2 or more different ways. Reduce confusion by using the following spellings:</p>
+    </li>
+    <li>Keep Roman numerals when used in proper names (<cite>Canada Gazette</cite>, Part II)</li>
+    <li>Place a non-breaking space (Ctrl+Shift+Spacebar) between all numeral and word combinations ($5&nbsp;million,&nbsp;20 years) </li>
+    <li>Write first, second, third, and so on, up to and including ninth</li>
+    <li>Use the ordinal indicator in the same text size (not in superscript) for numbers 10 and above (10th, 50th, 150th) </li>
+    <li>Use "to" instead of an en dash in number ranges (for example, $4,000 to $10,000, 4 to 10 years)</li>
+  </ul>
+  <h4>Ages</h4>
+  <ul>
+    <li>Adults aged 30 or more </li>
+    <li>People 30 to 65 years old</li>
+    <li>A 10-year-old child</li>
+  </ul>
+  <h4>See how the rule for numbers applies in French</h4>
+  <ul>
+    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-6">4.6 Nombres</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for nombres", "title": "4.6 Numbers", "url": "https://design.canada.ca/style-guide/#wp4-6", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-6"}'></div>
+  </div>
+</section>
+<section id="wp4-7">
+  <h3>4.7 Dates</h3>
+  <ul>
+    <li>Write dates without an ordinal indicator ("st," "nd," "rd," "th") </li>
+  </ul>
+  <p class="mrgn-lft-lg"><strong>Write</strong>: July&nbsp;31, 2016, or just July&nbsp;31 if the year is already clear<br>
+    <strong>Instead of</strong>: July&nbsp;31st, 2016, or July&nbsp;31st</p>
+  <ul>
+    <li>Use non-breaking spaces between the month and the day </li>
+    <li>Use the numeric date format <strong>only</strong> when space is limited (for example, in a table)
+      <ul>
+        <li>write yyyy-mm-dd</li>
+        <li>explain the format in surrounding text (for example, notes, legends)</li>
+      </ul>
+    </li>
+    <li>Capitalize the first letter of the month (for example, January, February, March)</li>
+    <li>Abbreviate month names when space is limited (for example, Jan, Feb, Mar)</li>
+  </ul>
+  <h4>Date ranges</h4>
+  <ul>
+    <li>Use "to" instead of an en dash in date ranges. For example:
+      <ul>
+        <li>calendar year 2014</li>
+        <li>Monday to Friday</li>
+        <li>March 29 to April 4</li>
+        <li>fiscal year 2015 to 2016</li>
+        <li>January to March 2016 (instead of Q1, Q2, Q3 or Q4)</li>
+      </ul>
+    </li>
+    <li>For date ranges like fiscal years, explain what period the range covers in surrounding text. For example:
+      <ul>
+        <li>This report covers the 2015 to 2016 fiscal year. A fiscal year runs from April 1 to March 31.</li>
+      </ul>
+    </li>
+  </ul>
+  <h4>See how the rule for dates applies in French</h4>
+  <ul>
+    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-7">4.7 Dates</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for dates", "title": "4.7 Dates", "url": "https://design.canada.ca/style-guide/#wp4-7", "pnlId": "wp4-7"}'></div>
+  </div>
+</section>
+<section id="wp4-8">
+  <h3>4.8 Times</h3>
+  <ul>
+    <li>4:30&nbsp;pm</li>
+    <li>9&nbsp;am to 5&nbsp;pm</li>
+  </ul>
+  <h4>See how the rule for times applies in French</h4>
+  <ul>
+    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-7">4.8 Heures</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for dates", "title": "4.8 Times", "url": "https://design.canada.ca/style-guide/#wp4-8", "pnlId": "wp4-8"}'></div>
+  </div>
+</section>
+</section>
+<section id="wp4-9">
+  <h3>4.9 Phone numbers</h3>
+  <p>Use non-breaking hyphens (Ctrl+Shift+Hyphen) in phone numbers. For example:</p>
+  <ul>
+    <li>if you need help, call 1-800-622-6232</li>
+    <li>613-999-9900 ext.&nbsp;123</li>
+  </ul>
+  <h4>See how the rule for phone numbers applies in French</h4>
+  <ul>
+    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-9">4.9 Numéros de téléphone</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for phone numbers", "title": "4.9 Phone numbers", "url": "https://design.canada.ca/style-guide/#wp4-9", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-9"}'></div>
+  </div>
+</section>
+</section>
+<section id="wp4-10">
+  <h3>4.10 Addresses</h3>
+  <section id="wp4-10-1">
+    <h4>Mailing addresses</h4>
     <ul>
-      <li>website (not "web site")</li>
-      <li>web page (not "webpage")</li>
-      <li>web (not "Web")</li>
-      <li>email (not "e-mail")</li>
-      <li>online (not "on line")</li>
+      <li>Abbreviate street types, street direction and province or territory</li>
+      <li>Use the <a href="https://www.canadapost.ca/tools/pg/manual/PGaddress-e.asp#1442131">correct abbreviations for provinces and territories</a></li>
+      <li>Insert 2 spaces between the province or territory abbreviation and the postal code</li>
+      <li>Use uppercase to write the letters in the postal code</li>
+      <li>Don't use punctuation except for a hyphen between the unit designator and the civic number</li>
     </ul>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p>This rule doesn't apply to content in French.</p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20words%20and%20expressions%20in%20transition%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp4-11" aria-label="Share the rule for words and expressions in transition by email">Share this rule by email</a></p>
-    </div>
+    <p>[Organization name or person name]<br>
+      [Additional delivery information]<br>
+      [Suite or office]-[Civic number] [Street name] [Abbreviated street type] [Abbreviated street direction]<br>
+      [City] [Two-letter province or territory abbreviation] [Postal code]</p>
+    <h4>Example of a mailing address.</h4>
+    <p>Integrity Regime<br>
+      Departmental Oversight Branch<br>
+      Public Services and Procurement Canada<br>
+      Portage III Tower A 10A1 <br>
+      105-11 Laurier St<br>
+      Gatineau QC&nbsp;&nbsp;K1A 0S5</p>
   </section>
+  <section id="wp4-10-2">
+    <h4>Email addresses</h4>
+    <p>Spell out email addresses instead of embedding them within your text.</p>
+    <p><strong>Write</strong>:</p>
+    <ul>
+      <li>Please submit your request by email to <a href="mailto:abcxyz@canada.ca">abcxyz@canada.ca</a>.</li>
+      <li>Please submit your request by email: <a href="mailto:abcxyz@canada.ca">abcxyz@canada.ca</a>.</li>
+    </ul>
+    <p><strong>Instead of</strong>: <a href="mailto:abcxyz@canada.ca">Email us</a> to submit a request.</p>
+  </section>
+  <div class="well panel"> 
+    <!--UPDATE LATER-->
+    <p><a href="{{ site.urlconception }}/guide-redaction/#wp4-10" aria-label="See how the style rules for mailing addresses apply to content in French">See how this rule applies to content in French</a></p>
+    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=%20See%20the%20style%20rules%20for%20mailing%20addresses%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp4-10" aria-label="Share the style rules for mailing addresses by email">Share this rule by email</a></p>
+  </div>
+  <h4>See how the rule for addresses applies in French</h4>
+  <ul>
+    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-10">4.10 Adresses</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rules for addresses", "title": "4.10 Addresses", "url": "https://design.canada.ca/style-guide/#wp4-10", "pnlId": "wp4-10"}'></div>
+  </div>
+</section>
+<section id="wp4-11">
+  <h3>4.11 Words and expressions in transition</h3>
+  <p>Words and expressions in transition are those written commonly in 2 or more different ways. Reduce confusion by using the following spellings:</p>
+  <ul>
+    <li>website (not "web site")</li>
+    <li>web page (not "webpage")</li>
+    <li>web (not "Web")</li>
+    <li>email (not "e-mail")</li>
+    <li>online (not "on line")</li>
+  </ul>
+  <h4>See how the rule for words and expressions in transition applies in French</h4>
+  <p>This rule doesn't apply to content in French.</p>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for words and expressions in transition", "title": "4.11 Words and expressions in transition", "url": "https://design.canada.ca/style-guide/#wp4-11", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-11"}'></div>
+  </div>
 </section>
 <section id="toc9">
   <h2>5.0 Content structure</h2>
