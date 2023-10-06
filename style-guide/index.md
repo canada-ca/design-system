@@ -296,10 +296,12 @@ title: "Canada.ca Content Style Guide"
     <strong>Instead of</strong>: prior to</p>
   <p><strong>Write</strong>: get<br>
     <strong>Instead of</strong>: obtain</p>
-  <div class="well panel"> 
-    <!--UPDATE LATER-->
-    <p><a href="{{ site.urlconception }}/guide-redaction/#wp2-2" aria-label="See how the rule for using simple and common words applies to content in French">See how this rule applies to content in French</a> </p>
-    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20simple%20and%20common%20words%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp2-2" aria-label="Share the rule for using simple and common words by email">Share this rule by email</a></p>
+  <h4>See how the rule for using simple and common words applies to content in French</h4>
+  <ul>
+    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-2">2.2 Utiliser des mots simples et courants</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for using simple and common words", "title": "2.2 Use simple and common words", "url": "{{ site.url }}/style-guide/#wp2-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-2"}'></div>
   </div>
 </section>
 <section id="wp2-3">
@@ -330,12 +332,14 @@ title: "Canada.ca Content Style Guide"
     <p class="mrgn-tp-lg">If something has serious consequences, you can use the negative form to explain that something isn't possible or should not be done.</p>
     <h5>Examples of using the negative form for something that has serious consequences</h5>
     <p><strong>Write</strong>: Do&nbsp;<strong>not</strong>&nbsp;try to locate the source of carbon monoxide. Leave your home immediately and move to fresh air.</p>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urlconception }}/guide-redaction/#wp2-3" aria-label="See how the rule for active voice and positive form applies to content in French">See how this rule applies to content in French</a></p>
-      <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20the%20active%20voice%20and%20positive%20form%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp2-3" aria-label="Share the rule for active voice and positive form by email">Share this rule by email</a></p>
-    </div>
   </section>
+  <h4>See how the rule for active voice and positive form applies to content in French</h4>
+  <ul>
+    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-3">2.3 Utiliser la voix active et la forme positive</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for active voice and positive form", "title": "2.3 Use active voice and positive form", "url": "{{ site.url }}/style-guide/#wp2-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-3"}'></div>
+  </div>
 </section>
 <section id="wp2-4">
   <h3>2.4 Use verbs instead of nouns formed from verbs</h3>
@@ -350,10 +354,12 @@ title: "Canada.ca Content Style Guide"
   <p><strong>Write</strong>: needs<br>
     <strong>Instead of</strong>: is in need of</p>
   <p>Always use the simplest form of a verb. When possible, use the present tense.</p>
-  <div class="well panel"> 
-    <!--UPDATE LATER-->
-    <p><a href="{{ site.urlconception }}/guide-redaction/#wp2-4" aria-label="See how the rule for using verbs instead of nouns formed from verbs applies to content in French">See how this rule applies to content in French</a></p>
-    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20verbs%20instead%20of%20nouns%20formed%20from%20verbs%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp2-4" aria-label="Share the rule for using verbs instead of nouns formed from verbs by email">Share this rule by email</a></p>
+  <h4>See how the rule for using verbs instead of nouns formed from verbs applies in French</h4>
+  <ul>
+    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-4">2.4 Utiliser des verbes plutôt que des noms formés à partir de verbes</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for using verbs instead of nouns formed from verbs", "title": "2.4 Use verbs instead of nouns formed from verbs", "url": "{{ site.url }}/style-guide/#wp2-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-4"}'></div>
   </div>
 </section>
 <section id="wp2-5">
@@ -384,10 +390,12 @@ title: "Canada.ca Content Style Guide"
     <li>Mozilla Firefox's Keywords Everywhere&nbsp; </li>
   </ul>
   <p>Refer to your analytics to find out which search terms your audience uses to find related content.</p>
-  <div class="well panel"> 
-    <!--UPDATE LATER-->
-    <p><a href="{{ site.urlconception }}/guide-redaction/#wp2-5" aria-label="See how the rule for jargon, idioms and expressions applies to content in French">See how this rule applies to content in French</a></p>
-    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20jargon,%20idioms%20and%20expressions%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp2-5" aria-label="Share the rule for jargon, idioms and expressions by email">Share this rule by email</a></p>
+  <h4>See how the rule for jargon, idioms and expressions applies to content in French</h4>
+  <ul>
+    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-5">2.5 Éviter le jargon et les expressions familières ou imagées</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for jargon, idioms and expressions applies to content in French", "title": "2.5 Avoid jargon, idioms and expressions", "url": "{{ site.url }}/style-guide/#wp2-5", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-5"}'></div>
   </div>
 </section>
 <section id="wp2-6">
@@ -406,10 +414,12 @@ title: "Canada.ca Content Style Guide"
   <p><strong>Write</strong>: The evaluation team will submit its final report on the training program in September.<br>
     <strong>Instead of</strong>: The training program evaluation team will submit its final report in September.</p>
   <p>Surround a long sentence with shorter ones because it helps people understand the long sentence.</p>
-  <div class="well panel"> 
-    <!--UPDATE LATER-->
-    <p><a href="{{ site.urlconception }}/guide-redaction/#wp2-6" aria-label="See how the rule for using simple sentences applies to content in French">See how this rule applies to content in French</a></p>
-    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20simple%20sentences%20on%20Canada.ca:%20https://design.canada.ca//style-guide/#wp2-6" aria-label="Share the rule for using simple sentences by email">Share this rule by email</a></p>
+  <h4>See how this rule for using simple sentences applies in French</h4>
+  <ul>
+    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-6">2.6 Utiliser des phrases simples</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for using simple sentences applies to content", "title": "2.6 Use simple sentences", "url": "{{ site.url }}/style-guide/#wp2-6", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-6"}'></div>
   </div>
 </section>
 <section id="wp2-7">
@@ -433,10 +443,12 @@ title: "Canada.ca Content Style Guide"
     <li>presenting a series of more than 2 ideas or words as a vertical list</li>
     <li>using a short form for a long title instead of repeating it</li>
   </ul>
-  <div class="well panel"> 
-    <!--UPDATE LATER-->
-    <p><a href="{{ site.urlconception }}/guide-redaction/#wp2-7" aria-label="See how the rule for using short sentences and paragraphs applies to content in French">See how this rule applies to content in French</a></p>
-    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20short%20sentences%20and%20paragraphs%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp2-7" aria-label="Share the rule for using short sentences and paragraphs by email">Share this rule by email</a></p>
+  <h4>See how rule for using short sentences and paragraphs applies in French</h4>
+  <ul>
+    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-7">2.7 Utiliser des phrases et des paragraphes courts</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for using short sentences and paragraphs", "title": "2.7 Use short sentences and paragraphs", "url": "{{ site.url }}/style-guide/#wp2-7", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-7"}'></div>
   </div>
 </section>
 <section id="wp2-8">
@@ -450,10 +462,12 @@ title: "Canada.ca Content Style Guide"
     <li><cite><a href="https://laws-lois.justice.gc.ca/eng/acts/c-29/FullText.html">Citizenship Act</a></cite>, section 5.1</li>
   </ul>
   <p><strong>Instead of</strong>: After your child arrives in Canada as a permanent resident, you can apply for citizenship on the child's behalf under section 5.1 of the <cite>Citizenship Act</cite>.</p>
-  <div class="well panel"> 
-    <!--UPDATE LATER-->
-    <p><a href="{{ site.urlconception }}/guide-redaction/#wp2-8" aria-label="See how the rule for explaining references to legislation applies to content in French">See how this rule applies to content in French</a></p>
-    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20explaining%20references%20to%20legislation%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp2-8" aria-label="Share the rule for explaining references to legislation by email">Share this rule by email</a></p>
+  <h4>See how rule for explaining references to legislation applies in French</h4>
+  <ul>
+    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-8">2.8 Expliquer les références aux lois</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for explaining references to legislation", "title": "2.8 Explain references to legislation", "url": "{{ site.url }}/style-guide/#wp2-8", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-8"}'></div>
   </div>
 </section>
 <section id="wp2-9">
@@ -518,12 +532,13 @@ title: "Canada.ca Content Style Guide"
       <li>create numbered or bulleted lists for key tasks</li>
     </ul>
   </section>
-  <div class="well panel"> 
-    <!--UPDATE LATER-->
-    <p><a href="{{ site.urlconception }}/guide-redaction/#wp2-9" aria-label="See how the rule for measuring content for readability applies to content in French">See how this rule applies to content in French</a></p>
-    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20measuring%20the%20reading%20level%20of%20content%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp2-9" aria-label="Share the rule for measuring content for readability by email">Share this rule by email</a></p>
+  <h4>See how rule for measuring content for readability applies in French</h4>
+  <ul>
+    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-9">2.9 Vérifier la lisibilité de votre contenu</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for measuring content for readability", "title": "2.9 Check the reading level of the content", "url": "{{ site.url }}/style-guide/#wp2-9", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-9"}'></div>
   </div>
-</section>
 </section>
 <section id="toc7">
   <h2>3.0 Tone</h2>
