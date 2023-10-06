@@ -2209,10 +2209,12 @@ title: "Canada.ca Content Style Guide"
     <p>Providing links to other relevant web pages can help people find related information quickly. Links to your pages from other pages may also help improve where your page ranks in search results.</p>
     <p>Be sure to select related links carefully. Too many links on a page can cause people to leave the page without reading important information or can discourage them from completing a task.</p>
   </section>
-  <div class="well panel"> 
-    <!--UPDATE LATER-->
-    <p><a href="{{ site.urlconception }}/guide-redaction/#wp7-1" aria-label="See how the rule for using links strategically applies to content in French">See how this rule applies to content in French</a></p>
-    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20using%20links%20strategically%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp7-1" aria-label="Share the rule for using links strategically by email">Share this rule by email</a></p>
+  <h4>See how the rule for using links strategically applies in French</h4>
+  <ul>
+    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp7-1">7.1 Utiliser les liens de façon stratégique</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for using links strategically", "title": "7.1 Use links strategically", "url": "https://design.canada.ca/style-guide/#wp7-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-1"}'></div>
   </div>
 </section>
 <section id="wp7-2">
@@ -2254,19 +2256,23 @@ title: "Canada.ca Content Style Guide"
     <h6>Instead of:</h6>
     <p>To ensure that you are paid the maximum Employment Insurance (EI) benefit rate that you are entitled to, complete the <a href="https://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=ins5241&amp;ln=eng">Claimant Attestation - Highest Weeks of Insurable Earnings (Variable Best Weeks) form</a> with the required information about your highest weeks of insurable earnings in the last 52 weeks of employment or since the start of your last claim, whichever is the shorter period of the two.</p>
   </section>
-  <div class="well panel"> 
-    <!--UPDATE LATER-->
-    <p><a href="{{ site.urlconception }}/guide-redaction/#wp7-2" aria-label="See how the rule for writing descriptive links applies to content in French">See how this rule applies to content in French</a></p>
-    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20writing%20descriptive%20links%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp7-2" aria-label="Share the rule for writing descriptive links by email">Share this rule by email</a></p>
+  <h4>See how the rule for writing descriptive links applies in French</h4>
+  <ul>
+    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp7-2">7.2 Rédiger des liens descriptifs</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for writing descriptive links", "title": "7.2 Write descriptive links", "url": "https://design.canada.ca/style-guide/#wp7-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-2"}'></div>
   </div>
 </section>
 <section id="wp7-3">
   <h3>7.3 Make sure that links work</h3>
   <p>Make sure that your links work. Check that they take people to the correct page, which contains up-to-date information, in the appropriate official language. Links that don't work frustrate people and hurt the credibility of your content.</p>
-  <div class="well panel"> 
-    <!--UPDATE LATER-->
-    <p><a href="{{ site.urlconception }}/guide-redaction/#wp7-3" aria-label="See how the rule for verifying links applies to content in French">See how this rule applies to content in French</a></p>
-    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20making%20sure%20links%20work%20as%20expected%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp7-3" aria-label="Share the rule for verifying links by email">Share this rule by email</a></p>
+  <h4>See how the rule for verifying links applies in French</h4>
+  <ul>
+    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp7-3">7.3 Vérifier que les liens fonctionnent</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for verifying links", "title": "7.3 Make sure that links work", "url": "https://design.canada.ca/style-guide/#wp7-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-3"}'></div>
   </div>
 </section>
 <section id="wp7-4">
@@ -2286,16 +2292,24 @@ title: "Canada.ca Content Style Guide"
     <p><a href="{{ site.urlconception }}/guide-redaction/#wp7-4" aria-label="See how the rule for non-government content applies to content in French">See how this rule applies to content in French</a></p>
     <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20including%20links%20to%20unilingual%20non-government%20content%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp7-4" aria-label="Share the rule for non-government content by email">Share this rule by email</a></p>
   </div>
+  <h4>See how the rule for non-government content applies in French</h4>
+  <ul>
+    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp7-4">7.4 Créer des liens vers du contenu externe</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for non-government content", "title": "7.4 Linking to non-government content", "url": "https://design.canada.ca/style-guide/#wp7-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-4"}'></div>
+  </div>
 </section>
 <section id="wp7-5">
   <h3>7.5 Linking to internal-to-government content</h3>
   <p>In most cases, public-facing content should not link to content that is accessible only through internal government networks. Occasionally, the audience for content that is accessible to the public may be primarily internal.</p>
   <p>When a link leads to content available only on internal government networks, write "(accessible only on the Government of Canada network)."</p>
-  <!--UPDATE LATER-->
-  <div class="well panel"> 
-    <!--UPDATE LATER-->
-    <p><a href="{{ site.urlconception }}/guide-redaction/#wp7-5" aria-label="See how the rule for non-government content applies to content in French">See how this rule applies to content in French</a></p>
-    <p><a href="mailto:?subject=Canada.ca%20Content%20Style%20Guide&amp;body=See%20the%20rule%20for%20including%20links%20to%20internal-to-government%20content%20on%20Canada.ca:%20https://design.canada.ca/style-guide/#wp7-5" aria-label="Share the rule for internal-to-government content by email">Share this rule by email</a></p>
+  <h4>See how the rule for internal-to-government contente applies in French</h4>
+  <ul>
+    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp7-5">7.5 Créer des liens vers du contenu interne</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for internal-to-government content", "title": "7.5 Linking to internal-to-government content", "url": "https://design.canada.ca/style-guide/#wp7-5", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-5"}'></div>
   </div>
 </section>
 <section id="toc12">
