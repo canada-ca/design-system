@@ -201,6 +201,10 @@ title: "Page feedback tool"
         <summary>Instructions for non-MWS pages</summary>
         <h4>Add the feedback component</h4>
         <p>Insert the feedback tool code where the “Report a problem on this page” is located in your page's HTML.</p>
+                <ul>
+          <li><a href="https://wet-boew.github.io/GCWeb/sites/feedback/feedback-docs-en.html#variantPFT">Page Feedback Tool (default)</a></li>
+          <li><a href="https://wet-boew.github.io/GCWeb/sites/feedback/feedback-docs-en.html#variantPFTContact">Page Feedback Tool with contact link</a></li>
+        </ul>
         <h4>Add the mandatory hidden values</h4>
         <p>Update the data attribute for the institutional acronym (unilingual value)</p>
         <h5>Canada.ca institutional acronyms</h5>
@@ -292,13 +296,6 @@ title: "Page feedback tool"
         <p>Email: dto.btn@tbs-sct.gc.ca</p>
         <h4><span class="label label-warning">Optional</span> Contact link</h4>
         <p><strong>Only consider adding a contact link if</strong> you have tried to make the page content clearer for how to contact the program or service and users are still using the feedback tool to get a response for their situation.</p>
-      </details>
-      <details>
-        <summary>Page Feedback Tool code</summary>
-        <ul class="mrgn-tp-lg">
-          <li><a href="https://wet-boew.github.io/GCWeb/sites/feedback/feedback-docs-en.html#variantPFT">Page Feedback Tool (default)</a></li>
-          <li><a href="https://wet-boew.github.io/GCWeb/sites/feedback/feedback-docs-en.html#variantPFTContact">Page Feedback Tool with contact link</a></li>
-        </ul>
       </details>
     </div>
   </div>
