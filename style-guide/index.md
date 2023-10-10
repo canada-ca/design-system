@@ -6,28 +6,28 @@ description: "These are the rules to create web content that can be easily found
 title: "Canada.ca Content Style Guide"
 ---
 <section id="intro">
-  <p>These are the rules to create web content that can be easily found, understood and used. They are based on writing principles and techniques that help make web content clear and adapted to the needs of all people. Use it with the <a href="{{ site.url }}/architecture/canada-content-information-architecture-specification.html">Content and Information Architecture Specification</a> when you're designing and organizing web content.</p>
+  <p>Les règles pour créer du contenu Web qui peut être trouvé, compris et utilisé facilement. Ces règles s'appuient sur des principes de rédaction et des techniques qui aident à fournir un contenu Web clair et adapté aux besoins de tous. Consultez les <cite><a href="{{ site.url }}/architecture/specifications-contenu-architecture-information-canada.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca</a></cite> lorsque vous concevez et organisez du contenu Web.</p>
 </section>
 <section id="toc">
   <div class="row mrgn-tp-lg">
     <div class="col-md-8">
       <div class="panel panel-default">
         <div class="panel-body">
-          <h2 class="mrgn-tp-sm">Table of contents</h2>
+          <h2 class="mrgn-tp-sm">Table des matières</h2>
           <ul>
-            <li><a href="#toc1">Summary of changes</a></li>
-            <li><a href="#toc2">Purpose</a></li>
-            <li><a href="#toc3">Use of the style guide</a></li>
-            <li><a href="#toc4">Related policies, standards and procedures</a></li>
-            <li><a href="#toc5">1.0 Writing principles for web content</a></li>
-            <li><a href="#toc6">2.0 Plain language</a></li>
-            <li><a href="#toc7">3.0 Tone</a></li>
-            <li><a href="#toc8">4.0 Style</a></li>
-            <li><a href="#toc9">5.0 Content structure</a></li>
-            <li><a href="#toc10">6.0 Images and videos</a></li>
-            <li><a href="#toc11">7.0 Links</a></li>
-            <li><a href="#toc12">Web content makeovers</a></li>
-            <li><a href="#toc13">Resources</a></li>
+            <li><a href="#toc1">Sommaire des changements</a></li>
+            <li><a href="#toc2">But du document</a></li>
+            <li><a href="#toc3">Application</a></li>
+            <li><a href="#toc4">Politiques, normes et procédures connexes</a></li>
+            <li><a href="#toc5">1.0 Principes de rédaction pour le contenu Web</a></li>
+            <li><a href="#toc6">2.0 Langage clair et simple</a></li>
+            <li><a href="#toc7">3.0 Ton</a></li>
+            <li><a href="#toc8">4.0 Style de présentation</a></li>
+            <li><a href="#toc9">5.0 Structure du contenu</a></li>
+            <li><a href="#toc10">6.0 Images et vidéos</a></li>
+            <li><a href="#toc11">7.0 Liens</a></li>
+            <li><a href="#toc12">Refonte de contenu Web</a></li>
+            <li><a href="#toc13">Ressources</a></li>
           </ul>
         </div>
       </div>
@@ -35,176 +35,176 @@ title: "Canada.ca Content Style Guide"
   </div>
 </section>
 <section id="toc1">
-  <h2>Summary of changes</h2>
-  <p>Here are the changes we made to this version of the guide:</p>
+  <h2>Sommaire des changements</h2>
+  <p>Voici les changements que nous avons apportés à cette version du guide&nbsp;:</p>
   <ul>
-    <li>we’ve added "Writing for inclusivity" to the <a href="#toc5">Writing principles for web content</a> section</li>
+    <li>Nous avons ajouté &laquo;&nbsp;Rédiger pour assurer l'inclusion&nbsp;&raquo; à la section <a href="#toc5">Principes de rédaction pour le contenu Web</a></li>
   </ul>
-  <p>Refer to the listed section for details.</p>
+  <p>Reportez-vous à la section pour plus de détails.</p>
 </section>
 <section id="toc2">
-  <h2>Purpose</h2>
-  <p>This guide establishes the rules you must use to develop and edit English web content that will be published on a Government of Canada website. The rules are different from practices adapted to print to support principles related to accessibility, readability and usability.</p>
-  <p>The purpose of these rules is to make web content easy to find, easy to understand and easy to use for everyone, including people who have physical or cognitive disabilities.</p>
-  <p>The techniques described in this guide complement the rules set out in <cite><a href="https://www.btb.termiumplus.gc.ca/tpv2guides/guides/tcdnstyl/index-eng.html?lang=eng">The Canadian Style</a></cite>. If there are conflicts between this guide and <cite>The Canadian Style</cite> or any other resource, this guide takes priority for content published online.</p>
-  <p>As web and language trends evolve, we'll update this guide to meet the changing needs of our audiences.</p>
+  <h2>But du document</h2>
+  <p>Le présent guide fait état des règles de rédaction et de révision du contenu français qui sera publié sur un site du gouvernement du Canada.&nbsp;Elles diffèrent des pratiques adaptées à l'imprimé afin d'appuyer les principes liés à l'accessibilité, à la lisibilité et à la facilité d'utilisation.</p>
+  <p>Les règles comprises dans ce guide ont pour but de rendre le contenu Web facile à trouver, à comprendre et à utiliser pour toute personne, y compris celles qui ont un handicap physique ou cognitif.</p>
+  <p>Les règles décrites dans ce guide complémentent celles du <cite><a href="http://www.btb.termiumplus.gc.ca/tpv2guides/guides/redac/index-fra.html?lang=fra">guide du rédacteur</a></cite>. S'il existe des divergences entre le présent guide, le guide du rédacteur ou toute autre ressource, le présent guide a préséance en ce qui concerne le contenu publié en ligne.</p>
+  <p>À mesure que les tendances du Web et de la langue évolueront, nous mettrons ce guide à jour pour répondre aux besoins changeants de nos publics cibles.</p>
 </section>
 <section id="toc3">
-  <h2>Use of the style guide</h2>
-  <p>All departments and other portions of the federal public administration subject to the Directive on the Management of Communications must use the Canada.ca  Style Guide. These organizations must follow this style guide's requirements for all public-facing websites and digital services, regardless of the technology, domain name or publishing platform used. This requirement is referenced in Appendix D: Mandatory Procedures for Social Media and Web Communications in the <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=30682">Directive on the Management of Communications</a>.</p>
-  <h3>Out-of-scope situations</h3>
-  <p>Institutions that fall outside of the Directive on the Management of Communications do not have to follow this style guide. However, all institutions are encouraged to use it for both their internal and external web products. Following this guide's rules and techniques will make it easier for everyone to find, understand and use the government's digital content.</p>
+  <h2>Application</h2>
+  <p>Tous les ministères et les autres secteurs de l’administration publique fédérale qui sont assujettis à la Directive sur la gestion des communications doivent appliquer le Guide de rédaction du contenu du site Canada.ca. Ces organisations doivent respecter les normes décrites dans ce guide lorsqu’elles élaborent des sites Web ou des services numériques destinés au public, et ce, peu importe la technologie, le nom de domaine ou la plateforme qu’elles utilisent. Cette exigence est prévue à l’annexe D, Procédure obligatoire relative à l’utilisation des médias sociaux et aux communications sur le Web, de <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=30682">la Directive sur la gestion des communications</a>.</p>
+  <h3>Institutions non visées par le présent guide</h3>
+  <p>Les institutions qui ne sont pas visées par la Directive sur la gestion des communications n’ont pas à suivre le présent guide. Toutefois, elles sont encouragées à le faire pour leurs produits Web internes et externes. Le fait de respecter les règles et les conseils décrits dans ce guide permettra de rendre le contenu Web du gouvernement facile à trouver, à comprendre et à utiliser pour toute personne.</p>
 </section>
 <section id="toc4">
-  <h2>Related policies, standards and procedures</h2>
-  <p>Content must comply with:</p>
+  <h2>Politiques, normes et procédures connexes</h2>
+  <p>Votre contenu doit se conformer aux&nbsp;:</p>
   <ul>
-    <li>templates, content components, character limits and other requirements as described in the <cite><a href="{{ site.url }}/architecture/canada-content-information-architecture-specification.html">Canada.ca Content and Information Architecture Specification</a></cite></li>
-    <li>requirements set out in the related legislated and policy instruments, including:
+    <li>modèles de page, composantes de contenu, limites du nombre de caractères et autres exigences telles que définit dans les <cite><a href="{{ site.url }}/architecture/specifications-contenu-architecture-information-canada.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca</a></cite></li>
+    <li>exigences énoncées dans les instruments&nbsp;législatifs et politiques, notamment&nbsp;:
       <ul>
-        <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30683">Policy on Communications and Federal Identity</a></cite></li>
-        <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682">Directive on the Management of Communications</a></cite></li>
-        <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601">Standard on Web Accessibility</a></cite></li>
-        <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25875">Standard on Web Interoperability</a></cite></li>
-        <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27088">Standard on Optimizing Websites and Applications for Mobile Devices</a></cite></li>
-        <li><cite><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/guidance-publishing-government.html">Guidance on Publishing in the Government of Canada</a></cite></li>
-        <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27167">Procedures for Publishing</a></cite></li>
-        <li><cite><a href="https://laws-lois.justice.gc.ca/eng/acts/O-3.01/">Official Languages Act</a></cite></li>
+        <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=30683">Politique sur les communications et l'image de marque</a></cite></li>
+        <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=30682">Directive sur la gestion des communications</a></cite></li>
+        <li><cite><a href="http://tbs-sct.gc.ca/pol/doc-fra.aspx?id=23601">Norme sur l'accessibilité des sites Web </a></cite></li>
+        <li><cite><a href="http://tbs-sct.gc.ca/pol/doc-fra.aspx?id=25875">Norme sur l'interopérabilité du Web</a></cite></li>
+        <li><cite><a href="http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=27088">Norme sur l'optimisation des sites Web et des applications pour appareils mobiles </a></cite></li>
+        <li><cite><a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/conseils-edition-gouvernement.html">Conseils sur l'édition de produits de communications</a></cite></li>
+        <li><cite><a href="http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=27167">Procédures sur l'édition </a></cite></li>
+        <li><cite><a href="http://laws-lois.justice.gc.ca/fra/lois/O-3.01/">Loi sur les langues officielles </a></cite></li>
       </ul>
     </li>
   </ul>
 </section>
 <section id="toc5">
-  <h2>1.0 Writing principles for web content</h2>
+  <h2>1.0 Principes de rédaction pour le contenu Web</h2>
   <div class="row mrgn-tp-lg">
     <div class="col-md-8">
       <div class="panel panel-default">
         <div class="panel-body">
-          <h3 class="mrgn-tp-sm">In this section</h3>
+          <h3 class="mrgn-tp-sm">Dans cette section</h3>
           <ul>
-            <li><a href="#wp1-1">1.1 Help people complete tasks</a></li>
-            <li><a href="#wp1-2">1.2 Consider the needs of the audience</a>
+            <li><a href="#wp1-1">1.1 Aider les gens à accomplir des tâches</a></li>
+            <li><a href="#wp1-2">1.2 Prendre en compte les besoins du public</a>
               <ul>
-                <li><a href="#wp1-2-1">Writing for accessibility</a></li>
-                <li><a href="#wp1-2-1b">Writing for inclusivity</a></li>
-                <li><a href="#wp1-2-2">Writing for readability</a></li>
-                <li><a href="#wp1-2-3">Writing for specialized audiences</a></li>
-                <li><a href="#wp1-2-4">Consider all screen sizes</a></li>
+                <li><a href="#wp1-2-1">Rédiger pour assurer l'accessibilité </a></li>
+                <li><a href="#wp1-2-1b">Rédiger pour assurer l'inclusion</a></li>
+                <li><a href="#wp1-2-2">Rédiger pour assurer la lisibilité</a></li>
+                <li><a href="#wp1-2-3">Rédiger pour un public spécialisé</a></li>
+                <li><a href="#wp1-2-4">Tenir compte de toutes les tailles d'écran</a></li>
               </ul>
             </li>
-            <li><a href="#wp1-3">1.3 Provide equivalent content in both official languages</a></li>
+            <li><a href="#wp1-3">1.3 Fournir un contenu équivalent dans les 2 langues officielles</a></li>
           </ul>
         </div>
       </div>
     </div>
   </div>
-  <p>The rules in this guide reflect how people read and use web content.</p>
+  <p>Les règles présentées dans ce guide tiennent compte de la façon dont les gens lisent et utilisent le contenu Web.</p>
   <section id="wp1-1">
-    <h3>1.1 Help people complete tasks</h3>
-    <p>Most people come to a government website to complete a task and expect us to provide information that will help them. Tasks can be:</p>
+    <h3>1.1 Aider les gens à accomplir des tâches</h3>
+    <p>La plupart des gens consultent les sites gouvernementaux pour accomplir une tâche et s'attendent à ce qu'on leur fournisse des renseignements qui les aideront dans leurs démarches. Leur tâche s'inscrit dans l'une ou l'autre des catégories suivantes&nbsp;:</p>
     <ul>
-      <li>transactional (submit a form or download a report)</li>
-      <li>informational (find out how to collect a benefit or find a phone number)</li>
+      <li>transaction (soumettre un formulaire ou télécharger un rapport);</li>
+      <li>recherche d'information (savoir comment obtenir une subvention ou trouver un numéro de téléphone).</li>
     </ul>
-    <p>People trying to complete a task online usually don't read word by word. They scan quickly for words and links related to what they want to do.</p>
-    <p>Government of Canada web content must be:</p>
+    <p>Les gens qui tentent d'accomplir une tâche sur le Web ne lisent pas chaque mot. Ils survolent rapidement le texte pour trouver les termes et les liens associés à la tâche qu'ils veulent accomplir.</p>
+    <p class="mrgn-tp-lg">Le contenu Web du gouvernement du Canada doit être&nbsp;:</p>
     <ul>
-      <li><strong>intuitive</strong>: give people who have no previous knowledge of the topic or process just enough information to complete a task on their own </li>
-      <li><strong>comprehensive</strong>: give the appropriate details to specialists who have more knowledge of a topic or process </li>
-      <li><strong>targeted</strong>: present the most important information first, in a way that is tailored to the needs of the audience, instead of giving all the options and leaving people to figure out which ones apply to them</li>
-      <li><strong>consistent</strong>: use a standardized approach so that people can scan content quickly and easily with a sense of confidence and trust</li>
+      <li><strong>intuitif</strong>&nbsp;:<strong>&nbsp;</strong>fournissez aux personnes qui ne connaissent pas le sujet ou le processus juste assez d'information pour qu'elles puissent effectuer une tâche par elles-mêmes;</li>
+      <li><strong>complet</strong>&nbsp;: donnez<strong> </strong>des renseignements utiles aux spécialistes qui ont une connaissance plus poussée du sujet ou du processus;</li>
+      <li><strong>ciblé</strong>&nbsp;:<strong> </strong>présentez les renseignements les plus importants d'abord, adaptés aux besoins du public cible, au lieu de fournir toutes les options et de laisser les gens déterminer lesquelles s'appliquent à eux;</li>
+      <li><strong>cohérent</strong>&nbsp;: présentez l'information de manière uniforme afin de permettre aux gens d'explorer le contenu rapidement, facilement et avec confiance.</li>
     </ul>
   </section>
   <section id="wp1-2">
-    <h3>1.2 Consider the needs of the audience</h3>
-    <p>When planning web content, consider people's needs. Make sure that the content is accessible, clear and adapted to the widest audience.</p>
+    <h3>1.2 Prendre en compte les besoins du public</h3>
+    <p>Lorsque vous préparez du contenu Web, tenez compte des besoins des lecteurs. &nbsp;Veillez à ce que votre contenu soit accessible, lisible et adapté à un large public.</p>
     <section id="wp1-2-1">
-      <h4>Writing for accessibility</h4>
-      <p>Making content accessible means a wide range of people can use it, including people with physical and cognitive disabilities (for example, reading disorders, attention deficit disorders, memory disorders).</p>
-      <p>To make your content accessible, consider how assistive technologies work and how some writing practices may impact people's ability to read or understand text. Remember to also refer to the <cite><a href="https://www.w3.org/TR/WCAG/">Web Content Accessibility Guidelines (WCAG) 2.0</a></cite>.</p>
-      <section id="wp1-2-1b">
-        <h4>Writing for inclusivity</h4>
-        <p>Make gender-inclusive writing your standard practice.</p>
-        <p>For more guidance on inclusive writing, see the Language Portal of Canada’s guidelines and resources:</p>
-        <ul>
-          <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/inclusive-writing-guidelines-resources">Inclusive writing for English</a> (only in English)</li>
-          <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/ecriture-inclusive-lignes-directrices-ressources">Écriture inclusive – Lignes directrices et ressources, du Bureau de la traduction</a> (only in French)</li>
-        </ul>
-      </section>
-      <section id="wp1-2-2">
-        <h4>Writing for readability</h4>
-        <p>Readability is the ease with which a person can read and understand a text. Readable content means better task completion and higher client satisfaction.</p>
-        <p>To make your content readable, consider your audience's reading level and literacy needs. Not everyone reads at the same level or understands content in the same way. Even when content is presented clearly and simply, people who have low literacy levels and other difficulties can find it hard to understand text.</p>
-        <p>According to Statistics Canada (2012) and Canadian literacy organizations, almost 50% of Canadians have literacy challenges. Research shows that people with literacy challenges:</p>
-        <ul>
-          <li>spend a lot of time trying to understand words that contain more than two syllables</li>
-          <li>read word by word and slowly move their eyes across each line of text</li>
-          <li>skip over large amounts of information when it contains many multi-syllable words, uncommon terms and long sentences </li>
-        </ul>
-        <p><a>Techniques for improving and measuring readability are in the </a><a href="#toc6">section on plain language</a>.</p>
-      </section>
-      <section id="wp1-2-3">
-        <h4>Writing for specialized audiences</h4>
-        <p>Sometimes, your content targets people who have in-depth knowledge of a subject.</p>
-        <p>When writing for a specialized audience, you can use terms they're familiar with, even if those terms aren't familiar to a general audience.&nbsp; Include a summary in plain language for:</p>
-        <ul>
-          <li>people who aren't familiar with the subject </li>
-          <li>specialists who might be scanning the content to decide whether it's relevant to their task</li>
-        </ul>
-      </section>
-      <section id="wp1-2-4">
-        <h4>Consider all screen sizes</h4>
-        <p>People will view your content on different sizes of screens. Phone and tablet screens display less content than desktop and laptop screens.&nbsp;Readers who use small screens:</p>
-        <ul>
-          <li>have to go through more steps to access the same amount of information</li>
-          <li>rely on their&nbsp;short-term memory&nbsp;to <a href="https://www.nngroup.com/articles/short-term-memory-and-web-usability/">recall information that isn't visible on the screen</a></li>
-        </ul>
-      </section>
+      <h4>Rédiger pour assurer l'accessibilité </h4>
+      <p>Faire en sorte que le contenu est accessible signifie qu'un large éventail de personnes peut l'utiliser, y compris les personnes ayant des handicaps physiques et cognitifs (par exemple, les problèmes de dyslexie ou de mémoire, troubles du déficit de l'attention et les troubles d'apprentissage).</p>
+      <p>Pour rendre votre contenu accessible, tenez compte du fonctionnement des technologies d'aide et de l'impact que certaines pratiques d'écriture peuvent avoir sur la capacité des gens à lire ou à comprendre le texte. De plus, n'oubliez pas de vous référer aux <cite><a href="http://www.w3.org/Translations/WCAG20-fr/">Règles pour l'accessibilité des contenus Web 2.0</a></cite>.</p>
+    </section>
+    <section id="wp1-2-1b">
+      <h4>Rédiger pour assurer l'inclusion</h4>
+      <p>La rédaction épicène devrait être votre pratique habituelle.</p>
+      <p>Pour plus de conseils sur l'écriture inclusive, consultez les lignes directrices et ressources du Portail linguistique du Canada&nbsp;:</p>
+      <ul>
+        <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/ecriture-inclusive-lignes-directrices-ressources">Écriture inclusive – Lignes directrices et ressources</a>, du Bureau de la traduction (en français seulement)</li>
+        <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/inclusive-writing-guidelines-resources">Inclusive writing in English</a> (en anglais seulement)</li>
+      </ul>
+    </section>
+    <section id="wp1-2-2">
+      <h4>Rédiger pour assurer la lisibilité</h4>
+      <p>La lisibilité est la mesure dans laquelle un texte est clair et facile à comprendre. Un texte lisible facilite la réalisation des tâches et rehausse le degré de satisfaction de la personne.</p>
+      <p>Pour assurer la lisibilité de votre contenu, tenez compte du niveau de lecture et des besoins en matière d'alphabétisation de votre public cible. La capacité de lire ou de comprendre un texte n'est pas la même pour tout le monde. Même si le contenu est présenté clairement et simplement, les gens qui ont un faible niveau d'alphabétisation peuvent éprouver des difficultés à saisir le texte.</p>
+      <p>Selon Statistique Canada (2012) et les organismes d'alphabétisation canadiens, près de 50&nbsp;% des Canadiens éprouvent des difficultés à lire et à écrire. Les recherches démontrent que ceux dont le taux d'alphabétisation est faible&nbsp;:</p>
+      <ul>
+        <li>passent beaucoup de temps à tenter de comprendre les mots qui ont plusieurs syllabes;</li>
+        <li>lisent un mot à la fois et déplacent leurs yeux lentement le long de chaque ligne de texte;</li>
+        <li>ignorent souvent de grandes quantités d'information si le texte comporte trop de longs mots, de termes inhabituels ou de longues phrases.</li>
+      </ul>
+      <p>Des techniques pour améliorer et mesurer la lisibilité sont présentées à la <a href="#toc6">section sur le langage clair et simple</a>.</p>
+    </section>
+    <section id="wp1-2-3">
+      <h4>Rédiger pour un public spécialisé</h4>
+      <p>Votre contenu Web vise parfois des gens qui ont une connaissance approfondie d'un sujet ou d'un domaine donné.</p>
+      <p>Lorsque vous rédigez du contenu pour un public spécialisé, vous pouvez utiliser des termes que ce public connaît bien même s'ils sont moins connus du grand public. Ajoutez un résumé en langage simple pour&nbsp;:</p>
+      <ul>
+        <li>les personnes qui ne connaissent pas le sujet;</li>
+        <li>les spécialistes qui survolent le texte afin d'en déterminer la pertinence pour la tâche à effectuer.</li>
+      </ul>
+    </section>
+    <section id="wp1-2-4">
+      <h4>Tenir compte de toutes les tailles d'écran</h4>
+      <p>Votre contenu sera lu sur des écrans de toutes tailles. Les écrans de téléphone mobile et de tablettes électroniques affichent moins de contenu à la fois que les écrans d'ordinateur de bureau ou portatif. Les utilisateurs de petits écrans doivent donc&nbsp;:</p>
+      <ul>
+        <li>faire plus d'efforts que d'autres pour accéder à la même quantité d'information;</li>
+        <li>se fier à leur mémoire pour <a href="https://www.nngroup.com/articles/mobile-ux/">se rappeler l'information non visible à l'écran</a> (en anglais seulement).</li>
+      </ul>
     </section>
   </section>
   <section id="wp1-3">
-    <h3>1.3 Provide equivalent content in both official languages</h3>
+    <h3>1.3 Fournir un contenu équivalent dans les 2 langues officielles</h3>
     <section class="alert alert-warning">
-      <h4>Official languages requirements</h4>
-      <p>According to the <cite><a href="https://laws-lois.justice.gc.ca/eng/acts/o-3.01/page-1.html">Official Languages Act</a></cite>, you must publish communications and provide services to the public in both official languages.</p>
+      <h4>Exigences en matière de langues officielles</h4>
+      <p>Selon la <cite><a href="http://laws-lois.justice.gc.ca/fra/lois/o-3.01/page-1.html">Loi sur les langues officielles</a></cite>, nous devons publier simultanément les communications et fournir des services égaux dans les 2 langues officielles.</p>
     </section>
-    <p>Government content must:</p>
+    <p>Le contenu du gouvernement doit&nbsp;:</p>
     <ul>
-      <li>be professionally translated</li>
-      <li>reflect Canadian writing conventions in English and French </li>
-      <li>include fully bilingual images, multimedia files and transcripts, or contain equivalent information in both official languages</li>
+      <li>être traduit par des professionnels;</li>
+      <li>refléter les règles d'usage canadiennes du français et de l'anglais;</li>
+      <li>comprendre des images, des fichiers multimédias et des transcriptions entièrement bilingues ou procurer de l'information équivalente dans les 2 langues officielles.</li>
     </ul>
-    <h4>Persons responsible for official languages</h4>
-    <p>The <a href="https://www.tbs-sct.gc.ca/psm-fpfm/ve/ol-lo/lst-eng.asp">person responsible for official languages in your institution</a> can help answer questions about your obligations and about exceptions.</p>
-    <p>Your communications team can help determine whether it's appropriate to communicate with audiences in other languages, in addition to Canada's official languages.</p>
+    <h4>Personnes responsables des langues officielles</h4>
+    <p>Une <a href="http://www.tbs-sct.gc.ca/psm-fpfm/ve/ol-lo/lst-fra.asp">personne responsable des langues officielles dans votre institution</a> peut aider à répondre à vos questions concernant vos obligations et les exceptions.</p>
+    <p>Votre équipe des communications peut vous aider à déterminer s'il convient et quand il convient de communiquer avec vos publics cibles dans d'autres langues, en plus des langues officielles du Canada.</p>
   </section>
 </section>
 <section id="toc6">
-  <h2>2.0 Plain language</h2>
+  <h2>2.0 Langage clair et simple</h2>
   <div class="row mrgn-tp-lg">
     <div class="col-md-8">
       <div class="panel panel-default">
         <div class="panel-body">
-          <h3 class="mrgn-tp-sm">In this section</h3>
+          <h3 class="mrgn-tp-sm">Dans cette section</h3>
           <ul>
-            <li><a href="#wp2-1">2.1 Start with the most important information</a></li>
-            <li><a href="#wp2-2">2.2 Use simple and common words</a></li>
-            <li><a href="#wp2-3">2.3 Use active voice and positive form</a>
+            <li><a href="#wp2-1">2.1 Commencer par les renseignements les plus importants</a></li>
+            <li><a href="#wp2-2">2.2 Utiliser des mots simples et courants</a></li>
+            <li><a href="#wp2-3">2.3 Utiliser la voix active et la forme positive </a>
               <ul>
-                <li><a href="#wp2-3-1">Active or passive voice</a></li>
-                <li><a href="#wp2-3-2">Positive or negative form</a></li>
+                <li><a href="#wp2-3-1">Voix active ou passive </a></li>
+                <li><a href="#wp2-3-2">Forme positive ou négative</a></li>
               </ul>
             </li>
-            <li><a href="#wp2-4">2.4 Use verbs instead of nouns formed from verbs</a></li>
-            <li><a href="#wp2-5">2.5 Avoid jargon, idioms and expressions</a></li>
-            <li><a href="#wp2-6">2.6 Use simple sentences</a></li>
-            <li><a href="#wp2-7">2.7 Use short sentences and paragraphs</a></li>
-            <li><a href="#wp2-8">2.8 Explain references to legislation</a></li>
-            <li><a href="#wp2-9">2.9 Check the reading level of the content</a>
+            <li><a href="#wp2-4">2.4 Utiliser des verbes plutôt que des noms formés à partir de verbes</a></li>
+            <li><a href="#wp2-5">2.5 Éviter le jargon et les expressions familières ou imagées</a></li>
+            <li><a href="#wp2-6">2.6 Utiliser des phrases simples</a></li>
+            <li><a href="#wp2-7">2.7 Utiliser des phrases et des paragraphes courts</a></li>
+            <li><a href="#wp2-8">2.8 Expliquer les références aux lois</a></li>
+            <li><a href="#wp2-9">2.9 Vérifier la lisibilité de votre contenu </a>
               <ul>
-                <li><a href="#wp2-9-1">Use a readability tool</a></li>
-                <li><a href="#wp2-9-2">Follow the reading level requirements</a></li>
-                <li><a href="#wp2-9-3">Verify whether the content is easy to understand</a></li>
+                <li><a href="#wp2-9-1">Utiliser un outil d'analyse de la lisibilité</a></li>
+                <li><a href="#wp2-9-2">Exigences de niveau de compétence en lecture</a></li>
+                <li><a href="#wp2-9-3">Vérifier si le contenu est facile à comprendre</a></li>
               </ul>
             </li>
           </ul>
@@ -213,989 +213,881 @@ title: "Canada.ca Content Style Guide"
     </div>
   </div>
   <section class="alert alert-warning">
-    <h3>Plain language requirements</h3>
-    <p>The use of plain language is a requirement of the <cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682">Directive on the Management of Communications</a></cite>.</p>
+    <h3>Exigences en matière de langage clair et simple</h3>
+    <p>L'utilisation d'un langage clair et simple est une exigence de la <cite><a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=30682">Directive sur la gestion des communications</a></cite>.</p>
   </section>
-  <p>Writing in plain language doesn't mean over-simplifying or leaving out critical information. Using plain language actually makes critical information accessible and readable for everyone.</p>
-  <p>By writing plainly and simply, you:</p>
+  <p>Rédiger en langage clair et simple ne veut pas dire simplifier outre mesure ou omettre des renseignements essentiels. Le recours à un langage simple rend l'information essentielle lisible et accessible à tous.</p>
+  <p>Écrire en langage clair et simple&nbsp;:</p>
   <ul>
-    <li>increase the chances that people will find, read and understand your information from any device</li>
-    <li>make your information more accessible to people with disabilities</li>
-    <li>allow people who are reading your information on a small screen to see essential information first</li>
-    <li>save resources when editing and translating your text</li>
-    <li>improve task completion and cuts costs by, for example, reducing enquiries</li>
+    <li>augmente les chances que les gens trouvent, lisent et comprennent votre information sur n'importe quel appareil;</li>
+    <li>rend votre information plus accessible aux personnes handicapées;</li>
+    <li>permet à ceux qui se servent de petits écrans de voir l'information essentielle en premier;</li>
+    <li>maximise vos ressources à l'étape de la traduction et de la révision de votre texte;</li>
+    <li>facilite la réalisation des tâches en ligne et contribue à réduire les coûts, par exemple, en diminuant le nombre de demandes de renseignements.</li>
   </ul>
   <section id="wp2-1">
-    <h3>2.1 Start with the most important information</h3>
-    <p>Start your content with the most important information, and be direct. When people scan web pages, they tend to start in the top left hand corner and scan to the right and down. As they move down the page, they scan less and less to the right.</p>
-    <p>Organize your content using an inverted pyramid structure to:</p>
+    <h3>2.1 Commencer par les renseignements les plus importants</h3>
+    <p>Introduisez les renseignements les plus importants au début de votre texte et allez droit au but. Lorsqu'ils survolent les pages Web, les gens ont tendance à débuter dans le coin supérieur gauche en déplaçant leur regard vers la droite. À mesure qu'ils font défiler la page vers le bas, ils survolent de moins en moins le texte à droite.</p>
+    <p>Organisez votre contenu selon le modèle de la pyramide inversée afin&nbsp;:</p>
     <ul>
-      <li>guide your audience to the information they need to complete their task </li>
-      <li>place supporting and relevant details toward the end of the text </li>
+      <li>d'orienter la personne vers les renseignements dont elle a besoin pour accomplir une tâche;</li>
+      <li>de placer les renseignements complémentaires à la fin du texte.</li>
     </ul>
     <figure class="mrgn-bttm-lg">
       <figcaption class="text-center"> <strong>Figure 1</strong> </figcaption>
-      <img alt="Pyramid upside down showing how to start a web page with key information first. Text version below:" class="img-responsive center-block" id="fig1" src="/style-guide/images/fig-01-eng.jpg">
+      <img alt="Pyramide inversée illustrant comment créer une page Web en indiquant tout d'abord les renseignements clés." class="img-responsive center-block" id="fig1" src="/guide-redaction/images/fig-01-fra.jpg">
       <details class="brdr-tp brdr-rght brdr-bttm brdr-lft">
-        <summary class="wb-toggle" data-toggle="'{&quot;print&quot;:&quot;on&quot;}'"> Figure 1 - Text version </summary>
-        <p>Inverted pyramid divided into four sections, from top to bottom. The image shows the order of information on a web page.</p>
+        <summary class="wb-toggle" data-toggle="'{&quot;print&quot;:&quot;on&quot;}'">Figure 1 - Version textuelle</summary>
+        <p>Pyramide inversée illustrant comment créer une page Web en indiquant tout d'abord les renseignements clés.</p>
         <ul>
-          <li>First:
+          <li>Premièrement&nbsp;:
             <ul>
-              <li>start with the most important idea, step or information</li>
+              <li>commencer chaque page Web par l'idée, l'étape ou l'information la plus importante.</li>
             </ul>
           </li>
-          <li>Second:
+          <li>Deuxièmement&nbsp;:
             <ul>
-              <li>add details and tasks in order of importance</li>
-              <li>keep all task related content in the centre of the page</li>
-              <li>use links to direct people to key information and tasks</li>
+              <li>ajouter les détails et les tâches par ordre d'importance;</li>
+              <li>mettre tout le contenu lié à la tâche au centre de la page;</li>
+              <li>utiliser des liens pour orienter les gens vers les renseignements et les tâches essentielles.</li>
             </ul>
           </li>
-          <li>Third:
+          <li>Troisièmement&nbsp;:
             <ul>
-              <li>include information for audiences who want to learn more or have more knowledge of the topic or service, but only if it makes sense</li>
+              <li>inclure des renseignements pertinents à l'intention des publics cibles qui désirent en apprendre davantage ou qui ont une connaissance approfondie du sujet ou du service.</li>
             </ul>
           </li>
-          <li>Fourth:
+          <li>Quatrièmement&nbsp;:
             <ul>
-              <li>add links only if they relate to content that supports completion of the task on the web page (for example, laws or publications)</li>
+              <li>ajouter des liens seulement s'ils concernent le contenu et appuient la tâche.</li>
             </ul>
           </li>
         </ul>
       </details>
     </figure>
     <section id="wp2-1-1">
-      <h4>Get to the point</h4>
-      <p>Omit background information and messages that welcome people to your program or site. These kinds of messages get in people's way when they're trying to accomplish a task.</p>
-      <p>Write direct statements.</p>
-      <h5>Example of direct statements</h5>
-      <p><strong>Write</strong>: Present your passport to the border officer.<br>
-        <strong>Instead of</strong>: According to Canadian legislation, you're required to present your passport to the agent who will welcome you into the country.</p>
-      <h4>See how rule for the inverted pyramid structure applies in French</h4>
+      <h4>Aller droit au but</h4>
+      <p>Évitez les renseignements généraux et les messages d'accueil (par exemple, &laquo;&nbsp;bienvenue sur notre site&nbsp;&raquo;). Ces messages relèguent au second plan le contenu dont la personne a besoin pour accomplir sa tâche.</p>
+      <p>Écrivez des énoncés directs.</p>
+      <h5>Exemple d'énoncé direct</h5>
+      <p><strong>Écrivez</strong>&nbsp;<strong></strong>: Présentez votre passeport à l'agent à l'aéroport. <br>
+        <strong>Au lieu de</strong>&nbsp;: Selon la loi canadienne, vous devez présenter votre passeport à l'agent qui vous accueille à l'aéroport.</p>
+    </section>
+    <h4>Voyez comment la règle sur la pyramide inversée s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-1">2.1 Start with the most important information</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la pyramide inversée", "title": "2.1 Commencer par les renseignements les plus importants", "url": "https://conception.canada.ca/guide-redaction/#wp2-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-1"}'></div>
+    </div>
+  </section>
+  <section id="wp2-2">
+    <h3>2.2 Utiliser des mots simples et courants</h3>
+    <p>Remplacez les mots longs par des mots courts, simples et de tous les jours que la plupart des gens comprennent et utilisent. Les mots simples ont 2 syllabes ou moins. Ils sont plus faciles à lire en survolant le texte que les mots longs et complexes.</p>
+    <h4>Exemples d'utilisation de mots simples et courants</h4>
+    <p><strong>Écrivez</strong>&nbsp;: demander<br>
+      <strong>Au lieu de</strong>&nbsp;: faire une requête</p>
+    <p><strong>Écrivez</strong>&nbsp;: assez de<br>
+      <strong>Au lieu de</strong>&nbsp;: un nombre suffisant de</p>
+    <p><strong>Écrivez</strong>&nbsp;: si<br>
+      <strong>Au lieu de</strong>&nbsp;: dans la mesure où</p>
+    <p><strong>Écrivez</strong>&nbsp;: avant<br>
+      <strong>Au lieu de</strong>&nbsp;: préalablement</p>
+    <p><strong>Écrivez</strong>&nbsp;: tous les 2 ans<br>
+      <strong>Au lieu de</strong>&nbsp;: bisannuellement</p>
+    <h4>Voyez comment la règle sur l'utilisation des mots simples et courants s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-2">2.2 Use simple and common words</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;utilisation des mots simples et courants par courriel", "title": "2.2 Utiliser des mots simples et courants", "url": "https://conception.canada.ca/guide-redaction/#wp2-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-2"}'></div>
+    </div>
+  </section>
+  <section id="wp2-3">
+    <h3>2.3 Utiliser la voix active et la forme positive</h3>
+    <p>Lorsque c'est possible, utilisez la&nbsp;:</p>
+    <ul>
+      <li>voix active plutôt que la voix passive;</li>
+      <li>forme positive plutôt que la forme négative.</li>
+    </ul>
+    <section id="wp2-3-1">
+      <h4>Voix active ou passive</h4>
+      <p>Dans une phrase à la voix active, le sujet fait l'action. La phrase est claire et directe.</p>
+      <p>Dans une phrase à la voix passive, il n'est pas toujours facile de savoir qui (ou quoi) fait l'action.</p>
+      <h5>Exemples de constructions active et passive</h5>
+      <p><strong>Construction active</strong>&nbsp;: Vous devrez peut-être fournir une preuve de citoyenneté.<br>
+        <strong>Construction passive</strong>&nbsp;: Une preuve de citoyenneté sera peut-être exigée.</p>
+    </section>
+    <section id="wp2-3-2">
+      <h4>Forme positive ou négative</h4>
+      <p>Lorsque c'est possible, dites ce que la personne peut ou doit faire plutôt que ce qu'elle ne peut ou ne doit pas faire. Évitez la forme négative, les doubles négations et les exceptions aux exceptions.</p>
+      <h5>Exemples de formes positives et négatives</h5>
+      <p><strong>Forme positive</strong>&nbsp;: Vous pouvez déduire une partie du montant à la&nbsp;ligne 147 de votre déclaration de revenus.<br>
+        <strong>Forme négative</strong>&nbsp;: Vous ne pouvez déduire qu'une partie du montant de la&nbsp;ligne 147 de votre déclaration de revenus.</p>
+      <p><strong>Forme positive</strong>&nbsp;: La procédure sera efficace.<br>
+        <strong>Double négation</strong>&nbsp;: La procédure ne sera pas inefficace.</p>
+      <p><strong>Forme positive</strong>&nbsp;: Vous pouvez demander une déduction pour un enfant à charge né en 1972 ou avant si cet enfant a une déficience mentale ou physique.<br>
+        <strong>Double négation</strong>&nbsp;: Vous ne pouvez pas demander une déduction pour un enfant à charge né en 1972 ou avant, à moins que cet enfant n'ait une déficience mentale ou physique.</p>
+      <p class="mrgn-tp-lg">Lorsqu'une action risque d'entraîner de graves conséquences, vous pouvez utiliser la forme négative pour expliquer que l'action est impossible ou doit être évitée.</p>
+      <h5>Exemples d'utilisation de la forme négative pour quelque chose pouvant avoir des conséquences graves</h5>
+      <p><strong>Écrivez&nbsp;: N</strong>'essayez <strong>pas</strong> de trouver la source de monoxyde de carbone. Sortez immédiatement pour respirer de l'air frais.</p>
+    </section>
+    <h4>Voyez comment la règle sur l'utilisation de la voix active et de la forme positive s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-3">2.3 Use active voice and positive form</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;utilisation de la voix active et de la forme positive par courriel", "title": "2.3 Utiliser la voix active et la forme positive", "url": "https://conception.canada.ca/guide-redaction/#wp2-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-3"}'></div>
+    </div>
+  </section>
+  <section id="wp2-4">
+    <h3>2.4 Utiliser des verbes plutôt que des noms formés à partir de verbes</h3>
+    <p>Privilégiez le verbe (forme verbale) plutôt que le nom formé à partir du verbe (forme nominale) pour exprimer clairement une action.</p>
+    <h4>Exemples d'énoncés qui contiennent des verbes plutôt que des noms</h4>
+    <p><strong>Écrivez</strong>&nbsp;: recommander une mesure<br>
+      <strong>Au lieu de</strong>&nbsp;: formuler une recommandation d'une mesure</p>
+    <p><strong>Écrivez</strong>&nbsp;: distribuer le courrier<br>
+      <strong>Au lieu de</strong>&nbsp;: faire la distribution du courrier</p>
+    <p><strong>Écrivez&nbsp;</strong>: modifier la page<br>
+      <strong>Au lieu de</strong>&nbsp;: apporter une modification à la page</p>
+    <p>Utilisez le verbe dans sa forme la plus simple. Si possible, utilisez le présent.</p>
+    <h4>Voyez comment la règle sur l'utilisation de la forme verbale s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-4">2.4 Use verbs instead of nouns formed from verbs</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la r&#232;gle sur l&#8217;utilisation de la forme verbale s&#8217;applique &#224; un contenu", "title": "2.4 Utiliser la voix active et la forme positive", "url": "https://conception.canada.ca/guide-redaction/#wp2-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-4"}'></div>
+    </div>
+  </section>
+  <section id="wp2-5">
+    <h3>2.5 Éviter le jargon et les expressions familières ou imagées</h3>
+    <p>Évitez d'utiliser du jargon, un langage spécialisé ou des expressions familières, imagées ou régionales. Choisissez le terme le plus simple ou le plus courant pour votre public cible.</p>
+    <p>Pour la plupart des gens, les termes juridiques et techniques et le jargon administratif portent à confusion.</p>
+    <p>Ceux et celles qui ne parlent ni français ni anglais peuvent recourir à des outils en ligne pour traduire du texte. Les traductions produites par ces outils ne sont pas toujours exactes, surtout lorsqu'il est question d'expressions familières, imagées ou régionales.</p>
+    <h4>Exemples de jargon, d'idiotisme et d'expression</h4>
+    <p><strong>Jargon</strong>&nbsp;: mandat d'arrêt décerné sur le siège (ordre émis par un juge d'arrêter une personne qui ne s'est pas présentée en cour ou qui n'a pas respecté certaines conditions)</p>
+    <p><strong>Idiotisme</strong>&nbsp;: pour faire court (pour résumer, en un mot, bref)</p>
+    <p><strong>Expression</strong>&nbsp;: ne pas avoir la langue dans sa poche (personne qui n'a pas peur de dire ce qu'elle pense)</p>
+    <p class="mrgn-tp-lg">Si vous devez utiliser un jargon bien connu de votre public cible&nbsp;:</p>
+    <ul>
+      <li>expliquez le terme en employant des mots simples et courants ou donnez un exemple pour aider les non-spécialistes à comprendre;</li>
+      <li>n'utilisez pas de jargon pour expliquer le jargon.</li>
+    </ul>
+    <h4>Exemples d'énoncés qui évitent le recours au jargon</h4>
+    <p><strong>Écrivez</strong>&nbsp;: Vous devez nous envoyer votre déclaration de revenus (T1) d'ici le 30 avril. <br>
+      <strong>Au lieu de</strong>&nbsp;: Vous devez nous envoyer votre T1 d'ici le 30 avril.</p>
+    <p><strong>Écrivez</strong> <strong></strong>: Apprenez-en plus sur les régimes d'épargne qui peuvent vous aider à épargner assez d'argent pour la retraite.<br>
+      <strong>Au lieu de</strong>&nbsp;: Apprenez-en plus sur les régimes d'épargne qui peuvent vous aider à vous constituer un bas de laine pour votre retraite.</p>
+    <h4>Voyez comment la règle sur le jargon et les expressions familières ou imagées s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-5">2.5 Avoid jargon, idioms and expressions</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le jargon et les expressions familières ou imagées", "title": "2.5 Éviter le jargon et les expressions familières ou imagées", "url": "https://conception.canada.ca/guide-redaction/#wp2-5", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-5"}'></div>
+    </div>
+    <h4>Identifiez les mots-clés que votre public utilise pour trouver votre contenu</h4>
+    <p>Voici des outils pour vous aider à identifier les termes de recherche les plus populaires&nbsp;:</p>
+    <ul>
+      <li><a lang="en" href="https://www.google.ca/trends/explore">Google Trends</a></li>
+      <li><a lang="en" href="http://adwords.google.com/keywordplanner">Google Keyword Planner</a> (en anglais seulement)</li>
+      <li><a lang="en" href="http://www.bing.com/toolbox/keywords">Bing Keyword Research</a> (en anglais seulement)</li>
+      <li>Keywords Everywhere de Mozilla Firefox</li>
+    </ul>
+    <p>Certains de ces outils ne sont offerts qu'en anglais, et d'autres sont offerts en français si votre navigateur est configuré en français.</p>
+    <p>Consultez vos données d'analyse Web pour savoir quels termes votre public utilise pour chercher du contenu connexe.</p>
+  </section>
+  <section id="wp2-6">
+    <h3>2.6 Utiliser des phrases simples</h3>
+    <p>Privilégiez des structures syntaxiques simples en plaçant le sujet et le verbe en début de phrase et en utilisant des constructions de type sujet + verbe + complément. Cette structure aide le lecteur à comprendre ce que fait le sujet de la phrase en plaçant le sujet tout juste devant le verbe.</p>
+    <p>Évitez les phrases complexes composées de plusieurs énoncés. Elles rassemblent généralement trop d'informations pour que les gens puissent les comprendre en survolant le texte.</p>
+    <h4>Exemples de phrase simple</h4>
+    <p><strong>Écrivez</strong>&nbsp;: Renseignez-vous au sujet du réseau de transport du Canada. Trouvez des renseignements au sujet des routes, les pistes cyclables, les ports et les aéroports partout au pays.<br>
+      <strong>Au lieu de</strong> <strong></strong>: Le réseau de transport du Canada, avec ses routes, ses pistes cyclables, ses ports et ses aéroports, est vaste, et ce site vous fournira une foule d'information au sujet du réseau d'un bout à l'autre du pays.</p>
+    <p class="mrgn-tp-lg">Remplacez les structures de phrase complexes par des énoncés directs.</p>
+    <h4>Exemples d'énoncé direct</h4>
+    <p><strong>Écrivez</strong>&nbsp;: Vous avez jusqu'au 30&nbsp;avril pour soumettre votre déclaration de revenus.<br>
+      <strong>Au lieu de</strong>&nbsp;: La période de temps dont les contribuables disposent pour soumettre leurs déclarations de revenus se termine le 30&nbsp;avril.</p>
+    <p>Pour aider les gens à comprendre le sens d'une phrase longue, entourez-la de phrases courtes.</p>
+    <h4>Voyez comment la règle sur les phrases simples s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-6">2.6 Use simple sentences</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur les phrases simples", "title": "2.6 Utiliser des phrases simples", "url": "https://conception.canada.ca/guide-redaction/#wp2-6", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-6"}'></div>
+    </div>
+  </section>
+  <section id="wp2-7">
+    <h3>2.7 Utiliser des phrases et des paragraphes courts</h3>
+    <p>Soyez concis. Utilisez un minimum de mots pour exprimer une idée. Vous aidez ainsi les gens, même les experts, à exécuter une tâche.</p>
+    <p>Raccourcissez vos phrases et vos paragraphes&nbsp;pour faciliter le survol d'un texte sur n'importe quelle taille d'écran.</p>
+    <p>Les personnes qui ont des troubles d'apprentissage risquent d'avoir de la difficulté à comprendre des phrases longues ou des paragraphes longs.</p>
+    <p>Essayez d'écrire des phrases de moins de 24 mots à l'aide des techniques suivantes&nbsp;:</p>
+    <ul>
+      <li>découpez les phrases longues en phrases plus courtes;</li>
+      <li>limitez-vous à une (1) idée par phrase;</li>
+      <li>enlevez les mots inutiles.</li>
+    </ul>
+    <h4>Exemple de phrases simplifiées</h4>
+    <p><strong>Écrivez</strong> <strong></strong>: Nous avons reçu et approuvé votre demande de financement. <br>
+      <strong>Au lieu de</strong>&nbsp;: Nous avons reçu votre demande de financement, que nous avons soigneusement examinée et approuvée en temps opportun.</p>
+    <p><strong>Écrivez</strong>&nbsp;: Nous examinerons tout type d'investissement.<br>
+      <strong>Au lieu de</strong> <strong></strong>: Tout type d'investissement fera l'objet d'un examen de notre part.</p>
+    <p class="mrgn-tp-lg">Essayez d'écrire des paragraphes de 3 phrases ou moins à l'aide des techniques suivantes&nbsp;:</p>
+    <ul>
+      <li>développez une (1) idée principale par paragraphe;</li>
+      <li>utilisez des listes d'éléments pour présenter une série de plus de 2 idées ou de mots;</li>
+      <li>utilisez une forme plus courte au lieu de répéter un titre long.</li>
+    </ul>
+    <h4>Voyez comment la règle sur les phrases et paragraphes courts s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-7">2.7 Use short sentences and paragraphs</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur les phrases et paragraphes courts", "title": "2.7 Utiliser des phrases et des paragraphes courts", "url": "https://conception.canada.ca/guide-redaction/#wp2-7", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-7"}'></div>
+    </div>
+  </section>
+  <section id="wp2-8">
+    <h3>2.8 Expliquer les références aux lois</h3>
+    <p>Lorsque vous expliquez une exigence qui découle d'un article de loi ou d'un règlement, évitez de spécifier le nom de la loi ou du règlement. Donnez simplement les renseignements dont les gens ont besoin pour accomplir la tâche.</p>
+    <p>Si vous <strong>devez </strong>inclure le nom de la loi ou du règlement, fournissez-en toujours une description en langage clair. Expliquez d'abord ce que votre public cible a besoin de savoir et pourquoi il doit en savoir plus sur cette loi ou ce règlement. Puis, vous pouvez ajouter la référence à la loi ou au règlement.</p>
+    <h4>Exemples de phrase faisant référence à une loi</h4>
+    <p><strong>Écrivez</strong>&nbsp;: Vous pouvez faire une demande de citoyenneté pour votre enfant après son arrivée au Canada à titre de résident permanent.</p>
+    <p>Lien connexe</p>
+    <ul>
+      <li><cite><a href="http://laws-lois.justice.gc.ca/fra/lois/c-29/TexteComplet.html">Loi sur la citoyenneté</a></cite>, article 5.1</li>
+    </ul>
+    <p><strong>Au lieu de</strong>&nbsp;: Après l'arrivée de votre enfant au Canada à titre de résident permanent, vous pouvez faire une demande de citoyenneté au nom de l'enfant en vertu de l'article&nbsp;5.1 de la <cite>Loi sur la citoyenneté</cite>.</p>
+    <h4>Voyez comment la règle sur les références aux lois s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-8">2.8 Explain references to legislation</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur les références aux lois", "title": "2.8 Expliquer les références aux lois", "url": "https://conception.canada.ca/guide-redaction/#wp2-8", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-8"}'></div>
+    </div>
+  </section>
+  <section id="wp2-9">
+    <h3>2.9 Vérifier la lisibilité de votre contenu</h3>
+    <p>Vérifiez le niveau de lisibilité de votre texte. Assurez-vous de rédiger au niveau de lisibilité approprié en tenant compte de la compétence en lecture de votre public cible. Testez votre contenu pendant que vous rédigez votre texte. Vous pouvez utiliser divers outils pour le faire.</p>
+    <p>Certains outils permettent de vérifier si le contenu est trop verbeux ou complexe. Un texte qui correspond à un niveau de compétence en lecture supérieur à la 8e année peut empêcher plusieurs personnes de comprendre la tâche qu'elles doivent effectuer.</p>
+    <section id="wp2-9-1">
+      <h4>Utiliser un outil d'analyse de la lisibilité </h4>
+      <p>Vous pouvez utiliser gratuitement l'outil en ligne <a href="http://www.scolarius.com/">Scolarius</a> pour vérifier le niveau de lisibilité du contenu rédigé en français. L'outil cote le texte au moyen d'un système de points fondé sur des groupes de niveau de scolarité. Consultez le site de Scolarius pour connaître les pointages associés au niveau de scolarité.</p>
+      <p>Si le texte que vous mettez à l'essai renferme des éléments sous forme de puces, ajoutez un point à la fin de chaque puce pour que l'outil évalue le texte correctement. Vous devrez supprimer ces points avant de publier le texte.</p>
+      <p>Pour utiliser cet outil&nbsp;:</p>
       <ul>
-        <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-1">2.1 Commencer par les renseignements les plus importants</a></span></li>
+        <li>acceptez tous les changements dans votre document pour éliminer le suivi des modifications;</li>
+        <li>ouvrez www.scolarius.com;</li>
+        <li>sélectionnez le texte à partir de votre document Word ou d'une page Web existante;</li>
+        <li>copiez et collez le texte dans la zone prévue;</li>
+        <li>cliquez sur <strong>Soumettre</strong>.</li>
+      </ul>
+      <p>Votre texte comprend peut-être des termes techniques contenant plusieurs syllabes et qui sont importants pour un public spécialisé. Retirez ces mots du texte avant d'évaluer la lisibilité du contenu pour déterminer si le texte qui entoure ces mots peut être simplifié.</p>
+      <p>Une seule note apparaîtra pour votre contenu. Le texte devrait se trouver dans les rangs supérieurs de &laquo;&nbsp;primaire&nbsp;&raquo; ou dans les rangs inférieurs de &laquo;&nbsp;secondaire&nbsp;&raquo;.</p>
+      <figure class="mrgn-bttm-lg">
+        <figcaption class="text-center"> <strong>Figure 2</strong> </figcaption>
+        <img alt="Cette saisie d'écran d'une boîte de dialogue sur les statistiques de lisibilité de Scolarius indique que le niveau de lisibilité d'un échantillon de texte est de &laquo;&nbsp;94 secondaire&nbsp;&raquo;. " class="img-responsive center-block" src="/guide-redaction/images/fig-02-fra.jpg">
+        <details>
+          <summary> Figure 2 - Version textuelle </summary>
+          <p>Cette saisie d'écran d'une boîte de dialogue sur les statistiques de lisibilité de Scolarius indique que le niveau de lisibilité d'un échantillon de texte est de &laquo;&nbsp;94 secondaire&nbsp;&raquo;.</p>
+        </details>
+      </figure>
+    </section>
+    <section id="wp2-9-2">
+      <h4>Exigences de niveau de compétence en lecture</h4>
+      <p>Visez le niveau de compétence en lecture suivant pour le contenu&nbsp;:</p>
+      <ul>
+        <li>de navigation (pages d'accueil, de thème et de sujet)&nbsp;: un niveau de scolarité secondaire (pointage de 100 ou moins);</li>
+        <li>conçu pour le grand public&nbsp;: visez un niveau de scolarité secondaire (pointage de 100 ou moins);</li>
+        <li>conçu pour des spécialistes&nbsp;: établir le niveau de scolarité approprié et l'appliquer à l'ensemble du contenu.</li>
       </ul>
     </section>
+    <section id="wp2-9-3">
+      <h4>Vérifier si le contenu est facile à comprendre</h4>
+      <p>Les outils d'analyse de la lisibilité révèlent le niveau de compétence requis en lecture pour comprendre le texte. Ils ne vous disent pas si le texte est facile à lire et comprendre.</p>
+      <p>Pour vérifier si votre contenu est facile à lire et comprendre&nbsp;:</p>
+      <ul>
+        <li>demandez à des personnes qui ont peu ou pas de connaissances sur le sujet d'examiner le texte pour voir si le message est clair et logique;</li>
+        <li>collaborez avec l'équipe des communications pour mettre en œuvre un test d'utilisation.</li>
+      </ul>
+      <p>Si votre contenu correspond à un niveau de compréhension trop élevé ou si le test d'utilisation donne lieu à un faible taux de réalisation des tâches, essayez de&nbsp;:</p>
+      <ul>
+        <li>réduire la taille des mots, des phrases ou des paragraphes, tout en conservant les mots de 3&nbsp;syllabes ou plus qui sont bien connus de votre public cible;</li>
+        <li>remplacer le jargon par des termes que votre public cible comprendra;</li>
+        <li>éliminer les détails dont les gens n'ont pas besoin pour accomplir la tâche;</li>
+        <li>remplacer le nom d'un programme déjà cité par un terme court comme &laquo;&nbsp;le programme&nbsp;&raquo; au lieu d'utiliser son nom au long ou son abréviation;</li>
+        <li>présenter les tâches principales sous forme de listes à puces ou numérotées.</li>
+      </ul>
+    </section>
+    <h4>Voyez comment la règle sur l'évaluation de la lisibilité du contenu s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-9">2.9 Check the reading level of the content</a></span></li>
+    </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for the inverted pyramid structure", "title": "2.1 Start with the most important information", "url": "{{ site.url }}/style-guide/#wp2-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-1"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur les références aux lois", "title": "2.9 Vérifier la lisibilité de votre contenu", "url": "https://conception.canada.ca/guide-redaction/#wp2-9", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-9"}'></div>
     </div>
   </section>
 </section>
-<section id="wp2-2">
-  <h3>2.2 Use simple and common words</h3>
-  <p>Replace long words with short, simple and everyday words that most people understand and use. Simple words have 2 syllables or less. They're easier to scan than long, complex words.</p>
-  <h4>Example of simple and common words</h4>
-  <p><strong>Write</strong>: ask<br>
-    <strong>Instead of</strong>: make a request</p>
-  <p><strong>Write</strong>: you must<br>
-    <strong>Instead of</strong>: you shall</p>
-  <p><strong>Write</strong>: to<br>
-    <strong>Instead of</strong>: in order to</p>
-  <p><strong>Write</strong>: before<br>
-    <strong>Instead of</strong>: prior to</p>
-  <p><strong>Write</strong>: get<br>
-    <strong>Instead of</strong>: obtain</p>
-  <h4>See how the rule for using simple and common words applies to content in French</h4>
-  <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-2">2.2 Utiliser des mots simples et courants</a></span></li>
-  </ul>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for using simple and common words", "title": "2.2 Use simple and common words", "url": "{{ site.url }}/style-guide/#wp2-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-2"}'></div>
-  </div>
-</section>
-<section id="wp2-3">
-  <h3>2.3 Use active voice and positive form</h3>
-  <p>Whenever possible use the:</p>
-  <ul>
-    <li>active voice instead of the passive voice</li>
-    <li>positive form instead of the negative form</li>
-  </ul>
-  <section id="wp2-3-1">
-    <h4>Active or passive voice</h4>
-    <p>In an active sentence, the subject does the action. The sentence is clear and direct.</p>
-    <p>In a passive sentence, it may not be clear who or what is doing the action.</p>
-    <h5>Example of passive and active sentences</h5>
-    <p><strong>Active</strong>: We may ask you to provide proof of citizenship.<br>
-      <strong>Passive</strong>: You may be asked to provide proof of citizenship.</p>
-  </section>
-  <section id="wp2-3-2">
-    <h4>Positive or negative form</h4>
-    <p>Whenever possible, tell people what they may or must do instead of what they may not or must not do. Avoid negatives, double negatives and exceptions to exceptions.</p>
-    <h5>Examples of positive and negative sentences</h5>
-    <p><strong>Positive</strong>: You're entitled to part of the deduction.<br>
-      <strong>Negative</strong>: You're not entitled to the entire deduction.</p>
-    <p><strong>Positive</strong>: The procedure will be effective.<br>
-      <strong>Double</strong> <strong>negative</strong>: The procedure will not be ineffective.</p>
-    <p><strong>Positive</strong>: You may claim a child born in 1972 or earlier as a dependent, if he or she has a mental or physical disability.<br>
-      <strong>Double negative</strong>: You may not claim anything for a dependent child born in 1972 or earlier, unless the child has a mental or physical disability.</p>
-    <p class="mrgn-tp-lg">If something has serious consequences, you can use the negative form to explain that something isn't possible or should not be done.</p>
-    <h5>Examples of using the negative form for something that has serious consequences</h5>
-    <p><strong>Write</strong>: Do&nbsp;<strong>not</strong>&nbsp;try to locate the source of carbon monoxide. Leave your home immediately and move to fresh air.</p>
-  </section>
-  <h4>See how the rule for active voice and positive form applies to content in French</h4>
-  <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-3">2.3 Utiliser la voix active et la forme positive</a></span></li>
-  </ul>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for active voice and positive form", "title": "2.3 Use active voice and positive form", "url": "{{ site.url }}/style-guide/#wp2-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-3"}'></div>
-  </div>
-</section>
-<section id="wp2-4">
-  <h3>2.4 Use verbs instead of nouns formed from verbs</h3>
-  <p>Avoid using nouns that are formed from verbs. They can be vague. Verbs alone clearly express the action needed.</p>
-  <h4>Examples of the use of verbs instead of nouns</h4>
-  <p><strong>Write</strong>: apply<br>
-    <strong>Instead of</strong>: submit your application</p>
-  <p><strong>Write</strong>: consider<br>
-    <strong>Instead of</strong>: take into consideration</p>
-  <p><strong>Write</strong>: modify<br>
-    <strong>Instead of</strong>: make a modification</p>
-  <p><strong>Write</strong>: needs<br>
-    <strong>Instead of</strong>: is in need of</p>
-  <p>Always use the simplest form of a verb. When possible, use the present tense.</p>
-  <h4>See how the rule for using verbs instead of nouns formed from verbs applies in French</h4>
-  <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-4">2.4 Utiliser des verbes plutôt que des noms formés à partir de verbes</a></span></li>
-  </ul>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for using verbs instead of nouns formed from verbs", "title": "2.4 Use verbs instead of nouns formed from verbs", "url": "{{ site.url }}/style-guide/#wp2-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-4"}'></div>
-  </div>
-</section>
-<section id="wp2-5">
-  <h3>2.5 Avoid jargon, idioms and expressions</h3>
-  <p>Where possible, avoid using jargon, idioms and expressions. Use the clearest, most popular term for your audience.</p>
-  <p>Legal and technical terms and "government-speak" confuse most people.</p>
-  <p>People who don't speak English or French might use online tools to translate text. These tools don't always translate idioms and expressions accurately.</p>
-  <h4>Examples of jargon, idioms and expressions</h4>
-  <p><strong>Jargon</strong>: bench warrant (an order by a judge to arrest someone who didn't show up in court or comply with certain conditions)</p>
-  <p><strong>Idiom</strong>: to hire a helping hand (meaning to hire an employee)</p>
-  <p><strong>Expression</strong>: attack your least favourite task first (meaning do your least favourite task first)</p>
-  <p class="mrgn-tp-lg">If you must include jargon familiar to your target audience, be sure to:</p>
-  <ul>
-    <li>explain it using simple, familiar words or give an example to help non-specialists understand</li>
-    <li>never use jargon to explain jargon</li>
-  </ul>
-  <h4>Examples of statements that avoid the use of jargon</h4>
-  <p><strong>Write</strong>: You have to file your income tax return (T1) by April 30.<br>
-    <strong>Instead of</strong>: You have to file your T1 return by April 30.</p>
-  <p><strong>Write</strong>: Learn about savings plans that can help you save enough money to retire.<br>
-    <strong>Instead of</strong>: Learn about different types of savings plans that will let you build up your retirement nest egg.</p>
-  <h4>Identify keywords your audience is using to find your content</h4>
-  <p>Tools you can use to see which search terms are most popular:</p>
-  <ul>
-    <li><a href="https://www.google.ca/trends/explore">Google Trends</a></li>
-    <li><a href="https://adwords.google.com/keywordplanner">Google Keyword Planner</a></li>
-    <li><a href="https://www.bing.com/toolbox/keywords">Bing Keyword Research</a></li>
-    <li>Mozilla Firefox's Keywords Everywhere&nbsp; </li>
-  </ul>
-  <p>Refer to your analytics to find out which search terms your audience uses to find related content.</p>
-  <h4>See how the rule for jargon, idioms and expressions applies to content in French</h4>
-  <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-5">2.5 Éviter le jargon et les expressions familières ou imagées</a></span></li>
-  </ul>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for jargon, idioms and expressions applies to content in French", "title": "2.5 Avoid jargon, idioms and expressions", "url": "{{ site.url }}/style-guide/#wp2-5", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-5"}'></div>
-  </div>
-</section>
-<section id="wp2-6">
-  <h3>2.6 Use simple sentences</h3>
-  <p>Keep sentence structure simple by putting the subject and the verb at the beginning of the sentence and by using the subject + verb + object construction. This structure helps the reader understand what the subject of the sentence is doing by placing the subject first, followed by the verb.</p>
-  <p>Avoid complex and compound sentences. They generally contain too much information for people to understand when they're scanning.</p>
-  <h4>Examples of simple sentences</h4>
-  <p><strong>Write</strong>: Learn about Canada's transportation system. Find information about using paved roads, bike trails, airports and ports across the country. <br>
-    <strong>Instead of</strong>: Canada's vast transportation system enables millions of people each year to travel throughout the country, around the world, and to work and back. From this page you can access a wealth of transportation information related to travelling and commuting.</p>
-  <p class="mrgn-tp-lg">Replace complex sentence structures with direct statements.</p>
-  <h4>Examples of direct statements</h4>
-  <p><strong>Write</strong>: You have until April 30 to file your tax return.<br>
-    <strong>Instead of</strong>: The period of time that you have to file your tax return ends on April 30.</p>
-  <p class="mrgn-tp-lg">Replace noun strings (a series of 2 or more nouns used to name something) with direct statements.</p>
-  <h4>Examples of statements that avoid chains of nouns</h4>
-  <p><strong>Write</strong>: The evaluation team will submit its final report on the training program in September.<br>
-    <strong>Instead of</strong>: The training program evaluation team will submit its final report in September.</p>
-  <p>Surround a long sentence with shorter ones because it helps people understand the long sentence.</p>
-  <h4>See how this rule for using simple sentences applies in French</h4>
-  <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-6">2.6 Utiliser des phrases simples</a></span></li>
-  </ul>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for using simple sentences applies to content", "title": "2.6 Use simple sentences", "url": "{{ site.url }}/style-guide/#wp2-6", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-6"}'></div>
-  </div>
-</section>
-<section id="wp2-7">
-  <h3>2.7 Use short sentences and paragraphs</h3>
-  <p>Be concise. Use as few words as possible to express an idea. By being concise, you'll help everyone, even specialists, complete the task they set out to do.</p>
-  <p>Keep sentences and paragraphs short to make them easier to scan on any screen size. People who have learning disabilities may find it difficult to scan and understand long sentences and paragraphs.</p>
-  <p>Try to keep sentences under 20 words. You can do this by:&nbsp;</p>
-  <ul>
-    <li>breaking long sentences into shorter ones</li>
-    <li>limiting each sentence to 1 idea </li>
-    <li>removing unnecessary words</li>
-  </ul>
-  <h4>Examples of shortened sentences</h4>
-  <p><strong>Write</strong>: We received your request for funding and approved it. <br>
-    <strong>Instead of</strong>: We received your request for funding, which we've thoroughly reviewed and approved in a timely manner.</p>
-  <p><strong>Write</strong>: We'll consider any type of investment.<br>
-    <strong>Instead of</strong>: Any type of investment will be taken into consideration.</p>
-  <p class="mrgn-tp-lg">Try to keep paragraphs to 3 sentences. You can do this by:</p>
-  <ul>
-    <li>developing 1 main idea per paragraph </li>
-    <li>presenting a series of more than 2 ideas or words as a vertical list</li>
-    <li>using a short form for a long title instead of repeating it</li>
-  </ul>
-  <h4>See how rule for using short sentences and paragraphs applies in French</h4>
-  <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-7">2.7 Utiliser des phrases et des paragraphes courts</a></span></li>
-  </ul>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for using short sentences and paragraphs", "title": "2.7 Use short sentences and paragraphs", "url": "{{ site.url }}/style-guide/#wp2-7", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-7"}'></div>
-  </div>
-</section>
-<section id="wp2-8">
-  <h3>2.8 Explain references to legislation</h3>
-  <p>When explaining a requirement that comes from an act or regulation, avoid mentioning the act or regulation by name. Include only the information people need to complete the task.</p>
-  <p>If you <strong>must </strong>include the name of the act or regulation, always give a plain-language description. First, explain what your audience needs to know and why they need to know more about the act or regulation. Then, you may add the reference to the act or regulation.</p>
-  <h4>Examples of references to legislation</h4>
-  <p><strong>Write</strong>: You can apply for your child to become a Canadian citizen after they arrive in Canada as a permanent resident.</p>
-  <p>Related links</p>
-  <ul>
-    <li><cite><a href="https://laws-lois.justice.gc.ca/eng/acts/c-29/FullText.html">Citizenship Act</a></cite>, section 5.1</li>
-  </ul>
-  <p><strong>Instead of</strong>: After your child arrives in Canada as a permanent resident, you can apply for citizenship on the child's behalf under section 5.1 of the <cite>Citizenship Act</cite>.</p>
-  <h4>See how rule for explaining references to legislation applies in French</h4>
-  <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-8">2.8 Expliquer les références aux lois</a></span></li>
-  </ul>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for explaining references to legislation", "title": "2.8 Explain references to legislation", "url": "{{ site.url }}/style-guide/#wp2-8", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-8"}'></div>
-  </div>
-</section>
-<section id="wp2-9">
-  <h3>2.9 Check the reading level of the content</h3>
-  <p>Check the reading level of your text. Make sure that it meets the reading level you're targeting based on the literacy needs of your audience. Do this every so often while you're writing content. You can use various tools to do this.</p>
-  <p>Readability tools help you check if content is too wordy or complex. Writing content at a reading level above grade 8 can make it difficult for many people to understand or complete their task.</p>
-  <section id="wp2-9-1">
-    <h4>Use a readability tool</h4>
-    <p>You can use a readability tool like Flesch-Kincaid to check the reading level of your English content. This tool is available as part of Microsoft Word. It generally reflects the years of education needed to understand the text.</p>
-    <p>To use Flesch-Kincaid:</p>
-    <ol start="1" type="1">
-      <li>in Word 2010 and later, click the <strong>File</strong> tab, and then click <strong>Options</strong></li>
-      <li>click <strong>Proofing</strong></li>
-      <li>under <strong>When correcting spelling and grammar in Word</strong>, make sure the <strong>Check grammar with spelling</strong> check box is selected</li>
-      <li>select <strong>Show readability statistics &nbsp;</strong></li>
-    </ol>
-    <p>You can check the reading level of a whole page or just part of a page. To check the reading level:</p>
-    <ol start="1" type="1">
-      <li>accept any tracked changes</li>
-      <li>place periods at the end of any bulleted items and headings (remove the periods before publishing) </li>
-      <li>highlight the text in your Word document</li>
-      <li>click the <strong>Review</strong> tab</li>
-      <li>click <strong>Spelling &amp; Grammar</strong></li>
-      <li>when Word has finished checking the text, it will ask whether you want to check the rest of the content</li>
-      <li>click <strong>No</strong></li>
-    </ol>
-    <p>If your text contains technical terms that consist of long, multi-syllable words that you need to use for your specialized audience, remove these terms before you test the content for readability to see whether the surrounding text can be simplified. Reinsert the technical terms once you've simplified the surrounding text.</p>
-    <p>The Readability Statistics dialog box will appear and show the Flesch-Kincaid grade level.</p>
-    <figure class="mrgn-bttm-lg">
-      <figcaption class="text-center"><strong>Figure 2</strong></figcaption>
-      <img alt="Screen capture of a readability statistics dialog box in Microsoft Word. Text version below:" class="img-responsive center-block mrgn-bttm-md" src="/style-guide/images/fig-02-eng.jpg">
-      <details>
-        <summary> Figure 2 - Text version </summary>
-        <p>A screen capture of Microsoft Word's readability statistics dialog box shows that a sample of text got a Flesch-Kincaid reading level of 5.8.</p>
-      </details>
-    </figure>
-    <p>In newer versions of Microsoft Word, search for "Flesch-Kincaid" using the help feature.</p>
-  </section>
-  <section id="wp2-9-2">
-    <h4>Follow the reading level requirements</h4>
-    <p>Evaluate the reading level of content as follows for:</p>
-    <ul>
-      <li>navigation content (home, theme and topic pages), aim for no higher than grade 8</li>
-      <li>all other content intended for general audiences, aim for grade 8 or lower</li>
-      <li>content intended for experts, determine the appropriate grade level and apply it across all content for this audience</li>
-    </ul>
-  </section>
-  <section id="wp2-9-3">
-    <h4>Verify whether the content is easy to understand</h4>
-    <p>Readability tools reveal the reading level of your content, but they can't tell you whether it makes sense.</p>
-    <p>To check whether your content is easy to read and understand, test it:</p>
-    <ul>
-      <li>ask colleagues who aren't familiar with the subject to review the text for clarity and logic</li>
-      <li>work with your communications team to set up usability testing for your content</li>
-    </ul>
-    <p>If your content has a high reading level, or if usability testing shows low task completion, try to:</p>
-    <ul>
-      <li>shorten words, sentences or paragraphs, but keep words of 3 or more syllables if they're well known</li>
-      <li>replace technical jargon with terms that people will understand</li>
-      <li>remove details that people don't need to complete the task</li>
-      <li>replace secondary references to a program with "program" rather than using its full name or abbreviation</li>
-      <li>create numbered or bulleted lists for key tasks</li>
-    </ul>
-  </section>
-  <h4>See how rule for measuring content for readability applies in French</h4>
-  <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-9">2.9 Vérifier la lisibilité de votre contenu</a></span></li>
-  </ul>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for measuring content for readability", "title": "2.9 Check the reading level of the content", "url": "{{ site.url }}/style-guide/#wp2-9", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-9"}'></div>
-  </div>
-</section>
 <section id="toc7">
-  <h2>3.0 Tone</h2>
-  <div class="row mrgn-tp-lg">
-    <div class="col-md-8">
-      <div class="panel panel-default">
-        <div class="panel-body">
-          <h3 class="mrgn-tp-sm">In this section</h3>
-          <ul>
-            <li><a href="#wp3-1">3.1 Write directly to the person</a>
-              <ul>
-                <li><a href="#wp3-1-1">Address the person in page titles, links and navigation labels</a></li>
-                <li><a href="#wp3-1-2">Don't use the first person</a></li>
-              </ul>
-            </li>
-            <li><a href="#wp3-2">3.2 Use "we" to refer to the Government of Canada</a>
-              <ul>
-                <li><a href="#wp3-2-1">Third parties</a></li>
-              </ul>
-            </li>
-            <li><a href="#wp3-3">3.3 Expressing an obligation or a recommendation</a></li>
-          </ul>
-        </div>
+<h2>3.0 Ton</h2>
+<div class="row mrgn-tp-lg">
+  <div class="col-md-8">
+    <div class="panel panel-default">
+      <div class="panel-body">
+        <h3 class="mrgn-tp-sm">Dans cette section</h3>
+        <ul>
+          <li><a href="#wp3-1">3.1 Écrire directement à la personne</a>
+            <ul>
+              <li><a href="#wp3-1-1">S'adresser à la personne dans les titres de page, les liens et les rubriques de navigation</a></li>
+              <li><a href="#wp3-1-2">N'employez pas la première personne</a></li>
+            </ul>
+          </li>
+          <li><a href="#wp3-2">3.2 Utiliser le pronom &laquo;&nbsp;nous&nbsp;&raquo; pour désigner le gouvernement du Canada</a>
+            <ul>
+              <li><a href="#wp3-2-1">Désigner les tierces parties</a></li>
+            </ul>
+          </li>
+          <li><a href="#wp3-3">3.3 Exprimer une obligation ou une recommandation</a></li>
+        </ul>
       </div>
     </div>
   </div>
-  <p>The tone of the government's web content should be:</p>
+</div>
+<p>Le contenu Web du gouvernement du Canada.ca doit emprunter un ton&nbsp;:</p>
+<ul>
+  <li>direct</li>
+  <li>informatif</li>
+  <li>conversationnel</li>
+  <li>professionnel</li>
+</ul>
+<p>Rédigez comme si vous parliez aux représentants de vos publics cibles, mais avec l'autorité d'un organisme qui fournit des renseignements dans le cadre de son mandat.</p>
+<section id="wp3-1">
+  <h3>3.1 Écrire directement à la personne</h3>
+  <p>Adoptez un ton informel qui s'adresse aux gens directement en utilisant la deuxième personne du pluriel (vous).</p>
+  <h4>Exemples d'énoncés qui utilisent la deuxième personne du pluriel pour désigner les utilisateurs</h4>
   <ul>
-    <li>direct</li>
-    <li>informative</li>
-    <li>conversational</li>
-    <li>professional</li>
+    <li>Envoyez votre demande à…</li>
+    <li>Pour obtenir cette prestation, vous devez…</li>
   </ul>
-  <p>Write as if you were talking to your audience in person, but with the authority of an institution that provides information as part of its mandate.</p>
-  <section id="wp3-1">
-    <h3>3.1 Write directly to the person</h3>
-    <p>Use an informal tone, and speak directly <strong>to</strong> people by using the second person ("you," "your").</p>
-    <h4>Examples of statements that use the second person</h4>
-    <ul>
-      <li>Send your application to…</li>
-      <li>To get this benefit you must…</li>
-    </ul>
-  </section>
+  <h4>Exception</h4>
+  <p>Vous pouvez utiliser la deuxième personne du singulier (tu) si vous vous adressez à un jeune public dans le cadre d'une campagne promotionnelle.</p>
   <section id="wp3-1-1">
-    <h4>Address the person in page titles, links and navigation labels</h4>
-    <p>For page titles, links and navigation labels, use the possessive adjective "your" when the audience might consider the item being referred to as belonging to them.</p>
-    <h5>Examples of navigation labels that address the person</h5>
+    <h4>S'adresser à la personne dans les titres de page, les liens et les rubriques de navigation</h4>
+    <p>Dans le cas des titres de page, des liens et du texte des éléments de navigation, utilisez le pronom &laquo;&nbsp;votre&nbsp;&raquo; ou &laquo;&nbsp;vos&nbsp;&raquo; lorsqu'on peut considérer que l'objet du texte appartient aux représentants de votre public cible.</p>
+    <h5>Exemples de rubriques de navigation qui s'adressent directement au public cible à l'aide de l'adjectif possessif</h5>
     <ul>
-      <li>Change your address</li>
-      <li>Replace your card</li>
+      <li>Modifiez votre adresse</li>
+      <li>Remplacez vos cartes</li>
     </ul>
-    <p class="mrgn-tp-lg">If the subject of the title, link or label refers to general information, use the indefinite article ("a" or "an") or no article at all.</p>
-    <h5>Examples of navigation labels that don't use a possessive adjective</h5>
+    <p class="mrgn-tp-lg">Si l'objet du titre de page, du lien ou de la rubrique de navigation fait référence à un renseignement général, utilisez &laquo;&nbsp;le&nbsp;&raquo;, &laquo;&nbsp;la&nbsp;&raquo;, &laquo;&nbsp;les&nbsp;&raquo;, &laquo;&nbsp;un&nbsp;&raquo; ou &laquo;&nbsp;une&nbsp;&raquo;.</p>
+    <h5>Exemples d'énoncés où l'adjectif possessif n'est pas utilisé</h5>
     <ul>
-      <li>Start a new business</li>
-      <li>Pay application fees</li>
+      <li>Financer une nouvelle entreprise</li>
+      <li>Payer les frais d'inscription</li>
     </ul>
   </section>
   <section id="wp3-1-2">
-    <h4>Don't use the first person</h4>
-    <p>Don't switch from speaking to people to speaking on their behalf. Don't use "I" or "my" statements.</p>
-    <h5>Example of statements that don't use "I" or "my"</h5>
-    <p><strong>Write</strong>:</p>
+    <h4>N'employez pas la première personne</h4>
+    <p>Ne passez pas d'une voix directe, qui s'adresse aux gens, à une voix indirecte (comme si vous parliez en leur nom). N'utilisez pas les énoncés formulés avec le pronom &laquo;&nbsp;je&nbsp;&raquo;.</p>
+    <h5>Exemple d'énoncés formulés autrement qu'avec &laquo;&nbsp;je&nbsp;&raquo;</h5>
+    <p><strong>Écrivez</strong>&nbsp;:</p>
     <ul>
-      <li>How to renew your passport</li>
-      <li>Renew your passport</li>
+      <li>Comment renouveler votre passeport</li>
+      <li>Renouvelez votre passeport</li>
     </ul>
-    <p><strong>Instead of</strong>: How do I renew my passport?</p>
+    <p><strong>Au lieu de</strong>&nbsp;: Comment dois-je renouveler mon passeport?</p>
     <h5>Exception</h5>
-    <p>You may use "my" in content, page titles and links for proper names (such as My Service Canada Account).</p>
+    <p>Vous pouvez utiliser &laquo;&nbsp;mon&nbsp;&raquo;, &laquo;&nbsp;ma&nbsp;&raquo;, &laquo;&nbsp;mes&nbsp;&raquo;&nbsp;dans le contenu, les titres de page et les liens lorsqu'il s'agit de <strong>noms&nbsp;propres </strong>(par exemple, Mon dossier Service Canada).</p>
+    <h4>Voyez comment la règle sur la manière de s'adresser directement à la personne s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp3-1">3.1 Write directly to the person</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la manière de s&#8217;adresser directement à la personne", "title": "3.1 Écrire directement à la personne", "url": "https://conception.canada.ca/guide-redaction/#wp3-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp3-1"}'></div>
+    </div>
   </section>
-  <h4>See how the rule for writing directly to the audience applies in French</h4>
-  <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp3-1">3.1 Écrire directement à la personne</a></span></li>
-  </ul>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for writing directly to the audience", "title": "3.1 Write directly to the person", "url": "{{ site.url }}/style-guide/#wp3-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp3-1"}'></div>
-  </div>
 </section>
 <section id="wp3-2">
-  <h3>3.2 Use "we" to refer to the Government of Canada</h3>
-  <p>We generally provide information to people from the perspective of the government as a whole rather than from a specific institution.</p>
-  <p>Use "we" and "our" when writing on behalf of the Government of Canada.</p>
-  <h4>Examples of statements that use "we" or "our" to refer to the Government of Canada</h4>
-  <p><strong>Write</strong>: If you started a new&nbsp;claim within the last 52 weeks and there are still weeks payable on that claim,&nbsp;we will automatically renew your existing claim.<br>
-    <strong>Instead of</strong>: If you started a new&nbsp;claim within the last 52 weeks and there are still weeks payable on that claim,&nbsp;Service Canada will automatically renew your existing claim.</p>
-  <p class="mrgn-tp-lg">Use "Government of Canada" when:</p>
+  <h3>3.2 Utiliser le pronom &laquo;&nbsp;nous&nbsp;&raquo; pour désigner le gouvernement du Canada</h3>
+  <p>Nous fournissons généralement des renseignements du point de vue de l'ensemble du gouvernement plutôt que de celui d'une institution en particulier.</p>
+  <p>Utilisez la première personne du pluriel (nous, notre et nos) lorsque vous rédigez au nom du gouvernement du Canada.</p>
+  <h4>Exemples d'énoncé formulé avec &laquo;&nbsp;nous&nbsp;&raquo; ou &laquo;&nbsp;notre&nbsp;&raquo; pour faire référence au gouvernement du Canada</h4>
+  <p><strong>Écrivez</strong>: Si vous avez déposé une nouvelle demande de prestations au cours des 52 dernières semaines et qu'il y a des semaines payables restantes sur cette demande, nous renouvellerons automatiquement votre demande existante.<br>
+    <strong>Au lieu de</strong>&nbsp;: Si vous avez déposé une nouvelle demande de prestations au cours des 52 dernières semaines et qu'il y a des semaines payables restantes sur cette demande, Service Canada renouvellera automatiquement votre demande existante.</p>
+  <p class="mrgn-tp-lg">Utilisez &laquo;&nbsp;gouvernement du Canada&nbsp;&raquo; pour&nbsp;:</p>
   <ul>
-    <li>describing Canada's stance on a topic relative to another named jurisdiction (country, province, territory city, etc.)</li>
-    <li>explaining Canada's role with respect to a topic or issue </li>
+    <li>décrire la position du Canada sur un sujet lié à une autre administration (pays, province, territoire, ville, etc.) mentionnée dans le texte;</li>
+    <li>expliquer le rôle du Canada à l'égard d'un sujet ou d'une question.</li>
   </ul>
-  <p>Use the name of a specific institution in situations when the:</p>
+  <p>Utilisez le nom d'une institution en particulier seulement dans les situations suivantes&nbsp;:</p>
   <ul>
-    <li>institution will be contacting the person</li>
-    <li>person needs to contact the institution by phone, mail or online process</li>
-    <li>role of the institution in a process is relevant to the task</li>
+    <li>l'institution contactera la personne;</li>
+    <li>la personne doit contacter l'institution par téléphone, par courrier ou en ligne;</li>
+    <li>le rôle de l'institution dans le contexte d'un processus est pertinent pour la tâche à accomplir.</li>
   </ul>
-  <h4>Examples of statements that refer to specific institutions</h4>
+  <h4>Exemples d'énoncés qui mentionnent une institution en particulier</h4>
   <ul>
-    <li>The Canada Revenue Agency will inform you if you have to repay&nbsp;benefits.</li>
-    <li>The Canadian Food Inspection Agency gives permits for some meat products. </li>
-    <li>All restricted or controlled drugs need an import permit from Health Canada.</li>
+    <li>L'Agence du revenu du Canada vous indiquera si vous devez rembourser des prestations.</li>
+    <li>L'Agence canadienne d'inspection des aliments accorde des permis pour certains produits de la viande.</li>
+    <li>Toutes les drogues d'usage restreint et les drogues contrôlées nécessitent un permis d'importation de Santé Canada.</li>
   </ul>
-  <p class="mrgn-tp-lg">Don't include references to your website on your website.</p>
-  <h4>Example of a statement that doesn't refer to Canada.ca on the Canada.ca site</h4>
-  <p><span id="exmp1"><strong>Write</strong>: <a href="#exmp1" aria-label="Example of an effective hyperlink reference. The full text simulates the hyperlink.">Determine whether you're eligible</a>. <br>
-    </span> <span id="exmp2"><strong>Instead of</strong>: Get <a href="#exmp2" aria-label="Example of an ineffective hyperlink reference. The text &quot;more information about eligibility on the Canada.ca website&quot; simulates the hyperlink">more information about eligibility on the Canada.ca website</a>.</span></p>
+  <p class="mrgn-tp-lg">Ne faites pas référence à votre site Web sur les pages de votre site.</p>
+  <h4>Exemples d'énoncé qui omet la référence à Canada.ca sur le site Canada.ca</h4>
+  <p><span id="exmp1"><strong>Écrivez</strong>&nbsp;: <a href="#exmp1" aria-label="Exemple d'une référence efficace. Le texte complet simule l'hyperlien">Déterminez si vous êtes admissible</a>.</span><br>
+    <span id="exmp2"><strong>Au lieu de</strong>&nbsp;: Obtenez des <a href="#exmp2" aria-label="Exemple d'une référence inefficace. Le texte &laquo;&nbsp;renseignements relatifs à l'admissibilité sur le site Canada.ca&nbsp;&raquo; simule l'hyperlien">renseignements relatifs à l'admissibilité sur le site Canada.ca</a>.</span></p>
   <section id="wp3-2-1">
-    <h4>Third parties</h4>
-    <p>Don't provide information on behalf of another organization. Don't duplicate information provided on another organization's website. Instead, direct people to that website to get the information.</p>
-    <p>Name the other organization when your content refers to it.</p>
-    <h5>Example of a reference to a third party</h5>
-    <p><strong>Write</strong>: If you plan to <a href="https://www.cbp.gov/travel">travel to or transit through the United States</a>, find out about the rules you need to follow from U.S. Customs and Border Protection.<br>
-      <strong>Instead of</strong>: If you plan to travel to or transit through the U.S., CBSA encourages you to visit the <a href="https://www.cbp.gov/travel">U.S. Customs and Border Protection website</a> for information on the U.S. Western Hemisphere Travel Initiative, and the requirements for entering or returning to the U.S.</p>
+    <h4>Désigner les tierces parties</h4>
+    <p>Ne donnez pas de renseignements au nom d'une autre organisation. Ne reproduisez pas les renseignements fournis sur le site Web d'une autre organisation. Dirigez plutôt les gens vers son site Web pour obtenir ces renseignements.</p>
+    <p>Nommez l'autre organisation par son nom lorsque votre contenu y fait référence.</p>
+    <h5>Exemple d'énoncé faisant référence à une tierce partie</h5>
+    <p><strong>Écrivez</strong>&nbsp;: Si vous prévoyez <a href="https://www.cbp.gov/travel">vous rendre aux États-Unis ou transiter par les États-Unis</a>, (en anglais seulement), renseignez-vous sur les règles édictées par l'organisme U.S. Customs and Border Protection. <br>
+      <strong>Au lieu de</strong>&nbsp;: Si vous prévoyez vous rendre aux États Unis, travailler, étudier, mener des activités commerciales, immigrer ou transiter par les États Unis, vous pourriez faire l'objet d'une inspection ou être tenus de soumettre des documents de voyage. Visitez le <a href="http://www.cbp.gov/travel">site Web de U.S. Customs and Border Protection</a> (en anglais seulement) pour des renseignements sur la U.S. Western Hemisphere Travel Initiative et les exigences pour entrer aux États Unis.</p>
   </section>
-  <h4>See how the rule for referring to the Government of Canada applies in French</h4>
+  <h4>Voyez comment la règle sur la manière de désigner le gouvernement du Canada s'applique à un contenu de langue anglaise</h4>
   <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp3-2">3.2 Utiliser le pronom &laquo;&nbsp;nous&nbsp;&raquo; pour désigner le gouvernement du Canada</a></span></li>
+    <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp3-2">3.2 Use "we" to refer to the Government of Canada</a></span></li>
   </ul>
   <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for referring to the Government of Canada", "title": "3.2 Use we to refer to the Government of Canada", "url": "{{ site.url }}/style-guide/#wp3-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp3-2"}'></div>
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la manière de désigner le gouvernement du Canada", "title": "3.2 Utiliser le pronom &laquo;&nbsp;nous&nbsp;&raquo; pour désigner le gouvernement du Canada", "url": "https://conception.canada.ca/guide-redaction/#wp3-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp3-2"}'></div>
   </div>
 </section>
 <section id="wp3-3">
-  <h3>3.3 Expressing an obligation or a recommendation</h3>
-  <p>As a government organization, we often publish rules, information and instructions that are set out in law. We also provide advice on how to follow them.</p>
+  <h3>3.3 Exprimer une obligation ou une recommandation</h3>
+  <p>Le gouvernement publie des règles, des renseignements et des instructions qui relèvent d'une loi. Nous fournissons également des conseils sur la façon de les suivre.</p>
   <section id="wp3-3-1">
-    <h4>Express an obligation</h4>
-    <p>When telling people about:</p>
-    <ul>
-      <li>what the law requires them to do, use "must" instead of "legally required to" or similar language</li>
-      <li>an administrative requirement, use "need to"</li>
-    </ul>
-    <h5>Example of statements that express legal and administrative requirements</h5>
-    <p><strong>Legal</strong>: To be eligible for compassionate care benefits, you must be able to show that…<br>
-      <strong>Administrative</strong>: After you apply online, you'll need to provide us with the following documents before we can finalize your claim.</p>
+    <h4>Exprimer une obligation</h4>
+    <p>Lorsque vous informez les gens de ce que la loi exige d'eux, mentionnez ce qu'ils doivent faire au lieu de préciser ce qu'ils sont &laquo;&nbsp;légalement tenus de faire&nbsp;&raquo;.</p>
+    <p>Utilisez un vocabulaire directif pour exprimer une obligation.</p>
+    <h5>Exemple d'énoncé exprimant une obligation</h5>
+    <p><strong>Écrivez</strong>&nbsp;: Vous devez remplir le questionnaire.<br>
+      <strong>Au lieu de</strong>&nbsp;: La Loi sur la statistique exige que vous remplissiez le présent questionnaire.</p>
   </section>
   <section id="wp3-3-2">
-    <h4>Express a recommendation</h4>
-    <p>When telling people that they're allowed to perform an action:</p>
+    <h4>Exprimer une recommandation </h4>
+    <p>Lorsque vous dites aux gens qu'une chose est permise sans être obligatoire, utilisez un vocabulaire qui dénote la permission ou la possibilité, tel que &laquo;&nbsp;pourriez&nbsp;&raquo; ou &laquo;&nbsp;pouvez&nbsp;&raquo;.</p>
+    <h4>Voyez comment la règle sur la manière d'exprimer une obligation ou une recommandation s'applique à un contenu de langue anglaise</h4>
     <ul>
-      <li>do use "may" or "might" (expresses permission or a possibility)</li>
-      <li>don't use "can" or "could" (expresses ability)</li>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp3-3">3.3 Expressing an obligation or a recommendation</a></span></li>
     </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la manière d&#8217;exprimer une obligation ou une recommandation", "title": "3.3 Exprimer une obligation ou une recommandation", "url": "https://conception.canada.ca/guide-redaction/#wp3-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp3-3"}'></div>
+    </div>
   </section>
-  <h4>See how the rule for expressing an obligation or a recommendation applies in French</h4>
-  <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp3-3">3.3 Exprimer une obligation ou une recommandation</a></span></li>
-  </ul>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for expressing an obligation or a recommendation", "title": "3.3 Expressing an obligation or a recommendation", "url": "{{ site.url }}/style-guide/#wp3-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp3-3"}'></div>
-  </div>
 </section>
 <section id="toc8">
-  <h2>4.0 Style</h2>
+  <h2>4.0 Style de présentation</h2>
   <div class="row mrgn-tp-lg">
     <div class="col-md-8">
       <div class="panel panel-default">
         <div class="panel-body">
-          <h3 class="mrgn-tp-sm">In this section</h3>
+          <h3 class="mrgn-tp-sm">Dans cette section</h3>
           <ul>
-            <li><a href="#wp4-1">4.1 Capitalization and punctuation</a>
+            <li><a href="#wp4-1">4.1 Majuscules et ponctuation</a>
               <ul>
-                <li><a href="#wp4-1-1">Titles, headings and subheadings</a></li>
-                <li><a href="#wp4-1-2">Lists</a></li>
-                <li><a href="#wp4-1-3">Links</a></li>
-                <li><a href="#wp4-1-4">Commas</a></li>
-                <li><a href="#wp4-1-5">Hyphen and dashes</a></li>
+                <li><a href="#wp4-1-1">Mot tout en majuscules</a></li>
+                <li><a href="#wp4-1-2">Titres et sous-titres</a></li>
+                <li><a href="#wp4-1-3">Listes d'éléments</a></li>
               </ul>
             </li>
-            <li><a href="#wp4-2">4.2 Underlining, bold and italics</a></li>
-            <li><a href="#wp4-3">4.3 Symbols</a></li>
-            <li><a href="#wp4-4">4.4 Abbreviations and acronyms</a>
+            <li><a href="#wp4-2">4.2 Soulignement, caractères gras et italique</a></li>
+            <li><a href="#wp4-3">4.3 Symboles</a></li>
+            <li><a href="#wp4-4">4.4 Abréviations, acronymes et référence</a>
               <ul>
-                <li><a href="#wp4-4-1">Latin abbreviations</a></li>
+                <li><a href="#wp4-4-1">Citer des exemples</a></li>
               </ul>
             </li>
-            <li><a href="#wp4-5">4.5 Contractions</a></li>
-            <li><a href="#wp4-6">4.6 Numbers</a></li>
-            <li><a href="#wp4-7">4.7 Dates </a></li>
-            <li><a href="#wp4-8">4.8 Times </a></li>
-            <li><a href="#wp4-9">4.9 Phone numbers </a></li>
-            <li><a href="#wp4-10">4.10 Addresses </a></li>
-            <li><a href="#wp4-11">4.11 Words and expressions in transition</a></li>
+            <li><a href="#wp4-5">4.5 Forme contractée</a></li>
+            <li><a href="#wp4-6">4.6 Nombres</a></li>
+            <li><a href="#wp4-7">4.7 Dates</a></li>
+            <li><a href="#wp4-8">4.8 Heures</a></li>
+            <li><a href="#wp4-9">4.9 Numéros de téléphone</a></li>
+            <li><a href="#wp4-10">4.10 Adresses</a></li>
           </ul>
         </div>
       </div>
     </div>
   </div>
-  <p>On the web, less is more. Keep style and punctuation simple. Formatting (such as bold, italics and underlining) and complex punctuation can be distracting and make reading difficult for many people.</p>
+  <p>Sur le Web, un style de présentation du contenu allégé est plus facile à lire. Simplifiez la présentation et évitez la ponctuation excessive ou complexe. Le formatage (tel que les caractères gras, l'italique ou le soulignement) et la ponctuation complexe peuvent distraire les lecteurs et nuire à la compréhension.</p>
   <section id="wp4-1">
-    <h3>4.1 Capitalization and punctuation</h3>
-    <p>Use these styles for capitalization and punctuation of content in text, links and applications.</p>
-    <p>Capitalize the main words of:</p>
-    <ul>
-      <li>titles of official publications (such as reports, frameworks, strategies and plans)</li>
-      <li>institution names</li>
-      <li>program names</li>
-      <li>titles of policy instruments</li>
-      <li>titles of legislation (in other words, acts and regulations)</li>
-      <li>Government of Canada</li>
-    </ul>
-    <p>Lowercase the short form of proper names.</p>
-    <h4>Example of proper names and their short forms</h4>
-    <p><strong>Full names</strong>: Agriculture and Agri-Food Canada, Canada Pension Plan, the Public Service of Canada<br>
-      <strong>Short form</strong>: the department, the plan, the public service</p>
-    <h5>All caps</h5>
-    <p>Don't capitalize all the letters in a word.</p>
-    <p><strong>Exceptions</strong></p>
-    <ul>
-      <li>Abbreviations (although avoid them unless they're necessary)</li>
-      <li>Military exercise or operation names (for example, Operation PROVISION)</li>
-    </ul>
+    <h3>4.1 Majuscules et ponctuation</h3>
+    <p>Ayez recours aux styles décrits ci-après pour les majuscules et la ponctuation dans les textes, les liens et les applications.</p>
     <section id="wp4-1-1">
-      <h4>Titles, headings and subheadings</h4>
-      <ul>
-        <li>Capitalize the first letter of the first word (sentence case) of all page titles, headings, subheadings, table captions and table headers</li>
-        <li>Capitalize proper nouns in page titles, headings and subheadings</li>
-        <li>Don't use punctuation at the end of page titles, headings and subheadings </li>
-      </ul>
+      <h4>Mot tout en majuscules</h4>
+      <p>Évitez d'écrire toutes les lettres d'un mot en majuscules.</p>
       <h5>Exceptions</h5>
       <ul>
-        <li>You may use punctuation at the end of page titles, headings and subheadings for campaign slogans </li>
-        <li>Only use question marks when asking for information in a form, wizard, survey or quiz</li>
+        <li>Abréviations (à utiliser seulement si nécessaire)</li>
+        <li>Noms d'exercices ou d'opérations militaires (par exemple, l'opération PROVISION)</li>
+        <li>Le nom de famille de l’auteur dans une notice bibliographique (NOM DE FAMILLE, Prénom.)</li>
       </ul>
-      <h5>Example of question marks being used in forms, wizards, surveys or quizzes</h5>
+    </section>
+    <section id="wp4-1-2">
+      <h4>Titres et sous-titres</h4>
+      <p>Omettez la ponctuation à la fin des titres, titres de sections, sous-titres, légendes et en-têtes de tableaux.</p>
+      <h5>Exceptions</h5>
+      <ul>
+        <li>Cette règle ne s'applique pas aux slogans.</li>
+        <li>Utilisez le point d'interrogation uniquement lorsqu'on demande aux gens de fournir des renseignements dans un formulaire, un questionnaire ou un sondage.</li>
+      </ul>
+      <h5>Exemple de point d'interrogation dans un formulaire, un questionnaire ou un sondage</h5>
       <figure class="mrgn-bttm-lg">
-        <figcaption class="text-center"> <strong>Figure 3</strong> </figcaption>
-        <img alt="A web page containing a heading with a question mark. Text version below:" class="img-responsive center-block" id="fig3" src="/style-guide/images/fig-03-eng.jpg">
+        <figcaption class="text-center"><strong>Figure 3</strong></figcaption>
+        <img alt="Une page Web contenant un sous-titre écrit sous forme de question." class="img-responsive center-block" id="fig3" src="/guide-redaction/images/fig-03-fra.jpg">
         <details class="brdr-tp brdr-rght brdr-bttm brdr-lft">
-          <summary class="wb-toggle" data-toggle="'{&quot;print&quot;:&quot;on&quot;}'"> Figure 3 - Text version </summary>
-          <p>A web page containing a heading with a question mark.</p>
+          <summary class="wb-toggle" data-toggle="'{&quot;print&quot;:&quot;on&quot;}'"> Figure 3 - Version textuelle</summary>
+          <p>Une page Web contenant un sous-titre écrit sous forme de question.</p>
           <ul>
-            <li>Title of page
+            <li>Titre de page
               <ul>
-                <li>Find out if you need to charge GST/HST</li>
+                <li>Déterminez si vous devez facturer la TPS/TVH</li>
               </ul>
             </li>
-            <li>Plain language summary of page
+            <li>Résumé de la page en langage clair et simple
               <ul>
-                <li>Answer a few questions to find out if you need to charge or collect the tax and register to get a GST/HST account number. Businesses with lower revenue and those that deal in certain goods and services might not need to charge tax.</li>
+                <li>Répondez à quelques questions afin de savoir si vous devez facturer ou percevoir la taxe et vous inscrire pour obtenir un numéro de compte de TPS/TVH. Les entreprises à faible revenu et celles qui offrent certains biens et services pourraient ne pas avoir à facturer la TPS/TVH.</li>
               </ul>
             </li>
-            <li>Heading
+            <li>Sous-titre
               <ul>
-                <li>Do you or your organization already have a GST/HST account?</li>
+                <li>Est-ce que vous ou votre organisation avez déjà un compte de TPS/TVH?</li>
               </ul>
             </li>
-            <li>2 clickable options
+            <li>2 choix de réponse à sélectionner
               <ul>
-                <li>Yes</li>
-                <li>No</li>
+                <li>Oui</li>
+                <li>Non</li>
               </ul>
             </li>
-            <li>Action button to continue process
+            <li>Bouton pour poursuivre la tâche
               <ul>
-                <li>Next</li>
+                <li>Suivant</li>
               </ul>
             </li>
           </ul>
         </details>
       </figure>
     </section>
-    <section id="wp4-1-2">
-      <h4>Lists</h4>
-      <ul>
-        <li>Avoid having more than 1 sentence in a single list item</li>
-        <li>Don't end the list items with any punctuation</li>
-      </ul>
-      <p>When list items are grammatically independent of each other or follow a heading, capitalize the first letter of each list&nbsp;item.</p>
-      <h5>Example of punctuation in independent list items</h5>
-      <p><strong>Most requested</strong></p>
-      <ul>
-        <li><a href="https://canadabusiness.ca/eng/page/2852/pof-191/">Financing your new business</a></li>
-        <li><a href="https://www.canadabusiness.ca/eng/page/2772/">Financing for innovation</a></li>
-        <li><a href="https://www.ic.gc.ca/eic/site/csbfp-pfpec.nsf/eng/h_la00007.html">Find a loan for your small business</a></li>
-        <li><a href="{{ site.urlcanadaca }}/en/employment-social-development/programs/job-grant/employers.html">Canada job grants for employers</a></li>
-      </ul>
-      <p class="mrgn-tp-lg">When the meaning of list items depends on a lead-in phrase, don't capitalize the first letter of each unless it's a proper name.</p>
-      <h5>Example of punctuation in interdependent list items preceded by a colon</h5>
-      <p>Representatives can be:</p>
-      <ul>
-        <li>citizenship or immigration consultants</li>
-        <li>lawyers</li>
-        <li>other representatives</li>
-      </ul>
-    </section>
     <section id="wp4-1-3">
-      <h4>Links</h4>
-      <p>Use lower case for a link in a sentence, unless the link contains a proper name.</p>
-    </section>
-    <section id="wp4-1-4">
-      <h4>Commas</h4>
-      <p>Remove unnecessary commas to make web content easier to read:</p>
+      <h4>Listes d'éléments</h4>
       <ul>
-        <li>avoid multiple commas in a sentence by breaking it up into a few shorter sentences</li>
-        <li>place a comma before "and" and "or" only if it will help people understand a list of items in a sentence</li>
+        <li>Évitez d'avoir plus d'une (1) phrase par élément.</li>
+        <li>Ne mettez pas de point d'exclamation ou d'interrogation après les éléments d'une liste.</li>
+      </ul>
+      <p>Lorsque les listes à puces forment des éléments distincts sur le plan grammatical ou si elles sont introduites par un sous-titre, mettez la première lettre de chaque élément en majuscule.</p>
+      <h5>Exemples de listes à puces indépendantes</h5>
+      <p><strong>En demande</strong></p>
+      <ul>
+        <li><a href="http://www.entreprisescanada.ca/fra/page/2852/pof-191/">Financement pour votre nouvelle entreprise</a></li>
+        <li><a href="http://www.entreprisescanada.ca/fra/page/2772/">Financement pour l'innovation</a></li>
+        <li><a href="http://www.ic.gc.ca/eic/site/csbfp-pfpec.nsf/fra/h_la00007.html">Trouvez un prêt pour votre entreprise</a></li>
+        <li><a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/subvention-emploi/employeurs.html">Subvention canadienne pour l'emploi&nbsp;: employeurs</a></li>
+      </ul>
+      <p class="mrgn-tp-lg">Lorsque le sens des éléments d'une liste à puces dépend d'une phrase d'introduction, mettez la première lettre de chaque élément en minuscule, sauf s'il s'agit d'un nom propre.</p>
+      <h5>Exemples d'une liste à puces dont le sens dépend d'une phrase d'introduction</h5>
+      <p>Les représentants peuvent être&nbsp;:</p>
+      <ul>
+        <li>des consultants en citoyenneté ou en immigration;</li>
+        <li>des avocats;</li>
+        <li>d'autres représentants.</li>
       </ul>
     </section>
-    <section id="wp4-1-5">
-      <h4>Hyphen and dashes</h4>
-      <p>Hyphens and dashes have different uses. They aren't interchangeable. Avoid using dashes:</p>
-      <ul>
-        <li>use a hyphen (-) to join words together</li>
-        <li>use "to" instead of the en dash (–) in a span or range of numbers, dates or time</li>
-        <li>use a comma (,) to emphasize or frame an idea instead of an em dash (—) </li>
-        <li>simplify your sentence instead of using em dashes</li>
-      </ul>
-    </section>
-    <h4>See how the rule for capitalization and punctuation applies in French</h4>
+    <h4>Voyez comment la règle sur les majuscules et la ponctuation s'applique à un contenu de langue anglaise</h4>
     <ul>
-      <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-1">4.1 Majuscules et ponctuation</a></span></li>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-1">4.1 Capitalization and punctuation</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for capitalization and punctuation", "title": "4.1 Capitalization and punctuation", "url": "https://design.canada.ca/style-guide/#wp4-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-1"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur les majuscules et la ponctuation", "title": "4.1 Majuscules et ponctuation", "url": "https://conception.canada.ca/guide-redaction/#wp4-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-1"}'></div>
     </div>
   </section>
-</section>
-<section id="wp4-2">
-  <h3>4.2 Underlining, bold and italics</h3>
-  <p>Formatting must support the most important information on the page.</p>
-  <p>Don't combine styles, like underlining and bold formatting, unless it's part of the hyperlinked text found on a topic page.</p>
-  <h4>Underlining</h4>
-  <p>Use underlining for links only.</p>
-  <h4>Bold</h4>
-  <p>Use bold for emphasis, <strong>but</strong> use it sparingly: the more you use it, the less effective it is.</p>
-  <h4>Italics</h4>
-  <p>People with dyslexia or other reading disorders may find it difficult to read italicized text.</p>
-  <p>Don't use italics:</p>
-  <ul>
-    <li>for design or decorative purposes</li>
-    <li>to emphasize a word or phrase (use bold sparingly instead)</li>
-    <li>for long passages of text, such as quotations</li>
-    <li>in page titles</li>
-  </ul>
-  <p>Follow <cite><a href="https://www.btb.termiumplus.gc.ca/tcdnstyl-chap?lang=eng&amp;lettr=chap_catlog&amp;info0=6#zz6">The Canadian Style</a></cite>'s rules for applying italics for the following:</p>
-  <ul>
-    <li>French and foreign words (article 6.03)</li>
-    <li>Latin terms and abbreviations (article 6.04)</li>
-    <li>titles of publications (including acts and legislation) and works of art (article 6.05)</li>
-    <li>legal references (article 6.06)</li>
-    <li>mathematical, statistical and scientific material (article 6.11)</li>
-  </ul>
-  <h4>See how the rule for bold, italics and underlining applies in French</h4>
-  <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-2">4.2 Soulignement, caractères gras et italique</a></span></li>
-  </ul>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for bold, italics and underlining", "title": "4.2 Underlining, bold and italics", "url": "https://design.canada.ca/style-guide/#wp4-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-2"}'></div>
-  </div>
-</section>
-<section id="wp4-3">
-  <h3>4.3 Symbols</h3>
-  <p>Some symbols make web content more difficult to read while others improve readability. Research whether they're understood by a wide audience before using them.</p>
-  <h4>Ampersand</h4>
-  <ul>
-    <li>Spell out the word "and" instead of using an ampersand (&amp;)</li>
-    <li>Use the ampersand only for proper names when it's part of a company name and in certain abbreviations, including:
-      <ul>
-        <li>R&amp;D (research and development)</li>
-        <li>O&amp;M (operating and maintenance)</li>
-      </ul>
-    </li>
-  </ul>
-  <h4>Percent</h4>
-  <ul>
-    <li>20% (not 20 percent)</li>
-    <li>A quarter or one quarter (not ¼)</li>
-    <li>Half (not ½)</li>
-  </ul>
-  <h4>Currency</h4>
-  <ul>
-    <li>$100 per month</li>
-  </ul>
-  <h4>See how the rule for symbols applies to content in French</h4>
-  <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-3">4.3 Symboles</a></span></li>
-  </ul>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for abbreviations and acronyms", "title": "4.3 Symboles", "url": "https://design.canada.ca/style-guide/#wp4-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-3"}'></div>
-  </div>
-</section>
-<section id="wp4-4">
-  <h3>4.4 Abbreviations and acronyms</h3>
-  <p>Don't use an abbreviation or acronym unless it's better known to the widest audience than its long-form equivalent. For example:</p>
-  <ul>
-    <li>EI</li>
-    <li>RCMP</li>
-    <li>T4</li>
-  </ul>
-  <h4>Research common keywords</h4>
-  <p>Check your analytics to find out what keywords your audiences are using to find your content.</p>
-  <p>If you have to use a multi-word term more than once on a web page, use the full term the first time you use it. For any further uses of the term:</p>
-  <ul>
-    <li>use a short form such as "the program" or "the plan," in lower case instead of repeating the full term or using an abbreviation</li>
-    <li>only use an abbreviation for a secondary reference if analytics data or usability testing determines that people often use and search for the abbreviation </li>
-  </ul>
-  <p>Always spell out an abbreviation the first time you use it on a page.&nbsp;</p>
-  <h4>Example of statements that avoid the use of abbreviations and acronyms</h4>
-  <p><strong>Write</strong>: There are 15 client contact centres across Canada.<br>
-    <strong>Instead of</strong>: There are 15 CCCs across Canada.</p>
-  <p><strong>Write</strong>: The&nbsp;act&nbsp;strengthens the Government of Canada's commitment to…<br>
-    <strong>Instead of</strong>: The&nbsp;EEA&nbsp;strengthens the Government of Canada's commitment to…</p>
-  <p>Include abbreviations that your audience uses in your metadata (for example, in the description field) to help search engines find your page more easily.</p>
-  <h4>Avoid abbreviations and acronyms by rethinking the content</h4>
-  <p>If your content contains a lot of abbreviations and acronyms, rethink its structure. Consider placing related content under distinct headings and sections.</p>
-  <p>For example, when introducing legal requirements, use the title of the act once, if necessary, and then talk about what people "must" do. The context will make it clear that the things they "must" do are requirements under the act. Don't use the abbreviation for the act, because it makes the text harder to follow.</p>
-  <p>Close the topic before referring to other obligations under different legislation.</p>
-  <section id="wp4-4-1">
-    <h4>Latin abbreviations</h4>
-    <p>Avoid using e.g. and i.e. Use clearer alternatives instead, for example:</p>
-    <p><strong>Write</strong>: for example, such as, or like<br>
-      <strong>Instead of</strong>: e.g.</p>
-    <p><strong>Write</strong>: that is, in other words<br>
-      <strong>Instead of</strong>: i.e.</p>
-    <p>You may use these abbreviations when space is limited, for example, in a table or a figure.</p>
-  </section>
-  <h4>See how the rule for abbreviations and acronyms applies in French</h4>
-  <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-4">4.4 Abréviations, acronymes et référence</a></span></li>
-  </ul>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for abbreviations and acronyms", "title": "4.4 Abbreviations and acronyms", "url": "https://design.canada.ca/style-guide/#wp4-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-4"}'></div>
-  </div>
-</section>
-<section id="wp4-5">
-  <h3>4.5 Contractions</h3>
-  <p>Use contractions that people use when they speak. They're easier to scan than the full form.</p>
-  <p>Use most positive contractions of auxiliary verbs. For example:</p>
-  <ul>
-    <li>you've (you have), you're (you are), you'll (you will) or you'd (you would)</li>
-    <li>we've (we have), we're (we are), we'll (we will) or we'd (we would)</li>
-  </ul>
-  <p>Use some negative contractions of auxiliary verbs. For example:</p>
-  <ul>
-    <li>can't (cannot)</li>
-    <li>don't (do not) or didn't (did not)</li>
-    <li>won't (will not)</li>
-    <li>isn't (is not)</li>
-    <li>weren't (were not) or wasn't (was not)</li>
-    <li>aren't (are not)</li>
-  </ul>
-  <p>Use, but don't confuse:</p>
-  <ul>
-    <li><strong>its</strong> (possessive) and <strong>it's</strong> (it is)</li>
-    <li><strong>they're</strong> (they are) and <strong>their</strong> (possessive)</li>
-  </ul>
-  <p>Uncommon or more complex contractions can be harder for people with low literacy skills to understand.</p>
-  <p>Don't use:</p>
-  <ul>
-    <li>should've (should have) or could've (could have)</li>
-    <li>shouldn't (should not), couldn't (could not) or wouldn't (would not)</li>
-    <li>mightn't (might not)</li>
-    <li>mustn't (must not)</li>
-    <li>it'll (it will)</li>
-  </ul>
-  <h4>Negative contractions: exceptions</h4>
-  <p>Don't<strong> </strong>use contractions when there is a <strong>critical</strong> difference between two things, for example, between doing and not doing something.</p>
-  <h5>Example of statements showing differences that are critical and not critical</h5>
-  <p><strong>Critical</strong>: Do <strong>not</strong> drive while taking this medicine.<br>
-    <strong>Not critical</strong>: Most people<strong> don't</strong> have reactions to the flu vaccine.</p>
-  <h4>See how the rule for contractions applies in French</h4>
-  <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-5">4.5 Forme contractée</a></span></li>
-  </ul>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for contractions", "title": "4.5 Contractions", "url": "https://design.canada.ca/style-guide/#wp4-5", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-5"}'></div>
-  </div>
-</section>
-<section id="wp4-6">
-  <h3>4.6 Numbers</h3>
-  <h4>General</h4>
-  <ul>
-    <li>Write numbers as numerals (0, 1, 2, 3, etc.), except in:
-      <ul>
-        <li>proper names (First Baptist Church) </li>
-        <li>titles (Three Men in a Boat)</li>
-        <li>figurative expressions (one day, things will be better)</li>
-      </ul>
-    </li>
-    <li>Keep Roman numerals when used in proper names (<cite>Canada Gazette</cite>, Part II)</li>
-    <li>Place a non-breaking space (Ctrl+Shift+Spacebar) between all numeral and word combinations ($5&nbsp;million,&nbsp;20 years) </li>
-    <li>Write first, second, third, and so on, up to and including ninth</li>
-    <li>Use the ordinal indicator in the same text size (not in superscript) for numbers 10 and above (10th, 50th, 150th) </li>
-    <li>Use "to" instead of an en dash in number ranges (for example, $4,000 to $10,000, 4 to 10 years)</li>
-  </ul>
-  <h4>Ages</h4>
-  <ul>
-    <li>Adults aged 30 or more </li>
-    <li>People 30 to 65 years old</li>
-    <li>A 10-year-old child</li>
-  </ul>
-  <h4>See how the rule for numbers applies in French</h4>
-  <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-6">4.6 Nombres</a></span></li>
-  </ul>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for nombres", "title": "4.6 Numbers", "url": "https://design.canada.ca/style-guide/#wp4-6", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-6"}'></div>
-  </div>
-</section>
-<section id="wp4-7">
-  <h3>4.7 Dates</h3>
-  <ul>
-    <li>Write dates without an ordinal indicator ("st," "nd," "rd," "th") </li>
-  </ul>
-  <p class="mrgn-lft-lg"><strong>Write</strong>: July&nbsp;31, 2016, or just July&nbsp;31 if the year is already clear<br>
-    <strong>Instead of</strong>: July&nbsp;31st, 2016, or July&nbsp;31st</p>
-  <ul>
-    <li>Use non-breaking spaces between the month and the day </li>
-    <li>Use the numeric date format <strong>only</strong> when space is limited (for example, in a table)
-      <ul>
-        <li>write yyyy-mm-dd</li>
-        <li>explain the format in surrounding text (for example, notes, legends)</li>
-      </ul>
-    </li>
-    <li>Capitalize the first letter of the month (for example, January, February, March)</li>
-    <li>Abbreviate month names when space is limited (for example, Jan, Feb, Mar)</li>
-  </ul>
-  <h4>Date ranges</h4>
-  <ul>
-    <li>Use "to" instead of an en dash in date ranges. For example:
-      <ul>
-        <li>calendar year 2014</li>
-        <li>Monday to Friday</li>
-        <li>March 29 to April 4</li>
-        <li>fiscal year 2015 to 2016</li>
-        <li>January to March 2016 (instead of Q1, Q2, Q3 or Q4)</li>
-      </ul>
-    </li>
-    <li>For date ranges like fiscal years, explain what period the range covers in surrounding text. For example:
-      <ul>
-        <li>This report covers the 2015 to 2016 fiscal year. A fiscal year runs from April 1 to March 31.</li>
-      </ul>
-    </li>
-  </ul>
-  <h4>See how the rule for dates applies in French</h4>
-  <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-7">4.7 Dates</a></span></li>
-  </ul>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for dates", "title": "4.7 Dates", "url": "https://design.canada.ca/style-guide/#wp4-7", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-7"}'></div>
-  </div>
-</section>
-<section id="wp4-8">
-  <h3>4.8 Times</h3>
-  <ul>
-    <li>4:30&nbsp;pm</li>
-    <li>9&nbsp;am to 5&nbsp;pm</li>
-  </ul>
-  <h4>See how the rule for times applies in French</h4>
-  <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-7">4.8 Heures</a></span></li>
-  </ul>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for dates", "title": "4.8 Times", "url": "https://design.canada.ca/style-guide/#wp4-8", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-8"}'></div>
-  </div>
-</section>
-<section id="wp4-9">
-  <h3>4.9 Phone numbers</h3>
-  <p>Use non-breaking hyphens (Ctrl+Shift+Hyphen) in phone numbers. For example:</p>
-  <ul>
-    <li>if you need help, call 1-800-622-6232</li>
-    <li>613-999-9900 ext.&nbsp;123</li>
-  </ul>
-  <h4>See how the rule for phone numbers applies in French</h4>
-  <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-9">4.9 Numéros de téléphone</a></span></li>
-  </ul>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for phone numbers", "title": "4.9 Phone numbers", "url": "https://design.canada.ca/style-guide/#wp4-9", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-9"}'></div>
-  </div>
-</section>
-<section id="wp4-10">
-  <h3>4.10 Addresses</h3>
-  <section id="wp4-10-1">
-    <h4>Mailing addresses</h4>
+  <section id="wp4-2">
+    <h3>4.2 Soulignement, caractères gras et italique</h3>
+    <p>Le style de présentation doit faire ressortir les renseignements les plus importants sur la page Web.</p>
+    <p>Ne combinez pas les styles, comme le soulignement et les caractères gras, sauf s'il s'agit du texte en hyperlien sur une page de sujet.</p>
+    <h4>Soulignement</h4>
+    <p>Utilisez le soulignement seulement pour les liens.</p>
+    <h4>Caractères gras</h4>
+    <p>Utilisez les caractères gras pour mettre du texte en évidence, <strong>mais</strong> utilisez-les avec modération: plus vous faites usage de cette mise en forme, moins elle est efficace.</p>
+    <h4>Italique</h4>
+    <p>Les personnes qui ont une dyslexie ou d'autres troubles de lecture pourraient avoir de la difficulté à lire un texte en italique.</p>
+    <p>N'utilisez pas l'italique&nbsp;:</p>
     <ul>
-      <li>Abbreviate street types, street direction and province or territory</li>
-      <li>Use the <a href="https://www.canadapost.ca/tools/pg/manual/PGaddress-e.asp#1442131">correct abbreviations for provinces and territories</a></li>
-      <li>Insert 2 spaces between the province or territory abbreviation and the postal code</li>
-      <li>Use uppercase to write the letters in the postal code</li>
-      <li>Don't use punctuation except for a hyphen between the unit designator and the civic number</li>
+      <li>à des fins de mise en page ou de décoration;</li>
+      <li>pour faire ressortir un mot ou une phrase (utilisez plutôt les caractères gras avec modération);</li>
+      <li>pour de longs passages, des citations, par exemple;</li>
+      <li>dans les titres de page.</li>
     </ul>
-    <p>[Organization name or person name]<br>
-      [Additional delivery information]<br>
-      [Suite or office]-[Civic number] [Street name] [Abbreviated street type] [Abbreviated street direction]<br>
-      [City] [Two-letter province or territory abbreviation] [Postal code]</p>
-    <h4>Example of a mailing address.</h4>
-    <p>Integrity Regime<br>
-      Departmental Oversight Branch<br>
-      Public Services and Procurement Canada<br>
-      Portage III Tower A 10A1 <br>
-      105-11 Laurier St<br>
-      Gatineau QC&nbsp;&nbsp;K1A 0S5</p>
-  </section>
-  <section id="wp4-10-2">
-    <h4>Email addresses</h4>
-    <p>Spell out email addresses instead of embedding them within your text.</p>
-    <p><strong>Write</strong>:</p>
+    <p>Consultez <cite><a href="http://www.btb.termiumplus.gc.ca/tpv2guides/guides/redac/index-fra.html?lang=fra">Le guide du rédacteur</a></cite> dans les cas suivants&nbsp;:</p>
     <ul>
-      <li>Please submit your request by email to <a href="mailto:abcxyz@canada.ca">abcxyz@canada.ca</a>.</li>
-      <li>Please submit your request by email: <a href="mailto:abcxyz@canada.ca">abcxyz@canada.ca</a>.</li>
+      <li>les titres de livres, de journaux, de revues et d'œuvres d'art (article 5.2.1);</li>
+      <li>les titres de lois (article 5.2.2);</li>
+      <li>les mots ou abréviations en latin (article 5.3.3);</li>
+      <li>les mots en langue étrangère (article 5.3.4);</li>
+      <li>les lettres de l'alphabet (article 5.4.1).</li>
     </ul>
-    <p><strong>Instead of</strong>: <a href="mailto:abcxyz@canada.ca">Email us</a> to submit a request.</p>
+    <h4>Voyez comment la règle sur les caractères gras, l'italique et le soulignement s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-2">4.2 Underlining, bold and italics</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur les caractères gras, l&#8217;italique et le soulignement", "title": "4.2 Soulignement, caractères gras et italique", "url": "https://conception.canada.ca/guide-redaction/#wp4-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-2"}'></div>
+    </div>
   </section>
-  <h4>See how the rule for addresses applies in French</h4>
+  <section id="wp4-3">
+    <h3>4.3 Symboles</h3>
+    <p>Certains symboles rendent le contenu Web difficile à lire tandis que d'autres améliorent la lisibilité du texte. Faites vos recherches pour déterminer si un large public peut comprendre le symbole avant de l'utiliser.</p>
+    <h4>Perluète</h4>
+    <p>Utilisez l'esperluette (&amp;) seulement pour des noms propres lorsqu'elle fait partie du nom de la société</p>
+    <h4>Pourcentage</h4>
+    <ul>
+      <li>20 % (et non 20 pour cent, 20&nbsp;p.&nbsp;100 ou 20 pour cent)</li>
+      <li>un quart (et non ¼)</li>
+      <li>la moitié (et non ½)</li>
+    </ul>
+    <h4>Unité monétaire</h4>
+    <ul>
+      <li>100 $ par mois</li>
+    </ul>
+    <h4>Voyez comment la règle sur les symboles s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-3">4.3 Symbols</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur les symboles", "title": "4.3 Symboles", "url": "https://conception.canada.ca/guide-redaction/#wp4-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-3"}'></div>
+    </div>
+  </section>
+  <section id="wp4-4">
+    <h3>4.4 Abréviations, acronymes et référence</h3>
+    <p>N'utilisez pas une abréviation, un acronyme ou un sigle, sauf s'il est mieux connu du grand public que le mot dans sa forme au long. Par exemple&nbsp;:</p>
+    <ul>
+      <li>REER</li>
+      <li>CELI</li>
+      <li>T4</li>
+    </ul>
+    <h4>Cherchez des mots-clés courants</h4>
+    <p>Consultez vos données d'analyse pour savoir quels mots-clés votre public cible utilise pour trouver votre contenu.</p>
+    <p>Si un terme formé de plusieurs mots revient plus d'une fois dans une page Web, écrivez-le au long la première fois qu'il figure sur la page. Lorsque vous y faites référence par la suite&nbsp;:</p>
+    <ul>
+      <li>écrivez &laquo;&nbsp;le programme&nbsp;&raquo;, &laquo;&nbsp;le plan&nbsp;&raquo;, &laquo;&nbsp;le fonds&nbsp;&raquo;, etc., avec une lettre initiale minuscule, au lieu de répéter le terme en toutes lettres ou d'utiliser son acronyme ou une abréviation;</li>
+      <li>employez une abréviation comme référence secondaire seulement si les données d'analyse ou les tests d'utilisation révèlent qu'elle est bien connue et couramment utilisée comme mot-clé dans les moteurs de recherche.</li>
+    </ul>
+    <p>Il faut toujours écrire une abréviation au long la première fois que vous l'utilisez sur une page Web.</p>
+    <h4>Exemples d'énoncés sans abréviation ni acronyme</h4>
+    <p><strong>Écrivez</strong>&nbsp;: Il y a 15 centres de contact avec la clientèle dans l'ensemble du Canada.<br>
+      <strong>Au lieu de</strong>&nbsp;: Il y a 15 CCC dans l'ensemble du Canada.</p>
+    <p><strong>Écrivez</strong>&nbsp;: La loi consolide l'engagement du gouvernement du Canada…<br>
+      <strong>Au lieu de</strong>&nbsp;: La LCALE consolide l'engagement du gouvernement du Canada...</p>
+    <p>Ajoutez les abréviations connus de vos publics cibles dans vos métadonnées (comme dans le champ de la métabalise Description) pour que les moteurs de recherche repèrent plus facilement votre page Web.</p>
+    <h4>Évitez les abréviations et acronymes en repensant le contenu</h4>
+    <p>Si votre texte compte de nombreuses abréviations ou plusieurs acronymes, repensez la structure du contenu. Envisagez de grouper les parties du contenu liées entre elles sous des rubriques et des sections distinctes.</p>
+    <p>Par exemple, lorsque vous énoncez des obligations juridiques, citez la loi une fois (au besoin), puis expliquez ce que la personne doit faire pour se conformer à cette loi. En raison du contexte, la personne saura que si elle doit faire quelque chose, c'est que la loi l'exige. N'utilisez pas l'acronyme de la loi. Il rend le texte plus difficile à lire.</p>
+    <p>Assurez-vous que le sujet est clos avant de mention d'autres lois et obligations juridiques.</p>
+    <section id="wp4-4-1">
+      <h4>Citer des exemples</h4>
+      <p>Évitez d'utiliser les abréviations &laquo;&nbsp;p. ex.&nbsp;&raquo; et &laquo;&nbsp;c.-à-d.&nbsp;&raquo;. Choisissez des options plus claires&nbsp;:</p>
+      <p><strong>Écrivez</strong>&nbsp;: par exemple, tel que ou comme<br>
+        <strong>Au lieu de</strong>&nbsp;: p. ex.&nbsp;</p>
+      <p><strong>Écrivez</strong>&nbsp;: c'est-à-dire <br>
+        <strong>Au lieu de</strong>&nbsp;: c.-à-d.&nbsp;</p>
+      <p>Vous pouvez utiliser ces abréviations quand l'espace est restreint (par exemple, dans un tableau ou dans un schéma).</p>
+    </section>
+    <h4>Voyez comment la règle sur les abréviations et les acronymes s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-4">4.4 Abbreviations and acronyms</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur les symboles", "title": "4.4 Abréviations, acronymes et référence", "url": "https://conception.canada.ca/guide-redaction/#wp4-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-4"}'></div>
+    </div>
+  </section>
+  <section id="wp4-5">
+    <h3>4.5 Forme contractée</h3>
+    <p>Cette règle s’applique en anglais plutôt qu’en français. La forme contractée en français s’applique par défaut. En anglais, elle est facultative, mais elle est recommandée pour simplifier la lecture.</p>
+    <h4>Voyez comment la règle de Forme contractée s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-5">4.5 Contractions</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle de Forme contractée", "title": "4.5 Forme contractée", "url": "https://conception.canada.ca/guide-redaction/#wp4-5", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-5"}'></div>
+    </div>
+  </section>
+  <section id="wp4-6">
+    <h3>4.6 Nombres</h3>
+    <h4>Principes généraux</h4>
+    <ul>
+      <li>Écrivez les nombres en chiffres arabes (0, 1, 2, 3), sauf s'ils se trouvent dans&nbsp;:
+        <ul>
+          <li>un nom propre (la ville de Trois-Rivières);</li>
+          <li>un titre (Trois Hommes dans un bateau);</li>
+          <li>une expression (un jour, tout ira mieux).</li>
+        </ul>
+      </li>
+      <li>Conservez les chiffres romains pour les noms propres (la partie II de la <cite>Loi sur la pension dans la fonction publique</cite>).</li>
+      <li>Jumelez le chiffre et le mot qui désigne un grand nombre, et insérez une espace insécable (Ctrl+Shift+barre Espace) entre les deux (5 millions, 20 ans).</li>
+      <li>Écrivez &laquo;&nbsp;premier&nbsp;&raquo;, &laquo;&nbsp;deuxième&nbsp;&raquo;, &laquo;&nbsp;troisième&nbsp;&raquo; et ainsi de suite jusqu'à &laquo;&nbsp;neuvième&nbsp;&raquo;.</li>
+      <li>Écrivez l'exposant dans la même taille de police pour&nbsp;:
+        <ul>
+          <li>le premier jour du mois (1er décembre);</li>
+          <li>les adjectifs numéraux au-delà de 10 (10e, 50e, 150e).</li>
+        </ul>
+      </li>
+      <li>Utilisez &laquo;&nbsp;de…&nbsp;à…&nbsp;&raquo; et &laquo;&nbsp;entre… et…&nbsp;&raquo; plutôt qu'un tiret pour désigner une échelle de chiffres (par exemple, de 4&nbsp;000&nbsp;$ à 10&nbsp;000&nbsp;$ ou entre 4 et 10 ans).</li>
+      <li>Il n'est pas nécessaire de répéter l'abréviation ou le symbole si une espace le sépare du chiffre (par exemple, de 3 à 6 ml, de 10 à 12 %).</li>
+    </ul>
+    <h4>Âges</h4>
+    <ul>
+      <li>Adultes âgés de 30 ans et plus</li>
+      <li>Les enfants âgés de 0 à 10 ans (et non &laquo;&nbsp;0–10 ans&nbsp;&raquo;)</li>
+      <li>Les participants ont entre 0 et 10 ans</li>
+    </ul>
+    <h4>Voyez comment la règle sur le style de présentation des nombres s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-6">4.6 Numbers</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le style de présentation des nombres", "title": "4.6 Nombres", "url": "https://conception.canada.ca/guide-redaction/#wp4-6", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-6"}'></div>
+    </div>
+  </section>
+  <section id="wp4-7">
+    <h3>4.7 Dates</h3>
+    <ul>
+      <li>Écrivez &laquo;&nbsp;31 juillet 2016&nbsp;&raquo; ou &laquo;&nbsp;31 juillet&nbsp;&raquo; si l'année est déjà clairement indiquée;
+        <ul>
+          <li>ne mettez pas de virgule entre la date et l'année (par exemple, 31 juillet 2016).</li>
+        </ul>
+      </li>
+      <li>Insérez une espace insécable entre le jour et le mois.</li>
+      <li>Utilisez le format numérique pour les dates seulement si l'espace est restreint (par exemple, dans un tableau);
+        <ul>
+          <li>écrivez aaaa-mm-jj;</li>
+          <li>clarifiez ce que le format représente dans le texte qui l'accompagne (par exemple, dans les notes ou la légende).</li>
+        </ul>
+      </li>
+      <li>Abrégez les noms de mois uniquement si l'espace est restreint (par exemple, janv., févr., avr.).</li>
+    </ul>
+    <h4>Périodes de temps</h4>
+    <ul>
+      <li>Utilisez &laquo;&nbsp;de… à…&nbsp;&raquo;, &laquo;&nbsp;du… au…&nbsp;&raquo; et &laquo;&nbsp;entre… et…&nbsp;&raquo; plutôt qu'un tiret pour désigner une période de temps. Par exemple&nbsp;:
+        <ul>
+          <li>année civile 2014;</li>
+          <li>du lundi au vendredi;</li>
+          <li>du 29 mars au 4 avril;</li>
+          <li>de janvier à mars 2016 (au lieu de T1, T2, T3, T4);</li>
+          <li>exercice 2015 à 2016.</li>
+        </ul>
+      </li>
+      <li>Pour les périodes de temps comme les exercices financiers, expliquez dans le texte qui l'accompagne à quoi correspond cette période. Par exemple&nbsp;:
+        <ul>
+          <li>Ce rapport couvre l'exercice 2015 à 2016. Un exercice financier s'étend du 1er avril au 31 mars.</li>
+        </ul>
+      </li>
+    </ul>
+    <h4>Voyez comment la règle sur style de présentation des dates s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-7">4.7 Dates</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le style de présentation des nombres", "title": "4.7 Dates", "url": "https://conception.canada.ca/guide-redaction/#wp4-7", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-7"}'></div>
+    </div>
+  </section>
+  <section id="wp4-8">
+    <h3>4.8 Heures</h3>
+    <ul>
+      <li>16 h 30</li>
+      <li>De 9 h à 17 h</li>
+    </ul>
+    <h4>Voyez comment la règle sur le style de présentation des heures s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-8">4.8 Times</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le style de présentation des heures", "title": "4.8 Heures", "url": "https://conception.canada.ca/guide-redaction/#wp4-8", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-8"}'></div>
+    </div>
+  </section>
+  <section id="wp4-9">
+    <h3>4.9 Numéros de téléphone</h3>
+    <p>Utilisez des tirets insécables (Ctrl+Shift+Tiret) pour les numéros de téléphone. Par exemple&nbsp;:</p>
+    <ul>
+      <li>pour obtenir de l'aide, composez le 1-800-622-6232</li>
+      <li>vous pouvez nous joindre au 819-123-4567</li>
+      <li>613-999-9900 poste 123</li>
+    </ul>
+    <h4>Voyez comment la règle sur le style de présentation numéros de téléphone s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-9">4.9 Phone numbers</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le style de présentation des numéros de téléphone", "title": "4.9 Numéros de téléphone", "url": "https://conception.canada.ca/guide-redaction/#wp4-9", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-9"}'></div>
+    </div>
+  </section>
+  <section id="wp4-10">
+    <h3>4.10 Adresses</h3>
+    <section id="wp4-10-1">
+      <h4>Adresses postales</h4>
+      <ul>
+        <li>Abrégez le type de rue et l'orientation de la rue.</li>
+        <li>Utilisez l'<a href="https://www.canadapost.ca/tools/pg/manual/PGaddress-f.asp#1378384">indicatif à deux lettres pour désigner la province ou le territoire</a>.</li>
+        <li>Insérez 2 espaces entre l'abréviation de la province ou du territoire et le code postal.</li>
+        <li>Écrivez le code postal avec des lettres en majuscules.</li>
+        <li>N'utilisez aucune ponctuation, sauf un trait d'union entre le numéro d'unité ou de bureau et le numéro municipal.</li>
+      </ul>
+      <p>[Nom de l'organisation ou de la personne] <br>
+        [Renseignements supplémentaires] <br>
+        [Unité ou bureau]-[Numéro municipal] [Type de rue abrégé] [Nom de la rue] [Orientation de la rue abrégée]<br>
+        [Ville] [Indicatif à deux lettres de la province ou territoire]&nbsp; [Code postal]</p>
+      <h5>Exemple d'une adresse postale</h5>
+      <p>Intégrité<br>
+        Direction générale de la surveillance<br>
+        Services publics et approvisionnement Canada<br>
+        Portage III Tour A 10A1<br>
+        105-11 rue Laurier<br>
+        Gatineau QC&nbsp; K1A 0S5</p>
+    </section>
+    <section id="wp4-10-2">
+      <h4>Adresses de courriel</h4>
+      <p>Écrivez les adresses de courriel au long au lieu de les intégrer dans le contenu.</p>
+      <p><strong>Écrivez</strong>&nbsp;:</p>
+      <ul>
+        <li>Veuillez soumettre votre demande par courriel à <a href="mailto:abcxyz@canada.ca">abcxyz@canada.ca</a>.</li>
+        <li>Pour soumettre votre demande par courriel&nbsp;: <a href="mailto:abcxyz@canada.ca">abcxyz@canada.ca</a>.</li>
+      </ul>
+      <p><strong>Au lieu de</strong>&nbsp;: <a href="mailto:abcxyz@canada.ca">Contactez-nous par courriel</a> pour soumettre votre demande.</p>
+    </section>
+  </section>
+  <h4>Voyez comment la règle sur le style de présentation de Adresses s'applique à un contenu de langue anglaise</h4>
   <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-10">4.10 Adresses</a></span></li>
+    <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-10">4.10 Addresses</a></span></li>
   </ul>
   <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rules for addresses", "title": "4.10 Addresses", "url": "https://design.canada.ca/style-guide/#wp4-10", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-10"}'></div>
-  </div>
-</section>
-<section id="wp4-11">
-  <h3>4.11 Words and expressions in transition</h3>
-  <p>Words and expressions in transition are those written commonly in 2 or more different ways. Reduce confusion by using the following spellings:</p>
-  <ul>
-    <li>website (not "web site")</li>
-    <li>web page (not "webpage")</li>
-    <li>web (not "Web")</li>
-    <li>email (not "e-mail")</li>
-    <li>online (not "on line")</li>
-  </ul>
-  <h4>See how the rule for words and expressions in transition applies in French</h4>
-  <p>This rule doesn't apply to content in French.</p>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for words and expressions in transition", "title": "4.11 Words and expressions in transition", "url": "https://design.canada.ca/style-guide/#wp4-11", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-11"}'></div>
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le style de présentation des nombres", "title": "4.10 Adresses", "url": "https://conception.canada.ca/guide-redaction/#wp4-10", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-10"}'></div>
   </div>
 </section>
 <section id="toc9">
-  <h2>5.0 Content structure</h2>
+  <h2>5.0 Structure du contenu</h2>
   <div class="row mrgn-tp-lg">
     <div class="col-md-8">
       <div class="panel panel-default">
         <div class="panel-body">
-          <h3 class="mrgn-tp-sm">In this section</h3>
-          <ul class="list-unstyled">
-            <li><a href="#wp5-1">5.1 Write useful page titles and headings</a>
+          <h3 class="mrgn-tp-sm">Dans cette section</h3>
+          <ul>
+            <li><a href="#wp5-1">5.1 Rédiger des titres et sous-titres de page descriptifs</a>
               <ul>
-                <li><a href="#wp5-1-1">Make the page title unique</a></li>
-                <li><a href="#wp5-1-2">Use a page title, headings and subheadings to show structure</a></li>
+                <li><a href="#wp5-1-1">Privilégier un ton et un temps de verbe neutre pour les titres et sous-titres</a></li>
+                <li><a href="#wp5-1-2">Donner un titre unique à la page</a></li>
+                <li><a href="#wp5-1-3">Utiliser le titre et les sous-titres de la page pour mettre sa structure en évidence</a></li>
               </ul>
             </li>
-            <li><a href="#wp5-2">5.2 Use lists to help people scan </a>
+            <li><a href="#wp5-2">5.2 Utiliser des listes d'éléments pour aider les gens à survoler le texte</a>
               <ul>
-                <li><a href="#wp5-2-1">Lead-in sentence</a></li>
-                <li><a href="#wp5-2-2">Numbered lists</a></li>
-                <li><a href="#wp5-2-3">Bulleted lists</a></li>
-                <li><a href="#wp5-2-4">Alphabetical lists</a></li>
+                <li><a href="#wp5-2-1">Phrase d'introduction</a></li>
+                <li><a href="#wp5-2-2">Listes numérotées</a></li>
+                <li><a href="#wp5-2-3">Listes à puces</a></li>
+                <li><a href="#wp5-2-4">Listes alphabétiques</a></li>
               </ul>
             </li>
-            <li><a href="#wp5-3">5.3 Use tables to organize data</a>
+            <li><a href="#wp5-3">5.3 Utiliser des tableaux pour organiser des données</a>
               <ul>
-                <li><a href="#wp5-3-1">Use column and row headers</a></li>
-                <li><a href="#wp5-3-2">Use the simplest structure possible</a></li>
-                <li><a href="#wp5-3-3">Limit the use of texture and colour</a></li>
-                <li><a href="#wp5-3-4">Avoid having blank cells</a></li>
+                <li><a href="#wp5-3-1">Inclure des en-têtes de colonne et de rangée</a></li>
+                <li><a href="#wp5-3-2">Utiliser la structure de tableau la plus simple possible</a></li>
+                <li><a href="#wp5-3-3">Éviter les cellules texturées ou colorées</a></li>
+                <li><a href="#wp5-3-4">Éviter les cellules vides</a></li>
               </ul>
             </li>
           </ul>
@@ -1203,720 +1095,715 @@ title: "Canada.ca Content Style Guide"
       </div>
     </div>
   </div>
-  <p>The structure and layout of content components help people find what they need quickly. Content components include:</p>
+  <p>La structure et la disposition des éléments du contenu aident les gens à trouver rapidement ce qu'ils cherchent. Les éléments de contenu comprennent&nbsp;:</p>
   <ul>
-    <li>page title &nbsp;</li>
-    <li>headings</li>
-    <li>lists </li>
-    <li>tables</li>
+    <li>le titre de la page;</li>
+    <li>les titres de sections;</li>
+    <li>les listes verticales;</li>
+    <li>les tableaux.</li>
   </ul>
-  <h3>On a web page</h3>
-  <p>Make sure you:</p>
+  <h3>Structurer le contenu dans une page Web</h3>
+  <p>Assurez-vous&nbsp;:</p>
   <ul>
-    <li>divide the page into logical sections to give an overview of the information it contains</li>
-    <li>focus on the task and show only the information people need to complete the task</li>
+    <li>de subdiviser la page en sections logiques pour donner un aperçu de l'information qu'elle contient;</li>
+    <li>d'organiser la page en fonction d'une tâche en affichant seulement les renseignements dont les gens ont besoin pour accomplir cette tâche.</li>
   </ul>
-  <p>Structure the content components efficiently to make your page:</p>
+  <p>Structurez efficacement les éléments du contenu afin que votre page soit plus&nbsp;:</p>
   <ul>
-    <li>more visible to search engines and easier to find</li>
-    <li>easier to view on mobile devices</li>
+    <li>visible pour les moteurs de recherche et plus facile à trouver;</li>
+    <li>facile à voir sur les appareils mobiles.</li>
   </ul>
-  <h3>Across multiple web pages</h3>
-  <p>Think about how a person will journey through the content. If:</p>
+  <h3>Structurer le contenu sur plusieurs pages Web</h3>
+  <p>Pensez à la démarche de la personne lorsqu'elle parcourt votre texte. Si&nbsp;:</p>
   <ul>
-    <li>your web page content covers too many topics, you might need to divide it into several pages</li>
-    <li>several web pages contain pieces of content that relate to the same subject, consider combining them into a single page</li>
+    <li>votre page Web aborde trop de sujets, il est possible qu'il soit plus approprié de la diviser en plusieurs pages;</li>
+    <li>plusieurs de vos pages Web renferment du contenu lié au même sujet, envisagez de les combiner en une seule page.</li>
   </ul>
   <section id="wp5-1">
-    <h3>5.1 Write useful page titles and headings</h3>
-    <p>In your page title, accurately describe what's on the page. A descriptive page title is important because search engines often display the title without the context that the rest of the page provides.</p>
-    <p>Most people scan page titles and headings, looking for keywords that will confirm that they have found what they're looking for. People who use assistive technology may listen for keywords using software or may use keyboard shortcuts to access all the headings on a page.</p>
-    <p>When writing a page title, heading or subheading, make sure that it:</p>
+    <h3>5.1 Rédiger des titres et sous-titres de page descriptifs</h3>
+    <p>Assurez-vous que votre titre de page décrit bien ce que la page contient. Un titre descriptif est important parce que les moteurs de recherche affichent souvent le titre sans contexte dans la liste des résultats de recherche.</p>
+    <p>La plupart des gens survolent les titres de page et les sous-titres pour repérer des mots-clés qui confirment qu'ils ont trouvé le contenu recherché.</p>
+    <p>Les personnes qui utilisent les technologies d'aide peuvent se servir d'un logiciel pour entendre les mots clés ou utiliser les raccourcis du clavier pour accéder à tous les titres de la page.</p>
+    <p>Lorsque vous rédigez un titre de page ou un sous-titre, assurez-vous que le titre&nbsp;:</p>
     <ul>
-      <li>gives a clear idea of what follows </li>
-      <li>is short and contains no unnecessary words </li>
-      <li>contains the most relevant terms at the beginning </li>
-      <li>makes sense on its own</li>
-      <li>is followed by text and not by another heading, unless the heading introduces a table of contents on the same page </li>
-      <li>has no punctuation at the end</li>
-      <li>contains no abbreviation unless the audience knows it better than it knows its long-form equivalent </li>
-      <li>contains no promotional messaging (boastful, subjective claims) because it might confuse and stop people from navigating to the page </li>
+      <li>décrit clairement le sujet traité dans le texte qui suit;</li>
+      <li>est bref, sans mots superflus (si possible, omettez l'article en début de titre ou de sous-titre);</li>
+      <li>introduit les termes les plus pertinents au début;</li>
+      <li>conserve son sens, même hors contexte;</li>
+      <li>est suivi d'un texte et non d'un autre titre de section, sauf s'il introduit une liste des sections de la page;</li>
+      <li>ne se termine pas par un signe de ponctuation;</li>
+      <li>n'inclut pas d'abréviation, sauf si elle est mieux connue du public cible que l'appellation au long;</li>
+      <li>n'inclut pas de message promotionnel (comme une affirmation subjective) puisqu'il pourrait être déroutant pour les gens et faire en sorte qu'ils cessent de naviguer jusqu'à la page.</li>
     </ul>
     <section id="wp5-1-1">
-      <h4>Make the page title unique</h4>
-      <p>Most search engines identify relevant search results based on:</p>
-      <ul>
-        <li>page title </li>
-        <li>headings </li>
-        <li>subheadings</li>
-      </ul>
-      <p>They display the page title as a link on the results page.</p>
-      <p>Unique page titles help search engines tell the difference between similar pages. They also help ensure that people don't need to look at many pages with the same name to find the information they need.</p>
-      <p>Check whether your page title is unique by using a search engine. Search for the title of the page followed by "site:" and the domain extension (for example, "food&nbsp;safety&nbsp;site:gc.ca" or "food&nbsp;safety&nbsp;site:canada.ca").</p>
+      <h4>Privilégier un ton et un temps de verbe neutre pour les titres et sous-titres</h4>
+      <p>Privilégiez un ton neutre et l'utilisation de l'infinitif lorsque vous rédigez des titres et des sous-titres.</p>
     </section>
     <section id="wp5-1-2">
-      <h4>Use a page title, headings and subheadings to show structure</h4>
-      <p>The page title, headings and subheadings help people find information on the screen easily. Use headings to divide text into logical sections approximately every 200 words.</p>
-      <p>Structuring headings clearly helps establish the authority of one heading over another.</p>
-      <p>For the page <strong>title</strong>:</p>
+      <h4>Donner un titre unique à votre page</h4>
+      <p>La plupart des moteurs de recherche repèrent les résultats pertinents selon:</p>
       <ul>
-        <li>use this style: Heading 1</li>
-        <li>apply a Heading 1 only once per page </li>
+        <li>le titre de page;</li>
+        <li>les titres de sections;</li>
+        <li>les sous-titres.</li>
       </ul>
-      <p>For the <strong>main sections</strong>:</p>
+      <p>Ils affichent le titre de page sous forme de lien dans la page de résultats.</p>
+      <p>Les titres de page uniques permettent aux moteurs de recherche de faire une distinction entre diverses pages similaires. Ils font également en sorte que les gens n'aient pas à examiner de nombreuses pages du même nom pour trouver l'information requise.</p>
+      <p>Vous pouvez utiliser un moteur de recherche pour vérifier si votre titre de page est unique en inscrivant le titre de la page, suivi de &laquo;&nbsp;site:» ainsi que du nom de domaine (par exemple, &laquo;&nbsp;salubrité des aliments site:gc.ca&nbsp;&raquo; ou, &laquo;&nbsp;salubrité des aliments site:canada.ca&nbsp;&raquo;).</p>
+    </section>
+    <section id="wp5-1-3">
+      <h4>Utiliser le titre et les sous-titres de la page pour mettre sa structure en évidence</h4>
+      <p>Le titre de page, les titres de sections et les sous-titres de votre contenu Web aident les gens à trouver facilement des renseignements à l'écran. Utilisez des titres pour diviser le texte en sections logiques à environ tous les 200 mots.</p>
+      <p>Structurer les titres clairement aide à établir l'autorité d'un titre par rapport à un autre.</p>
+      <p>Pour le <strong>titre</strong> de page:</p>
       <ul>
-        <li>use this style: Heading 2</li>
-        <li>can appear many times</li>
+        <li>utilisez ce style de présentation&nbsp;: Titre 1</li>
+        <li>une seule fois dans une page</li>
       </ul>
-      <p>For <strong>subsections</strong>:</p>
+      <p>Pour une <strong>section principale</strong>&nbsp;:</p>
       <ul>
-        <li>use this style: Heading 3</li>
-        <li>can appear many times and in many main sections</li>
+        <li>utilisez ce style de présentation&nbsp;: Sous-titre 2</li>
+        <li>plusieurs fois dans une page</li>
       </ul>
-      <p>For <strong>sub-subsections</strong>:</p>
+      <p>Pour une <strong>sous-section</strong>:</p>
       <ul>
-        <li>use this style: Heading 4 (and so on)</li>
-        <li>can appear many times in many subsections</li>
+        <li>utilisez ce style de présentation&nbsp;: Sous-titre 3</li>
+        <li>plusieurs fois et dans maintes sections principales</li>
+      </ul>
+      <p>Pour une <strong>sous-sous-section</strong>:</p>
+      <ul>
+        <li>utilisez ce style de présentation&nbsp;: Sous-titre 4 (et ainsi de suite)</li>
+        <li>plusieurs fois et dans maintes sous-sections</li>
       </ul>
       <details>
-        <summary>Structure your content with automated style features</summary>
-        <p>Having clear and consistently formatted headings helps your web team produce the web pages more quickly and with fewer errors.</p>
-        <p>Use the automated styles feature of your word processing software to structure headings. The styles feature clearly differentiates headings from content and helps you format headings consistently.</p>
-        <h5>Table of contents</h5>
-        <p>Use the table of contents feature from your Word processing software to automatically generate a table of contents based on the heading levels in your document. Then, check the table of contents to make sure you've correctly structured the page title, headings and subheadings.</p>
-        <p>Delete the table of contents before you send the document for approval if it isn't required for the final online version.</p>
-        <h5>Navigation pane</h5>
-        <p>Use the navigation pane feature in Microsoft Word. When you select Find (or press Control + F), a small window will display all the headings in your document.</p>
+        <summary>Structurez votre texte grâce aux options de styles automatisées </summary>
+        <p>Utilisez les options de style automatisées de votre logiciel de traitement de texte pour structurer vos titres. Elles permettent de bien distinguer les sous-titres du contenu et d'assurer l'uniformité.</p>
+        <p>Des sous-titres présentés de façon claire et cohérente aident votre équipe Web à produire la page plus rapidement en évitant les erreurs.</p>
+        <h5>Table des matières</h5>
+        <p>Utilisez la fonction de table des matières de votre logiciel de traitement de texte pour générer une table des matières en fonction des niveaux d'en-têtes du document. Vérifiez ensuite cette table des matières pour déterminer si vous avez organisé correctement le titre de page, les titres de sections et les sous-titres.</p>
+        <p>Supprimez la table des matières avant l'étape des approbations si elle n'est pas requise pour la version en ligne.</p>
+        <h5>Volet de navigation</h5>
+        <p>Utilisez le volet de navigation de Microsoft Word. Lorsque vous ouvrez l'outil de recherche (ou que vous tapez Control + F) et sélectionnez l'affichage des résultats par en têtes, une fenêtre contenant tous les titres de votre document apparaîtra.</p>
       </details>
-      <h5>Publication and program titles usually don't make good web page titles</h5>
-      <p>Using the titles of reports, brochures, publications or programs as the web page title can make it difficult for people to find your content, even if it relates to their task.</p>
-      <p>The titles of publications are usually not written in plain language, short enough or descriptive enough.</p>
-      <p>To help make sure your page ranks high in search results, use page titles that:</p>
+      <div class="well panel"> 
+        <!--UPDATE LATER-->
+        <p><a href="{{ site.urldesign }}/style-guide/#wp5-1" aria-label="Voyez comment la règle sur la rédaction de titres de pages et de sous-titres descriptifs s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+        <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20la%20rédaction%20de%20titres%20de%20pages%20et%20de%20sous-titres%20descriptifs%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp5-1" aria-label="Diffusez la règle sur la rédaction de titres de pages et de sous-titres descriptifs par courriel">Diffusez cette règle par courriel</a></p>
+      </div>
+      <h4>Les titres de publications et de programmes font rarement de bons titres de page Web </h4>
+      <p>Reproduire les titres de rapports, de brochures, de publications ou de programmes dans les titres de page Web peut empêcher les gens de trouver votre contenu, même si le contenu est lié à leur tâche.</p>
+      <p>Les titres de publications ne sont pas toujours écrits en langage clair, ni assez courts ou assez descriptifs.</p>
+      <p>Pour maximiser les chances que votre contenu figure en haut de la liste des résultats de recherche, utilisez des titres de page&nbsp;:</p>
       <ul>
-        <li>are short</li>
-        <li>describe the page accurately </li>
-        <li>are relevant to what people type into search engines</li>
+        <li>courts;</li>
+        <li>qui décrivent la page avec précision;</li>
+        <li>qui sont liés à ce que la personne indique dans la barre de recherche.</li>
       </ul>
-      <p class="mrgn-tp-lg">When you post a publication online, you must adapt it for the web. Here are some things you can do to get better results:</p>
-      <h4>Write a title that describes the contents of the page</h4>
-      <p>The web page title (Heading1) is the title you see at the top of the page when you're looking at it. Make sure that it accurately describes, in plain language, what your publication is about.</p>
-      <h4>Use the first paragraph to introduce your publication</h4>
-      <p>The first paragraph of your web page should introduce your publication in plain language. It helps people who've landed on the page decide whether they've found what they are looking for. You can include the title of your publication here.</p>
-      <h4>Include keywords in the page's metadata</h4>
-      <p>Use the title tag and the description metadata field to improve where your publication ranks in search results. Here's what you can do:</p>
-      <p><strong>Title tag</strong>: The page title tag is the blue hyperlinked text you see when a search engine generates a list of results. Write an effective page title (Heading1), and use it as your title tag.</p>
-      <p><strong>Description metadata field</strong>: The description metatdata is the content you see under the blue hyperlinked text in search results. <strong>Avoid listing only keywords</strong>, because search engines might ignore these. Write 1 or 2 short sentences that summarize the page. Make sure they contain keywords that people use when searching for your content (for example, abbreviations familiar to your audience).</p>
-      <p>Refer to the <a href="#toc6">section on plain language</a> for tips on using simple and common words as keywords.</p>
+      <p class="mrgn-tp-lg">Lorsque vous affichez une publication en ligne, vous devez l'adapter pour le Web. Voici quelques techniques de base qui vous aideront à obtenir les meilleurs résultats&nbsp;:</p>
+      <h6>Utilisez un titre qui décrit le contenu de la page</h6>
+      <p>Le titre principal (Titre 1) de la page est le texte que vous voyez en haut de la page lorsque vous la regardez. Assurez-vous qu'il décrit bien le sujet de votre publication en langage clair et simple.</p>
+      <h6>Utilisez le premier paragraphe pour introduire votre publication </h6>
+      <p>Le premier paragraphe de votre page Web doit introduire votre publication en langage clair et simple. Il aide les personnes qui consultent votre page à déterminer s'ils ont trouvé ce qu'ils cherchent. Vous pouvez inclure le titre de votre publication ici.</p>
+      <h6>Incluez des mots-clés dans les métadonnées de la page</h6>
+      <p>Utilisez les métabalises Titre et Description pour améliorer le classement de votre publication dans les résultats de recherche. Voici ce que vous pouvez faire&nbsp;:</p>
+      <p><strong>Métabalise Titre</strong>&nbsp;: La métabalise Titre de la page est le texte en hyperlien bleu que vous voyez lorsque les moteurs de recherche génèrent une liste de résultats. Trouvez un titre principal (Titre 1) efficace pour votre page et utilisez-le aussi comme métabalise Titre.</p>
+      <p><strong>Métabalise Description</strong>&nbsp;: La métabalise Description est le contenu que vous voyez sous le texte en hyperlien bleu dans la liste des résultats de recherche. <strong>Évitez d'énumérer seulement des mots-clés,</strong> car les moteurs de recherche tendent à ne pas les prendre en considération. Écrivez une (1) ou 2 phrases courtes qui décrivent le contenu de la page. Assurez-vous d'inclure les mots-clés que vos publics cibles utilisent lorsqu'ils cherchent votre contenu (par exemple, des abréviations qu'ils connaissent bien).</p>
+      <p>Reportez-vous à la <a href="#toc6">section sur le langage clair et simple</a> pour des conseils sur l'utilisation de mots-clés simples et courants.</p>
     </section>
-    <h4>See how the rule for writing useful page titles and headings applies in French</h4>
-    <ul>
-      <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp5-1">5.1 Rédiger des titres et sous-titres de page descriptifs</a></span></li>
-    </ul>
-    <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for writing useful page titles and headings", "title": "5.1 Write useful page titles and headings", "url": "https://design.canada.ca/style-guide/#wp5-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp5-1"}'></div>
-    </div>
   </section>
   <section id="wp5-2">
-    <h3>5.2 Use lists to help people scan</h3>
-    <p>A short vertical list is easier for people to scan and remember than a long paragraph. If possible, aim for maximum of 7 items in your list.</p>
-    <p>When writing lists:</p>
+    <h3>5.2 Utiliser des listes d'éléments pour aider les gens à survoler le texte</h3>
+    <p>Il est plus facile de survoler une courte liste d'éléments verticaux et d'en retenir le contenu qu'un long paragraphe. Si c'est possible, visez un maximum de 7 éléments par liste.</p>
+    <p>Lorsque vous rédigez des listes d'éléments&nbsp;:</p>
     <ul>
-      <li>use positive statements as much as possible</li>
-      <li>place negatively phrased items together, if you must use them</li>
-      <li>use consistent grammatical structure. For example, if you:
+      <li>utilisez autant que possible la forme positive;</li>
+      <li>regroupez les éléments rédigés à la forme négative, si vous devez l'utiliser;</li>
+      <li>utilisez une structure grammaticale cohérente. Par exemple, si&nbsp;:
         <ul>
-          <li>use the imperative mood (or command) for the first item of your list, use the same mood for each subsequent list item</li>
-          <li>start your first item with a noun, start the other list items with nouns</li>
+          <li>vous utilisez le mode impératif (commandement) dans le premier élément de votre liste, reprenez ce mode dans chaque élément subséquent;</li>
+          <li>votre premier élément commence par un nom, poursuivez la liste de la même façon;</li>
         </ul>
       </li>
-      <li>if a list contains more than 7 items, consider breaking it up into categories </li>
+      <li>si votre liste contient plus de 7 éléments, songez à la séparer en différentes catégories.</li>
     </ul>
     <section id="wp5-2-1">
-      <h4>Lead-in sentence</h4>
-      <p>If you need to clarify the relationship between each element, start the list with a lead-in paragraph that:</p>
+      <h4>Phrase d'introduction</h4>
+      <p>S'il faut clarifier un lien entre les éléments d'une liste, commencez la liste par une introduction qui&nbsp;:</p>
       <ul>
-        <li>introduces or applies to all the list items </li>
-        <li>emphasizes the common element between all the items</li>
+        <li>s'applique à tous les éléments;</li>
+        <li>met en relief le point commun entre les éléments.</li>
       </ul>
-      <p>If necessary, specify "all" or "or" in the introductory paragraph to clarify whether the list is comprehensive or conditional. For example, you can write:</p>
+      <p>Si c'est pertinent, précisez dans la phrase d'introduction s'il faut prendre en compte <strong>tous</strong> les éléments ou <strong>un ou l'autre</strong>&nbsp;des éléments de la liste. Par exemple, vous pouvez écrire&nbsp;:</p>
       <ul>
-        <li>"You must meet all of the following requirements:"</li>
-        <li>"To be eligible, you must meet 1 or more of the following requirements:"</li>
+        <li>&laquo;&nbsp;Vous devez répondre à toutes les exigences ci-dessous&nbsp;:&nbsp;&raquo;</li>
+        <li>&laquo;&nbsp;Pour soumettre une demande, vous devez répondre à une (1) ou plusieurs des exigences ci-dessous&nbsp;:&nbsp;&raquo;</li>
       </ul>
     </section>
     <section id="wp5-2-2">
-      <h4>Numbered lists</h4>
-      <p>Use numbered lists to show:</p>
+      <h4>Listes numérotées</h4>
+      <p>Utilisez des listes numérotées pour indiquer&nbsp;:</p>
       <ul>
-        <li>ranking </li>
-        <li>order</li>
-        <li>priority </li>
-        <li>step-by-step instructions </li>
+        <li>le rang</li>
+        <li>l'ordre</li>
+        <li>la priorité</li>
+        <li>les détails d'une marche à suivre, étape par étape</li>
       </ul>
     </section>
     <section id="wp5-2-3">
-      <h4>Bulleted lists</h4>
-      <p>Place only one idea in each bulleted item. If you need to include more information to explain an idea, use sub-bullets, but use them sparingly.</p>
-      <h5>Example of bulleted list items</h5>
-      <p><strong>Write</strong>:<br>
-        To draft a high-quality source document:</p>
+      <h4>Listes à puces</h4>
+      <p>Présentez une seule idée par puce. Si vous devez inclure plus de renseignements pour clarifier une idée, utilisez des listes en retrait, mais avec modération.</p>
+      <h5>Exemple de listes à puces</h5>
+      <p><strong>Écrivez</strong>&nbsp;:</p>
+      <p>Pour rédiger un document source de qualité&nbsp;:</p>
       <ul>
-        <li>organize your ideas
+        <li>organisez vos idées;
           <ul>
-            <li>arrange your ideas from most to least important to the task</li>
-            <li>test your order with a representative audience</li>
+            <li>ordonnez vos idées par ordre d'importance relativement à la tâche;</li>
+            <li>testez l'ordre de vos idées avec des représentants de votre public cible;</li>
           </ul>
         </li>
-        <li>use the active voice</li>
-        <li>use the right words</li>
-        <li>write short sentences and paragraphs</li>
-        <li>follow the guidelines in the <cite>Canada.ca Content Style Guide</cite></li>
+        <li>utilisez la voix active;</li>
+        <li>employez le mot juste;</li>
+        <li>rédigez des phrases brèves et des paragraphes courts;</li>
+        <li>suivez les lignes directrices du <cite>Guide de rédaction du contenu du site Canada.ca</cite>.</li>
       </ul>
-      <p><strong>Instead of</strong>:<br>
-        To draft a high-quality source document:</p>
+      <p><strong>Au lieu de</strong>&nbsp;:</p>
+      <p>Pour rédiger un document source de qualité&nbsp;:</p>
       <ul>
-        <li>organize your ideas</li>
-        <li>arrange your ideas from most to least important to the task</li>
-        <li>test your order with a representative audience</li>
-        <li>do not use the passive voice</li>
-        <li>it is important to use the right words</li>
-        <li>use only short sentences and paragraphs</li>
-        <li>use the Canada.ca Content Style Guide to ensure you have followed the guidelines</li>
+        <li>organisez vos idées;</li>
+        <li>ordonnez vos idées par ordre d'importance relativement à la tâche;</li>
+        <li>testez l'ordre de vos idées avec des représentants de votre public cible;</li>
+        <li>n'utilisez pas la voix passive;</li>
+        <li>il est important d'employer le mot juste;</li>
+        <li>n'utilisez que des phrases brèves et des paragraphes courts;</li>
+        <li>servez-vous du <cite>Guide de rédaction du contenu du site Canada.ca</cite> pour vous assurer d'avoir suivi les lignes directrices.</li>
       </ul>
-      <p>Take a look at the <a href="#wp4-1">section on capitalization and punctuation rules that apply to lists</a>.</p>
+      <p>Consultez la <a href="#wp4-1">section sur l'utilisation des majuscules et de la ponctuation dans les listes d'éléments</a>.</p>
     </section>
     <section id="wp5-2-4">
-      <h4>Alphabetical lists</h4>
-      <p>Only present your web content in an alphabetical order if it's the most logical and intuitive approach for the audience.</p>
-      <p>For example, listing provinces and territories in alphabetical order could be appropriate.</p>
-      <p>If you present content in alphabetical order in English, also present it in alphabetical order in French to provide the same intuitive experience.</p>
+      <h4>Listes alphabétiques</h4>
+      <p>Présentez le contenu Web en ordre alphabétique seulement s'il s'agit de l'approche la plus logique et intuitive possible pour le public cible.</p>
+      <p>Cependant, il peut être approprié de présenter des éléments par ordre alphabétique, comme une liste de noms.</p>
+      <p>Si vous présentez du contenu français par ordre alphabétique, présentez aussi le contenu traduit en anglais par ordre alphabétique pour offrir la même expérience intuitive.</p>
     </section>
-    <h4>See how the rule for using lists applies in French</h4>
-    <ul>
-      <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp5-2">5.2 Utiliser des listes d'éléments pour aider les gens à survoler le texte</a></span></li>
-    </ul>
-    <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for using lists to support scanning", "title": "5.2 Use lists to help people scan", "url": "https://design.canada.ca/style-guide/#wp5-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp5-2"}'></div>
+    <div class="well panel"> 
+      <!--UPDATE LATER-->
+      <p><a href="{{ site.urldesign }}/style-guide/#wp5-2" aria-label="Voyez comment la règle sur l'utilisation de listes d'éléments s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20de%20listes%20d'éléments%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp5-2" aria-label="Diffusez la règle sur l'utilisation de listes d'éléments par courriel">Diffusez cette règle par courriel</a></p>
     </div>
   </section>
   <section id="wp5-3">
-    <h3>5.3 Use tables to organize data</h3>
-    <p>Use tables to organize and present data. Make sure that the:</p>
+    <h3>5.3 Utiliser des tableaux pour organiser des données </h3>
+    <p>Utilisez des tableaux pour organiser et présenter des données. Assurez-vous que&nbsp;:</p>
     <ul>
-      <li>value of each cell relates to the column and row headers</li>
-      <li>entries in a column don't contain information that could be considered a subhead </li>
-      <li>value of each cell aligns with the column header that appears directly above it </li>
+      <li>la valeur de chaque cellule correspond aux en-têtes des colonnes et des rangées;</li>
+      <li>les entrées à l'intérieur d'une colonne n'incluent pas de renseignement qui pourrait être considéré comme un sous-titre;</li>
+      <li>la valeur de chaque cellule concorde avec l'en-tête de colonne qui figure directement au-dessus.</li>
     </ul>
-    <p>Give your table a clear title that describes the information in it.</p>
-    <h4>Example of a table that organizes data</h4>
-    <table class="table table-condensed table-bordered">
-      <caption>
-      <strong>Comparison of net budgetary authorities and expenditures for Vote 1 as of December 31, for fiscal years 2011 to 2012 and 2012 to 2013 ($ millions)</strong>
+    <p>Présentez votre tableau à l'aide d'un titre clair qui décrit les renseignements contenus dans le tableau.</p>
+    <h4>Exemple d'utilisation d'un tableau pour organiser des données</h4>
+    <table class="table table-bordered table-condensed">
+      <caption class="text-center">
+      <strong>Exemple d'utilisation d'un tableau pour organiser des données<br>
+      Comparaison des autorisations budgétaires nettes et des dépenses pour le crédit du 1er au 31 décembre, pour les exercices financiers 2011 à 2012 et 2012 à 2013 (en millions de dollars)</strong>
       </caption>
-      <thead>
-        <tr class="active">
-          <th scope="col">Vote 1</th>
-          <th scope="col" class="text-center">2011 to 2012</th>
-          <th scope="col" class="text-center">2012 to 2013</th>
-        </tr>
-      </thead>
       <tbody>
-        <tr>
-          <th scope="row">Net budgetary authorities</th>
-          <td class="text-right">287.4</td>
-          <td class="text-right">252.4</td>
+        <tr class="active">
+          <th scope="col"><strong>Crédit 1</strong></th>
+          <th class="text-right" scope="col"><strong>2011 à 2012</strong></th>
+          <th class="text-right" scope="col"><strong>2012 à 2013</strong></th>
         </tr>
         <tr>
-          <th scope="row">Year-to-date expenditures ending December 31</th>
-          <td class="text-right">184.1</td>
-          <td class="text-right">154.6</td>
+          <th scope="row">Autorisations budgétaires nettes</th>
+          <td class="text-right">287,4</td>
+          <td class="text-right">252,4</td>
+        </tr>
+        <tr>
+          <th scope="row">Dépenses cumulatives au 31 décembre</th>
+          <td class="text-right">184,1</td>
+          <td class="text-right">154,6</td>
         </tr>
       </tbody>
     </table>
     <section id="wp5-3-1">
-      <h4>Use column and row headers</h4>
-      <p>Each column and row of a table must have a header that describes the information in that column or row.</p>
-      <p>Column and row headers are different from headings and subheadings:</p>
+      <h4>Inclure des en-têtes de colonne et de rangée</h4>
+      <p>Chaque colonne et chaque rangée d'un tableau structuré doit comporter un en-tête qui décrit les renseignements se trouvant dans la colonne ou la rangée.</p>
+      <p>Les en-têtes de colonne et de rangée diffèrent des&nbsp;titres et sous-titres. Les&nbsp;:</p>
       <ul>
-        <li>column and row headers appear in the cells at the top and on the far left of a table</li>
-        <li>headings and subheadings refer to the title of a table or a section of content that appears on a web page</li>
+        <li>en-têtes de colonne ou de rangée introduisent l'information contenue sous la colonne ou dans la rangée d'un tableau;</li>
+        <li>titres et sous-titres désignent le titre d'un tableau ou d'une section du contenu d'une page Web.</li>
       </ul>
-      <p>Check that there is a consistent relationship between the columns and rows.</p>
-      <p>For example, to check the table above, ask yourself whether you can align the information that appears in:</p>
+      <p>Vérifiez si la relation est cohérente entre les colonnes et les rangées d'un tableau.</p>
+      <p>Par exemple, dans le tableau ci-dessus, demandez-vous&nbsp;si les renseignements figurant dans une&nbsp;:</p>
       <ul>
-        <li>the column, with the column header that appears directly above it ("Vote 1," "2011 to 2012" ($ millions) and "2012 to 2013" ($ millions)) </li>
-        <li>a row, with the row header that defines it ("Net budgetary authorities" and "Year-to-date expenditures ending December 31") </li>
+        <li>colonne concordent avec l'en-tête de colonne directement au-dessus (&laquo;&nbsp;Crédit 1&nbsp;&raquo;, &laquo;&nbsp;2011 à 2012&nbsp;&raquo; (en millions de dollars) et &laquo;&nbsp;2012 à 2013&nbsp;&raquo; (en millions de dollars));</li>
+        <li>rangée concordent avec l'en-tête de rangée qui les décrit (&laquo;&nbsp;Autorisations budgétaires nettes&nbsp;&raquo; et &laquo;&nbsp;Dépenses cumulatives au 31&nbsp;décembre&nbsp;&raquo;).</li>
       </ul>
-      <p>Your web team will use the information in the headers to code the table. Afterwards, screen readers will be able to correctly interpret the data within the table.</p>
-      <p>In the following example, all the cells in the first:</p>
+      <p>Votre équipe Web utilisera les renseignements contenus dans les en-têtes de colonne et de rangée pour coder le tableau. &nbsp;Ainsi, les lecteurs d'écrans pourront en interpréter correctement les données.</p>
+      <h5>Exemple de l'utilisation appropriée d'en-têtes de colonne et de rangée</h5>
+      <p>Dans l'exemple suivant, toutes les cellules de la première&nbsp;:</p>
       <ul>
-        <li>row are column headers and appear bolded and in grey&nbsp; </li>
-        <li>column are row headers (except the top-left cell) and appear bolded</li>
+        <li>rangée sont des entêtes de colonne et sont identifiées par les caractères gras et la couleur grise;</li>
+        <li>colonne sont des entêtes de rangée (sauf pour la cellule du haut à gauche) et sont identifiées par les caractères gras.</li>
       </ul>
       <table class="table table-condensed table-bordered">
         <caption>
-        <strong>Disclosure of contracts over $10,000 from January to March 2010<sup id="table2b-fn1-rf"><a class="fn-lnk" href="#table2b-fn1"><span class="wb-inv">table 2 note </span>*</a></sup></strong>
+        <strong>Divulgation de contrats de plus de 10 000 $ de janvier à mars 2010<sup id="table2b-fn1-rf"><a class="fn-lnk" href="#table2b-fn1"><span class="wb-inv">table 2 note </span>*</a></sup></strong>
         </caption>
         <thead>
           <tr class="active">
-            <th scope="col" class="text-center">Date contract was awarded</th>
-            <th scope="col" class="text-center">Vendor name</th>
-            <th scope="col" class="text-center">Description </th>
-            <th scope="col" class="text-center">Value</th>
+            <th scope="col">Date</th>
+            <th scope="col">Nom du fournisseur</th>
+            <th scope="col">Description</th>
+            <th scope="col">Valeur</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td><strong>2010-02-01<sup id="table2b-fn2-rf"><a class="fn-lnk" href="#table2b-fn2"><span class="wb-inv">table 2 note </span>**</a></sup></strong></td>
-            <td>ABC Business Solutions</td>
-            <td>Rental of machinery office furniture and fixtures</td>
-            <td class="text-right">$227,703.22</td>
+            <th scope="row"><time datetime="2010-02-01">2010-02-01<sup id="table2b-fn2-rf"><a class="fn-lnk" href="#table2b-fn2"><span class="wb-inv">table 2 note </span>**</a></sup></time></th>
+            <td>Solutions d'entreprises ABC</td>
+            <td>Location d'appareils, de meubles et d'accessoires de bureau</td>
+            <td class="text-right">227&nbsp;703,22&nbsp;$</td>
           </tr>
           <tr>
-            <td><strong>2010-02-20</strong></td>
-            <td>IT Consultants R Us</td>
-            <td>Other professional services not elsewhere specified</td>
-            <td class="text-right">$227,956.64</td>
+            <th scope="row"><time datetime="2010-02-20">2010-02-20</time></th>
+            <td>Consultants informatique sérénIT</td>
+            <td>Autres services professionnels uniques</td>
+            <td class="text-right">227&nbsp;956,64&nbsp;$</td>
           </tr>
           <tr>
-            <td><strong>2010-02-23</strong></td>
-            <td>Management Consulting Group Limited</td>
-            <td>Management consulting</td>
-            <td class="text-right">$285,575.89</td>
+            <th scope="row"><time datetime="2010-02-23">2010-02-23</time></th>
+            <td>Service-conseil gestion limitée</td>
+            <td>Conseils en gestion</td>
+            <td class="text-right">285&nbsp;575,89&nbsp;$</td>
           </tr>
           <tr>
-            <td><strong>2010-03-01</strong></td>
-            <td>XYZ Consultants</td>
-            <td>Other professional services not elsewhere specified </td>
-            <td class="text-right">$56,294.42</td>
+            <th scope="row"><time datetime="2010-03-01">2010-03-01</time></th>
+            <td>Consultants XYZ</td>
+            <td>Autres services professionnels précisés nulle part ailleurs </td>
+            <td class="text-right">56&nbsp;294,42&nbsp;$</td>
           </tr>
         </tbody>
         <tfoot>
           <tr>
             <td colspan="4"><section class="wb-fnote">
-                <h5 class="wb-inv" id="table2b-fn">Table 2 Notes</h5>
+                <h5 class="wb-inv" id="table2b-fn">Notes du tableau 2</h5>
                 <dl>
-                  <dt> Table 2 Note * </dt>
+                  <dt> Note * du tableau 2 </dt>
                   <dd id="table2b-fn1">
-                    <p>Fourth quarter of the April 1, 2009, to March 31, 2010, fiscal year.</p>
-                    <p class="fn-rtn"> <a href="#table2b-fn1-rf"><span class="wb-inv">Return to table 2 note </span>*<span class="wb-inv"> referrer</span></a></p>
+                    <p>Quatrième trimestre de l'exercice financier allant du 1er avril 2009 au 31 mars 2010.</p>
+                    <p class="fn-rtn"> <a href="#table2b-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>*<span class="wb-inv"> du tableau 2</span></a></p>
                   </dd>
-                  <dt> Table 2 Note ** </dt>
+                  <dt> Note ** du tableau 2 </dt>
                   <dd id="table2b-fn2">
-                    <p>Dates in this table represent the year, month and day (yyyy-mm-dd).</p>
-                    <p class="fn-rtn"> <a href="#table2b-fn2-rf"><span class="wb-inv">Return to table 2 note </span>**<span class="wb-inv"> referrer</span></a></p>
+                    <p>Les dates de ce tableau représentent l'année et le mois, suivis du jour (aaaa-mm-jj).</p>
+                    <p class="fn-rtn"> <a href="#table2b-fn2-rf"><span class="wb-inv">Retour à la référence de la note </span>**<span class="wb-inv"> du tableau 2</span></a></p>
                   </dd>
                 </dl>
               </section></td>
           </tr>
         </tfoot>
       </table>
-      <p class="mrgn-tp-lg">By looking at the column headers "Date contract was awarded," "Vendor name" and "Value," people can understand that on February 23, 2010, Management Consulting Group Limited was awarded a contract valued at $285,575.89.</p>
+      <p class="mrgn-tp-lg">En examinant l'en-tête des colonnes &laquo;&nbsp;Date d'attribution du contrat&nbsp;&raquo;, &laquo;&nbsp;Nom du fournisseur&nbsp;&raquo; et &laquo;&nbsp;Valeur&nbsp;&raquo;, on comprend que le 23 février 2010, l'entreprise Service conseil gestion limitée a obtenu un contrat d'une valeur de 285 575,89 $.</p>
     </section>
     <section id="wp5-3-2">
-      <h4>Use the simplest structure possible</h4>
-      <p>It can be difficult to make tables accessible and easy to read for people using screen readers or mobile devices.</p>
-      <p>To make information useful to the widest possible audience:</p>
+      <h4>Utiliser la structure de tableau la plus simple possible</h4>
+      <p>Il peut être difficile de faire en sorte que des tableaux soient accessibles et faciles à lire sur des appareils mobiles ou avec un lecteur d'écran.</p>
+      <p>Pour rendre l'information utile pour le plus vaste public possible&nbsp;:</p>
       <ul>
-        <li>turn a complex table into one or more simple tables</li>
-        <li>convert a table to a list if the data is simple</li>
+        <li>divisez un tableau complexe en un ou plusieurs tableaux simples;</li>
+        <li>convertissez un tableau en texte sous forme de liste d'éléments si les données sont simples.</li>
       </ul>
-      <h5>Before: complex table</h5>
-      <p>The following table is complex and poorly designed. It would be difficult for someone using a screen reader or a mobile device to access and understand the information.</p>
-      <h6>Example of a complex table</h6>
+      <h5>Avant&nbsp;: tableau complexe</h5>
+      <p>Le tableau qui suit est complexe et mal conçu. Il serait difficile d'y accéder et d'en comprendre l'information à l'aide d'un lecteur d'écran ou d'un appareil mobile.</p>
+      <h6> Exemple <span class="wb-inv">de tableau complexe</span></h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
-        <strong>National Hockey League Stanley Cup Canadian winning teams (1927–2013)</strong>
+        <strong>Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley (1927-2013)</strong>
         </caption>
         <thead>
           <tr class="active">
-            <th colspan="6" scope="colgroup"><strong>Eastern Conference</strong></th>
-            <th colspan="4" scope="colgroup"><strong>Western Conference</strong></th>
+            <th colspan="6" scope="colgroup"><strong>Association de l'Est</strong></th>
+            <th colspan="4" scope="colgroup"><strong>Association de l'Ouest</strong></th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <th scope="col">Team</th>
-            <th scope="col">Wins</th>
-            <th scope="col">Team</th>
-            <th scope="col">Wins</th>
-            <th scope="col">Team</th>
-            <th scope="col">Wins</th>
-            <th scope="col">Team</th>
-            <th scope="col">Wins</th>
-            <th scope="col">Team</th>
-            <th scope="col">Wins</th>
+            <th scope="col">Équipe</th>
+            <th scope="col">Parties gagnées</th>
+            <th scope="col">Équipe</th>
+            <th scope="col">Parties gagnées</th>
+            <th scope="col">Équipe</th>
+            <th scope="col">Parties gagnées</th>
+            <th scope="col">Équipe</th>
+            <th scope="col">Parties gagnées</th>
+            <th scope="col">Équipe</th>
+            <th scope="col">Parties gagnées</th>
           </tr>
           <tr>
-            <td>Montréal Canadiens</td>
+            <td>Canadiens de Montréal</td>
             <td class="text-right">22</td>
-            <td>Toronto Maple Leafs</td>
+            <td>Maple Leafs de Toronto</td>
             <td class="text-right">11</td>
-            <td>Ottawa Senators</td>
+            <td>Sénateurs d'Ottawa</td>
             <td class="text-right">1</td>
-            <td>Edmonton Oilers</td>
+            <td>Oilers d'Edmonton</td>
             <td class="text-right">5</td>
-            <td>Calgary Flames</td>
+            <td>Flames de Calgary</td>
             <td class="text-right">1</td>
+          </tr>
+          <tr>
+            <td class="small" colspan="10"><p>Source&nbsp;: <a href="http://www.nhl.com">nhl.com</a></p></td>
           </tr>
         </tbody>
         <tfoot>
-          <tr>
-            <td class="small" colspan="10"><p>Source : <a href="https://www.nhl.com">nhl.com</a></p></td>
-          </tr>
         </tfoot>
       </table>
-      <h5>After: simple tables</h5>
-      <p>The complex table easily converts into simple tables.</p>
-      <h6>Example: one simple table</h6>
+      <h5>Après&nbsp;: tableaux simples</h5>
+      <p>Le tableau complexe peut être facilement divisé en tableaux simples.</p>
+      <h6>Exemple&nbsp;: un tableau simple</h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
-        <strong>National Hockey League Stanley Cup Canadian winning teams (1927 to 2013)</strong>
+        <strong>Tableau&nbsp;1&nbsp;: Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley (de 1927 à 2013)</strong>
         </caption>
         <thead>
           <tr class="active">
-            <th class="text-center" scope="col">Team</th>
-            <th class="text-center" scope="col">Conference </th>
-            <th class="text-center" scope="col">Wins </th>
+            <th scope="col"><strong>Équipe</strong></th>
+            <th scope="col"><strong>Association</strong></th>
+            <th scope="col"><strong>Parties gagnées</strong></th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <th scope="row">Montreal Canadiens</th>
-            <td>Eastern </td>
-            <td class="text-right">22</td>
-          </tr>
-          <tr>
-            <th scope="row">Toronto Maple Leafs</th>
-            <td>Eastern </td>
-            <td class="text-right">11</td>
-          </tr>
-          <tr>
-            <th scope="row">Edmonton Oilers</th>
-            <td>Western </td>
-            <td class="text-right">5</td>
-          </tr>
-          <tr>
-            <th scope="row">Calgary Flames</th>
-            <td>Western </td>
-            <td class="text-right">1</td>
-          </tr>
-          <tr>
-            <th scope="row">Ottawa Senators</th>
-            <td>Eastern</td>
-            <td class="text-right">1</td>
-          </tr>
-        </tbody>
-        <tfoot>
-          <tr>
-            <td class="small" colspan="3"><p>Source : <a href="https://www.nhl.com">nhl.com</a></p></td>
-          </tr>
-        </tfoot>
-      </table>
-      <p class="mrgn-tp-lg">If it's important to highlight Stanley Cup championships by NHL conference (region), present the information using 2 simpler tables, and use table titles to clarify which conference the teams represent.</p>
-      <h6>Example: multiple simple tables</h6>
-      <table class="table table-bordered table-condensed">
-        <caption class="text-center">
-        <strong>Table 1: Eastern conference: National Hockey League Stanley Cup Canadian winning teams (1927 to 2013)</strong>
-        </caption>
-        <thead>
-          <tr class="active">
-            <th class="text-center" scope="col">Team </th>
-            <th class="text-center" scope="col">Wins </th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <th scope="row">Montreal Canadiens</th>
+            <th scope="row">Canadiens de Montréal</th>
+            <td>Est </td>
             <td class="text-right">22</td>
           </tr>
           <tr>
-            <th scope="row">Toronto Maple Leafs</th>
+            <th scope="row">Maple Leafs de Toronto</th>
+            <td>Est </td>
             <td class="text-right">11</td>
           </tr>
           <tr>
-            <th scope="row">Ottawa Senators</th>
+            <th scope="row">Oilers d'Edmonton</th>
+            <td>Ouest </td>
+            <td class="text-right">5</td>
+          </tr>
+          <tr>
+            <th scope="row">Flames de Calgary</th>
+            <td>Ouest </td>
+            <td class="text-right">1</td>
+          </tr>
+          <tr>
+            <th scope="row">Sénateurs d'Ottawa</th>
+            <td>Est</td>
             <td class="text-right">1</td>
           </tr>
         </tbody>
         <tfoot>
           <tr>
-            <td class="small" colspan="2"><p>Source : <a href="https://www.nhl.com">nhl.com</a></p></td>
+            <td class="small" colspan="3"><p>Source&nbsp;: <a href="http://www.nhl.com">nhl.com</a></p></td>
+          </tr>
+        </tfoot>
+      </table>
+      <p class="mrgn-tp-lg">S'il importe de mettre en relief les champions de la Coupe Stanley par association (région) de la Ligue nationale de hockey, présentez les renseignements à l'aide de 2 tableaux simples et utilisez des titres de tableau pour préciser l'association à laquelle les équipes appartiennent.</p>
+      <h6>Exemple&nbsp;: plusieurs tableaux simples</h6>
+      <table class="table table-bordered table-condensed">
+        <caption class="text-center">
+        <strong>Tableau&nbsp;1&nbsp;: Équipes canadiennes de l'association de l'Est de la Ligue nationale de hockey gagnantes de la Coupe Stanley (de 1927 à 2013)</strong>
+        </caption>
+        <thead>
+          <tr class="active">
+            <th scope="col"><strong>Équipe</strong></th>
+            <th scope="col"><strong>Parties gagnées</strong></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Canadiens de Montréal</td>
+            <td class="text-right">22</td>
+          </tr>
+          <tr>
+            <td>Maple Leafs de Toronto</td>
+            <td class="text-right">11</td>
+          </tr>
+          <tr>
+            <td>Sénateurs d'Ottawa</td>
+            <td class="text-right">1</td>
+          </tr>
+        </tbody>
+        <tfoot>
+          <tr>
+            <td class="small" colspan="2"><p>Source&nbsp;: <a href="http://www.nhl.com">nhl.com</a></p></td>
           </tr>
         </tfoot>
       </table>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
-        <strong>Table 2: Western conference: National Hockey League Stanley Cup Canadian winning teams (1927 to 2013)</strong>
+        <strong>Tableau&nbsp;2&nbsp;: Équipes canadiennes de l'association de l'Ouest de la Ligue nationale de hockey gagnantes de la Coupe Stanley (de 1927 à 2013)</strong>
         </caption>
         <thead>
           <tr class="active">
-            <th class="text-center" scope="col">Team </th>
-            <th class="text-center" scope="col">Wins</th>
+            <th scope="col">Équipe</th>
+            <th scope="col">Parties gagnées</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <th scope="row">Edmonton Oilers</th>
+            <td>Oilers d'Edmonton</td>
             <td class="text-right">5</td>
           </tr>
           <tr>
-            <th scope="row">Calgary Flames</th>
+            <td>Flames de Calgary</td>
             <td class="text-right">1</td>
           </tr>
         </tbody>
         <tfoot>
           <tr>
-            <td class="small" colspan="2"><p>Source : <a href="https://www.nhl.com">nhl.com</a></p></td>
+            <td class="small" colspan="2"><p>Source&nbsp;: <a href="http://www.nhl.com">nhl.com</a></p></td>
           </tr>
         </tfoot>
       </table>
-      <p class="mrgn-tp-md">The complex table also easily converts into 2 lists.</p>
-      <h6>Example: convert tables to text</h6>
-      <p><strong>Eastern conference National Hockey League</strong>:</p>
-      <p>The Stanley Cup Canadian winning teams from 1927 to 2013</p>
+      <p class="mrgn-tp-lg">Le tableau complexe peut aussi être facilement converti en 2 listes d'éléments.</p>
+      <h6>Exemple: conversion de tableaux en texte </h6>
+      <p><strong>Association de l'Est de la Ligue nationale de hockey </strong></p>
+      <p>Équipes canadiennes gagnantes de la Coupe Stanley de 1927 à 2013&nbsp;:</p>
       <ul>
-        <li>Montreal Canadiens: 22</li>
-        <li>Toronto Maple Leafs: 11</li>
-        <li>Ottawa Senators: 1</li>
+        <li>Canadiens de Montréal&nbsp;: 22</li>
+        <li>Maple Leafs de Toronto&nbsp;: 11</li>
+        <li>Sénateurs d'Ottawa&nbsp;: 1</li>
       </ul>
-      <p><strong>Western conference National Hockey League</strong>:</p>
-      <p>The Stanley Cup Canadian winning teams from 1927 to 2013</p>
+      <p><strong>Association de l'Ouest de la Ligue nationale de hockey </strong></p>
+      <p>Équipes canadiennes gagnantes de la Coupe Stanley de 1927 à 2013&nbsp;:</p>
       <ul>
-        <li>Edmonton Oilers: 5</li>
-        <li>Calgary Flames: 1</li>
+        <li>Oilers d'Edmonton&nbsp;: 5</li>
+        <li>Flames de Calgary&nbsp;: 1</li>
       </ul>
     </section>
     <section id="wp5-3-3">
-      <h4>Limit the use of texture and colour</h4>
-      <p>Avoid formatting cells with textures or colours, because it can make text difficult to read.</p>
-      <p>If you must use textures and colours in a table, explain what they mean (for example, in a table note or in a legend). Make sure you comply with the <a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#visual-audio-contrast-contrast">minimum colour contrast rules (1.4.3)</a> from the <cite>Web Content Accessibility Guidelines (WCAG) 2.0</cite>.</p>
-      <p><strong>Never</strong> rely on colour or texture alone to convey important information.</p>
+      <h4>Éviter les cellules texturées ou colorées</h4>
+      <p>Évitez de mettre de la texture ou des couleurs dans les cellules.</p>
+      <p>Si vous devez utiliser des textures et des couleurs dans un tableau, expliquez ce qu'elles signifient (par exemple, dans les notes du tableau ou dans une légende). Conformez-vous aux règles de <a href="http://www.w3.org/Translations/WCAG20-fr/#visual-audio-contrast">rapport minimum de contraste des couleurs (1.4.3)</a> des <cite>Règles pour l'accessibilité des contenus Web 2.0</cite>.</p>
+      <p>Ne vous fiez <strong>jamais</strong> uniquement à la couleur ou à la texture pour présenter des renseignements importants.</p>
     </section>
     <section id="wp5-3-4">
-      <h4>Avoid having blank cells</h4>
-      <p>Assistive technologies like a screen reader will notify the person if the cell is blank. If a cell has no value, explain why in your table's:</p>
+      <h4>Éviter les cellules vides</h4>
+      <p>Si la cellule est vide, les outils d'aide, tels que les lecteurs d'écrans, en informent les utilisateurs. Si une cellule de tableau n'a aucune valeur, expliquez pourquoi dans&nbsp;:</p>
       <ul>
-        <li>notes </li>
-        <li>legend</li>
-        <li>caption</li>
-        <li>surrounding content</li>
+        <li>une note en bas du tableau;</li>
+        <li>une légende;</li>
+        <li>un sous-titre;</li>
+        <li>le contenu qui accompagne le tableau.</li>
       </ul>
-      <p>You may also write one of the following in the cell, as long as it's clear and doesn't create visual noise that would distract your audience:</p>
+      <p>Si cela est plus clair et ne risque pas d'occasionner de &laquo;&nbsp;pollution visuelle&nbsp;&raquo; pouvant distraire les gens, vous pouvez ajouter le texte suivant dans la cellule&nbsp;:</p>
       <ul>
-        <li>"no data" </li>
-        <li>"0" (zero)</li>
-        <li>"n/a" (not applicable)</li>
+        <li>&laquo;&nbsp;aucune donnée disponible&nbsp;&raquo;;</li>
+        <li>&laquo;&nbsp;0&nbsp;&raquo; (zéro);</li>
+        <li>&laquo;&nbsp;s/o&nbsp;&raquo; (sans objet).</li>
       </ul>
     </section>
-    <h4>See how the rule for using tables to organize data applies in French</h4>
-    <ul>
-      <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp5-3">5.3 Utiliser des tableaux pour organiser des données</a></span></li>
-    </ul>
-    <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for using tables to organize data", "title": "5.3 Use tables to organize data", "url": "https://design.canada.ca/style-guide/#wp5-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp5-3"}'></div>
+    <div class="well panel"> 
+      <!--UPDATE LATER-->
+      <p><a href="{{ site.urldesign }}/style-guide/#wp5-3" aria-label="Voyez comment la règle sur l'utilisation de tableaux s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20de%20tableaux%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp5-3" aria-label="Diffusez la règle sur l'utilisation de tableaux par courriel">Diffusez cette règle par courriel</a></p>
     </div>
   </section>
 </section>
 <section id="toc10">
-  <h2>6.0 Images and videos</h2>
+  <h2>6.0 Images et vidéos</h2>
   <div class="row mrgn-tp-lg">
     <div class="col-md-8">
       <div class="panel panel-default">
         <div class="panel-body">
-          <h3 class="mrgn-tp-sm">In this section</h3>
+          <h3 class="mrgn-tp-sm">Dans cette section</h3>
           <ul>
-            <li><a href="#wp6-1">6.1 Understand the purpose of images online</a>
+            <li><a href="#wp6-1">6.1 Comprendre le but des images sur le Web</a>
               <ul>
-                <li><a href="#wp6-1-1">Functional images</a></li>
-                <li><a href="#wp6-1-2">Decorative images</a></li>
-                <li><a href="#wp6-1-3">Image sizing and placement</a></li>
+                <li><a href="#wp6-1-1">Images fonctionnelles</a></li>
+                <li><a href="#wp6-1-2">Images décoratives</a></li>
+                <li><a href="#wp6-1-3">Taille et positionnement des images</a></li>
               </ul>
             </li>
-            <li><a href="#wp6-2">6.2 Include alternative text for images</a></li>
-            <li><a href="#wp6-3">6.3 Include long descriptions for complex images</a></li>
-            <li><a href="#wp6-4">6.4 Include transcripts to describe audio and video files</a></li>
+            <li><a href="#wp6-2">6.2 Ajouter un texte alternatif aux images</a></li>
+            <li><a href="#wp6-3">6.3 Ajouter une description longue pour expliquer les images complexes</a></li>
+            <li><a href="#wp6-4">6.4 Ajouter une transcription pour décrire les fichiers audio et vidéo</a></li>
           </ul>
         </div>
       </div>
     </div>
   </div>
-  <p>You can use images and videos to:</p>
+  <p>Vous pouvez utiliser des images et des vidéos pour&nbsp;:</p>
   <ul>
-    <li>enhance key messages</li>
-    <li>help people complete their task </li>
-    <li>make complicated information easier to understand</li>
-    <li>reflect Canada's diverse population as much as possible (including seniors, youth, Indigenous peoples, and people from a wide variety of ethnic origins)</li>
+    <li>renforcer les messages clés;</li>
+    <li>aider les gens à accomplir leur tâche;</li>
+    <li>faciliter la compréhension de l'information complexe;</li>
+    <li>refléter le plus possible la population diversifiée du Canada (dont les personnes âgées, les jeunes, les peuples autochtones et les personnes de diverses origines ethniques).</li>
   </ul>
-  <p>When planning your content, weigh the benefits of using videos with the impact on people who will try to view them using mobile devices. Data plans and reliable network access vary.</p>
-  <h3>Obtain permission to publish</h3>
-  <p>Make sure that you have the appropriate permissions to publish images, audio files and videos online. You'll need to have the written proof of those rights. Refer to the <cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27167">Procedures for Publishing</a></cite> or contact your institution's authoring team for more details.</p>
-  <h4>Help with images, audio files or videos on Canada.ca</h4>
-  <p>For specific information about consent forms or licensing requirements related to Canada.ca, contact the Principal Publisher: <a href="mailto:na-web_support-soutien_du_web-gd@servicecanada.gc.ca">na-web_support-soutien_du_web-gd@servicecanada.gc.ca</a>.</p>
+  <p>Lorsque vous planifiez votre contenu, évaluez les avantages d'inclure des vidéos et leur incidence sur les gens qui tenteront de les visionner avec des appareils mobiles. Leur capacité à accéder à ces fichiers peut varier en fonction de leur service de données mobiles ou de leur réseau.</p>
+  <h4>Obtenir la permission de publier</h4>
+  <p>Assurez-vous que vous possédez les droits appropriés pour publier des images, des fichiers audio et des vidéos sur Canada.ca. Vous devrez avoir la preuve écrite que vous avez obtenu ces droits. Reportez-vous aux <cite><a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=27167">Procédures sur l'édition</a></cite> ou communiquez avec l'équipe d'édition de votre institution pour plus de détails.</p>
+  <h4>Obtenir de l'aide concernant les images, les fichiers audio ou les vidéos sur le site Canada.ca </h4>
+  <p>Si vous avez des questions précises concernant les exigences en matière de licence ou les formulaires de consentement liés à Canada.ca, contactez l'éditeur principal&nbsp;: <a href="mailto:na-web_support-soutien_du_web-gd@servicecanada.gc.ca">na-web_support-soutien_du_web-gd@servicecanada.gc.ca</a>.</p>
 </section>
 <section id="wp6-1">
-  <h3>6.1 Understand the purpose of images online</h3>
-  <p>Images can distract people. They can also make the page take longer to load. Make sure your images <strong>add value</strong> to your content.</p>
-  <p>There are 2 main types of images:</p>
+  <h3>6.1 Comprendre le but des images sur le Web</h3>
+  <p>Les images peuvent distraire les gens. Elles peuvent aussi augmenter la durée de chargement de la page. Assurez-vous que vos images <strong>ajoutent une valeur réelle</strong> à votre contenu.</p>
+  <p>Il y a 2 principales catégories d'images:</p>
   <ul>
-    <li>functional images</li>
-    <li>decorative images </li>
+    <li>fonctionnelles</li>
+    <li>décoratives</li>
   </ul>
   <section id="wp6-1-1">
-    <h4>Functional images</h4>
-    <p>Functional images:</p>
+    <h4>Images fonctionnelles</h4>
+    <p>Les images fonctionnelles&nbsp;:</p>
     <ul>
-      <li>illustrate information or data to help people understand it</li>
-      <li>explain a complex concept </li>
-      <li>illustrate concrete things (such as a valid passport, species at risk, standard symbols)</li>
-      <li>convey branding (such as approved logos and campaign graphics)</li>
+      <li>illustrent de l'information ou des données pour aider les gens à les comprendre;</li>
+      <li>expliquent un concept complexe;</li>
+      <li>illustrent des objets concrets (par exemple, un passeport valide, des espèces vulnérables, des symboles types);</li>
+      <li>véhiculent une marque distinctive (par exemple, des logos approuvés et les éléments graphiques d'une campagne).</li>
     </ul>
-    <p>Functional images add value to the content because they provide more information than can be provided through text alone. Examples of functional images:</p>
+    <p>Les images fonctionnelles ajoutent de la valeur au contenu étant donné qu'elles communiquent l'information avec plus d'efficacité que le texte seul. Voici quelques types d'images fonctionnelles&nbsp;:</p>
     <ul>
-      <li>infographics</li>
-      <li>charts </li>
-      <li>graphs </li>
+      <li>éléments infographiques</li>
+      <li>tableaux</li>
+      <li>graphiques</li>
     </ul>
-    <p><a href="#wp6-2">Include the appropriate alternative text</a> to describe the image for people who are unable to view it.</p>
-    <h5>Example of functional images</h5>
+    <p><a href="#wp6-2">Ajoutez un texte alternatif approprié</a> pour décrire l'image pour les personnes qui ne peuvent la voir.</p>
+    <h5>Exemples d'images fonctionnelles</h5>
     <figure class="mrgn-bttm-lg">
       <figcaption class="text-center"> <strong>Figure 4</strong> </figcaption>
-      <img alt="Map of Canada: current conditions" class="img-responsive center-block" src="/style-guide/images/fig-04-eng.jpg">
+      <img alt="Map of Canada: current conditions" class="img-responsive center-block" src="/guide-redaction/images/fig-04-fra.jpg">
       <details>
-        <summary>Figure 4 - Text version </summary>
+        <summary>Figure 4 - Version textuelle </summary>
         <table class="table table-bordered table-condensed">
-          <thead>
-            <tr class="active">
-              <th scope="col"><strong>City</strong></th>
-              <th scope="col"><strong>Condition</strong></th>
-              <th scope="col"><strong>Temperature</strong></th>
-            </tr>
-          </thead>
           <tbody>
-            <tr>
-              <td>Calgary</td>
-              <td>Mainly sunny</td>
-              <td class="text-right">0°C</td>
+            <tr class="active">
+              <th scope="col">Ville </th>
+              <th scope="col">Condition </th>
+              <th scope="col">Température </th>
             </tr>
             <tr>
-              <td>Charlottetown</td>
-              <td>Drifting snow</td>
-              <td class="text-right">-11°C</td>
+              <td>Calgary </td>
+              <td>Généralement ensoleillé </td>
+              <td class="text-right">12°C </td>
             </tr>
             <tr>
-              <td>Edmonton</td>
-              <td>(no data)</td>
-              <td class="text-right">0°C</td>
+              <td>Charlottetown </td>
+              <td>Généralement ensoleillé </td>
+              <td class="text-right">-8°C </td>
             </tr>
             <tr>
-              <td>Fredericton</td>
-              <td>Sunny</td>
-              <td class="text-right">-12°C</td>
+              <td>Edmonton </td>
+              <td>(sans objet) </td>
+              <td class="text-right">1°C </td>
             </tr>
             <tr>
-              <td>Halifax</td>
-              <td>Mainly sunny</td>
-              <td class="text-right">-7°C</td>
+              <td>Fredericton </td>
+              <td>Ensoleillé </td>
+              <td class="text-right">-9°C </td>
             </tr>
             <tr>
-              <td>Iqaluit</td>
-              <td>Drifting snow</td>
-              <td class="text-right">-22°C</td>
+              <td>Halifax </td>
+              <td>Généralement ensoleillé </td>
+              <td class="text-right">-6°C </td>
             </tr>
             <tr>
-              <td>Montréal</td>
-              <td>Sunny</td>
-              <td class="text-right">-16°C</td>
+              <td>Iqaluit </td>
+              <td>Poudrerie basse </td>
+              <td class="text-right">-22°C </td>
             </tr>
             <tr>
-              <td>Ottawa (Kanata - Orléans)</td>
-              <td>Mainly sunny</td>
-              <td class="text-right">-15°C</td>
+              <td>Montréal </td>
+              <td>Ensoleillé </td>
+              <td class="text-right">-13°C </td>
             </tr>
             <tr>
-              <td>Prince George</td>
-              <td>Partly cloudy</td>
-              <td class="text-right">2°C</td>
+              <td>Ottawa </td>
+              <td>Généralement ensoleillé </td>
+              <td class="text-right">-12°C </td>
             </tr>
             <tr>
-              <td>Québec</td>
-              <td>Partly cloudy</td>
-              <td class="text-right">-19°C</td>
+              <td>Prince George </td>
+              <td>Généralement nuageux </td>
+              <td class="text-right">3°C </td>
             </tr>
             <tr>
-              <td>Regina</td>
-              <td>Cloudy</td>
-              <td class="text-right">-4°C</td>
+              <td>Québec </td>
+              <td>Partiellement nuageux </td>
+              <td class="text-right">-16°C </td>
             </tr>
             <tr>
-              <td>Saskatoon</td>
-              <td>Mist</td>
-              <td class="text-right">-8°C</td>
+              <td>Regina </td>
+              <td>Nuageux </td>
+              <td class="text-right">0°C </td>
             </tr>
             <tr>
-              <td>St. John's</td>
-              <td>Mist</td>
-              <td class="text-right">2°C</td>
+              <td>Saskatoon </td>
+              <td>Généralement nuageux </td>
+              <td class="text-right">-5°C </td>
             </tr>
             <tr>
-              <td>Thunder Bay</td>
-              <td>Partly cloudy</td>
-              <td class="text-right">-14°C</td>
+              <td>St. John's </td>
+              <td>Nuageux </td>
+              <td class="text-right">4°C </td>
             </tr>
             <tr>
-              <td>Toronto</td>
-              <td>Light snow</td>
-              <td class="text-right">-6°C</td>
+              <td>Thunder Bay </td>
+              <td>Partiellement nuageux </td>
+              <td class="text-right">-3°C </td>
             </tr>
             <tr>
-              <td>Vancouver</td>
-              <td>Mostly cloudy</td>
-              <td class="text-right">9°C</td>
+              <td>Toronto </td>
+              <td>Généralement nuageux </td>
+              <td class="text-right">-4°C </td>
             </tr>
             <tr>
-              <td>Victoria</td>
-              <td>Light rain</td>
-              <td class="text-right">8°C</td>
+              <td>Vancouver </td>
+              <td>Pluie </td>
+              <td class="text-right">9°C </td>
             </tr>
             <tr>
-              <td>Whitehorse</td>
-              <td>Partly cloudy</td>
-              <td class="text-right">-19°C</td>
+              <td>Victoria </td>
+              <td>Généralement nuageux </td>
+              <td class="text-right">10°C </td>
             </tr>
             <tr>
-              <td>Winnipeg</td>
-              <td>Sunny</td>
-              <td class="text-right">-18°C</td>
+              <td>Whitehorse </td>
+              <td>Partiellement nuageux </td>
+              <td class="text-right">-14°C </td>
             </tr>
             <tr>
-              <td>Yellowknife</td>
-              <td>Mainly sunny</td>
-              <td class="text-right">-28°C</td>
+              <td>Winnipeg </td>
+              <td>Ensoleillé </td>
+              <td class="text-right">-11°C </td>
+            </tr>
+            <tr>
+              <td>Yellowknife </td>
+              <td>Partiellement nuageux </td>
+              <td class="text-right">-22°C </td>
             </tr>
           </tbody>
         </table>
       </details>
     </figure>
     <figure class="mrgn-bttm-lg">
-      <figcaption class="text-center"> <strong>Figure 5</strong> </figcaption>
-      <img alt="Bar chart for number of pages by main purpose and audience" class="img-responsive center-block" src="/style-guide/images/fig-05-eng.png">
+      <figcaption class="text-center"><strong>Figure 5</strong></figcaption>
+      <img alt="Nombre de page par objectif principal et par audience" class="img-responsive center-block" src="/guide-redaction/images/fig-05-fra.png">
       <details>
-        <summary> Figure 5 - Text version </summary>
+        <summary>Figure 5 - Version textuelle</summary>
         <table class="table table-bordered table-condensed">
-          <thead>
-            <tr class="active">
-              <td></td>
-              <th scope="col"><strong>Education</strong></th>
-              <th scope="col"><strong>Task</strong></th>
-              <th scope="col"><strong>Navigation</strong></th>
-              <th scope="col"><strong>Support</strong></th>
-              <th scope="col"><strong>Information</strong></th>
-              <th scope="col"><strong>Corporate</strong></th>
-            </tr>
-          </thead>
           <tbody>
+            <tr class="active">
+              <th>&nbsp;</th>
+              <th class="text-right" scope="col">Éducative</th>
+              <th class="text-right" scope="col">Tâches</th>
+              <th class="text-right" scope="col">Navigation</th>
+              <th class="text-right" scope="col">Soutien</th>
+              <th class="text-right" scope="col">Information</th>
+              <th class="text-right" scope="col">Entreprise</th>
+            </tr>
             <tr>
-              <th scope="row">General</th>
+              <th scope="row">Général</th>
               <td class="text-right">2</td>
               <td class="text-right">0</td>
               <td class="text-right">20</td>
@@ -1925,7 +1812,7 @@ title: "Canada.ca Content Style Guide"
               <td class="text-right">50</td>
             </tr>
             <tr>
-              <th scope="row">Students</th>
+              <th scope="row">Étudiants</th>
               <td class="text-right">2</td>
               <td class="text-right">2</td>
               <td class="text-right">1</td>
@@ -1934,7 +1821,7 @@ title: "Canada.ca Content Style Guide"
               <td class="text-right">0</td>
             </tr>
             <tr>
-              <th scope="row">Business</th>
+              <th scope="row">Entreprises</th>
               <td class="text-right">60</td>
               <td class="text-right">10</td>
               <td class="text-right">20</td>
@@ -1943,7 +1830,7 @@ title: "Canada.ca Content Style Guide"
               <td class="text-right">8</td>
             </tr>
             <tr>
-              <th scope="row">Professional</th>
+              <th scope="row">Professionnels</th>
               <td class="text-right">46</td>
               <td class="text-right">26</td>
               <td class="text-right">5</td>
@@ -1952,7 +1839,7 @@ title: "Canada.ca Content Style Guide"
               <td class="text-right">142</td>
             </tr>
             <tr>
-              <th scope="row">Lawyer</th>
+              <th scope="row">Avocats</th>
               <td class="text-right">0</td>
               <td class="text-right">2</td>
               <td class="text-right">4</td>
@@ -1966,401 +1853,383 @@ title: "Canada.ca Content Style Guide"
     </figure>
   </section>
   <section id="wp6-1-2">
-    <h4>Decorative images</h4>
-    <p>Use decorative images only to provide visual context for the following templates:</p>
+    <h4>Images décoratives</h4>
+    <p>Utilisez des images décoratives uniquement pour fournir un contexte visuel pour les modèles de page suivants&nbsp;:</p>
     <ul>
-      <li>a theme or topic page </li>
-      <li>the home page</li>
-      <li>campaign pages</li>
-      <li>promotional features on a topic page or home page (Government of Canada activities and initiatives)</li>
+      <li>page de thème ou de sujet;</li>
+      <li>page d'accueil;</li>
+      <li>pages d'une campagne publicitaire;</li>
+      <li>vignette promotionnelle d'une page de sujet ou de la page d'accueil (Activités et initiatives du gouvernement du Canada).</li>
     </ul>
-    <p>Don't place meaningful text, such as campaign or program titles, in decorative images.</p>
-    <p><a href="#wp6-2">Include the appropriate alternative text</a> to describe the image for people who are unable to view it.</p>
-    <p>Get details about the templates above in the <cite><a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-eng.asp">Canada.ca Content and Information Architecture Specification</a></cite>.</p>
-    <h5>Example of a decorative image</h5>
-    <p><img alt="A Royal Canadian Mounted Police officer on the Canada.ca web page related to jobs and the workplace." class="img-responsive center-block" src="/style-guide/images/fig-06-eng.jpg"></p>
-    <p><strong>Description of the image</strong></p>
-    <p>A Royal Canadian Mounted Police officer on the Canada.ca web page related to jobs and the workplace.</p>
+    <p>N'insérez pas de texte important, comme des titres de campagne ou de programme, dans des images décoratives.</p>
+    <p><a href="#wp6-2">Ajoutez un texte alternatif</a> pour décrire l'image pour les personnes qui ne peuvent la voir.</p>
+    <p>Vous trouverez plus de détails au sujet des modèles de page ci-dessus dans les <cite><a href="{{ site.url }}/architecture/specifications-contenu-architecture-information-canada.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca.</a></cite>.</p>
+    <h5>Exemple d'une image décorative</h5>
+    <p><img alt="Une membre de la Gendarmerie royale du Canada sur la page Web de Canada.ca axée sur les emplois et le milieu de travail." class="img-responsive center-block" src="/guide-redaction/images/fig-06-fra.jpg"></p>
+    <p><strong>Description de l'image</strong></p>
+    <p>Une membre de la Gendarmerie royale du Canada sur la page Web de Canada.ca axée sur les emplois et le milieu de travail.</p>
   </section>
   <section id="wp6-1-3">
-    <h4>Image sizing and placement</h4>
-    <p>Learn where to place images and videos on Canada.ca and what size they should be:</p>
+    <h4>Taille et positionnement des images</h4>
+    <p>Pour savoir où placer les images et les vidéos dans Canada.ca et quelle devrait être leur taille&nbsp;:</p>
     <ul>
-      <li>use the templates in the <cite><a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-eng.asp">Canada.ca Content and Information Architecture Specification</a></cite></li>
-      <li>see the <a href="https://wet-boew.github.io/themes-dist/GCWeb/index-en.html">Canada.ca page types on GitHub</a></li>
+      <li>utilisez les modèles contenus dans les <cite><a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-fra.asp">Spécifications du contenu et de l'architecture de l'information pour Canada.ca</a></cite>;</li>
+      <li>référez-vous aux <a href="http://wet-boew.github.io/themes-dist/GCWeb/index-fr.html">types de pages pour Canada.ca sur le site GitHub</a>.</li>
     </ul>
   </section>
-  <h4>See how the rule for using images applies in French</h4>
-  <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp6-1">6.1 Comprendre le but des images sur le Web</a></span></li>
-  </ul>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for using images", "title": "6.1 Understand the purpose of images online", "url": "https://design.canada.ca/style-guide/#wp6-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp6-1"}'></div>
+  <div class="well panel"> 
+    <!--UPDATE LATER-->
+    <p><a href="{{ site.urldesign }}/style-guide/#wp6-1" aria-label="Voyez comment la règle sur l'utilisation d'images s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20d'images%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp6-1" aria-label="Diffusez la règle sur l'utilisation d'images par courriel">Diffusez cette règle par courriel</a></p>
   </div>
 </section>
 <section id="wp6-2">
-  <h3>6.2 Include alternative text for images</h3>
-  <p>Alternative text (or alt text) is text that describes an image. It makes it possible for people using assistive technologies to access the information conveyed by an image. It also helps search engines better understand the purpose of the image.</p>
-  <p>When you're writing alternative text for a <a href="#wp6-1-1">functional image</a>:</p>
+  <h3>6.2 Ajouter un texte alternatif aux images </h3>
+  <p>Un texte alternatif (ou texte de remplacement ou texte Alt) est de l'information qui décrit une image. Il lui donne un sens lorsqu'une personne utilise des technologies d'aide pour l'interpréter. Il permet aussi aux moteurs de recherche de mieux déchiffrer l'intention des fichiers d'image.</p>
+  <p>Pour rédiger un texte alternatif pour des <a href="#wp6-1-1">images fonctionnelles</a>&nbsp;:</p>
   <ul>
-    <li>describe the image as if you were describing it to someone over the phone</li>
-    <li>use as few words as possible</li>
-    <li>limit the text to around 140 characters (including spaces)</li>
-    <li>use the text that is embedded in the image only if it provides enough context; otherwise, write different text that includes more information</li>
-    <li>use the null indicator as the alternative text (alt="") if the image doesn't provide any more information than what is already provided in the text on the page</li>
-    <li>don't use "image of..." or "graphic of..." to describe the image; screen readers do this already</li>
+    <li>décrivez l'image comme si vous la décriviez à quelqu'un au téléphone;</li>
+    <li>utilisez le moins de mots possible;</li>
+    <li>tentez de limiter le texte à moins de 170 caractères (y compris les espaces);</li>
+    <li>utilisez le texte qui figure sur une image fonctionnelle comme texte alternatif seulement s'il fournit suffisamment de contexte, ou rédigez un autre texte en incluant plus d'information;</li>
+    <li>utilisez l'indicateur vide (alt="") comme texte alternatif si l'image ne donne pas davantage de renseignements que ce que fournit déjà le texte avoisinant;</li>
+    <li>ne décrivez pas une image ou un graphique par le même mot (par exemple, &laquo;&nbsp;image du...&nbsp;&raquo; ou &laquo;&nbsp;graphique des...&nbsp;&raquo;), car les lecteurs d'écran le font déjà.</li>
   </ul>
-  <p><a href="#wp6-1-2">Decorative images</a> don't require additional information to make them accessible or visible to search engines. Use the null indicator as the alternative text (alt="").</p>
-  <h4>See how the rule for alternative text for images applies in French</h4>
-  <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp6-2">6.2 Ajouter un texte alternatif aux images</a></span></li>
-  </ul>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for alternative text for images", "title": "6.2 Include alternative text for images", "url": "https://design.canada.ca/style-guide/#wp6-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp6-2"}'></div>
+  <p>Les <a href="#wp6-1-2">images décoratives</a> n'exigent pas de renseignements supplémentaires pour les rendre accessibles ou visibles aux moteurs de recherche. Utilisez l'indicateur vide (alt="") en guise de texte alternatif.</p>
+  <div class="well panel"> 
+    <!--UPDATE LATER-->
+    <p><a href="{{ site.urldesign }}/style-guide/#wp6-2" aria-label="Voyez comment la règle sur l'ajout de texte alternatif s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'ajout%20de%20texte%20alternatif%20aux%20photos%20ou%20graphiques%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp6-2" aria-label="Diffusez la règle sur l'ajout de texte alternatif par courriel">Diffusez cette règle par courriel</a></p>
   </div>
 </section>
 <section id="wp6-3">
-  <h3>6.3 Include long descriptions for complex images</h3>
-  <p>Long descriptions explain information that is presented in complex infographics or images. You must provide a long description if you can't describe the content and function of the image in less than 140 characters. If you can describe the image in less than 140 characters, use alternative text instead.</p>
-  <p>If a detailed and equivalent explanation of the image appears in the text immediately before or after a complex image, you don't have to provide a long description.</p>
-  <p>If you provide a long description for an image, you must also provide alternative text for the long description.</p>
-  <p>Figure 1 illustrates a number of concepts. It requires a long description.</p>
-  <h4>Example: Long description for the balanced scorecard</h4>
+  <h3>6.3 Ajouter une description longue pour expliquer les images complexes</h3>
+  <p>Les descriptions longues expliquent l'information qui est présentée dans un élément infographique ou une image complexe. Vous devez fournir une description longue s'il est impossible de décrire le contenu et la fonction de l'image en moins de 170 caractères. S'il est possible de décrire l'image en moins 170 caractères, fournissez un texte alternatif.</p>
+  <p>Si une explication détaillée d'une image complexe figure dans le texte qui précède ou qui suit immédiatement l'image, il n'est pas nécessaire de fournir une description longue.</p>
+  <p>Si vous fournissez une description longue pour une image, vous devez aussi fournir un texte alternatif qui renvoie à la description longue.</p>
+  <p>La figure 1 illustre un certain nombre de concepts. Elle nécessite une description longue.</p>
+  <h4>Exemple&nbsp;: Description longue pour le tableau de bord</h4>
   <figure class="mrgn-bttm-lg">
-    <figcaption class="text-center"> <strong>Figure 1: using a balanced scorecard approach to monitor key performance indicators</strong> </figcaption>
-    <img alt="A balanced scorecard showing how business activities align with an organization's vision and strategy to monitor key performance indicators. Text version below. " class="img-responsive center-block" src="/style-guide/images/fig-01b-eng.jpg">
-    <h5>Alternative text</h5>
-    <p>You could write the following alternative text for the image shown in Figure 1:</p>
-    <p>A balanced scorecard showing how business activities align with an organization's vision and strategy to monitor key performance indicators. Text version below.</p>
-    <h5>Long description</h5>
-    <p>You could write the following long description for the image shown in Figure 1:</p>
-    <p>A balanced scorecard is a strategic planning and management system used worldwide to align business activities with an organization's vision and strategy.</p>
-    <p>Business activities are grouped into 4 perspectives, all of which are interdependent and come from the vision and strategy. These are learning and growth, internal business processes, financial, and customer. Each has a question associated with it.</p>
+    <figcaption class="text-center"> <strong>Figure 1&nbsp;: Utilisation d'un tableau de bord symétrique pour surveiller les principaux indicateurs de rendement</strong> </figcaption>
+    <img alt="Figure 1&nbsp;: Utilisation d'un tableau de bord symétrique pour surveiller les principaux indicateurs de rendement" class="img-responsive center-block" src="/guide-redaction/images/fig-01b-fra.jpg">
+    <h5>Texte alternatif</h5>
+    <p>Vous pourriez écrire le texte alternatif suivant pour décrire l'image présentée à la figure 1&nbsp;:</p>
+    <p>Tableau de bord illustrant comment les activités opérationnelles s'associent à la vision et à la stratégie de l'organisation pour surveiller les indicateurs de rendement. La version textuelle suit.</p>
+    <h5>Description longue</h5>
+    <p>Vous pourriez écrire la description longue suivante pour décrire l'image présentée à la figure&nbsp;1&nbsp;:</p>
+    <p>Un tableau de bord équilibré est un outil de planification stratégique et de gestion utilisé partout dans le monde pour harmoniser les activités opérationnelles avec la vision et la stratégie d'une organisation.</p>
+    <p>Les activités opérationnelles sont regroupées dans 4&nbsp;catégories, toutes interdépendantes, qui découlent de la vision et de la stratégie. Les catégories sont&nbsp;: l'apprentissage et la croissance, les processus opérationnels internes, la clientèle et les finances. Chacune est associée à une question.</p>
     <ul>
-      <li>Learning and growth</li>
+      <li>Apprentissage et croissance</li>
     </ul>
-    <p>To achieve our vision, how will we sustain our ability to change and improve?</p>
+    <p>Pour concrétiser notre vision, comment devons-nous conserver notre capacité à changer et à nous améliorer?</p>
     <ul>
-      <li>Internal business processes</li>
+      <li>Processus opérationnels internes</li>
     </ul>
-    <p>To satisfy our shareholders and customers, what business processes must we excel at?</p>
+    <p>Pour satisfaire nos actionnaires et nos clients, quels processus opérationnels devons-nous maîtriser à la perfection?</p>
     <ul>
-      <li>Financial</li>
+      <li>Finances</li>
     </ul>
-    <p>To succeed financially, how should we appear to our shareholders?</p>
+    <p>Pour prospérer, quelle image devons-nous projeter à nos actionnaires?</p>
     <ul>
-      <li>Customer</li>
+      <li>Clientèle</li>
     </ul>
-    <p>To achieve our vision, how should we appear to our customers?</p>
-    <p>Each perspective can be monitored using the following 4 components:</p>
+    <p>Pour concrétiser notre vision, quelle image devons-nous projeter à nos clients?</p>
+    <p>Chaque catégorie peut être évaluée à l'aide des 4 éléments suivants&nbsp;:</p>
     <ul>
-      <li>objectives</li>
+      <li>objectifs</li>
       <li>messages</li>
-      <li>targets</li>
+      <li>buts</li>
       <li>initiatives</li>
     </ul>
   </figure>
-  <p>Figure 2 is a bar chart. The information in it came from a data table. You could therefore use the table as the long description for this image.</p>
-  <h4>Example: Long description for the bar chart illustrating the proportion of men and women in the public service for selected years from 1983 to 2010</h4>
+  <p>La figure 2 est un graphique à barres qui représente les données contenues dans le tableau de données. Vous pourriez donc utiliser le tableau comme description longue pour accompagner cette image.</p>
+  <h4>Exemple&nbsp;: Description longue pour le graphique à barres illustrant le rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010</h4>
   <figure class="mrgn-bttm-lg">
-    <figcaption class="text-center"> <strong>Figure 2: proportion of men and women in the public service for selected years from 1983 to 2010</strong> </figcaption>
-    <img alt="Comparison of the ratio of women and men in the civil service between 1983 and 2010. Text version below." class="img-responsive center-block" src="/style-guide/images/fig-02b-eng.jpg">
-    <p>Source: Office of the Chief Human Resources Officer, Treasury Board of Canada Secretariat <br>
-      Note: Includes all tenures. Figures do not include employees on leave without pay.</p>
-    <h5>Alternative text</h5>
-    <p>You could write the following alternative text:</p>
-    <p>Comparison of the ratio of women and men in the civil service between 1983 and 2010. Text version below.</p>
-    <h5>Long description</h5>
-    <p>You could write the following long description text:</p>
+    <figcaption class="text-center"> <strong>Figure 2: Rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010</strong> </figcaption>
+    <img alt="Rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010" class="img-responsive center-block" src="/guide-redaction/images/fig-02b-fra.jpg">
+    <p>Source&nbsp;: Bureau du dirigeant principal des ressources humaines, Secrétariat du Conseil du Trésor du Canada<br>
+      Remarque&nbsp;: Comprend tous les types de postes. Les chiffres ne tiennent pas compte des employés en congé non payé.</p>
+    <h5>Texte alternatif</h5>
+    <p>Vous pourriez écrire le texte alternatif suivant&nbsp;:</p>
+    <p>Comparaison entre la proportion d'hommes et de femmes dans la fonction publique entre 1983 et 2010. La version textuelle suit.</p>
+    <h5>Description longue</h5>
+    <p>Vous pourriez écrire la description longue suivante&nbsp;:</p>
     <table class="table table-bordered table-condensed">
       <caption>
-      <strong>Figure 2: proportion of men and women in the public service for selected years 1983 to 2010</strong>
+      <strong>Figure 2: Rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010</strong>
       </caption>
       <thead>
         <tr class="active">
-          <th scope="col"><strong>Gender (by percentage)</strong></th>
-          <th scope="col"><strong>1983</strong></th>
-          <th scope="col"><strong>1988</strong></th>
-          <th scope="col"><strong>1993</strong></th>
-          <th scope="col"><strong>1998</strong></th>
-          <th scope="col"><strong>2003</strong></th>
-          <th scope="col"><strong>2008</strong></th>
-          <th scope="col"><strong>2010</strong></th>
+          <th scope="col">Sexe (en pourcentage) </th>
+          <th class="text-right" scope="col">1983</th>
+          <th class="text-right" scope="col">1988</th>
+          <th class="text-right" scope="col">1993</th>
+          <th class="text-right" scope="col">1998</th>
+          <th class="text-right" scope="col">2003</th>
+          <th class="text-right" scope="col">2008</th>
+          <th class="text-right" scope="col">2010</th>
+        </tr>
+        <tr>
+          <th scope="row">Hommes</th>
+          <td class="text-right">58,2</td>
+          <td class="text-right">55,7</td>
+          <td class="text-right">52,9</td>
+          <td class="text-right">49,6</td>
+          <td class="text-right">46,7</td>
+          <td class="text-right">45,1</td>
+          <td class="text-right">44,8</td>
+        </tr>
+        <tr>
+          <th scope="row">Femmes</th>
+          <td class="text-right">41,8</td>
+          <td class="text-right">44,3</td>
+          <td class="text-right">47,1</td>
+          <td class="text-right">50,4</td>
+          <td class="text-right">53,3</td>
+          <td class="text-right">54,9</td>
+          <td class="text-right">55,2</td>
+        </tr>
+        <tr>
+          <td class="small" colspan="8"><p>Source&nbsp;: Bureau du dirigeant principal des ressources humaines, Secrétariat du Conseil du Trésor du Canada<br>
+              Remarque&nbsp;: Comprend tous les types de postes. Les chiffres ne tiennent pas compte des employés en congé sans solde.</p></td>
         </tr>
       </thead>
       <tbody>
-        <tr>
-          <td>Men</td>
-          <td class="text-right nowrap">58.2</td>
-          <td class="text-right nowrap">55.7</td>
-          <td class="text-right nowrap">52.9</td>
-          <td class="text-right nowrap">49.6</td>
-          <td class="text-right nowrap">46.7</td>
-          <td class="text-right nowrap">45.1</td>
-          <td class="text-right nowrap">44.8</td>
-        </tr>
-        <tr>
-          <td>Women</td>
-          <td class="text-right nowrap">41.8</td>
-          <td class="text-right nowrap">44.3</td>
-          <td class="text-right nowrap">47.1</td>
-          <td class="text-right nowrap">50.4</td>
-          <td class="text-right nowrap">53.3</td>
-          <td class="text-right nowrap">54.9</td>
-          <td class="text-right nowrap">55.2</td>
-        </tr>
       </tbody>
       <tfoot>
-        <tr>
-          <td class="small" colspan="8"><p>Source: Office of the Chief Human Resources Officer, Treasury Board of Canada Secretariat<br>
-              Note: Includes all tenures. Figures do not include employees on leave without pay.</p></td>
-        </tr>
       </tfoot>
     </table>
   </figure>
-  <p>Work with your web team to determine the best way to include the long description information. They'll guide you on how to make sure the image is accessible to people using assistive technology. They'll also ensure that your image meets the <cite><a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-eng.asp">Canada.ca Content and Information Architecture Specification</a></cite>.</p>
-  <h4>See how the rule for long descriptions applies in French</h4>
-  <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp6-3">6.3 Ajouter une description longue pour expliquer les images complexes</a></span></li>
-  </ul>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for long descriptions", "title": "6.3 Include long descriptions for complex images", "url": "https://design.canada.ca/style-guide/#wp6-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp6-3"}'></div>
+  <p>Collaborez avec votre équipe Web pour déterminer la meilleure façon d'insérer la description longue. Elle vous conseillera sur la façon de s'assurer que l'information contenue dans l'image est accessible aux personnes qui utilisent les technologies d'aide. Votre équipe Web s'assurera également que l'image respecte les <cite><a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-fra.asp">Spécifications du contenu et de l'architecture de l'information pour Canada.ca</a></cite>.</p>
+  <div class="well panel"> 
+    <!--UPDATE LATER-->
+    <p><a href="{{ site.urldesign }}/style-guide/#wp6-3" aria-label="Voyez comment la règle sur l'ajout d'une description longue s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'ajout%20d'une%20description%20longue%20aux%20images%20complexes%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp6-3" aria-label="Diffusez la règle sur l'ajout d'une description longue par courriel">Diffusez cette règle par courriel</a></p>
   </div>
 </section>
 <section id="wp6-4">
-  <h3>6.4 Include transcripts to describe audio and video files</h3>
-  <p>A transcript is the text equivalent of an audio or video file. They make it easier for people who need to access information in audio or visual media but can't hear or see the content because:</p>
+  <h3>6.4 Ajouter une transcription pour décrire les fichiers audio et vidéo</h3>
+  <p>Une transcription est le texte qui décrit un fichier audio ou vidéo. Les transcriptions facilitent l'accès à l'information contenue dans des fichiers multimédias audio ou visuels pour les personnes qui ne peuvent entendre ou voir le contenu en raison&nbsp;:</p>
   <ul>
-    <li>they have a disability</li>
-    <li>don't have equipment such as speakers or headphones</li>
-    <li>don't want to download a large file</li>
+    <li>d'un handicap;</li>
+    <li>d'un manque d'équipement comme des haut-parleurs ou des écouteurs;</li>
+    <li>de leur décision de ne pas télécharger un gros fichier vidéo.</li>
   </ul>
-  <p>Make sure the transcript describes all pre-recorded information and action, including:</p>
+  <p>Assurez-vous que la transcription de texte décrit tout le contenu préenregistré (information et action), y compris&nbsp;:</p>
   <ul>
-    <li>on-screen text</li>
-    <li>dialogue and narration </li>
-    <li>important sounds (such as an explosion)</li>
-    <li>important action (for example, people running away from an explosion or characters wearing disguises)</li>
+    <li>le texte à l'écran;</li>
+    <li>les dialogues et la narration;</li>
+    <li>les sons importants (comme une explosion);</li>
+    <li>une action ou un élément visuel important (par exemple, une personne qui s'enfuit, qui porte un costume).</li>
   </ul>
-  <h4>See how the rule for transcripts applies in French</h4>
-  <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp6-4">6.4 Ajouter une transcription pour décrire les fichiers audio et vidéo</a></span></li>
-  </ul>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for transcripts", "title": "6.4 Include transcripts to describe audio and video files", "url": "https://design.canada.ca/style-guide/#wp6-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp6-4"}'></div>
+  <div class="well panel"> 
+    <!--UPDATE LATER-->
+    <p><a href="{{ site.urldesign }}/style-guide/#wp6-4" aria-label="Voyez comment la règle sur l'ajout d'une transcription aux fichiers audio et vidéo s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'ajout%20d'une%20transcription%20pour%20décrire%20les%20fichiers%20audio%20et%20vidéo%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp6-4" aria-label="Diffusez la règle sur l'ajout d'une transcription aux fichiers audio et vidéo par courriel">Diffusez cette règle par courriel</a></p>
   </div>
 </section>
 <section id="toc11">
-  <h2>7.0 Links</h2>
+  <h2>7.0 Liens</h2>
   <div class="row mrgn-tp-lg">
     <div class="col-md-8">
       <div class="panel panel-default">
         <div class="panel-body">
-          <h3 class="mrgn-tp-sm">In this section</h3>
+          <h3 class="mrgn-tp-sm">Dans cette section</h3>
           <ul>
-            <li><a href="#wp7-1">7.1 Use links strategically</a>
+            <li><a href="#wp7-1">7.1 Utiliser les liens de façon stratégique</a>
               <ul>
-                <li><a href="#wp7-1-1">Carefully select related content</a></li>
+                <li><a href="#wp7-1-1">Choisir le contenu connexe avec soin</a></li>
               </ul>
             </li>
-            <li><a href="#wp7-2">7.2 Write descriptive links</a>
+            <li><a href="#wp7-2">7.2 Rédiger des liens descriptifs</a>
               <ul>
-                <li><a href="#wp7-2-1">Focus on the task</a></li>
+                <li><a href="#wp7-2-1">Mettre l'accent sur la tâche</a></li>
               </ul>
             </li>
-            <li><a href="#wp7-3">7.3 Make sure that links work</a></li>
-            <li><a href="#wp7-4">7.4 Linking to non-government content </a></li>
+            <li><a href="#wp7-3">7.3 Vérifier que les liens fonctionnent </a></li>
+            <li><a href="#wp7-4">7.4 Créer des liens vers du contenu externe</a></li>
           </ul>
         </div>
       </div>
     </div>
   </div>
-  <p>A link (or hyperlink) is a word, phrase or image on a web page that people click on to move to another part of the same content or to access an entirely different web resource (such as a web page, video or downloadable file).</p>
-  <p>People who use assistive technology can navigate web content using links. For example, screen readers list all links on a page without the contextual content.</p>
-  <p>Your links should be descriptive and able to stand alone so that it's clear what people can expect if they click on them.</p>
+  <p>Un lien (ou hyperlien) est un mot, une phrase ou une image d'une page Web sur lequel la personne peut cliquer pour accéder à une autre partie du contenu de la page ou à une autre ressource Web (c'est-à-dire une page Web, une vidéo ou un fichier téléchargeable).</p>
+  <p>Les personnes qui utilisent les technologies d'aide peuvent naviguer dans le contenu Web à l'aide de liens. Par exemple, les lecteurs d'écran énumèrent tous les liens d'une page sans afficher le contenu contextuel.</p>
+  <p>Vos liens doivent être descriptifs et conserver leur sens, même hors contexte, de façon à indiquer à quoi les gens peuvent s'attendre lorsqu'ils les sélectionnent.</p>
   <section id="wp7-1">
-    <h3>7.1 Use links strategically</h3>
-    <p>Be strategic about how you place and create links on a web page and about how many links you provide:</p>
+    <h3>7.1 Utiliser les liens de façon stratégique</h3>
+    <p>Réfléchissez bien à la façon de créer vos liens. Choisissez stratégiquement la façon de présenter les liens dans une page Web ainsi que le nombre de liens&nbsp;:</p>
     <ul>
-      <li>include links that directly support the topic or task on the current page</li>
-      <li>link to the original information posted by the authoritative source </li>
-      <li>don't include links to intranet sites unless the content targets government employees, in which case you should add "(accessible only on the Government of Canada network)"</li>
-      <li>don't bury links that are crucial to completing a task in the middle of a paragraph or at the bottom of the page</li>
+      <li>ajoutez des liens qui appuient directement le sujet ou la tâche de la page en question;</li>
+      <li>fournissez des liens menant au à l'information d'origine publiée par la source faisant autorité;</li>
+      <li>n'incluez pas de liens vers des sites intranet sauf si le contenu est destiné à des employés fédéraux, auquel cas il faudra ajouter la mention &laquo;&nbsp;(accessible uniquement sur le réseau du gouvernement du Canada)&nbsp;&raquo;;</li>
+      <li>ne mettez pas de liens essentiels à la tâche au milieu d'un paragraphe ou au bas d'une page.</li>
     </ul>
-    <h4>Example of appropriate use of links</h4>
-    <h6>Write:</h6>
-    <p>A Food Guide serving is&nbsp;how much&nbsp;food you should eat from each of the 4 food groups every day. In some cases, a serving is the amount of a given food group that you normally eat in one sitting, like an apple. In other cases, the daily amount is more than one serving, such as for rice or pasta.</p>
-    <p><a href="https://www.hc-sc.gc.ca/fn-an/food-guide-aliment/basics-base/quantit-eng.php">Number of daily food servings for children, teens and adults</a></p>
-    <h6>Instead of:</h6>
-    <p>A Food Guide Serving is simply a reference amount. It helps you understand&nbsp;<a href="https://www.hc-sc.gc.ca/fn-an/food-guide-aliment/basics-base/quantit-eng.php">how much</a> food is recommended every day from each of the four food groups. In some cases, a Food Guide Serving may be close to what you eat, such as an apple. In other cases, such as rice or pasta, you may serve yourself more than one Food Guide Serving.</p>
+    <h4>Exemple d'une utilisation appropriée des hyperliens</h4>
+    <h6>Écrivez&nbsp;:</h6>
+    <p>Une portion selon le Guide alimentaire est la quantité d'aliments de chacun des 4 groupes que l'on devrait manger chaque jour. Dans certains cas, une portion correspond à un aliment que l'on mange habituellement en une seule fois, comme une pomme. Dans d'autres, la quantité quotidienne correspond à plus d'une portion, comme pour du riz ou des pâtes.</p>
+    <p><a href="http://www.hc-sc.gc.ca/fn-an/food-guide-aliment/basics-base/quantit-fra.php">Nombre de portions quotidiennes pour les enfants, les adolescents et les adultes</a></p>
+    <h6>Au lieu de&nbsp;:</h6>
+    <p>Une portion du Guide alimentaire est tout simplement une à titre de référence qui vous aide à comprendre la <a href="http://www.hc-sc.gc.ca/fn-an/food-guide-aliment/basics-base/quantit-fra.php" title="quantités">quantité</a> d'aliments recommandée chaque jour dans chacun des groupes alimentaires. Dans certains cas, une portion du Guide alimentaire peut se rapprocher de ce que vous mangez, comme une pomme. Dans d'autres cas, comme lorsqu'il s'agit de riz ou de pâtes alimentaires, vous vous servez peut-être plus d'une portion du Guide alimentaire à la fois.</p>
+    <section id="wp7-1-1">
+      <h4>Choisir le contenu connexe avec soin</h4>
+      <p>Ajouter des liens vers d'autres pages Web pertinentes peut aider les gens à trouver rapidement des renseignements utiles. Les liens qui mènent à vos pages à partir d'autres pages Web peuvent aussi améliorer le classement de vos pages dans la liste des résultats générée par les moteurs de recherche.</p>
+      <p>Choisissez avec soin les liens connexes. Trop de liens dans une page Web pourraient inciter les gens à quitter la page sans avoir lu l'information importante ou les dissuader d'exécuter une tâche.</p>
+    </section>
+    <div class="well panel"> 
+      <!--UPDATE LATER-->
+      <p><a href="{{ site.urldesign }}/style-guide/#wp7-1" aria-label="Voyez comment la règle sur l'utilisation stratégique des liens s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20stratégique%20des%20liens%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp7-1" aria-label="Diffusez la règle sur l'utilisation stratégique des liens par courriel">Diffusez cette règle par courriel</a></p>
+    </div>
   </section>
-  <section id="wp7-1-1">
-    <h4>Carefully select related content</h4>
-    <p>Providing links to other relevant web pages can help people find related information quickly. Links to your pages from other pages may also help improve where your page ranks in search results.</p>
-    <p>Be sure to select related links carefully. Too many links on a page can cause people to leave the page without reading important information or can discourage them from completing a task.</p>
+  <section id="wp7-2">
+    <h3>7.2 Rédiger des liens descriptifs</h3>
+    <p>Le texte du lien doit décrire clairement le contenu auquel le lien donne accès. Il est plus facile pour une personne d'accomplir une tâche lorsque le contenu auquel renvoie le lien correspond à ce qu'elle s'attend à y trouver. Assurez-vous que le texte est assez descriptif pour indiquer vers quel contenu le lien permettra d'accéder.</p>
+    <p>Il n'est pas nécessaire que le texte du lien soit identique au titre de la page de destination pour se conformer aux <cite>Règles pour l'accessibilité des contenus Web</cite>. Il suffit que les principaux mots-clés du lien correspondent au titre de la page afin d'indiquer à la personne qu'elle est au bon endroit.</p>
+    <p>Pour rédiger des liens descriptifs et utiles&nbsp;:</p>
+    <ul>
+      <li>utilisez les premiers mots du titre de la page de destination ou son titre complet s'il est assez descriptif;</li>
+      <li>commencez par des mots-clés qui décrivent bien la page de destination si le titre de page ne suffit pas;</li>
+      <li>utilisez un texte descriptif différent pour chaque lien se trouvant sur une même page;</li>
+      <li>utilisez un texte identique lorsque plusieurs liens sur une page Web renvoient à la même page de destination;</li>
+      <li>indiquez si le contenu doit être téléchargé et décrivez ce contenu;</li>
+      <li>écrivez les adresses de courriel au long, en hyperlien, avec des lettres minuscules (envoyez un courriel à <a href="#wp7-2" aria-label="Exemple d'une adresse de courriel appropriée">questions@canada.ca</a>)</li>
+    </ul>
+    <p>N'utilisez pas&nbsp;:</p>
+    <ul>
+      <li>le même texte pour des liens qui mènent à 2 pages différentes;</li>
+      <li>d'expressions vagues comme &laquo;&nbsp;cliquez ici&nbsp;&raquo; ou &laquo;&nbsp;pour en savoir plus&nbsp;&raquo;;</li>
+      <li>de message promotionnel qui risque d'être déroutant pour quelqu'un qui tente de décider s'il naviguera jusqu'à la page.</li>
+    </ul>
+    <section id="wp7-2-1">
+      <h4>Mettre l'accent sur la tâche</h4>
+      <p>Lorsque vous rédigez des instructions sur la façon d'exécuter une tâche, vous devez parfois insérer un lien pour diriger la personne vers les formulaires ou d'autres documents. Créez ce lien en mettant l'accent sur l'action qu'elle doit accomplir.</p>
+      <p>Ne répétez pas le titre d'un formulaire ou d'un document dans les étapes à suivre si ce titre n'est pas assez descriptif.</p>
+      <h4>Exemple de la façon d'utiliser des hyperliens en mettant l'accent sur la tâche</h4>
+      <h6>Écrivez&nbsp;:</h6>
+      <p>Pour obtenir le taux maximal de prestations d'assurance-emploi auquel vous avez droit&nbsp;:</p>
+      <ul>
+        <li>ouvrez le <a href="http://www.servicecanada.gc.ca/fi-if/index.jsp?app=prfl&amp;frm=ins5241&amp;lang=fra">formulaire servant à déclarer votre revenu</a> assurable;</li>
+        <li>indiquez les semaines durant lesquelles vos revenus assurables étaient les plus élevés durant la plus courte des 2&nbsp;périodes suivantes&nbsp;:
+          <ul>
+            <li>vos 52 dernières semaines d'emploi;</li>
+            <li>depuis le début de votre dernière demande;</li>
+          </ul>
+        </li>
+        <li>retournez le formulaire rempli en personne au <a href="http://www.servicecanada.gc.ca/cgi-bin/sc-srch.cgi?app=hme&amp;ln=fra">bureau de Service Canada le plus près de chez vous</a>.</li>
+      </ul>
+      <h6>Au lieu de&nbsp;:</h6>
+      <p>Pour obtenir le taux maximal de prestations d'assurance-emploi auquel vous avez droit, remplissez le formulaire <a href="http://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=ins5241&amp;ln=fra">Attestation du prestataire – Semaines durant lesquelles la rémunération assurable était la plus élevée (Meilleures semaines variables)</a>. Inscrivez-y les renseignements requis concernant les semaines durant lesquelles vos revenus assurables étaient les plus élevés durant vos 52 dernières semaines d'emploi ou depuis le début de votre dernière demande, selon la plus courte période des deux.</p>
+      <div class="well panel"> 
+        <!--UPDATE LATER-->
+        <p><a href="{{ site.urldesign }}/style-guide/#wp7-2" aria-label="Voyez comment la règle sur la rédaction de liens descriptifs s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+        <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20la%20rédaction%20de%20liens%20descriptifs%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp7-2" aria-label="Diffusez la règle sur la rédaction de liens descriptifs par courriel">Diffusez cette règle par courriel</a></p>
+      </div>
+    </section>
   </section>
-  <h4>See how the rule for using links strategically applies in French</h4>
-  <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp7-1">7.1 Utiliser les liens de façon stratégique</a></span></li>
-  </ul>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for using links strategically", "title": "7.1 Use links strategically", "url": "https://design.canada.ca/style-guide/#wp7-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-1"}'></div>
-  </div>
-</section>
-<section id="wp7-2">
-  <h3>7.2 Write descriptive links</h3>
-  <p>A link must describe the content a person will find once they click on it. It's easier to complete a task when a link's destination matches a person's expectations. Make sure links are descriptive so that person will understand what they'll get when they click on them.</p>
-  <p>The text you hyperlink doesn't have to match the title of the destination page to be compliant with <cite>Web Content Accessibility Guidelines</cite>. Text in a link gets some context from the web page's content. Make sure the main keywords of the link text correspond to the page title so that people know they're in the right place.</p>
-  <p>Tips for providing useful links:</p>
-  <ul>
-    <li>use the first words of the target page or its entire title if it's descriptive enough</li>
-    <li>start with keywords that accurately describe the target page if the page title isn't enough</li>
-    <li>make sure that all links on the same page use unique descriptive text if they link to different target pages</li>
-    <li>when more than one link on a web page links to the same destination page, use the same words for the hyperlink</li>
-    <li>describe any content that must be downloaded</li>
-    <li>write email addresses in full, in lower case and as active links (contact <a href="#wp7-2" aria-label="Example of an appropriate email address">helpdesk@canada.ca</a>)</li>
-  </ul>
-  <p>Don't use:</p>
-  <ul>
-    <li>the same link text to point to 2 different pages </li>
-    <li>vague statements such as "click here" or "read more" </li>
-    <li>promotional messaging that might confuse someone who is deciding whether to go to the page that is being linked&nbsp;to</li>
-  </ul>
-  <section id="wp7-2-1">
-    <h4>Focus on the task</h4>
-    <p>When writing instructions for completing a task, sometimes you need to insert a link to guide the person to forms or other documents. Focus on the action they must perform when you create the link.</p>
-    <p>Don't repeat the name of a form or document in the steps to accomplish a task if the name isn't descriptive.</p>
-    <h4>Example of the use of links that focus on the task</h4>
-    <h6>Write:</h6>
-    <p>To get the highest Employment Insurance amount available to you:</p>
-    <ol>
-      <li>open the <a href="https://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=ins5241&amp;ln=eng">form you need to declare your income</a></li>
-      <li>identify your highest weeks of insurable income in the shortest period below:
-        <ul>
-          <li>the last 52 weeks of employment </li>
-          <li>since the start of your last claim </li>
-        </ul>
-      </li>
-      <li>return the completed form in person to the <a href="https://www.servicecanada.gc.ca/cgi-bin/sc-srch.cgi?app=hme&amp;ln=eng">Service Canada office closest to you</a></li>
-    </ol>
-    <h6>Instead of:</h6>
-    <p>To ensure that you are paid the maximum Employment Insurance (EI) benefit rate that you are entitled to, complete the <a href="https://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=ins5241&amp;ln=eng">Claimant Attestation - Highest Weeks of Insurable Earnings (Variable Best Weeks) form</a> with the required information about your highest weeks of insurable earnings in the last 52 weeks of employment or since the start of your last claim, whichever is the shorter period of the two.</p>
+  <section id="wp7-3">
+    <h3>7.3 Vérifier que les liens fonctionnent</h3>
+    <p>Vérifiez vos liens pour vous assurer qu'ils fonctionnent. Assurez-vous aussi qu'ils dirigent les gens vers la bonne page, soit celle qui contient des renseignements à jour, dans la langue officielle voulue. Des liens qui fonctionnent mal exaspèrent les gens et compromettent la crédibilité de votre contenu.</p>
+    <div class="well panel"> 
+      <!--UPDATE LATER-->
+      <p><a href="{{ site.urldesign }}/style-guide/#wp7-3" aria-label="Voyez comment la règle sur la vérification des liens s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'importance%20de%20vérifier%20les%20liens%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp7-3" aria-label="Diffusez la règle sur la vérification des liens par courriel">Diffusez cette règle par courriel</a></p>
+    </div>
   </section>
-  <h4>See how the rule for writing descriptive links applies in French</h4>
-  <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp7-2">7.2 Rédiger des liens descriptifs</a></span></li>
-  </ul>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for writing descriptive links", "title": "7.2 Write descriptive links", "url": "https://design.canada.ca/style-guide/#wp7-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-2"}'></div>
-  </div>
-</section>
-<section id="wp7-3">
-  <h3>7.3 Make sure that links work</h3>
-  <p>Make sure that your links work. Check that they take people to the correct page, which contains up-to-date information, in the appropriate official language. Links that don't work frustrate people and hurt the credibility of your content.</p>
-  <h4>See how the rule for verifying links applies in French</h4>
-  <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp7-3">7.3 Vérifier que les liens fonctionnent</a></span></li>
-  </ul>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for verifying links", "title": "7.3 Make sure that links work", "url": "https://design.canada.ca/style-guide/#wp7-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-3"}'></div>
-  </div>
-</section>
-<section id="wp7-4">
-  <h3>7.4 Linking to non-government content</h3>
-  <p>Some non-government web content isn't available in both official languages. If you're linking to external web content that isn't available in the language of the current page, say in which language(s) it is available after the link.</p>
-  <p>On English pages, write the following after a link that leads to content that isn't available in English: "(XXXX only)".</p>
-  <p>If the link leads to content only available in:</p>
-  <ul>
-    <li>French, write "(French only)"</li>
-    <li>Inuktitut, write "(Inuktitut only)"</li>
-    <li>Spanish and Portuguese, write "(Spanish and Portuguese only)"</li>
-  </ul>
-  <h4>Example of a link that leads to content only available in French</h4>
-  <p><strong>Write</strong>: Find out how to <a href="https://passeport.ants.gouv.fr/Vos-demarches/Renouvellement-perte-ou-vol">renew your French passport while abroad in Canada</a> (French only).</p>
-  <h4>See how the rule for non-government content applies in French</h4>
-  <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp7-4">7.4 Créer des liens vers du contenu externe</a></span></li>
-  </ul>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for non-government content", "title": "7.4 Linking to non-government content", "url": "https://design.canada.ca/style-guide/#wp7-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-4"}'></div>
-  </div>
-</section>
-<section id="wp7-5">
-  <h3>7.5 Linking to internal-to-government content</h3>
-  <p>In most cases, public-facing content should not link to content that is accessible only through internal government networks. Occasionally, the audience for content that is accessible to the public may be primarily internal.</p>
-  <p>When a link leads to content available only on internal government networks, write "(accessible only on the Government of Canada network)."</p>
-  <h4>See how the rule for internal-to-government contente applies in French</h4>
-  <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp7-5">7.5 Créer des liens vers du contenu interne</a></span></li>
-  </ul>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for internal-to-government content", "title": "7.5 Linking to internal-to-government content", "url": "https://design.canada.ca/style-guide/#wp7-5", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-5"}'></div>
-  </div>
+  <section id="wp7-4">
+    <h3>7.4 Créer des liens vers du contenu externe</h3>
+    <p>Certains contenus pour lesquels le gouvernement ne fait pas autorité ne sont pas disponibles dans les 2 langues officielles. Si vous créez un lien vers du contenu Web externe qui n'est pas disponible dans la langue de la page courante, précisez la ou les langues dans lesquelles le contenu est disponible.</p>
+    <p>Sur les pages en français, ajoutez le texte suivant après un lien&nbsp;qui renvoie à du contenu qui n'est pas en français&nbsp;: (en XXXX seulement).</p>
+    <p>Si le lien renvoie à du contenu seulement disponible en&nbsp;:</p>
+    <ul>
+      <li>anglais, écrivez &laquo;&nbsp;&nbsp;(en anglais seulement)&nbsp;&raquo;;</li>
+      <li>inuktitut, écrivez &laquo;&nbsp;(en inuktitut seulement)&nbsp;&raquo;;</li>
+      <li>espagnol et portugais, écrivez &laquo;&nbsp;(en espagnol et portugais seulement)&nbsp;&raquo;.</li>
+    </ul>
+    <h4>Exemple de l'utilisation d'un hyperlien qui renvoie à un contenu disponible en anglais seulement</h4>
+    <p><strong>Écrivez</strong>&nbsp;: Informez-vous au sujet des <a href="https://help.cbp.gov/app/answers/detail/a_id/1192/~/canadian--citizens%2Fresidents%2Flanded-immigrants-entering-the-u.s.">documents requis pour permettre aux citoyens canadiens d'entrer aux États-Unis</a> (en anglais seulement).</p>
+    <div class="well panel"> 
+      <!--UPDATE LATER-->
+      <p><a href="{{ site.urldesign }}/style-guide/#wp7-4" aria-label="Voyez comment la règle sur le contenu externe s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20la%20création%20de%20liens%20vers%20du%20contenu%20externe%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp7-4" aria-label="Diffusez la règle sur le contenu externe par courriel">Diffusez cette règle par courriel</a></p>
+    </div>
+  </section>
+  <section id="wp7-5">
+    <h3>7.5 Créer des liens vers du contenu interne</h3>
+    <p>En général, le contenu destiné au public ne devrait pas contenir de liens renvoyant vers du contenu accessible seulement sur les serveurs internes du gouvernement. Il arrive cependant qu'un contenu accessible au public s'adresse essentiellement aux employés de la fonction publique.</p>
+    <p>Si vous créez un lien vers du contenu qui est disponible seulement sur les serveurs internes du gouvernement, écrivez &laquo;&nbsp;(accessible uniquement sur le réseau du gouvernement du Canada)&nbsp;&raquo;.</p>
+    <div class="well panel"> 
+      <!--UPDATE LATER-->
+      <p><a href="{{ site.urldesign }}/style-guide/#wp7-5" aria-label="Voyez comment la règle sur le contenu externe s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20la%20création%20de%20liens%20vers%20du%20contenu%20interne%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp7-5" aria-label="Diffusez la règle sur le contenu externe par courriel">Diffusez cette règle par courriel</a></p>
+    </div>
+  </section>
 </section>
 <section id="toc12">
-  <h2>Web content makeovers</h2>
-  <h3>Case study A: improve plain language and content structure</h3>
-  <h4>Before</h4>
-  <p>The Employment Insurance (EI) program offers temporary financial assistance to Canadians and individuals who are legally entitled to work in Canada, have a valid Social Insurance Number and remain in Canada during their benefit period. One type of benefits that the&nbsp;EI&nbsp;program offers is regular benefits.&nbsp;EI&nbsp;regular benefits are offered to people who have lost their employment through no fault of their own (for example, because of a shortage of work or because they were employed in seasonal work) and who are ready, willing, and capable of working each day but unable to find work.</p>
-  <p>Flesch-Kincaid reading level: 17.2</p>
-  <h4>After</h4>
-  <p>The Employment Insurance (EI) program could give you temporary financial help if you lost your job.</p>
-  <p>To qualify for regular benefits, you must:</p>
+  <h2>Refonte de contenu Web</h2>
+  <h3>Étude de cas A&nbsp;: simplifier le langage et améliorer la structure du contenu </h3>
+  <h4>Avant</h4>
+  <p>L'assurance-emploi est un programme qui offre un soutien de revenu temporaire aux Canadiens et aux personnes légalement autorisées à travailler au Canada qui ont un numéro d'assurance sociale valide et qui demeurent au Canada pendant la durée de leurs prestations. Le programme offre entre autres des prestations régulières aux personnes qui ont perdu leur emploi sans en être responsables (par exemple, à la suite d'un manque de travail ou parce qu'elles occupaient un emploi saisonnier) et qui sont prêtes et disposées à travailler et capables de le faire en tout temps, sans pouvoir trouver du travail.</p>
+  <p>Niveau de lecture Scolarius&nbsp;: 312 (initié)</p>
+  <h4>Après</h4>
+  <p>L'assurance-emploi peut offrir une aide financière si vous n'avez plus de travail. Vous pourriez recevoir de l'argent régulièrement, pendant un certain temps, pour vous permettre de vous concentrer sur vos recherches d'emploi.</p>
+  <p>Pour y avoir droit, vous devez&nbsp;:</p>
   <ul>
-    <li>be Canadian or legally able to work in Canada</li>
-    <li>have a valid social insurance number</li>
-    <li>have lost your job through no fault of your own</li>
-    <li>be ready, willing and able to work each day but still can't find work</li>
-    <li>stay in Canada while you're getting EI help</li>
+    <li>être Canadien ou avoir le droit de travailler au Canada;</li>
+    <li>avoir un numéro d'assurance sociale;</li>
+    <li>avoir perdu votre emploi sans que ce soit de votre faute;</li>
+    <li>être prêt à travailler et capable de le faire en tout temps;</li>
+    <li>demeurer au Canada pendant que vous recevez des prestations.</li>
   </ul>
-  <p>Flesch-Kincaidreading level<em>: </em>5.9</p>
-  <h4>What we did</h4>
-  <p>To improve this content, we:</p>
+  <p>Niveau de lecture Scolarius&nbsp;: 71 (primaire)</p>
+  <h4>Ce que nous avons fait</h4>
+  <p>Pour améliorer le contenu, nous avons&nbsp;:</p>
   <ul>
-    <li>created a list out of the items in the text&nbsp; </li>
-    <li>replaced complex nouns with verbs and complex verbs with simpler forms</li>
+    <li>subdivisé le paragraphe en liste d'éléments;</li>
+    <li>remplacé des noms et des verbes par des formes plus simples.</li>
   </ul>
-  <h3>Case study B: improve and simplify tables</h3>
-  <h4>Before</h4>
+  <h3>Étude de cas B&nbsp;: améliorer et simplifier les tableaux</h3>
+  <h4>Avant</h4>
   <table class="table table-bordered table-condensed">
     <caption class="text-center">
-    <strong>Table: supporting families and communities (in $ millions), Budget 2013</strong>
+    <strong>Soutenir les familles et les collectivités, Budget 2013</strong>
     </caption>
     <thead>
       <tr class="active">
-        <th scope="col">Supporting Families and Communities (in $ millions)</th>
-        <th class="text-right" scope="col">2013 to 2014</th>
-        <th class="text-right" scope="col">2014 to 2015</th>
-        <th class="text-right" scope="col">Total</th>
+        <th scope="col"><strong>Soutenir les familles et les collectivités (en millions de dollars)</strong></th>
+        <th class="text-right" scope="col"><strong>2013 à 14</strong></th>
+        <th class="text-right" scope="col"><strong>2014 à 15</strong></th>
+        <th class="text-right" scope="col"><strong>Total</strong></th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <th scope="row"><strong>Support for Families</strong></th>
+        <th scope="row"><strong>Soutenir les familles</strong></th>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Expanding Tax Relief for Home Care Services</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Élargir l'allègement fiscal à l'égard des services de soins à domicile</span></th>
         <td class="text-right">5</td>
         <td class="text-right">5</td>
         <td class="text-right">10</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Palliative and End-of-Life Care</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Soins palliatifs et soins de fin de vie</span></th>
         <td class="text-right">1</td>
         <td class="text-right">1</td>
         <td class="text-right">2</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Tariff Relief for Canadians Consumers</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Allègements tarifaires pour les consommateurs canadiens</span></th>
         <td class="text-right">76</td>
         <td class="text-right">76</td>
         <td class="text-right">152</td>
       </tr>
       <tr>
-        <th scope="row">Subtotal—Support for Families</th>
+        <th scope="row">Total partiel&nbsp;: Soutenir les familles</th>
         <td class="text-right">82</td>
         <td class="text-right">82</td>
         <td class="text-right">164</td>
@@ -2372,91 +2241,91 @@ title: "Canada.ca Content Style Guide"
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <th scope="row"><strong>Investing in Communities</strong></th>
+        <th scope="row"><strong>Investir dans les collectivités</strong></th>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Housing for Canadians in Need</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Logements pour les Canadiens dans le besoin</span></th>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Homelessness Partnering Strategy</span></th>
-        <td class="text-right">&nbsp;</td>
+        <th scope="row"><span class="mrgn-lft-md">Stratégie des partenariats de lutte contre l'itinérance</span></th>
+        <td>&nbsp;</td>
         <td class="text-right">119</td>
         <td class="text-right">119</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Investment in Affordable Housing</span></th>
-        <td class="text-right">&nbsp;</td>
+        <th scope="row"><span class="mrgn-lft-md">Investissement dans le logement abordable</span></th>
+        <td>&nbsp;</td>
         <td class="text-right">253</td>
         <td class="text-right">253</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Investment in Nunavut Housing</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Investir dans le logement au Nunavut </span></th>
         <td class="text-right">30</td>
         <td class="text-right">70</td>
         <td class="text-right">100</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Supporting and Honouring Veterans</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Soutenir les anciens combattants et leur rendre hommage </span></th>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Enhancing Veterans Affairs Canada's Funeral and Burial Program</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Améliorer le Programme de funérailles et d'inhumation d'Anciens Combattants Canada </span></th>
         <td class="text-right">63</td>
         <td class="text-right">2</td>
         <td class="text-right">65</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Road to 2017</span></th>
+        <th scope="row"><span class="mrgn-lft-md">En route vers 2017 </span></th>
         <td class="text-right">1</td>
         <td class="text-right">2</td>
         <td class="text-right">3</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Investments in Arts and Culture</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Investir dans les arts et la culture </span></th>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Massey Hall Revitalization</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Revitalisation du Massey Hall </span></th>
         <td class="text-right">8</td>
         <td class="text-right">&nbsp;</td>
         <td class="text-right">8</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Expanding Library Services for the</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Étendre les services de bibliothèque pour les Canadiens aveugles ou atteints d'une déficience visuelle</span></th>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Blind and Partially Sighted</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Super crédit pour premier don de bienfaisance </span></th>
         <td class="text-right">3</td>
         <td class="text-right">&nbsp;</td>
         <td class="text-right">3</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">First-Time Donor's Super Credit</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Appuyer la transition économique des collectivités associées à l'industrie de l'amiante chrysotile </span></th>
         <td class="text-right">25</td>
         <td class="text-right">25</td>
         <td class="text-right">50</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Supporting the Economic Transition of Communities Economically Linked to the Chrysotile Asbestos Industry</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Logements pour les Canadiens dans le besoin </span></th>
         <td class="text-right">3</td>
         <td class="text-right">5</td>
         <td class="text-right">8</td>
       </tr>
       <tr>
-        <th scope="row">Subtotal—Investing in Communities</th>
+        <th scope="row">Total partiel&nbsp;: Investir dans les collectivités </th>
         <td class="text-right">133</td>
         <td class="text-right">476</td>
         <td class="text-right">609</td>
@@ -2468,55 +2337,49 @@ title: "Canada.ca Content Style Guide"
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <th scope="row"><strong>Protecting Canada's Natural Environment</strong></th>
+        <th scope="row"><strong>Protéger l'environnement naturel du Canada</strong></th>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Nature Conservancy of Canada</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Conservation de la nature Canada</span></th>
         <td class="text-right">20</td>
         <td class="text-right">&nbsp;</td>
         <td class="text-right">20</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Improving the Conservation of Fisheries</span></th>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Through Community Partnerships</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Améliorer la conservation des aires de pêche grâce aux partenariats communautaires </span></th>
         <td class="text-right">5</td>
         <td class="text-right">5</td>
         <td class="text-right">10</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Salmon Conservation Stamp</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Timbre de conservation du saumon </span></th>
         <td class="text-right">1</td>
         <td class="text-right">1</td>
         <td class="text-right">2</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Enabling Responsible Marine Management</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Favoriser la gestion responsable des ressources marines </span></th>
         <td class="text-right">4</td>
         <td class="text-right">&nbsp;</td>
         <td class="text-right">4</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Protecting Against Invasive Species</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Lutter contre les espèces envahissantes </span></th>
         <td class="text-right">2</td>
         <td class="text-right">2</td>
         <td class="text-right">3</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Expanding Tax Support for Clean Energy Generation</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Accroître l'aide fiscale pour la production d'énergie propre </span></th>
         <td class="text-right">&nbsp;</td>
         <td class="text-right">1</td>
         <td class="text-right">1</td>
       </tr>
       <tr>
-        <th scope="row">Subtotal—Protecting Canada's Natural Environment</th>
+        <th scope="row">Total partiel&nbsp;: Protéger l'environnement naturel du Canada </th>
         <td class="text-right">32</td>
         <td class="text-right">9</td>
         <td class="text-right">41</td>
@@ -2528,55 +2391,55 @@ title: "Canada.ca Content Style Guide"
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <th scope="row"><strong>Building Strong Aboriginal Communities</strong></th>
+        <th scope="row"><strong>Créer des collectivités autochtones vigoureuses</strong></th>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Resolving Specific Claims</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Régler les revendications particulières</span></th>
         <td class="text-right">27</td>
         <td class="text-right">27</td>
         <td class="text-right">54</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">First Nations Land Management Regime</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Régime de gestion des terres des Premières Nations </span></th>
         <td class="text-right">2</td>
         <td class="text-right">7</td>
         <td class="text-right">9</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">First Nations Policing Program</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Programme des services de police des Premières Nations </span></th>
         <td class="text-right">18</td>
         <td class="text-right">18</td>
         <td class="text-right">36</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Aboriginal Justice Strategy</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Stratégie de la justice applicable aux Autochtones </span></th>
         <td class="text-right">11</td>
         <td class="text-right">&nbsp;</td>
         <td class="text-right">11</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Renewal of the Family Violence Prevention Program</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Renouveler le Programme pour la prévention de la violence familiale </span></th>
         <td class="text-right">12</td>
         <td class="text-right">12</td>
         <td class="text-right">24</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Improving Health Services to First Nations Communities</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Améliorer les services de santé dans les collectivités des Premières Nations </span></th>
         <td class="text-right">24</td>
         <td class="text-right">24</td>
         <td class="text-right">48</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Enhancing Mental Health Services in First Nations Communities</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Améliorer les services en santé mentale dans les collectivités des Premières Nations </span></th>
         <td class="text-right">2</td>
         <td class="text-right">2</td>
         <td class="text-right">4</td>
       </tr>
       <tr>
-        <th scope="row">Subtotal—Building Strong Aboriginal Communities</th>
+        <th scope="row">Total partiel&nbsp;: Créer des collectivités autochtones vigoureuses </th>
         <td class="text-right">95</td>
         <td class="text-right">90</td>
         <td class="text-right">185</td>
@@ -2588,25 +2451,25 @@ title: "Canada.ca Content Style Guide"
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <th scope="row"><strong>Total—Supporting Families and Communities</strong></th>
+        <th scope="row"><strong>Total&nbsp;: Soutenir les familles et les collectivités</strong></th>
         <td class="text-right"><strong>342</strong></td>
         <td class="text-right"><strong>657</strong></td>
         <td class="text-right"><strong>999</strong></td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md"><strong>Less funds existing in the fiscal framework</strong></span></th>
-        <td class="text-right"><strong>76</strong></td>
-        <td class="text-right"><strong>422</strong></td>
-        <td class="text-right"><strong>498</strong></td>
+        <th scope="row"><span class="mrgn-lft-md">Moins les fonds prévus dans le cadre financier actuel </span></th>
+        <td class="text-right">(76)</td>
+        <td class="text-right">(422)</td>
+        <td class="text-right">(498)</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md"><strong>Less funds sourced from internal reallocations</strong></span></th>
-        <td class="text-right"><strong>1</strong></td>
-        <td class="text-right"><strong>11</strong></td>
-        <td class="text-right"><strong>12</strong></td>
+        <th scope="row"><span class="mrgn-lft-md">Moins les fonds assurés au moyen de réaffectations internes </span></th>
+        <td class="text-right">(1)</td>
+        <td class="text-right">(11)</td>
+        <td class="text-right">(12)</td>
       </tr>
       <tr>
-        <th scope="row"><strong>Net fiscal cost</strong></th>
+        <th scope="row"><strong>Coût budgétaire net</strong></th>
         <td class="text-right"><strong>265</strong></td>
         <td class="text-right"><strong>224</strong></td>
         <td class="text-right"><strong>489</strong></td>
@@ -2614,63 +2477,63 @@ title: "Canada.ca Content Style Guide"
     </tbody>
     <tfoot>
       <tr>
-        <td colspan="4">Note: Totals may not add due to rounding.</td>
+        <td class="small" colspan="4"><p>Remarque&nbsp;: Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p></td>
       </tr>
     </tfoot>
   </table>
-  <h4>After</h4>
+  <h4>Après</h4>
   <table class="table table-bordered table-condensed">
     <caption class="text-center">
-    <strong>Table 1: supporting families and communities for fiscal years 2013 to 2014 and 2014 to 2015, net fiscal costs (in $ millions)<sup id="table1-fn1-rf"><a class="fn-lnk" href="#table1-fn1"><span class="wb-inv">table 1 note </span>1</a></sup></strong>
+    <strong>Tableau 1&nbsp;: Soutenir les familles et les collectivités pour les exercices financiers de 2013 à 2014 et de 2014 à 2015, coûts budgétaires nets (en millions de dollars)<sup id="table1-fn1-rf"><a class="fn-lnk" href="#table1-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 1</span></a></sup></strong>
     </caption>
     <thead>
       <tr class="active">
-        <th scope="col">Cost breakdown </th>
-        <th scope="col">2013 to 2014</th>
-        <th scope="col">2014 to 2015</th>
-        <th scope="col">Total</th>
+        <th scope="col"><strong>Répartition des coûts</strong></th>
+        <th class="text-right" scope="col"><strong>2013 à 2014</strong></th>
+        <th class="text-right" scope="col"><strong>2014 à 2015</strong></th>
+        <th class="text-right" scope="col"><strong>Total</strong></th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <th scope="row">Total: supporting families and communities<sup id="table1-fn2-rf"><a class="fn-lnk" href="#table1-fn2"><span class="wb-inv">table 1 note </span>2</a></sup></th>
-        <td>342</td>
-        <td>657</td>
-        <td>999</td>
+        <th scope="row">Total&nbsp;: Soutenir les familles et les collectivités<sup id="table1-fn2-rf"><a class="fn-lnk" href="#table1-fn2"><span class="wb-inv">Voir la note </span>2<span class="wb-inv"> du tableau 1</span></a></sup></th>
+        <td class="text-right">342</td>
+        <td class="text-right">657</td>
+        <td class="text-right">999</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Less funds existing in the fiscal framework</span></th>
-        <td>(76)</td>
-        <td>(422)</td>
-        <td>(498)</td>
+        <th scope="row"><span class="mrgn-lft-md">Moins les fonds prévus dans le cadre financier actuel</span></th>
+        <td class="text-right">(76)</td>
+        <td class="text-right">(422)</td>
+        <td class="text-right">(498)</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Less funds sourced from internal reallocations</span></th>
-        <td>(1)</td>
-        <td>(11)</td>
-        <td>(12)</td>
+        <th scope="row"><span class="mrgn-lft-md">Moins les fonds assurés au moyen de réaffectations internes</span></th>
+        <td class="text-right">(1)</td>
+        <td class="text-right">(11)</td>
+        <td class="text-right">(12)</td>
       </tr>
       <tr>
-        <th scope="row">Net fiscal costs</th>
-        <td>265</td>
-        <td>224</td>
-        <td>489</td>
+        <th scope="row"><strong>Coûts budgétaires nets</strong></th>
+        <td class="text-right"><strong>265</strong></td>
+        <td class="text-right"><strong>224</strong></td>
+        <td class="text-right"><strong>489</strong></td>
       </tr>
     </tbody>
     <tfoot>
       <tr>
         <td colspan="4"><section class="wb-fnote">
-            <h5 class="wb-inv" id="table1-fn">Table 1 Notes</h5>
+            <h5 class="wb-inv" id="table1a-fn">Notes du tableau 1</h5>
             <dl>
-              <dt> Table 1 Note 1 </dt>
+              <dt> Note 1 du tableau 1 </dt>
               <dd id="table1-fn1">
-                <p>Totals may not add due to rounding.</p>
-                <p class="fn-rtn"> <a href="#table1-fn1-rf"><span class="wb-inv">Return to table 1 note </span>1<span class="wb-inv"> referrer</span></a></p>
+                <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
+                <p class="fn-rtn"> <a href="#table1-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 1</span></a></p>
               </dd>
-              <dt> Table 1 Note 2 </dt>
+              <dt> Note 2 du tableau 1 </dt>
               <dd id="table1-fn2">
-                <p>See Table 1B for detailed breakdown.</p>
-                <p class="fn-rtn"> <a href="#table1-fn2-rf"><span class="wb-inv">Return to table 1 note </span>2<span class="wb-inv"> referrer</span></a></p>
+                <p>Voir le tableau 1B pour une ventilation détaillée.</p>
+                <p class="fn-rtn"> <a href="#table1-fn2-rf"><span class="wb-inv">Retour à la référence de la note </span>2<span class="wb-inv"> du tableau 1</span></a></p>
               </dd>
             </dl>
           </section></td>
@@ -2679,77 +2542,77 @@ title: "Canada.ca Content Style Guide"
   </table>
   <table class="table table-bordered table-condensed">
     <caption class="text-center">
-    <strong>Table 1A: supporting families and communities for fiscal years 2013 to 2014 and 2014 to 2015, total costs (in $ millions)<sup id="table2-fn1-rf"><a class="fn-lnk" href="#table2-fn1"><span class="wb-inv">table 2 note </span>1</a></sup></strong>
+    <strong>Tableau 1A&nbsp;: Soutenir les familles et les collectivités pour les exercices financiers de 2013 à 2014 et de 2014 à 2015, coûts totaux (en millions de dollars)<sup id="table2-fn1-rf"><a class="fn-lnk" href="#table2-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 2</span></a></sup></strong>
     </caption>
     <thead>
       <tr class="active">
-        <th scope="col">Initiatives and programs</th>
-        <th class="text-right" scope="col">2013 to 2014</th>
-        <th class="text-right" scope="col">2014 to 2015</th>
-        <th class="text-right" scope="col">Total</th>
+        <th scope="col"><strong>Initiatives et programmes</strong></th>
+        <th class="text-right" scope="col"><strong>2013 à 2014</strong></th>
+        <th class="text-right" scope="col"><strong>2014 à 2015</strong></th>
+        <th class="text-right" scope="col"><strong>Total</strong></th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Support for families<sup id="table2-fn2-rf"><a class="fn-lnk" href="#table2-fn2"><span class="wb-inv">table 2 note </span>2</a></sup></span></th>
+        <th scope="row"><span class="mrgn-lft-md">Soutenir les familles<sup id="table2-fn2-rf"><a class="fn-lnk" href="#table2-fn2"><span class="wb-inv">Voir la note </span>2<span class="wb-inv"> du tableau 2</span></a></sup></span></th>
         <td class="text-right">82</td>
         <td class="text-right">82</td>
         <td class="text-right">164</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Investing in communities<sup id="table2-fn3-rf"><a class="fn-lnk" href="#table2-fn3"><span class="wb-inv">table 2 note </span>3</a></sup></span></th>
+        <th scope="row"><span class="mrgn-lft-md">Investir dans les collectivités<sup id="table2-fn3-rf"><a class="fn-lnk" href="#table2-fn3"><span class="wb-inv">Voir la note </span>3<span class="wb-inv"> du tableau 2</span></a></sup></span></th>
         <td class="text-right">133</td>
         <td class="text-right">476</td>
         <td class="text-right">609</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Protecting Canada's natural environment<sup id="table2-fn4-rf"><a class="fn-lnk" href="#table2-fn4"><span class="wb-inv">table 2 note </span>4</a></sup></span></th>
+        <th scope="row"><span class="mrgn-lft-md">Protéger l'environnement naturel du Canada<sup id="table2-fn4-rf"><a class="fn-lnk" href="#table2-fn4"><span class="wb-inv">Voir la note </span>4<span class="wb-inv"> du tableau 2</span></a></sup></span></th>
         <td class="text-right">32</td>
         <td class="text-right">9</td>
         <td class="text-right">41</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Building strong Aboriginal communities<sup id="table2-fn5-rf"><a class="fn-lnk" href="#table2-fn5"><span class="wb-inv">table 2 note </span>5</a></sup></span></th>
+        <th scope="row"><span class="mrgn-lft-md">Créer des collectivités autochtones vigoureuses<sup id="table2-fn5-rf"><a class="fn-lnk" href="#table2-fn5"><span class="wb-inv">Voir la note </span>5<span class="wb-inv"> du tableau 2</span></a></sup></span></th>
         <td class="text-right">95</td>
         <td class="text-right">90</td>
         <td class="text-right">185</td>
       </tr>
       <tr>
-        <th scope="row">Total: supporting families and communities </th>
-        <td class="text-right">342</td>
-        <td class="text-right">657</td>
-        <td class="text-right">999</td>
+        <th scope="row"><strong>Total&nbsp;: Soutenir les familles et les collectivités</strong></th>
+        <td class="text-right"><strong>342</strong></td>
+        <td class="text-right"><strong>657</strong></td>
+        <td class="text-right"><strong>999</strong></td>
       </tr>
     </tbody>
     <tfoot>
       <tr>
         <td colspan="4"><section class="wb-fnote">
-            <h5 class="wb-inv" id="table2-fn">Table 2 Notes</h5>
+            <h5 class="wb-inv" id="table1-fn">Notes du tableau 1</h5>
             <dl>
-              <dt> Table 2 Note 1 </dt>
+              <dt> Note 1 du tableau 2 </dt>
               <dd id="table2-fn1">
-                <p>Totals may not add due to rounding.</p>
-                <p class="fn-rtn"> <a href="#table2-fn1-rf"><span class="wb-inv">Return to table 2 note </span>1<span class="wb-inv"> referrer</span></a></p>
+                <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
+                <p class="fn-rtn"> <a href="#table2-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 2</span></a></p>
               </dd>
-              <dt> Table 2 Note 2 </dt>
+              <dt> Note 2 du tableau 2 </dt>
               <dd id="table2-fn2">
-                <p>See Table 1B for detailed breakdown.</p>
-                <p class="fn-rtn"> <a href="#table2-fn2-rf"><span class="wb-inv">Return to table 2 note </span>2<span class="wb-inv"> referrer</span></a></p>
+                <p>Voir le tableau 1B pour une ventilation détaillée.</p>
+                <p class="fn-rtn"> <a href="#table2-fn2-rf"><span class="wb-inv">Retour à la référence de la note </span>2<span class="wb-inv"> du tableau 2</span></a></p>
               </dd>
-              <dt> Table 2 Note 3 </dt>
+              <dt> Note 3 du tableau 2 </dt>
               <dd id="table2-fn3">
-                <p>See Table 1C for detailed breakdown.</p>
-                <p class="fn-rtn"> <a href="#table2-fn3-rf"><span class="wb-inv">Return to table 2 note </span>3<span class="wb-inv"> referrer</span></a></p>
+                <p>Voir le tableau 1C pour une ventilation détaillée.</p>
+                <p class="fn-rtn"> <a href="#table2-fn3-rf"><span class="wb-inv">Retour à la référence de la note </span>3<span class="wb-inv"> du tableau 2</span></a></p>
               </dd>
-              <dt> Table 2 Note 4 </dt>
+              <dt> Note 4 du tableau 2 </dt>
               <dd id="table2-fn4">
-                <p>See Table 1D for detailed breakdown.</p>
-                <p class="fn-rtn"> <a href="#table2-fn4-rf"><span class="wb-inv">Return to table 2 note </span>4<span class="wb-inv"> referrer</span></a></p>
+                <p>Voir le tableau 1D pour une ventilation détaillée.</p>
+                <p class="fn-rtn"> <a href="#table2-fn4-rf"><span class="wb-inv">Retour à la référence de la note </span>4<span class="wb-inv"> du tableau 2</span></a></p>
               </dd>
-              <dt> Table 2 Note 5 </dt>
+              <dt> Note 5 du tableau 2 </dt>
               <dd id="table2-fn5">
-                <p>See Table 1E for detailed breakdown.</p>
-                <p class="fn-rtn"> <a href="#table2-fn5-rf"><span class="wb-inv">Return to table 2 note </span>5<span class="wb-inv"> referrer</span></a></p>
+                <p>Voir le tableau 1E pour une ventilation détaillée.</p>
+                <p class="fn-rtn"> <a href="#table2-fn5-rf"><span class="wb-inv">Retour à la référence de la note </span>5<span class="wb-inv"> du tableau 2</span></a></p>
               </dd>
             </dl>
           </section></td>
@@ -2758,51 +2621,51 @@ title: "Canada.ca Content Style Guide"
   </table>
   <table class="table table-bordered table-condensed">
     <caption class="text-center">
-    <strong>Table 1B: support for families for fiscal years 2013 to 2014 and 2014 to 2015 (in $ millions)<sup id="table3-fn1-rf"><a class="fn-lnk" href="#table3-fn1"><span class="wb-inv">table 3 note </span>1</a></sup></strong>
+    <strong>Tableau 1B&nbsp;: Soutien aux familles pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)<sup id="table3-fn1-rf"><a class="fn-lnk" href="#table3-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 3</span></a></sup></strong>
     </caption>
     <thead>
       <tr class="active">
-        <th scope="col">Initiatives and programs </th>
-        <th class="text-right" scope="col">2013 to 2014</th>
-        <th class="text-right" scope="col">2014 to 2015</th>
-        <th class="text-right" scope="col">Total</th>
+        <th scope="col"><strong>Initiatives et programmes</strong></th>
+        <th class="text-right" scope="col"><strong>2013 à 2014</strong></th>
+        <th class="text-right" scope="col"><strong>2014 à 2015</strong></th>
+        <th class="text-right" scope="col"><strong>Total</strong></th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Expanding tax relief for home care services</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Allègement fiscal à l'égard des services de soins à domicile</span></th>
         <td class="text-right">5</td>
         <td class="text-right">5</td>
         <td class="text-right">10</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Palliative and end-of-life care</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Soins palliatifs et soins de fin de vie</span></th>
         <td class="text-right">1</td>
         <td class="text-right">1</td>
         <td class="text-right">2</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Tariff relief for Canadian consumers</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Allègements tarifaires pour les consommateurs canadiens</span></th>
         <td class="text-right">76</td>
         <td class="text-right">76</td>
         <td class="text-right">152</td>
       </tr>
       <tr>
-        <th scope="row">Subtotal: support for families</th>
-        <td class="text-right">82</td>
-        <td class="text-right">82</td>
-        <td class="text-right">164</td>
+        <th scope="row"><strong>Total partiel&nbsp;: Soutenir les familles</strong></th>
+        <td class="text-right"><strong>82</strong></td>
+        <td class="text-right"><strong>82</strong></td>
+        <td class="text-right"><strong>164</strong></td>
       </tr>
     </tbody>
     <tfoot>
       <tr>
         <td colspan="4"><section class="wb-fnote">
-            <h5 class="wb-inv" id="table3-fn">Table 3 Notes</h5>
+            <h5 class="wb-inv" id="table3-fn">Notes du tableau 3</h5>
             <dl>
-              <dt> Table 3 Note 1 </dt>
+              <dt> Note 1 du tableau 3 </dt>
               <dd id="table3-fn1">
-                <p>Totals may not add due to rounding.</p>
-                <p class="fn-rtn"> <a href="#table3-fn1-rf"><span class="wb-inv">Return to table 3 note </span>1<span class="wb-inv"> referrer</span></a></p>
+                <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
+                <p class="fn-rtn"> <a href="#table3-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 3</span></a></p>
               </dd>
             </dl>
           </section></td>
@@ -2811,105 +2674,105 @@ title: "Canada.ca Content Style Guide"
   </table>
   <table class="table table-bordered table-condensed">
     <caption class="text-center">
-    <strong>Table 1C: investing in communities for fiscal years 2013 to 2014 and 2014 to 2015 (in $ millions)<sup id="table4-fn1-rf"><a class="fn-lnk" href="#table4-fn1"><span class="wb-inv">table 4 note </span>1</a></sup></strong>
+    <strong>Tableau 1C&nbsp;: Investir dans les collectivités pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)<sup id="table4-fn1-rf"><a class="fn-lnk" href="#table4-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 4</span></a></sup></strong>
     </caption>
     <thead>
       <tr class="active">
-        <th scope="col">Initiatives and programs </th>
-        <th class="text-right" scope="col">2013 to 2014</th>
-        <th class="text-right" scope="col">2014 to 2015</th>
-        <th class="text-right" scope="col">Total</th>
+        <th scope="col"><strong>Initiatives et programmes</strong></th>
+        <th class="text-right" scope="col"><strong>2013 à 2014</strong></th>
+        <th class="text-right" scope="col"><strong>2014 à 2015</strong></th>
+        <th class="text-right" scope="col"><strong>Total</strong></th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Housing for Canadians in need</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Logements pour les Canadiens dans le besoin</span></th>
         <td class="text-right">0</td>
         <td class="text-right">0</td>
         <td class="text-right">0</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Homelessness partnering strategy</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Stratégie des partenariats de lutte contre l'itinérance</span></th>
         <td class="text-right">0</td>
         <td class="text-right">119</td>
         <td class="text-right">119</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Investment in affordable housing</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Investissement dans le logement abordable</span></th>
         <td class="text-right">0</td>
         <td class="text-right">253</td>
         <td class="text-right">253</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Investment in Nunavut housing</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Investissement dans le logement au Nunavut</span></th>
         <td class="text-right">30</td>
         <td class="text-right">70</td>
         <td class="text-right">100</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Supporting and Honouring veterans</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Soutient et hommage combattants et leur rendre hommage</span></th>
         <td class="text-right">0</td>
         <td class="text-right">0</td>
         <td class="text-right">0</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Enhancing Veterans Affairs Canada's Funeral and Burial Program</span></th>
+        <th scope="row"><span class="mrgn-lft-md"> Programme de funérailles et d'inhumation d'Anciens Combattants Canada</span></th>
         <td class="text-right">63</td>
         <td class="text-right">2</td>
         <td class="text-right">65</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Road to 2017</span></th>
+        <th scope="row"><span class="mrgn-lft-md">En route vers 2017</span></th>
         <td class="text-right">1</td>
         <td class="text-right">2</td>
         <td class="text-right">3</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Investments in arts and culture</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Investissement dans les arts et la culture</span></th>
         <td class="text-right">0</td>
         <td class="text-right">0</td>
         <td class="text-right">0</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Massey Hall revitalization</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Revitalisation du Massey Hall</span></th>
         <td class="text-right">8</td>
         <td class="text-right">0</td>
         <td class="text-right">8</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Expanding library services for the blind and partially sighted</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Services de bibliothèque pour les Canadiens aveugles ou atteints d'une déficience visuelle</span></th>
         <td class="text-right">3</td>
         <td class="text-right">0</td>
         <td class="text-right">3</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">First-time Donor's Super Credit</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Super crédit pour premier don de bienfaisance</span></th>
         <td class="text-right">25</td>
         <td class="text-right">25</td>
         <td class="text-right">50</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Supporting the economic transition of communities economically linked to the chrysotile asbestos industry</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Appui de transition économique des collectivités associées à l'industrie de l'amiante chrysotile</span></th>
         <td class="text-right">3</td>
         <td class="text-right">5</td>
         <td class="text-right">8</td>
       </tr>
       <tr>
-        <th scope="row">Subtotal: investing in communities</th>
-        <td class="text-right">133</td>
-        <td class="text-right">476</td>
-        <td class="text-right">609</td>
+        <th scope="row"><strong>Total partiel&nbsp;: Investir dans les collectivités</strong></th>
+        <td class="text-right"><strong>133</strong></td>
+        <td class="text-right"><strong>476</strong></td>
+        <td class="text-right"><strong>609</strong></td>
       </tr>
     </tbody>
     <tfoot>
       <tr>
         <td colspan="4"><section class="wb-fnote">
-            <h5 class="wb-inv" id="table4-fn">Table 4 Notes</h5>
+            <h5 class="wb-inv" id="table4-fn">Notes du tableau 4</h5>
             <dl>
-              <dt> Table 4 Note 1 </dt>
+              <dt> Note 1 du tableau 4 </dt>
               <dd id="table4-fn1">
-                <p>Totals may not add due to rounding.</p>
-                <p class="fn-rtn"> <a href="#table4-fn1-rf"><span class="wb-inv">Return to table 4 note </span>1<span class="wb-inv"> referrer</span></a></p>
+                <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
+                <p class="fn-rtn"> <a href="#table4-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 4</span></a></p>
               </dd>
             </dl>
           </section></td>
@@ -2918,69 +2781,69 @@ title: "Canada.ca Content Style Guide"
   </table>
   <table class="table table-bordered table-condensed">
     <caption class="text-center">
-    <strong>Table 1D: protecting Canada's natural environment for fiscal years 2013 to 2014 and 2014 to 2015 (in $&nbsp;millions)<sup id="table5-fn1-rf"><a class="fn-lnk" href="#table5-fn1"><span class="wb-inv">table 5 note </span>1</a></sup></strong>
+    <strong>Tableau 1D&nbsp;: Protéger l'environnement naturel du Canada pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)<sup id="table5-fn1-rf"><a class="fn-lnk" href="#table5-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 5</span></a></sup></strong>
     </caption>
     <thead>
       <tr class="active">
-        <th scope="col">Initiatives and programs </th>
-        <th class="text-right" scope="col">2013 to 2014</th>
-        <th class="text-right" scope="col">2014 to 2015</th>
-        <th class="text-right" scope="col">Total</th>
+        <th scope="col"><strong>Initiatives et programmes</strong></th>
+        <th class="text-right" scope="col"><strong>2013 à 2014</strong></th>
+        <th class="text-right" scope="col"><strong>2014 à 2015</strong></th>
+        <th class="text-right" scope="col"><strong>Total</strong></th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Nature Conservancy of Canada</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Conservation de la nature Canada</span></th>
         <td class="text-right">20</td>
         <td class="text-right">0</td>
         <td class="text-right">20</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Improving the conservation of fisheries through community partnerships</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Conservation des aires de pêche grâce aux partenariats communautaires</span></th>
         <td class="text-right">5</td>
         <td class="text-right">5</td>
         <td class="text-right">10</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Salmon conservation stamp</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Timbre de conservation du saumon</span></th>
         <td class="text-right">1</td>
         <td class="text-right">1</td>
         <td class="text-right">2</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Enabling responsible marine management</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Gestion responsable des ressources marines</span></th>
         <td class="text-right">4</td>
         <td class="text-right">0</td>
         <td class="text-right">4</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Protecting against invasive species</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Lutte contre les espèces envahissantes</span></th>
         <td class="text-right">2</td>
         <td class="text-right">2</td>
         <td class="text-right">3</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Expanding tax support for clean energy generation</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Aide fiscale pour la production d'énergie propre</span></th>
         <td class="text-right">0</td>
         <td class="text-right">1</td>
         <td class="text-right">1</td>
       </tr>
       <tr>
-        <th scope="row">Subtotal: protecting Canada's natural environment</th>
-        <td class="text-right">32</td>
-        <td class="text-right">9</td>
-        <td class="text-right">41</td>
+        <th scope="row"><strong>Total partiel&nbsp;: Protéger l'environnement naturel du Canada</strong></th>
+        <td class="text-right"><strong>32</strong></td>
+        <td class="text-right"><strong>9</strong></td>
+        <td class="text-right"><strong>41</strong></td>
       </tr>
     </tbody>
     <tfoot>
       <tr>
         <td colspan="4"><section class="wb-fnote">
-            <h5 class="wb-inv" id="table5-fn">Table 5 Notes</h5>
+            <h5 class="wb-inv" id="table5-fn">Notes du tableau 5</h5>
             <dl>
-              <dt> Table 5 Note 1 </dt>
+              <dt> Note 1 du tableau 5 </dt>
               <dd id="table5-fn1">
-                <p>Totals may not add due to rounding.</p>
-                <p class="fn-rtn"> <a href="#table5-fn1-rf"><span class="wb-inv">Return to table 5 note </span>1<span class="wb-inv"> referrer</span></a></p>
+                <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
+                <p class="fn-rtn"> <a href="#table5-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 5</span></a></p>
               </dd>
             </dl>
           </section></td>
@@ -2989,127 +2852,133 @@ title: "Canada.ca Content Style Guide"
   </table>
   <table class="table table-bordered table-condensed">
     <caption class="text-center">
-    <strong>Table 1E: building strong Aboriginal communities for fiscal years 2013 to 2014 and 2014 to 2015 (in $&nbsp;millions)<sup id="table6-fn1-rf"><a class="fn-lnk" href="#table6-fn1"><span class="wb-inv">table 6 note </span>1</a></sup></strong>
+    <strong>Tableau 1E&nbsp;: Créer des collectivités autochtones vigoureuses pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)<sup id="table6-fn1-rf"><a class="fn-lnk" href="#table6-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 6</span></a></sup></strong>
     </caption>
     <thead>
       <tr class="active">
-        <th scope="col">Initiatives and programs</th>
-        <th class="text-right" scope="col">2013 to 2014</th>
-        <th class="text-right" scope="col">2014 to 2015</th>
-        <th class="text-right" scope="col">Total</th>
+        <th scope="col"><strong>Initiatives et programmes</strong></th>
+        <th class="text-right" scope="col"><strong>2013 à 2014</strong></th>
+        <th class="text-right" scope="col"><strong>2014 à 2015</strong></th>
+        <th class="text-right" scope="col"><strong>Total</strong></th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <th scope="row" class="td"><span class="mrgn-lft-md">Resolving specific claims</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Résolution des revendications particulières</span></th>
         <td class="text-right">27</td>
         <td class="text-right">27</td>
         <td class="text-right">54</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">First Nations Land Management Regime</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Régime de gestion des terres des Premières Nations</span></th>
         <td class="text-right">2</td>
         <td class="text-right">7</td>
         <td class="text-right">9</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">First Nations Policing Program</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Programme des services de police des Premières Nations</span></th>
         <td class="text-right">18</td>
         <td class="text-right">18</td>
         <td class="text-right">36</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Aboriginal Justice Strategy</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Stratégie de la justice applicable aux Autochtones</span></th>
         <td class="text-right">11</td>
         <td class="text-right">0</td>
         <td class="text-right">11</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Renewal of the Family Violence Prevention Program</span></th>
+        <th scope="row"><span class="mrgn-lft-md"> Programme pour la prévention de la violence familiale</span></th>
         <td class="text-right">12</td>
         <td class="text-right">12</td>
         <td class="text-right">24</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Improving health services to First Nations Communities</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Services de santé dans les collectivités des Premières Nations</span></th>
         <td class="text-right">24</td>
         <td class="text-right">24</td>
         <td class="text-right">48</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Enhancing mental health services in First Nations communities</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Services en santé mentale dans les collectivités des Premières Nations</span></th>
         <td class="text-right">2</td>
         <td class="text-right">2</td>
         <td class="text-right">4</td>
       </tr>
       <tr>
-        <th scope="row">Subtotal: building strong Aboriginal communities</th>
-        <td class="text-right">95</td>
-        <td class="text-right">90</td>
-        <td class="text-right">185</td>
+        <th scope="row"><strong>Total partiel&nbsp;: Créer des collectivités autochtones vigoureuses</strong></th>
+        <td class="text-right"><strong>95</strong></td>
+        <td class="text-right"><strong>90</strong></td>
+        <td class="text-right"><strong>185</strong></td>
       </tr>
     </tbody>
     <tfoot>
       <tr>
         <td colspan="4"><section class="wb-fnote">
-            <h5 class="wb-inv" id="table6-fn">Table 6 Notes</h5>
+            <h5 class="wb-inv" id="table6-fn">Notes du tableau 6</h5>
             <dl>
-              <dt> Table 6 Note 1 </dt>
+              <dt> Note 1 du tableau 6 </dt>
               <dd id="table6-fn1">
-                <p>Totals may not add due to rounding.</p>
-                <p class="fn-rtn"> <a href="#table6-fn1-rf"><span class="wb-inv">Return to table 6 note </span>1<span class="wb-inv"> referrer</span></a></p>
+                <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
+                <p class="fn-rtn"> <a href="#table6-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 6</span></a></p>
               </dd>
             </dl>
           </section></td>
       </tr>
     </tfoot>
   </table>
-  <h4>What we did</h4>
-  <p>To create these tables, we:</p>
+  <h4>Ce que nous avons fait</h4>
+  <p>Pour créer ces tableaux, nous avons&nbsp;:</p>
   <ul>
-    <li>divided a complex table into several simple tables that are more accessible and can be viewed easily on mobile devices</li>
-    <li>applied the inverted pyramid approach to provide the summary or conclusion first, followed by increasingly detailed information </li>
-    <li>created a clear title for each table</li>
-    <li>updated titles to reflect capitalization requirements</li>
-    <li>used existing subheadings embedded in the original example to create table headers</li>
-    <li>made sure that the last 3 column headers reflect the unit value of the information in each column</li>
-    <li>added zeros to provide relevant information in otherwise empty cells </li>
-    <li>removed empty cells, rows and irrelevant information (underlining) and subheadings (such as those that were not aligned with the column headers)</li>
+    <li>divisé un tableau complexe en plusieurs tableaux simples et faciles à consulter à partir d'un appareil mobile;</li>
+    <li>utilisé l'approche de la pyramide inversée de façon à présenter le résumé ou la conclusion en premier, suivi de renseignements de plus en plus détaillés;</li>
+    <li>rédigé des titres clairs pour chaque tableau;</li>
+    <li>utilisé les sous-titres existants compris dans l'exemple initial pour créer les titres des différents tableaux;</li>
+    <li>veillé à ce que les en-têtes des 3 colonnes numériques correspondent à la valeur unitaire indiquée dans chaque colonne;</li>
+    <li>ajouté des zéros afin de fournir des renseignements pertinents dans les cellules qui auraient autrement été laissées vides;</li>
+    <li>supprimé les cellules et les rangées vides ainsi que les sous-titres non pertinents (c'est-à-dire, ceux qui ne correspondaient à aucune valeur sous les en-têtes de colonne).</li>
   </ul>
 </section>
 <section id="toc13">
-  <h2>Resources</h2>
+  <h2>Ressources</h2>
   <ul>
-    <li><a href="https://www.canadapost.ca/tools/pg/manual/PGaddress-e.asp">Addressing Guidelines</a>, Canada Post</li>
-    <li><a href="https://www.omafra.gov.on.ca/english/nfporgs/07-049.htm">Clear Writing</a>, Ministry of Agriculture, Food and Rural Affairs of Ontario</li>
-    <li><a href="https://www.publications.gc.ca/site/eng/413603/publication.html">Communicating with Seniors: Advice, Techniques and Tips</a>, Health Canada</li>
-    <li><a href="https://dyslexiahelp.umich.edu/sites/default/files/good_fonts_for_dyslexia_study.pdf">Good Fonts for Dyslexia</a>, Luz Rello, NLP &amp; Web Research Groups, et Ricardo Baeza-Yates, Yahoo! Labs &amp; Web Research Group, UPF</li>
-    <li><a href="https://www.nngroup.com/articles/how-users-read-on-the-web/">How Users Read on the Web, Nielsen Norman Group</a></li>
-    <li><a href="https://ccat-ctac.org/CMFiles/Publication/CCAT-EN-new2.pdf">Introduction to Administrative Justice and To Plain Language</a> (PDF), Council of Canadian Administrative Tribunals</li>
-    <li><a href="https://www.gov.uk/guidance/content-design/what-is-content-design">Introduction to content design</a>, Government Digital Service, GOV.UK</li>
-    <li><a href="https://www.noslangues-ourlanguages.gc.ca/index-eng.php">Language Portal of Canada</a>, Government of Canada</li>
-    <li><a href="https://www.ccat-ctac.org/CMFiles/Publication/Literacyandjustice.pdf">Literacy and Access to Administrative Justice in Canada</a> (PDF), Council of Canadian Administrative Tribunals</li>
-    <li><a href="https://abclifeliteracy.ca/workplace-literacy-facts">Literacy and Numeracy in Canada</a>, ABC Life Literacy Canada</li>
-    <li><a href="https://www.nngroup.com/articles/writing-for-lower-literacy-users/">Lower-Literacy Users: Writing for a Broad Consumer Audience</a>, Jakob Nielsen, Nielsen Norman Group</li>
-    <li><a href="https://www.nngroup.com/articles/minimize-cognitive-load/">Minimize Cognitive Load to Maximize Usability</a>, Kathryn Whitenton, Nielsen Norman Group</li>
-    <li><a href="https://www.nngroup.com/articles/mobile-ux/">Mobile User Experience: Limitations and Strengths</a>, Raluca Budio, Nielsen Norman Group</li>
-    <li><a href="https://grammar.about.com/od/mo/g/Negative-Contraction.htm">Negative contraction</a>, Richard Nordquist</li>
-    <li><a href="https://publications.gc.ca/site/eng/9.644871/publication.html">Plain Language Clear and Simple</a>, Public Works and Government Services Canada (reprinted 2003)</li>
-    <li><a href="https://plainlanguagenetwork.org/">Plain Language Association International</a></li>
-    <li><a href="https://www.navigatormm.com/blog/plain-language-please-heres-why-to-avoid-marketese-online/">Plain Language, Please! Here's Why to Avoid "Marketese" Only</a>, Sarah Bauer</li>
-    <li><a href="https://www.publications.gc.ca/site/eng/9.695565/publication.html">Reaching Out: A Guide to Communicating With Aboriginal Seniors</a>, Health Canada</li>
-    <li><a href="https://www.noslangues-ourlanguages.gc.ca/index-eng.php">Resources of the Language Portal of Canada</a>, Government of Canada</li>
-    <li><a href="https://www.statcan.gc.ca/pub/89-555-x/89-555-x2013001-eng.htm">Skills in Canada: First Results from the Programme for the International Assessment of Adult Competencies</a>, Statistics Canada</li>
-    <li><a href="https://www.statcan.gc.ca/daily-quotidien/160518/dq160518b-eng.htm">Study: Literacy and numeracy among off-reserve First Nations people and Métis</a>, 2012, Statistics Canada</li>
-    <li><a href="https://www.statcan.gc.ca/daily-quotidien/141104/dq141104b-eng.htm">Study: University graduates with lower levels of literacy and numeracy skills</a>, 2012, Statistics Canada</li>
-    <li><a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;index=frt">TERMIUM Plus</a>®, Translation Bureau</li>
-    <li><a href="https://www.btb.termiumplus.gc.ca/tpv2guides/guides/tcdnstyl/index-eng.html?lang=eng">The Canadian Style</a>, Translation Bureau</li>
-    <li><a href="https://www.musanim.com/miller1956/">The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing</a>, George A. Miller</li>
-    <li><a href="https://gathercontent.com/blog/use-pair-writing-to-collaborate-with-subject-matter-experts">Use pair writing to collaborate with subject matter experts</a>, Jonathan Kahn, GatherContent</li>
-    <li><a href="https://www.searchenginepeople.com/blog/watch-your-punctuation-online.html">Watch Your Punctuation Online</a>, Search Engine People</li>
-    <li><a href="https://www.w3.org/TR/WCAG/">Web Content Accessibility Guidelines (WCAG) 2.0</a>, World Wide Web Consortium (W3C)</li>
-    <li><a href="https://www.deque.com/blog/dont-screen-readers-read-whats-screen-part-1-punctuation-typographic-symbols/">Why Don't Screen Readers Always Read What's on the Screen?</a>, The Deque Blog</li>
-    <li><a href="https://www.nngroup.com/topic/writing-web/">Writing for the web</a>, Nielsen Norman Group</li>
-    <li>Writing for the Web: Principles and Guidelines, University of Ottawa</li>
+    <li><a href="http://ccat-ctac.org/CMFiles/Publication/LiteracyBook-FR.pdf">L'alphabétisation et l'accès à la justice administrative au Canada</a>, Conseil des tribunaux administratifs canadiens</li>
+    <li><a href="http://www.spl.gouv.qc.ca/ministreetspl/actualites/detail/article/bonnes-pratiques/">Bonnes pratiques de la communication écrite dans les démarches en ligne</a>, Secrétariat à la politique linguistique et par la Délégation générale à la langue française et aux langues de France</li>
+    <li><a href="http://publications.europa.eu/code/fr/fr-000500.htm">Code de rédaction interinstitutionnel</a>, Commission Européenne</li>
+    <li><a href="http://www.publications.gc.ca/site/fra/9.639707/publication.html">Communiquer avec les aînés&nbsp;: conseils et techniques</a>, Santé Canada</li>
+    <li><a href="http://www.spiria.com/fr/blogue/sites-web/comprendre-laccessibilite-web">Comprendre l'accessibilité Web</a>, SPIRIA</li>
+    <li><a href="https://www.canadapost.ca/tools/pg/manual/PGaddress-f.asp">Directives d'adressage</a>, Postes Canada</li>
+    <li><a href="http://www.omafra.gov.on.ca/french/nfporgs/07-050.htm">Écrire avec clarté</a>, Ministère de l'Agriculture, de l'Alimentation et des Affaires rurales de l'Ontario</li>
+    <li><a href="http://www.statcan.gc.ca/daily-quotidien/141104/dq141104b-fra.htm">Étude&nbsp;: Les diplômés universitaires ayant des niveaux de compétence moindres en littératie et en numératie, 2012</a>, Statistique Canada</li>
+    <li><a href="http://www.statcan.gc.ca/daily-quotidien/160518/dq160518b-fra.htm">Étude&nbsp;: Littératie et numératie chez les Premières Nations vivant hors réserve et les Métis, 2012</a>, Statistique Canada</li>
+    <li><a href="http://www.ergolab.net/articles/faciliter-lecture-informations-web.php">Faciliter la lecture d'informations sur le web</a>, Ergolab</li>
+    <li><a href="http://dyslexiahelp.umich.edu/sites/default/files/good_fonts_for_dyslexia_study.pdf">Good Fonts for Dyslexia</a> (en anglais seulement), Luz Rello, NLP &amp; Web Research Groups, et Ricardo Baeza-Yates, Yahoo! Labs &amp; Web Research Group, UPF</li>
+    <li><a href="http://www.autisme.qc.ca/assets/files/07-boite-outils/Communication/Guide-pavillon-parc.pdf">Guide de rédaction pour une information accessible</a>, Équipe de recherche en littératie et inclusion</li>
+    <li><a href="https://www.nngroup.com/articles/how-users-read-on-the-web/">How Users Read on the Web</a> (en anglais seulement), Jakob Nielsen, Nielsen Norman Group</li>
+    <li><a href="http://bdl.oqlf.gouv.qc.ca/bdl/gabarit_bdl.asp?t1=1&amp;id=4208">Impératif et infinitif</a>, Office québécois de la langue française</li>
+    <li><a href="http://ccat-ctac.org/CMFiles/Publication/CCAT-FR.pdf">Introduction à la justice administrative et au langage clair</a>, Conseil des tribunaux administratifs canadiens</li>
+    <li><a href="https://www.gov.uk/guidance/content-design/what-is-content-design">Introduction to content design</a> (en anglais seulement), Government Digital Service, GOV.UK</li>
+    <li><a href="http://www.btb.termiumplus.gc.ca/tpv2guides/guides/redac/index-fra.html?lang=fra">Le guide du rédacteur</a>, Bureau de la traduction</li>
+    <li><a href="http://www.statcan.gc.ca/pub/89-555-x/89-555-x2013001-fra.htm">Les compétences au Canada&nbsp;: Premiers résultats du Programme pour l'évaluation internationale des compétences des adultes</a>, Statistique Canada</li>
+    <li><a href="http://www.vortexsolution.com/lexique-web-montreal.html">Lexique Web</a>, Vortex solution</li>
+    <li><a href="http://abclifeliteracy.ca/workplace-literacy-facts">Literacy and Numeracy in Canada</a> (en anglais seulement), ABC Life Literacy Canada</li>
+    <li><a href="https://www.nngroup.com/articles/writing-for-lower-literacy-users/">Lower-Literacy Users: Writing for a Broad Consumer Audience</a> (en anglais seulement), Jakob Nielsen, Nielsen Norman Group</li>
+    <li><a href="https://www.nngroup.com/articles/minimize-cognitive-load/">Minimize Cognitive Load to Maximize Usability</a> (en anglais seulement), Kathryn Whitenton, Nielsen Norman Group</li>
+    <li><a href="https://www.nngroup.com/articles/mobile-ux/">Mobile User Experience: Limitations and Strengths</a> (en anglais seulement), Raluca Budio, Nielsen Norman Group</li>
+    <li><a href="http://plainlanguagenetwork.org/">Plain Language Association International</a> (en anglais seulement)</li>
+    <li><a href="https://www.navigatormm.com/blog/plain-language-please-heres-why-to-avoid-marketese-online/">Plain Language, Please! Here's Why to Avoid "Marketese" Only</a> (en anglais seulement), Sarah Bauer</li>
+    <li><a href="http://publications.gc.ca/site/fra/9.678667/publication.html">Pour un style clair et simple</a>, Travaux publics et services gouvernementaux Canada (réimprimé en 2003)</li>
+    <li><a href="http://www.noslangues-ourlanguages.gc.ca/index-fra.php">Portail linguistique du Canada</a>, gouvernement du Canada</li>
+    <li><a href="http://www.uottawa.ca/uoweb/sites/www.uottawa.ca.uoweb/files/principes_et_directives_lies_a_la_redaction_pour_le_web.pdf">Principes et directives liés à la rédaction pour le Web</a> (PDF), Université d'Ottawa</li>
+    <li><a href="http://editoile.fr/rediger-une-liste-a-puces/">Rédiger une liste à puces</a>, Éditoile</li>
+    <li><a href="http://www.w3.org/Translations/WCAG20-fr/">Règles pour l'accessibilité des contenus Web (WCAG) 2.0</a>, World Wide Web Consortium (W3C)</li>
+    <li><a href="http://www.publications.gc.ca/site/eng/9.639699/publication.html">Tendons la main&nbsp;: guide pour bien communiquer avec les aînés autochtones</a>, Santé Canada</li>
+    <li><a href="http://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;index=frt">TERMIUM Plus</a>®, Bureau de la traduction</li>
+    <li><a href="http://www.musanim.com/miller1956/">The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing</a> (en anglais seulement), George A. Miller</li>
+    <li>Vocabulaire d'Internet – Banque de terminologie du Québec, Index des termes français, Office québécois de la langue française</li>
+    <li><a href="https://gathercontent.com/blog/use-pair-writing-to-collaborate-with-subject-matter-experts">Use pair writing to collaborate with subject matter experts</a> (en anglais seulement), Jonathan Kahn, GatherContent</li>
+    <li><a href="http://www.searchenginepeople.com/blog/watch-your-punctuation-online.html">Watch Your Punctuation Online</a> (en anglais seulement), Search Engine People</li>
+    <li><a href="http://www.deque.com/blog/dont-screen-readers-read-whats-screen-part-1-punctuation-typographic-symbols/">Why Don't Screen Readers Always Read What's on the Screen?</a> (en anglais seulement), The Deque Blog</li>
+    <li><a href="https://www.nngroup.com/topic/writing-web/">Writing for the Web</a> (en anglais seulement), Nielsen Norman Group</li>
   </ul>
 </section>
