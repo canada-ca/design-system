@@ -918,7 +918,7 @@ title: "Canada.ca Content Style Guide"
     <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-3">4.3 Symboles</a></span></li>
   </ul>
   <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for abbreviations and acronyms", "title": "4.3 Symboles", "url": "https://design.canada.ca/style-guide/#wp4-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-3"}'></div>
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for abbreviations and acronyms", "title": "4.3 Symbols", "url": "https://design.canada.ca/style-guide/#wp4-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-3"}'></div>
   </div>
 </section>
 <section id="wp4-4">
