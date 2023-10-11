@@ -1090,7 +1090,7 @@ title: "Canada.ca Content Style Guide"
   </ul>
   <h4>See how the rule for times applies in French</h4>
   <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-7">4.8 Heures</a></span></li>
+    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-8">4.8 Heures</a></span></li>
   </ul>
   <div class="mrgn-tp-lg">
     <div class="wb-share btn btn-default" data-wb-share='{"custType": " rule for dates", "title": "4.8 Times", "url": "https://design.canada.ca/style-guide/#wp4-8", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-8"}'></div>
