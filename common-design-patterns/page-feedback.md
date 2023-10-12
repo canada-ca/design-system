@@ -102,7 +102,7 @@ title: "Page feedback tool"
           </figcaption>
           <img src="/images/page-feedback.png" class="img-responsive" alt="1. Initial view of the feedback tool. Text version below:" />
           <details>
-            <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: Initial view</summary>
+            <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: Initial view of the feedback tool</summary>
             <p class="mrgn-tp-md">On page load, the feedback is located at the bottom of the web page above the date modified. A small gray well includes the prompt “Did you find what you were looking for?” followed by buttons for “Yes” and “No”.</p>
           </details>
         </figure>
@@ -113,7 +113,7 @@ title: "Page feedback tool"
         </figcaption>
         <img src="/images/description-en.jpg" class="img-responsive" alt="2a. Default view after selecting No. Text version below:" />
         <details>
-          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: Default view</summary>
+          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: Default view after selectiong "No"</summary>
           <p class="mrgn-tp-md">After interacting with the “No” button in, a text entry screen will replace the prompt. There is a heading for “Please provide more details” followed by instructions to not include personal information: “You will not receive a reply. Don’t include personal information (telephone, email, SIN financial, medical, or work details. Maximum 300 characters.” There is a small text entry box followed by a button for “Submit”.</p>
         </details>
       </figure>
@@ -124,7 +124,7 @@ title: "Page feedback tool"
         </figcaption>
         <img src="/images/urgent-help-en.png" class="img-responsive" alt="2b. Optional view after selecting No with contact option. Text version below:" />
         <details>
-          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: Optional view after selection "No"</summary>
+          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: Optional view after selecting "No" with contact option</summary>
           <p class="mrgn-tp-md">After interacting with the “No” button in, a text entry screen will replace the prompt.</p>
           <p>In the contact option, there is an expand/collapse pattern with the header “Need urgent help with a problem? Contact us”. When the expand/collapse pattern is opened, there is a customizable link to contact the service.</p>
           <p>After the expand/collapse pattern, there is a heading for “Please provide more details” followed by instructions to not include personal information: “You will not receive a reply. Don’t include personal information (telephone, email, SIN financial, medical, or work details. Maximum 300 characters.” There is a small text entry box followed by a button for “Submit”.</p>
@@ -145,7 +145,7 @@ title: "Page feedback tool"
 </section>
 <section id="how">
   <h2>How to implement</h2>
-  <p>Add it to the bottom of a content page after the page content and before the date modified. </p>
+  <p>Add the feedback tool to the bottom of a content page after the page content and before the date modified. </p>
   <div class="row">
     <div class="col-md-8">
       <h3>Feedback tool code for pages on the Managed Web Service (MWS)</h3>
@@ -154,10 +154,10 @@ title: "Page feedback tool"
         <summary>Instructions for MWS pages</summary>
         <h4>Add the feedback component</h4>
         <p><a href="#">How to add the feedback component to your page in Adobe Experience Manager (AEM).</a> (Internal only on GCPedia)</p>
-        <h4><span class="label label-primary">Recommended</span> Add a theme hidden value in the feedback code</h4>
+        <h4><span class="label label-primary">Recommended</span> Add a "theme" hidden value in the feedback code</h4>
         <p>This is useful when you want to download feedback for an entire theme of pages at the same time.</p>
         <p>In most cases, you should include the Canada.ca theme for your content (full list below).</p>
-        <p>This is a unilingual value - enter the same theme value to your English and French pages.</p>
+        <p>This is a unilingual value - enter the English theme value to your English and French pages.</p>
         <h5>Canada.ca theme values</h5>
         <ul>
           <li>AboutGov</li>
@@ -182,10 +182,10 @@ title: "Page feedback tool"
         </ul>
         <p>If you would like to add a new theme value that is not currently in the Feedback Viewer, contact the Digital Transformation Office. We will add the new theme value into the Feedback Viewer.</p>
         <p>Email: <a href="maito:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></p>
-        <h4><span class="label label-warning">Optional</span> Add a “Section” hidden value in the feedback code</h4>
+        <h4><span class="label label-warning">Optional</span> Add a “section” hidden value in the feedback code</h4>
         <p>This is useful when you want to download feedback for multiple pages at the same time.</p>
         <p>Consider including this value when you're adding the feedback tool to multiple pages on the same topic, such as “passports” or “employment insurance”.</p>
-        <p>This is a unilingual value - enter the same section value to your English and French pages.</p>
+        <p>This is a unilingual value - enter the English section value to your English and French pages.</p>
         <p>If you would like to add a new section value that is not currently in the Feedback Viewer, contact the Digital Transformation Office. We will add the new section value into the Feedback Viewer.</p>
         <p>Email: <a href="maito:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></p>
         <h4><span class="label label-warning">Optional</span> Contact link</h4>
@@ -260,10 +260,10 @@ title: "Page feedback tool"
           <li>WAGE</li>
           <li>WD</li>
         </ul>
-        <h4><span class="label label-primary">Recommended</span> Add a theme hidden value in the feedback code</h4>
+        <h4><span class="label label-primary">Recommended</span> Add a "theme" hidden value in the feedback code</h4>
         <p>This is useful when you want to download feedback for an entire theme of pages at the same time.</p>
         <p>In most cases, you should include the Canada.ca theme for your content (full list below).</p>
-        <p>This is a unilingual value - enter the same theme value to your English and French pages.</p>
+        <p>This is a unilingual value - enter the English theme value to your English and French pages.</p>
         <h5>Canada.ca theme values</h5>
         <ul>
           <li>AboutGov</li>
@@ -288,10 +288,10 @@ title: "Page feedback tool"
         </ul>
         <p>If you would like to add a new theme value that is not currently in the Feedback Viewer, contact the Digital Transformation Office. We will add the new theme value into the Feedback Viewer.</p>
         <p>Email: <a href="maito:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></p>
-        <h4><span class="label label-warning">Optional</span> Add a “Section” hidden value in the feedback code</h4>
+        <h4><span class="label label-warning">Optional</span> Add a “section” hidden value in the feedback code</h4>
         <p>This is useful when you want to download feedback for multiple pages at the same time.</p>
         <p>Consider including this value when you're adding the feedback tool to multiple pages on the same topic, such as “passports” or “employment insurance”.</p>
-        <p>This is a unilingual value - enter the same section value to your English and French pages.</p>
+        <p>This is a unilingual value - enter the English section value to your English and French pages.</p>
         <p>If you would like to add a new section value that is not currently in the Feedback Viewer, contact the Digital Transformation Office. We will add the new section value into the Feedback Viewer.</p>
         <p>Email: dto.btn@tbs-sct.gc.ca</p>
         <h4><span class="label label-warning">Optional</span> Contact link</h4>
