@@ -153,7 +153,7 @@ title: "Page feedback tool"
       <details>
         <summary>Instructions for MWS pages</summary>
         <h4>Add the feedback component</h4>
-        <p><a href="#">How to add the feedback component to your page in Adobe Experience Manager (AEM).</a> (Internal only on GCPedia)</p>
+        <p><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">How to add the feedback component to your page in Adobe Experience Manager (AEM).</a> (Internal only on GCPedia)</p>
         <h4><span class="label label-primary">Recommended</span> Add a "theme" hidden value in the feedback code</h4>
         <p>This is useful when you want to download feedback for an entire theme of pages at the same time.</p>
         <p>In most cases, you should include the Canada.ca theme for your content (full list below).</p>
