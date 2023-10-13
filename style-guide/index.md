@@ -272,7 +272,7 @@ title: "Canada.ca Content Style Guide"
       <h5>Example of direct statements</h5>
       <p><strong>Write</strong>: Present your passport to the border officer.<br>
         <strong>Instead of</strong>: According to Canadian legislation, you're required to present your passport to the agent who will welcome you into the country.</p>
-      <h4>See how rule for the inverted pyramid structure applies in French</h4>
+      <h4>See how the rule for the inverted pyramid structure applies in French</h4>
       <ul>
         <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-1">2.1 Commencer par les renseignements les plus importants</a></span></li>
       </ul>
@@ -414,7 +414,7 @@ title: "Canada.ca Content Style Guide"
   <p><strong>Write</strong>: The evaluation team will submit its final report on the training program in September.<br>
     <strong>Instead of</strong>: The training program evaluation team will submit its final report in September.</p>
   <p>Surround a long sentence with shorter ones because it helps people understand the long sentence.</p>
-  <h4>See how this rule for using simple sentences applies in French</h4>
+  <h4>See how the rule for using simple sentences applies in French</h4>
   <ul>
     <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-6">2.6 Utiliser des phrases simples</a></span></li>
   </ul>
@@ -443,7 +443,7 @@ title: "Canada.ca Content Style Guide"
     <li>presenting a series of more than 2 ideas or words as a vertical list</li>
     <li>using a short form for a long title instead of repeating it</li>
   </ul>
-  <h4>See how rule for using short sentences and paragraphs applies in French</h4>
+  <h4>See how the rule for using short sentences and paragraphs applies in French</h4>
   <ul>
     <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-7">2.7 Utiliser des phrases et des paragraphes courts</a></span></li>
   </ul>
@@ -462,7 +462,7 @@ title: "Canada.ca Content Style Guide"
     <li><cite><a href="https://laws-lois.justice.gc.ca/eng/acts/c-29/FullText.html">Citizenship Act</a></cite>, section 5.1</li>
   </ul>
   <p><strong>Instead of</strong>: After your child arrives in Canada as a permanent resident, you can apply for citizenship on the child's behalf under section 5.1 of the <cite>Citizenship Act</cite>.</p>
-  <h4>See how rule for explaining references to legislation applies in French</h4>
+  <h4>See how the rule for explaining references to legislation applies in French</h4>
   <ul>
     <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-8">2.8 Expliquer les références aux lois</a></span></li>
   </ul>
@@ -532,7 +532,7 @@ title: "Canada.ca Content Style Guide"
       <li>create numbered or bulleted lists for key tasks</li>
     </ul>
   </section>
-  <h4>See how rule for measuring content for readability applies in French</h4>
+  <h4>See how the rule for measuring content for readability applies in French</h4>
   <ul>
     <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-9">2.9 Vérifier la lisibilité de votre contenu</a></span></li>
   </ul>
