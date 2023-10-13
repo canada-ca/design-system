@@ -292,8 +292,8 @@
   }, {
     "NAME": "<a href=\"{{ site.url }}/feedback/index.html\">Page feedback tool</a>",
     "SOURCE": "Continuous improvement",
-    "DESCRIPTION": "The feedback tool is an optional pattern to uncover specific page-level issues affecting task performance.",
-    "WHENTOUSE": "The feedback tool is an optional pattern to uncover specific page-level issues affecting task performance.",
+    "DESCRIPTION": "The Page feedback tool is an optional pattern to collect feedback on the page experience. It should only be used on pages where the feedback will be actively monitored and actioned.",
+    "WHENTOUSE": "The Page feedback tool is an optional pattern to collect feedback on the page experience. It should only be used on pages where the feedback will be actively monitored and actioned.",
     "CATEGORY": "Design pattern",
     "TYPE": "Interaction",
     "MANDATORY": "No",
