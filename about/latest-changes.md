@@ -14,6 +14,10 @@ title: "Latest changes to the Canada.ca design system"
 </div>
 <div id="expand-collapse">
   <details open="open">
+    <summary>October  xx, 2023</summary>
+    <p>Updated the <a href="{{ site.url }}/common-design-patterns/report-problem.html">Report a problem pattern</a> to inform users that it is being decommissioned. Stabilized the Page feedback tool pattern and added content specifications and updated implementation instructions.</p>
+  </details>
+  <details>
     <summary>July 12, 2023</summary>
     <p>Updated the <a href="{{ site.url }}/common-design-patterns/subway-navigation.html">Subway pattern</a> to remove "avoid sub-steps". This reflects that there may be instances where more complex processes would benefit from the use of sub-steps.</p>
   </details>
