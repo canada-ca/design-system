@@ -1103,8 +1103,8 @@
   }, {
     "NAME": "<a href=\"{{ site.url }}/common-design-patterns/report-problem.html\">Report a problem</a>",
     "SOURCE": "Template and pattern library",
-    "DESCRIPTION": "Allows people to provide feedback via a form for any problems that may have happened",
-    "WHENTOUSE": "Allows people to provide feedback via a form for any problems that may have happened",
+    "DESCRIPTION": "Allows people to provide feedback via a form for any problems that may have happened. This pattern is being decommissioned. We do not recommend adding it to your pages.",
+    "WHENTOUSE": "Allows people to provide feedback via a form for any problems that may have happened. This pattern is being decommissioned. We do not recommend adding it to your pages.",
     "CATEGORY": "Design pattern",
     "TYPE": "Site-wide pattern, Interaction",
     "MANDATORY": "No",
