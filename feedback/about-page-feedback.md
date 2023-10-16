@@ -52,16 +52,56 @@ The feedback tool invites visitors to:
   </figure>
 </details>
 
-<details>
-  <summary>Image of the form after clicking "No"</summary>
-  <figure class="mrgn-tp-lg">
-    <img class="img-responsive border" alt="A long description can be found after the image." src="images/description-en.jpg" />
-    <details>
-      <summary>Feedback tool</summary>
-      <p>A heading labelled "Please provide more details". Followed by the text "You will not receive a reply. Don't include personal information (telephone, email, SIN, financial, medical, or work details). Maximum 300 characters", and a text field to provide more details.</p>
-    </details>
-  </figure>
-</details>
+<h3>Visual examples</h3>
+ <div class="row">
+   <div class="col-md-8">
+     <div class="mrgn-tp-md mrgn-bttm-md">
+       <figure class="mrgn-tp-md mrgn-bttm-lg">
+         <figcaption>
+           <h4>1. Initial view of the feedback tool</h4>
+         </figcaption>
+         <img src="/images/page-feedback.png" class="img-responsive" alt="1. Initial view of the feedback tool. Text version below:" />
+         <details>
+           <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: Initial view of the feedback tool</summary>
+           <p class="mrgn-tp-md">On page load, the feedback is located at the bottom of the web page above the date modified. A small gray well includes the prompt “Did you find what you were looking for?” followed by buttons for “Yes” and “No”.</p>
+         </details>
+       </figure>
+     </div>
+     <figure class="mrgn-tp-md mrgn-bttm-lg">
+       <figcaption>
+         <h4>2a. Default view after selecting "No"</h4>
+       </figcaption>
+       <img src="/images/description-en.jpg" class="img-responsive" alt="2a. Default view after selecting No. Text version below:" />
+       <details>
+         <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: Default view after selectiong "No"</summary>
+         <p class="mrgn-tp-md">After interacting with the “No” button in, a text entry screen will replace the prompt. There is a heading for “Please provide more details” followed by instructions to not include personal information: “You will not receive a reply. Don’t include personal information (telephone, email, SIN financial, medical, or work details. Maximum 300 characters.” There is a small text entry box followed by a button for “Submit”.</p>
+       </details>
+     </figure>
+     <figure class="mrgn-tp-md mrgn-bttm-lg">
+       <figcaption>
+         <h4>2b. Optional view after selecting "No" with contact option</h4>
+         <p>The expand/collapse pattern labeled “Need urgent help with a problem? Contact us” will be closed by default.</p>
+       </figcaption>
+       <img src="/images/urgent-help-en.png" class="img-responsive" alt="2b. Optional view after selecting No with contact option. Text version below:" />
+       <details>
+         <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: Optional view after selecting "No" with contact option</summary>
+         <p class="mrgn-tp-md">After interacting with the “No” button in, a text entry screen will replace the prompt.</p>
+         <p>In the contact option, there is an expand/collapse pattern with the header “Need urgent help with a problem? Contact us”. When the expand/collapse pattern is opened, there is a customizable link to contact the service.</p>
+         <p>After the expand/collapse pattern, there is a heading for “Please provide more details” followed by instructions to not include personal information: “You will not receive a reply. Don’t include personal information (telephone, email, SIN financial, medical, or work details. Maximum 300 characters.” There is a small text entry box followed by a button for “Submit”.</p>
+       </details>
+     </figure>
+     <figure class="mrgn-tp-md mrgn-bttm-lg">
+       <figcaption>
+         <h4>3. View after selecting "Yes" or after submitting feedback</h4>
+       </figcaption>
+       <img src="/images/thank-you-en.jpg" class="img-responsive" alt="3. View after selecting Yes or after submitting feedback. Text version below:" />
+       <details>
+         <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: View after selecting "Yes" or after submitting feedback</summary>
+         <p class="mrgn-tp-md">When users select “Yes” from the initial prompt or after submitting their feedback, a thank you message is displayed. There is a green checkmark icon followed by the heading “Thank you for your feedback”</p>
+       </details>
+     </figure>
+   </div>
+ </div>
 
 ## Protecting personal information
 
