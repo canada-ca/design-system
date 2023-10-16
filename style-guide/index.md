@@ -1036,7 +1036,7 @@ title: "Canada.ca Content Style Guide"
     <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-6">4.6 Nombres</a></span></li>
   </ul>
   <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for nombres", "title": "4.6 Numbers", "url": "https://design.canada.ca/style-guide/#wp4-6", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-6"}'></div>
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for numbers", "title": "4.6 Numbers", "url": "https://design.canada.ca/style-guide/#wp4-6", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-6"}'></div>
   </div>
 </section>
 <section id="wp4-7">
@@ -1093,7 +1093,7 @@ title: "Canada.ca Content Style Guide"
     <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-8">4.8 Heures</a></span></li>
   </ul>
   <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for dates", "title": "4.8 Times", "url": "https://design.canada.ca/style-guide/#wp4-8", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-8"}'></div>
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for times", "title": "4.8 Times", "url": "https://design.canada.ca/style-guide/#wp4-8", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-8"}'></div>
   </div>
 </section>
 <section id="wp4-9">
@@ -1391,7 +1391,7 @@ title: "Canada.ca Content Style Guide"
       <p>For example, listing provinces and territories in alphabetical order could be appropriate.</p>
       <p>If you present content in alphabetical order in English, also present it in alphabetical order in French to provide the same intuitive experience.</p>
     </section>
-    <h4>See how the rule for using lists applies in French</h4>
+    <h4>See how the rule for using lists to support scanning applies in French</h4>
     <ul>
       <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp5-2">5.2 Utiliser des listes d'éléments pour aider les gens à survoler le texte</a></span></li>
     </ul>
@@ -2142,12 +2142,12 @@ title: "Canada.ca Content Style Guide"
     <li>important sounds (such as an explosion)</li>
     <li>important action (for example, people running away from an explosion or characters wearing disguises)</li>
   </ul>
-  <h4>See how the rule for transcripts applies in French</h4>
+  <h4>See how the rule for transcripts to describe audio and video files applies in French</h4>
   <ul>
     <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp6-4">6.4 Ajouter une transcription pour décrire les fichiers audio et vidéo</a></span></li>
   </ul>
   <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for transcripts", "title": "6.4 Include transcripts to describe audio and video files", "url": "https://design.canada.ca/style-guide/#wp6-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp6-4"}'></div>
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for transcripts to describe audio and video files", "title": "6.4 Include transcripts to describe audio and video files", "url": "https://design.canada.ca/style-guide/#wp6-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp6-4"}'></div>
   </div>
 </section>
 <section id="toc11">
@@ -2289,7 +2289,7 @@ title: "Canada.ca Content Style Guide"
   <h3>7.5 Linking to internal-to-government content</h3>
   <p>In most cases, public-facing content should not link to content that is accessible only through internal government networks. Occasionally, the audience for content that is accessible to the public may be primarily internal.</p>
   <p>When a link leads to content available only on internal government networks, write "(accessible only on the Government of Canada network)."</p>
-  <h4>See how the rule for internal-to-government contente applies in French</h4>
+  <h4>See how the rule for internal-to-government content applies in French</h4>
   <ul>
     <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp7-5">7.5 Créer des liens vers du contenu interne</a></span></li>
   </ul>
