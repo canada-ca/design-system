@@ -75,6 +75,10 @@ We don't recommend keeping the feedback tool on a page continuously. This reiter
 
 We don't recommend using the tool within secure spaces. In these spaces, it is better to ensure users have clear access to direct support channels.
 
+### Sensitive content
+
+Pages on sensitive subjects should be avoided (for example, suicide).
+
 <nav role="navigation" class="mrgn-bttm-lg">
   <ul class="pager">
     <li class="next"><a href="benefits.html" rel="next">Next: How feedback can help</a></li>
