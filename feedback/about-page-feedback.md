@@ -52,7 +52,6 @@ The feedback tool invites visitors to:
   </figure>
 </details>
 
-<h3>Visual examples</h3>
  <div class="row">
    <div class="col-md-8">
      <div class="mrgn-tp-md mrgn-bttm-md">
