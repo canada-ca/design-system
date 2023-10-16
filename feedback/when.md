@@ -18,9 +18,18 @@ title: When to use the page feedback tool
 
 ## On this page
 
+* [When to use the page feedback tool](#when-to-use-the-page-feedback-tool)
 * [Use cases for the page feedback tool](#use-cases-for-the-page-feedback-tool)
 * [Expectations and commitment](#expectations-and-commitment)
 * [How not to use the tool](#how-not-to-use-the-feedback-tool)
+
+
+## When to use the page feedback tool
+We recommend using the feedback tool where there is a commitment to reading and acting on input:
+
+* on specific pages; and
+* for a defined period of time
+
 
 ## Use cases for the page feedback tool
 
@@ -32,10 +41,7 @@ Consider adding the page feedback tool to:
 * identify emerging issues
 * monitor after page improvements have gone live
 
-We recommend using the feedback tool where there is a commitment to reading and acting on input:
 
-* on specific pages; and
-* for a defined period of time
 
 ## Expectations and commitment
 
