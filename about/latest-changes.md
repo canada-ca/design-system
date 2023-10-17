@@ -15,7 +15,7 @@ title: "Latest changes to the Canada.ca design system"
 <div id="expand-collapse">
   <details open="open">
     <summary>October  xx, 2023</summary>
-    <p>Updated the <a href="{{ site.url }}/common-design-patterns/report-problem.html">Report a problem pattern</a> to inform users that it is being decommissioned. Stabilized the Page feedback tool pattern and added content specifications and updated implementation instructions.</p>
+    <p>Updated the <a href="{{ site.url }}/common-design-patterns/report-problem.html">Report a problem pattern</a> to inform users that it is being decommissioned. Stabilized the <a href="{{ site.url }}/common-design-patterns/page-feedback.html">Page feedback tool pattern</a> and added content specifications and updated implementation instructions.</p>
   </details>
   <details>
     <summary>July 12, 2023</summary>
