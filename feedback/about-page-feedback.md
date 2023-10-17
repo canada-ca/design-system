@@ -84,7 +84,7 @@ The feedback tool invites visitors to:
        <img src="/images/urgent-help-en.png" class="img-responsive" alt="2b. Optional view after selecting No with contact option. Text version below:" />
        <details>
          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: Optional view after selecting "No" with contact option</summary>
-         <p class="mrgn-tp-md">After interacting with the “No” button in, a text entry screen will replace the prompt.</p>
+         <p class="mrgn-tp-md">After interacting with the “No” button, a text entry screen will replace the prompt.</p>
          <p>In the contact option, there is an expand/collapse pattern with the header “Need urgent help with a problem? Contact us”. When the expand/collapse pattern is opened, there is a customizable link to contact the service.</p>
          <p>After the expand/collapse pattern, there is a heading for “Please provide more details” followed by instructions to not include personal information: “You will not receive a reply. Don’t include personal information (telephone, email, SIN financial, medical, or work details. Maximum 300 characters.” There is a small text entry box followed by a button for “Submit”.</p>
        </details>

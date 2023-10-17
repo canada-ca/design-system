@@ -35,7 +35,7 @@ We recommend using the feedback tool where there is a commitment to reading and 
 
 Consider adding the page feedback tool to:
 
-* uncover specific page-level issues affecting you GC Task Success Survey task score
+* uncover specific page-level issues affecting your GC Task Success Survey task score
 * understand content issues on pages you will be working on in the future
 * understand if new or existing pages are meeting user needs
 * identify emerging issues
@@ -58,12 +58,12 @@ The feedback tool should not be used for the following purposes:
 The feedback tool is biased towards collecting ‘no’ answers in several ways:
 
 * Humans, by nature, have a negativity bias
-* We are only collecting feedback is someone selects ‘no’
+* We are only collecting feedback if someone selects ‘no’
 * If they did find an answer and were successful, they may never have reached the bottom of the page
 
 ### Evaluating statistical significance of feedback based on page visits
 
-The number of page visits does not represent the number of people who saw the feedback tool at the bottom of the page or were motivated to use it
+The number of page visits does not represent the number of people who saw the feedback tool at the bottom of the page or were motivated to use it.
 
 ### Monitoring of public perceptions
 
