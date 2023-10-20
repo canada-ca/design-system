@@ -206,7 +206,7 @@ title: "Page feedback tool"
           <li><a href="https://wet-boew.github.io/GCWeb/sites/feedback/feedback-docs-en.html#variantPFTContact">Page Feedback Tool with contact link</a></li>
         </ul>
         <h4>Add the mandatory hidden values</h4>
-        <p>Update the data attribute for the institutional acronym (unilingual value)</p>
+        <p>Update the data attribute for the institutional acronym. This is a unilingual value - enter the English value to your English and French pages.</p>
         <h5>Canada.ca institutional acronyms</h5>
         <ul>
           <li>AAFC</li>
