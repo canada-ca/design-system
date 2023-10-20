@@ -290,12 +290,12 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"{{ site.url }}/feedback/index.html\">Page feedback tool</a>",
+    "NAME": "<a href=\"{{ site.url }}/common-design-patterns/page-feedback.html\">Page feedback tool</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "The Page feedback tool is an optional pattern to collect feedback on the page experience. It should only be used on pages where the feedback will be actively monitored and actioned.",
     "WHENTOUSE": "The Page feedback tool is an optional pattern to collect feedback on the page experience. It should only be used on pages where the feedback will be actively monitored and actioned.",
     "CATEGORY": "Design pattern",
-    "TYPE": "Interaction",
+    "TYPE": "Site-wide pattern, Interaction",
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
