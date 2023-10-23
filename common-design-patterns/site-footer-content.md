@@ -69,9 +69,9 @@ title: Content footer
   </p>
   <ul>
    <li>
-    <a href="report-problem.html">
-     Report a problem
-    </a>
+     <a href="https://design.canada.ca/common-design-patterns/page-feedback.html">
+    Page feedback tool
+   </a>
     (optional)
    </li>
    <li>
@@ -90,18 +90,6 @@ title: Content footer
   <p>
    Insert the content footer within the content area block so that its margins are aligned with the main page content.
   </p>
-  <h2>
-   Page feedback tool pilot
-  </h2>
-  <p>
-   The Page feedback tool is a pilot product. Add the pattern to the content footer instead of the “Report a problem”
-          pattern to actively collect user feedback.
-  </p>
-  <p>
-   <a href="https://design.canada.ca/continuous-improvement/monitoring/feedback.html">
-    Page feedback tool
-   </a>
-  </p>
  </section>
  <h2>
   Example
@@ -113,14 +101,14 @@ title: Content footer
      Content footer
     </b>
    </figcaption>
-   <img alt="Diagram of content footer." class="img-responsive" src="../images/content-footer-en.jpg"/>
+   <img alt="Screenshot of the content footer." class="img-responsive" src="../images/content-footer-en.jpg"/>
    <details>
     <summary class="wb-toggle" data-toggle='{"print":"on"}'>
-     Text version
+     Image description: Content footer
     </summary>
-    <p>
-     The content footer contains the following components: Report a problem, Share this page and Date modified.
-    </p>
+    <p>On the left is the initial view of the page feedback tool. A small gray well has a prompt “Did you find what you were looking for?” followed by buttons for “Yes” and “No”.</p>
+    <p>On the right is a grey well with a share icon and the text “Share this page”.</p>
+    <p>Below the page feedback tool is the text “Date modified: 2023-08-01”.</p>
    </details>
   </figure>
  </div>
