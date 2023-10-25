@@ -5,8 +5,7 @@ dateModified: 2023-03-28
 description: "Mandatory elements for all Government of Canada webpages."
 layout: default
 title: "Mandatory elements of the Canada.ca design"
----
-<div class="mrgn-tp-md mrgn-bttm-sm brdr-bttm">
+---<div class="mrgn-tp-md mrgn-bttm-sm brdr-bttm">
   <div class="row  mrgn-bttm-sm">
     <ul class="toc lst-spcd col-md-12">
       <li class="col-md-4"><a href="usage-canadaca-design.html" class="list-group-item">Who has to use this design system</a> </li>

@@ -5,7 +5,6 @@ dateModified: 2023-03-28
 description: "Templates and design patterns of the Canada.ca design system."
 title: "Designing content on Canada.ca"
 ---
-<p class="gc-byline"><strong>From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
 <div class="mrgn-tp-md mrgn-bttm-sm brdr-bttm">
   <div class="row  mrgn-bttm-sm">
     <ul class="toc lst-spcd col-md-12">
