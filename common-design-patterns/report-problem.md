@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/configurations-conception-communes/signaler-probleme.html
 date: null
-dateModified: '2022-11-30'
+dateModified: '2023-10-03'
 description: null
 title: Report a problem
 ---
@@ -15,6 +15,11 @@ title: Report a problem
     Treasury Board of Canada Secretariat
    </a>
   </strong>
+  <section class="alert alert-warning">
+  <p>We are decommissioning the Report a Problem pattern. We do not recommend adding this pattern to your pages.</p>
+<p>If you would like to collect feedback for specific web pages you can use the <a href="https://design.canada.ca/common-design-patterns/page-feedback.html">Page Feedback Tool (PFT) pattern</a>. You should only add the PFT to pages where you plan to actively monitor and action feedback.</p>
+</section>
+
   <div class="gc-stp-stp">
    <div class="row">
     <ul class="toc lst-spcd col-md-12">
@@ -94,25 +99,6 @@ title: Report a problem
    <h2 id="how">
     How to implement
    </h2>
-   <section class="alert alert-warning">
-    <h3>
-     Using CDTS to implement the Canada.ca theme
-    </h3>
-    <p>
-     Do not implement this pattern through CDTS. To turn off the page footer in CDTS:
-    </p>
-    <ul>
-     <li>
-      use the CDTS version for GCWeb applications, instead of the one for static HTML pages
-     </li>
-     <li>
-      remove the reference for the 'prefooter'
-     </li>
-    </ul>
-    <p>
-     You should then set up the report a problem form in its place.
-    </p>
-   </section>
    <p>
     The button, label, placement and privacy statement are mandatory:
    </p>

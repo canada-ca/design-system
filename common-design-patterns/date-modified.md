@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/configurations-conception-communes/date-modification.html
 date: null
-dateModified: '2022-11-30'
+dateModified: '2023-10-03'
 description: null
 title: Date modified
 ---
@@ -57,7 +57,7 @@ title: Date modified
       Date modified section
      </b>
     </figcaption>
-    <img alt="Screenshot of a webpage: button labeled 'Report a problem on this page' appears on the left. 'Share this page' appears on the right, and 'Date modified: 2017-12-05' appears highlighted below." src="../images/datemod-en.png"/>
+    <img alt="Date modified: 2023-08-01' appears highlighted below the main content area." src="../images/datemod-en.png"/>
    </figure>
   </section>
   <section>
@@ -116,9 +116,7 @@ title: Date modified
      The date appears using the common numeric method, for example: 2016-10-04.
     </li>
     <li>
-     Placement: left-aligned, below the main content area. If used in conjunction with the Report a problem pattern,
-			this
-			component appears after the button to report a problem with the page.
+     Placement: left-aligned, below the main content area. If used in conjunction with the Page feedback tool, this component appears after.
     </li>
    </ul>
   </section>
