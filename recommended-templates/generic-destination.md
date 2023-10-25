@@ -112,7 +112,7 @@ title: Basic content page layout recommended template
       <td>
        <ul>
         <li>
-         <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp5-1">
+         <a href="https://design.canada.ca/style-guide/#wp5-1">
           Page title
          </a>
         </li>
@@ -128,7 +128,7 @@ title: Basic content page layout recommended template
       <td>
        <ul>
         <li>
-         <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp5-1">
+         <a href="https://design.canada.ca/style-guide/#wp5-1">
           Page title
          </a>
         </li>
@@ -149,7 +149,7 @@ title: Basic content page layout recommended template
       <td>
        <ul>
         <li>
-         <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp5-1">
+         <a href="https://design.canada.ca/style-guide/#wp5-1">
           Page title
          </a>
         </li>
@@ -170,7 +170,7 @@ title: Basic content page layout recommended template
       <td>
        <ul>
         <li>
-         <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp5-1">
+         <a href="https://design.canada.ca/style-guide/#wp5-1">
           Page title
          </a>
         </li>

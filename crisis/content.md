@@ -293,7 +293,7 @@ title: Crisis communications content design checklist
    </li>
    <li>
     “in order to” - Use single words like “to” (
-    <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp2-2">
+    <a href="https://design.canada.ca/style-guide/#wp2-2">
      more examples
     </a>
     )
