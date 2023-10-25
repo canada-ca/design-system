@@ -4,7 +4,8 @@ date: 2017-10-05
 dateModified: 2023-03-28
 description: "How to organize your content on Canada.ca"
 title: "Organizing content on Canada.ca"
----<div class="mrgn-tp-md mrgn-bttm-sm brdr-bttm">
+---
+<div class="mrgn-tp-md mrgn-bttm-sm brdr-bttm">
   <div class="row  mrgn-bttm-sm">
     <ul class="toc lst-spcd col-md-12">
       <li class="col-md-4"><a href="usage-canadaca-design.html" class="list-group-item">Who has to use this design system</a> </li>
