@@ -113,8 +113,8 @@ title: "Page feedback tool"
         </figcaption>
         <img src="/images/description-en.jpg" class="img-responsive" alt="2a. Default view after selecting No. Text version below:" />
         <details>
-          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: Default view after selectiong "No"</summary>
-          <p class="mrgn-tp-md">After interacting with the “No” button in, a text entry screen will replace the prompt. There is a heading for “Please provide more details” followed by instructions to not include personal information: “You will not receive a reply. Don’t include personal information (telephone, email, SIN financial, medical, or work details. Maximum 300 characters.” There is a small text entry box followed by a button for “Submit”.</p>
+          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: Default view after selecting "No"</summary>
+          <p class="mrgn-tp-md">After interacting with the “No” button, a text entry screen will replace the prompt. There is a heading for “Please provide more details” followed by instructions to not include personal information: “You will not receive a reply. Don’t include personal information (telephone, email, SIN financial, medical, or work details. Maximum 300 characters.” There is a small text entry box followed by a button for “Submit”.</p>
         </details>
       </figure>
       <figure class="mrgn-tp-md mrgn-bttm-lg">
@@ -125,7 +125,7 @@ title: "Page feedback tool"
         <img src="/images/urgent-help-en.png" class="img-responsive" alt="2b. Optional view after selecting No with contact option. Text version below:" />
         <details>
           <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: Optional view after selecting "No" with contact option</summary>
-          <p class="mrgn-tp-md">After interacting with the “No” button in, a text entry screen will replace the prompt.</p>
+          <p class="mrgn-tp-md">After interacting with the “No” button, a text entry screen will replace the prompt.</p>
           <p>In the contact option, there is an expand/collapse pattern with the header “Need urgent help with a problem? Contact us”. When the expand/collapse pattern is opened, there is a customizable link to contact the service.</p>
           <p>After the expand/collapse pattern, there is a heading for “Please provide more details” followed by instructions to not include personal information: “You will not receive a reply. Don’t include personal information (telephone, email, SIN financial, medical, or work details. Maximum 300 characters.” There is a small text entry box followed by a button for “Submit”.</p>
         </details>
@@ -137,7 +137,7 @@ title: "Page feedback tool"
         <img src="/images/thank-you-en.jpg" class="img-responsive" alt="3. View after selecting Yes or after submitting feedback. Text version below:" />
         <details>
           <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: View after selecting "Yes" or after submitting feedback</summary>
-          <p class="mrgn-tp-md">When users select “Yes” from the initial prompt or after submitting their feedback, a thank you message is displayed. There is a green checkmark icon followed by the heading “Thank you for your feedback”</p>
+          <p class="mrgn-tp-md">When users select “Yes” from the initial prompt or after submitting their feedback, a thank you message is displayed. There is a green checkmark icon followed by the heading “Thank you for your feedback”.</p>
         </details>
       </figure>
     </div>
@@ -145,7 +145,7 @@ title: "Page feedback tool"
 </section>
 <section id="how">
   <h2>How to implement</h2>
-  <p>Add the feedback tool to the bottom of a content page after the page content and before the date modified. </p>
+  <p>Add the feedback tool to the bottom of a content page after the page content and before the date modified.</p>
   <div class="row">
     <div class="col-md-8">
       <h3>Feedback tool code for pages on the Managed Web Service (MWS)</h3>
@@ -201,9 +201,8 @@ title: "Page feedback tool"
         <summary>Instructions for non-MWS pages</summary>
         <h4>Add the feedback component</h4>
         <p>Insert the feedback tool code where the “Report a problem on this page” is located in your page's HTML.</p>
-                <ul>
-          <li><a href="https://wet-boew.github.io/GCWeb/sites/feedback/feedback-docs-en.html#variantPFT">Page Feedback Tool (default)</a></li>
-          <li><a href="https://wet-boew.github.io/GCWeb/sites/feedback/feedback-docs-en.html#variantPFTContact">Page Feedback Tool with contact link</a></li>
+        <ul>
+          <li><a href="https://wet-boew.github.io/GCWeb/sites/feedback/feedback-docs-en.html#variations">Feedback area - Documentation</a></li>
         </ul>
         <h4>Add the mandatory hidden values</h4>
         <p>Update the data attribute for the institutional acronym. This is a unilingual value - enter the English value to your English and French pages.</p>
@@ -293,7 +292,7 @@ title: "Page feedback tool"
         <p>Consider including this value when you're adding the feedback tool to multiple pages on the same topic, such as “passports” or “employment insurance”.</p>
         <p>This is a unilingual value - enter the English section value to your English and French pages.</p>
         <p>If you would like to add a new section value that is not currently in the Feedback Viewer, contact the Digital Transformation Office. We will add the new section value into the Feedback Viewer.</p>
-        <p>Email: dto.btn@tbs-sct.gc.ca</p>
+        <p>Email: <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></p>
         <h4><span class="label label-warning">Optional</span> Contact link</h4>
         <p><strong>Only consider adding a contact link if</strong> you have tried to make the page content clearer for how to contact the program or service and users are still using the feedback tool to get a response for their situation.</p>
       </details>
@@ -302,7 +301,7 @@ title: "Page feedback tool"
   <section id="guidance">
     <h3>Accessing and analyzing feedback</h3>
     <p>Feedback can be viewed and downloaded as CSV or Excel files at any time using the Feedback Viewer website.</p>
-    <p>The Feedback Viewer is a password protected environment available to all page feedback participants. Contact the DTO to access to the site.</p>
+    <p>The Feedback Viewer is a password protected environment available to all page feedback participants. Contact the DTO to get access to the site.</p>
     <p>Email: <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></p>
     <p><a href="/feedback/">Full guidance for using and analyzing page feedback</a></p>
   </section>
