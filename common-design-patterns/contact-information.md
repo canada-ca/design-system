@@ -5,7 +5,6 @@ dateModified: "2018-12-19"
 description: "The contact information pattern is a standardized block that presents the street or mailing address, email address and telephone numbers, while the contact links pattern presents links to contact pages."
 title: Contact information design pattern
 ---
-<p class="gc-byline"> <strong> From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html"> Treasury Board of Canada Secretariat </a> </strong> </p>
 <section>
   <p>There  are 2 patterns for presenting contact information on Canada.ca pages. The contact information pattern is a standardized block that presents the street or mailing address, email address and telephone numbers, while the contact links pattern presents links to contact pages.</p>
   <section>

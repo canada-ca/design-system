@@ -7,14 +7,7 @@ title: Basic content page layout recommended template
 ---
 
 
-<p class="gc-byline">
- <strong>
-  From:
-  <a href="https://www.canada.ca/en/treasury-board-secretariat.html">
-   Treasury Board of Canada Secretariat
-  </a>
- </strong>
-</p>
+
 
 <p>
  This template is the basic layout for Canada.ca content pages.

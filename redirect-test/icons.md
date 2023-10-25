@@ -5,7 +5,6 @@ dateModified: "2018-12-19"
 description: "Icons are symbols for communicating actions or states on Canada.ca."
 title: Icons design pattern
 ---
-<p class="gc-byline"> <strong> From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html"> Treasury Board of Canada Secretariat </a> </strong> </p>
 <p>Icons are symbols for communicating actions or states on Canada.ca.</p>
 <h2>When to use this pattern </h2>
 <p>Use the following icons when assisting people with site functionality:</p>
