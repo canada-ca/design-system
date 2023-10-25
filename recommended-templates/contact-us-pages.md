@@ -8,14 +8,7 @@ title: 'Contact us pages template'
 
 
 <div>
- <p class="gc-byline">
-  <strong>
-   From:
-   <a href="https://www.canada.ca/en/treasury-board-secretariat.html">
-    Treasury Board of Canada Secretariat
-   </a>
-  </strong>
- </p>
+ 
  <section>
   <p>
    There are a number of ways that people contact the Government of Canada. Typical scenarios include:

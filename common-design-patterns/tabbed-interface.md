@@ -8,14 +8,7 @@ title: Tabbed interface design pattern
 
 
 <div>
- <p class="gc-byline">
-  <strong>
-   From:
-   <a href="https://www.canada.ca/en/treasury-board-secretariat.html">
-    Treasury Board of Canada Secretariat
-   </a>
-  </strong>
- </p>
+ 
  <section>
   <p>
    The tabbed interface pattern separates related content into different panes that are viewable one at a time when the respective tab is clicked.

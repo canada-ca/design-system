@@ -8,14 +8,7 @@ title: Social media feeds design pattern
 
 
 <div>
- <p class="gc-byline">
-  <strong>
-   From:
-   <a href="https://www.canada.ca/en/treasury-board-secretariat.html">
-    Treasury Board of Canada Secretariat
-   </a>
-  </strong>
- </p>
+ 
  <section>
   <p>
    The social media feeds widget is an in-page component that allows the latest posts from official Government of Canada social media accounts to be embedded on Canada.ca pages

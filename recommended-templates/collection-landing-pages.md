@@ -8,14 +8,7 @@ title: 'Collection landing pages template'
 
 
 <div>
- <p class="gc-byline">
-  <strong>
-   From:
-   <a href="https://www.canada.ca/en/treasury-board-secretariat.html">
-    Treasury Board of Canada Secretariat
-   </a>
-  </strong>
- </p>
+ 
  <section>
   <p>
    Collections are aggregations of common content produced by all or most Government of Canada institutions:

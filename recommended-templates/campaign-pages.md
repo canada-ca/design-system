@@ -8,14 +8,7 @@ title: 'Campaign pages template'
 
 
 <div>
- <p class="gc-byline">
-  <strong>
-   From:
-   <a href="https://www.canada.ca/en/treasury-board-secretariat.html">
-    Treasury Board of Canada Secretariat
-   </a>
-  </strong>
- </p>
+ 
  <section>
   <p class="speakable-what-is-campaign">
    Campaign pages are time-limited, promotional pages that respond to the Government of Canada’s desire to communicate, educate, influence, market, raise awareness and call to action.
