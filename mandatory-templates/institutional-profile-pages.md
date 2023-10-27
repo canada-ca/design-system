@@ -105,6 +105,26 @@ title: Institutional landing page
   </div>
 </div>
     <h3>Visual example</h3>
+      <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
+        <figure class="mrgn-tp-md mrgn-bttm-lg">
+            <figcaption><b>Institutional landing page - large screen</b></figcaption>
+            <img src="../images/x.png" class="img-responsive" alt="Institutional landing page for large screens. Text version below:" />
+            <details>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
+                <p>The introduction block appears below the global header and the Canada.ca breadcrumb. It consists of an h1 for Institution name and a short description of the institution’s mandate.</p>
+            </details>
+        </figure>
+    </div>
+      <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
+        <figure class="mrgn-tp-md mrgn-bttm-lg">
+            <figcaption><b>Institutional landing page - small screen</b></figcaption>
+            <img src="../images/x.png" class="img-responsive" alt="Institutional landing page for small screens. Text version below:" />
+            <details>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
+                <p>The introduction block appears below the global header and the Canada.ca breadcrumb. It consists of an h1 for Institution name and a short description of the institution’s mandate.</p>
+            </details>
+        </figure>
+    </div>
 </section>
 <section>
     <h2 id="implement">How to implement</h2>
