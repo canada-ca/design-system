@@ -29,7 +29,6 @@ title: Institutional landing page
         <li>news and promotions</li>
         <li>reports and publications</li>
     </ul>
-
 </section>
 <section>
     <h2 id="avoid">What to avoid</h2>
