@@ -8,14 +8,7 @@ title: 'Index pages template'
 
 
 <div>
- <p class="gc-byline">
-  <strong>
-   From:
-   <a href="https://www.canada.ca/en/treasury-board-secretariat.html">
-    Treasury Board of Canada Secretariat
-   </a>
-  </strong>
- </p>
+ 
  <section>
   <p>
    Index pages are navigation pages that provide a consolidated list of hyperlinked titles that link to other pages or documents.

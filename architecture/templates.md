@@ -5,7 +5,6 @@ dateModified: 2023-03-28
 description: "Templates and design patterns of the Canada.ca design system."
 title: "Designing content on Canada.ca"
 ---
-<p class="gc-byline"><strong>From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
 <div class="mrgn-tp-md mrgn-bttm-sm brdr-bttm">
   <div class="row  mrgn-bttm-sm">
     <ul class="toc lst-spcd col-md-12">
@@ -41,7 +40,7 @@ title: "Designing content on Canada.ca"
       </div>
       <div class="col-md-4">
         <section>
-          <h3 class="h5"><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html">Content style guide</a></h3>
+          <h3 class="h5"><a href="https://design.canada.ca/style-guide/">Content style guide</a></h3>
           <p>Writing principles and techniques to make content clear and accessible to all</p>
         </section>
       </div>

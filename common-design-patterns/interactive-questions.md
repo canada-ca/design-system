@@ -8,14 +8,7 @@ title: Interactive questions design pattern
 
 
 <div>
- <p class="gc-byline">
-  <strong>
-   From:
-   <a href="https://www.canada.ca/en/treasury-board-secretariat.html">
-    Treasury Board of Canada Secretariat
-   </a>
-  </strong>
- </p>
+ 
  <section>
   <p>
    The interactive questions pattern is used to present people with a sequence of simple questions that leads to the specific answer they need to continue with or complete their task. The interactive questions pattern can be used to help people understand eligibility criteria, applicability of rules, or compliance requirements that depend on specific situations or conditions.

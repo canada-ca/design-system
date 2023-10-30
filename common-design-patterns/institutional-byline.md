@@ -8,14 +8,7 @@ title: Institutional byline design pattern
 
 
 <div>
- <p class="gc-byline">
-  <strong>
-   From:
-   <a href="https://www.canada.ca/en/treasury-board-secretariat.html">
-    Treasury Board of Canada Secretariat
-   </a>
-  </strong>
- </p>
+ 
  <section>
   <p>
    The institutional byline provides people with a link to the institution or institutions responsible for the content.

@@ -8,14 +8,7 @@ title: What we are doing design pattern
 
 
 <div>
- <p class="gc-byline">
-  <strong>
-   From:
-   <a href="https://www.canada.ca/en/treasury-board-secretariat.html">
-    Treasury Board of Canada Secretariat
-   </a>
-  </strong>
- </p>
+ 
  <section>
   <p>
    What we are doing is a pattern that presents links to content that provides background or explanations of

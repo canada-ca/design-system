@@ -8,14 +8,7 @@ title: 'Guidance on legislation pages template'
 
 
 <div>
- <p class="gc-byline">
-  <strong>
-   From:
-   <a href="https://www.canada.ca/en/treasury-board-secretariat.html">
-    Treasury Board of Canada Secretariat
-   </a>
-  </strong>
- </p>
+ 
  <section>
   <p>
    Guidance on legislation provides information to facilitate awareness, understanding, and compliance with statutory and regulatory requirements and may also describe their administration. Guidance on legislation does not establish new requirements and is not legally binding.

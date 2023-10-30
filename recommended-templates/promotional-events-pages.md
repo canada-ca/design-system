@@ -8,14 +8,7 @@ title: 'Promotional events pages template'
 
 
 <div>
- <p class="gc-byline">
-  <strong>
-   From:
-   <a href="https://www.canada.ca/en/treasury-board-secretariat.html">
-    Treasury Board of Canada Secretariat
-   </a>
-  </strong>
- </p>
+ 
  <p>
   A promotional events page is a destination page that describes and explains an official government-hosted event that occurs in a promotional context, such as a festival, a celebration and an awards ceremony.
  </p>

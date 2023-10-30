@@ -5,16 +5,6 @@ dateModified: '2023-10-03'
 description: null
 title: Report a problem
 ---
-
-
-<div>
- <p class="gc-byline">
-  <strong>
-   From:
-   <a href="https://www.canada.ca/en/treasury-board-secretariat.html">
-    Treasury Board of Canada Secretariat
-   </a>
-  </strong>
   <section class="alert alert-warning">
   <p>We are decommissioning the Report a Problem pattern. We do not recommend adding this pattern to your pages.</p>
 <p>If you would like to collect feedback for specific web pages you can use the <a href="https://design.canada.ca/common-design-patterns/page-feedback.html">Page Feedback Tool (PFT) pattern</a>. You should only add the PFT to pages where you plan to actively monitor and action feedback.</p>

@@ -8,14 +8,7 @@ title: 'Laws and regulations pages template'
 
 
 <div>
- <p class="gc-byline">
-  <strong>
-   From:
-   <a href="https://www.canada.ca/en/treasury-board-secretariat.html">
-    Treasury Board of Canada Secretariat
-   </a>
-  </strong>
- </p>
+ 
  <section>
   <p>
    The laws and regulations collection provides access to Government of Canada acts and regulations through their individual profiles.

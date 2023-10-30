@@ -8,14 +8,7 @@ title: Disclaimer overlay design pattern
 
 
 <div>
- <p class="gc-byline">
-  <strong>
-   From:
-   <a href="https://www.canada.ca/en/treasury-board-secretariat.html">
-    Treasury Board of Canada Secretariat
-   </a>
-  </strong>
- </p>
+ 
  <section>
   <p>
    The disclaimer overlay pattern ensures that terms of use, privacy statements and similar forms of disclaimer are available where required, but do not obstruct access to the main content of the page. It consists of a trigger link that activates a dismissible overlay where the disclaimer text appears.
