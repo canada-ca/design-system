@@ -1,19 +1,11 @@
 ---
 altLangPage: https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html
-date: null
-dateModified: '2020-07-23'
-description: null
+date: "2020-07-23"
+dateModified: "2020-07-23"
+description: "The purpose of the Institutional landing page mandatory template is to enable people to find information and services offered by that institution, with a focus on top tasks."
 title: Institutional landing page mandatory template
 ---
-
-
-
-
-<p>
- <span class="label label-danger">
-  Mandatory
- </span>
-</p>
+<p><span class="label label-danger">Mandatory</span></p>
 
 <p>
  Use this template as the landing page for Government of Canada institutions and organizations.
