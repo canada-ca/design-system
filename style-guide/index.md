@@ -1504,7 +1504,7 @@ title: "Canada.ca Content Style Guide"
       </ul>
       <h5>Before: complex table</h5>
       <p>The following table is complex and poorly designed. It would be difficult for someone using a screen reader or a mobile device to access and understand the information.</p>
-      <h6>Example of a complex table</h6>
+      <h6><strong>Example of a complex table</strong></h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
         <strong>National Hockey League Stanley Cup Canadian winning teams</strong>
@@ -1544,7 +1544,7 @@ title: "Canada.ca Content Style Guide"
       </table>
       <h5>After: simple tables</h5>
       <p>The complex table easily converts into simple tables.</p>
-      <h6>Example: one simple table</h6>
+      <h6><strong>Example: one simple table</strong></h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
         <strong>National Hockey League Stanley Cup Canadian winning teams</strong>
@@ -1585,7 +1585,7 @@ title: "Canada.ca Content Style Guide"
         </tbody>
       </table>
       <p class="mrgn-tp-lg">If it's important to highlight Stanley Cup championships by NHL conference (region), present the information using 2 simpler tables, and use table titles to clarify which conference the teams represent.</p>
-      <h6>Example: multiple simple tables</h6>
+      <h6><strong>Example: multiple simple tables</strong></h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
         <strong>Table 1: Eastern conference: National Hockey League Stanley Cup Canadian winning teams</strong>
@@ -1633,16 +1633,16 @@ title: "Canada.ca Content Style Guide"
         </tbody>
       </table>
       <p class="mrgn-tp-md">The complex table also easily converts into 2 lists.</p>
-      <h6>Example: convert tables to text</h6>
+      <h6><strong>Example: convert tables to text</strong></h6>
       <p><strong>Eastern conference National Hockey League</strong>:</p>
-      <p>The Stanley Cup Canadian winning teams from 1927 to 2013</p>
+      <p>The Stanley Cup Canadian winning teams</p>
       <ul>
         <li>Montreal Canadiens: 22</li>
         <li>Toronto Maple Leafs: 11</li>
         <li>Ottawa Senators: 1</li>
       </ul>
       <p><strong>Western conference National Hockey League</strong>:</p>
-      <p>The Stanley Cup Canadian winning teams from 1927 to 2013</p>
+      <p>The Stanley Cup Canadian winning teams</p>
       <ul>
         <li>Edmonton Oilers: 5</li>
         <li>Calgary Flames: 1</li>
@@ -2071,12 +2071,6 @@ title: "Canada.ca Content Style Guide"
           <td class="text-right nowrap">55.2</td>
         </tr>
       </tbody>
-      <tfoot>
-        <tr>
-          <td class="small" colspan="8"><p>Source: Office of the Chief Human Resources Officer, Treasury Board of Canada Secretariat<br>
-              Note: Includes all tenures. Figures do not include employees on leave without pay.</p></td>
-        </tr>
-      </tfoot>
     </table>
   </figure>
   <p>Work with your web team to determine the best way to include the long description information. They'll guide you on how to make sure the image is accessible to people using assistive technology. They'll also ensure that your image meets the <cite><a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-eng.asp">Canada.ca Content and Information Architecture Specification</a></cite>.</p>
@@ -2149,10 +2143,10 @@ title: "Canada.ca Content Style Guide"
       <li>don't bury links that are crucial to completing a task in the middle of a paragraph or at the bottom of the page</li>
     </ul>
     <h4>Example of appropriate use of links</h4>
-    <h6>Write:</h6>
+    <h6><strong>Write:</strong></h6>
     <p>A Food Guide serving is&nbsp;how much&nbsp;food you should eat from each of the 4 food groups every day. In some cases, a serving is the amount of a given food group that you normally eat in one sitting, like an apple. In other cases, the daily amount is more than one serving, such as for rice or pasta.</p>
     <p><a href="https://www.hc-sc.gc.ca/fn-an/food-guide-aliment/basics-base/quantit-eng.php">Number of daily food servings for children, teens and adults</a></p>
-    <h6>Instead of:</h6>
+    <h6><strong>Instead of:</strong></h6>
     <p>A Food Guide Serving is simply a reference amount. It helps you understand&nbsp;<a href="https://www.hc-sc.gc.ca/fn-an/food-guide-aliment/basics-base/quantit-eng.php">how much</a> food is recommended every day from each of the four food groups. In some cases, a Food Guide Serving may be close to what you eat, such as an apple. In other cases, such as rice or pasta, you may serve yourself more than one Food Guide Serving.</p>
   </section>
   <section id="wp7-1-1">
@@ -2192,7 +2186,7 @@ title: "Canada.ca Content Style Guide"
     <p>When writing instructions for completing a task, sometimes you need to insert a link to guide the person to forms or other documents. Focus on the action they must perform when you create the link.</p>
     <p>Don't repeat the name of a form or document in the steps to accomplish a task if the name isn't descriptive.</p>
     <h4>Example of the use of links that focus on the task</h4>
-    <h6>Write:</h6>
+    <h6><strong>Write:</strong></h6>
     <p>To get the highest Employment Insurance amount available to you:</p>
     <ol>
       <li>open the <a href="https://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=ins5241&amp;ln=eng">form you need to declare your income</a></li>
@@ -2204,7 +2198,7 @@ title: "Canada.ca Content Style Guide"
       </li>
       <li>return the completed form in person to the <a href="https://www.servicecanada.gc.ca/cgi-bin/sc-srch.cgi?app=hme&amp;ln=eng">Service Canada office closest to you</a></li>
     </ol>
-    <h6>Instead of:</h6>
+    <h6><strong>Instead of:</strong></h6>
     <p>To ensure that you are paid the maximum Employment Insurance (EI) benefit rate that you are entitled to, complete the <a href="https://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=ins5241&amp;ln=eng">Claimant Attestation - Highest Weeks of Insurable Earnings (Variable Best Weeks) form</a> with the required information about your highest weeks of insurable earnings in the last 52 weeks of employment or since the start of your last claim, whichever is the shorter period of the two.</p>
   </section>
   <h4>See how the rule for writing descriptive links applies in French</h4>
