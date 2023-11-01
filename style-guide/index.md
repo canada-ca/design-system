@@ -1467,7 +1467,7 @@ title: "Canada.ca Content Style Guide"
         </thead>
         <tbody>
           <tr>
-            <td><strong>2010-02-01</td>
+            <td><strong>2010-02-01</strong></td>
             <td>ABC Business Solutions</td>
             <td>Rental of machinery office furniture and fixtures</td>
             <td class="text-right">$227,703.22</td>
