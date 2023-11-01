@@ -119,8 +119,13 @@ title: Introduction block
 </section>
 <section>
     <h2 id="implement">How to implement</h2>
-    <mark>we need the right text for here linking to the GCWeb example</mark>
-    <h3>Implementations</h3>
+    <p>Find working examples and code for implementing the contact us band pattern.</p>
+    <h3>GCweb (WET) theme implementation reference</h3>
+    <p>The implementation reference includes how to configure elements of the design system.</p>
+    <ul>
+        <li><a href="">Introduction block - GCWeb</a></li>
+        <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-en.html">Quick implementation guide - GCWeb theme</a></li>
+    </ul>    <h3>Implementations</h3>
     <p>Determine what best suits the type of page you're creating.</p>
     <div class="row">
         <div class="col-md-8">
@@ -144,7 +149,7 @@ title: Introduction block
                         <summary><strong>Drupal WxT</strong></summary>
                         <p class="mrgn-tp-lg">For Drupal WxT:</p>
                         <ul>
-                            <li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</a></li>
+                            <li><a href="https://drupalwxt.github.io/">Drupal WxT documentation</a></li>
                         </ul>
                     </details>
                 </div>
@@ -155,7 +160,7 @@ title: Introduction block
 <section>
     <h2 id="research">Research and rationale</h2>
     <p>Consult research findings and policy rationale.</p>
-    <h3>Research fidings</h3>
+    <h3>Research findings</h3>
     <p><a href="https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html">Research summary: Contact the CRA</a></p>
     <p>Canada Revenue Agency and DTO developed the introduction block as part of the optimization project for CRA contacts.</p>
     <p>
@@ -165,7 +170,7 @@ title: Introduction block
     <h3>Policy rationale</h3>
     <p>The introduction block pattern is required in the following mandatory templates:</p>
     <ul>
-        <li><a href="">Institutional landing page</a></li>
+        <li><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional landing page</a></li>
         <li><a href="https://design.canada.ca/mandatory-templates/theme-topic.html">Theme and topic page template</a></li>
     </ul>
 </section>
