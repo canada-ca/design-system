@@ -1455,7 +1455,7 @@ title: "Canada.ca Content Style Guide"
       </ul>
       <table class="table table-condensed table-bordered">
         <caption>
-        <strong>Disclosure of contracts over $10,000 from January to March 2010</strong>
+        <strong>Disclosure of contracts over $10,000 from January to March 2010<sup id="table2b-fn1-rf"><a class="fn-lnk" href="#table2b-fn1"><span class="wb-inv">table 2 note </span>*</a></sup></strong>
         </caption>
         <thead>
           <tr class="active">
@@ -1467,7 +1467,7 @@ title: "Canada.ca Content Style Guide"
         </thead>
         <tbody>
           <tr>
-            <td><strong>2010-02-01</strong></td>
+            <td><strong>2010-02-01<sup id="table2b-fn2-rf"><a class="fn-lnk" href="#table2b-fn2"><span class="wb-inv">table 2 note </span>**</a></sup></strong></td>
             <td>ABC Business Solutions</td>
             <td>Rental of machinery office furniture and fixtures</td>
             <td class="text-right">$227,703.22</td>
@@ -1491,6 +1491,25 @@ title: "Canada.ca Content Style Guide"
             <td class="text-right">$56,294.42</td>
           </tr>
         </tbody>
+        <tfoot>
+          <tr>
+            <td colspan="4"><section class="wb-fnote">
+                <h5 class="wb-inv" id="table2b-fn">Table 2 Notes</h5>
+                <dl>
+                  <dt> Table 2 Note * </dt>
+                  <dd id="table2b-fn1">
+                    <p>Fourth quarter of the April 1, 2009, to March 31, 2010, fiscal year.</p>
+                    <p class="fn-rtn"> <a href="#table2b-fn1-rf"><span class="wb-inv">Return to table 2 note </span>*<span class="wb-inv"> referrer</span></a></p>
+                  </dd>
+                  <dt> Table 2 Note ** </dt>
+                  <dd id="table2b-fn2">
+                    <p>Dates in this table represent the year, month and day (yyyy-mm-dd).</p>
+                    <p class="fn-rtn"> <a href="#table2b-fn2-rf"><span class="wb-inv">Return to table 2 note </span>**<span class="wb-inv"> referrer</span></a></p>
+                  </dd>
+                </dl>
+              </section></td>
+          </tr>
+        </tfoot>
       </table>
       <p class="mrgn-tp-lg">By looking at the column headers "Date contract was awarded," "Vendor name" and "Value," people can understand that on February 23, 2010, Management Consulting Group Limited was awarded a contract valued at $285,575.89.</p>
     </section>
@@ -1504,10 +1523,10 @@ title: "Canada.ca Content Style Guide"
       </ul>
       <h5>Before: complex table</h5>
       <p>The following table is complex and poorly designed. It would be difficult for someone using a screen reader or a mobile device to access and understand the information.</p>
-      <h6><strong>Example of a complex table</strong></h6>
+      <h6>Example of a complex table</h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
-        <strong>National Hockey League Stanley Cup Canadian winning teams</strong>
+        <strong>National Hockey League Stanley Cup Canadian winning teams (1927–2013)</strong>
         </caption>
         <thead>
           <tr class="active">
@@ -1544,7 +1563,7 @@ title: "Canada.ca Content Style Guide"
       </table>
       <h5>After: simple tables</h5>
       <p>The complex table easily converts into simple tables.</p>
-      <h6><strong>Example: one simple table</strong></h6>
+      <h6>Example: one simple table</h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
         <strong>National Hockey League Stanley Cup Canadian winning teams</strong>
@@ -1585,7 +1604,7 @@ title: "Canada.ca Content Style Guide"
         </tbody>
       </table>
       <p class="mrgn-tp-lg">If it's important to highlight Stanley Cup championships by NHL conference (region), present the information using 2 simpler tables, and use table titles to clarify which conference the teams represent.</p>
-      <h6><strong>Example: multiple simple tables</strong></h6>
+      <h6>Example: multiple simple tables</h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
         <strong>Table 1: Eastern conference: National Hockey League Stanley Cup Canadian winning teams</strong>
@@ -1633,16 +1652,16 @@ title: "Canada.ca Content Style Guide"
         </tbody>
       </table>
       <p class="mrgn-tp-md">The complex table also easily converts into 2 lists.</p>
-      <h6><strong>Example: convert tables to text</strong></h6>
+      <h6>Example: convert tables to text</h6>
       <p><strong>Eastern conference National Hockey League</strong>:</p>
-      <p>The Stanley Cup Canadian winning teams</p>
+      <p>The Stanley Cup Canadian winning teams from 1927 to 2013</p>
       <ul>
         <li>Montreal Canadiens: 22</li>
         <li>Toronto Maple Leafs: 11</li>
         <li>Ottawa Senators: 1</li>
       </ul>
       <p><strong>Western conference National Hockey League</strong>:</p>
-      <p>The Stanley Cup Canadian winning teams</p>
+      <p>The Stanley Cup Canadian winning teams from 1927 to 2013</p>
       <ul>
         <li>Edmonton Oilers: 5</li>
         <li>Calgary Flames: 1</li>
@@ -2071,6 +2090,12 @@ title: "Canada.ca Content Style Guide"
           <td class="text-right nowrap">55.2</td>
         </tr>
       </tbody>
+      <tfoot>
+        <tr>
+          <td class="small" colspan="8"><p>Source: Office of the Chief Human Resources Officer, Treasury Board of Canada Secretariat<br>
+              Note: Includes all tenures. Figures do not include employees on leave without pay.</p></td>
+        </tr>
+      </tfoot>
     </table>
   </figure>
   <p>Work with your web team to determine the best way to include the long description information. They'll guide you on how to make sure the image is accessible to people using assistive technology. They'll also ensure that your image meets the <cite><a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-eng.asp">Canada.ca Content and Information Architecture Specification</a></cite>.</p>
@@ -2143,10 +2168,10 @@ title: "Canada.ca Content Style Guide"
       <li>don't bury links that are crucial to completing a task in the middle of a paragraph or at the bottom of the page</li>
     </ul>
     <h4>Example of appropriate use of links</h4>
-    <h6><strong>Write:</strong></h6>
+    <h6>Write:</h6>
     <p>A Food Guide serving is&nbsp;how much&nbsp;food you should eat from each of the 4 food groups every day. In some cases, a serving is the amount of a given food group that you normally eat in one sitting, like an apple. In other cases, the daily amount is more than one serving, such as for rice or pasta.</p>
     <p><a href="https://www.hc-sc.gc.ca/fn-an/food-guide-aliment/basics-base/quantit-eng.php">Number of daily food servings for children, teens and adults</a></p>
-    <h6><strong>Instead of:</strong></h6>
+    <h6>Instead of:</h6>
     <p>A Food Guide Serving is simply a reference amount. It helps you understand&nbsp;<a href="https://www.hc-sc.gc.ca/fn-an/food-guide-aliment/basics-base/quantit-eng.php">how much</a> food is recommended every day from each of the four food groups. In some cases, a Food Guide Serving may be close to what you eat, such as an apple. In other cases, such as rice or pasta, you may serve yourself more than one Food Guide Serving.</p>
   </section>
   <section id="wp7-1-1">
@@ -2186,7 +2211,7 @@ title: "Canada.ca Content Style Guide"
     <p>When writing instructions for completing a task, sometimes you need to insert a link to guide the person to forms or other documents. Focus on the action they must perform when you create the link.</p>
     <p>Don't repeat the name of a form or document in the steps to accomplish a task if the name isn't descriptive.</p>
     <h4>Example of the use of links that focus on the task</h4>
-    <h6><strong>Write:</strong></h6>
+    <h6>Write:</h6>
     <p>To get the highest Employment Insurance amount available to you:</p>
     <ol>
       <li>open the <a href="https://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=ins5241&amp;ln=eng">form you need to declare your income</a></li>
@@ -2198,7 +2223,7 @@ title: "Canada.ca Content Style Guide"
       </li>
       <li>return the completed form in person to the <a href="https://www.servicecanada.gc.ca/cgi-bin/sc-srch.cgi?app=hme&amp;ln=eng">Service Canada office closest to you</a></li>
     </ol>
-    <h6><strong>Instead of:</strong></h6>
+    <h6>Instead of:</h6>
     <p>To ensure that you are paid the maximum Employment Insurance (EI) benefit rate that you are entitled to, complete the <a href="https://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=ins5241&amp;ln=eng">Claimant Attestation - Highest Weeks of Insurable Earnings (Variable Best Weeks) form</a> with the required information about your highest weeks of insurable earnings in the last 52 weeks of employment or since the start of your last claim, whichever is the shorter period of the two.</p>
   </section>
   <h4>See how the rule for writing descriptive links applies in French</h4>
@@ -2567,11 +2592,16 @@ title: "Canada.ca Content Style Guide"
         <td class="text-right"><strong>489</strong></td>
       </tr>
     </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="4">Note: Totals may not add due to rounding.</td>
+      </tr>
+    </tfoot>
   </table>
   <h4>After</h4>
   <table class="table table-bordered table-condensed">
     <caption class="text-center">
-    <strong>Table 1: supporting families and communities for fiscal years 2013 to 2014 and 2014 to 2015, net fiscal costs (in $ millions)</strong>
+    <strong>Table 1: supporting families and communities for fiscal years 2013 to 2014 and 2014 to 2015, net fiscal costs (in $ millions)<sup id="table1-fn1-rf"><a class="fn-lnk" href="#table1-fn1"><span class="wb-inv">table 1 note </span>1</a></sup></strong>
     </caption>
     <thead>
       <tr class="active">
@@ -2583,7 +2613,7 @@ title: "Canada.ca Content Style Guide"
     </thead>
     <tbody>
       <tr>
-        <th scope="row">Total: supporting families and communities</th>
+        <th scope="row">Total: supporting families and communities<sup id="table1-fn2-rf"><a class="fn-lnk" href="#table1-fn2"><span class="wb-inv">table 1 note </span>2</a></sup></th>
         <td>342</td>
         <td>657</td>
         <td>999</td>
@@ -2607,10 +2637,29 @@ title: "Canada.ca Content Style Guide"
         <td>489</td>
       </tr>
     </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="4"><section class="wb-fnote">
+            <h5 class="wb-inv" id="table1-fn">Table 1 Notes</h5>
+            <dl>
+              <dt> Table 1 Note 1 </dt>
+              <dd id="table1-fn1">
+                <p>Totals may not add due to rounding.</p>
+                <p class="fn-rtn"> <a href="#table1-fn1-rf"><span class="wb-inv">Return to table 1 note </span>1<span class="wb-inv"> referrer</span></a></p>
+              </dd>
+              <dt> Table 1 Note 2 </dt>
+              <dd id="table1-fn2">
+                <p>See Table 1B for detailed breakdown.</p>
+                <p class="fn-rtn"> <a href="#table1-fn2-rf"><span class="wb-inv">Return to table 1 note </span>2<span class="wb-inv"> referrer</span></a></p>
+              </dd>
+            </dl>
+          </section></td>
+      </tr>
+    </tfoot>
   </table>
   <table class="table table-bordered table-condensed">
     <caption class="text-center">
-    <strong>Table 1A: supporting families and communities for fiscal years 2013 to 2014 and 2014 to 2015, total costs (in $ millions)</strong>
+    <strong>Table 1A: supporting families and communities for fiscal years 2013 to 2014 and 2014 to 2015, total costs (in $ millions)<sup id="table2-fn1-rf"><a class="fn-lnk" href="#table2-fn1"><span class="wb-inv">table 2 note </span>1</a></sup></strong>
     </caption>
     <thead>
       <tr class="active">
@@ -2622,25 +2671,25 @@ title: "Canada.ca Content Style Guide"
     </thead>
     <tbody>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Support for families</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Support for families<sup id="table2-fn2-rf"><a class="fn-lnk" href="#table2-fn2"><span class="wb-inv">table 2 note </span>2</a></sup></span></th>
         <td class="text-right">82</td>
         <td class="text-right">82</td>
         <td class="text-right">164</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Investing in communities</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Investing in communities<sup id="table2-fn3-rf"><a class="fn-lnk" href="#table2-fn3"><span class="wb-inv">table 2 note </span>3</a></sup></span></th>
         <td class="text-right">133</td>
         <td class="text-right">476</td>
         <td class="text-right">609</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Protecting Canada's natural environment</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Protecting Canada's natural environment<sup id="table2-fn4-rf"><a class="fn-lnk" href="#table2-fn4"><span class="wb-inv">table 2 note </span>4</a></sup></span></th>
         <td class="text-right">32</td>
         <td class="text-right">9</td>
         <td class="text-right">41</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Building strong Aboriginal communities</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Building strong Aboriginal communities<sup id="table2-fn5-rf"><a class="fn-lnk" href="#table2-fn5"><span class="wb-inv">table 2 note </span>5</a></sup></span></th>
         <td class="text-right">95</td>
         <td class="text-right">90</td>
         <td class="text-right">185</td>
@@ -2652,10 +2701,44 @@ title: "Canada.ca Content Style Guide"
         <td class="text-right">999</td>
       </tr>
     </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="4"><section class="wb-fnote">
+            <h5 class="wb-inv" id="table2-fn">Table 2 Notes</h5>
+            <dl>
+              <dt> Table 2 Note 1 </dt>
+              <dd id="table2-fn1">
+                <p>Totals may not add due to rounding.</p>
+                <p class="fn-rtn"> <a href="#table2-fn1-rf"><span class="wb-inv">Return to table 2 note </span>1<span class="wb-inv"> referrer</span></a></p>
+              </dd>
+              <dt> Table 2 Note 2 </dt>
+              <dd id="table2-fn2">
+                <p>See Table 1B for detailed breakdown.</p>
+                <p class="fn-rtn"> <a href="#table2-fn2-rf"><span class="wb-inv">Return to table 2 note </span>2<span class="wb-inv"> referrer</span></a></p>
+              </dd>
+              <dt> Table 2 Note 3 </dt>
+              <dd id="table2-fn3">
+                <p>See Table 1C for detailed breakdown.</p>
+                <p class="fn-rtn"> <a href="#table2-fn3-rf"><span class="wb-inv">Return to table 2 note </span>3<span class="wb-inv"> referrer</span></a></p>
+              </dd>
+              <dt> Table 2 Note 4 </dt>
+              <dd id="table2-fn4">
+                <p>See Table 1D for detailed breakdown.</p>
+                <p class="fn-rtn"> <a href="#table2-fn4-rf"><span class="wb-inv">Return to table 2 note </span>4<span class="wb-inv"> referrer</span></a></p>
+              </dd>
+              <dt> Table 2 Note 5 </dt>
+              <dd id="table2-fn5">
+                <p>See Table 1E for detailed breakdown.</p>
+                <p class="fn-rtn"> <a href="#table2-fn5-rf"><span class="wb-inv">Return to table 2 note </span>5<span class="wb-inv"> referrer</span></a></p>
+              </dd>
+            </dl>
+          </section></td>
+      </tr>
+    </tfoot>
   </table>
   <table class="table table-bordered table-condensed">
     <caption class="text-center">
-    <strong>Table 1B: support for families for fiscal years 2013 to 2014 and 2014 to 2015 (in $ millions)</strong>
+    <strong>Table 1B: support for families for fiscal years 2013 to 2014 and 2014 to 2015 (in $ millions)<sup id="table3-fn1-rf"><a class="fn-lnk" href="#table3-fn1"><span class="wb-inv">table 3 note </span>1</a></sup></strong>
     </caption>
     <thead>
       <tr class="active">
@@ -2691,10 +2774,24 @@ title: "Canada.ca Content Style Guide"
         <td class="text-right">164</td>
       </tr>
     </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="4"><section class="wb-fnote">
+            <h5 class="wb-inv" id="table3-fn">Table 3 Notes</h5>
+            <dl>
+              <dt> Table 3 Note 1 </dt>
+              <dd id="table3-fn1">
+                <p>Totals may not add due to rounding.</p>
+                <p class="fn-rtn"> <a href="#table3-fn1-rf"><span class="wb-inv">Return to table 3 note </span>1<span class="wb-inv"> referrer</span></a></p>
+              </dd>
+            </dl>
+          </section></td>
+      </tr>
+    </tfoot>
   </table>
   <table class="table table-bordered table-condensed">
     <caption class="text-center">
-    <strong>Table 1C: investing in communities for fiscal years 2013 to 2014 and 2014 to 2015 (in $ millions)</strong>
+    <strong>Table 1C: investing in communities for fiscal years 2013 to 2014 and 2014 to 2015 (in $ millions)<sup id="table4-fn1-rf"><a class="fn-lnk" href="#table4-fn1"><span class="wb-inv">table 4 note </span>1</a></sup></strong>
     </caption>
     <thead>
       <tr class="active">
@@ -2784,10 +2881,24 @@ title: "Canada.ca Content Style Guide"
         <td class="text-right">609</td>
       </tr>
     </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="4"><section class="wb-fnote">
+            <h5 class="wb-inv" id="table4-fn">Table 4 Notes</h5>
+            <dl>
+              <dt> Table 4 Note 1 </dt>
+              <dd id="table4-fn1">
+                <p>Totals may not add due to rounding.</p>
+                <p class="fn-rtn"> <a href="#table4-fn1-rf"><span class="wb-inv">Return to table 4 note </span>1<span class="wb-inv"> referrer</span></a></p>
+              </dd>
+            </dl>
+          </section></td>
+      </tr>
+    </tfoot>
   </table>
   <table class="table table-bordered table-condensed">
     <caption class="text-center">
-    <strong>Table 1D: protecting Canada's natural environment for fiscal years 2013 to 2014 and 2014 to 2015 (in $&nbsp;millions)</strong>
+    <strong>Table 1D: protecting Canada's natural environment for fiscal years 2013 to 2014 and 2014 to 2015 (in $&nbsp;millions)<sup id="table5-fn1-rf"><a class="fn-lnk" href="#table5-fn1"><span class="wb-inv">table 5 note </span>1</a></sup></strong>
     </caption>
     <thead>
       <tr class="active">
@@ -2841,10 +2952,24 @@ title: "Canada.ca Content Style Guide"
         <td class="text-right">41</td>
       </tr>
     </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="4"><section class="wb-fnote">
+            <h5 class="wb-inv" id="table5-fn">Table 5 Notes</h5>
+            <dl>
+              <dt> Table 5 Note 1 </dt>
+              <dd id="table5-fn1">
+                <p>Totals may not add due to rounding.</p>
+                <p class="fn-rtn"> <a href="#table5-fn1-rf"><span class="wb-inv">Return to table 5 note </span>1<span class="wb-inv"> referrer</span></a></p>
+              </dd>
+            </dl>
+          </section></td>
+      </tr>
+    </tfoot>
   </table>
   <table class="table table-bordered table-condensed">
     <caption class="text-center">
-    <strong>Table 1E: building strong Aboriginal communities for fiscal years 2013 to 2014 and 2014 to 2015 (in $&nbsp;millions)</strong>
+    <strong>Table 1E: building strong Aboriginal communities for fiscal years 2013 to 2014 and 2014 to 2015 (in $&nbsp;millions)<sup id="table6-fn1-rf"><a class="fn-lnk" href="#table6-fn1"><span class="wb-inv">table 6 note </span>1</a></sup></strong>
     </caption>
     <thead>
       <tr class="active">
@@ -2904,6 +3029,20 @@ title: "Canada.ca Content Style Guide"
         <td class="text-right">185</td>
       </tr>
     </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="4"><section class="wb-fnote">
+            <h5 class="wb-inv" id="table6-fn">Table 6 Notes</h5>
+            <dl>
+              <dt> Table 6 Note 1 </dt>
+              <dd id="table6-fn1">
+                <p>Totals may not add due to rounding.</p>
+                <p class="fn-rtn"> <a href="#table6-fn1-rf"><span class="wb-inv">Return to table 6 note </span>1<span class="wb-inv"> referrer</span></a></p>
+              </dd>
+            </dl>
+          </section></td>
+      </tr>
+    </tfoot>
   </table>
   <h4>What we did</h4>
   <p>To create these tables, we:</p>
