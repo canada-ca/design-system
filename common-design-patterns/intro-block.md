@@ -88,7 +88,6 @@ title: Introduction block
             Supertask button
             <ul>
                 <li><a href="https://design.canada.ca/common-design-patterns/buttons.html#action">See details for the supertask button</a></li>
-                <li></li>
             </ul>
         </li>
     </ul>
@@ -102,17 +101,17 @@ title: Introduction block
             <figcaption><b>Introduction block - Large screen</b></figcaption>
             <img src="../images/intro-block-en.png" class="img-responsive" alt="Introduction block pattern for large screens. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: introduction block - large screen</summary>
                 <p>The introduction block appears below the global header and the Canada.ca breadcrumb. It consists of an h1 for Institution name and a short description of the institution’s mandate.</p>
             </details>
         </figure>
     </div>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
-            <figcaption><b>Introduction block - small screen</b></figcaption>
+            <figcaption><b>Introduction block - Small screen</b></figcaption>
             <img src="../images/intro-block-sm-en.png" class="img-responsive" alt="Introduction block pattern for small screens. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: introduction block - small screen </summary>
                 <p>The introduction block appears below the global header and the Canada.ca breadcrumb. It consists of an h1 for Institution name and a short description of the institution’s mandate.</p>
             </details>
         </figure>
