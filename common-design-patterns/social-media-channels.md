@@ -3,7 +3,7 @@ altLangPage: https://conception.canada.ca/configurations-conception-communes/blo
 date: null
 dateModified: '2023-08-20'
 description: The social media channels pattern provides links to official Government of Canada social media accounts on various social media platforms.
-title: Social media channels design pattern
+title: Social media channels
 ---
 <p><strong>Last updated</strong>: {{ page.dateModified }}</p>
 <p>The social media channels pattern provides links to official Government of Canada (GC) social media accounts.</p>
@@ -68,7 +68,7 @@ title: Social media channels design pattern
         <li>
             Links:
             <ul>
-                <li>Font: Noto Sans, 16px, standard link colours</li>
+                <li>Font: Noto Sans, 16px, <a href="https://design.canada.ca/styles/colours.html">standard link colours</a></li>
             </ul>
         </li>
         <li>Button is styled as a primary button.</li>
@@ -126,7 +126,7 @@ title: Social media channels design pattern
             <figcaption><b>Social media channels (vertical view with labels) - large screen</b></figcaption>
             <img src="../images/social-media-vertical-mask-en.png" class="img-responsive" alt="Social media channels (vertical view with labels) for large screens. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: social media channels (vertical view with labels) - large screen</summary>
                 <p>Social media channel links appear in a section with the heading “On social media”. Below the heading is a vertical list with associated icons and labels:</p>
                 <ul>
                     <li>Facebook icon followed by the placeholder text FacebookPageName</li>
@@ -143,7 +143,7 @@ title: Social media channels design pattern
             <figcaption><b>Social media channels (horizontal view) - large screen</b></figcaption>
             <img src="../images/social-media-horizontal-mask-en.png" class="img-responsive" alt="Social media channels (horizontal view) for large screens. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: social media channels (horizontal view) - large screen</summary>
                 <p>Social media channel links appear in a section with the heading “On social media”. Below the heading is a horizontal list with associated icons, but without labels:</p>
                 <ul>
                     <li>Facebook</li>
@@ -160,7 +160,7 @@ title: Social media channels design pattern
             <figcaption><b>Social media channels (vertical view with labels) - small screen</b></figcaption>
             <img src="../images/social-media-vertical-en-sm.png" class="img-responsive" alt="Social media channels (vertical view with labels) for small screens. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: social media channels (vertical view with labels) - small screen</summary>
                 <p>Social media channel links appear in a section with the heading “On social media”. Below the heading is a vertical list with associated icons and labels:</p>
                 <ul>
                     <li>Facebook icon followed by the placeholder text FacebookPageName</li>
@@ -177,7 +177,7 @@ title: Social media channels design pattern
             <figcaption><b>Social media lightbox modal for multiple accounts</b></figcaption>
             <img src="../images/social-media-lightbox-en.png" class="img-responsive" alt="Social media lightbox modal for multiple accounts. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: social media lightbox modal for multiple accounts</summary>
                 <p>
                     An overlay lightbox for displaying multiple Facebook accounts. There is a header indicating which social media platform, below there are two links titled [First Facebook account title] and [Second Facebook account
                     title]. The lightbox has a close button and an X in the corner to exit the modal.
