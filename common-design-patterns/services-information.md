@@ -113,7 +113,7 @@ title: Services and information
             <figcaption><b>Services and information - large screen</b></figcaption>
             <img src="../images/services-info-en.png" class="img-responsive" alt="Services and information for large screens. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: services and information - large screen</summary>
                 <p>Nine separate doormats are displayed across three columns and three rows. Each doormat has a linked heading. Below the heading are keywords that describe what will be found by clicking on the linked heading.</p>
             </details>
         </figure>
@@ -123,7 +123,7 @@ title: Services and information
             <figcaption><b>Services and information - small screen</b></figcaption>
             <img src="../images/services-info-sm-en.png" class="img-responsive" alt="Social media channels (vertical view with labels) for small screens. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: services and information - small screen</summary>
                 <p>Nine separate doormats are displayed in a list. Each doormat has a linked heading. Below the heading are keywords that describe what will be found by clicking on the linked heading.</p>
             </details>
         </figure>
@@ -154,7 +154,7 @@ title: Services and information
                         <summary><strong>Drupal WxT</strong></summary>
                         <p class="mrgn-tp-lg">For Drupal WxT:</p>
                         <ul>
-                            <li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</a></li>
+                            <li><a href="https://drupalwxt.github.io">Drupal WxT documentation</a></li>
                         </ul>
                     </details>
                 </div>
@@ -164,7 +164,7 @@ title: Services and information
 </section>
 <section>
     <h2 id="research">Research and rationale</h2>
-    <p>Consult resarch findings and policy rationale.</p>
+    <p>Consult research findings and policy rationale.</p>
     <h3>Research findings</h3>
     <p><a href="https://blog.canada.ca/research-summaries/business-account-research-summary.html">Research summary: Tax filing</a></p>
     <p>
@@ -176,7 +176,7 @@ title: Services and information
     <h3>Policy rationale</h3>
     <p>Services and information is an required pattern for the following mandatory templates:</p>
     <ul>
-        <li><a href="">Institutional landing page</a></li>
+        <li><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional landing page</a></li>
         <li><a href="https://design.canada.ca/mandatory-templates/theme-topic.html">Theme and topic page template</a></li>
     </ul>
 </section>
