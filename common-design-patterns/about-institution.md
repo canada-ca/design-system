@@ -113,7 +113,7 @@ title: About the institution
             <figcaption><b>About the institution - large screen</b></figcaption>
             <img src="../images/about-institution-mask-en.png" class="img-responsive" alt="About the institution for large screens. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: about the institution - large screen</summary>
                 <p>About the institution links appear in a section with the heading “About the [Institution]”. The links appear in a bulleted list that spans across two columns. The first column has:</p>
                 <ul>
                     <li>Mandate</li>
@@ -138,7 +138,7 @@ title: About the institution
             <figcaption><b>About the institution - small screen</b></figcaption>
             <img src="../images/about-institution-sm-en.png" class="img-responsive" alt="About the institution for small screens. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: about the institution - small screen</summary>
                 <p>About the institution links appear in a section with the heading “About the [Institution]”. The design organizes links in a bulleted list:</p>
                 <ul>
                     <li>Mandate</li>
@@ -158,7 +158,7 @@ title: About the institution
 </section>
 <section>
     <h2 id="implement">How to implement</h2>
-    <p>Find working examples and code for implementing the contact us band pattern.</p>
+    <p>Find working examples and code for implementing the about the institution band pattern.</p>
     <h3>GCweb (WET) theme implementation reference</h3>
     <p>The implementation reference includes how to configure elements of the design system.</p>
     <ul>
@@ -189,7 +189,7 @@ title: About the institution
                         <summary><strong>Drupal WxT</strong></summary>
                         <p class="mrgn-tp-lg">For Drupal WxT:</p>
                         <ul>
-                            <li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</a></li>
+                            <li><a href="https://drupalwxt.github.io">Drupal WxT documentation</a></li>
                         </ul>
                     </details>
                 </div>
@@ -205,7 +205,7 @@ title: About the institution
     <h3>Policy rationale</h3>
     <p>The About the institution pattern is required in the following mandatory templates:</p>
     <ul>
-        <li><a href="">Institutional landing page</a></li>
+        <li><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional landing page</a></li>
     </ul>
 </section>
 <section>
