@@ -73,10 +73,9 @@ title: Featured link
             <figcaption><b>Featured link - large screen</b></figcaption>
             <img src="../images/featured-link-en.png" class="img-responsive" alt="Featured link for large screens. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: featured link - large screen</summary>
                 <p>
-                    A featured link is displayed in a blue band that spans the length of the screen. Above the featured link is the department name (Natural Resources Canada) followed by a short description about the department. Below the
-                    featured link is a Most requested heading followed by three links.
+                    A featured link is displayed in a blue band that spans the length of the screen. Above the featured link is the department name (Natural Resources Canada) followed by a short description about the department.
                 </p>
             </details>
         </figure>
@@ -118,7 +117,7 @@ title: Featured link
                         <summary><strong>Drupal WxT</strong></summary>
                         <p class="mrgn-tp-lg">For Drupal WxT:</p>
                         <ul>
-                            <li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</a></li>
+                            <li><a href="https://drupalwxt.github.io/">Drupal WxT documentation</a></li>
                         </ul>
                     </details>
                 </div>
@@ -132,7 +131,7 @@ title: Featured link
     <h3>Policy rationale</h3>
     <p>It’s an optional pattern for the following mandatory templates:</p>
     <ul>
-        <li><a href="">Institutional landing page</a></li>
+        <li><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional landing page</a></li>
         <li>Canada.ca home page</li>
     </ul>
 </section>
