@@ -246,7 +246,7 @@ title: "Organizing content on Canada.ca"
           </ul>
         </li>
       </ul>
-      <p><strong>Note</strong>: your account manager can submit new Canada.ca sub-domains and change requests to the Principal Publisher using the <a href="http://requestform.portal.gc.ca/tickets.html">Request form for Canada.ca</a>. Sub-domain requests are reviewed by the Treasury Board of Canada Secretariat. </p>
+      <p><strong>Note</strong>: your account manager can submit new Canada.ca sub-domains and change requests to the Principal Publisher using the <a href="http://requestform.portal.gc.ca/tickets.html">Request form for Canada.ca</a>. Sub-domain requests are reviewed by Employment and Social Development Canada.</p>
     </section>
   </section>
 </section>
