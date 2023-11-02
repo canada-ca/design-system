@@ -49,6 +49,31 @@ It is important to commit to reading, considering, and taking action based on wh
 
 In certain cases, people will leave feedback with their opinions of a certain program or policy. Addressing a policy issue is beyond the scope of web teams, so it's important to share these comments with program and policy colleagues.
 
+### Recognizing and handling threats
+Before you implement the page feedback tool on your pages, make sure your organization has a process in place to deal with threatening feedback. A similar process may already be documented for threats received through email, call centres, or social media.
+
+Depending on the nature of the threat, there are different steps that should be taken.
+
+### Specific threat or a personal crisis
+Identifies a target (address, office name, person) and / or the person leaving the comment.
+
+What to do
+
+If you receive a message about a specific threat or a personal crisis through the page feedback tool you must report it.
+* Retain a copy of the comment and date/time submitted.
+* Immediately contact local police or the RCMP and provide a copy of the comment.
+* Contact your department’s security services.
+
+### Non-specific threat
+Does not identify a specific target (“you people”, “those guys”, “the government”).
+Hypothetical (“if I go to the office, I’ll hurt someone.”)
+
+What to do
+
+* Retain a copy of the comment and date/time submitted.
+* Follow the same procedures that your organization has in place for threats received through email, call centres, or social media.
+
+
 ## How not to use the feedback tool
 
 The feedback tool should not be used for the following purposes:
@@ -83,7 +108,8 @@ We don't recommend using the tool within secure spaces. In these spaces, it is b
 
 ### Sensitive content
 
-Pages on sensitive subjects should be avoided (for example, suicide).
+If using the tool on pages with sensitive subjects (for example, suicide), ensure you monitor the feedback frequently and take action where needed. The tool should be added for short intervals and then removed while you make improvements. 
+
 
 <nav role="navigation" class="mrgn-bttm-lg">
   <ul class="pager">
