@@ -1878,70 +1878,74 @@ title: "Canada.ca Content Style Guide"
       </details>
     </figure>
     <figure class="mrgn-bttm-lg">
-      <figcaption class="text-center"> <strong>Figure 5</strong> </figcaption>
-      <img alt="Bar chart for number of pages by main purpose and audience" class="img-responsive center-block" src="/style-guide/images/fig-05-eng.png">
+      <figcaption class="text-center"><strong>Figure 5</strong></figcaption>
+      <img alt="Flat rate flow chart: description follows" class="img-responsive center-block" src="/style-guide/images/flat-rate-flow-chart.png">
       <details>
-        <summary> Figure 5 - Text version </summary>
-        <table class="table table-bordered table-condensed">
-          <thead>
-            <tr class="active">
-              <td></td>
-              <th scope="col"><strong>Education</strong></th>
-              <th scope="col"><strong>Task</strong></th>
-              <th scope="col"><strong>Navigation</strong></th>
-              <th scope="col"><strong>Support</strong></th>
-              <th scope="col"><strong>Information</strong></th>
-              <th scope="col"><strong>Corporate</strong></th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <th scope="row">General</th>
-              <td class="text-right">2</td>
-              <td class="text-right">0</td>
-              <td class="text-right">20</td>
-              <td class="text-right">4</td>
-              <td class="text-right">100</td>
-              <td class="text-right">50</td>
-            </tr>
-            <tr>
-              <th scope="row">Students</th>
-              <td class="text-right">2</td>
-              <td class="text-right">2</td>
-              <td class="text-right">1</td>
-              <td class="text-right">5</td>
-              <td class="text-right">50</td>
-              <td class="text-right">0</td>
-            </tr>
-            <tr>
-              <th scope="row">Business</th>
-              <td class="text-right">60</td>
-              <td class="text-right">10</td>
-              <td class="text-right">20</td>
-              <td class="text-right">90</td>
-              <td class="text-right">50</td>
-              <td class="text-right">8</td>
-            </tr>
-            <tr>
-              <th scope="row">Professional</th>
-              <td class="text-right">46</td>
-              <td class="text-right">26</td>
-              <td class="text-right">5</td>
-              <td class="text-right">101</td>
-              <td class="text-right">200</td>
-              <td class="text-right">142</td>
-            </tr>
-            <tr>
-              <th scope="row">Lawyer</th>
-              <td class="text-right">0</td>
-              <td class="text-right">2</td>
-              <td class="text-right">4</td>
-              <td class="text-right">0</td>
-              <td class="text-right">300</td>
-              <td class="text-right">300</td>
-            </tr>
-          </tbody>
-        </table>
+        <summary>Figure 5 - Text version</summary>
+        <p class="mrgn-tp-lg">The chart asks you yes or no questions. If you answer "no", it gives you recommendations of other accessibility projects.</p>
+        <section>
+          <h2>Description</h2>
+          <p>The flowchart asks you yes or no questions.</p>
+          <section>
+            <h3>Question 1: Is the entrance to your building barrier-free? </h3>
+            <ul>
+              <li>If your  answer is “Yes”, go to question 2</li>
+              <li>If your  answer is “No”:
+                <ul>
+                  <li>ramps, accessible doors, reserved parking, and  leveling the ground can improve the accessibility of your building</li>
+                </ul>
+              </li>
+            </ul>
+          </section>
+          <section>
+            <h3>Question 2: Are the hallways wide enough for persons with assistive  devices, such as electric wheelchairs, to get through?</h3>
+            <ul>
+              <li>If your  answer is “Yes”, go to question 3</li>
+              <li>If your  answer is “No”:
+                <ul>
+                  <li>making halls and doorways wider, installing  automatic door operators, elevators or lifts can all help reduce accessibility  barriers in your building</li>
+                </ul>
+              </li>
+            </ul>
+          </section>
+          <section>
+            <h3>Question 3: Are persons with disabilities able to access all necessary  floors, levels and sections of your building?</h3>
+            <ul>
+              <li>If  your answer is “Yes”, go to question 4</li>
+              <li>If  your answer is “No”:
+                <ul>
+                  <li>making halls and doorways wider,&nbsp; installing automatic door operators,  elevators or lifts can all help reduce accessibility barriers in your building</li>
+                </ul>
+              </li>
+            </ul>
+          </section>
+          <section>
+            <h3>Question 4: Can persons with reduced mobility use the washroom in your  building?</h3>
+            <ul>
+              <li>If your  answer is “Yes”, go to question 5</li>
+              <li>If  your answer is “No”:
+                <ul>
+                  <li>accessible washrooms or barrier-free stalls  should be available in all facilities.</li>
+                </ul>
+              </li>
+            </ul>
+          </section>
+          <section>
+            <h3>Question 5: Are there automatic door openers to the washrooms? Is the  washroom entrance wide enough to accommodate assistive devices? </h3>
+            <ul>
+              <li>If your  answer is “Yes”:
+                <ul>
+                  <li>congratulations! Here are some examples of  other accessibility projects that EAF funds: safety and security items, such as  visual fire alarms; multi-sensory rooms; hearing loops; and more!</li>
+                </ul>
+              </li>
+              <li>If your  answer is “No”:
+                <ul>
+                  <li>making halls and doorways wider, installing  automatic door operators, elevators or lifts can all help reduce accessibility  barriers in your building</li>
+                </ul>
+              </li>
+            </ul>
+          </section>
+        </section>
       </details>
     </figure>
   </section>
