@@ -1,8 +1,8 @@
 ---
 altLangPage: "https://conception.canada.ca/guide-redaction"
 date: 2017-10-05
-dateModified:  2023-10-12
-description: "These are the rules to create web content that can be easily found, understood and used."
+dateModified:  2023-10-31
+description: "The Canada.ca Content Style Guide provides the rules to create web content that can be easily found, understood and used."
 title: "Canada.ca Content Style Guide"
 ---
 <section id="intro">
@@ -1526,7 +1526,7 @@ title: "Canada.ca Content Style Guide"
       <h6>Example of a complex table</h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
-        <strong>National Hockey League Stanley Cup Canadian winning teams (1927–2013)</strong>
+        <strong>National Hockey League Stanley Cup Canadian winning teams</strong>
         </caption>
         <thead>
           <tr class="active">
@@ -1560,18 +1560,13 @@ title: "Canada.ca Content Style Guide"
             <td class="text-right">1</td>
           </tr>
         </tbody>
-        <tfoot>
-          <tr>
-            <td class="small" colspan="10"><p>Source : <a href="https://www.nhl.com">nhl.com</a></p></td>
-          </tr>
-        </tfoot>
       </table>
       <h5>After: simple tables</h5>
       <p>The complex table easily converts into simple tables.</p>
       <h6>Example: one simple table</h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
-        <strong>National Hockey League Stanley Cup Canadian winning teams (1927 to 2013)</strong>
+        <strong>National Hockey League Stanley Cup Canadian winning teams</strong>
         </caption>
         <thead>
           <tr class="active">
@@ -1607,17 +1602,12 @@ title: "Canada.ca Content Style Guide"
             <td class="text-right">1</td>
           </tr>
         </tbody>
-        <tfoot>
-          <tr>
-            <td class="small" colspan="3"><p>Source : <a href="https://www.nhl.com">nhl.com</a></p></td>
-          </tr>
-        </tfoot>
       </table>
       <p class="mrgn-tp-lg">If it's important to highlight Stanley Cup championships by NHL conference (region), present the information using 2 simpler tables, and use table titles to clarify which conference the teams represent.</p>
       <h6>Example: multiple simple tables</h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
-        <strong>Table 1: Eastern conference: National Hockey League Stanley Cup Canadian winning teams (1927 to 2013)</strong>
+        <strong>Table 1: Eastern conference: National Hockey League Stanley Cup Canadian winning teams</strong>
         </caption>
         <thead>
           <tr class="active">
@@ -1639,15 +1629,10 @@ title: "Canada.ca Content Style Guide"
             <td class="text-right">1</td>
           </tr>
         </tbody>
-        <tfoot>
-          <tr>
-            <td class="small" colspan="2"><p>Source : <a href="https://www.nhl.com">nhl.com</a></p></td>
-          </tr>
-        </tfoot>
       </table>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
-        <strong>Table 2: Western conference: National Hockey League Stanley Cup Canadian winning teams (1927 to 2013)</strong>
+        <strong>Table 2: Western conference: National Hockey League Stanley Cup Canadian winning teams</strong>
         </caption>
         <thead>
           <tr class="active">
@@ -1665,23 +1650,18 @@ title: "Canada.ca Content Style Guide"
             <td class="text-right">1</td>
           </tr>
         </tbody>
-        <tfoot>
-          <tr>
-            <td class="small" colspan="2"><p>Source : <a href="https://www.nhl.com">nhl.com</a></p></td>
-          </tr>
-        </tfoot>
       </table>
       <p class="mrgn-tp-md">The complex table also easily converts into 2 lists.</p>
       <h6>Example: convert tables to text</h6>
       <p><strong>Eastern conference National Hockey League</strong>:</p>
-      <p>The Stanley Cup Canadian winning teams from 1927 to 2013</p>
+      <p>The Stanley Cup Canadian winning teams</p>
       <ul>
         <li>Montreal Canadiens: 22</li>
         <li>Toronto Maple Leafs: 11</li>
         <li>Ottawa Senators: 1</li>
       </ul>
       <p><strong>Western conference National Hockey League</strong>:</p>
-      <p>The Stanley Cup Canadian winning teams from 1927 to 2013</p>
+      <p>The Stanley Cup Canadian winning teams</p>
       <ul>
         <li>Edmonton Oilers: 5</li>
         <li>Calgary Flames: 1</li>
