@@ -1884,67 +1884,63 @@ title: "Canada.ca Content Style Guide"
         <summary>Figure 5 - Text version</summary>
         <p class="mrgn-tp-lg">The chart asks you yes or no questions. If you answer "no", it gives you recommendations of other accessibility projects.</p>
         <section>
-          <h5>Description</h5>
-          <p>The flowchart asks you yes or no questions.</p>
-          <section>
-            <h5>Question 1: Is the entrance to your building barrier-free?</h5>
-            <ul>
-              <li>If your  answer is “Yes”, go to question 2</li>
-              <li>If your  answer is “No”:
-                <ul>
-                  <li>ramps, accessible doors, reserved parking, and  leveling the ground can improve the accessibility of your building</li>
-                </ul>
-              </li>
-            </ul>
-          </section>
-          <section>
-            <h5>Question 2: Are the hallways wide enough for persons with assistive  devices, such as electric wheelchairs, to get through?</h5>
-            <ul>
-              <li>If your  answer is “Yes”, go to question 3</li>
-              <li>If your  answer is “No”:
-                <ul>
-                  <li>making halls and doorways wider, installing  automatic door operators, elevators or lifts can all help reduce accessibility  barriers in your building</li>
-                </ul>
-              </li>
-            </ul>
-          </section>
-          <section>
-            <h5>Question 3: Are persons with disabilities able to access all necessary  floors, levels and sections of your building?</h5>
-            <ul>
-              <li>If  your answer is “Yes”, go to question 4</li>
-              <li>If  your answer is “No”:
-                <ul>
-                  <li>making halls and doorways wider,&nbsp; installing automatic door operators,  elevators or lifts can all help reduce accessibility barriers in your building</li>
-                </ul>
-              </li>
-            </ul>
-          </section>
-          <section>
-            <h5>Question 4: Can persons with reduced mobility use the washroom in your  building?</h5>
-            <ul>
-              <li>If your  answer is “Yes”, go to question 5</li>
-              <li>If  your answer is “No”:
-                <ul>
-                  <li>accessible washrooms or barrier-free stalls  should be available in all facilities.</li>
-                </ul>
-              </li>
-            </ul>
-          </section>
-          <section>
-            <h5>Question 5: Are there automatic door openers to the washrooms? Is the  washroom entrance wide enough to accommodate assistive devices? </h5>
-            <ul>
-              <li>If your  answer is “Yes”:
-                <ul>
-                  <li>congratulations! Here are some examples of  other accessibility projects that EAF funds: safety and security items, such as  visual fire alarms; multi-sensory rooms; hearing loops; and more!</li>
-                </ul>
-              </li>
-              <li>If your  answer is “No”:
-                <ul>
-                  <li>making halls and doorways wider, installing  automatic door operators, elevators or lifts can all help reduce accessibility  barriers in your building</li>
-                </ul>
-              </li>
-            </ul>
-          </section>
+          <p><strong>Question 1:</strong> Is the entrance to your building barrier-free?</p>
+          <ul>
+            <li>If your  answer is “Yes”, go to question 2</li>
+            <li>If your  answer is “No”:
+              <ul>
+                <li>ramps, accessible doors, reserved parking, and  leveling the ground can improve the accessibility of your building</li>
+              </ul>
+            </li>
+          </ul>
+        </section>
+        <section>
+          <p><strong>Question 2:</strong> Are the hallways wide enough for persons with assistive  devices, such as electric wheelchairs, to get through?</p>
+          <ul>
+            <li>If your  answer is “Yes”, go to question 3</li>
+            <li>If your  answer is “No”:
+              <ul>
+                <li>making halls and doorways wider, installing  automatic door operators, elevators or lifts can all help reduce accessibility  barriers in your building</li>
+              </ul>
+            </li>
+          </ul>
+        </section>
+        <section>
+          <p><strong>Question 3:</strong> Are persons with disabilities able to access all necessary  floors, levels and sections of your building?</p>
+          <ul>
+            <li>If  your answer is “Yes”, go to question 4</li>
+            <li>If  your answer is “No”:
+              <ul>
+                <li>making halls and doorways wider,&nbsp; installing automatic door operators,  elevators or lifts can all help reduce accessibility barriers in your building</li>
+              </ul>
+            </li>
+          </ul>
+        </section>
+        <section>
+          <p><strong>Question 4:</strong> Can persons with reduced mobility use the washroom in your  building?</p>
+          <ul>
+            <li>If your  answer is “Yes”, go to question 5</li>
+            <li>If  your answer is “No”:
+              <ul>
+                <li>accessible washrooms or barrier-free stalls  should be available in all facilities.</li>
+              </ul>
+            </li>
+          </ul>
+        </section>
+        <section>
+          <p><strong>Question 5:</strong> Are there automatic door openers to the washrooms? Is the  washroom entrance wide enough to accommodate assistive devices?</p>
+          <ul>
+            <li>If your  answer is “Yes”:
+              <ul>
+                <li>congratulations! Here are some examples of  other accessibility projects that EAF funds: safety and security items, such as  visual fire alarms; multi-sensory rooms; hearing loops; and more!</li>
+              </ul>
+            </li>
+            <li>If your  answer is “No”:
+              <ul>
+                <li>making halls and doorways wider, installing  automatic door operators, elevators or lifts can all help reduce accessibility  barriers in your building</li>
+              </ul>
+            </li>
+          </ul>
         </section>
       </details>
     </figure>
