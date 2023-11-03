@@ -34,7 +34,7 @@ title: 'Departments and agencies page mandatory template'
     <li>listed in the <a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/">Financial Administration Act</a>(FAA), linking to their respective institutional profiles</li>
     <li>not listed in the FAA but listed in the <a href="http://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/fip-pcim/reg-eng.asp">Registry of Applied Titles</a>, linking to their respective organizational profiles</li>
     <li>listed in the FAA but not  in scope for Canada.ca, linking to their respective websites</li>
-    <li>considered high profile units, linking to their respective organizational profiles. Employment and Social Development Canada and the Privy Council Office will consult together to determine if the institution may be included.</li>
+    <li>considered high profile units, linking to their respective organizational profiles. Employment and Social Development Canada (ESDC) and the Privy Council Office will consult together to determine if the institution may be included.</li>
   </ul>
 </section>
 <section>
