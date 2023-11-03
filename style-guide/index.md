@@ -1760,7 +1760,7 @@ title: "Canada.ca Content Style Guide"
     <p><a href="#wp6-2">Include the appropriate alternative text</a> to describe the image for people who are unable to view it.</p>
     <h5>Example of functional images</h5>
     <figure class="mrgn-bttm-lg">
-      <figcaption class="text-center"> <strong>Figure 4</strong> </figcaption>
+      <figcaption class="text-center"><strong>Figure 4</strong></figcaption>
       <img alt="Map of Canada: current conditions" class="img-responsive center-block" src="/style-guide/images/fig-04-eng.jpg">
       <details>
         <summary>Figure 4 - Text version </summary>
@@ -1884,10 +1884,10 @@ title: "Canada.ca Content Style Guide"
         <summary>Figure 5 - Text version</summary>
         <p class="mrgn-tp-lg">The chart asks you yes or no questions. If you answer "no", it gives you recommendations of other accessibility projects.</p>
         <section>
-          <h2>Description</h2>
+          <h5>Description</h5>
           <p>The flowchart asks you yes or no questions.</p>
           <section>
-            <h3>Question 1: Is the entrance to your building barrier-free? </h3>
+            <h5>Question 1: Is the entrance to your building barrier-free?</h5>
             <ul>
               <li>If your  answer is “Yes”, go to question 2</li>
               <li>If your  answer is “No”:
@@ -1898,7 +1898,7 @@ title: "Canada.ca Content Style Guide"
             </ul>
           </section>
           <section>
-            <h3>Question 2: Are the hallways wide enough for persons with assistive  devices, such as electric wheelchairs, to get through?</h3>
+            <h5>Question 2: Are the hallways wide enough for persons with assistive  devices, such as electric wheelchairs, to get through?</h5>
             <ul>
               <li>If your  answer is “Yes”, go to question 3</li>
               <li>If your  answer is “No”:
@@ -1909,7 +1909,7 @@ title: "Canada.ca Content Style Guide"
             </ul>
           </section>
           <section>
-            <h3>Question 3: Are persons with disabilities able to access all necessary  floors, levels and sections of your building?</h3>
+            <h5>Question 3: Are persons with disabilities able to access all necessary  floors, levels and sections of your building?</h5>
             <ul>
               <li>If  your answer is “Yes”, go to question 4</li>
               <li>If  your answer is “No”:
@@ -1920,7 +1920,7 @@ title: "Canada.ca Content Style Guide"
             </ul>
           </section>
           <section>
-            <h3>Question 4: Can persons with reduced mobility use the washroom in your  building?</h3>
+            <h5>Question 4: Can persons with reduced mobility use the washroom in your  building?</h5>
             <ul>
               <li>If your  answer is “Yes”, go to question 5</li>
               <li>If  your answer is “No”:
@@ -1931,7 +1931,7 @@ title: "Canada.ca Content Style Guide"
             </ul>
           </section>
           <section>
-            <h3>Question 5: Are there automatic door openers to the washrooms? Is the  washroom entrance wide enough to accommodate assistive devices? </h3>
+            <h5>Question 5: Are there automatic door openers to the washrooms? Is the  washroom entrance wide enough to accommodate assistive devices? </h5>
             <ul>
               <li>If your  answer is “Yes”:
                 <ul>
