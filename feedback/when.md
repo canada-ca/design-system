@@ -59,9 +59,9 @@ Depending on the nature of the threat, there are different steps that should be 
 
 
 ### Specific threat or a personal crisis
-Identifies a target (address, office name, person) and / or the person leaving the comment.
+* Identifies a target (address, office name, person) and / or the person leaving the comment.
 
-What to do
+#### What to do
 
 If you receive a message about a specific threat or a personal crisis through the page feedback tool you must report it.
 * Retain a copy of the comment and date/time submitted.
@@ -69,10 +69,10 @@ If you receive a message about a specific threat or a personal crisis through th
 * Contact your department’s security services.
 
 ### Non-specific threat
-Does not identify a specific target (“you people”, “those guys”, “the government”).
-Hypothetical (“if I go to the office, I’ll hurt someone.”)
+* Does not identify a specific target (“you people”, “those guys”, “the government”).
+* Hypothetical (“if I go to the office, I’ll hurt someone.”)
 
-What to do
+#### What to do
 
 * Retain a copy of the comment and date/time submitted.
 * Follow the same procedures that your organization has in place for threats received through email, social media and/or call centres.
