@@ -70,7 +70,7 @@ If you receive a message about a specific threat or a personal crisis through th
 
 ### Non-specific threat
 * Does not identify a specific target (“you people”, “those guys”, “the government”).
-* Hypothetical (“if I go to the office, I’ll hurt someone.”)
+* Hypothetical (“if I go to the office, I’ll hurt someone”).
 
 #### What to do
 
