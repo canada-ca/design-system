@@ -14,7 +14,7 @@ title: "Latest changes to the Canada.ca design system"
 </div>
 <div id="expand-collapse">
   <details open="open">
-    <summary>October  20, 2023</summary>
+    <summary>November 7, 2023</summary>
     <p>Updated the <a href="{{ site.url }}/common-design-patterns/report-problem.html">Report a problem pattern</a> to inform users that it is being decommissioned. Stabilized the <a href="{{ site.url }}/common-design-patterns/page-feedback.html">Page feedback tool pattern</a> and added content specifications and updated implementation instructions.</p>
   </details>
   <details>
