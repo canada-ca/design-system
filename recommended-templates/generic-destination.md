@@ -7,14 +7,7 @@ title: Basic content page layout recommended template
 ---
 
 
-<p class="gc-byline">
- <strong>
-  From:
-  <a href="https://www.canada.ca/en/treasury-board-secretariat.html">
-   Treasury Board of Canada Secretariat
-  </a>
- </strong>
-</p>
+
 
 <p>
  This template is the basic layout for Canada.ca content pages.
@@ -119,7 +112,7 @@ title: Basic content page layout recommended template
       <td>
        <ul>
         <li>
-         <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp5-1">
+         <a href="https://design.canada.ca/style-guide/#wp5-1">
           Page title
          </a>
         </li>
@@ -135,7 +128,7 @@ title: Basic content page layout recommended template
       <td>
        <ul>
         <li>
-         <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp5-1">
+         <a href="https://design.canada.ca/style-guide/#wp5-1">
           Page title
          </a>
         </li>
@@ -156,7 +149,7 @@ title: Basic content page layout recommended template
       <td>
        <ul>
         <li>
-         <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp5-1">
+         <a href="https://design.canada.ca/style-guide/#wp5-1">
           Page title
          </a>
         </li>
@@ -177,7 +170,7 @@ title: Basic content page layout recommended template
       <td>
        <ul>
         <li>
-         <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp5-1">
+         <a href="https://design.canada.ca/style-guide/#wp5-1">
           Page title
          </a>
         </li>

@@ -6,16 +6,6 @@ description: null
 title: Canada.ca alerts and service disruptions
 ---
 
-
-<div>
- <p class="gc-byline mrgn-bttm-0">
-  <strong>
-   From:
-   <a href="https://www.canada.ca/en/treasury-board-secretariat.html">
-    Treasury Board of Canada Secretariat
-   </a>
-  </strong>
- </p>
  <p class="small">
   Last updated: 2022-05-10
  </p>

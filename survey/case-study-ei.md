@@ -84,5 +84,5 @@ As a team, they:
 ## Learn more
 
 * [Blog post on making links more effective](https://blog.canada.ca/2021/07/20/effective-links.html)
-* [Links - Canada.ca Content Style Guide](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp7-1)
+* [Links - Canada.ca Content Style Guide](https://design.canada.ca/style-guide/#wp7-1)
 * [Information foraging: A Theory of How people navigate on the web](https://www.nngroup.com/articles/information-foraging/)

@@ -5,7 +5,6 @@ dateModified: 2023-03-28
 description: "How to organize your content on Canada.ca"
 title: "Organizing content on Canada.ca"
 ---
-<p class="gc-byline"><strong>From: <a href="https://www.canada.ca/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></strong></p>
 <div class="mrgn-tp-md mrgn-bttm-sm brdr-bttm">
   <div class="row  mrgn-bttm-sm">
     <ul class="toc lst-spcd col-md-12">
@@ -247,7 +246,7 @@ title: "Organizing content on Canada.ca"
           </ul>
         </li>
       </ul>
-      <p><strong>Note</strong>: your account manager can submit new Canada.ca sub-domains and change requests to the Principal Publisher using the <a href="http://requestform.portal.gc.ca/tickets.html">Request form for Canada.ca</a>. Sub-domain requests are reviewed by the Treasury Board of Canada Secretariat. </p>
+      <p><strong>Note</strong>: your account manager can submit new Canada.ca sub-domains and change requests to the Principal Publisher using the <a href="http://requestform.portal.gc.ca/tickets.html">Request form for Canada.ca</a>. Sub-domain requests are reviewed by Employment and Social Development Canada.</p>
     </section>
   </section>
 </section>

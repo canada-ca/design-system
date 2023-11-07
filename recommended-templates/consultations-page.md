@@ -8,14 +8,7 @@ title: 'Consultation profile pages  template'
 
 
 <div>
- <p class="gc-byline">
-  <strong>
-   From:
-   <a href="https://www.canada.ca/en/treasury-board-secretariat.html">
-    Treasury Board of Canada Secretariat
-   </a>
-  </strong>
- </p>
+ 
  <section>
   <p>
    Consultation profile pages provide access to Government of Canada consultations and engagement activities.

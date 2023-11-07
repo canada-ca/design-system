@@ -8,14 +8,7 @@ title: Transparency and corporate reporting recommended template
 
 
 <section>
- <p class="gc-byline">
-  <strong>
-   From:
-   <a href="https://www.canada.ca/en/treasury-board-secretariat.html">
-    Treasury Board of Canada Secretariat
-   </a>
-  </strong>
- </p>
+ 
  <section>
   <p>
    A corporate reporting page provides proactive disclosure of information offered by that institution.

@@ -8,14 +8,7 @@ title: 'Partnering and collaborative arrangement profile pages template'
 
 
 <div>
- <p class="gc-byline">
-  <strong>
-   From:
-   <a href="https://www.canada.ca/en/treasury-board-secretariat.html">
-    Treasury Board of Canada Secretariat
-   </a>
-  </strong>
- </p>
+ 
  <section>
   <p>
    A partnering/collaborative arrangement profile page represents the single landing page on Canada.ca for an entity that is associated with 1 or more Government of Canada institutions.

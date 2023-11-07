@@ -282,13 +282,13 @@ title: Designing content
   </a>
  </li>
  <li>
-  <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc5">
+  <a href="https://design.canada.ca/style-guide/#toc5">
    Writing principles for web content
   </a>
   (style guide)
  </li>
  <li>
-  <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc6">
+  <a href="https://design.canada.ca/style-guide/#toc6">
    Plain language
   </a>
   (style guide)
@@ -414,13 +414,13 @@ title: Designing content
   (blog post)
  </li>
  <li>
-  <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp1-2-1">
+  <a href="https://design.canada.ca/style-guide/#wp1-2-1">
    Writing for accessibility
   </a>
   (style guide)
  </li>
  <li>
-  <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp1-2-1b">
+  <a href="https://design.canada.ca/style-guide/#wp1-2-1b">
    Writing for inclusivity
   </a>
   (style guide)

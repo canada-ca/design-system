@@ -107,7 +107,7 @@ title: "Government of Canada signature"
           <summary><strong>Drupal WxT</strong></summary>
           <p class="mrgn-tp-lg">For Drupal WxT:</p>
           <ul>
-            <li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</a></li>
+            <li><a href="https://drupalwxt.github.io/">Drupal WxT documentation</a></li>
           </ul>
         </details>
       </div>

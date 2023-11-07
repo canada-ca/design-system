@@ -8,14 +8,7 @@ title: 'Contact us pages template'
 
 
 <div>
- <p class="gc-byline">
-  <strong>
-   From:
-   <a href="https://www.canada.ca/en/treasury-board-secretariat.html">
-    Treasury Board of Canada Secretariat
-   </a>
-  </strong>
- </p>
+ 
  <section>
   <p>
    There are a number of ways that people contact the Government of Canada. Typical scenarios include:
@@ -1260,7 +1253,7 @@ title: 'Contact us pages template'
           <ul>
            <li>
             go to
-            <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp4-10">
+            <a href="https://design.canada.ca/style-guide/#wp4-10">
              mailing addresses section of the Canada.ca Style Guide
             </a>
             for content guidance and format
@@ -1308,7 +1301,7 @@ title: 'Contact us pages template'
            </li>
            <li>
             go to the dates and times section of the
-            <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp4-7">
+            <a href="https://design.canada.ca/style-guide/#wp4-7">
              Canada.ca Content Style Guide
             </a>
             for content guidance

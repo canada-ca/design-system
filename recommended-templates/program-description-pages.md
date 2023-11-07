@@ -8,14 +8,7 @@ title: 'Program description pages template'
 
 
 <div>
- <p class="gc-byline">
-  <strong>
-   From:
-   <a href="https://www.canada.ca/en/treasury-board-secretariat.html">
-    Treasury Board of Canada Secretariat
-   </a>
-  </strong>
- </p>
+ 
  <p>
   A program description page provides information about an internal administrative activity that delivers a service.
  </p>

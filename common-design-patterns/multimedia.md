@@ -8,14 +8,7 @@ title: Multimedia design pattern
 
 
 <div>
- <p class="gc-byline">
-  <strong>
-   From:
-   <a href="https://www.canada.ca/en/treasury-board-secretariat.html">
-    Treasury Board of Canada Secretariat
-   </a>
-  </strong>
- </p>
+ 
  <section>
   <p>
    Multimedia is time-based media of a visual or auditory nature that complements or enhances text, including video clips and audio recordings.
@@ -30,7 +23,7 @@ title: Multimedia design pattern
     </li>
     <li>
      Refer to the
-     <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp6-4">
+     <a href="https://design.canada.ca/style-guide/#wp6-4">
       Canada.ca Content Style Guide for details on when to use video or audio multimedia content
      </a>
     </li>

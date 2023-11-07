@@ -65,7 +65,7 @@ title: Tables
    Use to organize related information, such as contact numbers and details
   </li>
   <li>
-   <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp5-3">
+   <a href="https://design.canada.ca/style-guide/#wp5-3">
     Use
 						tables to organize data
    </a>
@@ -88,7 +88,7 @@ title: Tables
    Never include a data table as an image
   </li>
   <li>
-   <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp5-3-3">
+   <a href="https://design.canada.ca/style-guide/#wp5-3-3">
     Limit the use of texture and colour
    </a>
    <cite>
@@ -96,7 +96,7 @@ title: Tables
    </cite>
   </li>
   <li>
-   <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp5-3-4">
+   <a href="https://design.canada.ca/style-guide/#wp5-3-4">
     Avoid having blank cells
    </a>
    <cite>

@@ -8,14 +8,7 @@ title: Context-specific features design pattern
 
 
 <div>
- <p class="gc-byline">
-  <strong>
-   From:
-   <a href="https://www.canada.ca/en/treasury-board-secretariat.html">
-    Treasury Board of Canada Secretariat
-   </a>
-  </strong>
- </p>
+ 
  <section>
   <p>
    Context-specific features  are in-page components used to promote government activities, initiatives,  programs and services.

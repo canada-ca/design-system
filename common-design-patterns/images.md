@@ -8,14 +8,7 @@ title: Images design pattern
 
 
 
-<p class="gc-byline">
- <strong>
-  From:
-  <a href="https://www.canada.ca/en/treasury-board-secretariat.html">
-   Treasury Board of Canada Secretariat
-  </a>
- </strong>
-</p>
+
 
 <section>
  <p>
@@ -31,7 +24,7 @@ title: Images design pattern
    </li>
    <li>
     Refer to the
-    <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc10">
+    <a href="https://design.canada.ca/style-guide/#toc10">
      Canada.ca Content Style Guide for details on when to use images
     </a>
    </li>

@@ -7,7 +7,7 @@ layout: without-h1
 title: "Digital Transformation Office"
 ---
 <h1 property="name headline" id="wb-cont" dir="ltr">Digital Transformation Office</h1>
-<p>The Digital Transformation Office (DTO) is part of the Treasury Board of Canada Secretariat’s Strategic Communications and Ministerial Affairs sector. At DTO, we are communications professionals with expertise in content and interaction design, user research and plain language writing.</p>
+<p>The Digital Transformation Office (DTO) is part of Employment and Social Development Canada. At DTO, we are communications professionals with expertise in content and interaction design, user research and plain language writing.</p>
 <p>We work with departments to:</p>
 <ul>
   <li>ensure that the Canada.ca brand is recognized and trusted by Canadians </li>

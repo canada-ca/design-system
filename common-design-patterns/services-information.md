@@ -8,14 +8,7 @@ title: Services and information design pattern
 
 
 <div>
- <p class="gc-byline">
-  <strong>
-   From:
-   <a href="https://www.canada.ca/en/treasury-board-secretariat.html">
-    Treasury Board of Canada Secretariat
-   </a>
-  </strong>
- </p>
+ 
  <section>
   <p>
    Services and information is a pattern for presenting sets of links with accompanying descriptions (also known as doormat). Each link with its description provides an accurate and concise description of what a person will find on the destination page. Together, these sets of links and descriptions provide clear and distinct choices for people trying to complete their task.
