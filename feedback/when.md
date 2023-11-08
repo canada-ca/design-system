@@ -59,7 +59,7 @@ Depending on the nature of the threat, there are different steps that should be 
 
 
 ### Specific threat or a personal crisis
-* Identifies a target (address, office name, person) and / or the person leaving the comment.
+* Identifies a target (address, office name, person) and/or the person leaving the comment.
 
 #### What to do
 
