@@ -154,34 +154,9 @@ title: "Page feedback tool"
         <summary>Instructions for MWS pages</summary>
         <h4>Add the feedback component</h4>
         <p><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">How to add the feedback component to your page in Adobe Experience Manager (AEM).</a> (Internal only on GCPedia)</p>
-        <h4><span class="label label-primary">Recommended</span> Add a "theme" hidden value in the feedback code</h4>
-        <p>This is useful when you want to download feedback for an entire theme of pages at the same time.</p>
-        <p>In most cases, you should include the Canada.ca theme for your content (full list below).</p>
-        <p>This is a unilingual value - enter the English theme value to your English and French pages.</p>
-        <h5>Canada.ca theme values</h5>
-        <ul>
-          <li>AboutGov</li>
-          <li>Benefits</li>
-          <li>Business</li>
-          <li>CanadaTheWorld</li>
-          <li>Culture</li>
-          <li>Defense</li>
-          <li>Environment</li>
-          <li>Health</li>
-          <li>Immigration</li>
-          <li>Indigenous</li>
-          <li>Jobs</li>
-          <li>Money</li>
-          <li>Policing</li>
-          <li>PublicService</li>
-          <li>Science</li>
-          <li>Taxes</li>
-          <li>Transport</li>
-          <li>Travel</li>
-          <li>Veterans</li>
-        </ul>
-        <p>If you would like to add a new theme value that is not currently in the Feedback Viewer, contact the Digital Transformation Office. We will add the new theme value into the Feedback Viewer.</p>
-        <p>Email: <a href="maito:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></p>
+
+
+      
         <h4><span class="label label-warning">Optional</span> Add a “section” hidden value in the feedback code</h4>
         <p>This is useful when you want to download feedback for multiple pages at the same time.</p>
         <p>Consider including this value when you're adding the feedback tool to multiple pages on the same topic, such as “passports” or “employment insurance”.</p>
