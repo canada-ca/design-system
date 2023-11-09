@@ -1737,7 +1737,7 @@ title: "Canada.ca Content Style Guide"
       <li>infographics</li>
       <li>illustration</li>
       <li>diagram</li>
-      <li>Image map</li>
+      <li>image map</li>
     </ul>
     <p><a href="#wp6-2">Include the appropriate alternative text</a> to describe the image for people who are unable to view it.</p>
     <h5>Example of functional images</h5>
