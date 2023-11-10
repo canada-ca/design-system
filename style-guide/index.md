@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/guide-redaction"
 date: 2017-10-05
-dateModified:  2023-11-06
+dateModified:  2023-11-10
 description: "The Canada.ca Content Style Guide provides the rules to create web content that can be easily found, understood and used."
 title: "Canada.ca Content Style Guide"
 ---
@@ -18,6 +18,7 @@ title: "Canada.ca Content Style Guide"
             <li><a href="#toc1">Summary of changes</a></li>
             <li><a href="#toc2">Purpose</a></li>
             <li><a href="#toc3">Use of the style guide</a></li>
+            <li><a href="#toc4">Related policies, standards and procedures</a></li>
             <li><a href="#toc5">1.0 Writing principles for web content</a></li>
             <li><a href="#toc6">2.0 Plain language</a></li>
             <li><a href="#toc7">3.0 Tone</a></li>
@@ -26,7 +27,6 @@ title: "Canada.ca Content Style Guide"
             <li><a href="#toc10">6.0 Images and videos</a></li>
             <li><a href="#toc11">7.0 Links</a></li>
             <li><a href="#toc12">Web content makeovers</a></li>
-            <li><a href="#toc4">Related policies, standards and procedures</a></li>
             <li><a href="#toc13">Resources</a></li>
           </ul>
         </div>
@@ -54,6 +54,25 @@ title: "Canada.ca Content Style Guide"
   <p>All departments and other portions of the federal public administration subject to the Directive on the Management of Communications must use the Canada.ca  Style Guide. These organizations must follow this style guide's requirements for all public-facing websites and digital services, regardless of the technology, domain name or publishing platform used. This requirement is referenced in Appendix D: Mandatory Procedures for Social Media and Web Communications in the <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=30682">Directive on the Management of Communications</a>.</p>
   <h3>Out-of-scope situations</h3>
   <p>Institutions that fall outside of the Directive on the Management of Communications do not have to follow this style guide. However, all institutions are encouraged to use it for both their internal and external web products. Following this guide's rules and techniques will make it easier for everyone to find, understand and use the government's digital content.</p>
+</section>
+<section id="toc4">
+  <h2>Related policies, standards and procedures</h2>
+  <p>Content must comply with:</p>
+  <ul>
+    <li>templates, content components, character limits and other requirements as described in the <cite><a href="{{ site.url }}/architecture/canada-content-information-architecture-specification.html">Canada.ca Content and Information Architecture Specification</a></cite></li>
+    <li>requirements set out in the related legislated and policy instruments, including:
+      <ul>
+        <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30683">Policy on Communications and Federal Identity</a></cite></li>
+        <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682">Directive on the Management of Communications</a></cite></li>
+        <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601">Standard on Web Accessibility</a></cite></li>
+        <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25875">Standard on Web Interoperability</a></cite></li>
+        <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27088">Standard on Optimizing Websites and Applications for Mobile Devices</a></cite></li>
+        <li><cite><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/guidance-publishing-government.html">Guidance on Publishing in the Government of Canada</a></cite></li>
+        <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27167">Procedures for Publishing</a></cite></li>
+        <li><cite><a href="https://laws-lois.justice.gc.ca/eng/acts/O-3.01/">Official Languages Act</a></cite></li>
+      </ul>
+    </li>
+  </ul>
 </section>
 <section id="toc5">
   <h2>1.0 Writing principles for web content</h2>
@@ -3037,25 +3056,6 @@ title: "Canada.ca Content Style Guide"
     <li>made sure that the last 3 column headers reflect the unit value of the information in each column</li>
     <li>added zeros to provide relevant information in otherwise empty cells </li>
     <li>removed empty cells, rows and irrelevant information (underlining) and subheadings (such as those that were not aligned with the column headers)</li>
-  </ul>
-</section>
-<section id="toc4">
-  <h2>Related policies, standards and procedures</h2>
-  <p>Content must comply with:</p>
-  <ul>
-    <li>templates, content components, character limits and other requirements as described in the <cite><a href="{{ site.url }}/architecture/canada-content-information-architecture-specification.html">Canada.ca Content and Information Architecture Specification</a></cite></li>
-    <li>requirements set out in the related legislated and policy instruments, including:
-      <ul>
-        <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30683">Policy on Communications and Federal Identity</a></cite></li>
-        <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682">Directive on the Management of Communications</a></cite></li>
-        <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601">Standard on Web Accessibility</a></cite></li>
-        <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25875">Standard on Web Interoperability</a></cite></li>
-        <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27088">Standard on Optimizing Websites and Applications for Mobile Devices</a></cite></li>
-        <li><cite><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/guidance-publishing-government.html">Guidance on Publishing in the Government of Canada</a></cite></li>
-        <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27167">Procedures for Publishing</a></cite></li>
-        <li><cite><a href="https://laws-lois.justice.gc.ca/eng/acts/O-3.01/">Official Languages Act</a></cite></li>
-      </ul>
-    </li>
   </ul>
 </section>
 <section id="toc13">
