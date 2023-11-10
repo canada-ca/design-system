@@ -1861,7 +1861,7 @@ title: "Canada.ca Content Style Guide"
     </figure>
     <figure class="mrgn-bttm-lg">
       <figcaption class="text-center"><strong>Figure 5</strong></figcaption>
-      <img alt="Flat rate flow chart: description follows" class="img-responsive center-block" src="/style-guide/images/flat-rate-flow-chart.png">
+      <img alt="This chart helps you choose the accessibility project that is right for you: description follows" class="img-responsive center-block" src="/style-guide/images/flat-rate-flow-chart.png">
       <details>
         <summary>Figure 5 - Text version</summary>
         <p class="mrgn-tp-lg">The chart asks you yes or no questions. If you answer "no", it gives you recommendations of other accessibility projects.</p>
