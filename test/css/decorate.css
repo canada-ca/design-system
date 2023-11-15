@@ -1,0 +1,160 @@
+@charset "utf-8";
+/* CSS Document */
+.provisional.gc-topic-bg div {
+	background: no-repeat;
+	margin-left: -15px;
+	min-height: 200px;
+	overflow: hidden;
+	width: calc(50vw - 15px);
+}
+
+.provisional.gc-most-requested {
+	border: none;
+}
+
+.provisional.gc-most-requested h2 {
+	font-size: 1.1em;
+	margin-top: 15px;
+}
+
+.provisional.gc-most-requested ul {
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
+
+.provisional.gc-most-requested ul li {
+	font-family: Lato,sans-serif;
+	font-size: 87%;
+	font-weight: 700;
+	line-height: 1.5em;
+}
+
+.provisional.gc-followus .facebook::before,.provisional.gc-followus .instagram::before,.provisional.gc-followus .linkedin::before,.provisional.gc-followus .twitter::before,.provisional.gc-followus .youtube::before {
+	background-repeat: no-repeat;
+	background-size: cover;
+	content: "";
+	height: 38px;
+	margin-right: 10px;
+	min-width: 38px
+}
+
+.provisional.gc-followus h2 {
+	font-size: 1.1em
+}
+
+.provisional.gc-followus ul {
+	display: block;
+	font-size: 87%;
+	font-weight: 700;
+	list-style: none;
+	-webkit-margin-before: 1em;
+	margin-block-start:1em;-webkit-padding-start: calc(1em + 6px);
+	padding-inline-start:calc(1em + 6px)}
+
+.provisional.gc-followus ul li {
+	margin-bottom: 21px
+}
+
+.provisional.gc-followus ul li:last-child {
+	margin-bottom: 15px
+}
+
+.provisional.gc-followus ul li a {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	line-height: 1.54;
+	max-width: -webkit-max-content;
+	max-width: -moz-max-content;
+	max-width: max-content;
+	text-decoration: none
+}
+
+.provisional.gc-followus ul li a::before {
+	margin-right: 10px;
+	margin-top: -6px
+}
+
+.provisional.gc-followus ul li a:active,.provisional.gc-followus ul li a:focus,.provisional.gc-followus ul li a:hover {
+	text-decoration: underline
+}
+
+.provisional.gc-followus ul.list-inline {
+	-webkit-padding-start: 0;
+	padding-inline-start:0}
+
+.provisional.gc-followus ul.list-inline li {
+	display: inline-block;
+	padding-right: 0
+}
+
+.provisional.gc-followus ul.list-inline li a {
+	height: 38px;
+	overflow: hidden;
+	width: 38px
+}
+
+.provisional.gc-followus ul.list-inline li a::before {
+	margin-top: 0
+}
+
+.provisional.gc-followus ul.list-inline li a:active,.provisional.gc-followus ul.list-inline li a:focus,.provisional.gc-followus ul.list-inline li a:hover {
+	outline: solid 2px #0535d2
+}
+
+.provisional.gc-followus .facebook::before {
+	background-image: url(../assets/gc-follow-us/facebook.svg)
+}
+
+.provisional.gc-followus .twitter::before {
+	background-image: url(../assets/gc-follow-us/twitter.svg)
+}
+
+.provisional.gc-followus .youtube::before {
+	background-image: url(../assets/gc-follow-us/youtube.svg)
+}
+
+.provisional.gc-followus .instagram::before {
+	background-image: url(../assets/gc-follow-us/instagram.svg)
+}
+
+.provisional.gc-followus .linkedin::before {
+	background-image: url(../assets/gc-follow-us/linkedin.svg)
+}
+
+.provisional.gc-contributors {
+	margin-top: 38px
+}
+
+.provisional.gc-contributors h2,.provisional.gc-contributors ul {
+	display: inline;
+	font-size: 87%;
+	margin-top: 0
+}
+
+.provisional.gc-contributors ul {
+	-webkit-padding-start: 0;
+	padding-inline-start:0}
+
+.provisional.gc-contributors ul li {
+	display: inline-block;
+	font-weight: 700;
+	margin-right: .7em
+}
+
+@media screen and (max-width: 991px)
+.provisional.gc-contributors ul {
+	-webkit-padding-start: 20px;
+	padding-inline-start: 20px;
+}
+
+@media screen and (max-width: 991px)
+.provisional.gc-contributors h2, .provisional.gc-contributors ul {
+	display: block;
+}
+
+@media screen and (max-width: 991px)
+.provisional.gc-contributors ul li {
+	display: list-item;
+	margin-right: 0;
+}
