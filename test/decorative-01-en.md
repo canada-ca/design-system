@@ -5,6 +5,7 @@ css:
 - https://design.canada.ca/css-coded-layout/social-media.css
 - https://design.canada.ca/css-coded-layout/mr-bullets.css
 - https://design.canada.ca/css-coded-layout/guidance-draft.css
+- css/decorate.css
 layout: without-h1
 date: 2023-11-15
 dateModified:  2023-11-15
