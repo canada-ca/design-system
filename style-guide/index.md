@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/guide-redaction"
 date: 2017-10-05
-dateModified:  2023-10-31
+dateModified:  2023-11-10
 description: "The Canada.ca Content Style Guide provides the rules to create web content that can be easily found, understood and used."
 title: "Canada.ca Content Style Guide"
 ---
@@ -1754,13 +1754,14 @@ title: "Canada.ca Content Style Guide"
     <p>Functional images add value to the content because they provide more information than can be provided through text alone. Examples of functional images:</p>
     <ul>
       <li>infographics</li>
-      <li>charts </li>
-      <li>graphs </li>
+      <li>illustration</li>
+      <li>diagram</li>
+      <li>image map</li>
     </ul>
     <p><a href="#wp6-2">Include the appropriate alternative text</a> to describe the image for people who are unable to view it.</p>
     <h5>Example of functional images</h5>
     <figure class="mrgn-bttm-lg">
-      <figcaption class="text-center"> <strong>Figure 4</strong> </figcaption>
+      <figcaption class="text-center"><strong>Figure 4</strong></figcaption>
       <img alt="Map of Canada: current conditions" class="img-responsive center-block" src="/style-guide/images/fig-04-eng.jpg">
       <details>
         <summary>Figure 4 - Text version </summary>
@@ -1878,70 +1879,70 @@ title: "Canada.ca Content Style Guide"
       </details>
     </figure>
     <figure class="mrgn-bttm-lg">
-      <figcaption class="text-center"> <strong>Figure 5</strong> </figcaption>
-      <img alt="Bar chart for number of pages by main purpose and audience" class="img-responsive center-block" src="/style-guide/images/fig-05-eng.png">
+      <figcaption class="text-center"><strong>Figure 5</strong></figcaption>
+      <img alt="This chart helps you choose the accessibility project that is right for you: description follows" class="img-responsive center-block" src="/style-guide/images/flat-rate-flow-chart.png">
       <details>
-        <summary> Figure 5 - Text version </summary>
-        <table class="table table-bordered table-condensed">
-          <thead>
-            <tr class="active">
-              <td></td>
-              <th scope="col"><strong>Education</strong></th>
-              <th scope="col"><strong>Task</strong></th>
-              <th scope="col"><strong>Navigation</strong></th>
-              <th scope="col"><strong>Support</strong></th>
-              <th scope="col"><strong>Information</strong></th>
-              <th scope="col"><strong>Corporate</strong></th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <th scope="row">General</th>
-              <td class="text-right">2</td>
-              <td class="text-right">0</td>
-              <td class="text-right">20</td>
-              <td class="text-right">4</td>
-              <td class="text-right">100</td>
-              <td class="text-right">50</td>
-            </tr>
-            <tr>
-              <th scope="row">Students</th>
-              <td class="text-right">2</td>
-              <td class="text-right">2</td>
-              <td class="text-right">1</td>
-              <td class="text-right">5</td>
-              <td class="text-right">50</td>
-              <td class="text-right">0</td>
-            </tr>
-            <tr>
-              <th scope="row">Business</th>
-              <td class="text-right">60</td>
-              <td class="text-right">10</td>
-              <td class="text-right">20</td>
-              <td class="text-right">90</td>
-              <td class="text-right">50</td>
-              <td class="text-right">8</td>
-            </tr>
-            <tr>
-              <th scope="row">Professional</th>
-              <td class="text-right">46</td>
-              <td class="text-right">26</td>
-              <td class="text-right">5</td>
-              <td class="text-right">101</td>
-              <td class="text-right">200</td>
-              <td class="text-right">142</td>
-            </tr>
-            <tr>
-              <th scope="row">Lawyer</th>
-              <td class="text-right">0</td>
-              <td class="text-right">2</td>
-              <td class="text-right">4</td>
-              <td class="text-right">0</td>
-              <td class="text-right">300</td>
-              <td class="text-right">300</td>
-            </tr>
-          </tbody>
-        </table>
+        <summary>Figure 5 - Text version</summary>
+        <p class="mrgn-tp-lg">The chart asks you yes or no questions. If you answer "no", it gives you recommendations of other accessibility projects.</p>
+        <section>
+          <p><strong>Question 1:</strong> Is the entrance to your building barrier-free?</p>
+          <ul>
+            <li>If your  answer is “Yes”, go to question 2</li>
+            <li>If your  answer is “No”:
+              <ul>
+                <li>ramps, accessible doors, reserved parking, and  leveling the ground can improve the accessibility of your building</li>
+              </ul>
+            </li>
+          </ul>
+        </section>
+        <section>
+          <p><strong>Question 2:</strong> Are the hallways wide enough for persons with assistive  devices, such as electric wheelchairs, to get through?</p>
+          <ul>
+            <li>If your  answer is “Yes”, go to question 3</li>
+            <li>If your  answer is “No”:
+              <ul>
+                <li>making halls and doorways wider, installing  automatic door operators, elevators or lifts can all help reduce accessibility  barriers in your building</li>
+              </ul>
+            </li>
+          </ul>
+        </section>
+        <section>
+          <p><strong>Question 3:</strong> Are persons with disabilities able to access all necessary  floors, levels and sections of your building?</p>
+          <ul>
+            <li>If  your answer is “Yes”, go to question 4</li>
+            <li>If  your answer is “No”:
+              <ul>
+                <li>making halls and doorways wider,&nbsp; installing automatic door operators,  elevators or lifts can all help reduce accessibility barriers in your building</li>
+              </ul>
+            </li>
+          </ul>
+        </section>
+        <section>
+          <p><strong>Question 4:</strong> Can persons with reduced mobility use the washroom in your  building?</p>
+          <ul>
+            <li>If your  answer is “Yes”, go to question 5</li>
+            <li>If  your answer is “No”:
+              <ul>
+                <li>accessible washrooms or barrier-free stalls  should be available in all facilities.</li>
+              </ul>
+            </li>
+          </ul>
+        </section>
+        <section>
+          <p><strong>Question 5:</strong> Are there automatic door openers to the washrooms? Is the  washroom entrance wide enough to accommodate assistive devices?</p>
+          <ul>
+            <li>If your  answer is “Yes”:
+              <ul>
+                <li>congratulations! Here are some examples of  other accessibility projects that EAF funds: safety and security items, such as  visual fire alarms; multi-sensory rooms; hearing loops; and more!</li>
+              </ul>
+            </li>
+            <li>If your  answer is “No”:
+              <ul>
+                <li>making halls and doorways wider, installing  automatic door operators, elevators or lifts can all help reduce accessibility  barriers in your building</li>
+              </ul>
+            </li>
+          </ul>
+        </section>
       </details>
     </figure>
   </section>
