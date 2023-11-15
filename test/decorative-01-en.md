@@ -1,5 +1,10 @@
 ---
 altLangPage: "https://conception.canada.ca/guide-redaction"
+css:
+- https://design.canada.ca/css-coded-layout/theme-topic.css
+- https://design.canada.ca/css-coded-layout/social-media.css
+- https://design.canada.ca/css-coded-layout/mr-bullets.css
+- https://design.canada.ca/css-coded-layout/guidance-draft.css
 date: 2023-11-15
 dateModified:  2023-11-15
 description: "The Canada.ca Content Style Guide provides the rules to create web content that can be easily found, understood and used."
