@@ -18,7 +18,7 @@ title: "Canada.ca Content Style Guide"
         <h1 property="name" id="wb-cont">[Theme - Topic title]</h1>
         <p class="pagetag">1-2 sentences that describe the topics and top tasks that can be accessed on this page.</p>
       </div>
-      <div class="col-md-6 pstn-rght-md pstn-bttm-md hidden-sm hidden-xs guidance-js-hide"><img alt="#" src="images/beach.png" /></div>
+      <div class="col-md-6 mrgn-tp-sm hidden-sm hidden-xs provisional gc-topic-bg"><div data-bgimg="images/beach.png"></div>
     </div>
   </div>
 </div>
