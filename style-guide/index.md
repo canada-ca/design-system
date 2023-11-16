@@ -1950,18 +1950,19 @@ title: "Canada.ca Content Style Guide"
     <h4>Decorative images</h4>
     <p>Use decorative images only to provide visual context for the following templates:</p>
     <ul>
-      <li>a theme or topic page </li>
+      <li>a theme or topic page</li>
       <li>the home page</li>
       <li>campaign pages</li>
       <li>promotional features on a topic page or home page (Government of Canada activities and initiatives)</li>
     </ul>
     <p>Don't place meaningful text, such as campaign or program titles, in decorative images.</p>
-    <p><a href="#wp6-2">Include the appropriate alternative text</a> to describe the image for people who are unable to view it.</p>
     <p>Get details about the templates above in the <cite><a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-eng.asp">Canada.ca Content and Information Architecture Specification</a></cite>.</p>
     <h5>Example of a decorative image</h5>
-    <p><img alt="A Royal Canadian Mounted Police officer on the Canada.ca web page related to jobs and the workplace." class="img-responsive center-block" src="/style-guide/images/fig-06-eng.jpg"></p>
-    <p><strong>Description of the image</strong></p>
-    <p>A Royal Canadian Mounted Police officer on the Canada.ca web page related to jobs and the workplace.</p>
+    <p><img alt="Decorative image in context to create visual interest" class="img-responsive center-block" src="/style-guide/images/food-03.png"></p>
+    <h5>Don’t describe decorative images</h5>
+    <p>Decorative images don’t require a description. Their only purpose is to add visual appeal to content, not to add contextual information. The decorative image in our example just helps to create visual interest. Using a description for a decorative image gives users unnecessary information that can distract from the content on the page.</p>
+    <h5>Alt text for decorative images</h5>
+    <p>Use the null indicator as the alternative text (alt="") for decorative images. This tells screen readers to ignore the image.</p>
   </section>
   <section id="wp6-1-3">
     <h4>Image sizing and placement</h4>
