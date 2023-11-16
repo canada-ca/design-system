@@ -19,7 +19,7 @@ title: "Canada.ca Content Style Guide"
         <h1 property="name" id="wb-cont">La nourriture saine</h1>
         <p class="pagetag">Fusce nec lectus eget justo iaculis aliquet id quis erat. Donec ac feugiat ipsum. Aenean porttitor ligula ex. Maecenas a finibus nunc, eget porttitor quam.</p>
       </div>
-      <div class="col-md-6 mrgn-tp-sm hidden-sm hidden-xs provisional gc-topic-bg"><div data-bgimg="images/cart-01.png"></div>
+      <div class="col-md-6 mrgn-tp-sm hidden-sm hidden-xs provisional gc-topic-bg"><div data-bgimg="images/cart-02.png"></div>
     </div>
   </div>
 </div>
