@@ -1958,7 +1958,7 @@ title: "Canada.ca Content Style Guide"
     <p>Don't place meaningful text, such as campaign or program titles, in decorative images.</p>
     <p>Get details about the templates above in the <cite><a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-eng.asp">Canada.ca Content and Information Architecture Specification</a></cite>.</p>
     <h5>Example of a decorative image</h5>
-    <p><img alt="Decorative image in context to create visual interest" class="img-responsive" src="/style-guide/images/shopping-cart-01.png"></p>
+    <p><img alt="Decorative image in context to create visual interest" class="img-responsive" src="/style-guide/images/shopping-cart-02.png"></p>
     <h5>Don’t describe decorative images</h5>
     <p>Decorative images don’t require a description. Their only purpose is to add visual appeal to content, not to add contextual information. The decorative image in our example just helps to create visual interest. Using a description for a decorative image gives users unnecessary information that can distract from the content on the page.</p>
     <h5>Alt text for decorative images</h5>
