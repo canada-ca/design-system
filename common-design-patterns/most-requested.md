@@ -7,7 +7,7 @@ title: Most requested
 ---
 <p><strong>Last updated</strong>: {{ page.dateModified }}</p>
 <label class="label label-info">Optional</label>
-<p>The most requested pattern features top tasks for landing pages that offer many choices. Top tasks are the main things that users are trying to do in a given context</p>
+<p>The most requested pattern features top tasks for landing pages that offer many choices. Top tasks are the main things that users are trying to do in a given context.</p>
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/most-requested-en.png" class="img-responsive" alt="" /></div>
 <section>
     <h2>On this page</h2>
@@ -74,10 +74,10 @@ title: Most requested
     <h3>Visual examples</h3>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
-            <figcaption><b>Most requested - Large screen</b></figcaption>
+            <figcaption><b>Most requested - large screen</b></figcaption>
             <img src="../images/most-requested-en.png" class="img-responsive" alt="Most requested pattern for large screens. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: most requested - large screen</summary>
                 <p>Most requested links appear in a horizontal band with the heading “Most requested”. Links are organized in a bulleted list.</p>
             </details>
         </figure>
@@ -87,7 +87,7 @@ title: Most requested
             <figcaption><b>Most requested - small screen</b></figcaption>
             <img src="../images/most-requested-sm-en.png" class="img-responsive" alt="Most requested pattern for small screens. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: most requested - small screen</summary>
                 <p>Most requested links appear in a bulleted list underneath the heading “Most requested”.</p>
             </details>
         </figure>
@@ -120,7 +120,7 @@ title: Most requested
           <summary><strong>Drupal WxT</strong></summary>
           <p class="mrgn-tp-lg">For Drupal WxT:</p>
           <ul>
-            <li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</a></li>
+            <li><a href="https://drupalwxt.github.io/">Drupal WxT documentation</a></li>
           </ul>
         </details>
       </div>
@@ -129,14 +129,14 @@ title: Most requested
 </section>
 <section>
     <h2 id="research">Research and rationale</h2>
-    <h3>Research fidings</h3>
+    <h3>Research findings</h3>
     <p>The banded approach to the most requested pattern was successfully tested on the Canada.ca home page in 2018.</p>
     <p>As part of the Contact the Canada Revenue Agency (CRA) project in 2019, the banded approach was successfully tested on a prototype of the CRA institutional landing page.</p>
     <p>The usefulness of most requested links for navigation pages was reconfirmed as part of the Wayfinding project in 2022.</p>
     <h3>Policy rationale</h3>
     <p>The most requested pattern is required in the following mandatory templates:</p>
     <ul>
-        <li><a href="">Institutional landing page</a></li>
+        <li><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional landing page</a></li>
         <li><a href="https://design.canada.ca/mandatory-templates/theme-topic.html">Theme and topic page template</a></li>
     </ul>
 </section>
