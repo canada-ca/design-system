@@ -77,17 +77,17 @@ title: Contact us band
             <figcaption><b>Standard contact us band - large screen</b></figcaption>
             <img src="../images/contact-band-en.png" class="img-responsive" alt="Contact us band for large screens. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: standard contact us band - large screen</summary>
                 <p>A horizontal grey band with a Contact us heading followed by three links in a single row. The first link is Contact [Institution], the following links are placeholders for top contact tasks.</p>
             </details>
         </figure>
     </div>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
-            <figcaption><b>Contact us band - small screen</b></figcaption>
+            <figcaption><b>Standard contact us band - small screen</b></figcaption>
             <img src="../images/contact-band-sm-en.png" class="img-responsive" alt="Contact us band for small screens. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: standard contact us band - small screen</summary>
                 <p>A single column with light grey shading in the background. A Contact us heading is followed by three links. The first link is Contact [Institution], the following links are placeholders for top contact tasks.</p>
             </details>
         </figure>
@@ -97,7 +97,7 @@ title: Contact us band
             <figcaption><b>Multiple contact us bands - large screen</b></figcaption>
             <img src="../images/contact-band-multi-en.png" class="img-responsive" alt="Multiple contact us bands for large screens. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: multiple contact us bands - large screen</summary>
                 <p>A horizontal white band with a Contacts for [subject] heading followed by six links. The links are presented in two rows with three links in each row.</p>
                 <p>Following the white band is a horizontal grey band with a Contacts for [subject] heading followed by six links. The links are presented in two rows with three links in each row.</p>
             </details>
@@ -108,7 +108,7 @@ title: Contact us band
             <figcaption><b>Multiple contact us bands - small screen</b></figcaption>
             <img src="../images/contact-band-multi-sm-en.png" class="img-responsive" alt="Multiple contact us bands for small screens. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: multiple contact us bands - small screen </summary>
                 <p>A single column with white shading contains a Contacts for [subject] heading followed by six links.</p>
                 <p>Following that column is a single column with grey shading contains a Contacts for [subject] heading followed by six links.</p>
             </details>
@@ -147,7 +147,7 @@ title: Contact us band
                         <summary><strong>Drupal WxT</strong></summary>
                         <p class="mrgn-tp-lg">For Drupal WxT:</p>
                         <ul>
-                            <li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</a></li>
+                            <li><a href="https://drupalwxt.github.io/">Drupal WxT documentation</a></li>
                         </ul>
                     </details>
                 </div>
@@ -166,7 +166,7 @@ title: Contact us band
     <h3>Policy rationale</h3>
     <p>The Contact us band is required in the following mandatory templates:</p>
     <ul>
-        <li><a href="">Institutional landing page</a></li>
+        <li><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional landing page</a></li>
     </ul>
 </section>
 <section>
