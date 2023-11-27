@@ -6,7 +6,7 @@ description: Guidance about using the context specific features pattern on Canad
 title: Context-specific features
 ---
 <p><strong>Last updated</strong>: {{ page.dateModified }}</p>
-<p>The Context specific features pattern includes an image along with a link and a description for promoting government activities, initiatives, programs and services.</p>
+<p>The context specific features pattern includes an image along with a link and a description for promoting government activities, initiatives, programs and services.</p>
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/contextual-features-en.png" class="img-responsive" alt="" /></div>
 <section>
     <h2>On this page</h2>
@@ -121,7 +121,7 @@ title: Context-specific features
             <figcaption><b>Context-specific features - large screen </b></figcaption>
             <img src="../images/contextual-features-en.png" class="img-responsive" alt="Context-specific features for large screen. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: context-specific features - large screen</summary>
                 <p>
                     A heading titled “Features” is followed by two feature placeholders in a horizontal row. Each has an image placeholder surrounded by a light grey background. Within the image placeholder are the prescribed image
                     dimensions: 360px x 203px. Below each image placeholder on the grey background is a placeholder hyperlink that reads [Feature hyperlink text]. Underneath is the following placeholder text: Brief description of the
@@ -135,7 +135,7 @@ title: Context-specific features
             <figcaption><b>Context-specific features - small screen </b></figcaption>
             <img src="../images/contextual-features-sm-en.png" class="img-responsive" alt="Context-specific features for small screen. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: context-specific features - small screen</summary>
                 <p>
                     A heading titled “Features” is followed by two feature placeholders in a vertical row. Each has an image placeholder surrounded by a light grey background. Within the image placeholder are the prescribed image
                     dimensions: 360px x 203px. Below each image placeholder on the grey background is a placeholder hyperlink that reads [Feature hyperlink text]. Underneath is the following placeholder text: Brief description of the
@@ -147,7 +147,7 @@ title: Context-specific features
 </section>
 <section>
     <h2 id="implement">How to implement</h2>
-    <p>Find working examples and code for implementing the latest news pattern.</p>
+    <p>Find working examples and code for implementing the context-specific features pattern.</p>
     <h3>GCweb (WET) theme implementation reference</h3>
     <ul>
         <li><a href="https://wet-boew.github.io/GCWeb/components/gc-features/gc-features-doc-en.html">Context-specific features (wet-boew)</a></li>
@@ -176,7 +176,7 @@ title: Context-specific features
                         <summary><strong>Drupal WxT</strong></summary>
                         <p class="mrgn-tp-lg">For Drupal WxT:</p>
                         <ul>
-                            <li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</a></li>
+                            <li><a href="https://drupalwxt.github.io/">Drupal WxT documentation</a></li>
                         </ul>
                     </details>
                 </div>
@@ -186,6 +186,7 @@ title: Context-specific features
 </section>
 <section>
     <h2 id="research">Research and rationale</h2>
+    <p>Consult research findings and policy rationale.</p>
     <p>
         Less is more. Research on improving promotions on Canada.ca shows that features are the most effective when they’re relevant to the content on the page. A single feature tile works best, but keep the number to a minimum if you plan
         to use more than one.
@@ -193,8 +194,8 @@ title: Context-specific features
     <h3>Policy rationale</h3>
     <p>This is an optional pattern for the following mandatory templates:</p>
     <ul>
-        <li><a href="">Institutional landing page</a></li>
-        <li><a href="">Theme and topic page</a></li>
+        <li><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional landing page</a></li>
+        <li><a href="https://design.canada.ca/mandatory-templates/theme-topic.html">Theme and topic page</a></li>
         <li><a href="https://design.canada.ca/mandatory-templates/ministerial-profile-pages">Ministerial pages</a></li>
     </ul>
 </section>
