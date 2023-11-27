@@ -61,10 +61,10 @@ title: Latest news
     <h3>Visual examples</h3>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
-            <figcaption><b>Latest news pattern</b></figcaption>
+            <figcaption><b>Latest news</b></figcaption>
             <img src="../images/latest-news-en.png" class="img-responsive" alt="Latest news pattern. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: latest news</summary>
                 <p>
                     A heading, News, is followed by three links. Each link title is [News title]. Under each link is a placeholder for the date and time, presented as YYYY-MM-DD HH:MM. Below the list of links and dates there is a line that
                     says More: [Institution] news.
@@ -75,7 +75,7 @@ title: Latest news
 </section>
 <section>
     <h2 id="implement">How to implement</h2>
-    <p>Find working examples and code for implementing the contact us band pattern.</p>
+    <p>Find working examples and code for implementing the latest news pattern.</p>
     <h3>GCweb (WET) theme implementation reference</h3>
     <p>The implementation reference includes how to configure elements of the design system.</p>
     <ul>
@@ -106,7 +106,7 @@ title: Latest news
                         <summary><strong>Drupal WxT</strong></summary>
                         <p class="mrgn-tp-lg">For Drupal WxT:</p>
                         <ul>
-                            <li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</a></li>
+                            <li><a href="https://drupalwxt.github.io/">Drupal WxT documentation</a></li>
                         </ul>
                     </details>
                 </div>
@@ -118,8 +118,8 @@ title: Latest news
     <h2 id="research">Research and rationale</h2>
     <p>The latest news pattern is an optional pattern for the following mandatory templates:</p>
     <ul>
-        <li><a href="">Institutional landing page</a></li>
-        <li><a href="">Ministerial pages</a></li>
+        <li><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional landing page</a></li>
+        <li><a href="https://design.canada.ca/mandatory-templates/ministerial-profile-pages.html">Ministerial pages</a></li>
     </ul>
 </section>
 <section>
