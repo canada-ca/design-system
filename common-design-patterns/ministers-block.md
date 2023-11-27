@@ -106,10 +106,10 @@ title: Minister or institutional head pattern
     <h3>Visual examples</h3>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
-            <figcaption><b>Minister or institutional head pattern - large screen</b></figcaption>
+            <figcaption><b>Minister or institutional head - large screen</b></figcaption>
             <img src="../images/ministers-block-en.png" class="img-responsive" alt="Minister or institutional head pattern for large screens. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: minister or institutional head pattern - large screen</summary>
                 <p>The Minister or institutional head pattern appears in 2 columns with the heading “Minister(s)”.</p>
                 <p>The first column presents a placeholder for an institutional head’s image on the left. The dimensions for the image are 200px x 250px. Information on the right includes:</p>
                 <ul>
@@ -129,10 +129,10 @@ title: Minister or institutional head pattern
     </div>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
-            <figcaption><b>Minister or institutional head pattern - small screen</b></figcaption>
+            <figcaption><b>Minister or institutional head - small screen</b></figcaption>
             <img src="../images/ministers-block-en.png" class="img-responsive" alt="Minister or institutional head pattern for small screens. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: minister or institutional head pattern - small screen</summary>
                 <p>The Minister or institutional head pattern appears in 1 column and 2 items with the heading “Minister(s)”.</p>
                 <p>The first column presents a placeholder for an institutional head’s image on the left. The dimensions for the image are 200px x 250px. Information on the right includes:</p>
                 <ul>
@@ -153,7 +153,7 @@ title: Minister or institutional head pattern
 </section>
 <section>
     <h2 id="implement">How to implement</h2>
-    <p>Find working examples and code for implementing the contact us band pattern.</p>
+    <p>Find working examples and code for implementing the Minister or institutional head pattern.</p>
     <h3>GCweb (WET) theme implementation reference</h3>
     <p>The implementation reference includes how to configure elements of the design system.</p>
     <ul>
@@ -184,7 +184,7 @@ title: Minister or institutional head pattern
                         <summary><strong>Drupal WxT</strong></summary>
                         <p class="mrgn-tp-lg">For Drupal WxT:</p>
                         <ul>
-                            <li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</a></li>
+                            <li><a href="https://drupalwxt.github.io">Drupal WxT documentation</a></li>
                         </ul>
                     </details>
                 </div>
@@ -196,9 +196,9 @@ title: Minister or institutional head pattern
     <h2 id="research">Research and rationale</h2>
     <p>Consult policy rationale.</p>
     <h3>Policy rationale</h3>
-    <p>The Minister or institutional head pattern is required on the following mandatory templates:</p>
+    <p>The Minister or institutional head pattern is required on the following mandatory template:</p>
     <ul>
-        <li><a href="">Institutional landing page</a></li>
+        <li><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional landing page</a></li>
     </ul>
 </section>
 <section>
