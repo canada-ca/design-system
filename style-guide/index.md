@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/guide-redaction"
 date: 2017-10-05
-dateModified:  2023-11-27
+dateModified:  2023-12-01
 description: "The Canada.ca Content Style Guide provides the rules to create web content that can be easily found, understood and used."
 title: "Canada.ca Content Style Guide"
 ---
@@ -1956,7 +1956,7 @@ title: "Canada.ca Content Style Guide"
       <li>promotional features on a topic page or home page (Government of Canada activities and initiatives)</li>
     </ul>
     <p>Don't place meaningful text, such as campaign or program titles, in decorative images.</p>
-    <p>Get details about the templates above in the <cite><a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-eng.asp">Canada.ca Content and Information Architecture Specification</a></cite>.</p>
+    <p>Get details about the templates above in the <a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-eng.asp">Canada.ca Content and Information Architecture Specification</a>.</p>
     <h5>Example of a decorative image</h5>
     <p><img alt="Decorative image in context to create visual interest" class="img-responsive" src="/style-guide/images/shopping-cart-02.png"></p>
     <h5>Don’t describe decorative images</h5>
@@ -1968,7 +1968,7 @@ title: "Canada.ca Content Style Guide"
     <h4>Image sizing and placement</h4>
     <p>Learn where to place images and videos on Canada.ca and what size they should be:</p>
     <ul>
-      <li>use the templates in the <cite><a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-eng.asp">Canada.ca Content and Information Architecture Specification</a></cite></li>
+      <li>use the templates in the <a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-eng.asp">Canada.ca Content and Information Architecture Specification</a></li>
       <li>see the <a href="https://wet-boew.github.io/themes-dist/GCWeb/index-en.html">Canada.ca page types on GitHub</a></li>
     </ul>
   </section>
