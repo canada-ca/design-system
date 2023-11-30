@@ -36,9 +36,19 @@ title: "Canada.ca Content Style Guide"
 </section>
 <section id="toc1">
   <h2>Summary of changes</h2>
-  <p>Here are the changes we made to this version of the guide:</p>
+  <p>We’ve made the following changes to this version of the guide:</p>
   <ul>
-    <li>we’ve added "Writing for inclusivity" to the <a href="#toc5">Writing principles for web content</a> section</li>
+    <li>improved the Figure 5 functional image example in the <a href="#wp6-1-1">Functional images</a> section</li>
+    <li>improved the <a href="#wp6-1-2">Decorative image</a> section with:
+      <ul>
+        <li>a better example of a decorative image</li>
+        <li>more detailed guidance on how to use decorative images</li>
+      </ul>
+    </li>
+    <li>improved the simple table examples in <a href="#wp5-3">Section 5.3 Use tables to organize data</a></li>
+    <li>updated the text under <a href="#toc3">Use of the style guide</a> to highlight that the Directive on the Management of Communications is the official source for who must use this guide</li>
+    <li>updated the text under the heading <a href="#wp1-2-1b">Writing for inclusivity</a> to reflect the new inclusive writing guidelines and resources</li>
+    <li>added an example for when to capitalize public service under <a href="#wp4-1">4.1 Capitalization and punctuation</a></li>
   </ul>
   <p>Refer to the listed section for details.</p>
 </section>
