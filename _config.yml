@@ -272,7 +272,7 @@
             "title": "Canada.ca design system"
           },
           {
-            "link": "../continuous-improvement.html",
+            "link": "https://design.canada.ca/continuous-improvement.html",
             "title": "Continuous improvement"
           }
         ]
@@ -472,13 +472,14 @@
       },
       "values": {
         "breadcrumbs": [{
-          "title": "About Canada.ca",
-          "link": "https://design.canada.ca/about/"
-        },
-        {
-          "link": "https://design.canada.ca/",
-          "title": "Canada.ca design system"
-        }]
+            "title": "About Canada.ca",
+            "link": "https://design.canada.ca/about/"
+          },
+          {
+            "link": "https://design.canada.ca/",
+            "title": "Canada.ca design system"
+          }
+        ]
       }
     },
     {
