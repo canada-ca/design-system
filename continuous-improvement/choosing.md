@@ -97,7 +97,7 @@ title: Choosing what to improve
 
 <ul>
  <li>
-  <a href="./monitoring/GCTSS.html">
+  <a href="https://design.canada.ca/survey/index.html">
    GC Task Success Survey
   </a>
  </li>
@@ -164,7 +164,7 @@ title: Choosing what to improve
 
 <ul>
  <li>
-  <a href="./monitoring/GCTSS.html">
+  <a href="https://design.canada.ca/survey/index.html">
    GC Task Success Survey
   </a>
  </li>
@@ -249,8 +249,3 @@ title: Choosing what to improve
   </li>
  </ul>
 </nav>
-
-
-
-
-
