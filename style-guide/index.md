@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/guide-redaction"
 date: 2017-10-05
-dateModified:  2023-12-01
+dateModified:  2023-12-04
 description: "The Canada.ca Content Style Guide provides the rules to create web content that can be easily found, understood and used."
 title: "Canada.ca Content Style Guide"
 ---
@@ -39,12 +39,7 @@ title: "Canada.ca Content Style Guide"
   <p>We’ve made the following changes to this version of the guide:</p>
   <ul>
     <li>improved the Figure 5 functional image example in the <a href="#wp6-1-1">Functional images</a> section</li>
-    <li>improved the <a href="#wp6-1-2">Decorative image</a> section with:
-      <ul>
-        <li>a better example of a decorative image</li>
-        <li>more detailed guidance on how to use decorative images</li>
-      </ul>
-    </li>
+    <li>updated the example in the <a href="#wp6-1-2">Decorative images</a> section and added information about using null alt text</li>
     <li>improved the simple table examples in <a href="#wp5-3">Section 5.3 Use tables to organize data</a></li>
     <li>updated the text under <a href="#toc3">Use of the style guide</a> to highlight that the Directive on the Management of Communications is the official source for who must use this guide</li>
     <li>updated the text under the heading <a href="#wp1-2-1b">Writing for inclusivity</a> to reflect the new inclusive writing guidelines and resources</li>
