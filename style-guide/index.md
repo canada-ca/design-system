@@ -239,7 +239,7 @@ title: "Canada.ca Content Style Guide"
       <li>place supporting and relevant details toward the end of the text </li>
     </ul>
     <figure class="mrgn-bttm-lg">
-      <figcaption><strong>Figure 1 (Inverted pyramid for ordering content on a web page)</strong></figcaption>
+      <figcaption><h4>Figure 1 (Inverted pyramid for ordering content on a web page)</h4></figcaption>
       <img alt="Upside-down pyramid showing how to start a web page with key information first." class="img-responsive" id="fig1" src="/style-guide/images/pyramid-eng-01.png"></figure>
     <p>The inverted pyramid for ordering content on a web page in Figure 1 is divided into four sections.  The widest part of the pyramid, the most important content for task completion, is at the top.   The relevance of the content for task completion flows downward, toward the peak at the bottom.</p>
     <ol>
