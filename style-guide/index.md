@@ -41,7 +41,7 @@ title: "Canada.ca Content Style Guide"
     <li>improved the Figure 5 functional image example in the <a href="#wp6-1-1">Functional images</a> section</li>
     <li>updated the example in the <a href="#wp6-1-2">Decorative images</a> section and added information about using null alt text</li>
     <li>improved the simple table examples in <a href="#wp5-3">Section 5.3 Use tables to organize data</a></li>
-    <li>updated the text under <a href="#toc3">Use of the style guide</a> to highlight that the Directive on the Management of Communications is the official source for who must use this guide</li>
+    <li>updated the text under <a href="#toc3">Use of the style guide</a> to highlight that the <cite>Directive on the Management of Communications</cite> is the official source for who must use this guide</li>
     <li>updated the text under the heading <a href="#wp1-2-1b">Writing for inclusivity</a> to reflect the new inclusive writing guidelines and resources</li>
     <li>added an example for when to capitalize public service under <a href="#wp4-1">4.1 Capitalization and punctuation</a></li>
   </ul>
@@ -56,7 +56,7 @@ title: "Canada.ca Content Style Guide"
 </section>
 <section id="toc3">
   <h2>Use of the style guide</h2>
-  <p>All departments and other portions of the federal public administration subject to the Directive on the Management of Communications must use the Canada.ca  Style Guide. These organizations must follow this style guide's requirements for all public-facing websites and digital services, regardless of the technology, domain name or publishing platform used. This requirement is referenced in Appendix D: Mandatory Procedures for Social Media and Web Communications in the <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=30682">Directive on the Management of Communications</a>.</p>
+  <p>All departments and other portions of the federal public administration subject to the <cite>Directive on the Management of Communications</cite> must use the Canada.ca  Style Guide. These organizations must follow this style guide's requirements for all public-facing websites and digital services, regardless of the technology, domain name or publishing platform used. This requirement is referenced in Appendix D: Mandatory Procedures for Social Media and Web Communications in the <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=30682"><cite>Directive on the Management of Communications</cite></a>.</p>
   <h3>Out-of-scope situations</h3>
   <p>Institutions that fall outside of the Directive on the Management of Communications do not have to follow this style guide. However, all institutions are encouraged to use it for both their internal and external web products. Following this guide's rules and techniques will make it easier for everyone to find, understand and use the government's digital content.</p>
 </section>
