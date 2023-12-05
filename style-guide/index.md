@@ -232,7 +232,7 @@ title: "Canada.ca Content Style Guide"
   </ul>
   <section id="wp2-1">
     <h3>2.1 Start with the most important information</h3>
-    <p>Start your content with the most important information, and be direct. When people scan web pages, they tend to start in the top left hand corner and scan to the right and down. As they move down the page, they scan less and less to the right.</p>
+    <p>Start your content with the most important information first.  Be direct.  People tend to scan pages from the top left hand corner across to the right.  As people move down the page, they scan less and less to the right.</p>
     <p>Organize your content using an inverted pyramid structure to:</p>
     <ul>
       <li>guide your audience to the information they need to complete their task </li>
@@ -240,40 +240,35 @@ title: "Canada.ca Content Style Guide"
     </ul>
     <figure class="mrgn-bttm-lg">
       <figcaption class="text-center"> <strong>Figure 1</strong> </figcaption>
-      <img alt="Pyramid upside down showing how to start a web page with key information first. Text version below:" class="img-responsive center-block" id="fig1" src="/style-guide/images/fig-01-eng.jpg">
-      <details class="brdr-tp brdr-rght brdr-bttm brdr-lft">
-        <summary class="wb-toggle" data-toggle="'{&quot;print&quot;:&quot;on&quot;}'"> Figure 1 - Text version </summary>
-        <p>Inverted pyramid divided into four sections, from top to bottom. The image shows the order of information on a web page.</p>
+      <img alt="Pyramid upside down showing how to start a web page with key information first. Text version below:" class="img-responsive center-block" id="fig1" src="/style-guide/images/pyramid-eng-01.png"> </figure>
+    <p>The inverted pyramid (Figure 1) for ordering content on a web page is divided into four sections.  The widest part of the pyramid, the most important content for task completion, is at the top.   The relevance of the content for task completion flows downward, toward the peak at the bottom.</p>
+    <ol>
+      <li><strong>Most important</strong>:
         <ul>
-          <li>First:
-            <ul>
-              <li>start with the most important idea, step or information</li>
-            </ul>
-          </li>
-          <li>Second:
-            <ul>
-              <li>add details and tasks in order of importance</li>
-              <li>keep all task related content in the centre of the page</li>
-              <li>use links to direct people to key information and tasks</li>
-            </ul>
-          </li>
-          <li>Third:
-            <ul>
-              <li>include information for audiences who want to learn more or have more knowledge of the topic or service, but only if it makes sense</li>
-            </ul>
-          </li>
-          <li>Fourth:
-            <ul>
-              <li>add links only if they relate to content that supports completion of the task on the web page (for example, laws or publications)</li>
-            </ul>
-          </li>
+          start with the most important idea, step or information
         </ul>
-      </details>
-    </figure>
+      </li>
+      <li><strong>Prioritized tasks</strong>:
+        <ul>
+          <li>add details and tasks in order of importance</li>
+          <li>keep all task related content in the centre of the page</li>
+          <li>use links to direct people to key information and tasks</li>
+        </ul>
+      </li>
+      <li><strong>More information</strong>:
+        <ul>
+          <li>include information for audiences who want to learn more or have more knowledge of the topic or service, but only if it makes sense</li>
+        </ul>
+      </li>
+      <li><strong>Related links</strong>:
+        <ul>
+          <li>add links only if they relate to content that supports completion of the task on the web page (for example, laws or publications)</li>
+        </ul>
+      </li>
+    </ol>
     <section id="wp2-1-1">
       <h4>Get to the point</h4>
-      <p>Omit background information and messages that welcome people to your program or site. These kinds of messages get in people's way when they're trying to accomplish a task.</p>
-      <p>Write direct statements.</p>
+      <p>Write direct statements that relate to completing a task.  Omit background information and welcome messages.  Content peripheral to the task just gets in the way.</p>
       <h5>Example of direct statements</h5>
       <p><strong>Write</strong>: Present your passport to the border officer.<br>
         <strong>Instead of</strong>: According to Canadian legislation, you're required to present your passport to the agent who will welcome you into the country.</p>
