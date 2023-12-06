@@ -241,7 +241,7 @@ title: "Canada.ca Content Style Guide"
     <figure class="mrgn-bttm-lg">
       <figcaption><h4>Figure 1 (Inverted pyramid for ordering content on a web page)</h4></figcaption>
       <img alt="Upside-down pyramid showing how to start a web page with key information first." class="img-responsive" id="fig1" src="/style-guide/images/pyramid-eng-01.png"></figure>
-    <p>The inverted pyramid for ordering content on a web page in Figure 1 is divided into four sections.  The widest part of the pyramid, the most important content for task completion, is at the top.   The relevance of the content for task completion flows downward, toward the peak at the bottom.</p>
+    <p>The inverted pyramid for ordering content on a web page in Figure 1 is divided into four sections.  The most important content for task completion is at the top, the widest part of the pyramid.   The relevance of content for task completion flows down the inverted pyramid toward the peak at the bottom.</p>
     <ol>
       <li><strong>Most important</strong>:
         <ul>
@@ -268,7 +268,7 @@ title: "Canada.ca Content Style Guide"
     </ol>
     <section id="wp2-1-1">
       <h4>Get to the point</h4>
-      <p>Write direct statements that relate to completing a task.  Omit background information and welcome messages.  Content peripheral to the task just gets in the way.</p>
+      <p>Write direct statements that relate to completing a task.  Don’t distract people with superfluous content, such as background information or welcome messages.</p>
       <h5>Example of direct statements</h5>
       <p><strong>Write</strong>: Present your passport to the border officer.<br>
         <strong>Instead of</strong>: According to Canadian legislation, you're required to present your passport to the agent who will welcome you into the country.</p>
