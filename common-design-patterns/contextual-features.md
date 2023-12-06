@@ -6,7 +6,7 @@ description: Guidance about using the context specific features pattern on Canad
 title: Context-specific features
 ---
 <p><strong>Last updated</strong>: {{ page.dateModified }}</p>
-<p>The context specific features pattern includes an image along with a link and a description for promoting government activities, initiatives, programs and services.</p>
+<p>The context-specific features pattern includes an image along with a link and a description for promoting government activities, initiatives, programs and services.</p>
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/contextual-features-en.png" class="img-responsive" alt="" /></div>
 <section>
     <h2>On this page</h2>
@@ -187,6 +187,7 @@ title: Context-specific features
 <section>
     <h2 id="research">Research and rationale</h2>
     <p>Consult research findings and policy rationale.</p>
+    <h3>Research findings</h3>  
     <p>
         Less is more. Research on improving promotions on Canada.ca shows that features are the most effective when they’re relevant to the content on the page. A single feature tile works best, but keep the number to a minimum if you plan
         to use more than one.
