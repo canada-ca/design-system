@@ -245,7 +245,7 @@ title: "Canada.ca Content Style Guide"
     <ol>
       <li><strong>Most important</strong>:
         <ul>
-          start with the most important idea, step or information
+          <li>start with the most important idea, step or information</li>
         </ul>
       </li>
       <li><strong>Prioritized tasks</strong>:
