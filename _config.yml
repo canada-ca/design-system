@@ -503,6 +503,17 @@
     },
     {
       "scope": {
+        "path": "about/project-overview.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+          "title": "About Canada.ca",
+          "link": "https://design.canada.ca/about/"
+        }]
+      }
+    },
+    {
+      "scope": {
         "path": "style-guide/*.md"
       },
       "values": {
