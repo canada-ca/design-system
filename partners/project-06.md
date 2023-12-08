@@ -39,15 +39,16 @@ title: "Canada Child Benefit"
     </div>
   </div>
 </div>
-<h4 style="margin-top: 0px">Task scenarios tested and improved</h4>
+<h2>Task scenarios tested and improved</h2>
 <ul class="custul">
-  <li class="custli">Your team has been working on a knee prosthesis that you would like to bring to market. You're submitting a Class III medical device licence application. Will you need to submit a declaration of conformity as part of your application?</li>
-  <li class="custli">Your United States-based business imports hydraulic stretchers (a Class I medical device) from Europe and sells them online to health care facilities in the U.S. and Canada. Do you need a Medical Device Establishment Licence (MDEL)
-    from Health Canada?</li>
-  <li class="custli">Your company manufactures infrared lamps. Can you determine what class of medical device licence is required?</li>
-  <li class="custli">Starting in 2019, a new process was introduced for Quality Management System certification for medical devices. The advantage for manufacturers is that quality auditing will now be recognized internationally. In how many nations is the certification now recognized?</li>
-  <li class="custli">Your company manufactures sleep apnea equipment. You received your medical device licence September 1, 2019. What do you need to do to renew your medical device licence for 2020?</li>
-  <li class="custli">There was recently a problem with one of the medical devices your company sells in Canada. Under which of the following circumstances is your company required to report the incident to Health Canada?</li>
-  <li class="custli">Your distribution company delivered temperature-sensitive medical devices to hospitals. You later discover that one of the freezers at your facility was above the required temperature for storing the product. Do you need to initiate a recall?</li>
-  <li class="custli">Your competitor produces a light therapy product similar to yours. You have reason to believe that the competitor's product label regarding the amount of light it emits is incorrect. Can you show me the form you would use to report your concerns to Health Canada?</li>
+  <li class="custli">You didn't get your usual child benefit payment in June. Which of the reasons below would cause payments to stop?</li>
+  <li class="custli">Mart's second child was just born this month. How much Canada Child Benefit will Mart now get every month?</li>
+  <li class="custli">Exactly which day in December will your Canada Child Benefit payment be deposited?</li>
+  <li class="custli">Peter's kids are living with his ex. They will start coming to stay with Peter for 2 weekends per month. Should he apply for the Canada Child Benefit?</li>
+  <li class="custli">The kids usually live with Kom but are coming to live with Jad for the summer holidays. What steps should they take so Jad gets the Child Benefit for those months?</li>
+  <li class="custli">If you were separated and sharing custody, could the two of you choose what percentage of the Canada Child Benefit each of you will get?</li>
+  <li class="custli">Petra's July Child Benefit payment arrived and it is much less than she received in June. What is the most likely reason for this change?</li>
+  <li class="custli">Petra didn't work last year while she finished school. What is the one official thing she must do every year in order to keep getting Canada Child Benefit payments for her daughter?</li>
+  <li class="custli">Does it take longer to get your first Canada Child Benefit payment if you apply by mail than if you register/use My Account and apply online?</li>
+  <li class="custli">Is it safe to close your old bank account before your June 20 Child Benefit payment? You changed your direct deposit to a new bank account number on June 5.</li>
 </ul>
