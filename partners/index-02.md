@@ -19,7 +19,7 @@ title: "Working with partners to improve task success on Canada.ca"
 <p>We work collaboratively to refine prototypes until they achieve at least a 20% improvement in task success.  This standard for improvement means people will spend less time looking for the answers they need from the Government of Canada.</p>
 <h2>Projects with our partners</h2>
 <div class="row wb-eqht mrgn-tp-md wb-eqht">
-  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
+  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg hght-inhrt">
     <div class="card">
       <div class="card-container"><a href="project-01.html">
         <h3>Orientation and wayfinding</h3>
@@ -28,7 +28,7 @@ title: "Working with partners to improve task success on Canada.ca"
         </a></div>
     </div>
   </div>
-  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
+  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg hght-inhrt">
     <div class="card">
       <div class="card-container"><a href="project-02.html">
         <h3>Medical devices</h3>
@@ -37,7 +37,7 @@ title: "Working with partners to improve task success on Canada.ca"
         </a></div>
     </div>
   </div>
-  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
+  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg hght-inhrt">
     <div class="card">
       <div class="card-container"><a href="project-03.html">
         <h3>Orientation and wayfinding</h3>
@@ -46,7 +46,7 @@ title: "Working with partners to improve task success on Canada.ca"
         </a></div>
     </div>
   </div>
-  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
+  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg hght-inhrt">
     <div class="card">
       <div class="card-container"><a href="project-04.html">
         <h3>Pay for the public service</h3>
@@ -55,7 +55,7 @@ title: "Working with partners to improve task success on Canada.ca"
         </a></div>
     </div>
   </div>
-  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
+  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg hght-inhrt">
     <div class="card">
       <div class="card-container"><a href="project-05.html">
         <h3>Recalls and safety alerts search</h3>
