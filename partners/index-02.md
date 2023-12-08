@@ -25,7 +25,7 @@ title: Working with partners to improve task success on Canada.ca
 <h2>Projects with our partners</h2>
 <div class="row wb-eqht mrgn-tp-md wb-eqht mrgn-tp-lg">
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="project-01.html" aria-label="Orientation and wayfinding"><img src="images/2022-12-21.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-01.html" aria-label="Orientation and wayfinding"><img src="images/2022-12-21.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Orientation and wayfinding</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: explore navigation and design options to help people find and use the services they need.</p>
@@ -34,7 +34,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="project-02.html" aria-label="Medical devices"><img src="images/medical.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-02.html" aria-label="Medical devices"><img src="images/medical.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Medical devices</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for stakeholders subject to Canada’s medical device regulations find and understand regulatory requirements.</p>
@@ -43,7 +43,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="project-03.html" aria-label="Electronic Procurement Solution"><img src="images/procurement-01.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}partners/project-03.html" aria-label="Electronic Procurement Solution"><img src="images/procurement-01.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Electronic Procurement Solution</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: Make it easier for Canadian businesses to find and understand government business opportunities and guidance.</p>
@@ -52,7 +52,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="project-04.html" aria-label="Pay for the public service"><img src="images/pay.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-04.html" aria-label="Pay for the public service"><img src="images/pay.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Pay for the public service</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: Make it easier for public servants to find and understand their pay information.</p>
@@ -61,7 +61,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="project-05.html" aria-label="Recalls and safety alerts search"><img src="images/recall.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-05.html" aria-label="Recalls and safety alerts search"><img src="images/recall.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Recalls and safety alerts search</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: Help Health Canada prepare for the implementation of a transformed Recalls and Safety Alerts Management System (RSAMS) with a new search interface.</p>
@@ -70,7 +70,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="project-06.html" aria-label="Canada Child Benefit"><img src="images/child-benifit.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-06.html" aria-label="Canada Child Benefit"><img src="images/child-benifit.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Canada Child Benefit</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: Make it easier for Canadians to find and understand information related to the Canada Child Benefit.</p>
