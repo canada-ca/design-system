@@ -9,7 +9,7 @@ h3 {
   text-align: center;
 }
 a {
-  color: inherit;
+  color: #333 !important;
   text-decoration: none !important; /* no underline */
 }
 /* On mouse-over, add a deeper shadow */
