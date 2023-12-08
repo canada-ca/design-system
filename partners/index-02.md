@@ -27,6 +27,8 @@ title: "Working with partners to improve task success on Canada.ca"
         <p><strong>Partners</strong>: Agriculture and Agri-Food Canada, Immigration, Refugees and Citizenship Canada, Veterans Affairs Canada and Statistics Canada</p>
         </a></div>
     </div>
+  </div>
+  <div class="col-xs-12 col-sm-6 col-md-3 mrgn-bttm-lg text-center">
     <div class="card">
       <div class="card-container"><a href="project-02.html">
         <h3>Medical devices</h3>
@@ -34,6 +36,8 @@ title: "Working with partners to improve task success on Canada.ca"
         <p><strong>Partner</strong>: Health Canada</p>
         </a></div>
     </div>
+  </div>
+  <div class="col-xs-12 col-sm-6 col-md-3 mrgn-bttm-lg text-center">
     <div class="card">
       <div class="card-container"><a href="project-03.html">
         <h3>Orientation and wayfinding</h3>
@@ -41,6 +45,8 @@ title: "Working with partners to improve task success on Canada.ca"
         <p><strong>Partners</strong>: Agriculture and Agri-Food Canada, Immigration, Refugees and Citizenship Canada, Veterans Affairs Canada and Statistics Canada</p>
         </a></div>
     </div>
+  </div>
+  <div class="col-xs-12 col-sm-6 col-md-3 mrgn-bttm-lg text-center">
     <div class="card">
       <div class="card-container"><a href="project-04.html">
         <h3>Pay for the public service</h3>
@@ -48,6 +54,8 @@ title: "Working with partners to improve task success on Canada.ca"
         <p><strong>Partner</strong>: Public Services and Procurement Canada</p>
         </a></div>
     </div>
+  </div>
+  <div class="col-xs-12 col-sm-6 col-md-3 mrgn-bttm-lg text-center">
     <div class="card">
       <div class="card-container"><a href="project-05.html">
         <h3>Recalls and safety alerts search</h3>
