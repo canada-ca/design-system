@@ -12,18 +12,6 @@ a {
   color: inherit;
   text-decoration: none !important; /* no underline */
 }
-a:link {
-  text-decoration: none !important;
-}
-a:visited {
-  text-decoration: none !important;
-}
-a:hover {
-  text-decoration: none !important;
-}
-a:active {
-  text-decoration: none !important;
-}
 /* On mouse-over, add a deeper shadow */
 .card:hover {
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
