@@ -29,7 +29,7 @@ title: "Working with partners to improve task success on Canada.ca"
     </div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt">
+    <div class="card hght-inhrt"><img src="images/2022-12-21.png" alt="">
       <div class="card-container"><a href="project-02.html">
         <h3>Medical devices</h3>
         <p><strong>Purpose</strong>: make it easier for stakeholders subject to Canada’s medical device regulations find and understand regulatory requirements.</p>
