@@ -107,9 +107,9 @@ title: Minister or institutional head pattern
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
             <figcaption><b>Minister or institutional head - large screen</b></figcaption>
-            <img src="../images/ministers-block-en.png" class="img-responsive" alt="Minister or institutional head pattern for large screens. Text version below:" />
+            <img src="../images/ministers-block-en.png" class="img-responsive" alt="Minister or institutional head for large screens. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: minister or institutional head pattern - large screen</summary>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: minister or institutional head - large screen</summary>
                 <p>The Minister or institutional head pattern appears in 2 columns with the heading “Minister(s)”.</p>
                 <p>The first column presents a placeholder for an institutional head’s image on the left. The dimensions for the image are 200px x 250px. Information on the right includes:</p>
                 <ul>
@@ -130,9 +130,9 @@ title: Minister or institutional head pattern
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
             <figcaption><b>Minister or institutional head - small screen</b></figcaption>
-            <img src="../images/ministers-block-en.png" class="img-responsive" alt="Minister or institutional head pattern for small screens. Text version below:" />
+            <img src="../images/ministers-block-en.png" class="img-responsive" alt="Minister or institutional head for small screens. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: minister or institutional head pattern - small screen</summary>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: minister or institutional head - small screen</summary>
                 <p>The Minister or institutional head pattern appears in 1 column and 2 items with the heading “Minister(s)”.</p>
                 <p>The first column presents a placeholder for an institutional head’s image on the left. The dimensions for the image are 200px x 250px. Information on the right includes:</p>
                 <ul>
