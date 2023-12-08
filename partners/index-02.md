@@ -67,4 +67,13 @@ title: Working with partners to improve task success on Canada.ca
       </div>
       </a></div>
   </div>
+  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
+    <div class="card hght-inhrt"><a href="project-06.html"><img src="images/child-benifit.png" class="img-responsive" alt="">
+      <div class="card-container">
+        <h3>Canada Child Benefit</h3>
+        <p class="mrgn-tp-lg"><strong>Purpose</strong>: Make it easier for Canadians to find and understand information related to the Canada Child Benefit.</p>
+        <p><strong>Partners</strong>: Canada Revenue Agency</p>
+      </div>
+      </a></div>
+  </div>
 </div>
