@@ -21,7 +21,7 @@ title: Working with partners to improve task success on Canada.ca
 </ul>
 <p>We work collaboratively to refine prototypes until they achieve at least a 20% improvement in task success.  This standard for improvement means people will spend less time looking for the answers they need from the Government of Canada.</p>
 <h2>Projects with our partners</h2>
-<div class="row wb-eqht mrgn-tp-md wb-eqht">
+<div class="row wb-eqht mrgn-tp-md wb-eqht mrgn-tp-lg">
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
     <div class="card hght-inhrt"><a href="project-01.html"><img src="images/2022-12-21.png" class="img-responsive" alt="">
       <div class="card-container">
