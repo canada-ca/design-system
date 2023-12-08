@@ -4,6 +4,10 @@
   transition: 0.3s;
 }
 h3 {text-align: center;
+a {
+  color: inherit;
+  text-decoration: none; /* no underline */
+}	
 }
 /* On mouse-over, add a deeper shadow */
 .card:hover {
