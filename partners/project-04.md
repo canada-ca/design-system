@@ -2,11 +2,12 @@
 altLangPage: "https://conception.canada.ca/a-propos/apercu-projet.html"
 date: 2023-12-08
 dateModified: 2023-12-08
-description: "We explored navigation and design options to help people get to and use the services they need, while maintaining confidence and trust in Canada.ca."
+description: "Make it easier for public servants to find and understand their pay information."
 layout: without-h1
 title: "Pay for the public service"
 ---
 <h1 property="name headline" id="wb-cont" dir="ltr">Pay for the public service</h1>
+<p>Make it easier for public servants to find and understand their pay information.</p>
 <h2>Partner department</h2>
 <p>Public Services and Procurement Canada</p>
 <h2>Objective</h2>
