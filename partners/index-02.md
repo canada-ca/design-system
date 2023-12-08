@@ -1,6 +1,9 @@
 ---
 altLangPage: "https://conception.canada.ca/a-propos/apercu-projet.html"
 css:
+   - https://design.canada.ca/css/split-h1.css
+   - https://design.canada.ca/css/custom.css
+   - https://use.fontawesome.com/releases/v5.15.4/css/all.css
    - css/card.css
 date: 2020-11-20
 dateModified: 2023-12-08
