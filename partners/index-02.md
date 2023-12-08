@@ -41,7 +41,7 @@ title: "Working with partners to improve task success on Canada.ca"
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
     <div class="card hght-inhrt">
-      <img src="images/2022-12-21.png" class="img-responsive" alt="">
+      <img src="images/procurement.png" class="img-responsive" alt="">
       <div class="card-container"><a href="project-03.html">
         <h3>Electronic Procurement Solution</h3>
         <p><strong>Purpose</strong>: Make it easier for Canadians to find and understand information related to the Canada Child Benefit.</p>
