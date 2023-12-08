@@ -64,7 +64,7 @@ title: "Working with partners to improve task success on Canada.ca"
       <img src="images/recall.png" class="img-responsive" alt="">
       <div class="card-container"><a href="project-05.html">
         <h3>Recalls and safety alerts search</h3>
-        <p><strong>Purpose</strong>: Help Health Canada prepare for the implementation of a transformed Recalls and Safety Alerts Management System (RSAMS) with a new search interface so that Canadians can find and understand both recalls and safety alerts.</p>
+        <p><strong>Purpose</strong>: Help Health Canada prepare for the implementation of a transformed Recalls and Safety Alerts Management System (RSAMS) with a new search interface.</p>
         <p><strong>Partners</strong>: Health Canada and Transport Canada</p>
         </a></div>
     </div>
