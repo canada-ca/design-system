@@ -7,7 +7,7 @@ css:
    - css/card.css
 date: 2020-11-20
 dateModified: 2023-12-08
-description: "The Digital Transformation Office works with federal institutions to make Canada.ca content easier to find and understand."
+description: "Make it easier for medical device manufacturers and other firms subject to Canada’s medical device regulations to find and understand the information they need to comply with regulatory requirements."
 layout: without-h1
 title: Medical devices collaboration
 ---
