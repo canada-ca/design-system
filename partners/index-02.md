@@ -21,7 +21,7 @@ title: "Working with partners to improve task success on Canada.ca"
 <div class="row wb-eqht mrgn-tp-md wb-eqht">
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
     <div class="card hght-inhrt">
-      <div class="card-container"><a href="project-01.html">
+      <div class="card-container"><a href="project-01.html" class="img-responsive" alt="">
         <h3>Orientation and wayfinding</h3>
         <p><strong>Purpose</strong>: explore navigation and design options to help people find and use the services they need.</p>
         <p><strong>Partners</strong>: Agriculture and Agri-Food Canada, Immigration, Refugees and Citizenship Canada, Veterans Affairs Canada and Statistics Canada</p>
