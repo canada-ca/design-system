@@ -44,13 +44,15 @@ title: "Pay for the public service"
 </div>
 <h2>Task scenarios tested and improved</h2>
 <ul class="custul">
-  <li class="custli">Your team has been working on a knee prosthesis that you would like to bring to market. You're submitting a Class III medical device licence application. Will you need to submit a declaration of conformity as part of your application?</li>
-  <li class="custli">Your United States-based business imports hydraulic stretchers (a Class I medical device) from Europe and sells them online to health care facilities in the U.S. and Canada. Do you need a Medical Device Establishment Licence (MDEL)
-    from Health Canada?</li>
-  <li class="custli">Your company manufactures infrared lamps. Can you determine what class of medical device licence is required?</li>
-  <li class="custli">Starting in 2019, a new process was introduced for Quality Management System certification for medical devices. The advantage for manufacturers is that quality auditing will now be recognized internationally. In how many nations is the certification now recognized?</li>
-  <li class="custli">Your company manufactures sleep apnea equipment. You received your medical device licence September 1, 2019. What do you need to do to renew your medical device licence for 2020?</li>
-  <li class="custli">There was recently a problem with one of the medical devices your company sells in Canada. Under which of the following circumstances is your company required to report the incident to Health Canada?</li>
-  <li class="custli">Your distribution company delivered temperature-sensitive medical devices to hospitals. You later discover that one of the freezers at your facility was above the required temperature for storing the product. Do you need to initiate a recall?</li>
-  <li class="custli">Your competitor produces a light therapy product similar to yours. You have reason to believe that the competitor's product label regarding the amount of light it emits is incorrect. Can you show me the form you would use to report your concerns to Health Canada?</li>
+  <li class="custli">Your friend just completed a degree in translation and is considering joining the government. What's the salary of a level 1 translator in the government?</li>
+  <li class="custli">Pat starts as a public servant on Monday, December 2nd. He needs to know when he will get his first paycheque, assuming his department does everything correctly.</li>
+  <li class="custli">Alice accepted a 3-month acting position at Health Canada, starting in February. She wants to help her manager make sure her pay is accurate when she starts. When should her manager submit the paperwork?</li>
+  <li class="custli">You have gone on parental leave and need to check your pay stub deductions from home. Find a way to do this.</li>
+  <li class="custli">Avery took a 3-month leave without pay for school and is returning to work at Health Canada next month. She wants to help her manager ensure she starts getting paid as soon as possible. When should her manager submit the paperwork?</li>
+  <li class="custli">You switched banks and want your next pay to be deposited in the new account. Which of the options below would you choose: What form or forms should be submitted? Where would you submit the change?</li>
+  <li class="custli">Pat started work this year. Find a way for Pat to view her pay stub to check the deductions.</li>
+  <li class="custli">Sam works at Statistics Canada. It's payday, but he didn't get any pay. What steps should Sam take?</li>
+  <li class="custli">It turns out you had an overpayment of
+    $500 on 4 pays last year. You've since bought a new house and finances are tight. Is it possible to arrange your own repayment schedule?</li>
+  <li class="custli">Your pay last year was correct. You got two T4 tax slips though—an incorrect one then a correct one in mid-February. You hired a tax advisor to help sort out your taxes. Without contacting anyone, find out if it's possible to get reimbursed for that tax advisor expense.</li>
 </ul>
