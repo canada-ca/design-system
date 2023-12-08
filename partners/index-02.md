@@ -9,71 +9,50 @@ date: 2020-11-20
 dateModified: 2023-12-08
 description: "The Digital Transformation Office works with federal institutions to make Canada.ca content easier to find and understand."
 layout: without-h1
-title: Working with partners to improve task success on Canada.ca
+title: Medical devices collaboration
 ---
-<h1 property="name" id="wb-cont" property="name headline" dir="ltr"><span class="stacked"><span>Working with partners to improve task success on Canada.ca</span></span></h1>
-<p>The Digital Transformation Office works with federal institutions to make Canada.ca content easier to find and understand.</p>
-<p>Our method includes:</p>
+<h1 property="name" id="wb-cont" property="name headline" dir="ltr"><span class="stacked"><span>Medical devices collaboration</span></span></h1>
+<p>Our objective was to make it easier for medical device manufacturers and other firms subject to Canada’s medical device regulations to find and understand the information they need to comply with regulatory requirements.</p>
+<h2>Partner department</h2>
+<p>Health Canada</p>
+<h2>Why this work matters</h2>
 <ul>
-  <li>setting concrete usability targets</li>
-  <li>usability testing on specific Government of Canada Services</li>
-  <li>co-creating prototypes</li>
+  <li class="custli">Analytics show that more than half of the visits to pages about medical devices are to those that provide information specific to the medical device industry</li>
 </ul>
-<p>We work collaboratively to refine prototypes until they achieve at least a 20% improvement in task success.  This standard for improvement means people will spend less time looking for the answers they need from the Government of Canada.</p>
-<h2>Projects with our partners</h2>
-<div class="row wb-eqht mrgn-tp-md wb-eqht mrgn-tp-lg">
-  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="project-01.html"><img src="images/2022-12-21.png" class="img-responsive" alt="">
-      <div class="card-container">
-        <h3>Orientation and wayfinding</h3>
-        <p class="mrgn-tp-lg"><strong>Purpose</strong>: explore navigation and design options to help people find and use the services they need.</p>
-        <p><strong>Partners</strong>: Agriculture and Agri-Food Canada, Immigration, Refugees and Citizenship Canada, Veterans Affairs Canada and Statistics Canada</p>
-      </div>
-      </a></div>
-  </div>
-  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="project-02.html"><img src="images/medical.png" class="img-responsive" alt="">
-      <div class="card-container">
-        <h3>Medical devices</h3>
-        <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for stakeholders subject to Canada’s medical device regulations find and understand regulatory requirements.</p>
-        <p><strong>Partner</strong>: Health Canada</p>
-      </div>
-      </a></div>
-  </div>
-  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="project-03.html"><img src="images/procurement-01.png" class="img-responsive" alt="">
-      <div class="card-container">
-        <h3>Electronic Procurement Solution</h3>
-        <p class="mrgn-tp-lg"><strong>Purpose</strong>: Make it easier for Canadian businesses to find and understand government business opportunities and guidance.</p>
-        <p><strong>Partners</strong>: Public Services and Procurement Canada (PSPC)</p>
-      </div>
-      </a></div>
-  </div>
-  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="project-04.html"><img src="images/pay.png" class="img-responsive" alt="">
-      <div class="card-container">
-        <h3>Pay for the public service</h3>
-        <p class="mrgn-tp-lg"><strong>Purpose</strong>: Make it easier for public servants to find and understand their pay information.</p>
-        <p><strong>Partner</strong>: Public Services and Procurement Canada</p>
-      </div>
-      </a></div>
-  </div>
-  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="project-05.html"><img src="images/recall.png" class="img-responsive" alt="">
-      <div class="card-container">
-        <h3>Recalls and safety alerts search</h3>
-        <p class="mrgn-tp-lg"><strong>Purpose</strong>: Help Health Canada prepare for the implementation of a transformed Recalls and Safety Alerts Management System (RSAMS) with a new search interface.</p>
-        <p><strong>Partners</strong>: Health Canada and Transport Canada</p>
-      </div>
-      </a></div>
-  </div>
-  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="project-06.html"><img src="images/child-benifit.png" class="img-responsive" alt="">
-      <div class="card-container">
-        <h3>Canada Child Benefit</h3>
-        <p class="mrgn-tp-lg"><strong>Purpose</strong>: Make it easier for Canadians to find and understand information related to the Canada Child Benefit.</p>
-        <p><strong>Partners</strong>: Canada Revenue Agency</p>
-      </div>
-      </a></div>
+<div class="row mrgn-tp-lg mrgn-bttm-lg">
+  <div class="col-md-8">
+    <div class="panel panel-success">
+      <header class="panel-heading">
+        <h4 class="panel-title text-center">Task success</h4>
+      </header>
+      <table class="table">
+        <thead>
+          <tr style="">
+            <th scope="col" class="col-md-3">Before</th>
+            <th scope="col" class="col-md-3">After</th>
+            <th scope="col" class="col-md-6">Improvement to task success</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="table-smnum">16%</td>
+            <td class="table-smnum">62%</td>
+            <td class="table-smnum"><span class="text-success"><strong>+46%pts</strong></span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
   </div>
 </div>
+<h3>Task scenarios tested and improved</h3>
+<ul class="custul">
+  <li class="custli">Your team has been working on a knee prosthesis that you would like to bring to market. You're submitting a Class III medical device licence application. Will you need to submit a declaration of conformity as part of your application?</li>
+  <li class="custli">Your United States-based business imports hydraulic stretchers (a Class I medical device) from Europe and sells them online to health care facilities in the U.S. and Canada. Do you need a Medical Device Establishment Licence (MDEL)
+    from Health Canada?</li>
+  <li class="custli">Your company manufactures infrared lamps. Can you determine what class of medical device licence is required?</li>
+  <li class="custli">Starting in 2019, a new process was introduced for Quality Management System certification for medical devices. The advantage for manufacturers is that quality auditing will now be recognized internationally. In how many nations is the certification now recognized?</li>
+  <li class="custli">Your company manufactures sleep apnea equipment. You received your medical device licence September 1, 2019. What do you need to do to renew your medical device licence for 2020?</li>
+  <li class="custli">There was recently a problem with one of the medical devices your company sells in Canada. Under which of the following circumstances is your company required to report the incident to Health Canada?</li>
+  <li class="custli">Your distribution company delivered temperature-sensitive medical devices to hospitals. You later discover that one of the freezers at your facility was above the required temperature for storing the product. Do you need to initiate a recall?</li>
+  <li class="custli">Your competitor produces a light therapy product similar to yours. You have reason to believe that the competitor's product label regarding the amount of light it emits is incorrect. Can you show me the form you would use to report your concerns to Health Canada?</li>
+</ul>
