@@ -24,7 +24,7 @@ title: "Working with partners to improve task success on Canada.ca"
       <img src="images/2022-12-21.png" class="img-responsive" alt="">
       <div class="card-container"><a href="project-01.html">
         <h3>Orientation and wayfinding</h3>
-        <p class="mrn-tp-lg"><strong>Purpose</strong>: explore navigation and design options to help people find and use the services they need.</p>
+        <p class="mrgn-tp-lg"><strong>Purpose</strong>: explore navigation and design options to help people find and use the services they need.</p>
         <p><strong>Partners</strong>: Agriculture and Agri-Food Canada, Immigration, Refugees and Citizenship Canada, Veterans Affairs Canada and Statistics Canada</p>
         </a></div>
     </div>
@@ -34,7 +34,7 @@ title: "Working with partners to improve task success on Canada.ca"
       <img src="images/medical.png" class="img-responsive" alt="">
       <div class="card-container"><a href="project-02.html">
         <h3>Medical devices</h3>
-        <p><strong>Purpose</strong>: make it easier for stakeholders subject to Canada’s medical device regulations find and understand regulatory requirements.</p>
+        <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for stakeholders subject to Canada’s medical device regulations find and understand regulatory requirements.</p>
         <p><strong>Partner</strong>: Health Canada</p>
         </a></div>
     </div>
@@ -44,7 +44,7 @@ title: "Working with partners to improve task success on Canada.ca"
       <img src="images/procurement.png" class="img-responsive" alt="">
       <div class="card-container"><a href="project-03.html">
         <h3>Electronic Procurement Solution</h3>
-        <p><strong>Purpose</strong>: Make it easier for Canadians to find and understand information related to the Canada Child Benefit.</p>
+        <p class="mrgn-tp-lg"><strong>Purpose</strong>: Make it easier for Canadians to find and understand information related to the Canada Child Benefit.</p>
         <p><strong>Partners</strong>: Canada Revenue Agency</p>
         </a></div>
     </div>
@@ -54,7 +54,7 @@ title: "Working with partners to improve task success on Canada.ca"
       <img src="images/pay.png" class="img-responsive" alt="">
       <div class="card-container"><a href="project-04.html">
         <h3>Pay for the public service</h3>
-        <p><strong>Purpose</strong>: Make it easier for public servants to find and understand their pay information.</p>
+        <p class="mrgn-tp-lg"><strong>Purpose</strong>: Make it easier for public servants to find and understand their pay information.</p>
         <p><strong>Partner</strong>: Public Services and Procurement Canada</p>
         </a></div>
     </div>
@@ -64,7 +64,7 @@ title: "Working with partners to improve task success on Canada.ca"
       <img src="images/recall.png" class="img-responsive" alt="">
       <div class="card-container"><a href="project-05.html">
         <h3>Recalls and safety alerts search</h3>
-        <p><strong>Purpose</strong>: Help Health Canada prepare for the implementation of a transformed Recalls and Safety Alerts Management System (RSAMS) with a new search interface.</p>
+        <p class="mrgn-tp-lg"><strong>Purpose</strong>: Help Health Canada prepare for the implementation of a transformed Recalls and Safety Alerts Management System (RSAMS) with a new search interface.</p>
         <p><strong>Partners</strong>: Health Canada and Transport Canada</p>
         </a></div>
     </div>
