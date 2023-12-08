@@ -44,8 +44,8 @@ title: "Working with partners to improve task success on Canada.ca"
       <img src="images/procurement.png" class="img-responsive" alt="">
       <div class="card-container"><a href="project-03.html">
         <h3>Electronic Procurement Solution</h3>
-        <p class="mrgn-tp-lg"><strong>Purpose</strong>: Make it easier for Canadians to find and understand information related to the Canada Child Benefit.</p>
-        <p><strong>Partners</strong>: Canada Revenue Agency</p>
+        <p class="mrgn-tp-lg"><strong>Purpose</strong>: Make it easier for Canadian businesses to find and understand government business opportunities and guidance.</p>
+        <p><strong>Partners</strong>: Public Services and Procurement Canada (PSPC)</p>
         </a></div>
     </div>
   </div>
