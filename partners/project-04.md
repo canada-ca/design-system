@@ -10,8 +10,6 @@ title: "Pay for the public service"
 <p>Make it easier for public servants to find and understand their pay information.</p>
 <h2>Partner department</h2>
 <p>Public Services and Procurement Canada</p>
-<h2>Objective</h2>
-<p>Make it easier for public servants to find and understand their pay information.</p>
 <h2>Why this work matters</h2>
 <ul>
   <li class="custli">Canada had nearly 288,000 public servants in 2019</li>
