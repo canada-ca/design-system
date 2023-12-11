@@ -11,9 +11,7 @@ description: "The Digital Transformation Office works with federal institutions 
 layout: without-h1
 title: Working with partners to improve task success on Canada.ca
 ---
-<h1 property="name" id="wb-cont" property="name headline" dir="ltr">
-<span class="stacked"><span>Working with partners to improve task success on Canada.ca</span></span>
-</h1>
+<h1 property="name" id="wb-cont" property="name headline" dir="ltr"><span class="stacked"><span>Working with partners to improve task success on Canada.ca</span></span></h1>
 <p>The Digital Transformation Office works with federal institutions to make Canada.ca content easier to find and understand.</p>
 <p>Our method includes:</p>
 <ul>
