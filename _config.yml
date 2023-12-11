@@ -511,7 +511,11 @@
         "path": "partners/index*.md"
       },
       "values": {
-        "breadcrumbs": true
+        "breadcrumbs": [{
+            "title": "About Canada.ca",
+            "link": "https://design.canada.ca/about/"
+          }
+        ]
       }
     },
     {
