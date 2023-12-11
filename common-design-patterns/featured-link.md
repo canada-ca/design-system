@@ -90,7 +90,7 @@ title: Featured link
     </ul>
     <h3>Randomizer in WET</h3>
     <ul>
-        <li><a href="https://wet-boew.github.io/v4.0-ci/demos/wb-randomize/wb-randomize-en.html">Randomize</a> - working examples and code</li>
+        <li><a href="https://wet-boew.github.io/v4.0-ci/demos/wb-randomize/wb-randomize-en.html">Randomize - working examples and code</a></li>
         <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-en.html">Quick implementation guide - GCWeb theme</a></li>
     </ul>
     <h3>Implementations</h3>
