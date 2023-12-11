@@ -119,7 +119,7 @@ title: Introduction block
 </section>
 <section>
     <h2 id="implement">How to implement</h2>
-    <p>Find working examples and code for implementing the contact us band pattern.</p>
+    <p>Find working examples and code for implementing the introduction block pattern.</p>
     <h3>GCweb (WET) theme implementation reference</h3>
     <p>The implementation reference includes how to configure elements of the design system.</p>
     <ul>
