@@ -100,10 +100,10 @@ title: Institutional landing page
             <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Required</span></td>
           </tr>
           <tr>
-            <td>Flexible space:
+            <td>Flexible space:<br>
             <ul>
             <li><a href="">Latest news</a></li>
-            <lu><a href="">context-specific features</a></li>
+            <li><a href="">context-specific features</a></li>
             </ul>
             </td>
             <td><p>The bottom portion of the page above the footer is considered a flexible space where departments may add content of their choosing.</p>
