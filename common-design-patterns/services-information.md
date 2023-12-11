@@ -85,7 +85,7 @@ title: Services and information
         <li>
             Headings:
             <ul>
-                <li>Colour: <a href="https://design.canada.ca/styles/colours.html">Standard Canada.ca link colours</a></li>
+                <li>Colour: <a href="https://design.canada.ca/styles/colours.html">Standard Canada.ca colour</a> for links</li>
                 <li>Font size: Canada.ca H3 (1em)</li>
                 <li>Font type: Lato Sans</li>
             </ul>
@@ -93,7 +93,7 @@ title: Services and information
         <li>
             Descriptions:
             <ul>
-                <li>Colour: <a href="https://design.canada.ca/styles/colours.html">Standard Canada.ca link colours</a></li>
+                <li>Colour: <a href="https://design.canada.ca/styles/colours.html">Standard Canada.ca colour</a> for text</li>
                 <li>
                     Font size:
                     <ul>
