@@ -41,7 +41,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-03.html" aria-label="Electronic Procurement Solution"><img src="images/procurement-01.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-03.html" aria-label="Electronic Procurement Solution"><img src="images/procurement.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Electronic Procurement Solution</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadian businesses to find and understand government business opportunities and guidance.</p>
