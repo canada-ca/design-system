@@ -158,7 +158,7 @@ title: About the institution
 </section>
 <section>
     <h2 id="implement">How to implement</h2>
-    <p>Find working examples and code for implementing the about the institution band pattern.</p>
+    <p>Find working examples and code for implementing the about the institution pattern.</p>
     <h3>GCweb (WET) theme implementation reference</h3>
     <p>The implementation reference includes how to configure elements of the design system.</p>
     <ul>
