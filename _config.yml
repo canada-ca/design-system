@@ -508,7 +508,7 @@
     },
     {
       "scope": {
-        "path": "partners/index.md"
+        "path": "partners/index*.md"
       },
       "values": {
         "breadcrumbs": true
