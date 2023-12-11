@@ -492,18 +492,31 @@
     },
     {
       "scope": {
-        "path": "about/digital-transformation-office.md"
+        "path": "partners/*.md"
       },
       "values": {
         "breadcrumbs": [{
-          "title": "About Canada.ca",
-          "link": "https://design.canada.ca/about/"
-        }]
+            "title": "About Canada.ca",
+            "link": "https://design.canada.ca/about/"
+          },
+          {
+            "link": "https://design.canada.ca/",
+            "title": "Canada.ca design system"
+          }
+        ]
       }
     },
     {
       "scope": {
-        "path": "about/project-overview.md"
+        "path": "partners/index.md"
+      },
+      "values": {
+        "breadcrumbs": true
+      }
+    },
+    {
+      "scope": {
+        "path": "about/digital-transformation-office.md"
       },
       "values": {
         "breadcrumbs": [{
