@@ -714,7 +714,7 @@ title: "Canada.ca Content Style Guide"
             <li><a href="#wp4-4">4.4 Abbreviations and acronyms</a>
               <ul>
                 <li><a href="#wp4-4-1">Latin abbreviations</a></li>
-                <li><a href="wp4-4-2">Styles of address: How to abbreviate and punctuate titles with personal names</a></li>
+                <li><a href="#wp4-4-2">Styles of address: How to abbreviate and punctuate titles with personal names</a></li>
               </ul>
             </li>
             <li><a href="#wp4-5">4.5 Contractions</a></li>
