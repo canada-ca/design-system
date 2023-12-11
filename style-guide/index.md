@@ -957,7 +957,7 @@ title: "Canada.ca Content Style Guide"
       <strong>Instead of</strong>: i.e.</p>
     <p>You may use these abbreviations when space is limited, for example, in a table or a figure.</p>
   </section>
-</section id="wp4-4-2">
+<section id="wp4-4-2">
 <h4>Styles of address: How to abbreviate and punctuate titles with personal names</h4>
 <p>Follow the <i>Writing Tips Plus</i> rules:</p>
 <ul>
