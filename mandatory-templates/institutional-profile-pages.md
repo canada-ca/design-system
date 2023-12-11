@@ -36,6 +36,7 @@ title: Institutional landing page
 </section>
 <section>
     <h2 id="design">Content and design</h2>
+    <p>The institutional landing page is composed of several patterns:</p>
    <div class="row mrgn-tp-lg">
   <div class="col-md-12">
     <div class="panel panel-default">
@@ -46,7 +47,7 @@ title: Institutional landing page
         <thead>
           <tr>
             <th class="col-md-3">Pattern</th>
-            <th class="col-md-7">ILP Guidance</th>
+            <th class="col-md-7">Institutional landing page guidance guidance</th>
             <th class="col-md-2 text-center">Required</th>
           </tr>
         </thead>
@@ -56,6 +57,16 @@ title: Institutional landing page
             <td><p>Use the applied title of the institution (see <a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/fip-pcim/reg-eng.asp">Registry of Applied Titles</a>).</p>
               <p>The description should be a very brief summary of what the institution does.</p></td>
             <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Required</span></td>
+          </tr>
+          <tr>
+            <td><a href="#">Super task button</a></td>
+            <td><p>Only include a super task button if there is a specific task that has at least a third of the clickthrough on the institution's home page.</p></td>
+            <td class="text-center">Optional</td>
+          </tr>
+          <tr>
+            <td><a href="#">Featured link</a></td>
+            <td><p>??????.</p></td>
+            <td class="text-center">Optional</td>
           </tr>
           <tr>
             <td><a href="#">Most requested</a></td>
@@ -79,22 +90,22 @@ title: Institutional landing page
             <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Required</span></td>
           </tr>
           <tr>
-            <td><a href="#">Ministers block</a></td>
+            <td><a href="#">Social media channels</a></td>
+            <td>No specific guidance related to the institutional landing page.  Follow the pattern.</td>
+            <td class="text-center">Optional</td>
+          </tr>
+          <tr>
+            <td><a href="#">Minister or institutional head</a></td>
             <td>No specific guidance related to the institutional landing page. Follow the pattern.</td>
             <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Required</span></td>
           </tr>
           <tr>
-            <td><a href="#">Social media pattern</a></td>
-            <td>No specific ILP guidance.  Follow the pattern.</td>
-            <td class="text-center">Optional</td>
-          </tr>
-          <tr>
-            <td><a href="#">Super task button</a></td>
-            <td><p>Only include a super task button if there is a specific task that has at least a third of the clickthrough on the institution's home page.</p></td>
-            <td class="text-center">Optional</td>
-          </tr>
-          <tr>
-            <td><a href="#">Flexible space</a></td>
+            <td>Flexible space:
+            <ul>
+            <li><a href="">Latest news</a></li>
+            <lu><a href="">context-specific features</a></li>
+            </ul>
+            </td>
             <td><p>The bottom portion of the page above the footer is considered a flexible space where departments may add content of their choosing.</p>
               <p>The use of this space is optional and the default patterns are the latest news and context-specific features.</p></td>
             <td class="text-center">Optional</td>
@@ -110,7 +121,7 @@ title: Institutional landing page
             <figcaption><b>Institutional landing page - large screen</b></figcaption>
             <img src="../images/ilp-large.png" class="img-responsive" alt="Institutional landing page for large screens. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: institutional landing page - large screen </summary>
                 <p>At the top of the page is an introduction block which includes an h1 titled [Institution name]. It is underlined with a short thick red line. Below the heading is a short description of the institution’s mandate.</p>
                 <p>Following the introduction block there is a supertask button which is a green rectangle with the words Super task button [optional].</p>
                 <p>Below this is the featured link pattern. It is contained within a horizontal blue band that stretches the entire length of the screen. Within the band is white, underlined text that reads: Featured link [optional].</p>
@@ -164,7 +175,7 @@ title: Institutional landing page
             <figcaption><b>Institutional landing page - small screen</b></figcaption>
             <img src="../images/ilp-small.png" class="img-responsive" alt="Institutional landing page for small screens. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: institutional landing page - small screen</summary>
                 <p>At the top of the page is an introduction block which includes an h1 titled [Institution name]. It is underlined with a short thick red line. Below the heading is a short description of the institution’s mandate.</p>
                 <p>Following the introduction block there is a supertask button which is a green rectangle with the words Super task button [optional]. </p>
                 <p>Below this is the featured link pattern. It is contained within a horizontal blue band that stretches the entire length of the screen. Within the band is white, underlined text that reads: Featured link [optional].</p>
@@ -176,7 +187,7 @@ title: Institutional landing page
                   <li>Mandate</li>
                   <li>Organizational structure</li>
                   <li>Transparency</li>
-                  <li>Accessibility</li>>
+                  <li>Accessibility</li>
                   <li>Reports</li>
                   <li>Compliance</li>
                   <li>Enforcements notifications</li>
@@ -239,7 +250,7 @@ title: Institutional landing page
                         <summary><strong>Drupal WxT</strong></summary>
                         <p class="mrgn-tp-lg">For Drupal WxT:</p>
                         <ul>
-                            <li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</a></li>
+                            <li><a href="https://drupalwxt.github.io/">Drupal WxT documentation</a></li>
                         </ul>
                     </details>
                 </div>
