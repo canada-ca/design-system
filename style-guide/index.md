@@ -38,7 +38,7 @@ title: "Canada.ca Content Style Guide"
   <h2>What's new</h2>
   <p>Most recent changes to the guide:</p>
   <ul>
-    <li>added a separate page for the <a href="update-history.html">Update history for the Canada.ca Content Style Guide</li>
+    <li>added a separate page for the <a href="update-history.html">Update history for the Canada.ca Content Style Guide</a></li>
   </ul>
   <p><a href="update-history.html">Update history</a> (this list begins with changes on May 25, 2023.).</p>
 </section>
