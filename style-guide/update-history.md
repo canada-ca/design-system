@@ -8,7 +8,7 @@ title: "Update history for the Canada.ca Content Style Guide"
 <p>This list begins with changes on May 25, 2023.</p>
 <h2>December 12, 2023</h2>
 <ul class="mrgn-tp-lg">
-  <li>added a separate page for the Update history for the Canada.ca Content Style Guide</li>
+  <li>added a separate page for the update history for the Canada.ca Content Style Guide</li>
 </ul>  
 <h2>December 6, 2023</h2>
 <ul class="mrgn-tp-lg">
