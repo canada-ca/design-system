@@ -96,23 +96,23 @@ title: "Canada.ca design system"
     <div class="col-md-9">
       <div class="panel panel-default">
         <div class="mrgn-tp-md mrgn-bttm-md">
-          <table class="wb-tables table table-striped small mrgn-tp-lg brdr-tp" aria-live="polite" id="design" data-page-length="25" data-wb-tables='{
-            "bDeferRender": true,
-            "ajaxSource": &quot;https://design.canada.ca/ajax/patterns-01-en.json&quot;,
-            "order": [0, &quot;asc&quot;],
-            "paging": true,
-            "info": true,
-            "columns": [
-            { "data": "NAME", "className": &quot;&quot; },
-            { "data": "SOURCE", "className": &quot;&quot; },
-            { "data": "DESCRIPTION", "className": &quot;&quot;, &quot;orderable&quot;: false },
-            { "data": ";WHENTOUSE",  "visible": false },
-            { "data": "CATEGORY",  "visible": false },
-            { "data": "TYPE",  "visible": false },
-            { "data": "MANDATORY",  "visible": false },
-            { "data": "TANDP",  "visible": false }
+          <table class="wb-tables table table-striped small mrgn-tp-lg brdr-tp" aria-live="polite" id="design" data-page-length="25" data-wb-tables="{
+            &quot;bDeferRender&quot;: true,
+            &quot;ajaxSource&quot;: &quot;https://design.canada.ca/ajax/patterns-01-en.json&quot;,
+            &quot;order&quot;: [0, &quot;asc&quot;],
+            &quot;paging&quot;: true,
+            &quot;info&quot;: true,
+            &quot;columns&quot;: [
+            { &quot;data&quot;: &quot;NAME&quot;, &quot;className&quot;: &quot;&quot; },
+            { &quot;data&quot;: &quot;SOURCE&quot;, &quot;className&quot;: &quot;&quot; },
+            { &quot;data&quot;: &quot;DESCRIPTION&quot;, &quot;className&quot;: &quot;&quot;, &quot;orderable&quot;: false },
+            { &quot;data&quot;: &quot;WHENTOUSE&quot;,  &quot;visible&quot;: false },
+            { &quot;data&quot;: &quot;CATEGORY&quot;,  &quot;visible&quot;: false },
+            { &quot;data&quot;: &quot;TYPE&quot;,  &quot;visible&quot;: false },
+            { &quot;data&quot;: &quot;MANDATORY&quot;,  &quot;visible&quot;: false },
+            { &quot;data&quot;: &quot;TANDP&quot;,  &quot;visible&quot;: false }
             ]
-            }'>
+            }">
             <thead>
               <tr>
                 <th class="col-md-05">Name</th>
