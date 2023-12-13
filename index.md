@@ -98,7 +98,7 @@ title: "Canada.ca design system"
         <div class="mrgn-tp-md mrgn-bttm-md">
           <table class="wb-tables table table-striped small mrgn-tp-lg brdr-tp" aria-live="polite" id="design" data-page-length="25" data-wb-tables="{
             &quot;bDeferRender&quot;: true,
-            &quot;ajaxSource&quot;: &quot;./ajax/patterns-01-en.json&quot;,
+            &quot;ajaxSource&quot;: &quot;https://design.canada.ca/ajax/patterns-01-en.json&quot;,
             &quot;order&quot;: [0, &quot;asc&quot;],
             &quot;paging&quot;: true,
             &quot;info&quot;: true,
