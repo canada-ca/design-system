@@ -27,7 +27,7 @@ Feedback about ingredients on the Pfizer-BioNTech “What you should know” pag
 The link to ingredients from the "On this page" navigation became the second most used link on the page after the addition.
 
 <figure class="gc-complex-img" role="group">
-  <img alt="A long description can be found after the image." src="/images/action-2.png" />
+  <img alt="A long description can be found after the image." src="images/action-2.png" />
   <figcaption>
     <details>
       <summary>Feedback from ingredient list</summary>
