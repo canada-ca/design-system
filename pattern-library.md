@@ -1,4 +1,4 @@
---- 
+---
 altLangPage: "https://conception.canada.ca/bibliotheque-modeles.html"
 date: 2021-05-03
 dateModified: 2023-08-19
@@ -72,16 +72,18 @@ title: "Template and pattern library for Canada.ca"
             { &quot;data&quot;: &quot;TYPE&quot;, &quot;className&quot;: &quot;&quot; },
             { &quot;data&quot;: &quot;MANDATORY&quot;,  &quot;visible&quot;: false },
             { &quot;data&quot;: &quot;TANDP&quot;,  &quot;visible&quot;: false, &quot;Search&quot;: &quot;1&quot; }
-            ], 
+            ],
+            &quot;dom&quot;: &quot;<\u0027top\u0027pfil>rt<\u0027bottom\u0027p><\u0027clear\u0027>&quot;,
             &quot;searchCols&quot;: [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null, 
-            null,
-            { &quot;sSearch&quot;: &quot;1&quot; }]
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              { &quot;sSearch&quot;: &quot;1&quot; }
+            ]
             }">
           <thead>
             <tr>

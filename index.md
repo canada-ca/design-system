@@ -96,7 +96,7 @@ title: "Canada.ca design system"
     <div class="col-md-9">
       <div class="panel panel-default">
         <div class="mrgn-tp-md mrgn-bttm-md">
-          <table class="wb-tables table table-striped small mrgn-tp-lg brdr-tp" aria-live="polite" id="design" data-page-length="25" data-wb-tables="{
+          <table class="wb-tables table table-striped small mrgn-tp-lg brdr-tp" aria-live="polite" id="design" data-page-length="25" data-wb-tables='{
             &quot;bDeferRender&quot;: true,
             &quot;ajaxSource&quot;: &quot;https://design.canada.ca/ajax/patterns-01-en.json&quot;,
             &quot;order&quot;: [0, &quot;asc&quot;],
@@ -111,8 +111,9 @@ title: "Canada.ca design system"
             { &quot;data&quot;: &quot;TYPE&quot;,  &quot;visible&quot;: false },
             { &quot;data&quot;: &quot;MANDATORY&quot;,  &quot;visible&quot;: false },
             { &quot;data&quot;: &quot;TANDP&quot;,  &quot;visible&quot;: false }
-            ]
-            }">
+            ],
+            &quot;dom&quot;: &quot;<\u0027top\u0027pfil>rt<\u0027bottom\u0027p><\u0027clear\u0027>&quot;
+            }'>
             <thead>
               <tr>
                 <th class="col-md-05">Name</th>
