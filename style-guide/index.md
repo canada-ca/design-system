@@ -15,7 +15,7 @@ title: "Canada.ca Content Style Guide"
         <div class="panel-body">
           <h2 class="mrgn-tp-sm">Table of contents</h2>
           <ul>
-            <li><a href="#toc1">What's new</a></li>
+            <li><a href="#toc1">Recent updates</a></li>
             <li><a href="#toc2">Purpose</a></li>
             <li><a href="#toc3">Use of the style guide</a></li>
             <li><a href="#toc4">Related policies, standards and procedures</a></li>
@@ -36,11 +36,11 @@ title: "Canada.ca Content Style Guide"
 </section>
 <section id="toc1">
   <h2>What's new</h2>
-  <p>Most recent changes to the guide:</p>
+  <p>Most recent updates to the guide:</p>
   <ul>
     <li>added a separate page for the <a href="update-history.html">Update history for the Canada.ca Content Style Guide</a></li>
   </ul>
-  <p><a href="update-history.html">Update history</a> (this list begins with changes on May 25, 2023.).</p>
+  <p><a href="update-history.html">Update history</a> (this list begins with changes on May 25, 2023).</p>
 </section>
 <section id="toc2">
   <h2>Purpose</h2>
