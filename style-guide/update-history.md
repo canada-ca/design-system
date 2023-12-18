@@ -5,7 +5,7 @@ dateModified:  2023-12-12
 description: "Update history for the Canada.ca Content Style Guide"
 title: "Update history for the Canada.ca Content Style Guide"
 ---
-<p>This list begins with changes on May 25, 2023.</p>
+<p>This list contains all changes made to the Canada.ca Content Style Guide since May 25, 2023.</p>
 <h2>December 12, 2023</h2>
 <ul class="mrgn-tp-lg">
   <li>added a separate page for the update history for the Canada.ca Content Style Guide</li>
