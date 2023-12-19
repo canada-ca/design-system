@@ -2153,10 +2153,10 @@ title: "Canada.ca Content Style Guide"
             <li><a href="#wp7-2">7.2 Write descriptive links</a>
               <ul>
                 <li><a href="#wp7-2-1">Focus on the task</a></li>
+                <li><a href="#wp-7-2-2">Use brackets inside a link to convey additional information</a>
               </ul>
             </li>
             <li><a href="#wp7-3">7.3 Make sure that links work</a></li>
-            <li><a href="#wp7-4">7.4 Linking to non-government content </a></li>
           </ul>
         </div>
       </div>
@@ -2233,6 +2233,46 @@ title: "Canada.ca Content Style Guide"
     <h6>Instead of:</h6>
     <p>To ensure that you are paid the maximum Employment Insurance (EI) benefit rate that you are entitled to, complete the <a href="https://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=ins5241&amp;ln=eng">Claimant Attestation - Highest Weeks of Insurable Earnings (Variable Best Weeks) form</a> with the required information about your highest weeks of insurable earnings in the last 52 weeks of employment or since the start of your last claim, whichever is the shorter period of the two.</p>
   </section>
+<section id="wp7-2-2">
+
+<h4>Use brackets inside a link to convey additional information</h4>
+<p>
+<p><b>Use brackets inside a link to add additional information.</b> This helps users decide whether to proceed or not, and provides necessary information in the link text. 
+<p>This guidance applies in the following situations: 
+<ol>
+<li>Link is to a downloadable document. Make sure to <b>include the file type and size</b> in the brackets:
+<p>
+<p>Example: <a href="https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdfETSI">EN 301 549 - V3.2.1 - Accessibility requirements for ICT products and services (en anglais seulement) (PDF, 2 mo)</a>
+<p>
+<li><b>Link to external content is in a different language.</b> Add brackets inside the link and specify the language of the linked content, formatted as (LanguageX only).
+
+On an English page, write:  
+<ul>
+<li><u>Link text (French only)
+<li>Link text (Inuktitut only)
+<li>Link text (Spanish and Portuguese only)</u>
+<p>
+<p>
+Examples:
+<ul> 
+<li>Find out how to <a href="https://passeport.ants.gouv.fr/Vos-demarches/Renouvellement-perte-ou-vol">renew your French passport while abroad in Canada (French only).</a>
+<li>Follow the same structure on French-language pages linking to English content:
+<a href="https://accessibility.18f.gov/">18F Accessibility Guide (en anglais seulement)</a>
+<li><a href="https://www.w3.org/TR/WCAG/">L’article 508 révisé, la norme EN 301 549 ou les Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</a>
+</ul>
+</ul>
+<p>
+</ul>
+Remember to include the <b>file type and size inside the brackets</b>when the link leads to a download. 
+<p>
+<ul>For example:
+<li><a href="https://www.rhone.gouv.fr/contenu/telechargement/47282/261770/file/Psp_urgent_formulaire_26_7_21.pdf">Complete your temporary passport application (in French only, PDF 0.46 Mb)</a></ul>
+<p>
+<li><b>Link opens video or audio content.</b> Specify the length of the content inside the brackets. Follow recommendations from #2 when the content is only available in a different language.
+Example: <a href="https://www.youtube.com/watch?v=GbDT6FxQ6mk">Using Magnifier in Windows: At a Glance - Vidéo YouTube (2:07 minutes) (en anglais seulement)</a>
+</ul>
+</ul>
+
   <h4>See how the rule for writing descriptive links applies in French</h4>
   <ul>
     <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp7-2">7.2 Rédiger des liens descriptifs</a></span></li>
@@ -2252,26 +2292,7 @@ title: "Canada.ca Content Style Guide"
     <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for verifying links", "title": "7.3 Make sure that links work", "url": "https://design.canada.ca/style-guide/#wp7-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-3"}'></div>
   </div>
 </section>
-<section id="wp7-4">
-  <h3>7.4 Linking to non-government content</h3>
-  <p>Some non-government web content isn't available in both official languages. If you're linking to external web content that isn't available in the language of the current page, say in which language(s) it is available after the link.</p>
-  <p>On English pages, write the following after a link that leads to content that isn't available in English: "(XXXX only)".</p>
-  <p>If the link leads to content only available in:</p>
-  <ul>
-    <li>French, write "(French only)"</li>
-    <li>Inuktitut, write "(Inuktitut only)"</li>
-    <li>Spanish and Portuguese, write "(Spanish and Portuguese only)"</li>
-  </ul>
-  <h4>Example of a link that leads to content only available in French</h4>
-  <p><strong>Write</strong>: Find out how to <a href="https://passeport.ants.gouv.fr/Vos-demarches/Renouvellement-perte-ou-vol">renew your French passport while abroad in Canada</a> (French only).</p>
-  <h4>See how the rule for non-government content applies in French</h4>
-  <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp7-4">7.4 Créer des liens vers du contenu externe</a></span></li>
-  </ul>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for non-government content", "title": "7.4 Linking to non-government content", "url": "https://design.canada.ca/style-guide/#wp7-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-4"}'></div>
-  </div>
-</section>
+
 <section id="wp7-5">
   <h3>7.5 Linking to internal-to-government content</h3>
   <p>In most cases, public-facing content should not link to content that is accessible only through internal government networks. Occasionally, the audience for content that is accessible to the public may be primarily internal.</p>

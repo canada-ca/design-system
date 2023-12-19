@@ -1,0 +1,9 @@
+{
+    "editor.inlayHints.padding": true,
+    "editor.inlineCompletionsAccessibilityVerbose": true,
+    "editor.lightbulb.experimental.showAiIcon": "onCode",
+    "editor.linkedEditing": true,
+    "editor.renderLineHighlightOnlyWhenFocus": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true
+}
