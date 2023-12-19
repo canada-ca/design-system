@@ -35,7 +35,7 @@ title: "Canada.ca Content Style Guide"
   </div>
 </section>
 <section id="toc1">
-  <h2>What's new</h2>
+  <h2>Recent updates</h2>
   <p>Most recent updates to the guide:</p>
   <ul>
     <li>added a separate page for the <a href="update-history.html">Update history for the Canada.ca Content Style Guide</a></li>
