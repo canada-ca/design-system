@@ -2157,6 +2157,7 @@ title: "Canada.ca Content Style Guide"
               </ul>
             </li>
             <li><a href="#wp7-3">7.3 Make sure that links work</a></li>
+            <li>7.4 Linking to internal-to-government content</li>
           </ul>
         </div>
       </div>
@@ -2195,110 +2196,111 @@ title: "Canada.ca Content Style Guide"
   </div>
 </section>
 <section id="wp7-2">
-<h3>7.2 Write descriptive links</h3>
-<p>A link must describe the content a person will find once they click on it. It's easier to complete a task when a link's destination matches a person's expectations. Make sure links are descriptive so that person will understand what they'll get when they click on them.</p>
-<p>The text you hyperlink doesn't have to match the title of the destination page to be compliant with <cite>Web Content Accessibility Guidelines</cite>. Text in a link gets some context from the web page's content. Make sure the main keywords of the link text correspond to the page title so that people know they're in the right place.</p>
-<p>Tips for providing useful links:</p>
-<ul>
-  <li>use the first words of the target page or its entire title if it's descriptive enough</li>
-  <li>start with keywords that accurately describe the target page if the page title isn't enough</li>
-  <li>make sure that all links on the same page use unique descriptive text if they link to different target pages</li>
-  <li>when more than one link on a web page links to the same destination page, use the same words for the hyperlink</li>
-  <li>describe any content that must be downloaded</li>
-  <li>write email addresses in full, in lower case and as active links (contact <a href="#wp7-2" aria-label="Example of an appropriate email address">helpdesk@canada.ca</a>)</li>
-</ul>
-<p>Don't use:</p>
-<ul>
-  <li>the same link text to point to 2 different pages </li>
-  <li>vague statements such as "click here" or "read more" </li>
-  <li>promotional messaging that might confuse someone who is deciding whether to go to the page that is being linked&nbsp;to</li>
-</ul>
-<section id="wp7-2-1">
-  <h4>Focus on the task</h4>
-  <p>When writing instructions for completing a task, sometimes you need to insert a link to guide the person to forms or other documents. Focus on the action they must perform when you create the link.</p>
-  <p>Don't repeat the name of a form or document in the steps to accomplish a task if the name isn't descriptive.</p>
-  <h4>Example of the use of links that focus on the task</h4>
-  <h6>Write:</h6>
-  <p>To get the highest Employment Insurance amount available to you:</p>
-  <ol>
-    <li>open the <a href="https://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=ins5241&amp;ln=eng">form you need to declare your income</a></li>
-    <li>identify your highest weeks of insurable income in the shortest period below:
-      <ul>
-        <li>the last 52 weeks of employment </li>
-        <li>since the start of your last claim </li>
-      </ul>
-    </li>
-    <li>return the completed form in person to the <a href="https://www.servicecanada.gc.ca/cgi-bin/sc-srch.cgi?app=hme&amp;ln=eng">Service Canada office closest to you</a></li>
-  </ol>
-  <h6>Instead of:</h6>
-  <p>To ensure that you are paid the maximum Employment Insurance (EI) benefit rate that you are entitled to, complete the <a href="https://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=ins5241&amp;ln=eng">Claimant Attestation - Highest Weeks of Insurable Earnings (Variable Best Weeks) form</a> with the required information about your highest weeks of insurable earnings in the last 52 weeks of employment or since the start of your last claim, whichever is the shorter period of the two.</p>
-</section>
-<section id="wp-7-2-2">
-  <h4>Use brackets to convey additional information</h4>
-  <p><strong>Use brackets inside a link to add additional information.</strong> This helps users decide whether to proceed or not, and provides necessary information in the link text.</p>
-  <p>This guidance applies in the following situations:</p>
-  <ol class="lst-spcd">
-    <li>
-      <p>Link is to a downloadable document. Make sure to <strong>include the file type and size</strong> in the brackets:</p>
-      <ul>
-        <li>Example: <a href="https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdfETSI">EN 301 549 - V3.2.1 - Accessibility requirements for ICT products and services (en anglais seulement) (PDF, 2 mo)</a></li>
-      </ul>
-    </li>
-    <li>
-      <p><strong>Link to external content is in a different language.</strong> Add brackets inside the link and specify the language of the linked content, formatted as (LanguageX only).</p>
-      <p>On an English page, write:</p>
-      <ul>
-        <li><a href="#">Link text (French only)</a></li>
-        <li><a href="#">Link text (Inuktitut only)</a></li>
-        <li><a href="#">Link text (Spanish and Portuguese only)</a></li>
-        <li>Example: Find out how to <a href="https://passeport.ants.gouv.fr/Vos-demarches/Renouvellement-perte-ou-vol">renew your French passport while abroad in Canada (French only)</a>.</li>
-      </ul>
-      <p>Follow the same structure on French-language pages linking to English content:</p>
-      <ul>
-        <li><a href="https://accessibility.18f.gov/">18F Accessibility Guide (en anglais seulement)</a></li>
-        <li><a href="https://www.w3.org/TR/WCAG/">L’article 508 révisé, la norme EN 301 549 ou les Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</a></li>
-      </ul>
-      <p>Remember to include the <strong>file type and size inside the brackets</strong> when the link leads to a download.  For example:</p>
-      <ul>
-        <li><a href="https://www.rhone.gouv.fr/contenu/telechargement/47282/261770/file/Psp_urgent_formulaire_26_7_21.pdf">Complete your temporary passport application (in French only, PDF 0.46 Mb)</a></li>
-      </ul>
-    </li>
-    <li><strong>Link opens video or audio content.</strong> Specify the length of the content inside the brackets. Follow recommendations from #2 when the content is only available in a different language.
-      <ul>
-        <li>Example: <a href="https://www.youtube.com/watch?v=GbDT6FxQ6mk">Using Magnifier in Windows: At a Glance - Vidéo YouTube (2:07 minutes) (en anglais seulement)</a></li>
-      </ul>
-    </li>
-  </ol>
-  <h4>See how the rule for writing descriptive links applies in French</h4>
+  <h3>7.2 Write descriptive links</h3>
+  <p>A link must describe the content a person will find once they click on it. It's easier to complete a task when a link's destination matches a person's expectations. Make sure links are descriptive so that person will understand what they'll get when they click on them.</p>
+  <p>The text you hyperlink doesn't have to match the title of the destination page to be compliant with <cite>Web Content Accessibility Guidelines</cite>. Text in a link gets some context from the web page's content. Make sure the main keywords of the link text correspond to the page title so that people know they're in the right place.</p>
+  <p>Tips for providing useful links:</p>
   <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp7-2">7.2 Rédiger des liens descriptifs</a></span></li>
+    <li>use the first words of the target page or its entire title if it's descriptive enough</li>
+    <li>start with keywords that accurately describe the target page if the page title isn't enough</li>
+    <li>make sure that all links on the same page use unique descriptive text if they link to different target pages</li>
+    <li>when more than one link on a web page links to the same destination page, use the same words for the hyperlink</li>
+    <li>describe any content that must be downloaded</li>
+    <li>write email addresses in full, in lower case and as active links (contact <a href="#wp7-2" aria-label="Example of an appropriate email address">helpdesk@canada.ca</a>)</li>
   </ul>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for writing descriptive links", "title": "7.2 Write descriptive links", "url": "https://design.canada.ca/style-guide/#wp7-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-2"}'></div>
-  </div>
-</section>
-<section id="wp7-3">
-  <h3>7.3 Make sure that links work</h3>
-  <p>Make sure that your links work. Check that they take people to the correct page, which contains up-to-date information, in the appropriate official language. Links that don't work frustrate people and hurt the credibility of your content.</p>
-  <h4>See how the rule for verifying links applies in French</h4>
+  <p>Don't use:</p>
   <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp7-3">7.3 Vérifier que les liens fonctionnent</a></span></li>
+    <li>the same link text to point to 2 different pages </li>
+    <li>vague statements such as "click here" or "read more" </li>
+    <li>promotional messaging that might confuse someone who is deciding whether to go to the page that is being linked&nbsp;to</li>
   </ul>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for verifying links", "title": "7.3 Make sure that links work", "url": "https://design.canada.ca/style-guide/#wp7-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-3"}'></div>
-  </div>
-</section>
-<section id="wp7-5">
-  <h3>7.5 Linking to internal-to-government content</h3>
-  <p>In most cases, public-facing content should not link to content that is accessible only through internal government networks. Occasionally, the audience for content that is accessible to the public may be primarily internal.</p>
-  <p>When a link leads to content available only on internal government networks, write "(accessible only on the Government of Canada network)."</p>
-  <h4>See how the rule for internal-to-government content applies in French</h4>
-  <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp7-5">7.5 Créer des liens vers du contenu interne</a></span></li>
-  </ul>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for internal-to-government content", "title": "7.5 Linking to internal-to-government content", "url": "https://design.canada.ca/style-guide/#wp7-5", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-5"}'></div>
-  </div>
+  <section id="wp7-2-1">
+    <h4>Focus on the task</h4>
+    <p>When writing instructions for completing a task, sometimes you need to insert a link to guide the person to forms or other documents. Focus on the action they must perform when you create the link.</p>
+    <p>Don't repeat the name of a form or document in the steps to accomplish a task if the name isn't descriptive.</p>
+    <h4>Example of the use of links that focus on the task</h4>
+    <h6>Write:</h6>
+    <p>To get the highest Employment Insurance amount available to you:</p>
+    <ol>
+      <li>open the <a href="https://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=ins5241&amp;ln=eng">form you need to declare your income</a></li>
+      <li>identify your highest weeks of insurable income in the shortest period below:
+        <ul>
+          <li>the last 52 weeks of employment </li>
+          <li>since the start of your last claim </li>
+        </ul>
+      </li>
+      <li>return the completed form in person to the <a href="https://www.servicecanada.gc.ca/cgi-bin/sc-srch.cgi?app=hme&amp;ln=eng">Service Canada office closest to you</a></li>
+    </ol>
+    <h6>Instead of:</h6>
+    <p>To ensure that you are paid the maximum Employment Insurance (EI) benefit rate that you are entitled to, complete the <a href="https://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=ins5241&amp;ln=eng">Claimant Attestation - Highest Weeks of Insurable Earnings (Variable Best Weeks) form</a> with the required information about your highest weeks of insurable earnings in the last 52 weeks of employment or since the start of your last claim, whichever is the shorter period of the two.</p>
+  </section>
+  <section id="wp-7-2-2">
+    <h4>Use brackets to convey additional information</h4>
+    <p><strong>Use brackets inside a link to add additional information.</strong> This helps users decide whether to proceed or not, and provides necessary information in the link text.</p>
+    <p>This guidance applies in the following situations:</p>
+    <ol class="lst-spcd">
+      <li>
+        <p>Link is to a downloadable document. Make sure to <strong>include the file type and size</strong> in the brackets:</p>
+        <ul>
+          <li>Example: <a href="https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdfETSI">EN 301 549 - V3.2.1 - Accessibility requirements for ICT products and services (en anglais seulement) (PDF, 2 mo)</a></li>
+        </ul>
+      </li>
+      <li>
+        <p><strong>Link to external content is in a different language.</strong> Add brackets inside the link and specify the language of the linked content, formatted as (LanguageX only).</p>
+        <p>On an English page, write:</p>
+        <ul>
+          <li><a href="#">Link text (French only)</a></li>
+          <li><a href="#">Link text (Inuktitut only)</a></li>
+          <li><a href="#">Link text (Spanish and Portuguese only)</a></li>
+          <li>Example: Find out how to <a href="https://passeport.ants.gouv.fr/Vos-demarches/Renouvellement-perte-ou-vol">renew your French passport while abroad in Canada (French only)</a>.</li>
+        </ul>
+        <p>Follow the same structure on French-language pages linking to English content:</p>
+        <ul>
+          <li><a href="https://accessibility.18f.gov/">18F Accessibility Guide (en anglais seulement)</a></li>
+          <li><a href="https://www.w3.org/TR/WCAG/">L’article 508 révisé, la norme EN 301 549 ou les Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</a></li>
+        </ul>
+        <p>Remember to include the <strong>file type and size inside the brackets</strong> when the link leads to a download.  For example:</p>
+        <ul>
+          <li><a href="https://www.rhone.gouv.fr/contenu/telechargement/47282/261770/file/Psp_urgent_formulaire_26_7_21.pdf">Complete your temporary passport application (in French only, PDF 0.46 Mb)</a></li>
+        </ul>
+      </li>
+      <li><strong>Link opens video or audio content.</strong> Specify the length of the content inside the brackets. Follow recommendations from #2 when the content is only available in a different language.
+        <ul>
+          <li>Example: <a href="https://www.youtube.com/watch?v=GbDT6FxQ6mk">Using Magnifier in Windows: At a Glance - Vidéo YouTube (2:07 minutes) (en anglais seulement)</a></li>
+        </ul>
+      </li>
+    </ol>
+    <h4>See how the rule for writing descriptive links applies in French</h4>
+    <ul>
+      <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp7-2">7.2 Rédiger des liens descriptifs</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for writing descriptive links", "title": "7.2 Write descriptive links", "url": "https://design.canada.ca/style-guide/#wp7-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-2"}'></div>
+    </div>
+  </section>
+  <section id="wp7-3">
+    <h3>7.3 Make sure that links work</h3>
+    <p>Make sure that your links work. Check that they take people to the correct page, which contains up-to-date information, in the appropriate official language. Links that don't work frustrate people and hurt the credibility of your content.</p>
+    <h4>See how the rule for verifying links applies in French</h4>
+    <ul>
+      <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp7-3">7.3 Vérifier que les liens fonctionnent</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for verifying links", "title": "7.3 Make sure that links work", "url": "https://design.canada.ca/style-guide/#wp7-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-3"}'></div>
+    </div>
+  </section>
+  <section id="wp7-4">
+    <h3>7.4 Linking to internal-to-government content</h3>
+    <p>In most cases, public-facing content should not link to content that is accessible only through internal government networks. Occasionally, the audience for content that is accessible to the public may be primarily internal.</p>
+    <p>When a link leads to content available only on internal government networks, write "(accessible only on the Government of Canada network)."</p>
+    <h4>See how the rule for internal-to-government content applies in French</h4>
+    <ul>
+      <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp7-4">7.4 Créer des liens vers du contenu interne</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for internal-to-government content", "title": "7.4 Linking to internal-to-government content", "url": "https://design.canada.ca/style-guide/#wp7-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-4"}'></div>
+    </div>
+  </section>
 </section>
 <section id="toc12">
   <h2>Web content makeovers</h2>
