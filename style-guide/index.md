@@ -2237,7 +2237,7 @@ title: "Canada.ca Content Style Guide"
   <h4>Use brackets inside a link to convey additional information</h4>
   <p><strong>Use brackets inside a link to add additional information.</strong> This helps users decide whether to proceed or not, and provides necessary information in the link text.</p>
   <p>This guidance applies in the following situations:</p>
-  <ol>
+  <ol class="lst-spcd">
     <li>
       <p>Link is to a downloadable document. Make sure to <strong>include the file type and size</strong> in the brackets:</p>
       <ul>
