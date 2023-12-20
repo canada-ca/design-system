@@ -2157,7 +2157,7 @@ title: "Canada.ca Content Style Guide"
               </ul>
             </li>
             <li><a href="#wp7-3">7.3 Make sure that links work</a></li>
-            <li><a href="#wp7-2">7.4 Linking to internal-to-government content</a></li>
+            <li><a href="#wp7-4">7.4 Linking to internal-to-government content</a></li>
           </ul>
         </div>
       </div>
