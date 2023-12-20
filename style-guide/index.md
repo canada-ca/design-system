@@ -2233,7 +2233,7 @@ title: "Canada.ca Content Style Guide"
   <h6>Instead of:</h6>
   <p>To ensure that you are paid the maximum Employment Insurance (EI) benefit rate that you are entitled to, complete the <a href="https://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=ins5241&amp;ln=eng">Claimant Attestation - Highest Weeks of Insurable Earnings (Variable Best Weeks) form</a> with the required information about your highest weeks of insurable earnings in the last 52 weeks of employment or since the start of your last claim, whichever is the shorter period of the two.</p>
 </section>
-<section id="wp7-2-2">
+<section id="wp-7-2-2">
   <h4>Use brackets inside a link to convey additional information</h4>
   <p><strong>Use brackets inside a link to add additional information.</strong> This helps users decide whether to proceed or not, and provides necessary information in the link text.</p>
   <p>This guidance applies in the following situations:</p>
