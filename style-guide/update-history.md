@@ -1,7 +1,7 @@
 ---
-altLangPage: "https://conception.canada.ca/guide-redaction"
-date: 2017-10-05
-dateModified:  2023-12-12
+altLangPage: "https://conception.canada.ca/guide-redaction/historique-modifications.html"
+date: 2023-12-21
+dateModified:  2023-12-21
 description: "Update history for the Canada.ca Content Style Guide"
 title: "Update history for the Canada.ca Content Style Guide"
 ---
