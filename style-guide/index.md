@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/guide-redaction"
 date: 2017-10-05
-dateModified:  2023-12-04
+dateModified:  2023-12-12
 description: "The Canada.ca Content Style Guide provides the rules to create web content that can be easily found, understood and used."
 title: "Canada.ca Content Style Guide"
 ---
@@ -15,7 +15,7 @@ title: "Canada.ca Content Style Guide"
         <div class="panel-body">
           <h2 class="mrgn-tp-sm">Table of contents</h2>
           <ul>
-            <li><a href="#toc1">Summary of changes</a></li>
+            <li><a href="#toc1">Recent updates</a></li>
             <li><a href="#toc2">Purpose</a></li>
             <li><a href="#toc3">Use of the style guide</a></li>
             <li><a href="#toc4">Related policies, standards and procedures</a></li>
@@ -35,17 +35,12 @@ title: "Canada.ca Content Style Guide"
   </div>
 </section>
 <section id="toc1">
-  <h2>Summary of changes</h2>
-  <p>We’ve made the following changes to this version of the guide:</p>
+  <h2>Recent updates</h2>
+  <p>Most recent updates to the guide:</p>
   <ul>
-    <li>improved the Figure 5 functional image example in the <a href="#wp6-1-1">Functional images</a> section</li>
-    <li>updated the example in the <a href="#wp6-1-2">Decorative images</a> section and added information about using null alt text</li>
-    <li>improved the simple table examples in <a href="#wp5-3">Section 5.3 Use tables to organize data</a></li>
-    <li>updated the text under <a href="#toc3">Use of the style guide</a> to highlight that the <cite>Directive on the Management of Communications</cite> is the official source for who must use this guide</li>
-    <li>updated the text under the heading <a href="#wp1-2-1b">Writing for inclusivity</a> to reflect the new inclusive writing guidelines and resources</li>
-    <li>added an example for when to capitalize public service under <a href="#wp4-1">4.1 Capitalization and punctuation</a></li>
+    <li>added a separate page for the <a href="update-history.html">Update history for the Canada.ca Content Style Guide</a></li>
   </ul>
-  <p>Refer to the listed section for details.</p>
+  <p><a href="update-history.html">Update history</a> (this list begins with changes on May 25, 2023).</p>
 </section>
 <section id="toc2">
   <h2>Purpose</h2>
