@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/guide-redaction"
 date: 2017-10-05
-dateModified:  2023-12-04
+dateModified:  2023-12-21
 description: "The Canada.ca Content Style Guide provides the rules to create web content that can be easily found, understood and used."
 title: "Canada.ca Content Style Guide"
 ---
@@ -2153,7 +2153,7 @@ title: "Canada.ca Content Style Guide"
             <li><a href="#wp7-2">7.2 Write descriptive links</a>
               <ul>
                 <li><a href="#wp7-2-1">Focus on the task</a></li>
-                <li><a href="#wp-7-2-2">Use brackets inside a link to convey additional information</a></li>
+                <li><a href="#wp-7-2-2">Use brackets for contextual information</a></li>
               </ul>
             </li>
             <li><a href="#wp7-3">7.3 Make sure that links work</a></li>
@@ -2235,8 +2235,8 @@ title: "Canada.ca Content Style Guide"
     <p>To ensure that you are paid the maximum Employment Insurance (EI) benefit rate that you are entitled to, complete the <a href="https://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=ins5241&amp;ln=eng">Claimant Attestation - Highest Weeks of Insurable Earnings (Variable Best Weeks) form</a> with the required information about your highest weeks of insurable earnings in the last 52 weeks of employment or since the start of your last claim, whichever is the shorter period of the two.</p>
   </section>
   <section id="wp-7-2-2">
-    <h4>Use brackets to convey additional information</h4>
-    <p><strong>Use brackets inside a link to add additional information.</strong> This helps users decide whether to proceed or not, and provides necessary information in the link text.</p>
+    <h4>Use brackets for contextual information</h4>
+    <p><strong>Use brackets inside a link to add information that provides context about the linked content.</strong> Use brackets sparingly. Only provide necessary, contextual information to help users decide whether to proceed.</p>
     <p>This guidance applies in the following situations:</p>
     <ol class="lst-spcd">
       <li>
@@ -2246,7 +2246,7 @@ title: "Canada.ca Content Style Guide"
         </ul>
       </li>
       <li>
-        <p><strong>Link to external content is in a different language.</strong> Add brackets inside the link and specify the language of the linked content, formatted as (LanguageX only).</p>
+        <p><strong>Link to external content is in a different language.</strong> Add brackets inside the link and specify the language of the linked content, formatted as (Language X only). Do not translate the title of the linked content and ensure its language is specified in the link's code</p>
         <p>On an English page, write:</p>
         <ul>
           <li><a href="#">Link text (French only)</a></li>
