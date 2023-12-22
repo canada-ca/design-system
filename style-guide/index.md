@@ -2252,21 +2252,21 @@ title: "Canada.ca Content Style Guide"
           <li><a href="#">Link text (French only)</a></li>
           <li><a href="#">Link text (Inuktitut only)</a></li>
           <li><a href="#">Link text (Spanish and Portuguese only)</a></li>
-          <li>Example: Find out how to <a href="https://passeport.ants.gouv.fr/Vos-demarches/Renouvellement-perte-ou-vol">renew your French passport while abroad in Canada (French only)</a>.</li>
+          <li>Example: Find out how to <span lang="fr"><a href="https://passeport.ants.gouv.fr/Vos-demarches/Renouvellement-perte-ou-vol">renew your French passport while abroad in Canada (French only)</a></span>.</li>
         </ul>
         <p>Follow the same structure on French-language pages linking to English content:</p>
         <ul>
-          <li><a href="https://accessibility.18f.gov/">18F Accessibility Guide (en anglais seulement)</a></li>
-          <li><a href="https://www.w3.org/TR/WCAG/">L’article 508 révisé, la norme EN 301 549 ou les Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</a></li>
+          <li> <span lang="en"><a href="https://accessibility.18f.gov/">18F Accessibility Guide (en anglais seulement)</a></span></li>
+          <li> <span lang="fr"><a href="https://www.w3.org/TR/WCAG/">L’article 508 révisé, la norme EN 301 549 ou les Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</a></span></li>
         </ul>
         <p>Remember to include the <strong>file type and size inside the brackets</strong> when the link leads to a download.  For example:</p>
         <ul>
-          <li><a href="https://www.rhone.gouv.fr/contenu/telechargement/47282/261770/file/Psp_urgent_formulaire_26_7_21.pdf">Complete your temporary passport application (in French only, PDF 0.46 Mb)</a></li>
+          <li><span lang="fr"><a href="https://www.rhone.gouv.fr/contenu/telechargement/47282/261770/file/Psp_urgent_formulaire_26_7_21.pdf">Complete your temporary passport application (in French only, PDF 0.46 Mb)</a></span></li>
         </ul>
       </li>
       <li><strong>Link opens video or audio content.</strong> Specify the length of the content inside the brackets. Follow recommendations from #2 when the content is only available in a different language.
         <ul>
-          <li>Example: <a href="https://www.youtube.com/watch?v=GbDT6FxQ6mk">Using Magnifier in Windows: At a Glance - Vidéo YouTube (2:07 minutes) (en anglais seulement)</a></li>
+          <li>Example: <span lang="fr"><a href="https://www.youtube.com/watch?v=GbDT6FxQ6mk">Using Magnifier in Windows: At a Glance - Vidéo YouTube (2:07 minutes) (en anglais seulement)</a></span></li>
         </ul>
       </li>
     </ol>
