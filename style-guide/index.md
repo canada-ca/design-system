@@ -233,9 +233,9 @@ title: "Canada.ca Content Style Guide"
       <li>guide your audience to the information they need to complete their task </li>
       <li>place supporting and relevant details toward the end of the text </li>
     </ul>
-    <div class="row mrgn-tp-ld">
+    <div class="row mrgn-tp-lg">
       <div class="col-md-8">
-        <figure class="mrgn-bttm-lg well">
+        <figure class="mrgn-tp-md mrgn-bttm-md well">
           <figcaption>
             <h4>Figure 1 (Inverted pyramid for ordering content on a web page)</h4>
           </figcaption>
