@@ -187,19 +187,20 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-19.html" aria-label="Weather information"><img src="images/placeholder.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-20.html" aria-label="Travel documents"><img src="images/placeholder.png" class="img-responsive" alt="">
       <div class="card-container">
-        <h3>Weather information</h3>
-        <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadians to find and understand information related to the Canada Child Benefit.</p>
+        <h3>Travel documents</h3>
+        <p class="mrgn-tp-lg"><strong>Purpose</strong>: help those potential visitors to Canada to clearly understand what documentation is required to enter.</p>
         <p><strong>Partner</strong>: Canada Revenue Agency</p>
       </div>
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-20.html" aria-label="Travel documents"><img src="images/bunny.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-19.html" aria-label="Weather information"><img src="images/bunny15.png" class="img-responsive" alt="">
       <div class="card-container">
-        <h3>Travel documents</h3>
-        <p class="mrgn-tp-lg"><strong>Purpose</strong>: help those potential visitors to Canada to clearly understand what documentation is required to enter.</p>
+        <h3>Business start-up activities</h3>
+        <p class="mrgn-tp-lg"><strong>Purpose</strong>: combine information from across departments so that Canadians easily get the whole picture on what the Government of Canada requires when starting a business.</p>
+        <p><strong>Partner</strong>: Canada Revenue Agency; Innovation, Science and Economic Development Canada</p>
       </div>
       </a></div>
   </div>
