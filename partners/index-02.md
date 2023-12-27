@@ -196,7 +196,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-20.html" aria-label="Travel documents"><img src="images/bunny15.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-20.html" aria-label="Travel documents"><img src="images/bunny.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Travel documents</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: help those potential visitors to Canada to clearly understand what documentation is required to enter.</p>
