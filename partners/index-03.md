@@ -6,7 +6,7 @@ css:
    - https://use.fontawesome.com/releases/v5.15.4/css/all.css
    - css/card.css
 date: 2020-11-20
-dateModified: 2023-12-08
+dateModified: 2023-12-27
 description: "The Digital Transformation Office works with federal institutions to make Canada.ca content easier to find and understand."
 layout: without-h1
 title: Working with partners to improve task success on Canada.ca
