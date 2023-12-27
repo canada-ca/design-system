@@ -79,7 +79,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-07.html" aria-label="Travel advice and advisories"><img src="images/child-benifit.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-07.html" aria-label="Travel advice and advisories"><img src="images/placeholder.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Travel advice and advisories</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadians to find and understand travel advice and guidance from the Government of Canada</p>
@@ -88,7 +88,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-08.html" aria-label="Contact the CRA"><img src="images/child-benifit.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-08.html" aria-label="Contact the CRA"><img src="images/placeholder.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Contact the CRA</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadians to find the correct phone number or mailing address for specific services related to the CRA.</p>
@@ -97,7 +97,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-09.html" aria-label="EI maternity and parental benefits"><img src="images/child-benifit.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-09.html" aria-label="EI maternity and parental benefits"><img src="images/placeholder.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>EI maternity and parental benefits</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadian parents to understand and apply for maternity and parental benefits.</p>
@@ -106,7 +106,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-10.html" aria-label="Student loans and grants"><img src="images/child-benifit.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-10.html" aria-label="Student loans and grants"><img src="images/placeholder.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Student loans and grants</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadian students applying, managing and accessing details of their student loans and grants.</p>
@@ -115,7 +115,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-11.html" aria-label="Find a job"><img src="images/child-benifit.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-11.html" aria-label="Find a job"><img src="images/placeholder.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Find a job</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadians to find government jobs on Canada.ca.</p>
@@ -124,7 +124,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-12.html" aria-label="Prepare for the citizenship test"><img src="images/child-benifit.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-12.html" aria-label="Prepare for the citizenship test"><img src="images/placeholder.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Prepare for the citizenship test</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for applicants to study for the Canadian citizenship test.</p>
@@ -133,7 +133,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-13.html" aria-label="Business account maintenance"><img src="images/child-benifit.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-13.html" aria-label="Business account maintenance"><img src="images/placeholder.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Business account maintenance</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadians to register and manage their CRA business accounts.</p>
@@ -142,7 +142,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-14.html" aria-label="Recalls and safety alerts"><img src="images/child-benifit.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-14.html" aria-label="Recalls and safety alerts"><img src="images/placeholder.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Recalls and safety alerts</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadians to find and understand both recalls and safety alerts for food, health products, vehicles and car seats.</p>
@@ -151,7 +151,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-15.html" aria-label="EI special benefits"><img src="images/child-benifit.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-15.html" aria-label="EI special benefits"><img src="images/placeholder.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>EI special benefits</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadians to understand eligibility for caregiver benefits.</p>
@@ -160,7 +160,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-16.html" aria-label="GST/HST and payroll"><img src="images/child-benifit.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-16.html" aria-label="GST/HST and payroll"><img src="images/placeholder.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>GST/HST and payroll</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for businesses to fulfill their GST/HST and payroll requirements.</p>
@@ -169,7 +169,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-17.html" aria-label="Disease and immunization information"><img src="images/child-benifit.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-17.html" aria-label="Disease and immunization information"><img src="images/placeholder.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Disease and immunization information</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadians to interpret immunization guidelines.</p>
@@ -178,7 +178,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-18.html" aria-label="Weather information"><img src="images/child-benifit.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-18.html" aria-label="Weather information"><img src="images/placeholder.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Weather information</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadians to understand notifications about dangerous weather conditions.</p>
@@ -187,7 +187,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-19.html" aria-label="Weather information"><img src="images/child-benifit.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-19.html" aria-label="Weather information"><img src="images/placeholder.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Weather information</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadians to find and understand information related to the Canada Child Benefit.</p>
@@ -196,7 +196,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-20.html" aria-label="Travel documents"><img src="images/child-benifit.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-20.html" aria-label="Travel documents"><img src="images/bunny15.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Travel documents</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: help those potential visitors to Canada to clearly understand what documentation is required to enter.</p>
