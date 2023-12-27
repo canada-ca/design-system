@@ -14,7 +14,7 @@
 }
 /* On mouse-over, add a deeper shadow */
 .card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4);
 }
 /* Add rounded corners to the top left and the top right corner of the image */
 .card img {
