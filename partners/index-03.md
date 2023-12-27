@@ -196,7 +196,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-19.html" aria-label="Weather information">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-19.html" aria-label="Business start-up activities">
       <div class="card-container">
         <h3>Business start-up activities</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: combine information from across departments so that Canadians easily get the whole picture on what the Government of Canada requires when starting a business.</p>
