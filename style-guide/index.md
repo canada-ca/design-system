@@ -235,7 +235,7 @@ title: "Canada.ca Content Style Guide"
     </ul>
     <div class="row mrgn-tp-ld">
       <div class="col-md-8">
-        <figure class="mrgn-bttm-lg thumbnail">
+        <figure class="mrgn-bttm-lg well">
           <figcaption>
             <h4>Figure 1 (Inverted pyramid for ordering content on a web page)</h4>
           </figcaption>
