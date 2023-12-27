@@ -79,7 +79,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-06.html" aria-label="Canada Child Benefit"><img src="images/child-benifit.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-07.html" aria-label="Canada Child Benefit"><img src="images/child-benifit.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Canada Child Benefit</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadians to find and understand information related to the Canada Child Benefit.</p>
@@ -88,7 +88,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-06.html" aria-label="Canada Child Benefit"><img src="images/child-benifit.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-08.html" aria-label="Canada Child Benefit"><img src="images/child-benifit.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Canada Child Benefit</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadians to find and understand information related to the Canada Child Benefit.</p>
@@ -97,7 +97,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-06.html" aria-label="Canada Child Benefit"><img src="images/child-benifit.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-09.html" aria-label="Canada Child Benefit"><img src="images/child-benifit.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Canada Child Benefit</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadians to find and understand information related to the Canada Child Benefit.</p>
@@ -106,7 +106,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-06.html" aria-label="Canada Child Benefit"><img src="images/child-benifit.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-10.html" aria-label="Canada Child Benefit"><img src="images/child-benifit.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Canada Child Benefit</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadians to find and understand information related to the Canada Child Benefit.</p>
@@ -115,7 +115,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-06.html" aria-label="Canada Child Benefit"><img src="images/child-benifit.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-11.html" aria-label="Canada Child Benefit"><img src="images/child-benifit.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Canada Child Benefit</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadians to find and understand information related to the Canada Child Benefit.</p>
@@ -124,7 +124,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-06.html" aria-label="Canada Child Benefit"><img src="images/child-benifit.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-12.html" aria-label="Canada Child Benefit"><img src="images/child-benifit.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Canada Child Benefit</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadians to find and understand information related to the Canada Child Benefit.</p>
@@ -133,7 +133,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-06.html" aria-label="Canada Child Benefit"><img src="images/child-benifit.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-13.html" aria-label="Canada Child Benefit"><img src="images/child-benifit.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Canada Child Benefit</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadians to find and understand information related to the Canada Child Benefit.</p>
@@ -142,7 +142,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-06.html" aria-label="Canada Child Benefit"><img src="images/child-benifit.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-14.html" aria-label="Canada Child Benefit"><img src="images/child-benifit.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Canada Child Benefit</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadians to find and understand information related to the Canada Child Benefit.</p>
@@ -151,7 +151,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-06.html" aria-label="Canada Child Benefit"><img src="images/child-benifit.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-15.html" aria-label="Canada Child Benefit"><img src="images/child-benifit.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Canada Child Benefit</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadians to find and understand information related to the Canada Child Benefit.</p>
@@ -160,7 +160,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-06.html" aria-label="Canada Child Benefit"><img src="images/child-benifit.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-16.html" aria-label="Canada Child Benefit"><img src="images/child-benifit.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Canada Child Benefit</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadians to find and understand information related to the Canada Child Benefit.</p>
@@ -169,7 +169,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-06.html" aria-label="Canada Child Benefit"><img src="images/child-benifit.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-17.html" aria-label="Canada Child Benefit"><img src="images/child-benifit.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Canada Child Benefit</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadians to find and understand information related to the Canada Child Benefit.</p>
@@ -178,7 +178,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-06.html" aria-label="Canada Child Benefit"><img src="images/child-benifit.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-18.html" aria-label="Canada Child Benefit"><img src="images/child-benifit.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Canada Child Benefit</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadians to find and understand information related to the Canada Child Benefit.</p>
@@ -187,7 +187,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-06.html" aria-label="Canada Child Benefit"><img src="images/child-benifit.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-19.html" aria-label="Canada Child Benefit"><img src="images/child-benifit.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Canada Child Benefit</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadians to find and understand information related to the Canada Child Benefit.</p>
@@ -196,7 +196,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-06.html" aria-label="Canada Child Benefit"><img src="images/child-benifit.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-20.html" aria-label="Canada Child Benefit"><img src="images/child-benifit.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Canada Child Benefit</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadians to find and understand information related to the Canada Child Benefit.</p>
