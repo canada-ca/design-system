@@ -237,32 +237,35 @@ title: "Canada.ca Content Style Guide"
       <figcaption>
         <h4>Figure 1 (Inverted pyramid for ordering content on a web page)</h4>
       </figcaption>
-      <img alt="Upside-down pyramid showing how to start a web page with key information first." class="img-responsive" id="fig1" src="/style-guide/images/pyramid-eng-02.png"></figure>
-    <p>The inverted pyramid for ordering content on a web page in Figure 1 is divided into four sections.  The most important content for task completion is at the top, the widest part of the pyramid.   The relevance of content for task completion flows down the inverted pyramid toward the peak at the bottom.</p>
-    <ol>
-      <li><strong>Most important</strong>:
-        <ul>
-          <li>start with the most important idea, step or information</li>
-        </ul>
-      </li>
-      <li><strong>Prioritized tasks</strong>:
-        <ul>
-          <li>add details and tasks in order of importance</li>
-          <li>keep all task related content in the centre of the page</li>
-          <li>use links to direct people to key information and tasks</li>
-        </ul>
-      </li>
-      <li><strong>More information</strong>:
-        <ul>
-          <li>include information for audiences who want to learn more or have more knowledge of the topic or service, but only if it makes sense</li>
-        </ul>
-      </li>
-      <li><strong>Related links</strong>:
-        <ul>
-          <li>add links only if they relate to content that supports completion of the task on the web page (for example, laws or publications)</li>
-        </ul>
-      </li>
-    </ol>
+      <img alt="Upside-down pyramid showing how to start a web page with key information first." class="img-responsive" id="fig1" src="/style-guide/images/pyramid-eng-02.png">
+      <figcaption>
+        <p>The inverted pyramid for ordering content on a web page in Figure 1 is divided into four sections.  The most important content for task completion is at the top, the widest part of the pyramid.   The relevance of content for task completion flows down the inverted pyramid toward the peak at the bottom.</p>
+        <ol>
+          <li><strong>Most important</strong>:
+            <ul>
+              <li>start with the most important idea, step or information</li>
+            </ul>
+          </li>
+          <li><strong>Prioritized tasks</strong>:
+            <ul>
+              <li>add details and tasks in order of importance</li>
+              <li>keep all task related content in the centre of the page</li>
+              <li>use links to direct people to key information and tasks</li>
+            </ul>
+          </li>
+          <li><strong>More information</strong>:
+            <ul>
+              <li>include information for audiences who want to learn more or have more knowledge of the topic or service, but only if it makes sense</li>
+            </ul>
+          </li>
+          <li><strong>Related links</strong>:
+            <ul>
+              <li>add links only if they relate to content that supports completion of the task on the web page (for example, laws or publications)</li>
+            </ul>
+          </li>
+        </ol>
+      </figcaption>
+    </figure>
     <section id="wp2-1-1">
       <h4>Get to the point</h4>
       <p>Write direct statements that relate to completing a task.  Don’t distract people with superfluous content, such as background information or welcome messages.</p>
