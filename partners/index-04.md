@@ -32,7 +32,7 @@ title: Working with partners to improve task success on Canada.ca
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: explore navigation and design options to help people find services.</p>
         <p><strong>Partners</strong>:
         <ul>
-          <li>Agriculture and Agri-Food Canada</li>
+          <li class="mrgn-lft-sm">Agriculture and Agri-Food Canada</li>
           <li>Immigration, Refugees and Citizenship Canada</li>
           <li>Veterans Affairs Canada and Statistics Canada</li>
         </ul>
