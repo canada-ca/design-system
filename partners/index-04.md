@@ -58,7 +58,7 @@ title: Working with partners to improve task success on Canada.ca
       <div class="card-container">
         <h3>Electronic Procurement Solution</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier to find and understand government business opportunities and guidance.</p>
-        <p><strong>Partners</strong>: Public Services; Procurement Canada (PSPC)</p>
+        <p><strong>Partners</strong>: Public Services; Procurement Canada</p>
       </div>
       </a></div>
   </div>
