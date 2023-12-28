@@ -2,16 +2,16 @@
 altLangPage: "https://conception.canada.ca/"
 date: 2023-01-01
 dateModified: 2023-01-01
-description: "Make it easier for Canadians to find and understand information related to the Canada Child Benefit."
+description: "Make it easier for Canadians to find and understand travel advice and guidance from the Government of Canada."
 layout: without-h1
 title: "Travel advice and advisories"
 ---
 <h1 property="name headline" id="wb-cont" dir="ltr"></h1>
-<p>Make it easier for Canadians to find and understand information related to the Canada Child Benefit.</p>
+<p>Make it easier for Canadians to find and understand travel advice and guidance from the Government of Canada.</p>
 <h2>Partner departments</h2>
 <p>Global Affairs Canada (GAC); Immigration, Refugees and Citizenship Canada (IRCC); Public Health Agency of Canada (PHAC); Health Canada (HC); Canada Border Services Agency (CBSA)</p>
 <h2>Why this work matters</h2>
-<p>Canadians do a lot of travelling: </p>
+<p>Canadians do a lot of travelling:</p>
 <ul>
   <li class="custli">accessing travel advice and advisories is one of the top 10 tasks on Canada.ca, with more than 11 million annual visits to the entry page for this section <sup id="fn1-rf"><a class="fn-lnk" href="#fn1"><span class="wb-inv">Footnote: Travel advice and advisories</span>1</a></sup> </li>
   <li class="custli">in 2017, Canadians made 42.1 million same-day and overnight trips to the United States, and 12.8 million trips to overseas countries <sup id="fn2-rf"><a class="fn-lnk" href="#fn2"><span class="wb-inv">Footnote: Travel advice and advisories </span>2</a></sup> </li>
