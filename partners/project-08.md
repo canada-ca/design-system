@@ -2,20 +2,21 @@
 altLangPage: "https://conception.canada.ca/"
 date: 2024-01-02
 dateModified: 2024-01-02
-description: "Make it easier for Canadian parents to understand and apply for maternity and parental benefits."
+description: "Make it easier for Canadians to find the correct phone number or mailing address for specific services related to the Canada Revenue Agency (CRA)."
 layout: without-h1
-title: "EI maternity and parental benefits"
+title: "Contact the CRA"
 ---
-<h1 property="name headline" id="wb-cont" dir="ltr">EI maternity and parental benefits</h1>
-<p>Make it easier for Canadian parents to understand and apply for maternity and parental benefits.</p>
+<h1 property="name headline" id="wb-cont" dir="ltr">Contact the CRA</h1>
+<p>Make it easier for Canadians to find the correct phone number or mailing address for specific services related to the Canada Revenue Agency (CRA).</p>
 <h2>Partner departments</h2>
 <ul>
-  <li>Service Canada</li>
-  <li>Employment and Social Development Canada (ESDC)</li>
+  <li>Canada Revenue Agency (CRA)</li>
 </ul>
 <h2>Why this work matters</h2>
+<p>Improving the usability of contact information for the Canada Revenue Agency will: </p>
 <ul>
-  <li class="custli">Thousands of Canadians parents apply for maternity and parental benefits each year</li>
+  <li class="custli">reduce the time Canadians spend looking for answers</li>
+  <li class="custli">free up call centre agents to work on more complex problems</li>
 </ul>
 <div class="row mrgn-tp-lg mrgn-bttm-lg">
   <div class="col-md-8">
@@ -33,9 +34,9 @@ title: "EI maternity and parental benefits"
         </thead>
         <tbody>
           <tr>
-            <td class="table-smnum">28%</td>
-            <td class="table-smnum">78%</td>
-            <td class="table-smnum"><span class="text-success"><strong>+50%pts</strong></span></td>
+            <td class="table-smnum">40%</td>
+            <td class="table-smnum">85%</td>
+            <td class="table-smnum"><span class="text-success"><strong>+45%pts</strong></span></td>
           </tr>
         </tbody>
       </table>
@@ -44,18 +45,18 @@ title: "EI maternity and parental benefits"
 </div>
 <h2>Task scenarios tested and improved</h2>
 <ul class="custul">
-  <li class="custli">Anne is expecting a baby in 6 weeks. She wants to work right up to her due date and take leave after. She'll be applying to get money from the government during her time off.If she wants to get everything ready before the baby is born, when should she apply?</li>
-  <li class="custli">Maya's doctor orders her off work 5 weeks before her baby is due. She doesn't have any vacation or sick days left through her work. Does she have to use her maternity leave or are there other options?</li>
-  <li class="custli">You've been working full time for the past year and are expecting a baby. How can you be sure that your earnings are considered
-    "insurable" so you can apply for parental leave to look after the baby?</li>
-  <li class="custli">Diane is expecting a baby. She wants to take as much time off as possible. Her partner also wants to take 4 weeks of leave right after the birth. What's the longest leave Diane can take from start to finish?</li>
-  <li class="custli">You have recently been promoted from part-time to full-time, so your weekly pay has gone up a lot. How long do you need to be working at the new rate to get the maximum parental benefit amount after your baby is born?</li>
-  <li class="custli">Fiona adopted a baby and chose the 35-week option for parental leave when she applied. Now that the baby is a little older, can she switch to a longer leave?</li>
-  <li class="custli">Jeanine is applying for maternity leave. Her employer recently gave everyone in the company a bonus after a successful year. Will Jeanine's bonus be included in the calculation of her maternity benefits?</li>
-  <li class="custli">Marie is on parental leave and planning for her return to work. How can she find out when her last benefit payment will be?</li>
-  <li class="custli">Naya is expecting a baby. December 13 will be her last day at work. Her partner is going to take 10 weeks of leave. She has a salary of
-    $43,000 per year, and wants to get the highest payments possible during her leave.How much will she get per week?
-    When will her payments end?</li>
+  <li class="custli">Your bank asked for an official proof of income statement. It's Sunday. Do you have to wait until Monday to call CRA to get this or is there a number you can call today?</li>
+  <li class="custli">You renewed your mortgage, and you moved all your bank accounts to a new bank. What number would you call to get your personal tax refund into your new bank account?</li>
+  <li class="custli">You are sponsoring your parents so they can immigrate to Canada. Immigration asked for copies of your CRA Notices of Assessment for the last 3 years. What number would you call to get them?</li>
+  <li class="custli">You had a baby a few weeks ago. While at the hospital, you applied for the Canada Child Benefit but you haven't heard back. What number would you call to find out what to expect?</li>
+  <li class="custli">You were expecting your personal tax refund to be deposited last week but it hasn't come. You only have a few minutes to call and it's Monday
+    - find the best phone number to find out when it will arrive.</li>
+  <li class="custli">You made a business tax payment 2 weeks ago, but it got applied to your personal tax account by mistake. Which number would you call to move the payment to the right account?</li>
+  <li class="custli">You owe more corporate income tax than you expected and can't pay what you owe. What number would you call to talk about whether you can pay it off over several months?</li>
+  <li class="custli">Your office got one of those threatening fake phone calls saying they were the Canada Revenue Agency. What number would you call to report it?</li>
+  <li class="custli">You are helping your aunt in China sell a house in Vancouver. She filled out this T2062 form and is ready to send it in as registered mail. What address should she send it to?</li>
+  <li class="custli">Your business needs to send in this RC1 form to get a payroll account. What address should you send it to from your office in Penticton BC?</li>
+  <li class="custli">You lost the security code that you need to login to your personal CRA account. Find out which phone number to call to get one.</li>
 </ul>
 <h2>Research summary</h2>
-<p><a href="https://blog.canada.ca/research-summaries/maternity-parental-research-summary.html">Employment Insurance (EI) maternity and parental benefits</a></p>
+<p><a href="https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html">Contact the Canada Revenue Agency (CRA)</a></p>
