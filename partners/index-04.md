@@ -30,7 +30,7 @@ title: Working with partners to improve task success on Canada.ca
         <h3>Orientation and wayfinding</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: explore navigation and design options to help people find services.</p>
         <p><strong>Partners</strong>:</p>
-        <ul>
+        <ul class="mrgn-lft-0">
           <li class="mrgn-lft-sm">Agriculture and Agri-Food Canada</li>
           <li>Immigration, Refugees and Citizenship Canada</li>
           <li>Veterans Affairs Canada and Statistics Canada</li>
