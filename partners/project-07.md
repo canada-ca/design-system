@@ -66,5 +66,5 @@ title: "Travel advice and advisories"
   <li class="custli">After spending time with friends in Panama, Maya is heading to Costa Rica for a week-long vacation. Does she require a Yellow Fever vaccination to go to Costa Rica?</li>
   <li class="custli">Marco is travelling to Cambodia for his job. Has the Canadian government issued a travel advisory for that country?</li>
 </ul>
-<h2>Task scenarios tested and improved</h2>
-<p><a href="https://blog.canada.ca/research-summaries/travel-advice-research-summary.html">Research summary: Travel advice and advisories</a></p>
+<h2>Research summary</h2>
+<p><a href="https://blog.canada.ca/research-summaries/travel-advice-research-summary.html">Travel advice and advisories</a></p>
