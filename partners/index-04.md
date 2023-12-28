@@ -23,8 +23,8 @@ title: Working with partners to improve task success on Canada.ca
 </ul>
 <p>We work collaboratively to refine prototypes until they achieve at least a 20% improvement in task success.</p>
 <h2>Projects with our partners</h2>
-<div class="row wb-eqht mrgn-tp-md wb-eqht mrgn-tp-lg small">
-  <div class="col-xs-12 col-sm-6 col-md-3 mrgn-bttm-lg">
+<div class="row wb-eqht mrgn-tp-md wb-eqht mrgn-tp-lg">
+  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-01.html" aria-label="Orientation and wayfinding"><img src="images/2022-12-21.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Orientation and wayfinding</h3>
@@ -33,7 +33,7 @@ title: Working with partners to improve task success on Canada.ca
       </div>
       </a></div>
   </div>
-  <div class="col-xs-12 col-sm-6 col-md-3 mrgn-bttm-lg">
+  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-02.html" aria-label="Medical devices"><img src="images/medical.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Medical devices</h3>
@@ -42,7 +42,7 @@ title: Working with partners to improve task success on Canada.ca
       </div>
       </a></div>
   </div>
-  <div class="col-xs-12 col-sm-6 col-md-3 mrgn-bttm-lg">
+  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-03.html" aria-label="Electronic Procurement Solution"><img src="images/procurement.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Electronic Procurement Solution</h3>
@@ -51,7 +51,7 @@ title: Working with partners to improve task success on Canada.ca
       </div>
       </a></div>
   </div>
-  <div class="col-xs-12 col-sm-6 col-md-3 mrgn-bttm-lg">
+  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-04.html" aria-label="Pay for the public service"><img src="images/pay.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Pay for the public service</h3>
@@ -60,7 +60,7 @@ title: Working with partners to improve task success on Canada.ca
       </div>
       </a></div>
   </div>
-  <div class="col-xs-12 col-sm-6 col-md-3 mrgn-bttm-lg">
+  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-05.html" aria-label="Recalls and safety alerts search"><img src="images/recall.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Recalls and safety alerts search</h3>
@@ -69,7 +69,7 @@ title: Working with partners to improve task success on Canada.ca
       </div>
       </a></div>
   </div>
-  <div class="col-xs-12 col-sm-6 col-md-3 mrgn-bttm-lg">
+  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-06.html" aria-label="Canada Child Benefit"><img src="images/child-benifit.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Canada Child Benefit</h3>
@@ -78,7 +78,7 @@ title: Working with partners to improve task success on Canada.ca
       </div>
       </a></div>
   </div>
-  <div class="col-xs-12 col-sm-6 col-md-3 mrgn-bttm-lg">
+  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-07.html" aria-label="Travel advice and advisories"><img src="images/travel-advice.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Travel advice and advisories</h3>
@@ -87,7 +87,7 @@ title: Working with partners to improve task success on Canada.ca
       </div>
       </a></div>
   </div>
-  <div class="col-xs-12 col-sm-6 col-md-3 mrgn-bttm-lg">
+  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-08.html" aria-label="Contact the CRA"><img src="images/placeholder.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Contact the CRA</h3>
@@ -96,7 +96,7 @@ title: Working with partners to improve task success on Canada.ca
       </div>
       </a></div>
   </div>
-  <div class="col-xs-12 col-sm-6 col-md-3 mrgn-bttm-lg">
+  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-09.html" aria-label="EI maternity and parental benefits"><img src="images/ei.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>EI maternity and parental benefits</h3>
@@ -105,7 +105,7 @@ title: Working with partners to improve task success on Canada.ca
       </div>
       </a></div>
   </div>
-  <div class="col-xs-12 col-sm-6 col-md-3 mrgn-bttm-lg">
+  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-10.html" aria-label="Student loans and grants"><img src="images/student-loans.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Student loans and grants</h3>
@@ -114,7 +114,7 @@ title: Working with partners to improve task success on Canada.ca
       </div>
       </a></div>
   </div>
-  <div class="col-xs-12 col-sm-6 col-md-3 mrgn-bttm-lg">
+  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-11.html" aria-label="Find a job"><img src="images/find-job.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Find a job</h3>
@@ -123,7 +123,7 @@ title: Working with partners to improve task success on Canada.ca
       </div>
       </a></div>
   </div>
-  <div class="col-xs-12 col-sm-6 col-md-3 mrgn-bttm-lg">
+  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
 
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-12.html" aria-label="Prepare for the citizenship test"><img src="images/citizenship-test.png" class="img-responsive" alt="">
       <div class="card-container">
@@ -133,7 +133,7 @@ title: Working with partners to improve task success on Canada.ca
       </div>
       </a></div>
   </div>
-  <div class="col-xs-12 col-sm-6 col-md-3 mrgn-bttm-lg">
+  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-13.html" aria-label="Business account maintenance"><img src="images/placeholder.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Business account maintenance</h3>
@@ -142,7 +142,7 @@ title: Working with partners to improve task success on Canada.ca
       </div>
       </a></div>
   </div>
-  <div class="col-xs-12 col-sm-6 col-md-3 mrgn-bttm-lg">
+  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-14.html" aria-label="Recalls and safety alerts"><img src="images/placeholder.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Recalls and safety alerts</h3>
@@ -151,7 +151,7 @@ title: Working with partners to improve task success on Canada.ca
       </div>
       </a></div>
   </div>
-  <div class="col-xs-12 col-sm-6 col-md-3 mrgn-bttm-lg">
+  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-15.html" aria-label="EI special benefits"><img src="images/placeholder.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>EI special benefits</h3>
@@ -160,7 +160,7 @@ title: Working with partners to improve task success on Canada.ca
       </div>
       </a></div>
   </div>
-  <div class="col-xs-12 col-sm-6 col-md-3 mrgn-bttm-lg">
+  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-16.html" aria-label="GST/HST and payroll"><img src="images/placeholder.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>GST/HST and payroll</h3>
@@ -169,7 +169,7 @@ title: Working with partners to improve task success on Canada.ca
       </div>
       </a></div>
   </div>
-  <div class="col-xs-12 col-sm-6 col-md-3 mrgn-bttm-lg">
+  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-17.html" aria-label="Disease and immunization information"><img src="images/placeholder.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Disease and immunization information</h3>
@@ -178,7 +178,7 @@ title: Working with partners to improve task success on Canada.ca
       </div>
       </a></div>
   </div>
-  <div class="col-xs-12 col-sm-6 col-md-3 mrgn-bttm-lg">
+  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-18.html" aria-label="Weather information"><img src="images/placeholder.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Weather information</h3>
@@ -187,7 +187,7 @@ title: Working with partners to improve task success on Canada.ca
       </div>
       </a></div>
   </div>
-  <div class="col-xs-12 col-sm-6 col-md-3 mrgn-bttm-lg">
+  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-20.html" aria-label="Travel documents"><img src="images/placeholder.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Travel documents</h3>
@@ -196,7 +196,7 @@ title: Working with partners to improve task success on Canada.ca
       </div>
       </a></div>
   </div>
-  <div class="col-xs-12 col-sm-6 col-md-3 mrgn-bttm-lg">
+  <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-19.html" aria-label="Business start-up activities"><img src="images/bunny.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Business start-up activities</h3>
