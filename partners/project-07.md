@@ -67,4 +67,4 @@ title: "Travel advice and advisories"
   <li class="custli">Marco is travelling to Cambodia for his job. Has the Canadian government issued a travel advisory for that country?</li>
 </ul>
 <h2>Research summary</h2>
-<p><a href="https://blog.canada.ca/research-summaries/travel-advice-research-summary.html">Research summary: Travel advice and advisories</a></p>
+<p><a href="https://blog.canada.ca/research-summaries/travel-advice-research-summary.html">Travel advice and advisories</a></p>
