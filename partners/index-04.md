@@ -22,17 +22,6 @@ title: Working with partners to improve task success on Canada.ca
   <li>co-creating prototypes</li>
 </ul>
 <p>We work collaboratively to refine prototypes until they achieve at least a 20% improvement in task success.</p>
-<h1 property="name" id="wb-cont" property="name headline" dir="ltr">
-<span class="stacked"><span>Working with partners to improve task success on Canada.ca</span></span>
-</h1>
-<p>The Digital Transformation Office works with federal institutions to make Canada.ca content easier to find and understand.</p>
-<p>Our method includes:</p>
-<ul>
-  <li>setting concrete usability targets</li>
-  <li>usability testing on specific Government of Canada Services</li>
-  <li>co-creating prototypes</li>
-</ul>
-<p>We work collaboratively to refine prototypes until they achieve at least a 20% improvement in task success.</p>
 <h2>Projects with our partners</h2>
 <p>Select a card for more information about a project.</p>
 <div class="row wb-eqht mrgn-tp-md wb-eqht mrgn-tp-lg">
