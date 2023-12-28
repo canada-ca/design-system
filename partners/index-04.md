@@ -22,6 +22,17 @@ title: Working with partners to improve task success on Canada.ca
   <li>co-creating prototypes</li>
 </ul>
 <p>We work collaboratively to refine prototypes until they achieve at least a 20% improvement in task success.</p>
+<h1 property="name" id="wb-cont" property="name headline" dir="ltr">
+<span class="stacked"><span>Working with partners to improve task success on Canada.ca</span></span>
+</h1>
+<p>The Digital Transformation Office works with federal institutions to make Canada.ca content easier to find and understand.</p>
+<p>Our method includes:</p>
+<ul>
+  <li>setting concrete usability targets</li>
+  <li>usability testing on specific Government of Canada Services</li>
+  <li>co-creating prototypes</li>
+</ul>
+<p>We work collaboratively to refine prototypes until they achieve at least a 20% improvement in task success.</p>
 <h2>Projects with our partners</h2>
 <div class="row wb-eqht mrgn-tp-md wb-eqht mrgn-tp-lg">
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
@@ -124,7 +135,6 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-12.html" aria-label="Prepare for the citizenship test"><img src="images/citizenship-test.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Prepare for the citizenship test</h3>
