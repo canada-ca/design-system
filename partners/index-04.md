@@ -89,7 +89,7 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-08.html" aria-label="Contact the CRA"><img src="images/placeholder.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-08.html" aria-label="Contact the CRA"><img src="images/contact.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Contact the CRA</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier to find the correct phone number or mailing for CRA services.</p>
