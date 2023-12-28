@@ -20,7 +20,7 @@
 }
 /* Add rounded corners to the top left and the top right corner of the image */
 .card img {
-  border-radius: 5px 5px 0 0;
+  border-radius: 10px 10px 0 0;
 }
 /* Add some padding inside the card container */
 .card-container {
