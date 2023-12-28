@@ -5,12 +5,13 @@
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   transition: 0.3s;
 }
-.card h3 {
-  text-align: center;
-}
 .card a {
   color: #333 !important;
   text-decoration: none !important; /* no underline */
+}
+.card h3 {
+  text-align: center;
+  text-decoration: underline !important; /* underline card heading */
 }
 /* On mouse-over, add a deeper shadow */
 .card:hover {
