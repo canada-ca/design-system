@@ -6,7 +6,7 @@ description: "Make it easier for Canadians to find and understand travel advice 
 layout: without-h1
 title: "Travel advice and advisories"
 ---
-<h1 property="name headline" id="wb-cont" dir="ltr"></h1>
+<h1 property="name headline" id="wb-cont" dir="ltr">Travel advice and advisories</h1>
 <p>Make it easier for Canadians to find and understand travel advice and guidance from the Government of Canada.</p>
 <h2>Partner departments</h2>
 <ul>
