@@ -12,6 +12,7 @@ layout: without-h1
 title: Working with partners to improve task success on Canada.ca
 ---
 <h1 property="name" id="wb-cont" property="name headline" dir="ltr">
+
 <span class="stacked"><span>Working with partners to improve task success on Canada.ca</span></span>
 </h1>
 <p>The Digital Transformation Office works with federal institutions to make Canada.ca content easier to find and understand.</p>
@@ -29,7 +30,11 @@ title: Working with partners to improve task success on Canada.ca
       <div class="card-container">
         <h3>Orientation and wayfinding</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: explore navigation and design options to help people find services.</p>
-        <p><strong>Partners</strong>: Agriculture and Agri-Food Canada; Immigration, Refugees and Citizenship Canada; Veterans Affairs Canada and Statistics Canada</p>
+        <ul>
+          <li>Agriculture and Agri-Food Canada</li>
+          <li>Immigration, Refugees and Citizenship Canada</li>
+          <li>Veterans Affairs Canada and Statistics Canada</li>
+        </ul>
       </div>
       </a></div>
   </div>
@@ -205,3 +210,4 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
 </div>
+
