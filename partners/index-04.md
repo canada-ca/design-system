@@ -129,7 +129,7 @@ title: Working with partners to improve task success on Canada.ca
       <div class="card-container">
         <h3>Prepare for the citizenship test</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier to study for the Canadian citizenship test.</p>
-        <p><strong>Partners</strong>: Immigration, Refugees and Citizenship Canada</p>
+        <p><strong>Partner</strong>: Immigration, Refugees and Citizenship Canada</p>
       </div>
       </a></div>
   </div>
