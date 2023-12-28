@@ -68,3 +68,18 @@ title: "Travel advice and advisories"
 </ul>
 <h2>Research summary</h2>
 <p><a href="https://blog.canada.ca/research-summaries/travel-advice-research-summary.html">Travel advice and advisories</a></p>
+<aside class="wb-fnote" role="note">
+  <h2 class="wb-inv" id="fn-travel">Footnotes: Travel advice and advisories</h2>
+  <dl>
+    <dt>Footnote 1</dt>
+    <dd id="fn1">
+      <p><a href="https://www.canada.ca/en/government/about/top-tasks-for-canada-ca.html">https://www.canada.ca/en/government/about/top-tasks-for-canada-ca.html</a></p>
+      <p class="fn-rtn"><a href="#fn1-rf"><span class="wb-inv">Return to footnote </span>1<span class="wb-inv">referrer</span></a></p>
+    </dd>
+    <dt>Footnote 2</dt>
+    <dd id="fn2">
+      <p><a href="https://www150.statcan.gc.ca/n1/daily-quotidien/180220/dq180220c-eng.htm">https://www150.statcan.gc.ca/n1/daily-quotidien/180220/dq180220c-eng.htm</a></p>
+      <p class="fn-rtn"><a href="#fn2-1-rf"><span class="wb-inv">Return to <span>first</span> footnote</span> 2<span class="wb-inv">referrer</span></a></p>
+    </dd>
+  </dl>
+</aside>
