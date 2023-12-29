@@ -133,8 +133,8 @@ title: "Find the right template and design patterns for your web content"
               <h2 class="panel-title">Launch a service</h2>
             </header>
             <div class="panel-body">
-              <p>You can use the <a href="https://design.canada.ca/recommended-templates/service-initiation-pages.html">service initiation template</a> to give all the information people need.</p>
-              <p>It is a good idea to use the <a href="https://design.canada.ca/common-design-patterns/buttons.html">Buttons</a> pattern to launch the actual application process.</p>
+              <p>You can use the <a href="{{ site.url }}/recommended-templates/service-initiation-pages.html">service initiation template</a> to give all the information people need.</p>
+              <p>It is a good idea to use the <a href="{{ site.url }}/common-design-patterns/buttons.html">Buttons</a> pattern to launch the actual application process.</p>
             </div>
           </section>
         </div>
@@ -144,8 +144,8 @@ title: "Find the right template and design patterns for your web content"
               <h2 class="panel-title">Information about a program</h2>
             </header>
             <div class="panel-body">
-              <p>To provide basic background information about a program, you can use the <a href="https://design.canada.ca/recommended-templates/program-description-pages.html">Program description page</a>.</p>
-              <p>There are no specific template to publish a report about a program. Use the appropriate patterns from the <a href="https://design.canada.ca/pattern-library.html">Template and pattern library</a>.</p>
+              <p>To provide basic background information about a program, you can use the <a href="{{ site.url }}/recommended-templates/program-description-pages.html">Program description page</a>.</p>
+              <p>There are no specific template to publish a report about a program. Use the appropriate patterns from the <a href="{{ site.url }}/pattern-library.html">Template and pattern library</a>.</p>
             </div>
           </section>
         </div>
@@ -155,7 +155,7 @@ title: "Find the right template and design patterns for your web content"
               <h2 class="panel-title">Short index</h2>
             </header>
             <div class="panel-body">
-              <p>You can use the <a href="https://design.canada.ca/recommended-templates/pages-index.html#short">Short index</a>.</p>
+              <p>You can use the <a href="{{ site.url }}/recommended-templates/pages-index.html#short">Short index</a>.</p>
             </div>
           </section>
         </div>
@@ -165,7 +165,7 @@ title: "Find the right template and design patterns for your web content"
               <h2 class="panel-title">Long index</h2>
             </header>
             <div class="panel-body">
-              <p>You can use the <a href="https://design.canada.ca/recommended-templates/pages-index.html#long">Long index</a>.</p>
+              <p>You can use the <a href="{{ site.url }}/recommended-templates/pages-index.html#long">Long index</a>.</p>
             </div>
           </section>
         </div>
@@ -175,8 +175,8 @@ title: "Find the right template and design patterns for your web content"
               <h2 class="panel-title">Finder page</h2>
             </header>
             <div class="panel-body">
-              <p>You can use the <a href="https://design.canada.ca/recommended-templates/pages-index.html#finder">Finder page</a>.</p>
-              <p>You can use <a href="https://design.canada.ca/common-design-patterns/tables.html">Data table</a> and add filtering.</p>
+              <p>You can use the <a href="{{ site.url }}/recommended-templates/pages-index.html#finder">Finder page</a>.</p>
+              <p>You can use <a href="{{ site.url }}/common-design-patterns/tables.html">Data table</a> and add filtering.</p>
             </div>
           </section>
         </div>
@@ -186,7 +186,7 @@ title: "Find the right template and design patterns for your web content"
               <h2 class="panel-title">Faceted finder page</h2>
             </header>
             <div class="panel-body">
-              <p>You can use the <a href="https://design.canada.ca/recommended-templates/pages-index.html#faceted">Faceted finder page</a>.</p>
+              <p>You can use the <a href="{{ site.url }}/recommended-templates/pages-index.html#faceted">Faceted finder page</a>.</p>
             </div>
           </section>
         </div>
@@ -196,7 +196,7 @@ title: "Find the right template and design patterns for your web content"
               <h2 class="panel-title">Guidance on legislation</h2>
             </header>
             <div class="panel-body">
-              <p>You can use the <a href="https://design.canada.ca/recommended-templates/guidance-legislation-pages.html">Guidance on legislation profile pages</a>.</p>
+              <p>You can use the <a href="{{ site.url }}/recommended-templates/guidance-legislation-pages.html">Guidance on legislation profile pages</a>.</p>
             </div>
           </section>
         </div>
@@ -208,7 +208,7 @@ title: "Find the right template and design patterns for your web content"
             <div class="panel-body">
               <p>There are no specific template for your content. Make sure your page follows the <a href="/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html">Mandatory elements of the design system</a>.</p>
               <h3>Common design patterns</h3>
-              <p>Build your pages using patterns from the <a href="https://design.canada.ca/pattern-library.html">Template and pattern library</a>.</p>
+              <p>Build your pages using patterns from the <a href="{{ site.url }}/pattern-library.html">Template and pattern library</a>.</p>
             </div>
           </section>
         </div>
@@ -218,7 +218,7 @@ title: "Find the right template and design patterns for your web content"
               <h2 class="panel-title">Act profile page</h2>
             </header>
             <div class="panel-body">
-              <p>You can use the <a href="https://design.canada.ca/recommended-templates/laws-regulations-pages.html#act-profile">Act profile page</a>.</p>
+              <p>You can use the <a href="{{ site.url }}/recommended-templates/laws-regulations-pages.html#act-profile">Act profile page</a>.</p>
             </div>
           </section>
         </div>
@@ -228,7 +228,7 @@ title: "Find the right template and design patterns for your web content"
               <h2 class="panel-title">Regulation profile page</h2>
             </header>
             <div class="panel-body">
-              <p>You can use the <a href="https://design.canada.ca/recommended-templates/laws-regulations-pages.html#regulation-profile">Regulation profile page</a>.</p>
+              <p>You can use the <a href="{{ site.url }}/recommended-templates/laws-regulations-pages.html#regulation-profile">Regulation profile page</a>.</p>
             </div>
           </section>
         </div>
@@ -238,7 +238,7 @@ title: "Find the right template and design patterns for your web content"
               <h2 class="panel-title">Institutional profile</h2>
             </header>
             <div class="panel-body">
-              <p>Generally, you should use an <a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional profile</a>.</p>
+              <p>Generally, you should use an <a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional profile</a>.</p>
               <p>Search for your organization in this list to confirm.</p>
               <table class="wb-tables table table-striped table-hover small" data-wb-tables="{ &quot;ordering&quot; : false , &quot;paging&quot; : false }">
                 <thead>
@@ -259,7 +259,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Agriculture and Agri-Food Canada">AAFC</abbr></td>
                     <td><span lang="fr"><abbr title="Agriculture et Agroalimentaire Canada">AAC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -268,7 +268,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Canadian Heritage">PCH</abbr></td>
                     <td><span lang="fr"><abbr title="Patrimoine canadien">PCH</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -277,7 +277,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Crown-Indigenous Relations and Northern Affairs Canada">CIRNAC</abbr></td>
                     <td><span lang="fr"><abbr title="Relations Couronne-Autochtones et Affaires du Nord Canada">RCAANC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -286,7 +286,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Immigration, Refugees and Citizenship Canada">IRCC</abbr></td>
                     <td><span lang="fr"><abbr title="Immigration, Réfugiés et Citoyenneté Canada">IRCC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -295,7 +295,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Employment and Social Development Canada">ESDC</abbr></td>
                     <td><span lang="fr"><abbr title="Emploi et Développement social Canada">EDSC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -304,7 +304,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Department of Finance Canada">FIN</abbr></td>
                     <td><span lang="fr"><abbr title="Ministère des Finances Canada">FIN</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -313,7 +313,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Fisheries and Oceans Canada">DFO</abbr></td>
                     <td><span lang="fr"><abbr title="Pêches et Océans Canada">MPO</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -322,7 +322,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Global Affairs Canada">GAC</abbr></td>
                     <td><span lang="fr"><abbr title="Affaires mondiales Canada">AMC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -331,7 +331,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Health Canada">HC</abbr></td>
                     <td><span lang="fr"><abbr title="Santé Canada">SC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -340,7 +340,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Indigenous Services Canada">ISC</abbr></td>
                     <td><span lang="fr"><abbr title="Services aux Autochtones Canada">SAC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -349,7 +349,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                     <td><span lang="fr"><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -358,7 +358,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Department of Justice Canada">JUS</abbr></td>
                     <td><span lang="fr"><abbr title="Ministère de la Justice Canada">JUS</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -367,7 +367,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="National Defence">DND</abbr></td>
                     <td><span lang="fr"><abbr title="Défense nationale">MDN</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -376,7 +376,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Natural Resources Canada">NRCan</abbr></td>
                     <td><span lang="fr"><abbr title="Ressources naturelles Canada">RNCan</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -385,7 +385,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Public Safety Canada">PS</abbr></td>
                     <td><span lang="fr"><abbr title="Sécurité publique Canada">SP</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -394,7 +394,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Public Services and Procurement Canada">PSPC</abbr></td>
                     <td><span lang="fr"><abbr title="Services publics et Approvisionnement Canada">SPAC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -403,7 +403,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Environment and Climate Change Canada">ECCC</abbr></td>
                     <td><span lang="fr"><abbr title="Environnement et Changement climatique Canada">ECCC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -412,7 +412,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Transport Canada">TC</abbr></td>
                     <td><span lang="fr"><abbr title="Transports Canada">TC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -421,7 +421,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Veterans Affairs Canada">VAC</abbr></td>
                     <td><span lang="fr"><abbr title="Anciens Combattants Canada">ACC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -430,7 +430,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Western Economic Diversification Canada">WD</abbr></td>
                     <td><span lang="fr"><abbr title="Diversification de l’économie de l’Ouest Canada">DEO</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -439,7 +439,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Treasury Board of Canada Secretariat">TBS</abbr></td>
                     <td><span lang="fr"><abbr title="Secrétariat du Conseil du Trésor du Canada">SCT</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -448,7 +448,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Canadian Radio-television and Telecommunications Commission">CRTC</abbr></td>
                     <td><span lang="fr"><abbr title="Conseil de la radiodiffusion et des télécommunications canadiennes">CRTC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Canadian Heritage">PCH</abbr></td>
                   </tr>
                   <tr>
@@ -457,7 +457,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Canadian Transportation Agency">CTA</abbr></td>
                     <td><span lang="fr"><abbr title="Office des transports du Canada">OTC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Transport Canada">TC</abbr></td>
                   </tr>
                   <tr>
@@ -466,7 +466,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Civilian Review and Complaints Commission for the RCMP">CRCC</abbr></td>
                     <td><span lang="fr"><abbr title="Commission civile d’examen et de tratement des plaintes relatives à la GRC">CCETP</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Public Safety Canada">PS</abbr></td>
                   </tr>
                   <tr>
@@ -475,7 +475,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Copyright Board Canada">CB</abbr></td>
                     <td><span lang="fr"><abbr title="Commission du droit d’auteur Canada">CDA</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -484,7 +484,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Immigration and Refugee Board of Canada">IRB</abbr></td>
                     <td><span lang="fr"><abbr title="Commission de l’immigration et du statut de réfugié du Canada">CISR</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -493,7 +493,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Military Grievances External Review Committee">MGERC</abbr></td>
                     <td><span lang="fr"><abbr title="Comité externe d’examen des griefs militaires">CEEGM</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Department of Justice Canada">JUS</abbr></td>
                   </tr>
                   <tr>
@@ -502,7 +502,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Military Police Complaints Commission of Canada">MPCC</abbr></td>
                     <td><span lang="fr"><abbr title="Commission d’examen des plaintes concernant la police militaire du Canada">CPPM</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Department of Justice Canada">JUS</abbr></td>
                   </tr>
                   <tr>
@@ -511,7 +511,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Parole Board of Canada">PBC</abbr></td>
                     <td><span lang="fr"><abbr title="Commission des libérations conditionnelles du Canada">CLCC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Public Safety Canada">PS</abbr></td>
                   </tr>
                   <tr>
@@ -520,7 +520,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Patented Medicine Prices Review Board Canada">PMPRB</abbr></td>
                     <td><span lang="fr"><abbr title="Conseil d’examen du prix des médicaments brevetés Canada">CEPMB</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Health Canada">HC</abbr></td>
                   </tr>
                   <tr>
@@ -529,7 +529,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="RCMP External Review Committee">ERC</abbr></td>
                     <td><span lang="fr"><abbr title="Comité externe d’examen de la GRC">CEE</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Public Safety Canada">PS</abbr></td>
                   </tr>
                   <tr>
@@ -538,7 +538,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Administrative Tribunals Support Service of Canada">ATSSC</abbr></td>
                     <td><span lang="fr"><abbr title="Service canadien d’appui aux tribunaux administratifs">SCDATA</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Department of Justice Canada">JUS</abbr></td>
                   </tr>
                   <tr>
@@ -547,7 +547,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Impact Assessment Agency of Canada">IAAC</abbr></td>
                     <td><span lang="fr"><abbr title="Agence d'évaluation d'impact du Canada">AEIC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Environment and Climate Change Canada">ECCC</abbr></td>
                   </tr>
                   <tr>
@@ -556,7 +556,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Canadian Space Agency">CSA</abbr></td>
                     <td><span lang="fr"><abbr title="Agence spatiale canadienne">ASC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -565,7 +565,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Financial Consumer Agency of Canada">FCAC</abbr></td>
                     <td><span lang="fr"><abbr title="Agence de la consommation en matière financière du Canada">ACFC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Department of Finance Canada">FIN</abbr></td>
                   </tr>
                   <tr>
@@ -574,7 +574,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Financial Transactions and Reports Analysis Centre of Canada">FINTRAC</abbr></td>
                     <td><span lang="fr"><abbr title="Centre d’analyse des opérations et déclarations financières du Canada">CANAFE</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Department of Finance Canada">FIN</abbr></td>
                   </tr>
                   <tr>
@@ -583,7 +583,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Library and Archives Canada">LAC</abbr></td>
                     <td><span lang="fr"><abbr title="Bibliothèque et Archives Canada">BAC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Canadian Heritage">PCH</abbr></td>
                   </tr>
                   <tr>
@@ -592,7 +592,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Farm Products Council of Canada">FPCC</abbr></td>
                     <td><span lang="fr"><abbr title="Conseil des produits agricoles du Canada">CPAC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Agriculture and Agri-Food Canada">AAFC</abbr></td>
                   </tr>
                   <tr>
@@ -601,7 +601,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Northern Pipeline Agency Canada">NPA</abbr></td>
                     <td><span lang="fr"><abbr title="Administration du pipe-line du Nord Canada">APN</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Natural Resources Canada">NRCan</abbr></td>
                   </tr>
                   <tr>
@@ -610,7 +610,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Office of the Commissioner for Federal Judicial Affairs Canada">FJA</abbr></td>
                     <td><span lang="fr"><abbr title="Commissariat à la magistrature fédérale Canada">CMF</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Department of Justice Canada">JUS</abbr></td>
                   </tr>
                   <tr>
@@ -619,7 +619,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Status of Women Canada">SWC</abbr></td>
                     <td><span lang="fr"><abbr title="Condition féminine Canada">CFC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Canadian Heritage">PCH</abbr></td>
                   </tr>
                   <tr>
@@ -628,7 +628,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="The Correctional Investigator Canada">OCI</abbr></td>
                     <td><span lang="fr"><abbr title="L’Enquêteur correctionnel Canada">BEC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Public Safety Canada">PS</abbr></td>
                   </tr>
                   <tr>
@@ -637,7 +637,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Public Prosecution Service of Canada">PPSC</abbr></td>
                     <td><span lang="fr"><abbr title="Service des poursuites pénales du Canada">SPPC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Department of Justice Canada">JUS</abbr></td>
                   </tr>
                   <tr>
@@ -646,7 +646,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Office of the Superintendent of Financial Institutions Canada">OSFI</abbr></td>
                     <td><span lang="fr"><abbr title="Bureau du surintendant des institutions financières Canada">BSIF</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Department of Finance Canada">FIN</abbr></td>
                   </tr>
                   <tr>
@@ -655,7 +655,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Public Health Agency of Canada">PHAC</abbr></td>
                     <td><span lang="fr"><abbr title="Agence de la santé publique du Canada">ASPC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Health Canada">HC</abbr></td>
                   </tr>
                   <tr>
@@ -664,7 +664,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Public Service Commission of Canada">PSC</abbr></td>
                     <td><span lang="fr"><abbr title="Commission de la fonction publique du Canada">CFP</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Public Services and Procurement Canada">PSPC</abbr></td>
                   </tr>
                   <tr>
@@ -673,7 +673,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Canadian Northern Economic Development Agency">CanNor</abbr></td>
                     <td><span lang="fr"><abbr title="Agence canadienne de développement économique du Nord">CanNor</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -682,7 +682,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Communications Security Establishment">CSEC</abbr></td>
                     <td><span lang="fr"><abbr title="Centre de la sécurité des télécommunications">CSTC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="National Defence">DND</abbr></td>
                   </tr>
                   <tr>
@@ -691,7 +691,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Correctional Service Canada">CSC</abbr></td>
                     <td><span lang="fr"><abbr title="Service correctionnel Canada">SCC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Public Safety Canada">PS</abbr></td>
                   </tr>
                   <tr>
@@ -700,7 +700,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Canada Economic Development for Quebec Regions">CED</abbr></td>
                     <td><span lang="fr"><abbr title="Développement économique Canada pour les régions du Québec">DEC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -709,7 +709,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Federal Economic Development Agency for Southern Ontario">FedDev Ontario</abbr></td>
                     <td><span lang="fr"><abbr title="Agence fédérale de développement économique pour le Sud de l’Ontario">FedDev Ontario</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -718,7 +718,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Infrastructure Canada">INFC</abbr></td>
                     <td><span lang="fr"><abbr title="Infrastructure Canada">INFC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -727,7 +727,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Privy Council Office">PCO</abbr></td>
                     <td><span lang="fr"><abbr title="Bureau du Conseil privé">BCP</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -736,7 +736,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Shared Services Canada">SSC</abbr></td>
                     <td><span lang="fr"><abbr title="Services partagés Canada">SPC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Public Services and Procurement Canada">PSPC</abbr></td>
                   </tr>
                   <tr>
@@ -745,7 +745,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Statistics Canada">StatCan</abbr></td>
                     <td><span lang="fr"><abbr title="Statistique Canada">StatCan</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -754,7 +754,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="National Energy Board">NEB</abbr></td>
                     <td><span lang="fr"><abbr title="Office national de l’énergie">ONE</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Natural Resources Canada">NRCan</abbr></td>
                   </tr>
                   <tr>
@@ -763,7 +763,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Security Intelligence Review Committee">SIRC</abbr></td>
                     <td><span lang="fr"><abbr title="Comité de surveillance des activités de renseignement de sécurité">CSARS</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -772,7 +772,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Veterans Review and Appeal Board">VRAB</abbr></td>
                     <td><span lang="fr"><abbr title="Tribunal des anciens combattants (révision et appel)">TACRA</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Veterans Affairs Canada">VAC</abbr></td>
                   </tr>
                   <tr>
@@ -781,7 +781,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Canadian Grain Commission">CGC</abbr></td>
                     <td><span lang="fr"><abbr title="Commission canadienne des grains">CCG</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Agriculture and Agri-Food Canada">AAFC</abbr></td>
                   </tr>
                   <tr>
@@ -790,7 +790,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Canadian Human Rights Commission">CHRC</abbr></td>
                     <td><span lang="fr"><abbr title="Commission canadienne des droits de la personne">CCDP</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Department of Justice Canada">JUS</abbr></td>
                   </tr>
                   <tr>
@@ -799,7 +799,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Canadian Security Intelligence Service">CSIS</abbr></td>
                     <td><span lang="fr"><abbr title="Service canadien du renseignement de sécurité">SCRS</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Public Safety Canada">PS</abbr></td>
                   </tr>
                   <tr>
@@ -808,7 +808,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="National Film Board">NFB</abbr></td>
                     <td><span lang="fr"><abbr title="Office national du film">ONF</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Canadian Heritage">PCH</abbr></td>
                   </tr>
                   <tr>
@@ -817,7 +817,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Office of the Communications Security Establishment Commissioner">OCSEC</abbr></td>
                     <td><span lang="fr"><abbr title="Bureau du commissaire du Centre de la sécurité des télécommunications">BCCST</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="National Defence">DND</abbr></td>
                   </tr>
                   <tr>
@@ -826,7 +826,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Royal Canadian Mounted Police">RCMP</abbr></td>
                     <td><span lang="fr"><abbr title="Gendarmerie royale du Canada">GRC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Public Safety Canada">PS</abbr></td>
                   </tr>
                   <tr>
@@ -835,7 +835,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Atlantic Canada Opportunities Agency">ACOA</abbr></td>
                     <td><span lang="fr"><abbr title="Agence de promotion économique du Canada atlantique">APECA</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -844,7 +844,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Canadian Nuclear Safety Commission">CNSC</abbr></td>
                     <td><span lang="fr"><abbr title="Commission canadienne de sûreté nucléaire">CCSN</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Natural Resources Canada">NRCan</abbr></td>
                   </tr>
                   <tr>
@@ -853,7 +853,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Transportation Safety Board of Canada">TSB</abbr></td>
                     <td><span lang="fr"><abbr title="Bureau de la sécurité des transports du Canada">BST</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -862,7 +862,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Canada Employment Insurance Commission">CEIC</abbr></td>
                     <td><span lang="fr"><abbr title="Commission de l’assurance-emploi du Canada">CAEC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Employment and Social Development Canada">ESDC</abbr></td>
                   </tr>
                   <tr>
@@ -871,7 +871,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Polar Knowledge Canada">POLAR</abbr></td>
                     <td><span lang="fr"><abbr title="Savoir polaire Canada">POLAIRE</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Crown-Indigenous Relations and Northern Affairs Canada">CIRNAC</abbr></td>
                   </tr>
                   <tr>
@@ -880,7 +880,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="The National Battlefields Commission">NBC</abbr></td>
                     <td><span lang="fr"><abbr title="Commission des champs de bataille nationaux">CCBN</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Canadian Heritage">PCH</abbr></td>
                   </tr>
                   <tr>
@@ -889,7 +889,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="National Research Council Canada">NRC</abbr></td>
                     <td><span lang="fr"><abbr title="Conseil national de recherches Canada">CNRC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -898,7 +898,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Natural Sciences and Engineering Research Council">NSERC</abbr></td>
                     <td><span lang="fr"><abbr title="Conseil de recherches en sciences naturelles et en génie">GRSGC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -907,7 +907,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Parks Canada">PC</abbr></td>
                     <td><span lang="fr"><abbr title="Parcs Canada">PC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Environment and Climate Change Canada">ECCC</abbr></td>
                   </tr>
                   <tr>
@@ -916,7 +916,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Social Sciences and Humanities Research Council of Canada">SSHRC</abbr></td>
                     <td><span lang="fr"><abbr title="Conseil de recherches en sciences humaines du Canada">CRSH</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -925,7 +925,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Canada Border Services Agency">CBSA</abbr></td>
                     <td><span lang="fr"><abbr title="Agence des services frontaliers du Canada">ASFC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Public Safety Canada">PS</abbr></td>
                   </tr>
                   <tr>
@@ -934,7 +934,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Canadian Food Inspection Agency">CFIA</abbr></td>
                     <td><span lang="fr"><abbr title="Agence canadienne d’inspection des aliments">ACIA</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Health Canada">HC</abbr></td>
                   </tr>
                   <tr>
@@ -943,7 +943,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Canadian Centre for Occupational Health and Safety">CCOHS</abbr></td>
                     <td><span lang="fr"><abbr title="Centre canadien d’hygiène et de sécurité au travail">CCHST</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Employment and Social Development Canada">ESDC</abbr></td>
                   </tr>
                   <tr>
@@ -952,7 +952,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Canadian Institutes of Health Research">CIHR</abbr></td>
                     <td><span lang="fr"><abbr title="Instituts de recherche en santé du Canada">IRSC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Health Canada">HC</abbr></td>
                   </tr>
                   <tr>
@@ -961,7 +961,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Canada Revenue Agency">CRA</abbr></td>
                     <td><span lang="fr"><abbr title="Agence du revenu du Canada">ARC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -970,7 +970,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Canada School of Public Service">CSPS</abbr></td>
                     <td><span lang="fr"><abbr title="École de la fonction publique du Canada">EFPC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Treasury Board of Canada Secretariat">TBS</abbr></td>
                   </tr>
                   <tr>
@@ -979,7 +979,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No institutional form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -988,7 +988,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Human Rights Tribunal of Canada">HRTC</abbr></td>
                     <td><span lang="fr"><abbr title="Tribunal des droits de la personne du Canada">TDPC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -997,7 +997,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Public Servants Disclosure Protection Tribunal Canada">PSDPTC</abbr></td>
                     <td><span lang="fr"><abbr title="Tribunal de la protection des fonctionnaires divulgateurs Canada">TPTFDC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Public Services and Procurement Canada">PSPC</abbr></td>
                   </tr>
                   <tr>
@@ -1006,7 +1006,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Public Service Labour Relations and Employment Board">PSLREB</abbr></td>
                     <td><span lang="fr"><abbr title="Commission des relations de travail et de l’emploi dans la fonction publique">CRTEFP</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Public Services and Procurement Canada">PSPC</abbr></td>
                   </tr>
                   <tr>
@@ -1015,7 +1015,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Registry of the Specific Claims Tribunal of Canada">SCT</abbr></td>
                     <td><span lang="fr"><abbr title="Greffe du Tribunal des revendications particulières du Canada">TRP</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Crown-Indigenous Relations and Northern Affairs Canada">CIRNAC</abbr></td>
                   </tr>
                   <tr>
@@ -1024,7 +1024,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency (Historical)</td>
                     <td><abbr title="Transportation Appeal Tribunal of Canada">TATC</abbr></td>
                     <td><span lang="fr"><abbr title="Tribunal d’appel des transports du Canada">TATC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Transport Canada">TC</abbr></td>
                   </tr>
                   <tr>
@@ -1033,7 +1033,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency (Historical)</td>
                     <td><abbr title="Canada Industrial Relations Board">CIRB</abbr></td>
                     <td><span lang="fr"><abbr title="Conseil canadien des relations industrielles">CCRI</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Employment and Social Development Canada">ESDC</abbr></td>
                   </tr>
                   <tr>
@@ -1042,7 +1042,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Other Organization (Historical)</td>
                     <td><abbr title="Social Security Tribunal of Canada">SST</abbr></td>
                     <td><span lang="fr"><abbr title="Tribunal de la sécurité sociale du Canada">TSS</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Employment and Social Development Canada">ESDC</abbr></td>
                   </tr>
                   <tr>
@@ -1051,7 +1051,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Other Organization (<abbr title="Human resources">HR</abbr> entity)</td>
                     <td><abbr title="Office of the Superintendent of Bankruptcy Canada">OSB</abbr></td>
                     <td><span lang="fr"><abbr title="Bureau du surintendant des faillites Canada">BSF</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -1060,7 +1060,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Historic Sites and Monuments Board of Canada">HSMBC</abbr></td>
                     <td><span lang="fr"><abbr title="Commission des lieux et monuments historiques du Canada">CLMHC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Environment and Climate Change Canada">ECCC</abbr></td>
                   </tr>
                   <tr>
@@ -1069,7 +1069,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Competition Bureau Canada">COBU</abbr></td>
                     <td><span lang="fr"><abbr title="Bureau de la concurrence Canada">BUCO</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -1078,7 +1078,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Service Canada">ServCan</abbr></td>
                     <td><span lang="fr"><abbr title="Service Canada">ServCan</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Employment and Social Development Canada">ESDC</abbr></td>
                   </tr>
                   <tr>
@@ -1087,7 +1087,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Other Organization (Historical)</td>
                     <td><abbr title="Occupational Health and Safety Tribunal Canada">OHSTC</abbr></td>
                     <td><span lang="fr"><abbr title="Tribunal de santé et sécurité au travail Canada">TSSTC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Employment and Social Development Canada">ESDC</abbr></td>
                   </tr>
                   <tr>
@@ -1096,7 +1096,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Environmental Protection Review Canada">EPRC</abbr></td>
                     <td><span lang="fr"><abbr title="Révision de la protection de l’environnement Canada">RPEC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Environment and Climate Change Canada">ECCC</abbr></td>
                   </tr>
                   <tr>
@@ -1105,7 +1105,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Communications Research Centre Canada">CRC</abbr></td>
                     <td><span lang="fr"><abbr title="Centre de recherches sur les communications Canada">CRC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -1114,7 +1114,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -1123,7 +1123,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Canada Firearms Centre">CAFC</abbr></td>
                     <td><span lang="fr"><abbr title="Centre des armes à feu Canada">CAFC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Public Safety Canada">PS</abbr></td>
                   </tr>
                   <tr>
@@ -1132,7 +1132,7 @@ title: "Find the right template and design patterns for your web content"
                     <td><abbr title="Special operating agency">SOA</abbr></td>
                     <td><abbr title="Canadian Coast Guard">CCG</abbr></td>
                     <td><span lang="fr"><abbr title="Garde côtière canadienne">GCC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Fisheries and Oceans Canada">DFO</abbr></td>
                   </tr>
                   <tr>
@@ -1141,7 +1141,7 @@ title: "Find the right template and design patterns for your web content"
                     <td><abbr title="Special operating agency">SOA</abbr></td>
                     <td><abbr title="Measurement Canada">MC</abbr></td>
                     <td><span lang="fr"><abbr title="Mesures Canada">MC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -1150,7 +1150,7 @@ title: "Find the right template and design patterns for your web content"
                     <td><abbr title="Special operating agency">SOA</abbr></td>
                     <td><abbr title="Canadian Intellectual Property Office">CIPO</abbr></td>
                     <td><span lang="fr"><abbr title="Office de la propriété intellectuelle du Canada">OPIC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -1159,7 +1159,7 @@ title: "Find the right template and design patterns for your web content"
                     <td><abbr title="Special operating agency">SOA</abbr></td>
                     <td><abbr title="Canadian Conservation Institute">CCI</abbr></td>
                     <td><span lang="fr"><abbr title="Institut canadien de conservation">ICC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Canadian Heritage">PCH</abbr></td>
                   </tr>
                   <tr>
@@ -1168,7 +1168,7 @@ title: "Find the right template and design patterns for your web content"
                     <td><abbr title="Special operating agency">SOA</abbr></td>
                     <td><abbr title="Defence Research and Development Canada">DRDC</abbr></td>
                     <td><span lang="fr"><abbr title="Recherche et développement pour la Défense Canada">RDDC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="National Defence">DND</abbr></td>
                   </tr>
                   <tr>
@@ -1177,7 +1177,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Other Organization (Historical)</td>
                     <td><abbr title="Canada Agricultural Review Tribunal">CART</abbr></td>
                     <td><span lang="fr"><abbr title="Commission de révision agricole du Canada">CRAC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Agriculture and Agri-Food Canada">AAFC</abbr></td>
                   </tr>
                   <tr>
@@ -1186,7 +1186,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="National Defence">DND</abbr></td>
                   </tr>
                   <tr>
@@ -1195,7 +1195,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency (Historical)</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Canadian Heritage">PCH</abbr></td>
                   </tr>
                   <tr>
@@ -1204,7 +1204,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency (Historical)</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Department of Finance Canada">FIN</abbr></td>
                   </tr>
                   <tr>
@@ -1213,7 +1213,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Royal Canadian Navy">RCN</abbr></td>
                     <td><span lang="fr"><abbr title="Marine royale canadienne">MRC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="National Defence">DND</abbr></td>
                   </tr>
                   <tr>
@@ -1222,7 +1222,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Canadian Special Operations Forces Command">CANSOFCOM</abbr></td>
                     <td><span lang="fr"><abbr title="Commandement des Forces d'opérations spéciales du Canada">COMFOSCAN</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="National Defence">DND</abbr></td>
                   </tr>
                   <tr>
@@ -1231,7 +1231,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -1240,7 +1240,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Independent Review Panel for Defence Acquisition">IRPDA</abbr></td>
                     <td><span lang="fr"><abbr title="Commission indépendante d'examen des acquisitions de la Défense">CIEAD</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="National Defence">DND</abbr></td>
                   </tr>
                   <tr>
@@ -1249,7 +1249,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Employment and Social Development Canada">ESDC</abbr></td>
                   </tr>
                   <tr>
@@ -1258,7 +1258,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Global Affairs Canada">GAC</abbr></td>
                   </tr>
                   <tr>
@@ -1267,7 +1267,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Office of the Federal Ombudsman for Victims of Crime">OFOVC</abbr></td>
                     <td><span lang="fr"><abbr title="Bureau de l’ombudsman fédéral des victimes d’actes criminels">BOFVAC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Department of Justice Canada">JUS</abbr></td>
                   </tr>
                   <tr>
@@ -1276,7 +1276,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="National Defence">DND</abbr></td>
                   </tr>
                   <tr>
@@ -1285,7 +1285,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Office of the Procurement Ombudsman">OPO</abbr></td>
                     <td><span lang="fr"><abbr title="Bureau de l’ombudsman de l’approvisionnement">BOA</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Public Services and Procurement Canada">PSPC</abbr></td>
                   </tr>
                   <tr>
@@ -1294,7 +1294,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Office of the Taxpayers’ Ombudsman">OTO</abbr></td>
                     <td><span lang="fr"><abbr title="Bureau de l’ombudsman des contribuables">BOC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Canada Revenue Agency">CRA</abbr></td>
                   </tr>
                   <tr>
@@ -1303,7 +1303,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Veterans Affairs Canada">VAC</abbr></td>
                   </tr>
                   <tr>
@@ -1312,7 +1312,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Royal Canadian Air Force">RCAF</abbr></td>
                     <td><span lang="fr"><abbr title="Aviation royale canadienne">ARC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="National Defence">DND</abbr></td>
                   </tr>
                   <tr>
@@ -1321,7 +1321,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Privy Council Office">PCO</abbr></td>
                   </tr>
                   <tr>
@@ -1330,7 +1330,7 @@ title: "Find the right template and design patterns for your web content"
                     <td><abbr title="Special operating agency">SOA</abbr></td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Canadian Heritage">PCH</abbr></td>
                   </tr>
                   <tr>
@@ -1339,7 +1339,7 @@ title: "Find the right template and design patterns for your web content"
                     <td><abbr title="Special operating agency">SOA</abbr></td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Agriculture and Agri-Food Canada">AAFC</abbr></td>
                   </tr>
                   <tr>
@@ -1348,7 +1348,7 @@ title: "Find the right template and design patterns for your web content"
                     <td><abbr title="Special operating agency">SOA</abbr></td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Crown-Indigenous Relations and Northern Affairs Canada">CIRNAC</abbr></td>
                   </tr>
                   <tr>
@@ -1357,7 +1357,7 @@ title: "Find the right template and design patterns for your web content"
                     <td><abbr title="Special operating agency">SOA</abbr></td>
                     <td><abbr title="Industrial Technologies Office">ITO</abbr></td>
                     <td><span lang="fr"><abbr title="Office des technologies industrielles">OTI</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -1366,7 +1366,7 @@ title: "Find the right template and design patterns for your web content"
                     <td><abbr title="Special operating agency">SOA</abbr></td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Global Affairs Canada">GAC</abbr></td>
                   </tr>
                   <tr>
@@ -1375,7 +1375,7 @@ title: "Find the right template and design patterns for your web content"
                     <td><abbr title="Special operating agency">SOA</abbr></td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Public Services and Procurement Canada">PSPC</abbr></td>
                   </tr>
                   <tr>
@@ -1384,7 +1384,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Privy Council Office">PCO</abbr></td>
                   </tr>
                   <tr>
@@ -1393,7 +1393,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Privy Council Office">PCO</abbr></td>
                   </tr>
                   <tr>
@@ -1402,7 +1402,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Privy Council Office">PCO</abbr></td>
                   </tr>
                   <tr>
@@ -1411,7 +1411,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Privy Council Office">PCO</abbr></td>
                   </tr>
                   <tr>
@@ -1420,7 +1420,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Employment and Social Development Canada">ESDC</abbr></td>
                   </tr>
                   <tr>
@@ -1429,7 +1429,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Office of the Chief Military Judge">OCMJ</abbr></td>
                     <td><span lang="fr"><abbr title="Le cabinet du juge militaire en chef">CJMC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="National Defence">DND</abbr></td>
                   </tr>
                   <tr>
@@ -1438,7 +1438,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Environment and Climate Change Canada">ECCC</abbr></td>
                   </tr>
                   <tr>
@@ -1447,7 +1447,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Canada Revenue Agency">CRA</abbr></td>
                   </tr>
                   <tr>
@@ -1456,7 +1456,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Canadian Institutes of Health Research">CIHR</abbr></td>
                   </tr>
                   <tr>
@@ -1465,7 +1465,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Canadian Institutes of Health Research">CIHR</abbr></td>
                   </tr>
                   <tr>
@@ -1474,7 +1474,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Canadian Security Intelligence Service">CSIS</abbr></td>
                   </tr>
                   <tr>
@@ -1483,7 +1483,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Agriculture and Agri-Food Canada">AAFC</abbr></td>
                   </tr>
                   <tr>
@@ -1492,7 +1492,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Fisheries and Oceans Canada">DFO</abbr></td>
                   </tr>
                   <tr>
@@ -1501,7 +1501,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Global Affairs Canada">GAC</abbr></td>
                   </tr>
                   <tr>
@@ -1510,7 +1510,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Fisheries and Oceans Canada">DFO</abbr></td>
                   </tr>
                   <tr>
@@ -1519,7 +1519,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Environment and Climate Change Canada">ECCC</abbr></td>
                   </tr>
                   <tr>
@@ -1528,7 +1528,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Transport Canada">TC</abbr></td>
                   </tr>
                   <tr>
@@ -1537,7 +1537,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="National Research Council Canada">NRC</abbr></td>
                   </tr>
                   <tr>
@@ -1546,7 +1546,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Social Sciences and Humanities Research Council of Canada">SSHRC</abbr></td>
                   </tr>
                   <tr>
@@ -1555,7 +1555,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Social Sciences and Humanities Research Council of Canada">SSHRC</abbr></td>
                   </tr>
                   <tr>
@@ -1564,7 +1564,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Royal Canadian Mounted Police">RCMP</abbr></td>
                   </tr>
                   <tr>
@@ -1573,7 +1573,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Environment and Climate Change Canada">ECCC</abbr></td>
                   </tr>
                   <tr>
@@ -1582,7 +1582,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Environment and Climate Change Canada">ECCC</abbr></td>
                   </tr>
                   <tr>
@@ -1591,7 +1591,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="National Research Council Canada">NRC</abbr></td>
                   </tr>
                 </tbody>
@@ -1605,7 +1605,7 @@ title: "Find the right template and design patterns for your web content"
               <h2 class="panel-title">Organizational profile</h2>
             </header>
             <div class="panel-body">
-              <p>Generally, you should use an <a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational profile</a>.</p>
+              <p>Generally, you should use an <a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational profile</a>.</p>
               <p>Search for your organization in the list below to confirm.</p>
               <table class="wb-tables table table-striped table-hover small" data-wb-tables="{ &quot;ordering&quot; : false , &quot;paging&quot; : false }">
                 <thead>
@@ -1626,7 +1626,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Agriculture and Agri-Food Canada">AAFC</abbr></td>
                     <td><span lang="fr"><abbr title="Agriculture et Agroalimentaire Canada">AAC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -1635,7 +1635,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Canadian Heritage">PCH</abbr></td>
                     <td><span lang="fr"><abbr title="Patrimoine canadien">PCH</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -1644,7 +1644,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Crown-Indigenous Relations and Northern Affairs Canada">CIRNAC</abbr></td>
                     <td><span lang="fr"><abbr title="Relations Couronne-Autochtones et Affaires du Nord Canada">RCAANC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -1653,7 +1653,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Immigration, Refugees and Citizenship Canada">IRCC</abbr></td>
                     <td><span lang="fr"><abbr title="Immigration, Réfugiés et Citoyenneté Canada">IRCC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -1662,7 +1662,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Employment and Social Development Canada">ESDC</abbr></td>
                     <td><span lang="fr"><abbr title="Emploi et Développement social Canada">EDSC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -1671,7 +1671,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Department of Finance Canada">FIN</abbr></td>
                     <td><span lang="fr"><abbr title="Ministère des Finances Canada">FIN</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -1680,7 +1680,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Fisheries and Oceans Canada">DFO</abbr></td>
                     <td><span lang="fr"><abbr title="Pêches et Océans Canada">MPO</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -1689,7 +1689,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Global Affairs Canada">GAC</abbr></td>
                     <td><span lang="fr"><abbr title="Affaires mondiales Canada">AMC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -1698,7 +1698,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Health Canada">HC</abbr></td>
                     <td><span lang="fr"><abbr title="Santé Canada">SC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -1707,7 +1707,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Indigenous Services Canada">ISC</abbr></td>
                     <td><span lang="fr"><abbr title="Services aux Autochtones Canada">SAC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -1716,7 +1716,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                     <td><span lang="fr"><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -1725,7 +1725,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Department of Justice Canada">JUS</abbr></td>
                     <td><span lang="fr"><abbr title="Ministère de la Justice Canada">JUS</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -1734,7 +1734,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="National Defence">DND</abbr></td>
                     <td><span lang="fr"><abbr title="Défense nationale">MDN</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -1743,7 +1743,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Natural Resources Canada">NRCan</abbr></td>
                     <td><span lang="fr"><abbr title="Ressources naturelles Canada">RNCan</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -1752,7 +1752,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Public Safety Canada">PS</abbr></td>
                     <td><span lang="fr"><abbr title="Sécurité publique Canada">SP</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -1761,7 +1761,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Public Services and Procurement Canada">PSPC</abbr></td>
                     <td><span lang="fr"><abbr title="Services publics et Approvisionnement Canada">SPAC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -1770,7 +1770,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Environment and Climate Change Canada">ECCC</abbr></td>
                     <td><span lang="fr"><abbr title="Environnement et Changement climatique Canada">ECCC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -1779,7 +1779,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Transport Canada">TC</abbr></td>
                     <td><span lang="fr"><abbr title="Transports Canada">TC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -1788,7 +1788,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Veterans Affairs Canada">VAC</abbr></td>
                     <td><span lang="fr"><abbr title="Anciens Combattants Canada">ACC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -1797,7 +1797,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Western Economic Diversification Canada">WD</abbr></td>
                     <td><span lang="fr"><abbr title="Diversification de l’économie de l’Ouest Canada">DEO</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -1806,7 +1806,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Treasury Board of Canada Secretariat">TBS</abbr></td>
                     <td><span lang="fr"><abbr title="Secrétariat du Conseil du Trésor du Canada">SCT</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -1815,7 +1815,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Canadian Radio-television and Telecommunications Commission">CRTC</abbr></td>
                     <td><span lang="fr"><abbr title="Conseil de la radiodiffusion et des télécommunications canadiennes">CRTC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Canadian Heritage">PCH</abbr></td>
                   </tr>
                   <tr>
@@ -1824,7 +1824,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Canadian Transportation Agency">CTA</abbr></td>
                     <td><span lang="fr"><abbr title="Office des transports du Canada">OTC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Transport Canada">TC</abbr></td>
                   </tr>
                   <tr>
@@ -1833,7 +1833,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Civilian Review and Complaints Commission for the RCMP">CRCC</abbr></td>
                     <td><span lang="fr"><abbr title="Commission civile d’examen et de tratement des plaintes relatives à la GRC">CCETP</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Public Safety Canada">PS</abbr></td>
                   </tr>
                   <tr>
@@ -1842,7 +1842,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Copyright Board Canada">CB</abbr></td>
                     <td><span lang="fr"><abbr title="Commission du droit d’auteur Canada">CDA</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -1851,7 +1851,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Immigration and Refugee Board of Canada">IRB</abbr></td>
                     <td><span lang="fr"><abbr title="Commission de l’immigration et du statut de réfugié du Canada">CISR</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -1860,7 +1860,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Military Grievances External Review Committee">MGERC</abbr></td>
                     <td><span lang="fr"><abbr title="Comité externe d’examen des griefs militaires">CEEGM</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Department of Justice Canada">JUS</abbr></td>
                   </tr>
                   <tr>
@@ -1869,7 +1869,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Military Police Complaints Commission of Canada">MPCC</abbr></td>
                     <td><span lang="fr"><abbr title="Commission d’examen des plaintes concernant la police militaire du Canada">CPPM</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Department of Justice Canada">JUS</abbr></td>
                   </tr>
                   <tr>
@@ -1878,7 +1878,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Parole Board of Canada">PBC</abbr></td>
                     <td><span lang="fr"><abbr title="Commission des libérations conditionnelles du Canada">CLCC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Public Safety Canada">PS</abbr></td>
                   </tr>
                   <tr>
@@ -1887,7 +1887,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Patented Medicine Prices Review Board Canada">PMPRB</abbr></td>
                     <td><span lang="fr"><abbr title="Conseil d’examen du prix des médicaments brevetés Canada">CEPMB</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Health Canada">HC</abbr></td>
                   </tr>
                   <tr>
@@ -1896,7 +1896,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="RCMP External Review Committee">ERC</abbr></td>
                     <td><span lang="fr"><abbr title="Comité externe d’examen de la GRC">CEE</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Public Safety Canada">PS</abbr></td>
                   </tr>
                   <tr>
@@ -1905,7 +1905,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Administrative Tribunals Support Service of Canada">ATSSC</abbr></td>
                     <td><span lang="fr"><abbr title="Service canadien d’appui aux tribunaux administratifs">SCDATA</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Department of Justice Canada">JUS</abbr></td>
                   </tr>
                   <tr>
@@ -1914,7 +1914,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Impact Assessment Agency of Canada">IAAC</abbr></td>
                     <td><span lang="fr"><abbr title="Agence d'évaluation d'impact du Canada">AEIC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Environment and Climate Change Canada">ECCC</abbr></td>
                   </tr>
                   <tr>
@@ -1923,7 +1923,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Canadian Space Agency">CSA</abbr></td>
                     <td><span lang="fr"><abbr title="Agence spatiale canadienne">ASC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -1932,7 +1932,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Financial Consumer Agency of Canada">FCAC</abbr></td>
                     <td><span lang="fr"><abbr title="Agence de la consommation en matière financière du Canada">ACFC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Department of Finance Canada">FIN</abbr></td>
                   </tr>
                   <tr>
@@ -1941,7 +1941,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Financial Transactions and Reports Analysis Centre of Canada">FINTRAC</abbr></td>
                     <td><span lang="fr"><abbr title="Centre d’analyse des opérations et déclarations financières du Canada">CANAFE</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Department of Finance Canada">FIN</abbr></td>
                   </tr>
                   <tr>
@@ -1950,7 +1950,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Library and Archives Canada">LAC</abbr></td>
                     <td><span lang="fr"><abbr title="Bibliothèque et Archives Canada">BAC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Canadian Heritage">PCH</abbr></td>
                   </tr>
                   <tr>
@@ -1959,7 +1959,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Farm Products Council of Canada">FPCC</abbr></td>
                     <td><span lang="fr"><abbr title="Conseil des produits agricoles du Canada">CPAC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Agriculture and Agri-Food Canada">AAFC</abbr></td>
                   </tr>
                   <tr>
@@ -1968,7 +1968,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Northern Pipeline Agency Canada">NPA</abbr></td>
                     <td><span lang="fr"><abbr title="Administration du pipe-line du Nord Canada">APN</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Natural Resources Canada">NRCan</abbr></td>
                   </tr>
                   <tr>
@@ -1977,7 +1977,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Office of the Commissioner for Federal Judicial Affairs Canada">FJA</abbr></td>
                     <td><span lang="fr"><abbr title="Commissariat à la magistrature fédérale Canada">CMF</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Department of Justice Canada">JUS</abbr></td>
                   </tr>
                   <tr>
@@ -1986,7 +1986,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Status of Women Canada">SWC</abbr></td>
                     <td><span lang="fr"><abbr title="Condition féminine Canada">CFC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Canadian Heritage">PCH</abbr></td>
                   </tr>
                   <tr>
@@ -1995,7 +1995,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="The Correctional Investigator Canada">OCI</abbr></td>
                     <td><span lang="fr"><abbr title="L’Enquêteur correctionnel Canada">BEC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Public Safety Canada">PS</abbr></td>
                   </tr>
                   <tr>
@@ -2004,7 +2004,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Public Prosecution Service of Canada">PPSC</abbr></td>
                     <td><span lang="fr"><abbr title="Service des poursuites pénales du Canada">SPPC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Department of Justice Canada">JUS</abbr></td>
                   </tr>
                   <tr>
@@ -2013,7 +2013,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Office of the Superintendent of Financial Institutions Canada">OSFI</abbr></td>
                     <td><span lang="fr"><abbr title="Bureau du surintendant des institutions financières Canada">BSIF</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Department of Finance Canada">FIN</abbr></td>
                   </tr>
                   <tr>
@@ -2022,7 +2022,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Public Health Agency of Canada">PHAC</abbr></td>
                     <td><span lang="fr"><abbr title="Agence de la santé publique du Canada">ASPC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Health Canada">HC</abbr></td>
                   </tr>
                   <tr>
@@ -2031,7 +2031,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Public Service Commission of Canada">PSC</abbr></td>
                     <td><span lang="fr"><abbr title="Commission de la fonction publique du Canada">CFP</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Public Services and Procurement Canada">PSPC</abbr></td>
                   </tr>
                   <tr>
@@ -2040,7 +2040,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Canadian Northern Economic Development Agency">CanNor</abbr></td>
                     <td><span lang="fr"><abbr title="Agence canadienne de développement économique du Nord">CanNor</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -2049,7 +2049,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Communications Security Establishment">CSEC</abbr></td>
                     <td><span lang="fr"><abbr title="Centre de la sécurité des télécommunications">CSTC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="National Defence">DND</abbr></td>
                   </tr>
                   <tr>
@@ -2058,7 +2058,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Correctional Service Canada">CSC</abbr></td>
                     <td><span lang="fr"><abbr title="Service correctionnel Canada">SCC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Public Safety Canada">PS</abbr></td>
                   </tr>
                   <tr>
@@ -2067,7 +2067,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Canada Economic Development for Quebec Regions">CED</abbr></td>
                     <td><span lang="fr"><abbr title="Développement économique Canada pour les régions du Québec">DEC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -2076,7 +2076,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Federal Economic Development Agency for Southern Ontario">FedDev Ontario</abbr></td>
                     <td><span lang="fr"><abbr title="Agence fédérale de développement économique pour le Sud de l’Ontario">FedDev Ontario</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -2085,7 +2085,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Infrastructure Canada">INFC</abbr></td>
                     <td><span lang="fr"><abbr title="Infrastructure Canada">INFC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -2094,7 +2094,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Privy Council Office">PCO</abbr></td>
                     <td><span lang="fr"><abbr title="Bureau du Conseil privé">BCP</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -2103,7 +2103,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Shared Services Canada">SSC</abbr></td>
                     <td><span lang="fr"><abbr title="Services partagés Canada">SPC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Public Services and Procurement Canada">PSPC</abbr></td>
                   </tr>
                   <tr>
@@ -2112,7 +2112,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Statistics Canada">StatCan</abbr></td>
                     <td><span lang="fr"><abbr title="Statistique Canada">StatCan</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -2121,7 +2121,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="National Energy Board">NEB</abbr></td>
                     <td><span lang="fr"><abbr title="Office national de l’énergie">ONE</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Natural Resources Canada">NRCan</abbr></td>
                   </tr>
                   <tr>
@@ -2130,7 +2130,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Security Intelligence Review Committee">SIRC</abbr></td>
                     <td><span lang="fr"><abbr title="Comité de surveillance des activités de renseignement de sécurité">CSARS</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -2139,7 +2139,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Veterans Review and Appeal Board">VRAB</abbr></td>
                     <td><span lang="fr"><abbr title="Tribunal des anciens combattants (révision et appel)">TACRA</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Veterans Affairs Canada">VAC</abbr></td>
                   </tr>
                   <tr>
@@ -2148,7 +2148,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Canadian Grain Commission">CGC</abbr></td>
                     <td><span lang="fr"><abbr title="Commission canadienne des grains">CCG</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Agriculture and Agri-Food Canada">AAFC</abbr></td>
                   </tr>
                   <tr>
@@ -2157,7 +2157,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Canadian Human Rights Commission">CHRC</abbr></td>
                     <td><span lang="fr"><abbr title="Commission canadienne des droits de la personne">CCDP</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Department of Justice Canada">JUS</abbr></td>
                   </tr>
                   <tr>
@@ -2166,7 +2166,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Canadian Security Intelligence Service">CSIS</abbr></td>
                     <td><span lang="fr"><abbr title="Service canadien du renseignement de sécurité">SCRS</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Public Safety Canada">PS</abbr></td>
                   </tr>
                   <tr>
@@ -2175,7 +2175,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="National Film Board">NFB</abbr></td>
                     <td><span lang="fr"><abbr title="Office national du film">ONF</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Canadian Heritage">PCH</abbr></td>
                   </tr>
                   <tr>
@@ -2184,7 +2184,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Office of the Communications Security Establishment Commissioner">OCSEC</abbr></td>
                     <td><span lang="fr"><abbr title="Bureau du commissaire du Centre de la sécurité des télécommunications">BCCST</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="National Defence">DND</abbr></td>
                   </tr>
                   <tr>
@@ -2193,7 +2193,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Royal Canadian Mounted Police">RCMP</abbr></td>
                     <td><span lang="fr"><abbr title="Gendarmerie royale du Canada">GRC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Public Safety Canada">PS</abbr></td>
                   </tr>
                   <tr>
@@ -2202,7 +2202,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Atlantic Canada Opportunities Agency">ACOA</abbr></td>
                     <td><span lang="fr"><abbr title="Agence de promotion économique du Canada atlantique">APECA</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -2211,7 +2211,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Canadian Nuclear Safety Commission">CNSC</abbr></td>
                     <td><span lang="fr"><abbr title="Commission canadienne de sûreté nucléaire">CCSN</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Natural Resources Canada">NRCan</abbr></td>
                   </tr>
                   <tr>
@@ -2220,7 +2220,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Transportation Safety Board of Canada">TSB</abbr></td>
                     <td><span lang="fr"><abbr title="Bureau de la sécurité des transports du Canada">BST</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -2229,7 +2229,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Canada Employment Insurance Commission">CEIC</abbr></td>
                     <td><span lang="fr"><abbr title="Commission de l’assurance-emploi du Canada">CAEC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Employment and Social Development Canada">ESDC</abbr></td>
                   </tr>
                   <tr>
@@ -2238,7 +2238,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Polar Knowledge Canada">POLAR</abbr></td>
                     <td><span lang="fr"><abbr title="Savoir polaire Canada">POLAIRE</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Crown-Indigenous Relations and Northern Affairs Canada">CIRNAC</abbr></td>
                   </tr>
                   <tr>
@@ -2247,7 +2247,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="The National Battlefields Commission">NBC</abbr></td>
                     <td><span lang="fr"><abbr title="Commission des champs de bataille nationaux">CCBN</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Canadian Heritage">PCH</abbr></td>
                   </tr>
                   <tr>
@@ -2256,7 +2256,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="National Research Council Canada">NRC</abbr></td>
                     <td><span lang="fr"><abbr title="Conseil national de recherches Canada">CNRC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -2265,7 +2265,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Natural Sciences and Engineering Research Council">NSERC</abbr></td>
                     <td><span lang="fr"><abbr title="Conseil de recherches en sciences naturelles et en génie">GRSGC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -2274,7 +2274,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Parks Canada">PC</abbr></td>
                     <td><span lang="fr"><abbr title="Parcs Canada">PC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Environment and Climate Change Canada">ECCC</abbr></td>
                   </tr>
                   <tr>
@@ -2283,7 +2283,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Social Sciences and Humanities Research Council of Canada">SSHRC</abbr></td>
                     <td><span lang="fr"><abbr title="Conseil de recherches en sciences humaines du Canada">CRSH</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -2292,7 +2292,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Canada Border Services Agency">CBSA</abbr></td>
                     <td><span lang="fr"><abbr title="Agence des services frontaliers du Canada">ASFC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Public Safety Canada">PS</abbr></td>
                   </tr>
                   <tr>
@@ -2301,7 +2301,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Canadian Food Inspection Agency">CFIA</abbr></td>
                     <td><span lang="fr"><abbr title="Agence canadienne d’inspection des aliments">ACIA</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Health Canada">HC</abbr></td>
                   </tr>
                   <tr>
@@ -2310,7 +2310,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Canadian Centre for Occupational Health and Safety">CCOHS</abbr></td>
                     <td><span lang="fr"><abbr title="Centre canadien d’hygiène et de sécurité au travail">CCHST</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Employment and Social Development Canada">ESDC</abbr></td>
                   </tr>
                   <tr>
@@ -2319,7 +2319,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Canadian Institutes of Health Research">CIHR</abbr></td>
                     <td><span lang="fr"><abbr title="Instituts de recherche en santé du Canada">IRSC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Health Canada">HC</abbr></td>
                   </tr>
                   <tr>
@@ -2328,7 +2328,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Canada Revenue Agency">CRA</abbr></td>
                     <td><span lang="fr"><abbr title="Agence du revenu du Canada">ARC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -2337,7 +2337,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Canada School of Public Service">CSPS</abbr></td>
                     <td><span lang="fr"><abbr title="École de la fonction publique du Canada">EFPC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Treasury Board of Canada Secretariat">TBS</abbr></td>
                   </tr>
                   <tr>
@@ -2346,7 +2346,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No institutional form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -2355,7 +2355,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Human Rights Tribunal of Canada">HRTC</abbr></td>
                     <td><span lang="fr"><abbr title="Tribunal des droits de la personne du Canada">TDPC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -2364,7 +2364,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Public Servants Disclosure Protection Tribunal Canada">PSDPTC</abbr></td>
                     <td><span lang="fr"><abbr title="Tribunal de la protection des fonctionnaires divulgateurs Canada">TPTFDC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Public Services and Procurement Canada">PSPC</abbr></td>
                   </tr>
                   <tr>
@@ -2373,7 +2373,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Public Service Labour Relations and Employment Board">PSLREB</abbr></td>
                     <td><span lang="fr"><abbr title="Commission des relations de travail et de l’emploi dans la fonction publique">CRTEFP</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Public Services and Procurement Canada">PSPC</abbr></td>
                   </tr>
                   <tr>
@@ -2382,7 +2382,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Registry of the Specific Claims Tribunal of Canada">SCT</abbr></td>
                     <td><span lang="fr"><abbr title="Greffe du Tribunal des revendications particulières du Canada">TRP</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Crown-Indigenous Relations and Northern Affairs Canada">CIRNAC</abbr></td>
                   </tr>
                   <tr>
@@ -2391,7 +2391,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency (Historical)</td>
                     <td><abbr title="Transportation Appeal Tribunal of Canada">TATC</abbr></td>
                     <td><span lang="fr"><abbr title="Tribunal d’appel des transports du Canada">TATC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Transport Canada">TC</abbr></td>
                   </tr>
                   <tr>
@@ -2400,7 +2400,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency (Historical)</td>
                     <td><abbr title="Canada Industrial Relations Board">CIRB</abbr></td>
                     <td><span lang="fr"><abbr title="Conseil canadien des relations industrielles">CCRI</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Employment and Social Development Canada">ESDC</abbr></td>
                   </tr>
                   <tr>
@@ -2409,7 +2409,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Other Organization (Historical)</td>
                     <td><abbr title="Social Security Tribunal of Canada">SST</abbr></td>
                     <td><span lang="fr"><abbr title="Tribunal de la sécurité sociale du Canada">TSS</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Employment and Social Development Canada">ESDC</abbr></td>
                   </tr>
                   <tr>
@@ -2418,7 +2418,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Other Organization (<abbr title="Human resources">HR</abbr> entity)</td>
                     <td><abbr title="Office of the Superintendent of Bankruptcy Canada">OSB</abbr></td>
                     <td><span lang="fr"><abbr title="Bureau du surintendant des faillites Canada">BSF</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -2427,7 +2427,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Historic Sites and Monuments Board of Canada">HSMBC</abbr></td>
                     <td><span lang="fr"><abbr title="Commission des lieux et monuments historiques du Canada">CLMHC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Environment and Climate Change Canada">ECCC</abbr></td>
                   </tr>
                   <tr>
@@ -2436,7 +2436,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Competition Bureau Canada">COBU</abbr></td>
                     <td><span lang="fr"><abbr title="Bureau de la concurrence Canada">BUCO</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -2445,7 +2445,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Service Canada">ServCan</abbr></td>
                     <td><span lang="fr"><abbr title="Service Canada">ServCan</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Employment and Social Development Canada">ESDC</abbr></td>
                   </tr>
                   <tr>
@@ -2454,7 +2454,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Other Organization (Historical)</td>
                     <td><abbr title="Occupational Health and Safety Tribunal Canada">OHSTC</abbr></td>
                     <td><span lang="fr"><abbr title="Tribunal de santé et sécurité au travail Canada">TSSTC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Employment and Social Development Canada">ESDC</abbr></td>
                   </tr>
                   <tr>
@@ -2463,7 +2463,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Environmental Protection Review Canada">EPRC</abbr></td>
                     <td><span lang="fr"><abbr title="Révision de la protection de l’environnement Canada">RPEC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Environment and Climate Change Canada">ECCC</abbr></td>
                   </tr>
                   <tr>
@@ -2472,7 +2472,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Communications Research Centre Canada">CRC</abbr></td>
                     <td><span lang="fr"><abbr title="Centre de recherches sur les communications Canada">CRC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -2481,7 +2481,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -2490,7 +2490,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Canada Firearms Centre">CAFC</abbr></td>
                     <td><span lang="fr"><abbr title="Centre des armes à feu Canada">CAFC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Public Safety Canada">PS</abbr></td>
                   </tr>
                   <tr>
@@ -2499,7 +2499,7 @@ title: "Find the right template and design patterns for your web content"
                     <td><abbr title="Special operating agency">SOA</abbr></td>
                     <td><abbr title="Canadian Coast Guard">CCG</abbr></td>
                     <td><span lang="fr"><abbr title="Garde côtière canadienne">GCC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Fisheries and Oceans Canada">DFO</abbr></td>
                   </tr>
                   <tr>
@@ -2508,7 +2508,7 @@ title: "Find the right template and design patterns for your web content"
                     <td><abbr title="Special operating agency">SOA</abbr></td>
                     <td><abbr title="Measurement Canada">MC</abbr></td>
                     <td><span lang="fr"><abbr title="Mesures Canada">MC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -2517,7 +2517,7 @@ title: "Find the right template and design patterns for your web content"
                     <td><abbr title="Special operating agency">SOA</abbr></td>
                     <td><abbr title="Canadian Intellectual Property Office">CIPO</abbr></td>
                     <td><span lang="fr"><abbr title="Office de la propriété intellectuelle du Canada">OPIC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -2526,7 +2526,7 @@ title: "Find the right template and design patterns for your web content"
                     <td><abbr title="Special operating agency">SOA</abbr></td>
                     <td><abbr title="Canadian Conservation Institute">CCI</abbr></td>
                     <td><span lang="fr"><abbr title="Institut canadien de conservation">ICC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Canadian Heritage">PCH</abbr></td>
                   </tr>
                   <tr>
@@ -2535,7 +2535,7 @@ title: "Find the right template and design patterns for your web content"
                     <td><abbr title="Special operating agency">SOA</abbr></td>
                     <td><abbr title="Defence Research and Development Canada">DRDC</abbr></td>
                     <td><span lang="fr"><abbr title="Recherche et développement pour la Défense Canada">RDDC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="National Defence">DND</abbr></td>
                   </tr>
                   <tr>
@@ -2544,7 +2544,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Other Organization (Historical)</td>
                     <td><abbr title="Canada Agricultural Review Tribunal">CART</abbr></td>
                     <td><span lang="fr"><abbr title="Commission de révision agricole du Canada">CRAC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Agriculture and Agri-Food Canada">AAFC</abbr></td>
                   </tr>
                   <tr>
@@ -2553,7 +2553,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="National Defence">DND</abbr></td>
                   </tr>
                   <tr>
@@ -2562,7 +2562,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency (Historical)</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Canadian Heritage">PCH</abbr></td>
                   </tr>
                   <tr>
@@ -2571,7 +2571,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency (Historical)</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Department of Finance Canada">FIN</abbr></td>
                   </tr>
                   <tr>
@@ -2580,7 +2580,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Royal Canadian Navy">RCN</abbr></td>
                     <td><span lang="fr"><abbr title="Marine royale canadienne">MRC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="National Defence">DND</abbr></td>
                   </tr>
                   <tr>
@@ -2589,7 +2589,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Canadian Special Operations Forces Command">CANSOFCOM</abbr></td>
                     <td><span lang="fr"><abbr title="Commandement des Forces d'opérations spéciales du Canada">COMFOSCAN</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="National Defence">DND</abbr></td>
                   </tr>
                   <tr>
@@ -2598,7 +2598,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -2607,7 +2607,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Independent Review Panel for Defence Acquisition">IRPDA</abbr></td>
                     <td><span lang="fr"><abbr title="Commission indépendante d'examen des acquisitions de la Défense">CIEAD</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="National Defence">DND</abbr></td>
                   </tr>
                   <tr>
@@ -2616,7 +2616,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Employment and Social Development Canada">ESDC</abbr></td>
                   </tr>
                   <tr>
@@ -2625,7 +2625,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Global Affairs Canada">GAC</abbr></td>
                   </tr>
                   <tr>
@@ -2634,7 +2634,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Office of the Federal Ombudsman for Victims of Crime">OFOVC</abbr></td>
                     <td><span lang="fr"><abbr title="Bureau de l’ombudsman fédéral des victimes d’actes criminels">BOFVAC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Department of Justice Canada">JUS</abbr></td>
                   </tr>
                   <tr>
@@ -2643,7 +2643,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="National Defence">DND</abbr></td>
                   </tr>
                   <tr>
@@ -2652,7 +2652,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Office of the Procurement Ombudsman">OPO</abbr></td>
                     <td><span lang="fr"><abbr title="Bureau de l’ombudsman de l’approvisionnement">BOA</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Public Services and Procurement Canada">PSPC</abbr></td>
                   </tr>
                   <tr>
@@ -2661,7 +2661,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Office of the Taxpayers’ Ombudsman">OTO</abbr></td>
                     <td><span lang="fr"><abbr title="Bureau de l’ombudsman des contribuables">BOC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Canada Revenue Agency">CRA</abbr></td>
                   </tr>
                   <tr>
@@ -2670,7 +2670,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Veterans Affairs Canada">VAC</abbr></td>
                   </tr>
                   <tr>
@@ -2679,7 +2679,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Royal Canadian Air Force">RCAF</abbr></td>
                     <td><span lang="fr"><abbr title="Aviation royale canadienne">ARC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="National Defence">DND</abbr></td>
                   </tr>
                   <tr>
@@ -2688,7 +2688,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Privy Council Office">PCO</abbr></td>
                   </tr>
                   <tr>
@@ -2697,7 +2697,7 @@ title: "Find the right template and design patterns for your web content"
                     <td><abbr title="Special operating agency">SOA</abbr></td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Canadian Heritage">PCH</abbr></td>
                   </tr>
                   <tr>
@@ -2706,7 +2706,7 @@ title: "Find the right template and design patterns for your web content"
                     <td><abbr title="Special operating agency">SOA</abbr></td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Agriculture and Agri-Food Canada">AAFC</abbr></td>
                   </tr>
                   <tr>
@@ -2715,7 +2715,7 @@ title: "Find the right template and design patterns for your web content"
                     <td><abbr title="Special operating agency">SOA</abbr></td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Crown-Indigenous Relations and Northern Affairs Canada">CIRNAC</abbr></td>
                   </tr>
                   <tr>
@@ -2724,7 +2724,7 @@ title: "Find the right template and design patterns for your web content"
                     <td><abbr title="Special operating agency">SOA</abbr></td>
                     <td><abbr title="Industrial Technologies Office">ITO</abbr></td>
                     <td><span lang="fr"><abbr title="Office des technologies industrielles">OTI</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -2733,7 +2733,7 @@ title: "Find the right template and design patterns for your web content"
                     <td><abbr title="Special operating agency">SOA</abbr></td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Global Affairs Canada">GAC</abbr></td>
                   </tr>
                   <tr>
@@ -2742,7 +2742,7 @@ title: "Find the right template and design patterns for your web content"
                     <td><abbr title="Special operating agency">SOA</abbr></td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Public Services and Procurement Canada">PSPC</abbr></td>
                   </tr>
                   <tr>
@@ -2751,7 +2751,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Privy Council Office">PCO</abbr></td>
                   </tr>
                   <tr>
@@ -2760,7 +2760,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Privy Council Office">PCO</abbr></td>
                   </tr>
                   <tr>
@@ -2769,7 +2769,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Privy Council Office">PCO</abbr></td>
                   </tr>
                   <tr>
@@ -2778,7 +2778,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Privy Council Office">PCO</abbr></td>
                   </tr>
                   <tr>
@@ -2787,7 +2787,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Employment and Social Development Canada">ESDC</abbr></td>
                   </tr>
                   <tr>
@@ -2796,7 +2796,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Office of the Chief Military Judge">OCMJ</abbr></td>
                     <td><span lang="fr"><abbr title="Le cabinet du juge militaire en chef">CJMC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="National Defence">DND</abbr></td>
                   </tr>
                   <tr>
@@ -2805,7 +2805,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Environment and Climate Change Canada">ECCC</abbr></td>
                   </tr>
                   <tr>
@@ -2814,7 +2814,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Canada Revenue Agency">CRA</abbr></td>
                   </tr>
                   <tr>
@@ -2823,7 +2823,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Canadian Institutes of Health Research">CIHR</abbr></td>
                   </tr>
                   <tr>
@@ -2832,7 +2832,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Canadian Institutes of Health Research">CIHR</abbr></td>
                   </tr>
                   <tr>
@@ -2841,7 +2841,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Canadian Security Intelligence Service">CSIS</abbr></td>
                   </tr>
                   <tr>
@@ -2850,7 +2850,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Agriculture and Agri-Food Canada">AAFC</abbr></td>
                   </tr>
                   <tr>
@@ -2859,7 +2859,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Fisheries and Oceans Canada">DFO</abbr></td>
                   </tr>
                   <tr>
@@ -2868,7 +2868,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Global Affairs Canada">GAC</abbr></td>
                   </tr>
                   <tr>
@@ -2877,7 +2877,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Fisheries and Oceans Canada">DFO</abbr></td>
                   </tr>
                   <tr>
@@ -2886,7 +2886,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Environment and Climate Change Canada">ECCC</abbr></td>
                   </tr>
                   <tr>
@@ -2895,7 +2895,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Transport Canada">TC</abbr></td>
                   </tr>
                   <tr>
@@ -2904,7 +2904,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="National Research Council Canada">NRC</abbr></td>
                   </tr>
                   <tr>
@@ -2913,7 +2913,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Social Sciences and Humanities Research Council of Canada">SSHRC</abbr></td>
                   </tr>
                   <tr>
@@ -2922,7 +2922,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Social Sciences and Humanities Research Council of Canada">SSHRC</abbr></td>
                   </tr>
                   <tr>
@@ -2931,7 +2931,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Royal Canadian Mounted Police">RCMP</abbr></td>
                   </tr>
                   <tr>
@@ -2940,7 +2940,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Environment and Climate Change Canada">ECCC</abbr></td>
                   </tr>
                   <tr>
@@ -2949,7 +2949,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Environment and Climate Change Canada">ECCC</abbr></td>
                   </tr>
                   <tr>
@@ -2958,7 +2958,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="National Research Council Canada">NRC</abbr></td>
                   </tr>
                 </tbody>
@@ -2992,7 +2992,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Agriculture and Agri-Food Canada">AAFC</abbr></td>
                     <td><span lang="fr"><abbr title="Agriculture et Agroalimentaire Canada">AAC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -3001,7 +3001,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Canadian Heritage">PCH</abbr></td>
                     <td><span lang="fr"><abbr title="Patrimoine canadien">PCH</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -3010,7 +3010,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Crown-Indigenous Relations and Northern Affairs Canada">CIRNAC</abbr></td>
                     <td><span lang="fr"><abbr title="Relations Couronne-Autochtones et Affaires du Nord Canada">RCAANC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -3019,7 +3019,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Immigration, Refugees and Citizenship Canada">IRCC</abbr></td>
                     <td><span lang="fr"><abbr title="Immigration, Réfugiés et Citoyenneté Canada">IRCC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -3028,7 +3028,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Employment and Social Development Canada">ESDC</abbr></td>
                     <td><span lang="fr"><abbr title="Emploi et Développement social Canada">EDSC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -3037,7 +3037,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Department of Finance Canada">FIN</abbr></td>
                     <td><span lang="fr"><abbr title="Ministère des Finances Canada">FIN</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -3046,7 +3046,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Fisheries and Oceans Canada">DFO</abbr></td>
                     <td><span lang="fr"><abbr title="Pêches et Océans Canada">MPO</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -3055,7 +3055,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Global Affairs Canada">GAC</abbr></td>
                     <td><span lang="fr"><abbr title="Affaires mondiales Canada">AMC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -3064,7 +3064,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Health Canada">HC</abbr></td>
                     <td><span lang="fr"><abbr title="Santé Canada">SC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -3073,7 +3073,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Indigenous Services Canada">ISC</abbr></td>
                     <td><span lang="fr"><abbr title="Services aux Autochtones Canada">SAC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -3082,7 +3082,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                     <td><span lang="fr"><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -3091,7 +3091,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Department of Justice Canada">JUS</abbr></td>
                     <td><span lang="fr"><abbr title="Ministère de la Justice Canada">JUS</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -3100,7 +3100,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="National Defence">DND</abbr></td>
                     <td><span lang="fr"><abbr title="Défense nationale">MDN</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -3109,7 +3109,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Natural Resources Canada">NRCan</abbr></td>
                     <td><span lang="fr"><abbr title="Ressources naturelles Canada">RNCan</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -3118,7 +3118,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Public Safety Canada">PS</abbr></td>
                     <td><span lang="fr"><abbr title="Sécurité publique Canada">SP</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -3127,7 +3127,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Public Services and Procurement Canada">PSPC</abbr></td>
                     <td><span lang="fr"><abbr title="Services publics et Approvisionnement Canada">SPAC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -3136,7 +3136,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Environment and Climate Change Canada">ECCC</abbr></td>
                     <td><span lang="fr"><abbr title="Environnement et Changement climatique Canada">ECCC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -3145,7 +3145,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Transport Canada">TC</abbr></td>
                     <td><span lang="fr"><abbr title="Transports Canada">TC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -3154,7 +3154,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Veterans Affairs Canada">VAC</abbr></td>
                     <td><span lang="fr"><abbr title="Anciens Combattants Canada">ACC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -3163,7 +3163,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Western Economic Diversification Canada">WD</abbr></td>
                     <td><span lang="fr"><abbr title="Diversification de l’économie de l’Ouest Canada">DEO</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -3172,7 +3172,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Ministerial Department</td>
                     <td><abbr title="Treasury Board of Canada Secretariat">TBS</abbr></td>
                     <td><span lang="fr"><abbr title="Secrétariat du Conseil du Trésor du Canada">SCT</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -3181,7 +3181,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Canadian Radio-television and Telecommunications Commission">CRTC</abbr></td>
                     <td><span lang="fr"><abbr title="Conseil de la radiodiffusion et des télécommunications canadiennes">CRTC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Canadian Heritage">PCH</abbr></td>
                   </tr>
                   <tr>
@@ -3190,7 +3190,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Canadian Transportation Agency">CTA</abbr></td>
                     <td><span lang="fr"><abbr title="Office des transports du Canada">OTC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Transport Canada">TC</abbr></td>
                   </tr>
                   <tr>
@@ -3199,7 +3199,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Civilian Review and Complaints Commission for the RCMP">CRCC</abbr></td>
                     <td><span lang="fr"><abbr title="Commission civile d’examen et de tratement des plaintes relatives à la GRC">CCETP</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Public Safety Canada">PS</abbr></td>
                   </tr>
                   <tr>
@@ -3208,7 +3208,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Copyright Board Canada">CB</abbr></td>
                     <td><span lang="fr"><abbr title="Commission du droit d’auteur Canada">CDA</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -3217,7 +3217,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Immigration and Refugee Board of Canada">IRB</abbr></td>
                     <td><span lang="fr"><abbr title="Commission de l’immigration et du statut de réfugié du Canada">CISR</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -3226,7 +3226,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Military Grievances External Review Committee">MGERC</abbr></td>
                     <td><span lang="fr"><abbr title="Comité externe d’examen des griefs militaires">CEEGM</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Department of Justice Canada">JUS</abbr></td>
                   </tr>
                   <tr>
@@ -3235,7 +3235,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Military Police Complaints Commission of Canada">MPCC</abbr></td>
                     <td><span lang="fr"><abbr title="Commission d’examen des plaintes concernant la police militaire du Canada">CPPM</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Department of Justice Canada">JUS</abbr></td>
                   </tr>
                   <tr>
@@ -3244,7 +3244,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Parole Board of Canada">PBC</abbr></td>
                     <td><span lang="fr"><abbr title="Commission des libérations conditionnelles du Canada">CLCC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Public Safety Canada">PS</abbr></td>
                   </tr>
                   <tr>
@@ -3253,7 +3253,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Patented Medicine Prices Review Board Canada">PMPRB</abbr></td>
                     <td><span lang="fr"><abbr title="Conseil d’examen du prix des médicaments brevetés Canada">CEPMB</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Health Canada">HC</abbr></td>
                   </tr>
                   <tr>
@@ -3262,7 +3262,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="RCMP External Review Committee">ERC</abbr></td>
                     <td><span lang="fr"><abbr title="Comité externe d’examen de la GRC">CEE</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Public Safety Canada">PS</abbr></td>
                   </tr>
                   <tr>
@@ -3271,7 +3271,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Administrative Tribunals Support Service of Canada">ATSSC</abbr></td>
                     <td><span lang="fr"><abbr title="Service canadien d’appui aux tribunaux administratifs">SCDATA</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Department of Justice Canada">JUS</abbr></td>
                   </tr>
                   <tr>
@@ -3280,7 +3280,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Impact Assessment Agency of Canada">IAAC</abbr></td>
                     <td><span lang="fr"><abbr title="Agence d'évaluation d'impact du Canada">AEIC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Environment and Climate Change Canada">ECCC</abbr></td>
                   </tr>
                   <tr>
@@ -3289,7 +3289,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Canadian Space Agency">CSA</abbr></td>
                     <td><span lang="fr"><abbr title="Agence spatiale canadienne">ASC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -3298,7 +3298,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Financial Consumer Agency of Canada">FCAC</abbr></td>
                     <td><span lang="fr"><abbr title="Agence de la consommation en matière financière du Canada">ACFC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Department of Finance Canada">FIN</abbr></td>
                   </tr>
                   <tr>
@@ -3307,7 +3307,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Financial Transactions and Reports Analysis Centre of Canada">FINTRAC</abbr></td>
                     <td><span lang="fr"><abbr title="Centre d’analyse des opérations et déclarations financières du Canada">CANAFE</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Department of Finance Canada">FIN</abbr></td>
                   </tr>
                   <tr>
@@ -3316,7 +3316,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Library and Archives Canada">LAC</abbr></td>
                     <td><span lang="fr"><abbr title="Bibliothèque et Archives Canada">BAC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Canadian Heritage">PCH</abbr></td>
                   </tr>
                   <tr>
@@ -3325,7 +3325,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Farm Products Council of Canada">FPCC</abbr></td>
                     <td><span lang="fr"><abbr title="Conseil des produits agricoles du Canada">CPAC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Agriculture and Agri-Food Canada">AAFC</abbr></td>
                   </tr>
                   <tr>
@@ -3334,7 +3334,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Northern Pipeline Agency Canada">NPA</abbr></td>
                     <td><span lang="fr"><abbr title="Administration du pipe-line du Nord Canada">APN</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Natural Resources Canada">NRCan</abbr></td>
                   </tr>
                   <tr>
@@ -3343,7 +3343,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Office of the Commissioner for Federal Judicial Affairs Canada">FJA</abbr></td>
                     <td><span lang="fr"><abbr title="Commissariat à la magistrature fédérale Canada">CMF</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Department of Justice Canada">JUS</abbr></td>
                   </tr>
                   <tr>
@@ -3352,7 +3352,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Status of Women Canada">SWC</abbr></td>
                     <td><span lang="fr"><abbr title="Condition féminine Canada">CFC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Canadian Heritage">PCH</abbr></td>
                   </tr>
                   <tr>
@@ -3361,7 +3361,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="The Correctional Investigator Canada">OCI</abbr></td>
                     <td><span lang="fr"><abbr title="L’Enquêteur correctionnel Canada">BEC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Public Safety Canada">PS</abbr></td>
                   </tr>
                   <tr>
@@ -3370,7 +3370,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Public Prosecution Service of Canada">PPSC</abbr></td>
                     <td><span lang="fr"><abbr title="Service des poursuites pénales du Canada">SPPC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Department of Justice Canada">JUS</abbr></td>
                   </tr>
                   <tr>
@@ -3379,7 +3379,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Office of the Superintendent of Financial Institutions Canada">OSFI</abbr></td>
                     <td><span lang="fr"><abbr title="Bureau du surintendant des institutions financières Canada">BSIF</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Department of Finance Canada">FIN</abbr></td>
                   </tr>
                   <tr>
@@ -3388,7 +3388,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Public Health Agency of Canada">PHAC</abbr></td>
                     <td><span lang="fr"><abbr title="Agence de la santé publique du Canada">ASPC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Health Canada">HC</abbr></td>
                   </tr>
                   <tr>
@@ -3397,7 +3397,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Public Service Commission of Canada">PSC</abbr></td>
                     <td><span lang="fr"><abbr title="Commission de la fonction publique du Canada">CFP</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Public Services and Procurement Canada">PSPC</abbr></td>
                   </tr>
                   <tr>
@@ -3406,7 +3406,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Canadian Northern Economic Development Agency">CanNor</abbr></td>
                     <td><span lang="fr"><abbr title="Agence canadienne de développement économique du Nord">CanNor</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -3415,7 +3415,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Communications Security Establishment">CSEC</abbr></td>
                     <td><span lang="fr"><abbr title="Centre de la sécurité des télécommunications">CSTC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="National Defence">DND</abbr></td>
                   </tr>
                   <tr>
@@ -3424,7 +3424,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Correctional Service Canada">CSC</abbr></td>
                     <td><span lang="fr"><abbr title="Service correctionnel Canada">SCC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Public Safety Canada">PS</abbr></td>
                   </tr>
                   <tr>
@@ -3433,7 +3433,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Canada Economic Development for Quebec Regions">CED</abbr></td>
                     <td><span lang="fr"><abbr title="Développement économique Canada pour les régions du Québec">DEC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -3442,7 +3442,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Federal Economic Development Agency for Southern Ontario">FedDev Ontario</abbr></td>
                     <td><span lang="fr"><abbr title="Agence fédérale de développement économique pour le Sud de l’Ontario">FedDev Ontario</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -3451,7 +3451,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Infrastructure Canada">INFC</abbr></td>
                     <td><span lang="fr"><abbr title="Infrastructure Canada">INFC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -3460,7 +3460,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Privy Council Office">PCO</abbr></td>
                     <td><span lang="fr"><abbr title="Bureau du Conseil privé">BCP</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -3469,7 +3469,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Shared Services Canada">SSC</abbr></td>
                     <td><span lang="fr"><abbr title="Services partagés Canada">SPC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Public Services and Procurement Canada">PSPC</abbr></td>
                   </tr>
                   <tr>
@@ -3478,7 +3478,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Statistics Canada">StatCan</abbr></td>
                     <td><span lang="fr"><abbr title="Statistique Canada">StatCan</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -3487,7 +3487,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="National Energy Board">NEB</abbr></td>
                     <td><span lang="fr"><abbr title="Office national de l’énergie">ONE</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Natural Resources Canada">NRCan</abbr></td>
                   </tr>
                   <tr>
@@ -3496,7 +3496,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Security Intelligence Review Committee">SIRC</abbr></td>
                     <td><span lang="fr"><abbr title="Comité de surveillance des activités de renseignement de sécurité">CSARS</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -3505,7 +3505,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Veterans Review and Appeal Board">VRAB</abbr></td>
                     <td><span lang="fr"><abbr title="Tribunal des anciens combattants (révision et appel)">TACRA</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Veterans Affairs Canada">VAC</abbr></td>
                   </tr>
                   <tr>
@@ -3514,7 +3514,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Canadian Grain Commission">CGC</abbr></td>
                     <td><span lang="fr"><abbr title="Commission canadienne des grains">CCG</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Agriculture and Agri-Food Canada">AAFC</abbr></td>
                   </tr>
                   <tr>
@@ -3523,7 +3523,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Canadian Human Rights Commission">CHRC</abbr></td>
                     <td><span lang="fr"><abbr title="Commission canadienne des droits de la personne">CCDP</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Department of Justice Canada">JUS</abbr></td>
                   </tr>
                   <tr>
@@ -3532,7 +3532,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Canadian Security Intelligence Service">CSIS</abbr></td>
                     <td><span lang="fr"><abbr title="Service canadien du renseignement de sécurité">SCRS</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Public Safety Canada">PS</abbr></td>
                   </tr>
                   <tr>
@@ -3541,7 +3541,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="National Film Board">NFB</abbr></td>
                     <td><span lang="fr"><abbr title="Office national du film">ONF</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Canadian Heritage">PCH</abbr></td>
                   </tr>
                   <tr>
@@ -3550,7 +3550,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Office of the Communications Security Establishment Commissioner">OCSEC</abbr></td>
                     <td><span lang="fr"><abbr title="Bureau du commissaire du Centre de la sécurité des télécommunications">BCCST</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="National Defence">DND</abbr></td>
                   </tr>
                   <tr>
@@ -3559,7 +3559,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Royal Canadian Mounted Police">RCMP</abbr></td>
                     <td><span lang="fr"><abbr title="Gendarmerie royale du Canada">GRC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Public Safety Canada">PS</abbr></td>
                   </tr>
                   <tr>
@@ -3568,7 +3568,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Atlantic Canada Opportunities Agency">ACOA</abbr></td>
                     <td><span lang="fr"><abbr title="Agence de promotion économique du Canada atlantique">APECA</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -3577,7 +3577,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Canadian Nuclear Safety Commission">CNSC</abbr></td>
                     <td><span lang="fr"><abbr title="Commission canadienne de sûreté nucléaire">CCSN</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Natural Resources Canada">NRCan</abbr></td>
                   </tr>
                   <tr>
@@ -3586,7 +3586,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Transportation Safety Board of Canada">TSB</abbr></td>
                     <td><span lang="fr"><abbr title="Bureau de la sécurité des transports du Canada">BST</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -3595,7 +3595,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Canada Employment Insurance Commission">CEIC</abbr></td>
                     <td><span lang="fr"><abbr title="Commission de l’assurance-emploi du Canada">CAEC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Employment and Social Development Canada">ESDC</abbr></td>
                   </tr>
                   <tr>
@@ -3604,7 +3604,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Polar Knowledge Canada">POLAR</abbr></td>
                     <td><span lang="fr"><abbr title="Savoir polaire Canada">POLAIRE</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Crown-Indigenous Relations and Northern Affairs Canada">CIRNAC</abbr></td>
                   </tr>
                   <tr>
@@ -3613,7 +3613,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="The National Battlefields Commission">NBC</abbr></td>
                     <td><span lang="fr"><abbr title="Commission des champs de bataille nationaux">CCBN</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Canadian Heritage">PCH</abbr></td>
                   </tr>
                   <tr>
@@ -3622,7 +3622,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="National Research Council Canada">NRC</abbr></td>
                     <td><span lang="fr"><abbr title="Conseil national de recherches Canada">CNRC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -3631,7 +3631,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Natural Sciences and Engineering Research Council">NSERC</abbr></td>
                     <td><span lang="fr"><abbr title="Conseil de recherches en sciences naturelles et en génie">GRSGC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -3640,7 +3640,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Parks Canada">PC</abbr></td>
                     <td><span lang="fr"><abbr title="Parcs Canada">PC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Environment and Climate Change Canada">ECCC</abbr></td>
                   </tr>
                   <tr>
@@ -3649,7 +3649,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Social Sciences and Humanities Research Council of Canada">SSHRC</abbr></td>
                     <td><span lang="fr"><abbr title="Conseil de recherches en sciences humaines du Canada">CRSH</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -3658,7 +3658,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Canada Border Services Agency">CBSA</abbr></td>
                     <td><span lang="fr"><abbr title="Agence des services frontaliers du Canada">ASFC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Public Safety Canada">PS</abbr></td>
                   </tr>
                   <tr>
@@ -3667,7 +3667,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Canadian Food Inspection Agency">CFIA</abbr></td>
                     <td><span lang="fr"><abbr title="Agence canadienne d’inspection des aliments">ACIA</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Health Canada">HC</abbr></td>
                   </tr>
                   <tr>
@@ -3676,7 +3676,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Canadian Centre for Occupational Health and Safety">CCOHS</abbr></td>
                     <td><span lang="fr"><abbr title="Centre canadien d’hygiène et de sécurité au travail">CCHST</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Employment and Social Development Canada">ESDC</abbr></td>
                   </tr>
                   <tr>
@@ -3685,7 +3685,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Canadian Institutes of Health Research">CIHR</abbr></td>
                     <td><span lang="fr"><abbr title="Instituts de recherche en santé du Canada">IRSC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Health Canada">HC</abbr></td>
                   </tr>
                   <tr>
@@ -3694,7 +3694,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Canada Revenue Agency">CRA</abbr></td>
                     <td><span lang="fr"><abbr title="Agence du revenu du Canada">ARC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -3703,7 +3703,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Corporation</td>
                     <td><abbr title="Canada School of Public Service">CSPS</abbr></td>
                     <td><span lang="fr"><abbr title="École de la fonction publique du Canada">EFPC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td><abbr title="Treasury Board of Canada Secretariat">TBS</abbr></td>
                   </tr>
                   <tr>
@@ -3712,7 +3712,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No institutional form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -3721,7 +3721,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Human Rights Tribunal of Canada">HRTC</abbr></td>
                     <td><span lang="fr"><abbr title="Tribunal des droits de la personne du Canada">TDPC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td>&nbsp;</td>
                   </tr>
                   <tr>
@@ -3730,7 +3730,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Public Servants Disclosure Protection Tribunal Canada">PSDPTC</abbr></td>
                     <td><span lang="fr"><abbr title="Tribunal de la protection des fonctionnaires divulgateurs Canada">TPTFDC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Public Services and Procurement Canada">PSPC</abbr></td>
                   </tr>
                   <tr>
@@ -3739,7 +3739,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Public Service Labour Relations and Employment Board">PSLREB</abbr></td>
                     <td><span lang="fr"><abbr title="Commission des relations de travail et de l’emploi dans la fonction publique">CRTEFP</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Public Services and Procurement Canada">PSPC</abbr></td>
                   </tr>
                   <tr>
@@ -3748,7 +3748,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td><abbr title="Registry of the Specific Claims Tribunal of Canada">SCT</abbr></td>
                     <td><span lang="fr"><abbr title="Greffe du Tribunal des revendications particulières du Canada">TRP</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Crown-Indigenous Relations and Northern Affairs Canada">CIRNAC</abbr></td>
                   </tr>
                   <tr>
@@ -3757,7 +3757,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency (Historical)</td>
                     <td><abbr title="Transportation Appeal Tribunal of Canada">TATC</abbr></td>
                     <td><span lang="fr"><abbr title="Tribunal d’appel des transports du Canada">TATC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Transport Canada">TC</abbr></td>
                   </tr>
                   <tr>
@@ -3766,7 +3766,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency (Historical)</td>
                     <td><abbr title="Canada Industrial Relations Board">CIRB</abbr></td>
                     <td><span lang="fr"><abbr title="Conseil canadien des relations industrielles">CCRI</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Employment and Social Development Canada">ESDC</abbr></td>
                   </tr>
                   <tr>
@@ -3775,7 +3775,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Other Organization (Historical)</td>
                     <td><abbr title="Social Security Tribunal of Canada">SST</abbr></td>
                     <td><span lang="fr"><abbr title="Tribunal de la sécurité sociale du Canada">TSS</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Employment and Social Development Canada">ESDC</abbr></td>
                   </tr>
                   <tr>
@@ -3784,7 +3784,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Other Organization (<abbr title="Human resources">HR</abbr> entity)</td>
                     <td><abbr title="Office of the Superintendent of Bankruptcy Canada">OSB</abbr></td>
                     <td><span lang="fr"><abbr title="Bureau du surintendant des faillites Canada">BSF</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -3793,7 +3793,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Historic Sites and Monuments Board of Canada">HSMBC</abbr></td>
                     <td><span lang="fr"><abbr title="Commission des lieux et monuments historiques du Canada">CLMHC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Environment and Climate Change Canada">ECCC</abbr></td>
                   </tr>
                   <tr>
@@ -3802,7 +3802,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Competition Bureau Canada">COBU</abbr></td>
                     <td><span lang="fr"><abbr title="Bureau de la concurrence Canada">BUCO</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -3811,7 +3811,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Service Canada">ServCan</abbr></td>
                     <td><span lang="fr"><abbr title="Service Canada">ServCan</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Employment and Social Development Canada">ESDC</abbr></td>
                   </tr>
                   <tr>
@@ -3820,7 +3820,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Other Organization (Historical)</td>
                     <td><abbr title="Occupational Health and Safety Tribunal Canada">OHSTC</abbr></td>
                     <td><span lang="fr"><abbr title="Tribunal de santé et sécurité au travail Canada">TSSTC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Employment and Social Development Canada">ESDC</abbr></td>
                   </tr>
                   <tr>
@@ -3829,7 +3829,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Environmental Protection Review Canada">EPRC</abbr></td>
                     <td><span lang="fr"><abbr title="Révision de la protection de l’environnement Canada">RPEC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Environment and Climate Change Canada">ECCC</abbr></td>
                   </tr>
                   <tr>
@@ -3838,7 +3838,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Communications Research Centre Canada">CRC</abbr></td>
                     <td><span lang="fr"><abbr title="Centre de recherches sur les communications Canada">CRC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -3847,7 +3847,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -3856,7 +3856,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Canada Firearms Centre">CAFC</abbr></td>
                     <td><span lang="fr"><abbr title="Centre des armes à feu Canada">CAFC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Public Safety Canada">PS</abbr></td>
                   </tr>
                   <tr>
@@ -3865,7 +3865,7 @@ title: "Find the right template and design patterns for your web content"
                     <td><abbr title="Special operating agency">SOA</abbr></td>
                     <td><abbr title="Canadian Coast Guard">CCG</abbr></td>
                     <td><span lang="fr"><abbr title="Garde côtière canadienne">GCC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Fisheries and Oceans Canada">DFO</abbr></td>
                   </tr>
                   <tr>
@@ -3874,7 +3874,7 @@ title: "Find the right template and design patterns for your web content"
                     <td><abbr title="Special operating agency">SOA</abbr></td>
                     <td><abbr title="Measurement Canada">MC</abbr></td>
                     <td><span lang="fr"><abbr title="Mesures Canada">MC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -3883,7 +3883,7 @@ title: "Find the right template and design patterns for your web content"
                     <td><abbr title="Special operating agency">SOA</abbr></td>
                     <td><abbr title="Canadian Intellectual Property Office">CIPO</abbr></td>
                     <td><span lang="fr"><abbr title="Office de la propriété intellectuelle du Canada">OPIC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -3892,7 +3892,7 @@ title: "Find the right template and design patterns for your web content"
                     <td><abbr title="Special operating agency">SOA</abbr></td>
                     <td><abbr title="Canadian Conservation Institute">CCI</abbr></td>
                     <td><span lang="fr"><abbr title="Institut canadien de conservation">ICC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Canadian Heritage">PCH</abbr></td>
                   </tr>
                   <tr>
@@ -3901,7 +3901,7 @@ title: "Find the right template and design patterns for your web content"
                     <td><abbr title="Special operating agency">SOA</abbr></td>
                     <td><abbr title="Defence Research and Development Canada">DRDC</abbr></td>
                     <td><span lang="fr"><abbr title="Recherche et développement pour la Défense Canada">RDDC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="National Defence">DND</abbr></td>
                   </tr>
                   <tr>
@@ -3910,7 +3910,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Other Organization (Historical)</td>
                     <td><abbr title="Canada Agricultural Review Tribunal">CART</abbr></td>
                     <td><span lang="fr"><abbr title="Commission de révision agricole du Canada">CRAC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Agriculture and Agri-Food Canada">AAFC</abbr></td>
                   </tr>
                   <tr>
@@ -3919,7 +3919,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="National Defence">DND</abbr></td>
                   </tr>
                   <tr>
@@ -3928,7 +3928,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency (Historical)</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Canadian Heritage">PCH</abbr></td>
                   </tr>
                   <tr>
@@ -3937,7 +3937,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency (Historical)</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Department of Finance Canada">FIN</abbr></td>
                   </tr>
                   <tr>
@@ -3946,7 +3946,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Royal Canadian Navy">RCN</abbr></td>
                     <td><span lang="fr"><abbr title="Marine royale canadienne">MRC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="National Defence">DND</abbr></td>
                   </tr>
                   <tr>
@@ -3955,7 +3955,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Canadian Special Operations Forces Command">CANSOFCOM</abbr></td>
                     <td><span lang="fr"><abbr title="Commandement des Forces d'opérations spéciales du Canada">COMFOSCAN</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="National Defence">DND</abbr></td>
                   </tr>
                   <tr>
@@ -3964,7 +3964,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>Departmental Agency</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -3973,7 +3973,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Independent Review Panel for Defence Acquisition">IRPDA</abbr></td>
                     <td><span lang="fr"><abbr title="Commission indépendante d'examen des acquisitions de la Défense">CIEAD</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="National Defence">DND</abbr></td>
                   </tr>
                   <tr>
@@ -3982,7 +3982,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Employment and Social Development Canada">ESDC</abbr></td>
                   </tr>
                   <tr>
@@ -3991,7 +3991,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Global Affairs Canada">GAC</abbr></td>
                   </tr>
                   <tr>
@@ -4000,7 +4000,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Office of the Federal Ombudsman for Victims of Crime">OFOVC</abbr></td>
                     <td><span lang="fr"><abbr title="Bureau de l’ombudsman fédéral des victimes d’actes criminels">BOFVAC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Department of Justice Canada">JUS</abbr></td>
                   </tr>
                   <tr>
@@ -4009,7 +4009,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="National Defence">DND</abbr></td>
                   </tr>
                   <tr>
@@ -4018,7 +4018,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Office of the Procurement Ombudsman">OPO</abbr></td>
                     <td><span lang="fr"><abbr title="Bureau de l’ombudsman de l’approvisionnement">BOA</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Public Services and Procurement Canada">PSPC</abbr></td>
                   </tr>
                   <tr>
@@ -4027,7 +4027,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Office of the Taxpayers’ Ombudsman">OTO</abbr></td>
                     <td><span lang="fr"><abbr title="Bureau de l’ombudsman des contribuables">BOC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Canada Revenue Agency">CRA</abbr></td>
                   </tr>
                   <tr>
@@ -4036,7 +4036,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Veterans Affairs Canada">VAC</abbr></td>
                   </tr>
                   <tr>
@@ -4045,7 +4045,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Royal Canadian Air Force">RCAF</abbr></td>
                     <td><span lang="fr"><abbr title="Aviation royale canadienne">ARC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="National Defence">DND</abbr></td>
                   </tr>
                   <tr>
@@ -4054,7 +4054,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Privy Council Office">PCO</abbr></td>
                   </tr>
                   <tr>
@@ -4063,7 +4063,7 @@ title: "Find the right template and design patterns for your web content"
                     <td><abbr title="Special operating agency">SOA</abbr></td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Canadian Heritage">PCH</abbr></td>
                   </tr>
                   <tr>
@@ -4072,7 +4072,7 @@ title: "Find the right template and design patterns for your web content"
                     <td><abbr title="Special operating agency">SOA</abbr></td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Agriculture and Agri-Food Canada">AAFC</abbr></td>
                   </tr>
                   <tr>
@@ -4081,7 +4081,7 @@ title: "Find the right template and design patterns for your web content"
                     <td><abbr title="Special operating agency">SOA</abbr></td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Crown-Indigenous Relations and Northern Affairs Canada">CIRNAC</abbr></td>
                   </tr>
                   <tr>
@@ -4090,7 +4090,7 @@ title: "Find the right template and design patterns for your web content"
                     <td><abbr title="Special operating agency">SOA</abbr></td>
                     <td><abbr title="Industrial Technologies Office">ITO</abbr></td>
                     <td><span lang="fr"><abbr title="Office des technologies industrielles">OTI</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></td>
                   </tr>
                   <tr>
@@ -4099,7 +4099,7 @@ title: "Find the right template and design patterns for your web content"
                     <td><abbr title="Special operating agency">SOA</abbr></td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Global Affairs Canada">GAC</abbr></td>
                   </tr>
                   <tr>
@@ -4108,7 +4108,7 @@ title: "Find the right template and design patterns for your web content"
                     <td><abbr title="Special operating agency">SOA</abbr></td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Public Services and Procurement Canada">PSPC</abbr></td>
                   </tr>
                   <tr>
@@ -4117,7 +4117,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Privy Council Office">PCO</abbr></td>
                   </tr>
                   <tr>
@@ -4126,7 +4126,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Privy Council Office">PCO</abbr></td>
                   </tr>
                   <tr>
@@ -4135,7 +4135,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Privy Council Office">PCO</abbr></td>
                   </tr>
                   <tr>
@@ -4144,7 +4144,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Privy Council Office">PCO</abbr></td>
                   </tr>
                   <tr>
@@ -4153,7 +4153,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="Employment and Social Development Canada">ESDC</abbr></td>
                   </tr>
                   <tr>
@@ -4162,7 +4162,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td><abbr title="Office of the Chief Military Judge">OCMJ</abbr></td>
                     <td><span lang="fr"><abbr title="Le cabinet du juge militaire en chef">CJMC</abbr></span></td>
-                    <td><a href="https://design.canada.ca/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
+                    <td><a href="{{ site.url }}/mandatory-templates/organizational-profile-pages.html">Organizational Profile</a></td>
                     <td><abbr title="National Defence">DND</abbr></td>
                   </tr>
                   <tr>
@@ -4171,7 +4171,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Environment and Climate Change Canada">ECCC</abbr></td>
                   </tr>
                   <tr>
@@ -4180,7 +4180,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Canada Revenue Agency">CRA</abbr></td>
                   </tr>
                   <tr>
@@ -4189,7 +4189,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Canadian Institutes of Health Research">CIHR</abbr></td>
                   </tr>
                   <tr>
@@ -4198,7 +4198,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Canadian Institutes of Health Research">CIHR</abbr></td>
                   </tr>
                   <tr>
@@ -4207,7 +4207,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Canadian Security Intelligence Service">CSIS</abbr></td>
                   </tr>
                   <tr>
@@ -4216,7 +4216,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Agriculture and Agri-Food Canada">AAFC</abbr></td>
                   </tr>
                   <tr>
@@ -4225,7 +4225,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Fisheries and Oceans Canada">DFO</abbr></td>
                   </tr>
                   <tr>
@@ -4234,7 +4234,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Global Affairs Canada">GAC</abbr></td>
                   </tr>
                   <tr>
@@ -4243,7 +4243,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Fisheries and Oceans Canada">DFO</abbr></td>
                   </tr>
                   <tr>
@@ -4252,7 +4252,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Environment and Climate Change Canada">ECCC</abbr></td>
                   </tr>
                   <tr>
@@ -4261,7 +4261,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Transport Canada">TC</abbr></td>
                   </tr>
                   <tr>
@@ -4270,7 +4270,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="National Research Council Canada">NRC</abbr></td>
                   </tr>
                   <tr>
@@ -4279,7 +4279,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Social Sciences and Humanities Research Council of Canada">SSHRC</abbr></td>
                   </tr>
                   <tr>
@@ -4288,7 +4288,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Social Sciences and Humanities Research Council of Canada">SSHRC</abbr></td>
                   </tr>
                   <tr>
@@ -4297,7 +4297,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Royal Canadian Mounted Police">RCMP</abbr></td>
                   </tr>
                   <tr>
@@ -4306,7 +4306,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Environment and Climate Change Canada">ECCC</abbr></td>
                   </tr>
                   <tr>
@@ -4315,7 +4315,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="Environment and Climate Change Canada">ECCC</abbr></td>
                   </tr>
                   <tr>
@@ -4324,7 +4324,7 @@ title: "Find the right template and design patterns for your web content"
                     <td>No Institutional Form</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
+                    <td><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering/Collaborative Arrangement Profile</a></td>
                     <td><abbr title="National Research Council Canada">NRC</abbr></td>
                   </tr>
                 </tbody>
@@ -4338,7 +4338,7 @@ title: "Find the right template and design patterns for your web content"
               <h2 class="panel-title">Partnering/collaborative arrangement</h2>
             </header>
             <div class="panel-body">
-              <p>If your organization is a partnering/collaborative arrangement as defined by the FIP glossary, use the <a href="https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering and collaborative arrangement profile page</a>.</p>
+              <p>If your organization is a partnering/collaborative arrangement as defined by the FIP glossary, use the <a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering and collaborative arrangement profile page</a>.</p>
             </div>
           </section>
         </div>
@@ -4348,8 +4348,8 @@ title: "Find the right template and design patterns for your web content"
               <h2 class="panel-title">Contact information</h2>
             </header>
             <div class="panel-body">
-              <p>You can use one of the <a href="https://design.canada.ca/recommended-templates/contact-us-pages.html">Contact us pages</a>.</p>
-              <p>You can also use the <a href="https://design.canada.ca/common-design-patterns/contact-information.html">Contact information</a> pattern.</p>
+              <p>You can use one of the <a href="{{ site.url }}/recommended-templates/contact-us-pages.html">Contact us pages</a>.</p>
+              <p>You can also use the <a href="{{ site.url }}/common-design-patterns/contact-information.html">Contact information</a> pattern.</p>
             </div>
           </section>
         </div>
@@ -4359,7 +4359,7 @@ title: "Find the right template and design patterns for your web content"
               <h2 class="panel-title">Ministers</h2>
             </header>
             <div class="panel-body">
-              <p>Use the <a href="https://design.canada.ca/mandatory-templates/ministerial-profile-pages.html">Ministerial profile template</a>.</p>
+              <p>Use the <a href="{{ site.url }}/mandatory-templates/ministerial-profile-pages.html">Ministerial profile template</a>.</p>
             </div>
           </section>
         </div>
@@ -4369,7 +4369,7 @@ title: "Find the right template and design patterns for your web content"
               <h2 class="panel-title">Performance reporting</h2>
             </header>
             <div class="panel-body">
-              <p>You can use the <a href="https://design.canada.ca/recommended-templates/institutional-service-performance-reporting-pages.html">Institutional service performance reporting page</a>.</p>
+              <p>You can use the <a href="{{ site.url }}/recommended-templates/institutional-service-performance-reporting-pages.html">Institutional service performance reporting page</a>.</p>
             </div>
           </section>
         </div>
@@ -4379,7 +4379,7 @@ title: "Find the right template and design patterns for your web content"
               <h2 class="panel-title">Topics</h2>
             </header>
             <div class="panel-body">
-              <p>Use the <a href="https://design.canada.ca/mandatory-templates/topic-pages.html">topic page</a>.</p>
+              <p>Use the <a href="{{ site.url }}/mandatory-templates/topic-pages.html">topic page</a>.</p>
               <p>Topic pages must be used for the first 2 levels of topic in the <a href="https://www.canada.ca/en/government/about/design-system/topic-tree-content-types.html#tree">topic tree</a>. They can also be used in lower levels, but they are not mandatory. They are navigational in nature, and should not be used when several tasks should be grouped together. Always consult your Theme Lead before creating a new topic page. </p>
             </div>
           </section>
@@ -4390,7 +4390,7 @@ title: "Find the right template and design patterns for your web content"
               <h2 class="panel-title">Campaign page</h2>
             </header>
             <div class="panel-body">
-              <p>You can use the <a href="https://design.canada.ca/recommended-templates/campaign-pages.html">Campaign page</a>.</p>
+              <p>You can use the <a href="{{ site.url }}/recommended-templates/campaign-pages.html">Campaign page</a>.</p>
             </div>
           </section>
         </div>
@@ -4400,7 +4400,7 @@ title: "Find the right template and design patterns for your web content"
               <h2 class="panel-title">Promotional event</h2>
             </header>
             <div class="panel-body">
-              <p>You can use the <a href="https://design.canada.ca/recommended-templates/promotional-events-pages.html">Promotional events page</a>.</p>
+              <p>You can use the <a href="{{ site.url }}/recommended-templates/promotional-events-pages.html">Promotional events page</a>.</p>
             </div>
           </section>
         </div>
@@ -4412,10 +4412,10 @@ title: "Find the right template and design patterns for your web content"
             <div class="panel-body">
               <p>If you need the user to navigate to related pages, you can use one of the following patterns: </p>
               <ul>
-                <li><a href="https://design.canada.ca/common-design-patterns/related-links.html">Related links</a></li>
-                <li><a href="https://design.canada.ca/common-design-patterns/services-information.html">Services and information</a> (doormat-like pattern)</li>
-                <li><a href="https://design.canada.ca/common-design-patterns/ordered-multipage.html">Ordered multi-page navigation</a></li>
-                <li><a href="https://design.canada.ca/common-design-patterns/tabbed-interface.html">Tabbed interface</a></li>
+                <li><a href="{{ site.url }}/common-design-patterns/related-links.html">Related links</a></li>
+                <li><a href="{{ site.url }}/common-design-patterns/services-information.html">Services and information</a> (doormat-like pattern)</li>
+                <li><a href="{{ site.url }}/common-design-patterns/ordered-multipage.html">Ordered multi-page navigation</a></li>
+                <li><a href="{{ site.url }}/common-design-patterns/tabbed-interface.html">Tabbed interface</a></li>
               </ul>
             </div>
           </section>
@@ -4429,9 +4429,9 @@ title: "Find the right template and design patterns for your web content"
               <p>Promotions work best in context, where it relates to the content of the page.</p>
               <p>To promote a program or service on a page, you can use one of the following design patterns: </p>
               <ul>
-                <li><a href="https://design.canada.ca/common-design-patterns/feature-tiles.html">Context-specific features</a></li>
-                <li><a href="https://design.canada.ca/common-design-patterns/feature-banner.html">Promotional banner</a></li>
-                <li><a href="https://design.canada.ca/common-design-patterns/carousels.html">Carousels</a></li>
+                <li><a href="{{ site.url }}/common-design-patterns/feature-tiles.html">Context-specific features</a></li>
+                <li><a href="{{ site.url }}/common-design-patterns/feature-banner.html">Promotional banner</a></li>
+                <li><a href="{{ site.url }}/common-design-patterns/carousels.html">Carousels</a></li>
               </ul>
             </div>
           </section>
@@ -4442,7 +4442,7 @@ title: "Find the right template and design patterns for your web content"
               <h2 class="panel-title">Contact information</h2>
             </header>
             <div class="panel-body">
-              <p>You can use the <a href="https://design.canada.ca/common-design-patterns/contact-information.html">Contact information</a> design pattern.</p>
+              <p>You can use the <a href="{{ site.url }}/common-design-patterns/contact-information.html">Contact information</a> design pattern.</p>
             </div>
           </section>
         </div>
@@ -4454,11 +4454,11 @@ title: "Find the right template and design patterns for your web content"
             <div class="panel-body">
               <p>You can use one of the following design patterns:</p>
               <ul>
-                <li><a href="https://design.canada.ca/common-design-patterns/charts-graphs.html">Charts and graphs</a></li>
-                <li><a href="https://design.canada.ca/common-design-patterns/tables.html">Data tables</a></li>
-                <li><a href="https://design.canada.ca/common-design-patterns/icons.html">Icons</a></li>
-                <li><a href="https://design.canada.ca/common-design-patterns/images.html">Images</a></li>
-                <li><a href="https://design.canada.ca/common-design-patterns/multimedia.html">Multimedia (audio and video)</a></li>
+                <li><a href="{{ site.url }}/common-design-patterns/charts-graphs.html">Charts and graphs</a></li>
+                <li><a href="{{ site.url }}/common-design-patterns/tables.html">Data tables</a></li>
+                <li><a href="{{ site.url }}/common-design-patterns/icons.html">Icons</a></li>
+                <li><a href="{{ site.url }}/common-design-patterns/images.html">Images</a></li>
+                <li><a href="{{ site.url }}/common-design-patterns/multimedia.html">Multimedia (audio and video)</a></li>
               </ul>
             </div>
           </section>
@@ -4469,7 +4469,7 @@ title: "Find the right template and design patterns for your web content"
               <h2 class="panel-title">Consultations</h2>
             </header>
             <div class="panel-body">
-              <p>You can use the <a href="https://design.canada.ca/recommended-templates/consultations-page.html">consultation template</a>.</p>
+              <p>You can use the <a href="{{ site.url }}/recommended-templates/consultations-page.html">consultation template</a>.</p>
             </div>
           </section>
         </div>
@@ -4479,7 +4479,7 @@ title: "Find the right template and design patterns for your web content"
               <h2 class="panel-title">Results of a consultation</h2>
             </header>
             <div class="panel-body">
-              <p>There are no specific template to publish a report of the results of a consultation. Use the appropriate patterns from the <a href="https://design.canada.ca/pattern-library.html">Template and pattern library</a>.</p>
+              <p>There are no specific template to publish a report of the results of a consultation. Use the appropriate patterns from the <a href="{{ site.url }}/pattern-library.html">Template and pattern library</a>.</p>
             </div>
           </section>
         </div>
@@ -4491,13 +4491,13 @@ title: "Find the right template and design patterns for your web content"
             <div class="panel-body">
               <p>If you want to launch a Promotional campaign about the consultation or the results of a consultation:</p>
               <ul>
-                <li>You can use the <a href="https://design.canada.ca/recommended-templates/campaign-pages.html">Campaign page</a> template. </li>
+                <li>You can use the <a href="{{ site.url }}/recommended-templates/campaign-pages.html">Campaign page</a> template. </li>
               </ul>
               <p>If you want to promote the consultation or the results of a consultation on another page, use one of these design patterns:</p>
               <ul>
-                <li><a href="https://design.canada.ca/common-design-patterns/feature-tiles.html">Context-specific features</a></li>
-                <li><a href="https://design.canada.ca/common-design-patterns/feature-banner.html">Promotional banner</a></li>
-                <li><a href="https://design.canada.ca/common-design-patterns/carousels.html">Carousels</a></li>
+                <li><a href="{{ site.url }}/common-design-patterns/feature-tiles.html">Context-specific features</a></li>
+                <li><a href="{{ site.url }}/common-design-patterns/feature-banner.html">Promotional banner</a></li>
+                <li><a href="{{ site.url }}/common-design-patterns/carousels.html">Carousels</a></li>
               </ul>
             </div>
           </section>
@@ -4508,7 +4508,7 @@ title: "Find the right template and design patterns for your web content"
               <h2 class="panel-title">In-page table of contents</h2>
             </header>
             <div class="panel-body">
-              <p>You can use the <a href="https://design.canada.ca/common-design-patterns/in-page-toc.html">In-page table of contents</a> pattern.</p>
+              <p>You can use the <a href="{{ site.url }}/common-design-patterns/in-page-toc.html">In-page table of contents</a> pattern.</p>
             </div>
           </section>
         </div>
@@ -4518,7 +4518,7 @@ title: "Find the right template and design patterns for your web content"
               <h2 class="panel-title">Expandable/collapsible content</h2>
             </header>
             <div class="panel-body">
-              <p>You can use the <a href="https://design.canada.ca/common-design-patterns/collapsible-content.html">Collapsible content</a> pattern.</p>
+              <p>You can use the <a href="{{ site.url }}/common-design-patterns/collapsible-content.html">Collapsible content</a> pattern.</p>
             </div>
           </section>
         </div>
@@ -4528,7 +4528,7 @@ title: "Find the right template and design patterns for your web content"
               <h2 class="panel-title">Disclaimer overlay</h2>
             </header>
             <div class="panel-body">
-              <p>You can use the <a href="https://design.canada.ca//common-design-patterns/disclaimer-overlay.html">Disclaimer overlay</a> pattern.</p>
+              <p>You can use the <a href="{{ site.url }}/common-design-patterns/disclaimer-overlay.html">Disclaimer overlay</a> pattern.</p>
             </div>
           </section>
         </div>
@@ -4538,7 +4538,7 @@ title: "Find the right template and design patterns for your web content"
               <h2 class="panel-title">Download links</h2>
             </header>
             <div class="panel-body">
-              <p>You can use the <a href="https://design.canada.ca/common-design-patterns/download-links.html">Download links</a> pattern.</p>
+              <p>You can use the <a href="{{ site.url }}/common-design-patterns/download-links.html">Download links</a> pattern.</p>
             </div>
           </section>
         </div>
@@ -4548,7 +4548,7 @@ title: "Find the right template and design patterns for your web content"
               <h2 class="panel-title">Interactive questions</h2>
             </header>
             <div class="panel-body">
-              <p>You can use the <a href="https://design.canada.ca/common-design-patterns/interactive-questions.html">Interactive questions</a> pattern.</p>
+              <p>You can use the <a href="{{ site.url }}/common-design-patterns/interactive-questions.html">Interactive questions</a> pattern.</p>
             </div>
           </section>
         </div>
@@ -4560,8 +4560,8 @@ title: "Find the right template and design patterns for your web content"
             <div class="panel-body">
               <p>You can use the following patterns: </p>
               <ul>
-                <li><a href="https://design.canada.ca/common-design-patterns/social-media-channels.html">Social media channel box</a></li>
-                <li><a href="https://design.canada.ca/common-design-patterns/social-media-feeds.html">Social media feeds widget</a></li>
+                <li><a href="{{ site.url }}/common-design-patterns/social-media-channels.html">Social media channel box</a></li>
+                <li><a href="{{ site.url }}/common-design-patterns/social-media-feeds.html">Social media feeds widget</a></li>
               </ul>
             </div>
           </section>
@@ -4572,7 +4572,7 @@ title: "Find the right template and design patterns for your web content"
               <h2 class="panel-title">Contextual alerts</h2>
             </header>
             <div class="panel-body">
-              <p>You can use the <a href="https://design.canada.ca/common-design-patterns/contextual-alerts.html">Contextual alerts</a> pattern.</p>
+              <p>You can use the <a href="{{ site.url }}/common-design-patterns/contextual-alerts.html">Contextual alerts</a> pattern.</p>
             </div>
           </section>
         </div>
