@@ -145,7 +145,7 @@ title: "Find the right template and design patterns for your web content"
             </header>
             <div class="panel-body">
               <p>To provide basic background information about a program, you can use the <a href="https://design.canada.ca/recommended-templates/program-description-pages.html">Program description page</a>.</p>
-              <p>There are no specific template to publish a report about a program. Use the appropriate patterns from the <a href="/en/government/about/design-system/pattern-library.html">Template and pattern library</a>.</p>
+              <p>There are no specific template to publish a report about a program. Use the appropriate patterns from the <a href="https://design.canada.ca/pattern-library.html">Template and pattern library</a>.</p>
             </div>
           </section>
         </div>
@@ -208,7 +208,7 @@ title: "Find the right template and design patterns for your web content"
             <div class="panel-body">
               <p>There are no specific template for your content. Make sure your page follows the <a href="/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html">Mandatory elements of the design system</a>.</p>
               <h3>Common design patterns</h3>
-              <p>Build your pages using patterns from the <a href="/en/government/about/design-system/pattern-library.html">Template and pattern library</a>.</p>
+              <p>Build your pages using patterns from the <a href="https://design.canada.ca/pattern-library.html">Template and pattern library</a>.</p>
             </div>
           </section>
         </div>
@@ -4380,7 +4380,7 @@ title: "Find the right template and design patterns for your web content"
             </header>
             <div class="panel-body">
               <p>Use the <a href="https://design.canada.ca/mandatory-templates/topic-pages.html">topic page</a>.</p>
-              <p>Topic pages must be used for the first 2 levels of topic in the <a href="/en/government/about/design-system/topic-tree-content-types.html#tree">topic tree</a>. They can also be used in lower levels, but they are not mandatory. They are navigational in nature, and should not be used when several tasks should be grouped together. Always consult your Theme Lead before creating a new topic page. </p>
+              <p>Topic pages must be used for the first 2 levels of topic in the <a href="https://www.canada.ca/en/government/about/design-system/topic-tree-content-types.html#tree">topic tree</a>. They can also be used in lower levels, but they are not mandatory. They are navigational in nature, and should not be used when several tasks should be grouped together. Always consult your Theme Lead before creating a new topic page. </p>
             </div>
           </section>
         </div>
@@ -4479,7 +4479,7 @@ title: "Find the right template and design patterns for your web content"
               <h2 class="panel-title">Results of a consultation</h2>
             </header>
             <div class="panel-body">
-              <p>There are no specific template to publish a report of the results of a consultation. Use the appropriate patterns from the <a href="/en/government/about/design-system/pattern-library.html">Template and pattern library</a>.</p>
+              <p>There are no specific template to publish a report of the results of a consultation. Use the appropriate patterns from the <a href="https://design.canada.ca/pattern-library.html">Template and pattern library</a>.</p>
             </div>
           </section>
         </div>
