@@ -105,9 +105,7 @@ title: "Working with partners to improve task success on Canada.ca"
         <ul>
           <li>Canada Revenue Agency (CRA)</li>
         </ul>
-        <div class="mrgn-tp-lg"><a href="project-06.html" class="btn btn-lg btn-default">Canada Child Benefit results</a></div>
-        <h4>Description</h4>
-        <p><a href="project-07.html">Canada Child Benefit</a></p>
+        <div class="mrgn-tp-lg"><a href="project-07.html" class="btn btn-lg btn-default">Canada Child Benefit results</a></div>
       </div>
     </div>
   </li>
@@ -168,6 +166,7 @@ title: "Working with partners to improve task success on Canada.ca"
         <ul>
           <li>Employment and Social Development Canada (ESDC)</li>
         </ul>
+        <div class="mrgn-tp-lg"><a href="project-11.html" class="btn btn-lg btn-default">Student loans and grants results</a></div>
       </div>
     </div>
   </li>
