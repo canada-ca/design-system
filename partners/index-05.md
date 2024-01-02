@@ -30,7 +30,8 @@ title: "Working with partners to improve task success on Canada.ca"
         <p>Explore navigation and design options to help people find and use the services they need.</p>
         <h4>Partners</h4>
         <ul>
-          <li>Agriculture and Agri-Food Canada, Immigration, Refugees and Citizenship Canada</li>
+          <li>Agriculture and Agri-Food Canada</li>
+          <li>Immigration, Refugees and Citizenship Canada</li>
           <li>Veterans Affairs Canada and Statistics Canada</li>
         </ul>
         <h4>Description</h4>
@@ -42,9 +43,14 @@ title: "Working with partners to improve task success on Canada.ca"
     <div class="row">
       <div class="col-md-12 mrgn-bttm-lg">
         <h3>Medical devices</h3>
-        <p><strong>Purpose</strong>: make it easier for stakeholders subject to Canada’s medical device regulations find and understand regulatory requirements.</p>
-        <p><strong>Partner</strong>: Health Canada</p>
-        <p><strong>Description</strong>: <a href="project-02.html">Medical devices</a></p>
+        <h4>Purpose</h4>
+        <p>make it easier for stakeholders subject to Canada’s medical device regulations find and understand regulatory requirements.</p>
+        <h4>Partner</h4>
+        <ul>
+          <li>Health Canada</li>
+        </ul>
+        <h4>Description</h4>
+        <p><a href="project-02.html">Medical devices</a></p>
       </div>
     </div>
   </li>
@@ -52,9 +58,14 @@ title: "Working with partners to improve task success on Canada.ca"
     <div class="row bg-grey">
       <div class="col-md-12 mrgn-bttm-lg">
         <h3>Pay for the public service</h3>
-        <p><strong>Purpose</strong>: Make it easier for public servants to find and understand their pay information.</p>
-        <p><strong>Partner</strong>: Public Services and Procurement Canada</p>
-        <p><strong>Description</strong>: <a href="project-03.html">Pay for the public service</a></p>
+        <h4>Purpose</h4>
+        <p>Make it easier for public servants to find and understand their pay information.</p>
+        <h4>Partner</h4>
+        <ul>
+          <li>Public Services and Procurement Canada</li>
+        </ul>
+        <h4>Description</h4>
+        <p><a href="project-03.html">Pay for the public service</a></p>
       </div>
     </div>
   </li>
@@ -62,9 +73,14 @@ title: "Working with partners to improve task success on Canada.ca"
     <div class="row">
       <div class="col-md-12 mrgn-bttm-lg">
         <h3>Recalls and safety alerts search</h3>
-        <p><strong>Purpose</strong>: Help Health Canada prepare for the implementation of a transformed Recalls and Safety Alerts Management System (RSAMS) with a new search interface so that Canadians can find and understand both recalls and safety alerts.</p>
-        <p><strong>Partners</strong>: Health Canada and Transport Canada</p>
-        <p><strong>Description</strong>: <a href="project-04.html">Recalls and safety alerts search</a></p>
+        <h4>Purpose</h4>
+        <p>Help Health Canada prepare for the implementation a new search interface for the Recalls and Safety Alerts Management System (RSAMS) so recalls and safety alerts are easy to find and understand.</p>
+        <h4>Partner</h4>
+        <ul>
+          <li>Health Canada and Transport Canada</li>
+        </ul>
+        <h4>Description</h4>
+        <p><a href="project-04.html">Recalls and safety alerts search</a></p>
       </div>
     </div>
   </li>
@@ -72,9 +88,15 @@ title: "Working with partners to improve task success on Canada.ca"
     <div class="row bg-grey">
       <div class="col-md-12 mrgn-bttm-lg">
         <h3>Electronic Procurement Solution</h3>
-        <p><strong>Purpose</strong>: Make it easier for Canadian businesses to find and understand government business opportunities and guidance.</p>
-        <p><strong>Partner</strong>: Public Services and Procurement Canada (PSPC)</p>
-        <p><strong>Description</strong>: <a href="project-06.html">Electronic Procurement Solution</a></p>
+        <h4>Purpose</h4>
+        <p>Make it easier for Canadian businesses to find and understand government business opportunities and guidance.</p>
+        <h4>Partner</h4>
+        <ul>
+          <li>Public Services</li>
+          <li>Procurement Canada</li>
+        </ul>
+        <h4>Description</h4>
+        <p><a href="project-06.html">Electronic Procurement Solution</a></p>
       </div>
     </div>
   </li>
@@ -82,9 +104,14 @@ title: "Working with partners to improve task success on Canada.ca"
     <div class="row">
       <div class="col-md-12 mrgn-bttm-lg">
         <h3>Canada Child Benefit</h3>
-        <p><strong>Purpose</strong>: Make it easier for Canadians to find and understand information related to the Canada Child Benefit.</p>
-        <p><strong>Partner</strong>: Canada Revenue Agency</p>
-        <p><strong>Description</strong>: <a href="project-07.html">Canada Child Benefit</a></p>
+        <h4>Purpose</h4>
+        <p>Make it easier to find and understand information related to the Canada Child Benefit.</p>
+        <h4>Partners</h4>
+        <ul>
+          <li>Canada Revenue Agency</li>
+        </ul>
+        <h4>Description</h4>
+        <p><a href="project-07.html">Canada Child Benefit</a></p>
       </div>
     </div>
   </li>
@@ -92,9 +119,18 @@ title: "Working with partners to improve task success on Canada.ca"
     <div class="row bg-grey">
       <div class="col-md-12 mrgn-bttm-lg">
         <h3>Travel advice and advisories</h3>
-        <p><strong>Purpose</strong>: Make it easier for Canadians to find and understand travel advice and guidance from the Government of Canada.</p>
-        <p><strong>Partners</strong>: Global Affairs Canada (GAC), Immigration, Refugees and Citizenship Canada (IRCC), Public Health Agency of Canada (PHAC), Health Canada (HC) and Canada Border Services Agency (CBSA)</p>
-        <p><strong>Description</strong>: <a href="project-08.html">Travel advice and advisories</a></p>
+        <h4>Purpose</h4>
+        <p>Make it easier to find and understand travel advice and guidance from the Government of Canada.</p>
+        <h4>Partners</h4>
+        <ul>
+          <li>Global Affairs Canada</li>
+          <li>Immigration, Refugees and Citizenship Canada</li>
+          <li>Public Health Agency of Canada</li>
+          <li>Health Canada</li>
+          <li>Canada Border Services Agency</li>
+        </ul>
+        <h4>Description</h4>
+        <p><a href="project-08.html">Travel advice and advisories</a></p>
       </div>
     </div>
   </li>
@@ -102,9 +138,14 @@ title: "Working with partners to improve task success on Canada.ca"
     <div class="row">
       <div class="col-md-12 mrgn-bttm-lg">
         <h3>Contact the CRA</h3>
-        <p><strong>Purpose</strong>: Make it easier for Canadians to find the correct phone number or mailing address for specific services related to the CRA.</p>
-        <p><strong>Partner</strong>: Canada Revenue Agency (CRA)</p>
-        <p><strong>Description</strong>: <a href="project-09.html">Contact the CRA</a></p>
+        <h4>Purpose</h4>
+        <p>Make it easier to find the correct phone number or mailing address for specific Canada Revenue Agency services.</p>
+        <h4>Partners</h4>
+        <ul>
+          <li>Canada Revenue Agency</li>
+        </ul>
+        <h4>Description</h4>
+        <p><a href="project-09.html">Contact the CRA</a></p>
       </div>
     </div>
   </li>
@@ -112,9 +153,14 @@ title: "Working with partners to improve task success on Canada.ca"
     <div class="row bg-grey">
       <div class="col-md-12 mrgn-bttm-lg">
         <h3>EI maternity and parental benefits</h3>
-        <p><strong>Purpose</strong>: Make it easier for Canadian parents to understand and apply for maternity and parental benefits.</p>
-        <p><strong>Partners</strong>: Service Canada and Employment and Social Development Canada (ESDC)</p>
-        <p><strong>Description</strong>: <a href="project-10.html">EI maternity and parental benefits</a></p>
+        <h4>Purpose</h4>
+        <p>Make it easier for to understand and apply for maternity and parental benefits.</p>
+        <h4>Partner</h4>
+        <ul>
+          <li>Service Canada and Employment and Social Development Canada (ESDC)</li>
+        </ul>
+        <h4>Description</h4>
+        <p><a href="project-10.html">EI maternity and parental benefits</a></p>
       </div>
     </div>
   </li>
@@ -122,9 +168,14 @@ title: "Working with partners to improve task success on Canada.ca"
     <div class="row">
       <div class="col-md-12 mrgn-bttm-lg">
         <h3>Student loans and grants</h3>
-        <p><strong>Purpose</strong>: Make it easier for Canadian students applying, managing and accessing details of their student loans and grants.</p>
-        <p><strong>Partner</strong>: Employment and Social Development Canada (ESDC)</p>
-        <p><strong>Description</strong>: <a href="project-11.html">Student loans and grants</a></p>
+        <h4>Purpose</h4>
+        <p>Make it easier to apply, manage and access details about their student loans and grants.</p>
+        <h4>Partner</h4>
+        <ul>
+          <li>Employment and Social Development Canada (ESDC)</li>
+        </ul>
+        <h4>Description</h4>
+        <p><a href="project-11.html">Student loans and grants</a></p>
       </div>
     </div>
   </li>
@@ -132,9 +183,15 @@ title: "Working with partners to improve task success on Canada.ca"
     <div class="row bg-grey">
       <div class="col-md-12 mrgn-bttm-lg">
         <h3>Find a job</h3>
-        <p><strong>Purpose</strong>: Make it easier for Canadians to find government jobs on Canada.ca.</p>
-        <p><strong>Partner</strong>: Employment and Social Development Canada and Public Service Canada</p>
-        <p><strong>Description</strong>: <a href="project-12.html">Find a job</a></p>
+        <h4>Purpose</h4>
+        <p>Make it easier to find government jobs on Canada.ca.</p>
+        <h4>Partner</h4>
+        <ul>
+          <li>Employment and Social Development Canada</li>
+          <li>Public Service Canada</li>
+        </ul>
+        <h4>Description</h4>
+        <p><a href="project-12.html">Find a job</a></p>
       </div>
     </div>
   </li>
@@ -142,9 +199,14 @@ title: "Working with partners to improve task success on Canada.ca"
     <div class="row">
       <div class="col-md-12 mrgn-bttm-lg">
         <h3>Prepare for the citizenship test</h3>
-        <p><strong>Purpose</strong>: Make it easier for applicants to study for the Canadian citizenship test.</p>
-        <p><strong>Partner</strong>: Immigration, Refugees and Citizenship Canada</p>
-        <p><strong>Description</strong>: <a href="project-13.html">Prepare for the citizenship test</a></p>
+        <h4>Purpose</h4>
+        <p>Make it easier to study for the Canadian citizenship test.</p>
+        <h4>Partner</h4>
+        <ul>
+          <li>Immigration, Refugees and Citizenship Canada</li>
+        </ul>
+        <h4>Description</h4>
+        <p><a href="project-13.html">Prepare for the citizenship test</a></p>
       </div>
     </div>
   </li>
@@ -152,9 +214,14 @@ title: "Working with partners to improve task success on Canada.ca"
     <div class="row bg-grey">
       <div class="col-md-12 mrgn-bttm-lg">
         <h3><a href="project-14.html">Business account maintenance</a></h3>
-        <p><strong>Purpose</strong>: Make it easier for Canadians to register and manage their CRA business accounts.</p>
-        <p><strong>Partner</strong>: Canada Revenue Agency</p>
-        <p><strong>Description</strong>: <a href="project-14.html">Business account maintenance</a></p>
+        <h4>Purpose</h4>
+        <p>Make it easier to register and manage CRA business accounts.</p>
+        <h4>Partner</h4>
+        <ul>
+          <li>Canada Revenue Agency</li>
+        </ul>
+        <h4>Description</h4>
+        <p><a href="project-14.html">Business account maintenance</a></p>
       </div>
     </div>
   </li>
@@ -162,9 +229,17 @@ title: "Working with partners to improve task success on Canada.ca"
     <div class="row">
       <div class="col-md-12 mrgn-bttm-lg">
         <h3>Recalls and safety alerts</h3>
-        <p><strong>Purpose</strong>: Make it easier for Canadians to find and understand both recalls and safety alerts for food, health products, vehicles and car seats.</p>
-        <p><strong>Partners</strong>: Health Canada, Canadian Food and Safety Inspection Agency, Transport Canada and Environment Canada</p>
-        <p><strong>Description</strong>: <a href="project-15html">Recalls and safety alerts</a></p>
+        <h4>Purpose</h4>
+        <p>Make it easier to find and understand recalls and safety alerts for food, health products, vehicles and car seats.</p>
+        <h4>Partners</h4>
+        <ul>
+          <li>Health Canada</li>
+          <li>Canadian Food and Safety Inspection Agency</li>
+          <li>Transport Canada</li>
+          <li>Environment Canada</li>
+        </ul>
+        <h4>Description</h4>
+        <p><a href="project-15html">Recalls and safety alerts</a></p>
       </div>
     </div>
   </li>
@@ -172,9 +247,14 @@ title: "Working with partners to improve task success on Canada.ca"
     <div class="row bg-grey">
       <div class="col-md-12 mrgn-bttm-lg">
         <h3>Recalls and safety alerts</h3>
-        <p><strong>Purpose</strong>: Make it easier for Canadians to understand eligibility for caregiver benefits.</p>
-        <p><strong>Partner</strong>: Employment and Social Development Canada</p>
-        <p><strong>Description</strong>: <a href="project-16.html">EI special benefits</a></p>
+        <h4>Purpose</h4>
+        <p>Make it easier to understand eligibility for caregiver benefits.</p>
+        <h4>Partner</h4>
+        <ul>
+          <li>Employment and Social Development Canada</li>
+        </ul>
+        <h4>Description</h4>
+        <p><a href="project-16.html">EI special benefits</a></p>
       </div>
     </div>
   </li>
@@ -182,9 +262,14 @@ title: "Working with partners to improve task success on Canada.ca"
     <div class="row">
       <div class="col-md-12 mrgn-bttm-lg">
         <h3>GST/HST and payroll</h3>
-        <p><strong>Purpose</strong>: Make it easier for businesses to fulfill their GST/HST and payroll requirements.</p>
-        <p><strong>Partner</strong>: Canada Revenue Agency</p>
-        <p><strong>Description</strong>: <a href="project-17.html">GST/HST and payroll</a></p>
+        <h4>Purpose</h4>
+        <p>Make it easier for businesses to fulfill their GST/HST and payroll requirements.</p>
+        <h4>Partner</h4>
+        <ul>
+          <li>Canada Revenue Agency</li>
+        </ul>
+        <h4>Description</h4>
+        <p><a href="project-17.html">GST/HST and payroll</a></p>
       </div>
     </div>
   </li>
@@ -192,9 +277,14 @@ title: "Working with partners to improve task success on Canada.ca"
     <div class="row bg-grey">
       <div class="col-md-12 mrgn-bttm-lg">
         <h3>Disease and immunization information</h3>
-        <p><strong>Purpose</strong>: Make it easier for Canadians to interpret immunization guidelines.</p>
-        <p><strong>Partners</strong>: Health Canada and Global Affairs Canada</p>
-        <p><strong>Description</strong>: <a href="project-18.html">Disease and immunization information</a></p>
+        <h4>Purpose</h4>
+        <p>Make it easier to interpret immunization guidelines.</p>
+        <h4>Partner</h4>
+        <ul>
+          <li>Health Canada and Global Affairs Canada</li>
+        </ul>
+        <h4>Description</h4>
+        <p><a href="project-18.html">Disease and immunization information</a></p>
       </div>
     </div>
   </li>
@@ -202,9 +292,14 @@ title: "Working with partners to improve task success on Canada.ca"
     <div class="row">
       <div class="col-md-12 mrgn-bttm-lg">
         <h3>Weather information</h3>
-        <p><strong>Purpose</strong>: Make it easier for Canadians to understand notifications about dangerous weather conditions.</p>
-        <p><strong>Partner</strong>: Environment and Climate Change Canada</p>
-        <p><strong>Description</strong>: <a href="project-19.html">Weather information</a></p>
+        <h4>Purpose</h4>
+        <p>Make it easier to understand notifications about dangerous weather conditions.</p>
+        <h4>Partner</h4>
+        <ul>
+          <li>Environment and Climate Change Canada</li>
+        </ul>
+        <h4>Description</h4>
+        <p><a href="project-19.html">Weather information</a></p>
       </div>
     </div>
   </li>
@@ -212,9 +307,14 @@ title: "Working with partners to improve task success on Canada.ca"
     <div class="row bg-grey">
       <div class="col-md-12 mrgn-bttm-lg">
         <h3>Travel documents</h3>
-        <p><strong>Purpose</strong>: To help those potential visitors to Canada to clearly understand what documentation is required to enter.</p>
-        <p><strong>Partner</strong>: Immigration, Refugees and Citizenship Canada</p>
-        <p><strong>Description</strong>: <a href="project-20.html">Travel documents</a></p>
+        <h4>Purpose</h4>
+        <p>Help travelers understand what documentation is required to enter Canada.</p>
+        <h4>Partner</h4>
+        <ul>
+          <li>Immigration, Refugees and Citizenship Canada</li>
+        </ul>
+        <h4>Description</h4>
+        <p><a href="project-20.html">Travel documents</a></p>
       </div>
     </div>
   </li>
@@ -222,9 +322,15 @@ title: "Working with partners to improve task success on Canada.ca"
     <div class="row">
       <div class="col-md-12 mrgn-bttm-lg">
         <h3>Business start-up activities</h3>
-        <p><strong>Purpose</strong>: </p>
-        <p><strong>Partner</strong>: Canada Revenue Agency and Innovation, Science and Economic Development Canada</p>
-        <p><strong>Description</strong>: <a href="project-21.html">Business start-up activities</a></p>
+        <h4>Purpose</h4>
+        <p>Combine departmental information about requirements for starting a business.</p>
+        <h4>Partners</h4>
+        <ul>
+          <li>Canada Revenue Agency</li>
+          <li>Innovation, Science and Economic Development Canada</li>
+        </ul>
+        <h4>Description</h4>
+        <p><a href="project-21.html">Business start-up activities</a></p>
       </div>
     </div>
   </li>
