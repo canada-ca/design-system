@@ -23,7 +23,7 @@ title: "Working with partners to improve task success on Canada.ca"
 <h2>Projects with our partners</h2>
 <ul class="list-unstyled">
   <li>
-    <div class="row bg-success">
+    <div class="row bg-grey">
       <div class="col-md-12">
         <h3>Orientation and wayfinding</h3>
         <p><strong>Purpose</strong>: explore navigation and design options to help people find and use the services they need.</p>
