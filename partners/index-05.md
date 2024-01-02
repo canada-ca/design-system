@@ -34,7 +34,7 @@ title: "Working with partners to improve task success on Canada.ca"
           <li>Immigration, Refugees and Citizenship Canada (IRCC)</li>
           <li>Veterans Affairs Canada and Statistics Canada (VAC)</li>
         </ul>
-        <div class="mrgn-tp-lg text-center"><a href="project-01.html" class="btn btn-lg btn-default">Orientation and wayfinding project</a></div>
+        <div class="mrgn-tp-lg"><a href="project-01.html" class="btn btn-lg btn-default">Orientation and wayfinding project</a></div>
       </div>
     </div>
   </li>
