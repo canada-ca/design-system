@@ -34,7 +34,7 @@ title: "Working with partners to improve task success on Canada.ca"
           <li>Immigration, Refugees and Citizenship Canada (IRCC)</li>
           <li>Veterans Affairs Canada and Statistics Canada (VAC)</li>
         </ul>
-        <div class="mrgn-tp-lg"><a href="project-01.html" class="btn btn-lg btn-default">Orientation and wayfinding project</a></div>
+        <div class="mrgn-tp-lg"><a href="project-01.html" class="btn btn-lg btn-default">Orientation and wayfinding results</a></div>
       </div>
     </div>
   </li>
@@ -48,7 +48,7 @@ title: "Working with partners to improve task success on Canada.ca"
         <ul>
           <li>Health Canada (HC)</li>
         </ul>
-        <div class="mrgn-tp-lg"><a href="project-02.html" class="btn btn-lg btn-default">Medical devices project</a></div>
+        <div class="mrgn-tp-lg"><a href="project-02.html" class="btn btn-lg btn-default">Medical devices results</a></div>
       </div>
     </div>
   </li>
@@ -62,8 +62,7 @@ title: "Working with partners to improve task success on Canada.ca"
         <ul>
           <li>Public Services and Procurement Canada (PSPC)</li>
         </ul>
-        <h4>Description</h4>
-        <p><a href="project-03.html">Pay for the public service</a></p>
+        <div class="mrgn-tp-lg"><a href="project-04.html" class="btn btn-lg btn-default">Pay for the public service results</a></div>
       </div>
     </div>
   </li>
@@ -78,8 +77,7 @@ title: "Working with partners to improve task success on Canada.ca"
           <li>Health Canada (HC)</li>
           <li>Transport Canada (TC)</li>
         </ul>
-        <h4>Description</h4>
-        <p><a href="project-04.html">Recalls and safety alerts search</a></p>
+        <div class="mrgn-tp-lg"><a href="project-05.html" class="btn btn-lg btn-default">Recalls and safety alerts search results</a></div>
       </div>
     </div>
   </li>
@@ -93,8 +91,7 @@ title: "Working with partners to improve task success on Canada.ca"
         <ul>
           <li>Public Services Procurement Canada (PSCP)</li>
         </ul>
-        <h4>Description</h4>
-        <p><a href="project-06.html">Electronic Procurement Solution</a></p>
+        <div class="mrgn-tp-lg"><a href="project-10.html" class="btn btn-lg btn-default">Electronic Procurement Solution results</a></div>
       </div>
     </div>
   </li>
@@ -108,6 +105,7 @@ title: "Working with partners to improve task success on Canada.ca"
         <ul>
           <li>Canada Revenue Agency (CRA)</li>
         </ul>
+        <div class="mrgn-tp-lg"><a href="project-06.html" class="btn btn-lg btn-default">Canada Child Benefit results</a></div>
         <h4>Description</h4>
         <p><a href="project-07.html">Canada Child Benefit</a></p>
       </div>
@@ -127,8 +125,7 @@ title: "Working with partners to improve task success on Canada.ca"
           <li>Health Canada (HC)</li>
           <li>Canada Border Services Agency (CBSA)</li>
         </ul>
-        <h4>Description</h4>
-        <p><a href="project-08.html">Travel advice and advisories</a></p>
+        <div class="mrgn-tp-lg"><a href="project-07.html" class="btn btn-lg btn-default">Travel advice and advisories results</a></div>
       </div>
     </div>
   </li>
@@ -142,8 +139,7 @@ title: "Working with partners to improve task success on Canada.ca"
         <ul>
           <li>Canada Revenue Agency (CRA)</li>
         </ul>
-        <h4>Description</h4>
-        <p><a href="project-09.html">Contact the CRA</a></p>
+        <div class="mrgn-tp-lg"><a href="project-08.html" class="btn btn-lg btn-default">Contact the CRA results</a></div>
       </div>
     </div>
   </li>
@@ -158,8 +154,7 @@ title: "Working with partners to improve task success on Canada.ca"
           <li>Service Canada (ServCan)</li>
           <li>Employment Social Development Canada (ESDC)</li>
         </ul>
-        <h4>Description</h4>
-        <p><a href="project-10.html">EI maternity and parental benefits</a></p>
+        <div class="mrgn-tp-lg"><a href="project-09.html" class="btn btn-lg btn-default">EI maternity and parental benefits results</a></div>
       </div>
     </div>
   </li>
@@ -173,8 +168,6 @@ title: "Working with partners to improve task success on Canada.ca"
         <ul>
           <li>Employment and Social Development Canada (ESDC)</li>
         </ul>
-        <h4>Description</h4>
-        <p><a href="project-11.html">Student loans and grants</a></p>
       </div>
     </div>
   </li>
@@ -189,8 +182,7 @@ title: "Working with partners to improve task success on Canada.ca"
           <li>Employment and Social Development Canada (ESDC)</li>
           <li>Public Service Canada</li>
         </ul>
-        <h4>Description</h4>
-        <p><a href="project-12.html">Find a job</a></p>
+        <div class="mrgn-tp-lg"><a href="project-12.html" class="btn btn-lg btn-default">Find a job results</a></div>
       </div>
     </div>
   </li>
@@ -204,8 +196,7 @@ title: "Working with partners to improve task success on Canada.ca"
         <ul>
           <li>Immigration, Refugees and Citizenship Canada (IRCC)</li>
         </ul>
-        <h4>Description</h4>
-        <p><a href="project-13.html">Prepare for the citizenship test</a></p>
+        <div class="mrgn-tp-lg"><a href="project-13.html" class="btn btn-lg btn-default">Prepare for the citizenship test results</a></div>
       </div>
     </div>
   </li>
@@ -219,8 +210,7 @@ title: "Working with partners to improve task success on Canada.ca"
         <ul>
           <li>Canada Revenue Agency (CRA)</li>
         </ul>
-        <h4>Description</h4>
-        <p><a href="project-14.html">Business account maintenance</a></p>
+        <div class="mrgn-tp-lg"><a href="project-14.html" class="btn btn-lg btn-default">Business account maintenance results</a></div>
       </div>
     </div>
   </li>
@@ -237,8 +227,7 @@ title: "Working with partners to improve task success on Canada.ca"
           <li>Transport Canada (TC)</li>
           <li>Environment and Climate Change Canada (ECCC)</li>
         </ul>
-        <h4>Description</h4>
-        <p><a href="project-15html">Recalls and safety alerts</a></p>
+        <div class="mrgn-tp-lg"><a href="project-15.html" class="btn btn-lg btn-default">Recalls and safety alerts results</a></div>
       </div>
     </div>
   </li>
@@ -252,8 +241,7 @@ title: "Working with partners to improve task success on Canada.ca"
         <ul>
           <li>Employment and Social Development Canada (ESDC)</li>
         </ul>
-        <h4>Description</h4>
-        <p><a href="project-16.html">EI special benefits</a></p>
+        <div class="mrgn-tp-lg"><a href="project-16.html" class="btn btn-lg btn-default">EI special benefits results</a></div>
       </div>
     </div>
   </li>
@@ -267,8 +255,7 @@ title: "Working with partners to improve task success on Canada.ca"
         <ul>
           <li>Canada Revenue Agency (CRA)</li>
         </ul>
-        <h4>Description</h4>
-        <p><a href="project-17.html">GST/HST and payroll</a></p>
+        <div class="mrgn-tp-lg"><a href="project-17.html" class="btn btn-lg btn-default">GST/HST and payroll results</a></div>
       </div>
     </div>
   </li>
@@ -283,8 +270,7 @@ title: "Working with partners to improve task success on Canada.ca"
           <li>Health Canada (HC)</li>
           <li>Global Affairs Canada(GAC)</li>
         </ul>
-        <h4>Description</h4>
-        <p><a href="project-18.html">Disease and immunization information</a></p>
+        <div class="mrgn-tp-lg"><a href="project-18.html" class="btn btn-lg btn-default">Disease and immunization information results</a></div>
       </div>
     </div>
   </li>
@@ -298,8 +284,7 @@ title: "Working with partners to improve task success on Canada.ca"
         <ul>
           <li>Environment and Climate Change Canada (ECCC)</li>
         </ul>
-        <h4>Description</h4>
-        <p><a href="project-19.html">Weather information</a></p>
+        <div class="mrgn-tp-lg"><a href="project-19.html" class="btn btn-lg btn-default">Weather information results</a></div>
       </div>
     </div>
   </li>
@@ -313,8 +298,7 @@ title: "Working with partners to improve task success on Canada.ca"
         <ul>
           <li>Immigration, Refugees and Citizenship Canada (IRCC)</li>
         </ul>
-        <h4>Description</h4>
-        <p><a href="project-20.html">Travel documents</a></p>
+        <div class="mrgn-tp-lg"><a href="project-20.html" class="btn btn-lg btn-default">Travel documents results</a></div>
       </div>
     </div>
   </li>
@@ -329,8 +313,7 @@ title: "Working with partners to improve task success on Canada.ca"
           <li>Canada Revenue Agency (CRA)</li>
           <li>Innovation, Science and Economic Development Canada (ISED)</li>
         </ul>
-        <h4>Description</h4>
-        <p><a href="project-21.html">Business start-up activities</a></p>
+        <div class="mrgn-tp-lg"><a href="project-21.html" class="btn btn-lg btn-default">Business start-up activities results</a></div>
       </div>
     </div>
   </li>
