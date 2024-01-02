@@ -4,9 +4,9 @@ date: 2023-12-08
 dateModified: 2023-12-08
 description: "We explored navigation and design options to help people get to and use the services they need, while maintaining confidence and trust in Canada.ca."
 layout: without-h1
-title: "Electronic Procurement Solution collaboration"
+title: "Electronic Procurement Solution"
 ---
-<h1 property="name headline" id="wb-cont" dir="ltr">Electronic Procurement Solution collaboration</h1>
+<h1 property="name headline" id="wb-cont" dir="ltr">Electronic Procurement Solution</h1>
 <p>Our objective was to make make it easier for Canadian businesses to find and understand government business opportunities and guidance.</p>
 <h2>Partner department</h2>
 <p>Public Services and Procurement Canada</p>
