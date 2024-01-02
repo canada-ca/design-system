@@ -48,7 +48,7 @@ title: "Working with partners to improve task success on Canada.ca"
         <ul>
           <li>Health Canada (HC)</li>
         </ul>
-        <div class="mrgn-tp-lg text-center"><a href="project-02.html" class="btn btn-primary">Medical devices description</a></div>
+        <div class="mrgn-tp-lg text-center"><a href="project-02.html" class="btn btn-default">Medical devices description</a></div>
       </div>
     </div>
   </li>
