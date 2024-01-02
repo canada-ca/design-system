@@ -2,14 +2,6 @@
 altLangPage: "https://conception.canada.ca/"
 date: 2024-01-02
 dateModified: 2024-01-02
-description: "Make it easier for Canadian parents to understand and apply for maternity and parental benefits."
-layout: without-h1
-title: "EI maternity and parental benefits"
----
----
-altLangPage: "https://conception.canada.ca/"
-date: 2024-01-02
-dateModified: 2024-01-02
 description: "Make it easier for Canadian businesses to find and understand government business opportunities and guidance."
 layout: without-h1
 title: "Electronic Procurement Solution"
