@@ -43,7 +43,7 @@ title: "Working with partners to improve task success on Canada.ca"
       <div class="col-md-12 mrgn-bttm-lg">
         <h3>Medical devices</h3>
         <h4>Purpose</h4>
-        <p>make it easier for stakeholders subject to Canada’s medical device regulations find and understand regulatory requirements.</p>
+        <p>Make it easier to find and understand Canada’s medical device regulations.</p>
         <h4>Partner</h4>
         <ul>
           <li>Health Canada (HC)</li>
