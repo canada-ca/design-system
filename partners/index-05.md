@@ -47,7 +47,7 @@ title: "Working with partners to improve task success on Canada.ca"
         <p>make it easier for stakeholders subject to Canada’s medical device regulations find and understand regulatory requirements.</p>
         <h4>Partner</h4>
         <ul>
-          <li>Health Canada</li>
+          <li>Health Canada (HC)</li>
         </ul>
         <h4>Description</h4>
         <p><a href="project-02.html">Medical devices</a></p>
@@ -62,7 +62,7 @@ title: "Working with partners to improve task success on Canada.ca"
         <p>Make it easier for public servants to find and understand their pay information.</p>
         <h4>Partner</h4>
         <ul>
-          <li>Public Services and Procurement Canada</li>
+          <li>Public Services and Procurement Canada (PSPC)</li>
         </ul>
         <h4>Description</h4>
         <p><a href="project-03.html">Pay for the public service</a></p>
@@ -77,7 +77,8 @@ title: "Working with partners to improve task success on Canada.ca"
         <p>Help Health Canada prepare for the implementation a new search interface for the Recalls and Safety Alerts Management System (RSAMS) so recalls and safety alerts are easy to find and understand.</p>
         <h4>Partner</h4>
         <ul>
-          <li>Health Canada and Transport Canada</li>
+          <li>Health Canada (HC)</li>
+          <li>Transport Canada (TC)</li>
         </ul>
         <h4>Description</h4>
         <p><a href="project-04.html">Recalls and safety alerts search</a></p>
@@ -92,8 +93,7 @@ title: "Working with partners to improve task success on Canada.ca"
         <p>Make it easier for Canadian businesses to find and understand government business opportunities and guidance.</p>
         <h4>Partner</h4>
         <ul>
-          <li>Public Services</li>
-          <li>Procurement Canada</li>
+          <li>Public Services Procurement Canada (PSCP)</li>
         </ul>
         <h4>Description</h4>
         <p><a href="project-06.html">Electronic Procurement Solution</a></p>
@@ -108,7 +108,7 @@ title: "Working with partners to improve task success on Canada.ca"
         <p>Make it easier to find and understand information related to the Canada Child Benefit.</p>
         <h4>Partners</h4>
         <ul>
-          <li>Canada Revenue Agency</li>
+          <li>Canada Revenue Agency (CRA)</li>
         </ul>
         <h4>Description</h4>
         <p><a href="project-07.html">Canada Child Benefit</a></p>
@@ -123,11 +123,11 @@ title: "Working with partners to improve task success on Canada.ca"
         <p>Make it easier to find and understand travel advice and guidance from the Government of Canada.</p>
         <h4>Partners</h4>
         <ul>
-          <li>Global Affairs Canada</li>
-          <li>Immigration, Refugees and Citizenship Canada</li>
-          <li>Public Health Agency of Canada</li>
-          <li>Health Canada</li>
-          <li>Canada Border Services Agency</li>
+          <li>Global Affairs Canada (GAC)</li>
+          <li>Immigration, Refugees and Citizenship Canada (IRCC)</li>
+          <li>Public Health Agency of Canada (PHAC)</li>
+          <li>Health Canada (HC)</li>
+          <li>Canada Border Services Agency (CBSA)</li>
         </ul>
         <h4>Description</h4>
         <p><a href="project-08.html">Travel advice and advisories</a></p>
@@ -142,7 +142,7 @@ title: "Working with partners to improve task success on Canada.ca"
         <p>Make it easier to find the correct phone number or mailing address for specific Canada Revenue Agency services.</p>
         <h4>Partners</h4>
         <ul>
-          <li>Canada Revenue Agency</li>
+          <li>Canada Revenue Agency (CRA)</li>
         </ul>
         <h4>Description</h4>
         <p><a href="project-09.html">Contact the CRA</a></p>
@@ -157,7 +157,8 @@ title: "Working with partners to improve task success on Canada.ca"
         <p>Make it easier for to understand and apply for maternity and parental benefits.</p>
         <h4>Partner</h4>
         <ul>
-          <li>Service Canada and Employment and Social Development Canada (ESDC)</li>
+          <li>Service Canada (ServCan)</li>
+          <li>Employment Social Development Canada (ESDC)</li>
         </ul>
         <h4>Description</h4>
         <p><a href="project-10.html">EI maternity and parental benefits</a></p>
@@ -187,7 +188,7 @@ title: "Working with partners to improve task success on Canada.ca"
         <p>Make it easier to find government jobs on Canada.ca.</p>
         <h4>Partner</h4>
         <ul>
-          <li>Employment and Social Development Canada</li>
+          <li>Employment and Social Development Canada (ESDC)</li>
           <li>Public Service Canada</li>
         </ul>
         <h4>Description</h4>
@@ -203,7 +204,7 @@ title: "Working with partners to improve task success on Canada.ca"
         <p>Make it easier to study for the Canadian citizenship test.</p>
         <h4>Partner</h4>
         <ul>
-          <li>Immigration, Refugees and Citizenship Canada</li>
+          <li>Immigration, Refugees and Citizenship Canada (IRCC)</li>
         </ul>
         <h4>Description</h4>
         <p><a href="project-13.html">Prepare for the citizenship test</a></p>
@@ -218,7 +219,7 @@ title: "Working with partners to improve task success on Canada.ca"
         <p>Make it easier to register and manage CRA business accounts.</p>
         <h4>Partner</h4>
         <ul>
-          <li>Canada Revenue Agency</li>
+          <li>Canada Revenue Agency (CRA)</li>
         </ul>
         <h4>Description</h4>
         <p><a href="project-14.html">Business account maintenance</a></p>
@@ -233,10 +234,10 @@ title: "Working with partners to improve task success on Canada.ca"
         <p>Make it easier to find and understand recalls and safety alerts for food, health products, vehicles and car seats.</p>
         <h4>Partners</h4>
         <ul>
-          <li>Health Canada</li>
-          <li>Canadian Food and Safety Inspection Agency</li>
-          <li>Transport Canada</li>
-          <li>Environment Canada</li>
+          <li>Health Canada (HC)</li>
+          <li>Canadian Food Inspection Agency (CFIA)</li>
+          <li>Transport Canada (TC)</li>
+          <li>Environment and Climate Change Canada (ECCC)</li>
         </ul>
         <h4>Description</h4>
         <p><a href="project-15html">Recalls and safety alerts</a></p>
@@ -251,7 +252,7 @@ title: "Working with partners to improve task success on Canada.ca"
         <p>Make it easier to understand eligibility for caregiver benefits.</p>
         <h4>Partner</h4>
         <ul>
-          <li>Employment and Social Development Canada</li>
+          <li>Employment and Social Development Canada (ESDC)</li>
         </ul>
         <h4>Description</h4>
         <p><a href="project-16.html">EI special benefits</a></p>
@@ -266,7 +267,7 @@ title: "Working with partners to improve task success on Canada.ca"
         <p>Make it easier for businesses to fulfill their GST/HST and payroll requirements.</p>
         <h4>Partner</h4>
         <ul>
-          <li>Canada Revenue Agency</li>
+          <li>Canada Revenue Agency (CRA)</li>
         </ul>
         <h4>Description</h4>
         <p><a href="project-17.html">GST/HST and payroll</a></p>
@@ -281,7 +282,8 @@ title: "Working with partners to improve task success on Canada.ca"
         <p>Make it easier to interpret immunization guidelines.</p>
         <h4>Partner</h4>
         <ul>
-          <li>Health Canada and Global Affairs Canada</li>
+          <li>Health Canada (HC)</li>
+          <li>Global Affairs Canada(GAC)</li>
         </ul>
         <h4>Description</h4>
         <p><a href="project-18.html">Disease and immunization information</a></p>
@@ -296,7 +298,7 @@ title: "Working with partners to improve task success on Canada.ca"
         <p>Make it easier to understand notifications about dangerous weather conditions.</p>
         <h4>Partner</h4>
         <ul>
-          <li>Environment and Climate Change Canada</li>
+          <li>Environment and Climate Change Canada (ECCC)</li>
         </ul>
         <h4>Description</h4>
         <p><a href="project-19.html">Weather information</a></p>
@@ -311,7 +313,7 @@ title: "Working with partners to improve task success on Canada.ca"
         <p>Help travelers understand what documentation is required to enter Canada.</p>
         <h4>Partner</h4>
         <ul>
-          <li>Immigration, Refugees and Citizenship Canada</li>
+          <li>Immigration, Refugees and Citizenship Canada (IRCC)</li>
         </ul>
         <h4>Description</h4>
         <p><a href="project-20.html">Travel documents</a></p>
@@ -326,8 +328,8 @@ title: "Working with partners to improve task success on Canada.ca"
         <p>Combine departmental information about requirements for starting a business.</p>
         <h4>Partners</h4>
         <ul>
-          <li>Canada Revenue Agency</li>
-          <li>Innovation, Science and Economic Development Canada</li>
+          <li>Canada Revenue Agency (CRA)</li>
+          <li>Innovation, Science and Economic Development Canada (ISED)</li>
         </ul>
         <h4>Description</h4>
         <p><a href="project-21.html">Business start-up activities</a></p>
