@@ -18,16 +18,20 @@ title: "Working with partners to improve task success on Canada.ca"
 <h2>Projects with our partners</h2>
 <ul class="list-unstyled">
   <li class="bg-success">
-    <h3>Orientation and wayfinding</h3>
-    <p><strong>Purpose</strong>: explore navigation and design options to help people find and use the services they need.</p>
-    <p><strong>Partners</strong>: Agriculture and Agri-Food Canada, Immigration, Refugees and Citizenship Canada, Veterans Affairs Canada and Statistics Canada</p>
-    <p><strong>Description</strong>: <a href="project-01.html">Orientation and wayfinding</a></p>
+    <div>
+      <h3>Orientation and wayfinding</h3>
+      <p><strong>Purpose</strong>: explore navigation and design options to help people find and use the services they need.</p>
+      <p><strong>Partners</strong>: Agriculture and Agri-Food Canada, Immigration, Refugees and Citizenship Canada, Veterans Affairs Canada and Statistics Canada</p>
+      <p><strong>Description</strong>: <a href="project-01.html">Orientation and wayfinding</a></p>
+    </div>
   </li>
   <li>
-    <h3>Medical devices</h3>
-    <p><strong>Purpose</strong>: make it easier for stakeholders subject to Canada’s medical device regulations find and understand regulatory requirements.</p>
-    <p><strong>Partner</strong>: Health Canada</p>
-    <p><strong>Description</strong>: <a href="project-02.html">Medical devices</a></p>
+    <div>
+      <h3>Medical devices</h3>
+      <p><strong>Purpose</strong>: make it easier for stakeholders subject to Canada’s medical device regulations find and understand regulatory requirements.</p>
+      <p><strong>Partner</strong>: Health Canada</p>
+      <p><strong>Description</strong>: <a href="project-02.html">Medical devices</a></p>
+    </div>
   </li>
   <li>
     <h3>Pay for the public service</h3>
