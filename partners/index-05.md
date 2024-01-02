@@ -30,9 +30,9 @@ title: "Working with partners to improve task success on Canada.ca"
         <p>Explore navigation and design options to help people find and use the services they need.</p>
         <h4>Partners</h4>
         <ul>
-          <li>Agriculture and Agri-Food Canada</li>
-          <li>Immigration, Refugees and Citizenship Canada</li>
-          <li>Veterans Affairs Canada and Statistics Canada</li>
+          <li>Agriculture and Agri-Food Canada (AAFC)</li>
+          <li>Immigration, Refugees and Citizenship Canada (IRCC)</li>
+          <li>Veterans Affairs Canada and Statistics Canada (VAC)</li>
         </ul>
         <h4>Description</h4>
         <p><a href="project-01.html">Orientation and wayfinding</a></p>
