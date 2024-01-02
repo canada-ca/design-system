@@ -17,8 +17,8 @@ title: "Working with partners to improve task success on Canada.ca"
 <p>We work collaboratively to refine prototypes until they achieve at least a 20% improvement in task success.</p>
 <h2>Projects with our partners</h2>
 <ul class="list-unstyled">
-  <li class="bg-success">
-    <div>
+  <li>
+    <div class="bg-success">
       <h3>Orientation and wayfinding</h3>
       <p><strong>Purpose</strong>: explore navigation and design options to help people find and use the services they need.</p>
       <p><strong>Partners</strong>: Agriculture and Agri-Food Canada, Immigration, Refugees and Citizenship Canada, Veterans Affairs Canada and Statistics Canada</p>
