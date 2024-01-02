@@ -6,7 +6,7 @@ description: "We explored navigation and design options to help people get to an
 layout: without-h1
 title: "Orientation and wayfinding"
 ---
-<h1 property="name headline" id="wb-cont" dir="ltr">Orientation and wayfinding collaboration</h1>
+<h1 property="name headline" id="wb-cont" dir="ltr">Orientation and wayfinding</h1>
 <p>All government departments are adopting the Canada.ca look. The design needs to adapt to their needs. We explored navigation and design options to help people get to and use the services they need, while maintaining confidence and trust in Canada.ca.</p>
 <h2>Partner departments</h2>
 <p>Agriculture and Agri-Food Canada, Immigration, Refugees and Citizenship Canada, Veterans Affairs Canada and Statistics Canada</p>
