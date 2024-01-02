@@ -34,7 +34,7 @@ title: "Working with partners to improve task success on Canada.ca"
           <li>Immigration, Refugees and Citizenship Canada (IRCC)</li>
           <li>Veterans Affairs Canada and Statistics Canada (VAC)</li>
         </ul>
-        <p class="mrgn-tp-lg text-center"><a href="project-01.html" class="btn btn-primary">Orientation and wayfinding description</a></p>
+        <div class="mrgn-tp-lg text-center"><a href="project-01.html" class="btn btn-primary">Orientation and wayfinding description</a></div>
       </div>
     </div>
   </li>
@@ -48,8 +48,7 @@ title: "Working with partners to improve task success on Canada.ca"
         <ul>
           <li>Health Canada (HC)</li>
         </ul>
-        <h4>Description</h4>
-        <p><a href="project-02.html">Medical devices</a></p>
+        <div class="mrgn-tp-lg text-center"><a href="project-02.html" class="btn btn-primary">Medical devices</a></div>
       </div>
     </div>
   </li>
