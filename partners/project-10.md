@@ -6,7 +6,7 @@ description: "Make it easier for Canadian businesses to find and understand gove
 layout: without-h1
 title: "Electronic Procurement Solution"
 ---
-<h1 property="name headline" id="wb-cont" dir="ltr">EI maternity and parental benefits</h1>
+<h1 property="name headline" id="wb-cont" dir="ltr">Electronic Procurement Solution</h1>
 <p>Make it easier for Canadian businesses to find and understand government business opportunities and guidance.</p>
 <h2>Partner departments</h2>
 <ul>
