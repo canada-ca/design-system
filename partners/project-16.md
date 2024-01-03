@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/"
+altLangPage: "https://conception.canada.ca/partenaires/project-16.html"
 date: 2024-01-03
 dateModified: 2024-01-03
 description: "Make it easier for Canadians to understand eligibility for caregiver benefits."
