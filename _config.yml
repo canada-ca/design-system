@@ -495,6 +495,7 @@
         "path": "partners/*.md"
       },
       "values": {
+      "section-title": "Working with partners",
         "breadcrumbs": [{
             "title": "About Canada.ca",
             "link": "https://design.canada.ca/about/"
@@ -511,7 +512,7 @@
         "path": "partners/index*.md"
       },
       "values": {
-      "section-title": "Working with partners",
+      "section-title": false,
       "css": [
           "https://use.fontawesome.com/releases/v5.15.4/css/all.css",
           "/css/custom.css",
