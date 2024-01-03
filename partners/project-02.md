@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/a-propos/apercu-projet.html"
+altLangPage: "https://conception.canada.ca/partenaires/project-02.html"
 date: 2020-11-20
 dateModified: 2023-12-08
 description: "Our objective was to make it easier for medical device manufacturers and other firms subject to Canada’s medical device regulations to find and understand the information they need."
