@@ -8,12 +8,13 @@ title: "Prepare for the citizenship test"
 <p>Make it easier for applicants to study for the Canadian citizenship test.</p>
 <h2>Partner departments</h2>
 <ul>
-  <li>Public Services and Procurement Canada (PSPC)</li>
+  <li>Immigration, Refugees and Citizenship Canada (IRCC)</li>
 </ul>
 <h2>Why this work matters</h2>
 <ul>
-  <li class="custli">The federal government is the largest public buyer of goods and services in Canada, with purchases of approximately $23 billion annually</li>
-  <li>PSPC procures close to 80% of the federal government’s annual procurement expenditures on behalf of client departments and agencies,amounting to approximately $18 billion in goods and services</li>
+  <li class="custli">Canada confers citizenship on over 100,000 people each year</li>
+										<li class="custli">Applicants for Canadian citizenship have adapted to a new country, a new culture, and often a new language</li>
+										<li class="custli">Accessing the material they need to study for their citizenship test should be the least of their worries</li>
 </ul>
 <div class="row mrgn-tp-lg mrgn-bttm-lg">
   <div class="col-md-8">
@@ -31,9 +32,9 @@ title: "Prepare for the citizenship test"
         </thead>
         <tbody>
           <tr>
-            <td class="table-smnum">23%</td>
-            <td class="table-smnum">68%</td>
-            <td class="table-smnum"><span class="text-success"><strong>+45%pts</strong></span></td>
+            <td class="table-smnum">69%</td>
+            <td class="table-smnum">86%</td>
+            <td class="table-smnum"><span class="text-success"><strong>+17%pts</strong></span></td>
           </tr>
         </tbody>
       </table>
