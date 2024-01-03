@@ -3,10 +3,8 @@ altLangPage: "https://conception.canada.ca/"
 date: 2024-01-03
 dateModified: 2024-01-03
 description: "Make it easier for Canadians to register and manage their CRA business accounts."
-layout: without-h1
 title: "Business account maintenance"
 ---
-<h1 property="name headline" id="wb-cont" dir="ltr">Business account maintenance</h1>
 <p>Make it easier for Canadians to register and manage their CRA business accounts.</p>
 <h2>Partner departments</h2>
 <ul>
