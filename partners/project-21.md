@@ -5,7 +5,6 @@ dateModified: 2024-01-03
 description: "Combine information from across departments so that Canadians easily get the whole picture on what the Government of Canada requires when starting a business."
 title: "Business start-up activities"
 ---
-<h1 property="name headline" id="wb-cont" dir="ltr">Business start-up activities</h1>
 <p>Combine information from across departments so that Canadians easily get the whole picture on what the Government of Canada requires when starting a business.</p>
 <h2>Partner departments</h2>
 <ul>
