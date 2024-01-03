@@ -3,10 +3,8 @@ altLangPage: "https://conception.canada.ca/a-propos/apercu-projet.html"
 date: 2023-12-08
 dateModified: 2023-12-08
 description: "Make it easier for Canadians to find and understand information related to the Canada Child Benefit."
-layout: without-h1
 title: "Canada Child Benefit"
 ---
-<h1 property="name headline" id="wb-cont" dir="ltr">Canada Child Benefit</h1>
 <p>Make it easier for Canadians to find and understand information related to the Canada Child Benefit.</p>
 <h2>Partner department</h2>
 <p>Canada Revenue Agency</p>
