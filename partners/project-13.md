@@ -13,8 +13,8 @@ title: "Prepare for the citizenship test"
 <h2>Why this work matters</h2>
 <ul>
   <li class="custli">Canada confers citizenship on over 100,000 people each year</li>
-										<li class="custli">Applicants for Canadian citizenship have adapted to a new country, a new culture, and often a new language</li>
-										<li class="custli">Accessing the material they need to study for their citizenship test should be the least of their worries</li>
+  <li class="custli">Applicants for Canadian citizenship have adapted to a new country, a new culture, and often a new language</li>
+  <li class="custli">Accessing the material they need to study for their citizenship test should be the least of their worries</li>
 </ul>
 <div class="row mrgn-tp-lg mrgn-bttm-lg">
   <div class="col-md-8">
@@ -43,14 +43,12 @@ title: "Prepare for the citizenship test"
 </div>
 <h2>Task scenarios tested and improved</h2>
 <ul class="custul">
-  <li class="custli">Jon works for a company that does snow removal in the winter, and landscaping the rest of the year. His boss has asked him to look for opportunities with the federal government. Are there any open projects in Ontario that would be a good fit for the company?</li>
-  <li class="custli">Jon found this opportunity for Algoma Grounds Maintenance, but it looks like it might be a bit too big for his company. How could he let other businesses know how to contact him, in case there's a larger company that would be willing to sub-contract?</li>
-  <li class="custli">The statement of work for this opportunity has five distinct sections. What is the title of Section 4?</li>
-  <li class="custli">Sara has her own business doing freelance proofreading and editing. She and her two employees do short-term contracts with other businesses. She’d like to get contracts with the Government of Canada too. How many opportunities for proofreading are currently available?</li>
-  <li class="custli">Suppose Sara found this opportunity. Her company is based in Calgary. Could they do the work there?</li>
-  <li class="custli">Suppose they decided they could do the work from Calgary. Sara has a big project coming up and will be busy in October and November. Will that interfere with this opportunity?</li>
-  <li class="custli">The Government of Canada uses standardized codes to describe goods and services. What specific code(s) should Frances use to find opportunities related to the web development services she provides?</li>
-  <li class="custli">The Government of Canada maintains a number of databases of pre-qualified suppliers of goods and services. Richard's company provides architectural consulting services. What is the name of the government's database of suppliers for this type of service?</li>
+  <li class="custli">You submitted your citizenship application. What else will you need to do to become a Canadian citizen?</li>
+  <li class="custli">What are the different ways you could study for the Canadian citizenship test?</li>
+  <li class="custli">Will there be questions testing your English or French language skills in the citizenship test?</li>
+  <li class="custli">According to the citizenship test study guide, in what year did the current Canadian flag become the official flag of Canada?</li>
+  <li class="custli">According to the citizenship test study guide, what does the word Inuit mean?</li>
+  <li class="custli">What do you need to take with you when you go to take the Citizenship test?</li>
 </ul>
 <h2>Research summary</h2>
-<p><a href="https://blog.canada.ca/research-summaries/electronic-procurement-research-summary.html">Electronic Procurement Solution</a></p>
+<p><a href="https://blog.canada.ca/research-summaries/citizenship-test-research-summary.html">Prepare for the citizenship test</a></p>
