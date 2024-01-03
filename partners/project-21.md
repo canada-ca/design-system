@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/"
+altLangPage: "https://conception.canada.ca/partenaires/project-21.html"
 date: 2024-01-03
 dateModified: 2024-01-03
 description: "Combine information from across departments so that Canadians easily get the whole picture on what the Government of Canada requires when starting a business."
