@@ -7,11 +7,16 @@ title: "Orientation and wayfinding"
 ---
 <p>All government departments are adopting the Canada.ca look. The design needs to adapt to their needs. We explored navigation and design options to help people get to and use the services they need, while maintaining confidence and trust in Canada.ca.</p>
 <h2>Partner departments</h2>
-<p>Agriculture and Agri-Food Canada, Immigration, Refugees and Citizenship Canada, Veterans Affairs Canada and Statistics Canada</p>
-<h2>Why this work matters</h2>
 <ul>
-  <li class="custli">Finding and using services delivered by different government departments should be simple, consistent and accessible to all Canadians</li>
-  <li class="custli">People need to be able to clearly recognize official government information and services to avoid deceptive and fraudulent sites</li>
+  <li>Agriculture and Agri-Food Canada</li>
+  <li>Immigration, Refugees and Citizenship Canada</li>
+  <li>Veterans Affairs Canada</li>
+  <li>Statistics Canada</li>
+</ul>
+<h2>Why this work matters</h2>
+<ul class="lst-spcd">
+  <li>Finding and using services delivered by different government departments should be simple, consistent and accessible to all Canadians</li>
+  <li>People need to be able to clearly recognize official government information and services to avoid deceptive and fraudulent sites</li>
 </ul>
 <div class="row mrgn-tp-lg mrgn-bttm-lg">
   <div class="col-md-8">
