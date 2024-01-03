@@ -16,7 +16,7 @@ title: "Working with partners to improve task success on Canada.ca"
 </ul>
 <p>We work collaboratively to refine prototypes until they achieve at least a 20% improvement in task success.</p>
 <h2>Projects with our partners</h2>
-<ul class="mrgn-tp-lg">
+<ul class="mrgn-tp-lg lst-spcd">
   <li><a href="project-01.html">Orientation and wayfinding</a>
     <ul>
       <li>Agriculture and Agri-Food Canada (AAFC)</li>
