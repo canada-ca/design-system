@@ -18,7 +18,7 @@ title: "Working with partners to improve task success on Canada.ca"
 <h2>Projects with our partners</h2>
 <ul class="mrgn-tp-lg">
   <li><a href="project-01.html">Orientation and wayfinding</a></li>
-  <li><a href="project-02.html">Pay for the public service</a></li>
+  <li><a href="project-02.html">Medical devices</a></li>
   <li><a href="project-04.html">Pay for the public service</a></li>
   <li><a href="project-05.html">Recalls and safety alerts search</a></li>
   <li><a href="project-10.html">Electronic Procurement Solution</a></li>
