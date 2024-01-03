@@ -3,10 +3,8 @@ altLangPage: "https://conception.canada.ca/"
 date: 2024-01-03
 dateModified: 2024-01-03
 description: "MMake it easier for Canadians to find government jobs on Canada.ca."
-layout: without-h1
 title: "Find a job"
 ---
-<h1 property="name headline" id="wb-cont" dir="ltr">Find a job</h1>
 <p>Make it easier for Canadians to find government jobs on Canada.ca.</p>
 <h2>Partner departments</h2>
 <ul>
