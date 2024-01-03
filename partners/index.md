@@ -195,7 +195,7 @@ title: "Working with partners to improve task success on Canada.ca"
   <li>
     <div class="row bg-grey">
       <div class="col-md-12 mrgn-bttm-lg">
-        <h3><a href="project-14.html">Business account maintenance</a></h3>
+        <h3>Business account maintenance</h3>
         <h4>Purpose</h4>
         <p>Make it easier to register and manage CRA business accounts.</p>
         <h4>Partner</h4>
