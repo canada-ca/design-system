@@ -512,6 +512,8 @@
       },
       "values": {
       "css": [
+          "https://use.fontawesome.com/releases/v5.15.4/css/all.css",
+          "/css/custom.css",
           "/partners/css/card-03.css"
         ],
         "breadcrumbs": [{
