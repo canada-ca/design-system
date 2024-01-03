@@ -7,7 +7,9 @@ title: "Medical devices"
 ---
 <p>Our objective was to make it easier for medical device manufacturers and other firms subject to Canada’s medical device regulations to find and understand the information they need to comply with regulatory requirements.</p>
 <h2>Partner department</h2>
-<p>Health Canada (HC)</p>
+<ul>
+  <li>Health Canada (HC)</li>
+</ul>
 <h2>Why this work matters</h2>
 <ul>
   <li>Analytics show that more than half of the visits to pages about medical devices are to those that provide information specific to the medical device industry</li>
