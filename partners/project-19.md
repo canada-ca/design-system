@@ -3,10 +3,8 @@ altLangPage: "https://conception.canada.ca/"
 date: 2024-01-03
 dateModified: 2024-01-03
 description: "Make it easier for Canadians to understand notifications about dangerous weather conditions."
-layout: without-h1
 title: "Weather information"
 ---
-<h1 property="name headline" id="wb-cont" dir="ltr">Weather information</h1>
 <p>Make it easier for Canadians to understand notifications about dangerous weather conditions.</p>
 <h2>Partner departments</h2>
 <ul>
