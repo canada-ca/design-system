@@ -3,10 +3,8 @@ altLangPage: "https://conception.canada.ca/a-propos/apercu-projet.html"
 date: 2020-11-20
 dateModified: 2023-12-08
 description: "Our objective was to make it easier for medical device manufacturers and other firms subject to Canada’s medical device regulations to find and understand the information they need."
-layout: without-h1
 title: "Medical devices"
 ---
-<h1 property="name headline" id="wb-cont" dir="ltr">Medical devices</h1>
 <p>Our objective was to make it easier for medical device manufacturers and other firms subject to Canada’s medical device regulations to find and understand the information they need to comply with regulatory requirements.</p>
 <h2>Partner department</h2>
 <p>Health Canada</p>
