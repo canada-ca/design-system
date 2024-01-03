@@ -3,10 +3,8 @@ altLangPage: "https://conception.canada.ca/"
 date: 2024-01-02
 dateModified: 2024-01-02
 description: "Make it easier for Canadian businesses to find and understand government business opportunities and guidance."
-layout: without-h1
 title: "Electronic Procurement Solution"
 ---
-<h1 property="name headline" id="wb-cont" dir="ltr">Electronic Procurement Solution</h1>
 <p>Make it easier for Canadian businesses to find and understand government business opportunities and guidance.</p>
 <h2>Partner departments</h2>
 <ul>
