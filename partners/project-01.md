@@ -3,10 +3,8 @@ altLangPage: "https://conception.canada.ca/a-propos/apercu-projet.html"
 date: 2020-11-20
 dateModified: 2023-12-08
 description: "We explored navigation and design options to help people get to and use the services they need, while maintaining confidence and trust in Canada.ca."
-layout: without-h1
 title: "Orientation and wayfinding"
 ---
-<h1 property="name headline" id="wb-cont" dir="ltr">Orientation and wayfinding</h1>
 <p>All government departments are adopting the Canada.ca look. The design needs to adapt to their needs. We explored navigation and design options to help people get to and use the services they need, while maintaining confidence and trust in Canada.ca.</p>
 <h2>Partner departments</h2>
 <p>Agriculture and Agri-Food Canada, Immigration, Refugees and Citizenship Canada, Veterans Affairs Canada and Statistics Canada</p>
