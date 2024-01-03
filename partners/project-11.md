@@ -3,10 +3,8 @@ altLangPage: "https://conception.canada.ca/"
 date: 2024-01-03
 dateModified: 2024-01-03
 description: "Make it easier for Canadian students applying, managing and accessing details of their student loans and grants."
-layout: without-h1
 title: "Student loans and grants"
 ---
-<h1 property="name headline" id="wb-cont" dir="ltr">Student loans and grants</h1>
 <p>Make it easier for Canadian students applying, managing and accessing details of their student loans and grants.</p>
 <h2>Partner departments</h2>
 <ul>
