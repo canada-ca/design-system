@@ -7,9 +7,9 @@ title: "Electronic Procurement Solution"
 ---
 <p>Our objective was to make make it easier for Canadian businesses to find and understand government business opportunities and guidance.</p>
 <h2>Partner department</h2>
-<p>Public Services and Procurement Canada</p>
+<p>Public Services and Procurement Canada (PSPC)</p>
 <h2>Why this work matters</h2>
-<ul>
+<ul class="lst-spcd">
   <li class="custli">the federal government is the largest public buyer of goods and services in Canada, with purchases of approximately $23 billion annually</li>
   <li class="custli">PSPC procures close to 80% of the federal government’s annual procurement expenditures on behalf of client departments and agencies,amounting to approximately $18 billion in goods and services</li>
 </ul>
@@ -39,7 +39,7 @@ title: "Electronic Procurement Solution"
   </div>
 </div>
 <h3>Task scenarios tested and improved</h3>
-<ul class="custul">
+<ul class="lst-spcd">
   <li class="custli">Your friend just completed a degree in translation and is considering joining the government. What's the salary of a level 1 translator in the government?</li>
   <li class="custli">Pat starts as a public servant on Monday, December 2nd. He needs to know when he will get his first paycheque, assuming his department does everything correctly.</li>
   <li class="custli">Alice accepted a 3-month acting position at Health Canada, starting in February. She wants to help her manager make sure her pay is accurate when she starts. When should her manager submit the paperwork?</li>
