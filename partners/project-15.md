@@ -3,10 +3,8 @@ altLangPage: "https://conception.canada.ca/"
 date: 2024-01-03
 dateModified: 2024-01-03
 description: "Make it easier for Canadians to find and understand both recalls and safety alerts for food, health products, vehicles and car seats."
-layout: without-h1
 title: "Recalls and safety alerts"
 ---
-<h1 property="name headline" id="wb-cont" dir="ltr">Recalls and safety alerts</h1>
 <p>Make it easier for Canadians to find and understand both recalls and safety alerts for food, health products, vehicles and car seats.</p>
 <h2>Partner departments</h2>
 <ul>
