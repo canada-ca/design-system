@@ -3,10 +3,8 @@ altLangPage: "https://conception.canada.ca/"
 date: 2024-01-03
 dateModified: 2024-01-03
 description: "Help visitors to Canada clearly understand what documentation is required to enter."
-layout: without-h1
 title: "Travel documents"
 ---
-<h1 property="name headline" id="wb-cont" dir="ltr">Travel documents</h1>
 <p>Help visitors to Canada clearly understand what documentation is required to enter.</p>
 <h2>Partner departments</h2>
 <ul>
