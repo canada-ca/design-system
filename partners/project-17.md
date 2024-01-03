@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/"
+altLangPage: "https://conception.canada.ca/partenaires/project-17.html"
 date: 2024-01-03
 dateModified: 2024-01-03
 description: "Make it easier for businesses to fulfill their GST/HST and payroll requirements."
