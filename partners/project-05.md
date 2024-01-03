@@ -3,10 +3,8 @@ altLangPage: "https://conception.canada.ca/a-propos/apercu-projet.html"
 date: 2023-12-08
 dateModified: 2023-12-08
 description: "Help Health Canada prepare for the implementation of a transformed Recalls and Safety Alerts Management System (RSAMS) with a new search interface so that Canadians can find and understand both recalls and safety alerts."
-layout: without-h1
 title: "Recalls and safety alerts search"
 ---
-<h1 property="name headline" id="wb-cont" dir="ltr">Recalls and safety alerts search</h1>
 <p>Help Health Canada prepare for the implementation of a transformed Recalls and Safety Alerts Management System (RSAMS) with a new search interface so that Canadians can find and understand both recalls and safety alerts.</p>
 <h2>Partner departments</h2>
 <p>Health Canada and Transport Canada</p>
