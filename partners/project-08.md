@@ -3,10 +3,8 @@ altLangPage: "https://conception.canada.ca/"
 date: 2024-01-02
 dateModified: 2024-01-02
 description: "Make it easier for Canadians to find the correct phone number or mailing address for specific services related to the Canada Revenue Agency (CRA)."
-layout: without-h1
 title: "Contact the CRA"
 ---
-<h1 property="name headline" id="wb-cont" dir="ltr">Contact the CRA</h1>
 <p>Make it easier for Canadians to find the correct phone number or mailing address for specific services related to the Canada Revenue Agency (CRA).</p>
 <h2>Partner departments</h2>
 <ul>
