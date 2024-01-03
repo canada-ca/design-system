@@ -2,7 +2,7 @@
 altLangPage: "https://conception.canada.ca/"
 date: 2024-01-03
 dateModified: 2024-01-03
-description: "Make it easier for applicants to study for the Canadian citizenship test.
+description: "Make it easier for applicants to study for the Canadian citizenship test."
 title: "Prepare for the citizenship test"
 ---
 <p>Make it easier for applicants to study for the Canadian citizenship test.</p>
