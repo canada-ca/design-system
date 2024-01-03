@@ -3,7 +3,6 @@ altLangPage: "https://conception.canada.ca/"
 date: 2024-01-03
 dateModified: 2024-01-03
 description: "Combine information from across departments so that Canadians easily get the whole picture on what the Government of Canada requires when starting a business."
-layout: without-h1
 title: "Business start-up activities"
 ---
 <h1 property="name headline" id="wb-cont" dir="ltr">Business start-up activities</h1>
