@@ -20,7 +20,7 @@ title: "Working with partners to improve task success on Canada.ca"
   <li><a href="project-01.html">Orientation and wayfinding</a></li>
   <li><a href="project-02.html">Medical devices</a></li>
   <li><a href="project-04.html">Pay for the public service</a></li>
-  <li><a href="project-05.html">Recalls and safety alerts search</a></li>
+  <li><a href="project-05.html">Recalls and safety alerts (search)</a></li>
   <li><a href="project-10.html">Electronic Procurement Solution</a></li>
   <li><a href="project-06.html">Canada Child Benefit</a></li>
   <li><a href="project-07.html">Travel advice and advisories</a></li>
