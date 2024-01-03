@@ -3,10 +3,8 @@ altLangPage: "https://conception.canada.ca/"
 date: 2024-01-03
 dateModified: 2024-01-03
 description: "Make it easier for Canadians to understand eligibility for caregiver benefits."
-layout: without-h1
 title: "EI special benefits"
 ---
-<h1 property="name headline" id="wb-cont" dir="ltr">EI special benefits</h1>
 <p>Make it easier for Canadians to understand eligibility for caregiver benefits.</p>
 <h2>Partner departments</h2>
 <ul>
