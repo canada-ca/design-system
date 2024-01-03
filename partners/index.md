@@ -1,10 +1,12 @@
 ---
 altLangPage: "https://conception.canada.ca/a-propos/apercu-projet.html"
 date: 2020-11-20
-dateModified: 2024-02-02
+dateModified: 2024-01-08
 description: "The Digital Transformation Office works with federal institutions to make Canada.ca content easier to find and understand."
+layout: without-h1
 title: "Working with partners to improve task success on Canada.ca"
 ---
+<h1 property="name headline" id="wb-cont" dir="ltr">Working with partners to improve task success on Canada.ca</h1>
 <p>The Digital Transformation Office works with federal institutions to make Canada.ca content easier to find and understand.</p>
 <p>Our method includes:</p>
 <ul>
