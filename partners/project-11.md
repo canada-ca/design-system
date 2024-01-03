@@ -8,12 +8,11 @@ title: "Student loans and grants"
 <p>Make it easier for Canadian students applying, managing and accessing details of their student loans and grants.</p>
 <h2>Partner departments</h2>
 <ul>
-  <li>Public Services and Procurement Canada (PSPC)</li>
+  <li>Employment and Social Development Canada (ESDC)</li>
 </ul>
 <h2>Why this work matters</h2>
 <ul>
-  <li class="custli">The federal government is the largest public buyer of goods and services in Canada, with purchases of approximately $23 billion annually</li>
-  <li>PSPC procures close to 80% of the federal government’s annual procurement expenditures on behalf of client departments and agencies,amounting to approximately $18 billion in goods and services</li>
+  <li class="custli">Improving the usability of the student loans process simplifies this important process used by nearly half a million Canadian students each year</li>
 </ul>
 <div class="row mrgn-tp-lg mrgn-bttm-lg">
   <div class="col-md-8">
@@ -31,9 +30,9 @@ title: "Student loans and grants"
         </thead>
         <tbody>
           <tr>
-            <td class="table-smnum">23%</td>
-            <td class="table-smnum">68%</td>
-            <td class="table-smnum"><span class="text-success"><strong>+45%pts</strong></span></td>
+            <td class="table-smnum">61%</td>
+            <td class="table-smnum">88%</td>
+            <td class="table-smnum"><span class="text-success"><strong>+31%pts</strong></span></td>
           </tr>
         </tbody>
       </table>
@@ -42,14 +41,15 @@ title: "Student loans and grants"
 </div>
 <h2>Task scenarios tested and improved</h2>
 <ul class="custul">
-  <li class="custli">Jon works for a company that does snow removal in the winter, and landscaping the rest of the year. His boss has asked him to look for opportunities with the federal government. Are there any open projects in Ontario that would be a good fit for the company?</li>
-  <li class="custli">Jon found this opportunity for Algoma Grounds Maintenance, but it looks like it might be a bit too big for his company. How could he let other businesses know how to contact him, in case there's a larger company that would be willing to sub-contract?</li>
-  <li class="custli">The statement of work for this opportunity has five distinct sections. What is the title of Section 4?</li>
-  <li class="custli">Sara has her own business doing freelance proofreading and editing. She and her two employees do short-term contracts with other businesses. She’d like to get contracts with the Government of Canada too. How many opportunities for proofreading are currently available?</li>
-  <li class="custli">Suppose Sara found this opportunity. Her company is based in Calgary. Could they do the work there?</li>
-  <li class="custli">Suppose they decided they could do the work from Calgary. Sara has a big project coming up and will be busy in October and November. Will that interfere with this opportunity?</li>
-  <li class="custli">The Government of Canada uses standardized codes to describe goods and services. What specific code(s) should Frances use to find opportunities related to the web development services she provides?</li>
-  <li class="custli">The Government of Canada maintains a number of databases of pre-qualified suppliers of goods and services. Richard's company provides architectural consulting services. What is the name of the government's database of suppliers for this type of service?</li>
+  <li class="custli">Can an apprentice get a loan from the Canadian government to help during their apprenticeship?</li>
+  <li class="custli">Can you get a grant from the Government of Canada to attend university part time?</li>
+  <li class="custli">Your niece lives in New Brunswick will start university soon. She is from a low-income family and wants to apply for a student loan and a grant. Does she need to submit 2 separate applications?</li>
+  <li class="custli">How would you update your bank account details to receive your student loan?</li>
+  <li class="custli">Does the government offer a way to help you repay your student loans if your income drops?</li>
+  <li class="custli">How soon after graduating do you have to start paying back your student loan from the government of Canada?</li>
+  <li class="custli">You have been making student loan payments for the last 3 years but your financial situation is now very bad. Can your student loans be cleared if you file for bankruptcy?</li>
+  <li class="custli">You graduated and earned some extra money at work. Is it possible to apply that money to your student loan outside of your regular monthly payments?</li>
+  <li class="custli">You are having trouble making your loan payments despite still living with your parents in Manitoba. Who would you contact to discuss your situation and find out if you can get help repaying?</li>
 </ul>
 <h2>Research summary</h2>
-<p><a href="https://blog.canada.ca/research-summaries/electronic-procurement-research-summary.html">Electronic Procurement Solution</a></p>
+<p><a href="https://blog.canada.ca/research-summaries/student-loans-research-summary.html">Student loans and grants</a></p>
