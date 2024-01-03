@@ -233,7 +233,7 @@ title: "Working with partners to improve task success on Canada.ca"
   <li>
     <div class="row bg-grey">
       <div class="col-md-12 mrgn-bttm-lg">
-        <h3>Recalls and safety alerts</h3>
+        <h3>EI special benefits</h3>
         <h4>Purpose</h4>
         <p>Make it easier to understand eligibility for caregiver benefits.</p>
         <h4>Partner</h4>
