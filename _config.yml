@@ -495,7 +495,6 @@
         "path": "partners/*.md"
       },
       "values": {
-        "title": "test", 
         "breadcrumbs": [{
             "title": "About Canada.ca",
             "link": "https://design.canada.ca/about/"
