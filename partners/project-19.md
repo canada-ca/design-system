@@ -6,14 +6,13 @@ description: "Make it easier for Canadians to understand notifications about dan
 title: "Weather information"
 ---
 <p>Make it easier for Canadians to understand notifications about dangerous weather conditions.</p>
-<h2>Partner departments</h2>
+<h2>Partner department</h2>
 <ul>
-  <li>Public Services and Procurement Canada (PSPC)</li>
+  <li>Environment and Climate Change Canada</li>
 </ul>
 <h2>Why this work matters</h2>
 <ul>
-  <li class="custli">The federal government is the largest public buyer of goods and services in Canada, with purchases of approximately $23 billion annually</li>
-  <li>PSPC procures close to 80% of the federal government’s annual procurement expenditures on behalf of client departments and agencies,amounting to approximately $18 billion in goods and services</li>
+  <li class="custli">Flu cases result in nearly 12,000 hospitalizations in Canada each year</li>
 </ul>
 <div class="row mrgn-tp-lg mrgn-bttm-lg">
   <div class="col-md-8">
@@ -31,9 +30,9 @@ title: "Weather information"
         </thead>
         <tbody>
           <tr>
-            <td class="table-smnum">23%</td>
-            <td class="table-smnum">68%</td>
-            <td class="table-smnum"><span class="text-success"><strong>+45%pts</strong></span></td>
+            <td class="table-smnum">33%</td>
+            <td class="table-smnum">72%</td>
+            <td class="table-smnum"><span class="text-success"><strong>+39%pts</strong></span></td>
           </tr>
         </tbody>
       </table>
@@ -42,14 +41,15 @@ title: "Weather information"
 </div>
 <h2>Task scenarios tested and improved</h2>
 <ul class="custul">
-  <li class="custli">Jon works for a company that does snow removal in the winter, and landscaping the rest of the year. His boss has asked him to look for opportunities with the federal government. Are there any open projects in Ontario that would be a good fit for the company?</li>
-  <li class="custli">Jon found this opportunity for Algoma Grounds Maintenance, but it looks like it might be a bit too big for his company. How could he let other businesses know how to contact him, in case there's a larger company that would be willing to sub-contract?</li>
-  <li class="custli">The statement of work for this opportunity has five distinct sections. What is the title of Section 4?</li>
-  <li class="custli">Sara has her own business doing freelance proofreading and editing. She and her two employees do short-term contracts with other businesses. She’d like to get contracts with the Government of Canada too. How many opportunities for proofreading are currently available?</li>
-  <li class="custli">Suppose Sara found this opportunity. Her company is based in Calgary. Could they do the work there?</li>
-  <li class="custli">Suppose they decided they could do the work from Calgary. Sara has a big project coming up and will be busy in October and November. Will that interfere with this opportunity?</li>
-  <li class="custli">The Government of Canada uses standardized codes to describe goods and services. What specific code(s) should Frances use to find opportunities related to the web development services she provides?</li>
-  <li class="custli">The Government of Canada maintains a number of databases of pre-qualified suppliers of goods and services. Richard's company provides architectural consulting services. What is the name of the government's database of suppliers for this type of service?</li>
+  <li class="custli">What will the weather be like in your area for the rest of the day?</li>
+  <li class="custli">You heard there is rain coming but you want to cycle to/home from work. Find out when the probability of rain is the highest so you can avoid those times.</li>
+  <li class="custli">It's Sunday morning, and you need to drive to Kingston for a Monday noon meeting. Should you leave this evening, or tomorrow morning?</li>
+  <li class="custli">Hail would rip holes in your expensive tent. Should you rush to pack up your camp site this morning or take your time this evening?</li>
+  <li class="custli">You want to take the the dog for a short walk before it rains. It is already raining anywhere in the Ottawa area yet
+    (yes/no)?</li>
+  <li class="custli">You are coaching children's soccer tonight. You have to cancel if the humidex is above 40 degrees. Should you cancel the game or not?</li>
+  <li class="custli">You are the golf course manager: the sky looks dark. Find out
+    (yes/no) whether you should clear the course because of the potential of lightning in the next 10-20 minutes.</li>
 </ul>
 <h2>Research summary</h2>
-<p><a href="https://blog.canada.ca/research-summaries/electronic-procurement-research-summary.html">Electronic Procurement Solution</a></p>
+<p><a href="https://blog.canada.ca/research-summaries/weather-research-summary.html">Weather information</a></p>
