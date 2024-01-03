@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/"
+altLangPage: "https://conception.canada.ca/partenaires/project-02.html"
 date: 2024-01-03
 dateModified: 2024-01-03
 description: "MMake it easier for Canadians to find government jobs on Canada.ca."
@@ -11,9 +11,9 @@ title: "Find a job"
   <li>Employment and Social Development Canada (ESDC)</li>
 </ul>
 <h2>Why this work matters</h2>
-<ul>
-  <li class="custli">Canada had an unemployment rate of 5.8% in 2018</li>
-  <li class="custli">Improving this content makes it easier for millions of Canadians to find jobs with the Government of Canada</li>
+<ul class="lst-spcd">
+  <li>Canada had an unemployment rate of 5.8% in 2018</li>
+  <li>Improving this content makes it easier for millions of Canadians to find jobs with the Government of Canada</li>
 </ul>
 <div class="row mrgn-tp-lg mrgn-bttm-lg">
   <div class="col-md-8">
@@ -41,14 +41,14 @@ title: "Find a job"
   </div>
 </div>
 <h2>Task scenarios tested and improved</h2>
-<ul class="custul">
-  <li class="custli">You just received your Office Administration diploma. How many Administrative Assistant jobs could you apply for to work for the Federal Government?</li>
-  <li class="custli">You heard there is a position open in Alberta for a veterinarian to work for the Federal Government. How would you apply for it?</li>
-  <li class="custli">You just graduated high school and want to be an Infantry soldier. Is the military accepting applications for infantry soldiers right now?</li>
-  <li class="custli">How would you apply to be a government Border Officer?</li>
-  <li class="custli">You are halfway through your studies. How would you apply to the Federal Government to be considered for a student job?</li>
-  <li class="custli">You are graduating soon with a Legal Assistant diploma. How many open positions can you apply for in Vancouver that are specifically for a legal assistant?</li>
-  <li class="custli">You heard there is a carpenter job available in Greenwood, Nova Scotia to work for the Federal Government. Does this job require you to be bilingual, English and French?</li>
+<ul class="lst-spcd">
+  <li>You just received your Office Administration diploma. How many Administrative Assistant jobs could you apply for to work for the Federal Government?</li>
+  <li>You heard there is a position open in Alberta for a veterinarian to work for the Federal Government. How would you apply for it?</li>
+  <li>You just graduated high school and want to be an Infantry soldier. Is the military accepting applications for infantry soldiers right now?</li>
+  <li>How would you apply to be a government Border Officer?</li>
+  <li>You are halfway through your studies. How would you apply to the Federal Government to be considered for a student job?</li>
+  <li>You are graduating soon with a Legal Assistant diploma. How many open positions can you apply for in Vancouver that are specifically for a legal assistant?</li>
+  <li>You heard there is a carpenter job available in Greenwood, Nova Scotia to work for the Federal Government. Does this job require you to be bilingual, English and French?</li>
 </ul>
 <h2>Research summary</h2>
 <p><a href="https://blog.canada.ca/research-summaries/student-loans-research-summary.html">Student loans and grants</a></p>
