@@ -3,10 +3,8 @@ altLangPage: "https://conception.canada.ca/"
 date: 2024-01-03
 dateModified: 2024-01-03
 description: "Make it easier for businesses to fulfill their GST/HST and payroll requirements."
-layout: without-h1
 title: "GST/HST and payroll"
 ---
-<h1 property="name headline" id="wb-cont" dir="ltr">GST/HST and payroll</h1>
 <p>Make it easier for businesses to fulfill their GST/HST and payroll requirements.</p>
 <h2>Partner departments</h2>
 <ul>
