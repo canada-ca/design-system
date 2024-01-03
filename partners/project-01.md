@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/a-propos/apercu-projet.html"
+altLangPage: "https://conception.canada.ca/partenaires/project-01.html"
 date: 2020-11-20
 dateModified: 2023-12-08
 description: "We explored navigation and design options to help people get to and use the services they need, while maintaining confidence and trust in Canada.ca."
