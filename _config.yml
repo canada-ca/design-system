@@ -511,6 +511,9 @@
         "path": "partners/index*.md"
       },
       "values": {
+      "css": [
+          "/partners/css/card-03.css"
+        ],
         "breadcrumbs": [{
             "title": "About Canada.ca",
             "link": "https://design.canada.ca/about/"
