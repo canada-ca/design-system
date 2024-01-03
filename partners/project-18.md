@@ -5,15 +5,15 @@ dateModified: 2024-01-03
 description: "Make it easier for Canadians to interpret immunization guidelines."
 title: "Disease and immunization information"
 ---
-<p>Make it easier for Canadians to interpret immunization guidelines.</p>
+<p>Make it easier for businesses to fulfill their Goods and Services Tax (GST), Harmonized Sales Tax (HST) and payroll requirements.</p>
 <h2>Partner departments</h2>
 <ul>
-  <li>Public Services and Procurement Canada (PSPC)</li>
+  <li>Health Canada (HC)</li>
+  <li>Global Affairs Canada (GAC)</li>
 </ul>
 <h2>Why this work matters</h2>
 <ul>
-  <li class="custli">The federal government is the largest public buyer of goods and services in Canada, with purchases of approximately $23 billion annually</li>
-  <li>PSPC procures close to 80% of the federal government’s annual procurement expenditures on behalf of client departments and agencies,amounting to approximately $18 billion in goods and services</li>
+  <li class="custli">Flu cases result in nearly 12,000 hospitalizations in Canada each year</li>
 </ul>
 <div class="row mrgn-tp-lg mrgn-bttm-lg">
   <div class="col-md-8">
@@ -31,9 +31,9 @@ title: "Disease and immunization information"
         </thead>
         <tbody>
           <tr>
-            <td class="table-smnum">23%</td>
-            <td class="table-smnum">68%</td>
-            <td class="table-smnum"><span class="text-success"><strong>+45%pts</strong></span></td>
+            <td class="table-smnum">53%</td>
+            <td class="table-smnum">84%</td>
+            <td class="table-smnum"><span class="text-success"><strong>+31%pts</strong></span></td>
           </tr>
         </tbody>
       </table>
@@ -42,14 +42,16 @@ title: "Disease and immunization information"
 </div>
 <h2>Task scenarios tested and improved</h2>
 <ul class="custul">
-  <li class="custli">Jon works for a company that does snow removal in the winter, and landscaping the rest of the year. His boss has asked him to look for opportunities with the federal government. Are there any open projects in Ontario that would be a good fit for the company?</li>
-  <li class="custli">Jon found this opportunity for Algoma Grounds Maintenance, but it looks like it might be a bit too big for his company. How could he let other businesses know how to contact him, in case there's a larger company that would be willing to sub-contract?</li>
-  <li class="custli">The statement of work for this opportunity has five distinct sections. What is the title of Section 4?</li>
-  <li class="custli">Sara has her own business doing freelance proofreading and editing. She and her two employees do short-term contracts with other businesses. She’d like to get contracts with the Government of Canada too. How many opportunities for proofreading are currently available?</li>
-  <li class="custli">Suppose Sara found this opportunity. Her company is based in Calgary. Could they do the work there?</li>
-  <li class="custli">Suppose they decided they could do the work from Calgary. Sara has a big project coming up and will be busy in October and November. Will that interfere with this opportunity?</li>
-  <li class="custli">The Government of Canada uses standardized codes to describe goods and services. What specific code(s) should Frances use to find opportunities related to the web development services she provides?</li>
-  <li class="custli">The Government of Canada maintains a number of databases of pre-qualified suppliers of goods and services. Richard's company provides architectural consulting services. What is the name of the government's database of suppliers for this type of service?</li>
+  <li class="custli">This year's flu season could be worse than usual. Find the government’s advice on the most important way to avoid getting the flu.</li>
+  <li class="custli">Your friend put up a post urging her friends not to vaccinate their kids because of the risk of autism. Find some answers that would make you feel ready to discuss it with her.</li>
+  <li class="custli">You got a few mosquito bites on your honeymoon down south but you feel fine. Before getting pregnant, you want to make sure you don’t have Zika. Is there a test that can tell if you're infected?</li>
+  <li class="custli">You plan to start a family soon, but want a sunny vacation first. Which of the countries below should you avoid because of the risk of Zika?</li>
+  <li class="custli">Your baby was born on the first of this month. At what age is the first set of vaccinations recommended?</li>
+  <li class="custli">It is flu season and a family member is pregnant. Find out whether or not she should get a flu shot while pregnant.</li>
+  <li class="custli">You don't want to miss work tomorrow but should stay away if you have the flu. Yesterday, all of the symptoms below hit: find out which ones are the signal that it's the flu.</li>
+  <li class="custli">You think you heard something on the news about people being sick in Italy. Is there a particular concern you should be aware of before you go with your baby?</li>
+  <li class="custli">You are planning a trip to Mexico. Which specific vaccinations are recommended before you go?</li>
+  <li class="custli">The weekly flu report says most cases are an H3N2 flu. Find out if that particular flu is in this year's vaccine in Canada to help persuade your partner to get a flu shot.</li>
 </ul>
 <h2>Research summary</h2>
-<p><a href="https://blog.canada.ca/research-summaries/electronic-procurement-research-summary.html">Electronic Procurement Solution</a></p>
+<p><a href="https://blog.canada.ca/research-summaries/diseases-research-summary.html">GST/HST and payroll</a></p>
