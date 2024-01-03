@@ -3,10 +3,8 @@ altLangPage: "https://conception.canada.ca/"
 date: 2024-01-02
 dateModified: 2024-01-02
 description: "Make it easier for Canadian parents to understand and apply for maternity and parental benefits."
-layout: without-h1
 title: "EI maternity and parental benefits"
 ---
-<h1 property="name headline" id="wb-cont" dir="ltr">EI maternity and parental benefits</h1>
 <p>Make it easier for Canadian parents to understand and apply for maternity and parental benefits.</p>
 <h2>Partner departments</h2>
 <ul>
