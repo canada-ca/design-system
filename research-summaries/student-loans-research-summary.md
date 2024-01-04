@@ -63,7 +63,7 @@ title: "Student loans and grants optimization"
 <img class="img-responsive hidden-sm hidden-xs" alt="See table that follows for data." src="../images/student-loans/student-loans-task-success-chart.png"/>
 <div class="row col-md-9">
   <details>
-    <summary> Task completion success rates – table </summary>
+    <summary>Task completion success rates – table</summary>
     <div class="table-bravo">
       <table class="table table-bordered">
         <thead>
