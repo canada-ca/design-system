@@ -93,13 +93,13 @@ title: "Student loans and grants optimization"
             <td>Update banking information</td>
             <td>15%</td>
             <td>82%</td>
-          
           <tr>
             <td>Paying back student loan</td>
             <td>57%</td>
             <td>100%</td>
           </tr>
             </tr>
+          
           <tr>
             <td>Repayment assistance</td>
             <td>86%</td>
