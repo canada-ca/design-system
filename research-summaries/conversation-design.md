@@ -61,13 +61,13 @@ Conversational agents work like this:
 - the agent replies to the user with a pre-designed response for that situation - *“Do you want to call about your personal tax account, or a business tax account?”*
 - the cycle starts again, if the conversation is not over
 
-{% include components/gc-complex-img.html
-   alt="A long description can be found after the image."
-   file="chat-cycle-en.jpg"
-   caption=""
-   summary="Chat cycle diagram"
-   content="<p>A visual example of how a conversation agent works. The user says something. Natural language processing tries to match it to an intent, in context. Then, the agent replies something. If the conversation is not over, the cycle repeats.</p>"
-%}
+<figure class="gc-complex-img" role="group">
+	<img alt="A long description can be found after the image." src="/images/chat-cycle-en.jpg" />
+	<figcaption><details>
+			<summary>Chat cycle diagram</summary>
+			<p>A visual example of how a conversation agent works. The user says something. Natural language processing tries to match it to an intent, in context. Then, the agent replies something. If the conversation is not over, the cycle repeats.</p>
+		</details></figcaption>
+</figure>
 
 The “magic” in conversational agents is Natural Language Processing - a form of Artificial Intelligence. The agent uses Natural Language Processing to parse both the syntax and semantics of the conversation based on deep learning from a huge dataset of conversational language. So if a user says “I’d like”, the agent can understand that to match an intent that says “I would like ..” and an intent that says “I want.”
 
@@ -97,29 +97,30 @@ To test whether a conversational agent could help improve task success, we built
 - **a chatbot** where users opened it on the web page and interacted by typing
 - **a voice assistant** where users interacted with their voice through a Google Home or Google Assistant on a phone
 
-{% include components/gc-complex-img.html
-   alt="A long description can be found after the image."
-   file="conversation-1.png"
-   caption=""
-   summary="Wizard"
-   content="<p>The &quot;Find the right CRA contact or telephone number&quot; wizard displays questions about your call to help guide you to the answer you need.</p>"
-%}
+<figure class="gc-complex-img" role="group">
+	<img alt="A long description can be found after the image." src="/images/conversation-1.png" />
+	<figcaption><details>
+			<summary>Wizard</summary>
+			<p>The &quot;Find the right CRA contact or telephone number&quot; wizard displays questions about your call to help guide you to the answer you need.</p>
+		</details></figcaption>
+</figure>
 
-{% include components/gc-complex-img.html
-   alt="A long description can be found after the image."
-   file="conversation-2.png"
-   caption=""
-   summary="Chatbot"
-   content="<p>The CRA chatbot that appears at the bottom of your screen. It displays the text &quot;Hi, let's try to find the right CRA phone number for you. What do you want want to call about?&quot; People then type in their answer to get a response.</p>"
-%}
 
-{% include components/gc-complex-img.html
-   alt="A long description can be found after the image."
-   file="conversation-3.png"
-   caption=""
-   summary="Google assistant voice agent"
-   content="<p>The CRA phone number finder Google voice assistant. It displays the text &quot;Welcome to the CRA phone number finder. What do you want to call about?&quot; The response is &quot;a proof of income statement.&quot;</p>"
-%}
+<figure class="gc-complex-img" role="group">
+	<img alt="A long description can be found after the image." src="/images/conversation-2.png" />
+	<figcaption><details>
+			<summary>Chatbot</summary>
+			<p>The CRA chatbot that appears at the bottom of your screen. It displays the text &quot;Hi, let's try to find the right CRA phone number for you. What do you want want to call about?&quot; People then type in their answer to get a response.</p>
+		</details></figcaption>
+</figure>
+
+<figure class="gc-complex-img" role="group">
+	<img alt="A long description can be found after the image." src="/images/conversation-3.png" />
+	<figcaption><details>
+			<summary>Google assistant voice agent</summary>
+			<p>The CRA phone number finder Google voice assistant. It displays the text &quot;Welcome to the CRA phone number finder. What do you want to call about?&quot; The response is &quot;a proof of income statement.&quot;</p>
+		</details></figcaption>
+</figure>
 
 ### How we tested the design
 
@@ -129,13 +130,13 @@ In **Part 1**, participants could use any section of the prototyped web pages to
 
 In **Part 2**, we made minor changes to some task scenarios, and asked participants to try to find the right answer using **only the conversational agents**. They tried to complete some tasks using only their voice (with the moderator speaking the part of the voice assistant based on the answers in the chatbot), and others using the chatbot on the prototype.
 
-{% include components/gc-complex-img.html
-   alt="A long description can be found after the image."
-   file="conversation-4.png"
-   caption=""
-   summary="Conversational agent"
-   content="<p>To test the voice interaction, the participant spoke to the facilitator as if speaking to a Google Home device. The  facilitator typed into the chatbot and spoke for the voice agent. The behaviour and wording of the chatbot was the same as it would be on a Google Home.</p>"
-%}
+<figure class="gc-complex-img" role="group">
+	<img alt="A long description can be found after the image." src="/images/conversation-4.png" />
+	<figcaption><details>
+			<summary>Conversational agent</summary>
+			<p>To test the voice interaction, the participant spoke to the facilitator as if speaking to a Google Home device. The  facilitator typed into the chatbot and spoke for the voice agent. The behaviour and wording of the chatbot was the same as it would be on a Google Home.</p>
+		</details></figcaption>
+</figure>
 
 ## Results
 
@@ -173,7 +174,6 @@ Most participants simply ignored the message (both with the voice or chatbot). T
 
 This led to some issues. For example, when the user asked “Can I get a number for…”, the agent matched it to the only “intent” that had the word “number” in the training phrases.
 
-{::nomarkdown}
 <figure>
   <video controls class="img-responsive">
     <source src="../media/Clip2-EN.mp4" type="video/mp4">
@@ -200,7 +200,7 @@ This led to some issues. For example, when the user asked “Can I get a number 
     <p>“The training phrases were chosen assuming users would listen to the welcome message and understand that they didn't need to say "give me the number for...".</p>
   </details>
 </figure>
-{:/}
+
 
 Training phrases and fallback options have to anticipate how users may not fully grasp what the agent can actually do.
 
