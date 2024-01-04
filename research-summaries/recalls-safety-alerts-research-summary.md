@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/resumes-recherche/rappels-securite-resume-recherche.html"
 date: 2020-08-07
-date-modified: 2020-08-07
+dateModified: 2020-08-07
 description: "Help Health Canada prepare for implementing search functionality in a new Drupal-based RSAMS publishing infrastructure, to be launched in the 2020 to 2021 fiscal year."
 language: en
 title: "Recalls and safety alerts search optimization, Round 2"
