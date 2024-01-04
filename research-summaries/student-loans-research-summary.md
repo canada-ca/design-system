@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/resumes-recherche/prets-etudiants-resume-recherche.html"
 date: 2019-08-22
-date-modified: 2019-08-22
+dateModified: 2019-08-22
 description: "In the fall of 2018, we began a collaborative project to improve the success of students using those pages."
 language: en
 title: "Student loans and grants optimization"
