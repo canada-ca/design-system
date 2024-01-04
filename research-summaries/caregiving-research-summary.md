@@ -35,7 +35,7 @@ title: "Employment Insurance caregiving benefits"
 <p>In baseline testing participants found differentiating between caring for a child or an adult relatively straightforward. However, they had trouble when they tried to identify whether they needed “compassionate care” or “family caregiver” benefits. </p>
 <p>Another innovation in the optimized prototype was to give an overview of the different steps in the application process. The process includes gathering documentation from employers and from medical professionals. Then applicants must submit these documents to Service Canada. On the live site, this information appeared under “After you’ve applied”. Some participants failed to identify the required documents because they didn’t think to look there. </p>
 <p>In the prototype, we put the list of documents at the beginning of the process. Participants were more successful finding what documents they would need to provide. </p>
-<figure> <img class="img-responsive" alt="Before and after images of “apply” guidance for EI caregiving benefits." src="../images/caregiving-prochesaidants/caregiving-before-after.jpg"/>
+<figure> <img class="img-responsive" alt="Before and after images of “apply” guidance for EI caregiving benefits." src="/research-summaries/images/caregiving-before-after.jpg"/>
   <figcaption><small>Before and after images of “apply” guidance for <abbr title="Employment Insurance">EI</abbr> caregiving benefits </small></figcaption>
 </figure>
 <div class="col-md-8 row">
@@ -54,7 +54,7 @@ title: "Employment Insurance caregiving benefits"
   </ul>
   <p>This chart shows the task success rates across the baseline and redesigned validation test on the prototype:</p>
 </div>
-<img class="img-responsive hidden-sm hidden-xs" alt="EI caregiving benefits optimization - task completion success rates (table)" src="../images/caregiving-prochesaidants/caregiving-task-success-chart.jpg"/>
+<img class="img-responsive hidden-sm hidden-xs" alt="EI caregiving benefits optimization - task completion success rates (table)" src="/research-summaries/images/caregiving-task-success-chart.jpg"/>
 <div class="row col-md-8">
   <details>
     <summary> Task completion success rates – table </summary>
