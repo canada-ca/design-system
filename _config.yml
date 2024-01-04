@@ -540,6 +540,18 @@
     },
     {
       "scope": {
+        "path": "research-summaries/index.md"
+      },
+      "values": {
+        "section-title": null,
+        "breadcrumbs": [{
+          "title": "About Canada.ca",
+          "link": "https://design.canada.ca/about/"
+        }]
+      }
+    },
+    {
+      "scope": {
         "path": "pattern-library.md"
       },
       "values": {
