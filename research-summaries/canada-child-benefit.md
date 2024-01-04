@@ -2,7 +2,7 @@
 altLangPage: "https://conception.canada.ca/resumes-recherche/allocation-canadienne-enfants.html"
 date: 2023-08-15
 date-modified: 2023-08-15
-description: "the Digital Transformation Office (DTO) partnered with the Canada Revenue Agency (CRA) to redesign the Canada Child Benefit pages on Canada.ca."
+description: "The Digital Transformation Office (DTO) partnered with the Canada Revenue Agency (CRA) to redesign the Canada Child Benefit pages on Canada.ca."
 language: en
 title: "Canada Child Benefit"
 ---
@@ -79,7 +79,7 @@ title: "Canada Child Benefit"
 <p>The team replaced the multi-page navigation pattern with the new subway navigation pattern. The subway pattern differentiates sections in a tighter space and conveys the connections.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
-    <figure class="gc-complex-img" role="group"> <img alt="Screenshot of Canada Child Benefit previous multi-page navigation" src="../images/ccb_overview_en.png" class="img-responsive" />
+    <figure class="gc-complex-img" role="group"> <img alt="Screenshot of Canada Child Benefit previous multi-page navigation" src="/research-summaries/images/ccb_overview_en.png" class="img-responsive" />
       <figcaption>
         <details close="">
           <summary>Image description: Canada Child Benefit previous multi-page navigation</summary>
@@ -103,7 +103,7 @@ title: "Canada Child Benefit"
 <p>In the original Service initiation template with the multi-page navigation pattern, people had problems navigating between pages, often selecting the button for the page they were already on.  The Subway pattern makes the steps clearer without repeating the title. It also positions the "On this page" pattern after the subway links. On desktop, the subway links appear on the right of the screen.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
-    <figure class="gc-complex-img" role="group"> <img alt="Screenshot of Canada Child Benefit previous multi-page navigation and new subway navigation" src="../images/ccb_subway_en.png" class="img-responsive" />
+    <figure class="gc-complex-img" role="group"> <img alt="Screenshot of Canada Child Benefit previous multi-page navigation and new subway navigation" src="/research-summaries/images/ccb_subway_en.png" class="img-responsive" />
       <figcaption>
         <details close="">
           <summary>Image description: Canada Child Benefit old and new navigation templates</summary>
@@ -117,7 +117,7 @@ title: "Canada Child Benefit"
 <p>In the Service initiation template with the multi-page navigation, page titles appear as buttons with no space for description. Word wrapping throws off the alignment, so content designers often limit the number of words to control the size of the buttons.  In the baseline study, this made it harder for people to choose between the buttons because the labels weren’t clear enough.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
-    <figure class="gc-complex-img" role="group"> <img alt="Screenshot of Canada Child Benefit navigation menu" src="../images/ccb_nav_menu_en.png" class="img-responsive" />
+    <figure class="gc-complex-img" role="group"> <img alt="Screenshot of Canada Child Benefit navigation menu" src="/research-summaries/images/ccb_nav_menu_en.png" class="img-responsive" />
       <figcaption>
         <details close="">
           <summary>Image description: Canada Child Benefit navigation menu</summary>
@@ -130,7 +130,7 @@ title: "Canada Child Benefit"
 <p>In the subway pattern, the link text can be longer. The index page has space for a description below each link.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
-    <figure class="gc-complex-img" role="group"> <img alt="Screenshot of Canada Child Benefit subway pattern" src="../images/subway_en.png" class="img-responsive" />
+    <figure class="gc-complex-img" role="group"> <img alt="Screenshot of Canada Child Benefit subway pattern" src="/research-summaries/images/subway_en.png" class="img-responsive" />
       <figcaption>
         <details close="">
           <summary>Image description: Canada Child Benefit subway pattern</summary>
@@ -155,7 +155,7 @@ title: "Canada Child Benefit"
 <p>We redesigned page titles and headings to answer top user questions. For instance, baseline participants looked under “Apply” to know “who can apply” as well as “how to keep being eligible”. The subway design had separate page titles for each of the answers.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
-    <figure class="gc-complex-img" role="group"> <img alt="Screenshot of previous and new design for Canada Child Benefit with adjusted page titles" src="../images/ccb_eligibility_en.png" class="img-responsive" />
+    <figure class="gc-complex-img" role="group"> <img alt="Screenshot of previous and new design for Canada Child Benefit with adjusted page titles" src="/research-summaries/images/ccb_eligibility_en.png" class="img-responsive" />
       <figcaption>
         <details close="">
           <summary>Image description: previous and new design for Canada Child Benefit with adjusted page titles</summary>
@@ -172,7 +172,7 @@ title: "Canada Child Benefit"
 <p>On the live site, a long disclaimer blocked access to an important benefit calculator tool, with an ‘I accept’ button below to launch it. Participants failed to scroll past the disclaimer to the button, and some who did find the button hesitated to choose “accept”.  The team moved the disclaimers to the answer phase in the tool, where they were relevant, and removed the ‘I accept’ step.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
-    <figure class="gc-complex-img" role="group"> <img alt="Screenshot of Canada Child Benefit before and after disclaimer removal" src="../images/calculator_en.png" class="img-responsive" />
+    <figure class="gc-complex-img" role="group"> <img alt="Screenshot of Canada Child Benefit before and after disclaimer removal" src="/research-summaries/images/calculator_en.png" class="img-responsive" />
       <figcaption>
         <details close="">
           <summary>Image description: Canada Child Benefit disclaimer removal</summary>
