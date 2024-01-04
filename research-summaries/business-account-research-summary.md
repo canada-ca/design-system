@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/resumes-recherche/comptes-entreprises-resume-recherche.html"
 date: 2019-02-04
-date-modified: 2019-02-04
+dateModified: 2019-02-04
 description: "Reviewed the most common reasons why self-employed Canadians and small Canadian businesses call the Canada Revenue Agency."
 language: en
 title: "CRA business registration and account maintenance"
