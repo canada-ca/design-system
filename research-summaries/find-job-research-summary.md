@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/resumes-recherche/trouver-emploi-resume-recherche.html"
 date: 2019-05-23
-date-modified: 
+dateModified: 2019-05-23
 description: "The Find a job optimization project was completed over the summer of 2018. The goal was to make it easier for Canadians to find government jobs on Canada.ca."
 language: en
 title: "Find a job"
