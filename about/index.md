@@ -39,6 +39,12 @@ title: "About Canada.ca"
           <p>Projects the Digital Transformation Office is working on with departmental partners to make Canada.ca work better for people.</p>
         </section>
       </div>
+      <div class="col-md-6">
+        <section>
+          <h3 class="h5"><a href="{{ site.url }}/research-summaries/">Researh Summaries</a></h3>
+          <p>Research summaries, departmental partners</p>
+        </section>
+      </div>
       <div class="clearfix"></div>
       <div class="col-md-6">
         <section>
