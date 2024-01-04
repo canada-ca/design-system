@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/resumes-recherche/meteo-resume-recherche.html"
 date: 2018-07-23
-date-modified: 2018-07-23
+dateModified: 2018-07-23
 description: "Make it easier for Canadians to understand notifications about dangerous weather conditions."
 language: en
 title: "Weather optimization"
