@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/resumes-recherche/allocation-canadienne-enfants"
+altLangPage: "https://conception.canada.ca/resumes-recherche/allocation-canadienne-enfants.html"
 date: 2023-08-15
 date-modified: 2023-08-15
 description: "the Digital Transformation Office (DTO) partnered with the Canada Revenue Agency (CRA) to redesign the Canada Child Benefit pages on Canada.ca."
