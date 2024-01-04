@@ -8,7 +8,7 @@ title: "Research Summaries"
 ---
 <p>The Digital Transformation Office (DTO) is working on projects with federal departments to make it easier for people to find and understand Government of Canada information and services on Canada.ca.</p>
 <h2>List of research summaries</h2>
-<ul>
+<ul class="mrgn-tp-lg">
   <li><a href="/research-summaries/diseases-research-summary.html">Diseases and immunization</a></li>
   <li><a href="/research-summaries/weather-research-summary.html">Weather optimization</a></li>
   <li><a href="/research-summaries/taxfiling-research-summary.html">Tax filing</a></li>
