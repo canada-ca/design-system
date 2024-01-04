@@ -40,7 +40,7 @@ title: "Student loans and grants optimization"
     <tbody>
       <tr>
         <td>Student grants and student loans</td>
-        <td  > Student grants and loans </td>
+        <td> Student grants and loans </td>
       </tr>
       <tr>
         <td> Student financial assistance </td>
@@ -48,11 +48,11 @@ title: "Student loans and grants optimization"
       </tr>
       <tr>
         <td> Grace period for six months </td>
-        <td  > 6 month non-repayment period </td>
+        <td> 6 month non-repayment period </td>
       </tr>
       <tr>
         <td> One-time payment </td>
-        <td  > Lump-sum payment </td>
+        <td> Lump-sum payment </td>
       </tr>
     </tbody>
   </table>
@@ -76,7 +76,7 @@ title: "Student loans and grants optimization"
         <tbody>
           <tr>
             <td>Canada Apprentice Loan</td>
-            <td  >80%</td>
+            <td>80%</td>
             <td>88%</td>
           </tr>
           <tr>
@@ -86,23 +86,23 @@ title: "Student loans and grants optimization"
           </tr>
           <tr>
             <td>Loan-grant</td>
-            <td  >61%</td>
+            <td>61%</td>
             <td>88%</td>
           </tr>
           <tr>
             <td>Update banking information</td>
-            <td  >15%</td>
+            <td>15%</td>
             <td>82%</td>
           
           <tr>
             <td>Paying back student loan</td>
-            <td  >57%</td>
+            <td>57%</td>
             <td>100%</td>
           </tr>
             </tr>
           <tr>
             <td>Repayment assistance</td>
-            <td  >86%</td>
+            <td>86%</td>
             <td>100%</td>
           </tr>
         </tbody>
