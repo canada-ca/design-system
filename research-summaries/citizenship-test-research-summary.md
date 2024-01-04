@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://blogue.canada.ca/resumes-recherche/examen-citoyennete-resume-recherche.html"
 date: 2022-12-21
-date-modified: 2022-12-21
+dateModified: 2022-12-21
 description: "The Wayfinding project looked at how people navigate Canada.ca. The findings have led to several design changes to improve navigation throughout Government of Canada websites."
 language: en
 title: "Citizenship test optimization project"
