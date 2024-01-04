@@ -62,7 +62,7 @@ Conversational agents work like this:
 - the cycle starts again, if the conversation is not over
 
 <figure class="gc-complex-img" role="group">
-	<img alt="A long description can be found after the image." src="/images/chat-cycle-en.jpg" />
+	<img alt="A long description can be found after the image." src="/research-summaries/images/chat-cycle-en.jpg" />
 	<figcaption><details>
 			<summary>Chat cycle diagram</summary>
 			<p>A visual example of how a conversation agent works. The user says something. Natural language processing tries to match it to an intent, in context. Then, the agent replies something. If the conversation is not over, the cycle repeats.</p>
@@ -98,7 +98,7 @@ To test whether a conversational agent could help improve task success, we built
 - **a voice assistant** where users interacted with their voice through a Google Home or Google Assistant on a phone
 
 <figure class="gc-complex-img" role="group">
-	<img alt="A long description can be found after the image." src="/images/conversation-1.png" />
+	<img alt="A long description can be found after the image." src="/research-summaries/images/conversation-1.png" />
 	<figcaption><details>
 			<summary>Wizard</summary>
 			<p>The &quot;Find the right CRA contact or telephone number&quot; wizard displays questions about your call to help guide you to the answer you need.</p>
@@ -107,7 +107,7 @@ To test whether a conversational agent could help improve task success, we built
 
 
 <figure class="gc-complex-img" role="group">
-	<img alt="A long description can be found after the image." src="/images/conversation-2.png" />
+	<img alt="A long description can be found after the image." src="/research-summaries/images/conversation-2.png" />
 	<figcaption><details>
 			<summary>Chatbot</summary>
 			<p>The CRA chatbot that appears at the bottom of your screen. It displays the text &quot;Hi, let's try to find the right CRA phone number for you. What do you want want to call about?&quot; People then type in their answer to get a response.</p>
@@ -115,7 +115,7 @@ To test whether a conversational agent could help improve task success, we built
 </figure>
 
 <figure class="gc-complex-img" role="group">
-	<img alt="A long description can be found after the image." src="/images/conversation-3.png" />
+	<img alt="A long description can be found after the image." src="/research-summaries/images/conversation-3.png" />
 	<figcaption><details>
 			<summary>Google assistant voice agent</summary>
 			<p>The CRA phone number finder Google voice assistant. It displays the text &quot;Welcome to the CRA phone number finder. What do you want to call about?&quot; The response is &quot;a proof of income statement.&quot;</p>
@@ -131,7 +131,7 @@ In **Part 1**, participants could use any section of the prototyped web pages to
 In **Part 2**, we made minor changes to some task scenarios, and asked participants to try to find the right answer using **only the conversational agents**. They tried to complete some tasks using only their voice (with the moderator speaking the part of the voice assistant based on the answers in the chatbot), and others using the chatbot on the prototype.
 
 <figure class="gc-complex-img" role="group">
-	<img alt="A long description can be found after the image." src="/images/conversation-4.png" />
+	<img alt="A long description can be found after the image." src="/research-summaries/images/conversation-4.png" />
 	<figcaption><details>
 			<summary>Conversational agent</summary>
 			<p>To test the voice interaction, the participant spoke to the facilitator as if speaking to a Google Home device. The  facilitator typed into the chatbot and spoke for the voice agent. The behaviour and wording of the chatbot was the same as it would be on a Google Home.</p>
@@ -176,7 +176,7 @@ This led to some issues. For example, when the user asked “Can I get a number 
 
 <figure>
   <video controls class="img-responsive">
-    <source src="../media/Clip2-EN.mp4" type="video/mp4">
+    <source src="/research-summaries/media/Clip2-EN.mp4" type="video/mp4">
   </video>
   <details>
     <summary>Looking for a number</summary>
@@ -224,7 +224,7 @@ For example, for the “Report a scam” task, we initially didn’t include the
 {::nomarkdown}
 <figure>
   <video controls class="img-responsive">
-    <source src="../media/Clip1-EN.mp4" type="video/mp4">
+    <source src="/research-summaries/media/Clip1-EN.mp4" type="video/mp4">
   </video>
   <details>
     <summary>Using a word that isn’t in the training phrases</summary>
@@ -286,7 +286,7 @@ People don’t like to repeat themselves.
 {::nomarkdown}
 <figure>
   <video controls class="img-responsive">
-    <source src="../media/Clip3-EN.mp4" type="video/mp4">
+    <source src="/research-summaries/media/Clip3-EN.mp4" type="video/mp4">
   </video>
   <details>
     <summary>A participant who has to repeat something</summary>
@@ -370,7 +370,7 @@ Several factors were at play:
 {::nomarkdown}
 <figure>
   <video controls class="img-responsive">
-    <source src="../media/Clip4-EN.mp4" type="video/mp4">
+    <source src="/research-summaries/media/Clip4-EN.mp4" type="video/mp4">
   </video>
   <details>
     <summary>Using the agent to find proof of income</summary>
@@ -434,7 +434,7 @@ Tasks that did not perform well with conversational agents had these characteris
 {::nomarkdown}
 <figure>
   <video controls class="img-responsive">
-    <source src="../media/Clip5-EN.mp4" type="video/mp4">
+    <source src="/research-summaries/media/Clip5-EN.mp4" type="video/mp4">
   </video>
   <details>
     <summary>Using the agent to make a payment arrangement</summary>
