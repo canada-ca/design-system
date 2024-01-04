@@ -45,16 +45,16 @@ title: "Employment Insurance caregiving benefits"
     <p>The page on the right is labelled "Redesign” and shows the “Apply" page with a set of icons outlining the various application steps.  An arrow points to the steps with the annotation "Visual overview of the complete process." </p>
     <p>Below there is a header titled "Begin to gather supporting documents", which has a list of the needed documents. An arrow points to the list with the annotation "All required supporting documents visible."</p>
   </details>
-  <h2>Measuring success rates on the redesigned prototype</h2>
-  <p>Once the revised prototype was ready, we recruited 17 new participants to complete the same 8 tasks. Our target was either 80% success, or an improvement of at least 20 points over the baseline score for both findability and task success.</p>
-  <p>These targets were exceeded:</p>
-  <ul>
-    <li>findability rates rose from 59% to 84%</li>
-    <li>overall task success rose from 51% to 79%</li>
-  </ul>
-  <p>This chart shows the task success rates across the baseline and redesigned validation test on the prototype:</p>
 </div>
-<img class="img-responsive hidden-sm hidden-xs" alt="EI caregiving benefits optimization - task completion success rates (table)" src="/research-summaries/images/caregiving-task-success-chart.jpg"/>
+<h2>Measuring success rates on the redesigned prototype</h2>
+<p>Once the revised prototype was ready, we recruited 17 new participants to complete the same 8 tasks. Our target was either 80% success, or an improvement of at least 20 points over the baseline score for both findability and task success.</p>
+<p>These targets were exceeded:</p>
+<ul>
+  <li>findability rates rose from 59% to 84%</li>
+  <li>overall task success rose from 51% to 79%</li>
+</ul>
+<p>This chart shows the task success rates across the baseline and redesigned validation test on the prototype:</p>
+<figure><img class="img-responsive hidden-sm hidden-xs" alt="EI caregiving benefits optimization - task completion success rates (table)" src="/research-summaries/images/caregiving-task-success-chart.jpg"/></figure>
 <div class="row col-md-8">
   <details>
     <summary> Task completion success rates – table </summary>
