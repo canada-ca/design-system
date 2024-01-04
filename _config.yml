@@ -543,7 +543,7 @@
         "path": "research-summaries/index.md"
       },
       "values": {
-        "section-title": null,
+        "section-title": false,
         "breadcrumbs": [{
           "title": "About Canada.ca",
           "link": "https://design.canada.ca/about/"
