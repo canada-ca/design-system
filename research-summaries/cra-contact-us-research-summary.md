@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://blogue.canada.ca/resumes-recherche/arc-contactez-nous-resume-recherche.html"
+altLangPage: "https://conception.canada.ca/arc-contactez-nous-resume-recherche.html"
 date: 2019-11-01
 date-modified: 2019-11-01
 description: "Using call centre evidence and web analytics data, the Treasury Board Secretariat (TBS) Digital Transformation Office (DTO) partnered with Canada Revenue Agency to work towards improving outcomes."
