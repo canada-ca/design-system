@@ -110,7 +110,6 @@ title: "Student loans and grants optimization"
     </div>
   </details>
 </div>
-<div class="clearfix"></div>
 <h2>What we learned</h2>
 <p>To better serve Canadians, teams have to remove their program information and focus on providing answers and service. For student loans, that meant guiding users to the provinces and the <abbr title="National Student Loans Service Centre">NSLSC</abbr>. The Canada.ca pages are only there to fill the answer-gaps between those service points. </p>
 <h2>Request the research</h2>
