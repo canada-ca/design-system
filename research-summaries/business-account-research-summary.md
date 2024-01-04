@@ -17,7 +17,7 @@ title: "CRA business registration and account maintenance"
 <p>Our interaction designers created the prototype in GitHub. We replicated the parts of the <abbr title="Canada Revenue Agency">CRA</abbr> website that we had tested. Through an intensive series of workshops, small-team discussions and individual team members analyzing video evidence from baseline testing, we made many updates and improvements to the prototype over a period of four weeks. At that point, the prototype was approved as ready for testing. If test results were positive, <abbr title="Canada Revenue Agency">CRA</abbr> would continue with the process to get it posted on Canada.ca.</p>
 <h2>Validation testing results</h2>
 <p>Success! Our target was to improve both findability and task success by a minimum of 20 percentage points, or to exceed 80% for both measures. In the validation round, 20 participants found the correct destination 84% of the time. That was an improvement of 40 percentage points, meeting both targets. Successful task completion increased by 38 percentage points, to a total of 72%</p>
-<img class="img-responsive hidden-sm hidden-xs" alt="See table that follows for data." src="../images/business-account/business-account-task-success-chart.jpg"/>
+<img class="img-responsive hidden-sm hidden-xs" alt="See table that follows for data." src="/research-summaries/images/business-account/business-account-task-success-chart.jpg"/>
 <div class="row col-md-8">
   <details>
     <summary>Task completion success rates – table</summary>
@@ -86,7 +86,7 @@ title: "CRA business registration and account maintenance"
 <p>We “front-loaded” labels by putting keywords at the beginning of titles, links and doormats. We also streamlined text, so that the information most relevant to the majority of people was presented first.</p>
 <h3>Addition of a wizard</h3>
 <p>To find a correct address, we built a simple wizard. It uses a set of questions and a postal code look-up to provide the precise answer for where to mail your business tax documents.</p>
-<figure> <img class="img-responsive" alt="Before and after images of “Business number” pages for CRA business number registration." src="../images/business-account/before-after-BN.jpg" /> </figure>
+<figure> <img class="img-responsive" alt="Before and after images of “Business number” pages for CRA business number registration." src="/research-summaries/images/business-account/before-after-BN.jpg" /> </figure>
 <div class="col-md-8 row">
   <details>
     <summary>Detailed description</summary>
