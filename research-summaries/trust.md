@@ -1,8 +1,8 @@
 ---
-altLangPage: "https://conception.canada.ca/resumes-recherche/confiance"
-
+altLangPage: "https://conception.canada.ca/resumes-recherche/confiance.html"
 date: 2023-08-15
-description: "This trust study helps to better understand which Government of Canada design elements are more strongly associated with trust and confidence in the brand"
+date-modified: 2023-08-15
+description: "The Digital Transformation Office (DTO) conducted a Trust study to better understand which Government of Canada design elements are more strongly associated with trust and confidence in the brand."
 language: en
 title: "Trust study: Canada.ca design elements"
 ---
