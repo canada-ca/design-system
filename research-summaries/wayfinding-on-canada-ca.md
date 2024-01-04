@@ -1,7 +1,7 @@
 ---
-altLangPage: "https://conception.canada.ca/resumes-recherche/orientation-dans-canada-ca"
+altLangPage: "https://conception.canada.ca/resumes-recherche/orientation-dans-canada-ca.html"
 date: 2022-12-21
-date-modified: 
+date-modified: 2022-12-21
 description: "The Wayfinding project looked at how people navigate Canada.ca. The findings have led to several design changes to improve navigation throughout Government of Canada websites."
 language: en
 title: "Wayfinding on Canada.ca"
@@ -11,7 +11,7 @@ title: "Wayfinding on Canada.ca"
 <p>One of the core brand elements is the global header, which includes a theme and topic menu. This menu has several pain points. The Digital Transformation Office (DTO) conducted a set of studies to understand  the role and impact of the menu on in-site navigation.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
-    <figure class="gc-complex-img" role="group"> <img alt="A long description can be found after the image." src="../images/rs-wayfinding-gh-01-en.png" class="img-responsive" />
+    <figure role="group"> <img alt="A long description can be found after the image." src="../images/rs-wayfinding-gh-01-en.png" class="img-responsive" />
       <figcaption>
         <details>
           <summary>Global header including the theme and topic menu</summary>
