@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/resumes-recherche/rappels-resume-recherche.html"
 date: 2018-10-18
-date-modified: 2018-10-18
+dateModified: 2018-10-18
 description: "In this project the team was looking at food and product recalls and safety alerts on Canada.ca."
 language: en
 title: "Recalls and safety alerts"
