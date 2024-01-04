@@ -1,7 +1,7 @@
 ---
-altLangPage: "https://conception.canada.ca/resumes-recherche/design-conversationnel"
-
+altLangPage: "https://conception.canada.ca/resumes-recherche/design-conversationnel.html"
 date: 2021-06-30
+date-modified: 2021-06-30
 description: "We built a phone number look-up wizard as well as an experimental agent that worked as both a chatbot agent on a screen, and a voice agent, so we could compare the design processes and outcomes for each."
 language: en
 layout: default
@@ -181,7 +181,7 @@ This led to some issues. For example, when the user asked “Can I get a number 
   <details>
     <summary>Looking for a number</summary>
     <p>Screen shows this text:</p>
-    <p>“Participant 4. Trying to find different numbers.”<p>
+    <p>“Participant 4. Trying to find different numbers.”</p>
     <p>Screen shows this text:</p>
     <p>“Because he uses the word "number", the agent matches it to the "Business number registration" task.”</p>
     <p><b>Participant:</b></p>
@@ -335,7 +335,7 @@ Chatbots and voice agents are both conversational agents. The logic behind each 
 
 In our experiment, participants expected a richer experience from the chatbot. Instead of merely getting an answer, they wanted the chatbot to take advantage of the visual real estate and give more information. This could be, for example, links to where the answer is on the website.
 
-> “I would be more interested to get something like a top-notch answer (...) If I want to use a chatbot, I guess I would be more interested to see a layer, where you have also [*sic*] links that take you also [*sic*] to the website if you need to have more information...” - participant
+“I would be more interested to get something like a top-notch answer (...) If I want to use a chatbot, I guess I would be more interested to see a layer, where you have also [*sic*] links that take you also [*sic*] to the website if you need to have more information...” - participant
 
 On the other hand, people seemed to expect the voice agent to help them take the next step. They wanted it to do more than just give the phone number. They expected it to either offer to call the number for them, or send the info by email or text message.
 
@@ -347,7 +347,7 @@ During Part II we asked them if they had seen the button at all, and if yes, why
 
 Most participants said they didn’t use it because they didn’t think it would work well. When they tried it and saw that it did help them get an answer, most participants said they would use it again.
 
-> “Now that I have this positive experience, I probably would (use it) (...) I think sometimes it's getting people used to having that experience -- you don't have that there now, so what are you going to do to convert people to use that chatbot?” - participant
+“Now that I have this positive experience, I probably would (use it) (...) I think sometimes it's getting people used to having that experience -- you don't have that there now, so what are you going to do to convert people to use that chatbot?” - participant
 
 The context in which people can access the chabot and the design used has an impact on this reluctance to use it. When designing a page that has a chatbot on it, test different designs with users.
 
