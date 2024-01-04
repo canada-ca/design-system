@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://blogue.canada.ca//resumes-recherche/prochesaidants-resume-recherche.html"
+altLangPage: "https://conception.canada.ca/resumes-recherche/prochesaidants-resume-recherche.html"
 date: 2022-12-21
 date-modified: 2023-08-15
 description: "The Digital Transformation Office, Service Canada, and Employment and Social Development Canada collaborated to make it easier to find, understand and access those EI benefits."
