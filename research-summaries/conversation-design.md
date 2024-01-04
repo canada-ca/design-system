@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/resumes-recherche/design-conversationnel.html"
 date: 2021-06-30
-date-modified: 2021-06-30
+dateModified: 2021-06-30
 description: "We built a phone number look-up wizard as well as an experimental agent that worked as both a chatbot agent on a screen, and a voice agent, so we could compare the design processes and outcomes for each."
 language: en
 layout: default
