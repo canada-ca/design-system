@@ -63,7 +63,7 @@ title: "Tax filing"
   <p>Once the revised design was ready, 25 new participants were recruited to complete the same 10 tasks. We used the same methods as the baseline test to ensure the tests could be directly compared. Our target was either 80% success, or an improvement of at least 20% points over the baseline score. </p>
   <p>Findability rates for the revised content rose from 62% up to 90% (+28% points). Task success rates rose from 48% to 76% (+28% points).</p>
 </div>
-<div><img class="img-responsive hidden-sm hidden-xs" alt="Bar graph comparing the task success rates on the live site (baseline) and the redesigned prototype (validation) for all 6 tasks. Data for each task is in the table below. The graph shows that participants had higher success rates for every task in the validation testing." src="../images/taxes-impots/CRA-TF-task-success-chart.jpg"/></div>
+<div><img class="img-responsive hidden-sm hidden-xs" alt="Bar graph comparing the task success rates on the live site (baseline) and the redesigned prototype (validation) for all 6 tasks. Data for each task is in the table below. The graph shows that participants had higher success rates for every task in the validation testing." src="/research-summaries/images/CRA-TF-task-success-chart.jpg"/></div>
 <div class="row col-md-8">
   <details>
     <summary> Task completion success rates – table </summary>
