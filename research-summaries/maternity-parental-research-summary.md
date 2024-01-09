@@ -57,7 +57,7 @@ title: "Employment insurance maternity and parental benefits"
   <li>Participants succeeded at the task 78% of the time (an improvement of 50 percentage points) </li>
 </ul>
 <p>This chart shows the baseline measurement at the start of the project compared with the validation measurement on the prototype redesigned by project team</p>
-<img class="img-responsive hidden-sm hidden-xs" alt="See table that follows for data." src="../images/ei-mat-benefits/maternity-parental-task-success-chart.png"/>
+<div class="col-md-12"> <img class="img-responsive hidden-sm hidden-xs" alt="See table that follows for data." src="/research-summaries/images/maternity-parental-task-success-chart.png"/></div>
 <div class="row col-md-9">
   <details>
     <summary> Task completion success rates – table </summary>
@@ -90,13 +90,13 @@ title: "Employment insurance maternity and parental benefits"
             <td>Max leave</td>
             <td>5%</td>
             <td>79%</td>
-          
           <tr>
             <td>Variable best weeks</td>
             <td>32%</td>
             <td>53%</td>
           </tr>
             </tr>
+          
           <tr>
             <td>Change parental benefit</td>
             <td>24%</td>
@@ -128,10 +128,10 @@ title: "Employment insurance maternity and parental benefits"
 <h3>Used numbers with care</h3>
 <p>Both eligibility requirements and benefit entitlements are based on numbers of weeks. We took great care in presenting numbers to help people successfully differentiate between these.</p>
 <h3>Show the math</h3>
-<figure class="mrgn-tp-lg mrgn-bttm-lg"> <img class="img-responsive border" alt="Before page for the number of benefit weeks." src="../images/ei-mat-benefits/ei-benefits-before.jpg"/>
+<figure class="mrgn-tp-lg mrgn-bttm-lg"> <img class="img-responsive border" alt="Before page for the number of benefit weeks." src="/research-summaries/images/ei-benefits-before.jpg"/>
   <figcaption>People focused on the higher number thinking it was the total, and didn't even consider the benefits being used in combination.</figcaption>
 </figure>
-<figure class="mrgn-tp-lg mrgn-bttm-lg"> <img class="img-responsive border" alt="After page for the number of benefit weeks." src="../images/ei-mat-benefits/ei-benefits-after.jpg"/>
+<figure class="mrgn-tp-lg mrgn-bttm-lg"> <img class="img-responsive border" alt="After page for the number of benefit weeks." src="/research-summaries/images/ei-benefits-after.jpg"/>
   <figcaption>Showing a formula people can use and relate to helps them do the math. This also explains the 5 or 8 weeks "sharing bonus" in a simple way.</figcaption>
 </figure>
 <details class="col-md-8">
