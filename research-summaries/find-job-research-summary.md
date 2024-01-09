@@ -41,7 +41,7 @@ title: "Find a job"
 <h2>Measuring success rates on the redesigned prototype</h2>
 <p>The team tested the redesigned prototype with a new set of 18 Canadian student participants. They performed 123 trials of the same task scenarios. Our target was either 80% success or an improvement of at least 20 points over the baseline score. The revised content and design improved findability rates from 64% to 90%, and overall task completion success rose from 59% to 85%.</p>
 <p>This chart shows the task completion success rates across the baseline and redesigned validation test on the prototype for all 34 participants: </p>
-<img class="img-responsive hidden-sm hidden-xs" alt="See table that follows for data." src="../images/jobs/jobs-task-success-chart.png"/>
+<img class="img-responsive hidden-sm hidden-xs" alt="See table that follows for data." src="/research-summaries/images/jobs-task-success-chart.png"/>
 <div class="row col-md-9">
   <details>
     <summary> Task completion success rates – table </summary>
