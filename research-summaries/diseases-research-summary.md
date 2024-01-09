@@ -19,7 +19,7 @@ title: "Diseases and immunization"
   <li><strong>When</strong> I’m thinking about immunizing my child, <strong>I want to</strong> know if the vaccine is safe, <strong>so I can</strong> understand the risks</li>
   <li><strong>When</strong> I return from a tropical trip, <strong>I want to</strong> know if I can be tested for Zika, <strong>so I can</strong> decide if I should delay getting pregnant</li>
 </ul>
-<figure> <img class="img-responsive" alt="Hand-written sticky note on top of page with task for getting flu shot when pregnant. There are sticker dots on the note." src="../images/diseases-maladies-immun/task_JTBD.jpg" />
+<figure> <img class="img-responsive" alt="Hand-written sticky note on top of page with task for getting flu shot when pregnant. There are sticker dots on the note." src="/research-summaries/images/task_JTBD.jpg" />
   <figcaption><small>Job stories with team's voting dots</small></figcaption>
 </figure>
 <div class="col-md-8 row">
@@ -58,7 +58,7 @@ title: "Diseases and immunization"
 <h2 id="redesign-to-improve-task-success">Redesign to improve task success</h2>
 <p>To address the list of issues we captured, the team created a working prototype for a new design on Github. We held several workshops with smaller teams to work intensively on issues that participants experienced. For example, the Zika team realized that test participants hadn't absorbed the serious risks of pregnancy after exposure to Zika. The project team worked hard to integrate content to counter vaccine hesitancy. And new home page designs for Canada.ca were created. These expose the links to Health and Travel that people missed in the baseline tests. (Before, the links were hidden in a menu that remained closed unless the menu icon was clicked).</p>
 <p>Throughout the design process, we tested content with people through small, informal “guerilla” sessions. These tests revealed problems with our designs that we were able to address before full-scale moderated usability testing.</p>
-<img class="img-responsive" alt="Smartphones showing the Zika page before and after redesign. Detailed description follows." src="../images/diseases-maladies-immun/zika_phones.png" />
+<img class="img-responsive" alt="Smartphones showing the Zika page before and after redesign. Detailed description follows." src="/research-summaries/images/zika_phones.png" />
 <figure>
   <figcaption><small>Destinations with Zika page at baseline and after mobile redesign for validation</small></figcaption>
 </figure>
@@ -74,7 +74,7 @@ title: "Diseases and immunization"
 <h2 id="measuring-success-rates-on-the-redesigned-prototype">Measuring success rates on the redesigned prototype</h2>
 <p>Once the revised design was ready, 16 new participants were recruited to complete the same 11 tasks. Our target was either 80% success, or an improvement of at least 20 points over the baseline score. The revised content and design improved findability rates from 66% up to 90%. Overall task completion success rose from 53% to 84%.</p>
 <p>This chart shows the task completion success rates across the baseline and redesigned validation test on the prototype for all 32 participants:</p>
-<img class="img-responsive hidden-sm hidden-xs" alt="Diseases and immunization optimization - task completion success rates (table)" src="../images/diseases-maladies-immun/Baseline_vs_Validation_Success_results.JPG"/>
+<img class="img-responsive hidden-sm hidden-xs" alt="Diseases and immunization optimization - task completion success rates (table)" src="/research-summaries/images/Baseline_vs_Validation_Success_results.JPG"/>
 <div class="col-md-8 row">
   <details>
     <summary> Task completion success rates – table </summary>
