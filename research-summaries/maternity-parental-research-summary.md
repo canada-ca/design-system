@@ -57,8 +57,7 @@ title: "Employment insurance maternity and parental benefits"
   <li>Participants succeeded at the task 78% of the time (an improvement of 50 percentage points) </li>
 </ul>
 <p>This chart shows the baseline measurement at the start of the project compared with the validation measurement on the prototype redesigned by project team</p>
-<div class="col-md-12"> <img class="img-responsive hidden-sm hidden-xs" alt="See table that follows for data." src="/research-summaries/images/maternity-parental-task-success-chart.png"/></div>
-<div class="row col-md-9">
+<div class="col-md-12"><img class="img-responsive hidden-sm hidden-xs" alt="See table that follows for data." src="/research-summaries/images/maternity-parental-task-success-chart.png"/>
   <details>
     <summary> Task completion success rates – table </summary>
     <div class="table-bravo">
@@ -128,17 +127,19 @@ title: "Employment insurance maternity and parental benefits"
 <h3>Used numbers with care</h3>
 <p>Both eligibility requirements and benefit entitlements are based on numbers of weeks. We took great care in presenting numbers to help people successfully differentiate between these.</p>
 <h3>Show the math</h3>
-<figure class="mrgn-tp-lg mrgn-bttm-lg"> <img class="img-responsive border" alt="Before page for the number of benefit weeks." src="/research-summaries/images/ei-benefits-before.jpg"/>
-  <figcaption>People focused on the higher number thinking it was the total, and didn't even consider the benefits being used in combination.</figcaption>
-</figure>
-<figure class="mrgn-tp-lg mrgn-bttm-lg"> <img class="img-responsive border" alt="After page for the number of benefit weeks." src="/research-summaries/images/ei-benefits-after.jpg"/>
-  <figcaption>Showing a formula people can use and relate to helps them do the math. This also explains the 5 or 8 weeks "sharing bonus" in a simple way.</figcaption>
-</figure>
-<details class="col-md-8">
-  <summary> Detailed description </summary>
-  <p>The image first shows a section of the original page content with red highlighting around a statement about a maximum of 15 weeks of <abbr title="Employment Insurance">EI</abbr> maternity benefits. There is red highlighting around a second statement about a maximum of 61 weeks.</p>
-  <p>Below this is a second image from the prototype version of the same content. There is green highlighting around a simple math equation. The equation shows 15 weeks maternity plus 61 weeks of extended parental equals 76 weeks total for Janelle. </p>
-</details>
+<div class="col-md-8">
+  <figure class="mrgn-tp-lg mrgn-bttm-lg"> <img class="img-responsive border" alt="Before page for the number of benefit weeks." src="/research-summaries/images/ei-benefits-before.jpg"/>
+    <figcaption>People focused on the higher number thinking it was the total, and didn't even consider the benefits being used in combination.</figcaption>
+  </figure>
+  <figure class="mrgn-tp-lg mrgn-bttm-lg"> <img class="img-responsive border" alt="After page for the number of benefit weeks." src="/research-summaries/images/ei-benefits-after.jpg"/>
+    <figcaption>Showing a formula people can use and relate to helps them do the math. This also explains the 5 or 8 weeks "sharing bonus" in a simple way.</figcaption>
+  </figure>
+  <details>
+    <summary> Detailed description </summary>
+    <p>The image first shows a section of the original page content with red highlighting around a statement about a maximum of 15 weeks of <abbr title="Employment Insurance">EI</abbr> maternity benefits. There is red highlighting around a second statement about a maximum of 61 weeks.</p>
+    <p>Below this is a second image from the prototype version of the same content. There is green highlighting around a simple math equation. The equation shows 15 weeks maternity plus 61 weeks of extended parental equals 76 weeks total for Janelle. </p>
+  </details>
+</div>
 <div class="clearfix"></div>
 <h2>Request the research</h2>
 <p>If you’d like to see the detailed research findings from this project, email us at <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a>.</p>
