@@ -74,7 +74,7 @@ title: "Diseases and immunization"
 <h2 id="measuring-success-rates-on-the-redesigned-prototype">Measuring success rates on the redesigned prototype</h2>
 <p>Once the revised design was ready, 16 new participants were recruited to complete the same 11 tasks. Our target was either 80% success, or an improvement of at least 20 points over the baseline score. The revised content and design improved findability rates from 66% up to 90%. Overall task completion success rose from 53% to 84%.</p>
 <p>This chart shows the task completion success rates across the baseline and redesigned validation test on the prototype for all 32 participants:</p>
-<img class="img-responsive hidden-sm hidden-xs" alt="Diseases and immunization optimization - task completion success rates (table)" src="/research-summaries/images/Baseline_vs_Validation_Success_results.JPG"/>
+<img class="img-responsive hidden-sm hidden-xs" alt="Diseases and immunization optimization - task completion success rates (table)" src="/research-summaries/images/Baseline_vs_Validation_Success_results.jpg"/>
 <div class="col-md-8 row">
   <details>
     <summary> Task completion success rates – table </summary>
