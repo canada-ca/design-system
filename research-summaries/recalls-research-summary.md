@@ -18,7 +18,9 @@ title: "Recalls and safety alerts"
   <li><b>Deciding whether to buy it</b>: “<b>When I</b> am trying to buy product x, <b>I want to</b> know if there are recalls <b>so I can</b> decide whether to buy or not”</li>
   <li><b>Avoid buying it</b>: “<b>When I</b> am responsible for people or my health, <b>I want to</b> know ahead of time about risks <b>so I can</b> avoid getting sick - warn others”</li>
 </ul>
-<figure> <img class="img-responsive" alt="Photo of job stories being developed." src="../images/recalls-rappels/job-stories.jpg" longdes="Flip chart pages have titles for each job story. Project team members have put up coloured sticky notes beneath each title with ideas for possible stories, following the 'When I...I want to...so I can...' format"/> </figure>
+<div>
+  <figure> <img class="img-responsive" alt="Photo of job stories being developed." src="/research-summaries/images/job-stories.jpg" longdes="Flip chart pages have titles for each job story. Project team members have put up coloured sticky notes beneath each title with ideas for possible stories, following the 'When I...I want to...so I can...' format"/> </figure>
+</div>
 <div class="col-md-8 row">
   <h2>Establishing a baseline</h2>
   <p>The team conducted baseline usability testing to understand how the live site was performing. We wanted to see how Canadians currently navigate through the site and what issues they face when trying to complete basic tasks.</p>
@@ -54,7 +56,9 @@ title: "Recalls and safety alerts"
     <li>shortened, more scan-able text for mobile</li>
   </ul>
 </div>
-<figure> <img class="img-responsive" alt="Image of two phones showing the search page, labelled 'Before' and 'After'." src="../images/recalls-rappels/beforeafter-search.jpg"/> </figure>
+<div>
+  <figure><img class="img-responsive" alt="Image of two phones showing the search page, labelled 'Before' and 'After'." src="/research-summaries/images/beforeafter-search.jpg"/></figure>
+</div>
 <div class="col-md-8 row">
   <details>
     <summary> Detailed description </summary>
@@ -72,7 +76,7 @@ title: "Recalls and safety alerts"
   <li>the overall task success rate rose from 52% to 86%</li>
 </ul>
 <p>This chart shows the task completion success rates across the baseline and redesigned validation test on the prototype for all 34 participants:</p>
-<img class="img-responsive hidden-sm hidden-xs" alt="Bar graph comparing the task success rates on the live site (baseline) and the redesigned prototype (validation). Data for each task is in the table below." src="../images/recalls-rappels/recalls-task-success-chart.png"/>
+<div><img class="img-responsive hidden-sm hidden-xs" alt="Bar graph comparing the task success rates on the live site (baseline) and the redesigned prototype (validation). Data for each task is in the table below." src="/research-summaries/images/recalls-task-success-chart.png"/></div>
 <div class="row col-md-8">
   <details>
     <summary> Task completion success rates – table </summary>
