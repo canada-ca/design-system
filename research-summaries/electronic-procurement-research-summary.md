@@ -31,14 +31,14 @@ title: "Electronic Procurement Solution (EPS) portal"
 <h4> Streamlined search interface and tender display </h4>
 <p>The prototyped search experience used a single search box on its opening page. </p>
 <figure> <img class="img-responsive border" alt="A long description can be found after the image."
-src="/images/CanadaBuys.PNG" width="700"> </figure>
+src="/research-summaries/images/CanadaBuys.png" width="700"> </figure>
 <details>
   <summary>The CanadaBuys prototype</summary>
   <p>Heading text reads: CanadaBuys. There is a search field entitled "Search active Government of Canada opportunities". Below the search field is a link to "Changes to procurement - what current suplliers need to know".</p>
 </details>
 <p>It then presented a simplified set of facet options for narrowing results.</p>
 <figure> <img class="img-responsive border" alt="A long description can be found after the image."
-src="/images/Category.PNG" width="500"> </figure>
+src="/research-summaries//images/Category.png" width="500"> </figure>
 <details>
   <summary>An example of the facets </summary>
   <p>Facets listed in this order: Category and code, Location, Type of notice, Who can bid, Buyer.</p>
@@ -63,7 +63,7 @@ src="/images/Category.PNG" width="500"> </figure>
 <h4>Navigable hierarchy for product and service codes</h4>
 <p>The prototype used a simple keyword search to help businesses identify the UNSPSC or GSIN code for a specific product or service. Results showed the full hierarchy for context, and let users navigate through the tree.</p>
 <figure> <img class="img-responsive border" alt="A long description can be found after the image."
-src="/images/internet-hierarchy.PNG" width="700"> </figure>
+src="/research-summaries/images/internet-hierarchy.png" width="700"> </figure>
 <details>
   <summary>Internet or intranet client application development services</summary>
   <p>Heading text reads: Internet or intranet client application development services. Below the UNSPSC code for this type of service is listed in bold text: 81111509. </p>
@@ -80,14 +80,14 @@ src="/images/internet-hierarchy.PNG" width="700"> </figure>
 <h4>A wizard to help suppliers identify their best “method of supply”</h4>
 <p>Knowing whether there is a supply arrangement that will allow your company to pre-qualify for government opportunities is one of the more complex aspects of learning how procurement works. The prototyped wizard made this easy. It asked simple questions and presented the best options for your good or service.</p>
 <figure> <img class="img-responsive border" alt="A long description can be found after the image."
-src="/images/Find-the-way.PNG" width="700"> </figure>
+src="/research-summaries/images/Find-the-way.png" width="700"> </figure>
 <details>
   <summary>Identifying their best "method of supply" </summary>
   <p>The heading text for the wizard reads: Find the best way to compete for government contracts. It explains: We may have a preferred or mandatory method of supply for procuring specific types of goods or services. This is followed by a simple question: What do you sell or provide? The listed options are: Raw materials, Industrial equipment, components and supplies, end-use products, and services. Below is a button labelled Continue.</p>
 </details>
 <h2>Measuring success rates on the CanadaBuys prototype</h2>
 <p>This chart shows a comparison of task success rates between the baseline and validation tests for all 37 participants.</p>
-<img class="img-responsive hidden-sm hidden-xs" alt="Comparing task completion success rates in baseline and validation testing." src="../images/EPS-Graph.PNG"/>
+<img class="img-responsive hidden-sm hidden-xs" alt="Comparing task completion success rates in baseline and validation testing." src="/research-summaries/images/EPS-Graph.png"/>
 <div class="row col-md-9">
   <details>
     <summary> Task completion success rates – table </summary>
@@ -120,13 +120,13 @@ src="/images/Find-the-way.PNG" width="700"> </figure>
             <td>Tender search (proofreading)</td>
             <td>41%</td>
             <td>89%</td>
-          
           <tr>
             <td>Remote work</td>
             <td>0%</td>
             <td>95%</td>
           </tr>
             </tr>
+          
           <tr>
             <td>Dates + standing offer</td>
             <td>11%</td>
