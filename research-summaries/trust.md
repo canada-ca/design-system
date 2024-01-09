@@ -21,7 +21,7 @@ title: "Trust study: Canada.ca design elements"
 <p>For each question, people were shown 2 images with slight variations of brand elements. They were asked to identify which image they found more trustworthy. If their level of trust was the same for both images, they could respond with "same".</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
-    <figure class="gc-complex-img" role="group"> <img alt="Screenshot of an interactive trust exercise" src="../images/trust-en.png" class="img-responsive" />
+    <figure class="gc-complex-img" role="group"> <img alt="Screenshot of an interactive trust exercise" src="/research-summaries/images/trust-en.png" class="img-responsive" />
       <figcaption>
         <details>
           <summary>Image description: Interactive trust exercise</summary>
@@ -37,7 +37,7 @@ title: "Trust study: Canada.ca design elements"
 <p>The study showed that the Government of Canada signature with a red flag symbol and black type, on a white background, has the highest level of trust of the Canada.ca brand. The vast majority of respondents trust this version more than any other version of the GC signature.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
-  <img src="../images/fip-en.png" alt="Screenshot of Government of Canada signature in the standard colours of a red flag symbol and black type" class="responsive">
+  <img src="/research-summaries/images/fip-en.png" alt="Screenshot of Government of Canada signature in the standard colours of a red flag symbol and black type" class="responsive">
   </div>
 </div>
 <p>Only 8% of respondents chose the page without the flag as trustworthy. The flag was often mentioned, with comments such as:</p>
@@ -63,7 +63,7 @@ title: "Trust study: Canada.ca design elements"
 
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
-    <figure class="gc-complex-img" role="group"> <img alt="Screenshot of Government of Canada FIP symbol test" src="../images/ydg-en.png" class="img-responsive" />
+    <figure class="gc-complex-img" role="group"> <img alt="Screenshot of Government of Canada FIP symbol test" src="/research-summaries/images/ydg-en.png" class="img-responsive" />
       <figcaption>
         <details>
           <summary>Image description: Government of Canada FIP symbol trust test</summary>
