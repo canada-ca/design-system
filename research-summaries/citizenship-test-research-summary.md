@@ -32,8 +32,9 @@ title: "Citizenship test optimization project"
 <h3>No distractions</h3>
 <p>We removed inline links to help users stay focused on the task. This way they were not distracted by links to additional information. We answered questions they might have directly in the content instead of linking away from the page.</p>
 <p>Here is one example of how we reorganized information:</p>
-<figure> <img class="img-responsive" alt="The study guide showing the new long document pattern." src="/research-summaries/images/long-document-pattern.jpg" /> </figure>
-<div class="col-md-8 row">
+<div class="col-md-12 row">
+  <figure><img class="img-responsive" alt="The study guide showing the new long document pattern." src="/research-summaries/images/long-document-pattern.jpg" /></figure>
+  <div class="col-md-8 row"></div>
   <details>
     <summary>Detailed description</summary>
     <h4>Before:</h4>
@@ -45,7 +46,9 @@ title: "Citizenship test optimization project"
 <h2>Measuring success</h2>
 <p>Success! Our target was to improve both findability and task success by a minimum of 20 percentage points, or to exceed 80% for both measures. We re-tested the same 6 tasks on our prototype with 17 new participants. Successful task completion increased by 17 percentage points, to a total of 86%.</p>
 <p>This chart shows the success and findability rates of all tasks in baseline and validation phases:</p>
-<figure><img class="img-responsive hidden-sm hidden-xs" alt="See table that follows for data." src="/research-summaries/images/citizenship-task-success-chart.jpg"/></figure>
+<div class="col-md-12 row">
+  <figure><img class="img-responsive hidden-sm hidden-xs" alt="See table that follows for data." src="/research-summaries/images/citizenship-task-success-chart.jpg"/></figure>
+</div>
 <div class="row col-md-8">
   <details>
     <summary> Task completion success rates – table </summary>
