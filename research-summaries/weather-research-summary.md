@@ -24,7 +24,7 @@ title: "Weather optimization"
   <li><strong>Task:</strong> You are a golf course manager - the sky looks dark. Find out (yes/no) whether you should clear the course because of the potential of lightning in the next 10-20 minutes.</li>
 </ul>
 <p>We used these task scenarios to test the website with people in our target audiences.</p>
-<figure> <img class="img-responsive" alt="Hand-written sticky notes on top of page with design suggestions for improving icons. There are sticker dots on the note." src="../images/weather-meteo/design-suggestions.jpg" width="800px" />
+<figure> <img class="img-responsive" alt="Hand-written sticky notes on top of page with design suggestions for improving icons. There are sticker dots on the note." src="/research-summaries/images/design-suggestions.jpg" width="800px" />
   <figcaption><small>Design suggestions with voting dots</small></figcaption>
 </figure>
 <div class="col-md-8 row">
@@ -63,8 +63,8 @@ title: "Weather optimization"
 <h3>Alert design before and after mobile redesign for validation</h3>
 <div class="mwsmediaplayer section col-md-10">
   <figure class="wb-mltmd">
-    <video poster="../images/weather-meteo/weather_phones_anim-alert.jpg" title="Alert design before and after mobile redesign for validation">
-      <source src="../images/weather-meteo/weather_phones_anim-alert.mp4" type="video/mp4" />
+    <video poster="/research-summaries/images/weather_phones_anim-alert.jpg" title="Alert design before and after mobile redesign for validation">
+      <source src="/research-summaries/media/weather_phones_anim-alert.mp4" type="video/mp4" />
     </video>
   </figure>
 </div>
@@ -78,8 +78,8 @@ title: "Weather optimization"
 <h3>City page design before and after mobile redesign for validation</h3>
 <div class="mwsmediaplayer section col-md-9">
   <figure class="wb-mltmd">
-    <video poster="../images/weather-meteo/weather_phones_anim.jpg" title="City page design before and after mobile redesign for validation">
-      <source src="../images/weather-meteo/weather_phones_anim.mp4" type="video/mp4" />
+    <video poster="/research-summaries/images/weather_phones_anim.jpg" title="City page design before and after mobile redesign for validation">
+      <source src="/research-summaries/media/weather_phones_anim.mp4" type="video/mp4" />
     </video>
   </figure>
 </div>
@@ -93,7 +93,7 @@ title: "Weather optimization"
 <h2>Measuring success rates on the redesigned prototype</h2>
 <p>Once the revised design was ready, 20 new participants were recruited to complete the same 7 tasks. Our target was either 80% success, or an improvement of at least 20 points over the baseline score. The revised content and design improved findability rates from 35% up to 82%. Overall task completion success rose from 33% to 72%.</p>
 <p>This chart shows the task completion success rates across the baseline and redesigned validation test on the prototype for all 40 participants:</p>
-<div class="col-md-12"><img class="img-responsive hidden-sm hidden-xs" src="../images/weather-meteo/Baseline_vs_Validation_Success_results.jpg" alt="Image of chart showing baseline and final test results." /></div>
+<div class="col-md-12"><img class="img-responsive hidden-sm hidden-xs" src="/research-summaries/images/Baseline_vs_Validation_Success_results.jpg" alt="Image of chart showing baseline and final test results." /></div>
 <div class="row col-md-8">
   <details>
     <summary>Task completion success rates – table</summary>
