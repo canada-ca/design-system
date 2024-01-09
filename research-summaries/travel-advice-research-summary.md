@@ -22,9 +22,11 @@ title: "Travel advice and advisories"
 <p>Travelling has a degree of risk. Most travellers take routine precautions against familiar risks, like theft or injury. The Government of Canada can’t prevent Canadians from travelling, but has an obligation to protect them from harm. We inform Canadians when they should change their routine behaviour or avoid travel altogether to stay safe.  It’s critical that we design web pages that clearly and succinctly convey both the nature and the level of risk. To do this, the project team designed a new page template for destinations. The design prioritizes "must know" risks using a new alert pattern and a carefully curated short list of important points.</p>
 <h3>Encouraging people to look at both generic and destination-specific advice</h3>
 <p>There are many pages in the travel section of Canada.ca that provide general advice. This includes guidance on travel documents, travelling with children or pets, travel insurance and vaccinations. Often destination-specific pages duplicated this content. Testing uncovered a persistent challenge where people found general advice and assumed they had all the information they needed to make decisions about travelling. They were missing critical destination-specific advice. To address this we removed duplicate "generic" advice from destination-specific pages. We linked to it instead. We also grouped content differently on the navigation. We increased the visibility of topics such as "Planning your trip" and added a "Before you go" checklist. These changes helped people navigate more effectively between both types of advice.</p>
-<figure class="mrgn-tp-lg mrgn-bttm-lg"> <img class="img-responsive border" alt="Travel advice redesign" src="../images/travel-advice/advice-design.png"/>
-  <figcaption>Redesign of the travel advice page used in validation testing.</figcaption>
-</figure>
+<div>
+  <figure class="mrgn-tp-lg mrgn-bttm-lg"> <img class="img-responsive border" alt="Travel advice redesign" src="/research-summaries/images/advice-design.png"/>
+    <figcaption>Redesign of the travel advice page used in validation testing.</figcaption>
+  </figure>
+</div>
 <h2>Establishing a baseline</h2>
 <p>In the baseline study, 19 Canadian travellers performed 147 tests on the live Canada.ca travel pages. The overall success rate was 23%.</p>
 <p>The most common problems participants encountered were:</p>
@@ -59,7 +61,7 @@ title: "Travel advice and advisories"
 <h2>Measuring success rates on the redesigned prototype</h2>
 <p>The team tested the redesigned prototype with a new set of 19 Canadian travellers. They performed 146 tests of the same task scenarios as in the baseline testing. Our target was either 80% success or an improvement of at least 20 points over the baseline score. The revised content and design improved findability rates from 49% to 88% (+39% pts). Overall task success rose from 23% to 72% (+49% pts).</p>
 <p>This chart shows a comparison of task success rates between the baseline and validation tests for all 38 participants.</p>
-<img class="img-responsive hidden-sm hidden-xs" alt="Comparing task completion success rates in baseline and validation testing." src="../images/travel-advice/travel-advice-task-success-chart.png"/>
+<div><img class="img-responsive hidden-sm hidden-xs" alt="Comparing task completion success rates in baseline and validation testing." src="/research-summaries/images/travel-advice-task-success-chart.png"/></div>
 <div class="row col-md-9">
   <details>
     <summary> Task completion success rates – table </summary>
@@ -92,13 +94,13 @@ title: "Travel advice and advisories"
             <td>Cuba + health insurance</td>
             <td>16%</td>
             <td>63%</td>
-          
           <tr>
             <td>Cayman Islands + hurricanes</td>
             <td>32%</td>
             <td>78%</td>
           </tr>
             </tr>
+          
           <tr>
             <td>Travel checklist</td>
             <td>11%</td>
