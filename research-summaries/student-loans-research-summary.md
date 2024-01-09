@@ -24,9 +24,11 @@ title: "Student loans and grants optimization"
 <p>We grouped loans and grants together in the new design, instead of leaving them in separate program sections. We moved program descriptions to the <abbr title="National Student Loans Service Centre">NSLSC</abbr> site.</p>
 <h3>Design for answers, not information</h3>
 <p>The baseline study showed that it was hard for users to find the <abbr title="National Student Loans Service Centre">NSLSC</abbr> site and to understand what they could do there.  People often seemed to forget the complex name of the National Student Loans Service Centre program. There were many searches on Google and Canada.ca for variations of ‘<abbr title="National Student Loans Service Centre">NSLSC</abbr>’. To address this problem, the team used the term in the title of the new page: <a href="https://www.canada.ca/en/services/benefits/education/student-aid/manage-student-loan.html">Manage your student loan at the <abbr title="National Student Loans Service Centre">NSLSC</abbr></a>. We also added a single primary button to direct students to login to their <abbr title="National Student Loans Service Centre">NSLSC</abbr> account.</p>
-<figure class="mrgn-tp-lg mrgn-bttm-lg"> <img class="img-responsive border" alt="Primary button placement" src="../images/student-loans/nslsc-account.png"/>
-  <figcaption>Screenshot of the section of the web page where the new button “Login to your <abbr title="National Student Loans Service Centre">NSLSC</abbr> account” was added. It is located under the list of items you can do in your <abbr title="National Student Loans Service Centre">NSLSC</abbr> account.</figcaption>
-</figure>
+<div>
+  <figure class="mrgn-tp-lg mrgn-bttm-lg"> <img class="img-responsive border" alt="Primary button placement" src="/research-summaries/images/nslsc-account.png"/>
+    <figcaption>Screenshot of the section of the web page where the new button “Login to your <abbr title="National Student Loans Service Centre">NSLSC</abbr> account” was added. It is located under the list of items you can do in your <abbr title="National Student Loans Service Centre">NSLSC</abbr> account.</figcaption>
+  </figure>
+</div>
 <h3>Use evidence to design language</h3>
 <p>The team did research to understand how students were searching for information. They looked at Reddit posts, search data from within Canada.ca and Google search queries and trends. They used what they found to update content so students could find and understand it better.</p>
 <div class="table-bravo mrgn-tp-lg">
@@ -60,7 +62,7 @@ title: "Student loans and grants optimization"
 <h2>Measuring success</h2>
 <p>Overall task performance went up from 61% success to 88% when we retested the task scenarios on the prototype. </p>
 <p>This chart shows the baseline measurement at the start of the project compared with the validation measurement on the prototype redesigned by project team.</p>
-<img class="img-responsive hidden-sm hidden-xs" alt="See table that follows for data." src="../images/student-loans/student-loans-task-success-chart.png"/>
+<div><img class="img-responsive hidden-sm hidden-xs" alt="See table that follows for data." src="/research-summaries/images/student-loans-task-success-chart.png"/></div>
 <div class="row col-md-9">
   <details>
     <summary>Task completion success rates – table</summary>
