@@ -58,8 +58,8 @@ title: "Diseases and immunization"
 <h2 id="redesign-to-improve-task-success">Redesign to improve task success</h2>
 <p>To address the list of issues we captured, the team created a working prototype for a new design on Github. We held several workshops with smaller teams to work intensively on issues that participants experienced. For example, the Zika team realized that test participants hadn't absorbed the serious risks of pregnancy after exposure to Zika. The project team worked hard to integrate content to counter vaccine hesitancy. And new home page designs for Canada.ca were created. These expose the links to Health and Travel that people missed in the baseline tests. (Before, the links were hidden in a menu that remained closed unless the menu icon was clicked).</p>
 <p>Throughout the design process, we tested content with people through small, informal “guerilla” sessions. These tests revealed problems with our designs that we were able to address before full-scale moderated usability testing.</p>
-<img class="img-responsive" alt="Smartphones showing the Zika page before and after redesign. Detailed description follows." src="/research-summaries/images/zika_phones.png" />
 <figure>
+<img class="img-responsive" alt="Smartphones showing the Zika page before and after redesign. Detailed description follows." src="/research-summaries/images/zika_phones.png" />
   <figcaption><small>Destinations with Zika page at baseline and after mobile redesign for validation</small></figcaption>
 </figure>
 <br >
