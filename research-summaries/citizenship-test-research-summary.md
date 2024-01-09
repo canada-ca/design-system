@@ -34,7 +34,6 @@ title: "Citizenship test optimization project"
 <p>Here is one example of how we reorganized information:</p>
 <div class="col-md-12 row">
   <figure><img class="img-responsive" alt="The study guide showing the new long document pattern." src="/research-summaries/images/long-document-pattern.jpg" /></figure>
-  <div class="col-md-8 row"></div>
   <details>
     <summary>Detailed description</summary>
     <h4>Before:</h4>
@@ -48,8 +47,6 @@ title: "Citizenship test optimization project"
 <p>This chart shows the success and findability rates of all tasks in baseline and validation phases:</p>
 <div class="col-md-12 row">
   <figure><img class="img-responsive hidden-sm hidden-xs" alt="See table that follows for data." src="/research-summaries/images/citizenship-task-success-chart.jpg"/></figure>
-</div>
-<div class="row col-md-8">
   <details>
     <summary> Task completion success rates – table </summary>
     <p>Baseline measurement at start of project, validation on prototype redesigned by project team.</p>
