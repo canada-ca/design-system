@@ -2,7 +2,7 @@
 altLangPage: "https://conception.canada.ca/resumes-recherche/examen-citoyennete-resume-recherche.html"
 date: 2022-12-21
 dateModified: 2022-12-21
-description: "make it easier for people to prepare for the Canadian citizenship test."
+description: "Make it easier for people to prepare for the Canadian citizenship test."
 language: en
 title: "Citizenship test optimization project"
 ---
