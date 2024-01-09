@@ -11,7 +11,7 @@ title: "Wayfinding on Canada.ca"
 <p>One of the core brand elements is the global header, which includes a theme and topic menu. This menu has several pain points. The Digital Transformation Office (DTO) conducted a set of studies to understand  the role and impact of the menu on in-site navigation.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
-    <figure role="group"> <img alt="A long description can be found after the image." src="../images/rs-wayfinding-gh-01-en.png" class="img-responsive" />
+    <figure role="group"> <img alt="A long description can be found after the image." src="/reasearch-summaries/images/rs-wayfinding-gh-01-en.png" class="img-responsive" />
       <figcaption>
         <details>
           <summary>Global header including the theme and topic menu</summary>
@@ -135,7 +135,7 @@ title: "Wayfinding on Canada.ca"
 <p>The new footer design also added an optional contextual band for “Contact us” and other contextual rescue links.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-lg col-md-8">
-    <figure class="gc-complex-img" role="group"> <img alt="A long description can be found after the image." src="../images/rs-wafingding-footer-en.png" class="img-responsive" />
+    <figure class="gc-complex-img" role="group"> <img alt="A long description can be found after the image." src="/reasearch-summaries/images/rs-wafingding-footer-en.png" class="img-responsive" />
       <figcaption>
         <details>
           <summary>The redesigned Canada.ca footer</summary>
@@ -150,7 +150,7 @@ title: "Wayfinding on Canada.ca"
 <p>The layered theme template has a navigation bar on the left and a Most requested band on top. Topics for the theme are below the Most requested band.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-lg col-md-8">
-    <figure class="gc-complex-img" role="group"> <img alt="A long description can be found after the image." src="../images/rs-wayfinding-theme-02-en.png" class="img-responsive" />
+    <figure class="gc-complex-img" role="group"> <img alt="A long description can be found after the image." src="/reasearch-summaries/images/rs-wayfinding-theme-02-en.png" class="img-responsive" />
       <figcaption>
         <details>
           <summary>Prototype of a new theme page design</summary>
@@ -164,7 +164,7 @@ title: "Wayfinding on Canada.ca"
 <p>Users commonly expect to find a Sign in button at the top right of the page. This is standard across many websites. It’s become a web convention. We added one to support this top task.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-lg col-md-8">
-    <figure class="gc-complex-img" role="group"> <img alt="A long description can be found after the image." src="../images/rs-wayfinding-sign-in-01-en.png" class="img-responsive" />
+    <figure class="gc-complex-img" role="group"> <img alt="A long description can be found after the image." src="/reasearch-summaries/images/rs-wayfinding-sign-in-01-en.png" class="img-responsive" />
       <figcaption>
         <details>
           <summary>New header with the optional contextual Sign in button</summary>
