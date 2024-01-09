@@ -22,7 +22,7 @@ title: "Contact the CRA"
 <p>The <a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html">Government of Canada’s Digital Standards</a> start with ‘Design with users’. This focuses on research and testing with users, something the DTO has been doing from day one. At the core of our process is a baseline test to measure how well users are doing at top task scenarios on the current design. We want to identify the issues preventing them from succeeding. Since we wanted to test both personal and business task scenarios, we recruited Canadian small business owners as participants for the research sessions. Business owners are familiar with business challenges and they also have to do their own personal taxes. </p>
 <p>Our participants reflected the range of digital skills in Canadian business owners. A few who work mostly hands-on with their clients weren’t familiar with how to copy/paste text from one web page to another. Others were expert online users who ran their own websites.</p>
 <p>As well as measuring task success rates, the team analyzed user behaviour by watching videos of the tests. This let us see where people struggled. One of the big challenges we identified was that people sometimes failed to get to the Telephone numbers page. They first had to click on the Telephone enquiries link and then go through an overlay where they had to select the type of enquiry. If they did get to the Telephone numbers page, they often chose the wrong phone number from the long list.</p>
-<figure><img class="img-responsive" alt="Telephone number overlay" src="/research-summaries/images/telephone-overlay.png"/>
+<figure><img class="img-responsive" alt="Telephone number overlay" src="/research-summaries/images/cra-contact-us/telephone-overlay.png"/>
   <figcaption>Screenshot of the overlay users are presented with when they click on the Telephone enquiries link.</figcaption>
 </figure>
 <h2>Redesigning to help users find the right phone number</h2>
@@ -37,16 +37,16 @@ title: "Contact the CRA"
 <p>We made every page with a phone number show a primary action button with the online option first. People usually don’t want to call. If there is a way to complete the task online, it’s important to make it as easy as possible to sign in and do it. </p>
 <h3>Group for search engines and humans</h3>
 <p>In the baseline study, we noticed that people ended up on the Telephone numbers, Hours of service, or the Contact us pages. Those pages had links to other pages with key additional details. But people rarely followed the links. This meant they didn’t realize for example, that a particular phone line wasn’t open in the evenings or that they had to get some documents ready before they called. The new design presented the phone number along with a checklist to prepare for the call. This included details like the hours and the service offered at that number.</p>
-<figure class="mrgn-tp-lg mrgn-bttm-lg"> <img class="img-responsive border" alt="New design pattern for phone numbers." src="/research-summaries/images/contact-design-pattern.png"/>
+<figure class="mrgn-tp-lg mrgn-bttm-lg"><img class="img-responsive border" alt="New design pattern for phone numbers." src="/research-summaries/images/cra-contact-us/contact-design-pattern.png"/>
   <figcaption>Redesign for contact information used in validation testing.</figcaption>
 </figure>
 <h2>Measuring success</h2>
 <p>Overall task performance went up from 40% success to 85% when we retested the task scenarios on the prototype. </p>
 <p>This chart shows a comparison of task success rates between the baseline and validation tests for all participants.</p>
-<img class="img-responsive hidden-sm hidden-xs" alt="See table that follows for data." src="/research-summaries/images/cra-contact-us-task-success-chart.png"/>
+<img class="img-responsive hidden-sm hidden-xs" alt="See table that follows for data." src="/research-summaries/images/cra-contact-us/cra-contact-us-task-success-chart.png"/>
 <div class="row col-md-9">
   <details>
-    <summary> Task completion success rates – table </summary>
+    <summary>Task completion success rates – table</summary>
     <div class="table-bravo">
       <table class="table table-bordered">
         <thead>
