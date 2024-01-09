@@ -46,9 +46,11 @@ title: "Tax filing"
 <h2>Redesign to improve task success</h2>
 <p>For the prototyping phase, we divided into two working teams, one for <abbr title="Goods and Services Tax/Harmonized Sales Tax">GST/HST</abbr> tasks and the other for payroll tasks. Each team combed through the baseline test report, watched more videos of participants trying to complete their tasks, and looked at the click paths — the sequences of pages that participants went to. This helped show which pages were causing people to go off the “ideal” path. Sometimes this was because the correct link wasn’t clear enough. Other times a different link was more appealing. </p>
 <p>One of the primary techniques for improving citizen success was to take long pages of text, and separate sub-tasks or topics into steps. This pattern worked because it kept related information together, while allowing people to see the sequence of activities, and jump to the section that best suited their needs. </p>
-<figure> <img class="img-responsive" alt="Web screen capture showing the “How and when to remit source deductions” page before and after redesign. Detailed description follows." src="../images/taxes-impots/beforeafter-sourcedeductions.jpg"/>
-  <figcaption><small>How and when to remit source deductions page at baseline and after redesign for validation </small></figcaption>
-</figure>
+<div>
+  <figure> <img class="img-responsive" alt="Web screen capture showing the “How and when to remit source deductions” page before and after redesign. Detailed description follows." src="/research-summaries/images/beforeafter-sourcedeductions.jpg"/>
+    <figcaption><small>How and when to remit source deductions page at baseline and after redesign for validation </small></figcaption>
+  </figure>
+</div>
 <div class="col-md-8 row">
   <details>
     <summary> Detailed description </summary>
