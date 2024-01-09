@@ -45,7 +45,7 @@ title: "Citizenship test optimization project"
 <h2>Measuring success</h2>
 <p>Success! Our target was to improve both findability and task success by a minimum of 20 percentage points, or to exceed 80% for both measures. We re-tested the same 6 tasks on our prototype with 17 new participants. Successful task completion increased by 17 percentage points, to a total of 86%.</p>
 <p>This chart shows the success and findability rates of all tasks in baseline and validation phases:</p>
-<img class="img-responsive hidden-sm hidden-xs" alt="See table that follows for data." src="/research-summaries/images/citizenship-task-success-chart.jpg"/>
+<figure><img class="img-responsive hidden-sm hidden-xs" alt="See table that follows for data." src="/research-summaries/images/citizenship-task-success-chart.jpg"/></figure>
 <div class="row col-md-8">
   <details>
     <summary> Task completion success rates – table </summary>
