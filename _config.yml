@@ -526,13 +526,13 @@
         "path": "research-summaries/*.md"
       },
       "values": {
-        "section-title": "Research Summary",
+        "section-title": "Research summary",
         "breadcrumbs": [{
             "title": "About Canada.ca",
             "link": "https://design.canada.ca/about/"
           },
           {
-            "title": "Research Summaries",
+            "title": "Research summaries",
             "link": "https://design.canada.ca/research-summaries/"
           }
         ]
