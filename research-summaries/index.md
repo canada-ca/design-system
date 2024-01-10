@@ -4,7 +4,7 @@ date: 2024-01-10
 dateModified: 2024-01-10
 description: "Summaries of the research the Digital Transformation Office (DTO) and federal departments undertook to make it easier for people to find and understand Government of Canada information and services on Canada.ca."
 language: en
-title: "Research Summaries"
+title: "Research summaries"
 ---
 <p>Summaries of the research the Digital Transformation Office (DTO) and federal departments undertook to make it easier for people to find and understand Government of Canada information and services on Canada.ca.</p>
 <h2>List of research summaries</h2>
