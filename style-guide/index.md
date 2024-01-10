@@ -233,7 +233,7 @@ title: "Canada.ca Content Style Guide"
       <li>guide your audience to the information they need to complete their task </li>
       <li>place supporting and relevant details toward the end of the text </li>
     </ul>
-    <div class="row mrgn-tp-lg mrgn-bttm-lg">
+    <div class="row mrgn-tp-lg mrgn-bttm-md">
       <div class="col-md-8">
         <figure><img alt="Upside-down pyramid showing how to start a web page with key information first." class="img-responsive" id="fig1" src="/style-guide/images/pyramid-eng-02.png">
           <figcaption>
