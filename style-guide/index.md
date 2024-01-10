@@ -236,8 +236,8 @@ title: "Canada.ca Content Style Guide"
     <div class="row mrgn-tp-lg mrgn-bttm-lg">
       <div class="col-md-8">
         <figure><img alt="Upside-down pyramid showing how to start a web page with key information first." class="img-responsive" id="fig1" src="/style-guide/images/pyramid-eng-02.png">
-          <figcaption class="mrgn-bttm-md">
-            <p>Figure 1 (Inverted pyramid for ordering content on a web page)</p>
+          <figcaption>
+            <p><strong>Figure 1:</strong> inverted pyramid for ordering content on a web page</p>
           </figcaption>
         </figure>
       </div>
