@@ -233,13 +233,13 @@ title: "Canada.ca Content Style Guide"
       <li>guide your audience to the information they need to complete their task </li>
       <li>place supporting and relevant details toward the end of the text </li>
     </ul>
-    <div class="row mrgn-tp-lg">
+    <div class="row mrgn-tp-lg mrgn-bttm-lg">
       <div class="col-md-8">
-        <figure class="mrgn-tp-md mrgn-bttm-md">
-          <figcaption class="mrgn-tp-0 mrgn-bttm-md">
-            <h4 class="mrgn-tp-sm mrgn-bttm-lg">Figure 1 (Inverted pyramid for ordering content on a web page)</h4>
+        <figure><img alt="Upside-down pyramid showing how to start a web page with key information first." class="img-responsive" id="fig1" src="/style-guide/images/pyramid-eng-02.png">
+          <figcaption class="mrgn-bttm-md">
+            <p>Figure 1 (Inverted pyramid for ordering content on a web page)</p>
           </figcaption>
-          <img alt="Upside-down pyramid showing how to start a web page with key information first." class="img-responsive" id="fig1" src="/style-guide/images/pyramid-eng-02.png"></figure>
+        </figure>
       </div>
     </div>
     <p>The inverted pyramid for ordering content on a web page in Figure 1 is divided into four sections.  The most important content for task completion is at the top, the widest part of the pyramid.   The relevance of content for task completion flows down the inverted pyramid toward the peak at the bottom.</p>
