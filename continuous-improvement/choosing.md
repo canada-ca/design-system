@@ -97,7 +97,7 @@ title: Choosing what to improve
 
 <ul>
  <li>
-  <a href="./monitoring/GCTSS.html">
+  <a href="../survey/index.html">
    GC Task Success Survey
   </a>
  </li>
@@ -164,7 +164,7 @@ title: Choosing what to improve
 
 <ul>
  <li>
-  <a href="./monitoring/GCTSS.html">
+  <a href="../survey/index.html">
    GC Task Success Survey
   </a>
  </li>
@@ -186,8 +186,8 @@ title: Choosing what to improve
   (blog post)
  </li>
  <li>
-  <a href="./monitoring/feedback.html">
-   Page feedback pilot
+  <a href="../feedback/index.html">
+   Page feedback tool
   </a>
  </li>
 </ul>
@@ -249,8 +249,3 @@ title: Choosing what to improve
   </li>
  </ul>
 </nav>
-
-
-
-
-

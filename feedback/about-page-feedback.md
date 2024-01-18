@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/retroaction/fonctionnement.html
 date: null
-dateModified: 2023-02-28
+dateModified: 2024-01-08
 description: null
 title: How the page feedback tool works
 ---
@@ -22,7 +22,6 @@ title: How the page feedback tool works
 * [Feedback tool design](#feedback-tool-design)
 * [Protecting personal information](#protecting-personal-information)
 
-The page feedback tool is still in a pilot phase. This means that you can use the pattern, but there may be changes to how it looks or is coded in the future.
 
 ## Why collect user feedback
 
@@ -72,7 +71,7 @@ The feedback tool invites visitors to:
        </figcaption>
        <img src="/images/description-en.jpg" class="img-responsive" alt="2a. Default view after selecting No. Text version below:" />
        <details>
-         <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: Default view after selectiong "No"</summary>
+         <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: Default view after selecting "No"</summary>
          <p class="mrgn-tp-md">After interacting with the “No” button in, a text entry screen will replace the prompt. There is a heading for “Please provide more details” followed by instructions to not include personal information: “You will not receive a reply. Don’t include personal information (telephone, email, SIN financial, medical, or work details. Maximum 300 characters.” There is a small text entry box followed by a button for “Submit”.</p>
        </details>
      </figure>
