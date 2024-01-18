@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/guide-redaction"
 date: 2017-10-05
-dateModified:  2023-12-11
+dateModified:  2024-01-18
 description: "The Canada.ca Content Style Guide provides the rules to create web content that can be easily found, understood and used."
 title: "Canada.ca Content Style Guide"
 ---
@@ -15,7 +15,7 @@ title: "Canada.ca Content Style Guide"
         <div class="panel-body">
           <h2 class="mrgn-tp-sm">Table of contents</h2>
           <ul>
-            <li><a href="#toc1">Summary of changes</a></li>
+            <li><a href="#toc1">Recent updates</a></li>
             <li><a href="#toc2">Purpose</a></li>
             <li><a href="#toc3">Use of the style guide</a></li>
             <li><a href="#toc4">Related policies, standards and procedures</a></li>
@@ -35,12 +35,12 @@ title: "Canada.ca Content Style Guide"
   </div>
 </section>
 <section id="toc1">
-  <h2>Summary of changes</h2>
-  <p>Here are the changes we made to this version of the guide:</p>
+  <h2>Recent updates</h2>
+  <p>Most recent updates to the guide:</p>
   <ul>
-    <li>we’ve added "Writing for inclusivity" to the <a href="#toc5">Writing principles for web content</a> section</li>
+    <li>added a separate page for the <a href="update-history.html">Update history for the Canada.ca Content Style Guide</a></li>
   </ul>
-  <p>Refer to the listed section for details.</p>
+  <p><a href="update-history.html">Update history</a> (this list begins with changes on May 25, 2023).</p>
 </section>
 <section id="toc2">
   <h2>Purpose</h2>
@@ -51,7 +51,7 @@ title: "Canada.ca Content Style Guide"
 </section>
 <section id="toc3">
   <h2>Use of the style guide</h2>
-  <p>All departments and other portions of the federal public administration subject to the Directive on the Management of Communications must use the Canada.ca  Style Guide. These organizations must follow this style guide's requirements for all public-facing websites and digital services, regardless of the technology, domain name or publishing platform used. This requirement is referenced in Appendix D: Mandatory Procedures for Social Media and Web Communications in the <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=30682">Directive on the Management of Communications</a>.</p>
+  <p>All departments and other portions of the federal public administration subject to the <cite>Directive on the Management of Communications</cite> must use the Canada.ca  Style Guide. These organizations must follow this style guide's requirements for all public-facing websites and digital services, regardless of the technology, domain name or publishing platform used. This requirement is referenced in Appendix D: Mandatory Procedures for Social Media and Web Communications in the <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=30682"><cite>Directive on the Management of Communications</cite></a>.</p>
   <h3>Out-of-scope situations</h3>
   <p>Institutions that fall outside of the Directive on the Management of Communications do not have to follow this style guide. However, all institutions are encouraged to use it for both their internal and external web products. Following this guide's rules and techniques will make it easier for everyone to find, understand and use the government's digital content.</p>
 </section>
@@ -957,19 +957,18 @@ title: "Canada.ca Content Style Guide"
       <strong>Instead of</strong>: i.e.</p>
     <p>You may use these abbreviations when space is limited, for example, in a table or a figure.</p>
   </section>
-<section id="wp4-4-2">
-<h4>Styles of address: How to abbreviate and punctuate titles with personal names</h4>
-<p>Follow the <i>Writing Tips Plus</i> rules:</p>
-<ul>
-  <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/abbreviations-titles-with-personal-names.html">abbreviations: titles with personal names</a> (abbreviations for non-military titles preceding or following personal names)</li>
-  <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/phd-dr.html">doctors</a> when using PhD, Ph.D., Dr.</li>
-    <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/abbreviations-degrees-and-distinctions.html">abbreviations: degrees and distinctions</a></li>
-    <li><a href="https://www.canada.ca/en/canadian-heritage/services/protocol-guidelines-special-event/styles-address.html">Styles of address:</a> how to use formal and honorific titles to address individuals respectfully, both in writing and in conversation.</li>
-</ul>
-<p>Refer to <a href="https://www.noslangues-ourlanguages.gc.ca/en/navigateur-navigator?field_writing_tools=236&sort_by=gclp_total_views&f%5B0%5D=navigateur_navigator_english_theme%3A447&f%5B1%5D=navigateur_navigator_english_theme%3A448&f%5B2%5D=navigateur_navigator_writing_tools%3A236#navigateur-navigator-resultats-results"><i>Writing Tips Plus</i></a> for any other queries on abbreviations.</p>
-</section>
-
-<h4>See how the rule for abbreviations and acronyms applies in French</h4>
+  <section id="wp4-4-2">
+    <h4>Styles of address: How to abbreviate and punctuate titles with personal names</h4>
+    <p>Follow the <i>Writing Tips Plus</i> rules:</p>
+    <ul>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/abbreviations-titles-with-personal-names.html">abbreviations: titles with personal names</a> (abbreviations for non-military titles preceding or following personal names)</li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/phd-dr.html">doctors</a> when using PhD, Ph.D., Dr.</li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/abbreviations-degrees-and-distinctions.html">abbreviations: degrees and distinctions</a></li>
+      <li><a href="https://www.canada.ca/en/canadian-heritage/services/protocol-guidelines-special-event/styles-address.html">Styles of address:</a> how to use formal and honorific titles to address individuals respectfully, both in writing and in conversation.</li>
+    </ul>
+    <p>Refer to <a href="https://www.noslangues-ourlanguages.gc.ca/en/navigateur-navigator?field_writing_tools=236&sort_by=gclp_total_views&f%5B0%5D=navigateur_navigator_english_theme%3A447&f%5B1%5D=navigateur_navigator_english_theme%3A448&f%5B2%5D=navigateur_navigator_writing_tools%3A236#navigateur-navigator-resultats-results"><i>Writing Tips Plus</i></a> for any other queries on abbreviations.</p>
+  </section>
+  <h4>See how the rule for abbreviations and acronyms applies in French</h4>
   <ul>
     <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-4">4.4 Abréviations, acronymes et référence</a></span></li>
   </ul>
@@ -1963,24 +1962,25 @@ title: "Canada.ca Content Style Guide"
     <h4>Decorative images</h4>
     <p>Use decorative images only to provide visual context for the following templates:</p>
     <ul>
-      <li>a theme or topic page </li>
+      <li>a theme or topic page</li>
       <li>the home page</li>
       <li>campaign pages</li>
       <li>promotional features on a topic page or home page (Government of Canada activities and initiatives)</li>
     </ul>
     <p>Don't place meaningful text, such as campaign or program titles, in decorative images.</p>
-    <p><a href="#wp6-2">Include the appropriate alternative text</a> to describe the image for people who are unable to view it.</p>
-    <p>Get details about the templates above in the <cite><a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-eng.asp">Canada.ca Content and Information Architecture Specification</a></cite>.</p>
+    <p>Get details about the templates above in the <a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-eng.asp">Canada.ca Content and Information Architecture Specification</a>.</p>
     <h5>Example of a decorative image</h5>
-    <p><img alt="A Royal Canadian Mounted Police officer on the Canada.ca web page related to jobs and the workplace." class="img-responsive center-block" src="/style-guide/images/fig-06-eng.jpg"></p>
-    <p><strong>Description of the image</strong></p>
-    <p>A Royal Canadian Mounted Police officer on the Canada.ca web page related to jobs and the workplace.</p>
+    <p><img alt="Decorative image in context to create visual interest" class="img-responsive" src="/style-guide/images/shopping-cart-02.png"></p>
+    <h5>Don’t describe decorative images</h5>
+    <p>Decorative images don’t require a description. Their only purpose is to add visual appeal to content, not to add contextual information. The decorative image in our example just helps to create visual interest. Using a description for a decorative image gives users unnecessary information that can distract from the content on the page.</p>
+    <h5>Alt text for decorative images</h5>
+    <p>Use the null indicator as the alternative text (alt="") for decorative images. This tells screen readers to ignore the image.</p>
   </section>
   <section id="wp6-1-3">
     <h4>Image sizing and placement</h4>
     <p>Learn where to place images and videos on Canada.ca and what size they should be:</p>
     <ul>
-      <li>use the templates in the <cite><a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-eng.asp">Canada.ca Content and Information Architecture Specification</a></cite></li>
+      <li>use the templates in the <a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-eng.asp">Canada.ca Content and Information Architecture Specification</a></li>
       <li>see the <a href="https://wet-boew.github.io/themes-dist/GCWeb/index-en.html">Canada.ca page types on GitHub</a></li>
     </ul>
   </section>
