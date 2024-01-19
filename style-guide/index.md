@@ -964,9 +964,8 @@ title: "Canada.ca Content Style Guide"
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/abbreviations-titles-with-personal-names.html">abbreviations: titles with personal names</a> (abbreviations for non-military titles preceding or following personal names)</li>
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/phd-dr.html">doctors</a> when using PhD, Ph.D., Dr.</li>
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/abbreviations-degrees-and-distinctions.html">abbreviations: degrees and distinctions</a></li>
-      <li><a href="https://www.canada.ca/en/canadian-heritage/services/protocol-guidelines-special-event/styles-address.html">Styles of address:</a> how to use formal and honorific titles to address individuals respectfully, both in writing and in conversation.</li>
+      <li><a href="https://www.canada.ca/en/canadian-heritage/services/protocol-guidelines-special-event/styles-address.html">styles of address:</a> how to use formal and honorific titles to address individuals respectfully, both in writing and in conversation.</li>
     </ul>
-    <p>Refer to <a href="https://www.noslangues-ourlanguages.gc.ca/en/navigateur-navigator?field_writing_tools=236&sort_by=gclp_total_views&f%5B0%5D=navigateur_navigator_english_theme%3A447&f%5B1%5D=navigateur_navigator_english_theme%3A448&f%5B2%5D=navigateur_navigator_writing_tools%3A236#navigateur-navigator-resultats-results"><i>Writing Tips Plus</i></a> for any other queries on abbreviations.</p>
   </section>
   <h4>See how the rule for abbreviations and acronyms applies in French</h4>
   <ul>
