@@ -2202,8 +2202,7 @@ title: "Canada.ca Content Style Guide"
 </section>
 <section id="wp7-2">
   <h3>7.2 Write descriptive links</h3>
-  <p>A link must describe the content a person will find once they click on it. It's easier to complete a task when a link's destination matches a person's expectations. Make sure links are descriptive so that person will understand what they'll get when they click on them.</p>
-  <p>The text you hyperlink doesn't have to match the title of the destination page to be compliant with <cite>Web Content Accessibility Guidelines</cite>. Text in a link gets some context from the web page's content. Make sure the main keywords of the link text correspond to the page title so that people know they're in the right place.</p>
+  <p>A link must describe the content a person will find once they click on it. It's easier to complete a task when a link's destination matches a person's expectations.</p>
   <p>Tips for providing useful links:</p>
   <ul>
     <li>use the first words of the target page or its entire title if it's descriptive enough</li>
