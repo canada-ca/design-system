@@ -18,7 +18,7 @@ title: Working with partners to improve task success on Canada.ca
   <li>co-creating prototypes</li>
 </ul>
 <p>We work collaboratively to refine prototypes until they achieve at least a 20% improvement in task success.</p>
-<h2>Projects with our partners</h2>
+<h2>past projects with our partners</h2>
 <div class="row wb-eqht mrgn-tp-md wb-eqht mrgn-tp-lg">
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-01.html" aria-label="Orientation and wayfinding"><img src="images/blank-blue-lm.png" class="img-responsive" alt="">
