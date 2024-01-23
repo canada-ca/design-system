@@ -12,7 +12,7 @@
 .card h3 {
   text-align: center;
   text-decoration: underline !important; /* underline card heading */
-  margin-bottom: 75px;
+  margin-bottom: 50px;
 }
 /* On mouse-over, add a deeper shadow */
 .card:hover {
@@ -24,5 +24,5 @@
 }
 /* Add some padding inside the card container */
 .card-container {
-  padding: 0px 20px;
+  padding: 0px 20px 20px; 
 }
