@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/guide-redaction"
 date: 2017-10-05
-dateModified:  2024-01-28
+dateModified:  2024-01-23
 description: "The Canada.ca Content Style Guide provides the rules to create web content that can be easily found, understood and used."
 title: "Canada.ca Content Style Guide"
 ---
@@ -2201,6 +2201,7 @@ title: "Canada.ca Content Style Guide"
   </div>
 </section>
 <section id="wp7-2">
+  <h3>7.2 Write descriptive links</h3>
   <h3>7.2 Write descriptive links</h3>
   <p>A link must describe the content a person will find once they click on it. It's easier to complete a task when a link's destination matches a person's expectations.</p>
   <p>Tips for providing useful links:</p>
