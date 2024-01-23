@@ -14,8 +14,8 @@ title: Working with partners to improve task success on Canada.ca
 <p>Our method includes working collaboratively to:</p>
 <ul>
   <li>set concrete usability targets</li>
-  <li>usability test on specific Government of Canada Services</li>
-  <li>create prototypes</li>
+  <li>perform usability tests on specific Government of Canada Services</li>
+  <li>create prototypes for testing</li>
   <li>refine prototypes until they achieve at least a 20% improvement in task success</li>
 </ul>
 <h2>Past projects with our partners</h2>
