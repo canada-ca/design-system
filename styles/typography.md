@@ -31,7 +31,7 @@ title: Typography style
   </h2>
   <ul>
    <li>
-    H1: Lato, 38px, bold, with a red rule below
+    H1: Lato, 38px, bold
    </li>
    <li>
     H2: Lato, 36px, bold
@@ -52,6 +52,15 @@ title: Typography style
     Body: Noto sans, 20px, plain text
    </li>
   </ul>
+  <h2>Main page title</h2>
+  <p>When the H1 is the main title of a page, it includes a red bar as part of the Canada.ca brand.</p>
+  <p>Specifications for the red bar (gc-thickline):</p>
+    <ul>
+        <li>alignment: left</li>
+        <li>colour: #AF3C43</li>
+        <li>position: 8px or 0.4em underneath the H1 (body is set to 20px)</li>
+        <li>size: 71px by 3.6px or 3.55em by 0.18em (body is set to 20px)</li>
+    </ul>
   <h2>
    Smaller device default font specification
   </h2>
