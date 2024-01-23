@@ -11,12 +11,12 @@ description: "The Digital Transformation Office works with federal institutions 
 title: Working with partners to improve task success on Canada.ca
 ---
 <p>The Digital Transformation Office works with federal institutions to make Canada.ca content easier to find and understand.</p>
-<p>Our method includes:</p>
+<p>Our method includes working collaboratively to:</p>
 <ul>
-  <li>setting concrete usability targets</li>
-  <li>usability testing on specific Government of Canada Services</li>
-  <li>co-creating prototypes</li>
-  <li>work collaboratively to refine prototypes until they achieve at least a 20% improvement in task success</li>
+  <li>set concrete usability targets</li>
+  <li>usability test on specific Government of Canada Services</li>
+  <li>create prototypes</li>
+  <li>refine prototypes until they achieve at least a 20% improvement in task success</li>
 </ul>
 <h2>past projects with our partners</h2>
 <div class="row wb-eqht mrgn-tp-md wb-eqht mrgn-tp-lg">
