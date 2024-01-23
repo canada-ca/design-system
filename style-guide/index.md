@@ -959,7 +959,7 @@ title: "Canada.ca Content Style Guide"
   </section>
   <section id="wp4-4-2">
     <h4>Styles of address: How to abbreviate and punctuate titles with personal names</h4>
-    <p>Follow the <i>Writing Tips Plus</i> rules:</p>
+    <p>Follow the <cite>Writing Tips Plus</cite> rules:</p>
     <ul>
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/abbreviations-titles-with-personal-names.html">abbreviations: titles with personal names</a> (abbreviations for non-military titles preceding or following personal names)</li>
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/phd-dr.html">doctors</a> when using PhD, Ph.D., Dr.</li>
