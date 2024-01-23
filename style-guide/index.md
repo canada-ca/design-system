@@ -2202,7 +2202,6 @@ title: "Canada.ca Content Style Guide"
 </section>
 <section id="wp7-2">
   <h3>7.2 Write descriptive links</h3>
-  <h3>7.2 Write descriptive links</h3>
   <p>A link must describe the content a person will find once they click on it. It's easier to complete a task when a link's destination matches a person's expectations.</p>
   <p>Tips for providing useful links:</p>
   <ul>
