@@ -4,11 +4,10 @@ css:
    - https://design.canada.ca/css/split-h1.css
    - https://design.canada.ca/css/custom.css
    - https://use.fontawesome.com/releases/v5.15.4/css/all.css
-   - css/card-01.css
+   - css/card.css
 date: 2020-11-20
-dateModified: 2023-12-27
+dateModified: 2024-01-25
 description: "The Digital Transformation Office works with federal institutions to make Canada.ca content easier to find and understand."
-layout: without-h1
 title: Working with partners to improve task success on Canada.ca
 ---
 <p>The Digital Transformation Office works with federal institutions to make Canada.ca content easier to find and understand.</p>
