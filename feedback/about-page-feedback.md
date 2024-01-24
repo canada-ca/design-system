@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/retroaction/fonctionnement.html
 date: null
-dateModified: 2023-02-28
+dateModified: 2024-01-08
 description: null
 title: How the page feedback tool works
 ---
@@ -22,7 +22,6 @@ title: How the page feedback tool works
 * [Feedback tool design](#feedback-tool-design)
 * [Protecting personal information](#protecting-personal-information)
 
-The page feedback tool is still in a pilot phase. This means that you can use the pattern, but there may be changes to how it looks or is coded in the future.
 
 ## Why collect user feedback
 
