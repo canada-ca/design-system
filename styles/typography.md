@@ -57,7 +57,7 @@ title: Typography style
   </h2>
   <ul>
    <li>
-    H1: Lato, 34px, bold, with a red rule below
+    H1: Lato, 34px, bold
    </li>
    <li>
     H2: Lato, 32px, bold
