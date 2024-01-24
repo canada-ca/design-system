@@ -1,7 +1,7 @@
 ---
-altLangPage: "https://conception.canada.ca/guide-redaction.html"
+altLangPage: "https://conception.canada.ca/guide-redaction"
 date: 2017-10-05
-dateModified:  2024-01-05
+dateModified:  2024-01-25
 description: "The Canada.ca Content Style Guide provides the rules to create web content that can be easily found, understood and used."
 title: "Canada.ca Content Style Guide"
 ---
@@ -715,6 +715,7 @@ title: "Canada.ca Content Style Guide"
             <li><a href="#wp4-4">4.4 Abbreviations and acronyms</a>
               <ul>
                 <li><a href="#wp4-4-1">Latin abbreviations</a></li>
+                <li><a href="#wp4-4-2">Styles of address: How to abbreviate and punctuate titles with personal names</a></li>
               </ul>
             </li>
             <li><a href="#wp4-5">4.5 Contractions</a></li>
@@ -956,6 +957,16 @@ title: "Canada.ca Content Style Guide"
     <p><strong>Write</strong>: that is, in other words<br>
       <strong>Instead of</strong>: i.e.</p>
     <p>You may use these abbreviations when space is limited, for example, in a table or a figure.</p>
+  </section>
+  <section id="wp4-4-2">
+    <h4>Styles of address: How to abbreviate and punctuate titles with personal names</h4>
+    <p>Follow the <cite>Writing Tips Plus</cite> rules:</p>
+    <ul>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/abbreviations-titles-with-personal-names.html">abbreviations: titles with personal names</a> (abbreviations for non-military titles preceding or following personal names)</li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/phd-dr.html">doctors</a> when using PhD, Ph.D., Dr.</li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/abbreviations-degrees-and-distinctions.html">abbreviations: degrees and distinctions</a></li>
+      <li><a href="https://www.canada.ca/en/canadian-heritage/services/protocol-guidelines-special-event/styles-address.html">styles of address:</a> how to use formal and honorific titles to address individuals respectfully, both in writing and in conversation.</li>
+    </ul>
   </section>
   <h4>See how the rule for abbreviations and acronyms applies in French</h4>
   <ul>
@@ -2192,8 +2203,7 @@ title: "Canada.ca Content Style Guide"
 </section>
 <section id="wp7-2">
   <h3>7.2 Write descriptive links</h3>
-  <p>A link must describe the content a person will find once they click on it. It's easier to complete a task when a link's destination matches a person's expectations. Make sure links are descriptive so that person will understand what they'll get when they click on them.</p>
-  <p>The text you hyperlink doesn't have to match the title of the destination page to be compliant with <cite>Web Content Accessibility Guidelines</cite>. Text in a link gets some context from the web page's content. Make sure the main keywords of the link text correspond to the page title so that people know they're in the right place.</p>
+  <p>A link must describe the content a person will find once they click on it. It's easier to complete a task when a link's destination matches a person's expectations.</p>
   <p>Tips for providing useful links:</p>
   <ul>
     <li>use the first words of the target page or its entire title if it's descriptive enough</li>
