@@ -24,7 +24,8 @@ title: Working with partners to improve task success on Canada.ca
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-01.html" aria-label="Orientation and wayfinding"><img src="images/blank-blue-lm.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Orientation and wayfinding</h3>
-        <p class="mrgn-tp-lg"><strong>Purpose</strong>: Understand how people navigate Canada.ca. The findings have led to several design changes to improve navigation throughout Government of Canada websites.</p> <p><strong>Date</strong>: 2021</p>
+        <p class="mrgn-tp-lg"><strong>Purpose</strong>: Understand how people navigate Canada.ca. The findings have led to several design changes to improve navigation throughout Government of Canada websites.</p>
+        <p><strong>Date</strong>: 2021</p>
         <p><strong>Partners</strong>: Agriculture and Agri-Food Canada; Immigration, Refugees and Citizenship Canada; Veterans Affairs Canada and Statistics Canada</p>
       </div>
       </a></div>
@@ -203,8 +204,8 @@ title: Working with partners to improve task success on Canada.ca
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-20.html" aria-label="Travel documents"><img src="images/blank-blue-lm.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Travel documents</h3>
-        <p class="mrgn-tp-lg"><strong>Purpose</strong>: Make it easier for Canadians to find and understand the travel advice and guidance available on Canada.ca.</p>
-        <p><strong>Date</strong>: 2019</p>
+        <p class="mrgn-tp-lg"><strong>Purpose</strong>: Help those potential visitors to Canada to clearly understand what documentation is required to enter.</p>
+        <p><strong>Date</strong>: 2017</p>
         <p><strong>Partner</strong>: Canada Revenue Agency</p>
       </div>
       </a></div>
