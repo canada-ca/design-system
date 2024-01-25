@@ -33,7 +33,8 @@ title: Working with partners to improve task success on Canada.ca
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-02.html" aria-label="Medical devices"><img src="images/blank-blue-lm.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Medical devices</h3>
-        <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for stakeholders subject to Canada’s medical device regulations find and understand regulatory requirements.</p>
+        <p class="mrgn-tp-lg"><strong>Purpose</strong>: Make it easier for stakeholders subject to Canada’s medical device regulations find and understand regulatory requirements.</p>
+        <p><strong>Date</strong>: 2020</p>
         <p><strong>Partner</strong>: Health Canada</p>
       </div>
       </a></div>
@@ -42,7 +43,8 @@ title: Working with partners to improve task success on Canada.ca
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-03.html" aria-label="Electronic Procurement Solution"><img src="images/blank-blue-lm.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Electronic Procurement Solution</h3>
-        <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadian businesses to find and understand government business opportunities and guidance.</p>
+        <p class="mrgn-tp-lg"><strong>Purpose</strong>: Help develop a prototype for a new procurement website. We focused on the needs of businesses new to government procurement. We tested with small and medium enterprises not currently registered as suppliers to the Government of Canada.</p>
+        <p><strong>Date</strong>: Spring/summer 2019</p>
         <p><strong>Partners</strong>: Public Services; Procurement Canada (PSPC)</p>
       </div>
       </a></div>
@@ -51,7 +53,8 @@ title: Working with partners to improve task success on Canada.ca
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-04.html" aria-label="Pay for the public service"><img src="images/blank-blue-lm.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Pay for the public service</h3>
-        <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for public servants to find and understand their pay information.</p>
+        <p class="mrgn-tp-lg"><strong>Purpose</strong>: Make it easier for public servants to find and understand their pay information.</p>
+        <p><strong>Date</strong>: 2019</p>
         <p><strong>Partner</strong>: Public Services; Procurement Canada</p>
       </div>
       </a></div>
@@ -59,8 +62,9 @@ title: Working with partners to improve task success on Canada.ca
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-05.html" aria-label="Recalls and safety alerts search"><img src="images/blank-blue-lm.png" class="img-responsive" alt="">
       <div class="card-container">
-        <h3>Recalls and safety alerts search</h3>
-        <p class="mrgn-tp-lg"><strong>Purpose</strong>: help Health Canada prepare for the implementation of a transformed Recalls and Safety Alerts Management System (RSAMS) with a new search interface.</p>
+        <h3>Recalls and safety alerts search optimization</h3>
+        <p class="mrgn-tp-lg"><strong>Purpose</strong>: Help Health Canada prepare for implementing search functionality in a new Drupal-based RSAMS publishing infrastructure, to be launched in the 2020 to 2021 fiscal year.</p>
+        <p><strong>Date</strong>: Fall 2019</p>
         <p><strong>Partners</strong>: Health Canada; Transport Canada</p>
       </div>
       </a></div>
@@ -69,7 +73,8 @@ title: Working with partners to improve task success on Canada.ca
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-06.html" aria-label="Canada Child Benefit"><img src="images/blank-blue-lm.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Canada Child Benefit</h3>
-        <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadians to find and understand information related to the Canada Child Benefit.</p>
+        <p class="mrgn-tp-lg"><strong>Purpose</strong>: Make it easier to find answers online to key questions about the Canada Child Benefit.</p>
+        <p><strong>Date</strong>: 2019</p>
         <p><strong>Partner</strong>: Canada Revenue Agency</p>
       </div>
       </a></div>
@@ -78,7 +83,8 @@ title: Working with partners to improve task success on Canada.ca
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-07.html" aria-label="Travel advice and advisories"><img src="images/blank-blue-lm.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Travel advice and advisories</h3>
-        <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadians to find and understand travel advice and guidance from the Government of Canada</p>
+        <p class="mrgn-tp-lg"><strong>Purpose</strong>: Make it easier for Canadians to find and understand the travel advice and guidance available on Canada.ca.</p>
+        <p><strong>Date</strong>: 2019</p>
         <p><strong>Partners</strong>: Global Affairs Canada; Immigration, Refugees and Citizenship Canada; Public Health Agency of Canada; Health Canada; Canada Border Services Agency</p>
       </div>
       </a></div>
@@ -87,7 +93,8 @@ title: Working with partners to improve task success on Canada.ca
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-08.html" aria-label="Contact the CRA"><img src="images/blank-blue-lm.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Contact the CRA</h3>
-        <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadians to find the correct phone number or mailing address for specific services related to the CRA.</p>
+        <p class="mrgn-tp-lg"><strong>Purpose</strong>: Improve online task success by helping users find answers. Using call centre evidence and web analytics data, the Digital Transformation Office (DTO) partnered with Canada Revenue Agency to work towards improving outcomes.</p>
+        <p><strong>Date</strong>: 2019</p>
         <p><strong>Partner</strong>: Canada Revenue Agency</p>
       </div>
       </a></div>
@@ -96,7 +103,8 @@ title: Working with partners to improve task success on Canada.ca
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-09.html" aria-label="EI maternity and parental benefits"><img src="images/blank-blue-lm.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>EI maternity and parental benefits</h3>
-        <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadian parents to understand and apply for maternity and parental benefits.</p>
+        <p class="mrgn-tp-lg"><strong>Purpose</strong>: Make employment insurance maternity and parental benefits easier to find and understand for Canadians planning to expand their family.</p>
+        <p><strong>Date</strong>: 2019</p>
         <p><strong>Partner</strong>: Service Canada, Employment and Social Development Canada</p>
       </div>
       </a></div>
@@ -105,7 +113,8 @@ title: Working with partners to improve task success on Canada.ca
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-11.html" aria-label="Student loans and grants"><img src="images/blank-blue-lm.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Student loans and grants</h3>
-        <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadian students applying, managing and accessing details of their student loans and grants.</p>
+        <p class="mrgn-tp-lg"><strong>Purpose</strong>: Improve the success of students looking for loans and grants.</p>
+        <p><strong>Date</strong>: Fall 2018</p>
         <p><strong>Partner</strong>: Employment and Social Development Canada</p>
       </div>
       </a></div>
@@ -114,7 +123,8 @@ title: Working with partners to improve task success on Canada.ca
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-12.html" aria-label="Find a job"><img src="images/blank-blue-lm.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Find a job</h3>
-        <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadians to find government jobs on Canada.ca.</p>
+        <p class="mrgn-tp-lg"><strong>Purpose</strong>: Make it easier for Canadians to find government jobs on Canada.ca.</p>
+        <p><strong>Date</strong>: Summer 2018</p>
         <p><strong>Partners</strong>: Employment and Social Development Canada; Public Service Canada</p>
       </div>
       </a></div>
@@ -123,7 +133,8 @@ title: Working with partners to improve task success on Canada.ca
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-13.html" aria-label="Prepare for the citizenship test"><img src="images/blank-blue-lm.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Prepare for the citizenship test</h3>
-        <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for applicants to study for the Canadian citizenship test.</p>
+        <p class="mrgn-tp-lg"><strong>Purpose</strong>: Make it easier for people to prepare for the Canadian citizenship test.</p>
+        <p><strong>Date</strong>: Summer 2018</p>
         <p><strong>Partners</strong>: Immigration, Refugees and Citizenship Canada</p>
       </div>
       </a></div>
@@ -132,7 +143,8 @@ title: Working with partners to improve task success on Canada.ca
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-14.html" aria-label="Business account maintenance"><img src="images/blank-blue-lm.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Business account maintenance</h3>
-        <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadians to register and manage their CRA business accounts.</p>
+        <p class="mrgn-tp-lg"><strong>Purpose</strong>: Make it easier for self-employed Canadians and small Canadian businesses to find answers and resolve issues on Canada.ca.</p>
+        <p><strong>Date</strong>: March 2018</p>
         <p><strong>Partner</strong>: Canada Revenue Agency</p>
       </div>
       </a></div>
@@ -142,6 +154,7 @@ title: Working with partners to improve task success on Canada.ca
       <div class="card-container">
         <h3>Recalls and safety alerts</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadians to find and understand both recalls and safety alerts for food, health products, vehicles and car seats.</p>
+        <p><strong>Date</strong>: 2021</p>
         <p><strong>Partners</strong>: Health Canada; Canadian Food and Safety Inspection Agency; Transport Canada; Environment Canada</p>
       </div>
       </a></div>
@@ -151,6 +164,7 @@ title: Working with partners to improve task success on Canada.ca
       <div class="card-container">
         <h3>EI special benefits</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadians to understand eligibility for caregiver benefits.</p>
+        <p><strong>Date</strong>: 2021</p>
         <p><strong>Partner</strong>: Employment and Social Development Canada</p>
       </div>
       </a></div>
@@ -160,6 +174,7 @@ title: Working with partners to improve task success on Canada.ca
       <div class="card-container">
         <h3>GST/HST and payroll</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for businesses to fulfill their GST/HST and payroll requirements.</p>
+        <p><strong>Date</strong>: 2021</p>
         <p><strong>Partner</strong>: Canada Revenue Agency</p>
       </div>
       </a></div>
@@ -169,6 +184,7 @@ title: Working with partners to improve task success on Canada.ca
       <div class="card-container">
         <h3>Disease and immunization information</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadians to interpret immunization guidelines.</p>
+        <p><strong>Date</strong>: 2021</p>
         <p><strong>Partners</strong>: Health Canada; Global Affairs Canada</p>
       </div>
       </a></div>
@@ -178,6 +194,7 @@ title: Working with partners to improve task success on Canada.ca
       <div class="card-container">
         <h3>Weather information</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: make it easier for Canadians to understand notifications about dangerous weather conditions.</p>
+        <p><strong>Date</strong>: 2021</p>
         <p><strong>Partner</strong>: Environment and Climate Change Canada</p>
       </div>
       </a></div>
@@ -187,6 +204,7 @@ title: Working with partners to improve task success on Canada.ca
       <div class="card-container">
         <h3>Travel documents</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: help those potential visitors to Canada to clearly understand what documentation is required to enter.</p>
+        <p><strong>Date</strong>: 2021</p>
         <p><strong>Partner</strong>: Canada Revenue Agency</p>
       </div>
       </a></div>
@@ -196,6 +214,7 @@ title: Working with partners to improve task success on Canada.ca
       <div class="card-container">
         <h3>Business start-up activities</h3>
         <p class="mrgn-tp-lg"><strong>Purpose</strong>: combine information from across departments so that Canadians easily get the whole picture on what the Government of Canada requires when starting a business.</p>
+        <p><strong>Date</strong>: 2021</p>
         <p><strong>Partner</strong>: Canada Revenue Agency; Innovation, Science and Economic Development Canada</p>
       </div>
       </a></div>
