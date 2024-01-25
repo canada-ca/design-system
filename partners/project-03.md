@@ -2,12 +2,12 @@
 altLangPage: "https://conception.canada.ca/partenaires/project-03.html"
 date: 2020-12-08
 dateModified: 2023-12-08
-description: "We explored navigation and design options to help people get to and use the services they need, while maintaining confidence and trust in Canada.ca."
+description: "Help develop a prototype for a new procurement website. We focused on the needs of businesses new to government procurement. We tested with small and medium enterprises not currently registered as suppliers to the Government of Canada. Date: Spring/summer 2019"
 title: "Electronic Procurement Solution"
 ---
 <p>Our objective was to make make it easier for Canadian businesses to find and understand government business opportunities and guidance.</p>
 <h2>Date</h2>
-<p>2020</p>
+<p>Spring/summer 2019</p>
 <h2>Partner department</h2>
 <ul>
   <li>Public Services and Procurement Canada (PSPC)</li>

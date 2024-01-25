@@ -2,10 +2,12 @@
 altLangPage: "https://conception.canada.ca/partenaires/project-20.html"
 date: 2024-01-03
 dateModified: 2024-01-03
-description: "Help visitors to Canada clearly understand what documentation is required to enter."
+description: "Help those potential visitors to Canada to clearly understand what documentation is required to enter.  Date:2017."
 title: "Travel documents"
 ---
 <p>Help visitors to Canada to clearly understand what documentation is required to enter.</p>
+<h2>Date</h2>
+<p>2017</p>
 <h2>Partner department</h2>
 <ul>
   <li>Immigration, Refugees and Citizenship Canada (IRCC)</li>

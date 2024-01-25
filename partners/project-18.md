@@ -2,10 +2,12 @@
 altLangPage: "https://conception.canada.ca/partenaires/project-18.html"
 date: 2024-01-03
 dateModified: 2024-01-03
-description: "Make it easier for Canadians to interpret immunization guidelines."
+description: "Make it easier for Canadians to make informed choices about vaccination. Date: Fall 2017."
 title: "Disease and immunization information"
 ---
 <p>Make it easier for businesses to fulfill their Goods and Services Tax (GST), Harmonized Sales Tax (HST) and payroll requirements.</p>
+<h2>Date</h2>
+<p>Fall 2017</p>
 <h2>Partner departments</h2>
 <ul>
   <li>Health Canada (HC)</li>

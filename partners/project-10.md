@@ -2,10 +2,12 @@
 altLangPage: "https://conception.canada.ca/partenaires/project-21.html"
 date: 2024-01-03
 dateModified: 2024-01-03
-description: "Combine information from across departments so that Canadians easily get the whole picture on what the Government of Canada requires when starting a business."
+description: "Combine information from across departments so that Canadians easily get the whole picture on what the Government of Canada requires when starting a business.  Date: 2017."
 title: "Business start-up activities"
 ---
 <p>Combine information from across departments so that Canadians easily get the whole picture on what the Government of Canada requires when starting a business.</p>
+<h2>Date</h2>
+<p>2017</p>
 <h2>Partner department</h2>
 <ul>
   <li>Public Services and Procurement Canada (PSPC)</li>

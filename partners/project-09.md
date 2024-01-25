@@ -2,10 +2,12 @@
 altLangPage: "https://conception.canada.ca/partenaires/project-09.html"
 date: 2024-01-02
 dateModified: 2024-01-02
-description: "Make it easier for Canadian parents to understand and apply for maternity and parental benefits."
+description: "Make employment insurance maternity and parental benefits easier to find and understand for Canadians planning to expand their family. Date: 2019"
 title: "EI maternity and parental benefits"
 ---
 <p>Make it easier for Canadian parents to understand and apply for maternity and parental benefits.</p>
+<h2>Date</h2>
+<p>2019</p>
 <h2>Partner departments</h2>
 <ul>
   <li>Service Canada</li>

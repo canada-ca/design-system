@@ -2,10 +2,12 @@
 altLangPage: "https://conception.canada.ca/partenaires/project-02.html"
 date: 2024-01-03
 dateModified: 2024-01-03
-description: "MMake it easier for Canadians to find government jobs on Canada.ca."
+description: "Make it easier for Canadians to find government jobs on Canada.ca. Date: Summer 2018"
 title: "Find a job"
 ---
 <p>Make it easier for Canadians to find government jobs on Canada.ca.</p>
+<h2>Date</h2>
+<p>Summer 2018</p>
 <h2>Partner departments</h2>
 <ul>
   <li>Employment and Social Development Canada (ESDC)</li>

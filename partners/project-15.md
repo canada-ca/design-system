@@ -2,10 +2,12 @@
 altLangPage: "https://conception.canada.ca/partenaires/project-15.html"
 date: 2024-01-03
 dateModified: 2024-01-03
-description: "Make it easier for Canadians to find and understand both recalls and safety alerts for food, health products, vehicles and car seats."
+description: "Make it easier for Canadians to find and understand information about food and product recalls and safety alerts. Date: Spring 2018"
 title: "Recalls and safety alerts"
 ---
 <p>Make it easier for Canadians to register and manage their Canada Revenue Agency (CRA) business accounts.</p>
+<h2>Date</h2>
+<p>Spring 2018</p>
 <h2>Partner departments</h2>
 <ul>
   <li>Health Canada</li>

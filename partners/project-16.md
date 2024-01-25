@@ -2,10 +2,12 @@
 altLangPage: "https://conception.canada.ca/partenaires/project-16.html"
 date: 2024-01-03
 dateModified: 2024-01-03
-description: "Make it easier for Canadians to understand eligibility for caregiver benefits."
+description: "Make employment insurance maternity and parental benefits easier to find and understand for Canadians planning to expand their family. Date: 2019"
 title: "EI special benefits"
 ---
 <p>Make it easier for Canadians to understand eligibility for caregiver benefits.</p>
+<h2>Date</h2>
+<p>2019</p>
 <h2>Partner department</h2>
 <ul>
   <li>Employment and Social Development Canada</li>

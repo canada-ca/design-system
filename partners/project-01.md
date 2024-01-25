@@ -7,7 +7,7 @@ title: "Orientation and wayfinding"
 ---
 <p>All government departments are adopting the Canada.ca look. The design needs to adapt to their needs. We explored navigation and design options to help people get to and use the services they need, while maintaining confidence and trust in Canada.ca.</p>
 <h2>Date</h2>
-<p>2017</p>
+<p>2021</p>
 <h2>Partner departments</h2>
 <ul>
   <li>Agriculture and Agri-Food Canada</li>

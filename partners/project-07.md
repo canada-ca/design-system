@@ -2,10 +2,12 @@
 altLangPage: "https://conception.canada.ca/partenaires/project-07.html"
 date: 2023-01-01
 dateModified: 2023-01-01
-description: "Make it easier for Canadians to find and understand travel advice and guidance from the Government of Canada."
+description: "Make it easier for Canadians to find and understand the travel advice and guidance available on Canada.ca. Date: 2019"
 title: "Travel advice and advisories"
 ---
 <p>Make it easier for Canadians to find and understand travel advice and guidance from the Government of Canada.</p>
+<h2>Date</h2>
+<p>2019</p>
 <h2>Partner departments</h2>
 <ul>
   <li>Global Affairs Canada (GAC)</li>
