@@ -2,10 +2,12 @@
 altLangPage: "https://conception.canada.ca/partenaires/project-02.html"
 date: 2020-11-20
 dateModified: 2023-12-08
-description: "Our objective was to make it easier for medical device manufacturers and other firms subject to Canada’s medical device regulations to find and understand the information they need."
+description: "Make it easier for stakeholders subject to Canada’s medical device regulations find and understand regulatory requirements.  Date: 2020."
 title: "Medical devices"
 ---
 <p>Our objective was to make it easier for medical device manufacturers and other firms subject to Canada’s medical device regulations to find and understand the information they need to comply with regulatory requirements.</p>
+<h2>Date</h2>
+<p>2020</p>
 <h2>Partner department</h2>
 <ul>
   <li>Health Canada (HC)</li>

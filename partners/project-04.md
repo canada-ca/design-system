@@ -2,10 +2,12 @@
 altLangPage: "https://conception.canada.ca/partenaires/project-04.html"
 date: 2023-12-08
 dateModified: 2023-12-08
-description: "Make it easier for public servants to find and understand their pay information."
+description: "Make it easier for public servants to find and understand their pay information. Date 2019."
 title: "Pay for the public service"
 ---
-<p>Make it easier for public servants to find and understand their pay information.
+<p>Make it easier for public servants to find and understand their pay information.</p>
+<h2>Date</h2>
+<p>2019</p>
 <h2>Partner department</h2>
 <ul>
   <li>Public Services and Procurement Canada (PSPC)</li>

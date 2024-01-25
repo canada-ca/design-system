@@ -2,10 +2,12 @@
 altLangPage: "https://conception.canada.ca/partenaires/project-01.html"
 date: 2020-11-20
 dateModified: 2023-12-08
-description: "We explored navigation and design options to help people get to and use the services they need, while maintaining confidence and trust in Canada.ca."
+description: "Understand how people navigate Canada.ca. The findings have led to several design changes to improve navigation throughout Government of Canada websites. Date: 2021"
 title: "Orientation and wayfinding"
 ---
 <p>All government departments are adopting the Canada.ca look. The design needs to adapt to their needs. We explored navigation and design options to help people get to and use the services they need, while maintaining confidence and trust in Canada.ca.</p>
+<h2>Date</h2>
+<p>2017</p>
 <h2>Partner departments</h2>
 <ul>
   <li>Agriculture and Agri-Food Canada</li>
