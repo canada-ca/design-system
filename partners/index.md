@@ -24,7 +24,7 @@ title: Working with partners to improve task success on Canada.ca
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-01.html" aria-label="Orientation and wayfinding"><img src="images/blank-blue-lm.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Orientation and wayfinding</h3>
-        <p class="mrgn-tp-lg"><strong>Purpose</strong>: explore navigation and design options to help people find and use the services they need.</p>
+        <p class="mrgn-tp-lg"><strong>Purpose</strong>: Understand how people navigate Canada.ca. The findings have led to several design changes to improve navigation throughout Government of Canada websites.</p> <p><strong>Date</strong>: 2021</p>
         <p><strong>Partners</strong>: Agriculture and Agri-Food Canada; Immigration, Refugees and Citizenship Canada; Veterans Affairs Canada and Statistics Canada</p>
       </div>
       </a></div>
