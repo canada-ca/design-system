@@ -2156,11 +2156,13 @@ title: "Canada.ca Content Style Guide"
                 <li><a href="#wp7-1-1">Carefully select related content</a></li>
               </ul>
             </li>
-            <li><a href="#wp7-2">7.2 Write descriptive links</a>
-              <ul>
-                <li><a href="#wp7-2-1">Focus on the task</a></li>
-              </ul>
-            </li>
+           <li><a href="#wp7-2">7.2 Write descriptive links</a>
+                  <ul>
+                    <ul>
+                      <li><a href="#wp7-2-1">Focus on the task</a></li>
+                      <li><a href="wp7-2-2">Use parentheses to include contextual information</ul>
+                  </ul>
+                </li>
             <li><a href="#wp7-3">7.3 Make sure that links work</a></li>
             <li><a href="#wp7-4">7.4 Linking to non-government content </a></li>
           </ul>
@@ -2246,6 +2248,46 @@ title: "Canada.ca Content Style Guide"
     <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for writing descriptive links", "title": "7.2 Write descriptive links", "url": "https://design.canada.ca/style-guide/#wp7-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-2"}'></div>
   </div>
 </section>
+<h4>Use parentheses for contextual information</h4>
+      <p>Use parentheses inside a link to add information that provides context about the linked content. Only provide necessary, contextual information to help users decide whether to proceed.</p>
+      <p>This guidance applies in the following situations:</p>
+      <ul>
+        <li><strong>Link is to a downloadable document.</strong> Make sure to include <strong>the file type</strong> and <strong>size</strong> in the parentheses:</li>
+        <ul>
+          <li><strong>Example: </strong><a href="https://www.asc-csa.gc.ca/pdf/eng/publications/2021-2022-state-canadian-space-sector-facts-figures-2020-2021-v2.pdf">State of the Canadian Space Sector Report (PDF, 4.35 MB)</a></li>
+        </ul>
+        <li><strong>Link to external content is in a different language.</strong></li>
+        <ul>
+          <li>Add parentheses inside the link and specify the language of the linked content, formatted as (Language X only).</li>
+          <li>Do not translate the title of the linked content.</li>
+          <li>Ensure its language is indicated in the link’s code.</li>
+          <p>On an English page, write:</p>
+          <ul>
+            <ul>
+              <li><a href="#">Link text (French only)</a></li>
+              <li><a href="#">Link text (Inuktitut only)</a></li>
+              <li><a href="#">Link text (Spanish and Portuguese only)</a></li>
+            </ul>
+            <p><strong>Example: </strong>To renew your French passport while abroad in Canada, follow the steps described in <span lang="fr"><a href="https://passeport.ants.gouv.fr/Vos-demarches/Renouvellement-perte-ou-vol">Effectuer le renouvellement de votre passeport (French only)</a></span>.</p>
+          </ul>
+          <p>Follow the same structure on French-language pages linking to English content:</p>
+          <ul>
+            <li><span lang="fr">L’article 508 révisé, la norme EN 301 549 ou les </span><span lang="en"><a href="https://accessibility.18f.gov/">Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</a></span></li>
+          </ul>
+        </ul>
+        <li><strong>When more than one situation applies</strong>, include all applicable information in parentheses.</li>
+        <ul>
+          <li><strong>Example: </strong><a href="https://www.rhone.gouv.fr/contenu/telechargement/47282/261770/file/Psp_urgent_formulaire_26_7_21.pdf">Complete your application &nbsp&#8212&nbsp<span lang="fr">Demande de passeport temporaire (French only, PDF 0.46 MB)</span></a></li>
+        </ul>
+      </ul>
+      <h4>See how the rule for writing descriptive links applies in French</h4>
+      <ul>
+        <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp7-2">7.2 Rédiger des liens descriptifs</a></span></li>
+      </ul>
+      <div class="mrgn-tp-lg">
+        <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for writing descriptive links", "title": "7.2 Write descriptive links", "url": "https://design.canada.ca/style-guide/#wp7-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-2"}'></div>
+      </div>
+    </section>
 <section id="wp7-3">
   <h3>7.3 Make sure that links work</h3>
   <p>Make sure that your links work. Check that they take people to the correct page, which contains up-to-date information, in the appropriate official language. Links that don't work frustrate people and hurt the credibility of your content.</p>
@@ -2258,37 +2300,17 @@ title: "Canada.ca Content Style Guide"
   </div>
 </section>
 <section id="wp7-4">
-  <h3>7.4 Linking to non-government content</h3>
-  <p>Some non-government web content isn't available in both official languages. If you're linking to external web content that isn't available in the language of the current page, say in which language(s) it is available after the link.</p>
-  <p>On English pages, write the following after a link that leads to content that isn't available in English: "(XXXX only)".</p>
-  <p>If the link leads to content only available in:</p>
-  <ul>
-    <li>French, write "(French only)"</li>
-    <li>Inuktitut, write "(Inuktitut only)"</li>
-    <li>Spanish and Portuguese, write "(Spanish and Portuguese only)"</li>
-  </ul>
-  <h4>Example of a link that leads to content only available in French</h4>
-  <p><strong>Write</strong>: Find out how to <a href="https://passeport.ants.gouv.fr/Vos-demarches/Renouvellement-perte-ou-vol">renew your French passport while abroad in Canada</a> (French only).</p>
-  <h4>See how the rule for non-government content applies in French</h4>
-  <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp7-4">7.4 Créer des liens vers du contenu externe</a></span></li>
-  </ul>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for non-government content", "title": "7.4 Linking to non-government content", "url": "https://design.canada.ca/style-guide/#wp7-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-4"}'></div>
-  </div>
-</section>
-<section id="wp7-5">
-  <h3>7.5 Linking to internal-to-government content</h3>
-  <p>In most cases, public-facing content should not link to content that is accessible only through internal government networks. Occasionally, the audience for content that is accessible to the public may be primarily internal.</p>
-  <p>When a link leads to content available only on internal government networks, write "(accessible only on the Government of Canada network)."</p>
-  <h4>See how the rule for internal-to-government content applies in French</h4>
-  <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp7-5">7.5 Créer des liens vers du contenu interne</a></span></li>
-  </ul>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for internal-to-government content", "title": "7.5 Linking to internal-to-government content", "url": "https://design.canada.ca/style-guide/#wp7-5", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-5"}'></div>
-  </div>
-</section>
+      <h3>7.4 Linking to internal-to-government content</h3>
+      <p>In most cases, public-facing content should not link to content that is accessible only through internal government networks. Occasionally, the audience for content that is accessible to the public may be primarily internal.</p>
+      <p>When a link leads to content available only on internal government networks, write "(accessible only on the Government of Canada network)."</p>
+      <h4>See how the rule for internal-to-government content applies in French</h4>
+      <ul>
+        <li><span lang="fr"><a href="https://conception.canada.ca/guide-redaction/#wp7-4">7.4 Créer des liens vers du contenu interne</a></span></li>
+      </ul>
+      <div class="mrgn-tp-lg">
+        <div class="wb-share btn btn-default" data-wb-share="{&quot;custType&quot;: &quot; the rule for internal-to-government content&quot;, &quot;title&quot;: &quot;7.4 Linking to internal-to-government content&quot;, &quot;url&quot;: &quot;https://design.canada.ca/style-guide/#wp7-4&quot;, &quot;filter&quot;: [&quot;email&quot;, &quot;facebook&quot;, &quot;linkedin&quot;, &quot;twitter&quot;], &quot;pnlId&quot;: &quot;wp7-4&quot;}"></div>
+      </div>
+    </section>
 <section id="toc12">
   <h2>Web content makeovers</h2>
   <h3>Case study A: improve plain language and content structure</h3>
