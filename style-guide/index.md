@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/guide-redaction"
 date: 2017-10-05
-dateModified:  2024-01-23
+dateModified:  2024-01-26
 description: "The Canada.ca Content Style Guide provides the rules to create web content that can be easily found, understood and used."
 title: "Canada.ca Content Style Guide"
 ---
@@ -2247,9 +2247,11 @@ title: "Canada.ca Content Style Guide"
     <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for writing descriptive links", "title": "7.2 Write descriptive links", "url": "https://design.canada.ca/style-guide/#wp7-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-2"}'></div>
   </div>
 </section>
+<section id="wp7-2-2">
+  <div>
 <h4>Use parentheses for contextual information</h4>
-      <p>Use parentheses inside a link to add information that provides context about the linked content. Only provide necessary, contextual information to help users decide whether to proceed.</p>
-      <p>This guidance applies in the following situations:</p>
+    <p>Use parentheses inside a link to add information that provides context about the linked content. Only provide necessary, contextual information to help users decide whether to proceed.</p>
+    <p>This guidance applies in the following situations:</p>
       <ul>
         <li><strong>Link is to a downloadable document.</strong> Make sure to include <strong>the file type</strong> and <strong>size</strong> in the parentheses:</li>
         <ul>
@@ -2262,6 +2264,7 @@ title: "Canada.ca Content Style Guide"
         <li>Add parentheses inside the link and specify the language of the linked content, formatted as (Language X only).</li>
         <li>Do not translate the title of the linked content.</li>
         <li>Ensure its language is indicated in the link’s code.</li>
+      </ul>
         <p>On an English page, write:</p>
       <ul>
         <li><a href="#">Link text (French only)</a></li>
@@ -2273,12 +2276,13 @@ title: "Canada.ca Content Style Guide"
     <ul>
       <li><span lang="fr">L’article 508 révisé, la norme EN 301 549 ou les </span><span lang="en"><a href="https://accessibility.18f.gov/">Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</a></span></li>
     </ul>
-      </ul>
     </ul>
-      <ul>
+<li><strong>Link opens video or audio content.</strong> Specify the length of the content inside the parentheses. </li>
+</ul>
+<ul><li>Example:<a href="https://www.youtube.com/watch?v=GbDT6FxQ6mk">Using Magnifier in Windows: At a Glance &8212YouTube (2:07 minutes)</a></li></ul>
         <li><strong>When more than one situation applies</strong>, include all applicable information in parentheses.</li>
         <ul>
-          <p><strong>Example: </strong><a href="https://www.rhone.gouv.fr/contenu/telechargement/47282/261770/file/Psp_urgent_formulaire_26_7_21.pdf">Complete your application &nbsp&#8212&nbsp<span lang="fr">Demande de passeport temporaire (French only, PDF 0.46 MB)</span></a></p>
+          <li><strong>Example: </strong><a href="https://www.rhone.gouv.fr/contenu/telechargement/47282/261770/file/Psp_urgent_formulaire_26_7_21.pdf">Complete your application&nbsp&#8212&nbsp<span lang="fr">Demande de passeport temporaire (French only, PDF 0.46 MB)</span></a></li>
         </ul>
       </ul>
       <h4>See how the rule for writing descriptive links applies in French</h4>
