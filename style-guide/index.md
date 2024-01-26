@@ -2144,7 +2144,7 @@ title: "Canada.ca Content Style Guide"
   </div>
 </section>
 <section id="toc11">
-  <h2>7.0 Links</h2>
+<h2>7.0 Links</h2>
   <div class="row mrgn-tp-lg">
     <div class="col-md-8">
       <div class="panel panel-default">
@@ -2156,13 +2156,12 @@ title: "Canada.ca Content Style Guide"
                 <li><a href="#wp7-1-1">Carefully select related content</a></li>
               </ul>
             </li>
-           <li><a href="#wp7-2">7.2 Write descriptive links</a>
-                  <ul>
-                    <ul>
-                      <li><a href="#wp7-2-1">Focus on the task</a></li>
-                      <li><a href="wp7-2-2">Use parentheses to include contextual information</ul>
-                  </ul>
-                </li>
+            <li><a href="#wp7-2">7.2 Write descriptive links</a>
+              <ul>
+                <li><a href="#wp7-2-1">Focus on the task</a></li>
+                <li><a href="wp7-2-2">Use parentheses to include contextual information</li>
+              </ul>
+            </li>
             <li><a href="#wp7-3">7.3 Make sure that links work</a></li>
             <li><a href="#wp7-4">7.4 Linking to non-government content </a></li>
           </ul>
@@ -2256,28 +2255,30 @@ title: "Canada.ca Content Style Guide"
         <ul>
           <li><strong>Example: </strong><a href="https://www.asc-csa.gc.ca/pdf/eng/publications/2021-2022-state-canadian-space-sector-facts-figures-2020-2021-v2.pdf">State of the Canadian Space Sector Report (PDF, 4.35 MB)</a></li>
         </ul>
-        <li><strong>Link to external content is in a different language.</strong></li>
-        <ul>
-          <li>Add parentheses inside the link and specify the language of the linked content, formatted as (Language X only).</li>
-          <li>Do not translate the title of the linked content.</li>
-          <li>Ensure its language is indicated in the link’s code.</li>
-          <p>On an English page, write:</p>
-          <ul>
-            <ul>
-              <li><a href="#">Link text (French only)</a></li>
-              <li><a href="#">Link text (Inuktitut only)</a></li>
-              <li><a href="#">Link text (Spanish and Portuguese only)</a></li>
-            </ul>
-            <p><strong>Example: </strong>To renew your French passport while abroad in Canada, follow the steps described in <span lang="fr"><a href="https://passeport.ants.gouv.fr/Vos-demarches/Renouvellement-perte-ou-vol">Effectuer le renouvellement de votre passeport (French only)</a></span>.</p>
-          </ul>
-          <p>Follow the same structure on French-language pages linking to English content:</p>
-          <ul>
-            <li><span lang="fr">L’article 508 révisé, la norme EN 301 549 ou les </span><span lang="en"><a href="https://accessibility.18f.gov/">Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</a></span></li>
-          </ul>
-        </ul>
+      </ul>
+    <ul>
+      <li><strong>Link to external content is in a different language.</strong></li>
+      <ul>
+        <li>Add parentheses inside the link and specify the language of the linked content, formatted as (Language X only).</li>
+        <li>Do not translate the title of the linked content.</li>
+        <li>Ensure its language is indicated in the link’s code.</li>
+        <p>On an English page, write:</p>
+      <ul>
+        <li><a href="#">Link text (French only)</a></li>
+        <li><a href="#">Link text (Inuktitut only)</a></li>
+        <li><a href="#">Link text (Spanish and Portuguese only)</a></li>
+      <p><strong>Example: </strong>To renew your French passport while abroad in Canada, follow the steps described in <span lang="fr"><a href="https://passeport.ants.gouv.fr/Vos-demarches/Renouvellement-perte-ou-vol">Effectuer le renouvellement de votre passeport (French only)</a></span>.</p>
+      <p>Follow the same structure on French-language pages linking to English content:</p>
+    </ul>
+    <ul>
+      <li><span lang="fr">L’article 508 révisé, la norme EN 301 549 ou les </span><span lang="en"><a href="https://accessibility.18f.gov/">Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</a></span></li>
+    </ul>
+      </ul>
+    </ul>
+      <ul>
         <li><strong>When more than one situation applies</strong>, include all applicable information in parentheses.</li>
         <ul>
-          <li><strong>Example: </strong><a href="https://www.rhone.gouv.fr/contenu/telechargement/47282/261770/file/Psp_urgent_formulaire_26_7_21.pdf">Complete your application &nbsp&#8212&nbsp<span lang="fr">Demande de passeport temporaire (French only, PDF 0.46 MB)</span></a></li>
+          <p><strong>Example: </strong><a href="https://www.rhone.gouv.fr/contenu/telechargement/47282/261770/file/Psp_urgent_formulaire_26_7_21.pdf">Complete your application &nbsp&#8212&nbsp<span lang="fr">Demande de passeport temporaire (French only, PDF 0.46 MB)</span></a></p>
         </ul>
       </ul>
       <h4>See how the rule for writing descriptive links applies in French</h4>
