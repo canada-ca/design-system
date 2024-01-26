@@ -2279,7 +2279,7 @@ title: "Canada.ca Content Style Guide"
     </ul>
 <li><strong>Link opens video or audio content.</strong> Specify the length of the content inside the parentheses. </li>
 </ul>
-<ul><li>Example:<a href="https://www.youtube.com/watch?v=GbDT6FxQ6mk">Using Magnifier in Windows: At a Glance &8212YouTube (2:07 minutes)</a></li></ul>
+<ul><li>Example:<a href="https://www.youtube.com/watch?v=GbDT6FxQ6mk">Using Magnifier in Windows: At a Glance - YouTube (2:07 minutes)</a></li></ul>
         <li><strong>When more than one situation applies</strong>, include all applicable information in parentheses.</li>
         <ul>
           <li><strong>Example: </strong><a href="https://www.rhone.gouv.fr/contenu/telechargement/47282/261770/file/Psp_urgent_formulaire_26_7_21.pdf">Complete your application&nbsp&#8212&nbsp<span lang="fr">Demande de passeport temporaire (French only, PDF 0.46 MB)</span></a></li>
