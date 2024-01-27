@@ -46,7 +46,8 @@ title: "Canada.ca Content Style Guide"
   <h2>Purpose</h2>
   <p>This guide establishes the rules you must use to develop and edit English web content that will be published on a Government of Canada website. The rules are different from practices adapted to print to support principles related to accessibility, readability and usability.</p>
   <p>The purpose of these rules is to make web content easy to find, easy to understand and easy to use for everyone, including people who have physical or cognitive disabilities.</p>
-  <p>The techniques described in this guide complement the rules set out in <cite><a href="https://www.btb.termiumplus.gc.ca/tpv2guides/guides/tcdnstyl/index-eng.html?lang=eng">The Canadian Style</a></cite>. If there are conflicts between this guide and <cite>The Canadian Style</cite> or any other resource, this guide takes priority for content published online.</p>
+  <p>The techniques described in this guide complement the rules set out in <cite><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/index-eng">Writing Tips Plus</a></cite>, a searchable tool that deals with difficult points of English grammar and punctuation, as well as other English writing conventions. 
+If there are conflicts between this guide, </cite>Writing Tips Plus</cite> or any other resource, this guide takes priority for content published online.</p>
   <p>As web and language trends evolve, we'll update this guide to meet the changing needs of our audiences.</p>
 </section>
 <section id="toc3">
@@ -875,13 +876,13 @@ title: "Canada.ca Content Style Guide"
     <li>for long passages of text, such as quotations</li>
     <li>in page titles</li>
   </ul>
-  <p>Follow <cite><a href="https://www.btb.termiumplus.gc.ca/tcdnstyl-chap?lang=eng&amp;lettr=chap_catlog&amp;info0=6#zz6">The Canadian Style</a></cite>'s rules for applying italics for the following:</p>
+  <p>Follow <cite><a href="[https://www.btb.termiumplus.gc.ca/tcdnstyl-chap?lang=eng&amp;lettr=chap_catlog&amp;info0=6#zz6](https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/index-eng)">Writing Tips Plus</a></cite>rules for applying italics for the following:</p>
   <ul>
-    <li>French and foreign words (article 6.03)</li>
-    <li>Latin terms and abbreviations (article 6.04)</li>
-    <li>titles of publications (including acts and legislation) and works of art (article 6.05)</li>
-    <li>legal references (article 6.06)</li>
-    <li>mathematical, statistical and scientific material (article 6.11)</li>
+<li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/italics-french-and-foreign-words.html">italics: French and foreign words</a></li>
+<li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/italics-legal-references.html">italics: legal references</a></li>
+<li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/italics-mathematical-and-scientific-material.html">italics: mathematical and scientific material</a></li>
+<li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/italics-titles-of-works">italics: titles of works</a></li>
+<li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/latin-terms-and-abbreviations">Latin terms and abbreviations</a></li>
   </ul>
   <h4>See how the rule for bold, italics and underlining applies in French</h4>
   <ul>
@@ -3122,7 +3123,6 @@ title: "Canada.ca Content Style Guide"
     <li><a href="https://www.statcan.gc.ca/daily-quotidien/160518/dq160518b-eng.htm">Study: Literacy and numeracy among off-reserve First Nations people and Métis</a>, 2012, Statistics Canada</li>
     <li><a href="https://www.statcan.gc.ca/daily-quotidien/141104/dq141104b-eng.htm">Study: University graduates with lower levels of literacy and numeracy skills</a>, 2012, Statistics Canada</li>
     <li><a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;index=frt">TERMIUM Plus</a>®, Translation Bureau</li>
-    <li><a href="https://www.btb.termiumplus.gc.ca/tpv2guides/guides/tcdnstyl/index-eng.html?lang=eng">The Canadian Style</a>, Translation Bureau</li>
     <li><a href="https://www.musanim.com/miller1956/">The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing</a>, George A. Miller</li>
     <li><a href="https://gathercontent.com/blog/use-pair-writing-to-collaborate-with-subject-matter-experts">Use pair writing to collaborate with subject matter experts</a>, Jonathan Kahn, GatherContent</li>
     <li><a href="https://www.searchenginepeople.com/blog/watch-your-punctuation-online.html">Watch Your Punctuation Online</a>, Search Engine People</li>
@@ -3130,5 +3130,6 @@ title: "Canada.ca Content Style Guide"
     <li><a href="https://www.deque.com/blog/dont-screen-readers-read-whats-screen-part-1-punctuation-typographic-symbols/">Why Don't Screen Readers Always Read What's on the Screen?</a>, The Deque Blog</li>
     <li><a href="https://www.nngroup.com/topic/writing-web/">Writing for the web</a>, Nielsen Norman Group</li>
     <li>Writing for the Web: Principles and Guidelines, University of Ottawa</li>
+    <li><cite><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/index-eng">Writing Tips Plus</cite>, Resource of the Language Portal of Canada, Government of Canada</a></li>
   </ul>
 </section>
