@@ -1,11 +1,33 @@
 ---
 altLangPage: "https://conception.canada.ca/guide-redaction/historique-modifications.html"
 date: 2023-12-21
-dateModified:  2023-12-21
+dateModified:  2024-01-29
 description: "Update history for the Canada.ca Content Style Guide"
 title: "Update history for the Canada.ca Content Style Guide"
 ---
 <p>This list contains all changes made to the Canada.ca Content Style Guide since May 25, 2023.</p>
+
+<h2>January 29, 2024</h2>
+<ul class="mrgn-tp-lg">
+  <li>As of January 2024, <cite>The Canadian Style</cite> and <cite>Le guide du rédacteur</cite> were archived, with their content integrated into <cite><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/index-eng">Writing Tips Plus</a></cite> and the <cite><span lang="fr"><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra">Clés de la rédaction</a></span></cite>. We’ve updated references and links in the following sections:
+    <ul>
+      <li>Purpose section:</li>
+      <ul>
+        <li>Removed references to The Canadian Style and replaced with <cite>Writing Tips Plus</cite></li>
+        <li>Section 4.2 Underlining, bold and italics</li>
+        <li>Replaced links to archived content with links to current articles</li>
+        <li>Resources section updated</li>
+      </ul>
+</ul>
+  <li>Added a subsection, “Accessibility considerations”, under 7.2 Write descriptive links to: clarify how and when to add additional information inside hyperlinks. This new section integrates the content from section 7.4, which is no longer necessary.</li>
+  <li>Added quick reference links to help users find information related to abbreviations. This includes:
+    <ul>
+      <li>how to abbreviate, punctuate and format titles, degrees and distinctions with personal names (eg. PhD, Ph.D. Dr.).</li>
+      <li>styles of address and honorific titles</li>
+    </ul>
+  </li>
+  <li>Updated 4.4 Abbreviations and acronyms to specify that abbreviations should be accompanied by their long form the first time they’re used on a page.</li>
+</ul>
 <h2>December 12, 2023</h2>
 <ul class="mrgn-tp-lg">
   <li>added a separate page for the update history for the Canada.ca Content Style Guide</li>
