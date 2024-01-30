@@ -924,15 +924,17 @@ title: "Canada.ca Content Style Guide"
 </section>
 <section id="wp4-4">
   <h3>4.4 Abbreviations and acronyms</h3>
-  <p>Don't use an abbreviation or acronym unless it's better known to the widest audience than its long-form equivalent. For example:</p>
+  <p>Abbreviations are shortened forms of full terms. Both acronyms and initialisms are types of abbreviations. They are formed from the first letters of a group of words, without spaces.</p>
+  <p>Write out the long form of the term with the abbreviated form in parentheses at first mention. For example:</p>
   <ul>
-    <li>EI</li>
-    <li>RCMP</li>
-    <li>T4</li>
+    <li>Canadian Space Agency (CSA)</li>
+    <li>Disaster Assistance Response Team (DART)</li>
+    <li>Ontario (Ont.)</li>
   </ul>
+  <p>Use the abbreviation without its long form once it’s been introduced.</p>
   <h4>Research common keywords</h4>
   <p>Check your analytics to find out what keywords your audiences are using to find your content.</p>
-  <p>If you have to use a multi-word term more than once on a web page, use the full term the first time you use it. For any further uses of the term:</p>
+  <p>If you have to use a multi-word term more than once on a web page, use the full term the first time you use it. For any further uses of the term use a short form such as "the program" or "the plan," in lower case instead of repeating the full term or using an abbreviation.</p>
   <ul>
     <li>use a short form such as "the program" or "the plan," in lower case instead of repeating the full term or using an abbreviation</li>
     <li>only use an abbreviation for a secondary reference if analytics data or usability testing determines that people often use and search for the abbreviation </li>
@@ -1250,7 +1252,7 @@ title: "Canada.ca Content Style Guide"
       <li>makes sense on its own</li>
       <li>is followed by text and not by another heading, unless the heading introduces a table of contents on the same page </li>
       <li>has no punctuation at the end</li>
-      <li>contains no abbreviation unless the audience knows it better than it knows its long-form equivalent </li>
+      <li>contains no abbreviation</li>
       <li>contains no promotional messaging (boastful, subjective claims) because it might confuse and stop people from navigating to the page </li>
     </ul>
     <section id="wp5-1-1">
