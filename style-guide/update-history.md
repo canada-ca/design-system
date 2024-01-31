@@ -14,10 +14,10 @@ title: "Update history for the Canada.ca Content Style Guide"
       <li>Purpose section:</li>
       <ul>
         <li>Removed references to The Canadian Style and replaced with <cite>Writing Tips Plus</cite></li>
-        <li>Section 4.2 Underlining, bold and italics</li>
-        <li>Replaced links to archived content with links to current articles</li>
-        <li>Resources section updated</li>
       </ul>
+        <li>Section 4.2 Underlining, bold and italics</li>
+        <ul><li>Replaced links to archived content with links to current articles</li></ul>
+        <li>Resources section updated</li>
 </ul>
   <li>Added a subsection, Accessibility considerations, under 7.2 Write descriptive links to clarify how and when to add additional information inside hyperlinks. This new section integrates the content from section 7.4 Linking to non-government content.</li>
   <li>Added quick reference links to help users find information related to abbreviations. This includes:
