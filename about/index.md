@@ -35,36 +35,30 @@ title: "About Canada.ca"
       </div>
       <div class="col-md-6">
         <section>
-          <h3 class="h5"><a href="{{ site.urlblogca }}/pages/project-overview.html">Projects with our partners</a></h3>
+          <h3 class="h5"><a href="{{ site.urlblogca }}/pages/project-overview.html">Content improvement projects</a></h3>
           <p>Projects the Digital Transformation Office is working on with departmental partners to make Canada.ca work better for people.</p>
         </section>
       </div>
-      <div class="col-md-6">
-        <section>
-          <h3 class="h5"><a href="{{ site.url }}/research-summaries/">Researh Summaries</a></h3>
-          <p>Research summaries, departmental partners</p>
-        </section>
-      </div>
+      <div class="clearfix"></div>
       <div class="col-md-6">
         <section>
           <h3 class="h5"><a href="{{ site.urlblogca }}">Canada.ca blog</a></h3>
           <p>Evidence and insights on improving information and services on Canada.ca. </p>
         </section>
       </div>
-      <div class="clearfix"></div>
       <div class="col-md-6">
         <section>
           <h3 class="h5"><a href="{{ site.url }}/">Canada.ca design system</a></h3>
           <p>Content and Information Architecture Specification, Content Style Guide, templates and design patterns, topic tree, institutions list, theme lead departments.</p>
         </section>
       </div>
+      <div class="clearfix"></div>
       <div class="col-md-6">
         <section>
           <h3 class="h5"><a href="{{ site.urlcanadaca }}/en/government/about/secure-digital-services.html">Secure digital services</a></h3>
           <p>Learn how the government is working to provide Canadians safe and secure access to its services and information.</p>
         </section>
       </div>
-      <div class="clearfix"></div>
       <div class="col-md-6">
         <section>
           <h3 class="h5"><a href="{{ site.urlcanadaca }}/en/analytics.html">Canada.ca analytics</a></h3>
@@ -73,6 +67,7 @@ title: "About Canada.ca"
       </div>
     </div>
   </section>
+  <div class="clearfix"></div>
   <section class="col-md-8 pull-left gc-drmt">
     <h2>Connect with us</h2>
     <div class="wb-eqht row">
@@ -82,7 +77,6 @@ title: "About Canada.ca"
           <p>Contact institutions of the Government of Canada.</p>
         </section>
       </div>
-      <div class="clearfix"></div>
       <div class="col-md-6">
         <section>
           <h3 class="h5"><a href="{{ site.url }}/about/digital-transformation-office.html">Digital Transformation Office</a></h3>
