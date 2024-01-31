@@ -27,7 +27,6 @@ title: "Update history for the Canada.ca Content Style Guide"
     </ul>
   </li>
   <li>Updated 4.4 Abbreviations and acronyms to specify that abbreviations should be accompanied by their long form the first time they’re used on a page.</li>
-</ul>
 <h2>December 12, 2023</h2>
 <ul class="mrgn-tp-lg">
   <li>added a separate page for the update history for the Canada.ca Content Style Guide</li>
