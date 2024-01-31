@@ -2261,6 +2261,7 @@ If there are conflicts between this guide, </cite>Writing Tips Plus</cite> or an
       </ul>
     <ul>
       <li><strong>Link to external content is in a different language.</strong></li>
+     <p>Some non-government web content isn't available in both official languages. If you're linking to external web content that isn't available in the language of the current page, say in which language(s) it is available after the link.</p> 
       <ul>
         <li>Add parentheses inside the link and specify the language of the linked content, formatted as (Language X only).</li>
         <li>Do not translate the title of the linked content.</li>
