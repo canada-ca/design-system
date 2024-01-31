@@ -939,7 +939,6 @@ title: "Canada.ca Content Style Guide"
     <li>use a short form such as "the program" or "the plan," in lower case instead of repeating the full term or using an abbreviation</li>
     <li>only use an abbreviation for a secondary reference if analytics data or usability testing determines that people often use and search for the abbreviation </li>
   </ul>
-  <p>Always spell out an abbreviation the first time you use it on a page.&nbsp;</p>
   <h4>Example of statements that avoid the use of abbreviations and acronyms</h4>
   <p><strong>Write</strong>: There are 15 client contact centres across Canada.<br>
     <strong>Instead of</strong>: There are 15 CCCs across Canada.</p>
