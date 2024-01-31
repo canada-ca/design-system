@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/guide-redaction/historique-modifications.html"
 date: 2023-12-21
-dateModified:  2024-01-29
+dateModified:  2024-01-31
 description: "Update history for the Canada.ca Content Style Guide"
 title: "Update history for the Canada.ca Content Style Guide"
 ---
@@ -19,10 +19,10 @@ title: "Update history for the Canada.ca Content Style Guide"
         <li>Resources section updated</li>
       </ul>
 </ul>
-  <li>Added a subsection, “Accessibility considerations”, under 7.2 Write descriptive links to: clarify how and when to add additional information inside hyperlinks. This new section integrates the content from section 7.4, which is no longer necessary.</li>
+  <li>Added a subsection, Accessibility considerations, under 7.2 Write descriptive links to clarify how and when to add additional information inside hyperlinks. This new section integrates the content from section 7.4 Linking to non-government content.</li>
   <li>Added quick reference links to help users find information related to abbreviations. This includes:
     <ul>
-      <li>how to abbreviate, punctuate and format titles, degrees and distinctions with personal names (eg. PhD, Ph.D. Dr.).</li>
+      <li>how to abbreviate, punctuate and format titles, degrees and distinctions with personal names (eg. PhD, Ph.D. Dr.)</li>
       <li>styles of address and honorific titles</li>
     </ul>
   </li>
