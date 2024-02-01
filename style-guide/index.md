@@ -935,10 +935,6 @@ title: "Canada.ca Content Style Guide"
   <h4>Research common keywords</h4>
   <p>Check your analytics to find out what keywords your audiences are using to find your content.</p>
   <p>If you have to use a multi-word term more than once on a web page, use the full term the first time you use it. For any further uses of the term use a short form such as "the program" or "the plan," in lower case instead of repeating the full term or using an abbreviation.</p>
-  <ul>
-    <li>use a short form such as "the program" or "the plan," in lower case instead of repeating the full term or using an abbreviation</li>
-    <li>only use an abbreviation for a secondary reference if analytics data or usability testing determines that people often use and search for the abbreviation </li>
-  </ul>
   <h4>Example of statements that avoid the use of abbreviations and acronyms</h4>
   <p><strong>Write</strong>: There are 15 client contact centres across Canada.<br>
     <strong>Instead of</strong>: There are 15 CCCs across Canada.</p>
