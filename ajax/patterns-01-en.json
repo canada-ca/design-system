@@ -2,7 +2,7 @@
 ---
 {
   "data": [{
-    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/canada-child-benefit.html\">Canada Child Benefit</a>",
+    "NAME": "<a href=\"{{ site.url }}/research-summaries/canada-child-benefit.html\">Canada Child Benefit</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "This research summary explains the context of the research project in which the subway navigation pattern was created and all the considerations that were taken into account.",
     "WHENTOUSE": "",
