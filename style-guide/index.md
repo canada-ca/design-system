@@ -252,7 +252,7 @@ title: "Canada.ca Content Style Guide"
       <li><strong>Prioritized tasks</strong>:
         <ul>
           <li>add details and tasks in order of importance</li>
-          <li>keep all task related content in the centre of the page</li>
+          <li>keep all task-related content in the centre of the page</li>
           <li>use links to direct people to key information and tasks</li>
         </ul>
       </li>
