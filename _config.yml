@@ -523,6 +523,35 @@
     },
     {
       "scope": {
+        "path": "research-summaries/*.md"
+      },
+      "values": {
+        "section-title": "Research summary",
+        "breadcrumbs": [{
+            "title": "About Canada.ca",
+            "link": "https://design.canada.ca/about/"
+          },
+          {
+            "title": "Research summaries",
+            "link": "https://design.canada.ca/research-summaries/"
+          }
+        ]
+      }
+    },
+    {
+      "scope": {
+        "path": "research-summaries/index.md"
+      },
+      "values": {
+        "section-title": "",
+        "breadcrumbs": [{
+          "title": "About Canada.ca",
+          "link": "https://design.canada.ca/about/"
+        }]
+      }
+    },
+    {
+      "scope": {
         "path": "pattern-library.md"
       },
       "values": {
