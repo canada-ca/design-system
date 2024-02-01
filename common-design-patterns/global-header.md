@@ -381,7 +381,7 @@ title: "Global header"
 <h4>Wayfinding on Canada.ca project</h4>
 <p>We updated the global header for Canada.ca to align with a new overall navigation strategy that came out of the Wayfinding research project.</p>
 <ul>
-  <li><a href="https://blog.canada.ca/research-summaries/wayfinding-on-canada-ca">Wayfinding on Canada.ca research summary</a><br>
+  <li><a href="{{ site.url }}/research-summaries/wayfinding-on-canada-ca">Wayfinding on Canada.ca research summary</a><br>
     Explains the context of the research and the insights that drove the design updates</li>
   <li><a href="https://blog.canada.ca/2022/12/21/wayfinding-research-project">Wayfinding research project improves our approach to navigation on Canada.ca</a><br>
     Blog post explaining the changes that are being made to the Canada.ca design, and how they are being implemented</li>

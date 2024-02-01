@@ -360,7 +360,7 @@ title: Contextual alerts
    </a>
   </li>
   <li>
-   <a href="https://blog.canada.ca/research-summaries/travel-advice-research-summary.html">
+   <a href="{{ site.url }}/research-summaries/travel-advice-research-summary.html">
     Research summary: Travel advice and advisories
    </a>
   </li>

@@ -23,7 +23,7 @@ title: "Employment insurance maternity and parental benefits"
 <p>We worked with the EI team to define scenarios for testing. The 8 scenarios covered a range of circumstances (from high-risk pregnancy to adoption, etc.). We asked common questions about the benefits and the process for getting them. We tested with 22 participants between the ages of 25 and 39.  All were employed full-time, and none had applied for any form of EI within the last 5 years. </p>
 <p>Out of a total of 155 task trials across the 8 task scenarios, participants found the right page 46% of the time. Participants succeeded at the tasks only 28% of the time.</p>
 <h2>The design effort</h2>
-<p>After analyzing the video evidence from baseline testing, we developed a prototype in GitHub. We used the same service initiation template that we used in the <a href="https://blog.canada.ca/research-summaries/caregiving-research-summary.html"><abbr title="Employment Insurance">EI</abbr> caregiving benefits optimization project</a>.</p>
+<p>After analyzing the video evidence from baseline testing, we developed a prototype in GitHub. We used the same service initiation template that we used in the <a href="{{ site.url }}/research-summaries/caregiving-research-summary.html"><abbr title="Employment Insurance">EI</abbr> caregiving benefits optimization project</a>.</p>
 <p>Through an intensive series of workshops with EI subject matter experts, we iterated the prototype. Key design features included:</p>
 <ul>
   <li>A table summarizing the benefits offered
