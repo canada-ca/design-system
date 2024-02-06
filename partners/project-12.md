@@ -2,7 +2,7 @@
 altLangPage: "https://conception.canada.ca/partenaires/project-02.html"
 date: 2024-01-03
 dateModified: 2024-01-03
-description: "Make it easier for Canadians to find government jobs on Canada.ca. Date: Summer 2018"
+description: "Partner project: Make it easier for Canadians to find government jobs on Canada.ca. Date: Summer 2018"
 title: "Find a job"
 ---
 <p>Make it easier for Canadians to find government jobs on Canada.ca.</p>

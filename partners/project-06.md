@@ -2,7 +2,7 @@
 altLangPage: "https://conception.canada.ca/partenaires/project-06.html"
 date: 2023-12-08
 dateModified: 2023-12-08
-description: "Make it easier to find answers online to key questions about the Canada Child Benefit. Date: 2019"
+description: "Partner project: Make it easier to find answers online to key questions about the Canada Child Benefit. Date: 2019"
 title: "Canada Child Benefit"
 ---
 <p>Make it easier for Canadians to find and understand information related to the Canada Child Benefit.</p>

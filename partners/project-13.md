@@ -2,7 +2,7 @@
 altLangPage: "https://conception.canada.ca/partenaires/project-13.html"
 date: 2024-01-03
 dateModified: 2024-01-03
-description: "Goal: Make it easier for people to prepare for the Canadian citizenship test. Date: Summer 2018"
+description: "Partner project: Goal: Make it easier for people to prepare for the Canadian citizenship test. Date: Summer 2018"
 title: "Prepare for the citizenship test"
 ---
 <p>Make it easier for applicants to study for the Canadian citizenship test.</p>

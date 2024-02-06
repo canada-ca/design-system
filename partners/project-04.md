@@ -2,7 +2,7 @@
 altLangPage: "https://conception.canada.ca/partenaires/project-04.html"
 date: 2023-12-08
 dateModified: 2023-12-08
-description: "Make it easier for public servants to find and understand their pay information. Date 2019."
+description: "Partner project: Make it easier for public servants to find and understand their pay information. Date 2019."
 title: "Pay for the public service"
 ---
 <p>Make it easier for public servants to find and understand their pay information.</p>

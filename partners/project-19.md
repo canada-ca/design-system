@@ -2,7 +2,7 @@
 altLangPage: "https://conception.canada.ca/partenaires/project-19.html"
 date: 2024-01-03
 dateModified: 2024-01-03
-description: "Make it easier for Canadians to understand notifications about dangerous weather conditions. Date: July 2017."
+description: "Partner project: Make it easier for Canadians to understand notifications about dangerous weather conditions. Date: July 2017."
 title: "Weather information"
 ---
 <p>Make it easier for Canadians to understand notifications about dangerous weather conditions.</p>

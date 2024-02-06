@@ -2,7 +2,7 @@
 altLangPage: "https://conception.canada.ca/partenaires/project-05.html"
 date: 2023-12-08
 dateModified: 2023-12-08
-description: "Help Health Canada prepare for implementing search functionality in a new Drupal-based RSAMS publishing infrastructure, to be launched in the 2020 to 2021 fiscal year. Date: Fall 2019"
+description: "Partner project: Help Health Canada prepare for implementing search functionality in a new Drupal-based RSAMS publishing infrastructure, to be launched in the 2020 to 2021 fiscal year. Date: Fall 2019"
 title: "Recalls and safety alerts search"
 ---
 <p>Help Health Canada prepare for the implementation of a transformed Recalls and Safety Alerts Management System (RSAMS) with a new search interface so that Canadians can find and understand both recalls and safety alerts.</p>

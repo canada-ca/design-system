@@ -2,7 +2,7 @@
 altLangPage: "https://conception.canada.ca/partenaires/project-11.html"
 date: 2024-01-03
 dateModified: 2024-01-03
-description: "Improve the success of students looking for loans and grants. Date: Fall 2018"
+description: "Partner project: Improve the success of students looking for loans and grants. Date: Fall 2018"
 title: "Student loans and grants"
 ---
 <p>Make it easier for Canadian students applying, managing and accessing details of their student loans and grants.</p>

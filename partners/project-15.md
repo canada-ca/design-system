@@ -2,7 +2,7 @@
 altLangPage: "https://conception.canada.ca/partenaires/project-15.html"
 date: 2024-01-03
 dateModified: 2024-01-03
-description: "Make it easier for Canadians to find and understand information about food and product recalls and safety alerts. Date: Spring 2018"
+description: "Partner project: Make it easier for Canadians to find and understand information about food and product recalls and safety alerts. Date: Spring 2018"
 title: "Recalls and safety alerts"
 ---
 <p>Make it easier for Canadians to register and manage their Canada Revenue Agency (CRA) business accounts.</p>

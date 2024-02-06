@@ -2,7 +2,7 @@
 altLangPage: "https://conception.canada.ca/partenaires/project-14.html"
 date: 2024-01-03
 dateModified: 2024-01-03
-description: "Make it easier for self-employed Canadians and small Canadian businesses to find answers and resolve issues on Canada.ca. Date: March 2018"
+description: "Partner project: Make it easier for self-employed Canadians and small Canadian businesses to find answers and resolve issues on Canada.ca. Date: March 2018"
 title: "Business account maintenance"
 ---
 <p>Make it easier for Canadians to register and manage their Canada Revenue Agency (CRA) business accounts.</p>
