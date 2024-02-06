@@ -297,7 +297,7 @@ title: Expand/Collapse design pattern
     (blog post)
    </li>
    <li>
-    <a href="https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html">
+    <a href="{{ site.url }}/research-summaries/cra-contact-us-research-summary.html">
      Research summary: Contact the CRA
     </a>
    </li>

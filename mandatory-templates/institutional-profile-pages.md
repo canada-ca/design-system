@@ -1004,7 +1004,7 @@ ul.feeds-cont li a {
 <section>
   <h2 id="research">Research</h2>
   <p>We succesfully tested the new beta institutional landing page during 2 optimization projects with the Canada Revenue Agency.</p>
-  <p><a href="https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html">Research summary: Contact the CRA</a></p>
+  <p><a href="{{ site.url }}/research-summaries/cra-contact-us-research-summary.html">Research summary: Contact the CRA</a></p>
 </section>
 <section>
   <h2 id="changes">Latest changes</h2>

@@ -86,6 +86,6 @@ title: "Recalls and safety alerts search optimization, Round 2"
 <p>Tweet using the hashtag #Canadadotca.</p>
 <h2>Explore further</h2>
 <ul>
-  <li><a href="https://blog.canada.ca/research-summaries/recalls-research-summary.html">Project summary: Recalls and safety alerts</a> (Round 1)</li>
+  <li><a href="{{ site.url }}/research-summaries/recalls-research-summary.html">Project summary: Recalls and safety alerts</a> (Round 1)</li>
   <li>Read overviews of other <a href="https://blog.canada.ca/pages/project-overview.html#projects">projects with our partners</a></li>
 </ul>
