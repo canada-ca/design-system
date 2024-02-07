@@ -877,16 +877,13 @@ title: "Canada.ca Content Style Guide"
     <li>for long passages of text, such as quotations</li>
     <li>in page titles</li>
   </ul>
- <p>Follow <cite><a href="[https://www.btb.termiumplus.gc.ca/tcdnstyl-chap?lang=eng&amp;lettr=chap_catlog&amp;info0=6#zz6](https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/index-eng)">Writing Tips Plus</a></cite> rules for applying italics for the following:</p>
+ <p>Follow <cite><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/index-eng">Writing Tips Plus</a></cite> rules for applying italics for the following:</p>
   <ul>
 <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/italics-french-and-foreign-words.html">italics: French and foreign words</a></li>
 <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/italics-legal-references.html">italics: legal references</a></li>
 <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/italics-mathematical-and-scientific-material.html">italics: mathematical and scientific material</a></li>
 <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/italics-titles-of-works">italics: titles of works</a></li>
 <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/latin-terms-and-abbreviations">Latin terms and abbreviations</a></li>
-  </ul>
-  <h4>See how the rule for bold, italics and underlining applies in French</h4>
-  <ul>
   </ul>
   <h4>See how the rule for bold, italics and underlining applies in French</h4>
   <ul>
