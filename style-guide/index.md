@@ -2311,10 +2311,10 @@ title: "Canada.ca Content Style Guide"
   <p>When a link leads to content available only on internal government networks, write "(accessible only on the Government of Canada network)."</p>
   <h4>See how the rule for internal-to-government content applies in French</h4>
   <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp7-5">7.5 Créer des liens vers du contenu interne</a></span></li>
+    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp7-4">7.4 Créer des liens vers du contenu interne</a></span></li>
   </ul>
   <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for internal-to-government content", "title": "7.4 Linking to internal-to-government content", "url": "https://design.canada.ca/style-guide/#wp7-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-5"}'></div>
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for internal-to-government content", "title": "7.4 Linking to internal-to-government content", "url": "https://design.canada.ca/style-guide/#wp7-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-4"}'></div>
   </div>
 </section>
 <section id="toc12">
