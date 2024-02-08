@@ -2256,7 +2256,7 @@ title: "Canada.ca Content Style Guide"
           <li>Do not translate the title of the linked content.</li>
           <li>Ensure its language is indicated in the link’s code.</li>
         </ul>
-        <p>On an English page, write:</p>
+        <p class="mrgn-tp-md">On an English page, write:</p>
         <ul>
           <li><a href="#">Link text (French only)</a></li>
           <li><a href="#">Link text (Inuktitut only)</a></li>
@@ -2266,7 +2266,7 @@ title: "Canada.ca Content Style Guide"
             </ul>
           </li>
         </ul>
-        <p>Follow the same structure on French-language pages linking to English content:</p>
+        <p class="mrgn-tp-md">Follow the same structure on French-language pages linking to English content:</p>
         <ul>
           <li><span lang="fr">L’article 508 révisé, la norme EN 301 549 ou les </span><span lang="en"><a href="https://accessibility.18f.gov/">Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</a></span></li>
         </ul>
