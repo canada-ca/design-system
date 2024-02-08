@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/guide-redaction"
 date: 2017-10-05
-dateModified:  2024-01-31
+dateModified:  2024-02-08
 description: "The Canada.ca Content Style Guide provides the rules to create web content that can be easily found, understood and used."
 title: "Canada.ca Content Style Guide"
 ---
@@ -46,7 +46,8 @@ title: "Canada.ca Content Style Guide"
   <h2>Purpose</h2>
   <p>This guide establishes the rules you must use to develop and edit English web content that will be published on a Government of Canada website. The rules are different from practices adapted to print to support principles related to accessibility, readability and usability.</p>
   <p>The purpose of these rules is to make web content easy to find, easy to understand and easy to use for everyone, including people who have physical or cognitive disabilities.</p>
-  <p>The techniques described in this guide complement the rules set out in <cite><a href="https://www.btb.termiumplus.gc.ca/tpv2guides/guides/tcdnstyl/index-eng.html?lang=eng">The Canadian Style</a></cite>. If there are conflicts between this guide and <cite>The Canadian Style</cite> or any other resource, this guide takes priority for content published online.</p>
+  <p>The techniques described in this guide complement the rules set out in <cite><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/index-eng">Writing Tips Plus</a></cite>, a searchable tool that deals with difficult points of English grammar and punctuation, as well as other English writing conventions.
+    If there are conflicts between this guide, <cite>Writing Tips Plus</cite> or any other resource, this guide takes priority for content published online.</p>
   <p>As web and language trends evolve, we'll update this guide to meet the changing needs of our audiences.</p>
 </section>
 <section id="toc3">
@@ -876,13 +877,13 @@ title: "Canada.ca Content Style Guide"
     <li>for long passages of text, such as quotations</li>
     <li>in page titles</li>
   </ul>
-  <p>Follow <cite><a href="https://www.btb.termiumplus.gc.ca/tcdnstyl-chap?lang=eng&amp;lettr=chap_catlog&amp;info0=6#zz6">The Canadian Style</a></cite>'s rules for applying italics for the following:</p>
+  <p>Follow <cite><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/index-eng">Writing Tips Plus</a></cite> rules for applying italics for the following:</p>
   <ul>
-    <li>French and foreign words (article 6.03)</li>
-    <li>Latin terms and abbreviations (article 6.04)</li>
-    <li>titles of publications (including acts and legislation) and works of art (article 6.05)</li>
-    <li>legal references (article 6.06)</li>
-    <li>mathematical, statistical and scientific material (article 6.11)</li>
+    <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/italics-french-and-foreign-words.html">italics: French and foreign words</a></li>
+    <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/italics-legal-references.html">italics: legal references</a></li>
+    <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/italics-mathematical-and-scientific-material.html">italics: mathematical and scientific material</a></li>
+    <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/italics-titles-of-works">italics: titles of works</a></li>
+    <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/latin-terms-and-abbreviations">Latin terms and abbreviations</a></li>
   </ul>
   <h4>See how the rule for bold, italics and underlining applies in French</h4>
   <ul>
@@ -2157,10 +2158,11 @@ title: "Canada.ca Content Style Guide"
             <li><a href="#wp7-2">7.2 Write descriptive links</a>
               <ul>
                 <li><a href="#wp7-2-1">Focus on the task</a></li>
+                <li><a href="#wp7-2-2">Use parentheses to include contextual information</a></li>
               </ul>
             </li>
             <li><a href="#wp7-3">7.3 Make sure that links work</a></li>
-            <li><a href="#wp7-4">7.4 Linking to non-government content </a></li>
+            <li><a href="#wp7-4">7.4 Linking to internal-to-government content</a></li>
           </ul>
         </div>
       </div>
@@ -2236,6 +2238,53 @@ title: "Canada.ca Content Style Guide"
     <h6>Instead of:</h6>
     <p>To ensure that you are paid the maximum Employment Insurance (EI) benefit rate that you are entitled to, complete the <a href="https://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=ins5241&amp;ln=eng">Claimant Attestation - Highest Weeks of Insurable Earnings (Variable Best Weeks) form</a> with the required information about your highest weeks of insurable earnings in the last 52 weeks of employment or since the start of your last claim, whichever is the shorter period of the two.</p>
   </section>
+  <section id="wp7-2-2">
+    <h4>Use parentheses for contextual information</h4>
+    <p>Use parentheses inside a link to add information that provides context about the linked content. Only provide necessary, contextual information to help users decide whether to proceed.</p>
+    <p>This guidance applies in the following situations:</p>
+    <ul class="lst-spcd">
+      <li><strong>Link is to a downloadable document.</strong> Make sure to include <strong>the file type</strong> and <strong>size</strong> in the parentheses:
+        <ul>
+          <li><strong>Example</strong>: <a href="https://www.asc-csa.gc.ca/pdf/eng/publications/2021-2022-state-canadian-space-sector-facts-figures-2020-2021-v2.pdf">State of the Canadian Space Sector Report (PDF, 4.35 MB)</a></li>
+        </ul>
+      </li>
+      <li>
+        <p><strong>Link to external content is in a different language.</strong></p>
+        <p>Some non-government web content isn't available in both official languages. If you're linking to external web content that isn't available in the language of the current page, say in which language(s) it is available after the link.</p>
+        <ul>
+          <li>Add parentheses inside the link and specify the language of the linked content, formatted as (Language X only).</li>
+          <li>Do not translate the title of the linked content.</li>
+          <li>Ensure its language is indicated in the link’s code.</li>
+        </ul>
+        <p class="mrgn-tp-md">On an English page, write:</p>
+        <ul>
+          <li><a href="#">Link text (French only)</a></li>
+          <li><a href="#">Link text (Inuktitut only)</a></li>
+          <li><a href="#">Link text (Spanish and Portuguese only)</a>
+            <ul>
+              <li><strong>Example</strong>: To renew your French passport while abroad in Canada, follow the steps described in <span lang="fr"><a href="https://passeport.ants.gouv.fr/Vos-demarches/Renouvellement-perte-ou-vol">Effectuer le renouvellement de votre passeport (French only)</a></span>.</li>
+            </ul>
+          </li>
+        </ul>
+        <p class="mrgn-tp-md">Follow the same structure on French-language pages linking to English content:</p>
+        <ul>
+          <li><span lang="fr">L’article 508 révisé, la norme EN 301 549 ou les </span><span lang="en"><a href="https://accessibility.18f.gov/">Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</a></span></li>
+        </ul>
+      </li>
+      <li>
+        <p><strong>Link opens video or audio content.</strong> Specify the length of the content inside the parentheses.</p>
+        <ul>
+          <li><strong>Example:</strong><a href="https://www.youtube.com/watch?v=GbDT6FxQ6mk"> Using Magnifier in Windows: At a Glance - YouTube (2:07 minutes)</a></li>
+        </ul>
+      </li>
+      <li>
+        <p><strong>When more than one situation applies</strong>, include all applicable information in parentheses.</p>
+        <ul>
+          <li><strong>Example: </strong><a href="https://www.rhone.gouv.fr/contenu/telechargement/47282/261770/file/Psp_urgent_formulaire_26_7_21.pdf">Complete your application&nbsp;&laquo;&nbsp;<span lang="fr">Demande de passeport temporaire (French only, PDF 0.46 MB)&nbsp;&raquo;&nbsp;</span></a></li>
+        </ul>
+      </li>
+    </ul>
+  </section>
   <h4>See how the rule for writing descriptive links applies in French</h4>
   <ul>
     <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp7-2">7.2 Rédiger des liens descriptifs</a></span></li>
@@ -2256,35 +2305,15 @@ title: "Canada.ca Content Style Guide"
   </div>
 </section>
 <section id="wp7-4">
-  <h3>7.4 Linking to non-government content</h3>
-  <p>Some non-government web content isn't available in both official languages. If you're linking to external web content that isn't available in the language of the current page, say in which language(s) it is available after the link.</p>
-  <p>On English pages, write the following after a link that leads to content that isn't available in English: "(XXXX only)".</p>
-  <p>If the link leads to content only available in:</p>
-  <ul>
-    <li>French, write "(French only)"</li>
-    <li>Inuktitut, write "(Inuktitut only)"</li>
-    <li>Spanish and Portuguese, write "(Spanish and Portuguese only)"</li>
-  </ul>
-  <h4>Example of a link that leads to content only available in French</h4>
-  <p><strong>Write</strong>: Find out how to <a href="https://passeport.ants.gouv.fr/Vos-demarches/Renouvellement-perte-ou-vol">renew your French passport while abroad in Canada</a> (French only).</p>
-  <h4>See how the rule for non-government content applies in French</h4>
-  <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp7-4">7.4 Créer des liens vers du contenu externe</a></span></li>
-  </ul>
-  <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for non-government content", "title": "7.4 Linking to non-government content", "url": "https://design.canada.ca/style-guide/#wp7-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-4"}'></div>
-  </div>
-</section>
-<section id="wp7-5">
-  <h3>7.5 Linking to internal-to-government content</h3>
+  <h3>7.4 Linking to internal-to-government content</h3>
   <p>In most cases, public-facing content should not link to content that is accessible only through internal government networks. Occasionally, the audience for content that is accessible to the public may be primarily internal.</p>
   <p>When a link leads to content available only on internal government networks, write "(accessible only on the Government of Canada network)."</p>
   <h4>See how the rule for internal-to-government content applies in French</h4>
   <ul>
-    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp7-5">7.5 Créer des liens vers du contenu interne</a></span></li>
+    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp7-4">7.4 Créer des liens vers du contenu interne</a></span></li>
   </ul>
   <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for internal-to-government content", "title": "7.5 Linking to internal-to-government content", "url": "https://design.canada.ca/style-guide/#wp7-5", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-5"}'></div>
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for internal-to-government content", "title": "7.4 Linking to internal-to-government content", "url": "https://design.canada.ca/style-guide/#wp7-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-4"}'></div>
   </div>
 </section>
 <section id="toc12">
@@ -3093,7 +3122,6 @@ title: "Canada.ca Content Style Guide"
     <li><a href="https://www.statcan.gc.ca/daily-quotidien/160518/dq160518b-eng.htm">Study: Literacy and numeracy among off-reserve First Nations people and Métis</a>, 2012, Statistics Canada</li>
     <li><a href="https://www.statcan.gc.ca/daily-quotidien/141104/dq141104b-eng.htm">Study: University graduates with lower levels of literacy and numeracy skills</a>, 2012, Statistics Canada</li>
     <li><a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;index=frt">TERMIUM Plus</a>®, Translation Bureau</li>
-    <li><a href="https://www.btb.termiumplus.gc.ca/tpv2guides/guides/tcdnstyl/index-eng.html?lang=eng">The Canadian Style</a>, Translation Bureau</li>
     <li><a href="https://www.musanim.com/miller1956/">The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing</a>, George A. Miller</li>
     <li><a href="https://gathercontent.com/blog/use-pair-writing-to-collaborate-with-subject-matter-experts">Use pair writing to collaborate with subject matter experts</a>, Jonathan Kahn, GatherContent</li>
     <li><a href="https://www.searchenginepeople.com/blog/watch-your-punctuation-online.html">Watch Your Punctuation Online</a>, Search Engine People</li>
@@ -3101,5 +3129,6 @@ title: "Canada.ca Content Style Guide"
     <li><a href="https://www.deque.com/blog/dont-screen-readers-read-whats-screen-part-1-punctuation-typographic-symbols/">Why Don't Screen Readers Always Read What's on the Screen?</a>, The Deque Blog</li>
     <li><a href="https://www.nngroup.com/topic/writing-web/">Writing for the web</a>, Nielsen Norman Group</li>
     <li>Writing for the Web: Principles and Guidelines, University of Ottawa</li>
+    <li><cite><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/index-eng">Writing Tips Plus</a></cite>, Resource of the Language Portal of Canada, Government of Canada</li>
   </ul>
 </section>
