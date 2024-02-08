@@ -2158,7 +2158,7 @@ title: "Canada.ca Content Style Guide"
             <li><a href="#wp7-2">7.2 Write descriptive links</a>
               <ul>
                 <li><a href="#wp7-2-1">Focus on the task</a></li>
-                <li><a href="wp7-2-2">Use parentheses to include contextual information</a></li>
+                <li><a href="#wp7-2-2">Use parentheses to include contextual information</a></li>
               </ul>
             </li>
             <li><a href="#wp7-3">7.3 Make sure that links work</a></li>
