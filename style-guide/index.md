@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/guide-redaction"
 date: 2017-10-05
-dateModified:  2024-02-07
+dateModified:  2024-02-08
 description: "The Canada.ca Content Style Guide provides the rules to create web content that can be easily found, understood and used."
 title: "Canada.ca Content Style Guide"
 ---
@@ -877,13 +877,13 @@ title: "Canada.ca Content Style Guide"
     <li>for long passages of text, such as quotations</li>
     <li>in page titles</li>
   </ul>
- <p>Follow <cite><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/index-eng">Writing Tips Plus</a></cite> rules for applying italics for the following:</p>
+  <p>Follow <cite><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/index-eng">Writing Tips Plus</a></cite> rules for applying italics for the following:</p>
   <ul>
-<li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/italics-french-and-foreign-words.html">italics: French and foreign words</a></li>
-<li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/italics-legal-references.html">italics: legal references</a></li>
-<li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/italics-mathematical-and-scientific-material.html">italics: mathematical and scientific material</a></li>
-<li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/italics-titles-of-works">italics: titles of works</a></li>
-<li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/latin-terms-and-abbreviations">Latin terms and abbreviations</a></li>
+    <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/italics-french-and-foreign-words.html">italics: French and foreign words</a></li>
+    <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/italics-legal-references.html">italics: legal references</a></li>
+    <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/italics-mathematical-and-scientific-material.html">italics: mathematical and scientific material</a></li>
+    <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/italics-titles-of-works">italics: titles of works</a></li>
+    <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/latin-terms-and-abbreviations">Latin terms and abbreviations</a></li>
   </ul>
   <h4>See how the rule for bold, italics and underlining applies in French</h4>
   <ul>
@@ -2238,60 +2238,56 @@ title: "Canada.ca Content Style Guide"
     <h6>Instead of:</h6>
     <p>To ensure that you are paid the maximum Employment Insurance (EI) benefit rate that you are entitled to, complete the <a href="https://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=ins5241&amp;ln=eng">Claimant Attestation - Highest Weeks of Insurable Earnings (Variable Best Weeks) form</a> with the required information about your highest weeks of insurable earnings in the last 52 weeks of employment or since the start of your last claim, whichever is the shorter period of the two.</p>
   </section>
+  <section id="wp7-2-2">
+    <h4>Use parentheses for contextual information</h4>
+    <p>Use parentheses inside a link to add information that provides context about the linked content. Only provide necessary, contextual information to help users decide whether to proceed.</p>
+    <p>This guidance applies in the following situations:</p>
+    <ul class="lst-spcd">
+      <li><strong>Link is to a downloadable document.</strong> Make sure to include <strong>the file type</strong> and <strong>size</strong> in the parentheses:
+        <ul>
+          <li><strong>Example</strong>: <a href="https://www.asc-csa.gc.ca/pdf/eng/publications/2021-2022-state-canadian-space-sector-facts-figures-2020-2021-v2.pdf">State of the Canadian Space Sector Report (PDF, 4.35 MB)</a></li>
+        </ul>
+      </li>
+      <li>
+        <p><strong>Link to external content is in a different language.</strong></p>
+        <p>Some non-government web content isn't available in both official languages. If you're linking to external web content that isn't available in the language of the current page, say in which language(s) it is available after the link.</p>
+        <ul>
+          <li>Add parentheses inside the link and specify the language of the linked content, formatted as (Language X only).</li>
+          <li>Do not translate the title of the linked content.</li>
+          <li>Ensure its language is indicated in the link’s code.</li>
+        </ul>
+        <p>On an English page, write:</p>
+        <ul>
+          <li><a href="#">Link text (French only)</a></li>
+          <li><a href="#">Link text (Inuktitut only)</a></li>
+          <li><a href="#">Link text (Spanish and Portuguese only)</a></li>
+        </ul>
+        <p><strong>Example</strong>: To renew your French passport while abroad in Canada, follow the steps described in <span lang="fr"><a href="https://passeport.ants.gouv.fr/Vos-demarches/Renouvellement-perte-ou-vol">Effectuer le renouvellement de votre passeport (French only)</a></span>.</p>
+        <p>Follow the same structure on French-language pages linking to English content:</p>
+        <ul>
+          <li><span lang="fr">L’article 508 révisé, la norme EN 301 549 ou les </span><span lang="en"><a href="https://accessibility.18f.gov/">Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</a></span></li>
+        </ul>
+      </li>
+      <li>
+        <p><strong>Link opens video or audio content.</strong> Specify the length of the content inside the parentheses.</p>
+        <ul>
+          <li><strong>Example:</strong><a href="https://www.youtube.com/watch?v=GbDT6FxQ6mk"> Using Magnifier in Windows: At a Glance - YouTube (2:07 minutes)</a></li>
+        </ul>
+      </li>
+      <li>
+        <p><strong>When more than one situation applies</strong>, include all applicable information in parentheses.</p>
+        <ul>
+          <li><strong>Example: </strong><a href="https://www.rhone.gouv.fr/contenu/telechargement/47282/261770/file/Psp_urgent_formulaire_26_7_21.pdf">Complete your application&nbsp;&laquo;&nbsp;<span lang="fr">Demande de passeport temporaire (French only, PDF 0.46 MB)&nbsp;&raquo;&nbsp;</span></a></li>
+        </ul>
+      </li>
+    </ul>
+  </section>
   <h4>See how the rule for writing descriptive links applies in French</h4>
   <ul>
     <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp7-2">7.2 Rédiger des liens descriptifs</a></span></li>
   </ul>
   <div class="mrgn-tp-lg">
     <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for writing descriptive links", "title": "7.2 Write descriptive links", "url": "https://design.canada.ca/style-guide/#wp7-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-2"}'></div>
-  </div>
-</section>
-<section id="wp7-2-2">
-  <div>
-    <h4>Use parentheses for contextual information</h4>
-    <p>Use parentheses inside a link to add information that provides context about the linked content. Only provide necessary, contextual information to help users decide whether to proceed.</p>
-    <p>This guidance applies in the following situations:</p>
-    <ul>
-      <li><strong>Link is to a downloadable document.</strong> Make sure to include <strong>the file type</strong> and <strong>size</strong> in the parentheses:</li>
-      <ul>
-        <li><strong>Example: </strong><a href="https://www.asc-csa.gc.ca/pdf/eng/publications/2021-2022-state-canadian-space-sector-facts-figures-2020-2021-v2.pdf">State of the Canadian Space Sector Report (PDF, 4.35 MB)</a></li>
-      </ul>
-    </ul>
-    <ul>
-      <li><strong>Link to external content is in a different language.</strong></li>
-      <p>Some non-government web content isn't available in both official languages. If you're linking to external web content that isn't available in the language of the current page, say in which language(s) it is available after the link.</p>
-      <ul>
-        <li>Add parentheses inside the link and specify the language of the linked content, formatted as (Language X only).</li>
-        <li>Do not translate the title of the linked content.</li>
-        <li>Ensure its language is indicated in the link’s code.</li>
-      </ul>
-      <p>On an English page, write:</p>
-      <ul>
-        <li><a href="#">Link text (French only)</a></li>
-        <li><a href="#">Link text (Inuktitut only)</a></li>
-        <li><a href="#">Link text (Spanish and Portuguese only)</a></li>
-        <p><strong>Example: </strong>To renew your French passport while abroad in Canada, follow the steps described in <span lang="fr"><a href="https://passeport.ants.gouv.fr/Vos-demarches/Renouvellement-perte-ou-vol">Effectuer le renouvellement de votre passeport (French only)</a></span>.</p>
-        <p>Follow the same structure on French-language pages linking to English content:</p>
-      </ul>
-      <ul>
-        <li><span lang="fr">L’article 508 révisé, la norme EN 301 549 ou les </span><span lang="en"><a href="https://accessibility.18f.gov/">Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</a></span></li>
-      </ul>
-    </ul>
-    <li><strong>Link opens video or audio content.</strong> Specify the length of the content inside the parentheses. </li>
-    <ul>
-      <li><strong>Example:</strong><a href="https://www.youtube.com/watch?v=GbDT6FxQ6mk"> Using Magnifier in Windows: At a Glance - YouTube (2:07 minutes)</a></li>
-    </ul>
-    <li><strong>When more than one situation applies</strong>, include all applicable information in parentheses.</li>
-    <ul>
-      <li><strong>Example: </strong><a href="https://www.rhone.gouv.fr/contenu/telechargement/47282/261770/file/Psp_urgent_formulaire_26_7_21.pdf">Complete your application&nbsp;&laquo;&nbsp;<span lang="fr">Demande de passeport temporaire (French only, PDF 0.46 MB)&nbsp;&raquo;&nbsp;</span></a></li>
-    </ul>
-    <h4>See how the rule for writing descriptive links applies in French</h4>
-    <ul>
-      <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp7-2">7.2 Rédiger des liens descriptifs</a></span></li>
-    </ul>
-    <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for writing descriptive links", "title": "7.2 Write descriptive links", "url": "https://design.canada.ca/style-guide/#wp7-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-2"}'></div>
-    </div>
   </div>
 </section>
 <section id="wp7-3">
