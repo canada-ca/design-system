@@ -2201,96 +2201,97 @@ title: "Canada.ca Content Style Guide"
   </div>
 </section>
 <section id="wp7-2">
-<h3>7.2 Write descriptive links</h3>
-<p>A link must describe the content a person will find once they click on it. It's easier to complete a task when a link's destination matches a person's expectations.</p>
-<p>Tips for providing useful links:</p>
-<ul>
-  <li>use the first words of the target page or its entire title if it's descriptive enough</li>
-  <li>start with keywords that accurately describe the target page if the page title isn't enough</li>
-  <li>make sure that all links on the same page use unique descriptive text if they link to different target pages</li>
-  <li>when more than one link on a web page links to the same destination page, use the same words for the hyperlink</li>
-  <li>describe any content that must be downloaded</li>
-  <li>write email addresses in full, in lower case and as active links (contact <a href="#wp7-2" aria-label="Example of an appropriate email address">helpdesk@canada.ca</a>)</li>
-</ul>
-<p>Don't use:</p>
-<ul>
-  <li>the same link text to point to 2 different pages </li>
-  <li>vague statements such as "click here" or "read more" </li>
-  <li>promotional messaging that might confuse someone who is deciding whether to go to the page that is being linked&nbsp;to</li>
-</ul>
-<section id="wp7-2-1">
-  <h4>Focus on the task</h4>
-  <p>When writing instructions for completing a task, sometimes you need to insert a link to guide the person to forms or other documents. Focus on the action they must perform when you create the link.</p>
-  <p>Don't repeat the name of a form or document in the steps to accomplish a task if the name isn't descriptive.</p>
-  <h4>Example of the use of links that focus on the task</h4>
-  <h6>Write:</h6>
-  <p>To get the highest Employment Insurance amount available to you:</p>
-  <ol>
-    <li>open the <a href="https://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=ins5241&amp;ln=eng">form you need to declare your income</a></li>
-    <li>identify your highest weeks of insurable income in the shortest period below:
-      <ul>
-        <li>the last 52 weeks of employment </li>
-        <li>since the start of your last claim </li>
-      </ul>
-    </li>
-    <li>return the completed form in person to the <a href="https://www.servicecanada.gc.ca/cgi-bin/sc-srch.cgi?app=hme&amp;ln=eng">Service Canada office closest to you</a></li>
-  </ol>
-  <h6>Instead of:</h6>
-  <p>To ensure that you are paid the maximum Employment Insurance (EI) benefit rate that you are entitled to, complete the <a href="https://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=ins5241&amp;ln=eng">Claimant Attestation - Highest Weeks of Insurable Earnings (Variable Best Weeks) form</a> with the required information about your highest weeks of insurable earnings in the last 52 weeks of employment or since the start of your last claim, whichever is the shorter period of the two.</p>
-</section>
-<section id="wp7-2-2">
-<h4>Use parentheses for contextual information</h4>
-<p>Use parentheses inside a link to add information that provides context about the linked content. Only provide necessary, contextual information to help users decide whether to proceed.</p>
-<p>This guidance applies in the following situations:</p>
-<ul class="lst-spcd">
-<li><strong>Link is to a downloadable document.</strong> Make sure to include <strong>the file type</strong> and <strong>size</strong> in the parentheses:
+  <h3>7.2 Write descriptive links</h3>
+  <p>A link must describe the content a person will find once they click on it. It's easier to complete a task when a link's destination matches a person's expectations.</p>
+  <p>Tips for providing useful links:</p>
   <ul>
-    <li><strong>Example</strong>: <a href="https://www.asc-csa.gc.ca/pdf/eng/publications/2021-2022-state-canadian-space-sector-facts-figures-2020-2021-v2.pdf">State of the Canadian Space Sector Report (PDF, 4.35 MB)</a></li>
+    <li>use the first words of the target page or its entire title if it's descriptive enough</li>
+    <li>start with keywords that accurately describe the target page if the page title isn't enough</li>
+    <li>make sure that all links on the same page use unique descriptive text if they link to different target pages</li>
+    <li>when more than one link on a web page links to the same destination page, use the same words for the hyperlink</li>
+    <li>describe any content that must be downloaded</li>
+    <li>write email addresses in full, in lower case and as active links (contact <a href="#wp7-2" aria-label="Example of an appropriate email address">helpdesk@canada.ca</a>)</li>
   </ul>
-</li>
-<li>
-<p><strong>Link to external content is in a different language.</strong></p>
-<p>Some non-government web content isn't available in both official languages. If you're linking to external web content that isn't available in the language of the current page, say in which language(s) it is available after the link.</p>
-<ul>
-  <li>Add parentheses inside the link and specify the language of the linked content, formatted as (Language X only).</li>
-  <li>Do not translate the title of the linked content.</li>
-  <li>Ensure its language is indicated in the link’s code.</li>
-</ul>
-<p>On an English page, write:</p>
-<ul>
-  <li><a href="#">Link text (French only)</a></li>
-  <li><a href="#">Link text (Inuktitut only)</a></li>
-  <li><a href="#">Link text (Spanish and Portuguese only)</a>
-    <ul>
-      <li><strong>Example</strong>: To renew your French passport while abroad in Canada, follow the steps described in <span lang="fr"><a href="https://passeport.ants.gouv.fr/Vos-demarches/Renouvellement-perte-ou-vol">Effectuer le renouvellement de votre passeport (French only)</a></span>.</li>
-    </ul>
-  </li>
-  <p>Follow the same structure on French-language pages linking to English content:</p>
+  <p>Don't use:</p>
   <ul>
-    <li><span lang="fr">L’article 508 révisé, la norme EN 301 549 ou les </span><span lang="en"><a href="https://accessibility.18f.gov/">Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</a></span></li>
+    <li>the same link text to point to 2 different pages </li>
+    <li>vague statements such as "click here" or "read more" </li>
+    <li>promotional messaging that might confuse someone who is deciding whether to go to the page that is being linked&nbsp;to</li>
   </ul>
-  </li>
-  <li>
-    <p><strong>Link opens video or audio content.</strong> Specify the length of the content inside the parentheses.</p>
-    <ul>
-      <li><strong>Example:</strong><a href="https://www.youtube.com/watch?v=GbDT6FxQ6mk"> Using Magnifier in Windows: At a Glance - YouTube (2:07 minutes)</a></li>
+  <section id="wp7-2-1">
+    <h4>Focus on the task</h4>
+    <p>When writing instructions for completing a task, sometimes you need to insert a link to guide the person to forms or other documents. Focus on the action they must perform when you create the link.</p>
+    <p>Don't repeat the name of a form or document in the steps to accomplish a task if the name isn't descriptive.</p>
+    <h4>Example of the use of links that focus on the task</h4>
+    <h6>Write:</h6>
+    <p>To get the highest Employment Insurance amount available to you:</p>
+    <ol>
+      <li>open the <a href="https://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=ins5241&amp;ln=eng">form you need to declare your income</a></li>
+      <li>identify your highest weeks of insurable income in the shortest period below:
+        <ul>
+          <li>the last 52 weeks of employment </li>
+          <li>since the start of your last claim </li>
+        </ul>
+      </li>
+      <li>return the completed form in person to the <a href="https://www.servicecanada.gc.ca/cgi-bin/sc-srch.cgi?app=hme&amp;ln=eng">Service Canada office closest to you</a></li>
+    </ol>
+    <h6>Instead of:</h6>
+    <p>To ensure that you are paid the maximum Employment Insurance (EI) benefit rate that you are entitled to, complete the <a href="https://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=ins5241&amp;ln=eng">Claimant Attestation - Highest Weeks of Insurable Earnings (Variable Best Weeks) form</a> with the required information about your highest weeks of insurable earnings in the last 52 weeks of employment or since the start of your last claim, whichever is the shorter period of the two.</p>
+  </section>
+  <section id="wp7-2-2">
+    <h4>Use parentheses for contextual information</h4>
+    <p>Use parentheses inside a link to add information that provides context about the linked content. Only provide necessary, contextual information to help users decide whether to proceed.</p>
+    <p>This guidance applies in the following situations:</p>
+    <ul class="lst-spcd">
+      <li><strong>Link is to a downloadable document.</strong> Make sure to include <strong>the file type</strong> and <strong>size</strong> in the parentheses:
+        <ul>
+          <li><strong>Example</strong>: <a href="https://www.asc-csa.gc.ca/pdf/eng/publications/2021-2022-state-canadian-space-sector-facts-figures-2020-2021-v2.pdf">State of the Canadian Space Sector Report (PDF, 4.35 MB)</a></li>
+        </ul>
+      </li>
+      <li>
+        <p><strong>Link to external content is in a different language.</strong></p>
+        <p>Some non-government web content isn't available in both official languages. If you're linking to external web content that isn't available in the language of the current page, say in which language(s) it is available after the link.</p>
+        <ul>
+          <li>Add parentheses inside the link and specify the language of the linked content, formatted as (Language X only).</li>
+          <li>Do not translate the title of the linked content.</li>
+          <li>Ensure its language is indicated in the link’s code.</li>
+        </ul>
+        <p>On an English page, write:</p>
+        <ul>
+          <li><a href="#">Link text (French only)</a></li>
+          <li><a href="#">Link text (Inuktitut only)</a></li>
+          <li><a href="#">Link text (Spanish and Portuguese only)</a>
+            <ul>
+              <li><strong>Example</strong>: To renew your French passport while abroad in Canada, follow the steps described in <span lang="fr"><a href="https://passeport.ants.gouv.fr/Vos-demarches/Renouvellement-perte-ou-vol">Effectuer le renouvellement de votre passeport (French only)</a></span>.</li>
+            </ul>
+          </li>
+        </ul>
+        <p>Follow the same structure on French-language pages linking to English content:</p>
+        <ul>
+          <li><span lang="fr">L’article 508 révisé, la norme EN 301 549 ou les </span><span lang="en"><a href="https://accessibility.18f.gov/">Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</a></span></li>
+        </ul>
+      </li>
+      <li>
+        <p><strong>Link opens video or audio content.</strong> Specify the length of the content inside the parentheses.</p>
+        <ul>
+          <li><strong>Example:</strong><a href="https://www.youtube.com/watch?v=GbDT6FxQ6mk"> Using Magnifier in Windows: At a Glance - YouTube (2:07 minutes)</a></li>
+        </ul>
+      </li>
+      <li>
+        <p><strong>When more than one situation applies</strong>, include all applicable information in parentheses.</p>
+        <ul>
+          <li><strong>Example: </strong><a href="https://www.rhone.gouv.fr/contenu/telechargement/47282/261770/file/Psp_urgent_formulaire_26_7_21.pdf">Complete your application&nbsp;&laquo;&nbsp;<span lang="fr">Demande de passeport temporaire (French only, PDF 0.46 MB)&nbsp;&raquo;&nbsp;</span></a></li>
+        </ul>
+      </li>
     </ul>
-  </li>
-  <li>
-    <p><strong>When more than one situation applies</strong>, include all applicable information in parentheses.</p>
-    <ul>
-      <li><strong>Example: </strong><a href="https://www.rhone.gouv.fr/contenu/telechargement/47282/261770/file/Psp_urgent_formulaire_26_7_21.pdf">Complete your application&nbsp;&laquo;&nbsp;<span lang="fr">Demande de passeport temporaire (French only, PDF 0.46 MB)&nbsp;&raquo;&nbsp;</span></a></li>
-    </ul>
-  </li>
-</ul>
-</section>
-<h4>See how the rule for writing descriptive links applies in French</h4>
-<ul>
-  <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp7-2">7.2 Rédiger des liens descriptifs</a></span></li>
-</ul>
-<div class="mrgn-tp-lg">
-  <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for writing descriptive links", "title": "7.2 Write descriptive links", "url": "https://design.canada.ca/style-guide/#wp7-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-2"}'></div>
-</div>
+  </section>
+  <h4>See how the rule for writing descriptive links applies in French</h4>
+  <ul>
+    <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp7-2">7.2 Rédiger des liens descriptifs</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for writing descriptive links", "title": "7.2 Write descriptive links", "url": "https://design.canada.ca/style-guide/#wp7-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-2"}'></div>
+  </div>
 </section>
 <section id="wp7-3">
   <h3>7.3 Make sure that links work</h3>
