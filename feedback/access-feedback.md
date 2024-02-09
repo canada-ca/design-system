@@ -30,7 +30,7 @@ Feedback can be viewed and downloaded as CSV or Excel files at any time using th
 
 The Feedback Viewer is a password protected environment available to all page feedback participants. Contact the DTO to access to the site.
 
-Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
+Email: [{{ site.emails.dto }}](mailto:{{ site.emails.dto }})
 
 ### Feedback Viewer filters
 

@@ -160,7 +160,7 @@ title: "Diseases and immunization"
   <li>Lose the paper mentality: bring content onto web pages and out of PDFs and posters</li>
 </ul>
 <h2>Request the research </h2>
-<p>Email us at <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a> if you have questions, or would like to know more about this research.</p>
+<p>Email us at <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a> if you have questions, or would like to know more about this research.</p>
 <h2> What do you think? </h2>
 Let us know what you think about this project.  Tweet using the hashtag #Canadadotca.
 <h2> Explore further </h2>

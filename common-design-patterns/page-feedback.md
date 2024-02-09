@@ -159,7 +159,7 @@ title: "Page feedback tool"
         <p>Consider including this value when you're adding the feedback tool to multiple pages on the same topic, such as “passports” or “employment insurance”.</p>
         <p>This is a unilingual value - enter the English section value to your English and French pages.</p>
         <p>If you would like to add a new section value that is not currently in the Feedback Viewer, contact the Digital Transformation Office. We will add the new section value into the Feedback Viewer.</p>
-        <p>Email: <a href="maito:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></p>
+        <p>Email: <a href="maito:{{ site.emails.dto }}">{{ site.emails.dto }}</a></p>
         <h4><span class="label label-warning">Optional</span> Contact link</h4>
         <p><strong>Only consider adding a contact link if</strong> you have tried to make the page content clearer for how to contact the program or service and users are still using the feedback tool to get a response for their situation.</p>
       </details>
@@ -258,13 +258,13 @@ title: "Page feedback tool"
           <li>Veterans</li>
         </ul>
         <p>If you would like to add a new theme value that is not currently in the Feedback Viewer, contact the Digital Transformation Office. We will add the new theme value into the Feedback Viewer.</p>
-        <p>Email: <a href="maito:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></p>
+        <p>Email: <a href="maito:{{ site.emails.dto }}">{{ site.emails.dto }}</a></p>
         <h4><span class="label label-warning">Optional</span> Add a “section” hidden value in the feedback code</h4>
         <p>This is useful when you want to download feedback for multiple pages at the same time.</p>
         <p>Consider including this value when you're adding the feedback tool to multiple pages on the same topic, such as “passports” or “employment insurance”.</p>
         <p>This is a unilingual value - enter the English section value to your English and French pages.</p>
         <p>If you would like to add a new section value that is not currently in the Feedback Viewer, contact the Digital Transformation Office. We will add the new section value into the Feedback Viewer.</p>
-        <p>Email: <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></p>
+        <p>Email: <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a></p>
         <h4><span class="label label-warning">Optional</span> Contact link</h4>
         <p><strong>Only consider adding a contact link if</strong> you have tried to make the page content clearer for how to contact the program or service and users are still using the feedback tool to get a response for their situation.</p>
       </details>
@@ -274,7 +274,7 @@ title: "Page feedback tool"
     <h3>Accessing and analyzing feedback</h3>
     <p>Feedback can be viewed and downloaded as CSV or Excel files at any time using the Feedback Viewer website.</p>
     <p>The Feedback Viewer is a password protected environment available to all page feedback participants. Contact the DTO to get access to the site.</p>
-    <p>Email: <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></p>
+    <p>Email: <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a></p>
     <p><a href="/feedback/">Full guidance for using and analyzing page feedback</a></p>
   </section>
 </section>
