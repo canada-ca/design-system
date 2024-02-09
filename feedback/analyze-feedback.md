@@ -197,7 +197,7 @@ For institutions that receive high volumes of feedback, we are piloting alternat
 
 Contact the Digital Transformation Office if you are receiving more feedback that you can manage through manual analysis.
 
-Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
+Email: [{{ site.emails.dto }}](mailto:{{ site.emails.dto }})
 
 ## Include other supporting data sources
 

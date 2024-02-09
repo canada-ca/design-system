@@ -1,4 +1,4 @@
---- 
+---
 altLangPage: "https://conception.canada.ca/trouvez-modeles-configurations-conception-contenu-web.html"
 date: 2021-05-03
 dateModified: 2019-11-28
@@ -6,14 +6,14 @@ description: "A series of questions to help identify what Canada.ca template and
 title: "Find the right template and design patterns for your web content"
 ---
 <div class="home">
-  <section> 
+  <section>
     <!--Wizard embed-->
     <p>Answer the following questions to find out if there is a template or design pattern you could leverage to design user-centered and task-based content.</p>
     <div class="wb-frmvld">
       <form method="get">
         <!-- Wizard Q1 -->
         <div id="question-1" class="wb-fieldflow" data-wb-fieldflow="{
-							&quot;renderas&quot;:&quot;radio&quot;, 
+							&quot;renderas&quot;:&quot;radio&quot;,
 							&quot;noForm&quot;: true,
 							&quot;base&quot;: { &quot;live&quot;: true },
 											&quot;default&quot;: { &quot;action&quot;: &quot;addClass&quot;, &quot;source&quot;:&quot;#result1,#result2,#result3,#result4,#result5,#result6,#result7,#result8,#result9,#result10,#result11,#result12,#result13,#result14,#result15,#result16,#result17,#result18,#result19,#result20,#result21,#result22,#result23,#result24,#result25,#result26,#result27,#result28,#result29,#result30,#result31,#result32,#result33,#result34,#result35&quot;, &quot;class&quot;: &quot;hidden&quot; }
@@ -27,7 +27,7 @@ title: "Find the right template and design patterns for your web content"
             <li data-wb-fieldflow="{&quot;action&quot;: &quot;append&quot;, &quot;source&quot;: &quot;#question-9&quot;}">Consultation with Canadians</li>
           </ul>
         </div>
-        
+
         <!-- Question 2 -->
         <div id="question-2" class="hidden wb-fieldflow-sub" data-wb-fieldflow="{&quot;renderas&quot;:&quot;radio&quot;}">
           <p>What type of information about programs and services?</p>
@@ -47,7 +47,7 @@ title: "Find the right template and design patterns for your web content"
             <li data-wb-fieldflow="{&quot;action&quot;: &quot;removeClass&quot;, &quot;class&quot;: &quot;hidden&quot;, &quot;source&quot;: &quot;#result9&quot;}">None of the above</li>
           </ul>
         </div>
-        
+
         <!-- Question 3 -->
         <div id="question-3" class="hidden wb-fieldflow-sub" data-wb-fieldflow="{&quot;renderas&quot;:&quot;radio&quot;}">
           <p>What type of list of elements?</p>
@@ -59,7 +59,7 @@ title: "Find the right template and design patterns for your web content"
             <li data-wb-fieldflow="{&quot;action&quot;: &quot;removeClass&quot;, &quot;class&quot;: &quot;hidden&quot;, &quot;source&quot;: &quot;#result8&quot;}">List of guidance on legislation</li>
           </ul>
         </div>
-        
+
         <!-- Question 4 -->
         <div id="question-4" class="hidden wb-fieldflow-sub" data-wb-fieldflow="{&quot;renderas&quot;:&quot;radio&quot;}">
           <p>Do you want to give information about an Act or a Regulation? </p>
@@ -68,7 +68,7 @@ title: "Find the right template and design patterns for your web content"
             <li data-wb-fieldflow="{&quot;action&quot;: &quot;removeClass&quot;, &quot;class&quot;: &quot;hidden&quot;, &quot;source&quot;: &quot;#result11&quot;}">Regulation</li>
           </ul>
         </div>
-        
+
         <!-- Question 5 -->
         <div id="question-5" class="hidden wb-fieldflow-sub" data-wb-fieldflow="{&quot;renderas&quot;:&quot;radio&quot;}">
           <p>What type of information about your organization?</p>
@@ -81,7 +81,7 @@ title: "Find the right template and design patterns for your web content"
             <li data-wb-fieldflow="{&quot;action&quot;: &quot;removeClass&quot;, &quot;class&quot;: &quot;hidden&quot;, &quot;source&quot;: &quot;#result9&quot;}">None of the above</li>
           </ul>
         </div>
-        
+
         <!-- Question 6 -->
         <div id="question-6" class="hidden wb-fieldflow-sub" data-wb-fieldflow="{&quot;renderas&quot;:&quot;radio&quot;}">
           <p>Are you a government organization, institution, or a partnering/collaborative arrangement?</p>
@@ -92,7 +92,7 @@ title: "Find the right template and design patterns for your web content"
             <li data-wb-fieldflow="{&quot;action&quot;: &quot;removeClass&quot;, &quot;class&quot;: &quot;hidden&quot;, &quot;source&quot;: &quot;#result14&quot;}">I don't know</li>
           </ul>
         </div>
-        
+
         <!-- Question 7 -->
         <div id="question-7" class="hidden wb-fieldflow-sub" data-wb-fieldflow="{&quot;renderas&quot;:&quot;radio&quot;}">
           <p>What kind of navigation?</p>
@@ -105,7 +105,7 @@ title: "Find the right template and design patterns for your web content"
             <li data-wb-fieldflow="{&quot;action&quot;: &quot;removeClass&quot;, &quot;class&quot;: &quot;hidden&quot;, &quot;source&quot;: &quot;#result9&quot;}">None of the above</li>
           </ul>
         </div>
-        
+
         <!-- Question 8 -->
         <div id="question-8" class="hidden wb-fieldflow-sub" data-wb-fieldflow="{&quot;renderas&quot;:&quot;radio&quot;}">
           <p>What do you want to promote?</p>
@@ -115,7 +115,7 @@ title: "Find the right template and design patterns for your web content"
             <li data-wb-fieldflow="{&quot;action&quot;: &quot;removeClass&quot;, &quot;class&quot;: &quot;hidden&quot;, &quot;source&quot;: &quot;#result23&quot;}">Promote a program or service on an existing page</li>
           </ul>
         </div>
-        
+
         <!-- Question 9 -->
         <div id="question-9" class="hidden wb-fieldflow-sub" data-wb-fieldflow="{&quot;renderas&quot;:&quot;radio&quot;}">
           <p>What do you want to do about consultations? </p>
@@ -125,7 +125,7 @@ title: "Find the right template and design patterns for your web content"
             <li data-wb-fieldflow="{&quot;action&quot;: &quot;removeClass&quot;, &quot;class&quot;: &quot;hidden&quot;, &quot;source&quot;: &quot;#result28&quot;}">Promote the consultation or the results of a consultation</li>
           </ul>
         </div>
-        
+
         <!--Result-->
         <div id="result1" class="hidden">
           <section class="panel panel-primary">
@@ -4584,7 +4584,7 @@ title: "Find the right template and design patterns for your web content"
             <p>When designing content, always focus on the task the user is trying to accomplish.</p>
             <p>Keep in mind that the measure of success is more than just conformity to guidelines. It is equally important to help users successfully complete their tasks.</p>
             <p>Use templates and patterns that help people complete the task, and don't hesitate to be creative.</p>
-            <p>Contact us at <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a> if you want to: </p>
+            <p>Contact us at <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a> if you want to: </p>
             <ul>
               <li>give us feedback on this wizard</li>
               <li>ask us a question on the templates and patterns</li>

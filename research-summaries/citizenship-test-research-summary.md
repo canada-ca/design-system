@@ -104,7 +104,7 @@ title: "Citizenship test optimization project"
   <li>use plain language and verbs to make labels clearer</li>
 </ul>
 <h2>Request the research </h2>
-<p>If you’d like to see the research findings from this project, let us know. Email us at <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a>.</p>
+<p>If you’d like to see the research findings from this project, let us know. Email us at <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a>.</p>
 <h2>Let us know what you think</h2>
 <p>Tweet using the hashtag #Canadadotca.</p>
 <h2>Explore further </h2>

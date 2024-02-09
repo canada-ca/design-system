@@ -145,7 +145,7 @@ title: "Tax filing"
   <li>Group links together: avoid long lists of links, break them up and group like content together</li>
 </ul>
 <h2>Request the research </h2>
-<p>If you’d like to see the research findings from this project, let us know. Email us at <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a>.</p>
+<p>If you’d like to see the research findings from this project, let us know. Email us at <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a>.</p>
 <h2>What do you think? </h2>
 <p>Let us know what you think about this project. Tweet using the hashtag #Canadadotca.</p>
 <h2>Explore further </h2>
