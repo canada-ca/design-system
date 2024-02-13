@@ -20,12 +20,12 @@ title: "Update history for the Canada.ca Content Style Guide"
       <li>update to specify that abbreviations should be accompanied by their long form the first time they’re used on a page</li>
       <li>update to specify that abbreviations should be accompanied by their long form the first time they’re used on a page</li>
       <li><a href="/style-guide/#wp4-4-2">new subsection Styles of address&nbsp;:</a></li>
-   </ul>
    <ul>
       <li>how to abbreviate, punctuate and format titles, degrees and distinctions with personal names (eg. PhD, Ph.D. Dr.).</li>
       <li>styles of address and honorific titles</li>
    </ul>
-   <li>Under section 7.2 Write descriptive links, added a <a href="https://conception.canada.ca/style-guide/#wp7-2-2">subsection “Use parentheses for contextual information”</a> to clarify how and when to add additional information inside hyperlinks. This new section integrates the content from section 7.4, which is no longer necessary.</li>
+   </ul>
+   <li>Under section 7.2 Write descriptive links, added a subsection <a href="https://conception.canada.ca/style-guide/#wp7-2-2">Use parentheses for contextual information</a> to clarify how and when to add additional information inside hyperlinks. This new section integrates the content from section 7.4, which is no longer necessary.</li>
 </ul>
 <h2>December 12, 2023</h2>
 <ul class="mrgn-tp-lg">
