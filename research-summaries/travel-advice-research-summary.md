@@ -100,7 +100,7 @@ title: "Travel advice and advisories"
             <td>78%</td>
           </tr>
             </tr>
-          
+
           <tr>
             <td>Travel checklist</td>
             <td>11%</td>
@@ -136,7 +136,7 @@ title: "Travel advice and advisories"
 </ul>
 <div class="clearfix"></div>
 <h2>Request the research</h2>
-<p>If you’d like to see the detailed research findings from this project, email us at <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a>.</p>
+<p>If you’d like to see the detailed research findings from this project, email us at <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a>.</p>
 <h2>Let us know what you think</h2>
 <p>Tweet using the hashtag #Canadadotca.</p>
 <h2>Explore further</h2>

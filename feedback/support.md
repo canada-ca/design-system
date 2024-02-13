@@ -18,10 +18,10 @@ Contact the Digital Transformation Office for questions related to:
 * the Feedback Viewer tool
 * how to analyze feedback
 
-Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
+Email: [{{ site.emails.dto }}](mailto:{{ site.emails.dto }})
 
 ## Working Group
 
 The Page Feedback Tool Working Group guides the direction of the tool. Members of the working group provide input and strategize the way forward for the tool.
 
-Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
+Email: [{{ site.emails.dto }}](mailto:{{ site.emails.dto }})

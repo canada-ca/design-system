@@ -101,7 +101,7 @@ title: "Student loans and grants optimization"
             <td>100%</td>
           </tr>
             </tr>
-          
+
           <tr>
             <td>Repayment assistance</td>
             <td>86%</td>
@@ -115,7 +115,7 @@ title: "Student loans and grants optimization"
 <h2>What we learned</h2>
 <p>To better serve Canadians, teams have to remove their program information and focus on providing answers and service. For student loans, that meant guiding users to the provinces and the <abbr title="National Student Loans Service Centre">NSLSC</abbr>. The Canada.ca pages are only there to fill the answer-gaps between those service points. </p>
 <h2>Request the research</h2>
-<p>If you’d like to see the detailed research findings from this project, email us at <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a>.</p>
+<p>If you’d like to see the detailed research findings from this project, email us at <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a>.</p>
 <h2>Let us know what you think</h2>
 <p>Tweet using the hashtag #Canadadotca.</p>
 <h2>Explore further </h2>

@@ -226,7 +226,7 @@ title: "Wayfinding on Canada.ca"
 <h2 id="connect">Connect with the Digital Transformation Office</h2>
 <p>Connect with us if you have questions or would like to see the detailed research findings from this project or the trust study.</p>
 <ul>
-  <li>Email: <a href="mailto:dto-btn@tbs-sct.gc.ca">dto-btn@tbs-sct.gc.ca</a></li>
+  <li>Email: <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a></li>
   <li>Twitter: #CanadaDotCa (English) / #CanadaPointCa (French)</li>
   <li>Slack: <a href="http://design-GC-conception.slack.com">http://design-GC-conception.slack.com</a></li>
 </ul>
