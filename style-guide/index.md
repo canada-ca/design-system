@@ -55,7 +55,7 @@ title: "Canada.ca Content Style Guide"
       <li>styles of address and honorific titles</li>
    </ul>
    </ul>
-   <li>Under section 7.2 Write descriptive links, added a subsection <a href="https://conception.canada.ca/style-guide/#wp7-2-2">Use parentheses for contextual information</a> to clarify how and when to add additional information inside hyperlinks. This new section integrates the content from section 7.4, which is no longer necessary.</li>
+   <li>Under section 7.2 Write descriptive links, added a subsection <a href="/style-guide/#wp7-2-2">Use parentheses for contextual information</a> to clarify how and when to add additional information inside hyperlinks. This new section integrates the content from section 7.4, which is no longer necessary.</li>
 </ul>
   <p><a href="update-history.html">Update history</a> (this list begins with changes on May 25, 2023).</p>
 </section>
