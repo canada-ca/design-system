@@ -8,13 +8,13 @@ title: "Update history for the Canada.ca Content Style Guide"
 <p>This list contains all changes made to the Canada.ca Content Style Guide since May 25, 2023.</p>
 <h2>February 9, 2024</h2>
 <ul class="mrgn-tp-lg">
-   <li>as of January 2024, <i>The Canadian Style</i> and <i>Le guide du rédacteur</i> were archived, with their content integrated into <a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/index-eng"><i>Writing Tips Plus</i></a> and the <span lang=fr><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra"><i>Clés de la rédaction</i></a></span>. We’ve updated references and links in the following sections:</li>
+   <li>as of January 2024, <cite>The Canadian Style</cite> and <cite>Le guide du rédacteur</cite> were archived, with their content integrated into <a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/index-eng"><cite>Writing Tips Plus</cite></a> and the <span lang=fr><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra"><cite>Clés de la rédaction</cite></a></span>. We’ve updated references and links in the following sections:</li>
    <ul>
       <li><a href="/style-guide/#toc2">purpose section</a>: removed references to <cite>The Canadian Style</cite> and replaced with <cite>Writing Tips Plus</cite></li>
       <li><a href="/style-guide/#wp4-2">section 4.2 Underlining, bold and italics</a>: replaced links to archived content with links to current articles</li>
-      <li>resources section updated <a href="/style-guide/#resources">Resources</a>.</li>
+      <li><a href="/style-guide/#resources">resources section</a> updated</li>
    </ul>
-   <li>in section 2.1 Start with the most important information, we've <a href="/style-guide/#wp2-1">updated the inverted pyramid image</a>. We removed most of the worlds from the image and worked it into the page content to make the section easier to read.</li>
+   <li>in section 2.1 Start with the most important information, we've <a href="/style-guide/#wp2-1">updated the inverted pyramid image</a>. We removed most of the words from the image and worked it into the page content to make the section easier to read.</li>
    <li>in <a href="/style-guide/#wp4-4">section 4.4 Abbreviations and acronyms</a> added quick reference links to help users find information related to abbreviations. This includes:</li>
    <ul>
       <li>update to specify that abbreviations should be accompanied by their long form the first time they’re used on a page</li>
