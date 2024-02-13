@@ -572,7 +572,7 @@ We know chat and voice are user interfaces of the future, and the future is now.
 
 ## Request the research
 
-If you’d like to see the detailed research findings from this project, email us at dto.btn@tbs-sct.gc.ca.
+If you’d like to see the detailed research findings from this project, email us at {{ site.emails.dto }}.
 
 ## Let us know what you think
 

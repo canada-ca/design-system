@@ -81,7 +81,7 @@ title: "Recalls and safety alerts search optimization, Round 2"
 <blockquote>“Search is hard. Good search is harder.”</blockquote>
 <div class="clearfix"></div>
 <h2>Request the research</h2>
-<p>If you’d like to see the detailed research findings from this project, email us at <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a>.</p>
+<p>If you’d like to see the detailed research findings from this project, email us at <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a>.</p>
 <h2>Let us know what you think</h2>
 <p>Tweet using the hashtag #Canadadotca.</p>
 <h2>Explore further</h2>
