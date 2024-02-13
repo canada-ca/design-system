@@ -523,24 +523,24 @@
     },
     {
       "scope": {
-        "path": "partners/*.md"
+        "path": "research-summaries/*.md"
       },
       "values": {
-        "section-title": "Working with partners",
+        "section-title": "Research summary",
         "breadcrumbs": [{
             "title": "About Canada.ca",
             "link": "https://design.canada.ca/about/"
           },
           {
-            "title": "Working with partners",
-            "link": "https://design.canada.ca/partners/"
+            "title": "Research summaries",
+            "link": "https://design.canada.ca/research-summaries/"
           }
         ]
       }
     },
     {
       "scope": {
-        "path": "partners/index.md"
+        "path": "research-summaries/index.md"
       },
       "values": {
         "section-title": "",
