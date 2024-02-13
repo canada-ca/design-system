@@ -2,7 +2,7 @@
 ---
 {
   "data": [{
-    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/canada-child-benefit.html\">Canada Child Benefit</a>",
+    "NAME": "<a href=\"{{ site.url }}/research-summaries/canada-child-benefit.html\">Canada Child Benefit</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "This research summary explains the context of the research project in which the subway navigation pattern was created and all the considerations that were taken into account.",
     "WHENTOUSE": "",
@@ -11,7 +11,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   },{
-    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/trust.html\">Trust study</a>",
+    "NAME": "<a href=\"{{ site.url }}/research-summaries/trust.html\">Trust study</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "This trust study helps to better understand which Government of Canada design elements are more strongly associated with trust and confidence in the brand.",
     "WHENTOUSE": "",
@@ -20,7 +20,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   },{
-    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/wayfinding-on-canada-ca.html\">Wayfinding on Canada.ca</a>",
+    "NAME": "<a href=\"{{ site.url }}/research-summaries/wayfinding-on-canada-ca.html\">Wayfinding on Canada.ca</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Examining how users navigate through Canada.ca. Results led to changes that will replace the theme and topic menu. Changes include a new footer, contextual Sign in button and a layered theme page template.",
     "WHENTOUSE": "",
@@ -29,7 +29,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/recalls-research-summary.html\">Recalls and safety alerts</a>",
+    "NAME": "<a href=\"{{ site.url }}/research-summaries/recalls-research-summary.html\">Recalls and safety alerts</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Optimizing content for mobile can improve findability and overall task success rates. Provide answers, not information, optimize task flow, simplify approach, customize search, and use clear, shortened, scannable content.",
     "WHENTOUSE": "",
@@ -38,7 +38,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/recalls-safety-alerts-research-summary.html\">Recalls and safety alerts search optimization, Round 2</a>",
+    "NAME": "<a href=\"{{ site.url }}/research-summaries/recalls-safety-alerts-research-summary.html\">Recalls and safety alerts search optimization, Round 2</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Experimenting with an open source solution to support effective search. What we learned: understand search use cases, fix the data at the source with the right people, and dedicate resources to performance monitoring and data curation.",
     "WHENTOUSE": "",
@@ -47,7 +47,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/electronic-procurement-research-summary.html\">Electronic Procurement Solution</a>",
+    "NAME": "<a href=\"{{ site.url }}/research-summaries/electronic-procurement-research-summary.html\">Electronic Procurement Solution</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Moving paper-based processes online means rethinking how to present documentation. Effective techniques included customized search and wizards, navigable HTML instead of PDFs, and a summary of essential details for improved scannability.",
     "WHENTOUSE": "",
@@ -56,7 +56,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/travel-advice-research-summary.html\">Travel advice and advisories</a>",
+    "NAME": "<a href=\"{{ site.url }}/research-summaries/travel-advice-research-summary.html\">Travel advice and advisories</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Designing content that clearly conveys risk requires a focus on findability. Techniques included using clear headings and link labels for better \"scent of information,\" making content easy to scan, and improving relationships between parent topics and sub-topics.",
     "WHENTOUSE": "",
@@ -65,7 +65,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/cra-contact-us-research-summary.html\">Contact the CRA</a>",
+    "NAME": "<a href=\"{{ site.url }}/research-summaries/cra-contact-us-research-summary.html\">Contact the CRA</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Improving contact pages can reduce misdirected calls and mail, and redirect some people to online resources. Help people choose the right option using collapsible content, group details for richer search engine results, use wizards to guide people through options.",
     "WHENTOUSE": "",
@@ -74,7 +74,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/maternity-parental-research-summary.html\">EI maternity and parental benefits</a>",
+    "NAME": "<a href=\"{{ site.url }}/research-summaries/maternity-parental-research-summary.html\">EI maternity and parental benefits</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "For complex financial tasks with eligibility requirements, focus on simplifying content. Incorporate the words people are searching for, use headings to improve scannability, use the expand/collapse pattern to reduce complexity, help people do the math.",
     "WHENTOUSE": "",
@@ -83,7 +83,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/student-loans-research-summary.html\">Student loans and grants</a>",
+    "NAME": "<a href=\"{{ site.url }}/research-summaries/student-loans-research-summary.html\">Student loans and grants</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "When provinces/territories are the service providers, Canada.ca pages need to redirect people. Reduce program information that doesn't have the answers people are looking for, adjust navigation routes to focus on tasks, use evidence to design language.",
     "WHENTOUSE": "",
@@ -92,7 +92,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/find-job-research-summary.html\">Find a job</a>",
+    "NAME": "<a href=\"{{ site.url }}/research-summaries/find-job-research-summary.html\">Find a job</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Making it easier to find government jobs, we learned to eliminate redundant pages, orient content for users and their top tasks, design for answers not information, use searchable job titles, meet user expectations for a single job search platform.",
     "WHENTOUSE": "",
@@ -101,7 +101,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/citizenship-test-research-summary.html\">Prepare for the citizenship test</a>",
+    "NAME": "<a href=\"{{ site.url }}/research-summaries/citizenship-test-research-summary.html\">Prepare for the citizenship test</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "When turning long documents into web content, present step-by-step processes in a clear sequence, include search and navigation features within the document, eliminate distracting links, and use plain language to make labels clearer.",
     "WHENTOUSE": "",
@@ -110,7 +110,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/business-account-research-summary.html\">Business account maintenance</a>",
+    "NAME": "<a href=\"{{ site.url }}/research-summaries/business-account-research-summary.html\">Business account maintenance</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Reduce call volumes by answering common questions in web content. Front load labels by putting keywords first, reorganize content based on where people look for answers, add a simple wizard to help people get a precise answer.",
     "WHENTOUSE": "",
@@ -119,7 +119,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/caregiving-research-summary.html\">EI special benefits</a>",
+    "NAME": "<a href=\"{{ site.url }}/research-summaries/caregiving-research-summary.html\">EI special benefits</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Reduce ineligible applications by helping people understand eligibility rules and how to apply. Offer a simple visual overview of the complete process, use keywords strategically, put important details where people expect them, and simplify language.",
     "WHENTOUSE": "",
@@ -128,7 +128,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/taxfiling-research-summary.html\">GST/HST and payroll</a>",
+    "NAME": "<a href=\"{{ site.url }}/research-summaries/taxfiling-research-summary.html\">GST/HST and payroll</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "When people can find information but don't understand it (high findability, low task success), use techniques to increase understanding. Match user language, use a step-by-step structure, and reduce complexity by breaking long pages into smaller chunks.",
     "WHENTOUSE": "",
@@ -137,7 +137,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/diseases-research-summary.html\">Disease and immunization information</a>",
+    "NAME": "<a href=\"{{ site.url }}/research-summaries/diseases-research-summary.html\">Disease and immunization information</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Design content to help people make informed choices about their health. Provide answers, not information, design for mobile first, reduce layers, and get content out of PDFs and posters.",
     "WHENTOUSE": "",
@@ -146,7 +146,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"{{ site.urlblogca }}/research-summaries/weather-research-summary.html\">Weather information</a>",
+    "NAME": "<a href=\"{{ site.url }}/research-summaries/weather-research-summary.html\">Weather information</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Redesigning content for a primarily mobile audience means maximizing real estate. Group tasks and sub-tasks together, shorten breadcrumbs, choose the right alert style, shorten content by focusing on answers not information. ",
     "WHENTOUSE": "",

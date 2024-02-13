@@ -458,12 +458,12 @@ title: Tables
   </p>
   <ul>
    <li>
-    <a href="https://blog.canada.ca/research-summaries/cra-contact-us-research-summary">
+    <a href="{{ site.url }}/research-summaries/cra-contact-us-research-summary">
      Research summary: Contact the CRA
     </a>
    </li>
    <li>
-    <a href="https://blog.canada.ca/research-summaries/recalls-research-summary">
+    <a href="{{ site.url }}/research-summaries/recalls-research-summary">
      Project summary: Recalls and safety alerts
     </a>
    </li>

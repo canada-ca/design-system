@@ -196,7 +196,7 @@ title: "Breadcrumb trail"
 <ul>
   <li><a href="https://blog.canada.ca/2020/08/10/CanadaDotCa-trusted-source.html">Canada.ca is a trusted source</a><br>
     Explains the decision to use "Canada.ca" as the label for the first link in the breadcrumb</li>
-  <li><a href="https://blog.canada.ca/research-summaries/wayfinding-on-canada-ca.html">Wayfinding on Canada.ca research summary</a><br>
+  <li><a href="{{ site.url }}/research-summaries/wayfinding-on-canada-ca.html">Wayfinding on Canada.ca research summary</a><br>
     Research showing that people navigating on the site use breadcrumb links nearly twice as often as they use the Theme and topic menu</li>
 </ul>
 <h3>Policy rationale</h3>
