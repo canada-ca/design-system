@@ -12,7 +12,7 @@ title: "Update history for the Canada.ca Content Style Guide"
    <ul>
       <li><a href="/style-guide/#toc2">purpose section</a>: removed references to <cite>The Canadian Style</cite> and replaced with <cite>Writing Tips Plus</cite></li>
       <li><a href="/style-guide/#wp4-2">section 4.2 Underlining, bold and italics</a>: replaced links to archived content with links to current articles</li>
-      <li><a href="/style-guide/#resources">resources section</a> updated</li>
+      <li><a href="/style-guide/#toc13">resources section</a> updated</li>
    </ul>
    <li>in section 2.1 Start with the most important information, we've <a href="/style-guide/#wp2-1">updated the inverted pyramid image</a>. We removed most of the words from the image and worked it into the page content to make the section easier to read.</li>
    <li>in <a href="/style-guide/#wp4-4">section 4.4 Abbreviations and acronyms</a> added quick reference links to help users find information related to abbreviations. This includes:</li>
