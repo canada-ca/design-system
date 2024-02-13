@@ -552,6 +552,35 @@
     },
     {
       "scope": {
+        "path": "partners/*.md"
+      },
+      "values": {
+        "section-title": "Working with partners",
+        "breadcrumbs": [{
+            "title": "About Canada.ca",
+            "link": "https://design.canada.ca/about/"
+          },
+          {
+            "title": "Working with partners",
+            "link": "https://design.canada.ca/partners/"
+          }
+        ]
+      }
+    },
+    {
+      "scope": {
+        "path": "partners/index.md"
+      },
+      "values": {
+        "section-title": "",
+        "breadcrumbs": [{
+          "title": "About Canada.ca",
+          "link": "https://design.canada.ca/about/"
+        }]
+      }
+    },
+    {
+      "scope": {
         "path": "pattern-library.md"
       },
       "values": {
