@@ -13,19 +13,23 @@ title: "Canada.ca Content Style Guide"
     <div class="col-md-8">
       <div class="panel panel-default">
         <div class="panel-body">
-          <h2 class="mrgn-tp-sm">Table of contents</h2>
+          <h2 class="mrgn-tp-sm">Front matter</h2>
           <ul>
             <li><a href="#toc1">Recent updates</a></li>
             <li><a href="#toc2">Purpose</a></li>
             <li><a href="#toc3">Use of the style guide</a></li>
             <li><a href="#toc4">Related policies, standards and procedures</a></li>
-            <li><a href="#toc5">1.0 Writing principles for web content</a></li>
-            <li><a href="#toc6">2.0 Plain language</a></li>
-            <li><a href="#toc7">3.0 Tone</a></li>
-            <li><a href="#toc8">4.0 Style</a></li>
-            <li><a href="#toc9">5.0 Content structure</a></li>
-            <li><a href="#toc10">6.0 Images and videos</a></li>
-            <li><a href="#toc11">7.0 Links</a></li>
+          </ul>
+          <h2 class="mrgn-tp-sm">Sections</h2>
+          <ul>
+            <li><a href="#toc14">Metadata</a></li>
+            <li><a href="#toc5">Writing principles for web content</a></li>
+            <li><a href="#toc6">Plain language</a></li>
+            <li><a href="#toc7">Tone</a></li>
+            <li><a href="#toc8">Style</a></li>
+            <li><a href="#toc9">Content structure</a></li>
+            <li><a href="#toc10">Images and videos</a></li>
+            <li><a href="#toc11">Links</a></li>
             <li><a href="#toc12">Web content makeovers</a></li>
             <li><a href="#toc13">Resources</a></li>
           </ul>
