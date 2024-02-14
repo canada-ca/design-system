@@ -13,12 +13,13 @@ title: "Canada.ca Content Style Guide"
     <div class="col-md-8">
       <div class="panel panel-default">
         <div class="panel-body">
-          <h2 class="mrgn-tp-sm">Front matter</h2>
+          <h2 class="mrgn-tp-sm">About the Guide</h2>
           <ul>
             <li><a href="#toc1">Recent updates</a></li>
             <li><a href="#toc2">Purpose</a></li>
             <li><a href="#toc3">Use of the style guide</a></li>
             <li><a href="#toc4">Related policies, standards and procedures</a></li>
+            <li><a href="#toc13">Resources</a></li>
           </ul>
           <h2 class="mrgn-tp-sm">Sections</h2>
           <ul>
@@ -31,7 +32,6 @@ title: "Canada.ca Content Style Guide"
             <li><a href="#toc10">Images and videos</a></li>
             <li><a href="#toc11">Links</a></li>
             <li><a href="#toc12">Web content makeovers</a></li>
-            <li><a href="#toc13">Resources</a></li>
           </ul>
         </div>
       </div>
