@@ -41,26 +41,26 @@ title: "Canada.ca Content Style Guide"
 <section id="toc1">
   <h2>Recent updates</h2>
   <p>Most recent updates to the guide:</p>
-<ul class="mrgn-tp-lg">
-   <li>as of January 2024, <cite>The Canadian Style</cite> and <cite>Le guide du rédacteur</cite> were archived, with their content integrated into <a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/index-eng"><cite>Writing Tips Plus</cite></a> and the <span lang=fr><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra"><cite>Clés de la rédaction</cite></a></span>. We’ve updated references and links in the following sections:</li>
-   <ul>
+  <ul class="mrgn-tp-lg">
+    <li>as of January 2024, <cite>The Canadian Style</cite> and <cite>Le guide du rédacteur</cite> were archived, with their content integrated into <a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/index-eng"><cite>Writing Tips Plus</cite></a> and the <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra"><cite><span lang="fr">Clés de la rédaction</span></cite></a>. We’ve updated references and links in the following sections:</li>
+    <ul>
       <li><a href="/style-guide/#toc2">purpose section</a>: removed references to <cite>The Canadian Style</cite> and replaced with <cite>Writing Tips Plus</cite></li>
       <li><a href="/style-guide/#wp4-2">section 4.2 Underlining, bold and italics</a>: replaced links to archived content with links to current articles</li>
       <li><a href="/style-guide/#toc13">resources section</a> updated</li>
-   </ul>
-   <li>in section 2.1 Start with the most important information, we've <a href="/style-guide/#wp2-1">updated the inverted pyramid image</a>. We removed most of the words from the image and worked it into the page content to make the section easier to read.</li>
-   <li>in <a href="/style-guide/#wp4-4">section 4.4 Abbreviations and acronyms</a> added quick reference links to help users find information related to abbreviations. This includes:</li>
-  <ul>
+    </ul>
+    <li>in section 2.1 Start with the most important information, we've <a href="/style-guide/#wp2-1">updated the inverted pyramid image</a>. We removed most of the words from the image and worked it into the page content to make the section easier to read.</li>
+    <li>in <a href="/style-guide/#wp4-4">section 4.4 Abbreviations and acronyms</a> added quick reference links to help users find information related to abbreviations. This includes:</li>
+    <ul>
       <li>update to specify that abbreviations should be accompanied by their long form the first time they’re used on a page</li>
       <li>update to specify that abbreviations should be accompanied by their long form the first time they’re used on a page</li>
       <li><a href="/style-guide/#wp4-4-2">new subsection Styles of address&nbsp;:</a></li>
-   <ul>
-      <li>how to abbreviate, punctuate and format titles, degrees and distinctions with personal names (eg. PhD, Ph.D. Dr.).</li>
-      <li>styles of address and honorific titles</li>
-   </ul>
-   </ul>
-   <li>Under section 7.2 Write descriptive links, added a subsection <a href="/style-guide/#wp7-2-2">Use parentheses for contextual information</a> to clarify how and when to add additional information inside hyperlinks. This new section integrates the content from section 7.4, which is no longer necessary.</li>
-</ul>
+      <ul>
+        <li>how to abbreviate, punctuate and format titles, degrees and distinctions with personal names (eg. PhD, Ph.D. Dr.).</li>
+        <li>styles of address and honorific titles</li>
+      </ul>
+    </ul>
+    <li>Under section 7.2 Write descriptive links, added a subsection <a href="/style-guide/#wp7-2-2">Use parentheses for contextual information</a> to clarify how and when to add additional information inside hyperlinks. This new section integrates the content from section 7.4, which is no longer necessary.</li>
+  </ul>
   <p><a href="update-history.html">Update history</a> (this list begins with changes on May 25, 2023).</p>
 </section>
 <section id="toc2">
@@ -96,6 +96,30 @@ title: "Canada.ca Content Style Guide"
     </li>
   </ul>
 </section>
+<section id="toc14">
+<h2>Metadata</h2>
+<div class="row mrgn-tp-lg">
+  <div class="col-md-8">
+    <div class="panel panel-default">
+      <div class="panel-body">
+        <h3 class="mrgn-tp-sm">In this section</h3>
+        <ul>
+          <li><a href="#wp1-1">1.1 Help people complete tasks</a></li>
+          <li><a href="#wp1-2">1.2 Consider the needs of the audience</a>
+            <ul>
+              <li><a href="#wp1-2-1">Writing for accessibility</a></li>
+              <li><a href="#wp1-2-1b">Writing for inclusivity</a></li>
+              <li><a href="#wp1-2-2">Writing for readability</a></li>
+              <li><a href="#wp1-2-3">Writing for specialized audiences</a></li>
+              <li><a href="#wp1-2-4">Consider all screen sizes</a></li>
+            </ul>
+          </li>
+          <li><a href="#wp1-3">1.3 Provide equivalent content in both official languages</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
 <section id="toc5">
   <h2>1.0 Writing principles for web content</h2>
   <div class="row mrgn-tp-lg">
