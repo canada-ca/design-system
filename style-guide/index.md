@@ -97,29 +97,30 @@ title: "Canada.ca Content Style Guide"
   </ul>
 </section>
 <section id="toc14">
-<h2>Metadata</h2>
-<div class="row mrgn-tp-lg">
-  <div class="col-md-8">
-    <div class="panel panel-default">
-      <div class="panel-body">
-        <h3 class="mrgn-tp-sm">In this section</h3>
-        <ul>
-          <li><a href="#wp1-1">1.1 Help people complete tasks</a></li>
-          <li><a href="#wp1-2">1.2 Consider the needs of the audience</a>
-            <ul>
-              <li><a href="#wp1-2-1">Writing for accessibility</a></li>
-              <li><a href="#wp1-2-1b">Writing for inclusivity</a></li>
-              <li><a href="#wp1-2-2">Writing for readability</a></li>
-              <li><a href="#wp1-2-3">Writing for specialized audiences</a></li>
-              <li><a href="#wp1-2-4">Consider all screen sizes</a></li>
-            </ul>
-          </li>
-          <li><a href="#wp1-3">1.3 Provide equivalent content in both official languages</a></li>
-        </ul>
+  <h2>Metadata</h2>
+  <div class="row mrgn-tp-lg">
+    <div class="col-md-8">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <h3 class="mrgn-tp-sm">In this section</h3>
+          <ul>
+            <li><a href="#wp1-1">1.1 Help people complete tasks</a></li>
+            <li><a href="#wp1-2">1.2 Consider the needs of the audience</a>
+              <ul>
+                <li><a href="#wp1-2-1">Writing for accessibility</a></li>
+                <li><a href="#wp1-2-1b">Writing for inclusivity</a></li>
+                <li><a href="#wp1-2-2">Writing for readability</a></li>
+                <li><a href="#wp1-2-3">Writing for specialized audiences</a></li>
+                <li><a href="#wp1-2-4">Consider all screen sizes</a></li>
+              </ul>
+            </li>
+            <li><a href="#wp1-3">1.3 Provide equivalent content in both official languages</a></li>
+          </ul>
+        </div>
       </div>
     </div>
   </div>
-</div>
+</section>
 <section id="toc5">
   <h2>1.0 Writing principles for web content</h2>
   <div class="row mrgn-tp-lg">
