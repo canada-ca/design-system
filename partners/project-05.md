@@ -15,7 +15,7 @@ title: "Recalls and safety alerts search"
 </ul>
 <h2>Why this work matters</h2>
 <ul>
-  <li>the federal government is the largest public buyer of goods and services in Canada, with purchases of approximately $23 billion annually</li>
+  <li>There are thousands of recalls and safety alerts published every year. When Canadians can find and understand this information, they are safer.</li>
 </ul>
 <h2>Overall task performance</h2>
 <p>Functionality in the prototype was evolving as testing began, and some features were only available later in the testing. For this reason, the total number of recorded performances did not meet the minimum threshold for reliable comparison.</p>
@@ -33,4 +33,4 @@ title: "Recalls and safety alerts search"
   <li>You are looking at this bluetooth speaker on eBay. Check if there are any problems with it. Is there a specific detail you should ask the seller about?</li>
 </ul>
 <h2>Research summary</h2>
-<p><a href="https://blog.canada.ca/research-summaries/recalls-safety-alerts-research-summary.html">Research summary: Recalls and safety alerts search</a></p>
+<p><a href="/research-summaries/recalls-safety-alerts-research-summary.html">Research summary: Recalls and safety alerts search</a></p>
