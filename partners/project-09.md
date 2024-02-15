@@ -15,7 +15,7 @@ title: "EI maternity and parental benefits"
 </ul>
 <h2>Why this work matters</h2>
 <ul>
-  <li>Thousands of Canadians parents apply for maternity and parental benefits each year</li>
+  <li>Thousands of Canadian parents apply for maternity and parental benefits each year</li>
 </ul>
 <div class="row mrgn-tp-lg mrgn-bttm-lg">
   <div class="col-md-8">
