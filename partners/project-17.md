@@ -55,4 +55,4 @@ title: "GST/HST and payroll"
   <li>Your business operates seasonally, so you don't pay employees during the winter. Do you need to let CRA know this?</li>
 </ul>
 <h2>Research summary</h2>
-<p><a href="https://blog.canada.ca/research-summaries/taxfiling-research-summary.html">GST/HST and payroll</a></p>
+<p><a href="/research-summaries/taxfiling-research-summary.html">GST/HST and payroll</a></p>

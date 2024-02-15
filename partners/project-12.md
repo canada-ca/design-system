@@ -53,4 +53,4 @@ title: "Find a job"
   <li>You heard there is a carpenter job available in Greenwood, Nova Scotia to work for the Federal Government. Does this job require you to be bilingual, English and French?</li>
 </ul>
 <h2>Research summary</h2>
-<p><a href="https://blog.canada.ca/research-summaries/student-loans-research-summary.html">Student loans and grants</a></p>
+<p><a href="/research-summaries/student-loans-research-summary.html">Student loans and grants</a></p>

@@ -53,4 +53,4 @@ title: "Weather information"
   <li>You are the golf course manager: the sky looks dark. Find out (yes/no) whether you should clear the course because of the potential of lightning in the next 10-20 minutes.</li>
 </ul>
 <h2>Research summary</h2>
-<p><a href="https://blog.canada.ca/research-summaries/weather-research-summary.html">Weather information</a></p>
+<p><a href="/research-summaries/weather-research-summary.html">Weather information</a></p>

@@ -67,7 +67,7 @@ title: "Travel advice and advisories"
   <li>Marco is travelling to Cambodia for his job. Has the Canadian government issued a travel advisory for that country?</li>
 </ul>
 <h2>Research summary</h2>
-<p><a href="https://blog.canada.ca/research-summaries/travel-advice-research-summary.html">Travel advice and advisories</a></p>
+<p><a href="/research-summaries/travel-advice-research-summary.html">Travel advice and advisories</a></p>
 <aside class="wb-fnote" role="note">
   <h2 class="wb-inv" id="fn-travel">Footnotes: Travel advice and advisories</h2>
   <dl>

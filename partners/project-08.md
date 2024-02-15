@@ -59,4 +59,4 @@ title: "Contact the CRA"
   <li>You lost the security code that you need to login to your personal CRA account. Find out which phone number to call to get one.</li>
 </ul>
 <h2>Research summary</h2>
-<p><a href="https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html">Contact the Canada Revenue Agency (CRA)</a></p>
+<p><a href="/research-summaries/cra-contact-us-research-summary.html">Contact the Canada Revenue Agency (CRA)</a></p>

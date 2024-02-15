@@ -54,4 +54,4 @@ title: "Electronic Procurement Solution"
   <li>Sam works at Statistics Canada. It's payday, but he didn't get any pay. What steps should Sam take?</li>
 </ul>
 <h2>Research summary</h2>
-<p><a href="https://blog.canada.ca/research-summaries/electronic-procurement-research-summary.html">Electronic Procurement Solution (EPS) portal</a></p>
+<p><a href="/research-summaries/electronic-procurement-research-summary.html">Electronic Procurement Solution (EPS) portal</a></p>

@@ -58,4 +58,4 @@ title: "EI maternity and parental benefits"
     When will her payments end?</li>
 </ul>
 <h2>Research summary</h2>
-<p><a href="https://blog.canada.ca/research-summaries/maternity-parental-research-summary.html">Employment Insurance (EI) maternity and parental benefits</a></p>
+<p><a href="/research-summaries/maternity-parental-research-summary.html">Employment Insurance (EI) maternity and parental benefits</a></p>

@@ -46,4 +46,4 @@ title: "Orientation and wayfinding"
   </div>
 </div>
 <h2>Research summary</h2>
-<p><a href="https://blog.canada.ca/research-summaries/wayfinding-on-canada-ca.html">Wayfinding on Canada.ca</a></p>
+<p><a href="/research-summaries/wayfinding-on-canada-ca.html">Wayfinding on Canada.ca</a></p>

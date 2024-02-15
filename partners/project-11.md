@@ -54,4 +54,4 @@ title: "Student loans and grants"
   <li>You are having trouble making your loan payments despite still living with your parents in Manitoba. Who would you contact to discuss your situation and find out if you can get help repaying?</li>
 </ul>
 <h2>Research summary</h2>
-<p><a href="https://blog.canada.ca/research-summaries/student-loans-research-summary.html">Student loans and grants</a></p>
+<p><a href="/research-summaries/student-loans-research-summary.html">Student loans and grants</a></p>

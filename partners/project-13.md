@@ -53,4 +53,4 @@ title: "Prepare for the citizenship test"
   <li>What do you need to take with you when you go to take the Citizenship test?</li>
 </ul>
 <h2>Research summary</h2>
-<p><a href="https://blog.canada.ca/research-summaries/citizenship-test-research-summary.html">Prepare for the citizenship test</a></p>
+<p><a href="/research-summaries/citizenship-test-research-summary.html">Prepare for the citizenship test</a></p>

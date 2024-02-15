@@ -54,4 +54,4 @@ title: "Business account maintenance"
   <li>You operate a business in Penticton, B.C., and you need to send some documents to the CRA tax centre that is processing your business return. Find the mailing address you should use.</li>
 </ul>
 <h2>Research summary</h2>
-<p><a href="https://blog.canada.ca/research-summaries/business-account-research-summary.html">Business account maintenance</a></p>
+<p><a href="/research-summaries/business-account-research-summary.html">Business account maintenance</a></p>

@@ -52,4 +52,4 @@ title: "EI special benefits"
   <li>Irina’s father has fallen seriously ill. Her best friend Jane will take time off work to look after him. As Jane is not a member of the family, what will Irina need to do to support Jane's application?</li>
 </ul>
 <h2>Research summary</h2>
-<p><a href="https://blog.canada.ca/research-summaries/caregiving-research-summary.html">Employment Insurance caregiving benefits</a></p>
+<p><a href="/research-summaries/caregiving-research-summary.html">Employment Insurance caregiving benefits</a></p>

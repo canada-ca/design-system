@@ -59,4 +59,4 @@ title: "Recalls and safety alerts"
   <li>You are looking at this high chair on eBay. Check if there are any problems with this model.</li>
 </ul>
 <h2>Research summary</h2>
-<p><a href="https://blog.canada.ca/research-summaries/recalls-research-summary.html">Recalls and safety alerts</a></p>
+<p><a href="/research-summaries/recalls-research-summary.html">Recalls and safety alerts</a></p>
