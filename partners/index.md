@@ -34,7 +34,7 @@ title: Working with partners to improve task success on Canada.ca
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-02.html" aria-label="Medical devices"><img src="images/blank-blue-lm.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Medical devices</h3>
-        <p class="mrgn-tp-lg"><strong>Purpose</strong>: Make it easier for stakeholders subject to Canada’s medical device regulations find and understand regulatory requirements.</p>
+        <p class="mrgn-tp-lg"><strong>Purpose</strong>: Make it easier for stakeholders subject to Canada’s medical device regulations to find and understand regulatory requirements.</p>
         <p><strong>Date</strong>: 2020</p>
         <p><strong>Partner</strong>: Health Canada</p>
       </div>
@@ -214,7 +214,7 @@ title: Working with partners to improve task success on Canada.ca
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-10.html" aria-label="Business start-up activities"><img src="images/blank-blue-lm.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Business start-up activities</h3>
-        <p class="mrgn-tp-lg"><strong>Purpose</strong>: Combine information from across departments so that Canadians easily get the whole picture on what the Government of Canada requires when starting a business</p>
+        <p class="mrgn-tp-lg"><strong>Purpose</strong>: Combine information from across departments so that Canadians easily get the whole picture on what the Government of Canada requires when starting a business.</p>
         <p><strong>Date</strong>: 2017</p>
         <p><strong>Partner</strong>: Canada Revenue Agency; Innovation, Science and Economic Development Canada</p>
       </div>
