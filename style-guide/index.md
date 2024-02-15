@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/guide-redaction"
 date: 2017-10-05
-dateModified:  2024-02-08
+dateModified:  2024-02-14
 description: "The Canada.ca Content Style Guide provides the rules to create web content that can be easily found, understood and used."
 title: "Canada.ca Content Style Guide"
 ---
@@ -37,8 +37,27 @@ title: "Canada.ca Content Style Guide"
 <section id="toc1">
   <h2>Recent updates</h2>
   <p>Most recent updates to the guide:</p>
-  <ul>
-    <li>added a separate page for the <a href="update-history.html">Update history for the Canada.ca Content Style Guide</a></li>
+  <ul class="mrgn-tp-lg">
+    <li>as of January 2024, <cite>The Canadian Style</cite> and <cite>Le guide du rédacteur</cite> were archived, with their content integrated into <a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/index-eng"><cite>Writing Tips Plus</cite></a> and the <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra"><cite><span lang="fr">Clés de la rédaction</span></cite></a>. We’ve updated references and links in the following sections:
+      <ul>
+        <li><a href="/style-guide/#toc2">purpose section</a>: removed references to <cite>The Canadian Style</cite> and replaced with <cite>Writing Tips Plus</cite></li>
+        <li><a href="/style-guide/#wp4-2">section 4.2 Underlining, bold and italics</a>: replaced links to archived content with links to current articles</li>
+        <li><a href="/style-guide/#toc13">resources section</a> updated</li>
+      </ul>
+    </li>
+    <li>in section 2.1 Start with the most important information, we've <a href="/style-guide/#wp2-1">updated the inverted pyramid image</a>. We removed most of the words from the image and worked it into the page content to make the section easier to read.</li>
+    <li>in <a href="/style-guide/#wp4-4">section 4.4 Abbreviations and acronyms</a> added quick reference links to help users find information related to abbreviations. This includes:
+      <ul>
+        <li>update to specify that abbreviations should be accompanied by their long form the first time they’re used on a page</li>
+        <li><a href="/style-guide/#wp4-4-2">new subsection Styles of address&nbsp;:</a>
+          <ul>
+            <li>how to abbreviate, punctuate and format titles, degrees and distinctions with personal names (eg. PhD, Ph.D. Dr.).</li>
+            <li>styles of address and honorific titles</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>Under section 7.2 Write descriptive links, added a subsection <a href="/style-guide/#wp7-2-2">Use parentheses for contextual information</a> to clarify how and when to add additional information inside hyperlinks. This new section integrates the content from section 7.4, which is no longer necessary.</li>
   </ul>
   <p><a href="update-history.html">Update history</a> (this list begins with changes on May 25, 2023).</p>
 </section>

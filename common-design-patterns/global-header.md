@@ -377,7 +377,7 @@ title: "Global header"
   <li>the flag in the Government of Canada signature more when it’s red</li>
   <li>a white background more than dark mode</li>
 </ul>
-<p>If you want to know more about this research, contact the Digital Transformation Office at <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a>.</p>
+<p>If you want to know more about this research, contact the Digital Transformation Office at <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a>.</p>
 <h4>Wayfinding on Canada.ca project</h4>
 <p>We updated the global header for Canada.ca to align with a new overall navigation strategy that came out of the Wayfinding research project.</p>
 <ul>

@@ -159,7 +159,7 @@ title: "Weather optimization"
   <li>Show answers not information: craft answers for top tasks</li>
 </ul>
 <h2>Request the research </h2>
-<p>Email us at <a href="mailto:dto-btn@tbs-sct.gc.ca">dto-btn@tbs-sct.gc.ca</a> if you have questions, or would like to know more about this research.</p>
+<p>Email us at <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a> if you have questions, or would like to know more about this research.</p>
 <h2> What do you think? </h2>
 <p>Let us know what you think about this project. Tweet using the hashtag #Canadadotca.</p>
 <h2> Explore further </h2>
