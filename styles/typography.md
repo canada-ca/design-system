@@ -80,7 +80,7 @@ title: Typography style
   </ul>
     <h2>Main page title</h2>
   <p>When the H1 is the main title of a page, it includes a red bar as part of the Canada.ca brand.</p>
-  <p>Specifications for the red bar (gc-thickline):</p>
+  <p>Specifications for the red bar (formerly known as gc-thickline):</p>
     <ul>
         <li>alignment: left</li>
         <li>colour: #AF3C43</li>
