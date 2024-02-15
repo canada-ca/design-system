@@ -56,4 +56,4 @@ title: "Disease and immunization information"
   <li>The weekly flu report says most cases are an H3N2 flu. Find out if that particular flu is in this year's vaccine in Canada to help persuade your partner to get a flu shot.</li>
 </ul>
 <h2>Research summary</h2>
-<p><a href="https://blog.canada.ca/research-summaries/diseases-research-summary.html">GST/HST and payroll</a></p>
+<p><a href="/research-summaries/diseases-research-summary.html">Diseases and immunization information</a></p>
