@@ -14,7 +14,7 @@ title: "Electronic Procurement Solution"
 </ul>
 <h2>Why this work matters</h2>
 <ul class="lst-spcd">
-  <li>the federal government is the largest public buyer of goods and services in Canada, with purchases of approximately $23 billion annually</li>
+  <li>The federal government is the largest public buyer of goods and services in Canada, with purchases of approximately $23 billion annually</li>
   <li>PSPC procures close to 80% of the federal government’s annual procurement expenditures on behalf of client departments and agencies,amounting to approximately $18 billion in goods and services</li>
 </ul>
 <div class="row mrgn-tp-lg mrgn-bttm-lg">
