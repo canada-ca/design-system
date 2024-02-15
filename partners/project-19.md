@@ -14,7 +14,8 @@ title: "Weather information"
 </ul>
 <h2>Why this work matters</h2>
 <ul>
-  <li>Flu cases result in nearly 12,000 hospitalizations in Canada each year</li>
+  <li>Canadians check the weather with the Government of Canada more than they do anything else</li>
+  <li>More than 550,000,000 visits to weather.gc.ca annually</li>
 </ul>
 <div class="row mrgn-tp-lg mrgn-bttm-lg">
   <div class="col-md-8">
