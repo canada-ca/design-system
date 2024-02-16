@@ -65,7 +65,7 @@ title: Institutional landing page
           </tr>
           <tr>
             <td><a href="#">Featured link</a></td>
-            <td><p>??????.</p></td>
+            <td><p>The featured link is a short, descriptive link that your institution needs to feature prominently.</p></td>
             <td class="text-center">Optional</td>
           </tr>
           <tr>
