@@ -103,7 +103,7 @@ title: Institutional landing page
             <td>Flexible space:<br>
             <ul>
             <li><a href="">Latest news</a></li>
-            <li><a href="">context-specific features</a></li>
+            <li><a href="">Context-specific features</a></li>
             </ul>
             </td>
             <td><p>The bottom portion of the page above the footer is considered a flexible space where departments may add content of their choosing.</p>
