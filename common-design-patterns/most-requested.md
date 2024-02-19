@@ -119,26 +119,25 @@ title: Most requested
         </div>
     </div>
 </div>
-    <h2 id="research">Research and rationale</h2>
-    <h3>Research findings</h3>
-    <p>The banded approach to the most requested pattern was successfully tested on the Canada.ca home page in 2018.</p>
-    <p>As part of the Contact the Canada Revenue Agency (CRA) project in 2019, the banded approach was successfully tested on a prototype of the CRA institutional landing page.</p>
-    <p>The usefulness of most requested links for navigation pages was reconfirmed as part of the Wayfinding project in 2022.</p>
-    <h3>Policy rationale</h3>
-    <p>The most requested pattern is required in the following mandatory templates:</p>
-    <ul>
-        <li><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional landing page</a></li>
-        <li><a href="https://design.canada.ca/mandatory-templates/theme-topic.html">Theme and topic page template</a></li>
-    </ul>
-    <h2 id="latest">Latest changes</h2>
-    <dl class="dl-horizontal">
-        <dt>
-            <time datetime="2023-08-20" class="link-muted">2023-08-20</time>
-        </dt>
-        <dd>Updated guidance to reflect the banded style for the most requested pattern</dd>
-        <dt>
-            <time datetime="2018-12-19" class="link-muted">2018-12-19</time>
-        </dt>
-        <dd>Documented the most requested pattern</dd>
-    </dl>
-    
+<h2 id="research">Research and rationale</h2>
+<h3>Research findings</h3>
+<p>The banded approach to the most requested pattern was successfully tested on the Canada.ca home page in 2018.</p>
+<p>As part of the Contact the Canada Revenue Agency (CRA) project in 2019, the banded approach was successfully tested on a prototype of the CRA institutional landing page.</p>
+<p>The usefulness of most requested links for navigation pages was reconfirmed as part of the Wayfinding project in 2022.</p>
+<h3>Policy rationale</h3>
+<p>The most requested pattern is required in the following mandatory templates:</p>
+<ul>
+    <li><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional landing page</a></li>
+    <li><a href="https://design.canada.ca/mandatory-templates/theme-topic.html">Theme and topic page template</a></li>
+</ul>
+<h2 id="latest">Latest changes</h2>
+<dl class="dl-horizontal">
+    <dt>
+        <time datetime="2023-08-20" class="link-muted">2023-08-20</time>
+    </dt>
+    <dd>Updated guidance to reflect the banded style for the most requested pattern</dd>
+    <dt>
+        <time datetime="2018-12-19" class="link-muted">2018-12-19</time>
+    </dt>
+    <dd>Documented the most requested pattern</dd>
+</dl>
