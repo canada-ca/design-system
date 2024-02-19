@@ -126,7 +126,7 @@ title: Most requested
       </div>
     </div>
   </div>
-</section>
+  
 <section>
     <h2 id="research">Research and rationale</h2>
     <h3>Research findings</h3>
