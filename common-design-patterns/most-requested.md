@@ -118,6 +118,7 @@ title: Most requested
             </div>
         </div>
     </div>
+</div>
     <h2 id="research">Research and rationale</h2>
     <h3>Research findings</h3>
     <p>The banded approach to the most requested pattern was successfully tested on the Canada.ca home page in 2018.</p>
@@ -140,4 +141,4 @@ title: Most requested
         </dt>
         <dd>Documented the most requested pattern</dd>
     </dl>
-</div>
+    
