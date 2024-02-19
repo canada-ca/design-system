@@ -94,9 +94,9 @@ title: Most requested
     </div>
 </section>
 <section>
-    <h2 id="implement">How to implement</h2>
-    <p>Find working examples and code for implementing the most requested pattern.</p>
-    <h3>Implementations</h3>
+  <h2 id="implement">How to implement</h2>
+  <p>Find working examples and code for implementing the most requested pattern.</p>
+  <h3>Implementations</h3>
   <p>Determine what best suits the type of page you're creating.</p>
   <div class="row">
   <div class="col-md-8">
@@ -126,7 +126,7 @@ title: Most requested
       </div>
     </div>
   </div>
-  </section>this is silly why
+</section>
 <section>
     <h2 id="research">Research and rationale</h2>
     <h3>Research findings</h3>
