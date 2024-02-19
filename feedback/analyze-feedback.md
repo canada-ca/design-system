@@ -1,14 +1,8 @@
 ---
 altLangPage: https://conception.canada.ca/retroaction/methodes.html
-breadcrumbs:
-  - title: About Canada.ca
-    link: https://www.canada.ca/en/government/about.html
-  - title: Analytics and feedback
-    link: https://www.canada.ca/en/analytics.html
-  - title: Page feedback
-    link: https://design.canada.ca/feedback/index.html
+date: null
 dateModified: 2023-02-28
-layout: default
+description: null
 title: Methods for analyzing feedback
 ---
 
@@ -203,7 +197,7 @@ For institutions that receive high volumes of feedback, we are piloting alternat
 
 Contact the Digital Transformation Office if you are receiving more feedback that you can manage through manual analysis.
 
-Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
+Email: [{{ site.emails.dto }}](mailto:{{ site.emails.dto }})
 
 ## Include other supporting data sources
 

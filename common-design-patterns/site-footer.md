@@ -27,7 +27,6 @@ title: "Global footer"
     <li><a href="#implement">How to implement</a></li>
     <li><a href="#research">Research and rationale</a></li>
     <li><a href="#latest">Latest changes</a></li>
-    <li><a href="#discuss">Discussion</a></li>
   </ul>
 </section>
 <section>
@@ -275,7 +274,7 @@ title: "Global footer"
         <summary><strong>Drupal WxT</strong></summary>
         <p class="mrgn-tp-lg">For Drupal WxT:</p>
         <ul>
-          <li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</a></li>
+          <li><a href="https://drupalwxt.github.io/">Drupal WxT documentation</a></li>
         </ul>
         <p>2023 footer update:</p>
         <ul>
@@ -291,7 +290,7 @@ title: "Global footer"
   <p>We updated the global footer for Canada.ca to align with a new overall navigation strategy that came out of the
     Wayfinding research project.</p>
   <ul>
-    <li><a href="https://blog.canada.ca/research-summaries/wayfinding-on-canada-ca">Wayfinding on Canada.ca research summary</a><br>
+    <li><a href="{{ site.url }}/research-summaries/wayfinding-on-canada-ca">Wayfinding on Canada.ca research summary</a><br>
       This summary explains the context of the research and the insights that drove the design updates.</li>
     <li><a href="https://blog.canada.ca/2022/12/21/wayfinding-research-project">Wayfinding research project improves our approach to navigation on Canada.ca</a><br>
       This blog post explains the changes that are being made to the Canada.ca design, and how they are being implemented.</li>
@@ -313,13 +312,4 @@ title: "Global footer"
     </dt>
     <dd>Updated pattern to reflect design changes from the Wayfinding project, moved detailed specifications to sub pages specific to individual bands</dd>
   </dl>
-</section>
-<section>
-  <h2 id="discuss">Discussion</h2>
-  <ul>
-    <li><a href="https://github.com/canada-ca/design-system-systeme-conception/issues">Discuss the pattern in GitHub
-      issues</a></li>
-    <li><a href="https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM">Join the conversation on Slack</a></li>
-    <li><a href="mailto:dto.btn@tbs-sct.gc.ca">Send an email to the Digital Transformation Office</a></li>
-  </ul>
 </section>

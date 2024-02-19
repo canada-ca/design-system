@@ -1,0 +1,42 @@
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "{% if page.type %}{{ page.type }}{% elsif page.layout == 'post' %}BlogPosting{% else %}WebPage{% endif %}",
+        {% if page.title %}"name": "{{ page.title }}",{% endif %}
+        {% if page.description %}"description": "{{ page.description }}",{% endif %}
+        {% if page.author or site.author %}"author":
+        {
+            "@type": "{% if page.author %}Person{% else %}Organization{% endif %}",
+            "name": "{% if page.author %}{{ page.author }}{% else %}{{ site.author[ page.lang ] }}{% endif %}"
+        },
+        {%- endif %}
+        {% if page.date %}"dateCreated": "{{ page.date }}",{% endif %}
+        {%- unless page.pageclass contains "home" or page.breadcrumbs == false %}
+        "breadcrumb":
+        {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@type": "WebPage",
+                    "@id": "{{ i18nText-homePage }}",
+                    "name": "{{ i18nText-home }}"
+                }
+            },
+        {%- for breadcrumb in page.breadcrumbs %}
+            {
+                "@type": "ListItem",
+                "position": {{ forloop.index | plus: 1 }},
+                "item": {
+                    "@type": "{% if breadcrumb.type %}{{ breadcrumb.type }}{% else %}WebPage{% endif %}",
+                    "@id": "{{ breadcrumb.link | relative_url }}",
+                    "name": "{{ breadcrumb.title }}"
+                }
+            }{% unless forloop.last %},{%- endunless -%}
+            {% endfor %}]
+        },{% endunless %}
+        "url": "{{ page.url | remove_first: '/' | remove_first: page.lang | prepend: site.urlalt[ page.lang ] }}"
+    }
+</script>

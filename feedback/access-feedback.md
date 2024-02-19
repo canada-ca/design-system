@@ -1,14 +1,8 @@
 ---
 altLangPage: https://conception.canada.ca/retroaction/access-feedback.html
-breadcrumbs:
-  - title: About Canada.ca
-    link: https://www.canada.ca/en/government/about.html
-  - title: Analytics and feedback
-    link: https://www.canada.ca/en/analytics.html
-  - title: Page feedback
-    link: https://design.canada.ca/feedback/index.html
+date: null
 dateModified: 2023-02-28
-layout: default
+description: null
 title: How to access page feedback
 ---
 <div class="gc-stp-stp">
@@ -36,7 +30,7 @@ Feedback can be viewed and downloaded as CSV or Excel files at any time using th
 
 The Feedback Viewer is a password protected environment available to all page feedback participants. Contact the DTO to access to the site.
 
-Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
+Email: [{{ site.emails.dto }}](mailto:{{ site.emails.dto }})
 
 ### Feedback Viewer filters
 

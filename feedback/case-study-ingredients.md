@@ -1,16 +1,8 @@
 ---
 altLangPage: https://conception.canada.ca/retroaction/etude-cas-ingredients.html
-breadcrumbs:
-  - title: About Canada.ca
-    link: https://www.canada.ca/en/government/about.html
-  - title: Analytics and feedback
-    link: https://www.canada.ca/en/analytics.html
-  - title: Page feedback
-    link: https://design.canada.ca/feedback/index.html
-  - title: How to use feedback
-    link: https://design.canada.ca/feedback/benefits.html
+date: null
 dateModified: 2023-02-28
-layout: default
+description: null
 title: Case study - Identifying a content gap with page feedback
 ---
 
@@ -35,7 +27,7 @@ Feedback about ingredients on the Pfizer-BioNTech “What you should know” pag
 The link to ingredients from the "On this page" navigation became the second most used link on the page after the addition.
 
 <figure class="gc-complex-img" role="group">
-  <img alt="A long description can be found after the image." src="./images/action-2.png" />
+  <img alt="A long description can be found after the image." src="images/action-2.png" />
   <figcaption>
     <details>
       <summary>Feedback from ingredient list</summary>

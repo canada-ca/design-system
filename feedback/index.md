@@ -5,9 +5,9 @@ breadcrumbs:
     link: https://www.canada.ca/en/government/about.html
   - title: Analytics and feedback
     link: https://www.canada.ca/en/analytics.html
-dateModified: 2023-02-28
+dateModified: 2023-11-07
 layout: default
-title: Page feedback tool
+title: Page feedback tool guidance
 ---
 
 The page feedback tool is a <strong>research tool</strong> that can help you better understand issues affecting task success at the page level.  
@@ -45,7 +45,7 @@ The page feedback tool is a <strong>research tool</strong> that can help you bet
     <section class="wb-eqht gc-drmt">
       <div class="col-md-4">
         <section>
-          <h3><a href="https://test.canada.ca/experimental/feedback-retroaction/page-feedback.html">Implementation</a></h3>
+          <h3><a href="https://design.canada.ca/common-design-patterns/page-feedback.html">Implementation</a></h3>
           <p>Get the code to implement the page feedback tool on your site</p>
         </section>
       </div>

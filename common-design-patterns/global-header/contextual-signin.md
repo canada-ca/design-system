@@ -3,7 +3,6 @@ altLangPage: https://conception.canada.ca/configurations-conception-communes/con
 date: 2022-09-23
 dateModified: 2023-06-26
 description: The Sign in button directs to authenticated government accounts. It's a persistent call to action in a group of related pages.
-layout: default
 title: Contextual Sign in button
 ---
 <div class="row">
@@ -167,7 +166,7 @@ title: Contextual Sign in button
 					<summary><strong>Drupal WxT</strong></summary>
 					<p class="mrgn-tp-lg">For Drupal WxT:</p>
 					<ul>
-						<li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</a></li>
+						<li><a href="https://drupalwxt.github.io/">Drupal WxT documentation</a></li>
 					</ul>
 				</details>
 				</div>

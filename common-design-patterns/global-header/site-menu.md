@@ -214,7 +214,7 @@ title: "Theme and topic menu"
 					<summary><strong>Drupal WxT</strong></summary>
 					<p class="mrgn-tp-lg">For Drupal WxT:</p>
 					<ul>
-						<li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</a></li>
+						<li><a href="https://drupalwxt.github.io/">Drupal WxT documentation</a></li>
 					</ul>
 				</details>
 			</div>
@@ -230,7 +230,7 @@ title: "Theme and topic menu"
   <br>Explains the decision to use “Canada.ca” as the label for the first link in the breadcrumb
 </li>
 <li>
-  <a href="https://blog.canada.ca/research-summaries/wayfinding-on-canada-ca.html">Wayfinding on Canada.ca research summary</a>
+  <a href="{{ site.url }}/research-summaries/wayfinding-on-canada-ca.html">Wayfinding on Canada.ca research summary</a>
   <br>Research showing that people navigating on the site use breadcrumb links nearly twice as often as they use the Theme and topic menu</li>
 </ul>
 

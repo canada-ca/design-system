@@ -39,7 +39,7 @@ title: "Government of Canada signature"
 <p>Find content and design specifications and visual examples.</p>
 <h3>Content specifications</h3>
   <p>The Government of Canada signature appears in the top-left corner of the page.</p>
-  <p>The signature is composed of the flag symbol in Federal Identity Policy red, followed by the words Government of Canada in English and Gouvernement du Canada in French, both in black text.</p>
+  <p>The signature is composed of the flag symbol in Federal Identity Program red, followed by the words Government of Canada in English and Gouvernement du Canada in French, both in black text.</p>
   <p>The signature must appear as English first on English pages and French first on French pages.</p>
 <h4>Accessibility</h4>
 <p>Include Government of Canada as alt text on the English side, Gouvernement du Canada as alt text on the French side.</p>
@@ -54,7 +54,7 @@ title: "Government of Canada signature"
   <li>Alt text: Government of Canada</li>
 </ul>
 <p>The signature is a Scalable Vector Graphics (SVG) file, configured to scale automatically according to screen size.</p>
-<p>The signature is an image file that must be formatted according to <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/design-standard/colour-design-standard-fip.html">Federal Identity Program design specifications</a>.</p>
+<p>The signature is an image file that must be formatted according to the <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/design-standard.html">Design Standard for the Federal Identity Program</a>.</p>
 <h3>Visual examples</h3>
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
@@ -107,7 +107,7 @@ title: "Government of Canada signature"
           <summary><strong>Drupal WxT</strong></summary>
           <p class="mrgn-tp-lg">For Drupal WxT:</p>
           <ul>
-            <li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</a></li>
+            <li><a href="https://drupalwxt.github.io/">Drupal WxT documentation</a></li>
           </ul>
         </details>
       </div>
@@ -119,7 +119,7 @@ title: "Government of Canada signature"
 <h3>Research findings</h3>
 <p>Trust and consistency are essential. Our Canada.ca Trust Study and prior research show that a consistent header is necessary to maintaining a trusted brand.</p>
 <p>For example, people trust the page more when the flag in the Government of Canada signature is red.</p>
-<p>If you want to know more about this research, contact the Digital Transformation Office at <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a>.</p>
+<p>If you want to know more about this research, contact the Digital Transformation Office at <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a>.</p>
 <h3>Policy rationale</h3>
 <p>The Government of Canada signature is defined by the Federal Identity Program. As a part of the global header, it is a mandatory element under the <cite>Content and Information Architecture Specification.</cite></p>
 <ul>

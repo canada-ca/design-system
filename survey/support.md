@@ -1,7 +1,8 @@
 ---
 altLangPage: https://conception.canada.ca/sondage/soutien.html
+date: null
 dateModified: 2023-04-05
-description: ""
+description: null
 title: Contact and support for the GC Task Success Survey
 ---
 
@@ -40,7 +41,7 @@ Contact the Digital Transformation Office for questions related to:
 * taking action and implementing changes
 * joining the working group
 
-Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
+Email: [{{ site.emails.dto }}](mailto:{{ site.emails.dto }})
 
 ## When to contact Principal Publisher
 

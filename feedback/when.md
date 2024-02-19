@@ -1,14 +1,8 @@
 ---
 altLangPage: https://conception.canada.ca/retroaction/quand.html
-breadcrumbs:
-  - title: About Canada.ca
-    link: https://www.canada.ca/en/government/about.html
-  - title: Analytics and feedback
-    link: https://www.canada.ca/en/analytics.html
-  - title: Page feedback
-    link: https://design.canada.ca/feedback/index.html
-dateModified: 2023-02-28
-layout: default
+date: null
+dateModified: 2023-11-07
+description: null
 title: When to use the page feedback tool
 ---
 
@@ -24,30 +18,65 @@ title: When to use the page feedback tool
 
 ## On this page
 
+* [When to use the page feedback tool](#when-to-use-the-page-feedback-tool)
 * [Use cases for the page feedback tool](#use-cases-for-the-page-feedback-tool)
 * [Expectations and commitment](#expectations-and-commitment)
-* [How not to use the tool](#how-not-to-use-the-tool)
+* [How not to use the tool](#how-not-to-use-the-feedback-tool)
 
-## Use cases for the page feedback tool
 
-Consider adding the page feedback tool to:
-
-* uncover specific page-level issues affecting you GC Task Success Survey task score
-* understand content issues on pages you will be working on in the future
-* understand if new or existing pages are meeting user needs
-* identify emerging issues
-* monitor after page improvements have gone live
-
+## When to use the page feedback tool
 We recommend using the feedback tool where there is a commitment to reading and acting on input:
 
 * on specific pages; and
 * for a defined period of time
 
-## Expectation and commitment
+
+## Use cases for the page feedback tool
+
+Consider adding the page feedback tool to:
+
+* uncover specific page-level issues affecting your GC Task Success Survey task score
+* understand content issues on pages you will be working on in the future
+* understand if new or existing pages are meeting user needs
+* identify emerging issues
+* monitor after page improvements have gone live
+
+
+
+## Expectations and commitment
 
 It is important to commit to reading, considering, and taking action based on what is submitted through feedback. Without this commitment, we are wasting peoples’ time.
 
 In certain cases, people will leave feedback with their opinions of a certain program or policy. Addressing a policy issue is beyond the scope of web teams, so it's important to share these comments with program and policy colleagues.
+
+### Recognizing and handling threats
+Before you implement the page feedback tool on your pages, make sure your organization has a process in place to deal with threatening feedback. A similar process may already be documented for threats received through email, social media and/or call centres.
+
+Though the likelihood of receiving threatening feedback is low, there is still a risk given the open textbox. So it’s important to be prepared.
+
+Depending on the nature of the threat, there are different steps that should be taken.
+
+
+
+### Specific threat or a personal crisis
+* Identifies a target (address, office name, person) and/or the person leaving the comment.
+
+#### What to do
+
+If you receive a message about a specific threat or a personal crisis through the page feedback tool you must report it.
+* Retain a copy of the comment and date/time submitted.
+* Immediately contact local police or the RCMP and provide a copy of the comment.
+* Contact your department’s security services.
+
+### Non-specific threat
+* Does not identify a specific target (“you people”, “those guys”, “the government”).
+* Hypothetical (“if I go to the office, I’ll hurt someone”).
+
+#### What to do
+
+* Retain a copy of the comment and date/time submitted.
+* Follow the same procedures that your organization has in place for threats received through email, social media and/or call centres.
+
 
 ## How not to use the feedback tool
 
@@ -58,12 +87,12 @@ The feedback tool should not be used for the following purposes:
 The feedback tool is biased towards collecting ‘no’ answers in several ways:
 
 * Humans, by nature, have a negativity bias
-* We are only collecting feedback is someone selects ‘no’
+* We are only collecting feedback if someone selects ‘no’
 * If they did find an answer and were successful, they may never have reached the bottom of the page
 
 ### Evaluating statistical significance of feedback based on page visits
 
-The number of page visits does not represent the number of people who saw the feedback tool at the bottom of the page or were motivated to use it
+The number of page visits does not represent the number of people who saw the feedback tool at the bottom of the page or were motivated to use it.
 
 ### Monitoring of public perceptions
 
@@ -80,6 +109,11 @@ We don't recommend keeping the feedback tool on a page continuously. This reiter
 ### Secure spaces
 
 We don't recommend using the tool within secure spaces. In these spaces, it is better to ensure users have clear access to direct support channels.
+
+### Sensitive content
+
+If using the tool on pages with sensitive subjects (for example, suicide), ensure you monitor the feedback frequently and take action where needed. The tool should be added for short intervals and then removed while you make improvements to the page.
+
 
 <nav role="navigation" class="mrgn-bttm-lg">
   <ul class="pager">

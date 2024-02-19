@@ -1,14 +1,8 @@
 ---
-altLangPage: https://conception.canada.ca/retroaction/soutien.html 
-breadcrumbs:
-  - title: About Canada.ca
-    link: https://www.canada.ca/en/government/about.html
-  - title: Analytics and feedback
-    link: https://www.canada.ca/en/analytics.html
-  - title: Page feedback
-    link: https://design.canada.ca/feedback/index.html
+altLangPage: https://conception.canada.ca/retroaction/soutien.html
+date: null
 dateModified: 2023-02-28
-layout: default
+description: null
 title: Get support for the page feedback tool
 ---
 
@@ -24,10 +18,10 @@ Contact the Digital Transformation Office for questions related to:
 * the Feedback Viewer tool
 * how to analyze feedback
 
-Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
+Email: [{{ site.emails.dto }}](mailto:{{ site.emails.dto }})
 
 ## Working Group
 
 The Page Feedback Tool Working Group guides the direction of the tool. Members of the working group provide input and strategize the way forward for the tool.
 
-Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
+Email: [{{ site.emails.dto }}](mailto:{{ site.emails.dto }})
