@@ -9,7 +9,6 @@ title: Most requested
 <label class="label label-info">Optional</label>
 <p>The most requested pattern features top tasks for landing pages that offer many choices. Top tasks are the main things that users are trying to do in a given context.</p>
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/most-requested-en.png" class="img-responsive" alt="" /></div>
-<section>
     <h2>On this page</h2>
     <ul>
         <li><a href="#use">When to use</a></li>
@@ -19,18 +18,12 @@ title: Most requested
         <li><a href="#research">Research and rationale</a></li>
         <li><a href="#latest">Latest changes</a></li>
     </ul>
-</section>
-<section>
     <h2 id="use">When to use</h2>
     <p>Use this pattern on navigation pages where people are trying to find where to start their task, such as a topic page or an institutional landing page.</p>
-</section>
-<section>
     <h2 id="avoid">What to avoid</h2>
     <p>Don’t use this pattern when you want people to stay on the page and do their task.</p>
     <p>Don’t use this to promote departmental preferences. Use data and evidence to determine the top tasks people are trying to access.</p>
     <p>Don’t present different top tasks on the English and French versions of the landing page. Top tasks should be the same in both languages.</p>
-</section>
-<section>
     <h2 id="design">Content and design</h2>
     <p>Find content and design specifications and visual examples.</p>
     <h3>Content specifications</h3>
@@ -92,8 +85,6 @@ title: Most requested
             </details>
         </figure>
     </div>
-</section>
-<section>
   <h2 id="implement">How to implement</h2>
   <p>Find working examples and code for implementing the most requested pattern.</p>
   <h3>Implementations</h3>
@@ -126,8 +117,6 @@ title: Most requested
       </div>
     </div>
   </div>
-</section>
-<section>
     <h2 id="research">Research and rationale</h2>
     <h3>Research findings</h3>
     <p>The banded approach to the most requested pattern was successfully tested on the Canada.ca home page in 2018.</p>
@@ -139,8 +128,6 @@ title: Most requested
         <li><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional landing page</a></li>
         <li><a href="https://design.canada.ca/mandatory-templates/theme-topic.html">Theme and topic page template</a></li>
     </ul>
-</section>
-<section>
     <h2 id="latest">Latest changes</h2>
     <dl class="dl-horizontal">
         <dt>
@@ -152,4 +139,3 @@ title: Most requested
         </dt>
         <dd>Documented the most requested pattern</dd>
     </dl>
-</section>
