@@ -21,7 +21,7 @@ title: "Contact the Digital Transformation Office"
       <h2>Contact information</h2>
       <p>ESDC ATIP Coordinator</p>
       <ul>
-        <li>Telephone: <a href="tel:1-819-654-6981"></a></li>
+        <li>Telephone: <a href="tel:1-819-654-6981">1-819-654-6981</a></li>
         <li>Email: <a href="mailto:NC-COMM-ATIP-AIPRP-GD@hrsdc-rhdcc.gc.ca">NC-COMM-ATIP-AIPRP-GD@hrsdc-rhdcc.gc.ca</a></li>
       </ul>
       <p>Other contacts</p>
