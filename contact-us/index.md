@@ -2,7 +2,7 @@
 altLangPage: "https://conception.canada.ca/contactez-nous/"
 breadcrumbs: false
 date: 2023-04-18
-dateModified: 2023-08-14
+dateModified: 2024-02-20
 description: "Contact the Digital Transformation Office about the Canada.ca design system."
 nomenu: true
 noReportProblem: true
@@ -11,22 +11,22 @@ script: ./gc-referrer.js
 share: false
 title: "Contact the Digital Transformation Office"
 ---
-Contact us to ask design questions or make suggestions about the design of Canada.ca.
-
+<p>Contact us to ask design questions or make suggestions about the design of Canada.ca.</p>
 <div class="row">
   <div class="col-md-8">
     <details class="mrgn-tp-lg">
       <summary>Information about privacy</summary>
-      <p class="mrgn-tp-lg">We collect the personal information you submit through this contact form under the authority of the <cite>Financial Administration Act</cite>, so we can respond to you. Providing the information requested on this form is voluntary. The personal information collected will be available to those program staff responsible for administering the website, and will be used and protected in accordance with the <cite>Privacy Act</cite> and as described in Personal Information Bank PSU 914 Public Communications. Under the <cite>Privacy Act</cite>, you have the right to the correction of, access to, and protection of your personal information. If you have any questions about this privacy statement, contact the TBS Access to Information and Privacy Coordinator. If you are not satisfied with TBS’s response to your privacy concern, you may wish to contact the Office of the Privacy Commissioner.</p>
+      <p class="mrgn-tp-lg">As part of Employment and Social Development Canada, we have the permission to collect and store personal information from the <cite>Department of Employment and Social Development Act</cite> Section 5.1. The type of information we hold about you and what we do with it, is listed in “<a href="https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#psu914">Public Communications - PSU 914</a>”. We handle your information under Part 4 of the <a href="https://laws-lois.justice.gc.ca/eng/acts/h-5.7/FullText.html"><cite>Department of Employment and Social Development Act</cite></a>, <a href="https://laws-lois.justice.gc.ca/eng/acts/a-1/page-1.html"><cite>Access to Information Act</cite></a>, and <a href="https://laws-lois.justice.gc.ca/ENG/ACTS/P-21/index.html"><cite>Privacy Act</cite></a>. We also follow the <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=18309"><cite>Directive on Privacy Practices</cite></a>.</p>
+      <p>The personal information you submit through this contact form enables us to respond to you. Providing the information requested on this form is voluntary. The personal information collected will be available to those program staff responsible for administering the website, and will be used and protected in accordance with the Privacy Act and as described in Personal Information <a href="https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#psu914">Bank PSU 914 Public Communications</a>. Under the Privacy Act, you have the right to the correction of, access to, and protection of your personal information. If you have any questions about this privacy statement, contact the ESDC Access to Information and Privacy Coordinator. If you are not satisfied with departmental response to your privacy concern, you may wish to contact the <a href="https://www.priv.gc.ca/en/">Office of the Privacy Commissioner</a>.</p>
       <h2>Contact information</h2>
-      <p>Treasury Board’s ATIP Coordinator</p>
+      <p>ESDC ATIP Coordinator</p>
       <ul>
-        <li>Telephone: 1-866-312-1511</li>
-        <li>Email: <a href="mailto:ATIP.AIPRP@tbs-sct.gc.ca">ATIP.AIPRP@tbs-sct.gc.ca</a></li>
+        <li>Telephone: <a href="tel:1-819-654-6981">1-819-654-6981</a></li>
+        <li>Email: <a href="mailto:NC-COMM-ATIP-AIPRP-GD@hrsdc-rhdcc.gc.ca">NC-COMM-ATIP-AIPRP-GD@hrsdc-rhdcc.gc.ca</a></li>
       </ul>
       <p>Other contacts</p>
       <ul>
-        <li><a href="Office of the Privacy Commissioner of Canada">Office of the Privacy Commissioner of Canada</a></li>
+        <li><a href="https://www.priv.gc.ca/en/">Office of the Privacy Commissioner of Canada</a></li>
       </ul>
       <h2>References</h2>
       <ul>
@@ -36,7 +36,6 @@ Contact us to ask design questions or make suggestions about the design of Canad
     </details>
   </div>
 </div>
-
 <div class="wb-frmvld row">
   <form action="/contact-us/thank-you.html"  method="post" class="gc-referrer mrgn-tp-lg col-md-8 gc-font-2019" netlify>
     <input type="hidden" value="" name="referer" id="referrer">
@@ -73,8 +72,12 @@ Contact us to ask design questions or make suggestions about the design of Canad
       </div>
     </div>
     <ul class="list-unstyled list-inline mrgn-tp-lg">
-      <li><button type="submit" class="btn btn-lg btn-primary">Submit</button></li>
-      <li><button type="reset" class="btn btn-lg btn-link">Cancel</button></li>
+      <li>
+        <button type="submit" class="btn btn-lg btn-primary">Submit</button>
+      </li>
+      <li>
+        <button type="reset" class="btn btn-lg btn-link">Cancel</button>
+      </li>
     </ul>
   </form>
 </div>
