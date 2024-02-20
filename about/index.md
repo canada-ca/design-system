@@ -35,8 +35,8 @@ title: "About Canada.ca"
       </div>
       <div class="col-md-6">
         <section>
-          <h3 class="h5"><a href="{{ site.urlblogca }}/pages/project-overview.html">Content improvement projects</a></h3>
-          <p>Projects the Digital Transformation Office is working on with departmental partners to make Canada.ca work better for people.</p>
+          <h3 class="h5"><a href="{{ site.url }}/partners/">Working with partners</a></h3>
+          <p>Projects the Digital Transformation Office is working on with departmental partners to improve task success on Canada.ca.</p>
         </section>
       </div>
       <div class="clearfix"></div>
