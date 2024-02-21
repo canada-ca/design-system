@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/a-propos/apercu-projet.html"
+altLangPage: "https://conception.canada.ca/partenaires/"
 css:
    - https://design.canada.ca/css/split-h1.css
    - https://design.canada.ca/css/custom.css
