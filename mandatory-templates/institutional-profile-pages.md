@@ -340,24 +340,43 @@ title: Institutional landing page
     </section>
     <section>
         <h2 id="changes">Latest changes</h2>
-        <p><strong>2024-03-XX:</strong></p>
-        <ul>
-            <li>Moved template from beta to stable</li>
-            <li>Updated the guidance to include content and design specifications, visual examples and implementation guidance</li>
-        </ul>
-        <p><strong>2020-07-23:</strong></p>
-        <ul>
-            <li>Front-end code review, creating changes to overall HTML/CSS</li>
-            <li>Remove opacity from featured link for contrast</li>
-            <li>Improvements to background image layout</li>
-        </ul>
-        <p><strong>2020-07-13:</strong></p>
-        <ul>
-            <li>Changes to fix accessibility issues</li>
-            <li>Most requested pattern updated to bullets</li>
-            <li>Changes to doormat columns in tablet view</li>
-        </ul>
-        <p><strong>2020-03-05:</strong> added an optional CSS class to hide the top image in tablet view</p>
-        <p><strong>2019-11-28:</strong> a new beta version of this template was added</p>
-    </section>
+    <dl class="dl-horizontal">
+        <dt>
+            <time datetime="2023-10-xx" class="link-muted">2023-10-xx</time>
+        </dt>
+        <dd>
+            <ul>
+                <li>Moved template from beta to stable</li>
+                <li>Updated the guidance to include content and design specifications, visual examples and implementation guidance</li>
+            </ul>
+        </dd>
+        <dt>
+            <time datetime="2020-07-23" class="link-muted">2020-07-23</time>
+        </dt>
+        <dd>
+            <ul>
+                <li>Front-end code review, creating changes to overall HTML/CSS</li>
+                <li>Remove opacity from featured link for contrast</li>
+                <li>Improvements to background image layout</li>
+            </ul>
+        </dd>
+        <dt>
+            <time datetime="2020-07-13" class="link-muted">2020-07-13</time>
+        </dt>
+        <dd>
+            <ul>
+              <li>Changes to fix accessibility issues</li>
+              <li>Most requested pattern updated to bullets</li>
+              <li>Changes to doormat columns in tablet view</li>
+            </ul>
+        </dd>
+        <dt>
+            <time datetime="2020-03-05" class="link-muted">2020-03-05</time>
+        </dt>
+        <dd>added an optional CSS class to hide the top image in tablet view</dd>
+        <dt>
+            <time datetime="2019-11-28" class="link-muted">2019-11-28</time>
+        </dt>
+        <dd>a new beta version of this template was added</dd>
+    </dl>
 </section>
