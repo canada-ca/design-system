@@ -18,22 +18,27 @@ title: Institutional landing page
     <ul>
         <li><a href="#use">When to use</a></li>
         <li><a href="#avoid">What to avoid</a></li>
+        <li><a href="#design">Content and design</a></li>
         <li><a href="#implement">How to implement</a></li>
-        <li><a href="#research">Research</a></li>
+        <li><a href="#research">Research and rationale</a></li>
         <li><a href="#changes">Latest changes</a></li>
     </ul>
     <section>
         <h2 id="use">When to use</h2>
         <p>
-            All Government of Canada institutions and organizations subject to the <a href="http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682"><cite>Directive on the Management of Communications</cite></a>must use this template as their
-            landing page.
+           The purpose of this page is to help people find information and services with a focus on top tasks.
         </p>
-        <p>Consult the <a href="https://www.canada.ca/en/government/about/design-system/institutions-list.html">Canada.ca Institutions list</a>for the full list.</p>
+        <p>It should also allow people to find additional content, including:</p>
+        <ul>
+          <li>mandate and organizational structure</li>
+          <li>contact information</li>
+          <li>news and promotions</li>
+          <li>reports and publications</li>
+        </ul>
     </section>
     <section>
         <h2 id="avoid">What to avoid</h2>
-        <p>Only use this template as the landing page of official institutions and organizations from the <a href="https://www.canada.ca/en/government/about/design-system/institutions-list.html">Canada.ca Institutions list</a>.</p>
-        <p>Don't use this template for specific programs or entities that are not official institutions or organizations of the Government of Canada.</p>
+        <p>Don't use this template unless your department, agency or organization appears on the  <a href="https://www.tbs-sct.canada.ca/ap/fip-pcim/reg-eng.asp">FIP registry</a>.</p>
     </section>
     <section>
         <h2 id="design">Content and design</h2>
@@ -43,12 +48,12 @@ title: Institutional landing page
                 <div class="panel panel-default">
                     <table class="table table-striped" id="ilp-01" aria-live="polite">
                         <caption class="wb-inv">
-                            Content and design patterns for Institutional Landing Page
+                            Content and design patterns for the institutional landing page
                         </caption>
                         <thead>
                             <tr>
                                 <th class="col-md-3">Pattern</th>
-                                <th class="col-md-7">Institutional landing page guidance guidance</th>
+                                <th class="col-md-7">Institutional landing page guidance</th>
                                 <th class="col-md-2 text-center">Required</th>
                             </tr>
                         </thead>
