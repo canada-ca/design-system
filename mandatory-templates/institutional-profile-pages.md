@@ -39,7 +39,9 @@ title: Institutional landing page mandatory template
 <section>
   <h2 id="specifications">How to implement</h2>
   <p>You can use either the <strong>beta</strong> or the <strong>stable</strong> version of this template.</p>
-  <section>
+    <div id="code" class="alert alert-warning">
+    <p>We are stabilizing the institutional landing page. This coded example of the beta version will be deprecated soon. A link to the stabilized code will be provided once available on GCWeb.</p>
+  </div>
     <h3>Beta institutional landing page</h3>
     <p>The beta version is an improvement over the stable version. The code is still under review. It may still be subject to changes.</p>
     <p>The beta version will eventually replace the stable version.</p>
@@ -59,9 +61,6 @@ title: Institutional landing page mandatory template
         </div>
       </div>
     </div>
-    <section id="code" class="alert alert-warning">
-    <p>We are stabilizing the institutional landing page. This coded example of the beta version will be deprecated soon. A link to the stabilized code will be provided once available on GCWeb.</p>
-  </section>
   <div class="clearfix"></div>
   <section>
     <h3>Stable institutional landing page</h3>
