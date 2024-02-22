@@ -42,11 +42,11 @@ title: "Metadata for findability"
 <section>
   <h2 id="m2">Canada.ca metadata</h2>
   <p>Three key metadata elements that require careful attention to improve the findability of your content are:</p>
-  <ul>
+  <ol>
     <li>page title</li>
     <li>meta description</li>
     <li>keywords</li>
-  </ul>
+  </ol>
   <p>Each element tells search engines something specific about your page so relevant links with helpful references to your content can appear on a search engine's results page.</p>
   <p>People use title and description metadata to help them decide whether to follow a search result. Keywords in titles and descriptions help search engines show relevant results.</p>
   <p>The two most important parts of metadata for external search engines, such as Google and Bing, are:</p>
