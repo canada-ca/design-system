@@ -18,6 +18,7 @@ title: "Metadata for findability"
   <li><a href="#m6">Keywords</a></li>
 </ul>
 <section id="m1">
+  <h2>Metadata and findability defined</h2>
   <p><strong>Findability</strong> refers to how easily someone can find what they are looking for online.</p>
   <p><strong>Metadata</strong> is data that describes data.  It is information about the content on your page, much like labels in a library filing system.   It plays a critical role in findability as each element is structured to make it easier for search tools to identify, categorize and prioritize content.  Metadata is found in the head tag and is not displayed.</p>
   <div class="row">
