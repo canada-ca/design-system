@@ -57,7 +57,7 @@ title: "Metadata for findability"
   <p><strong>Note</strong>: some Canada.ca pages may use "dc.terms.title" or "dc.terms.description", as this was mandatory for key GC web pages under the Standard on Metadata from 2010 to 2024.  Pages with "dc" elements should use duplicate content to populate them.</p>
   <h3>Example of metadata on a Canada.ca page</h3>
   <div class="row">
-    <div class="col-md-8">
+    <div class="col-md-8 mrgn-bttm-lg">
       <pre><code>
 &lt;head&gt;
 
