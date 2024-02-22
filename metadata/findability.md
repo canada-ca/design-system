@@ -39,8 +39,8 @@ title: "Metadata for findability"
     </div>
   </div>
 </section>
-<section>
-  <h2 id="m2">Canada.ca metadata</h2>
+<section id="m2">
+  <h2>Canada.ca metadata</h2>
   <p>Three key metadata elements that require careful attention to improve the findability of your content are:</p>
   <ol>
     <li>page title</li>
@@ -77,4 +77,17 @@ title: "Metadata for findability"
   <p>When the words people use to search on external search engines match keywords in your your title and description metadata, there's a better chance that your page will rank higher in their search results.  Matches in the "keywords" element will improve results on a Canada.ca search.</p>
   <p>Today's external search engines use semantic search, not keyword matching (lexical search). A semantic search interprets the meaning and intent of words and phrases to improve results.  It infers what someone wants to find even when exact keywords are not matched. For example, Schema markup (Google calls this "structured data") is a form of metadata that helps search engines identify the important concepts in your content.</p>
   <p>The Canada.ca search assessment tool  [LINKS TO TOOL] can help you assess the quality of the content in these three metadata fields, and address gaps. To use the tool, visit [link to webtool], and follow the instructions.</p>
+</section>
+<section id="m3">
+  <h3>Which pages to focus on</h3>
+  <p>Improve findability (search optimization) by focusing efforts on the pages that matter most to Canada.ca visitors.  Review both your page and search analytics [LINKS TO TOOLS] to identify your most visited pages to prioritize metadata improvement.</p>
+  <p>Optimize the metadata on the following types of pages:</p>
+  <ul>
+    <li>Theme and topic pages</li>
+    <li>Pages that support top tasks</li>
+    <li>Sign-in pages</li>
+    <li>Entry points to popular products (databases or indexes)</li>
+    <li>Institutional landing pages</li>
+    <li>Transparency pages</li>
+  </ul>
 </section>
