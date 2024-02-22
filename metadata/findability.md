@@ -34,6 +34,7 @@ title: "Metadata for findability"
 
    &#8230;
  &#60;/head&#62;
+
 </code></pre>
     </div>
   </div>
@@ -53,7 +54,7 @@ title: "Metadata for findability"
     <li>title  &lt;title&gt;</li>
     <li>description &lt;meta name="description" content="Description of the page's content and purpose"&gt;</li>
   </ol>
-  <p>Note: some Canada.ca pages may use "dc.terms.title" or "dc.terms.description", as this was mandatory for key GC web pages under the Standard on Metadata from 2010 to 2024.  Pages with "dc" elements should use duplicate content to populate them.</p>
+  <p><strong>Note</strong>: some Canada.ca pages may use "dc.terms.title" or "dc.terms.description", as this was mandatory for key GC web pages under the Standard on Metadata from 2010 to 2024.  Pages with "dc" elements should use duplicate content to populate them.</p>
   <h3>Example of metadata on a Canada.ca page</h3>
   <div class="row">
     <div class="col-md-8">
@@ -65,10 +66,11 @@ title: "Metadata for findability"
    &lt;meta name="dcterms.description" content="The Canada.ca Content Style Guide provides the rules to create web content that can be easily found, understood and used."/&gt;
    
 &lt;/head&gt;
+
 </code></pre>
     </div>
   </div>
-  The third element is keywords. Keywords are only used by Canada.ca's internal search engine to rank search results.  They are generally ignored by external search engines, such as Google and Bing.
+  <p>The third element is keywords. Keywords are only used by Canada.ca's internal search engine to rank search results.  They are generally ignored by external search engines, such as Google and Bing.</p>
   <ul start="3">
     <li>&lt;meta name="keywords" content="keyword, keyword, keyword phrase"&gt;</li>
   </ul>
