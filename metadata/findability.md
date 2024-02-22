@@ -7,11 +7,22 @@ keywords: "waffles"
 section-title: "Metadata"
 title: "Metadata for findability"
 ---
-<p><strong>Findability</strong> refers to how easily someone can find what they are looking for online.</p>
-<p><strong>Metadata</strong> is data that describes data.  It is information about the content on your page, much like labels in a library filing system.   It plays a critical role in findability as each element is structured to make it easier for search tools to identify, categorize and prioritize content.  Metadata is found in the head tag and is not displayed.</p>
-<div class="row">
-  <div class="col-md-8">
-    <pre><code>
+<p>Use this guidance to write good metadata.  It will make Canada.ca content easier for people to find with external search engines and the internal Canada.ca search engine.</p>
+<h2>On this page</h2>
+<ul>
+  <li><a href="#m1">Metadata and findability defined</a></li>
+  <li><a href="#m2">Canada.ca metadata</a></li>
+  <li><a href="#m3">Which pages to focus on</a></li>
+  <li><a href="#m4">Title</a></li>
+  <li><a href="#m5">Description</a></li>
+  <li><a href="#m6">Keywords</a></li>
+</ul>
+<section id="m1">
+  <p><strong>Findability</strong> refers to how easily someone can find what they are looking for online.</p>
+  <p><strong>Metadata</strong> is data that describes data.  It is information about the content on your page, much like labels in a library filing system.   It plays a critical role in findability as each element is structured to make it easier for search tools to identify, categorize and prioritize content.  Metadata is found in the head tag and is not displayed.</p>
+  <div class="row">
+    <div class="col-md-8">
+      <pre><code>
  &#60;head&#62;
    &#8230;   
 
@@ -22,14 +33,6 @@ title: "Metadata for findability"
    &#8230;
  &#60;/head&#62;
 </code></pre>
+    </div>
   </div>
-</div>
-<h2>On this page</h2>
-<ul>
-  <li><a href="#m1">Canada.ca metadata</a></li>
-  <li><a href="#m2">Which pages to focus on</a></li>
-  <li><a href="#m3">Title</a></li>
-  <li><a href="#m4">Description</a></li>
-  <li><a href="#m5">Keywords</a></li>
-</ul>
-<section id="m1"> </section>
+</section>
