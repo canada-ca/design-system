@@ -79,7 +79,7 @@ title: "Metadata for findability"
   <p>The Canada.ca search assessment tool  [LINKS TO TOOL] can help you assess the quality of the content in these three metadata fields, and address gaps. To use the tool, visit [link to webtool], and follow the instructions.</p>
 </section>
 <section id="m3">
-  <h3>Which pages to focus on</h3>
+  <h2>Which pages to focus on</h2>
   <p>Improve findability (search optimization) by focusing efforts on the pages that matter most to Canada.ca visitors.  Review both your page and search analytics [LINKS TO TOOLS] to identify your most visited pages to prioritize metadata improvement.</p>
   <p>Optimize the metadata on the following types of pages:</p>
   <ul>
