@@ -7,9 +7,11 @@ keywords: "waffles"
 section-title: "Metadata"
 title: "Metadata for findability"
 ---
-<p><strong>Findability</strong> refers to how easily someone can find what they are looking for online. <strong>Metadata</strong> is data that describes data.  It is information about the content on your page, much like labels in a library filing system.   It plays a critical role in findability as each element is structured to make it easier for search tools to identify, categorize and prioritize content.</p>
-<p>Metadata is found in the head tag and is not displayed.</p>
-<pre><code>
+<p><strong>Findability</strong> refers to how easily someone can find what they are looking for online.</p>
+<p><strong>Metadata</strong> is data that describes data.  It is information about the content on your page, much like labels in a library filing system.   It plays a critical role in findability as each element is structured to make it easier for search tools to identify, categorize and prioritize content.  Metadata is found in the head tag and is not displayed.</p>
+<div class="row">
+  <div class="col-md-8">
+    <pre><code>
  &#60;head&#62;
    &#8230;   
 
@@ -20,6 +22,8 @@ title: "Metadata for findability"
    &#8230;
  &#60;/head&#62;
 </code></pre>
+  </div>
+</div>
 <h2>On this page</h2>
 <ul>
   <li><a href="#m1">Canada.ca metadata</a></li>
