@@ -69,11 +69,11 @@ title: "Metadata for findability"
     <li>title  &lt;title&gt;</li>
     <li>description &lt;meta name="description" content="Description of the page's content and purpose"&gt;</li>
   </ol>
-  <p class="small"><strong>Note</strong>: some Canada.ca pages may use "dc.terms.title" or "dc.terms.description", as this was mandatory for key GC web pages under the Standard on Metadata from 2010 to 2024.  Pages with "dc" elements should use duplicate content to populate them.</p>
+  <p><strong>Note</strong>: some Canada.ca pages may use "dc.terms.title" or "dc.terms.description", as this was mandatory for key GC web pages under the Standard on Metadata from 2010 to 2024.  Pages with "dc" elements should use duplicate content to populate them.</p>
+  <p>The third element is keywords. Keywords are only used by Canada.ca's internal search engine to rank search results.  They are generally ignored by external search engines, such as Google and Bing.</p>
   <ol start="3">
     <li>&lt;meta name="keywords" content="keyword, keyword, keyword phrase"&gt;</li>
   </ol>
-  <p>The third element is keywords. Keywords are only used by Canada.ca's internal search engine to rank search results.  They are generally ignored by external search engines, such as Google and Bing.</p>
   <p>When the words people use to search on external search engines match keywords in your your title and description metadata, there's a better chance that your page will rank higher in their search results.  Matches in the "keywords" element will improve results on a Canada.ca search.</p>
   <p>Today's external search engines use semantic search, not keyword matching (lexical search). A semantic search interprets the meaning and intent of words and phrases to improve results.  It infers what someone wants to find even when exact keywords are not matched. For example, Schema markup (Google calls this "structured data") is a form of metadata that helps search engines identify the important concepts in your content.</p>
   <p>The Canada.ca search assessment tool  [LINKS TO TOOL] can help you assess the quality of the content in these three metadata fields, and address gaps. To use the tool, visit [link to webtool], and follow the instructions.</p>
