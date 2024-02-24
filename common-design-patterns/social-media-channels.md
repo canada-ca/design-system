@@ -92,27 +92,27 @@ title: Social media channels
                         <tr>
                             <td>Facebook</td>
                             <td><p>facebook</p></td>
-                            <td class="text-center"><img style="max-width:50px;" src="../images/social-media/facebook.svg" /></td>
+                            <td class="text-center"><img style="max-width:50px;" src="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/gc-follow-us/facebook.svg" /></td>
                         </tr>
                         <tr>
-                            <td>Twitter</td>
+                            <td>X</td>
                             <td><p>twitter</p></td>
-                            <td class="text-center"><img style="max-width:50px;" src="../images/social-media/twitter.svg" /></td>
+                            <td class="text-center"><img style="max-width:50px;" src="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/gc-follow-us/x.svg" /></td>
                         </tr>
                         <tr>
                             <td>YouTube</td>
                             <td><p>youtube</p></td>
-                            <td class="text-center"><img style="max-width:50px;" src="../images/social-media/youtube.svg" /></td>
+                            <td class="text-center"><img style="max-width:50px;" src="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/gc-follow-us/youtube.svg" /></td>
                         </tr>
                         <tr>
                             <td>Instagram</td>
                             <td>instagram</td>
-                            <td class="text-center"><img style="max-width:50px;" src="../images/social-media/instagram.svg" /></td>
+                            <td class="text-center"><img style="max-width:50px;" src="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/gc-follow-us/instagram.svg" /></td>
                         </tr>
                         <tr>
                             <td>LinkedIn</td>
                             <td><p>linkedin</p></td>
-                            <td class="text-center"><img style="max-width:50px;" src="../images/social-media/linkedin.svg" /></td>
+                            <td class="text-center"><img style="max-width:50px;" src="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/gc-follow-us/linkedin.svg" /></td>
                         </tr>
                     </tbody>
                 </table>
@@ -130,7 +130,7 @@ title: Social media channels
                 <p>Social media channel links appear in a section with the heading “On social media”. Below the heading is a vertical list with associated icons and labels:</p>
                 <ul>
                     <li>Facebook icon followed by the placeholder text FacebookPageName</li>
-                    <li>Twitter icon followed by the placeholder text @TwitterAccount</li>
+                    <li>X icon followed by the placeholder text @XAccount</li>
                     <li>Youtube icon followed by the placeholder text YouTubeName</li>
                     <li>Instagram icon followed by the placeholder text InstagramName</li>
                     <li>LinkedIn icon followed by the placeholder text LinkedInName</li>
@@ -147,7 +147,7 @@ title: Social media channels
                 <p>Social media channel links appear in a section with the heading “On social media”. Below the heading is a horizontal list with associated icons, but without labels:</p>
                 <ul>
                     <li>Facebook</li>
-                    <li>Twitter</li>
+                    <li>X</li>
                     <li>Youtube</li>
                     <li>Instagram</li>
                     <li>LinkedIn</li>
@@ -164,7 +164,7 @@ title: Social media channels
                 <p>Social media channel links appear in a section with the heading “On social media”. Below the heading is a vertical list with associated icons and labels:</p>
                 <ul>
                     <li>Facebook icon followed by the placeholder text FacebookPageName</li>
-                    <li>Twitter icon followed by the placeholder text @TwitterAccount</li>
+                    <li>X icon followed by the placeholder text @XAccount</li>
                     <li>Youtube icon followed by the placeholder text YouTubeName</li>
                     <li>Instagram icon followed by the placeholder text InstagramName</li>
                     <li>LinkedIn icon followed by the placeholder text LinkedInName</li>
@@ -192,7 +192,7 @@ title: Social media channels
     <h3>GCweb (WET) theme implementation reference</h3>
     <p>The implementation reference includes how to configure elements of the design system.</p>
     <ul>
-        <li><a href="">Social media channels - GCWeb</a></li>
+        <li><a href="https://wet-boew.github.io/GCWeb/components/gc-follow-us/gc-follow-us-en.html">Social media channels - GCWeb</a></li>
         <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-en.html">Quick implementation guide - GCWeb theme</a></li>
     </ul>
     <h3>Implementations</h3>
