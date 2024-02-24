@@ -6,101 +6,6 @@ description: The social media channels pattern provides links to official Govern
 title: Social media channels
 ---
 <p><strong>Last updated</strong>: {{ page.dateModified }}</p>
-<<<<<<< refs/remotes/upstream/master
-
-<<<<<<< refs/remotes/upstream/master
-<div>
- 
- <section>
-  <p>
-   The social media channels block (“follow box”) is an in-page component that allows people to follow official Government of Canada social media accounts from various social media platforms.
-  </p>
-  <section>
-   <h2>
-    When to use this pattern
-   </h2>
-   <ul>
-    <li>
-     Use the follow box on pages where official
-     <abbr title="Government of Canada">
-      GC
-     </abbr>
-     social media accounts are relevant to the current context
-    </li>
-    <li>
-     Do not use this component when a person’s flow must not be interrupted, as in a transactional process
-    </li>
-    <li>
-     Do not duplicate content from other promotional components on the page
-    </li>
-   </ul>
-  </section>
-  <section>
-   <h2>
-    How to use this pattern
-   </h2>
-   <ul>
-    <li>
-     The social media channels follow box is made up of the heading “Follow” and icons linking to official
-     <abbr title="Government of Canada">
-      GC
-     </abbr>
-     social media accounts or  RSS feeds that are relevant to the page
-    </li>
-    <li>
-     Accounts referred to in the follow box must be fully compliant with the
-     <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682">
-      Directive on the Management of Communications
-     </a>
-    </li>
-    <li>
-     Display a maximum of 7 icons aligned in a horizontal row, using the standard icon set available in the Canada.ca
-     <abbr title="Web Experience Toolkit">
-      WET
-     </abbr>
-     theme
-    </li>
-    <li>
-     Use only one icon per social media platform; if there is more than one account from a single platform
-     <ul>
-      <li>
-       make them available via a clickable drop-down menu
-      </li>
-      <li>
-       populate the drop-down menu with up to 8 text links, using the names of the accounts as labels
-      </li>
-      <li>
-       if more than 8 links are required, include a “view all” link as the final item in the list; this link must point to the relevant section of the Canada.ca social media gallery, where all relevant accounts will be listed
-      </li>
-     </ul>
-    </li>
-    <li>
-     Position the follow box so that it does not interfere with the primary content of the page
-    </li>
-    <li>
-     Emphasize the box shape of this component by using a background colour that is darker than the surrounding page area’s background colour
-    </li>
-    <li>
-     Use the defined presentation classes included in the Canada.ca
-     <abbr title="Web Experience Toolkit">
-      WET
-     </abbr>
-     theme
-    </li>
-   </ul>
-  </section>
-  <section>
-   <h3>
-    Working example
-   </h3>
-   <ul>
-    <li>
-     <a href="https://wet-boew.github.io/GCWeb/templates/topic/topic-en.html">
-      Topic template
-     </a>
-=======
-=======
->>>>>>> formatting
 <p>The social media channels pattern provides links to official Government of Canada (GC) social media accounts.</p>
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/social-media-vertical-mask-en.png" class="img-responsive" alt="" /></div>
 <section>
@@ -139,18 +44,7 @@ title: Social media channels
         <li>Vertical display includes a label next to each icon</li>
         <li>Horizontal display only includes the icons</li>
     </ul>
-<<<<<<< refs/remotes/upstream/master
->>>>>>> Update social-media-channels.md
-    </li>
-<p>Place the social media channels after task and navigation content.</p>
-
-  <h3>Design specifications</h3>
-
-  <ul>
-  <li>Lightbox design specifications
-=======
     <p>If there is more than one account from a platform:</p>
->>>>>>> formatting
     <ul>
         <li>Include the platform name next to its icon (vertical only)</li>
         <li>
