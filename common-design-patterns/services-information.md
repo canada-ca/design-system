@@ -6,35 +6,11 @@ description: Guidance about using the services and information pattern on Canada
 title: Services and information
 ---
 <p><strong>Last updated</strong>: {{ page.dateModified }}</p>
-<<<<<<< refs/remotes/upstream/master
-
-<p>The services and information pattern presents sets of links with accompanying descriptions (also known as doormats). It acts as a roadmap when a landing page has a series of pages to link to. Each link with its description provides a concise summary of what a person will find on destination pages. </p>
-
-<<<<<<< refs/remotes/upstream/master
-<div>
- 
- <section>
-  <p>
-   Services and information is a pattern for presenting sets of links with accompanying descriptions (also known as doormat). Each link with its description provides an accurate and concise description of what a person will find on the destination page. Together, these sets of links and descriptions provide clear and distinct choices for people trying to complete their task.
-  </p>
-  <section>
-   <h2>
-    When to use this pattern
-   </h2>
-=======
-<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/services-info-en.png" class="img-responsive" alt=""> </div>
-
-=======
 <p>
     The services and information pattern presents sets of links with accompanying descriptions (also known as doormats). It acts as a roadmap when a landing page has a series of pages to link to. Each link with its description provides a
     concise summary of what a person will find on destination pages.
 </p>
-<<<<<<< refs/remotes/upstream/master
-<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/services-info-en.png" class="img-responsive" alt="" /></div>
->>>>>>> formatting
-=======
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/services-info-generic-en.png" class="img-responsive" alt="" /></div>
->>>>>>> finish imgs
 <section>
     <h2>On this page</h2>
     <ul>
@@ -59,26 +35,6 @@ title: Services and information
     <p>Don’t use decorative icons or images in the pattern, as these can distract from people’s ability to make choices.</p>
 </section>
 <section>
-<<<<<<< refs/remotes/upstream/master
-  <h2 id="design">Content and design</h2>
-  <p>Find content and design specifications and visual examples.</p>
-
-  <h3>Content specifications</h3>
-  <p>Style is very important when implementing the services and information pattern. Please see the Canada.ca Content Style Guide for more information on how to write content for this pattern.</p>
-  <ul>
-    <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html">Canada.ca Content Style Guide</a></li>
-  </ul>
-<p>Each doormat consists of a heading and a description. The heading is a link.</p>
-   
- <h4>Doormats</h4>
->>>>>>> Update services-information.md
-   <ul>
-    <li>Optimal limit of doormats on a page is 9</li>
-    <li>You can use headings to group sets of doormats if needed</li>
-   </ul>
-
-   <h4>Linked doormat headings</h4>
-=======
     <h2 id="design">Content and design</h2>
     <p>Find content and design specifications and visual examples.</p>
     <h3>Content specifications</h3>
@@ -88,7 +44,6 @@ title: Services and information
     </ul>
     <p>Each doormat consists of a heading and a description. The heading is a link.</p>
     <h4>Doormats</h4>
->>>>>>> formatting
     <ul>
         <li>Optimal limit of doormats on a page is 9</li>
         <li>You can use headings to group sets of doormats if needed</li>
