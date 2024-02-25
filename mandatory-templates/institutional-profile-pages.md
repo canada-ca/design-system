@@ -174,7 +174,7 @@ title: Institutional landing page
                     <p>The social media channels pattern begins with the heading “On social media”. Below the heading, is a vertical list with associated icons and labels:</p>
                     <ul>
                         <li>Facebook icon followed by the placeholder text FacebookPageName</li>
-                        <li>Twitter icon followed by the placeholder text @TwitterAccount</li>
+                        <li>X icon followed by the placeholder text @XAccount</li>
                         <li>Youtube icon followed by the placeholder text YouTubeName</li>
                         <li>Instagram icon followed by the placeholder text InstagramName</li>
                         <li>LinkedIn icon followed by the placeholder text LinkedInName</li>
@@ -245,7 +245,7 @@ title: Institutional landing page
                     <p>Below the about the institution pattern is the social media channels pattern. It begins with the heading “On social media”. Below the heading, is a vertical list with associated icons and labels:</p>
                     <ul>
                         <li>Facebook icon followed by the placeholder text FacebookPageName</li>
-                        <li>Twitter icon followed by the placeholder text @TwitterAccount</li>
+                        <li>X icon followed by the placeholder text @XAccount</li>
                         <li>Youtube icon followed by the placeholder text YouTubeName</li>
                         <li>Instagram icon followed by the placeholder text InstagramName</li>
                         <li>LinkedIn icon followed by the placeholder text LinkedInName</li>
@@ -300,7 +300,7 @@ title: Institutional landing page
         <h3>GCweb (WET) theme implementation reference</h3>
         <p>The implementation reference includes how to configure each element of the institutional landing page.</p>
         <ul>
-            <li><a href="#">Institutional landing page template - GCWeb</a></li>
+            <li><a href="https://wet-boew.github.io/GCWeb/templates/institutional/institution-en.html">Institutional landing page template - GCWeb</a></li>
         </ul>
         <h3>Implementations</h3>
         <p>Determine what best suits the type of page you're creating.</p>
