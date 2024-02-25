@@ -280,21 +280,7 @@ title: Institutional landing page
             </figure>
         </div>
     </section>
-    <section>
-        <h2 id="research">Research and rationale</h2>
-        <p>Consult resarch findings and policy rationale.</p>
-        <h3>Research findings</h3>
-        <p>
-            We validated the institutional landing page during two optimization projects with the Canada Revenue Agency. We found that this design was useful for providing access to the top tasks for an institution while also giving users
-            access to corporate information about the organization.
-        </p>
-        <h3>Policy rationale</h3>
-        <p>This template is a mandatory element of the Content and Information Architecture Specification.</p>
-        <ul>
-            <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html">Mandatory elements of the design system</a></li>
-        </ul>
-    </section>
-    <section>
+     <section>
         <h2 id="implement">How to implement</h2>
         <p>Find working examples and code for implementing the contact us band pattern.</p>
         <h3>GCweb (WET) theme implementation reference</h3>
@@ -337,6 +323,20 @@ title: Institutional landing page
                 </div>
             </div>
         </div>
+    </section>
+    <section>
+        <h2 id="research">Research and rationale</h2>
+        <p>Consult resarch findings and policy rationale.</p>
+        <h3>Research findings</h3>
+        <p>
+            We validated the institutional landing page during two optimization projects with the Canada Revenue Agency. We found that this design was useful for providing access to the top tasks for an institution while also giving users
+            access to corporate information about the organization.
+        </p>
+        <h3>Policy rationale</h3>
+        <p>This template is a mandatory element of the Content and Information Architecture Specification.</p>
+        <ul>
+            <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html">Mandatory elements of the design system</a></li>
+        </ul>
     </section>
     <section>
         <h2 id="changes">Latest changes</h2>
