@@ -5,13 +5,13 @@ dateModified: "2024-02-20"
 description: "Guidance on how to use the institutional landing page template and its associated components on Canada.ca."
 title: Institutional landing page
 ---
-
+<mark>image not available until template complete</mark>
 <p><strong>Last updated</strong>: {{ page.dateModified }}</p>
 <p>
     This is the template for the landing page of each Government of Canada department, agency and organization that has an applied title under the
     <a href="https://www.tbs-sct.canada.ca/ap/fip-pcim/reg-eng.asp">Federal Identity Program (FIP) registry</a>.
 </p>
-<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/ilp-cropped.png" class="img-responsive" alt="" /></div>
+<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="[remove-when-ready]../images/ilp-cropped.png" class="img-responsive" alt="" /></div>
 
 <section>
     <h2>On this page</h2>
@@ -132,7 +132,7 @@ title: Institutional landing page
         <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
             <figure class="mrgn-tp-md mrgn-bttm-lg">
                 <figcaption><b>Institutional landing page - large screen</b></figcaption>
-                <img src="../images/ilp-large.png" class="img-responsive" alt="Institutional landing page for large screens. Text version below:" />
+                <img src="[remove-when-ready]../images/ilp-large.png" class="img-responsive" alt="Institutional landing page for large screens. Text version below:" />
                 <details>
                     <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: institutional landing page - large screen </summary>
                     <p>At the top of the page is an introduction block which includes an h1 titled [Institution name]. It is underlined with a short thick red line. Below the heading is a short description of the institution’s mandate.</p>
@@ -209,7 +209,7 @@ title: Institutional landing page
         <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
             <figure class="mrgn-tp-md mrgn-bttm-lg">
                 <figcaption><b>Institutional landing page - small screen</b></figcaption>
-                <img src="../images/ilp-small.png" class="img-responsive" alt="Institutional landing page for small screens. Text version below:" />
+                <img src="[remove-when-ready]../images/ilp-small.png" class="img-responsive" alt="Institutional landing page for small screens. Text version below:" />
                 <details>
                     <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: institutional landing page - small screen</summary>
                     <p>At the top of the page is an introduction block which includes an h1 titled [Institution name]. It is underlined with a short thick red line. Below the heading is a short description of the institution’s mandate.</p>
