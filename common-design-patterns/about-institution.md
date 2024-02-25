@@ -5,6 +5,11 @@ dateModified: '2023-08-23'
 description: Guidance about using the About the institution section on institutional landing pages. The about the institution pattern provides links to an institution’s content.
 title: About the institution
 ---
+<style>
+    .pattern-demo {
+        padding: 0 !important;
+    }
+</style>
 <p><strong>Last updated</strong>: {{ page.dateModified }}</p>
 <p>The about the institution pattern is a section on an institutional landing page that provides links to corporate, program and policy information.</p>
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/about-institution-mask-en.png" class="img-responsive" alt="" /></div>
