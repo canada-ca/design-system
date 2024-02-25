@@ -130,7 +130,7 @@ title: Minister or institutional head pattern
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
             <figcaption><b>Minister or institutional head - small screen</b></figcaption>
-            <img src="../images/ministers-block-en.png" class="img-responsive" alt="Minister or institutional head for small screens. Text version below:" />
+            <img src="../images/ministers-block-sm-en.png" class="img-responsive" alt="Minister or institutional head for small screens. Text version below:" />
             <details>
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: minister or institutional head - small screen</summary>
                 <p>The Minister or institutional head pattern appears in 1 column and 2 items with the heading “Minister(s)”.</p>
