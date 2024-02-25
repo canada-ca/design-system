@@ -51,7 +51,7 @@ title: Featured link
         <li>
             Background:
             <ul>
-                <li>Default colour: #31708F</li>
+                <li>Default colour: #355688</li>
                 <li>Opacity: 0.9</li>
                 <li>
                     Padding:
