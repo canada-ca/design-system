@@ -8,7 +8,6 @@ title: Introduction block
 <p><strong>Last updated</strong>: {{ page.dateModified }}</p>
 <p>The introduction block pattern introduces the content of a landing page.</p>
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/intro-block-full-en.png" class="img-responsive" alt="" /></div>
-
 <section>
     <h2>On this page</h2>
     <ul>
