@@ -55,6 +55,26 @@ title: "Using a wizard to help people get answers about changing entry requireme
   </div>
 </div>
 <p>We believed we could alleviate these difficulties by distilling information into an interactive wizard. Through interdepartmental workshop sessions with our partners and subject matter experts, the team designed the "Find out if you can enter Canada" wizard and a series of supporting pages. The wizard presents the user with questions about their situation to get a customized answer. Or, if the person prefers to look up details for a specific situation themselves, the supporting pages allow them to find answers within a consolidated group of webpages organized into topics, rather than multiple overlapping pages authored by multiple departments and agencies.</p>
+<div class="row mrgn-tp-lg">
+  <div class="col-md-8">
+    <figure><img alt="Example of the wizard's first interactive question" class="img-responsive" id="travel-4" src="/research-summaries/images/travel-4.png" />
+      <figcaption class="well">
+        <p><strong>Example of the wizard's first interactive question</strong></p>
+        <p>A person can choose from "a Canadian citizen (including dual citizens), a permanent resident of Canada, a person registered under the Indian Act, or a protected person (refugee status)" and "a foreign national (including a United States citizen)".</p>
+      </figcaption>
+    </figure>
+  </div>
+</div>
+<div class="row mrgn-tp-lg">
+  <div class="col-md-8">
+    <figure><img alt="Example of integrated question" class="img-responsive" id="travel-5" src="/research-summaries/images/travel-5.png" />
+      <figcaption class="well">
+        <p><strong>Example of a question as a persone proceeds through the wizard</strong></p>
+        <p>The wizard asks, "Was your second COVID-19 vaccine dose at least 14 days before the day you plan to enter Canada?"  A person can choose "Yes" or "No".</p>
+      </figcaption>
+    </figure>
+  </div>
+</div>
 <p>Reformulating existing information into a wizard takes some work. In this case, because multiple departments and agencies were involved, it meant working with partners to consolidate information, and creating a plan for keeping it up to date. It also meant introducing additional web content for users to choose from – although we believed a wizard would be more helpful for users than the status quo, we needed to be sure it was effective. The team needed to establish that presenting travel information via the wizard would improve the clarity of travel restrictions, and thus reduce calls and emailed questions.</p>
 <p>Some departments didn't have prior experience with online wizards for entry requirements. They were deeply concerned that people could generate the wrong answer and incorrectly arrive at the border, only to be turned away. They looked to the usability test to ensure that the answers truly were correct for the given scenarios, and that the answers still made it clear that the final entry decision would be made at the border.</p>
 <h2>Research methodology</h2>
