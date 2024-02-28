@@ -5,10 +5,11 @@ dateModified: "2024-02-20"
 description: "Guidance on how to use the institutional landing page template and its associated components on Canada.ca."
 title: Institutional landing page
 ---
+<p><span class="label label-danger">Mandatory</span></p>
 <mark>image not available until template complete</mark>
 <p><strong>Last updated</strong>: {{ page.dateModified }}</p>
 <p>
-    This is the template for the landing page of each Government of Canada department, agency and organization that has an applied title under the
+    This is the template for the main landing page of each Government of Canada department, agency and organization that has an applied title under the
     <a href="https://www.tbs-sct.canada.ca/ap/fip-pcim/reg-eng.asp">Federal Identity Program (FIP) registry</a>.
 </p>
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="[remove-when-ready]../images/ilp-cropped.png" class="img-responsive" alt="" /></div>
@@ -26,7 +27,7 @@ title: Institutional landing page
     <section>
         <h2 id="use">When to use</h2>
         <p>
-           The purpose of this page is to help people find information and services with a focus on top tasks.
+           The institutional landing page serves as the home page of the department, agency or organization. The purpose of this page is to help people find information and services with a focus on top tasks.
         </p>
         <p>It should also allow people to find additional content, including:</p>
         <ul>
@@ -96,17 +97,17 @@ title: Institutional landing page
                             </tr>
                             <tr>
                                 <td><a href="#">About the institution</a></td>
-                                <td>No specific guidance related to the institutional landing page. Follow the pattern.</td>
+                                <td>Follow the pattern.</td>
                                 <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Required</span></td>
                             </tr>
                             <tr>
                                 <td><a href="#">Social media channels</a></td>
-                                <td>No specific guidance related to the institutional landing page. Follow the pattern.</td>
+                                <td>Follow the pattern.</td>
                                 <td class="text-center">Optional</td>
                             </tr>
                             <tr>
                                 <td><a href="#">Minister or institutional head</a></td>
-                                <td>No specific guidance related to the institutional landing page. Follow the pattern.</td>
+                                <td>Follow the pattern.</td>
                                 <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Required</span></td>
                             </tr>
                             <tr>
