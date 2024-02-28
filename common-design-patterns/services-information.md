@@ -25,8 +25,7 @@ title: Services and information
 <section>
     <h2 id="use">When to use</h2>
     <p>
-        Use the services and information pattern whenever the primary purpose of the page is to provide clear choices to navigate to tasks. Together, these sets of links and descriptions provide clear and distinct choices for people trying
-        to complete their task.
+        Use the services and information pattern whenever the primary purpose of the page is to provide clear choices to navigate to tasks. Together, these sets of links and descriptions provide clear and distinct choices for people trying to find where to complete their task.
     </p>
 </section>
 <section>
