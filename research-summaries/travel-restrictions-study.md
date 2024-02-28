@@ -32,13 +32,13 @@ title: "Using a wizard to help people get answers about changing entry requireme
 <h3>Task scenarios</h3>
 <div class="panel panel-default mrgn-tp-lg">
   <table class="table table-striped">
-    <caption class="text-left">
+    <caption class="wb-inv">
     List of tasks scenarios [dropdown EN]
     </caption>
     <thead>
       <tr>
-        <th>Task</th>
-        <th>scenarios</th>
+        <th class="col-md-5">Task</th>
+        <th class="col-md-7">scenarios</th>
       </tr>
     </thead>
     <tbody>
