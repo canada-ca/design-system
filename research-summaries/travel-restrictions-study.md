@@ -76,8 +76,15 @@ title: "Using a wizard to help people get answers about changing entry requireme
       </tr>
       <tr>
         <th>Immediate family (from U.S. - child care)</th>
-        <td>oanne's aunt and uncle (both are American) have offered to come to Canada from their home in California to help look after Joanne's son while she works from home. Will they be allowed into Canada?</td>
+        <td>Joanne's aunt and uncle (both are American) have offered to come to Canada from their home in California to help look after Joanne's son while she works from home. Will they be allowed into Canada?</td>
       </tr>
     </tbody>
   </table>
 </div>
+<p>The initial success rate for travel-related tasks on the existing live website was assessed via remote usability testing with 16 English- and French-speaking participants on June 23 and July 9, with participants using their mobile devices. During this round of testing participants were also asked to complete other non-travel related tasks that were not included in the travel success rate.</p>
+<p>Later, a prototype of the travel wizard was tested via 60-minute usability testing sessions with 21 participants using their preferred desktop or mobile devices in September 2020.</p>
+<p>We recruited 10 English-speakers and 11 French-speakers who were a mix of Canadian and non-Canadian participants. Half of the 6 non-Canadian participants were not native English or French speakers.</p>
+<p>Participants were asked to answer questions about entry and travel requirements using either the live website or the prototype, within a time limit of 5 minutes. The specific questions were drawn from the working group input about the most common call drivers and border rejections.</p>
+<h2>The results: what we learned</h2>
+<p>We saw an improvement in task success: 74% of tasks were completed successfully using the travel wizard prototype, compared with a task completion rate of 31% for participants using the initial live site. Earlier testing on the initial live site included 4 task scenarios, while later prototype testing included 9 task scenarios.</p>
+<p>The most notable improvement in task success was on the task relating to immediate family:</p>
