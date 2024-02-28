@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/resumes-recherche/x.html"
-date: 2022-12-21
-dateModified: 2022-12-21
+date: 2024-03-01
+dateModified: 2024-03-01
 description: "tt"
 title: "Using a wizard to help people get answers about changing entry requirements during COVID-19"
 ---
@@ -11,7 +11,7 @@ title: "Using a wizard to help people get answers about changing entry requireme
 <div class="row mrgn-tp-lg mrgn-bttm-md">
       <div class="col-md-8">
         <figure><img alt="Example of the wizard guiding a person with interactive questions" class="img-responsive" id="travel-1" src="/research-summaries/images/travel-1.png" />
-          <figcaption>
+          <figcaption class="well">
               <p><strong>Example of the wizard guiding a person with interactive questions</strong></p><p>A person can choose from "a Canadian citizen (including dual citizens), a permanent resident of Canada, a person registered under the Indian Act, or a protected person (refugee status)" and "a foreign national (including a United States citizen)".  The person has selected "a foreign national (including a United States citizen)"</p>
           </figcaption>
         </figure>
