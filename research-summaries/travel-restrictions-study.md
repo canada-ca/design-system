@@ -12,7 +12,7 @@ title: "Using a wizard to help people get answers about changing entry requireme
 <div class="row mrgn-tp-lg">
   <div class="col-md-8">
     <figure><img alt="Example of the wizard's first interactive question" class="img-responsive" id="travel-1" src="/research-summaries/images/travel-1.png" />
-      <figcaption>
+      <figcaption class="well">
         <p><strong>Example of the wizard's first interactive question</strong></p>
         <p>A person can choose from "a Canadian citizen (including dual citizens), a permanent resident of Canada, a person registered under the Indian Act, or a protected person (refugee status)" and "a foreign national (including a United States citizen)".  The person has selected "a foreign national (including a United States citizen)"</p>
       </figcaption>
@@ -22,7 +22,7 @@ title: "Using a wizard to help people get answers about changing entry requireme
 <div class="row mrgn-tp-lg mrgn-bttm-md">
   <div class="col-md-8">
     <figure><img alt="Example of the wizard's second interactive question" class="img-responsive" id="travel-2" src="/research-summaries/images/travel-2.png" />
-      <figcaption>
+      <figcaption class="well">
         <p><strong>Example of the wizard's second interactive question</strong></p>
         <p>A person is asked "Have you received at least 2 COVID-19 vaccine doses or a combination of at least 2 doses of: "AstraZeneca (Vaxzevria, COVISHIELD, ChAdOx1-S,AZD1222)", "Bharat Biotech (Covaxin, BBV152 A, B, C)", "Janssen/Johnson &amp; Johnson (Ad26.COV2.S) - 1 dose", "Moderna (Spikevax, mRNA-1273)", "Pfizer-BioNTech (Comirnaty, tozinameran, BNT162b2), "Sinopharm (Beijing) BBIBP-CorV (Vero Cells)", "Sinovac (CoronaVac, PiCoVacc)", "a combination of at least 2 doses of the above vaccines", "none of the above (other vaccines, unvaccinated, single dose, recovered).</p>
       </figcaption>
