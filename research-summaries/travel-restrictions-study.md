@@ -30,52 +30,54 @@ title: "Using a wizard to help people get answers about changing entry requireme
 <h2>Research methodology</h2>
 <p>We needed to gauge the success rate of those using the wizard prototype compared to those using the existing information on the live website. Could research participants successfully complete task scenarios by finding the correct answer to commonly asked questions about entry requirements?</p>
 <h3>Task scenarios</h3>
-<table class="table table-striped mrgn-tp-lg">
-  <caption class="text-left">
-  List of tasks scenarios [dropdown EN]
-  </caption>
-  <thead>
-    <tr>
-      <th>Task</th>
-      <th>scenarios</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>Travel restrictions within Canada</th>
-      <td>Layla is a Canadian who lives in Ontario and wants to go on a vacation to Newfoundland next week for 7 days. Will she be allowed into the province?</td>
-    </tr>
-    <tr>
-      <th>Understand quarantine period</th>
-      <td>Nick (a Canadian) will be flying home to Calgary (Alberta) from Malaysia, but he has a layover in Vancouver (British Columbia). Does he have to quarantine in Vancouver?</td>
-    </tr>
-    <tr>
-      <th>Immediate family</th>
-      <td>Farouk is an Indonesian who lives in Indonesia. His brother is getting married in British Columbia in August. He plans on being in Canada for 20 days. Will he be allowed into Canada?</td>
-    </tr>
-    <tr>
-      <th>Leave Canada</th>
-      <td>Amanda is a Canadian citizen who currently lives in California. She wants to visit her family in Quebec but only has 10 days off from work. Will she be allowed to leave Canada after 10 days?</td>
-    </tr>
-    <tr>
-      <th>Temporary foreign worker</th>
-      <td>Oscar (a Mexican) was hired as a temporary foreign worker to work on a farm. He is flying in from Mexico and has a work permit. Will he be allowed into Canada?</td>
-    </tr>
-    <tr>
-      <th>Travel restrictions for students (from US)</th>
-      <td>Asif (an American) lives in New York City and has been accepted as a student in a Welding and Fabrication Technician program in Ontario. Will he be allowed into Canada?</td>
-    </tr>
-    <tr>
-      <th>Grief and loss</th>
-      <td>Naveen (an American) lives in the United States and his grandmother in Canada has died. The funeral will be held in 5 days. Will he be allowed into Canada to attend?</td>
-    </tr>
-    <tr>
-      <th>Compassionate (from U.S.)</th>
-      <td>Shauna (an American) lives in the United States. She wants to find out if she can come to Canada to take care of her sick mother. Will she be allowed into Canada?</td>
-    </tr>
-    <tr>
-      <th>Immediate family (from U.S. - child care)</th>
-      <td>oanne's aunt and uncle (both are American) have offered to come to Canada from their home in California to help look after Joanne's son while she works from home. Will they be allowed into Canada?</td>
-    </tr>
-  </tbody>
-</table>
+<div class="panel panel-default">
+  <table class="table table-striped mrgn-tp-lg">
+    <caption class="text-left">
+    List of tasks scenarios [dropdown EN]
+    </caption>
+    <thead>
+      <tr>
+        <th>Task</th>
+        <th>scenarios</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>Travel restrictions within Canada</th>
+        <td>Layla is a Canadian who lives in Ontario and wants to go on a vacation to Newfoundland next week for 7 days. Will she be allowed into the province?</td>
+      </tr>
+      <tr>
+        <th>Understand quarantine period</th>
+        <td>Nick (a Canadian) will be flying home to Calgary (Alberta) from Malaysia, but he has a layover in Vancouver (British Columbia). Does he have to quarantine in Vancouver?</td>
+      </tr>
+      <tr>
+        <th>Immediate family</th>
+        <td>Farouk is an Indonesian who lives in Indonesia. His brother is getting married in British Columbia in August. He plans on being in Canada for 20 days. Will he be allowed into Canada?</td>
+      </tr>
+      <tr>
+        <th>Leave Canada</th>
+        <td>Amanda is a Canadian citizen who currently lives in California. She wants to visit her family in Quebec but only has 10 days off from work. Will she be allowed to leave Canada after 10 days?</td>
+      </tr>
+      <tr>
+        <th>Temporary foreign worker</th>
+        <td>Oscar (a Mexican) was hired as a temporary foreign worker to work on a farm. He is flying in from Mexico and has a work permit. Will he be allowed into Canada?</td>
+      </tr>
+      <tr>
+        <th>Travel restrictions for students (from US)</th>
+        <td>Asif (an American) lives in New York City and has been accepted as a student in a Welding and Fabrication Technician program in Ontario. Will he be allowed into Canada?</td>
+      </tr>
+      <tr>
+        <th>Grief and loss</th>
+        <td>Naveen (an American) lives in the United States and his grandmother in Canada has died. The funeral will be held in 5 days. Will he be allowed into Canada to attend?</td>
+      </tr>
+      <tr>
+        <th>Compassionate (from U.S.)</th>
+        <td>Shauna (an American) lives in the United States. She wants to find out if she can come to Canada to take care of her sick mother. Will she be allowed into Canada?</td>
+      </tr>
+      <tr>
+        <th>Immediate family (from U.S. - child care)</th>
+        <td>oanne's aunt and uncle (both are American) have offered to come to Canada from their home in California to help look after Joanne's son while she works from home. Will they be allowed into Canada?</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
