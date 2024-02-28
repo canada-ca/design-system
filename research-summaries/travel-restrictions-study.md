@@ -24,7 +24,7 @@ title: "Using a wizard to help people get answers about changing entry requireme
     <figure><img alt="Example of the wizard's second interactive question" class="img-responsive" id="travel-2" src="/research-summaries/images/travel-2.png" />
       <figcaption class="well">
         <p><strong>Example of the wizard's second interactive question</strong></p>
-        <p>A person is asked, "Have you received at least 2 COVID-19 vaccine doses or a combination of at least 2 doses of:"?  The peron can select their vaccine status from a list.</p>
+        <p>A person is asked, "Have you received at least 2 COVID-19 vaccine doses or a combination of at least 2 doses of:"?  The person can select their vaccine status from a list.</p>
       </figcaption>
     </figure>
   </div>
