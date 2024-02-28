@@ -37,8 +37,8 @@ title: "Using a wizard to help people get answers about changing entry requireme
     </caption>
     <thead>
       <tr>
-        <th class="col-md-5">Task</th>
-        <th class="col-md-7">scenarios</th>
+        <th class="col-md-4">Task</th>
+        <th class="col-md-8">Scenario</th>
       </tr>
     </thead>
     <tbody>
