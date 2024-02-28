@@ -19,7 +19,63 @@ title: "Using a wizard to help people get answers about changing entry requireme
 <p>Initial usability testing gave us some insights about what travelers struggle with when understanding travel restrictions on the current website.</p>
 <p>When looking for an answer to their question during testing, participants would get overwhelmed by all the possible links that could lead them to what they were looking for. For example, from a participant’s perspective, information about quarantine requirements could be found behind the link labeled “travel advice” or it might be behind “prevention and risks.” Some pages would contain a partial answer, but still require piecing together information from multiple pages to form a complete answer.</p>
 <blockquote>
-  <p>"I couldn’t really find where I could find a specific section of information on the site."</p>
+  <p>I couldn’t really find where I could find a specific section of information on the site.</p>
   <footer>Usability testing participant</footer>
 </blockquote>
 <p>We also observed that participants would skip past the legal content on a page even when that content was relevant to their situation. Government policies often have legal considerations attached to them, such as the consequences of not adhering to certain laws. Depending on an individual’s particular situation, missing a key piece of legal information because they are overwhelmed and confused by other legal content that doesn’t apply to them could lead to a negative outcome.</p>
+<h3>September 2020 Travel homepage (FR and EN)</h3>
+<p>We believed we could alleviate these difficulties by distilling information into an interactive wizard. Through interdepartmental workshop sessions with our partners and subject matter experts, the team designed the “Find out if you can enter Canada” wizard and a series of supporting pages. The wizard presents the user with questions about their situation to get a customized answer. Or, if the person prefers to look up details for a specific situation themselves, the supporting pages allow them to find answers within a consolidated group of webpages organized into topics, rather than multiple overlapping pages authored by multiple departments and agencies.</p>
+<p>Reformulating existing information into a wizard takes some work. In this case, because multiple departments and agencies were involved, it meant working with partners to consolidate information, and creating a plan for keeping it up to date. It also meant introducing additional web content for users to choose from – although we believed a wizard would be more helpful for users than the status quo, we needed to be sure it was effective. The team needed to establish that presenting travel information via the wizard would improve the clarity of travel restrictions, and thus reduce calls and emailed questions.</p>
+<p>Some departments didn’t have prior experience with online wizards for entry requirements. They were deeply concerned that people could generate the wrong answer and incorrectly arrive at the border, only to be turned away. They looked to the usability test to ensure that the answers truly were correct for the given scenarios, and that the answers still made it clear that the final entry decision would be made at the border.</p>
+<h2>Research methodology</h2>
+<p>We needed to gauge the success rate of those using the wizard prototype compared to those using the existing information on the live website. Could research participants successfully complete task scenarios by finding the correct answer to commonly asked questions about entry requirements?</p>
+<h3>Task scenarios</h3>
+<table class="table table-striped mrgn-tp-lg">
+  <caption class="text-left">
+  List of tasks scenarios [dropdown EN]
+  </caption>
+  <thead>
+    <tr>
+      <th>Task</th>
+      <th>scenarios</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Travel restrictions within Canada</th>
+      <td>Layla is a Canadian who lives in Ontario and wants to go on a vacation to Newfoundland next week for 7 days. Will she be allowed into the province?</td>
+    </tr>
+    <tr>
+      <th>Understand quarantine period</th>
+      <td>Nick (a Canadian) will be flying home to Calgary (Alberta) from Malaysia, but he has a layover in Vancouver (British Columbia). Does he have to quarantine in Vancouver?</td>
+    </tr>
+    <tr>
+      <th>Immediate family</th>
+      <td>Farouk is an Indonesian who lives in Indonesia. His brother is getting married in British Columbia in August. He plans on being in Canada for 20 days. Will he be allowed into Canada?</td>
+    </tr>
+    <tr>
+      <th>Leave Canada</th>
+      <td>Amanda is a Canadian citizen who currently lives in California. She wants to visit her family in Quebec but only has 10 days off from work. Will she be allowed to leave Canada after 10 days?</td>
+    </tr>
+    <tr>
+      <th>Temporary foreign worker</th>
+      <td>Oscar (a Mexican) was hired as a temporary foreign worker to work on a farm. He is flying in from Mexico and has a work permit. Will he be allowed into Canada?</td>
+    </tr>
+    <tr>
+      <th>Travel restrictions for students (from US)</th>
+      <td>Asif (an American) lives in New York City and has been accepted as a student in a Welding and Fabrication Technician program in Ontario. Will he be allowed into Canada?</td>
+    </tr>
+    <tr>
+      <th>Grief and loss</th>
+      <td>Naveen (an American) lives in the United States and his grandmother in Canada has died. The funeral will be held in 5 days. Will he be allowed into Canada to attend?</td>
+    </tr>
+    <tr>
+      <th>Compassionate (from U.S.)</th>
+      <td>Shauna (an American) lives in the United States. She wants to find out if she can come to Canada to take care of her sick mother. Will she be allowed into Canada?</td>
+    </tr>
+    <tr>
+      <th>Immediate family (from U.S. - child care)</th>
+      <td>oanne's aunt and uncle (both are American) have offered to come to Canada from their home in California to help look after Joanne's son while she works from home. Will they be allowed into Canada?</td>
+    </tr>
+  </tbody>
+</table>
