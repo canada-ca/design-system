@@ -44,7 +44,16 @@ title: "Using a wizard to help people get answers about changing entry requireme
   <footer>Usability testing participant</footer>
 </blockquote>
 <p>We also observed that participants would skip past the legal content on a page even when that content was relevant to their situation. Government policies often have legal considerations attached to them, such as the consequences of not adhering to certain laws. Depending on an individual's particular situation, missing a key piece of legal information because they are overwhelmed and confused by other legal content that doesn't apply to them could lead to a negative outcome.</p>
-<h3>September 2020 Travel homepage (FR and EN)</h3>
+<div class="row mrgn-tp-lg mrgn-bttm-md">
+  <div class="col-md-8">
+    <figure><img alt="Example of September 2020 Travel homepage" class="img-responsive" id="travel-2" src="/research-summaries/images/travel-3.png" />
+      <figcaption>
+        <p><strong>Example of the September 2020 Travel homepage</strong></p>
+        <p>The link to the "emergency orders" under the <cite>Quarantine Act</cite> is buried in the content.</p>
+      </figcaption>
+    </figure>
+  </div>
+</div>
 <p>We believed we could alleviate these difficulties by distilling information into an interactive wizard. Through interdepartmental workshop sessions with our partners and subject matter experts, the team designed the "Find out if you can enter Canada" wizard and a series of supporting pages. The wizard presents the user with questions about their situation to get a customized answer. Or, if the person prefers to look up details for a specific situation themselves, the supporting pages allow them to find answers within a consolidated group of webpages organized into topics, rather than multiple overlapping pages authored by multiple departments and agencies.</p>
 <p>Reformulating existing information into a wizard takes some work. In this case, because multiple departments and agencies were involved, it meant working with partners to consolidate information, and creating a plan for keeping it up to date. It also meant introducing additional web content for users to choose from – although we believed a wizard would be more helpful for users than the status quo, we needed to be sure it was effective. The team needed to establish that presenting travel information via the wizard would improve the clarity of travel restrictions, and thus reduce calls and emailed questions.</p>
 <p>Some departments didn't have prior experience with online wizards for entry requirements. They were deeply concerned that people could generate the wrong answer and incorrectly arrive at the border, only to be turned away. They looked to the usability test to ensure that the answers truly were correct for the given scenarios, and that the answers still made it clear that the final entry decision would be made at the border.</p>
