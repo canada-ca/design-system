@@ -167,4 +167,4 @@ title: "Using a wizard to help people get answers about changing entry requireme
 <h3>Impact</h3>
 <p>Once implemented, the Travel wizard was used by over 19 million people between July 2021 and July 2022. At a time when uncertainty was a daily reality, taking requirements information that was scattered across many pages and synthesizing it into clear, tailored answers was critical to empowering people in making already difficult decisions.</p>
 <p>If you or your team are interested in learning more about wizards, read our blog post:</p>
-<p><a href="https://blog.canada.ca/2021/04/08/using-interactive-questions.html">The magic of using interactive questions</a></p>
+<p><a href="https://blog.canada.ca/2021/04/08/using-interactive-questions.html">Blog post: The magic of using interactive questions</a></p>
