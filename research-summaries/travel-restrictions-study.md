@@ -144,6 +144,16 @@ title: "Using a wizard to help people get answers about changing entry requireme
 <p>17 of 20 (85%) of participants using the wizard prototype were able to correctly answer the question for this scenario. Whereas the live site required users to seek out and understand a definition of "immediate family", the wizard presents a definition and examples right at the moment when a user is asked about their relationship to the traveler seeking entry.</p>
 <p>Previously, 0 of 10 participants were able to answer this question correctly using the live site. The wizard asked specific questions about the user's context that enabled people to find the answer for their situation.</p>
 <p>These results reinforced the insights from early usability testing that led us to believe that content presented in a wizard format would be more effective; when trying to understand rules and requirements, users need answers, not information. People get confused by content that is irrelevant to their task, and wizards reduce cognitive load while helping people find and focus on customized answers.</p>
+<div class="row mrgn-tp-lg">
+  <div class="col-md-8">
+    <figure><img alt="Example of a person's progess through the wizard" class="img-responsive" id="travel-6" src="/research-summaries/images/travel-6.png" />
+      <figcaption class="well">
+        <p><strong>Example of a person's progess through the wizard</strong></p>
+        <p>An example of a person progress through the wizard.  "You indicated that you are:" is followed by a list of previous answers that preceded the current question.</p>
+      </figcaption>
+    </figure>
+  </div>
+</div>
 <h2>Interactive wizards: a tool for communicating effectively in a crisis</h2>
 <p>In a crisis scenario requiring timely and clear communication of complex information, like the COVID-19 pandemic, we found the wizard model to be an effective design approach. Wizards can help government organizations:</p>
 <h3>Increase findability by connecting users to relevant answers</h3>
