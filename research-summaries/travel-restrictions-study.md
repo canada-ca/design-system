@@ -47,7 +47,7 @@ title: "Using a wizard to help people get answers about changing entry requireme
 <div class="row mrgn-tp-lg mrgn-bttm-md">
   <div class="col-md-8">
     <figure><img alt="Example of September 2020 Travel homepage" class="img-responsive" id="travel-2" src="/research-summaries/images/travel-3.png" />
-      <figcaption>
+      <figcaption class="well">
         <p><strong>Example of the September 2020 Travel homepage</strong></p>
         <p>The link to the "emergency orders" under the <cite>Quarantine Act</cite> is buried in the content.</p>
       </figcaption>
