@@ -69,7 +69,7 @@ title: "Using a wizard to help people get answers about changing entry requireme
   <div class="col-md-8">
     <figure><img alt="Example of integrated question" class="img-responsive" id="travel-5" src="/research-summaries/images/travel-5.png" />
       <figcaption class="well">
-        <p><strong>Example of a question as a persone proceeds through the wizard</strong></p>
+        <p><strong>Example of a question as a person proceeds through the wizard</strong></p>
         <p>The wizard asks, "Was your second COVID-19 vaccine dose at least 14 days before the day you plan to enter Canada?"  A person can choose "Yes" or "No".</p>
       </figcaption>
     </figure>
