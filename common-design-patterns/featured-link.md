@@ -6,7 +6,7 @@ description: Guidance about using the featured links pattern on Canada.ca.
 title: Featured link
 ---
 <p><strong>Last updated</strong>: {{ page.dateModified }}</p>
-<p>The featured link is a short, descriptive link that your institution needs to feature prominently.</p>
+<p>The featured link is a short, descriptive link that your institution needs to feature prominently on a landing page.</p>
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/featured-link-generic-en.png" class="img-responsive" alt="" /></div>
 <section>
     <h2>On this page</h2>
@@ -22,7 +22,7 @@ title: Featured link
 <section>
     <h2 id="use">When to use</h2>
     <p>Use the featured link pattern to promote significant items of a temporary nature, such as a Remembrance day statement.</p>
-    <p>Use this pattern on navigation pages only.</p>
+    <p>Use this pattern on landing pages only.</p>
     <p>You can manage multiple links in the featured link spot by randomizing them for every visit to the page.</p>
 </section>
 <section>
