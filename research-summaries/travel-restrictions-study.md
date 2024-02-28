@@ -24,13 +24,13 @@ title: "Using a wizard to help people get answers about changing entry requireme
     <figure><img alt="Example of the wizard's second interactive question" class="img-responsive" id="travel-2" src="/research-summaries/images/travel-2.png" />
       <figcaption class="well">
         <p><strong>Example of the wizard's second interactive question</strong></p>
-        <p>A person is asked "Have you received at least 2 COVID-19 vaccine doses or a combination of at least 2 doses of: "AstraZeneca (Vaxzevria, COVISHIELD, ChAdOx1-S,AZD1222)", "Bharat Biotech (Covaxin, BBV152 A, B, C)", "Janssen/Johnson &amp; Johnson (Ad26.COV2.S) - 1 dose", "Moderna (Spikevax, mRNA-1273)", "Pfizer-BioNTech (Comirnaty, tozinameran, BNT162b2), "Sinopharm (Beijing) BBIBP-CorV (Vero Cells)", "Sinovac (CoronaVac, PiCoVacc)", "a combination of at least 2 doses of the above vaccines", "none of the above (other vaccines, unvaccinated, single dose, recovered).</p>
+        <p>A person is asked, "Have you received at least 2 COVID-19 vaccine doses or a combination of at least 2 doses of"?  The peron can select their vaccine status from a list.</p>
       </figcaption>
     </figure>
   </div>
 </div>
 <p>Try out an early prototype of the wizard to see how it works.</p>
-<p><a href="https://test.canada.ca/covid-19-guidance-2021/travel-2.0/wizard-7-dec2021/wizard-start.html">Find out if you can travel to Canada</a></p>
+<p><a href="https://test.canada.ca/covid-19-guidance-2021/travel-2.0/wizard-7-dec2021/wizard-start.html">Wizard prototype: Find out if you can travel to Canada</a></p>
 <h2>Content design in a crisis</h2>
 <p>Starting in March 2020, Digital Transformation Office researchers and designers worked with the Treasury Board Secretariat, Canada Border Services Agency, Global Affairs Canada, Privy Council Office, Public Health Agency of Canada, Health Canada, and Immigration Refugees and Citizenship Canada to improve and consolidate all COVID-19 content on Canada.ca. The goal was to make answers easier to find, easier to understand, accessible, and mobile friendly.</p>
 <p>By September 2020, vaccines were not yet available, and ongoing border restrictions had made the travel situation more complicated and top of mind for Canadians who needed to re-enter Canada. Call centers and Public Health Agency email inboxes were receiving a high volume of inquiries with answers that were available on various pages on Canada.ca. Initial usability testing and website feedback highlighted struggles experienced by people navigating web pages, trying to figure out which rules apply to their circumstances. Responses from the COVID-19 task success survey showed that the average reported success rate for travel-related tasks was 59.7%.</p>
