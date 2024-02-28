@@ -30,8 +30,8 @@ title: "Using a wizard to help people get answers about changing entry requireme
 <h2>Research methodology</h2>
 <p>We needed to gauge the success rate of those using the wizard prototype compared to those using the existing information on the live website. Could research participants successfully complete task scenarios by finding the correct answer to commonly asked questions about entry requirements?</p>
 <h3>Task scenarios</h3>
-<div class="panel panel-default">
-  <table class="table table-striped mrgn-tp-lg">
+<div class="panel panel-default mrgn-tp-lg">
+  <table class="table table-striped">
     <caption class="text-left">
     List of tasks scenarios [dropdown EN]
     </caption>
