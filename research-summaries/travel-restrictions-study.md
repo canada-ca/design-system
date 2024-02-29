@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/resumes-recherche/x.html"
+altLangPage: "https://conception.canada.ca/resumes-recherche/etude-sur-les-restrictions-de-voyage.html"
 date: 2024-03-01
 dateModified: 2024-03-01
 description: "tt"
