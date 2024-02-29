@@ -2,33 +2,12 @@
 altLangPage: "https://conception.canada.ca/resumes-recherche/etude-sur-les-restrictions-de-voyage.html"
 date: 2024-03-01
 dateModified: 2024-03-01
-description: "tt"
-title: "Using a wizard to help people get answers about changing entry requirements during COVID-19"
+description: "Using a wizard to help people get answers about changing entry requirements during COVID-19"
+title: "Using a wizard to help people get answers during COVID-19"
 ---
 <p>Date: March 1, 2024</p>
 <p>For Canadians and those hoping to visit or immigrate to Canada during the height of the COVID-19 pandemic, travel restrictions were complex and constantly changing. Finding answers about travel was one of the top COVID-19 tasks visitors were attempting to complete online. Although lots of information was available on Canada.ca, finding the right information and synthesizing it into clear answers was difficult for individual travelers. Travel, transport, and immigration are handled by multiple departments, which complicates the task of finding all the information relevant to one's own particular situation and travel plans.</p>
 <p>We conducted usability testing with potential travelers and found that synthesizing complex travel information into an interactive wizard helped participants complete key tasks. A wizard is a way of guiding people to the answer they need through a series of interactive questions. Participants using the wizard arrived at the correct answer to questions about travel restrictions more often than participants who were constructing answers from information that is distributed across pages managed by different institutions.</p>
-<p>The following example shows how the first 2 interactive questions guide a person toward completing their key task.</p>
-<div class="row mrgn-tp-lg">
-  <div class="col-md-8">
-    <figure><img alt="Example of the wizard's first interactive question" class="img-responsive" id="travel-1" src="/research-summaries/images/travel-1.png" />
-      <figcaption class="well">
-        <p><strong>Example of the wizard's first interactive question</strong></p>
-        <p>A person can choose from "a Canadian citizen (including dual citizens), a permanent resident of Canada, a person registered under the Indian Act, or a protected person (refugee status)" and "a foreign national (including a United States citizen)".  The person has selected "a foreign national (including a United States citizen)"</p>
-      </figcaption>
-    </figure>
-  </div>
-</div>
-<div class="row mrgn-tp-lg mrgn-bttm-md">
-  <div class="col-md-8">
-    <figure><img alt="Example of the wizard's second interactive question" class="img-responsive" id="travel-2" src="/research-summaries/images/travel-2.png" />
-      <figcaption class="well">
-        <p><strong>Example of the wizard's second interactive question</strong></p>
-        <p>A person is asked, "Have you received at least 2 COVID-19 vaccine doses or a combination of at least 2 doses of:"?  The person can select their vaccine status from a list.</p>
-      </figcaption>
-    </figure>
-  </div>
-</div>
 <p>Try out an early prototype of the wizard to see how it works.</p>
 <p><a href="https://test.canada.ca/covid-19-guidance-2021/travel-2.0/wizard-7-dec2021/wizard-start.html">Wizard prototype: Find out if you can travel to Canada</a></p>
 <h2>Content design in a crisis</h2>
