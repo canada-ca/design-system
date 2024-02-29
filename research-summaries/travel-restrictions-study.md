@@ -46,7 +46,7 @@ title: "Using a wizard to help people get answers about changing entry requireme
 <p>We also observed that participants would skip past the legal content on a page even when that content was relevant to their situation. Government policies often have legal considerations attached to them, such as the consequences of not adhering to certain laws. Depending on an individual's particular situation, missing a key piece of legal information because they are overwhelmed and confused by other legal content that doesn't apply to them could lead to a negative outcome.</p>
 <div class="row mrgn-tp-lg mrgn-bttm-md">
   <div class="col-md-8">
-    <figure><img alt="Example of September 2020 Travel homepage" class="img-responsive" id="travel-2" src="/research-summaries/images/travel-3.png" />
+    <figure><img alt="Example of September 2020 Travel homepage" class="img-responsive" id="travel-3" src="/research-summaries/images/travel-3.png" />
       <figcaption class="well">
         <p><strong>Example of the September 2020 Travel homepage</strong></p>
         <p>The link to the "emergency orders" under the <cite>Quarantine Act</cite> is buried in the content.</p>
