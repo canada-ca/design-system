@@ -49,7 +49,7 @@ title: "Using a wizard to help people get answers during COVID-19"
     <figure><img alt="Example of integrated question" class="img-responsive" id="travel-5" src="/research-summaries/images/travel-5.png" />
       <figcaption class="well">
         <p><strong>Example of a question as a person proceeds through the wizard</strong></p>
-        <p>The wizard asks, "Are you showing signs and symptons consistent with COVID-19?"  A person can choose "Yes, I have COVID-19 symptoms" or "No, I don't have COVID-19 symptoms".</p>
+        <p>The wizard asks, "Are you showing signs and symptoms consistent with COVID-19?" A person can choose "Yes, I have COVID-19 symptoms" or "No, I don't have COVID-19 symptoms".</p>
       </figcaption>
     </figure>
   </div>
