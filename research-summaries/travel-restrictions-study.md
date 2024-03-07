@@ -128,7 +128,7 @@ title: "Using a wizard to help people get answers during COVID-19"
     <figure><img alt="Example of a person's progess through the wizard" class="img-responsive" id="travel-6" src="/research-summaries/images/travel-6.png" />
       <figcaption class="well">
         <p><strong>Example of a person's progess through the wizard</strong></p>
-        <p>An example of a person progress through the wizard.  "You indicated that you are:" is followed by a list of previous answers that preceded the current question.</p>
+        <p>An example of a person's progress through the wizard.  "You indicated that you are:" is followed by a list of previous answers that preceded the current question.</p>
       </figcaption>
     </figure>
   </div>
