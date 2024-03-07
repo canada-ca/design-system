@@ -28,7 +28,7 @@ title: "Using a wizard to help people get answers during COVID-19"
     <figure><img alt="Example of September 2020 Travel homepage" class="img-responsive" id="travel-3" src="/research-summaries/images/travel-3.png" />
       <figcaption class="well">
         <p><strong>Example of the September 2020 Travel homepage</strong></p>
-        <p>The link to the "emergency orders" under the <cite>Quarantine Act</cite> is buried in the content.</p>
+        <p>People could only find out if they could enter Canada by reading through all the Exemptions to border restrictions content.</p>
       </figcaption>
     </figure>
   </div>
