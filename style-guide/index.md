@@ -2314,7 +2314,19 @@ title: "Canada.ca Content Style Guide"
 </section>
 <section id="wp7-3">
   <h3>7.3 Make sure that links work</h3>
-  <p>Make sure that your links work. Check that they take people to the correct page, which contains up-to-date information, in the appropriate official language. Links that don't work frustrate people and hurt the credibility of your content.</p>
+  <p>Make sure that your links work and point to the correct information.  Broken or outdated links are frustrating.  They can cause people to lose confidence in your content.</p>
+  <p>You should check your links and update them as part of your regular content maintenance schedule:</p>
+  <ul>
+    <li>fix links that are broken (links that point to a 404 message "Page not found", for example)</li>
+    <li>make sure that link destinations are correct and have relevant, up-to-date information</li>
+    <li>evaluate your URL redirects:
+      <ul>
+        <li>make sure they are current, redirecting people to the correct page</li>
+        <li>update your site links so they to point to current links, not to the URLs that are being redirected</li>
+      </ul>
+    </li>
+    <li>verify that links point to the appropriate official language</li>
+  </ul>
   <h4>See how the rule for verifying links applies in French</h4>
   <ul>
     <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp7-3">7.3 Vérifier que les liens fonctionnent</a></span></li>
