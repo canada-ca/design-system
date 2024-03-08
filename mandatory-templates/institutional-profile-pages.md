@@ -12,7 +12,7 @@ title: Institutional landing page
     This is the template for the main landing page of each Government of Canada department, agency and organization that has an applied title under the
     <a href="https://www.tbs-sct.canada.ca/ap/fip-pcim/reg-eng.asp">Federal Identity Program (FIP) registry</a>.
 </p>
-<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/ilp-thumb.png" class="img-responsive" alt="" /></div>
+<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/ilp-crop.png" class="img-responsive" alt="" /></div>
 
 <section>
     <h2>On this page</h2>
