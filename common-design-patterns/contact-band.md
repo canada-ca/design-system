@@ -6,7 +6,7 @@ description: Guidance about using the contact us band on Canada.ca
 title: Contact us band
 ---
 <p><strong>Last updated</strong>: {{ page.dateModified }}</p>
-<p>The Contact us band provides relevant contact information.</p>
+<p>The Contact us band provides relevant contact information. The band runs across the full width of the page on which it appears.</p>
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/contact-band-en.png" class="img-responsive" alt="" /></div>
 <section>
     <h2>On this page</h2>
