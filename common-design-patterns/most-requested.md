@@ -20,7 +20,7 @@ title: Most requested band
     <li><a href="#latest">Latest changes</a></li>
 </ul>
 <h2 id="use">When to use</h2>
-<p>Use this pattern on navigation pages where people are trying to find where to start their task, such as a topic page or an institutional landing page.</p>
+<p>Use this pattern on landing pages where people are trying to find where to start their task, such as a topic page or an institutional landing page.</p>
 <h2 id="avoid">What to avoid</h2>
 <p>Don’t use this pattern when you want people to stay on the page and do their task.</p>
 <p>Don’t use this to promote departmental preferences. Use data and evidence to determine the top tasks people are trying to access.</p>
