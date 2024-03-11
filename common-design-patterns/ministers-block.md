@@ -3,7 +3,7 @@ altLangPage: "https://conception.canada.ca/X.html"
 date: 2023-08-13
 dateModified: 2023-08-13
 description: The Minister or institutional head pattern provides links to an institution’s minister(s), including associate minister(s), or its institutional head.
-title: Minister or institutional head pattern
+title: Minister or institutional head
 ---
 <p><strong>Last updated</strong>: {{ page.dateModified }}</p>
 <p>
