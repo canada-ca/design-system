@@ -3,12 +3,12 @@ altLangPage: "https://conception.canada.ca/configurations-conception-communes/en
 date: 2018-12-19
 dateModified: 2023-08-30
 description: Guidance about using the most requested pattern on Canada.ca. The most requested pattern provides links to top tasks on navigation pages
-title: Most requested
+title: Most requested band
 ---
 
 <p><strong>Last updated</strong>: {{ page.dateModified }}</p>
 <label class="label label-info">Optional</label>
-<p>The most requested pattern features top tasks for landing pages that offer many choices. Top tasks are the main things that users are trying to do in a given context.</p>
+<p>The most requested pattern features top tasks for landing pages that offer many choices. Top tasks are the main things that users are trying to do in a given context. The most requested pattern functions as a band that runs across the full width of the page on which it appears.</p>
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/most-requested-en.png" class="img-responsive" alt="" /></div>
 <h2>On this page</h2>
 <ul>
