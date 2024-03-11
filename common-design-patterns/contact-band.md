@@ -21,7 +21,7 @@ title: Contact us band
 </section>
 <section>
     <h2 id="use">When to use</h2>
-    <p>Only use the cintact us band on pages where contact information is a top task (ie. on an institutional landing page). When contact information is a secondary task, consider using a contextual footer instead.</p> 
+    <p>Only use the contact us band on pages where contact information is a top task (ie. on an institutional landing page). When contact information is a secondary task, consider using a contextual footer instead.</p> 
 <p>Use the contact us band on pages to:</p>
     <ul>
         <li>present contact information consistently in a variety of contexts</li>
