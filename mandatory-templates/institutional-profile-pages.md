@@ -327,7 +327,7 @@ title: Institutional landing page
     </section>
     <section>
         <h2 id="research">Research and rationale</h2>
-        <p>Consult resarch findings and policy rationale.</p>
+        <p>Consult research findings and policy rationale.</p>
         <h3>Research findings</h3>
         <p>
             We validated the institutional landing page during two optimization projects with the Canada Revenue Agency. We found that this design was useful for providing access to the top tasks for an institution while also giving users
