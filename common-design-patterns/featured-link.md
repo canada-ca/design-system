@@ -137,7 +137,13 @@ title: Featured link
 </section>
 <section>
     <h2 id="latest">Latest changes</h2>
-    <dl class="dl-horizontal">
+   <dl class="dl-horizontal">
+        <dt>
+            <time datetime="2023-04-XX" class="link-muted">2023-08-23</time>
+        </dt>
+        <dd>Updated the guidance to include content and design specifications, visual examples and implementation guidance</dd>
+    </dl>  
+  <dl class="dl-horizontal">
         <dt>
             <time datetime="2023-08-23" class="link-muted">2023-08-23</time>
         </dt>
