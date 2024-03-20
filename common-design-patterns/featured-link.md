@@ -132,7 +132,7 @@ title: Featured link
     <p>It’s an optional pattern for the following mandatory templates:</p>
     <ul>
         <li><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional landing page</a></li>
-        <li>Canada.ca home page</li>
+        <li><a href="https://design.canada.ca/mandatory-templates/home-page.html">Canada.ca home page</a></li>
     </ul>
 </section>
 <section>
