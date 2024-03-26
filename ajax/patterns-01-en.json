@@ -2,6 +2,15 @@
 ---
 {
   "data": [{
+    "NAME": "<a href=\"{{ site.url }}/research-summaries/travel-restrictions-study.html\">Using a wizard to help people get answers during COVID-19</a>",
+    "SOURCE": "Research summary",
+    "DESCRIPTION": "This research summary explains how using a wizard helped people get answers about travel restrictions during COVID-19.",
+    "WHENTOUSE": "",
+    "CATEGORY": "",
+    "TYPE": "",
+    "MANDATORY": "",
+    "TANDP": "0"
+  },{
     "NAME": "<a href=\"{{ site.url }}/research-summaries/canada-child-benefit.html\">Canada Child Benefit</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "This research summary explains the context of the research project in which the subway navigation pattern was created and all the considerations that were taken into account.",
