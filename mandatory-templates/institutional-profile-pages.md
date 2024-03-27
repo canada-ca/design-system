@@ -6,7 +6,6 @@ description: "Guidance on how to use the institutional landing page template and
 title: Institutional landing page
 ---
 <p><span class="label label-danger">Mandatory</span></p>
-<mark>images are placeholders</mark>
 <p><strong>Last updated</strong>: {{ page.dateModified }}</p>
 <p>
     This is the template for the main landing page of each Government of Canada department, agency and organization that has an applied title under the
