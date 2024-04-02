@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/configurations-conception-communes/lien-vedette.html"
 date: 2023-07-13
-dateModified: 2023-07-13
+dateModified: 2024-04-03
 description: Guidance about using the featured links pattern on Canada.ca.
 title: Featured link
 ---
@@ -139,14 +139,8 @@ title: Featured link
     <h2 id="latest">Latest changes</h2>
    <dl class="dl-horizontal">
         <dt>
-            <time datetime="2023-04-XX" class="link-muted">2023-08-23</time>
+            <time datetime="2024-04-03" class="link-muted">2024-04-03</time>
         </dt>
         <dd>Updated the guidance to include content and design specifications, visual examples and implementation guidance</dd>
     </dl>  
-  <dl class="dl-horizontal">
-        <dt>
-            <time datetime="2023-08-23" class="link-muted">2023-08-23</time>
-        </dt>
-        <dd>Updated the guidance to include content and design specifications, visual examples and implementation guidance</dd>
-    </dl>
 </section>
