@@ -162,6 +162,7 @@ title: Institutional landing page
                         <li>Organizational structure</li>
                         <li>Transparency</li>
                         <li>Accessibility</li>
+                        <li>Job opportunities</li>
                     </ul>
                     <p>The second column has:</p>
                     <ul>
@@ -373,10 +374,10 @@ title: Institutional landing page
         <dt>
             <time datetime="2020-03-05" class="link-muted">2020-03-05</time>
         </dt>
-        <dd>added an optional CSS class to hide the top image in tablet view</dd>
+        <dd>Added an optional CSS class to hide the top image in tablet view</dd>
         <dt>
             <time datetime="2019-11-28" class="link-muted">2019-11-28</time>
         </dt>
-        <dd>a new beta version of this template was added</dd>
+        <dd>A new beta version of this template was added</dd>
     </dl>
 </section>
