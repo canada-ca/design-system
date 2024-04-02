@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/configurations-conception-communes/a-propos-de-institution.html
 date: null
-dateModified: '2023-08-23'
+dateModified: '2024-04-03'
 description: Guidance about using the About the institution section on institutional landing pages. The about the institution pattern provides links to an institution’s content.
 title: About the institution
 ---
@@ -208,7 +208,7 @@ title: About the institution
     <h3>Research findings</h3>
     <p>Research shows that this section isn’t what most people are looking for when they reach an institutional landing page. Therefore, this pattern appears near the bottom of the page so it doesn’t interfere with more important tasks.</p>
     <h3>Policy rationale</h3>
-    <p>The About the institution pattern is required in the following mandatory templates:</p>
+    <p>The about the institution pattern is required in the following mandatory templates:</p>
     <ul>
         <li><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional landing page</a></li>
     </ul>
@@ -217,8 +217,8 @@ title: About the institution
     <h2 id="latest">Latest changes</h2>
     <dl class="dl-horizontal">
         <dt>
-            <time datetime="2023-08-23" class="link-muted">2023-08-23</time>
+            <time datetime="2024-04-03" class="link-muted">2024-04-03</time>
         </dt>
-        <dd>Added About the institution guidance to support updates to the Institutional landing page template</dd>
+        <dd>Added about the institution guidance to support updates to the institutional landing page template</dd>
     </dl>
 </section>
