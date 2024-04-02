@@ -86,7 +86,7 @@ title: Featured link
     <p>Find working examples and code for implementing the featured link, including the randomizer functionality.</p>
     <h3>GCWeb</h3>
     <ul>
-        <li><a href="https://wet-boew.github.io/GCWeb/components/gc-featured-link/gc-featured-link-en.html">Featured link - Canada.ca</a></li>
+        <li><a href="https://wet-boew.github.io/GCWeb/components/gc-featured-link/gc-featured-link-en.html">Featured link - GCweb</a></li>
     </ul>
     <h3>Randomizer in WET</h3>
     <ul>
