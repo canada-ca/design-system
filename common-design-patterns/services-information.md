@@ -134,7 +134,7 @@ title: Services and information
   <h3>GCweb (WET) theme implementation reference</h3>
   <p>The implementation reference includes how to configure each element of the services and information pattern.</p>
 <ul>
-  <li><"https://wet-boew.github.io/GCWeb/components/gc-servinfo/gc-srvinfo.html">Services and information - GCWeb</a></li>
+  <li><a href="https://wet-boew.github.io/GCWeb/components/gc-servinfo/gc-srvinfo.html">Services and information - GCWeb</a></li>
 </ul>
   <h3>Implementations</h3>
     <p>Determine what best suits the type of page you're creating.</p>
