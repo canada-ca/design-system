@@ -91,7 +91,7 @@ title: Most requested band
 <h3>GCweb (WET) theme implementation reference</h3>
 <p>The implementation reference includes how to configure elements of the most requested band.</p>
 <ul>
-  <li><a href="https://wet-boew.github.io/GCWeb/components/gc-most-requested/gc-most-requested-en.html">Most requested band - GCWeb</li>
+  <li><a href="https://wet-boew.github.io/GCWeb/components/gc-most-requested/gc-most-requested-en.html">Most requested band - GCWeb</a></li>
 </ul>
 <h3>Implementations</h3>
 <p>Determine what best suits the type of page you're creating.</p>
