@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/configurations-conception-communes/services-renseignements.html
 date: null
-dateModified: '2023-08-23'
+dateModified: '2024-04-03'
 description: Guidance about using the services and information pattern on Canada.ca.
 title: Services and information
 ---
@@ -130,6 +130,13 @@ title: Services and information
 </section>
 <section>
     <h2 id="implement">How to implement</h2>
+  <p>Find working examples and code for implementing the services and information pattern.</p>
+  <h3>GCweb (WET) theme implementation reference</h3>
+  <p>The implementation reference includes how to configure each element of the services and information pattern.</p>
+<ul>
+  <li><"https://wet-boew.github.io/GCWeb/components/gc-servinfo/gc-srvinfo.html">Services and information - GCWeb</a></li>
+</ul>
+  <h3>Implementations</h3>
     <p>Determine what best suits the type of page you're creating.</p>
     <div class="row">
         <div class="col-md-8">
@@ -182,7 +189,7 @@ title: Services and information
     <h2 id="latest">Latest changes</h2>
     <dl class="dl-horizontal">
         <dt>
-            <time datetime="2023-08-13" class="link-muted">2023-08-23</time>
+            <time datetime="2024-04-03" class="link-muted">2024-04-03</time>
         </dt>
         <dd>Updated the guidance to include content and design specifications, visual examples and implementation guidance</dd>
     </dl>
