@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/configurations-conception-communes/en-demande.html"
 date: 2018-12-19
-dateModified: 2023-08-30
+dateModified: 2024-04-03
 description: Guidance about using the most requested pattern on Canada.ca. The most requested pattern provides links to top tasks on navigation pages
 title: Most requested band
 ---
@@ -88,6 +88,11 @@ title: Most requested band
 </div>
 <h2 id="implement">How to implement</h2>
 <p>Find working examples and code for implementing the most requested pattern.</p>
+<h3>GCweb (WET) theme implementation reference</h3>
+<p>The implementation reference includes how to configure elements of the most requested band.</p>
+<ul>
+  <li><a href="https://wet-boew.github.io/GCWeb/components/gc-most-requested/gc-most-requested-en.html">Most requested band - GCWeb</li>
+</ul>
 <h3>Implementations</h3>
 <p>Determine what best suits the type of page you're creating.</p>
 <div class="row">
@@ -133,7 +138,7 @@ title: Most requested band
 <h2 id="latest">Latest changes</h2>
 <dl class="dl-horizontal">
     <dt>
-        <time datetime="2023-08-20" class="link-muted">2023-08-20</time>
+        <time datetime="2024-04-03" class="link-muted">2024-04-03</time>
     </dt>
     <dd>Updated guidance to reflect the banded style for the most requested pattern</dd>
     <dt>
