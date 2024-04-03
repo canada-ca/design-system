@@ -133,19 +133,15 @@ title: Minister or institutional head
             <img src="../images/ministers-block-sm-en.png" class="img-responsive" alt="Minister or institutional head for small screens. Text version below:" />
             <details>
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: minister or institutional head - small screen</summary>
-                <p>The Minister or institutional head pattern appears in 1 column and 2 items with the heading “Minister(s)”.</p>
-                <p>The first column presents a placeholder for an institutional head’s image on the left. The dimensions for the image are 200px x 250px. Information on the right includes:</p>
+                <p>The Minister or institutional head pattern appears in 1 column and has 2 items with the heading “Minister(s)”.</p>
+                <p>The first element begins with a title with the link "The Honourable [Minister name]" followed by a space reserved for the image with the prescribed dimensions of 200 x 250 pixels. Below the image is the text [Official title]. It is followed by a bulleted list with the following two linked items:</p>
                 <ul>
-                    <li>The Honourable [Minister name] (link)</li>
-                    <li>[Official title] (text)</li>
-                    <li>List item: Mandate letter [optional] (link)</li>
-                    <li>List item: Briefing book [optional] (link)</li>
+                    <li>Mandate letter [optional]</li>
+                    <li>Briefing book [optional]</li>
                 </ul>
-                <p>The second column presents a placeholder for an institutional head’s image on the left. The dimensions for the image are 200px x 250px. Information on the right includes:</p>
+                <p>The second element begins with a linked title "The Honourable [Minister name]" followed by a space reserved for the image with the prescribed dimensions of 200 x 250 pixels. Below the image is the text [Official title]. It is followed by the following link element:</p>
                 <ul>
-                    <li>The Honourable [Minister name] (link)</li>
-                    <li>[Official title] (text)</li>
-                    <li>List item: Mandate letter [optional - single item] (link)</li>
+                    <li>Mandate letter [optional - single element]</li>
                 </ul>
             </details>
         </figure>
