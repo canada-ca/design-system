@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/configurations-conception-communes/nouveautes.html
 date: null
-dateModified: '2023-08-23'
+dateModified: '2023-04-03'
 description: Guidance about using the latest news pattern on Canada.ca.
 title: Latest news
 ---
@@ -126,7 +126,7 @@ title: Latest news
     <h2 id="latest">Latest changes</h2>
     <dl class="dl-horizontal">
         <dt>
-            <time datetime="2023-08-13" class="link-muted">2023-08-23</time>
+            <time datetime="2023-04-03" class="link-muted">2023-04-03</time>
         </dt>
         <dd>Updated the guidance to include content and design specifications, visual examples and implementation guidance</dd>
     </dl>
