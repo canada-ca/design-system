@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/configurations-conception-communes/nouveautes.html
 date: null
-dateModified: '2023-08-23'
+dateModified: '2024-04-03'
 description: Guidance about using the context specific features pattern on Canada.ca. 
 title: Context-specific features
 ---
@@ -115,6 +115,13 @@ title: Context-specific features
             </ul>
         </li>
     </ul>
+  <h4>Interactions</h4>
+  <p>Hyperlink the entire container of the featured element:</p>
+<ul>
+  <li>Image</li>
+  <li>Hyperlinked title</li>
+  <li>Description</li>
+</ul>
     <h3>Visual examples</h3>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
@@ -204,7 +211,7 @@ title: Context-specific features
     <h2 id="latest">Latest changes</h2>
     <dl class="dl-horizontal">
         <dt>
-            <time datetime="2023-08-13" class="link-muted">2023-08-23</time>
+            <time datetime="2024-04-03" class="link-muted">2024-04-03</time>
         </dt>
         <dd>Updated the guidance to include content and design specifications, visual examples and implementation guidance</dd>
     </dl>
