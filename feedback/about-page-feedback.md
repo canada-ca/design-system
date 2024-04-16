@@ -113,6 +113,9 @@ Filters are in place to remove these common types of personal information and pr
 * curse words
 
 When personal information is automatically scrubbed, it is replaced with hashtags (###).
+
+When profane words are removed, they are replaced with asterisks (\*\*\*).
+
 <nav role="navigation" class="mrgn-bttm-lg">
   <ul class="pager">
     <li class="next"><a href="when.html" rel="next">Next: When to use page feedback</a></li>
