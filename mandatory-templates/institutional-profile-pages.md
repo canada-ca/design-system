@@ -114,7 +114,7 @@ title: Institutional landing page
                                     Flexible space:<br />
                                     <ul>
                                         <li><a href="./common-design-patterns/latest-news.html">Latest news</a></li>
-                                        <li><a href=".//common-design-patterns/contextual-features.html">Context-specific features</a></li>
+                                        <li><a href=".//common-design-patterns/feature-tiles.html">Context-specific features</a></li>
                                     </ul>
                                 </td>
                                 <td>
