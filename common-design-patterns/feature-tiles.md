@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/configurations-conception-communes/nouveautes.html
+altLangPage: https://conception.canada.ca/configurations-conception-communes/vignettes-promotionnelles.html
 date: null
 dateModified: '2024-04-03'
 description: Guidance about using the context specific features pattern on Canada.ca. 
