@@ -67,8 +67,8 @@ title: Institutional landing page
                                 <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Required</span></td>
                             </tr>
                             <tr>
-                                <td><a href="../common-design-patterns/buttons.html#action">Super task button</a></td>
-                                <td><p>Only include a super task button if there is a specific task that has at least a third of the clickthrough on the institution's home page.</p></td>
+                                <td><a href="../common-design-patterns/buttons.html#action">Supertask button</a></td>
+                                <td><p>Only include a supertask button if there is a specific task that has at least a third of the clickthrough on the institution's home page.</p></td>
                                 <td class="text-center">Optional</td>
                             </tr>
                             <tr>
@@ -136,7 +136,7 @@ title: Institutional landing page
                 <details>
                     <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: institutional landing page - large screen </summary>
                     <p>At the top of the page is an introduction block which includes an h1 titled [Institution name]. It is underlined with a short thick red line. Below the heading is a short description of the institution’s mandate.</p>
-                    <p>Following the introduction block there is a supertask button which is a green rectangle with the words Super task button [optional].</p>
+                    <p>Following the introduction block there is a supertask button which is a green rectangle with the words Supertask button [optional].</p>
                     <p>
                         Below this is the featured link pattern. It is contained within a horizontal blue band that stretches the entire length of the screen. Within the band is white, underlined text that reads: Featured link [optional].
                     </p>
@@ -214,7 +214,7 @@ title: Institutional landing page
                 <details>
                     <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: institutional landing page - small screen</summary>
                     <p>At the top of the page is an introduction block which includes an h1 titled [Institution name]. It is underlined with a short thick red line. Below the heading is a short description of the institution’s mandate.</p>
-                    <p>Following the introduction block there is a supertask button which is a green rectangle with the words Super task button [optional].</p>
+                    <p>Following the introduction block there is a supertask button which is a green rectangle with the words Supertask button [optional].</p>
                     <p>
                         Below this is the featured link pattern. It is contained within a horizontal blue band that stretches the entire length of the screen. Within the band is white, underlined text that reads: Featured link [optional].
                     </p>
