@@ -59,7 +59,7 @@ title: Institutional landing page
                         </thead>
                         <tbody>
                             <tr>
-                                <td><a href="./common-design-patterns/intro-block.html">Introduction block</a></td>
+                                <td><a href="../common-design-patterns/intro-block.html">Introduction block</a></td>
                                 <td>
                                     <p>Use the applied title of the institution (see <a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/fip-pcim/reg-eng.asp">Registry of Applied Titles</a>).</p>
                                     <p>The description should be a very brief summary of what the institution does.</p>
@@ -67,17 +67,17 @@ title: Institutional landing page
                                 <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Required</span></td>
                             </tr>
                             <tr>
-                                <td><a href="./common-design-patterns/buttons.html#action">Super task button</a></td>
+                                <td><a href="../common-design-patterns/buttons.html#action">Super task button</a></td>
                                 <td><p>Only include a super task button if there is a specific task that has at least a third of the clickthrough on the institution's home page.</p></td>
                                 <td class="text-center">Optional</td>
                             </tr>
                             <tr>
-                                <td><a href="./common-design-patterns/featured-link.html">Featured link</a></td>
+                                <td><a href="../common-design-patterns/featured-link.html">Featured link</a></td>
                                 <td><p>The featured link is a short, descriptive link that your institution needs to feature prominently.</p></td>
                                 <td class="text-center">Optional</td>
                             </tr>
                             <tr>
-                                <td><a href="./common-design-patterns/most-requested.html">Most requested</a></td>
+                                <td><a href="../common-design-patterns/most-requested.html">Most requested</a></td>
                                 <td>
                                     <p>Features institution-specific top tasks.</p>
                                     <p>If any one of the institution's top tasks are already included as a direct link under Services and information, do not duplicate them here.</p>
@@ -85,27 +85,27 @@ title: Institutional landing page
                                 <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Required</span></td>
                             </tr>
                             <tr>
-                                <td><a href="./common-design-patterns/services-information.html">Services and information</a></td>
+                                <td><a href="../common-design-patterns/services-information.html">Services and information</a></td>
                                 <td><p>The services and information pattern points to the top-level categories of your organization’s information architecture.</p></td>
                                 <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Required</span></td>
                             </tr>
                             <tr>
-                                <td><a href="./common-design-patterns/contact-band.html">Contact us band</a></td>
+                                <td><a href="../common-design-patterns/contact-band.html">Contact us band</a></td>
                                 <td><p>The first link should be the main contact for your institution. You should limit the band to three contact links.</p></td>
                                 <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Required</span></td>
                             </tr>
                             <tr>
-                                <td><a href="./common-design-patterns/about-institution.html.html">About the institution</a></td>
+                                <td><a href="../common-design-patterns/about-institution.html.html">About the institution</a></td>
                                 <td>Follow the pattern.</td>
                                 <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Required</span></td>
                             </tr>
                             <tr>
-                                <td><a href="./common-design-patterns/social-media-channels.html">Social media channels</a></td>
+                                <td><a href="../common-design-patterns/social-media-channels.html">Social media channels</a></td>
                                 <td>Follow the pattern.</td>
                                 <td class="text-center">Optional</td>
                             </tr>
                             <tr>
-                                <td><a href="./common-design-patterns/ministers-block.html">Minister or institutional head</a></td>
+                                <td><a href="../common-design-patterns/ministers-block.html">Minister or institutional head</a></td>
                                 <td>Follow the pattern.</td>
                                 <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Required</span></td>
                             </tr>
@@ -113,8 +113,8 @@ title: Institutional landing page
                                 <td>
                                     Flexible space:<br />
                                     <ul>
-                                        <li><a href="./common-design-patterns/latest-news.html">Latest news</a></li>
-                                        <li><a href=".//common-design-patterns/feature-tiles.html">Context-specific features</a></li>
+                                        <li><a href="../common-design-patterns/latest-news.html">Latest news</a></li>
+                                        <li><a href="../common-design-patterns/feature-tiles.html">Context-specific features</a></li>
                                     </ul>
                                 </td>
                                 <td>
