@@ -1,153 +1,218 @@
 ---
-altLangPage: https://conception.canada.ca/configurations-conception-communes/vignettes-promotionnelles.html
+altLangPage: https://conception.canada.ca/configurations-conception-communes/nouveautes.html
 date: null
-dateModified: '2018-12-19'
-description: null
-title: Context-specific features design pattern
+dateModified: '2024-04-03'
+description: Guidance about using the context specific features pattern on Canada.ca. 
+title: Context-specific features
 ---
-
-
-<div>
- 
- <section>
-  <p>
-   Context-specific features  are in-page components used to promote government activities, initiatives,  programs and services.
-  </p>
-  <section>
-   <h2>
-    When to use this pattern
-   </h2>
-   <ul>
-    <li>
-     Use this component to promote government activities, initiatives, programs and services that       are relevant to the page on which they appear
-    </li>
-    <li>
-     Do not use this component to promote activities and       initiatives that are not relevant to their context
-    </li>
-    <li>
-     Do not use this component when a person's flow must not be       interrupted, as in a transactional process
-    </li>
-    <li>
-     Do not duplicate content or links from other components on       the page
-    </li>
-   </ul>
-  </section>
-  <section>
-   <h2>
-    How to use this pattern
-   </h2>
-   <ul>
-    <li>
-     Context-specific features always comprise a link and an       image, with optional header and description text
-    </li>
-    <li>
-     On navigation templates (such as theme or topic pages), use 2 or 3 features side-by-side, with each link placed above the image and the description placed underneath the image
-    </li>
-    <li>
-     On destination templates (such as generic pages), limit use       to a single feature with the image placed to the left of the link and       description
-    </li>
-    <li>
-     On navigation  pages, always use a header. The default wording for this block is “Features.”  Use more specific headings where possible to provide stronger context for a person
-    </li>
-    <li>
-     On destination pages, use of a header is optional. When using       a header, always use a specific wording to provide context
-    </li>
-    <li>
-     Position context-specific features   after the main content of the page, but before the footer section
-    </li>
-    <li>
-     Use a maximum of 40 characters for the hyperlink text
-    </li>
-    <li>
-     When applying images in contextual features, follow specifications in the
-     <a href="images.html">
-      images pattern
-     </a>
-    </li>
-    <li>
-     Keep the description text short and concise
-     <ul>
-      <li>
-       1 or 2 lines is ideal
-      </li>
-      <li>
-       do not exceed 3 lines of text (which works out to approximately 145 characters with spaces)
-      </li>
-     </ul>
-    </li>
-    <li>
-     The description link text and  header must be different
-     <ul>
-      <li>
-       do not repeat multi-word phrases in any of the header,        link or description text
-      </li>
-     </ul>
-    </li>
-    <li>
-     Use the defined presentation classes included in the Canada.ca
-     <abbr title="Web Experience Toolkit">
-      WET
-     </abbr>
-     theme
-    </li>
-    <li>
-     For image sizing details, consult the
-     <a href="http://wet-boew.github.io/themes-dist/GCWeb/index-en.html">
-      Canada.ca GitHub page
-     </a>
-    </li>
-   </ul>
-  </section>
-  <section>
-   <h2>
-    Working example
-   </h2>
-   <ul>
-    <li>
-     <a href="https://wet-boew.github.io/GCWeb/components/gc-features/gc-features-en.html">
-      Theme template
-     </a>
-    </li>
-   </ul>
-  </section>
-  <section class="panel panel-primary">
-   <header class="panel-heading">
-    <h3 class="panel-title">
-     Destination page example with a single feature
-    </h3>
-   </header>
-   <div class="panel-body">
-    <figure class="mrgn-bttm-sm">
-     <figcaption class="text-center">
-      <b>
-       Promotional feature tiles pattern
-      </b>
-     </figcaption>
-     <img alt="Screenshot illustrating a the context-specific feature pattern with  a single heading, image, link and description on Canada.ca. Details on this graphic can be found in the surrounding text." class="img-responsive center-block" src="https://www.canada.ca/content/dam/tbs-sct/images/government-communications/canada-content-style-guide/promotional-feature-tiles-eng.jpg"/>
-    </figure>
-   </div>
-  </section>
-  <section class="panel panel-primary">
-   <header class="panel-heading">
-    <h3 class="panel-title">
-     Navigation page example with three features
-    </h3>
-   </header>
-   <div class="panel-body">
-    <figure class="mrgn-bttm-sm">
-     <figcaption class="text-center">
-      <b>
-       Promotional feature tiles pattern
-      </b>
-     </figcaption>
-     <img alt="Screenshot illustrating the context-specific features pattern with a group of 3 sets of links, images and descriptions placed under a single heading on Canada.ca. Details on this graphic can be found in the surrounding text." class="img-responsive center-block" src="https://www.canada.ca/content/dam/tbs-sct/images/government-communications/canada-content-style-guide/promotional-feature-tiles1-eng.jpg"/>
-    </figure>
-   </div>
-  </section>
- </section>
-</div>
-
-
-
-
-
+<p><strong>Last updated</strong>: {{ page.dateModified }}</p>
+<p>The context-specific features pattern includes an image along with a link and a description for promoting government activities, initiatives, programs and services.</p>
+<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/contextual-features-en.png" class="img-responsive" alt="" /></div>
+<section>
+    <h2>On this page</h2>
+    <ul>
+        <li><a href="#use">When to use</a></li>
+        <li><a href="#avoid">What to avoid</a></li>
+        <li><a href="#design">Content and design</a></li>
+        <li><a href="#implement">How to implement</a></li>
+        <li><a href="#research">Research and rationale</a></li>
+        <li><a href="#latest">Latest changes</a></li>
+    </ul>
+</section>
+<section>
+    <h2 id="use">When to use</h2>
+    <p>Use feature tiles for promotions that are contextually related to the page.</p>
+</section>
+<section>
+    <h2 id="avoid">What to avoid</h2>
+    <p>Don't use this pattern to promote unrelated content or content that doesn’t fit the context of the page.</p>
+    <p>Don’t use this pattern when it may distract from the task flow.</p>
+</section>
+<section>
+    <h2 id="design">Content and design</h2>
+    <p>Find content and design specifications and visual examples.</p>
+    <h3>Content specifications</h3>
+    <p>Position context-specific feature tiles after the main content of the page, but before the footer section.</p>
+    <p>Use a maximum of 3 features on a page.</p>
+    <p>Always use a heading for this block:</p>
+    <ul>
+        <li>
+            Multiple features:
+            <ul>
+                <li>The default heading is “Features” in English and “En vedette” in French</li>
+                <li>You can use a more specific heading to provide stronger context</li>
+            </ul>
+        </li>
+        <li>
+            Single feature:
+            <ul>
+                <li>You can make the heading invisible so that it feels more integrated with the content</li>
+                <li>If the heading is visible, it’s better to use a more specific heading to provide stronger context</li>
+            </ul>
+        </li>
+        <li>
+            Include an image, a linked title, and a description in each feature:
+            <ul>
+                <li>Keep the title to approximately 40 characters</li>
+                <li>Keep the description text short and concise, ideally 1 or 2 lines, or below 145 characters</li>
+            </ul>
+        </li>
+    </ul>
+    <h3>Design specifications</h3>
+    <ul>
+        <li>
+            Text uses standard Canada.ca styles:
+            <ul>
+                <li><a href="https://design.canada.ca/styles/typography.html">Typography</a></li>
+                <li><a href="https://design.canada.ca/styles/colours.html">Colours</a></li>
+                <li>Code the heading as an H2 but style it as an H3</li>
+                <li>Code the linked title as an H5</li>
+            </ul>
+        </li>
+        <li>
+            Layout for multiple features:
+            <ul>
+                <li>Image should appear first, followed by hyperlinked title and then description</li>
+                <li>Image dimensions are 360px x 203px</li>
+                <li>News items is coded as an unstyled list</li>
+                <li>
+                    Enclose the feature within a grey container:
+                    <ul>
+                        <li>background colour: #f5f5f5</li>
+                        <li>border: 1px solid #e3e3e3</li>
+                        <li>border radius: 4px</li>
+                        <li>bottom margin: 20px</li>
+                        <li>
+                            box shadow:
+                            <ul>
+                                <li>blur radius: 1px</li>
+                                <li>colour: black with 5% opacity</li>
+                                <li>offset x: 0</li>
+                                <li>offset y: 1px</li>
+                                <li>type: inset</li>
+                            </ul>
+                        </li>
+                        <li>minimum height: 20px</li>
+                        <li>padding: 19px</li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li>
+            Layout for single features:
+            <ul>
+                <li>Place the image on the left, with the hyperlinked title and description to the right of the image</li>
+                <li>Image dimensions are 360px x 203px</li>
+                <li>
+                    Apply a 5px grey border to the image
+                    <ul>
+                        <li>background: #eaebed</li>
+                        <li>border colour: #eee</li>
+                        <li>border radius: 0</li>
+                        <li>padding: 5px</li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+    </ul>
+  <h4>Interactions</h4>
+  <p>Hyperlink the entire container of the featured element:</p>
+<ul>
+  <li>Image</li>
+  <li>Hyperlinked title</li>
+  <li>Description</li>
+</ul>
+    <h3>Visual examples</h3>
+    <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
+        <figure class="mrgn-tp-md mrgn-bttm-lg">
+            <figcaption><b>Context-specific features - large screen </b></figcaption>
+            <img src="../images/contextual-features-en.png" class="img-responsive" alt="Context-specific features for large screen. Text version below:" />
+            <details>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: context-specific features - large screen</summary>
+                <p>
+                    A heading titled “Features” is followed by two feature placeholders in a horizontal row. Each has an image placeholder surrounded by a light grey background. Within the image placeholder are the prescribed image
+                    dimensions: 360px x 203px. Below each image placeholder on the grey background is a placeholder hyperlink that reads [Feature hyperlink text]. Underneath is the following placeholder text: Brief description of the
+                    feature being promoted.
+                </p>
+            </details>
+        </figure>
+    </div>
+    <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
+        <figure class="mrgn-tp-md mrgn-bttm-lg">
+            <figcaption><b>Context-specific features - small screen </b></figcaption>
+            <img src="../images/contextual-features-sm-en.png" class="img-responsive" alt="Context-specific features for small screen. Text version below:" />
+            <details>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: context-specific features - small screen</summary>
+                <p>
+                    A heading titled “Features” is followed by two feature placeholders in a vertical row. Each has an image placeholder surrounded by a light grey background. Within the image placeholder are the prescribed image
+                    dimensions: 360px x 203px. Below each image placeholder on the grey background is a placeholder hyperlink that reads [Feature hyperlink text]. Underneath is the following placeholder text: Brief description of the
+                    feature being promoted.
+                </p>
+            </details>
+        </figure>
+    </div>
+</section>
+<section>
+    <h2 id="implement">How to implement</h2>
+    <p>Find working examples and code for implementing the context-specific features pattern.</p>
+    <h3>GCweb (WET) theme implementation reference</h3>
+    <ul>
+        <li><a href="https://wet-boew.github.io/GCWeb/components/gc-features/gc-features-doc-en.html">Context-specific features (wet-boew)</a></li>
+    </ul>
+    <h3>Implementations</h3>
+    <p>Determine what best suits the type of page you're creating.</p>
+    <div class="row">
+        <div class="col-md-8">
+            <div class="wb-tabs mrgn-tp-lg">
+                <div class="tabpanels">
+                    <details id="004" open="open">
+                        <summary><strong>GC-AEM</strong></summary>
+                        <p class="mrgn-tp-lg">For the Government of Canada Adobe Experience Manager (AEM):</p>
+                        <ul>
+                            <li><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">AEM/Managed Web Service documentation (GCPedia link - only available on the Government of Canada network)</a></li>
+                        </ul>
+                    </details>
+                    <details id="005">
+                        <summary><strong>CDTS</strong></summary>
+                        <p class="mrgn-tp-lg">For the Centrally Deployed Templates Solution (CDTS):</p>
+                        <ul>
+                            <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-en.html">CDTS documentation</a></li>
+                        </ul>
+                    </details>
+                    <details id="006">
+                        <summary><strong>Drupal WxT</strong></summary>
+                        <p class="mrgn-tp-lg">For Drupal WxT:</p>
+                        <ul>
+                            <li><a href="https://drupalwxt.github.io/">Drupal WxT documentation</a></li>
+                        </ul>
+                    </details>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section>
+    <h2 id="research">Research and rationale</h2>
+    <p>Consult research findings and policy rationale.</p>
+    <h3>Research findings</h3>  
+    <p>
+        Less is more. Research on improving promotions on Canada.ca shows that features are the most effective when they’re relevant to the content on the page. A single feature tile works best, but keep the number to a minimum if you plan
+        to use more than one.
+    </p>
+    <h3>Policy rationale</h3>
+    <p>This is an optional pattern for the following mandatory templates:</p>
+    <ul>
+        <li><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional landing page</a></li>
+        <li><a href="https://design.canada.ca/mandatory-templates/theme-topic.html">Theme and topic page</a></li>
+        <li><a href="https://design.canada.ca/mandatory-templates/ministerial-profile-pages">Ministerial pages</a></li>
+    </ul>
+</section>
+<section>
+    <h2 id="latest">Latest changes</h2>
+    <dl class="dl-horizontal">
+        <dt>
+            <time datetime="2024-04-03" class="link-muted">2024-04-03</time>
+        </dt>
+        <dd>Updated the guidance to include content and design specifications, visual examples and implementation guidance</dd>
+    </dl>
+</section>
