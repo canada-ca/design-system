@@ -39,7 +39,7 @@ title: Introduction block
     <p>It can also include:</p>
     <ul>
         <li><a href="#image">image</a></li>
-        <li><a href="#super-task">super task button</a></li>
+        <li><a href="#super-task">supertask button</a></li>
     </ul>
     <h4 id="title">Title</h4>
     <p>The page title should be descriptive and unique, but brief.</p>
@@ -60,9 +60,9 @@ title: Introduction block
     <ul>
         <li><a href="http://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html">Consult the Canada.ca Style Guide</a> for further guidance on images.</li>
     </ul>
-    <h4 id="super-task">Super task button</h4>
-    <p>Only include a super task button if there’s a specific task that has at least 1/3 of the clickthrough rate from the page.</p>
-    <p>Find out how to use a super task button:</p>
+    <h4 id="super-task">Supertask button</h4>
+    <p>Only include a supertask button if there’s a specific task that has at least 1/3 of the clickthrough rate from the page.</p>
+    <p>Find out how to use a supertask button:</p>
     <ul>
         <li><a href="https://design.canada.ca/common-design-patterns/buttons.html">Buttons - Canada.ca design pattern</a></li>
     </ul>
@@ -102,7 +102,7 @@ title: Introduction block
             <img src="../images/intro-block-en.png" class="img-responsive" alt="Introduction block pattern for large screens. Text version below:" />
             <details>
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: introduction block - large screen</summary>
-                <p>The introduction block appears below the global header and the Canada.ca breadcrumb. It consists of an h1 for Institution name and a short description of the institution’s mandate. This visual example does not include the optional image and super task button.</p>
+                <p>The introduction block appears below the global header and the Canada.ca breadcrumb. It consists of an h1 for Institution name and a short description of the institution’s mandate. This visual example does not include the optional image and supertask button.</p>
             </details>
         </figure>
     </div>
@@ -112,7 +112,7 @@ title: Introduction block
             <img src="../images/intro-block-sm-en.png" class="img-responsive" alt="Introduction block pattern for small screens. Text version below:" />
             <details>
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: introduction block - small screen </summary>
-                <p>The introduction block appears below the global header and the Canada.ca breadcrumb. It consists of an h1 for Institution name and a short description of the institution’s mandate. This visual example does not include the optional image and super task button.</p>
+                <p>The introduction block appears below the global header and the Canada.ca breadcrumb. It consists of an h1 for Institution name and a short description of the institution’s mandate. This visual example does not include the optional image and supertask button.</p>
             </details>
         </figure>
     </div>
