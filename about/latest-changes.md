@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/a-propos/derniers-changements.html"
 date: 2017-10-05
-dateModified: 2023-11-07
+dateModified: 2024-02-19
 description: "Latest changes to the Canada.ca design system"
 layout: default
 title: "Latest changes to the Canada.ca design system"
@@ -14,6 +14,10 @@ title: "Latest changes to the Canada.ca design system"
 </div>
 <div id="expand-collapse">
   <details open="open">
+    <summary>February 19, 2024</summary>
+    <p>Updated the <a href="{{ site.url }}/styles/typography.html">Typography style</a> to include design specifications for the new main page title (h1) style.</p>
+  </details>
+  <details>
     <summary>November 7, 2023</summary>
     <p>Updated the <a href="{{ site.url }}/common-design-patterns/report-problem.html">Report a problem pattern</a> to inform users that it is being decommissioned. Stabilized the <a href="{{ site.url }}/common-design-patterns/page-feedback.html">Page feedback tool pattern</a> and added content specifications and updated implementation instructions.</p>
   </details>
