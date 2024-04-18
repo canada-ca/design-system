@@ -287,7 +287,7 @@ title: Institutional landing page
         <h3>GCweb (WET) theme implementation reference</h3>
         <p>The implementation reference includes how to configure each element of the institutional landing page.</p>
         <ul>
-            <li><a href="https://wet-boew.github.io/GCWeb/templates/institutional/institution-en.html">Institutional landing page template - GCWeb</a></li>
+            <li><a href="https://wet-boew.github.io/GCWeb/templates/institutional-landing/institutional-landing-en.html">Institutional landing page template - GCWeb</a></li>
         </ul>
         <h3>Implementations</h3>
         <p>Determine what best suits the type of page you're creating.</p>

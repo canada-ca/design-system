@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/X.html"
+altLangPage: "https://conception.canada.ca/configurations-conception-communes/ministre.html"
 date: 2023-08-13
 dateModified: 2024-04-03
 description: The Minister or institutional head pattern provides links to an institution’s minister(s), including associate minister(s), or its institutional head.
@@ -153,7 +153,7 @@ title: Minister or institutional head
     <h3>GCweb (WET) theme implementation reference</h3>
     <p>The implementation reference includes how to configure elements of the design system.</p>
     <ul>
-        <li><a href="https://wet-boew.github.io/GCWeb/components/gc-minister/gc-minister-en.html">Minister or institutional head- GCWeb</a></li>
+        <li><a href="https://wet-boew.github.io/GCWeb/components/gc-minister/gc-minister-en.html">Minister or institutional head - GCWeb</a></li>
         <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-en.html">Quick implementation guide - GCWeb theme</a></li>
     </ul>
     <h3>Implementations</h3>
