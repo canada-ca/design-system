@@ -642,6 +642,15 @@
     "MANDATORY": "Mandatory",
     "TANDP": "1"
   }, {
+    "NAME": "<a href=\"{{ site.url }}/common-design-patterns/intro-block\">Introduction block</a>",
+    "SOURCE": "Template and pattern library",
+    "DESCRIPTION": "",
+    "WHENTOUSE": "Introduces the content of a landing page.",
+    "CATEGORY": "Design pattern",
+    "TYPE": "",
+    "MANDATORY": "",
+    "TANDP": "1"
+  }, {
     "NAME": "<a href=\"{{ site.url }}/recommended-templates/laws-regulations-pages.html#act-profile\">Act profile page</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Gives a 1 or 2 sentence description of the act, allows people to read the legislation, and relates an act to topics, institutions, ministers and other legislation",
