@@ -157,7 +157,7 @@ title: Context-specific features
     <p>Find working examples and code for implementing the context-specific features pattern.</p>
     <h3>GCweb (WET) theme implementation reference</h3>
     <ul>
-        <li><a href="https://wet-boew.github.io/GCWeb/components/gc-features/gc-features-doc-en.html">Context-specific features (wet-boew)</a></li>
+        <li><a href="https://wet-boew.github.io/GCWeb/components/gc-features/gc-features-en.html">Context-specific features - GCWeb</a></li>
     </ul>
     <h3>Implementations</h3>
     <p>Determine what best suits the type of page you're creating.</p>
