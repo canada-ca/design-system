@@ -642,6 +642,51 @@
     "MANDATORY": "Mandatory",
     "TANDP": "1"
   }, {
+    "NAME": "<a href=\"{{ site.url }}/common-design-patterns/intro-block.html\">Introduction block</a>",
+    "SOURCE": "Template and pattern library",
+    "DESCRIPTION": "Introduces the content of a landing page.",
+    "WHENTOUSE": "Introduces the content of a landing page.",
+    "CATEGORY": "Design pattern",
+    "TYPE": "",
+    "MANDATORY": "",
+    "TANDP": "1"
+  }, {
+    "NAME": "<a href=\"{{ site.url }}/common-design-patterns/featured-link.html\">Featured link</a>",
+    "SOURCE": "Template and pattern library",
+    "DESCRIPTION": "A short, descriptive link that your institution needs to feature prominently on a landing page.",
+    "WHENTOUSE": "A short, descriptive link that your institution needs to feature prominently on a landing page.",
+    "CATEGORY": "Design pattern",
+    "TYPE": "Promotion",
+    "MANDATORY": "No",
+    "TANDP": "1"
+  }, {
+    "NAME": "<a href=\"{{ site.url }}/common-design-patterns/contact-band.html\">Contact us band</a>",
+    "SOURCE": "Template and pattern library",
+    "DESCRIPTION": "Provides relevant contact information",
+    "WHENTOUSE": "Provides relevant contact information",
+    "CATEGORY": "Design pattern",
+    "TYPE": "",
+    "MANDATORY": "",
+    "TANDP": "1"
+  }, {
+    "NAME": "<a href=\"{{ site.url }}/common-design-patterns/ministers-block.html\">Minister or institutional head</a>",
+    "SOURCE": "Template and pattern library",
+    "DESCRIPTION": "Identifies the relevant Minister(s) or head(s) for a department, agency or organization. It provides links to the official bio for an institution’s minister(s), associate minister(s), or institutional head, and may also include a headshot or links to mandate letters and briefing materials.",
+    "WHENTOUSE": "Identifies the relevant Minister(s) or head(s) for a department, agency or organization. It provides links to the official bio for an institution’s minister(s), associate minister(s), or institutional head, and may also include a headshot or links to mandate letters and briefing materials.",
+    "CATEGORY": "Design pattern",
+    "TYPE": "Institutional",
+    "MANDATORY": "",
+    "TANDP": "1"
+  }, {
+    "NAME": "<a href=\"{{ site.url }}/common-design-patterns/about-institution.html\">About the institution</a>",
+    "SOURCE": "Template and pattern library",
+    "DESCRIPTION": "A section on an institutional landing page that provides links to corporate, program and policy information.",
+    "WHENTOUSE": "A section on an institutional landing page that provides links to corporate, program and policy information.",
+    "CATEGORY": "Design pattern",
+    "TYPE": "Institutional",
+    "MANDATORY": "",
+    "TANDP": "1"
+  }, {
     "NAME": "<a href=\"{{ site.url }}/recommended-templates/laws-regulations-pages.html#act-profile\">Act profile page</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Gives a 1 or 2 sentence description of the act, allows people to read the legislation, and relates an act to topics, institutions, ministers and other legislation",
@@ -966,10 +1011,10 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"{{ site.url }}/common-design-patterns/latest-news.html\">Latest news link</a>",
+    "NAME": "<a href=\"{{ site.url }}/common-design-patterns/latest-news.html\">Latest news</a>",
     "SOURCE": "Template and pattern library",
-    "DESCRIPTION": "Use to feature the most recent news items",
-    "WHENTOUSE": "Use to feature the most recent news items",
+    "DESCRIPTION": "Use this pattern to display the most recent Government of Canada newsroom items directly associated with the content of the page.",
+    "WHENTOUSE": "Use this pattern to display the most recent Government of Canada newsroom items directly associated with the content of the page.",
     "CATEGORY": "Design pattern",
     "TYPE": "Institutional",
     "MANDATORY": "No",

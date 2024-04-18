@@ -95,7 +95,7 @@ title: Institutional landing page
                                 <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Required</span></td>
                             </tr>
                             <tr>
-                                <td><a href="../common-design-patterns/about-institution.html.html">About the institution</a></td>
+                                <td><a href="../common-design-patterns/about-institution.html">About the institution</a></td>
                                 <td>Follow the pattern.</td>
                                 <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Required</span></td>
                             </tr>
