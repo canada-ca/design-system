@@ -79,7 +79,8 @@ title: Latest news
     <h3>GCweb (WET) theme implementation reference</h3>
     <p>The implementation reference includes how to configure elements of the design system.</p>
     <ul>
-        <li><a href="https://wet-boew.github.io/gcweb-compiled-demos/wetboew-demos/feeds/feeds-en.html">Feeds plugin</a></li>
+        <li><a href="https://wet-boew.github.io/gcweb-compiled-demos/wetboew-demos/feeds/feeds-en.html">Feeds plugin: Working example</a></li>
+        <li><a href="https://wet-boew.github.io/wet-boew/docs/ref/feeds/feeds-en.html">Feeds plugin: Documentation</a></li>
         <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-en.html">Quick implementation guide - GCWeb theme</a></li>
     </ul>
     <h3>Implementations</h3>
