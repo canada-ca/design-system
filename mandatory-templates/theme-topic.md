@@ -142,7 +142,6 @@ title: Theme and topic page mandatory template
     <div class="row">
      <div class="col-xs-10 col-sm-3 col-lg-2">
       <img alt="" class="thumbnail gc-dwnld-img" height="142" src="../images/theme-topic-img-cropped.jpg" width="110">
-      </img>
      </div>
      <div class="col-xs-12 col-sm-9 col-lg-10">
       <p class="mrgn-tp-md lead">
