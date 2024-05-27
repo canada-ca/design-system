@@ -58,7 +58,9 @@ In each cluster, you will see:
 * Total number of comments in the cluster
 * 5 comments that best exemplify the overall theme of that cluster
 
-  <img src="images/cluster.png" alt="A cluster of comments contains a group number, the percentage of comments that cluster represents, and a sample of keywords" class="img-responsive mrgn-bttm-md" />
+  <img style="border:1px solid black;" src="images/cluster.png" alt="An example cluster with descriptive keywords" class="img-responsive mrgn-bttm-md" />
+
+  <div class="well well-sm">Each cluster of comments contains a group number, the percentage of comments that cluster represents, and a sample of keywords</div>
 
 <details>
 <summary>
