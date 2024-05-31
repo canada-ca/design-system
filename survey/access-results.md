@@ -41,7 +41,7 @@ Password instructions can be found on [GCPedia (internal only)](https://www.gcpe
 ## Current quarterly resultats
 
 ### GC TSS Results Navigator  New - May 2024
-As of May 2024, you can explore quarterly results from the survey online.
+As of June 2024, you can explore quarterly results from the survey online.
 
 <!--[GC TSS Results Navigator](https://analytics-analytique.tbs.alpha.canada.ca/en/) (available from the GC network only)-->
 
