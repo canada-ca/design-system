@@ -40,12 +40,12 @@ Password instructions can be found on [GCPedia (internal only)](https://www.gcpe
 
 ## Current quarterly resultats
 
-### GC TSS Results Navigator  New - May 2024
-As of June 2024, you can explore quarterly results from the survey online.
+<!--### GC TSS Results Navigator  New - May 2024
+As of June 2024, you can explore quarterly results from the survey online.-->
 
 <!--[GC TSS Results Navigator](https://analytics-analytique.tbs.alpha.canada.ca/en/) (available from the GC network only)-->
 
-Navigate survey results by theme or department and then drill directly into specific task results.
+<!--Navigate survey results by theme or department and then drill directly into specific task results.
 
 Data in the TSS Results Navigator has been processed to ensure scoring continuity if task labels change between quarters.  For example: In April 2024, TBS updated their task from “Read a public service collective agreement” to “Find a collective agreement”.  
 
@@ -83,7 +83,7 @@ Learn more about the specific data science methods behind clustering
 <p>As technology changes, we will continue to look for methods of feedback analysis that may bring us closer to summaries written in plain language of the issues found within the feedback.</p>
 
 
-</details>
+</details>-->
 
 ## Survey reports
 
