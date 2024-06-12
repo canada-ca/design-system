@@ -14,6 +14,10 @@ title: "Latest changes to the Canada.ca design system"
 </div>
 <div id="expand-collapse">
   <details open="open">
+    <summary>April 3, 2024</summary>
+    <p>Stabilized the <a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html#changes">institutional landing page</a> (ILP) template and documented each component separately. </p>
+  </details>
+  <details>
     <summary>February 19, 2024</summary>
     <p>Updated the <a href="{{ site.url }}/styles/typography.html">Typography style</a> to include design specifications for the new main page title (h1) style.</p>
   </details>
