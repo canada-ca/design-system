@@ -92,7 +92,7 @@ There are a number of short, medium, and longer term actions that can be taken t
 * Decide which tasks to prioritize for improvement ([learn more about choosing what to improve](prioritize.html) )
 * Use results and comments to build a case for larger service or content improvements
 * Gather baseline measurements prior to content, service or policy changes
-* Consider adding the [page feedback tool](https://design.canada.ca/continuous-improvement/monitoring/feedback.html) to better understand pain points on specific pages
+* Consider adding the [page feedback tool](https://design.canada.ca/feedback/index.html) to better understand pain points on specific pages
 * Monitor for changes to results and comments while undertaking improvements
 
 ## Case studies
