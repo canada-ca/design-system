@@ -27,24 +27,20 @@ title: "Improving titles and metadata for findability"
         The content of some metadata elements is used by search engines to rank results and to determine what content to display in a search engine result page (SERP). Improving your metadata contributes to search engine optimization
         efforts. Writing effective content for these metadata elements is the focus of this guidance.
     </p>
-
     <p>
         <strong>Findability</strong> is about how easily someone can find what they are looking for online. It refers to the quality of being locatable or navigable. It refers to how easy it is to find a resource (a web page) and how a
         system (a website) supports navigation and search.
     </p>
-
     <p>
         You need a good understanding of the user’s goals to properly optimize content and metadata for findability. This includes knowing what words someone will use to search for your content. You should include these keywords in the page
         content and the metadata. If you have access to primary sources (interviews, usability research, support tickets, emails, call centre transcripts, etc.) use these sources to identify your keywords. You can also use online keyword
         research tools.
     </p>
-
     <p>The guidance on this page will help you understand the best way to use your keywords in metadata.</p>
 </section>
 <section id="m2">
     <h2>Write effective content for &lt;title&gt; and &lt;h1&gt; elements</h2>
     <p>In the page header, the metadata &lt;title&gt; (also referred to as the HTML title or the title tag), looks like this:</p>
-
     <div class="row">
         <div class="col-md-8 mrgn-bttm-lg">
             <pre><code>
@@ -53,9 +49,7 @@ title: "Improving titles and metadata for findability"
 </code></pre>
         </div>
     </div>
-
     <p>You can also include:</p>
-
     <div class="row">
         <div class="col-md-8 mrgn-bttm-lg">
             <pre><code>&lt;meta name=”dcterms.title” content=”Commercialization and licensing opportunities”&gt;
@@ -63,25 +57,18 @@ title: "Improving titles and metadata for findability"
 </code></pre>
         </div>
     </div>
-
     <p>If you use both the content should be identical. By using both you’re ensuring that your page is optimized for search engine visibility while also adhering to established metadata standards.</p>
-
     <h3>The &lt;title&gt; tag</h3>
-
     <p>The &lt;title&gt; tag is mandatory on all pages. Its primary purpose is to define the title of the page which is displayed in the browser’s tab.</p>
-
     <p>
         The &lt;title&gt; is the most important field for ranking search results. Search engines may display the &lt;title&gt; content as a clickable blue link on the search engine results page (SERP). According to how a search engine
         interprets the user’s goal, search engine results on Google and elsewhere can include other page content as the link text it displays on the SERP. The Canada.ca search engine will always source the link from the &lt;title&gt; tag.
     </p>
-
     <p>The contents of &lt;title&gt; tags are also used in social media posts, browser tabs, and bookmarks.</p>
-
     <p>
         <strong>Note:</strong> When you create a page in AEM “- Canada.ca” is automatically added to the end of your title tag. This helps people easily identify where the content came from when a page is shared. If your content is not in
         AEM you can manually add this tag to your title field.
     </p>
-
     <div class="row">
         <div class="col-md-8 mrgn-bttm-lg">
             <pre><code>&lt;title&gt;Continuous improvement of web content - Canada.ca&lt;/title&gt;
@@ -89,22 +76,17 @@ title: "Improving titles and metadata for findability"
 </code></pre>
         </div>
     </div>
-
     <h3>The dcterms.title</h3>
     <p>
         The dc.terms title is optional. This metadata field is part of the Dublin Core Metadata Initiative. It allows you to provide additional metadata that may be used by some systems to catalogue and index your page. If you use this
         field, the content should be identical to your &lt;title&gt; field.
     </p>
-
     <h3>Coordinate the &lt;title&gt; and the &lt;H1&gt; content</h3>
-
     <p>
         Web pages require both a metadata &lt;title&gt; and a visible title, typically an &lt;h1&gt; heading. It’s helpful to think about both titles early in the creation process. They are often identical but don’t have to be. In some
         cases, it’s important to have different text in these two titles.
     </p>
-
     <p>Example:</p>
-
     <div class="row">
         <div class="col-md-8 mrgn-bttm-lg">
             <pre><code>&lt;head&gt;
@@ -116,7 +98,6 @@ title: "Improving titles and metadata for findability"
 </code></pre>
         </div>
     </div>
-
     <h3>Tips for effective titles</h3>
     <ul>
         <li>Create your &lt;title&gt; content and &lt;H1&gt; at the same time</li>
@@ -129,9 +110,7 @@ title: "Improving titles and metadata for findability"
         <li>Use an online tool, such as the free title tag tester from Moz, that will give you an idea of what your title tags may look like in a search result.</li>
         <li>Avoid duplicate titles</li>
     </ul>
-
     <h3>Avoiding duplicate titles in search results</h3>
-
     <ul>
         <li>
             There are many duplicate &lt;titles&gt; in Canada.ca content. Since the &lt;title&gt; may be displayed as the clickable link on a search results page, duplicate titles make it challenging for users to clearly distinguish between
@@ -224,9 +203,7 @@ title: "Improving titles and metadata for findability"
 </section>
 <section id="m3">
     <h2>Write effective metadata descriptions</h2>
-
     <p>In the page header, the &lt;description&gt; element looks like this:</p>
-
     <div class="row">
         <div class="col-md-8 mrgn-bttm-lg">
             <pre><code>&lt;meta name=”description” content=”Apply to travel, study, work or immigrate to Canada. Seek citizenship, permanent residency, or refugee protection.”&gt;
@@ -234,27 +211,21 @@ title: "Improving titles and metadata for findability"
 </code></pre>
         </div>
     </div>
-
     <p>You can also include:</p>
-
-    <div class="row">
+<class="row">
         <div class="col-md-8 mrgn-bttm-lg">
             <pre><code>&lt;meta name=”dcterms.description” content=”Apply to travel, study, work or immigrate to Canada. Seek citizenship, permanent residency, or refugee protection.”&gt;
 
 </code></pre>
         </div>
     </div>
-
     <p>If you use both the content should be identical. By using both you’re ensuring that your page is optimized for search engine visibility while also adhering to established metadata standards.</p>
-
     <p>
         The metadata description should accurately summarize the content of your page, telling users what information they will find, or what action they can perform. A good description is more likely to be displayed in a SERP, where it can
         help users quickly determine whether the content is relevant. As with the &lt;title&gt;, if Google or other internet search engines determine that there is content on the page that is a better match to the user’s intent, they will
         display that.
     </p>
-
     <h3>Guidelines for writing metadata descriptions</h3>
-
     <p>The metadata description SHOULD:</p>
     <ul>
         <li>Include 1 or 2 short and easy to read sentences that summarize what the page is about and how it can help people</li>
@@ -262,7 +233,6 @@ title: "Improving titles and metadata for findability"
         <li><mark>Beconcise. mit</mark> the description to 130 characters. Standard search engine optimization (SEO) guidance suggests 160 characters; keeping it shorter will help accommodate French translations</li>
         <li>Include acronyms and abbreviations only if they are well-known, along with the long-form description of the term</li>
     </ul>
-
     <p>The metadata description should NOT:</p>
     <ul>
         <li>repeat text from the title</li>
@@ -279,7 +249,6 @@ title: "Improving titles and metadata for findability"
 </section>
 <section id="m4">
     <h2>Add &lt;keywords&gt; for Canada.ca site search</h2>
-
     <p>A third metadata element, &lt;keywords&gt;, is used by the Canada.ca search engine, but not by Google or other internet search engines. It looks like this:</p>
     <div class="row">
         <div class="col-md-8 mrgn-bttm-lg">
@@ -288,7 +257,6 @@ title: "Improving titles and metadata for findability"
 </code></pre>
         </div>
     </div>
-
     <h3>Guidelines for populating keywords</h3>
     <ul>
         <li>Do not enter words already found in the text, as this won’t improve how the page is ranked</li>
@@ -310,7 +278,6 @@ title: "Improving titles and metadata for findability"
         You can improve the findability of your web pages by focusing metadata creation efforts on the pages that matter most to Canada.ca visitors. Review both your page analytics and search analytics to identify your most visited pages to
         prioritize metadata improvements.
     </p>
-
     <p>We recommend optimizing the metadata on the following types of pages:</p>
     <ul>
         <li>Theme and topic pages</li>
