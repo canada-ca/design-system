@@ -36,7 +36,6 @@ title: "Improving titles and metadata for findability"
   <div class="row">
     <div class="col-md-8 mrgn-bttm-lg">
       <pre><code>
-
    &lt;title&gt;Commercialization and licensing opportunities&lt;/title&gt;
 
 </code></pre>
@@ -47,9 +46,7 @@ title: "Improving titles and metadata for findability"
 
   <div class="row">
     <div class="col-md-8 mrgn-bttm-lg">
-      <pre><code>
-
-   &lt;meta name=”dcterms.title” content=”Commercialization and licensing opportunities”&gt;
+      <pre><code>&lt;meta name=”dcterms.title” content=”Commercialization and licensing opportunities”&gt;
 
 </code></pre>
     </div>
@@ -69,9 +66,7 @@ title: "Improving titles and metadata for findability"
 
   <div class="row">
     <div class="col-md-8 mrgn-bttm-lg">
-      <pre><code>
-
-   &lt;title&gt;Continuous improvement of web content - Canada.ca&lt;/title&gt;
+      <pre><code>&lt;title&gt;Continuous improvement of web content - Canada.ca&lt;/title&gt;
 
 </code></pre>
     </div>
@@ -89,8 +84,7 @@ title: "Improving titles and metadata for findability"
 
   <div class="row">
     <div class="col-md-8 mrgn-bttm-lg">
-      <pre><code>
-  &lt;head&gt;
+      <pre><code>&lt;head&gt;
   &lt;title&gt;Government technologies: Commercialization and licensing opportunities&lt;/title&gt;
   &lt;/head&gt;
   
@@ -190,8 +184,7 @@ title: "Improving titles and metadata for findability"
 
   <div class="row">
     <div class="col-md-8 mrgn-bttm-lg">
-      <pre><code>
-  &lt;meta name=”description” content=”Apply to travel, study, work or immigrate to Canada. Seek citizenship, permanent residency, or refugee protection.”&gt;
+      <pre><code>&lt;meta name=”description” content=”Apply to travel, study, work or immigrate to Canada. Seek citizenship, permanent residency, or refugee protection.”&gt;
 
 </code></pre>
     </div>
@@ -201,8 +194,7 @@ title: "Improving titles and metadata for findability"
 
   <div class="row">
     <div class="col-md-8 mrgn-bttm-lg">
-      <pre><code>
-  &lt;meta name=”dcterms.description” content=”Apply to travel, study, work or immigrate to Canada. Seek citizenship, permanent residency, or refugee protection.”&gt;
+      <pre><code>&lt;meta name=”dcterms.description” content=”Apply to travel, study, work or immigrate to Canada. Seek citizenship, permanent residency, or refugee protection.”&gt;
 
 </code></pre>
     </div>
@@ -241,8 +233,7 @@ title: "Improving titles and metadata for findability"
 <p>A third metadata element, &lt;keywords&gt;, is used by the Canada.ca search engine, but not by Google or other internet search engines. It looks like this:</p>
   <div class="row">
     <div class="col-md-8 mrgn-bttm-lg">
-      <pre><code>
-  &lt;meta name=”keywords” content=”taxes, payment, income tax, business taxes, make a payment, CRA payments, paying income tax,”&gt;
+      <pre><code>&lt;meta name=”keywords” content=”taxes, payment, income tax, business taxes, make a payment, CRA payments, paying income tax,”&gt;
 
 </code></pre>
     </div>
