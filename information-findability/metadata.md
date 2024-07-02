@@ -212,7 +212,7 @@ title: "Improving titles and metadata for findability"
         </div>
     </div>
     <p>You can also include:</p>
-<class="row">
+    <div class="row">
         <div class="col-md-8 mrgn-bttm-lg">
             <pre><code>&lt;meta name=”dcterms.description” content=”Apply to travel, study, work or immigrate to Canada. Seek citizenship, permanent residency, or refugee protection.”&gt;
 
