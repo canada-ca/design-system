@@ -138,11 +138,17 @@ title: "Improving titles and metadata for findability"
                         <tr>
                             <td>
                                 Contact us<br />
-                                &lt;title&gt;Contact us&lt;/title&gt;
+                                <div>
+            <pre><code>&lt;title&gt;Contact us&lt;/title&gt;
+</code></pre>
+    </div>
                             </td>
                               <td>
                                 Contact Agriculture Canada<br />
-                                &lt;title&gt;Contact Agriculture Canada&lt;/title&gt;
+                                <div>
+            <pre><code>&lt;title&gt;Contact Agriculture Canada&lt;/title&gt;
+</code></pre>
+    </div>
                             </td>
                         </tr>
                         <tr>
