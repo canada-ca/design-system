@@ -142,7 +142,9 @@ title: "Improving titles and metadata for findability"
                             </td>
                               <td>
                                 Contact Agriculture Canada<br />
-                                <pre><code>&lt;title&gt;Contact Agriculture Canada&lt;/title&gt;</pre></code>
+                                <pre><code>
+                                &lt;title&gt;Contact Agriculture Canada&lt;/title&gt;
+                                </pre></code>
                             </td>
                         </tr>
                         <tr>
