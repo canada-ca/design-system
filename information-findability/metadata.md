@@ -159,7 +159,7 @@ title: "Improving titles and metadata for findability"
                 </li>
                 <li>
                     Common headings used within publications should have the publication name preceding the page title
-                    <table>
+                    <table class="table table-condensed table-bordered">
                         <tr>
                             <th>Instead of</th>
                             <th>Use</th>
@@ -180,7 +180,7 @@ title: "Improving titles and metadata for findability"
                 </li>
                 <li>
                     Common service pages should have the name of the service preceding the page title
-                    <table>
+                    <table class="table table-condensed table-bordered">
                         <tr>
                             <th>Instead of</th>
                             <th>Use</th>
