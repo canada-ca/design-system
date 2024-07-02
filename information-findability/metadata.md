@@ -140,15 +140,15 @@ title: "Improving titles and metadata for findability"
                                 Contact us<br />
                                 &lt;title&gt;Contact us&lt;/title&gt;
                             </td>
-                            <td>
-                                2022-2023 Departmental Plan<br />
-                                &lt;title&gt;2022-2023 Departmental Plan&lt;/title&gt;
+                              <td>
+                                Contact Agriculture Canada<br />
+                                &lt;title&gt;Contact Agriculture Canada&lt;/title&gt;
                             </td>
                         </tr>
                         <tr>
-                            <td>
-                                Contact Agriculture Canada<br />
-                                &lt;title&gt;Contact Agriculture Canada&lt;/title&gt;
+                             <td>
+                                2022-2023 Departmental Plan<br />
+                                &lt;title&gt;2022-2023 Departmental Plan&lt;/title&gt;
                             </td>
                             <td>
                                 Canada Revenue Agency: 2022-2023 Departmental Plan<br />
@@ -169,8 +169,6 @@ title: "Improving titles and metadata for findability"
                                 Introduction<br />
                                 &lt;title&gt;Introduction&lt;/title&gt;
                             </td>
-                        </tr>
-                        <tr>
                             <td>
                                 Federal actions for a clean growth economy: Introduction<br />
                                 &lt;title&gt;Federal actions for a clean growth economy: Introduction&lt;/title&gt;
@@ -190,8 +188,6 @@ title: "Improving titles and metadata for findability"
                                 How to apply<br />
                                 &lt;title&gt;How to apply&lt;/title&gt;
                             </td>
-                        </tr>
-                        <tr>
                             <td>
                                 Study permit: how to apply<br />
                                 &lt;title&gt;Study permit: how to apply&lt;/title&gt;
