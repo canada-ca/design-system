@@ -7,6 +7,15 @@ keywords: "metadata, what is metadata, keywords, keyword research, findability"
 section-title: "Metadata"
 title: "Improving titles and metadata for findability"
 ---
+---
+altLangPage: "https://conception.canada.ca/"
+date: 2024-02-23
+dateModified: 2024-07-02
+description: "Metadata guidance to improve search findability for Canada.ca web pages"
+keywords: "metadata, what is metadata, keywords, keyword research, findability"
+section-title: "Metadata"
+title: "Improving titles and metadata for findability"
+---
 <p>Use this guidance to write effective titles and metadata. This can help make Government of Canada content easier for people to find using both internet search engines (like Google or Bing) and the Canada.ca site search engine.</p>
 <h2>On this page</h2>
 <ul>
@@ -19,7 +28,7 @@ title: "Improving titles and metadata for findability"
 <section id="m1">
   <h2>Metadata and findability for Canada.ca</h2>
   <p><strong>Metadata</strong> is data that describes data. It’s information about the content on your page. It’s similar to a book’s listing in a library catalogue, that presents key data at a glance, like the author, title, description or publication date. Metadata allows each web page to be described uniquely, yet in a uniform way.</p>
-  <p>Everything inside the header tag in an HTML document is metadata, and it is not visible on the web page. Only the <body> content of the document is displayed in a browser.</p>
+  <p>Everything inside the header tag in an HTML document is metadata, and it is not visible on the web page. Only the &lt;body&gt; content of the document is displayed in a browser.</p>
   <p>The content of some metadata elements is used by search engines to rank results and to determine what content to display in a search engine result page (SERP). Improving your metadata contributes to search engine optimization efforts. Writing effective content for these metadata elements is the focus of this guidance.</p>
 
   <p><strong>Findability</strong> is about how easily someone can find what they are looking for online. It refers to the quality of being locatable or navigable. It refers to how easy it is to find a resource (a web page) and how a system (a website) supports navigation and search.</p>
@@ -91,7 +100,7 @@ title: "Improving titles and metadata for findability"
     <div class="col-md-8 mrgn-bttm-lg">
       <pre><code>
   &lt;head&gt;
-  &lt;title&gt;Government technologies: Commercialization and licensing opportunities</title>
+  &lt;title&gt;Government technologies: Commercialization and licensing opportunities&lt;/title&gt;
   &lt;/head&gt;
   
   &lt;body&gt;
@@ -133,15 +142,15 @@ title: "Improving titles and metadata for findability"
           <th>Use</th>
         </tr>
         <tr>
-          <td>Contact us</br>
+          <td>Contact us<br>
           &lt;title&gt;Contact us&lt;/title&gt;</td>
-          <td>2022-2023 Departmental Plan</br>
+          <td>2022-2023 Departmental Plan<br>
           &lt;title&gt;2022-2023 Departmental Plan&lt;/title&gt;</td>
         </tr>
         <tr>
-          <td>Contact Agriculture Canada</br>
+          <td>Contact Agriculture Canada<br>
           &lt;title&gt;Contact Agriculture Canada&lt;/title&gt;</td>
-          <td>Canada Revenue Agency: 2022-2023 Departmental Plan</br>
+          <td>Canada Revenue Agency: 2022-2023 Departmental Plan<br>
           &lt;title&gt;Canada Revenue Agency: 2022-2023 Departmental Plan&lt;/title&gt</td>
         </tr>
       </table>
@@ -153,11 +162,11 @@ title: "Improving titles and metadata for findability"
           <th>Use</th>
         </tr>
         <tr>
-          <td>Introduction</br>
+          <td>Introduction<br>
           &lt;title&gt;Introduction&lt;/title&gt;</td>
         </tr>
         <tr>
-          <td>Federal actions for a clean growth economy: Introduction</br>
+          <td>Federal actions for a clean growth economy: Introduction<br>
           &lt;title&gt;Federal actions for a clean growth economy: Introduction&lt;/title&gt;</td>
         </tr>
       </table>
@@ -169,11 +178,11 @@ title: "Improving titles and metadata for findability"
           <th>Use</th>
         </tr>
         <tr>
-          <td>How to apply</br>
+          <td>How to apply<br>
           &lt;title&gt;How to apply&lt;/title&gt;</td>
         </tr>
         <tr>
-          <td>Study permit: how to apply</br>
+          <td>Study permit: how to apply<br>
           &lt;title&gt;Study permit: how to apply&lt;/title&gt;</td>
         </tr>
       </table>
@@ -186,7 +195,7 @@ title: "Improving titles and metadata for findability"
 <section id="m3">
 <h2>Write effective metadata descriptions</h2>
 
-<p>In the page header, the <description> element looks like this:</p>
+<p>In the page header, the &lt;description&gt; element looks like this:</p>
 
   <div class="row">
     <div class="col-md-8 mrgn-bttm-lg">
@@ -248,7 +257,6 @@ title: "Improving titles and metadata for findability"
     </div>
   </div>
 
-
 <h3>Guidelines for populating keywords</h3>
 <ul>
   <li>Do not enter words already found in the text, as this won’t improve how the page is ranked</li>
@@ -262,7 +270,6 @@ title: "Improving titles and metadata for findability"
   <li>You can include single keywords and keyword phrases</li>
   <li>In AEM your keywords have to be 400 characters or less in total. Other content management systems may have other limits. Generally you should include 5 to 10 keywords</li>
 </ul>
-
 </section>
 <section id="m5">
 <h2>Prioritize your search optimization efforts</h2>
@@ -276,5 +283,4 @@ title: "Improving titles and metadata for findability"
   <li>Institutional landing pages</li>
   <li>Contact pages</li>
 </ul>
-
 </section>
