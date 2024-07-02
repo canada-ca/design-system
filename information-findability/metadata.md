@@ -42,7 +42,7 @@ title: "Improving titles and metadata for findability"
     <h2>Write effective content for &lt;title&gt; and &lt;h1&gt; elements</h2>
     <p>In the page header, the metadata &lt;title&gt; (also referred to as the HTML title or the title tag), looks like this:</p>
     <div class="row">
-        <div class="col-md-8 mrgn-bttm-lg">
+        <div class="col-md-8 mrgn-bttm-md">
             <pre><code>
    &lt;title&gt;Commercialization and licensing opportunities&lt;/title&gt;
 
@@ -51,7 +51,7 @@ title: "Improving titles and metadata for findability"
     </div>
     <p>You can also include:</p>
     <div class="row">
-        <div class="col-md-8 mrgn-bttm-lg">
+        <div class="col-md-8 mrgn-bttm-md">
             <pre><code>
    &lt;meta name=”dcterms.title” content=”Commercialization and licensing opportunities”&gt;
 
@@ -71,7 +71,7 @@ title: "Improving titles and metadata for findability"
         AEM you can manually add this tag to your title field.
     </p>
     <div class="row">
-        <div class="col-md-8 mrgn-bttm-lg">
+        <div class="col-md-8 mrgn-bttm-md">
             <pre><code>
    &lt;title&gt;Continuous improvement of web content - Canada.ca&lt;/title&gt;
 
@@ -90,7 +90,7 @@ title: "Improving titles and metadata for findability"
     </p>
     <p>Example:</p>
     <div class="row">
-        <div class="col-md-8 mrgn-bttm-lg">
+        <div class="col-md-8 mrgn-bttm-md">
             <pre><code>&lt;head&gt;
    &lt;title&gt;Government technologies: Commercialization and licensing opportunities&lt;/title&gt;
 &lt;/head&gt;
@@ -203,7 +203,7 @@ title: "Improving titles and metadata for findability"
     <h2>Write effective metadata descriptions</h2>
     <p>In the page header, the &lt;description&gt; element looks like this:</p>
     <div class="row">
-        <div class="col-md-8 mrgn-bttm-lg">
+        <div class="col-md-8 mrgn-bttm-md">
             <pre><code>&lt;meta name=”description” content=”Apply to travel, study, work or immigrate to Canada. Seek citizenship, permanent residency, or refugee protection.”&gt;
 
 </code></pre>
@@ -211,7 +211,7 @@ title: "Improving titles and metadata for findability"
     </div>
     <p>You can also include:</p>
     <div class="row">
-        <div class="col-md-8 mrgn-bttm-lg">
+        <div class="col-md-8 mrgn-bttm-md">
             <pre><code>&lt;meta name=”dcterms.description” content=”Apply to travel, study, work or immigrate to Canada. Seek citizenship, permanent residency, or refugee protection.”&gt;
 
 </code></pre>
