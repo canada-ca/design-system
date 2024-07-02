@@ -276,7 +276,8 @@ title: "Improving titles and metadata for findability"
     <p>A third metadata element, &lt;keywords&gt;, is used by the Canada.ca search engine, but not by Google or other internet search engines. It looks like this:</p>
     <div class="row">
         <div class="col-md-8">
-            <pre><code>&lt;meta name=”keywords” content=”taxes, payment, income tax, business taxes, make a payment, CRA payments, paying income tax,”&gt;
+            <pre><code>
+   &lt;meta name=”keywords” content=”taxes, payment, income tax, business taxes, make a payment, CRA payments, paying income tax,”&gt;
 
 </code></pre>
         </div>
