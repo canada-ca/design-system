@@ -153,7 +153,7 @@ title: "Improving titles and metadata for findability"
                             <td>
                                 Canada Revenue Agency: 2022-2023 Departmental Plan<br />
                                 &lt;title&gt;Canada Revenue Agency: 2022-2023 Departmental Plan&lt;/title&gt;
-                                div class="row">
+                                <div class="row">
         <div class="col-md-8">
             <pre><code>&lt;head&gt;
    &lt;title&gt;Government technologies: Commercialization and licensing opportunities&lt;/title&gt;
