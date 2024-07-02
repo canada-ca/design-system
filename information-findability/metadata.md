@@ -83,7 +83,7 @@ title: "Improving titles and metadata for findability"
         The dc.terms title is optional. This metadata field is part of the Dublin Core Metadata Initiative. It allows you to provide additional metadata that may be used by some systems to catalogue and index your page. If you use this
         field, the content should be identical to your &lt;title&gt; field.
     </p>
-    <h3>Coordinate the &lt;title&gt; and the &lt;H1&gt; content</h3>
+    <h3>Coordinate the &lt;title&gt; and the &lt;h1&gt; content</h3>
     <p>
         Web pages require both a metadata &lt;title&gt; and a visible title, typically an &lt;h1&gt; heading. It’s helpful to think about both titles early in the creation process. They are often identical but don’t have to be. In some
         cases, it’s important to have different text in these two titles.
@@ -102,7 +102,7 @@ title: "Improving titles and metadata for findability"
     </div>
     <h3>Tips for effective titles</h3>
     <ul>
-        <li>Create your &lt;title&gt; content and &lt;H1&gt; at the same time</li>
+        <li>Create your &lt;title&gt; content and &lt;h1&gt; at the same time</li>
         <li>Describe the page’s content as succinctly as possible</li>
         <li>Front-load with keywords</li>
         <li>Limit titles to 60 characters, including spaces</li>
@@ -249,7 +249,7 @@ title: "Improving titles and metadata for findability"
     <h2>Add &lt;keywords&gt; for Canada.ca site search</h2>
     <p>A third metadata element, &lt;keywords&gt;, is used by the Canada.ca search engine, but not by Google or other internet search engines. It looks like this:</p>
     <div class="row">
-        <div class="col-md-8 mrgn-bttm-lg">
+        <div class="col-md-8">
             <pre><code>&lt;meta name=”keywords” content=”taxes, payment, income tax, business taxes, make a payment, CRA payments, paying income tax,”&gt;
 
 </code></pre>
