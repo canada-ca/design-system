@@ -218,9 +218,9 @@ title: "Improving titles and metadata for findability"
 
 <p>The metadata description should NOT:</p>
 <ul>
-  <li>repeat text from the title
-  <li>use a list of keywords as a description
-  <li>use duplicate metadata descriptions on multiple pages 
+  <li>repeat text from the title</li>
+  <li>use a list of keywords as a description</li>
+  <li>use duplicate metadata descriptions on multiple pages</li>
 </ul>
 <p>More:</p>
 <ul>
