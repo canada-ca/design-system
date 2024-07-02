@@ -138,7 +138,8 @@ title: "Improving titles and metadata for findability"
                         <tr>
                             <td>
                                 Contact us<br />
-                                <pre><code>&lt;title&gt;Contact us&lt;/title&gt;</pre></code>
+                                <pre><code>&lt;title&gt;Contact us&lt;/title&gt;
+                                </pre></code>
                             </td>
                               <td>
                                 Contact Agriculture Canada<br />
