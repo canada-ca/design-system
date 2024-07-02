@@ -130,7 +130,7 @@ title: "Improving titles and metadata for findability"
             <ul>
                 <li>
                     Common or ambiguous page titles for corporate content, such as Contact us, Transparency, and standard publications that every institution has to produce should include the name of the department in the meta titles
-                    <table class="table table-condensed table-bordered">
+                    <table class="table table-condensed table-bordered small">
                         <tr>
                             <th>Instead of</th>
                             <th>Use</th>
@@ -171,7 +171,7 @@ title: "Improving titles and metadata for findability"
                 </li>
                 <li>
                     Common headings used within publications should have the publication name preceding the page title
-                    <table class="table table-condensed table-bordered">
+                    <table class="table table-condensed table-bordered small">
                         <tr>
                             <th>Instead of</th>
                             <th>Use</th>
@@ -190,7 +190,7 @@ title: "Improving titles and metadata for findability"
                 </li>
                 <li>
                     Common service pages should have the name of the service preceding the page title
-                    <table class="table table-condensed table-bordered">
+                    <table class="table table-condensed table-bordered small">
                         <tr>
                             <th>Instead of</th>
                             <th>Use</th>
