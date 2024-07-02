@@ -7,15 +7,6 @@ keywords: "metadata, what is metadata, keywords, keyword research, findability"
 section-title: "Metadata"
 title: "Improving titles and metadata for findability"
 ---
----
-altLangPage: "https://conception.canada.ca/"
-date: 2024-02-23
-dateModified: 2024-07-02
-description: "Metadata guidance to improve search findability for Canada.ca web pages"
-keywords: "metadata, what is metadata, keywords, keyword research, findability"
-section-title: "Metadata"
-title: "Improving titles and metadata for findability"
----
 <p>Use this guidance to write effective titles and metadata. This can help make Government of Canada content easier for people to find using both internet search engines (like Google or Bing) and the Canada.ca site search engine.</p>
 <h2>On this page</h2>
 <ul>
