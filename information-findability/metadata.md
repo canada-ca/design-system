@@ -210,10 +210,10 @@ title: "Improving titles and metadata for findability"
 
 <p>The metadata description SHOULD:</p>
 <ul>
-  <li>Include 1 or 2 short and easy to read sentences that summarize what the page is about and how it can help people
-  <li>Include keywords that your audience uses,
-  <li><mark>Beconcise. mit</mark> the description to 130 characters. Standard search engine optimization (SEO) guidance suggests 160 characters; keeping it shorter <li>will help accommodate French translations
-  <li>Include acronyms and abbreviations only if they are well-known, along with the long-form description of the term
+  <li>Include 1 or 2 short and easy to read sentences that summarize what the page is about and how it can help people</li>
+  <li>Include keywords that your audience uses</li>
+  <li><mark>Beconcise. mit</mark> the description to 130 characters. Standard search engine optimization (SEO) guidance suggests 160 characters; keeping it shorter will help accommodate French translations</li>
+  <li>Include acronyms and abbreviations only if they are well-known, along with the long-form description of the term</li>
 <ul>
 
 <p>The metadata description should NOT:</p>
