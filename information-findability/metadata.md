@@ -228,7 +228,8 @@ title: "Improving titles and metadata for findability"
     <p>In the page header, the &lt;description&gt; element looks like this:</p>
     <div class="row">
         <div class="col-md-8">
-            <pre><code>&lt;meta name=”description” content=”Apply to travel, study, work or immigrate to Canada. Seek citizenship, permanent residency, or refugee protection.”&gt;
+            <pre><code>
+   &lt;meta name=”description” content=”Apply to travel, study, work or immigrate to Canada. Seek citizenship, permanent residency, or refugee protection.”&gt;
 
 </code></pre>
         </div>
@@ -236,7 +237,8 @@ title: "Improving titles and metadata for findability"
     <p>You can also include:</p>
     <div class="row">
         <div class="col-md-8">
-            <pre><code>&lt;meta name=”dcterms.description” content=”Apply to travel, study, work or immigrate to Canada. Seek citizenship, permanent residency, or refugee protection.”&gt;
+            <pre><code>
+   &lt;meta name=”dcterms.description” content=”Apply to travel, study, work or immigrate to Canada. Seek citizenship, permanent residency, or refugee protection.”&gt;
 
 </code></pre>
         </div>
