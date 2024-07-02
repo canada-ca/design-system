@@ -179,11 +179,17 @@ title: "Improving titles and metadata for findability"
                         <tr>
                             <td>
                                 Introduction<br />
-                                &lt;title&gt;Introduction&lt;/title&gt;
+                                 <div>
+            <pre><code>&lt;title&gt;Introduction&lt;/title&gt;
+</code></pre>
+    </div>
                             </td>
                             <td>
                                 Federal actions for a clean growth economy: Introduction<br />
-                                &lt;title&gt;Federal actions for a clean growth economy: Introduction&lt;/title&gt;
+                                 <div>
+            <pre><code>&lt;title&gt;Federal actions for a clean growth economy: Introduction&lt;/title&gt;
+</code></pre>
+    </div>
                             </td>
                         </tr>
                     </table>
@@ -198,11 +204,17 @@ title: "Improving titles and metadata for findability"
                         <tr>
                             <td>
                                 How to apply<br />
-                                &lt;title&gt;How to apply&lt;/title&gt;
+                                <div>
+            <pre><code>&lt;title&gt;How to apply&lt;/title&gt;
+</code></pre>
+    </div>
                             </td>
                             <td>
                                 Study permit: how to apply<br />
-                                &lt;title&gt;Study permit: how to apply&lt;/title&gt;
+                                <div>
+            <pre><code>&lt;title&gt;Study permit: how to apply&lt;/title&gt;
+</code></pre>
+    </div>
                             </td>
                         </tr>
                     </table>
