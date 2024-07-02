@@ -52,7 +52,8 @@ title: "Improving titles and metadata for findability"
     <p>You can also include:</p>
     <div class="row">
         <div class="col-md-8 mrgn-bttm-lg">
-            <pre><code>&lt;meta name=”dcterms.title” content=”Commercialization and licensing opportunities”&gt;
+            <pre><code>
+   &lt;meta name=”dcterms.title” content=”Commercialization and licensing opportunities”&gt;
 
 </code></pre>
         </div>
@@ -71,7 +72,8 @@ title: "Improving titles and metadata for findability"
     </p>
     <div class="row">
         <div class="col-md-8 mrgn-bttm-lg">
-            <pre><code>&lt;title&gt;Continuous improvement of web content - Canada.ca&lt;/title&gt;
+            <pre><code>
+   &lt;title&gt;Continuous improvement of web content - Canada.ca&lt;/title&gt;
 
 </code></pre>
         </div>
@@ -90,8 +92,8 @@ title: "Improving titles and metadata for findability"
     <div class="row">
         <div class="col-md-8 mrgn-bttm-lg">
             <pre><code>&lt;head&gt;
-  &lt;title&gt;Government technologies: Commercialization and licensing opportunities&lt;/title&gt;
-  &lt;/head&gt;
+   &lt;title&gt;Government technologies: Commercialization and licensing opportunities&lt;/title&gt;
+&lt;/head&gt;
   
   &lt;body&gt;
   &lt;h1&gt;Commercialization and licensing opportunities&lt;/h1&gt;
@@ -128,7 +130,7 @@ title: "Improving titles and metadata for findability"
             <ul>
                 <li>
                     Common or ambiguous page titles for corporate content, such as Contact us, Transparency, and standard publications that every institution has to produce should include the name of the department in the meta titles
-                    <table>
+                    <table class="table table-condensed table-bordered">
                         <tr>
                             <th>Instead of</th>
                             <th>Use</th>
