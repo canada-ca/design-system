@@ -115,7 +115,7 @@ title: "Improving titles and metadata for findability"
     <h3>Avoiding duplicate titles in search results</h3>
     <ul>
         <li>
-            There are many duplicate &lt;titles&gt; in Canada.ca content. Since the &lt;title&gt; may be displayed as the clickable link on a search results page, duplicate titles make it challenging for users to clearly distinguish between
+            There are many duplicate &lt;title&gt; tags in Canada.ca content. Since the &lt;title&gt; may be displayed as the clickable link on a search results page, duplicate titles make it challenging for users to clearly distinguish between
             different pages.
         </li>
         <li>
