@@ -105,11 +105,17 @@ title: "Improving titles and metadata for findability"
         <li>Create your &lt;title&gt; content and &lt;h1&gt; at the same time</li>
         <li>Describe the page’s content as succinctly as possible</li>
         <li>Front-load with keywords</li>
-        <li>Limit titles to 60 characters, including spaces</li>
-        <li>longer titles are more likely to be truncated on the SERP, especially on mobile</li>
+        <li>Limit titles to 60 characters, including spaces
+          <ul>
+          <li>longer titles are more likely to be truncated on the SERP, especially on mobile</li>
+          </ul>
+        </li>
         <li>Include acronyms if they are well-known, and spell them out</li>
-        <li>Preview your titles</li>
-        <li>Use an online tool, such as the free <a href="https://moz.com/learn/seo/title-tag">title tag tester</a> from Moz, that will give you an idea of what your title tags may look like in a search result.</li>
+        <li>Preview your titles
+          <ul>
+          <li>Use an online tool, such as the free <a href="https://moz.com/learn/seo/title-tag">title tag tester</a> from Moz, that will give you an idea of what your title tags may look like in a search result.</li>
+          </ul>
+        </li>
         <li>Avoid duplicate titles</li>
     </ul>
     <h3>Avoiding duplicate titles in search results</h3>
