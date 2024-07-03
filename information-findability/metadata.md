@@ -109,7 +109,7 @@ title: "Improving titles and metadata for findability"
         <li>longer titles are more likely to be truncated on the SERP, especially on mobile</li>
         <li>Include acronyms if they are well-known, and spell them out</li>
         <li>Preview your titles</li>
-        <li>Use an online tool, such as the free title tag tester from Moz, that will give you an idea of what your title tags may look like in a search result.</li>
+        <li>Use an online tool, such as the free <a href="https://moz.com/learn/seo/title-tag">title tag tester</a> from Moz, that will give you an idea of what your title tags may look like in a search result.</li>
         <li>Avoid duplicate titles</li>
     </ul>
     <h3>Avoiding duplicate titles in search results</h3>
