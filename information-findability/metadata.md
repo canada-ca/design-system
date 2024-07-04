@@ -286,7 +286,7 @@ title: "Improving titles and metadata for findability"
     <div class="row">
         <div class="col-md-8">
             <pre><code>
-   &lt;meta name=”keywords” content=”taxes, payment, income tax, business taxes, make a payment, CRA payments, paying income tax,”&gt;
+   &lt;meta name="keywords" content="taxes, payment, income tax, business taxes, make a payment, CRA payments, paying income tax"&gt;
 
 </code></pre>
         </div>
