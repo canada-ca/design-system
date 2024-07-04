@@ -235,7 +235,7 @@ title: "Improving titles and metadata for findability"
     <div class="row">
         <div class="col-md-8">
             <pre><code>
-   &lt;meta name=”description” content=”Apply to travel, study, work or immigrate to Canada. Seek citizenship, permanent residency, or refugee protection.”&gt;
+   &lt;meta name="description" content="Apply to travel, study, work or immigrate to Canada. Seek citizenship, permanent residency, or refugee protection."&gt;
 
 </code></pre>
         </div>
@@ -244,7 +244,7 @@ title: "Improving titles and metadata for findability"
     <div class="row">
         <div class="col-md-8">
             <pre><code>
-   &lt;meta name=”dcterms.description” content=”Apply to travel, study, work or immigrate to Canada. Seek citizenship, permanent residency, or refugee protection.”&gt;
+   &lt;meta name="dcterms.description" content="Apply to travel, study, work or immigrate to Canada. Seek citizenship, permanent residency, or refugee protection."&gt;
 
 </code></pre>
         </div>
@@ -258,10 +258,13 @@ title: "Improving titles and metadata for findability"
     <h3>Guidelines for writing metadata descriptions</h3>
     <p>The metadata description SHOULD:</p>
     <ul>
-        <li>Include 1 or 2 short and easy to read sentences that summarize what the page is about and how it can help people</li>
-        <li>Include keywords that your audience uses</li>
-        <li>Be concise. Limit the description to 130 characters. Standard search engine optimization (SEO) guidance suggests 160 characters; keeping it shorter will help accommodate French translations</li>
-        <li>Include acronyms and abbreviations only if they are well-known, along with the long-form description of the term</li>
+        <li>include 1 or 2 short and easy to read sentences that summarize what the page is about and how it can help people</li>
+        <li>include keywords that your audience uses</li>
+        <li>be concise
+        <ul>
+        <li>limit the description to 130 characters (standard search engine optimization (SEO) guidance suggests 160 characters but keeping it shorter will help accommodate both languages</li>
+        </ul>
+        <li>include acronyms and abbreviations only if they are well-known, along with the long-form description of the term</li>
     </ul>
     <p>The metadata description should NOT:</p>
     <ul>
