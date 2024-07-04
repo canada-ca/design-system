@@ -216,7 +216,7 @@ title: "Improving titles and metadata for findability"
     </div>
                             </td>
                             <td>
-                                Study permit: how to apply<br />
+                                Study permit: How to apply<br />
                                 <div>
             <pre><code>&lt;title&gt;Study permit: how to apply&lt;/title&gt;
 </code></pre>
