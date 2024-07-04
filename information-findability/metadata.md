@@ -12,8 +12,9 @@ title: "Improving titles and metadata for findability"
     white-space: pre-wrap;       /* Since CSS 2.1 */
     white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
     white-space: -pre-wrap;      /* Opera 4-6 */
-    white-space: -o-pre-wrap;    /* Opera 7 */
-    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+    white-space: -o-pre-wrap;    /* Opera 7 */      
+    word-break: keep-all;  /* Internet Explorer 5.5+ */
+
 }
 </style>
 <p>Use this guidance to write effective titles and metadata. This can help make Government of Canada content easier for people to find using both internet search engines (like Google or Bing) and the Canada.ca site search engine.</p>
