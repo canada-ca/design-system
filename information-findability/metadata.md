@@ -53,7 +53,7 @@ title: "Improving titles and metadata for findability"
     <div class="row">
         <div class="col-md-8">
             <pre><code>
-   &lt;meta name=”dcterms.title” content=”Commercialization and licensing opportunities”&gt;
+   &lt;meta name="dcterms.title" content="Commercialization and licensing opportunities"&gt;
 
 </code></pre>
         </div>
