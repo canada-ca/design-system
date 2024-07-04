@@ -67,7 +67,7 @@ title: "Improving titles and metadata for findability"
     </p>
     <p>The contents of &lt;title&gt; tags are also used in social media posts, browser tabs, and bookmarks.</p>
     <p>
-        <strong>Note:</strong> When you create a page in AEM “- Canada.ca” is automatically added to the end of your title tag. This helps people easily identify where the content came from when a page is shared. If your content is not in
+        <strong>Note:</strong> When you create a page in AEM "- Canada.ca" is automatically added to the end of your title tag. This helps people easily identify where the content came from when a page is shared. If your content is not in
         AEM you can manually add this tag to your title field.
     </p>
     <div class="row">
