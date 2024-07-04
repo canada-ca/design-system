@@ -274,6 +274,7 @@ title: "Improving titles and metadata for findability"
           <ul>
           <li>limit the description to 130 characters (standard search engine optimization (SEO) guidance suggests 160 characters but keeping it shorter will help accommodate both languages
           </li>
+          </li>
         <li>include acronyms and abbreviations only if they are well-known, along with the long-form description of the term</li>
     </ul>
     <p>The metadata description should NOT:</p>
