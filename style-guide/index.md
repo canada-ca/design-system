@@ -319,7 +319,7 @@ title: "Canada.ca Content Style Guide"
         <p>They can also suggest simpler alternatives and give you a rough sense of the complexity of a text. But you shouldn't use these tools to evaluate readability accurately. However, you can use them to help demonstrate why text should be simplified or shortened.</p>
         <h4>See how this rule applies in French:</h4>
         <ul>
-          <li><a href=""><mark>2.1 Introduction au langage clair : rédiger pour faciliter la lecture</mark></a></li>
+          <li><a href="{{ site.urlconception }}/guide-redaction/#wp2-1">2.1 Introduction au langage clair : rédiger pour faciliter la lecture</a></li>
         </ul>
         <div class="mrgn-tp-lg">
       <div class="wb-share btn btn-default" data-wb-share='{"custType": "writing for readability", "title": "2.1 Getting started with plain language: writing for readability", "url": "https://design.canada.ca/style-guide/#wp2-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-1"}'></div>
@@ -373,7 +373,7 @@ title: "Canada.ca Content Style Guide"
       <h5>Example of direct statements</h5>
       <p><strong>Write</strong>: Present your passport to the border officer.<br>
         <strong>Instead of</strong>: According to Canadian legislation, you're required to present your passport to the agent who will welcome you into the country.</p>
-      <h4>See how the rule for the inverted pyramid structure applies in French</h4>
+    <h4>See how this rule applies in French:</h4>
       <ul>
         <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-2">2.2 Commencer par les renseignements les plus importants</a></span></li>
       </ul>
@@ -401,11 +401,12 @@ title: "Canada.ca Content Style Guide"
     <p><b>Instead of</b>: Bovine Spongiform Encephalopathy</p>
     <h4>See how the rule for using simple and common words applies to content in French</h4>
     <p>Replace long words with short, simple and everyday words that most people understand and use. Simple words have 2 syllables or less. They're easier to scan than long, complex words.</p>
+    <h4>See how this rule applies in French:</h4>
     <ul>
       <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-3">2.3 Éviter le jargon et les expressions familières ou imagées</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " Use familiar words", "title": "2.3 Use familiar words", "url": "https://design.canada.ca/style-guide/#wp2-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-2"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " Use familiar words", "title": "2.3 Use familiar words", "url": "https://design.canada.ca/style-guide/#wp2-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-3"}'></div>
     </div>
   </section>
   <section id="wp2-4">
