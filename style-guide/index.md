@@ -20,7 +20,7 @@ title: "Canada.ca Content Style Guide"
             <li><a href="#toc3">Use of the style guide</a></li>
             <li><a href="#toc4">Related policies, standards and procedures</a></li>
             <li><a href="#toc5">1.0 Writing principles for web content</a></li>
-            <li><a href="#toc6">2.0 Plain language</a></li>
+            <li><a href="#toc6">2.0 Communicate clearly with plain language</a></li>
             <li><a href="#toc7">3.0 Tone</a></li>
             <li><a href="#toc8">4.0 Style</a></li>
             <li><a href="#toc9">5.0 Content structure</a></li>
@@ -200,22 +200,38 @@ title: "Canada.ca Content Style Guide"
   </section>
 </section>
 <section id="toc6">
-  <h2>2.0 Plain language</h2>
+  <h2>2.0 Communicate clearly with plain language</h2>
   <div class="row mrgn-tp-lg">
     <div class="col-md-8">
       <div class="panel panel-default">
         <div class="panel-body">
           <h3 class="mrgn-tp-sm">In this section</h3>
+          <p><a href="#wp-2-0">The duty to be clear: Plain language requirement</a></p>
           <ul>
-            <li><a href="#wp2-1">2.1 Start with the most important information</a></li>
-            <li><a href="#wp2-2">2.2 Use simple and common words</a></li>
-            <li><a href="#wp2-3">2.3 Use active voice and positive form</a>
+            <li><a href="#wp2-1">2.1 Getting started with plain language: writing for readability</a>
               <ul>
-                <li><a href="#wp2-3-1">Active or passive voice</a></li>
-                <li><a href="#wp2-3-2">Positive or negative form</a></li>
+                <li><a href="#wp-2-1-1">Style</a></li>
+                <li><a href="#wp-2-1-2">Structure</a></li>
+                <li><a href="#wp-2-1-3">Simplify and review</a></li>
+                <li><a href="#wp-2-1-4">Don’t rely on readability tools</a></li>
               </ul>
             </li>
-            <li><a href="#wp2-4">2.4 Use verbs instead of nouns formed from verbs</a></li>
+            <li><a href="#wp2-2">2.2 Start with the most important information</a>
+             <ul>
+                <li><a href="#wp-2-2-1">Inverted pyramid</a></li>
+                <li><a href="#wp-2-2-2">Get to the point</a></li>
+              </ul>
+            </li>
+            <li><a href="#wp2-3">2.3 Use familiar words</a></li>
+            <li><a href="#wp2-4">2.4 Write in the active and positive form</a>
+             <ul>
+                <li><a href="#wp-2-4-1">Write in the active voice</a></li>
+                <li><a href="#wp-2-4-2">Avoid the passive voice</a></li>
+                <li><a href="#wp-2-4-3">Use the positive form</a></li>
+                <li><a href="#wp-2-4-4">Use verbs instead of nouns formed from verbs</a></li>
+                <li><a href="#wp-2-4-5">Avoid noun strings</a></li>
+              </ul>
+            </li>
             <li><a href="#wp2-5">2.5 Avoid jargon, idioms and expressions</a></li>
             <li><a href="#wp2-6">2.6 Use simple sentences</a></li>
             <li><a href="#wp2-7">2.7 Use short sentences and paragraphs</a></li>
