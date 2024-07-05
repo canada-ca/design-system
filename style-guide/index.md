@@ -319,7 +319,7 @@ title: "Canada.ca Content Style Guide"
         <p>They can also suggest simpler alternatives and give you a rough sense of the complexity of a text. But you shouldn't use these tools to evaluate readability accurately. However, you can use them to help demonstrate why text should be simplified or shortened.</p>
         <h4>See how this rule applies in French:</h4>
         <ul>
-          <li><a href="{{ site.urlconception }}/guide-redaction/#wp2-1">2.1 Introduction au langage clair : rédiger pour faciliter la lecture</a></li>
+          <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-1">2.1 Introduction au langage clair : rédiger pour faciliter la lecture</a></span></li>
         </ul>
         <div class="mrgn-tp-lg">
       <div class="wb-share btn btn-default" data-wb-share='{"custType": "writing for readability", "title": "2.1 Getting started with plain language: writing for readability", "url": "https://design.canada.ca/style-guide/#wp2-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-1"}'></div>
@@ -475,8 +475,8 @@ title: "Canada.ca Content Style Guide"
     <p>Don’t use a group of 2 or more nouns to modify another noun.</p>
     <p>These noun strings are hard to understand. They force people to do a lot of unpacking to get at what the phrase means.</p>
     <ul>
-      <li><b>Write</b>: standards for post-mortem evaluation of food animal carcasses</li>
-      <li><b>Instead of</b>: Food Animal Carcass Post-mortem Evaluation Standards</li>
+      <li><b>Write</b>: standards for post-mortem evaluation of food animal carcasses<br>
+      <b>Instead of</b>: Food Animal Carcass Post-mortem Evaluation Standards</li>
     </ul>
     <h4>See how this rule applies in French:</h4>
     <ul>
@@ -508,17 +508,20 @@ title: "Canada.ca Content Style Guide"
     </div>
   </section>
   <section id="wp2-5">
-    <h3>2.5 Avoid jargon, idioms and expressions</h3>
-    <p>Where possible, avoid using jargon, idioms and expressions. Use the clearest, most popular term for your audience.</p>
+    <h3>2.5 Avoid jargon and similar language</h3>
+    <p>Where possible, avoid using jargon, idioms, metaphors and expressions. Use the clearest, most popular term for your audience.</p>
     <p>Legal and technical terms and "government-speak" confuse most people.</p>
-    <p>People who don't speak English or French might use online tools to translate text. These tools don't always translate idioms and expressions accurately.</p>
-    <h4>Examples of jargon, idioms and expressions</h4>
-    <p><strong>Jargon</strong>: bench warrant (an order by a judge to arrest someone who didn't show up in court or comply with certain conditions)</p>
-    <p><strong>Idiom</strong>: to hire a helping hand (meaning to hire an employee)</p>
-    <p><strong>Expression</strong>: attack your least favourite task first (meaning do your least favourite task first)</p>
+    <p>People who don't speak English or French might use online tools to translate text. These tools do not always translate words and ideas accurately.</p>
+    <h4>Examples</h4>
+    <ul>
+      <li><strong>Jargon</strong>: adverse effect (effect); citizen engagement (meaningful involvement of citizens); remuneration (pay); disclosure (making information available); pro bono (legal service provided free of charge)</li>
+      <li><strong>Idiom</strong> to hire a helping hand (meaning to hire an employee)</li>
+      <li><strong>Expression</strong>: attack your least favourite task first (meaning do your least favourite task first)</li>
+      <li><strong>Metaphors</strong>: The sun was a ball of fire (meaning the sun was very hot).</li>
+    </ul>
     <p class="mrgn-tp-lg">If you must include jargon familiar to your target audience, be sure to:</p>
     <ul>
-      <li>explain it using simple, familiar words or give an example to help non-specialists understand</li>
+      <li>explain it using clear, easy-to-understand words or give an example to help non-specialists understand</li>
       <li>never use jargon to explain jargon</li>
     </ul>
     <h4>Examples of statements that avoid the use of jargon</h4>
@@ -526,166 +529,134 @@ title: "Canada.ca Content Style Guide"
       <strong>Instead of</strong>: You have to file your T1 return by April 30.</p>
     <p><strong>Write</strong>: Learn about savings plans that can help you save enough money to retire.<br>
       <strong>Instead of</strong>: Learn about different types of savings plans that will let you build up your retirement nest egg.</p>
-    <h4>Identify keywords your audience is using to find your content</h4>
-    <p>Tools you can use to see which search terms are most popular:</p>
+    <h4 id="wp2-5-1">Identify keywords your audience is using to find your content</h4>
+    <p>Keywords are the words your audience uses to find your content. They are the most common terms used to talk about, or search for, a specific topic.</p>
+    <p>If you have access to primary sources (interviews, usability research, support tickets, emails, call centre transcripts, etc.) use these sources to identify your keywords.</p>
+    <p>You can also use online keyword research tools. Tools you can use to find popular search terms include:</p>
     <ul>
-      <li><a href="https://www.google.ca/trends/explore">Google Trends</a></li>
-      <li><a href="https://adwords.google.com/keywordplanner">Google Keyword Planner</a></li>
-      <li><a href="https://www.bing.com/toolbox/keywords">Bing Keyword Research</a></li>
-      <li>Mozilla Firefox's Keywords Everywhere&nbsp; </li>
+      <li><a href="https://ahrefs.com/free-seo-tools">Ahrefs Free SEO Tools (no account required)</a></li>
+      <li><a href="http://www.bing.com/toolbox/keywords">Bing Keyword Research (need Microsoft account to access)</a></li>
+      <li><a href="https://www.google.ca/trends/explore">Google Trends (no login required)</a></li>
+      <li><a href="http://adwords.google.com/keywordplanner">Google Keyword Planner (need Google AdWords to access)</a></li>
+      <li><a href="https://www.thehoth.com/google-keyword-planner?">Hoth Free Google Keyword Planner (no account required)</a></li>
+      <li><a href="https://moz.com/explorer">Moz Keyword Explorer</a></li>
     </ul>
+    <p>You can also use hashtag research tools to help identify trending keywords.</p>
     <p>Refer to your analytics to find out which search terms your audience uses to find related content.</p>
-    <h4>See how the rule for jargon, idioms and expressions applies to content in French</h4>
+    <h4>See how this rule applies in French:</h4>
     <ul>
       <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-5">2.5 Éviter le jargon et les expressions familières ou imagées</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for jargon, idioms and expressions applies to content in French", "title": "2.5 Avoid jargon, idioms and expressions", "url": "https://design.canada.ca/style-guide/#wp2-5", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-5"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " avoid jargon and similar language", "title": "2.5 Avoid jargon and similar language", "url": "https://design.canada.ca/style-guide/#wp2-5", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-5"}'></div>
     </div>
   </section>
   <section id="wp2-6">
-    <h3>2.6 Use simple sentences</h3>
-    <p>Keep sentence structure simple by putting the subject and the verb at the beginning of the sentence and by using the subject + verb + object construction. This structure helps the reader understand what the subject of the sentence is doing by placing the subject first, followed by the verb.</p>
-    <p>Avoid complex and compound sentences. They generally contain too much information for people to understand when they're scanning.</p>
-    <h4>Examples of simple sentences</h4>
-    <p><strong>Write</strong>: Learn about Canada's transportation system. Find information about using paved roads, bike trails, airports and ports across the country. <br>
-      <strong>Instead of</strong>: Canada's vast transportation system enables millions of people each year to travel throughout the country, around the world, and to work and back. From this page you can access a wealth of transportation information related to travelling and commuting.</p>
-    <p class="mrgn-tp-lg">Replace complex sentence structures with direct statements.</p>
-    <h4>Examples of direct statements</h4>
-    <p><strong>Write</strong>: You have until April 30 to file your tax return.<br>
-      <strong>Instead of</strong>: The period of time that you have to file your tax return ends on April 30.</p>
-    <p class="mrgn-tp-lg">Replace noun strings (a series of 2 or more nouns used to name something) with direct statements.</p>
-    <h4>Examples of statements that avoid chains of nouns</h4>
-    <p><strong>Write</strong>: The evaluation team will submit its final report on the training program in September.<br>
-      <strong>Instead of</strong>: The training program evaluation team will submit its final report in September.</p>
-    <p>Surround a long sentence with shorter ones because it helps people understand the long sentence.</p>
-    <h4>See how the rule for using simple sentences applies in French</h4>
+    <h3>2.6 Use short sentences and paragraphs</h3>
+    <p>Use simple sentence and paragraph structure. Avoid complexity.</p>
+    <p><b>Be direct</b>. Start sentences with the subject and verb. This structure helps people know immediately who is doing what.</p>
+    <p><b>Be brief</b>. Use as few words as possible to express an idea. Being concise helps everyone, including specialists, complete their task.</p>
+    <p><b>Write easy-to-scan content</b>: Keep sentences and paragraphs short. This makes them easier to scan and understand by everyone, on any screen size. Keep some paragraphs to one sentence when it makes the content easier to scan.</p>
+    <p>Use the following strategies to write clear, easy-to-scan content:</p>
     <ul>
-      <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-6">2.6 Utiliser des phrases simples</a></span></li>
+      <li>break up long sentences (optimal is under 15 to 20 words)</li>
+      <li>avoid sentences with lots of commas</li>
+      <li>keep sentences to one idea each</li>
+      <li>remove unnecessary words (modifiers, adverbs, adjectives, words that add no meaning)</li>
+      <li>keep paragraphs to one main idea and no more than 3 sentences</li>
+      <li>present a series of 2 or more ideas or words as a vertical list</li>
+    </ul>
+    <h4>Examples of shortened sentences</h4>
+    <ul>
+      <li><b>Write</b>: We approved your request for funding.<br>
+          Instead of</b>: We received your request for funding, which we've thoroughly reviewed and approved in a timely manner.</li>
+      <li><b>Write</b>: We'll consider any type of investment.<br>
+          <b>Instead of</b>: Any type of investment will be taken into consideration.</li>
+    </ul>
+    <h4>Examples of concise and simple sentence structure</h4>
+     <ul>
+      <li><b>Write</b>: Learn about Canada's transportation system. Find information about using paved roads, bike trails, airports and ports across the country.<br>
+          Instead of</b>: Learn all about Canada's vast transportation system, including information, tools and resources about using paved roads, bike trails, airports and ports all across the country, from coast to coast to coast.</li>
+    </ul>
+    <h4>Examples of a direct statement</h4>
+      <ul>
+      <li><b>Write</b>: You have until April 30 to file your tax return.<br>
+          Instead of</b>: The period of time that you have to file your tax return ends on April 30.</li>
+    </ul>
+    <h4>See how this rule applies in French:</h4>
+    <ul>
+      <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-5">2.6 Utiliser des phrases et des paragraphes courts</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for using simple sentences applies to content", "title": "2.6 Use simple sentences", "url": "https://design.canada.ca/style-guide/#wp2-6", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-6"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " use short sentences and paragraphs", "title": "2.6 Use short sentences and paragraphs", "url": "https://design.canada.ca/style-guide/#wp2-6", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-5"}'></div>
     </div>
   </section>
   <section id="wp2-7">
-    <h3>2.7 Use short sentences and paragraphs</h3>
-    <p>Be concise. Use as few words as possible to express an idea. By being concise, you'll help everyone, even specialists, complete the task they set out to do.</p>
-    <p>Keep sentences and paragraphs short to make them easier to scan on any screen size. People who have learning disabilities may find it difficult to scan and understand long sentences and paragraphs.</p>
-    <p>Try to keep sentences under 20 words. You can do this by:&nbsp;</p>
+    <h3>2.7 Avoid references to legislation</h3>
+    <p>When explaining a requirement that comes from an act or regulation, avoid mentioning the act or regulation by name. Include only the information people need to complete the task.</p>
+    <p>If you <b>must</b> include the name of the act or regulation, always give a plain-language description. First, explain what your audience needs to know and why they need to know more about the act or regulation. Then, you may add a reference to the act or regulation.</p>
+    <h4>Examples of references to legislation</h4>
     <ul>
-      <li>breaking long sentences into shorter ones</li>
-      <li>limiting each sentence to 1 idea </li>
-      <li>removing unnecessary words</li>
+      <li><b>Write</b>: You can apply for your child to become a Canadian citizen after they arrive in Canada as a permanent resident.<br>
+          Related links<br>
+          <a href="http://laws-lois.justice.gc.ca/eng/acts/c-29/FullText.html">Citizenship Act, section 5.1</a><br>
+          <b>Instead of</b>:  After your child arrives in Canada as a permanent resident, you can apply for citizenship on the child's behalf under section 5.1 of the Citizenship Act.</li>
     </ul>
-    <h4>Examples of shortened sentences</h4>
-    <p><strong>Write</strong>: We received your request for funding and approved it. <br>
-      <strong>Instead of</strong>: We received your request for funding, which we've thoroughly reviewed and approved in a timely manner.</p>
-    <p><strong>Write</strong>: We'll consider any type of investment.<br>
-      <strong>Instead of</strong>: Any type of investment will be taken into consideration.</p>
-    <p class="mrgn-tp-lg">Try to keep paragraphs to 3 sentences. You can do this by:</p>
+    <p>For later mentions, you can refer to it as “the Act” or “the Legislation”. Alternatively, include an abbreviated form in parentheses after the first mention. For additional guidance and examples see:</p>
     <ul>
-      <li>developing 1 main idea per paragraph </li>
-      <li>presenting a series of more than 2 ideas or words as a vertical list</li>
-      <li>using a short form for a long title instead of repeating it</li>
+      <li><a href="#wp4-4">Section 4.4 abbreviations and acronyms</a></li>
     </ul>
-    <h4>See how the rule for using short sentences and paragraphs applies in French</h4>
+    <h4>See how this rule applies in French:</h4>
     <ul>
-      <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-7">2.7 Utiliser des phrases et des paragraphes courts</a></span></li>
+      <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-7">2.7 Expliquer les références aux lois</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for using short sentences and paragraphs", "title": "2.7 Use short sentences and paragraphs", "url": "https://design.canada.ca/style-guide/#wp2-7", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-7"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " avoid references to legislation ", "title": "2.7 Avoid references to legislation ", "url": "https://design.canada.ca/style-guide/#wp2-7", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-7"}'></div>
     </div>
   </section>
   <section id="wp2-8">
-    <h3>2.8 Explain references to legislation</h3>
-    <p>When explaining a requirement that comes from an act or regulation, avoid mentioning the act or regulation by name. Include only the information people need to complete the task.</p>
-    <p>If you <strong>must </strong>include the name of the act or regulation, always give a plain-language description. First, explain what your audience needs to know and why they need to know more about the act or regulation. Then, you may add the reference to the act or regulation.</p>
-    <h4>Examples of references to legislation</h4>
-    <p><strong>Write</strong>: You can apply for your child to become a Canadian citizen after they arrive in Canada as a permanent resident.</p>
-    <p>Related links</p>
+    <h3>2.8 Additional resources on plain language and clear communication</h3>
+    <p>The following resources offer trustworthy information to help you write clearly in plain language:</p>
+    <h4>Relevant <em>Writing Tips Plus</em> articles on clear communication</h4>
     <ul>
-      <li><cite><a href="https://laws-lois.justice.gc.ca/eng/acts/c-29/FullText.html">Citizenship Act</a></cite>, section 5.1</li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-choose-positive-over-negative-phrasing.html">choose positive over negative phrasing</a></li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-coherence.html">coherence</a></li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-overview-of-the-writing-process-and-techniques.html">overview of the writing process and techniques</a></li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-polish-your-paragraphs.html">polish your paragraphs</a></li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-reduce-redundancy.html">reduce redundancy</a></li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-responsibilities-of-writers-editors-and-decision-makers.html">responsibilities of writers, editors and decision makers</a></li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-simplify-your-sentences.html">simplify your sentences</a></li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-transition-words.html">transition words</a></li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-turn-nouns-into-verbs.html">turn nouns into verbs</a></li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-use-clear-words-and-expressions.html">use clear words and expressions</a></li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-use-the-active-voice.html">use the active voice</a></li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-write-clear-and-effective-briefing-notes.html">write clear and effective briefing notes</a></li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-write-relevant-and-effective-emails.html">write relevant and effective emails</a></li>
     </ul>
-    <p><strong>Instead of</strong>: After your child arrives in Canada as a permanent resident, you can apply for citizenship on the child's behalf under section 5.1 of the <cite>Citizenship Act</cite>.</p>
-    <h4>See how the rule for explaining references to legislation applies in French</h4>
+    <h4>External resources:</h4>
     <ul>
-      <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-8">2.8 Expliquer les références aux lois</a></span></li>
+      <li><a href="https://readabilityguidelines.co.uk/clear-language/plain-english/">Content Design London | Readability Guidelines</a></li>
+      <li><a href="https://www.iso.org/obp/ui#iso:std:iso:24495:-1:ed-1:v1:en">ISO 24495-1:2023 Plain language</a></li>
+      <li><a href="https://www.iplfederation.org/plain-language/">Plain Language - International Plain Language Federation</a></li>
+      <li><a href="https://www.plainlanguage.gov/guidelines/words/avoid-noun-strings/">PlainLanguage.gov | Plain language guidelines (US government)</a></li>
+      <li>Province of British Columbia:
+      <ul>
+        <li><a href="https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/web-content-development-guides/web-style-guide/writing-guide/writing-web-content#plain-language">Writing web content - Province of British Columbia</a></li>
+        <li><a href="https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/web-content-development-guides/web-style-guide/writing-guide/plain-language">Government of British Columbia Plain language checklist</a></li>
+      </ul>
+      </li>
+      <li><a href="https://webaim.org/techniques/writing/">WebAIM Writing Clearly and Simply Guide (external link)</a></li>
     </ul>
-    <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for explaining references to legislation", "title": "2.8 Explain references to legislation", "url": "https://design.canada.ca/style-guide/#wp2-8", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-8"}'></div>
-    </div>
-  </section>
-  <section id="wp2-9">
-    <h3>2.9 Check the reading level of the content</h3>
-    <p>Check the reading level of your text. Make sure that it meets the reading level you're targeting based on the literacy needs of your audience. Do this every so often while you're writing content. You can use various tools to do this.</p>
-    <p>Readability tools help you check if content is too wordy or complex. Writing content at a reading level above grade 8 can make it difficult for many people to understand or complete their task.</p>
-    <section id="wp2-9-1">
-      <h4>Use a readability tool</h4>
-      <p>You can use a readability tool like Flesch-Kincaid to check the reading level of your English content. This tool is available as part of Microsoft Word. It generally reflects the years of education needed to understand the text.</p>
-      <p>To use Flesch-Kincaid:</p>
-      <ol start="1" type="1">
-        <li>in Word 2010 and later, click the <strong>File</strong> tab, and then click <strong>Options</strong></li>
-        <li>click <strong>Proofing</strong></li>
-        <li>under <strong>When correcting spelling and grammar in Word</strong>, make sure the <strong>Check grammar with spelling</strong> check box is selected</li>
-        <li>select <strong>Show readability statistics &nbsp;</strong></li>
-      </ol>
-      <p>You can check the reading level of a whole page or just part of a page. To check the reading level:</p>
-      <ol start="1" type="1">
-        <li>accept any tracked changes</li>
-        <li>place periods at the end of any bulleted items and headings (remove the periods before publishing) </li>
-        <li>highlight the text in your Word document</li>
-        <li>click the <strong>Review</strong> tab</li>
-        <li>click <strong>Spelling &amp; Grammar</strong></li>
-        <li>when Word has finished checking the text, it will ask whether you want to check the rest of the content</li>
-        <li>click <strong>No</strong></li>
-      </ol>
-      <p>If your text contains technical terms that consist of long, multi-syllable words that you need to use for your specialized audience, remove these terms before you test the content for readability to see whether the surrounding text can be simplified. Reinsert the technical terms once you've simplified the surrounding text.</p>
-      <p>The Readability Statistics dialog box will appear and show the Flesch-Kincaid grade level.</p>
-      <figure class="mrgn-bttm-lg">
-        <figcaption class="text-center"><strong>Figure 2</strong></figcaption>
-        <img alt="Screen capture of a readability statistics dialog box in Microsoft Word. Text version below:" class="img-responsive center-block mrgn-bttm-md" src="/style-guide/images/fig-02-eng.jpg">
-        <details>
-          <summary> Figure 2 - Text version </summary>
-          <p>A screen capture of Microsoft Word's readability statistics dialog box shows that a sample of text got a Flesch-Kincaid reading level of 5.8.</p>
-        </details>
-      </figure>
-      <p>In newer versions of Microsoft Word, search for "Flesch-Kincaid" using the help feature.</p>
-    </section>
-    <section id="wp2-9-2">
-      <h4>Follow the reading level requirements</h4>
-      <p>Evaluate the reading level of content as follows for:</p>
-      <ul>
-        <li>navigation content (home, theme and topic pages), aim for no higher than grade 8</li>
-        <li>all other content intended for general audiences, aim for grade 8 or lower</li>
-        <li>content intended for experts, determine the appropriate grade level and apply it across all content for this audience</li>
-      </ul>
-    </section>
-    <section id="wp2-9-3">
-      <h4>Verify whether the content is easy to understand</h4>
-      <p>Readability tools reveal the reading level of your content, but they can't tell you whether it makes sense.</p>
-      <p>To check whether your content is easy to read and understand, test it:</p>
-      <ul>
-        <li>ask colleagues who aren't familiar with the subject to review the text for clarity and logic</li>
-        <li>work with your communications team to set up usability testing for your content</li>
-      </ul>
-      <p>If your content has a high reading level, or if usability testing shows low task completion, try to:</p>
-      <ul>
-        <li>shorten words, sentences or paragraphs, but keep words of 3 or more syllables if they're well known</li>
-        <li>replace technical jargon with terms that people will understand</li>
-        <li>remove details that people don't need to complete the task</li>
-        <li>replace secondary references to a program with "program" rather than using its full name or abbreviation</li>
-        <li>create numbered or bulleted lists for key tasks</li>
-      </ul>
-    </section>
-    <h4>See how the rule for measuring content for readability applies in French</h4>
+    <h4>See how this section applies in French:</h4>
     <ul>
-      <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-9">2.9 Vérifier la lisibilité de votre contenu</a></span></li>
+      <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-8">2.8 Liens vers des ressources externes sur le langage clair</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for measuring content for readability", "title": "2.9 Check the reading level of the content", "url": "https://design.canada.ca/style-guide/#wp2-9", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-9"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": "  additional resources on plain language and clear communication
+", "title": "2.8  Additional resources on plain language and clear communication
+", "url": "https://design.canada.ca/style-guide/#wp2-8", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-8"}'></div>
     </div>
   </section>
-</section>
 <section id="toc7">
   <h2>3.0 Tone</h2>
   <div class="row mrgn-tp-lg">
