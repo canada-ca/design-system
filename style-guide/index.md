@@ -614,49 +614,6 @@ title: "Canada.ca Content Style Guide"
       <div class="wb-share btn btn-default" data-wb-share='{"custType": " avoid references to legislation ", "title": "2.7 Avoid references to legislation ", "url": "https://design.canada.ca/style-guide/#wp2-7", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-7"}'></div>
     </div>
   </section>
-  <section id="wp2-8">
-    <h3>2.8 Additional resources on plain language and clear communication</h3>
-    <p>The following resources offer trustworthy information to help you write clearly in plain language:</p>
-    <h4>Relevant <cite>Writing Tips Plus</cite> articles on clear communication</h4>
-    <ul>
-      <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-choose-positive-over-negative-phrasing.html">choose positive over negative phrasing</a></li>
-      <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-coherence.html">coherence</a></li>
-      <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-overview-of-the-writing-process-and-techniques.html">overview of the writing process and techniques</a></li>
-      <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-polish-your-paragraphs.html">polish your paragraphs</a></li>
-      <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-reduce-redundancy.html">reduce redundancy</a></li>
-      <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-responsibilities-of-writers-editors-and-decision-makers.html">responsibilities of writers, editors and decision makers</a></li>
-      <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-simplify-your-sentences.html">simplify your sentences</a></li>
-      <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-transition-words.html">transition words</a></li>
-      <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-turn-nouns-into-verbs.html">turn nouns into verbs</a></li>
-      <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-use-clear-words-and-expressions.html">use clear words and expressions</a></li>
-      <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-use-the-active-voice.html">use the active voice</a></li>
-      <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-write-clear-and-effective-briefing-notes.html">write clear and effective briefing notes</a></li>
-      <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-write-relevant-and-effective-emails.html">write relevant and effective emails</a></li>
-    </ul>
-    <h4>External resources:</h4>
-    <ul>
-      <li><a href="https://readabilityguidelines.co.uk/clear-language/plain-english/">Content Design London | Readability Guidelines</a></li>
-      <li><a href="https://www.iso.org/obp/ui#iso:std:iso:24495:-1:ed-1:v1:en">ISO 24495-1:2023 Plain language</a></li>
-      <li><a href="https://www.iplfederation.org/plain-language/">Plain Language - International Plain Language Federation</a></li>
-      <li><a href="https://www.plainlanguage.gov/guidelines/words/avoid-noun-strings/">PlainLanguage.gov | Plain language guidelines (US government)</a></li>
-      <li>Province of British Columbia:
-      <ul>
-        <li><a href="https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/web-content-development-guides/web-style-guide/writing-guide/writing-web-content#plain-language">Writing web content - Province of British Columbia</a></li>
-        <li><a href="https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/web-content-development-guides/web-style-guide/writing-guide/plain-language">Government of British Columbia Plain language checklist</a></li>
-      </ul>
-      </li>
-      <li><a href="https://webaim.org/techniques/writing/">WebAIM Writing Clearly and Simply Guide (external link)</a></li>
-    </ul>
-    <h4>See how this section applies in French:</h4>
-    <ul>
-      <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-8">2.8 Liens vers des ressources externes sur le langage clair</a></span></li>
-    </ul>
-    <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " additional resources on plain language and clear communication
-", "title": "2.8 Additional resources on plain language and clear communication
-", "url": "https://design.canada.ca/style-guide/#wp2-8", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-8"}'></div>
-    </div>
-  </section>
 <section id="toc7">
   <h2>3.0 Tone</h2>
   <div class="row mrgn-tp-lg">
