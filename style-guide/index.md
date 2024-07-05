@@ -411,39 +411,78 @@ title: "Canada.ca Content Style Guide"
   <section id="wp2-4">
     <h3>2.3 Write in the active and positive form</h3>
     <p>Write in the active voice and positive form. Direct your audience to what they need to know. Use action verbs to guide them to their next steps.</p>
-    <section id="wp2-4-1">
-      <h4>Write in the active voice</h4>
+    <section>
+      <h4 id="wp2-4-1">Write in the active voice</h4>
       <p>In most cases, using the active voice will help your audience understand what they’re reading. Sentences in the active voice are direct, clear and easier to understand. Their structure is logical and easy to follow because the subject is the doer of the action:</p>
       <ul>
         <li>subject (the doer) + verb (the action) + object (who/what the action is about)</li>
       </ul>
-      <h5>Avoid the passive voice</h5>
+      <h4 id="wp2-4-2">Avoid the passive voice</h4>
       <p>In a passive sentence, it may not be clear who or what is doing the action. This makes the sentence harder to understand. The structure of a passive sentence is:</p>
       <ul>
         <li>Object + verb + subject</li>
       </ul>
-      <h4>Examples of active and passive voice </h4>
-    </section>
-    <section id="wp2-3-2">
-      <h4>Positive or negative form</h4>
-      <p>Whenever possible, tell people what they may or must do instead of what they may not or must not do. Avoid negatives, double negatives and exceptions to exceptions.</p>
-      <h5>Examples of positive and negative sentences</h5>
-      <p><strong>Positive</strong>: You're entitled to part of the deduction.<br>
-        <strong>Negative</strong>: You're not entitled to the entire deduction.</p>
-      <p><strong>Positive</strong>: The procedure will be effective.<br>
-        <strong>Double</strong> <strong>negative</strong>: The procedure will not be ineffective.</p>
-      <p><strong>Positive</strong>: You may claim a child born in 1972 or earlier as a dependent, if he or she has a mental or physical disability.<br>
-        <strong>Double negative</strong>: You may not claim anything for a dependent child born in 1972 or earlier, unless the child has a mental or physical disability.</p>
-      <p class="mrgn-tp-lg">If something has serious consequences, you can use the negative form to explain that something isn't possible or should not be done.</p>
+      <h4>Examples of active and passive voice</h4>
+      <ul>
+        <li><b>Write</b>: We may ask you to provide proof of citizenship. (active)<br>
+            <b>Instead of</b>: You may be asked to provide proof of citizenship. (passive)</li>
+        <li><b>Write</b>: You must file your returns electronically. (active)<br>
+            <b>Instead of</b>: Your returns must be filed electronically. (passive)</li>
+      </ul>
+      <p>The passive voice is useful in some cases. For more on this topic, consult:</p>
+      <ul>
+        <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/active-voice-passive-voice-voice.html">Writing Tips Plus: Active voice, passive voice</a></li>
+      </ul>
+      <h4 id="wp2-4-3">Use the positive form</h4>
+      <p>Whenever possible, tell people what they may or must do instead of what they may not or must not do to complete their task. Avoid negatives, double negatives and exceptions to exceptions.</p>
+      <h4>Examples of positive and negative sentences</h4>
+      <ul>
+        <li><b>Positive</b>: You will receive your Notice of Assessment once you’ve filed your return.<br>
+            <b>Negative</b>: You can’t receive your Notice of Assessment if you haven’t filed your taxes.</li>
+        <li><b>Positive</b>: You're entitled to part of the deduction.<br>
+            <b>Negative</b>: You're not entitled to the entire deduction.</li>
+        <li><b>Positive</b>: The procedure will be effective.<br>
+            <b>Double negative</b>: The procedure will not be ineffective.</li>
+        <li><b>Positive</b>: You may claim a child born in 1972 or earlier as a dependent if he or she has a mental or physical disability.<br>
+            <b>Double negative</b>: You may not claim anything for a dependent child born in 1972 or earlier unless the child has a mental or physical disability.</li>
+      </ul>
+      <h5>Exception: Acceptable use of the negative form</h5>
+      <p>You can use the negative form when something has serious or fatal consequences. The negative form will make it easier to explain what is not possible or should not be done. Do not use contractions (don’t) to make sure your audience will read and understand the statement.</p>
       <h5>Examples of using the negative form for something that has serious consequences</h5>
-      <p><strong>Write</strong>: Do&nbsp;<strong>not</strong>&nbsp;try to locate the source of carbon monoxide. Leave your home immediately and move to fresh air.</p>
-    </section>
-    <h4>See how the rule for active voice and positive form applies to content in French</h4>
+      <ul>
+        <li>Do not try to locate the source of carbon monoxide. Leave your home immediately and move to fresh air.</li>
+        <li>Do not attempt on your own as this can have serious or fatal consequences.</li>
+      </ul>
+      <h4 id="wp2-4-4">Use verbs instead of nouns formed from verbs</h4>
+      <p>Avoid using nouns that are formed from verbs. Verbs alone clearly express the action needed.  Always use the simplest form of a verb. When possible, use the present tense.</p>
+      <h5>Examples of the use of verbs instead of nouns</h5>
+      <ul>
+        <li><b>Write</b>: apply<br>
+            <b>Instead of</b>: submit your application</li>
+        <li><b>Write</b>: consider<br>
+            <b>Instead of</b>: take into consideration</li>
+        <li><b>Write</b>: modify<br>
+            <b>Instead of</b>: make a modification</li>
+        <li><b>Write</b>: needs<br>
+            <b>Instead of</b>: is in need of</li>
+      </ul>
+    <p>For more details read:</p>
     <ul>
-      <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-3">2.3 Utiliser la voix active et la forme positive</a></span></li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/writing-tips-plus/clear-communication-turn-nouns-into-verbs"><em>Writing Tips Plus</em>: Turn nouns into verbs</a></li>
+    </ul>
+    <h4 id="wp2-4-5">Avoid noun strings</h4>
+    <p>Don’t use a group of 2 or more nouns to modify another noun.</p>
+    <p>These noun strings are hard to understand. They force people to do a lot of unpacking to get at what the phrase means.</p>
+    <ul>
+      <li><b>Write</b>: standards for post-mortem evaluation of food animal carcasses</li>
+      <li><b>Instead of</b>: Food Animal Carcass Post-mortem Evaluation Standards</li>
+    </ul>
+    <h4>See how this rule applies in French:</h4>
+    <ul>
+      <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-4">2.4 Rédigez avec la voix active, directe, et affirmative</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for active voice and positive form", "title": "2.3 Use active voice and positive form", "url": "https://design.canada.ca/style-guide/#wp2-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-3"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " write in the active and positive form ", "title": "2.4 Write in the active and positive form ", "url": "https://design.canada.ca/style-guide/#wp2-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-4"}'></div>
     </div>
   </section>
   <section id="wp2-4">
