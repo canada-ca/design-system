@@ -633,7 +633,7 @@ title: "Canada.ca Content Style Guide"
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-write-clear-and-effective-briefing-notes.html">write clear and effective briefing notes</a></li>
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-write-relevant-and-effective-emails.html">write relevant and effective emails</a></li>
     </ul>
-   <!--  <h4>External resources:</h4>
+ <h4>External resources:</h4>
     <ul>
       <li><a href="https://readabilityguidelines.co.uk/clear-language/plain-english/">Content Design London | Readability Guidelines</a></li>
       <li><a href="https://www.iso.org/obp/ui#iso:std:iso:24495:-1:ed-1:v1:en">ISO 24495-1:2023 Plain language</a></li>
@@ -647,7 +647,7 @@ title: "Canada.ca Content Style Guide"
       </li>
       <li><a href="https://webaim.org/techniques/writing/">WebAIM Writing Clearly and Simply Guide (external link)</a></li>
     </ul>
-    <h4>See how this section applies in French:</h4>
+      <!--  <h4>See how this section applies in French:</h4>
     <ul>
       <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-8">2.8 Liens vers des ressources externes sur le langage clair</a></span></li>
     </ul>
