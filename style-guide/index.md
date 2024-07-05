@@ -469,7 +469,7 @@ title: "Canada.ca Content Style Guide"
       </ul>
     <p>For more details read:</p>
     <ul>
-      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/writing-tips-plus/clear-communication-turn-nouns-into-verbs"><em>Writing Tips Plus</em>: Turn nouns into verbs</a></li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/writing-tips-plus/clear-communication-turn-nouns-into-verbs"><cite>Writing Tips Plus</cite>: Turn nouns into verbs</a></li>
     </ul>
     <h4 id="wp2-4-5">Avoid noun strings</h4>
     <p>Don’t use a group of 2 or more nouns to modify another noun.</p>
@@ -617,7 +617,7 @@ title: "Canada.ca Content Style Guide"
   <section id="wp2-8">
     <h3>2.8 Additional resources on plain language and clear communication</h3>
     <p>The following resources offer trustworthy information to help you write clearly in plain language:</p>
-    <h4>Relevant <em>Writing Tips Plus</em> articles on clear communication</h4>
+    <h4>Relevant <cite>Writing Tips Plus</cite> articles on clear communication</h4>
     <ul>
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-choose-positive-over-negative-phrasing.html">choose positive over negative phrasing</a></li>
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-coherence.html">coherence</a></li>
@@ -2459,7 +2459,7 @@ title: "Canada.ca Content Style Guide"
     <li>be ready, willing and able to work each day but still can't find work</li>
     <li>stay in Canada while you're getting EI help</li>
   </ul>
-  <p>Flesch-Kincaidreading level<em>: </em>5.9</p>
+  <p>Flesch-Kincaidreading level<em>: </cite>5.9</p>
   <h4>What we did</h4>
   <p>To improve this content, we:</p>
   <ul>
