@@ -245,9 +245,15 @@ title: "Canada.ca Content Style Guide"
       </div>
     </div>
   </div>
-  <section class="alert alert-warning">
-    <h3>Plain language requirements</h3>
-    <p>The use of plain language is a requirement of the <cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682">Directive on the Management of Communications</a></cite>.</p>
+  <section id="wp-2-0">
+  <h2>The duty to be clear: Plain language requirement</h2>
+    <p>The use of plain language is a requirement of the <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682">Directive on the Management of Communications</a>.</p>
+    <p>Plain language is a writing approach to communicate what your audience needs to know. With plain language, the wording, structure and design are so clear your intended audience can easily:</p>
+    <ul>
+      <li><b>find</b> what they need</li>
+      <li><b>understand</b> what they find</li>
+      <li><b>use</b> the information <sup id="fn1-0-rf"><a class="fn-lnk" href="#fn1"><span class="wb-inv">Footnote </span>1</a></sup></li>
+    </ul>
   </section>
   <p>Writing in plain language doesn't mean over-simplifying or leaving out critical information. Using plain language actually makes critical information accessible and readable for everyone.</p>
   <p>By writing plainly and simply, you:</p>
@@ -3176,3 +3182,18 @@ title: "Canada.ca Content Style Guide"
     <li><cite><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/index-eng">Writing Tips Plus</a></cite>, Resource of the Language Portal of Canada, Government of Canada</li>
   </ul>
 </section>
+<aside class="wb-fnote wb-init wb-fnote-inited" role="note" id="wb-auto-4">
+	<h3 id="fn">Footnotes</h3>
+	<dl>
+		<dt id="fn1-dt">Footnote 1</dt>
+		<dd id="fn1" tabindex="-1">
+			<p>1 International Plain Language Federation: <a href="​​https://www.iplfederation.org/plain-language/">​https://www.iplfederation.org/plain-language/</a></p>
+			<p class="fn-rtn small"><a href="#fn1-0-rf" data-wb-fnote="true"><span class="wb-inv">Return to footnote </span>1<span class="wb-inv"> referrer</span></a></p>
+		</dd>
+		<dt id="fn2-dt">Footnote 2</dt>
+		<dd id="fn2" tabindex="-1">
+			<p>Category 2 engagements are events in support of other government departments or appropriate non-governmental organizations. Support to category 2 engagements must be provided in accordance with the Provision of Services policy.</p>
+			<p class="fn-rtn small"><a href="#fn2-rf"><span class="wb-inv">Return to footnote </span>2<span class="wb-inv"> referrer</span></a></p>
+		</dd>
+	</dl>
+</aside>
