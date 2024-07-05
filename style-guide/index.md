@@ -654,11 +654,6 @@ title: "Canada.ca Content Style Guide"
      <div class="mrgn-tp-lg">
     <div class="wb-share btn btn-default" data-wb-share='{"custType": " additional resources on plain language and clear communication", "title": "2.8 2.8 Additional resources on plain language and clear communication", "url": "https://design.canada.ca/style-guide/#wp2-8", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-8"}'></div>
   </div>
-    <!--    <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " additional resources on plain language and clear communication
-", "title": "2.8 Additional resources on plain language and clear communication
-", "url": "https://design.canada.ca/style-guide/#wp2-8", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-8"}'></div>
-    </div> -->
   </section>
 <section id="toc7">
   <h2>3.0 Tone</h2>
