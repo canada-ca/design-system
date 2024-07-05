@@ -617,8 +617,8 @@ title: "Canada.ca Content Style Guide"
   <section id="wp2-8">
     <h3>2.8 Additional resources on plain language and clear communication</h3>
     <p>The following resources offer trustworthy information to help you write clearly in plain language:</p>
-    <h4>Relevant Writing Tips Plus articles on clear communication</h4>
-    <ul>
+    <h4>Relevant <cite>Writing Tips Plus</cite> articles on clear communication</h4>
+    <!-- <ul>
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-choose-positive-over-negative-phrasing.html">choose positive over negative phrasing</a></li>
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-coherence.html">coherence</a></li>
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-overview-of-the-writing-process-and-techniques.html">overview of the writing process and techniques</a></li>
@@ -655,7 +655,7 @@ title: "Canada.ca Content Style Guide"
       <div class="wb-share btn btn-default" data-wb-share='{"custType": " additional resources on plain language and clear communication
 ", "title": "2.8 Additional resources on plain language and clear communication
 ", "url": "https://design.canada.ca/style-guide/#wp2-8", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-8"}'></div>
-    </div>
+    </div> -->
   </section>
 <section id="toc7">
   <h2>3.0 Tone</h2>
