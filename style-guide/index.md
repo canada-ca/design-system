@@ -254,24 +254,83 @@ title: "Canada.ca Content Style Guide"
       <li><b>understand</b> what they find</li>
       <li><b>use</b> the information <sup id="fn1-0-rf"><a class="fn-lnk" href="#fn1"><span class="wb-inv">Footnote </span>1</a></sup></li>
     </ul>
-  </section>
-  <p>Writing in plain language doesn't mean over-simplifying or leaving out critical information. Using plain language actually makes critical information accessible and readable for everyone.</p>
-  <p>By writing plainly and simply, you:</p>
+  <p>Plain language makes critical information more accessible and easy to read. It doesn’t oversimplify or strip meaning from content. Instead, plain language content is clear, concise, and designed to save the intended audience time and effort. </p>
+  <p>Plain language benefits everyone, including people who are managing these situations:</p>
   <ul>
-    <li>increase the chances that people will find, read and understand your information from any device</li>
-    <li>make your information more accessible to people with disabilities</li>
-    <li>allow people who are reading your information on a small screen to see essential information first</li>
-    <li>save resources when editing and translating your text</li>
-    <li>improve task completion and cuts costs by, for example, reducing enquiries</li>
+    <li>stress, divided attention, time pressures or multiple tasks</li>
+    <li>low reading and writing skills</li>
+    <li>cognitive, learning or motor disabilities</li>
+    <li>an unfamiliar topic or language</li>
   </ul>
+    <p>Writing plainly and clearly offers several key benefits. These include:</p>
+  <ul>
+    <li>showing respect for people’s time by making content easy to scan and understand</li>
+    <li>allowing people who are reading on a phone or other small screen to see essential information first</li>
+    <li>increasing the chances people will find and understand the information they need to easily complete their task</li>
+  </ul>
+  </section>
   <section id="wp2-1">
-    <h3>2.1 Start with the most important information</h3>
-    <p>Start your content with the most important information first.  Be direct.  People tend to scan pages from the top left hand corner across to the right.  As people move down the page, they scan less and less to the right.</p>
-    <p>Organize your content using an inverted pyramid structure to:</p>
+    <h3>2.1 Getting started with plain language: writing for readability</h3>
+    <p>Content that’s easy to read and understand uses the right vocabulary and shares the right information for the audience. It’s clear and concise, and the flow is easy to follow. A great way to get started is to write as if you’re speaking directly to your audience.</p>
+    <p>Try these techniques to make your text as easy to read and understand as possible.</p>
+    <h4 id="wp-2-1-1">Style</h4>
     <ul>
-      <li>guide your audience to the information they need to complete their task </li>
-      <li>place supporting and relevant details toward the end of the text </li>
+      <li><b>Write like you talk:</b> Write as if speaking directly to your audience. Use the first-person or second-person pronouns (I, we, us, you) instead of the third person (he, she, they).
+        <ul>
+          <li><a href="#toc7">See section 3, tone</a></li>
+        </ul>
+      </li>
+      <li><b>Active voice:</b> Use the active voice and positive form.</li>
+      <li><b>Remove jargon:</b> Replace technical jargon and complex language with wording your audience will easily understand.
+        <ul>
+          <li><a href="#wp-2-5">See section 2.5, avoid jargon and similar language</a></li>
+        </ul>
+      </li>
     </ul>
+    <h4 id="wp-2-1-2">Structure</h4>
+    <ul>
+      <li><b>Identify audience needs:</b> Organize, write and design your document to meet the needs of your intended audience.</li>
+      <li><b>Use clear headings and subheadings:</b> Chunk content into clear sections to help your audience scan and easily find what they need.</li>
+      <li><b>Use lists:</b> Organize key tasks with numbers or bullets.
+        <ul>
+          <li><a href="#wp-5-2">See section 5.2, use lists to help people scan</a></li>
+        </ul>
+      </li>
+      <li><b>Remove visual and cognitive blockers:</b> Remove anything that prevents your audience from easily seeing, understanding or using the information they need.</li>
+      <li><b>Move or remove unnecessary details:</b> Don’t include details that people don't need to complete their task.</li>
+        </ul>
+        <h4 id="wp-2-1-3">Simplify and review</h4>
+        <ul>
+          <li><b>Trim content:</b> Shorten words, sentences and paragraphs.</li>
+          <li><b>Simplify:</b> Replace secondary references to a program with "program" rather than using its full name or abbreviation.</li>
+          <li><b>Review for clarity:</b> Ask colleagues who aren't familiar with the subject to review the text for clarity and logic.</li>
+          <li><b>Read aloud:</b> Read the text out loud, or use a screen reader, to identify what can be clearer and more concise.</li>
+          <li><b>Test your content:</b> Work with your web team to set up usability testing for your content.</li>
+        </ul>
+        <h4 id="wp-2-1-4">Don’t rely on readability tools</h4>
+        <p>Readability tools are based on algorithms that measure things like word length. These tools cannot tell you if your audience will find your content easy to understand and use.</p>
+        <p>Readability tools can be a helpful first step to identify some areas that need work, such as:</p>
+        <ul>
+          <li>overly long sentences</li>
+          <li>passive voice</li>
+          <li>unnecessary words</li>
+          <li>acronyms</li>
+        </ul>
+        <p>They can also suggest simpler alternatives and give you a rough sense of the complexity of a text. But you shouldn't use these tools to evaluate readability accurately. However, you can use them to help demonstrate why text should be simplified or shortened.</p>
+        <h4>See how this rule applies in French:</h4>
+        <ul>
+          <li><a href="">2.1 Introduction au langage clair : rédiger pour faciliter la lecture</a></li>
+        </ul>
+        <div class="mrgn-tp-lg">
+        <div class="wb-share btn btn-default wb-init wb-share-inited" data-wb-share="{&quot;custType&quot;: &quot; the rule for dates&quot;, &quot;title&quot;: &quot;Share: Writing for readability&quot;, &quot;url&quot;: &quot;https://design.canada.ca/style-guide/#wp2-1&quot;, &quot;filter&quot;: [&quot;email&quot;, &quot;facebook&quot;, &quot;linkedin&quot;, &quot;twitter&quot;], &quot;pnlId&quot;: &quot;wp2-1&quot;}" id="wb-auto-41"><section id="shr-pg-wp2-1" class="shr-pg mfp-hide modal-dialog modal-content overlay-def"><header class="modal-header"><h2 class="modal-title">Share: Writing for readability</h2></header><div class="modal-body"><ul class="list-unstyled colcount-xs-2"><li><a href="mailto:?subject=2.1%20Writings&amp;body=https%3A%2F%2Fdesign.canada.ca%2Fstyle-guide%2F%23wp2-1%0A" class="shr-lnk email btn btn-default" rel="noreferrer noopener" target="_blank">Email</a></li><li><a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fdesign.canada.ca%2Fstyle-guide%2F%23wp2-1&amp;t=4.7%20Writing" class="shr-lnk facebook btn btn-default" rel="noreferrer noopener" target="_blank">Facebook</a></li><li><a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fdesign.canada.ca%2Fstyle-guide%2F%23wp2-1&amp;title=4.7%20Writing&amp;ro=false&amp;summary=&amp;source=" class="shr-lnk linkedin btn btn-default" rel="noreferrer noopener" target="_blank">LinkedIn®</a></li><li><a href="https://twitter.com/intent/tweet?text=4.7%20Writing&amp;url=https%3A%2F%2Fdesign.canada.ca%2Fstyle-guide%2F%23wp2-1" class="shr-lnk twitter btn btn-default" rel="noreferrer noopener" target="_blank">X</a></li></ul><p class="col-sm-12 shr-dscl">No endorsement of any products or services is expressed or implied.</p><div class="clearfix"></div></div></section><a href="#shr-pg-wp2-1" aria-controls="shr-pg-wp2-1" class="shr-opn wb-lbx wb-lbx-inited wb-init" id="wb-auto-42"><span class="glyphicon glyphicon-share"></span>Share: Writing for readability</a></div>
+      </div>
+  </section>
+  <section id="wp2-2">
+  <h2>2.2 Start with the most important information</h2>
+  <p><b>Be direct</b>. People scan web pages. They won’t read every word. As their eyes move down the page they pay less attention to content that is irrelevant to completing their task. Design the text to help people see what they need easily.</p>
+  <p><b>Structure</b> your page to guide your audience to the information they need to complete their task.</p>
+
+    <------>
     <div class="row mrgn-tp-lg mrgn-bttm-md">
       <div class="col-md-8">
         <figure><img alt="Upside-down pyramid showing how to start a web page with key information first." class="img-responsive" id="fig1" src="/style-guide/images/pyramid-en.png">
