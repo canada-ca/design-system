@@ -618,7 +618,7 @@ title: "Canada.ca Content Style Guide"
     <h3>2.8 Additional resources on plain language and clear communication</h3>
     <p>The following resources offer trustworthy information to help you write clearly in plain language:</p>
     <h4>Relevant <cite>Writing Tips Plus</cite> articles on clear communication</h4>
-    <!-- <ul>
+    <ul>
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-choose-positive-over-negative-phrasing.html">choose positive over negative phrasing</a></li>
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-coherence.html">coherence</a></li>
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-overview-of-the-writing-process-and-techniques.html">overview of the writing process and techniques</a></li>
@@ -633,7 +633,7 @@ title: "Canada.ca Content Style Guide"
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-write-clear-and-effective-briefing-notes.html">write clear and effective briefing notes</a></li>
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/clear-communication-write-relevant-and-effective-emails.html">write relevant and effective emails</a></li>
     </ul>
-    <h4>External resources:</h4>
+   <!--  <h4>External resources:</h4>
     <ul>
       <li><a href="https://readabilityguidelines.co.uk/clear-language/plain-english/">Content Design London | Readability Guidelines</a></li>
       <li><a href="https://www.iso.org/obp/ui#iso:std:iso:24495:-1:ed-1:v1:en">ISO 24495-1:2023 Plain language</a></li>
