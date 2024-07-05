@@ -408,20 +408,21 @@ title: "Canada.ca Content Style Guide"
       <div class="wb-share btn btn-default" data-wb-share='{"custType": " Use familiar words", "title": "2.3 Use familiar words", "url": "https://design.canada.ca/style-guide/#wp2-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-2"}'></div>
     </div>
   </section>
-  <section id="wp2-3">
-    <h3>2.3 Use active voice and positive form</h3>
-    <p>Whenever possible use the:</p>
-    <ul>
-      <li>active voice instead of the passive voice</li>
-      <li>positive form instead of the negative form</li>
-    </ul>
-    <section id="wp2-3-1">
-      <h4>Active or passive voice</h4>
-      <p>In an active sentence, the subject does the action. The sentence is clear and direct.</p>
-      <p>In a passive sentence, it may not be clear who or what is doing the action.</p>
-      <h5>Example of passive and active sentences</h5>
-      <p><strong>Active</strong>: We may ask you to provide proof of citizenship.<br>
-        <strong>Passive</strong>: You may be asked to provide proof of citizenship.</p>
+  <section id="wp2-4">
+    <h3>2.3 Write in the active and positive form</h3>
+    <p>Write in the active voice and positive form. Direct your audience to what they need to know. Use action verbs to guide them to their next steps.</p>
+    <section id="wp2-4-1">
+      <h4>Write in the active voice</h4>
+      <p>In most cases, using the active voice will help your audience understand what they’re reading. Sentences in the active voice are direct, clear and easier to understand. Their structure is logical and easy to follow because the subject is the doer of the action:</p>
+      <ul>
+        <li>subject (the doer) + verb (the action) + object (who/what the action is about)</li>
+      </ul>
+      <h5>Avoid the passive voice</h5>
+      <p>In a passive sentence, it may not be clear who or what is doing the action. This makes the sentence harder to understand. The structure of a passive sentence is:</p>
+      <ul>
+        <li>Object + verb + subject</li>
+      </ul>
+      <h4>Examples of active and passive voice </h4>
     </section>
     <section id="wp2-3-2">
       <h4>Positive or negative form</h4>
