@@ -569,19 +569,19 @@ title: "Canada.ca Content Style Guide"
     <h4>Examples of shortened sentences</h4>
     <ul>
       <li><b>Write</b>: We approved your request for funding.<br>
-          Instead of</b>: We received your request for funding, which we've thoroughly reviewed and approved in a timely manner.</li>
+          <b>Instead of</b>: We received your request for funding, which we've thoroughly reviewed and approved in a timely manner.</li>
       <li><b>Write</b>: We'll consider any type of investment.<br>
           <b>Instead of</b>: Any type of investment will be taken into consideration.</li>
     </ul>
     <h4>Examples of concise and simple sentence structure</h4>
      <ul>
       <li><b>Write</b>: Learn about Canada's transportation system. Find information about using paved roads, bike trails, airports and ports across the country.<br>
-          Instead of</b>: Learn all about Canada's vast transportation system, including information, tools and resources about using paved roads, bike trails, airports and ports all across the country, from coast to coast to coast.</li>
+          <b>Instead of</b>: Learn all about Canada's vast transportation system, including information, tools and resources about using paved roads, bike trails, airports and ports all across the country, from coast to coast to coast.</li>
     </ul>
     <h4>Examples of a direct statement</h4>
       <ul>
       <li><b>Write</b>: You have until April 30 to file your tax return.<br>
-          Instead of</b>: The period of time that you have to file your tax return ends on April 30.</li>
+          <b>Instead of</b>: The period of time that you have to file your tax return ends on April 30.</li>
     </ul>
     <h4>See how this rule applies in French:</h4>
     <ul>
