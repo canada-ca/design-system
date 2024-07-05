@@ -283,7 +283,7 @@ title: "Canada.ca Content Style Guide"
       <li><b>Active voice</b>: Use the active voice and positive form.</li>
       <li><b>Remove jargon</b>: Replace technical jargon and complex language with wording your audience will easily understand.
         <ul>
-          <li><a href="#wp-2-5">See section 2.5, avoid jargon and similar language</a></li>
+          <li><a href="#wp2-5">See section 2.5, avoid jargon and similar language</a></li>
         </ul>
       </li>
     </ul>
@@ -3266,11 +3266,6 @@ title: "Canada.ca Content Style Guide"
 		<dd id="fn1" tabindex="-1">
 			<p>1 International Plain Language Federation: <a href="​​https://www.iplfederation.org/plain-language/">​https://www.iplfederation.org/plain-language/</a></p>
 			<p class="fn-rtn small"><a href="#fn1-0-rf" data-wb-fnote="true"><span class="wb-inv">Return to footnote </span>1<span class="wb-inv"> referrer</span></a></p>
-		</dd>
-		<dt id="fn2-dt">Footnote 2</dt>
-		<dd id="fn2" tabindex="-1">
-			<p>Category 2 engagements are events in support of other government departments or appropriate non-governmental organizations. Support to category 2 engagements must be provided in accordance with the Provision of Services policy.</p>
-			<p class="fn-rtn small"><a href="#fn2-rf"><span class="wb-inv">Return to footnote </span>2<span class="wb-inv"> referrer</span></a></p>
 		</dd>
 	</dl>
 </aside>
