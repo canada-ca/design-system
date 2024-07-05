@@ -651,6 +651,9 @@ title: "Canada.ca Content Style Guide"
     <ul>
       <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-8">2.8 Liens vers des ressources externes sur le langage clair</a></span></li>
     </ul>
+     <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for referring to the Government of Canada", "title": "3.2 Use we to refer to the Government of Canada", "url": "https://design.canada.ca/style-guide/#wp3-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp3-2"}'></div>
+  </div>
     <!--    <div class="mrgn-tp-lg">
       <div class="wb-share btn btn-default" data-wb-share='{"custType": " additional resources on plain language and clear communication
 ", "title": "2.8 Additional resources on plain language and clear communication
