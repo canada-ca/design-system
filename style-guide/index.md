@@ -275,13 +275,13 @@ title: "Canada.ca Content Style Guide"
     <p>Try these techniques to make your text as easy to read and understand as possible.</p>
     <h4 id="wp-2-1-1">Style</h4>
     <ul>
-      <li><b>Write like you talk:</b> Write as if speaking directly to your audience. Use the first-person or second-person pronouns (I, we, us, you) instead of the third person (he, she, they).
+      <li><b>Write like you talk</b>: Write as if speaking directly to your audience. Use the first-person or second-person pronouns (I, we, us, you) instead of the third person (he, she, they).
         <ul>
           <li><a href="#toc7">See section 3, tone</a></li>
         </ul>
       </li>
-      <li><b>Active voice:</b> Use the active voice and positive form.</li>
-      <li><b>Remove jargon:</b> Replace technical jargon and complex language with wording your audience will easily understand.
+      <li><b>Active voice</b>: Use the active voice and positive form.</li>
+      <li><b>Remove jargon</b>: Replace technical jargon and complex language with wording your audience will easily understand.
         <ul>
           <li><a href="#wp-2-5">See section 2.5, avoid jargon and similar language</a></li>
         </ul>
@@ -289,23 +289,23 @@ title: "Canada.ca Content Style Guide"
     </ul>
     <h4 id="wp-2-1-2">Structure</h4>
     <ul>
-      <li><b>Identify audience needs:</b> Organize, write and design your document to meet the needs of your intended audience.</li>
-      <li><b>Use clear headings and subheadings:</b> Chunk content into clear sections to help your audience scan and easily find what they need.</li>
-      <li><b>Use lists:</b> Organize key tasks with numbers or bullets.
+      <li><b>Identify audience needs</b>: Organize, write and design your document to meet the needs of your intended audience.</li>
+      <li><b>Use clear headings and subheadings</b>: Chunk content into clear sections to help your audience scan and easily find what they need.</li>
+      <li><b>Use lists</b>: Organize key tasks with numbers or bullets.
         <ul>
           <li><a href="#wp-5-2">See section 5.2, use lists to help people scan</a></li>
         </ul>
       </li>
-      <li><b>Remove visual and cognitive blockers:</b> Remove anything that prevents your audience from easily seeing, understanding or using the information they need.</li>
-      <li><b>Move or remove unnecessary details:</b> Don’t include details that people don't need to complete their task.</li>
+      <li><b>Remove visual and cognitive blockers</b>: Remove anything that prevents your audience from easily seeing, understanding or using the information they need.</li>
+      <li><b>Move or remove unnecessary details</b>: Don’t include details that people don't need to complete their task.</li>
         </ul>
         <h4 id="wp-2-1-3">Simplify and review</h4>
         <ul>
-          <li><b>Trim content:</b> Shorten words, sentences and paragraphs.</li>
-          <li><b>Simplify:</b> Replace secondary references to a program with "program" rather than using its full name or abbreviation.</li>
-          <li><b>Review for clarity:</b> Ask colleagues who aren't familiar with the subject to review the text for clarity and logic.</li>
-          <li><b>Read aloud:</b> Read the text out loud, or use a screen reader, to identify what can be clearer and more concise.</li>
-          <li><b>Test your content:</b> Work with your web team to set up usability testing for your content.</li>
+          <li><b>Trim content</b>: Shorten words, sentences and paragraphs.</li>
+          <li><b>Simplify</b>: Replace secondary references to a program with "program" rather than using its full name or abbreviation.</li>
+          <li><b>Review for clarity</b>: Ask colleagues who aren't familiar with the subject to review the text for clarity and logic.</li>
+          <li><b>Read aloud</b>: Read the text out loud, or use a screen reader, to identify what can be clearer and more concise.</li>
+          <li><b>Test your content</b>: Work with your web team to set up usability testing for your content.</li>
         </ul>
         <h4 id="wp-2-1-4">Don’t rely on readability tools</h4>
         <p>Readability tools are based on algorithms that measure things like word length. These tools cannot tell you if your audience will find your content easy to understand and use.</p>
@@ -319,18 +319,18 @@ title: "Canada.ca Content Style Guide"
         <p>They can also suggest simpler alternatives and give you a rough sense of the complexity of a text. But you shouldn't use these tools to evaluate readability accurately. However, you can use them to help demonstrate why text should be simplified or shortened.</p>
         <h4>See how this rule applies in French:</h4>
         <ul>
-          <li><a href="">2.1 Introduction au langage clair : rédiger pour faciliter la lecture</a></li>
+          <li><a href=""><mark>2.1 Introduction au langage clair : rédiger pour faciliter la lecture</mark></a></li>
         </ul>
         <div class="mrgn-tp-lg">
-        <div class="wb-share btn btn-default wb-init wb-share-inited" data-wb-share="{&quot;custType&quot;: &quot; the rule for dates&quot;, &quot;title&quot;: &quot;Share: Writing for readability&quot;, &quot;url&quot;: &quot;https://design.canada.ca/style-guide/#wp2-1&quot;, &quot;filter&quot;: [&quot;email&quot;, &quot;facebook&quot;, &quot;linkedin&quot;, &quot;twitter&quot;], &quot;pnlId&quot;: &quot;wp2-1&quot;}" id="wb-auto-41"><section id="shr-pg-wp2-1" class="shr-pg mfp-hide modal-dialog modal-content overlay-def"><header class="modal-header"><h2 class="modal-title">Share: Writing for readability</h2></header><div class="modal-body"><ul class="list-unstyled colcount-xs-2"><li><a href="mailto:?subject=2.1%20Writings&amp;body=https%3A%2F%2Fdesign.canada.ca%2Fstyle-guide%2F%23wp2-1%0A" class="shr-lnk email btn btn-default" rel="noreferrer noopener" target="_blank">Email</a></li><li><a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fdesign.canada.ca%2Fstyle-guide%2F%23wp2-1&amp;t=4.7%20Writing" class="shr-lnk facebook btn btn-default" rel="noreferrer noopener" target="_blank">Facebook</a></li><li><a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fdesign.canada.ca%2Fstyle-guide%2F%23wp2-1&amp;title=4.7%20Writing&amp;ro=false&amp;summary=&amp;source=" class="shr-lnk linkedin btn btn-default" rel="noreferrer noopener" target="_blank">LinkedIn®</a></li><li><a href="https://twitter.com/intent/tweet?text=4.7%20Writing&amp;url=https%3A%2F%2Fdesign.canada.ca%2Fstyle-guide%2F%23wp2-1" class="shr-lnk twitter btn btn-default" rel="noreferrer noopener" target="_blank">X</a></li></ul><p class="col-sm-12 shr-dscl">No endorsement of any products or services is expressed or implied.</p><div class="clearfix"></div></div></section><a href="#shr-pg-wp2-1" aria-controls="shr-pg-wp2-1" class="shr-opn wb-lbx wb-lbx-inited wb-init" id="wb-auto-42"><span class="glyphicon glyphicon-share"></span>Share: Writing for readability</a></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": "writing for readability", "title": "2.1 Getting started with plain language: writing for readability", "url": "https://design.canada.ca/style-guide/#wp2-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-1"}'></div>
       </div>
   </section>
   <section id="wp2-2">
-  <h2>2.2 Start with the most important information</h2>
-  <p><b>Be direct</b>. People scan web pages. They won’t read every word. As their eyes move down the page they pay less attention to content that is irrelevant to completing their task. Design the text to help people see what they need easily.</p>
-  <p><b>Structure</b> your page to guide your audience to the information they need to complete their task.</p>
-
-    <------>
+    <h3>2.2 Start with the most important information</h3>
+    <p><b>Be direct</b>. People scan web pages. They won’t read every word. As their eyes move down the page they pay less attention to content that is irrelevant to completing their task. Design the text to help people see what they need easily.</p>
+    <p><b>Structure</b> your page to guide your audience to the information they need to complete their task.</p>
+    <h4 id="wp-2-2-1">Get started with the inverted pyramid</h4>
+    <p>Use the <b>inverted pyramid</b> writing technique to organize your content:</p>
     <div class="row mrgn-tp-lg mrgn-bttm-md">
       <div class="col-md-8">
         <figure><img alt="Upside-down pyramid showing how to start a web page with key information first." class="img-responsive" id="fig1" src="/style-guide/images/pyramid-en.png">
@@ -340,34 +340,36 @@ title: "Canada.ca Content Style Guide"
         </figure>
       </div>
     </div>
-    <p>The inverted pyramid for ordering content on a web page in Figure 1 is divided into four sections.  The most important content for task completion is at the top, the widest part of the pyramid.   The relevance of content for task completion flows down the inverted pyramid toward the peak at the bottom.</p>
+    <p>The inverted pyramid is divided into four sections, moving from what people need to know at the top to what’s less relevant at the bottom. Use the following list to help you plan and organize your content:</p>
     <ol>
-      <li><strong>Most important</strong>:
+      <li><strong>most important</strong>
         <ul>
           <li>start with the most important idea, step or information</li>
+          <li>focus on what people need to know to complete their main task</li>
         </ul>
       </li>
-      <li><strong>Prioritized tasks</strong>:
+      <li><strong>prioritized tasks</strong>
         <ul>
           <li>add details and tasks in order of importance</li>
           <li>keep all task-related content in the centre of the page</li>
           <li>use links to direct people to key information and tasks</li>
         </ul>
       </li>
-      <li><strong>More information</strong>:
+      <li><strong>more information</strong>
         <ul>
-          <li>include information for audiences who want to learn more or have more knowledge of the topic or service, but only if it makes sense</li>
-        </ul>
-      </li>
-      <li><strong>Related links</strong>:
-        <ul>
-          <li>add links only if they relate to content that supports completion of the task on the web page (for example, laws or publications)</li>
+          <li>Only include extra details if they support, rather than distract from, the important content. This could include:
+          <ol>
+            <li>related links that may help some people (for example, statistics cited, related initiatives, relevant publications, etc.)</li>
+            <li>information for people who want to learn more</li>
+            <li>information for people who have more knowledge of the topic or service.</li>
+          </ol>
+          </li>
         </ul>
       </li>
     </ol>
-    <section id="wp2-1-1">
-      <h4>Get to the point</h4>
-      <p>Write direct statements that relate to completing a task.  Don’t distract people with superfluous content, such as background information or welcome messages.</p>
+      <h4 id="wp-2-2-2">Get to the point</h4>
+      <p><b>Be direct</b>. Write direct statements that help your target audience complete their task. Content needs to be easy to find, read and understand.</p>
+      <p><b>Stay on topic</b>. Avoid distracting your audience with unnecessary content, like welcome messages or background information.</p>
       <h5>Example of direct statements</h5>
       <p><strong>Write</strong>: Present your passport to the border officer.<br>
         <strong>Instead of</strong>: According to Canadian legislation, you're required to present your passport to the agent who will welcome you into the country.</p>
@@ -375,15 +377,15 @@ title: "Canada.ca Content Style Guide"
       <ul>
         <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-1">2.1 Commencer par les renseignements les plus importants</a></span></li>
       </ul>
-    </section>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for the inverted pyramid structure", "title": "2.1 Start with the most important information", "url": "https://design.canada.ca/style-guide/#wp2-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-1"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " starting with the most important information ", "title": "2.2 Start with the most important information", "url": "https://design.canada.ca/style-guide/#wp2-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-1"}'></div>
     </div>
   </section>
-  <section id="wp2-2">
-    <h3>2.2 Use simple and common words</h3>
-    <p>Replace long words with short, simple and everyday words that most people understand and use. Simple words have 2 syllables or less. They're easier to scan than long, complex words.</p>
-    <h4>Example of simple and common words</h4>
+  <section id="wp2-3">
+    <h3>2.3 Use familiar words</h3>
+    <p>Choose familiar words that a broad audience understands and uses.</p>
+    <p>Everyday words may include technical words your audience knows well. If you must include technical terms, explain them using concise, clear, easy-to-understand words or give an example to help non-specialists understand.</p>
+    <h4>Examples of familiar and common words</h4>
     <p><strong>Write</strong>: ask<br>
       <strong>Instead of</strong>: make a request</p>
     <p><strong>Write</strong>: you must<br>
@@ -394,12 +396,15 @@ title: "Canada.ca Content Style Guide"
       <strong>Instead of</strong>: prior to</p>
     <p><strong>Write</strong>: get<br>
       <strong>Instead of</strong>: obtain</p>
+    <h4>Example of explaining a technical term</h4>
+    <p><b>Write</b>: Bovine Spongiform Encephalopathy (BSE), also known as mad cow disease</p>
+    <p><b>Instead of</b>: Bovine Spongiform Encephalopathy</p>
     <h4>See how the rule for using simple and common words applies to content in French</h4>
     <ul>
-      <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-2">2.2 Utiliser des mots simples et courants</a></span></li>
+      <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-3">2.3 Éviter le jargon et les expressions familières ou imagées</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for using simple and common words", "title": "2.2 Use simple and common words", "url": "https://design.canada.ca/style-guide/#wp2-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-2"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for using familiar and common words", "title": "2.3 Use familiar words", "url": "https://design.canada.ca/style-guide/#wp2-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-2"}'></div>
     </div>
   </section>
   <section id="wp2-3">
