@@ -652,8 +652,8 @@ title: "Canada.ca Content Style Guide"
       <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-8">2.8 Liens vers des ressources externes sur le langage clair</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": "  additional resources on plain language and clear communication
-", "title": "2.8  Additional resources on plain language and clear communication
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " additional resources on plain language and clear communication
+", "title": "2.8 Additional resources on plain language and clear communication
 ", "url": "https://design.canada.ca/style-guide/#wp2-8", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-8"}'></div>
     </div>
   </section>
