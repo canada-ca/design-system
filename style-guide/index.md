@@ -406,7 +406,7 @@ title: "Canada.ca Content Style Guide"
       <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-3">2.3 Éviter le jargon et les expressions familières ou imagées</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " Use familiar words", "title": "2.3 Use familiar words", "url": "https://design.canada.ca/style-guide/#wp2-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-3"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " use familiar words", "title": "2.3 Use familiar words", "url": "https://design.canada.ca/style-guide/#wp2-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-3"}'></div>
     </div>
   </section>
   <section id="wp2-4">
