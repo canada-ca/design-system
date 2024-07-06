@@ -206,35 +206,35 @@ title: "Canada.ca Content Style Guide"
       <div class="panel panel-default">
         <div class="panel-body">
           <h3 class="mrgn-tp-sm">In this section</h3>
-          <p><a href="#wp-2-0">The duty to be clear: Plain language requirement</a></p>
+          <p><a href="#wp2-0">The duty to be clear: Plain language requirement</a></p>
           <ul>
             <li><a href="#wp2-1">2.1 Getting started with plain language: writing for readability</a>
               <ul>
-                <li><a href="#wp-2-1-1">Style</a></li>
-                <li><a href="#wp-2-1-2">Structure</a></li>
-                <li><a href="#wp-2-1-3">Simplify and review</a></li>
-                <li><a href="#wp-2-1-4">Don’t rely on readability tools</a></li>
+                <li><a href="#wp2-1-1">Style</a></li>
+                <li><a href="#wp2-1-2">Structure</a></li>
+                <li><a href="#wp2-1-3">Simplify and review</a></li>
+                <li><a href="#wp2-1-4">Don’t rely on readability tools</a></li>
               </ul>
             </li>
             <li><a href="#wp2-2">2.2 Start with the most important information</a>
              <ul>
-                <li><a href="#wp-2-2-1">Inverted pyramid</a></li>
-                <li><a href="#wp-2-2-2">Get to the point</a></li>
+                <li><a href="#wp2-2-1">Inverted pyramid</a></li>
+                <li><a href="#wp2-2-2">Get to the point</a></li>
               </ul>
             </li>
             <li><a href="#wp2-3">2.3 Use familiar words</a></li>
             <li><a href="#wp2-4">2.4 Write in the active and positive form</a>
              <ul>
-                <li><a href="#wp-2-4-1">Write in the active voice</a></li>
-                <li><a href="#wp-2-4-2">Avoid the passive voice</a></li>
-                <li><a href="#wp-2-4-3">Use the positive form</a></li>
-                <li><a href="#wp-2-4-4">Use verbs instead of nouns formed from verbs</a></li>
-                <li><a href="#wp-2-4-5">Avoid noun strings</a></li>
+                <li><a href="#wp2-4-1">Write in the active voice</a></li>
+                <li><a href="#wp2-4-2">Avoid the passive voice</a></li>
+                <li><a href="#wp2-4-3">Use the positive form</a></li>
+                <li><a href="#wp2-4-4">Use verbs instead of nouns formed from verbs</a></li>
+                <li><a href="#wp2-4-5">Avoid noun strings</a></li>
               </ul>
             </li>
             <li><a href="#wp2-5">2.5 Avoid jargon and similar language</a>
               <ul>
-                <li><a href="#wp-2-5-1">Identify keywords your audience is using to find your content</a></li>
+                <li><a href="#wp2-5-1">Identify keywords your audience is using to find your content</a></li>
               </ul>
             </li>
             <li><a href="#wp2-6">2.6 Use short sentences and paragraphs</a></li>
@@ -245,7 +245,7 @@ title: "Canada.ca Content Style Guide"
       </div>
     </div>
   </div>
-  <section id="wp-2-0">
+  <section id="wp2-0">
   <h2>The duty to be clear: Plain language requirement</h2>
     <p>The use of plain language is a requirement of the <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682">Directive on the Management of Communications</a>.</p>
     <p>Plain language is a writing approach to communicate what your audience needs to know. With plain language, the wording, structure and design are so clear your intended audience can easily:</p>
@@ -273,7 +273,7 @@ title: "Canada.ca Content Style Guide"
     <h3>2.1 Getting started with plain language: writing for readability</h3>
     <p>Content that’s easy to read and understand uses the right vocabulary and shares the right information for the audience. It’s clear and concise, and the flow is easy to follow. A great way to get started is to write as if you’re speaking directly to your audience.</p>
     <p>Try these techniques to make your text as easy to read and understand as possible.</p>
-    <h4 id="wp-2-1-1">Style</h4>
+    <h4 id="wp2-1-1">Style</h4>
     <ul>
       <li><b>Write like you talk</b>: Write as if speaking directly to your audience. Use the first-person or second-person pronouns (I, we, us, you) instead of the third person (he, she, they).
         <ul>
@@ -287,19 +287,19 @@ title: "Canada.ca Content Style Guide"
         </ul>
       </li>
     </ul>
-    <h4 id="wp-2-1-2">Structure</h4>
+    <h4 id="wp2-1-2">Structure</h4>
     <ul>
       <li><b>Identify audience needs</b>: Organize, write and design your document to meet the needs of your intended audience.</li>
       <li><b>Use clear headings and subheadings</b>: Chunk content into clear sections to help your audience scan and easily find what they need.</li>
       <li><b>Use lists</b>: Organize key tasks with numbers or bullets.
         <ul>
-          <li><a href="#wp-5-2">See section 5.2, use lists to help people scan</a></li>
+          <li><a href="#wp5-2">See section 5.2, use lists to help people scan</a></li>
         </ul>
       </li>
       <li><b>Remove visual and cognitive blockers</b>: Remove anything that prevents your audience from easily seeing, understanding or using the information they need.</li>
       <li><b>Move or remove unnecessary details</b>: Don’t include details that people don't need to complete their task.</li>
         </ul>
-        <h4 id="wp-2-1-3">Simplify and review</h4>
+        <h4 id="wp2-1-3">Simplify and review</h4>
         <ul>
           <li><b>Trim content</b>: Shorten words, sentences and paragraphs.</li>
           <li><b>Simplify</b>: Replace secondary references to a program with "program" rather than using its full name or abbreviation.</li>
@@ -307,7 +307,7 @@ title: "Canada.ca Content Style Guide"
           <li><b>Read aloud</b>: Read the text out loud, or use a screen reader, to identify what can be clearer and more concise.</li>
           <li><b>Test your content</b>: Work with your web team to set up usability testing for your content.</li>
         </ul>
-        <h4 id="wp-2-1-4">Don’t rely on readability tools</h4>
+        <h4 id="wp2-1-4">Don’t rely on readability tools</h4>
         <p>Readability tools are based on algorithms that measure things like word length. These tools cannot tell you if your audience will find your content easy to understand and use.</p>
         <p>Readability tools can be a helpful first step to identify some areas that need work, such as:</p>
         <ul>
@@ -329,7 +329,7 @@ title: "Canada.ca Content Style Guide"
     <h3>2.2 Start with the most important information</h3>
     <p><b>Be direct</b>. People scan web pages. They won’t read every word. As their eyes move down the page they pay less attention to content that is irrelevant to completing their task. Design the text to help people see what they need easily.</p>
     <p><b>Structure</b> your page to guide your audience to the information they need to complete their task.</p>
-    <h4 id="wp-2-2-1">Get started with the inverted pyramid</h4>
+    <h4 id="wp2-2-1">Get started with the inverted pyramid</h4>
     <p>Use the <b>inverted pyramid</b> writing technique to organize your content:</p>
     <div class="row mrgn-tp-lg mrgn-bttm-md">
       <div class="col-md-8">
@@ -367,7 +367,7 @@ title: "Canada.ca Content Style Guide"
         </ul>
       </li>
     </ol>
-      <h4 id="wp-2-2-2">Get to the point</h4>
+      <h4 id="wp2-2-2">Get to the point</h4>
       <p><b>Be direct</b>. Write direct statements that help your target audience complete their task. Content needs to be easy to find, read and understand.</p>
       <p><b>Stay on topic</b>. Avoid distracting your audience with unnecessary content, like welcome messages or background information.</p>
       <h5>Example of direct statements</h5>
