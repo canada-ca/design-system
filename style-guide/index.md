@@ -238,8 +238,8 @@ title: "Canada.ca Content Style Guide"
               </ul>
             </li>
             <li><a href="#wp2-6">2.6 Use short sentences and paragraphs</a></li>
-            <li><a href="#wp2-8">2.7 Explain references to legislation</a></li>
-            <li><a href="#wp2-9">2.8 Additional resources on plain language and clear communication</a></li>
+            <li><a href="#wp2-7">2.7 Explain references to legislation</a></li>
+            <li><a href="#wp2-8">2.8 Additional resources on plain language and clear communication</a></li>
           </ul>
         </div>
       </div>
