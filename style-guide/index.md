@@ -399,7 +399,6 @@ title: "Canada.ca Content Style Guide"
     <h4>Example of explaining a technical term</h4>
     <p><b>Write</b>: Bovine Spongiform Encephalopathy (BSE), also known as mad cow disease</p>
     <p><b>Instead of</b>: Bovine Spongiform Encephalopathy</p>
-    <h4>See how the rule for using simple and common words applies to content in French</h4>
     <p>Replace long words with short, simple and everyday words that most people understand and use. Simple words have 2 syllables or less. They're easier to scan than long, complex words.</p>
     <h4>See how this rule applies in French:</h4>
     <ul>
