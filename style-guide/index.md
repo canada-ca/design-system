@@ -485,27 +485,6 @@ title: "Canada.ca Content Style Guide"
       <div class="wb-share btn btn-default" data-wb-share='{"custType": " write in the active and positive form ", "title": "2.4 Write in the active and positive form ", "url": "https://design.canada.ca/style-guide/#wp2-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-4"}'></div>
     </div>
   </section>
-  <section id="wp2-4">
-    <h3>2.4 Use verbs instead of nouns formed from verbs</h3>
-    <p>Avoid using nouns that are formed from verbs. They can be vague. Verbs alone clearly express the action needed.</p>
-    <h4>Examples of the use of verbs instead of nouns</h4>
-    <p><strong>Write</strong>: apply<br>
-      <strong>Instead of</strong>: submit your application</p>
-    <p><strong>Write</strong>: consider<br>
-      <strong>Instead of</strong>: take into consideration</p>
-    <p><strong>Write</strong>: modify<br>
-      <strong>Instead of</strong>: make a modification</p>
-    <p><strong>Write</strong>: needs<br>
-      <strong>Instead of</strong>: is in need of</p>
-    <p>Always use the simplest form of a verb. When possible, use the present tense.</p>
-    <h4>See how the rule for using verbs instead of nouns formed from verbs applies in French</h4>
-    <ul>
-      <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-4">2.4 Utiliser des verbes plutôt que des noms formés à partir de verbes</a></span></li>
-    </ul>
-    <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " the rule for using verbs instead of nouns formed from verbs", "title": "2.4 Use verbs instead of nouns formed from verbs", "url": "https://design.canada.ca/style-guide/#wp2-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-4"}'></div>
-    </div>
-  </section>
   <section id="wp2-5">
     <h3>2.5 Avoid jargon and similar language</h3>
     <p>Where possible, avoid using jargon, idioms, metaphors and expressions. Use the clearest, most popular term for your audience.</p>
