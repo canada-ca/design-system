@@ -322,7 +322,7 @@ title: "Canada.ca Content Style Guide"
           <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-1">2.1 Introduction au langage clair : rédiger pour faciliter la lecture</a></span></li>
         </ul>
         <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": "writing for readability", "title": "2.1 Getting started with plain language: writing for readability", "url": "https://design.canada.ca/style-guide/#wp2-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-1"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " writing for readability", "title": "2.1 Getting started with plain language: writing for readability", "url": "https://design.canada.ca/style-guide/#wp2-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-1"}'></div>
       </div>
   </section>
   <section id="wp2-2">
