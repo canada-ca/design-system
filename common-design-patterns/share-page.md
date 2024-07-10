@@ -8,6 +8,9 @@ title: Share this page
 
 
 <div>
+<section class="alert alert-warning">
+  <p>We are decommissioning the Share this page component. We do not recommend adding this component to your pages.</p>
+</section>
   <div class="gc-stp-stp">
    <div class="row">
     <ul class="toc lst-spcd col-md-12">
