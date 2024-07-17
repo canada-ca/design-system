@@ -247,7 +247,7 @@ title: "Canada.ca Content Style Guide"
   </div>
   <section id="wp2-0">
   <h3>The duty to be clear: Plain language requirement</h3>
-    <p>The use of plain language is a requirement of the <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682">Directive on the Management of Communications</a>.</p>
+    <p>Using plain language is a requirement of the <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682">Directive on the Management of Communications</a>.</p>
     <p>Plain language is a writing approach to communicate what your audience needs to know. With plain language, the wording, structure and design are so clear your intended audience can easily:</p>
     <ul>
       <li><b>find</b> what they need</li>
@@ -290,14 +290,14 @@ title: "Canada.ca Content Style Guide"
     <h4 id="wp2-1-2">Structure</h4>
     <ul>
       <li><b>Identify audience needs</b>: Organize, write and design your document to meet the needs of your intended audience.</li>
-      <li><b>Use clear headings and subheadings</b>: Chunk content into clear sections to help your audience scan and easily find what they need.</li>
+      <li><b>Use clear headings and subheadings</b>: Separate content into clear sections to help your audience scan and easily find what they need.</li>
       <li><b>Use lists</b>: Organize key tasks with numbers or bullets.
         <ul>
           <li><a href="#wp5-2">See section 5.2, use lists to help people scan</a></li>
         </ul>
       </li>
       <li><b>Remove visual and cognitive blockers</b>: Remove anything that prevents your audience from easily seeing, understanding or using the information they need.</li>
-      <li><b>Move or remove unnecessary details</b>: Don’t include details that people don't need to complete their task.</li>
+      <li><b>Move or remove unnecessary details</b>: Remove details that people don't need to complete their task.</li>
         </ul>
         <h4 id="wp2-1-3">Simplify and review</h4>
         <ul>
@@ -371,7 +371,7 @@ title: "Canada.ca Content Style Guide"
       <p><b>Be direct</b>. Write direct statements that help your target audience complete their task. Content needs to be easy to find, read and understand.</p>
       <p><b>Stay on topic</b>. Avoid distracting your audience with unnecessary content, like welcome messages or background information.</p>
       <h5>Example of direct statements</h5>
-      <p><strong>Write</strong>: Present your passport to the border officer.<br>
+      <p><strong>Write</strong>: Show your passport to the border officer.<br>
         <strong>Instead of</strong>: According to Canadian legislation, you're required to present your passport to the agent who will welcome you into the country.</p>
     <h4>See how this rule applies in French:</h4>
       <ul>
@@ -492,7 +492,15 @@ title: "Canada.ca Content Style Guide"
     <p>People who don't speak English or French might use online tools to translate text. These tools do not always translate words and ideas accurately.</p>
     <h4>Examples</h4>
     <ul>
-      <li><strong>Jargon</strong>: adverse effect (effect); citizen engagement (meaningful involvement of citizens); remuneration (pay); disclosure (making information available); pro bono (legal service provided free of charge)</li>
+      <li><strong>Jargon</strong>: 
+        <ul>
+          <li>adverse effect (effect)</li>
+          <li>citizen engagement (meaningful involvement of citizens)</li>
+          <li>remuneration (pay)</li>
+          <li>disclosure (making information available)</li>
+          <li>pro bono (legal service provided free of charge)</li>
+        </ul>
+      </li>
       <li><strong>Idiom</strong> to hire a helping hand (meaning to hire an employee)</li>
       <li><strong>Expression</strong>: attack your least favourite task first (meaning do your least favourite task first)</li>
       <li><strong>Metaphors</strong>: The sun was a ball of fire (meaning the sun was very hot).</li>
