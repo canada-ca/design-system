@@ -19,6 +19,7 @@ title: How to access page feedback
 ## On this page
 * [Where feedback is stored](#where-feedback-is-stored)
 * [How to access feedback](#how-to-access-feedback)
+* [How long feedback is kept](#how-long-feedback)
 
 ## Where feedback is stored
 
@@ -31,6 +32,48 @@ Feedback can be viewed and downloaded as CSV or Excel files at any time using th
 The Feedback Viewer is a password protected environment available to all page feedback participants. Contact the DTO to access to the site.
 
 Email: [{{ site.emails.dto }}](mailto:{{ site.emails.dto }})
+
+## How long feedback is kept
+
+The Feedback Viewer only stores six months of comments from the Page Feedback Tool.
+
+Comments are deleted in the first week of each quarter.
+
+<table class="provisional gc-table table" id="myTable1">
+	<caption>Comment deletion schedule</caption>
+	<thead>
+		<tr>
+			<th>Quarter</th>
+			<th>Date of deletion</th>
+			<th>Comments to be deleted</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td data-label="Quarter">Quarter 1</td>
+			<td data-label="Date of deletion">First week of July</td>
+			<td data-label="Comments to be deleted">Comments from January 1 - March 31</td>
+		</tr>
+		<tr>
+			<td data-label="Quarter">Quarter 2</td>
+			<td data-label="Date of deletion">First week of October</td>
+			<td data-label="Comments to be deleted">Comments from April 1 - June 30</td>
+		</tr>
+	</tbody>
+	<tbody>
+		<tr>
+			<td data-label="Quarter">Quarter 3</td>
+			<td data-label="Date of deletion">First week of January</td>
+			<td data-label="Comments to be deleted">Comments from July 1 - September 30</td>
+		</tr>
+		<tr>
+			<td data-label="Quarter">Quarter 4</td>
+			<td data-label="Date of deletion">First week of April</td>
+			<td data-label="Comments to be deleted">Comments from October 1 - December 31</td>
+		</tr>
+	</tbody>
+</table>
+
 
 ### Feedback Viewer filters
 
