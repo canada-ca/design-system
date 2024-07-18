@@ -156,9 +156,4 @@ title: Share this page
     </figure>
    </section>
   </section>
- </p>
 </div>
-
-
-
-
