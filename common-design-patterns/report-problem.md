@@ -47,7 +47,7 @@ title: "Report a problem"
   <p>The button, label, placement and privacy statement are mandatory:</p>
   <ul>
     <li> the pattern is presented as a button using the <a href="./buttons.html"> button component styled for secondary
-      actions</a> , which triggers a feedback form to expand when clicked </li>
+      actions</a>, which triggers a feedback form to expand when clicked </li>
     <li> the label reads: “Report a problem on this page” </li>
     <li> placement: positioned directly below the main content area, left-aligned </li>
     <li> privacy statement: positioned within a dismissible overlay </li>
