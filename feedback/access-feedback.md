@@ -19,7 +19,7 @@ title: How to access page feedback
 ## On this page
 * [Where feedback is stored](#where-feedback-is-stored)
 * [How to access feedback](#how-to-access-feedback)
-* [How long feedback is kept](#how-long-feedback)
+* [How long feedback is kept](#how-long-feedback-is-kept)
 
 ## Where feedback is stored
 
