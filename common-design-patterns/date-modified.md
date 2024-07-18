@@ -70,8 +70,7 @@ title: Date modified
 		more information, go to the
     <a href="{{ site.url }}/architecture/mandatory-elements.html#header-footer">
      Mandatory
-			elements of the design system
-    </a>
+			elements of the design system</a>
     .
    </p>
   </section>
@@ -113,9 +112,4 @@ title: Date modified
     </li>
    </ul>
   </section>
- </p>
 </div>
-
-
-
-
