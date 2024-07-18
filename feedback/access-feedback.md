@@ -39,7 +39,7 @@ The Feedback Viewer only stores six months of comments from the Page Feedback To
 
 Comments are deleted in the first week of each quarter.
 
-<table class="provisional gc-table table" id="myTable1">
+<table class="provisional gc-table table">
 	<caption>Comment deletion schedule</caption>
 	<thead>
 		<tr>
