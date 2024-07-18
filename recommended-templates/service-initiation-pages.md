@@ -394,36 +394,31 @@ title: "Service initiation pages template"
            </strong>
           </summary>
           <ul>
+                <li>
+                    introduce service standards with a plain language heading that focuses on what people can reasonably expect under normal circumstances. Speak directly to a person. Examples:
+                    <ul>
+                        <li>
+                        “How long it will take to process your application”
+                        </li>
+                        <li>
+                        Application processing time”
+                        </li>
+                    </ul>
+                </li>
            <li>
-            introduce service standards with a plain language heading that focuses on what people can
-														reasonably expect under normal circumstances. Speak directly to a person. Examples:
-            <ul>
-             <li>
-              “How long it will take to process your application”
-             </li>
-             <li>
-              Application processing time”
-             </li>
-            </ul>
-           </li>
-           <li>
-            include the current standard, the current performance status, how often the report is
-														updated, and when current performance status was last updated. Example:
-           </li>
-           <ul>
-            <li>
-             <p>
-              "Our standard is to process applications in 30 business days. Applications are
-																currently being processed in 17 business days.
-             </p>
-             <p>
-              Current processing time is updated daily - last update January 31, 2020."
-             </p>
+            include the current standard, the current performance status, how often the report is updated, and when current performance status was last updated. Example:
+                <ul>
+                    <li>
+                    <p>
+                    "Our standard is to process applications in 30 business days. Applications are
+                                                                        currently being processed in 17 business days.
+                    </p>
+                    <p>
+                    Current processing time is updated daily - last update January 31, 2020."
+                    </p>
+                    </li>
+                </ul>
             </li>
-           </ul>
-          </ul>
-         </details>
-        </li>
         <li>
          you can use colour to add additional information about the status. Green (#278400) can be used
 											to indicate that the current performance status is within the standard, and red (#D3080C) to
@@ -452,24 +447,26 @@ title: "Service initiation pages template"
          contains definitions, characteristics and examples of service standards
         </li>
        </ul>
-       <li id="element10">
-        <details class="mrgn-bttm-sm">
-         <summary class="wb-toggle" data-toggle='{"print":"on"}'>
-          <strong>
-           Presentation
-          </strong>
-         </summary>
-         <ul>
-          <li>
-           appears on pages where people will initiate the service (for example, How to apply) and
-													post-application pages (for example, After you apply)
-          </li>
-          <li>
-           appears for each available channel service/task (for example, in “Other ways to apply”)
-          </li>
-         </ul>
-        </details>
-       </li>
+       </details>
+            <li id="element10">
+                <details class="mrgn-bttm-sm">
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>
+                <strong>
+                Presentation
+                </strong>
+                </summary>
+                <ul>
+                    <li>
+                    appears on pages where people will initiate the service (for example, How to apply) and
+                                                                post-application pages (for example, After you apply)
+                    </li>
+                    <li>
+                    appears for each available channel service/task (for example, in “Other ways to apply”)
+                    </li>
+                </ul>
+                </details>
+            </li>
+       </ul>
       </section>
       <section>
        <h3>
