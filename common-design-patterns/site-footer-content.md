@@ -50,8 +50,7 @@ title: Content footer
   </p>
   <p>
    <a href="site-footer.html">
-    See Global footer
-   </a>
+    See Global footer</a>
    for guidance on how to apply the contextual footer band, main footer band and sub-footer band.
   </p>
   <h2>
@@ -63,20 +62,17 @@ title: Content footer
   <ul>
    <li>
      <a href="https://design.canada.ca/common-design-patterns/page-feedback.html">
-    Page feedback tool
-   </a>
+    Page feedback tool</a>
     (optional)
    </li>
    <li>
     <a href="share-page.html">
-     Share this page
-    </a>
+     Share this page</a>
     (optional)
    </li>
    <li>
     <a href="date-modified.html">
-     Date modified
-    </a>
+     Date modified</a>
     (mandatory, but can be a version number when used for an application)
    </li>
   </ul>
