@@ -578,16 +578,14 @@ title: "Canada.ca Content Style Guide"
     </div>
   </section>
   <section id="wp2-7">
-    <h3>2.7 Avoid references to legislation</h3>
+    <h3>2.7 Explain references to legislation</h3>
     <p>When explaining a requirement that comes from an act or regulation, avoid mentioning the act or regulation by name. Include only the information people need to complete the task.</p>
     <p>If you <b>must</b> include the name of the act or regulation, always give a plain-language description. First, explain what your audience needs to know and why they need to know more about the act or regulation. Then, you may add a reference to the act or regulation.</p>
     <h4>Examples of references to legislation</h4>
-    <ul>
-      <li><b>Write</b>: You can apply for your child to become a Canadian citizen after they arrive in Canada as a permanent resident.<br>
-          Related links<br>
-          <a href="http://laws-lois.justice.gc.ca/eng/acts/c-29/FullText.html">Citizenship Act, section 5.1</a><br>
-          <b>Instead of</b>:  After your child arrives in Canada as a permanent resident, you can apply for citizenship on the child's behalf under section 5.1 of the Citizenship Act.</li>
-    </ul>
+      <p><strong>Write</strong>: You can apply for your child to become a Canadian citizen after they arrive in Canada as a permanent resident.</p>
+          <p>Related links</p>
+          <ul><li><a href="http://laws-lois.justice.gc.ca/eng/acts/c-29/FullText.html">Citizenship Act, section 5.1</a></li></ul>
+          <p><strong>Instead of</strong>: After your child arrives in Canada as a permanent resident, you can apply for citizenship on the child's behalf under section 5.1 of the Citizenship Act.</p>
     <p>For later mentions, you can refer to it as “the Act” or “the Legislation”. Alternatively, include an abbreviated form in parentheses after the first mention. For additional guidance and examples see:</p>
     <ul>
       <li><a href="#wp4-4">Section 4.4 abbreviations and acronyms</a></li>
