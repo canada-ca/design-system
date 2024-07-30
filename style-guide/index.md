@@ -436,16 +436,14 @@ title: "Canada.ca Content Style Guide"
       <h4 id="wp2-4-3">Use the positive form</h4>
       <p>Whenever possible, tell people what they may or must do instead of what they may not or must not do to complete their task. Avoid negatives, double negatives and exceptions to exceptions.</p>
       <h4>Examples of positive and negative sentences</h4>
-      <ul>
-        <li><b>Positive</b>: You will receive your Notice of Assessment once you’ve filed your return.<br>
-            <b>Negative</b>: You can’t receive your Notice of Assessment if you haven’t filed your taxes.</li>
-        <li><b>Positive</b>: You're entitled to part of the deduction.<br>
-            <b>Negative</b>: You're not entitled to the entire deduction.</li>
-        <li><b>Positive</b>: The procedure will be effective.<br>
-            <b>Double negative</b>: The procedure will not be ineffective.</li>
-        <li><b>Positive</b>: You may claim a child born in 1972 or earlier as a dependent if he or she has a mental or physical disability.<br>
-            <b>Double negative</b>: You may not claim anything for a dependent child born in 1972 or earlier unless the child has a mental or physical disability.</li>
-      </ul>
+        <p><strong>Positive</strong>: You will receive your Notice of Assessment once you’ve filed your return.<br>
+            <strong>Negative</strong>: You can’t receive your Notice of Assessment if you haven’t filed your taxes.</p>
+        <p><strong>Positive</strong>: You're entitled to part of the deduction.<br>
+            <strong>Negative</strong>: You're not entitled to the entire deduction.</p>
+        <p><strong>Positive</strong>: The procedure will be effective.<br>
+            <strong>Double negative</strong>: The procedure will not be ineffective.</p>
+        <p><strong>Positive</strong>: You may claim a child born in 1972 or earlier as a dependent if he or she has a mental or physical disability.<br>
+            <strong>Double negative</strong>: You may not claim anything for a dependent child born in 1972 or earlier unless the child has a mental or physical disability.</p>
       <h5>Exception: Acceptable use of the negative form</h5>
       <p>You can use the negative form when something has serious or fatal consequences. The negative form will make it easier to explain what is not possible or should not be done. Do not use contractions (don’t) to make sure your audience will read and understand the statement.</p>
       <h5>Examples of using the negative form for something that has serious consequences</h5>
