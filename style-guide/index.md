@@ -1313,7 +1313,6 @@ title: "Canada.ca Content Style Guide"
       <li>makes sense on its own</li>
       <li>is followed by text and not by another heading, unless the heading introduces a table of contents on the same page </li>
       <li>has no punctuation at the end</li>
-      <li>contains no abbreviation</li>
       <li>contains no promotional messaging (boastful, subjective claims) because it might confuse and stop people from navigating to the page </li>
     </ul>
     <section id="wp5-1-1">
