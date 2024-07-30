@@ -547,22 +547,16 @@ title: "Canada.ca Content Style Guide"
       <li>present a series of 2 or more ideas or words as a vertical list</li>
     </ul>
     <h4>Examples of shortened sentences</h4>
-    <ul>
-      <li><b>Write</b>: We approved your request for funding.<br>
-          <b>Instead of</b>: We received your request for funding, which we've thoroughly reviewed and approved in a timely manner.</li>
-      <li><b>Write</b>: We'll consider any type of investment.<br>
-          <b>Instead of</b>: Any type of investment will be taken into consideration.</li>
-    </ul>
+      <p><strong>Write</strong>: We approved your request for funding.<br>
+          <strong>Instead of</strong>: We received your request for funding, which we've thoroughly reviewed and approved in a timely manner.</p>
+      <p><strong>Write</strong>: We'll consider any type of investment.<br>
+          <strong>Instead of</strong>: Any type of investment will be taken into consideration.</p>
     <h4>Examples of concise and simple sentence structure</h4>
-     <ul>
-      <li><b>Write</b>: Learn about Canada's transportation system. Find information about using paved roads, bike trails, airports and ports across the country.<br>
-          <b>Instead of</b>: Learn all about Canada's vast transportation system, including information, tools and resources about using paved roads, bike trails, airports and ports all across the country, from coast to coast to coast.</li>
-    </ul>
+      <p><strong>Write</strong>: Learn about Canada's transportation system. Find information about using paved roads, bike trails, airports and ports across the country.<br>
+          <strong>Instead of</strong>: Learn all about Canada's vast transportation system, including information, tools and resources about using paved roads, bike trails, airports and ports all across the country, from coast to coast to coast.</p>
     <h4>Examples of a direct statement</h4>
-      <ul>
-      <li><b>Write</b>: You have until April 30 to file your tax return.<br>
-          <b>Instead of</b>: The period of time that you have to file your tax return ends on April 30.</li>
-    </ul>
+      <p><strong>Write</strong>: You have until April 30 to file your tax return.<br>
+          <strong>Instead of</strong>: The period of time that you have to file your tax return ends on April 30.</p>
     <h4>See how this rule applies in French:</h4>
     <ul>
       <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-5">2.6 Utiliser des phrases et des paragraphes courts</a></span></li>
