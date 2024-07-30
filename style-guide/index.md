@@ -378,8 +378,8 @@ title: "Canada.ca Content Style Guide"
     <p><strong>Write</strong>: get<br>
       <strong>Instead of</strong>: obtain</p>
     <h4>Example of explaining a technical term</h4>
-    <p><b>Write</b>: Bovine Spongiform Encephalopathy (BSE), also known as mad cow disease</p>
-    <p><b>Instead of</b>: Bovine Spongiform Encephalopathy</p>
+    <p><strong>Write</strong>: Bovine Spongiform Encephalopathy (BSE), also known as mad cow disease<br>
+    <strong>Instead of</strong>: Bovine Spongiform Encephalopathy</p>
     <p>Replace long words with short, simple and everyday words that most people understand and use. Simple words have 2 syllables or less. They're easier to scan than long, complex words.</p>
     <h4>See how this rule applies in French:</h4>
     <ul>
@@ -513,9 +513,9 @@ title: "Canada.ca Content Style Guide"
   <section id="wp2-6">
     <h3>2.6 Use short sentences and paragraphs</h3>
     <p>Use simple sentence and paragraph structure. Avoid complexity.</p>
-    <p><b>Be direct</b>. Start sentences with the subject and verb. This structure helps people know immediately who is doing what.</p>
-    <p><b>Be brief</b>. Use as few words as possible to express an idea. Being concise helps everyone, including specialists, complete their task.</p>
-    <p><b>Write easy-to-scan content</b>: Keep sentences and paragraphs short. This makes them easier to scan and understand by everyone, on any screen size. Keep some paragraphs to one sentence when it makes the content easier to scan.</p>
+    <p><strong>Be direct</strong>. Start sentences with the subject and verb. This structure helps people know immediately who is doing what.</p>
+    <p><strong>Be brief</strong>. Use as few words as possible to express an idea. Being concise helps everyone, including specialists, complete their task.</p>
+    <p><strong>Write easy-to-scan content</strong>: Keep sentences and paragraphs short. This makes them easier to scan and understand by everyone, on any screen size. Keep some paragraphs to one sentence when it makes the content easier to scan.</p>
     <p>Use the following strategies to write clear, easy-to-scan content:</p>
     <ul>
       <li>break up long sentences (optimal is under 15 to 20 words)</li>
