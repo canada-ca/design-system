@@ -467,10 +467,8 @@ title: "Canada.ca Content Style Guide"
     <h4 id="wp2-4-5">Avoid noun strings</h4>
     <p>Don’t use a group of 2 or more nouns to modify another noun.</p>
     <p>These noun strings are hard to understand. They force people to do a lot of unpacking to get at what the phrase means.</p>
-    <ul>
-      <li><b>Write</b>: standards for post-mortem evaluation of food animal carcasses<br>
-      <b>Instead of</b>: Food Animal Carcass Post-mortem Evaluation Standards</li>
-    </ul>
+      <p><strong>Write</strong>: standards for post-mortem evaluation of food animal carcasses<br>
+      <strong>Instead of</strong>: Food Animal Carcass Post-mortem Evaluation Standards</p>
     <h4>See how this rule applies in French:</h4>
     <ul>
       <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-4">2.4 Rédigez avec la voix active, directe, et affirmative</a></span></li>
