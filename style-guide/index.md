@@ -423,12 +423,10 @@ title: "Canada.ca Content Style Guide"
         <li>Object + verb + subject</li>
       </ul>
       <h4>Examples of active and passive voice</h4>
-      <ul>
-        <li><b>Write</b>: We may ask you to provide proof of citizenship. (active)<br>
-            <b>Instead of</b>: You may be asked to provide proof of citizenship. (passive)</li>
-        <li><b>Write</b>: You must file your returns electronically. (active)<br>
-            <b>Instead of</b>: Your returns must be filed electronically. (passive)</li>
-      </ul>
+        <p><strong>Write</strong>: We may ask you to provide proof of citizenship. (active)<br>
+            <strong>Instead of</strong>: You may be asked to provide proof of citizenship. (passive)</p>
+        <p><strong>Write</strong>: You must file your returns electronically. (active)<br>
+            <strong>Instead of</strong>: Your returns must be filed electronically. (passive)</p>
       <p>The passive voice is useful in some cases. For more on this topic, consult:</p>
       <ul>
         <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/active-voice-passive-voice-voice.html">Writing Tips Plus: Active voice, passive voice</a></li>
