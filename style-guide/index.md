@@ -289,23 +289,23 @@ title: "Canada.ca Content Style Guide"
     </ul>
     <h4 id="wp2-1-2">Structure</h4>
     <ul>
-      <li><b>Identify audience needs</b>: Organize, write and design your document to meet the needs of your intended audience.</li>
-      <li><b>Use clear headings and subheadings</b>: Separate content into clear sections to help your audience scan and easily find what they need.</li>
-      <li><b>Use lists</b>: Organize key tasks with numbers or bullets.
+      <li><strong>Identify audience needs</strong>: Organize, write and design your document to meet the needs of your intended audience.</li>
+      <li><strong>Use clear headings and subheadings</strong>: Separate content into clear sections to help your audience scan and easily find what they need.</li>
+      <li><strong>Use lists</strong>: Organize key tasks with numbers or bullets.
         <ul>
           <li><a href="#wp5-2">See section 5.2, use lists to help people scan</a></li>
         </ul>
       </li>
-      <li><b>Remove visual and cognitive blockers</b>: Remove anything that prevents your audience from easily seeing, understanding or using the information they need.</li>
-      <li><b>Move or remove unnecessary details</b>: Remove details that people don't need to complete their task.</li>
+      <li><strong>Remove visual and cognitive blockers</strong>: Remove anything that prevents your audience from easily seeing, understanding or using the information they need.</li>
+      <li><strong>Move or remove unnecessary details</strong>: Remove details that people don't need to complete their task.</li>
         </ul>
         <h4 id="wp2-1-3">Simplify and review</h4>
         <ul>
-          <li><b>Trim content</b>: Shorten words, sentences and paragraphs.</li>
-          <li><b>Simplify</b>: Replace secondary references to a program with "program" rather than using its full name or abbreviation.</li>
-          <li><b>Review for clarity</b>: Ask colleagues who aren't familiar with the subject to review the text for clarity and logic.</li>
-          <li><b>Read aloud</b>: Read the text out loud, or use a screen reader, to identify what can be clearer and more concise.</li>
-          <li><b>Test your content</b>: Work with your web team to set up usability testing for your content.</li>
+          <li><strong>Trim content</strong>: Shorten words, sentences and paragraphs.</li>
+          <li><strong>Simplify</strong>: Replace secondary references to a program with "program" rather than using its full name or abbreviation.</li>
+          <li><strong>Review for clarity</strong>: Ask colleagues who aren't familiar with the subject to review the text for clarity and logic.</li>
+          <li><strong>Read aloud</strong>: Read the text out loud, or use a screen reader, to identify what can be clearer and more concise.</li>
+          <li><strong>Test your content</strong>: Work with your web team to set up usability testing for your content.</li>
         </ul>
         <h4 id="wp2-1-4">Don’t rely on readability tools</h4>
         <p>Readability tools are based on algorithms that measure things like word length. These tools cannot tell you if your audience will find your content easy to understand and use.</p>
