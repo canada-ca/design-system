@@ -456,16 +456,14 @@ title: "Canada.ca Content Style Guide"
       <h4 id="wp2-4-4">Use verbs instead of nouns formed from verbs</h4>
       <p>Avoid using nouns that are formed from verbs. Verbs alone clearly express the action needed.  Always use the simplest form of a verb. When possible, use the present tense.</p>
       <h5>Examples of the use of verbs instead of nouns</h5>
-      <ul>
-        <li><b>Write</b>: apply<br>
-            <b>Instead of</b>: submit your application</li>
-        <li><b>Write</b>: consider<br>
-            <b>Instead of</b>: take into consideration</li>
-        <li><b>Write</b>: modify<br>
-            <b>Instead of</b>: make a modification</li>
-        <li><b>Write</b>: needs<br>
-            <b>Instead of</b>: is in need of</li>
-      </ul>
+        <p><strong>Write</strong>: apply<br>
+            <strong>Instead of</strong>: submit your application</p>
+        <p><strong>Write</strong>: consider<br>
+            <strong>Instead of</strong>: take into consideration</p>
+        <p><strong>Write</strong>: modify<br>
+            <strong>Instead of</strong>: make a modification</p>
+        <p><strong>Write</strong>: needs<br>
+            <strong>Instead of</strong>: is in need of</p>
     <p>For more details read:</p>
     <ul>
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/writing-tips-plus/clear-communication-turn-nouns-into-verbs"><cite>Writing Tips Plus</cite>: Turn nouns into verbs</a></li>
