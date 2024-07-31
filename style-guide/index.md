@@ -551,7 +551,7 @@ title: "Canada.ca Content Style Guide"
     <h4>Examples of references to legislation</h4>
       <p><strong>Write</strong>: You can apply for your child to become a Canadian citizen after they arrive in Canada as a permanent resident.</p>
           <p>Related links</p>
-          <ul><li><a href="http://laws-lois.justice.gc.ca/eng/acts/c-29/FullText.html">Citizenship Act, section 5.1</a></li></ul>
+          <ul><li><a href="http://laws-lois.justice.gc.ca/eng/acts/c-29/FullText.html"><cite>Citizenship Act</cite>, section 5.1</a></li></ul>
           <p><strong>Instead of</strong>: After your child arrives in Canada as a permanent resident, you can apply for citizenship on the child's behalf under section 5.1 of the Citizenship Act.</p>
     <p>For later mentions, you can refer to it as “the Act” or “the Legislation”. Alternatively, include an abbreviated form in parentheses after the first mention. For additional guidance and examples see:</p>
     <ul>
