@@ -390,7 +390,7 @@ title: "Canada.ca Content Style Guide"
     </div>
   </section>
   <section id="wp2-4">
-    <h3>2.3 Write in the active and positive form</h3>
+    <h3>2.4 Write in the active and positive form</h3>
     <p>Write in the active voice and positive form. Direct your audience to what they need to know. Use action verbs to guide them to their next steps.</p>
     <section>
       <h4 id="wp2-4-1">Write in the active voice</h4>
