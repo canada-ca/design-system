@@ -410,7 +410,7 @@ title: "Canada.ca Content Style Guide"
             <strong>Instead of</strong>: Your returns must be filed electronically. (passive)</p>
       <p>The passive voice is useful in some cases. For more on this topic, consult:</p>
       <ul>
-        <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/active-voice-passive-voice-voice.html">Writing Tips Plus: Active voice, passive voice</a></li>
+        <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/active-voice-passive-voice-voice.html"><cite>Writing Tips Plus</cite>: Active voice, passive voice</a></li>
       </ul>
       <h4 id="wp2-4-3">Use the positive form</h4>
       <p>Whenever possible, tell people what they may or must do instead of what they may not or must not do to complete their task. Avoid negatives, double negatives and exceptions to exceptions.</p>
