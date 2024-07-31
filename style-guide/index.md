@@ -474,9 +474,9 @@ title: "Canada.ca Content Style Guide"
           <li>pro bono (legal service provided free of charge)</li>
         </ul>
       </li>
-      <li><strong>Idiom</strong> to hire a helping hand (meaning to hire an employee)</li>
+      <li><strong>Idiom</strong>: to hire a helping hand (meaning to hire an employee)</li>
       <li><strong>Expression</strong>: attack your least favourite task first (meaning do your least favourite task first)</li>
-      <li><strong>Metaphors</strong>: The sun was a ball of fire (meaning the sun was very hot).</li>
+      <li><strong>Metaphor</strong>: The sun was a ball of fire (meaning the sun was very hot).</li>
     </ul>
     <p class="mrgn-tp-lg">If you must include jargon familiar to your target audience, be sure to:</p>
     <ul>
