@@ -589,7 +589,7 @@ title: "Canada.ca Content Style Guide"
       <li><a href="https://readabilityguidelines.co.uk/clear-language/plain-english/">Content Design London | Readability Guidelines</a></li>
       <li><a href="https://www.iso.org/obp/ui#iso:std:iso:24495:-1:ed-1:v1:en">ISO 24495-1:2023 Plain language</a></li>
       <li><a href="https://www.iplfederation.org/plain-language/">Plain Language - International Plain Language Federation</a></li>
-      <li><a href="https://www.plainlanguage.gov/guidelines/words/avoid-noun-strings/">PlainLanguage.gov | Plain language guidelines (US government)</a></li>
+      <li><a href="https://www.plainlanguage.gov/guidelines">PlainLanguage.gov | Plain language guidelines (US government)</a></li>
       <li>Province of British Columbia:
       <ul>
         <li><a href="https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/web-content-development-guides/web-style-guide/writing-guide/writing-web-content#plain-language">Writing web content - Province of British Columbia</a></li>
