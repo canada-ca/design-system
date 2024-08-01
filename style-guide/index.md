@@ -339,11 +339,11 @@ title: "Canada.ca Content Style Guide"
       <li><strong>more information</strong>
         <ul>
           <li>Only include extra details if they support, rather than distract from, the important content. This could include:
-          <ol>
+          <ul>
             <li>related links that may help some people (for example, statistics cited, related initiatives, relevant publications, etc.)</li>
             <li>information for people who want to learn more</li>
             <li>information for people who have more knowledge of the topic or service.</li>
-          </ol>
+          </ul>
           </li>
         </ul>
       </li>
