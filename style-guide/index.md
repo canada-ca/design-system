@@ -228,7 +228,7 @@ title: "Canada.ca Content Style Guide"
   </div>
   <section id="wp2-0">
   <h3>The duty to be clear: Plain language requirement</h3>
-    <p>Using plain language is a requirement of the <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682">Directive on the Management of Communications</a>.</p>
+    <p>The use of plain language is a requirement of the <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682">Directive on the Management of Communications</a>.</p>
     <p>Plain language is a writing approach to communicate what your audience needs to know. With plain language, the wording, structure and design are so clear your intended audience can easily:</p>
     <ul>
       <li><b>find</b> what they need</li>
@@ -278,7 +278,7 @@ title: "Canada.ca Content Style Guide"
         </ul>
       </li>
       <li><strong>Remove visual and cognitive blockers</strong>: Remove anything that prevents your audience from easily seeing, understanding or using the information they need.</li>
-      <li><strong>Move or remove unnecessary details</strong>: Remove details that people don't need to complete their task.</li>
+      <li><strong>Move or remove unnecessary details</strong>: Don't include details that people don't need to complete their task.</li>
         </ul>
         <h4 id="wp2-1-3">Simplify and review</h4>
         <ul>
@@ -352,7 +352,7 @@ title: "Canada.ca Content Style Guide"
       <p><b>Be direct</b>. Write direct statements that help your target audience complete their task. Content needs to be easy to find, read and understand.</p>
       <p><b>Stay on topic</b>. Avoid distracting your audience with unnecessary content, like welcome messages or background information.</p>
       <h5>Example of direct statements</h5>
-      <p><strong>Write</strong>: Show your passport to the border officer.<br>
+      <p><strong>Write</strong>: Present your passport to the border officer.<br>
         <strong>Instead of</strong>: According to Canadian legislation, you're required to present your passport to the agent who will welcome you into the country.</p>
     <h4>See how this rule applies in French:</h4>
       <ul>
