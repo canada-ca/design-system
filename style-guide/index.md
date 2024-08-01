@@ -496,7 +496,7 @@ title: "Canada.ca Content Style Guide"
       <li><a href="https://ahrefs.com/free-seo-tools">Ahrefs Free SEO Tools (no account required)</a></li>
       <li><a href="http://www.bing.com/toolbox/keywords">Bing Keyword Research (need Microsoft account to access)</a></li>
       <li><a href="https://www.google.ca/trends/explore">Google Trends (no login required)</a></li>
-      <li><a href="http://adwords.google.com/keywordplanner">Google Keyword Planner (need Google AdWords to access)</a></li>
+      <li><a href="http://adwords.google.com/keywordplanner">Google Keyword Planner (need Google AdWords account to access)</a></li>
       <li><a href="https://www.thehoth.com/google-keyword-planner?">Hoth Free Google Keyword Planner (no account required)</a></li>
       <li><a href="https://moz.com/explorer">Moz Keyword Explorer</a></li>
     </ul>
