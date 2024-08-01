@@ -321,7 +321,7 @@ title: "Canada.ca Content Style Guide"
         </figure>
       </div>
     </div>
-    <p>The inverted pyramid is divided into four sections, moving from what people need to know at the top to what’s less relevant at the bottom. Use the following list to help you plan and organize your content:</p>
+    <p>The inverted pyramid is divided into three sections, moving from what people need to know at the top to what’s less relevant at the bottom. Use the following list to help you plan and organize your content:</p>
     <ol>
       <li><strong>most important</strong>
         <ul>
