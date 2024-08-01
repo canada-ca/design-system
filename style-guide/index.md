@@ -270,7 +270,7 @@ title: "Canada.ca Content Style Guide"
     </ul>
     <h4 id="wp2-1-2">Structure</h4>
     <ul>
-      <li><strong>Identify audience needs</strong>: Organize, write and design your document to meet the needs of your intended audience.</li>
+      <li><strong>Identify audience needs</strong>: Organize, write and design your content to meet the needs of your intended audience.</li>
       <li><strong>Use clear headings and subheadings</strong>: Separate content into clear sections to help your audience scan and easily find what they need.</li>
       <li><strong>Use lists</strong>: Organize key tasks with numbers or bullets.
         <ul>
