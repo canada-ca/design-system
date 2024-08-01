@@ -342,7 +342,7 @@ title: "Canada.ca Content Style Guide"
           <ul>
             <li>related links that may help some people (for example, statistics cited, related initiatives, relevant publications, etc.)</li>
             <li>information for people who want to learn more</li>
-            <li>information for people who have more knowledge of the topic or service.</li>
+            <li>information for people who have more knowledge of the topic or service</li>
           </ul>
           </li>
         </ul>
