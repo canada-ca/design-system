@@ -515,7 +515,7 @@ title: "Canada.ca Content Style Guide"
     <p>Use simple sentence and paragraph structure. Avoid complexity.</p>
     <p><strong>Be direct</strong>. Start sentences with the subject and verb. This structure helps people know immediately who is doing what.</p>
     <p><strong>Be brief</strong>. Use as few words as possible to express an idea. Being concise helps everyone, including specialists, complete their task.</p>
-    <p><strong>Write easy-to-scan content</strong>: Keep sentences and paragraphs short. This makes them easier to scan and understand by everyone, on any screen size. Keep some paragraphs to one sentence when it makes the content easier to scan.</p>
+    <p><strong>Write easy-to-scan content</strong>. Keep sentences and paragraphs short. This makes them easier to scan and understand by everyone, on any screen size. Keep some paragraphs to one sentence when it makes the content easier to scan.</p>
     <p>Use the following strategies to write clear, easy-to-scan content:</p>
     <ul>
       <li>break up long sentences (optimal is under 15 to 20 words)</li>
