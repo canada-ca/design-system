@@ -6,6 +6,8 @@ description: "Update history for the Canada.ca Content Style Guide"
 title: "Update history for the Canada.ca Content Style Guide"
 ---
 <p>This list contains all changes made to the Canada.ca Content Style Guide since May 25, 2023.</p>
+<h2>August 6, 2024</h2>
+<ul><li>We have updated section 2.0 Plain language to better align with the plain language standard developed through the International Organization for Standardization (ISO). This update was done in collaboration with plain language experts and communications professionals from across the Government of Canada.</li></ul>
 <h2>February 9, 2024</h2>
 <ul class="mrgn-tp-lg">
    <li>as of January 2024, <cite>The Canadian Style</cite> and <cite>Le guide du rédacteur</cite> were archived, with their content integrated into <a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/index-eng"><cite>Writing Tips Plus</cite></a> and the <span lang=fr><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra"><cite>Clés de la rédaction</cite></a></span>. We’ve updated references and links in the following sections:</li>
