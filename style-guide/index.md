@@ -38,7 +38,7 @@ title: "Canada.ca Content Style Guide"
   <h2>Recent updates</h2>
   <p>Most recent updates to the guide:</p>
   <ul class="mrgn-tp-lg">
-<li>We have updated <a href="#toc6">Section 2.0 Plain language</a> to better align with the plain language standard developed through the International Organization for Standardization (ISO). This update was done in collaboration with plain language experts and communications professionals from across the Government of Canada.</li>
+<li>We have updated <a href="#toc6">Section 2.0 Communicate clearly with plain language</a> to better align with the plain language standard developed through the International Organization for Standardization (ISO). This update was done in collaboration with plain language experts and communications professionals from across the Government of Canada.</li>
   </ul>
   <p><a href="update-history.html">Update history</a> (this list begins with changes on May 25, 2023).</p>
 </section>
