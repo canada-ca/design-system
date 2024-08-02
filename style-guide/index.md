@@ -2361,7 +2361,7 @@ title: "Canada.ca Content Style Guide"
   <p>Make sure that your links work and point to the correct information.  Broken or outdated links are frustrating.  They can cause people to lose confidence in your content.</p>
   <p>You should check your links and update them as part of your regular content maintenance schedule:</p>
   <ul>
-    <li>fix links that are broken (links that point to a 404 message "Page not found", for example)</li>
+    <li>fix broken links (those that lead to a 404 "Page not found" message, for example)</li>
     <li>make sure that link destinations are correct and have relevant, up-to-date information</li>
     <li>evaluate your URL redirects:
       <ul>
