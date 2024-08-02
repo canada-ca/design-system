@@ -538,7 +538,7 @@ title: "Canada.ca Content Style Guide"
           <strong>Instead of</strong>: The period of time that you have to file your tax return ends on April 30.</p>
     <h4>See how this rule applies in French:</h4>
     <ul>
-      <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-5">2.6 Utiliser des phrases et des paragraphes courts</a></span></li>
+      <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-5">2.6 Utiliser des phrases et paragraphes simples et concis</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
       <div class="wb-share btn btn-default" data-wb-share='{"custType": " use short sentences and paragraphs", "title": "2.6 Use short sentences and paragraphs", "url": "https://design.canada.ca/style-guide/#wp2-6", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-5"}'></div>
