@@ -33,6 +33,20 @@ The Feedback Viewer is a password protected environment available to all page fe
 
 Email: [{{ site.emails.dto }}](mailto:{{ site.emails.dto }})
 
+### Feedback Viewer filters
+
+The Feedback Viewer includes filters so that you can access and download specific feedback, including:
+* Date range
+* Institution, Theme, and section of content
+* URL
+* Language
+* Comment field search
+
+<details>
+  <summary>Image of the Feedback Viewer</summary>
+  <p><img src="images/feedback-viewer.png" alt="screenshot of the Feedback viewer showing the filter categories" class="img-responsive"/></p>
+</details>
+
 ## How long feedback is kept
 
 The Feedback Viewer only stores six months of comments from the Page Feedback Tool.
@@ -73,21 +87,6 @@ Comments are deleted in the first week of each quarter.
 		</tr>
 	</tbody>
 </table>
-
-
-### Feedback Viewer filters
-
-The Feedback Viewer includes filters so that you can access and download specific feedback, including:
-* Date range
-* Institution, Theme, and section of content
-* URL
-* Language
-* Comment field search
-
-<details>
-  <summary>Image of the Feedback Viewer</summary>
-  <p><img src="images/feedback-viewer.png" alt="screenshot of the Feedback viewer showing the filter categories" class="img-responsive"/></p>
-</details>
 
 <nav role="navigation" class="mrgn-bttm-lg">
   <ul class="pager">
