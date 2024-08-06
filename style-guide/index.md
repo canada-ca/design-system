@@ -2407,7 +2407,7 @@ title: "Canada.ca Content Style Guide"
     <li>be ready, willing and able to work each day but still can't find work</li>
     <li>stay in Canada while you're getting EI help</li>
   </ul>
-  <p>Flesch-Kincaidreading level<em>: </cite>5.9</p>
+  <p>Flesch-Kincaidreading level: 5.9</p>
   <h4>What we did</h4>
   <p>To improve this content, we:</p>
   <ul>
