@@ -3211,7 +3211,7 @@ title: "Canada.ca Content Style Guide"
 	<h3 id="fn">Footnotes</h3>
 	<dl>
 		<dt>Footnote 1</dt>
-		<dd id="fn1" tabindex="-1">
+		<dd id="fn1">
 			<p>International Plain Language Federation:<br><a href="https://www.iplfederation.org/plain-language">​https://www.iplfederation.org/plain-language</a></p>
 			<p class="fn-rtn small"><a href="#fn1-rf"><span class="wb-inv">Return to footnote </span>1<span class="wb-inv"> referrer</span></a></p>
 		</dd>
