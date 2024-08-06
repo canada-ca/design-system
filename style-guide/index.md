@@ -3207,7 +3207,7 @@ title: "Canada.ca Content Style Guide"
     <li><cite><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/index-eng">Writing Tips Plus</a></cite>, Resource of the Language Portal of Canada, Government of Canada</li>
   </ul>
 </section>
-<aside class="wb-fnote wb-init wb-fnote-inited" role="note" id="wb-auto-4">
+<aside class="wb-fnote" role="note">
 	<h3 id="fn">Footnotes</h3>
 	<dl>
 		<dt id="fn1-dt">Footnote 1</dt>
