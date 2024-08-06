@@ -3210,7 +3210,7 @@ title: "Canada.ca Content Style Guide"
 <aside class="wb-fnote" role="note">
 	<h3 id="fn">Footnotes</h3>
 	<dl>
-		<dt id="fn1-dt">Footnote 1</dt>
+		<dt>Footnote 1</dt>
 		<dd id="fn1" tabindex="-1">
 			<p>International Plain Language Federation: <a href="​​https://www.iplfederation.org/plain-language">​https://www.iplfederation.org/plain-language</a></p>
 			<p class="fn-rtn small"><a href="#fn1-0-rf" data-wb-fnote="true"><span class="wb-inv">Return to footnote </span>1<span class="wb-inv"> referrer</span></a></p>
