@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/guide-redaction"
 date: 2017-10-05
-dateModified:  2024-07-30
+dateModified:  2024-08-06
 description: "The Canada.ca Content Style Guide provides the rules to create web content that can be easily found, understood and used."
 title: "Canada.ca Content Style Guide"
 ---
@@ -3212,7 +3212,7 @@ title: "Canada.ca Content Style Guide"
 	<dl>
 		<dt id="fn1-dt">Footnote 1</dt>
 		<dd id="fn1" tabindex="-1">
-			<p>1 International Plain Language Federation: <a href="​​https://www.iplfederation.org/plain-language/">​https://www.iplfederation.org/plain-language/</a></p>
+			<p>International Plain Language Federation: <a href="​​https://www.iplfederation.org/plain-language">​https://www.iplfederation.org/plain-language</a></p>
 			<p class="fn-rtn small"><a href="#fn1-0-rf" data-wb-fnote="true"><span class="wb-inv">Return to footnote </span>1<span class="wb-inv"> referrer</span></a></p>
 		</dd>
 	</dl>
