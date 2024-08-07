@@ -38,7 +38,7 @@ title: "Canada.ca Content Style Guide"
   <h2>Recent updates</h2>
   <p>Most recent updates to the guide:</p>
   <ul class="mrgn-tp-lg">
-<li>We have updated <a href="#toc6">Section 2.0 Communicate clearly with plain language</a> to better align with the plain language standard developed through the International Organization for Standardization (ISO). This update was done in collaboration with plain language experts and communications professionals from across the Government of Canada.</li>
+<li>We have updated <a href="#toc6">section 2.0 Communicate clearly with plain language</a> to better align with the plain language standard developed through the International Organization for Standardization (ISO). This update was done in collaboration with plain language experts and communications professionals from across the Government of Canada.</li>
   </ul>
   <p><a href="update-history.html">Update history</a> (this list begins with changes on May 25, 2023).</p>
 </section>
@@ -54,7 +54,7 @@ title: "Canada.ca Content Style Guide"
   <h2>Use of the style guide</h2>
   <p>All departments and other portions of the federal public administration subject to the <cite>Directive on the Management of Communications</cite> must use the Canada.ca  Style Guide. These organizations must follow this style guide's requirements for all public-facing websites and digital services, regardless of the technology, domain name or publishing platform used. This requirement is referenced in Appendix D: Mandatory Procedures for Social Media and Web Communications in the <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=30682"><cite>Directive on the Management of Communications</cite></a>.</p>
   <h3>Out-of-scope situations</h3>
-  <p>Institutions that fall outside of the Directive on the Management of Communications do not have to follow this style guide. However, all institutions are encouraged to use it for both their internal and external web products. Following this guide's rules and techniques will make it easier for everyone to find, understand and use the government's digital content.</p>
+  <p>Institutions that fall outside of the <cite>Directive on the Management of Communications</cite> do not have to follow this style guide. However, all institutions are encouraged to use it for both their internal and external web products. Following this guide's rules and techniques will make it easier for everyone to find, understand and use the government's digital content.</p>
 </section>
 <section id="toc4">
   <h2>Related policies, standards and procedures</h2>
@@ -228,7 +228,7 @@ title: "Canada.ca Content Style Guide"
   </div>
   <section id="wp2-0">
   <h3>The duty to be clear: Plain language requirement</h3>
-    <p>The use of plain language is a requirement of the <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682">Directive on the Management of Communications</a>.</p>
+    <p>The use of plain language is a requirement of the <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682"><cite>Directive on the Management of Communications</cite></a>.</p>
     <p>Plain language is a writing approach to communicate what your audience needs to know. With plain language, the wording, structure and design are so clear your intended audience can easily:</p>
     <ul>
       <li><b>find</b> what they need</li>
@@ -1454,7 +1454,7 @@ title: "Canada.ca Content Style Guide"
         <li>do not use the passive voice</li>
         <li>it is important to use the right words</li>
         <li>use only short sentences and paragraphs</li>
-        <li>use the Canada.ca Content Style Guide to ensure you have followed the guidelines</li>
+        <li>use the <cite>Canada.ca Content Style Guide</cite> to ensure you have followed the guidelines</li>
       </ul>
       <p>Take a look at the <a href="#wp4-1">section on capitalization and punctuation rules that apply to lists</a>.</p>
     </section>
@@ -2396,7 +2396,6 @@ title: "Canada.ca Content Style Guide"
   <h3>Case study A: improve plain language and content structure</h3>
   <h4>Before</h4>
   <p>The Employment Insurance (EI) program offers temporary financial assistance to Canadians and individuals who are legally entitled to work in Canada, have a valid Social Insurance Number and remain in Canada during their benefit period. One type of benefits that the&nbsp;EI&nbsp;program offers is regular benefits.&nbsp;EI&nbsp;regular benefits are offered to people who have lost their employment through no fault of their own (for example, because of a shortage of work or because they were employed in seasonal work) and who are ready, willing, and capable of working each day but unable to find work.</p>
-  <p>Flesch-Kincaid reading level: 17.2</p>
   <h4>After</h4>
   <p>The Employment Insurance (EI) program could give you temporary financial help if you lost your job.</p>
   <p>To qualify for regular benefits, you must:</p>
@@ -2407,7 +2406,6 @@ title: "Canada.ca Content Style Guide"
     <li>be ready, willing and able to work each day but still can't find work</li>
     <li>stay in Canada while you're getting EI help</li>
   </ul>
-  <p>Flesch-Kincaidreading level: 5.9</p>
   <h4>What we did</h4>
   <p>To improve this content, we:</p>
   <ul>
