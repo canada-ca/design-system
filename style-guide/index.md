@@ -2407,7 +2407,7 @@ title: "Canada.ca Content Style Guide"
     <li>be ready, willing and able to work each day but still can't find work</li>
     <li>stay in Canada while you're getting EI help</li>
   </ul>
-  <p>Flesch-Kincaidreading level<em>: </cite>5.9</p>
+  <p>Flesch-Kincaidreading level: 5.9</p>
   <h4>What we did</h4>
   <p>To improve this content, we:</p>
   <ul>
@@ -3207,13 +3207,13 @@ title: "Canada.ca Content Style Guide"
     <li><cite><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/index-eng">Writing Tips Plus</a></cite>, Resource of the Language Portal of Canada, Government of Canada</li>
   </ul>
 </section>
-<aside class="wb-fnote wb-init wb-fnote-inited" role="note" id="wb-auto-4">
+<aside class="wb-fnote" role="note">
 	<h3 id="fn">Footnotes</h3>
 	<dl>
-		<dt id="fn1-dt">Footnote 1</dt>
-		<dd id="fn1" tabindex="-1">
-			<p>International Plain Language Federation: <a href="​​https://www.iplfederation.org/plain-language">​https://www.iplfederation.org/plain-language</a></p>
-			<p class="fn-rtn small"><a href="#fn1-0-rf" data-wb-fnote="true"><span class="wb-inv">Return to footnote </span>1<span class="wb-inv"> referrer</span></a></p>
+		<dt>Footnote 1</dt>
+		<dd id="fn1">
+			<p>International Plain Language Federation:<br><a href="https://www.iplfederation.org/plain-language">​https://www.iplfederation.org/plain-language</a></p>
+			<p class="fn-rtn small"><a href="#fn1-rf"><span class="wb-inv">Return to footnote </span>1<span class="wb-inv"> referrer</span></a></p>
 		</dd>
 	</dl>
 </aside>
