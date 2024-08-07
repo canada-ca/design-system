@@ -7,7 +7,7 @@ title: "Update history for the Canada.ca Content Style Guide"
 ---
 <p>This list contains all changes made to the Canada.ca Content Style Guide since May 25, 2023.</p>
 <h2>August 6, 2024</h2>
-<ul><li>We have updated <a href="/style-guide/#toc6">Section 2.0 Communicate clearly with plain language</a> to better align with the plain language standard developed through the International Organization for Standardization (ISO). This update was done in collaboration with plain language experts and communications professionals from across the Government of Canada.</li></ul>
+<ul><li>We have updated <a href="/style-guide/#toc6">section 2.0 Communicate clearly with plain language</a> to better align with the plain language standard developed through the International Organization for Standardization (ISO). This update was done in collaboration with plain language experts and communications professionals from across the Government of Canada.</li></ul>
 <h2>February 9, 2024</h2>
 <ul class="mrgn-tp-lg">
    <li>as of January 2024, <cite>The Canadian Style</cite> and <cite>Le guide du rédacteur</cite> were archived, with their content integrated into <a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/index-eng"><cite>Writing Tips Plus</cite></a> and the <span lang=fr><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra"><cite>Clés de la rédaction</cite></a></span>. We’ve updated references and links in the following sections:</li>
@@ -37,7 +37,7 @@ title: "Update history for the Canada.ca Content Style Guide"
 <ul class="mrgn-tp-lg">
   <li>improved the Figure 5 functional image example in the <a href="/style-guide/#wp6-1-1">Functional images</a> section</li>
   <li>updated the example in the <a href="/style-guide/#wp6-1-2">Decorative images</a> section and added information about using null alt text</li>
-  <li>improved the simple table examples in <a href="/style-guide/#wp5-3">Section 5.3 Use tables to organize data</a></li>
+  <li>improved the simple table examples in <a href="/style-guide/#wp5-3">section 5.3 Use tables to organize data</a></li>
   <li>updated the text under <a href="/style-guide/#toc3">Use of the style guide</a> to highlight that the <cite>Directive on the Management of Communications</cite> is the official source for who must use this guide</li>
   <li>updated the text under the heading <a href="/style-guide/#wp1-2-1b">Writing for inclusivity</a> to reflect the new inclusive writing guidelines and resources</li>
   <li>added an example for when to capitalize public service under <a href="/style-guide/#wp4-1">4.1 Capitalization and punctuation</a></li>
