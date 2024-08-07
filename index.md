@@ -16,7 +16,7 @@ title: "Canada.ca design system"
         <p>User-tested templates, page layouts, design patterns, guidelines, and code samples</p>
       </div>
       <div class="col-md-4">
-        <h3 class="h5"><a href="{{ site.url }}/style-guide/">Canada.ca Content Style guide</a></h3>
+        <h3 class="h5"><a href="{{ site.url }}/style-guide/">Canada.ca Content Style Guide</a></h3>
         <p>Writing principles and techniques to make content clear and accessible to all</p>
       </div>
       <div class="col-md-4">
