@@ -6,10 +6,7 @@ description: null
 layout: default
 section-title: "Designing for Canada.ca"
 title: Information architecture and findability
-breadcrumbs: [{
-            "link": "https://design.canada.ca/about/",
-            "title": "About Canada.ca"
-          },
+breadcrumbs: [
           {
             "link": "https://design.canada.ca/",
             "title": "Designing for Canada.ca"

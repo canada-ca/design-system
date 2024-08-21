@@ -6,10 +6,7 @@ description: null
 layout: default
 section-title: "Designing for Canada.ca"
 title: Canada.ca Specifications
-breadcrumbs: [{
-            "link": "https://design.canada.ca/about/",
-            "title": "About Canada.ca"
-          },
+breadcrumbs: [
             {
             "link": "https://design.canada.ca/",
             "title": "Designing for Canada.ca"
