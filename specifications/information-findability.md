@@ -1,0 +1,68 @@
+---
+altLangPage: https://conception.canada.ca/specifications.html
+date: null
+dateModified: '2024-08-21'
+description: null
+title: Information architecture and findability
+---
+
+
+<p>
+ Organize and structure webpages for findability and task success across Canada.ca.
+</p>
+ <section>
+  <div class="row">
+   <h2 class="wb-inv">
+    Services and information
+   </h2>
+   <section class="wb-eqht gc-drmt">
+    <div class="col-md-4">
+     <section>
+      <h3 class="h5">
+       <a href="../architecture/organizing-content.html">
+        Organizing content
+       </a>
+      </h3>
+      <p>
+       Themes and institutional navigation, URLs, sub-domains, content types and content states
+      </p>
+     </section>
+    </div>
+    <div class="col-md-4">
+     <section>
+      <h3 class="h5">
+       <a href="../metadata.html">
+        Metadata guidance
+       </a>
+      </h3>
+      <p>
+       Write effective metadata descriptions, add keywords, prioritize search optimization efforts
+      </p>
+     </section>
+    </div>
+    <div class="col-md-4">
+     <section>
+      <h3 class="h5">
+       <a href="./continuous-improvement/research.html">
+        Adding structured data on Canada.ca pages
+       </a>
+      </h3>
+      <p>
+       How to add structured data, measure the impact, schema code and examples
+      </p>
+     </section>
+    </div>
+    <div class="col-md-4">
+     <section>
+      <h3 class="h5">
+       <a href="./specifications/information-findability.html">
+        Information architecture and findability
+       </a>
+      </h3>
+      <p>
+       Organizing content, metadata guidance, adding structured data
+      </p>
+     </section>
+    </div>
+  </div>
+ </section>
