@@ -9,9 +9,9 @@ breadcrumbs: [{
             "link": "https://design.canada.ca/about/",
             "title": "About Canada.ca"
           },
-          {
+            {
             "link": "https://design.canada.ca/",
-            "title": "Canada.ca design system"
+            "title": "Designing for Canada.ca"
           }
         ]
 ---

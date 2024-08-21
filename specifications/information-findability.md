@@ -5,6 +5,19 @@ dateModified: '2024-08-21'
 description: null
 layout: default
 title: Information architecture and findability
+breadcrumbs: [{
+            "link": "https://design.canada.ca/about/",
+            "title": "About Canada.ca"
+          },
+          {
+            "link": "https://design.canada.ca/",
+            "title": "Designing for Canada.ca"
+          },
+          {
+            "link": "https://design.canada.ca/specifications.html",
+            "title": "Canada.ca Specifications"
+          }
+        ]
 ---
 
 
