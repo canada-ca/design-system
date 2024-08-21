@@ -89,8 +89,6 @@ title: Canada.ca Specifications
       </p>
      </section>
     </div>
-   </section>
-  </div>
    <div class="col-md-4">
      <section>
       <h3 class="h5">
