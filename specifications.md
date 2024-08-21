@@ -102,9 +102,7 @@ title: Canada.ca Specifications
       </p>
      </section>
     </div>
-   </section>
-  </div>
- </section>
+</section>
 <section>
 	<h2>What we're working on</h2>
 	<div class="row">
