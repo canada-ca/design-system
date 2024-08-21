@@ -103,6 +103,7 @@ title: Canada.ca Specifications
      </section>
     </div>
 </section>
+<div class="clearfix"></div>
 <section>
 	<h2>What we're working on</h2>
 	<div class="row">
