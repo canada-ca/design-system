@@ -5,6 +5,15 @@ dateModified: '2024-08-21'
 description: null
 layout: default
 title: Canada.ca Specifications
+breadcrumbs: [{
+            "link": "https://design.canada.ca/about/",
+            "title": "About Canada.ca"
+          },
+          {
+            "link": "https://design.canada.ca/",
+            "title": "Canada.ca design system"
+          }
+        ]
 ---
 
 
