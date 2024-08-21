@@ -31,7 +31,7 @@ title: Information architecture and findability
     <div class="col-md-4">
      <section>
       <h3 class="h5">
-       <a href="../metadata.html">
+       <a href="../information-findability/metadata.html">
         Metadata guidance
        </a>
       </h3>
@@ -43,24 +43,12 @@ title: Information architecture and findability
     <div class="col-md-4">
      <section>
       <h3 class="h5">
-       <a href="./continuous-improvement/research.html">
+       <a href="../guidance/structured-data.html">
         Adding structured data on Canada.ca pages
        </a>
       </h3>
       <p>
        How to add structured data, measure the impact, schema code and examples
-      </p>
-     </section>
-    </div>
-    <div class="col-md-4">
-     <section>
-      <h3 class="h5">
-       <a href="./specifications/information-findability.html">
-        Information architecture and findability
-       </a>
-      </h3>
-      <p>
-       Organizing content, metadata guidance, adding structured data
       </p>
      </section>
     </div>
