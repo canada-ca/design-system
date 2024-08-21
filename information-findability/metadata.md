@@ -15,7 +15,7 @@ breadcrumbs: [{
             "title": "Designing for Canada.ca"
           },
            {
-            "link": "https://design.canada.ca/specifications",
+            "link": "https://design.canada.ca/specifications.html",
             "title": "Canada.ca Specifications"
           }
         ]
