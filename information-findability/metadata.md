@@ -90,7 +90,7 @@ title: "Improving titles and metadata for findability"
     </div>
     <h3>The dcterms.title</h3>
     <p>
-        The dc.terms title is optional. This metadata field is part of the Dublin Core Metadata Initiative. It allows you to provide additional metadata that may be used by some systems to catalogue and index your page. If you use this
+        The dcterms.title is optional. This metadata field is part of the Dublin Core Metadata Initiative. It allows you to provide additional metadata that may be used by some systems to catalogue and index your page. If you use this
         field, the content should be identical to your &lt;title&gt; field.
     </p>
     <h3>Coordinate the &lt;title&gt; and the &lt;h1&gt; content</h3>
