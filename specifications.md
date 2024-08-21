@@ -4,6 +4,7 @@ date: null
 dateModified: '2024-08-21'
 description: null
 layout: default
+section-title: "Designing for Canada.ca"
 title: Canada.ca Specifications
 breadcrumbs: [{
             "link": "https://design.canada.ca/about/",
