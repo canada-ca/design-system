@@ -3,6 +3,7 @@ altLangPage: https://conception.canada.ca/specifications.html
 date: null
 dateModified: '2024-08-21'
 description: null
+layout: default
 title: Canada.ca Specifications
 ---
 

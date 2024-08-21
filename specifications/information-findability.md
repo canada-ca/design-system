@@ -3,6 +3,7 @@ altLangPage: https://conception.canada.ca/specifications/information-trouvabilit
 date: null
 dateModified: '2024-08-21'
 description: null
+layout: default
 title: Information architecture and findability
 ---
 
