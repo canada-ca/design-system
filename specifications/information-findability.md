@@ -51,6 +51,5 @@ title: Information architecture and findability
        How to add structured data, measure the impact, schema code and examples
       </p>
      </section>
-    </div>
   </div>
  </section>
