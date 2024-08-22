@@ -324,7 +324,7 @@ breadcrumbs: [
         <li>Add common term variations, such as older department or program names, abbreviations and acronyms</li>
         <li>Stay specific to the page’s content: don’t include concepts that are broad and applicable to many other pages</li>
         <li>You can include single keywords and keyword phrases</li>
-        <li>In AEM your keywords have to be 400 characters or less in total. Other content management systems may have other limits. Generally you should include 5 to 10 keywords</li>
+        <li>In AEM your keywords have to be 400 characters or less in total. Other content management systems may have other limits. Generally you should include 5 to 10 keywords.</li>
     </ul>
 </section>
 <section id="m5">
