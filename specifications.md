@@ -51,7 +51,7 @@ breadcrumbs: [
     <div class="col-md-4">
      <section>
       <h3 class="h5">
-       <a href="./continuous-improvement/research.html">
+       <a href="./style-guide/index.html">
         Canada.ca Content Style Guide
        </a>
       </h3>
