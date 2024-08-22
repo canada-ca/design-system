@@ -112,11 +112,11 @@ breadcrumbs: [
     <div class="row">
         <div class="col-md-8">
             <pre><code>&lt;head&gt;
-   &lt;title&gt;Government technologies: Commercialization and licensing opportunities&lt;/title&gt;
+   &lt;title&gt;Sponsor your family to immigrate to Canada&lt;/title&gt;
 &lt;/head&gt;
   
   &lt;body&gt;
-  &lt;h1&gt;Commercialization and licensing opportunities&lt;/h1&gt;
+  &lt;h1&gt;Sponsor your family members&lt;/h1&gt;
 </code></pre>
         </div>
     </div>
@@ -133,7 +133,7 @@ breadcrumbs: [
         <li>Include acronyms if they are well-known, and spell them out</li>
         <li>Preview your titles
           <ul>
-          <li>Use an online tool, such as the free <a href="https://moz.com/learn/seo/title-tag">title tag tester</a> from Moz, that will give you an idea of what your title tags may look like in a search result.</li>
+          <li>use an online tool, such as the free <a href="https://moz.com/learn/seo/title-tag">title tag tester from Moz</a>, that will give you an idea of what your title tags may look like in a search result</li>
           </ul>
         </li>
         <li>Avoid duplicate titles</li>
