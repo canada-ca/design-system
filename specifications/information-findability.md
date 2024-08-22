@@ -20,7 +20,7 @@ breadcrumbs: [
 
 
 <p>
- Organize and structure webpages for findability and task success across Canada.ca.
+ Organize and structure web pages for findability and task success across Canada.ca.
 </p>
  <section>
   <div class="row">

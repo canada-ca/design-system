@@ -80,7 +80,7 @@ breadcrumbs: [
        </a>
       </h3>
       <p>
-       Using evidence to design people-first and task-centred experiences.
+       Using evidence to design people-first and task-centred experiences
       </p>
      </section>
     </div>
