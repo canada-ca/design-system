@@ -297,8 +297,7 @@ breadcrumbs: [
     <p>More:</p>
     <ul>
         <li>
-            <a href="https://www.digitalprofession.gov.au/content-strategy/search-engine-optimisation/on-page-seo">Improve on-page SEO | Australian Government: A practical guide to proven on-page SEO techniques</a>, including how to write
-            good meta descriptions.
+            <a href="https://www.digitalprofession.gov.au/content-strategy/search-engine-optimisation/on-page-seo">Improve on-page SEO | Australian Government: A practical guide to proven on-page SEO techniques</a>
         </li>
     </ul>
 </section>
