@@ -4,6 +4,21 @@ date: null
 dateModified: '2024-08-23'
 description: null
 title: Government of Canada domains and URLs
+section-title: "Canada.ca design"
+breadcrumbs: [
+            {
+            "link": "https://design.canada.ca/",
+            "title": "Canada.ca design"
+          },
+           {
+            "link": "https://design.canada.ca/specifications.html",
+            "title": "Specifications"
+          },
+           {
+            "link": "https://design.canada.ca/specifcations/mandatory-elements.html",
+            "title": "Mandatory elements"
+          }
+        ]
 ---
 <section>
 <h2>On this page</h2>
