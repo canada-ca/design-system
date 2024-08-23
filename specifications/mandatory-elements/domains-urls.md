@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/.html
+altLangPage: https://conception.canada.ca/specifications/elements-obligatoires/domaines-url.html
 date: null
 dateModified: '2024-08-23'
 description: null
