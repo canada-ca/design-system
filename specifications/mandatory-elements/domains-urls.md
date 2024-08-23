@@ -58,7 +58,7 @@ breadcrumbs: [
 <ul>
     <li>a maximum of 2 keywords is recommended</li>
     <li>related sub-sites and digital services must be grouped under the same sub-domain, where possible</li>
-    <li>follow the guidance in the <a href="#du4a">How to write URLs section</a>
+    <li>follow the guidance in the <a href="#du3a">How to write URLs section</a>
         <ul>
         <li><b>Examples</b>:
             <li>accessible.canada.ca</li>
@@ -103,7 +103,7 @@ breadcrumbs: [
         <li>be easy to type and to communicate</li>
         <li>only include 1 path segment (only a single slash) </li>
         <li>hide the file extension for HTML-based pages (for example, “canada.ca/passport”, “canada.ca/weather”)</li>
-        <li>comply with the guidance in the <a href="du3a">How to write URLs section</a></li>
+        <li>comply with the guidance in the <a href="#du3a">How to write URLs section</a></li>
     </ul>
 <p>If the URL will be spoken out loud (for example, in radio and television advertisements), you can also have another vanity URL without hyphens. This will make it easier to read out loud.</p>
 <p>Example – Television advertisement:</p>
