@@ -73,7 +73,7 @@ title: Government of Canada domains and URLs
 <ul>
     <li>use plain language keywords</li>
     <li>separate keywords within the same path segments by hyphens</li>
-    <li>avoid superfluous words such as “to”, “the”, “a”, “an”, “by”, “for” (for example, use “/apply-student-loan” instead of “/how-to-apply-for-a-canadian-student-loan”)
+    <li>avoid superfluous words such as “to”, “the”, “a”, “an”, “by”, “for” (for example, use “/apply-student-loan” instead of “/how-to-apply-for-a-canadian-student-loan”)</li>
     <li>use lowercase</li>
     <li>use unilingual keywords, in the language of the page</li>
     <li>use only US-ASCII (7-bit version of ASCII) characters (for example, use “meteo” instead of “météo”)</li>
