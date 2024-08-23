@@ -97,7 +97,7 @@ breadcrumbs: [
 </ul>
 <h3 id="du3b">Vanity URLs</h3>
 <p>A vanity URL is a short, easy-to-understand, URL that redirects to a page with a longer URL.</p>
-<p>When writing URLs for communication products (publications, brochures, etc.) or advertising campaigns (television, radio, print, etc.) you can use either the primary URL or a vanity URL. For example, the <b>canada.ca/pension-benefits</b> vanity URL redirects users to <a href="https://www.canada.ca/en/treasury-board-secretariat/topics/pension-benefits.html">https://www.canada.ca/en/treasury-board-secretariat/topics/pension-benefits.html</a</p>
+<p>When writing URLs for communication products (publications, brochures, etc.) or advertising campaigns (television, radio, print, etc.) you can use either the primary URL or a vanity URL. For example, the <b>canada.ca/pension-benefits</b> vanity URL redirects users to <a href="https://www.canada.ca/en/treasury-board-secretariat/topics/pension-benefits.html">https://www.canada.ca/en/treasury-board-secretariat/topics/pension-benefits.html</a></p>
 <p>Vanity URLs must:</p>
     <ul>
         <li>be easy to type and to communicate</li>
