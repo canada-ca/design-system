@@ -10,7 +10,8 @@ title: Government of Canada domains and URLs
     <ul>
         <li><a href="#du1">Canada.ca domain</a>
             <ul>
-                <li><a href="#du1a">Sub-domains</a></li>
+                <li><a href="#du1a">What to avoid</a></li>
+                <li><a href="#du1b">Sub-domains</a></li>
             </ul>
         </li>
         <li><a href="#du2">Providing equal treatment to both official languages</a></li>
@@ -33,9 +34,9 @@ title: Government of Canada domains and URLs
     <li>with a subdomain, such as <a href="https://agriculture.canada.ca/en/science">https://agriculture.canada.ca/en/science</a></li>
 </ul>
 <p>All domains and sub-domains must be approved for use by Service Canada and resolve without the "www." prefix.</p>
-<h3>What to avoid</h3>
+<h3 id="du1a">What to avoid</h3>
 <p>Do not use the Canada.ca domain for collaborative sites where the Government of Canada is not the main partner. This includes websites jointly delivered with non-GC partners, such as other levels of government or non-government organizations, etc. for which the GC is not the lead organization.</p> 
-<h3 id="du1a">Sub-domains</h3>
+<h3 id="du1b">Sub-domains</h3>
 <p>A sub-domain is a subdivision of the primary domain. It allows for the organization of distinct sections within the main website. For example, <b>design.canada.ca</b> is a sub-domain of canada.ca.</p>
 <p>Only use subdomains for content or services hosted outside the Managed Web Service.</p>
 <p>When choosing a subdomain:</p>
