@@ -1,5 +1,4 @@
 {
-  "setting-website": "https://www.canada.ca/en",
   "altLangUrl": {
     "en": "https://design.canada.ca",
     "fr": "https://conception.canada.ca"
@@ -15,6 +14,7 @@
     "en": "Employment and Social Development Canada"
   },
   "baseurl": "",
+  "setting-website": "https://www.canada.ca/en",
   "exclude": [
     ".editorconfig",
     ".jekyll-cache",
