@@ -14,11 +14,11 @@ title: Government of Canada domains and URLs
             </ul>
         </li>
         <li><a href="#du2">Providing equal treatment to both official languages</a></li>
-        <li><a href="#du3">Domain requirements</a></li>
-        <li><a href="#du4">URL model</a>
+        <!-- <li><a href="#du3">Domain requirements</a></li> -->
+        <li><a href="#du3">URL model</a>
             <ul>
-                <li><a href="#du4a">How to write URLs</a></li>
-                <li><a href="#du4b">Vanity URLs</a></li>
+                <li><a href="#du3a">How to write URLs</a></li>
+                <li><a href="#du3b">Vanity URLs</a></li>
             </ul>
         </li>
     </ul>
@@ -63,4 +63,41 @@ title: Government of Canada domains and URLs
 <h3>Bilingual monomial names</h3>
 <p>You can use bilingual monomial names (understood in both languages) or compound terms that accurately represent the website’s primary purpose in both official languages. For example, <a href="http://www.agriculture.canada.ca">agriculture.canada.ca</a> or <a href="http://www.tc.canada.ca">tc.canada.ca</a>.</p>
 <p>Bilingual names resolve to the splash page of the website <b>except where the language preference is known</b>, where they instead resolve to the home page in the corresponding language. For example <a href="https://international.canada.ca/">international.canada.ca</a> will resolve to a splash page unless the language preference is known.</p>
+</section>
+<section id="du3">
+<h2>URL model</h2>
+<p>Each web page has a primary URL, displayed in the browser’s address bar. All other URLs referring to the web page resolve to the primary URL. This applies to URL aliases, vanity URLs, redirected URLs or any other non-primary URL.</p>
+<h3 id="du3a">How to write URLs</h3>
+<p>This applies to all URLs, including vanity URLs and sub-domains:</p>
+<ul>
+    <li>use plain language keywords</li>
+    <li>separate keywords within the same path segments by hyphens</li>
+    <li>avoid superfluous words such as “to”, “the”, “a”, “an”, “by”, “for” (for example, use “/apply-student-loan” instead of “/how-to-apply-for-a-canadian-student-loan”)
+    <li>use lowercase</li>
+    <li>use unilingual keywords, in the language of the page</li>
+    <li>use only US-ASCII (7-bit version of ASCII) characters (for example, use “meteo” instead of “météo”)</li>
+    <li>avoid duplicate keywords and apostrophes</li>
+    <li>avoid acronyms and abbreviations, unless they are better understood than the full version or perform better on search engines</li>
+</ul>
+<h3 id="du3b">Vanity URLs</h3>
+<p>A vanity URL is a short, easy-to-understand, URL that redirects to a page with a longer URL.</p>
+<p>When writing URLs for communication products (publications, brochures, etc.) or advertising campaigns (television, radio, print, etc.) you can use either the primary URL or a vanity URL. For example, the <b>canada.ca/pension-benefits</b> vanity URL redirects users to <a href="https://www.canada.ca/en/treasury-board-secretariat/topics/pension-benefits.html">https://www.canada.ca/en/treasury-board-secretariat/topics/pension-benefits.html</a</p>
+<p>Vanity URLs must:</p>
+    <ul>
+        <li>be easy to type and to communicate</li>
+        <li>only include 1 path segment (only a single slash) </li>
+        <li>hide the file extension for HTML-based pages (for example, “canada.ca/passport”, “canada.ca/weather”)</li>
+        <li>comply with the guidance in the <a href="du3a">How to write URLs section</a></li>
+    </ul>
+<p>If the URL will be spoken out loud (for example, in radio and television advertisements), you can also have another vanity URL without hyphens. This will make it easier to read out loud.</p>
+<p>Example – Television advertisement:</p>
+    <ul>
+        <li>vanity URL for print: canada.ca/employment-insurance-maternity</li>
+        <li>vanity URL for television or radio: canada.ca/employmentinsurancematernity (spoken “canada dot c a slash employment insurance maternity”)</li>
+    </ul>
+<p><b>Note</b>: Your account manager can submit new vanity URLs and change requests to the Principal Publisher using the Request form for Canada.ca.</p>
+<p>To find more information on vanity URLs visit:</p>
+    <ul>
+        <li><a href="https://www.gcpedia.gc.ca/wiki/Canada.ca_Vanity_URLs">Canada.ca Vanity URLs — GCpedia</a> (internal to government)</li>
+    </ul>
 </section>
