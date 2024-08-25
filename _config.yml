@@ -86,6 +86,9 @@
           "https://use.fontawesome.com/releases/v5.15.4/css/all.css",
           "/css/custom.css"
         ],
+        "js": [
+          "/js/url-swap.js"
+        ],
         "lang": "en",
         "layout": "default",
         "pageclass": "cnt-wdth-lmtd",
