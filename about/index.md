@@ -27,7 +27,7 @@ title: "About Canada.ca"
 </section>
 
 <div class="row">
-  <section class="col-md-8 pull-left gc-drmt">
+  <section class="col-md-12 gc-drmt">
     <h2>Designing and improving Canada.ca</h2>
     <div class="wb-eqht row">
       <div class="col-md-6">
