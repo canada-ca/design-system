@@ -5,6 +5,8 @@ dateModified: 2024-08-26
 description: "Canada.ca is the Government of Canada's digital presence."
 layout: "without-h1"
 title: "About Canada.ca"
+script:
+ - ../js/remove-main-container.js
 ---
 <h1 property="name headline" id="wb-cont" dir="ltr">About Canada.ca</h1>
 
@@ -42,7 +44,6 @@ title: "About Canada.ca"
           <p>Data on how people are interacting with the Government of Canada online.</p>
         </section>
       </div>
-      <div class="clearfix"></div>
       <div class="col-md-4">
         <section>
           <h3 class="h5"><a href="https://www.canada.ca/en/contact.html">Government of Canada contacts</a></h3>
