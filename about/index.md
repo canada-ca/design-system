@@ -10,13 +10,13 @@ script:
 ---
 <div class="container">
 <h1 property="name headline" id="wb-cont" dir="ltr">About Canada.ca</h1>
-
-<div class="row profile">
-  <div class="col-md-8">
-    <p>Canada.ca is the Government of Canada’s digital presence. The goal of this site is to make it easier for Canadians to find and understand Government of Canada information and services.</p>
+  <div class="row profile">
+    <div class="col-md-8">
+      <p>Canada.ca is the Government of Canada’s digital presence. The goal of this site is to make it easier for Canadians to find and understand Government of Canada information and services.</p>
+    </div>
   </div>
 </div>
-</div>
+
 <section class="gc-most-requested">
 	<div class="container">
 		<h2>Most requested</h2>
@@ -29,6 +29,7 @@ script:
 		</ul>
 	</div>
 </section>
+
 <div class="container">
 <div class="row">
   <section class="col-md-12 gc-drmt">
@@ -52,6 +53,6 @@ script:
           <p>Content and Information Architecture Specification, Content Style Guide, templates and design patterns, topic tree, institutions list, theme lead departments.</p>
         </section>
       </div>
-    </div>
-  </div>
+  </section>
+</div>
 </div>
