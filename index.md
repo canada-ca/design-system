@@ -1,39 +1,39 @@
 ---
 altLangPage: https://conception.canada.ca
 date: 2021-05-03
-dateModified: 2023-08-19
-description: "The Canada.ca design system holds the reusable styles, templates and patterns that make Government of Canada digital services more usable, consistent and trustworthy."
+dateModified: 2024-08-26
+description: "The Canada.ca design holds the reusable styles, templates and patterns that make Government of Canada digital services more usable, consistent and trustworthy."
 layout: "without-h1"
-title: "Canada.ca design system"
+title: "Canada.ca design"
 ---
-<h1 property="name" id="wb-cont" property="name headline" dir="ltr">Canada.ca design system</h1>
-<p>Use this design system to provide a more usable, consistent and trustworthy online experience for people who access Government of Canada digital services.</p>
+<h1 property="name" id="wb-cont" property="name headline" dir="ltr">Designing for Canada.ca </h1>
+<p>Mandatory elements for Canada.ca, writing principles, how to organize your content to make it easy to find, optimizing web content, evidence for and research on design choices.</p>
 <section>
   <div class="row">
     <section class="wb-eqht gc-drmt">
       <div class="col-md-4">
-        <h3 class="h5"><a href="{{ site.url }}/pattern-library.html">Template and design pattern library</a></h3>
-        <p>User-tested templates, page layouts, design patterns, guidelines, and code samples</p>
+        <h3 class="h5"><a href="{{ site.url }}/specifications.html">Canada.ca Specifications</a></h3>
+        <p>Who has to use the Canada.ca design, mandatory elements, design principles, information architecture and findability, templates and patterns</p>
       </div>
       <div class="col-md-4">
-        <h3 class="h5"><a href="{{ site.url }}/style-guide/">Canada.ca Content Style Guide</a></h3>
-        <p>Writing principles and techniques to make content clear and accessible to all</p>
+        <h3 class="h5"><a href="{{ site.url }}/continuous-improvement.html">Continuous improvement of web content</a></h3>
+        <p>Choosing what to improve, organizing and preparing your team, research and prototyping, designing content, monitoring and measuring success</p>
+      </div>
+       <div class="col-md-4">
+        <h3 class="h5"><a href="{{ site.urlblogca }}">Canada.ca blog</a></h3>
+        <p>Evidence and insights on improving information and services on Canada.ca</p>
       </div>
       <div class="col-md-4">
-        <h3 class="h5"><a href="{{ site.url }}/architecture/canada-content-information-architecture-specification.html">Canada.ca Content and Information Architecture Specification</a></h3>
-        <p>Who has to use the Canada.ca design system, mandatory elements, how to organize content and design principles</p>
+        <h3 class="h5"><a href="{{ site.url }}/research-summaries.html">Research summaries</a></h3>
+        <p>Research done to make it easier for people to find and understand Government of Canada information and services</p>
       </div>
       <div class="col-md-4">
         <h3 class="h5"><a href="{{ site.url }}/continuous-improvement.html">Continuous improvement of web content </a></h3>
         <p>Choosing what to improve, organizing and preparing your team, research and prototyping, designing content, monitoring and measuring success</p>
       </div>
       <div class="col-md-4">
-        <h3 class="h5"><a href="{{ site.urlblogca }}">Canada.ca blog</a></h3>
-        <p>Evidence and insights on improving information and services on Canada.ca</p>
-      </div>
-      <div class="col-md-4">
-        <h3 class="h5"><a href="{{ site.url }}/about/latest-changes.html">Latest changes to the Canada.ca design system</a></h3>
-        <p>Latest changes to the design system, templates and patterns, style guide and other tools</p>
+        <h3 class="h5"><a href="{{ site.url }}/about.html">About Canada.ca</a></h3>
+        <p>Most requested, analytics for Canada.ca, Government of Canada contacts</p>
       </div>
     </section>
   </div>
