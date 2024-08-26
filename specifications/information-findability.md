@@ -4,16 +4,15 @@ date: null
 dateModified: '2024-08-21'
 description: null
 layout: default
-section-title: "Designing for Canada.ca"
 title: Information architecture and findability
 breadcrumbs: [
           {
             "link": "https://design.canada.ca/",
-            "title": "Designing for Canada.ca"
+            "title": "Canada.ca design"
           },
           {
             "link": "https://design.canada.ca/specifications.html",
-            "title": "Canada.ca Specifications"
+            "title": "Specifications"
           }
         ]
 ---
