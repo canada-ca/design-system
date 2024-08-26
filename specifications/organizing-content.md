@@ -246,7 +246,6 @@ breadcrumbs: [
       </ul>
       <p><strong>Note</strong>: your account manager can submit new Canada.ca sub-domains and change requests to the Principal Publisher using the <a href="http://requestform.portal.gc.ca/tickets.html">Request form for Canada.ca</a>. Sub-domain requests are reviewed by Employment and Social Development Canada.</p>
     </section>
-  </section>
 </section>
 <h2 id="state">Content types and content states</h2>
 <h3>Content types</h3>
