@@ -42,7 +42,7 @@ breadcrumbs: [
     <div class="col-md-4">
      <section>
       <h3 class="h5">
-       <a href="../information-findability/metadata.html">
+       <a href="../specifications/information-findability/metadata.html">
         Metadata guidance
        </a>
       </h3>
