@@ -8,12 +8,14 @@ title: "About Canada.ca"
 script:
  - ../js/remove-main-container.js
 ---
+<div class="container">
 <h1 property="name headline" id="wb-cont" dir="ltr">About Canada.ca</h1>
 
 <div class="row profile">
   <div class="col-md-8">
     <p>Canada.ca is the Government of Canada’s digital presence. The goal of this site is to make it easier for Canadians to find and understand Government of Canada information and services.</p>
   </div>
+</div>
 </div>
 <section class="gc-most-requested">
 	<div class="container">
@@ -27,7 +29,7 @@ script:
 		</ul>
 	</div>
 </section>
-
+<div class="container">
 <div class="row">
   <section class="col-md-12 gc-drmt">
     <h2 class="wb-inv">Designing and improving Canada.ca</h2>
@@ -68,4 +70,5 @@ script:
       </div>
     </div>
   </section> -->
+</div>
 </div>
