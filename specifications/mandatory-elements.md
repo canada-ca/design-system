@@ -5,6 +5,16 @@ dateModified: 2024-08-26
 description: "Mandatory elements for all Government of Canada webpages."
 layout: default
 title: "Mandatory elements of the Canada.ca design"
+breadcrumbs: [
+            {
+            "link": "https://design.canada.ca/",
+            "title": "Canada.ca design"
+          },
+           {
+            "link": "https://design.canada.ca/specifications.html",
+            "title": "Specifications"
+          }
+        ]
 ---
 
 <p>Government of Canada web pages must be easily identifiable as part of Canada.ca. Each page must convey the overall brand and feel of Canada.ca, and provide a consistent experience for site visitors. </p>

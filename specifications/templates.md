@@ -4,6 +4,16 @@ date: 2017-10-05
 dateModified: 2024-08-26
 description: "Templates and design patterns of the Canada.ca design."
 title: "Designing content on Canada.ca"
+breadcrumbs: [
+            {
+            "link": "https://design.canada.ca/",
+            "title": "Canada.ca design"
+          },
+           {
+            "link": "https://design.canada.ca/specifications.html",
+            "title": "Specifications"
+          }
+        ]
 ---
 
 <section>

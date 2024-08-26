@@ -4,6 +4,16 @@ date: 2017-10-05
 dateModified: 2024-08-26
 description: "How to organize your content on Canada.ca"
 title: "Organizing content on Canada.ca"
+breadcrumbs: [
+            {
+            "link": "https://design.canada.ca/",
+            "title": "Canada.ca design"
+          },
+           {
+            "link": "https://design.canada.ca/specifications.html",
+            "title": "Specifications"
+          }
+        ]
 ---
   <section>
     <h2>On this page</h2>
