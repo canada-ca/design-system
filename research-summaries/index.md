@@ -29,3 +29,8 @@ title: "Research summaries"
   <li><a href="/research-summaries/weather-research-summary.html">Weather optimization</a></li>
   <li><a href="/research-summaries/diseases-research-summary.html">Diseases and immunization</a></li>
 </ul>
+<h2>Past projects with our partners</h2>
+<p>Learn about work we’ve done with other departments and organizations to improve task success on Canada.ca:</p>
+<ul>
+  <li><a href="./partners/">Working with partners</a></li>
+</ul>
