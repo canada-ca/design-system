@@ -5,16 +5,7 @@ dateModified: 2023-03-28
 description: "Templates and design patterns of the Canada.ca design system."
 title: "Designing content on Canada.ca"
 ---
-<div class="mrgn-tp-md mrgn-bttm-sm brdr-bttm">
-  <div class="row  mrgn-bttm-sm">
-    <ul class="toc lst-spcd col-md-12">
-      <li class="col-md-4"><a href="usage-canadaca-design.html" class="list-group-item">Who has to use this design system</a> </li>
-      <li class="col-md-4"><a href="mandatory-elements.html" class="list-group-item">Mandatory elements</a> </li>
-      <li class="col-md-4"><a href="organizing-content.html" class="list-group-item">Organizing content</a> </li>
-      <li class="col-md-4"><a href="templates.html" class="list-group-item cust-active active">Designing content</a> </li>
-    </ul>
-  </div>
-</div>
+
 <section>
   <p>The Canada.ca templates, page layouts and design patterns have been developed to support departments in designing web content that will help people complete their tasks.</p>
   <h2>On this page</h2>

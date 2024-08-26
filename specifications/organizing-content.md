@@ -1,21 +1,10 @@
 ---
-altLangPage: "https://conception.canada.ca/architecture/organiser-contenu.html"
+altLangPage: "https://conception.canada.ca/specifications/organiser-contenu.html"
 date: 2017-10-05
-dateModified: 2023-03-28
+dateModified: 2024-08-26
 description: "How to organize your content on Canada.ca"
 title: "Organizing content on Canada.ca"
 ---
-<div class="mrgn-tp-md mrgn-bttm-sm brdr-bttm">
-  <div class="row  mrgn-bttm-sm">
-    <ul class="toc lst-spcd col-md-12">
-      <li class="col-md-4"><a href="usage-canadaca-design.html" class="list-group-item">Who has to use this design system</a> </li>
-      <li class="col-md-4"><a href="mandatory-elements.html" class="list-group-item">Mandatory elements</a> </li>
-      <li class="col-md-4"><a href="organizing-content.html" class="list-group-item cust-active active">Organizing content</a> </li>
-      <li class="col-md-4"><a href="templates.html" class="list-group-item">Designing content</a> </li>
-    </ul>
-  </div>
-</div>
-<section>
   <section>
     <h2>On this page</h2>
     <ul>
@@ -109,10 +98,9 @@ title: "Organizing content on Canada.ca"
           <li>
             <details>
               <summary>Navigation</summary>
-              <p>This content must be accessible from either:</p>
+              <p>This content must be accessible from:</p>
               <ul>
-                <li>the “What we are doing” section of the topic page and the Institutional/Organizational profile</li>
-                <li>the "Corporate information" section of the Institutional/Organizational profile</li>
+                <li>the "About the institution" section of the Institutional/Organizational profile</li>
               </ul>
             </details>
           </li>
@@ -137,7 +125,7 @@ title: "Organizing content on Canada.ca"
           <li>
             <details>
               <summary>Navigation</summary>
-              <p>This content must be accessible from the “Corporate information” section of the Institutional/Organizational profile.</p>
+              <p>This content must be accessible from the “About the institution” section of the Institutional/Organizational profile.</p>
             </details>
           </li>
           <li>
@@ -162,7 +150,7 @@ title: "Organizing content on Canada.ca"
               <p>This content can be accessible from:</p>
               <ul>
                 <li>the “Latest news” section of the Institutional/Organizational profile</li>
-                <li>the Features on Institutional/Organizational profiles and topic pages</li>
+                <li>the “Context-specific features” on Institutional/Organizational profiles and topic pages</li>
                 <li>contextual promotions on relevant content pages</li>
               </ul>
             </details>
@@ -205,7 +193,7 @@ title: "Organizing content on Canada.ca"
         <p>This applies to all URLs, including vanity URLs and subdomains:</p>
         <ul>
           <li>use plain language keywords</li>
-          <li>avoid superfluous words such as “to”, “the”,  “a”, “an”, “by”, “for” (for example, “/apply-student-loan” instead of  “/how-to-apply-for-a-canadian-student-loan”</li>
+          <li>avoid superfluous words such as “to”, “the”,  “a”, “an”, “by”, “for” (for example, “/apply-student-loan” instead of  “/how-to-apply-for-a-canadian-student-loan”)</li>
           <li>separate keywords and path segments by hyphens</li>
           <li>use lowercase</li>
           <li>it is strongly recommended that you use unilingual keywords, in the  language of the page</li>
