@@ -68,7 +68,7 @@ title: Basic content page layout recommended template
  </p>
  <ul>
   <li>
-   <a href="{{ site.url }}/architecture/mandatory-elements.html">
+   <a href="{{ site.url }}/specifications/mandatory-elements.html">
     Mandatory elements of the design system
    </a>
   </li>

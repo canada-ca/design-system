@@ -68,7 +68,7 @@ title: Date modified
    <p>
     The Date modified pattern is mandatory on all pages. In applications, it can be replaced by a version number. For
 		more information, go to the
-    <a href="{{ site.url }}/architecture/mandatory-elements.html#header-footer">
+    <a href="{{ site.url }}/specifications/mandatory-elements.html#header-footer">
      Mandatory
 			elements of the design system</a>.
    </p>

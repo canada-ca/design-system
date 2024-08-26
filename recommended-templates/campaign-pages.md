@@ -8,7 +8,7 @@ title: 'Campaign pages template'
 
 
 <div>
- 
+
  <section>
   <p class="speakable-what-is-campaign">
    Campaign pages are time-limited, promotional pages that respond to the Government of Canada’s desire to communicate, educate, influence, market, raise awareness and call to action.
@@ -125,14 +125,14 @@ title: 'Campaign pages template'
      WET
     </abbr>
     components to the greatest extent possible to ensure accessibility. Make sure your page follows the
-    <a href="{{ site.url }}/architecture/mandatory-elements.html">
+    <a href="{{ site.url }}/specifications/mandatory-elements.html">
      Mandatory elements of the design system
     </a>
     .
    </li>
    <li>
     You can use a reduced version of the
-    <a href="{{ site.url }}/architecture/mandatory-elements.html#header-footer">
+    <a href="{{ site.url }}/specifications/mandatory-elements.html#header-footer">
      header and footer
     </a>
     when there is a need to not use global navigation

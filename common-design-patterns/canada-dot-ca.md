@@ -80,7 +80,7 @@ title: Canada.ca domain design pattern
   </h2>
   <p>
    For details on writing Canada.ca URLs, go to
-   <a href="{{ site.url }}/architecture/organizing-content.html#toc3">
+   <a href="{{ site.url }}/specifications/organizing-content.html#toc3">
     URL model
    </a>
    .

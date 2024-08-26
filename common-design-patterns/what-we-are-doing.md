@@ -8,7 +8,7 @@ title: What we are doing design pattern
 
 
 <div>
- 
+
  <section>
   <p>
    What we are doing is a pattern that presents links to content that provides background or explanations of
@@ -24,7 +24,7 @@ title: What we are doing design pattern
    <ul>
     <li>
      Use this pattern to provide relevant links to content that falls within the
-     <a href="{{ site.url }}/architecture/organizing-content.html#program">
+     <a href="{{ site.url }}/specifications/organizing-content.html#program">
       program and policy development
      </a>
      user-need category

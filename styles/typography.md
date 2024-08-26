@@ -7,7 +7,7 @@ title: Typography style
 ---
 <p><span class="label label-danger">Mandatory</span></p>
 <p>The typography guidance is mandatory on all pages.</p>
-<p><a href="{{ site.url }}/architecture/mandatory-elements.html"> Mandatory elements of the design system</a></p>
+<p><a href="{{ site.url }}/specifications/mandatory-elements.html"> Mandatory elements of the design system</a></p>
 <p>Fonts must be consistent across Canada.ca pages, and should be easily readable across devices. Use a combination of Lato for headings, and Noto sans for body text.</p>
 <h2> Desktop and tablet default font specification</h2>
 <ul>

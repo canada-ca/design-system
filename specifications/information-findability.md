@@ -31,7 +31,7 @@ breadcrumbs: [
     <div class="col-md-4">
      <section>
       <h3 class="h5">
-       <a href="../architecture/organizing-content.html">
+       <a href="../specifications/organizing-content.html">
         Organizing content
        </a>
       </h3>

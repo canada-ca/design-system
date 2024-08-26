@@ -8,7 +8,7 @@ title: 'Collection landing pages template'
 
 
 <div>
- 
+
  <section>
   <p>
    Collections are aggregations of common content produced by all or most Government of Canada institutions:
@@ -19,7 +19,7 @@ title: 'Collection landing pages template'
   <ul>
    <li>
     provide a single location for people to navigate an aggregation of related content types (see section on
-    <a href="{{ site.url }}/architecture/content-types.html">
+    <a href="{{ site.url }}/specifications/content-types.html">
      Canada.ca content types
     </a>
     )
