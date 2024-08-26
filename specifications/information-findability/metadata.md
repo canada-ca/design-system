@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/"
+altLangPage: "https://conception.canada.ca/specifications/information-trouvabilite/metadonnees.html"
 date: 2024-02-23
 dateModified: 2024-07-02
 description: "Metadata guidance to improve search findability for Canada.ca web pages"
