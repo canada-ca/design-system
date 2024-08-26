@@ -1,15 +1,14 @@
 ---
-altLangPage: "https://conception.canada.ca/a-propos/"
+altLangPage: "https://conception.canada.ca/a-propos.html"
 date: 2017-10-05
-dateModified: 2023-03-28
+dateModified: 2024-08-26
 description: "Canada.ca is the Government of Canada's digital presence."
-layout: without-h1
 title: "About Canada.ca"
 ---
 <h1 property="name headline" id="wb-cont" dir="ltr">About Canada.ca</h1>
 <div class="row profile">
   <div class="col-md-8">
-    <p>Canada.ca is the Government of Canada's digital presence. The goal of this site is to make it easier for Canadians to find and understand Government of Canada information and services.</p>
+    <p>Canada.ca is the Government of Canada’s digital presence. The goal of this site is to make it easier for Canadians to find and understand Government of Canada information and services.</p>
   </div>
 </div>
 <div class="row">
@@ -17,10 +16,10 @@ title: "About Canada.ca"
     <section class="lnkbx">
       <h2>Most requested</h2>
       <ul>
-        <li><a href="{{ site.url }}/pattern-library.html">Template and pattern library for Canada.ca</a></li>
+        <li><a href="">Page analytics tool</a></li>
         <li><a href="{{ site.url }}/about/top-tasks-for-canada-ca.html">Top tasks for Canada.ca</a></li>
-        <li><a href="{{ site.url }}/architecture/canada-content-information-architecture-specification.html">Content and Information Architecture Specification</a></li>
-        <li><a href="{{ site.url }}/style-guide/">Content Style Guide</a></li>
+        <li><a href=""></a></li>
+        <li><a href="{{ site.url }}/pattern-library.html">Template and pattern library for Canada.ca</a></li>
       </ul>
     </section>
   </div>
