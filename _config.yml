@@ -98,10 +98,7 @@
         "path": "/*.md"
       },
       "values": {
-        "breadcrumbs": [{
-            "link": "https://design.canada.ca/about/",
-            "title": "About Canada.ca"
-          },
+        "breadcrumbs": [
           {
             "link": "https://design.canada.ca/",
             "title": "Canada.ca design"
@@ -115,10 +112,6 @@
       },
       "values": {
         "breadcrumbs": [{
-            "link": "https://design.canada.ca/about/",
-            "title": "About Canada.ca"
-          },
-          {
             "link": "https://design.canada.ca/",
             "title": "Canada.ca design"
           },
@@ -139,10 +132,6 @@
       },
       "values": {
         "breadcrumbs": [{
-            "title": "About Canada.ca",
-            "link": "https://design.canada.ca/about/"
-          },
-          {
             "title": "Analytics and feedback",
             "link": "https://www.canada.ca/en/analytics.html"
           },
@@ -159,10 +148,6 @@
       },
       "values": {
         "breadcrumbs": [{
-            "title": "About Canada.ca",
-            "link": "https://design.canada.ca/about/"
-          },
-          {
             "title": "Canada.ca design",
             "link": "https://design.canada.ca/"
           },
@@ -179,10 +164,6 @@
       },
       "values": {
         "breadcrumbs": [{
-            "title": "About Canada.ca",
-            "link": "https://design.canada.ca/about/"
-          },
-          {
             "title": "Canada.ca design",
             "link": "https://design.canada.ca/"
           },
@@ -199,10 +180,6 @@
       },
       "values": {
         "breadcrumbs": [{
-            "title": "About Canada.ca",
-            "link": "https://design.canada.ca/about/"
-          },
-          {
             "title": "Canada.ca design",
             "link": "https://design.canada.ca/"
           },
@@ -224,10 +201,6 @@
       },
       "values": {
         "breadcrumbs": [{
-            "title": "About Canada.ca",
-            "link": "https://design.canada.ca/about/"
-          },
-          {
             "title": "Canada.ca design",
             "link": "https://design.canada.ca/"
           },
@@ -249,10 +222,6 @@
       },
       "values": {
         "breadcrumbs": [{
-            "link": "https://design.canada.ca/about/",
-            "title": "About Canada.ca"
-          },
-          {
             "link": "https://design.canada.ca/",
             "title": "Canada.ca design"
           },
@@ -269,10 +238,6 @@
       },
       "values": {
         "breadcrumbs": [{
-            "link": "https://design.canada.ca/about/",
-            "title": "About Canada.ca"
-          },
-          {
             "link": "https://design.canada.ca/",
             "title": "Canada.ca design"
           },
@@ -289,10 +254,6 @@
       },
       "values": {
         "breadcrumbs": [{
-            "link": "https://design.canada.ca/about/",
-            "title": "About Canada.ca"
-          },
-          {
             "link": "https://design.canada.ca/",
             "title": "Canada.ca design"
           }
@@ -305,10 +266,6 @@
       },
       "values": {
         "breadcrumbs": [{
-            "link": "https://design.canada.ca/about/",
-            "title": "About Canada.ca"
-          },
-          {
             "link": "https://design.canada.ca/",
             "title": "Canada.ca design"
           },
@@ -325,10 +282,6 @@
       },
       "values": {
         "breadcrumbs": [{
-            "title": "About Canada.ca",
-            "link": "https://design.canada.ca/about/"
-          },
-          {
             "title": "Analytics and feedback",
             "link": "https://www.canada.ca/en/analytics.html"
           },
@@ -345,10 +298,6 @@
       },
       "values": {
         "breadcrumbs": [{
-            "link": "https://design.canada.ca/about/",
-            "title": "About Canada.ca"
-          },
-          {
             "link": "https://design.canada.ca/",
             "title": "Canada.ca design"
           }
@@ -361,10 +310,6 @@
       },
       "values": {
         "breadcrumbs": [{
-            "link": "https://design.canada.ca/about/",
-            "title": "About Canada.ca"
-          },
-          {
             "link": "https://design.canada.ca/",
             "title": "Canada.ca design"
           },
@@ -381,10 +326,6 @@
       },
       "values": {
         "breadcrumbs": [{
-            "link": "https://design.canada.ca/about/",
-            "title": "About Canada.ca"
-          },
-          {
             "link": "https://design.canada.ca/",
             "title": "Canada.ca design"
           },
@@ -401,10 +342,6 @@
       },
       "values": {
         "breadcrumbs": [{
-            "link": "https://design.canada.ca/about/",
-            "title": "About Canada.ca"
-          },
-          {
             "link": "https://design.canada.ca/",
             "title": "Canada.ca design"
           },
@@ -421,10 +358,6 @@
       },
       "values": {
         "breadcrumbs": [{
-            "link": "https://design.canada.ca/about/",
-            "title": "About Canada.ca"
-          },
-          {
             "link": "https://design.canada.ca/",
             "title": "Canada.ca design"
           },
@@ -441,10 +374,6 @@
       },
       "values": {
         "breadcrumbs": [{
-            "title": "About Canada.ca",
-            "link": "https://design.canada.ca/about/"
-          },
-          {
             "title": "Canada.ca design",
             "link": "https://design.canada.ca/"
           },
@@ -461,10 +390,6 @@
       },
       "values": {
         "breadcrumbs": [{
-            "title": "About Canada.ca",
-            "link": "https://design.canada.ca/about/"
-          },
-          {
             "title": "Canada.ca design",
             "link": "https://design.canada.ca/"
           }
@@ -477,10 +402,6 @@
       },
       "values": {
         "breadcrumbs": [{
-            "title": "About Canada.ca",
-            "link": "https://design.canada.ca/about/"
-          },
-          {
             "link": "https://design.canada.ca/",
             "title": "Canada.ca design"
           }
@@ -512,10 +433,6 @@
       },
       "values": {
         "breadcrumbs": [{
-            "title": "About Canada.ca",
-            "link": "https://design.canada.ca/about/"
-          },
-          {
             "title": "Canada.ca design",
             "link": "https://design.canada.ca/"
           },
@@ -533,10 +450,6 @@
       "values": {
         "section-title": "Research summary",
         "breadcrumbs": [{
-            "title": "About Canada.ca",
-            "link": "https://design.canada.ca/about/"
-          },
-          {
             "title": "Research summaries",
             "link": "https://design.canada.ca/research-summaries/"
           }
@@ -590,10 +503,6 @@
       },
       "values": {
         "breadcrumbs": [{
-            "title": "About Canada.ca",
-            "link": "https://design.canada.ca/about/"
-          },
-          {
             "title": "Canada.ca design",
             "link": "https://design.canada.ca/"
           }
@@ -606,10 +515,6 @@
       },
       "values": {
         "breadcrumbs": [{
-            "title": "About Canada.ca",
-            "link": "https://design.canada.ca/about/"
-          },
-          {
             "title": "Canada.ca design",
             "link": "https://design.canada.ca/"
           },
@@ -620,16 +525,16 @@
         ]
       }
     },
-    {
-      "scope": {
-        "path": "index.md"
-      },
-      "values": {
-        "breadcrumbs": [{
-          "title": "About Canada.ca",
-          "link": "https://design.canada.ca/about/"
-        }]
-      }
-    }
+    # {
+    #   "scope": {
+    #     "path": "index.md"
+    #   },
+    #   "values": {
+    #     "breadcrumbs": [{
+    #       "title": "About Canada.ca",
+    #       "link": "https://design.canada.ca/about/"
+    #     }]
+    #   }
+    # }
   ]
 }
