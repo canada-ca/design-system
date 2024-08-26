@@ -37,7 +37,7 @@ script:
     <div class="wb-eqht row">
       <div class="col-md-4">
         <section>
-          <h3 class="h5"><a href="./index.html">Designing for Canada.ca</a></h3>
+          <h3 class="h5"><a href="../index.html">Designing for Canada.ca</a></h3>
           <p>Canada.ca Specifications, content style guide, information architecture and findability, continuous improvement, blog and research summaries</p>
         </section>
       </div>
