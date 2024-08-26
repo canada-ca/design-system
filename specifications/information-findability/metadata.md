@@ -6,7 +6,10 @@ description: "Metadata guidance to improve search findability for Canada.ca web 
 keywords: "metadata, what is metadata, keywords, keyword research, findability"
 section-title: "Canada.ca design"
 title: "Improving titles and metadata for findability"
-breadcrumbs: [
+breadcrumbs: [{
+            "link": "https://design.canada.ca/about/",
+            "title": "About Canada.ca"
+          },
             {
             "link": "https://design.canada.ca/",
             "title": "Canada.ca design"

@@ -5,7 +5,10 @@ dateModified: 2024-08-26
 description: "Mandatory elements for all Government of Canada webpages."
 layout: default
 title: "Mandatory elements of the Canada.ca design"
-breadcrumbs: [
+breadcrumbs: [{
+            "link": "https://design.canada.ca/about/",
+            "title": "About Canada.ca"
+          },
             {
             "link": "https://design.canada.ca/",
             "title": "Canada.ca design"
