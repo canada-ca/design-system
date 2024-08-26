@@ -69,7 +69,7 @@ breadcrumbs: [
         </ul>
     </li>
 </ul>
-<p><b>Note</b>: Sub-domain requests are reviewed by Service Canada. Your web account manager can submit new Canada.ca sub-domains and change requests to the Principal Publisher using the <a href="http://requestform.portal.gc.ca/tickets.html">Request form for Canada.ca</a>.</p>
+<p><b>Note</b>: Sub-domain requests are reviewed by Service Canada. Your web account manager can submit new Canada.ca sub-domains and change requests to the Principal Publisher using the <a href="http://requestform.portal.gc.ca/tickets.html">Request form for Canada.ca (internal to government)</a>.</p>
 </section>
 <section id="du2">
 <h2>Providing equal treatment to both official languages</h2>
@@ -116,6 +116,6 @@ breadcrumbs: [
 <p><b>Note</b>: Your account manager can submit new vanity URLs and change requests to the Principal Publisher using the <a href="http://requestform.portal.gc.ca/tickets.html">Request form for Canada.ca</a>.</p>
 <p>To find more information on vanity URLs visit:</p>
     <ul>
-        <li><a href="https://www.gcpedia.gc.ca/wiki/Canada.ca_Vanity_URLs">Canada.ca Vanity URLs — GCpedia</a> (internal to government)</li>
+        <li><a href="https://www.gcpedia.gc.ca/wiki/Canada.ca_Vanity_URLs">Canada.ca Vanity URLs — GCpedia (internal to government)</a></li>
     </ul>
 </section>
