@@ -28,10 +28,6 @@ title: "Canada.ca design"
         <p>Research done to make it easier for people to find and understand Government of Canada information and services</p>
       </div>
       <div class="col-md-4">
-        <h3 class="h5"><a href="{{ site.url }}/continuous-improvement.html">Continuous improvement of web content </a></h3>
-        <p>Choosing what to improve, organizing and preparing your team, research and prototyping, designing content, monitoring and measuring success</p>
-      </div>
-      <div class="col-md-4">
         <h3 class="h5"><a href="{{ site.url }}/about.html">About Canada.ca</a></h3>
         <p>Most requested, analytics for Canada.ca, Government of Canada contacts</p>
       </div>
