@@ -61,8 +61,10 @@ breadcrumbs: [
     <li>follow the guidance in the <a href="#du3a">How to write URLs section</a>
         <ul>
         <li><b>Examples</b>:
+          <ul>
             <li>accessible.canada.ca</li>
             <li>inspection.canada.ca</li>
+          </ul>
         </li>
         </ul>
     </li>
