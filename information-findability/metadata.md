@@ -4,16 +4,16 @@ date: 2024-02-23
 dateModified: 2024-07-02
 description: "Metadata guidance to improve search findability for Canada.ca web pages"
 keywords: "metadata, what is metadata, keywords, keyword research, findability"
-section-title: "Information architecture and findability"
+section-title: "Canada.ca design"
 title: "Improving titles and metadata for findability"
 breadcrumbs: [
             {
             "link": "https://design.canada.ca/",
-            "title": "Designing for Canada.ca"
+            "title": "Canada.ca design"
           },
            {
             "link": "https://design.canada.ca/specifications.html",
-            "title": "Canada.ca Specifications"
+            "title": "Specifications"
           }
         ]
 ---
