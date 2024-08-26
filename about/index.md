@@ -46,7 +46,6 @@ title: "About Canada.ca"
           <p>Content and Information Architecture Specification, Content Style Guide, templates and design patterns, topic tree, institutions list, theme lead departments.</p>
         </section>
       </div>
-  </section>
   <!-- <div class="clearfix"></div>
   <section class="col-md-8 pull-left gc-drmt">
     <h2>Connect with us</h2>
