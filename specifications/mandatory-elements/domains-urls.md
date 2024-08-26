@@ -77,7 +77,7 @@ breadcrumbs: [
 <p>You can meet official language requirements for domains and sub-domains by implementing at least one of the following options.</p>
 <h3>Equivalent unilingual names</h3>
 <p>You can implement equivalent unilingual names for each official language. For example, <b>youth.canada.ca</b> for English and <b>jeunesse.canada.ca</b> for French.</p>
-<p>Unilingual domain names must resolve to the home page of the website in that language. For example, <a href="http://www.health.canada.ca">health.canada.ca</a> resolves to the English home page, and <a href="http://www.sante.canada.ca">sante.canada.ca</a> resolves to the French home page.</p>
+<p>Unilingual domain names must resolve to the home page of the website in that language. For example, <a href="http://health.canada.ca">health.canada.ca</a> resolves to the English home page, and <a href="http://sante.canada.ca">sante.canada.ca</a> resolves to the French home page.</p>
 <h3>Bilingual monomial names</h3>
 <p>You can use bilingual monomial names (understood in both languages) or compound terms that accurately represent the website’s primary purpose in both official languages. For example, <a href="http://www.agriculture.canada.ca">agriculture.canada.ca</a> or <a href="http://www.tc.canada.ca">tc.canada.ca</a>.</p>
 <p>Bilingual names resolve to the splash page of the website <b>except where the language preference is known</b>, where they instead resolve to the home page in the corresponding language. For example <a href="https://international.canada.ca/">international.canada.ca</a> will resolve to a splash page unless the language preference is known.</p>
