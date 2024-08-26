@@ -62,7 +62,7 @@ breadcrumbs: [
         <ul>
         <li><b>Examples</b>:
           <ul>
-            <li>accessible.canada.ca</li>
+            <li>library-archives.canada.ca</li>
             <li>inspection.canada.ca</li>
           </ul>
         </li>
