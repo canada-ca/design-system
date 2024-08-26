@@ -11,62 +11,44 @@ title: "About Canada.ca"
     <p>Canada.ca is the Government of Canada’s digital presence. The goal of this site is to make it easier for Canadians to find and understand Government of Canada information and services.</p>
   </div>
 </div>
-<div class="row">
-  <div class="col-md-4 col-xs-12 pull-right">
-    <section class="lnkbx">
-      <h2>Most requested</h2>
-      <ul>
-        <li><a href="">Page analytics tool</a></li>
+<section class="gc-most-requested">
+	<div class="container">
+		<h2>Most requested</h2>
+		<ul>
+	     <li><a href="https://performance.alpha.canada.ca/">Page analytics tool</a></li>
         <li><a href="{{ site.url }}/about/top-tasks-for-canada-ca.html">Top tasks for Canada.ca</a></li>
-        <li><a href=""></a></li>
+        <li><a href="https://www.canada.ca/en/analytics/recent-activity.html">Recent activity on Canada.ca</a></li>
+        <li><a href="{{ site.url }}/specifications.html">Canada.ca specifications</a></li>
         <li><a href="{{ site.url }}/pattern-library.html">Template and pattern library for Canada.ca</a></li>
-      </ul>
-    </section>
-  </div>
+		</ul>
+	</div>
+</section>
+
+<div class="row">
   <section class="col-md-8 pull-left gc-drmt">
     <h2>Designing and improving Canada.ca</h2>
     <div class="wb-eqht row">
       <div class="col-md-6">
         <section>
-          <h3 class="h5"><a href="{{ site.url }}/about/latest-changes.html">Design updates</a></h3>
-          <p>Changes to the design of Canada.ca to continuously improve in response to user needs.</p>
+          <h3 class="h5"><a href="./index.html">Designing for Canada.ca</a></h3>
+          <p>Canada.ca Specifications, content style guide, information architecture and findability, continuous improvement, blog and research summaries</p>
         </section>
       </div>
       <div class="col-md-6">
         <section>
-          <h3 class="h5"><a href="{{ site.url }}/partners/">Working with partners</a></h3>
-          <p>Projects the Digital Transformation Office is working on with departmental partners to improve task success on Canada.ca.</p>
-        </section>
-      </div>
-      <div class="clearfix"></div>
-      <div class="col-md-6">
-        <section>
-          <h3 class="h5"><a href="{{ site.urlblogca }}">Canada.ca blog</a></h3>
-          <p>Evidence and insights on improving information and services on Canada.ca. </p>
-        </section>
-      </div>
-      <div class="col-md-6">
-        <section>
-          <h3 class="h5"><a href="{{ site.url }}/">Canada.ca design system</a></h3>
-          <p>Content and Information Architecture Specification, Content Style Guide, templates and design patterns, topic tree, institutions list, theme lead departments.</p>
-        </section>
-      </div>
-      <div class="clearfix"></div>
-      <div class="col-md-6">
-        <section>
-          <h3 class="h5"><a href="{{ site.urlcanadaca }}/en/government/about/secure-digital-services.html">Secure digital services</a></h3>
-          <p>Learn how the government is working to provide Canadians safe and secure access to its services and information.</p>
-        </section>
-      </div>
-      <div class="col-md-6">
-        <section>
-          <h3 class="h5"><a href="{{ site.urlcanadaca }}/en/analytics.html">Canada.ca analytics</a></h3>
+          <h3 class="h5"><a href="https://www.canada.ca/en/analytics.html">Canada.ca analytics</a></h3>
           <p>Data on how people are interacting with the Government of Canada online.</p>
         </section>
       </div>
-    </div>
+      <div class="clearfix"></div>
+      <div class="col-md-6">
+        <section>
+          <h3 class="h5"><a href="https://www.canada.ca/en/contact.html">Government of Canada contacts</a></h3>
+          <p>Content and Information Architecture Specification, Content Style Guide, templates and design patterns, topic tree, institutions list, theme lead departments.</p>
+        </section>
+      </div>
   </section>
-  <div class="clearfix"></div>
+  <!-- <div class="clearfix"></div>
   <section class="col-md-8 pull-left gc-drmt">
     <h2>Connect with us</h2>
     <div class="wb-eqht row">
@@ -83,5 +65,5 @@ title: "About Canada.ca"
         </section>
       </div>
     </div>
-  </section>
+  </section> -->
 </div>
