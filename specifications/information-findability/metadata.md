@@ -14,6 +14,10 @@ breadcrumbs: [
            {
             "link": "https://design.canada.ca/specifications.html",
             "title": "Specifications"
+          },
+           {
+            "link": "https://design.canada.ca/specifications/information-findability.html",
+            "title": "IA and findability"
           }
         ]
 ---
