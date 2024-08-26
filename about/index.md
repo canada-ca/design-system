@@ -30,20 +30,20 @@ title: "About Canada.ca"
   <section class="col-md-12 gc-drmt">
     <h2>Designing and improving Canada.ca</h2>
     <div class="wb-eqht row">
-      <div class="col-md-6">
+      <div class="col-md-4">
         <section>
           <h3 class="h5"><a href="./index.html">Designing for Canada.ca</a></h3>
           <p>Canada.ca Specifications, content style guide, information architecture and findability, continuous improvement, blog and research summaries</p>
         </section>
       </div>
-      <div class="col-md-6">
+      <div class="col-md-4">
         <section>
           <h3 class="h5"><a href="https://www.canada.ca/en/analytics.html">Canada.ca analytics</a></h3>
           <p>Data on how people are interacting with the Government of Canada online.</p>
         </section>
       </div>
       <div class="clearfix"></div>
-      <div class="col-md-6">
+      <div class="col-md-4">
         <section>
           <h3 class="h5"><a href="https://www.canada.ca/en/contact.html">Government of Canada contacts</a></h3>
           <p>Content and Information Architecture Specification, Content Style Guide, templates and design patterns, topic tree, institutions list, theme lead departments.</p>
