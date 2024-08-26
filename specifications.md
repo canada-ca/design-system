@@ -9,7 +9,7 @@ title: Canada.ca Specifications
 breadcrumbs: [
             {
             "link": "https://design.canada.ca/",
-            "title": "Designing for Canada.ca"
+            "title": "Canada.ca design"
           }
         ]
 ---
