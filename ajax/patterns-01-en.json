@@ -588,7 +588,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"{{ site.url }}/specifications/templates.html#principles\">Design principles</a>",
+    "NAME": "<a href=\"{{ site.url }}/specifications/design-content.html#principles\">Design principles</a>",
     "SOURCE": "Content and Information Architecture Specification",
     "DESCRIPTION": "Design principles of Canada.ca",
     "WHENTOUSE": "Design principles of Canada.ca",

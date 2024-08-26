@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/specifications/modeles.html"
+altLangPage: "https://conception.canada.ca/specifications/concevoir-contenu.html"
 date: 2017-10-05
 dateModified: 2024-08-26
 description: "Templates and design patterns of the Canada.ca design."

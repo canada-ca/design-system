@@ -74,7 +74,7 @@ breadcrumbs: [
     <div class="col-md-4">
      <section>
       <h3 class="h5">
-       <a href="./specifications/templates.html">
+       <a href="./specifications/design-content.html">
         Designing content for Canada.ca
        </a>
       </h3>
