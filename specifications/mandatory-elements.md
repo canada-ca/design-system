@@ -11,7 +11,7 @@ breadcrumbs: [{
           },
             {
             "link": "https://design.canada.ca/",
-            "title": "Canada.ca design"
+            "title": "Design"
           },
            {
             "link": "https://design.canada.ca/specifications.html",
