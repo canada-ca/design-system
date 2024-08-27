@@ -588,10 +588,10 @@
     "MANDATORY": "",
     "TANDP": "0"
   },{
-    "NAME": "<a href=\"{{ site.url }}/specifications/mandatory-elements/domains-urls\">URL model</a>",
-    "SOURCE": "Canada.ca Specifications",
-    "DESCRIPTION": "Canada.ca URL model",
-    "WHENTOUSE": "Canada.ca URL model",
+    "NAME": "<a href=\"{{ site.url }}/specifications/mandatory-elements/domains-urls\">Domains and URLs</a>",
+    "SOURCE": "Mandatory elements",
+    "DESCRIPTION": "Government of Canada domains and URLs",
+    "WHENTOUSE": "Government of Canada domains and URLs",
     "CATEGORY": "",
     "TYPE": "",
     "MANDATORY": "",
