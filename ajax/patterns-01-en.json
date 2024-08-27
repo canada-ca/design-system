@@ -561,7 +561,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"{{ site.url }}/specifications/organizing-content.html#toc1\">User navigation</a>",
+    "NAME": "<a href=\"{{ site.url }}/specifications/information-findability/organizing-content.html#toc1\">User navigation</a>",
     "SOURCE": "Content and Information Architecture Specification",
     "DESCRIPTION": "How people find tasks on Canada.ca",
     "WHENTOUSE": "How people find tasks on Canada.ca",
@@ -570,7 +570,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"{{ site.url }}/specifications/organizing-content.html#user\">User-need categories for destination content</a>",
+    "NAME": "<a href=\"{{ site.url }}/specifications/information-findability/organizing-content.html#user\">User-need categories for destination content</a>",
     "SOURCE": "Content and Information Architecture Specification",
     "DESCRIPTION": "How people find tasks on Canada.ca",
     "WHENTOUSE": "How people find tasks on Canada.ca",
@@ -579,7 +579,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"{{ site.url }}/specifications/organizing-content.html#toc3\">URL model</a>",
+    "NAME": "<a href=\"{{ site.url }}/specifications/information-findability/organizing-content.html#toc3\">URL model</a>",
     "SOURCE": "Content and Information Architecture Specification",
     "DESCRIPTION": "Canada.ca URL model",
     "WHENTOUSE": "Canada.ca URL model",

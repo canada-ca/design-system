@@ -1,8 +1,9 @@
 ---
-altLangPage: "https://conception.canada.ca/specifications/organiser-contenu.html"
+altLangPage: "https://conception.canada.ca/specifications/information-trouvabilite/organiser-contenu.html"
 date: 2017-10-05
 dateModified: 2024-08-26
 description: "How to organize your content on Canada.ca"
+section-title: "IA and findability"
 title: "Organizing content on Canada.ca"
 breadcrumbs: [{
             "link": "https://design.canada.ca/about/",
@@ -15,6 +16,10 @@ breadcrumbs: [{
            {
             "link": "https://design.canada.ca/specifications.html",
             "title": "Specifications"
+          },
+            {
+            "link": "https://design.canada.ca/specifications/information-findability.html",
+            "title": "IA and findability"
           }
         ]
 ---
@@ -39,7 +44,7 @@ breadcrumbs: [{
     <p>See where your content fits under themes and their corresponding topics in the <a href="https://www.canada.ca/en/government/about/design-system/topic-tree-content-types.html#tree">Canada.ca Topic tree</a>.</p>
     <figure class="mrgn-bttm-lg">
       <figcaption class="text-center"><b>Navigation conceptual overview</b></figcaption>
-      <img src="./images/conceptual-overview-eng.png" class="img-responsive center-block" alt="Diagram of user navigation conceptual overview. Text version below:">
+      <img src="../images/conceptual-overview-eng.png" class="img-responsive center-block" alt="Diagram of user navigation conceptual overview. Text version below:">
       <details>
         <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Text version</summary>
         <p>People who may not understand the operations or organization of the Government of Canada (GC) may access content through theme navigation. Theme pages organize topics in a way that people understand so they can find content that supports their tasks quickly. Theme pages link to topic pages and/or destination content. Topic pages allow people to discover top-task content related to a specific GC-wide topic. They also link to destination content.
@@ -200,55 +205,10 @@ breadcrumbs: [{
         </ul>
       </section>
       <h2 id="toc3">URL model</h2>
-      <p>Each web page has a primary URL, displayed in the browser’s address bar. All other URLs referring to the web page resolve to the primary URL. This applies to URL aliases, vanity URLs, redirected URLs or any other non-primary URL.</p>
-      <section>
-        <h3>How to write URLs</h3>
-        <p>This applies to all URLs, including vanity URLs and subdomains:</p>
-        <ul>
-          <li>use plain language keywords</li>
-          <li>avoid superfluous words such as “to”, “the”,  “a”, “an”, “by”, “for” (for example, “/apply-student-loan” instead of  “/how-to-apply-for-a-canadian-student-loan”)</li>
-          <li>separate keywords and path segments by hyphens</li>
-          <li>use lowercase</li>
-          <li>it is strongly recommended that you use unilingual keywords, in the  language of the page</li>
-          <li>use only US-ASCII (7-bit version of ASCII)  characters (for example, “meteo” instead of “météo”)</li>
-          <li>avoid duplicate keywords and apostrophes</li>
-          <li>avoid acronyms and abbreviations, unless they are better understood than the full version or perform better on search engines </li>
-        </ul>
-      </section>
-      <section>
-        <h3>Writing URLs for communications products</h3>
-        <p>When writing URLs for communication products, you can use either the primary URL or a vanity URL.</p>
-        <p>Vanity URLs must:</p>
-        <ul>
-          <li>be easy to type and to communicate</li>
-          <li>only include 1 path segment (only a  single slash) </li>
-          <li>hide the file extension for HTML-based pages (for example, “canada.ca/passport”, “canada.ca/weather”) </li>
-        </ul>
-        <p>If the URL will be spoken out loud (for example, in radio and television advertisements), you can also have another vanity URL without hyphens. This will make it easier to read out loud.</p>
-        <p>Example – Television advertisement:</p>
-        <ul>
-          <li>vanity URL for print:  canada.ca/employment-insurance-maternity </li>
-          <li>vanity URL for television or radio:  canada.ca/employmentinsurancematernity (spoken “canada dot c a slash employment  insurance maternity”) </li>
-        </ul>
-        <p><strong>Note</strong>: your account manager can submit new vanity URLs and change requests to the Principal Publisher using the <a href="http://requestform.portal.gc.ca/tickets.html">Request form for Canada.ca</a>. </p>
-      </section>
-      <h3>Sub-domains</h3>
-      <p>Only use subdomains for content or services hosted outside the Managed Web Service.</p>
-      <p>When choosing a subdomain:</p>
+      <p>For information on the URL model, domain requirements and sub-domains, visit:</p>
       <ul>
-        <li>use plain language keywords that make sense to the user</li>
-        <li>a maximum of 2 keywords is recommended</li>
-        <li>it is strongly recommended that you use unilingual keywords, in the  language of the page</li>
-        <li>related sub-sites and digital services must  be grouped under the same sub-domain, where possible
-          <p class="mrgn-tp-md"><strong>Examples:</strong></p>
-          <ul>
-            <li>Application for Employment Insurance benefits online <span class="glyphicon glyphicon-arrow-right"></span><span class="wb-inv">arrow pointing right</span> <code>employment-insurance.canada.ca/benefits/apply</code></li>
-            <li>Employment Insurance Internet reporting service <span class="glyphicon glyphicon-arrow-right"></span><span class="wb-inv">arrow pointing right</span> <code>employment-insurance.canada.ca/reporting</code></li>
-          </ul>
-        </li>
+        <li><a href="../mandatory-elements/domains-urls.html">Government of Canada domains and URLs</a></li>
       </ul>
-      <p><strong>Note</strong>: your account manager can submit new Canada.ca sub-domains and change requests to the Principal Publisher using the <a href="http://requestform.portal.gc.ca/tickets.html">Request form for Canada.ca</a>. Sub-domain requests are reviewed by Employment and Social Development Canada.</p>
-    </section>
 </section>
 <h2 id="state">Content types and content states</h2>
 <h3>Content types</h3>

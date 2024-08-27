@@ -196,7 +196,7 @@ title: "Latest changes to the Canada.ca design system"
       <li>the <a href="{{ site.url }}/specifications/mandatory-elements.html">mandatory elements</a> specify what departments must do to reflect the trusted digital brand of the Government of Canada</li>
       <li>the <a href="{{ site.urlcanadaca }}/en/government/about/design-system/pattern-library.html">template and design pattern library</a> contains all detailed information about specific templates and patterns</li>
       <li>a new <a href="{{ site.urlcanadaca }}/en/government/about/design-system/pattern-library/find-right-template-design-pattern-web-content.html">interactive pattern selector</a> makes it easier to find the right template or design pattern</li>
-      <li>the <a href="{{ site.url }}/specifications/organizing-content.html">organizing content</a> section simplifies the direction on information architecture, user-need categories and the URL model</li>
+      <li>the <a href="{{ site.url }}/specifications/information-findability/organizing-content.html">organizing content</a> section simplifies the direction on information architecture, user-need categories and the URL model</li>
       <li>the <a href="{{ site.url }}/mandatory-templates/topic-pages.html">topic page template</a> is now only mandatory for the first 2 topic layers, although it can be used at lower levels when appropriate</li>
       <li>the home page design reflects the recent changes to the live site</li>
     </ul>

@@ -198,7 +198,7 @@ title: Designing content
 
 <ul>
  <li>
-  <a href="{{ site.url }}/specifications/organizing-content.html#toc1">
+  <a href="{{ site.url }}/specifications/information-findability/organizing-content.html#toc1">
    User navigation on Canada.ca
   </a>
  </li>
