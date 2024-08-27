@@ -32,5 +32,5 @@ title: "Research summaries"
 <h2>Past projects with our partners</h2>
 <p>Learn about work we’ve done with other departments and organizations to improve task success on Canada.ca:</p>
 <ul>
-  <li><a href="./partners/">Working with partners</a></li>
+  <li><a href="../partners/">Working with partners</a></li>
 </ul>
