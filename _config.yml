@@ -535,6 +535,9 @@
         "breadcrumbs": [{
             "title": "About Canada.ca",
             "link": "https://design.canada.ca/about/"
+          },{
+            "title": "Design",
+            "link": "https://design.canada.ca/"
           },
           {
             "title": "Research summaries",
@@ -552,7 +555,10 @@
         "breadcrumbs": [{
           "title": "About Canada.ca",
           "link": "https://design.canada.ca/about/"
-        }]
+        },{
+            "title": "Design",
+            "link": "https://design.canada.ca/"
+          }]
       }
     },
     {
