@@ -543,10 +543,10 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"{{ site.url }}/specifications/usage-canadaca-design.html\">Who has to use this design system</a>",
+    "NAME": "<a href=\"{{ site.url }}/specifications/usage-canadaca-design.html\">Who has to use the Canada.ca design</a>",
     "SOURCE": "Canada.ca Specifications",
-    "DESCRIPTION": "Which institutions must use the Canada.ca design system for their public-facing web presence",
-    "WHENTOUSE": "Which institutions must use the Canada.ca design system for their public-facing web presence",
+    "DESCRIPTION": "Which institutions must use the Canada.ca design for their public-facing web presence",
+    "WHENTOUSE": "Which institutions must use the Canada.ca design for their public-facing web presence",
     "CATEGORY": "",
     "TYPE": "",
     "MANDATORY": "",
