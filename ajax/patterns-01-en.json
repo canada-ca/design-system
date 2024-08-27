@@ -544,7 +544,7 @@
     "TANDP": "0"
   }, {
     "NAME": "<a href=\"{{ site.url }}/specifications/usage-canadaca-design.html\">Who has to use this design system</a>",
-    "SOURCE": "Content and Information Architecture Specification",
+    "SOURCE": "Canada.ca Specifications",
     "DESCRIPTION": "Which institutions must use the Canada.ca design system for their public-facing web presence",
     "WHENTOUSE": "Which institutions must use the Canada.ca design system for their public-facing web presence",
     "CATEGORY": "",
@@ -553,7 +553,7 @@
     "TANDP": "0"
   }, {
     "NAME": "<a href=\"{{ site.url }}/specifications/mandatory-elements.html\">Mandatory elements</a>",
-    "SOURCE": "Content and Information Architecture Specification",
+    "SOURCE": "Canada.ca Specifications",
     "DESCRIPTION": "What every institution must follow: colours, typography, header and footer, and mandatory templates",
     "WHENTOUSE": "What every institution must follow: colours, typography, header and footer, and mandatory templates",
     "CATEGORY": "",
@@ -562,7 +562,7 @@
     "TANDP": "0"
   }, {
     "NAME": "<a href=\"{{ site.url }}/specifications/information-findability/organizing-content.html#toc1\">User navigation</a>",
-    "SOURCE": "Content and Information Architecture Specification",
+    "SOURCE": "Canada.ca Specifications",
     "DESCRIPTION": "How people find tasks on Canada.ca",
     "WHENTOUSE": "How people find tasks on Canada.ca",
     "CATEGORY": "",
@@ -571,16 +571,25 @@
     "TANDP": "0"
   }, {
     "NAME": "<a href=\"{{ site.url }}/specifications/information-findability/organizing-content.html#user\">User-need categories for destination content</a>",
-    "SOURCE": "Content and Information Architecture Specification",
+    "SOURCE": "Canada.ca Specifications",
     "DESCRIPTION": "How people find tasks on Canada.ca",
     "WHENTOUSE": "How people find tasks on Canada.ca",
     "CATEGORY": "",
     "TYPE": "",
     "MANDATORY": "",
     "TANDP": "0"
-  }, {
-    "NAME": "<a href=\"{{ site.url }}/specifications/information-findability/organizing-content.html#toc3\">URL model</a>",
-    "SOURCE": "Content and Information Architecture Specification",
+  },{
+    "NAME": "<a href=\"{{ site.url }}/specifications/information-findability/metadata.html\">Improving titles and metadata for findability</a>",
+    "SOURCE": "Information architecture and findability",
+    "DESCRIPTION": "Use this guidance to write effective titles and metadata.",
+    "WHENTOUSE": "Use this guidance to write effective titles and metadata.",
+    "CATEGORY": "",
+    "TYPE": "",
+    "MANDATORY": "",
+    "TANDP": "0"
+  },{
+    "NAME": "<a href=\"{{ site.url }}/specifications/mandatory-elements/domains-urls\">URL model</a>",
+    "SOURCE": "Canada.ca Specifications",
     "DESCRIPTION": "Canada.ca URL model",
     "WHENTOUSE": "Canada.ca URL model",
     "CATEGORY": "",
@@ -589,7 +598,7 @@
     "TANDP": "0"
   }, {
     "NAME": "<a href=\"{{ site.url }}/specifications/design-content.html#principles\">Design principles</a>",
-    "SOURCE": "Content and Information Architecture Specification",
+    "SOURCE": "Canada.ca Specifications",
     "DESCRIPTION": "Design principles of Canada.ca",
     "WHENTOUSE": "Design principles of Canada.ca",
     "CATEGORY": "",
