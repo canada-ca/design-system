@@ -4,6 +4,7 @@ date: 2017-10-05
 dateModified: 2024-08-26
 description: "Mandatory elements for all Government of Canada webpages."
 layout: default
+section-title: "Canada.ca Specifications"
 title: "Mandatory elements of the Canada.ca design"
 breadcrumbs: [{
             "link": "https://design.canada.ca/about/",

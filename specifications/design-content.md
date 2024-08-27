@@ -3,6 +3,7 @@ altLangPage: "https://conception.canada.ca/specifications/concevoir-contenu.html
 date: 2017-10-05
 dateModified: 2024-08-26
 description: "Templates and design patterns of the Canada.ca design."
+section-title: "Canada.ca Specifications"
 title: "Designing content on Canada.ca"
 breadcrumbs: [{
             "link": "https://design.canada.ca/about/",
