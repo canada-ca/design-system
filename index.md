@@ -58,8 +58,8 @@ title: "Canada.ca design"
                   </li>
                   <li class="checkbox">
                     <label for="dt_source3">
-                      <input type="checkbox" id="dt_source3" name="dt_source" data-column="1" value="Content and Information Architecture Specification">
-                      Content and Information Architecture Specification</label>
+                      <input type="checkbox" id="dt_source3" name="dt_source" data-column="1" value="Canada.ca Specifications">
+                      Canada.ca Specifications</label>
                   </li>
                   <li class="checkbox">
                     <label for="dt_source4">
