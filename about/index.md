@@ -50,7 +50,7 @@ script:
             <div class="col-md-4">
               <section>
                 <h3 class="h5"><a href="https://www.canada.ca/en/contact.html">Government of Canada contacts</a></h3>
-                <p>Content and Information Architecture Specification, Content Style Guide, templates and design patterns, topic tree, institutions list, theme lead departments.</p>
+                <p>Contact institutions of the Government of Canada</p>
               </section>
             </div>
     </div>
