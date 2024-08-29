@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/a-propos.html"
+altLangPage: "https://conception.canada.ca/a-propos/"
 date: 2017-10-05
 dateModified: 2024-08-26
 description: "Canada.ca is the Government of Canada's digital presence."
