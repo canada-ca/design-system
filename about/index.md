@@ -44,13 +44,13 @@ script:
             <div class="col-md-4">
               <section>
                 <h3 class="h5"><a href="https://www.canada.ca/en/analytics.html">Canada.ca analytics</a></h3>
-                <p>Data on how people are interacting with the Government of Canada online.</p>
+                <p>Data on how people are interacting with the Government of Canada online</p>
               </section>
             </div>
             <div class="col-md-4">
               <section>
                 <h3 class="h5"><a href="https://www.canada.ca/en/contact.html">Government of Canada contacts</a></h3>
-                <p>Contact institutions of the Government of Canada</p>
+                <p>Find contacts by department or program, most frequent contacts</p>
               </section>
             </div>
     </div>
