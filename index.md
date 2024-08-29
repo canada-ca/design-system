@@ -24,11 +24,11 @@ title: "Canada.ca design"
         <p>Evidence and insights on improving information and services on Canada.ca</p>
       </div>
       <div class="col-md-4">
-        <h3 class="h5"><a href="{{ site.url }}/research-summaries.html">Research summaries</a></h3>
+        <h3 class="h5"><a href="{{ site.url }}/research-summaries/">Research summaries</a></h3>
         <p>Research done to make it easier for people to find and understand Government of Canada information and services</p>
       </div>
       <div class="col-md-4">
-        <h3 class="h5"><a href="{{ site.url }}/about.html">About Canada.ca</a></h3>
+        <h3 class="h5"><a href="{{ site.url }}/about/">About Canada.ca</a></h3>
         <p>Most requested, analytics for Canada.ca, Government of Canada contacts</p>
       </div>
     </section>
