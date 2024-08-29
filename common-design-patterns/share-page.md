@@ -56,7 +56,7 @@ title: Share this page
     </h2>
     <p>
      The Share this page pattern is optional on all pages. For more information, go to the
-     <a href="{{ site.url }}/architecture/mandatory-elements.html#header-footer">
+     <a href="{{ site.url }}/specifications/mandatory-elements.html#header-footer">
       Mandatory
 				elements of the design system</a>.
     </p>

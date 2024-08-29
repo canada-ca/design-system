@@ -1,22 +1,27 @@
 ---
-altLangPage: "https://conception.canada.ca/architecture/utilisation-concept-canadaca.html"
+altLangPage: "https://conception.canada.ca/specifications/utilisation-concept-canadaca.html"
 date: 2017-10-05
-dateModified: 2023-03-28
+dateModified: 2024-08-26
 description: "The requirements listed in this design manual apply to departments and other portions of the federal public administration as set out in Schedules I, I.1 and II of the Financial Administration Act. As such, in-scope institutions must apply Canada.ca design requirements for all public-facing web sites or digital services."
+section-title: "Canada.ca Specifications"
 title: "Who has to use the Canada.ca design"
+breadcrumbs: [{
+            "link": "https://design.canada.ca/about/",
+            "title": "About Canada.ca"
+          },
+            {
+            "link": "https://design.canada.ca/",
+            "title": "Design"
+          },
+           {
+            "link": "https://design.canada.ca/specifications.html",
+            "title": "Specifications"
+          }
+        ]
 ---
-<div class="mrgn-tp-md mrgn-bttm-sm brdr-bttm">
-  <div class="row  mrgn-bttm-sm">
-    <ul class="toc lst-spcd col-md-12">
-      <li class="col-md-4"><a href="usage-canadaca-design.html" class="list-group-item cust-active active">Who has to use this design system</a> </li>
-      <li class="col-md-4"><a href="mandatory-elements.html" class="list-group-item">Mandatory elements</a> </li>
-      <li class="col-md-4"><a href="organizing-content.html" class="list-group-item">Organizing content</a> </li>
-      <li class="col-md-4"><a href="templates.html" class="list-group-item">Designing content</a> </li>
-    </ul>
-  </div>
-</div>
+
 <p class="hidden" id="#who-has-to-use">Federal public administration listed in Schedules I, I.1 and II of the Financial Administration Act must apply Canada.ca design requirements for all their public-facing websites or digital services</p>
-<p>The Canada.ca Content and Information Architecture Specification is referenced in "Appendix D: Mandatory Procedures for Social Media and Web Communications" of the&nbsp;<a href="http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682"><cite>Directive on the  Management of Communications</cite></a>. Its requirements apply to departments and other  portions of the federal public administration listed in Schedules&nbsp;<a href="https://laws-lois.justice.gc.ca/eng/acts/f-11/page-19.html#docCont">I</a>,&nbsp;<a href="https://laws-lois.justice.gc.ca/eng/acts/f-11/page-20.html#docCont">I.1</a>&nbsp;and&nbsp;<a href="https://laws-lois.justice.gc.ca/eng/acts/f-11/page-21.html#docCont">II</a>&nbsp;of the <cite>Financial Administration Act</cite>.</p>
+<p>The Canada.ca Specifications is referenced in "Appendix D: Mandatory Procedures for Social Media and Web Communications" of the&nbsp;<a href="http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682"><cite>Directive on the  Management of Communications</cite></a>. Its requirements apply to departments and other  portions of the federal public administration listed in Schedules&nbsp;<a href="https://laws-lois.justice.gc.ca/eng/acts/f-11/page-19.html#docCont">I</a>,&nbsp;<a href="https://laws-lois.justice.gc.ca/eng/acts/f-11/page-20.html#docCont">I.1</a>&nbsp;and&nbsp;<a href="https://laws-lois.justice.gc.ca/eng/acts/f-11/page-21.html#docCont">II</a>&nbsp;of the <cite>Financial Administration Act</cite>.</p>
 <p><a href="https://www.canada.ca/en/government/about/design-system/institutions-list.html">These organizations</a> must apply Canada.ca design requirements for all their public-facing  websites or digital services, regardless of the technology, domain name (both canada.ca and gc.ca) or  publishing platform through which these are delivered. </p>
 <h2>Out-of-scope situations</h2>
 <p>The Canada.ca global  header and footer design may not be applied or replicated in the following  situations:</p>

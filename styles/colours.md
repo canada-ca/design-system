@@ -8,7 +8,7 @@ title: Colours style
 
 
 <div>
- 
+
  <section>
   <p>
    <span class="label label-danger">
@@ -19,7 +19,7 @@ title: Colours style
    The guidance on colours is mandatory on all pages.
   </p>
   <p>
-   <a href="{{ site.url }}/architecture/mandatory-elements.html">
+   <a href="{{ site.url }}/specifications/mandatory-elements.html">
     Mandatory elements of the design system
    </a>
   </p>

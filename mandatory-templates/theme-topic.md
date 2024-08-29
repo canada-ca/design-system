@@ -26,7 +26,7 @@ title: Theme and topic page mandatory template
 <ul>
  <li>
   provide support for theme navigation rather than institutional navigation of government-wide content (see
-  <a href="{{ site.url }}/architecture/organizing-content.html#toc1">
+  <a href="{{ site.url }}/specifications/information-findability/organizing-content.html#toc1">
    How people find tasks: theme and institutional navigation
   </a>
   )

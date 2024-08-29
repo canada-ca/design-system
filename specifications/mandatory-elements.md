@@ -1,21 +1,26 @@
 ---
-altLangPage: "https://conception.canada.ca/architecture/elements-obligatoires.html"
+altLangPage: "https://conception.canada.ca/specifications/elements-obligatoires.html"
 date: 2017-10-05
-dateModified: 2023-03-28
+dateModified: 2024-08-26
 description: "Mandatory elements for all Government of Canada webpages."
 layout: default
+section-title: "Canada.ca Specifications"
 title: "Mandatory elements of the Canada.ca design"
+breadcrumbs: [{
+            "link": "https://design.canada.ca/about/",
+            "title": "About Canada.ca"
+          },
+            {
+            "link": "https://design.canada.ca/",
+            "title": "Design"
+          },
+           {
+            "link": "https://design.canada.ca/specifications.html",
+            "title": "Specifications"
+          }
+        ]
 ---
-<div class="mrgn-tp-md mrgn-bttm-sm brdr-bttm">
-  <div class="row  mrgn-bttm-sm">
-    <ul class="toc lst-spcd col-md-12">
-      <li class="col-md-4"><a href="usage-canadaca-design.html" class="list-group-item">Who has to use this design system</a> </li>
-      <li class="col-md-4"><a href="mandatory-elements.html" class="list-group-item cust-active active">Mandatory elements</a> </li>
-      <li class="col-md-4"><a href="organizing-content.html" class="list-group-item">Organizing content</a> </li>
-      <li class="col-md-4"><a href="templates.html" class="list-group-item">Designing content</a> </li>
-    </ul>
-  </div>
-</div>
+
 <p>Government of Canada web pages must be easily identifiable as part of Canada.ca. Each page must convey the overall brand and feel of Canada.ca, and provide a consistent experience for site visitors. </p>
 <p>These mandatory elements were designed to reflect the trusted digital brand of the Government of Canada: modern, open, helpful and credible.</p>
 <h2>Mandatory elements for all institutions</h2>
@@ -29,7 +34,7 @@ title: "Mandatory elements of the Canada.ca design"
 <h2 id="domain">The Canada.ca domain</h2>
 <p>Use the Canada.ca domain for all Government of Canada web pages:</p>
 <ul>
-  <li><a href="https://design.canada.ca/common-design-patterns/canada-dot-ca.html">Canada.ca domain</a></li>
+  <li><a href="./mandatory-elements/domains-urls.html">Government of Canada.ca domains and URLs</a></li>
 </ul>
 <h2 id="styles">Styles</h2>
 <p>Apply the following style elements:</p>
@@ -39,7 +44,7 @@ title: "Mandatory elements of the Canada.ca design"
   <li><a href="https://design.canada.ca/styles/layouts.html">Layouts</a></li>
 </ul>
 <h2 id="header-footer">Header and footer</h2>
-<p>Each page from the Government of Canada shares a common header and footer. That is, the upper and lower parts of a page must look the same from page to page.</p>
+<p>Each web page from the Government of Canada shares a common header and footer. That is, the upper and lower parts of a page must look the same from page to page.</p>
 <p>Get the detailed requirements:</p>
 <ul>
   <li><a href="https://design.canada.ca/common-design-patterns/global-header.html">Global header</a></li>

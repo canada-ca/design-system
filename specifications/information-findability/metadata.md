@@ -1,19 +1,26 @@
 ---
-altLangPage: "https://conception.canada.ca/"
+altLangPage: "https://conception.canada.ca/specifications/information-trouvabilite/metadonnees.html"
 date: 2024-02-23
 dateModified: 2024-07-02
 description: "Metadata guidance to improve search findability for Canada.ca web pages"
 keywords: "metadata, what is metadata, keywords, keyword research, findability"
-section-title: "Information architecture and findability"
+section-title: "IA and findability"
 title: "Improving titles and metadata for findability"
-breadcrumbs: [
+breadcrumbs: [{
+            "link": "https://design.canada.ca/about/",
+            "title": "About Canada.ca"
+          },
             {
             "link": "https://design.canada.ca/",
-            "title": "Designing for Canada.ca"
+            "title": "Design"
           },
            {
             "link": "https://design.canada.ca/specifications.html",
-            "title": "Canada.ca Specifications"
+            "title": "Specifications"
+          },
+           {
+            "link": "https://design.canada.ca/specifications/information-findability.html",
+            "title": "IA and findability"
           }
         ]
 ---

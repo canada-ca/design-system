@@ -5,10 +5,13 @@ dateModified: '2024-08-23'
 description: null
 title: Government of Canada domains and URLs
 section-title: "Canada.ca design"
-breadcrumbs: [
+breadcrumbs: [{
+            "link": "https://design.canada.ca/about/",
+            "title": "About Canada.ca"
+          },
             {
             "link": "https://design.canada.ca/",
-            "title": "Canada.ca design"
+            "title": "Design"
           },
            {
             "link": "https://design.canada.ca/specifications.html",

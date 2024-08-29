@@ -129,7 +129,7 @@ title: Designing content for Canada.ca
  </p>
  <ul>
   <li>
-   <a href="{{ site.url }}/architecture/mandatory-elements.html">
+   <a href="{{ site.url }}/specifications/mandatory-elements.html">
     Mandatory elements of the Canada.ca design system
    </a>
   </li>
@@ -165,12 +165,12 @@ title: Designing content for Canada.ca
  </p>
  <ul>
   <li>
-   <a href="{{ site.url }}/architecture/organizing-content.html#toc1">
+   <a href="{{ site.url }}/specifications/information-findability/organizing-content.html#toc1">
     User navigation on Canada.ca
    </a>
   </li>
   <li>
-   <a href="{{ site.url }}/architecture/organizing-content.html#user">
+   <a href="{{ site.url }}/specifications/information-findability/organizing-content.html#user">
     User-need categories for destination content
    </a>
   </li>

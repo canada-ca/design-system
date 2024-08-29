@@ -8,7 +8,7 @@ title: 'Promotional events pages template'
 
 
 <div>
- 
+
  <p>
   A promotional events page is a destination page that describes and explains an official government-hosted event that occurs in a promotional context, such as a festival, a celebration and an awards ceremony.
  </p>
@@ -84,14 +84,14 @@ title: 'Promotional events pages template'
      WET
     </abbr>
     components to the greatest extent possible to ensure accessibility. Make sure your page follows the
-    <a href="{{ site.url }}/architecture/mandatory-elements.html">
+    <a href="{{ site.url }}/specifications/mandatory-elements.html">
      Mandatory elements of the design system
     </a>
     .
    </li>
    <li>
     You can use a reduced version of the
-    <a href="{{ site.url }}/architecture/mandatory-elements.html#header-footer">
+    <a href="{{ site.url }}/specifications/mandatory-elements.html#header-footer">
      header and footer
     </a>
     when there is a need to not use global navigation
