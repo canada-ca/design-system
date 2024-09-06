@@ -8,7 +8,7 @@ title: Canada.ca domain design pattern
 
 
 <section class="alert alert-info">
-  <p>This pattern is being decommissioned. It has been replaced by the guidance on domains and URLs provided in the mandatory elements section of the Canada.ca Specifications. See the guidance: <a href="./specifications/mandatory-elements/domains-urls.html"> Government of Canada domains and URLs guidance</a></p>
+  <p>This pattern is being decommissioned. It has been replaced by the guidance on domains and URLs provided in the mandatory elements section of the Canada.ca Specifications. See the guidance: <a href="../specifications/mandatory-elements/domains-urls.html"> Government of Canada domains and URLs guidance</a></p>
 </section>
 
 <p>
