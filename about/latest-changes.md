@@ -19,8 +19,8 @@ title: "Latest changes to the Canada.ca design system"
     <ul>
       <li>Renamed the Content and Information Architecture Specification to the <a href="{{ site.url }}/specifications.html">Canada.ca Specifications</a>.</li> 
       <li>Updated the Canada.ca Specifications to include the Canada.ca Content Style Guide and guidance on information architecture and findability, as well as a link to the GC design system: <a href="{{ site.url }}/specifications.html">Canada.ca Specifications</a></li>
-      <li>Created guidance on how to write metadata for Canada.ca pages: <a href="{{ site.url }}//specifications/information-findability/metadata.html">Improving titles and metadata for findability</a>.</li>
-      <li>Consolidated domain and URL guidance into one page: <a href="{{ site.url }}//specifications/mandatory-elements/domains-urls.html">Government of Canada domains and URLs</a></li>
+      <li>Created guidance on how to write metadata for Canada.ca pages: <a href="{{ site.url }}/specifications/information-findability/metadata.html">Improving titles and metadata for findability</a>.</li>
+      <li>Consolidated domain and URL guidance into one page: <a href="{{ site.url }}/specifications/mandatory-elements/domains-urls.html">Government of Canada domains and URLs</a></li>
       <li>Removed mentions of the Canada.ca Design System and replaced with Canada.ca design. This is to clarify that departments have to comply with the mandatory elements of the Canada.ca design, but may use the design system best fits their needs.</li>
       <li>Updated the About Canada.ca page to better reflect what users are searching for: <a href="{{ site.url }}//about">About Canada.ca</a></li>
       <li>Added a new page for summaries of research done on the design and user-experience of Canada.ca: Research summaries</a></li>
