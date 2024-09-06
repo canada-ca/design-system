@@ -1,13 +1,15 @@
 ---
 altLangPage: https://conception.canada.ca/configurations-conception-communes/canada-point-ca.html
 date: null
-dateModified: '2020-10-16'
+dateModified: '2024-09-06'
 description: null
 title: Canada.ca domain design pattern
 ---
 
 
-
+<section class="alert alert-info">
+  <p>This pattern is being decommissioned. It has been replaced by the guidance on domains and URLs provided in the mandatory elements section of the Canada.ca Specifications. See the guidance: <a href="./specifications/mandatory-elements/domains-urls.html"> Government of Canada domains and URLs guidance</a></p>
+</section>
 
 <p>
  <span class="label label-danger">

@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/a-propos/derniers-changements.html"
 date: 2017-10-05
-dateModified: 2024-02-19
+dateModified: 2024-09-06
 description: "Latest changes to the Canada.ca design system"
 layout: default
 title: "Latest changes to the Canada.ca design system"
@@ -13,7 +13,21 @@ title: "Latest changes to the Canada.ca design system"
   All</button>
 </div>
 <div id="expand-collapse">
-  <details open="open">
+ <details open="open">
+    <summary>August 28, 2024</summary>
+    <p>Launched a new information architecture and new content  for design.canada.ca. Changes include:</p>
+    <ul>
+      <li>Renamed the Content and Information Architecture Specification to the <a href="{{ site.url }}/specifications.html">Canada.ca Specifications</a>.</li> 
+      <li>Updated the Canada.ca Specifications to include the Canada.ca Content Style Guide and guidance on information architecture and findability, as well as a link to the GC design system: <a href="{{ site.url }}/specifications.html">Canada.ca Specifications</a></li>
+      <li>Created guidance on how to write metadata for Canada.ca pages: <a href="{{ site.url }}//specifications/information-findability/metadata.html">Improving titles and metadata for findability</a>.</li>
+      <li>Consolidated domain and URL guidance into one page: <a href="{{ site.url }}//specifications/mandatory-elements/domains-urls.html">Government of Canada domains and URLs</a></li>
+      <li>Removed mentions of the Canada.ca Design System and replaced with Canada.ca design. This is to clarify that departments have to comply with the mandatory elements of the Canada.ca design, but may use the design system best fits their needs.</li>
+      <li>Updated the About Canada.ca page to better reflect what users are searching for: <a href="{{ site.url }}//about">About Canada.ca</a></li>
+      <li>Added a new page for summaries of research done on the design and user-experience of Canada.ca: Research summaries</a></li>
+    </ul>
+    <p>Stabilized the <a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html#changes">institutional landing page</a> (ILP) template and documented each component separately. </p>
+  </details>
+  <details>
     <summary>April 3, 2024</summary>
     <p>Stabilized the <a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html#changes">institutional landing page</a> (ILP) template and documented each component separately. </p>
   </details>
