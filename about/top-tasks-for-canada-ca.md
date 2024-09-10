@@ -321,7 +321,7 @@ title: "Top tasks for Canada.ca"
 		<td>50</td>
 		<td>Access your pay (MyGCPay, CWA, Phoenix)</td>
 		<td><a href="https://www.canada.ca/en/public-services-procurement.html">Public Services and Procurement Canada</a>/<a href="https://www.canada.ca/en/treasury-board-secretariat.html">Treasury Board of Canada Secretariat</a></td>
-		<td>1476</td>
+		<td>1390</td>
 	</tr>
 	</tbody>
 	</table>
