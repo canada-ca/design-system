@@ -6,8 +6,9 @@ description: null
 title: Contributors
 ---
 
-
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/contributors.png" class="img-responsive" alt="" /></div>
+<p>Use the contributors pattern to highlight institutions/organizations that have contributed to the content on a webpage.</p>
+
 <section>
     <h2>On this page</h2>
     <ul>
