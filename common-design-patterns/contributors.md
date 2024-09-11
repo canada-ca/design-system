@@ -65,7 +65,7 @@ title: Contributors
     </div>
 </section>
 <section>
-    <h2 id="implement"></h2>
+    <h2 id="implement">How to implement</h2>
     <p>Find working examples and code for implementing the contributors pattern.</p>
     <h3>GCweb (WET) theme implementation reference</h3>
     <ul>
