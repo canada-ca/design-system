@@ -6,6 +6,10 @@ description: null
 title: What we are doing design pattern
 ---
 
+<section class="alert alert-info">
+  <p>We are decommissioning the <b>what we are doing</b> pattern. We do not recommend adding this pattern to your pages.</p>
+</section>
+
 
 <div>
 

@@ -5,7 +5,9 @@ dateModified: '2018-12-19'
 description: null
 title: Institutional byline design pattern
 ---
-
+<section class="alert alert-info">
+  <p>We are decommissioning the <b>institutional byline pattern</b>. We do not recommend adding this pattern to your pages. If you would like to link to the institutions or organizations that support the content on the page please use the <a href="/contributors.html">contributors pattern</a>.</p>
+</section>
 
 <div>
  

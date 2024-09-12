@@ -6,6 +6,9 @@ description: null
 title: More information for design pattern
 ---
 
+<section class="alert alert-info">
+  <p>We are decommissioning the <b>more information for</b> pattern. We do not recommend adding this pattern to your pages.</p>
+</section>
 
 <div>
  
