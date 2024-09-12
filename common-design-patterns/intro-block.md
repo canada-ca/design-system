@@ -93,7 +93,6 @@ title: Introduction block
             Half-width image
             <ul>
                 <li>520px by 200px</li>
-                <li>Image ratio: 1.65:1</li>
                 <li>Visible on large screens, but hidden on medium and small screens</li>
                 <li>Positioned to the right</li>
             </ul>
