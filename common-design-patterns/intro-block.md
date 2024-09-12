@@ -26,6 +26,7 @@ title: Introduction block
 <section>
     <h2 id="avoid">What to avoid</h2>
     <p>Don’t use this on destination pages when people are trying to complete a task.</p>
+    <p>Don’t use the full-width image on topic pages, use a half-width image.</p>
 </section>
 <section>
     <h2 id="design">Content and design</h2>
@@ -76,12 +77,25 @@ title: Introduction block
             </ul>
         </li>
         <li>
-            Image
+            Full-width background image
             <ul>
                 <li>1200px by 726px</li>
                 <li>Image ratio: 1.65:1</li>
                 <li>Visible on large screens, but hidden on medium and small screens</li>
-                <li>Treated as a background image and positioned to the right</li>
+                <li>Treated as a background image:
+                    <ul>
+                        <li>default design has the image positioned to the right, with a gradient fading out 50% of the image</li>
+                    </ul>
+                    </li>
+            </ul>
+        </li>
+           <li>
+            Half-width image
+            <ul>
+                <li>520px by 200px</li>
+                <li>Image ratio: 1.65:1</li>
+                <li>Visible on large screens, but hidden on medium and small screens</li>
+                <li>Positioned to the right</li>
             </ul>
         </li>
         <li>
