@@ -70,6 +70,6 @@ title: Contributors
     <p>Find working examples and code for implementing the contributors pattern.</p>
     <h3>GCweb (WET) theme implementation reference</h3>
     <ul>
-        <li><a href="https://wet-boew.github.io/GCWeb/components/gc-contributors/gc-contributors-en.html">Contributors - GCWeb</a></li>
+        <li><a href="https://wet-boew.github.io/GCWeb/components/gc-contributors/gc-contributors-doc-en.html">Contributors - GCWeb</a></li>
     </ul>
 </section>
