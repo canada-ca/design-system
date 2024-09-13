@@ -409,12 +409,18 @@
     "TYPE": "Site-wide pattern",
     "MANDATORY": "Mandatory"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/theme-topic.html\">Theme and topic page</a>",
-    "USE": "Allows people to discover services and information related to a specific theme or topic across government - <strong>Mandatory template</strong>",
+    "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/theme.html\">Theme page</a>",
+    "USE": "Allows people to discover services and information related to a specific theme across government - <strong>Mandatory template</strong>",
     "CAT": "Template",
     "TYPE": "Theme template, Navigation",
     "MANDATORY": "Mandatory"
   }, {
+    "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/topic.html\">Topic page</a>",
+    "USE": "Allows people to discover services and information related to a specific topic across government - <strong>Mandatory template</strong>",
+    "CAT": "Template",
+    "TYPE": "Topic template, Navigation",
+    "MANDATORY": "Mandatory"
+  },{
     "NAME": "<a href=\"https://design.canada.ca/recommended-templates/transparency.html\">Transparency and corporate reporting</a>",
     "USE": "A corporate reporting page provides proactive disclosure of information offered by that institution.",
     "CAT": "Template",
