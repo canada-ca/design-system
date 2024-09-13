@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/configurations-conception-communes/bloc-introduction.html"
 date: 2023-08-20
-dateModified: 2024-10-13
+dateModified: 2024-09-13
 description: Guidance about using the introduction block pattern on Canada.ca.
 title: Introduction block
 ---
