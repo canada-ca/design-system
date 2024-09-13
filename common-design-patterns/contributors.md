@@ -49,7 +49,7 @@ title: Contributors
     <p>Use standard paragraph, heading and link <a href="https://design.canada.ca/styles/colours.html">standard colours.</a></p>
     <p>The heading is an H2 styled at font-size: 87% (or 17px).</p>
     <p>The list items are sized at font-size: 87% (or 17px).</p>
-    <p>The links are to the right of the H2 and are coded in a horizontal list.The first item in the list is unstyled (no bullet).</p>
+    <p>The links are to the right of the H2 and are coded in a horizontal list. The first item in the list is unstyled (no bullet).</p>
     <h3>Visual example</h3>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
