@@ -46,8 +46,9 @@ title: Contributors
     <p>This pattern should be positioned below all content on the page, but above the date modified field.</p>
     <p>Do not place this block in line with other text blocks or layout elements; it stands alone.</p>
     <p>Left-align the heading and the links.</p>
-    <p>Use standard paragraph, heading and link styles.</p>
+    <p>Use standard paragraph, heading and link standard colours.</p>
     <p>The heading is an H2 styled at font-size: 87% (or 17px).</p>
+    <p>The list items are sized at font-size: 87% (or 17px).</p>
     <p>The links are to the right of the H2 and are coded in a horizontal list.The first item in the list is unstyled (no bullet).</p>
     <h3>Visual example</h3>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
