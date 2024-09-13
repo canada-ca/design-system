@@ -106,7 +106,7 @@ title: Theme page
 
 <section>
  <h3>
-  Theme pages
+  Theme page
  </h3>
 
  <details>
