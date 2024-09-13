@@ -1,9 +1,9 @@
 ---
-altLangPage: https://conception.canada.ca/modeles-obligatoire/theme-sujet.html
+altLangPage: https://conception.canada.ca/modeles-obligatoire/sujet.html
 date: null
-dateModified: '2020-06-30'
+dateModified: '2024-09-13'
 description: null
-title: Theme and topic page mandatory template
+title: Topic page mandatory template
 ---
 
 
