@@ -211,7 +211,7 @@ title: Theme page
            appears below the theme title
           </li>
           <li>
-           appears to the left of the theme carousel
+           appears to the left of the theme image
           </li>
          </ul>
         </details>
@@ -220,7 +220,7 @@ title: Theme page
      </section>
      <section>
       <h3>
-       3: Theme carousel
+       3: Theme image
       </h3>
       <p>
        <span class="label label-info">
@@ -228,7 +228,7 @@ title: Theme page
        </span>
       </p>
       <p>
-       Features theme-specific top tasks and topic information that is timely and relevant
+       Image is optional. Only use decorative images.
       </p>
       <ul class="list-unstyled">
        <li id="element1-3a">
