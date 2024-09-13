@@ -22,7 +22,7 @@ title: Contributors
         When to use this pattern
     </h2>
     <p>
-        Use the contributors pattern to link to the institutions,r organizations or similar entities who are responsible for, or support, the content on the page. You can list a single contributor or multiple contributors.
+        Use the contributors pattern to link to the institutions, organizations or similar entities who are responsible for, or support, the content on the page. You can list a single contributor or multiple contributors.
     </p>
 </section>
 <section>
@@ -31,7 +31,7 @@ title: Contributors
     </h2>
     <p>Find content and design specifications and visual examples.</p>
     <h3>Content specifications</h3>
-    <p>The link to the institution or organization is introduced by the word “From:”</p>
+    <p>The link to the institution or organization is introduced by the word "From:"</p>
     <p>List supporting institutions or organizations. Links must point to the organization’s main landing page. Where possible, use:</p>
     <ul>
         <li>
