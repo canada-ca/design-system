@@ -579,6 +579,7 @@ title: Theme page mandatory template
    Updated the pattern to remove any reference of topic pages. Topic pages are now a separate pattern. 
   </li>
  </ul>
+ <p>
   <strong>
    2020-07-10:
   </strong>
