@@ -3,7 +3,7 @@ altLangPage: https://conception.canada.ca/modeles-obligatoire/theme.html
 date: null
 dateModified: '2024-09-13'
 description: null
-title: Theme page mandatory template
+title: Theme page
 ---
 
 <p>We have moved the topic page guidance. You can find it here: <a href="topic.html">Topic page</a>.</p>

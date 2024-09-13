@@ -3,7 +3,7 @@ altLangPage: https://conception.canada.ca/modeles-obligatoire/sujet.html
 date: null
 dateModified: '2024-09-13'
 description: null
-title: Topic page mandatory template
+title: Topic page
 ---
 
 
