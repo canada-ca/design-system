@@ -5,9 +5,9 @@ dateModified: '2024-09-13'
 description: null
 title: Theme page
 ---
-
+<section class="alert alert-info">
 <p>We have moved the topic page guidance. You can find it here: <a href="topic.html">Topic page</a>.</p>
-
+</section>
 
 
 <p>
