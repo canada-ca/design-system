@@ -19,7 +19,7 @@ title: Contributors
 </section>
 <section>
     <h2 id="use">
-        When to use this pattern
+        When to use
     </h2>
     <p>
         Use the contributors pattern to link to the institutions, organizations or similar entities who are responsible for, or support, the content on the page. You can list a single contributor or multiple contributors.
