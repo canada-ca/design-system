@@ -8,7 +8,7 @@ title: Topic page mandatory template
 
 
 
-
+<mark>Waiting on content</mark>
 <p>
  <span class="label label-danger">
   Mandatory
