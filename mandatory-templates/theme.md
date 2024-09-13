@@ -58,11 +58,6 @@ title: Theme page mandatory template
    </a>
   </li>
   <li>
-   <a href="#research">
-    Research
-   </a>
-  </li>
-  <li>
    <a href="#changes">
     Latest changes
    </a>
@@ -556,14 +551,6 @@ title: Theme page mandatory template
   </figure>
  </details>
 </section>
-
-<h2 id="research">
- Research
-</h2>
-
-<p>
- We successfully tested the new beta theme and topic page during an optimization project with Public Services and Procurement Canada (research summary to come later).
-</p>
 
 <section>
  <h2 id="changes">
