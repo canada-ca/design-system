@@ -165,10 +165,10 @@ title: Social media channels
     </div>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
-            <figcaption><b>Social media channels (vertical view with labels) - small screen</b></figcaption>
-            <img src="../images/social-media-vertical-en-sm.png" class="img-responsive" alt="Social media channels (vertical view with labels) for small screens. Text version below:" />
+            <figcaption><b>Social media channels (vertical view with labels and more ways to connect link) - small screen</b></figcaption>
+            <img src="../images/social-media-vertical-en-sm.png" class="img-responsive" alt="Social media channels (vertical view with labels and more ways to connect link) for small screens. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: social media channels (vertical view with labels) - small screen</summary>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: social media channels (vertical view with labels and more ways to connect link) - small screen</summary>
                 <p>Social media channel links appear in a section with the heading “On social media”. Below the heading is a vertical list with associated icons and labels:</p>
                 <ul>
                     <li>Facebook icon followed by the placeholder text FacebookPageName</li>
