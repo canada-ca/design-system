@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/configurations-conception-communes/bloc-medias-sociaux.html
 date: null
-dateModified: '2024-04-03'
+dateModified: '2024-09-13'
 description: The social media channels pattern provides links to official Government of Canada social media accounts on various social media platforms.
 title: Social media channels
 ---
@@ -44,6 +44,8 @@ title: Social media channels
         <li>Vertical display includes a label next to each icon</li>
         <li>Horizontal display only includes the icons</li>
     </ul>
+    <h4>Optional link</h4>
+    <p>You can add a link with the label “More ways to connect” if you want to link to additional social media accounts or other departmental communications platforms (ie. podcasts, external magazine, etc.). The link should point to a page that lists all your social media accounts and additional ways to connect with/follow the department.</p>
     <p>If there is more than one account from a platform:</p>
     <ul>
         <li>Include the platform name next to its icon (vertical only)</li>
@@ -68,10 +70,17 @@ title: Social media channels
         <li>
             Links:
             <ul>
-                <li>Font: Noto Sans, 16px, <a href="https://design.canada.ca/styles/colours.html">standard link colours</a></li>
+                <li>Font: Noto Sans, 17px, <a href="https://design.canada.ca/styles/colours.html">standard link colours</a></li>
             </ul>
         </li>
         <li>Button is styled as a primary button.</li>
+        <li>“More ways to connect” link:
+        <ul>
+            <li>Font: Noto Sans, 17px, <a href="https://design.canada.ca/styles/colours.html">standard link colours</a></li>
+            <li>Aligned to the left</li>
+            <li>Positioned under the list of icons</li>
+        </ul>
+</li>
     </ul>
     <p>The following social media link classes and associated icons are available.</p>
     <div class="row mrgn-tp-lg">
@@ -119,7 +128,6 @@ title: Social media channels
             </div>
         </div>
     </div>
-    <p><a href="https://design.canada.ca/contact-us/">Contact the Digital Transformation Office (DTO)</a> if you want to include a platform that is not represented here.</p>
     <h3>Visual examples</h3>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
@@ -242,6 +250,10 @@ title: Social media channels
 <section>
     <h2 id="latest">Latest changes</h2>
     <dl class="dl-horizontal">
+      <dt>
+            <time datetime="2024-09-13" class="link-muted">2024-09-13</time>
+        </dt>
+        <dd>2024-09-01: Updated the pattern to add an optional “More ways to connect” link.</dd>
         <dt>
             <time datetime="2023-08-13" class="link-muted">2024-04-03</time>
         </dt>
