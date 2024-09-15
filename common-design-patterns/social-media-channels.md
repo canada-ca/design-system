@@ -65,6 +65,7 @@ title: Social media channels
             <ul>
                 <li>Modal header background colour: #2e5274</li>
                 <li>Header: H2, Lato, styled as font size: 1.15em</li>
+                <li>Button is styled as a primary button.</li>
             </ul>
         </li>
         <li>
@@ -73,7 +74,6 @@ title: Social media channels
                 <li>Font: Noto Sans, 17px, <a href="https://design.canada.ca/styles/colours.html">standard link colours</a></li>
             </ul>
         </li>
-        <li>Button is styled as a primary button.</li>
         <li>“More ways to connect” link:
         <ul>
             <li>Font: Noto Sans, 17px, <a href="https://design.canada.ca/styles/colours.html">standard link colours</a></li>
