@@ -137,7 +137,7 @@ title: Topic page
         <h3>GCweb (WET) theme implementation reference</h3>
         <p>The implementation reference includes how to configure the topic page template.</p>
         <ul>
-            <li><a href="https://wet-boew.github.io/GCWeb/templates/topic/topic-doc-en.html">Topic page documentation- GCWeb</a></li>
+            <li><a href="https://wet-boew.github.io/GCWeb/templates/topic/topic-doc-en.html">Topic page documentation - GCWeb</a></li>
         </ul>
         <h3>Implementations</h3>
         <p>Determine what best suits the type of page you're creating.</p>
