@@ -63,6 +63,7 @@ title: Institutional landing page
                                 <td>
                                     <p>Use the applied title of the institution (see <a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/fip-pcim/reg-eng.asp">Registry of Applied Titles</a>).</p>
                                     <p>The description should be a very brief summary of what the institution does.</p>
+                                    <p>Image is optional. If including an image, use full-width image.</p>
                                 </td>
                                 <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Required</span></td>
                             </tr>
