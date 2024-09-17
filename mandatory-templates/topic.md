@@ -99,7 +99,7 @@ title: Topic page
                 </div>
             </div>
         </div>
- <h3>Visual example</h3>
+ <h3>Visual examples</h3>
         <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
             <figure class="mrgn-tp-md mrgn-bttm-lg">
                 <figcaption><b>Topic page - large screen</b></figcaption>
