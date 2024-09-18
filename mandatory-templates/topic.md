@@ -215,6 +215,6 @@ title: Topic page
   <strong>
    2020-06-30:
   </strong>
-  a new beta version of this template was added
+  A new beta version of this template was added
  </p>
 </section>
