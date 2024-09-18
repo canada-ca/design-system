@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/modeles-obligatoire/sujet.html
 date: null
-dateModified: '2024-09-13'
+dateModified: '2024-09-23'
 description: "Topic pages provide access to topics and destination pages that support task completion."
 title: Topic page
 ---
@@ -122,7 +122,7 @@ title: Topic page
                 <details>
                     <summary>Topic page - small screen</summary>
                     <p>The topic page begins with an introduction block. This has the [Topic title] in the standard Canada.ca h1 style. It is followed by 1-2 sentences that describe the topics and top tasks that can be accessed on the page.</p>
-                    <p>Underneath the introduction block is a most requested band with one columns of links (six in total). The links lead to top tasks. </p>
+                    <p>Underneath the introduction block is a most requested band with one column of links (six in total). The links lead to top tasks. </p>
                     <p>Below the most requested band is the services and information pattern. It is one column, with nine topics in total. The topic begins with a hyperlinked title and then is followed by a description. The instructions for the description reads: Use action verbs, or simply list keywords to summarize the information or tasks that can be accomplished on the page it links to.</p>
                     <p>Underneath the services and information pattern is a contextual feature. The image for the feature appears first, with image dimensions of 360px x 203px, and below the image is a linked title for the feature followed by a brief description of the feature being promoted.</p>
                     <p>Below the contextual feature is the social media channels component. Its heading is “On social media”. It features five icons: Facebook, X, YouTube, Instagram, LinkedIn. Beside each icon is linked text for the account name.</p>
@@ -133,7 +133,7 @@ title: Topic page
 <section>
 <section>
      <h2 id="implement">How to implement</h2>
-        <p>Find working examples and code for implementing the contact us band pattern.</p>
+        <p>Find working examples and code for implementing the topic page template.</p>
         <h3>GCweb (WET) theme implementation reference</h3>
         <p>The implementation reference includes how to configure the topic page template.</p>
         <ul>
@@ -177,7 +177,7 @@ title: Topic page
 </section>
 <section>
      <h2 id="research">Policy rationale</h2>
-     <p>This template is a mandatory element of the Content and Information Architecture Specification.</p>
+     <p>This template is a mandatory element of the Canada.ca Specifications.</p>
      <ul>
           <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html">Mandatory elements of the design system</a></li>
      </ul>
@@ -187,7 +187,7 @@ title: Topic page
  </h2>
  <p>
   <strong>
-   2024-09-14:
+   2024-09-23:
   </strong>
  </p>
  <ul>
