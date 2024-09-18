@@ -111,7 +111,7 @@ title: Topic page
                     <p>Below the most requested band is the services and information pattern. It is three columns, with three topics in each column. The topic begins with a hyperlinked title and then is followed by a description. The instructions for the description reads: Use action verbs, or simply list keywords to summarize the information or tasks that can be accomplished on the page it links to.</p>
                     <p>Underneath the services and information pattern is a contextual feature. It has an image positioned to the left, with image dimensions of 360px x 203px, and to the right of the image is a linked title for the feature followed by a brief description of the feature being promoted.</p>
                     <p>To the right of the contextual feature is the social media channels component. Its heading is “On social media”. It features five icons: Facebook, X, YouTube, Instagram, LinkedIn. Beside each icon is linked text for the account name.</p>
-                    <p>At the bottom of the page, just above the “Date modified” field and the footer, there is the Contributors pattern. It is left-aligned. The text is “From:” it is then followed by linked text labeled [Department or agency], presented horizontally.</p> 
+                    <p>At the bottom of the page, just above the date modified field and the footer, there is the contributors pattern. It is left-aligned. The text is “From:” it is then followed by linked text labeled [Department or agency], presented horizontally.</p> 
                </details>
                </figure>
         </div>
@@ -126,7 +126,7 @@ title: Topic page
                     <p>Below the most requested band is the services and information pattern. It is one column, with nine topics in total. The topic begins with a hyperlinked title and then is followed by a description. The instructions for the description reads: Use action verbs, or simply list keywords to summarize the information or tasks that can be accomplished on the page it links to.</p>
                     <p>Underneath the services and information pattern is a contextual feature. The image for the feature appears first, with image dimensions of 360px x 203px, and below the image is a linked title for the feature followed by a brief description of the feature being promoted.</p>
                     <p>Below the contextual feature is the social media channels component. Its heading is “On social media”. It features five icons: Facebook, X, YouTube, Instagram, LinkedIn. Beside each icon is linked text for the account name.</p>
-                    <p>At the bottom of the page, just above the “Date modified” field and the footer, there is the Contributors pattern. It is left-aligned. The text is “From:” it is then followed by linked text labeled [Department or agency], presented vertically.</p> 
+                    <p>At the bottom of the page, just above the date modified field and the footer, there is the contributors pattern. It is left-aligned. The text is “From:” it is then followed by linked text labeled [Department or agency], presented vertically.</p> 
                </details>
                </figure>
         </div>
