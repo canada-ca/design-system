@@ -78,7 +78,7 @@ title: Theme page
         What to avoid
     </h2>
     <p>
-        Pages where people can initiate a task should be considered destination content, and should not use the theme template
+        Pages where people can initiate a task should be considered destination content, and should not use the theme template.
     </p>
     <p>
         The theme template should not be used for promotion; instead, use
@@ -89,7 +89,7 @@ title: Theme page
         <a href="../recommended-templates/campaign-pages.html">
             Campaign pages
         </a>
-        .
+      .
     </p>
 </section>
 
