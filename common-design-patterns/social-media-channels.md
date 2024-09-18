@@ -177,23 +177,23 @@ title: Social media channels
                     <li>Instagram icon followed by the placeholder text InstagramName</li>
                     <li>LinkedIn icon followed by the placeholder text LinkedInName</li>
                 </ul>
+              <p>Below the icons is a link with the label: More ways to connect</p>
             </details>
-            <p>Below the icons is a link with the label: More ways to connect</p>
         </figure>
     </div>
         <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
             <figcaption><b>Social media channels (horizontal view with labels and more ways to connect link) - small screen</b></figcaption>
-            <img src="../images/social-media-horizontal-en-sm.png" class="img-responsive" alt="Social media channels (horizontal view with labels and more ways to connect link) for small screens. Text version below:" />
+            <img src="../images/social-media-horizontal-en-sm.png" class="img-responsive" alt="Social media channels (horizontal view with more ways to connect link) for small screens. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: social media channels (horizontal view with labels and more ways to connect link) - small screen</summary>
-                <p>Social media channel links appear in a section with the heading “On social media”. Below the heading is a vertical list with associated icons and labels:</p>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: social media channels (horizontal view with more ways to connect link) - small screen</summary>
+                <p>Social media channel links appear in a section with the heading “On social media”. Below the heading is a horizontal list with associated icons:</p>
                 <ul>
-                    <li>Facebook icon followed by the placeholder text FacebookPageName</li>
-                    <li>X icon followed by the placeholder text @XAccount</li>
-                    <li>Youtube icon followed by the placeholder text YouTubeName</li>
-                    <li>Instagram icon followed by the placeholder text InstagramName</li>
-                    <li>LinkedIn icon followed by the placeholder text LinkedInName</li>
+                    <li>Facebook icon</li>
+                    <li>X icon</li>
+                    <li>Youtube icon</li>
+                    <li>Instagram icon</li>
+                    <li>LinkedIn icon</li>
                 </ul>
                 <p>Below the icons is a link with the label: More ways to connect</p>
             </details>
