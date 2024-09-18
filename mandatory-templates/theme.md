@@ -25,11 +25,10 @@ title: Theme page
 
 <ul>
     <li>
-        provide support for theme navigation rather than institutional navigation of government-wide content (see
+        provide support for theme navigation rather than institutional navigation of government-wide content, see
         <a href="{{ site.url }}/specifications/information-findability/organizing-content.html#toc1">
             How people find tasks: theme and institutional navigation
         </a>
-        )
     </li>
     <li>
         prioritize content and navigation by presenting the most visited information and services first
@@ -87,9 +86,8 @@ title: Theme page
         </a>
         or
         <a href="../recommended-templates/campaign-pages.html">
-            Campaign pages
+            Campaign pages.
         </a>
-      .
     </p>
 </section>
 
