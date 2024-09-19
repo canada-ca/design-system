@@ -100,6 +100,7 @@ title: Social media channels
                     <tbody>
                         <tr>
                             <td>Facebook</td>
+                            <td><p>facebook</p></td>
                             <td class="text-center">
                             <div class="provisional gc-followus">
                             <ul class="list-inline">
