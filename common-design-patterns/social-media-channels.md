@@ -262,7 +262,7 @@ title: Social media channels
     <p>This is an optional pattern for the following mandatory templates:</p>
     <ul>
         <li><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional landing page</a></li>
-        <li><a href="https://design.canada.ca/mandatory-templates/theme-topic.html">Topic page template</a></li>
+        <li><a href="https://design.canada.ca/mandatory-templates/topic.html">Topic page template</a></li>
         <li><a href="https://design.canada.ca/mandatory-templates/ministerial-profile-pages.html">Ministerial pages</a></li>
     </ul>
 </section>
