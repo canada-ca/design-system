@@ -144,7 +144,6 @@ title: Social media channels
                         <tr>
                             <td>LinkedIn</td>
                             <td><p>linkedin</p></td>
-                            <td><p>linkedin</p></td>
                             <td class="text-center"><div class="provisional gc-followus">
                                 <ul class="list-inline">
                                     <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/linkedin.svg" class="linkedin"><span class="wb-inv">LinkedIn</span></a></li>
