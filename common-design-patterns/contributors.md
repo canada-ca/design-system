@@ -46,7 +46,7 @@ title: Contributors
     <p>This pattern should be positioned below all content on the page, but above the date modified field.</p>
     <p>Do not place this block in line with other text blocks or layout elements; it stands alone.</p>
     <p>Left-align the heading and the links.</p>
-    <p>Use paragraph, heading and link <a href="https://design.canada.ca/styles/colours.html">standard colours</a>.</p>
+    <p>Use standard paragraph, heading and link <a href="https://design.canada.ca/styles/colours.html">colours</a>.</p>
     <p>The heading is an H2 styled at font-size: 87% (or 17px).</p>
     <p>The list items are bolded and sized at font-size: 87% (or 17px).</p>
     <p>The links are to the right of the H2 and are coded in a horizontal list. The first item in the list is unstyled (no bullet).</p>
