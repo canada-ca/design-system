@@ -100,28 +100,56 @@ title: Social media channels
                     <tbody>
                         <tr>
                             <td>Facebook</td>
-                            <td><p>facebook</p></td>
-                            <td class="text-center"><img style="max-width:50px;" src="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/gc-follow-us/facebook.svg" /></td>
+                            <td class="text-center">
+                            <div class="provisional gc-followus">
+                            <ul class="list-inline">
+                                <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/facebook.svg" class="facebook"><span class="wb-inv">Facebook</span></a></li>
+                             </ul>
+                            </div>
+                            </td>
                         </tr>
                         <tr>
                             <td>X</td>
                             <td><p>twitter</p></td>
-                            <td class="text-center"><img style="max-width:50px;" src="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/gc-follow-us/x.svg" /></td>
+                             <td class="text-center">
+                             <div class="provisional gc-followus">
+                                <ul class="list-inline">
+                                    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/twitter.svg" class="twitter"><span class="wb-inv">X</span></a></li>
+                                </ul>
+                            </div>
+                            </td>
                         </tr>
                         <tr>
                             <td>YouTube</td>
                             <td><p>youtube</p></td>
-                            <td class="text-center"><img style="max-width:50px;" src="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/gc-follow-us/youtube.svg" /></td>
+                            <td class="text-center">
+                            <div class="provisional gc-followus">
+                            <ul class="list-inline">
+                                <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/youtube.svg" class="youtube"><span class="wb-inv">YouTube</span></a></li>
+                            </ul>
+                            </div>
+                            </td>
                         </tr>
                         <tr>
                             <td>Instagram</td>
                             <td>instagram</td>
-                            <td class="text-center"><img style="max-width:50px;" src="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/gc-follow-us/instagram.svg" /></td>
+                            <td class="text-center"><div class="provisional gc-followus">
+                            <ul class="list-inline">
+                                <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/instagram.svg" class="instagram"><span class="wb-inv">Instagram</span></a></li>
+                            </ul>
+                            </div>
+                        </td>
                         </tr>
                         <tr>
                             <td>LinkedIn</td>
                             <td><p>linkedin</p></td>
-                            <td class="text-center"><img style="max-width:50px;" src="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/gc-follow-us/linkedin.svg" /></td>
+                            <td><p>linkedin</p></td>
+                            <td class="text-center"><div class="provisional gc-followus">
+                                <ul class="list-inline">
+                                    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/linkedin.svg" class="linkedin"><span class="wb-inv">LinkedIn</span></a></li>
+                                </ul>
+                            </div>
+                            </td>
                         </tr>
                     </tbody>
                 </table>
