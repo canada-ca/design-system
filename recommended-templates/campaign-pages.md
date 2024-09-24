@@ -5,7 +5,7 @@ dateModified: '2024-09-24'
 description: null
 title: 'Campaign pages template'
 ---
-<section class="alert alert-info">
+<section class="alert alert-info mrgn-tp-lg">
   <p>We are currently updating this guidance. Please speak to your web/UX team for advice on visual design for campaign pages.</p>
 </section>
 
