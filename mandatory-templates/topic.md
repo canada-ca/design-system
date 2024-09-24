@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/modeles-obligatoire/sujet.html
 date: null
-dateModified: '2024-09-23'
+dateModified: '2024-09-24'
 description: "Topic pages provide access to topics and destination pages that support task completion."
 title: Topic page
 ---
@@ -188,7 +188,7 @@ title: Topic page
  </h2>
  <p>
   <strong>
-   2024-09-23:
+   2024-09-24:
   </strong>
  </p>
  <ul>
