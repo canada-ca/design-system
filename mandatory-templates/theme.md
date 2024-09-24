@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/modeles-obligatoire/theme.html
 date: null
-dateModified: '2024-09-13'
+dateModified: '2024-09-24'
 description: null
 title: Theme page
 ---
@@ -540,7 +540,7 @@ title: Theme page
     </h2>
     <p>
         <strong>
-            2024-09-13:
+            2024-09-24:
         </strong>
     </p>
     <ul>
