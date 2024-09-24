@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/configurations-conception-communes/bloc-medias-sociaux.html
 date: null
-dateModified: '2024-04-03'
+dateModified: '2024-09-24'
 description: The social media channels pattern provides links to official Government of Canada social media accounts on various social media platforms.
 title: Social media channels
 ---
@@ -44,6 +44,8 @@ title: Social media channels
         <li>Vertical display includes a label next to each icon</li>
         <li>Horizontal display only includes the icons</li>
     </ul>
+    <h4>Optional link</h4>
+    <p>You can add a link with the label “More ways to connect” if you want to link to additional social media accounts or other departmental communications platforms (ie. podcasts, external magazine, etc.). The link should point to a page that lists all your social media accounts and additional ways to connect with/follow the department.</p>
     <p>If there is more than one account from a platform:</p>
     <ul>
         <li>Include the platform name next to its icon (vertical only)</li>
@@ -63,15 +65,22 @@ title: Social media channels
             <ul>
                 <li>Modal header background colour: #2e5274</li>
                 <li>Header: H2, Lato, styled as font size: 1.15em</li>
+                <li>Button is styled as a primary button.</li>
             </ul>
         </li>
         <li>
             Links:
             <ul>
-                <li>Font: Noto Sans, 16px, <a href="https://design.canada.ca/styles/colours.html">standard link colours</a></li>
+                <li>Font: Noto Sans, 17px, <a href="https://design.canada.ca/styles/colours.html">standard link colours</a></li>
             </ul>
         </li>
-        <li>Button is styled as a primary button.</li>
+        <li>“More ways to connect” link:
+        <ul>
+            <li>Font: Noto Sans, 17px, <a href="https://design.canada.ca/styles/colours.html">standard link colours</a></li>
+            <li>Aligned to the left</li>
+            <li>Positioned under the list of icons</li>
+        </ul>
+</li>
     </ul>
     <p>The following social media link classes and associated icons are available.</p>
     <div class="row mrgn-tp-lg">
@@ -92,34 +101,61 @@ title: Social media channels
                         <tr>
                             <td>Facebook</td>
                             <td><p>facebook</p></td>
-                            <td class="text-center"><img style="max-width:50px;" src="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/gc-follow-us/facebook.svg" /></td>
+                            <td class="text-center">
+                            <div class="provisional gc-followus">
+                            <ul class="list-inline">
+                                <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/facebook.svg" class="facebook"><span class="wb-inv">Facebook</span></a></li>
+                             </ul>
+                            </div>
+                            </td>
                         </tr>
                         <tr>
                             <td>X</td>
                             <td><p>twitter</p></td>
-                            <td class="text-center"><img style="max-width:50px;" src="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/gc-follow-us/x.svg" /></td>
+                             <td class="text-center">
+                             <div class="provisional gc-followus">
+                                <ul class="list-inline">
+                                    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/twitter.svg" class="twitter"><span class="wb-inv">X</span></a></li>
+                                </ul>
+                            </div>
+                            </td>
                         </tr>
                         <tr>
                             <td>YouTube</td>
                             <td><p>youtube</p></td>
-                            <td class="text-center"><img style="max-width:50px;" src="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/gc-follow-us/youtube.svg" /></td>
+                            <td class="text-center">
+                            <div class="provisional gc-followus">
+                            <ul class="list-inline">
+                                <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/youtube.svg" class="youtube"><span class="wb-inv">YouTube</span></a></li>
+                            </ul>
+                            </div>
+                            </td>
                         </tr>
                         <tr>
                             <td>Instagram</td>
                             <td>instagram</td>
-                            <td class="text-center"><img style="max-width:50px;" src="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/gc-follow-us/instagram.svg" /></td>
+                            <td class="text-center"><div class="provisional gc-followus">
+                            <ul class="list-inline">
+                                <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/instagram.svg" class="instagram"><span class="wb-inv">Instagram</span></a></li>
+                            </ul>
+                            </div>
+                        </td>
                         </tr>
                         <tr>
                             <td>LinkedIn</td>
                             <td><p>linkedin</p></td>
-                            <td class="text-center"><img style="max-width:50px;" src="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/gc-follow-us/linkedin.svg" /></td>
+                            <td class="text-center"><div class="provisional gc-followus">
+                                <ul class="list-inline">
+                                    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/linkedin.svg" class="linkedin"><span class="wb-inv">LinkedIn</span></a></li>
+                                </ul>
+                            </div>
+                            </td>
                         </tr>
                     </tbody>
                 </table>
             </div>
         </div>
     </div>
-    <p><a href="https://design.canada.ca/contact-us/">Contact the Digital Transformation Office (DTO)</a> if you want to include a platform that is not represented here.</p>
     <h3>Visual examples</h3>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
@@ -157,10 +193,10 @@ title: Social media channels
     </div>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
-            <figcaption><b>Social media channels (vertical view with labels) - small screen</b></figcaption>
-            <img src="../images/social-media-vertical-en-sm.png" class="img-responsive" alt="Social media channels (vertical view with labels) for small screens. Text version below:" />
+            <figcaption><b>Social media channels (vertical view with labels and more ways to connect link) - small screen</b></figcaption>
+            <img src="../images/social-media-vertical-en-sm.png" class="img-responsive" alt="Social media channels (vertical view with labels and more ways to connect link) for small screens. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: social media channels (vertical view with labels) - small screen</summary>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: social media channels (vertical view with labels and more ways to connect link) - small screen</summary>
                 <p>Social media channel links appear in a section with the heading “On social media”. Below the heading is a vertical list with associated icons and labels:</p>
                 <ul>
                     <li>Facebook icon followed by the placeholder text FacebookPageName</li>
@@ -169,6 +205,25 @@ title: Social media channels
                     <li>Instagram icon followed by the placeholder text InstagramName</li>
                     <li>LinkedIn icon followed by the placeholder text LinkedInName</li>
                 </ul>
+              <p>Below the icons is a link with the label: More ways to connect</p>
+            </details>
+        </figure>
+    </div>
+        <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
+        <figure class="mrgn-tp-md mrgn-bttm-lg">
+            <figcaption><b>Social media channels (horizontal view with labels and more ways to connect link) - small screen</b></figcaption>
+            <img src="../images/social-media-horizontal-en-sm.png" class="img-responsive" alt="Social media channels (horizontal view with more ways to connect link) for small screens. Text version below:" />
+            <details>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: social media channels (horizontal view with more ways to connect link) - small screen</summary>
+                <p>Social media channel links appear in a section with the heading “On social media”. Below the heading is a horizontal list with associated icons:</p>
+                <ul>
+                    <li>Facebook icon</li>
+                    <li>X icon</li>
+                    <li>Youtube icon</li>
+                    <li>Instagram icon</li>
+                    <li>LinkedIn icon</li>
+                </ul>
+                <p>Below the icons is a link with the label: More ways to connect</p>
             </details>
         </figure>
     </div>
@@ -235,13 +290,17 @@ title: Social media channels
     <p>This is an optional pattern for the following mandatory templates:</p>
     <ul>
         <li><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional landing page</a></li>
-        <li><a href="https://design.canada.ca/mandatory-templates/theme-topic.html">Theme and topic page template</a></li>
+        <li><a href="https://design.canada.ca/mandatory-templates/topic.html">Topic page template</a></li>
         <li><a href="https://design.canada.ca/mandatory-templates/ministerial-profile-pages.html">Ministerial pages</a></li>
     </ul>
 </section>
 <section>
     <h2 id="latest">Latest changes</h2>
     <dl class="dl-horizontal">
+      <dt>
+            <time datetime="2024-09-24" class="link-muted">2024-09-19</time>
+        </dt>
+        <dd>Updated the pattern to add an optional “More ways to connect” link.</dd>
         <dt>
             <time datetime="2023-08-13" class="link-muted">2024-04-03</time>
         </dt>

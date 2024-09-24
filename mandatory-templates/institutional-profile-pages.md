@@ -63,6 +63,7 @@ title: Institutional landing page
                                 <td>
                                     <p>Use the applied title of the institution (see <a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/fip-pcim/reg-eng.asp">Registry of Applied Titles</a>).</p>
                                     <p>The description should be a very brief summary of what the institution does.</p>
+                                    <p>Image is optional. If including an image, use full-width image.</p>
                                 </td>
                                 <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Required</span></td>
                             </tr>
@@ -336,7 +337,7 @@ title: Institutional landing page
         <h3>Policy rationale</h3>
         <p>This template is a mandatory element of the Content and Information Architecture Specification.</p>
         <ul>
-            <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html">Mandatory elements of the design system</a></li>
+            <li><a href="https://design.canada.ca/specifications/mandatory-elements.html">Mandatory elements of the design system</a></li>
         </ul>
     </section>
     <section>

@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/configurations-conception-communes/vignettes-promotionnelles.html
 date: null
 dateModified: '2024-04-03'
-description: Guidance about using the context specific features pattern on Canada.ca. 
+description: Guidance about using the context specific features pattern on Canada.ca.
 title: Context-specific features
 ---
 <p><strong>Last updated</strong>: {{ page.dateModified }}</p>
@@ -194,7 +194,7 @@ title: Context-specific features
 <section>
     <h2 id="research">Research and rationale</h2>
     <p>Consult research findings and policy rationale.</p>
-    <h3>Research findings</h3>  
+    <h3>Research findings</h3>
     <p>
         Less is more. Research on improving promotions on Canada.ca shows that features are the most effective when they’re relevant to the content on the page. A single feature tile works best, but keep the number to a minimum if you plan
         to use more than one.
@@ -203,7 +203,7 @@ title: Context-specific features
     <p>This is an optional pattern for the following mandatory templates:</p>
     <ul>
         <li><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional landing page</a></li>
-        <li><a href="https://design.canada.ca/mandatory-templates/theme-topic.html">Theme and topic page</a></li>
+        <li><a href="https://design.canada.ca/mandatory-templates/topic.html">Topic page</a></li>
         <li><a href="https://design.canada.ca/mandatory-templates/ministerial-profile-pages">Ministerial pages</a></li>
     </ul>
 </section>

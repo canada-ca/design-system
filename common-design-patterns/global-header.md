@@ -389,7 +389,7 @@ title: "Global header"
 <h3>Policy rationale</h3>
 <p>This pattern is a mandatory element of the <cite>Content and Information Architecture Specification.</cite></p>
 <ul>
-  <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html">Mandatory elements of the design system</a></li>
+  <li><a href="https://design.canada.ca/specifications/mandatory-elements.html">Mandatory elements of the design system</a></li>
 </ul>
 <h2 id="changes">Latest changes</h2>
 <dl class="dl-horizontal">

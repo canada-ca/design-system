@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/configurations-conception-communes/bloc-introduction.html"
 date: 2023-08-20
-dateModified: 2024-04-03
+dateModified: 2024-09-24
 description: Guidance about using the introduction block pattern on Canada.ca.
 title: Introduction block
 ---
@@ -26,6 +26,7 @@ title: Introduction block
 <section>
     <h2 id="avoid">What to avoid</h2>
     <p>Don’t use this on destination pages when people are trying to complete a task.</p>
+    <p>Don’t use the full-width image on topic pages, use a half-width image.</p>
 </section>
 <section>
     <h2 id="design">Content and design</h2>
@@ -76,12 +77,24 @@ title: Introduction block
             </ul>
         </li>
         <li>
-            Image
+            Full-width background image
             <ul>
                 <li>1200px by 726px</li>
                 <li>Image ratio: 1.65:1</li>
                 <li>Visible on large screens, but hidden on medium and small screens</li>
-                <li>Treated as a background image and positioned to the right</li>
+                <li>Treated as a background image:
+                    <ul>
+                        <li>default design has the image positioned to the right, with a gradient fading out 50% of the image</li>
+                    </ul>
+                    </li>
+            </ul>
+        </li>
+           <li>
+            Half-width image
+            <ul>
+                <li>520px by 200px</li>
+                <li>Visible on large screens, but hidden on medium and small screens</li>
+                <li>Positioned to the right</li>
             </ul>
         </li>
         <li>
@@ -113,6 +126,16 @@ title: Introduction block
             <details>
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: introduction block - small screen </summary>
                 <p>The introduction block appears below the global header and the Canada.ca breadcrumb. It consists of an h1 for Institution name and a short description of the institution’s mandate. This visual example does not include the optional image and supertask button.</p>
+            </details>
+        </figure>
+    </div>
+        <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
+        <figure class="mrgn-tp-md mrgn-bttm-lg">
+            <figcaption><b>Introduction block with half-width image - Large screen</b></figcaption>
+            <img src="../images/intro-block-topic-en.png" class="img-responsive" alt="Introduction block pattern half-width image for large screens. Text version below:" />
+            <details>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: introduction block with half-width image - large screen </summary>
+                <p>The introduction block appears below the global header and the Canada.ca breadcrumb. It consists of an h1 for the topic title and a short description that describes the topics and top tasks that can be accessed on the page. It also includes a half-width image that is 520px by 200px positioned to the right of the h1 and description.</p>
             </details>
         </figure>
     </div>
@@ -171,12 +194,16 @@ title: Introduction block
     <p>The introduction block pattern is required in the following mandatory templates:</p>
     <ul>
         <li><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional landing page</a></li>
-        <li><a href="https://design.canada.ca/mandatory-templates/theme-topic.html">Theme and topic page template</a></li>
+        <li><a href="https://design.canada.ca/mandatory-templates/topic.html">Topic page template</a></li>
     </ul>
 </section>
 <section>
     <h2 id="latest">Latest changes</h2>
     <dl class="dl-horizontal">
+    <dt>
+            <time datetime="2024-09-24" class="link-muted">2024-09-13</time>
+        </dt>
+        <dd>Updated the guidance to include the half-width image</dd>
         <dt>
             <time datetime="2024-04-03" class="link-muted">2024-04-03</time>
         </dt>

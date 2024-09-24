@@ -171,7 +171,7 @@ title: "Language toggle"
   <h3>Policy rationale</h3>
   <p>As part of the global header, the language toggle is a mandatory element under the <cite>Content and Information Architecture Specification.</cite></p>
   <ul>
-    <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html">Mandatory elements of the design system</a></li>
+    <li><a href="https://design.canada.ca/specifications/mandatory-elements.html">Mandatory elements of the design system</a></li>
   </ul>
   <p>All Government of Canada communications must be available in both official languages.</p>
   <ul>
