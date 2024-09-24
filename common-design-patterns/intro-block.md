@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/configurations-conception-communes/bloc-introduction.html"
 date: 2023-08-20
-dateModified: 2024-09-13
+dateModified: 2024-09-24
 description: Guidance about using the introduction block pattern on Canada.ca.
 title: Introduction block
 ---
@@ -201,7 +201,7 @@ title: Introduction block
     <h2 id="latest">Latest changes</h2>
     <dl class="dl-horizontal">
     <dt>
-            <time datetime="2024-09-13" class="link-muted">2024-09-13</time>
+            <time datetime="2024-09-24" class="link-muted">2024-09-13</time>
         </dt>
         <dd>Updated the guidance to include the half-width image</dd>
         <dt>
