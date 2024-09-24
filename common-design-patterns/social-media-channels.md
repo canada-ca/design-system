@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/configurations-conception-communes/bloc-medias-sociaux.html
 date: null
-dateModified: '2024-09-19'
+dateModified: '2024-09-24'
 description: The social media channels pattern provides links to official Government of Canada social media accounts on various social media platforms.
 title: Social media channels
 ---
@@ -298,7 +298,7 @@ title: Social media channels
     <h2 id="latest">Latest changes</h2>
     <dl class="dl-horizontal">
       <dt>
-            <time datetime="2024-09-19" class="link-muted">2024-09-19</time>
+            <time datetime="2024-09-24" class="link-muted">2024-09-19</time>
         </dt>
         <dd>Updated the pattern to add an optional “More ways to connect” link.</dd>
         <dt>
