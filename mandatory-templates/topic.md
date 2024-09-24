@@ -105,7 +105,7 @@ title: Topic page
                 <figcaption><b>Topic page - large screen</b></figcaption>
                 <img src="../images/topic-page-large.png" class="img-responsive" alt="Topic page for large screens. Text version below:" />
                 <details>
-                    <summary>Topic page - large screen</summary>
+                    <summary>Image description: topic page - large screen</summary>
                     <p>The topic page begins with an introduction block. This has the [Topic title] in the standard Canada.ca h1 style. It is followed by 1-2 sentences that describe the topics and top tasks that can be accessed on the page. To the right is an image with dimensions of 520px x 200px.</p>
                     <p>Underneath the introduction block is a most requested band with two columns of links (three in each row). The links lead to top tasks.</p>
                     <p>Below the most requested band is the services and information pattern. It is three columns, with three topics in each column. The topic begins with a hyperlinked title and then is followed by a description. The instructions for the description reads: Use action verbs, or simply list keywords to summarize the information or tasks that can be accomplished on the page it links to.</p>
@@ -120,7 +120,7 @@ title: Topic page
                 <figcaption><b>Topic page - small screen</b></figcaption>
                 <img src="../images/topic-page-sm.png" class="img-responsive" alt="Topic page for small screens. Text version below:" />
                 <details>
-                    <summary>Topic page - small screen</summary>
+                    <summary>Image description: topic page - small screen</summary>
                     <p>The topic page begins with an introduction block. This has the [Topic title] in the standard Canada.ca h1 style. It is followed by 1-2 sentences that describe the topics and top tasks that can be accessed on the page.</p>
                     <p>Underneath the introduction block is a most requested band with one column of links (six in total). The links lead to top tasks. </p>
                     <p>Below the most requested band is the services and information pattern. It is one column, with nine topics in total. The topic begins with a hyperlinked title and then is followed by a description. The instructions for the description reads: Use action verbs, or simply list keywords to summarize the information or tasks that can be accomplished on the page it links to.</p>
