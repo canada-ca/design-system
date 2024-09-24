@@ -10,6 +10,7 @@ title: Topic page
   Mandatory
  </span>
 </p>
+<p><strong>Last updated</strong>: {{ page.dateModified }}</p>
 
 <p>Topic pages provide access to topics and destination pages that support task completion.</p>
 

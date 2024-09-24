@@ -14,6 +14,7 @@ title: Theme page
         Mandatory
     </span>
 </p>
+<p><strong>Last updated</strong>: {{ page.dateModified }}</p>
 
 <p>
     Theme pages provide access to topics and destination pages that support task completion.

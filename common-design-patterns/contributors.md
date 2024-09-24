@@ -5,6 +5,7 @@ dateModified: '2024-09-19'
 description: null
 title: Contributors
 ---
+<p><strong>Last updated</strong>: {{ page.dateModified }}</p>
 
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/contributors.png" class="img-responsive" alt="" /></div>
 <p>Use the contributors pattern to highlight institutions/organizations that have contributed to the content on a webpage.</p>
