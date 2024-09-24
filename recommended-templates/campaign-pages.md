@@ -1,11 +1,13 @@
 ---
 altLangPage: https://conception.canada.ca/modeles-recommandes/pages-campagnes.html
 date: null
-dateModified: '2018-12-19'
+dateModified: '2024-09-24'
 description: null
 title: 'Campaign pages template'
 ---
-
+<section class="alert alert-info">
+  <p>We are currently updating this guidance. Please speak to your web/UX team for advice on visual design for campaign pages.</p>
+</section>
 
 <div>
 
