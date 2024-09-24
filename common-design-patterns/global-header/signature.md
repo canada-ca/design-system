@@ -124,7 +124,7 @@ title: "Government of Canada signature"
 <p>The Government of Canada signature is defined by the Federal Identity Program. As a part of the global header, it is a mandatory element under the <cite>Content and Information Architecture Specification.</cite></p>
 <ul>
   <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/design-standard/colour-design-standard-fip.html">Design Standard for the Federal Identity Program</a></li>
-  <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html">Mandatory elements of the design system</a></li>
+  <li><a href="https://design.canada.ca/specifications/mandatory-elements.html">Mandatory elements of the design system</a></li>
 </ul>
 <h2 id="changes">Latest changes</h2>
 <dl class="dl-horizontal">

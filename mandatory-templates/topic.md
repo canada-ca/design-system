@@ -179,7 +179,7 @@ title: Topic page
      <h2 id="research">Policy rationale</h2>
      <p>This template is a mandatory element of the Canada.ca Specifications.</p>
      <ul>
-          <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html">Mandatory elements of the design system</a></li>
+          <li><a href="https://design.canada.ca/specifications/mandatory-elements.html">Mandatory elements of the design system</a></li>
      </ul>
 </section>
  <h2 id="changes">

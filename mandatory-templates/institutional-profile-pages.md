@@ -337,7 +337,7 @@ title: Institutional landing page
         <h3>Policy rationale</h3>
         <p>This template is a mandatory element of the Content and Information Architecture Specification.</p>
         <ul>
-            <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html">Mandatory elements of the design system</a></li>
+            <li><a href="https://design.canada.ca/specifications/mandatory-elements.html">Mandatory elements of the design system</a></li>
         </ul>
     </section>
     <section>
