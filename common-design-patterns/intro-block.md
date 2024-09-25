@@ -146,7 +146,7 @@ title: Introduction block
     <h3>GCweb (WET) theme implementation reference</h3>
     <p>The implementation reference includes how to configure elements of the design system.</p>
     <ul>
-        <li><a href="https://wet-boew.github.io/GCWeb/design-patterns/gc-intro/gc-intro-image-en.html">Introduction block - GCWeb</a></li>
+        <li><a href="https://wet-boew.github.io/GCWeb/design-patterns/gc-intro/gc-intro-doc-en.html">Introduction block - GCWeb</a></li>
         <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-en.html">Quick implementation guide - GCWeb theme</a></li>
     </ul>    <h3>Implementations</h3>
     <p>Determine what best suits the type of page you're creating.</p>
