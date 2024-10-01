@@ -133,7 +133,8 @@ title: Most requested band
 <p>The most requested pattern is required in the following mandatory templates:</p>
 <ul>
     <li><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional landing page</a></li>
-    <li><a href="https://design.canada.ca/mandatory-templates/theme-topic.html">Theme and topic page template</a></li>
+    <li><a href="https://design.canada.ca/mandatory-templates/theme.html">Theme page template</a></li>
+    <li><a href="https://design.canada.ca/mandatory-templates/topic.html">Topic page template</a></li>
 </ul>
 <h2 id="latest">Latest changes</h2>
 <dl class="dl-horizontal">

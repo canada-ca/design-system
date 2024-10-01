@@ -182,7 +182,8 @@ title: Services and information
     <p>Services and information is an required pattern for the following mandatory templates:</p>
     <ul>
         <li><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional landing page</a></li>
-        <li><a href="https://design.canada.ca/mandatory-templates/theme-topic.html">Theme and topic page template</a></li>
+        <li><a href="https://design.canada.ca/mandatory-templates/theme.html">Theme template</a></li>
+        <li><a href="https://design.canada.ca/mandatory-templates/topic.html">Topic page template</a></li>
     </ul>
 </section>
 <section>
