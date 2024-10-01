@@ -335,7 +335,7 @@ title: Institutional landing page
             access to corporate information about the organization.
         </p>
         <h3>Policy rationale</h3>
-        <p>This template is a mandatory element of the Content and Information Architecture Specification.</p>
+        <p>This template is a mandatory element of the Canada.ca Specifications.</p>
         <ul>
             <li><a href="https://design.canada.ca/specifications/mandatory-elements.html">Mandatory elements of the design system</a></li>
         </ul>

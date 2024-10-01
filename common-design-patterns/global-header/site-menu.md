@@ -236,7 +236,7 @@ title: "Theme and topic menu"
 
 <h3>Policy rationale</h3>
 <p>The spacing specifications for the breadcrumb links are designed so that touch targets meet WCAG AAA requirements.</p>
-<p>As part of the global header, the breadcrumb is a mandatory element under the <cite>Content and Information Architecture Specification.</cite></p>
+<p>As part of the global header, the breadcrumb is a mandatory element under the <cite>Canada.ca Specifications.</cite></p>
 <ul>
   <li><a href="https://design.canada.ca/specifications/mandatory-elements.html">Mandatory elements of the design system</a></li>
 </ul>

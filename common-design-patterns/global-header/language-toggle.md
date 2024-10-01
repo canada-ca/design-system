@@ -169,7 +169,7 @@ title: "Language toggle"
   <h2 id="research">Research and rationale</h2>
   <p>Consult policy rationale.</p>
   <h3>Policy rationale</h3>
-  <p>As part of the global header, the language toggle is a mandatory element under the <cite>Content and Information Architecture Specification.</cite></p>
+  <p>As part of the global header, the language toggle is a mandatory element under the <cite>Canada.ca Specifications.</cite></p>
   <ul>
     <li><a href="https://design.canada.ca/specifications/mandatory-elements.html">Mandatory elements of the design system</a></li>
   </ul>

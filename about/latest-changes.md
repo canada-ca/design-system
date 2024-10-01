@@ -17,7 +17,7 @@ title: "Latest changes to the Canada.ca design system"
     <summary>August 28, 2024</summary>
     <p>Launched a new information architecture and new content for design.canada.ca. Changes include:</p>
     <ul>
-      <li>Renamed the Content and Information Architecture Specification to the <a href="{{ site.url }}/specifications.html">Canada.ca Specifications</a>.</li> 
+      <li>Renamed the Content and Information Architecture Specification to the <a href="{{ site.url }}/specifications.html">Canada.ca Specifications</a>.</li>
       <li>Updated the Canada.ca Specifications to include the Canada.ca Content Style Guide and guidance on information architecture and findability, as well as a link to the GC design system: <a href="{{ site.url }}/specifications.html">Canada.ca Specifications</a>.</li>
       <li>Created guidance on how to write metadata for Canada.ca pages: <a href="{{ site.url }}/specifications/information-findability/metadata.html">Improving titles and metadata for findability</a>.</li>
       <li>Consolidated domain and URL guidance into one page: <a href="{{ site.url }}/specifications/mandatory-elements/domains-urls.html">Government of Canada domains and URLs</a>.</li>
@@ -199,7 +199,7 @@ title: "Latest changes to the Canada.ca design system"
     <summary>January 31, 2019</summary>
     <p>We’ve made major updates to the Canada.ca design system:</p>
     <ul>
-      <li>the <a href="{{ site.url }}/architecture/canada-content-information-architecture-specification.html">Canada.ca Content and Information Architecture Specification</a> now contains only core requirements:</li>
+      <li>the <a href="{{ site.url }}/architecture/canada-content-information-architecture-specification.html">Canada.ca Specifications</a> now contains only core requirements:</li>
       <ul>
         <li>who must follow the Canada.ca design system</li>
         <li>what elements are mandatory</li>
