@@ -6,7 +6,7 @@ description: "The Canada.ca Content Style Guide provides the rules to create web
 title: "Canada.ca Content Style Guide"
 ---
 <section id="intro">
-  <p>These are the rules to create web content that can be easily found, understood and used. They are based on writing principles and techniques that help make web content clear and adapted to the needs of all people. Use it with the <a href="{{ site.url }}/architecture/canada-content-information-architecture-specification.html">Content and Information Architecture Specification</a> when you're designing and organizing web content.</p>
+  <p>These are the rules to create web content that can be easily found, understood and used. They are based on writing principles and techniques that help make web content clear and adapted to the needs of all people. Use it with the <a href="{{ site.url }}/architecture/canada-content-information-architecture-specification.html">Canada.ca Specifications</a> when you're designing and organizing web content.</p>
 </section>
 <section id="toc">
   <div class="row mrgn-tp-lg">
@@ -60,7 +60,7 @@ title: "Canada.ca Content Style Guide"
   <h2>Related policies, standards and procedures</h2>
   <p>Content must comply with:</p>
   <ul>
-    <li>templates, content components, character limits and other requirements as described in the <cite><a href="{{ site.url }}/architecture/canada-content-information-architecture-specification.html">Canada.ca Content and Information Architecture Specification</a></cite></li>
+    <li>templates, content components, character limits and other requirements as described in the <cite><a href="{{ site.url }}/architecture/canada-content-information-architecture-specification.html">Canada.ca Specifications</a></cite></li>
     <li>requirements set out in the related legislated and policy instruments, including:
       <ul>
         <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30683">Policy on Communications and Federal Identity</a></cite></li>
@@ -465,7 +465,7 @@ title: "Canada.ca Content Style Guide"
     <p>People who don't speak English or French might use online tools to translate text. These tools do not always translate words and ideas accurately.</p>
     <h4>Examples</h4>
     <ul>
-      <li><strong>Jargon</strong>: 
+      <li><strong>Jargon</strong>:
         <ul>
           <li>adverse effect (effect)</li>
           <li>citizen engagement (meaningful involvement of citizens)</li>
@@ -2029,7 +2029,7 @@ title: "Canada.ca Content Style Guide"
       <li>promotional features on a topic page or home page (Government of Canada activities and initiatives)</li>
     </ul>
     <p>Don't place meaningful text, such as campaign or program titles, in decorative images.</p>
-    <p>Get details about the templates above in the <a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-eng.asp">Canada.ca Content and Information Architecture Specification</a>.</p>
+    <p>Get details about the templates above in the <a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-eng.asp">Canada.ca Specifications</a>.</p>
     <h5>Example of a decorative image</h5>
     <p><img alt="Decorative image in context to create visual interest" class="img-responsive" src="/style-guide/images/shopping-cart-02.png"></p>
     <h5>Don’t describe decorative images</h5>
@@ -2041,7 +2041,7 @@ title: "Canada.ca Content Style Guide"
     <h4>Image sizing and placement</h4>
     <p>Learn where to place images and videos on Canada.ca and what size they should be:</p>
     <ul>
-      <li>use the templates in the <a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-eng.asp">Canada.ca Content and Information Architecture Specification</a></li>
+      <li>use the templates in the <a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-eng.asp">Canada.ca Specifications</a></li>
       <li>see the <a href="https://wet-boew.github.io/themes-dist/GCWeb/index-en.html">Canada.ca page types on GitHub</a></li>
     </ul>
   </section>
@@ -2173,7 +2173,7 @@ title: "Canada.ca Content Style Guide"
       </tfoot>
     </table>
   </figure>
-  <p>Work with your web team to determine the best way to include the long description information. They'll guide you on how to make sure the image is accessible to people using assistive technology. They'll also ensure that your image meets the <cite><a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-eng.asp">Canada.ca Content and Information Architecture Specification</a></cite>.</p>
+  <p>Work with your web team to determine the best way to include the long description information. They'll guide you on how to make sure the image is accessible to people using assistive technology. They'll also ensure that your image meets the <cite><a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-eng.asp">Canada.ca Specifications</a></cite>.</p>
   <h4>See how this rule applies in French:</h4>
   <ul>
     <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp6-3">6.3 Ajouter une description longue pour expliquer les images complexes</a></span></li>

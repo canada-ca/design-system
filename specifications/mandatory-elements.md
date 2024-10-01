@@ -58,8 +58,8 @@ breadcrumbs: [{
 <h2 id="mandatory">Other mandatory templates</h2>
 <p>Specific Canada.ca page types use mandatory templates. Consistency in these page types helps people find and accomplish tasks. </p>
 <ul>
-  <li><a href="https://design.canada.ca/mandatory-templates/theme-topic.html">Theme page</a>: top-level page for each Canada.ca theme, to be used only by theme lead institution</li>
-  <li><a href="https://design.canada.ca/mandatory-templates/theme-topic.html">Topic page</a>: mandatory for the first 2 levels of topics in the Canada.ca topic tree, optional for lower-level topics</li>
+  <li><a href="https://design.canada.ca/mandatory-templates/theme.html">Theme page</a>: top-level page for each Canada.ca theme, to be used only by theme lead institution</li>
+  <li><a href="https://design.canada.ca/mandatory-templates/topic.html">Topic page</a>: mandatory for the first 2 levels of topics in the Canada.ca topic tree, optional for lower-level topics</li>
   <li><a href="https://design.canada.ca/mandatory-templates/audience-pages.html">Government-wide audience page</a>: to be used only by the institutions managing the government-wide audiences</li>
   <li><a href="https://design.canada.ca/mandatory-templates/ministerial-profile-pages.html">Ministerial profile</a>: to be used for ministers and parliamentary secretaries (also used with modification for heads of quasi-judicial arm’s-length institutions)</li>
   <li><a href="https://design.canada.ca/mandatory-templates/news-pages.html#product">News products</a>: common layouts for news products such as releases, backgrounders, advisories and speeches</li>

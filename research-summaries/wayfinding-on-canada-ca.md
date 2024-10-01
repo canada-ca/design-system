@@ -219,7 +219,7 @@ title: "Wayfinding on Canada.ca"
   <li><a href="https://blog.canada.ca/2022/12/21/wayfinding-research-project">Wayfinding research project improves our approach to navigation on Canada.ca</a><br>
     blog post that describes the rolling out of a new design to navigate on Canada.ca</li>
   <li><a href="https://design.canada.ca/specifications/mandatory-elements.html">Mandatory elements of the Canada.ca design system</a><br>
-    Canada.ca Content and Information Architecture Specification that provides a consistent experience for site visitors</li>
+    Canada.ca Specifications that provides a consistent experience for site visitors</li>
   <li><a href="https://blog.canada.ca/pages/project-overview.html">Improving content on Canada.ca</a><br>
     a list of other projects we have done with our partners</li>
 </ul>

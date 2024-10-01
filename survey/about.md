@@ -37,7 +37,7 @@ title: "       About Canada.ca"
      </li>
      <li>
       <a href="/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification.html">
-       Content and Information Architecture Specification
+       Canada.ca Specifications
       </a>
      </li>
      <li>
@@ -73,7 +73,7 @@ title: "       About Canada.ca"
        </a>
       </h3>
       <p>
-       Content and Information Architecture Specification, Content Style Guide, templates and design patterns, topic tree, institutions list, theme lead departments.
+       Canada.ca Specifications, Content Style Guide, templates and design patterns, topic tree, institutions list, theme lead departments.
       </p>
      </section>
     </div>

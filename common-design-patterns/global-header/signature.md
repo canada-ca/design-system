@@ -121,7 +121,7 @@ title: "Government of Canada signature"
 <p>For example, people trust the page more when the flag in the Government of Canada signature is red.</p>
 <p>If you want to know more about this research, contact the Digital Transformation Office at <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a>.</p>
 <h3>Policy rationale</h3>
-<p>The Government of Canada signature is defined by the Federal Identity Program. As a part of the global header, it is a mandatory element under the <cite>Content and Information Architecture Specification.</cite></p>
+<p>The Government of Canada signature is defined by the Federal Identity Program. As a part of the global header, it is a mandatory element under the <cite>Canada.ca Specifications.</cite></p>
 <ul>
   <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/design-standard/colour-design-standard-fip.html">Design Standard for the Federal Identity Program</a></li>
   <li><a href="https://design.canada.ca/specifications/mandatory-elements.html">Mandatory elements of the design system</a></li>
