@@ -49,7 +49,7 @@ title: "Government of Canada signature"
 <ul>
   <li>Type: image</li>
   <li>Position: top left</li>
-  <li>Flag symbol colour: FIP red (#eb4837)</li>
+  <li>Flag symbol colour: FIP red (#eb2d37)</li>
   <li>Text colour: black (#000000)</li>
   <li>Alt text: Government of Canada</li>
 </ul>
