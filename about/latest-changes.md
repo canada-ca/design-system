@@ -145,7 +145,7 @@ title: "Latest changes to the Canada.ca design system"
   </details>
   <details>
     <summary>June 30, 2020</summary>
-    <p>We added a new beta version of the <a href="{{ site.url }}/mandatory-templates/theme-topic.html">Theme and topic template</a>. </p>
+    <p>We added a new beta version of the <a href="{{ site.url }}/mandatory-templates/theme.html">Theme template</a> and <a href="{{ site.url }}/mandatory-templates/topic.html">topic template</a>. </p>
   </details>
   <details>
     <summary>June 25, 2020</summary>
