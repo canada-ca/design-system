@@ -151,6 +151,34 @@ title: Context-specific features
             </details>
         </figure>
     </div>
+    <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
+        <figure class="mrgn-tp-md mrgn-bttm-lg">
+            <figcaption><b>Context-specific features - single feature - large screen</b></figcaption>
+            <img src="../images/contextual-features-single-en.png" class="img-responsive" alt="Single context-specific feature for large screens. Text version below:" />
+            <details>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: single context-specific feature - large screen</summary>
+                <p>
+                    A heading titled “Featured” is followed by one feature placeholder. The image placeholder is on the left side and is surrounded by a light grey background. Within the image placeholder are the prescribed image
+                    dimensions: 360px x 203px. To the right of the image placeholder is a placeholder hyperlink that reads [Feature hyperlink text]. Underneath is the following placeholder text: Brief description of the
+                    feature being promoted.
+                </p>
+            </details>
+        </figure>
+    </div>
+    <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
+        <figure class="mrgn-tp-md mrgn-bttm-lg">
+            <figcaption><b>Context-specific features - single feature - small screen</b></figcaption>
+            <img src="../images/contextual-features-single-sm-en.png" class="img-responsive" alt="Single context-specific feature for small screens. Text version below:" />
+            <details>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: single context-specific features - small screen</summary>
+                <p>
+                    A heading titled “Featured” is followed by one feature placeholder. The image placeholder is above the text and is surrounded by a light grey background. Within the image placeholder are the prescribed image
+                    dimensions: 360px x 203px. Below the image placeholder is a placeholder hyperlink that reads [Feature hyperlink text]. Underneath is the following placeholder text: Brief description of the
+                    feature being promoted.
+                </p>
+            </details>
+        </figure>
+    </div>
 </section>
 <section>
     <h2 id="implement">How to implement</h2>
