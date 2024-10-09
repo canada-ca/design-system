@@ -18,7 +18,7 @@ breadcrumbs: [{
             "title": "Specifications"
           },
            {
-            "link": "https://design.canada.ca/specifcations/mandatory-elements.html",
+            "link": "https://design.canada.ca/specifications/mandatory-elements.html",
             "title": "Mandatory elements"
           }
         ]
