@@ -553,7 +553,7 @@ title: "Canada.ca Content Style Guide"
           <p>Related links</p>
           <ul><li><a href="http://laws-lois.justice.gc.ca/eng/acts/c-29/FullText.html"><cite>Citizenship Act</cite>, section 5.1</a></li></ul>
           <p><strong>Instead of</strong>: After your child arrives in Canada as a permanent resident, you can apply for citizenship on the child's behalf under section 5.1 of the Citizenship Act.</p>
-    <p>For later mentions, you can refer to it as “the Act” or “the Legislation”. Alternatively, include an abbreviated form in parentheses after the first mention. For additional guidance and examples see:</p>
+    <p>For later mentions, you can refer to it as “the act” or “the legislation”. Alternatively, include an abbreviated form in parentheses after the first mention. For additional guidance and examples see:</p>
     <ul>
       <li><a href="#wp4-4">Section 4.4 abbreviations and acronyms</a></li>
     </ul>
