@@ -39,7 +39,7 @@ title: Social media channels
     <h3>Content specifications</h3>
     <p>The social media channels pattern is made up of the heading “On social media” and icons linking to official GC social media accounts.</p>
     <p>Accounts referred to in the pattern must be fully compliant with the <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=30682">Directive on the Management of Communications</a>.</p>
-    <p>Display a maximum of 7 icons aligned in a vertical column or horizontal row:</p>
+    <p>Display a maximum of 5 icons aligned in a vertical column or horizontal row:</p>
     <ul>
         <li>Vertical display includes a label next to each icon</li>
         <li>Horizontal display only includes the icons</li>
