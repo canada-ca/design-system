@@ -47,7 +47,7 @@ title: Colours style
    Always use the following colours for links:
    <ul>
     <li>
-     default link: #2b4380
+     default link: #284162
     </li>
     <li>
      selected link (on hover or focus): #0535d2
