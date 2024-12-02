@@ -11,6 +11,6 @@ title: Accessibility progress reports at [Institution name]
 <p>Our progress reports describe our progress against our commitments in the accessibility plan.</p>
 
 <ul>
-    <li><a href="#">2024 Accessibility progress report for [Institution name]</a></li>
-    <li><a href="#">2023 Accessibility progress report for [Institution name]</a></li>
+    <li><a href="progress-report.html">2024 Accessibility progress report for [Institution name]</a></li>
+    <li><a href="progress-report.html">2023 Accessibility progress report for [Institution name]</a></li>
 <ul>
