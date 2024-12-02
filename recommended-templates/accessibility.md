@@ -4,6 +4,7 @@ date: null
 dateModified: '2024-12-05'
 description: null
 title: Accessibility reporting template
+section-title: ""
 ---
 
 <p><strong>Last updated</strong>: {{ page.dateModified }}</p>
