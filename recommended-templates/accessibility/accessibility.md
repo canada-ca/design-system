@@ -21,7 +21,7 @@ title: Accessibility at [Institution name]
             <p>Policies, programs, practices, and services that help our organization contribute to the goal of an accessible and barrier-free Canada</p>
         </div>
         <div class="col-lg-4 col-md-6">
-            <h3><a href="progress-report.html">Progress report[s]</a></h3>
+            <h3><a href="progress-report.html">[year] progress report</a> | or | <a href="progress-reports-landing.html">Progress reports</a></h3>
             <p>Results of our activities to improve how our organization contributes to the goal of an accessible and barrier-free Canada</p>
         </div>
         <div class="col-lg-4 col-md-6">
