@@ -13,7 +13,7 @@ title: Accessibility at [Institution name]
 </ul>
 <div><a class="provisional btn btn-call-to-action" href="feedback-form.html">Provide feedback</a></div>
 <div class="container">
-<section class="gc-srvinfo col-md-12">
+<section class="gc-srvinfo">
     <h2 class="wb-inv">Services and information</h2>
     <div class="wb-eqht row">
         <div class="col-lg-4 col-md-6">
