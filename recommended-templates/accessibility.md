@@ -29,7 +29,7 @@ title: Accessibility reporting template
         Guidance on the Accessible Canada Regulations can be found here:
     </p>
     <ul>
-        <li><a href="https://www.canada.ca/en/employment-social-development/programs/accessible-canada-regulations-guidance.html">Guidance on the Accessible Canada Regulations - Canada.ca</a>.</li>
+        <li><a href="https://www.canada.ca/en/employment-social-development/programs/accessible-canada-regulations-guidance.html">Guidance on the Accessible Canada Regulations - Canada.ca</a></li>
     </ul>
 </section>
 <section>
