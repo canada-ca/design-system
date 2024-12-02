@@ -27,8 +27,10 @@ title: Accessibility reporting template
     <p>This is a recommended template to help comply with planning and reporting requirements set by the <cite>Accessible Canada Regulations</cite>.</p>
     <p>
         Guidance on the Accessible Canada Regulations can be found here:
-        <a href="https://www.canada.ca/en/employment-social-development/programs/accessible-canada-regulations-guidance.html">Guidance on the Accessible Canada Regulations - Canada.ca</a>.
     </p>
+    <ul>
+        <li><a href="https://www.canada.ca/en/employment-social-development/programs/accessible-canada-regulations-guidance.html">Guidance on the Accessible Canada Regulations - Canada.ca</a>.</li>
+    </ul>
 </section>
 <section>
     <h2 id="design">Content and design</h2>
