@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/modeles-recommandes/accessibilite/rapport-etape.html
 date: null
-dateModified: '2024-12-04'
+dateModified: '2024-12-05'
 description: null
 title: Accessibility reporting template
 section-title: ""
