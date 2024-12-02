@@ -75,7 +75,7 @@ title: Accessibility reporting template
     <h3>Feedback process</h3>
     <p>Follow the content outline found here:</p>
     <ul>
-        <li><a href="./accessibility/feedback-process.html">Accessibility feedback process at [Institution name] - Canada.ca</a></li>
+        <li><a href="./accessibility/feedback-form.html">Accessibility feedback process at [Institution name] - Canada.ca</a></li>
     </ul>
     <h3>Accessibility feedback form</h3>
     <p>Follow the content outline found here:</p>
