@@ -4,7 +4,7 @@ date: null
 dateModified: '2024-12-05'
 description: null
 title: Accessibility progress reports at [Institution name]
-section-title": ""
+section-title: ""
 ---
 
 <p>Our accessibility plan reflects our organization’s policies, programs, practices and services in relation to identifying and removing accessibility barriers and preventing new barriers in these areas.</p>
