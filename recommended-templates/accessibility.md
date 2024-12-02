@@ -53,9 +53,7 @@ title: Accessibility reporting template
     <p>Suggested text for each of these elements can be found in the template here:</p>
     <ul>
         <li><a href="./accessibility/accessibility.html">Accessibility at [institution name] - Canada.ca</a></li>
-        <li></li>
     </ul>
-
     <p>The accessibility plan, progress reports and feedback process all use the:</p>
     <ul>
         <li><a href="./generic-destination.html">Basic content page layout</a></li>
