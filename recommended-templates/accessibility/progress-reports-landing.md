@@ -5,6 +5,17 @@ dateModified: '2024-12-05'
 description: null
 title: Accessibility progress reports at [Institution name]
 section-title: null
+breadcrumbs: [{
+            "title": "About Canada.ca",
+            "link": "https://design.canada.ca/about/"
+          },{
+            "title": "Design",
+            "link": "https://design.canada.ca/"
+          },{
+            "title": "Research summaries",
+            "link": "https://design.canada.ca/research-summaries/"
+          }
+        ]
 ---
 
 <p>Our accessibility plan reflects our organization’s policies, programs, practices and services in relation to identifying and removing accessibility barriers and preventing new barriers in these areas.</p>
