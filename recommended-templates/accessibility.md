@@ -75,7 +75,7 @@ title: Accessibility reporting template
     <h3>Feedback process</h3>
     <p>Follow the content outline found here:</p>
     <ul>
-        <li><a href="./accessibility/feedback-form.html">Accessibility feedback process at [Institution name] - Canada.ca</a></li>
+        <li><a href="./accessibility/feedback-process.html">Accessibility feedback process at [Institution name] - Canada.ca</a></li>
     </ul>
     <h3>Accessibility feedback form</h3>
     <p>Follow the content outline found here:</p>
@@ -84,7 +84,7 @@ title: Accessibility reporting template
     </ul>
     <p>The accessibility feedback form uses the:</p>
     <ul>
-        <li><a href="./accessibility/feedback-form.html">Advanced field flow component</a> from GCWeb</li>
+        <li><a href="https://wet-boew.github.io/GCWeb/components/wb-fieldflow/alternative-en.html">Advanced field flow component</a> from GCWeb</li>
     </ul>
 </section>
 <section>
