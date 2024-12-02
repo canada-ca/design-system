@@ -12,6 +12,7 @@ title: Accessibility at [Institution name]
     <li>Describe accessibility barriers you have experienced with [Institution name]</li>
 </ul>
 <div><a class="provisional btn btn-call-to-action" href="feedback-form.html">Provide feedback</a></div>
+<div class="container">
 <section class="gc-srvinfo col-md-12">
     <h2 class="wb-inv">Services and information</h2>
     <div class="wb-eqht row">
@@ -29,3 +30,4 @@ title: Accessibility at [Institution name]
         </div>
     </div>
 </section>
+</div>
