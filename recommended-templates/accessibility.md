@@ -143,7 +143,7 @@ title: Accessibility reporting template
     <p>For additional guidance on these requirements visit:</p>
     <ul>
         <li>
-            <a href="https://www.canada.ca/en/employment-social-development/programs/accessible-canada-regulations-guidance.html"><cite>Guidance on the Accessible Canada Regulations</cite></a>
+            <a href="https://www.canada.ca/en/employment-social-development/programs/accessible-canada-regulations-guidance.html">Guidance on the Accessible Canada Regulations</a>
         </li>
     </ul>
 </section>
