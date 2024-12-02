@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/modeles-recommandes/accessibilite/accessibilite.html
 date: null
-dateModified: '2024-12-04'
+dateModified: '2024-12-05'
 description: null
 title: Accessibility at [Institution name]
 section-title: ""
