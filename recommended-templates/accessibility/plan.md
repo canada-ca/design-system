@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/modeles-recommandes/accessibilite/accueil-rapports-progres.html
+altLangPage: https://conception.canada.ca/modeles-recommandes/accessibilite/plan.html
 date: null
 dateModified: '2024-12-04'
 description: null
