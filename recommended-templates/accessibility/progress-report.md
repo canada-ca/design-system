@@ -6,7 +6,7 @@ description: null
 title: Accessibility progress report [year] for [Institution name]
 section-title: ""
 breadcrumbs: [{
-            "link": "#",
+            "link": "https://design.canada.ca/recommended-templates/accessibility/progress-report.html#",
             "title": "[Institution name]"
           },
           {

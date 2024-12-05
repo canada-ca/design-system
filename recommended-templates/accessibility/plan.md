@@ -6,7 +6,7 @@ description: null
 title: Accessibility plan at [Institution name]
 section-title: ""
 breadcrumbs: [{
-            "link": "#",
+            "link": "https://design.canada.ca/recommended-templates/accessibility/plan.html#",
             "title": "[Institution name]"
           },
           {
