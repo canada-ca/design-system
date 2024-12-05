@@ -3,7 +3,7 @@ altLangPage: https://conception.canada.ca/modeles-recommandes/accessibilite/rapp
 date: null
 dateModified: '2024-12-05'
 description: null
-title: Accessibility reporting template
+title: Accessibility progress report [year] for [Institution name]
 section-title: ""
 breadcrumbs: [{
             "link": "",
