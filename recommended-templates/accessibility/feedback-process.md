@@ -10,7 +10,7 @@ breadcrumbs: [{
             "title": "[Institution name]"
           },
           {
-            "link": "accessibility.html",
+            "link": "https://design.canada.ca/recommended-templates/accessibility.html",
             "title": "Accessibility at [Institution name]"
           }
         ]
