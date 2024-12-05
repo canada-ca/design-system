@@ -32,7 +32,7 @@ breadcrumbs: [{
                 <p>Policies, programs, practices, and services that help our organization contribute to the goal of an accessible and barrier-free Canada</p>
             </div>
             <div class="col-lg-4 col-md-6">
-                <h3><a href="progress-report.html">[Year] progress report</a><br>|&nbsp;or&nbsp;|<br><a href="progress-reports-landing.html">Progress reports</a></h3>
+                <h3><a href="progress-reports-landing.html">Progress reports</a></h3>
                 <p>Results of our activities to improve how our organization contributes to the goal of an accessible and barrier-free Canada</p>
             </div>
             <div class="col-lg-4 col-md-6">
