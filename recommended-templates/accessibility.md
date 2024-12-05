@@ -19,7 +19,7 @@ title: Accessibility reporting template
         <li><a href="#design">Content and design</a></li>
         <li><a href="#implement">How to implement</a></li>
         <li><a href="#research">Policy rationale</a></li>
-        <li><a href="#changes">Latest changes</a></li>
+        <!-- <li><a href="#changes">Latest changes</a></li> -->
     </ul>
 </section>
 <section>
@@ -147,7 +147,7 @@ title: Accessibility reporting template
         </li>
     </ul>
 </section>
-<section>
+<!-- <section>
     <h2 id="changes">Latest changes</h2>
     <dl class="dl-horizontal">
         <dt>
@@ -159,4 +159,4 @@ title: Accessibility reporting template
             </ul>
         </dd>
     </dl>
-</section>
+</section> -->
