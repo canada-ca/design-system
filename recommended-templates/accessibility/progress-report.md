@@ -6,11 +6,11 @@ description: null
 title: Accessibility progress report [year] for [Institution name]
 section-title: ""
 breadcrumbs: [{
-            "link": "",
+            "link": "#",
             "title": "[Institution name]"
           },
           {
-            "link": "",
+            "link": "accessibility.html",
             "title": "Accessibility at [Institution name]"
           }
         ]
