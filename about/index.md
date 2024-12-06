@@ -5,6 +5,8 @@ dateModified: 2024-08-26
 description: "Canada.ca is the Government of Canada's digital presence."
 layout: "without-h1"
 title: "About Canada.ca"
+script:
+ - ../js/remove-main-container.js
 ---
 <div class="container">
 <h1 property="name headline" id="wb-cont" dir="ltr">About Canada.ca</h1>
