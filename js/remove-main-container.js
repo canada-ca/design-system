@@ -13,3 +13,14 @@ var pageDetailsSection = document.querySelector('section.pagedetails'); // Adjus
 if (pageDetailsSection) {
   pageDetailsSection.classList.add('container');
 }
+
+// Select the anchor tag within the .brand container
+document.addEventListener("DOMContentLoaded", () => {
+  const brandLink = document.querySelector(".brand a");
+
+  if (brandLink) {
+      brandLink.setAttribute("href", "https://www.canada.ca/en.html");
+  } else {
+      console.error("Brand link not found.");
+  }
+});
