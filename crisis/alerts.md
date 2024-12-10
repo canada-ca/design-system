@@ -269,6 +269,3 @@ title: Canada.ca alerts and service disruptions
    </dd>
   </dl>
  </section>
-</div>
-
-
