@@ -89,7 +89,7 @@ Learn more about the specific data science methods behind clustering
 
 Download annual and quarterly results from the GC Task Success Survey
 
-[Get survey reports on GCPedia (internal only)](https://www.gcpedia.gc.ca/wiki/Government_of_Canada_Task_Success_Survey_reports)
+[Get survey reports on GCXchange (internal only)](https://gcxgce.sharepoint.com/:u:/t/10001402/EY-ir5WAMm1LpyXsCYMy_1sBLGMMQ87IBEjBegCOFseZTw?e=BwTHXts)
 
 <nav role="navigation" class="mrgn-bttm-lg">
   <ul class="pager">

@@ -43,7 +43,7 @@ When visitors arrive on a webpage, a pop-up invites visitors at random to comple
 
 2.  **First, pick the category that best describes the main reason for your visit today**
 
-    [Read the full list of categories and tasks on GCXchange](https://gcxgce.sharepoint.com/:u:/t/10001402/EUBm7N0ddyxLhulyoBd2EbMBW346iw-4q9LCpK2YpMzPWw?e=Nb0qeQ) (internal only)
+    [Read the full list of categories and tasks on GCXchange (internal only)](https://gcxgce.sharepoint.com/:u:/t/10001402/EUBm7N0ddyxLhulyoBd2EbMBW346iw-4q9LCpK2YpMzPWw?e=Nb0qeQ) 
 
 3.  **How satisfied were you with your experience on the website?**
 
