@@ -8,29 +8,11 @@ title: Contact and support for the GC Task Success Survey
 
 ## On this page
 
-* [Office hours](#office-hours)
 * [When to contact the Digital Transformation Office](#when-to-contact-the-digital-transformation-office)
 * [When to contact Principal Publisher](#when-to-contact-principal-publisher)
 
 The survey is a collaboration between Principal Publisher and the Digital Transformation Office.
 
-## Office hours
-
-Book a timeslot where you can meet one-on-one with a subject matter expert to get answers to your questions.
-
-Office Hours are a bi-weekly (every second Wednesday) virtual one-hour session from 1:00-2:00 PM where users can book 15-minute timeslots to meet one-on-one with a Subject Matter Expert (SME).
-
-This time can be used to:
-
-* ask questions
-* get advice
-* brainstorm next steps
-* learn more about the inner workings of the survey
-
-
-If we are unable to answer your question during the session, we will connect with other members of the team and get back to you via email.
-
-[How to obtain this service](https://www.gcpedia.gc.ca/wiki/Government_of_Canada_Task_Success_Survey#Support) (internal only)
 
 ## When to contact the Digital Transformation Office
 
