@@ -32,7 +32,7 @@ Changes are reviewed by theme leads, Digital Transformation Office (DTO) and Pri
 
 ## Current and past task lists
 
-[Download task lists on GCPedia](https://www.gcpedia.gc.ca/wiki/Government_of_Canada_Task_Success_Survey_-_Current_and_past_task_lists) (internal only)
+[Download task lists on GCXchange](https://gcxgce.sharepoint.com/:u:/t/10001402/EUBm7N0ddyxLhulyoBd2EbMBW346iw-4q9LCpK2YpMzPWw?e=Nb0qeQ) (internal only)
 
 ## Service Standards
 

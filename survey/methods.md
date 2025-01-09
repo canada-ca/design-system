@@ -43,7 +43,7 @@ When visitors arrive on a webpage, a pop-up invites visitors at random to comple
 
 2.  **First, pick the category that best describes the main reason for your visit today**
 
-    [Read the full list of categories and tasks on GCPedia](https://www.gcpedia.gc.ca/wiki/Government_of_Canada_Task_Success_Survey_-_Current_and_past_task_lists) (internal only)
+    [Read the full list of categories and tasks on GCXchange](https://gcxgce.sharepoint.com/:u:/t/10001402/EUBm7N0ddyxLhulyoBd2EbMBW346iw-4q9LCpK2YpMzPWw?e=Nb0qeQ) (internal only)
 
 3.  **How satisfied were you with your experience on the website?**
 
