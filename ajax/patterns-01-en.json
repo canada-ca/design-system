@@ -1505,5 +1505,59 @@
     "TYPE": "",
     "MANDATORY": "",
     "TANDP": "0"
+  }, {
+    "NAME": "<a href=\"{{ site.url }}/recommended-templates/accessibility/accessibility.html\">Accessibility at [Institution name]</a>",
+    "SOURCE": "Template and pattern library",
+    "DESCRIPTION": "Provide feedback to help us create an accessible and barrier-free Canada.",
+    "WHENTOUSE": "Provide feedback to help us create an accessible and barrier-free Canada.",
+    "CATEGORY": "",
+    "TYPE": "",
+    "MANDATORY": "",
+    "TANDP": "0"
+  }, {
+    "NAME": "<a href=\"{{ site.url }}/recommended-templates/accessibility/feedback-form.html\">Accessibility feedback form</a>",
+    "SOURCE": "Template and pattern library",
+    "DESCRIPTION": "Provide feedback on [Institution name]’s accessibility plan, barriers you have experienced, or any matter related to accessibility.",
+    "WHENTOUSE": "Provide feedback on [Institution name]’s accessibility plan, barriers you have experienced, or any matter related to accessibility.",
+    "CATEGORY": "",
+    "TYPE": "",
+    "MANDATORY": "",
+    "TANDP": "0"
+  }, {
+    "NAME": "<a href=\"{{ site.url }}/recommended-templates/accessibility/feedback-process.html\">Accessibility feedback process at [Institution name]</a>",
+    "SOURCE": "Template and pattern library",
+    "DESCRIPTION": "Your feedback will help [Institution name] identify and break down accessibility barriers.",
+    "WHENTOUSE": "Your feedback will help [Institution name] identify and break down accessibility barriers.",
+    "CATEGORY": "",
+    "TYPE": "",
+    "MANDATORY": "",
+    "TANDP": "0"
+  }, {
+    "NAME": "<a href=\"{{ site.url }}/recommended-templates/accessibility/plan.html\">Accessibility plan at [Institution name]</a>",
+    "SOURCE": "Template and pattern library",
+    "DESCRIPTION": "Policies, programs, practices, and services that help our organization contribute to the goal of an accessible and barrier-free Canada",
+    "WHENTOUSE": "Policies, programs, practices, and services that help our organization contribute to the goal of an accessible and barrier-free Canada",
+    "CATEGORY": "",
+    "TYPE": "",
+    "MANDATORY": "",
+    "TANDP": "0"
+  }, {
+    "NAME": "<a href=\"{{ site.url }}/recommended-templates/accessibility/progress-reports-landing.html\">Accessibility progress reports at [Institution name]</a>",
+    "SOURCE": "Template and pattern library",
+    "DESCRIPTION": "Results of our activities to improve how our organization contributes to the goal of an accessible and barrier-free Canada",
+    "WHENTOUSE": "Results of our activities to improve how our organization contributes to the goal of an accessible and barrier-free Canada",
+    "CATEGORY": "",
+    "TYPE": "",
+    "MANDATORY": "",
+    "TANDP": "0"
+  }, {
+    "NAME": "<a href=\"{{ site.url }}/recommended-templates/accessibility/progress-report.html\">Accessibility progress report [year] for [Institution name]</a>",
+    "SOURCE": "Template and pattern library",
+    "DESCRIPTION": "",
+    "WHENTOUSE": "",
+    "CATEGORY": "",
+    "TYPE": "",
+    "MANDATORY": "",
+    "TANDP": "0"
   }]
 }
