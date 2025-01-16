@@ -1316,7 +1316,16 @@
     "TYPE": "Institutional",
     "MANDATORY": "No",
     "TANDP": "1"
-  }, {
+  },{
+    "NAME": "<a href=\"{{ site.url }}/recommended-templates/accessibility.html\">Accessibility reporting template</a>",
+    "SOURCE": "Template and pattern library",
+    "DESCRIPTION": "All Government of Canada entities, including departments and agencies, must provide public-facing information about their accessibility plans, progress reports, and a feedback mechanism.",
+    "WHENTOUSE": "All Government of Canada entities, including departments and agencies, must provide public-facing information about their accessibility plans, progress reports, and a feedback mechanism.",
+    "CATEGORY": "",
+    "TYPE": "",
+    "MANDATORY": "",
+    "TANDP": "0"
+  },{
     "NAME": "<a href=\"{{ site.url }}/style-guide/#toc5\">Writing principles for web content</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "Writing principles that reflect how people read and use web content",
