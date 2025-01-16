@@ -42,7 +42,7 @@ title: Accessibility reporting template
         <li>introduction block</li>
         <li>supertask button linking to your feedback process</li>
         <li>
-            The following doormats:
+            the following doormats:
             <ul>
                 <li>Accessibility plan</li>
                 <li>Progress reports</li>
