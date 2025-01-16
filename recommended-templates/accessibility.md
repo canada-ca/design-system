@@ -38,9 +38,9 @@ title: Accessibility reporting template
     <h3>Accessibility landing page</h3>
     <p>Accessibility landing pages are outside the theme/topic structure, however they use a similar layout to topic pages. The page consists of:</p>
     <ul>
-        <li>An H1</li>
-        <li>Introduction block</li>
-        <li>Supertask button linking to your feedback process</li>
+        <li>an H1</li>
+        <li>introduction block</li>
+        <li>supertask button linking to your feedback process</li>
         <li>
             The following doormats:
             <ul>
@@ -52,7 +52,7 @@ title: Accessibility reporting template
     </ul>
     <p>Suggested text for each of these elements can be found in the template here:</p>
     <ul>
-        <li><a href="./accessibility/accessibility.html">Accessibility at [institution name] - Canada.ca</a></li>
+        <li><a href="./accessibility/accessibility.html">Accessibility at [institution name]</a></li>
     </ul>
     <p>The accessibility plan, progress reports and feedback process all use the:</p>
     <ul>
@@ -61,7 +61,7 @@ title: Accessibility reporting template
     <h3>Accessibility plan</h3>
     <p>Follow the content outline found here:</p>
     <ul>
-        <li><a href="./accessibility/plan.html">Accessibility plan at [Institution name] - Canada.ca</a></li>
+        <li><a href="./accessibility/plan.html">Accessibility plan at [Institution name]</a></li>
     </ul>
     <h3>Progress reports</h3>
     <p>For the landing page, follow the content outline found here:</p>
@@ -75,12 +75,12 @@ title: Accessibility reporting template
     <h3>Feedback process</h3>
     <p>Follow the content outline found here:</p>
     <ul>
-        <li><a href="./accessibility/feedback-process.html">Accessibility feedback process at [Institution name] - Canada.ca</a></li>
+        <li><a href="./accessibility/feedback-process.html">Accessibility feedback process at [Institution name]</a></li>
     </ul>
     <h3>Accessibility feedback form</h3>
     <p>Follow the content outline found here:</p>
     <ul>
-        <li><a href="./accessibility/feedback-form.html">[Institution name]’s accessibility feedback form - Canada.ca</a></li>
+        <li><a href="./accessibility/feedback-form.html">[Institution name]’s accessibility feedback form</a></li>
     </ul>
     <p>The accessibility feedback form uses the:</p>
     <ul>
