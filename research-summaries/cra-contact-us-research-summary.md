@@ -76,6 +76,7 @@ title: "Contact the CRA"
             <td>NoA via My Account</td>
             <td>73%</td>
             <td>93%</td>
+          </tr>
           <tr>
             <td>Child Benefits - Benefits line</td>
             <td>50%</td>
