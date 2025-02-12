@@ -6,7 +6,6 @@ description: null
 title: Ministerial profile pages
 ---
 
-
 <div class="row">
  <div class="col-md-12 pull-left">
   <ul class="list-inline small mrgn-bttm-sm" id="list-inline-desktop-only" style="line-height:1.65em">
@@ -99,7 +98,6 @@ title: Ministerial profile pages
     <div class="row">
      <div class="col-xs-10 col-sm-3 col-lg-2">
       <img alt="" class="thumbnail gc-dwnld-img" height="142" src="../images/ministerial-page-cropped.jpg" width="110">
-      </img>
      </div>
      <div class="col-xs-12 col-sm-9 col-lg-10">
       <p class="mrgn-tp-md lead">
@@ -123,49 +121,49 @@ title: Ministerial profile pages
   </summary>
   <span id="code">
   </span>
-  <pre><code>&lt;h1 id="wb-cont" property="name"&gt;The Honourable [Minister name], MP | [Parliamentary secretary’s name] | [Head of institution or organization's name]&lt;/h1&gt;
-&lt;div class="row"&gt;
-	&lt;div class="col-md-3"&gt;
-		&lt;p class="mrgn-tp-lg"&gt;&lt;img src="img/265x352.png" alt="" class="img-responsive"&gt;&lt;/p&gt;
-	&lt;/div&gt;
-	&lt;div class="col-md-9"&gt;
-		&lt;p class="mrgn-tp-lg"&gt;&lt;strong&gt;Minister of &lt;a href="#"&gt;[Portfolio name one]&lt;/a&gt; and &lt;a href="#"&gt;[Portfolio name two]&lt;/a&gt; | Parliamentary secretary to the &lt;a href="#"&gt;[Minister of portfolio name]&lt;/a&gt; | [Official title of the head]&lt;/strong&gt;&lt;/p&gt;
-		&lt;p&gt;Represents the riding of &lt;a href="#"&gt;[Riding name]&lt;/a&gt;&lt;/p&gt;
-		&lt;ul&gt;
-			&lt;li&gt;&lt;a href="#"&gt;Ministerial mandate letter&lt;/a&gt;&lt;/li&gt;
-			&lt;li&gt;&lt;a href="#"&gt;Ministerial briefing book&lt;/a&gt;&lt;/li&gt;
-			&lt;li&gt;&lt;a href="#"&gt;Ministerial appointments&lt;/a&gt;&lt;/li&gt;
-		&lt;/ul&gt;
-		&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore amet ducimus nihil, voluptate quibusdam? Excepturi in aspernatur rem ipsam aperiam voluptates fugit officiis culpa, ratione, et maxime impedit.&lt;/p&gt;
-		&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique ex commodi autem laudantium aliquam id, voluptate possimus quod illo velit vero, at dolorum sequi ipsam culpa fugit, molestias quaerat vitae.&lt;/p&gt;
-		&lt;section&gt;
-			&lt;h2&gt;Contact information&lt;/h2&gt;
-			&lt;p&gt;House of Commons&lt;br&gt;
-				Ottawa, Ontario K1A 0A6&lt;br&gt;
-				&lt;strong&gt;Telephone:&lt;/strong&gt; 123-456-7890&lt;br&gt;
-				&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href="mailto:"&gt;[first.last@canada.ca]&lt;/a&gt; &lt;span class="glyphicon glyphicon-envelope"&gt;&lt;/span&gt;&lt;/p&gt;
-		&lt;/section&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-&lt;section class="gc-features"&gt;
-	&lt;h2&gt;Features [optional]&lt;/h2&gt;
-	&lt;div class="row wb-eqht"&gt;
-		&lt;div class="col-lg-4 col-md-6 mrgn-bttm-md"&gt;
-			&lt;h3 class="h5"&gt;&lt;a href="#" class="stretched-link"&gt;[Feature hyperlink text]&lt;/a&gt;&lt;/h3&gt;
-			&lt;img src="./images/feature-img-360x203.jpg" alt="" class="img-responsive thumbnail mrgn-bttm-sm"&gt;
-			&lt;p&gt;Brief description of the feature being promoted.&lt;/p&gt;
-		&lt;/div&gt;
-		&lt;div class="col-lg-4 col-md-6 mrgn-bttm-md"&gt;
-			&lt;h3 class="h5"&gt;&lt;a href="#" class="stretched-link"&gt;[Feature hyperlink text]&lt;/a&gt;&lt;/h3&gt;
-			&lt;img src="./images/feature-img-360x203.jpg" alt="" class="img-responsive thumbnail mrgn-bttm-sm"&gt;
-			&lt;p&gt;Brief description of the feature being promoted.&lt;/p&gt;
-		&lt;/div&gt;
-		&lt;div class="col-lg-4 col-md-6 mrgn-bttm-md"&gt;
-			&lt;h3 class="h5"&gt;&lt;a href="#" class="stretched-link"&gt;[Feature hyperlink text]&lt;/a&gt;&lt;/h3&gt;
-			&lt;img src="./images/feature-img-360x203.jpg" alt="" class="img-responsive thumbnail mrgn-bttm-sm"&gt;
-			&lt;p&gt;Brief description of the feature being promoted.&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/div&gt;
+  <pre><code><h1 id="wb-cont" property="name">The Honourable [Minister name], MP | [Parliamentary secretary’s name] | [Head of institution or organization's name]</h1>
+<div class="row">
+	<div class="col-md-3">
+		<p class="mrgn-tp-lg"><img src="img/265x352.png" alt="" class="img-responsive"></p>
+	</div>
+	<div class="col-md-9">
+		<p class="mrgn-tp-lg"><strong>Minister of <a href="#">[Portfolio name one]</a> and <a href="#">[Portfolio name two]</a> | Parliamentary secretary to the <a href="#">[Minister of portfolio name]</a> | [Official title of the head]</strong></p>
+		<p>Represents the riding of <a href="#">[Riding name]</a></p>
+		<ul>
+			<li><a href="#">Ministerial mandate letter</a></li>
+			<li><a href="#">Ministerial briefing book</a></li>
+			<li><a href="#">Ministerial appointments</a></li>
+		</ul>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore amet ducimus nihil, voluptate quibusdam? Excepturi in aspernatur rem ipsam aperiam voluptates fugit officiis culpa, ratione, et maxime impedit.</p>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique ex commodi autem laudantium aliquam id, voluptate possimus quod illo velit vero, at dolorum sequi ipsam culpa fugit, molestias quaerat vitae.</p>
+		<section>
+			<h2>Contact information</h2>
+			<p>House of Commons<br>
+				Ottawa, Ontario K1A 0A6<br>
+				<strong>Telephone:</strong> 123-456-7890<br>
+				<strong>Email:</strong> <a href="mailto:">[first.last@canada.ca]</a> <span class="glyphicon glyphicon-envelope"></span></p>
+		</section>
+	</div>
+</div>
+<section class="gc-features">
+	<h2>Features [optional]</h2>
+	<div class="row wb-eqht">
+		<div class="col-lg-4 col-md-6 mrgn-bttm-md">
+			<h3 class="h5"><a href="#" class="stretched-link">[Feature hyperlink text]</a></h3>
+			<img src="./images/feature-img-360x203.jpg" alt="" class="img-responsive thumbnail mrgn-bttm-sm">
+			<p>Brief description of the feature being promoted.</p>
+		</div>
+		<div class="col-lg-4 col-md-6 mrgn-bttm-md">
+			<h3 class="h5"><a href="#" class="stretched-link">[Feature hyperlink text]</a></h3>
+			<img src="./images/feature-img-360x203.jpg" alt="" class="img-responsive thumbnail mrgn-bttm-sm">
+			<p>Brief description of the feature being promoted.</p>
+		</div>
+		<div class="col-lg-4 col-md-6 mrgn-bttm-md">
+			<h3 class="h5"><a href="#" class="stretched-link">[Feature hyperlink text]</a></h3>
+			<img src="./images/feature-img-360x203.jpg" alt="" class="img-responsive thumbnail mrgn-bttm-sm">
+			<p>Brief description of the feature being promoted.</p>
+		</div>
+	</div>
 						</code></pre>
  </details>
  <section>
@@ -197,6 +195,3 @@ title: Ministerial profile pages
   </dl>
  </section>
 </section>
-
-
-
