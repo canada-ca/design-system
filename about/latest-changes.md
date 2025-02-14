@@ -18,11 +18,11 @@ title: "Latest changes to the Canada.ca design system"
     <summary>September 25, 2024</summary>
     <p>Stabilized the <a href="{{ site.url }}/mandatory-templates/topic.html">topic page template</a>.</p> 
     <p>As part of this update, we have also made changes to several patterns.</p>
-    <p>Changes</p>
+    <p>Changes:</p>
     <ul>
       <li><a href="{{ site.url }}/common-design-patterns/intro-block.html">Introduction block</a>: added a half-width image option</li> 
       <li><a href="{{ site.url }}/common-design-patterns/services-information.html">Services and information</a>: added ability to style the "Services and information" heading as invisible</li>
-      <li><a href="{{ site.url }}/common-design-patterns/social-media-channels.html">Social media channels</a>: added an option to include a ‘More ways to connect’ link</li>
+      <li><a href="{{ site.url }}/common-design-patterns/social-media-channels.html">Social media channels</a>: added an option to include a "More ways to connect" link</li>
       <li><a href="https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcanada.us15.list-manage.com%2Ftrack%2Fclick%3Fu%3D729a207773f7324e217a1d945%26id%3Ddde3e5789b%26e%3D297cedb71e&data=05%7C02%7Cchelsey.donohue%40servicecanada.gc.ca%7Cf8961aae20f748272d3808dcdda01f73%7C9ed558468a814246acd8b1a01abfc0d1%7C0%7C0%7C638628927011648841%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=aKyvVTL7p5XYiYPuffK3AagSa5XL3eMIS9Fg6IBzvsU%3D&reserved=0">Contributors</a>: changed the design, this pattern replaces the <a href="https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcanada.us15.list-manage.com%2Ftrack%2Fclick%3Fu%3D729a207773f7324e217a1d945%26id%3D389adeaf6e%26e%3D297cedb71e&data=05%7C02%7Cchelsey.donohue%40servicecanada.gc.ca%7Cf8961aae20f748272d3808dcdda01f73%7C9ed558468a814246acd8b1a01abfc0d1%7C0%7C0%7C638628927011636826%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=AyZwwbLHJtCSes%2Feln%2B765U%2BQf6R6SZ%2B88cgTR410sg%3D&reserved=0">institutional byline pattern</a></li> 
     </ul>
   </details>
