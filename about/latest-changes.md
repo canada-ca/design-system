@@ -18,7 +18,7 @@ title: "Latest changes to the Canada.ca design system"
     <summary>September 25, 2024</summary>
     <p>Stabilized the <a href="{{ site.url }}/mandatory-templates/topic.html">topic page template</a>.</p> 
     <p>As part of this update, we have also made changes to several patterns.</p>
-    <p>Changes include:</p>
+    <p>Changes:</p>
     <ul>
       <li><a href="{{ site.url }}/common-design-patterns/intro-block.html">Introduction block</a>: added a half-width image option</li> 
       <li><a href="{{ site.url }}/common-design-patterns/services-information.html">Services and information</a>: added ability to style the "Services and information" heading as invisible</li>
@@ -28,7 +28,8 @@ title: "Latest changes to the Canada.ca design system"
   </details>
  <details>
     <summary>August 28, 2024</summary>
-    <p>Launched a new information architecture and new content for design.canada.ca. Changes include:</p>
+    <p>Launched a new information architecture and new content for design.canada.ca.</p> 
+   <p>Changes:</p>
     <ul>
       <li>Renamed the Content and Information Architecture Specification to the <a href="{{ site.url }}/specifications.html">Canada.ca Specifications</a>.</li>
       <li>Updated the Canada.ca Specifications to include the Canada.ca Content Style Guide and guidance on information architecture and findability, as well as a link to the GC design system: <a href="{{ site.url }}/specifications.html">Canada.ca Specifications</a>.</li>
