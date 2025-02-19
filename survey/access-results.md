@@ -35,7 +35,7 @@ Use filters to select specific time frames, institutions, themes, or tasks.
 
 The Feedback Viewer is password protected.
 
-Password instructions can be found on [GCPedia (internal only)](https://www.gcpedia.gc.ca/wiki/Government_of_Canada_Task_Success_Survey_-_Access_Data#Raw_survey_responses_and_comments).
+Password instructions can be found on [GCXchange (internal only)](https://gcxgce.sharepoint.com/teams/10001402/SitePages/Government-of-Canada-Task-Success-Survey.aspx).
 {: .alert .alert-info}
 
 ## Current quarterly resultats
