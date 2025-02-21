@@ -203,7 +203,7 @@ title: Designing content
   </a>
  </li>
  <li>
-  <a href="{{ site.url }}/specificationse/organizing-content.html#user">
+  <a href="{{ site.url }}/specifications/information-findability/organizing-content.html#user)">
    User-need categories for destination content
   </a>
  </li>
