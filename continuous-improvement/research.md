@@ -70,7 +70,7 @@ To create research questions, you need to understand gaps and weaknesses with th
 #### Qualitative research
 
 * Feedback from users
-* [User interviews](https://digital.canada.ca/tools-and-resources/guide-interviewing/)
+* User interviews
 * Previous usability studies
 * Usability studies: first click tests, card sorting, tree jacks
 * Surveys or other behavioral insights reports
