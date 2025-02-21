@@ -298,11 +298,6 @@ title: Designing content
    Crisis communications content design checklist
   </a>
  </li>
- <li>
-  <a href="https://readability-lisibilite.tbs.alpha.canada.ca/">
-   Web readability score - Experimental
-  </a>
- </li>
 </ul>
 
 <h2 id="use">
@@ -397,14 +392,6 @@ title: Designing content
     WCAG
    </abbr>
    )
-  </a>
- </li>
- <li>
-  <a href="https://digital.canada.ca/a11y/">
-   <abbr title="Canadian Digital Service">
-    CDS
-   </abbr>
-   Accessibility Handbook
   </a>
  </li>
  <li>
