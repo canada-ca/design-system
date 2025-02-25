@@ -44,8 +44,8 @@ title: Monitoring and measuring task success
 <p>It’s best to combine metrics with usability testing to validate proposed improvements.</p>
 <ul>
   <li><a href="https://design.canada.ca/feedback/index.html">Page feedback tool</a></li>
-  <li><a href="https://blog.canada.ca/2020/10/09/collect-feedback">Collect feedback, find issues</a>(blog post)</li>
-  <li><a href="https://blog.canada.ca/2021/03/01/work-with-call-centres">The importance of working with call centres</a>(blog post)</li>
+  <li><a href="https://blog.canada.ca/2020/10/09/collect-feedback">Collect feedback, find issues</a> (blog post)</li>
+  <li><a href="https://blog.canada.ca/2021/03/01/work-with-call-centres">The importance of working with call centres</a> (blog post)</li>
 </ul>
 <h2 id="continuous">Continuous improvement</h2>
 <p>Use the data you’ve been monitoring (such as user feedback, analytics, and user research) to find ways to improve your content. Evaluate proposed improvements with usability testing.</p>
