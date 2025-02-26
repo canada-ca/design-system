@@ -22,6 +22,6 @@ Email: [{{ site.emails.dto }}](mailto:{{ site.emails.dto }})
 
 ## Working Group
 
-The Page Feedback Tool Working Group guides the direction of the tool. Members of the working group provide input and strategize the way forward for the tool.
+The GC Feedback Working Group guides the direction of the tool. Members of the working group provide input and strategize the way forward for the tool.
 
 Email: [{{ site.emails.dto }}](mailto:{{ site.emails.dto }})
