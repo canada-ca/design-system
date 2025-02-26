@@ -62,7 +62,7 @@ title: Content footer
   <ul>
    <li>
      <a href="https://design.canada.ca/common-design-patterns/page-feedback.html">
-    Page feedback tool</a>
+    GC Feedback</a>
     (optional)
    </li>
    <li>

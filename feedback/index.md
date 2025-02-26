@@ -7,7 +7,7 @@ breadcrumbs:
     link: https://www.canada.ca/en/analytics.html
 dateModified: 2023-11-07
 layout: default
-title: Page feedback tool guidance
+title: GC Feedback guidance
 ---
 
 The page feedback tool is a <strong>research tool</strong> that can help you better understand issues affecting task success at the page level.  

@@ -3,7 +3,7 @@ altLangPage: https://conception.canada.ca/configurations-conception-communes/out
 date: "2023-10-19"
 dateModified: "2023-10-19"
 description: "The feedback tool is an optional pattern to collect feedback on the page experience."
-title: "Page feedback tool"
+title: "GC Feedback"
 ---
 <p class="small">Last updated: 2023-10-06</p>
 <p>The feedback tool is an <strong>optional</strong> pattern to collect feedback on the page experience. When in use, it is included at the bottom of the page before the date modified.</p>
@@ -49,7 +49,7 @@ title: "Page feedback tool"
     <li>Thank you message</li>
   </ul>
   <p>This pattern also has detailed documentation for use and analysis of feedback.</p>
-  <p><a href="/feedback/">Page feedback tool (Analytics and feedback)</a></p>
+  <p><a href="/feedback/">GC Feedback (Analytics and feedback)</a></p>
   <h3>Content specifications</h3>
   <p>When you first add the feedback tool to your page, use the default option without the contact link.</p>
   <p><strong>Only consider adding a contact link if</strong> you have tried to make the page content clearer for how to contact the program or service and users are still using the feedback tool to get a response for their situation.</p>
