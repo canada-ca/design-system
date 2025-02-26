@@ -20,7 +20,7 @@ title: "GC Feedback"
 </ul>
 <section id="when-to-use">
   <h2>When to use</h2>
-  <p>Consider adding the page feedback tool to:</p>
+  <p>Consider adding the GC Feedback to:</p>
   <ul>
     <li>uncover specific page-level issues affecting your GC Task Success Survey task score</li>
     <li>research issues on pages you plan on working on in the future</li>
@@ -31,7 +31,7 @@ title: "GC Feedback"
 </section>
 <section id="what-to-avoid">
   <h2>What to avoid</h2>
-  <p>Avoid using the page feedback tool on pages where there is no plan to monitor comments or take action. We also don’t recommend using the tool within secure spaces or pages with sensitive subject material.</p>
+  <p>Avoid using the GC Feedback on pages where there is no plan to monitor comments or take action. We also don’t recommend using the tool within secure spaces or pages with sensitive subject material.</p>
   <p><a href="/feedback/when.html#how-not-to-use-the-tool">Additional behaviours to avoid when analyzing feedback</a></p>
 </section>
 <section id="content-and-design">
@@ -41,7 +41,7 @@ title: "GC Feedback"
     <li>indicate if they found what they were looking for (yes / no)</li>
     <li>offer their feedback describing the problem</li>
   </ul>
-  <p>Place the tool at the bottom of the page before the date modified. It's aligned to the left of the page before the “Share this page” widget. You can opt to use the page feedback tool in place of the "Report a problem" pattern. It's not mandatory to add the feedback pattern when removing “Report a problem” from your page.</p>
+  <p>Place the tool at the bottom of the page before the date modified. It's aligned to the left of the page before the “Share this page” widget. You can opt to use the GC Feedback in place of the "Report a problem" pattern. It's not mandatory to add the feedback pattern when removing “Report a problem” from your page.</p>
   <p>The page feedback pattern has 3 states:</p>
   <ul>
     <li>“Did you find what you were looking for?” prompt with “Yes” and “No” buttons</li>
@@ -283,5 +283,5 @@ title: "GC Feedback"
   <h3>Research findings</h3>
   <p><a href="https://blog.canada.ca/2020/10/09/collect-feedback.html">Blog post: Collect feedback, find issues</a></p>
   <h3>Policy rationale</h3>
-  <p>The Guideline for Service and Digital requires <a href="https://www.canada.ca/en/government/system/digital-government/guideline-service-digital.html#ToC2_2">client feedback</a> to be an integral part of service or product design. It can take several forms, including using the page feedback tool.</p>
+  <p>The Guideline for Service and Digital requires <a href="https://www.canada.ca/en/government/system/digital-government/guideline-service-digital.html#ToC2_2">client feedback</a> to be an integral part of service or product design. It can take several forms, including using the GC Feedback.</p>
 </section>

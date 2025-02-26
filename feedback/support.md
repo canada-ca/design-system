@@ -3,7 +3,7 @@ altLangPage: https://conception.canada.ca/retroaction/soutien.html
 date: null
 dateModified: 2023-02-28
 description: null
-title: Get support for the page feedback tool
+title: Get support for the GC Feedback
 ---
 
 ## On this page

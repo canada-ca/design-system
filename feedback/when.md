@@ -3,7 +3,7 @@ altLangPage: https://conception.canada.ca/retroaction/quand.html
 date: null
 dateModified: 2023-11-07
 description: null
-title: When to use the page feedback tool
+title: When to use the GC Feedback
 ---
 
 <div class="gc-stp-stp">
@@ -18,22 +18,22 @@ title: When to use the page feedback tool
 
 ## On this page
 
-* [When to use the page feedback tool](#when-to-use-the-page-feedback-tool)
-* [Use cases for the page feedback tool](#use-cases-for-the-page-feedback-tool)
+* [When to use the GC Feedback](#when-to-use-the-page-feedback-tool)
+* [Use cases for the GC Feedback](#use-cases-for-the-page-feedback-tool)
 * [Expectations and commitment](#expectations-and-commitment)
 * [How not to use the tool](#how-not-to-use-the-feedback-tool)
 
 
-## When to use the page feedback tool
+## When to use the GC Feedback
 We recommend using the feedback tool where there is a commitment to reading and acting on input:
 
 * on specific pages; and
 * for a defined period of time
 
 
-## Use cases for the page feedback tool
+## Use cases for the GC Feedback
 
-Consider adding the page feedback tool to:
+Consider adding the GC Feedback to:
 
 * uncover specific page-level issues affecting your GC Task Success Survey task score
 * understand content issues on pages you will be working on in the future
@@ -50,7 +50,7 @@ It is important to commit to reading, considering, and taking action based on wh
 In certain cases, people will leave feedback with their opinions of a certain program or policy. Addressing a policy issue is beyond the scope of web teams, so it's important to share these comments with program and policy colleagues.
 
 ### Recognizing and handling threats
-Before you implement the page feedback tool on your pages, make sure your organization has a process in place to deal with threatening feedback. A similar process may already be documented for threats received through email, social media and/or call centres.
+Before you implement the GC Feedback on your pages, make sure your organization has a process in place to deal with threatening feedback. A similar process may already be documented for threats received through email, social media and/or call centres.
 
 Though the likelihood of receiving threatening feedback is low, there is still a risk given the open textbox. So it’s important to be prepared.
 
@@ -63,7 +63,7 @@ Depending on the nature of the threat, there are different steps that should be 
 
 #### What to do
 
-If you receive a message about a specific threat or a personal crisis through the page feedback tool you must report it.
+If you receive a message about a specific threat or a personal crisis through the GC Feedback you must report it.
 * Retain a copy of the comment and date/time submitted.
 * Immediately contact local police or the RCMP and provide a copy of the comment.
 * Contact your department’s security services.
