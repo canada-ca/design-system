@@ -119,6 +119,6 @@ breadcrumbs: [{
 <p><b>Note</b>: Your account manager can submit new vanity URLs and change requests to the Principal Publisher using the <a href="http://requestform.portal.gc.ca/tickets.html">Request form for Canada.ca (internal to government)</a>.</p>
 <p>To find more information on vanity URLs visit:</p>
     <ul>
-        <li><a href="https://www.gcpedia.gc.ca/wiki/Canada.ca_Vanity_URLs">Canada.ca Vanity URLs — GCpedia (internal to government)</a></li>
+        <li><a href="https://gcxgce.sharepoint.com/teams/10001402/SitePages/Vanity-URLs.aspx">Canada.ca Vanity URLs — GCxchange (internal to government)</a></li>
     </ul>
 </section>
