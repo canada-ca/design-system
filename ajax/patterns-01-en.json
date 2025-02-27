@@ -301,8 +301,8 @@
   }, {
     "NAME": "<a href=\"{{ site.url }}/common-design-patterns/page-feedback.html\">GC Feedback</a>",
     "SOURCE": "Template and pattern library",
-    "DESCRIPTION": "The GC Feedback is an optional pattern to collect feedback on the page experience. It should only be used on pages where the feedback will be actively monitored and actioned.",
-    "WHENTOUSE": "The GC Feedback is an optional pattern to collect feedback on the page experience. It should only be used on pages where the feedback will be actively monitored and actioned.",
+    "DESCRIPTION": "GC Feedback is an optional pattern to collect feedback on the page experience. It should only be used on pages where the feedback will be actively monitored and actioned.",
+    "WHENTOUSE": "GC Feedback is an optional pattern to collect feedback on the page experience. It should only be used on pages where the feedback will be actively monitored and actioned.",
     "CATEGORY": "Design pattern",
     "TYPE": "Site-wide pattern, Interaction",
     "MANDATORY": "No",

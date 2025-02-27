@@ -49,7 +49,7 @@ The Feedback Viewer includes filters so that you can access and download specifi
 
 ## How long feedback is kept
 
-The Feedback Viewer only stores six months of comments from the GC Feedback.
+The Feedback Viewer only stores six months of comments from GC Feedback.
 
 Comments are deleted in the first week of each quarter.
 

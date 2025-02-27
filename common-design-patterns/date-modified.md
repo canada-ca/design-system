@@ -107,7 +107,7 @@ title: Date modified
      The date appears using the common numeric method, for example: 2016-10-04.
     </li>
     <li>
-     Placement: left-aligned, below the main content area. If used in conjunction with the GC Feedback, this component appears after.
+     Placement: left-aligned, below the main content area. If used in conjunction with GC Feedback, this component appears after.
     </li>
    </ul>
   </section>

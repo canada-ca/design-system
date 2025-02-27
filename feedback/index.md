@@ -10,7 +10,7 @@ layout: default
 title: GC Feedback guidance
 ---
 
-The GC Feedback is a <strong>research tool</strong> that can help you better understand issues affecting task success at the page level.  
+GC Feedback is a <strong>research tool</strong> that can help you better understand issues affecting task success at the page level.  
 
 <section>
 
@@ -39,14 +39,14 @@ The GC Feedback is a <strong>research tool</strong> that can help you better und
     </section>
   </div>
 
-  <h2>Implementing the GC Feedback</h2>
-  <p>Code and implementation guidance for using the GC Feedback</p>
+  <h2>Implementing GC Feedback</h2>
+  <p>Code and implementation guidance for using GC Feedback</p>
   <div class="row">
     <section class="wb-eqht gc-drmt">
       <div class="col-md-4">
         <section>
           <h3><a href="https://design.canada.ca/common-design-patterns/page-feedback.html">Implementation</a></h3>
-          <p>Get the code to implement the GC Feedback on your site</p>
+          <p>Get the code to implement GC Feedback on your site</p>
         </section>
       </div>
     </section>
