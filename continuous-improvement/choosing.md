@@ -187,7 +187,7 @@ title: Choosing what to improve
  </li>
  <li>
   <a href="../feedback/index.html">
-   Page feedback tool
+   GC Feedback
   </a>
  </li>
 </ul>

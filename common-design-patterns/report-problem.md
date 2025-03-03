@@ -7,7 +7,7 @@ title: "Report a problem"
 ---
 <section class="alert alert-warning">
   <p>We are decommissioning the Report a Problem pattern. We do not recommend adding this pattern to your pages.</p>
-  <p>If you would like to collect feedback for specific web pages you can use the <a href="https://design.canada.ca/common-design-patterns/page-feedback.html">Page Feedback Tool (PFT) pattern</a>. You should only add the PFT to pages where you plan to actively monitor and action feedback.</p>
+  <p>If you would like to collect feedback for specific web pages you can use <a href="https://design.canada.ca/common-design-patterns/page-feedback.html">GC Feedback (GCF) pattern</a>. You should only add GCF to pages where you plan to actively monitor and action feedback.</p>
 </section>
 <div class="gc-stp-stp">
   <div class="row">
