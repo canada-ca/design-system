@@ -1559,14 +1559,5 @@
     "TYPE": "",
     "MANDATORY": "",
     "TANDP": "0"
-  }, {
-    "NAME": "<a href=\"{{ site.url }}/recommended-templates/accessibility/progress-report.html\">Accessibility progress report [year] for [Institution name]</a>",
-    "SOURCE": "Template and pattern library",
-    "DESCRIPTION": "",
-    "WHENTOUSE": "",
-    "CATEGORY": "",
-    "TYPE": "",
-    "MANDATORY": "",
-    "TANDP": "0"
   }]
 }
