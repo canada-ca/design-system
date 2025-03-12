@@ -382,11 +382,7 @@ title: Designing content
  </li>
  <li>
   <a href="https://www.w3.org/WAI/standards-guidelines/wcag/">
-   Web Content Accessibility Guidelines (
-   <abbr title="Web Content Accessibility Guidelines">
-    WCAG
-   </abbr>
-   )
+   Web Content Accessibility Guidelines (<abbr title="Web Content Accessibility Guidelines">WCAG</abbr>)
   </a>
  </li>
  <li>
