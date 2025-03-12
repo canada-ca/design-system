@@ -349,8 +349,7 @@ title: Designing content
  Make sure your design is accessible
  <strong>
   as you develop it
- </strong>
- , not as an after-thought.
+ </strong>, not as an after-thought.
 </p>
 
 <p>
@@ -358,11 +357,7 @@ title: Designing content
  <cite>
   Standard on Web Accessibility
  </cite>
- requires all GC web pages to meet level AA of the Web Content Accessibility Guidelines (
- <abbr title="Web Content Accessibility Guidelines">
-  WCAG
- </abbr>
- ) 2.0 requirements.
+ requires all GC web pages to meet level AA of the Web Content Accessibility Guidelines (<abbr title="Web Content Accessibility Guidelines">WCAG</abbr>) 2.0 requirements.
 </p>
 
 <p>
