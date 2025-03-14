@@ -130,7 +130,7 @@ title: "Travel advice and advisories"
 <h2>Key drivers of success</h2>
 <p>The features of the prototype that had the biggest impact on success rates were:</p>
 <ul>
-  <li>Headings that are simple, informative and task-oriented: "Planning your trip," "Before you go," "When things go wrong"</li>
+  <li>Headings that are simple, informative and task-oriented: "Planning your trip", "Before you go", "When things go wrong"</li>
   <li>A page design for destinations where critical information stands out, supporting details are relevant, and additional detail is linked to instead of duplicated</li>
   <li>Content pages that are scannable, with clear and plentiful headings, bulleted lists, and only essential links</li>
 </ul>
