@@ -43,7 +43,7 @@ title: Monitoring and measuring task success
 </ul>
 <p>It’s best to combine metrics with usability testing to validate proposed improvements.</p>
 <ul>
-  <li><a href="https://design.canada.ca/feedback/index.html">Page feedback tool</a></li>
+  <li><a href="https://design.canada.ca/feedback/index.html">GC Feedback</a></li>
   <li><a href="https://blog.canada.ca/2020/10/09/collect-feedback">Collect feedback, find issues</a> (blog post)</li>
   <li><a href="https://blog.canada.ca/2021/03/01/work-with-call-centres">The importance of working with call centres</a> (blog post)</li>
 </ul>

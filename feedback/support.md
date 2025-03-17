@@ -3,7 +3,7 @@ altLangPage: https://conception.canada.ca/retroaction/soutien.html
 date: null
 dateModified: 2023-02-28
 description: null
-title: Get support for the page feedback tool
+title: Get support for GC Feedback
 ---
 
 ## On this page
@@ -22,6 +22,6 @@ Email: [{{ site.emails.dto }}](mailto:{{ site.emails.dto }})
 
 ## Working Group
 
-The Page Feedback Tool Working Group guides the direction of the tool. Members of the working group provide input and strategize the way forward for the tool.
+The GC Feedback Working Group guides the direction of the tool. Members of the working group provide input and strategize the way forward for the tool.
 
 Email: [{{ site.emails.dto }}](mailto:{{ site.emails.dto }})
