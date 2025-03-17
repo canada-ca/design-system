@@ -69,7 +69,7 @@ Conversational agents work like this:
 		</details></figcaption>
 </figure>
 
-The “magic” in conversational agents is Natural Language Processing - a form of Artificial Intelligence. The agent uses Natural Language Processing to parse both the syntax and semantics of the conversation based on deep learning from a huge dataset of conversational language. So if a user says “I’d like”, the agent can understand that to match an intent that says “I would like ..” and an intent that says “I want.”
+The “magic” in conversational agents is Natural Language Processing - a form of Artificial Intelligence. The agent uses Natural Language Processing to parse both the syntax and semantics of the conversation based on deep learning from a huge dataset of conversational language. So if a user says “I’d like”, the agent can understand that to match an intent that says “I would like ..” and an intent that says “I want”.
 
 ## Building a conversational agent
 
@@ -118,7 +118,7 @@ To test whether a conversational agent could help improve task success, we built
 	<img alt="A long description can be found after the image." src="/research-summaries/images/conversation-3.png" />
 	<figcaption><details>
 			<summary>Google assistant voice agent</summary>
-			<p>The CRA phone number finder Google voice assistant. It displays the text &quot;Welcome to the CRA phone number finder. What do you want to call about?&quot; The response is &quot;a proof of income statement.&quot;</p>
+			<p>The CRA phone number finder Google voice assistant. It displays the text &quot;Welcome to the CRA phone number finder. What do you want to call about?&quot; The response is &quot;a proof of income statement&quot;.</p>
 		</details></figcaption>
 </figure>
 
@@ -181,9 +181,9 @@ This led to some issues. For example, when the user asked “Can I get a number 
   <details>
     <summary>Looking for a number</summary>
     <p>Screen shows this text:</p>
-    <p>“Participant 4. Trying to find different numbers.”</p>
+    <p>“Participant 4. Trying to find different numbers”.</p>
     <p>Screen shows this text:</p>
-    <p>“Because he uses the word "number", the agent matches it to the "Business number registration" task.”</p>
+    <p>“Because he uses the word "number", the agent matches it to the "Business number registration" task”.</p>
     <p><b>Participant:</b></p>
     <p>“Can you please call the CRA business enquiry number?”</p>
     <p><b>Agent:</b></p>
@@ -249,7 +249,7 @@ For example, for the “Report a scam” task, we initially didn’t include the
     <p>Participant:</p>
     <p>“Yeah! Eureka” (participant laughs…)</p>
     <p>Screen shows this text:</p>
-    <p>“Building the right set of training phases is essential to match questions the proper answer.”</p>
+    <p>“Building the right set of training phases is essential to match questions the proper answer”.</p>
   </details>
 </figure>
 {:/}
@@ -439,7 +439,7 @@ Tasks that did not perform well with conversational agents had these characteris
   <details>
     <summary>Using the agent to make a payment arrangement</summary>
     <p>Screen shows this text:</p>
-	  <p>“Participant 8. Succeeds to find the number to make a payment arrangement for a corporate income tax debt using the wizard.”</p>
+	  <p>“Participant 8. Succeeds to find the number to make a payment arrangement for a corporate income tax debt using the wizard”.</p>
 	  <p>Participant clicks on a big green button labelled “Find a phone number” </p>
 	  <p>The text below the title is “Answer a few questions to find the telephone number or contact you need”. </p>
   	<p>The first question is “What do you want to call about?” </p>
@@ -448,7 +448,7 @@ Tasks that did not perform well with conversational agents had these characteris
 	    <li>Personal taxes and benefits</li>
       <li>Business and self-employed</li>
       <li>Charity</li>
-      <li>Trusts and estates.</li>
+      <li>Trusts and estates</li>
     </ul>
 	  <p>The participant selects “Business and self-employed”.</p>
 	  <p>The 2nd question is: </p>
@@ -464,7 +464,7 @@ Tasks that did not perform well with conversational agents had these characteris
       <li>Report a scam call </li>
       <li>Other information about your business </li>
     </ul>
-	  <p>The participant selects “Make a payment arrangement.</p>
+	  <p>The participant selects “Make a payment arrangement”.</p>
     <p>The 3rd question is:</p>
 	  <p>“For which type of debt do you want to take an arrangement?”</p>
 	  <p>The options are:</p>
@@ -473,12 +473,12 @@ Tasks that did not perform well with conversational agents had these characteris
       <li>Payroll debt </li>
       <li>GST/HST debt </li>
     </ul>
-	  <p>Participant selects “ Corporate income tax”.</p>
+	  <p>Participant selects “Corporate income tax”.</p>
 	  <p>Participant gets the answer.</p>
 	  <p>Screen shows this text:</p>
-	  <p>“The options offered at each step helped the participant get to the answer very quickly.”</p>
+	  <p>“The options offered at each step helped the participant get to the answer very quickly”.</p>
   	<p>Screen shows this text:</p>
-	  <p>“Participant 6. Fails to find the number to make a payment arrangement for a payroll tax debt using the chabot.” </p>
+	  <p>“Participant 6. Fails to find the number to make a payment arrangement for a payroll tax debt using the chabot”.</p>
 	  <p>The screen shows a chatbot window, with these words: </p>
 	  <p>“To make sure you get the right phone number for CRA, tell me what you need help with.”</p>
 	  <p><b>Participant types: </b></p>
@@ -490,7 +490,7 @@ Tasks that did not perform well with conversational agents had these characteris
 	  <p><b>Participant types: </b></p>
   	<p>“Payroll deductions” </p>
   	<p><b>Chabot replies on screen: </b></p>
-  	<p>“Ok, you want to call about your business. What is the reason of your call?.”</p>
+  	<p>“Ok, you want to call about your business. What is the reason of your call?”.</p>
 	  <p><b>Participant says: </b></p>
 	  <p>“Ok… call about your business… reason of your call.. Hum…” </p>
 	  <p><b>Participant types: </b></p>
@@ -500,7 +500,7 @@ Tasks that did not perform well with conversational agents had these characteris
 	  <p><b>Participant says: </b></p>
 	  <p>“Ok… it’s having trouble understanding what I’m trying to say...! ” </p>
 	  <p>Screen shows this text: </p>
-	  <p>“In the end, the participant wasn't able to frame the question in a way that the chatbot understands.” </p>
+	  <p>“In the end, the participant wasn't able to frame the question in a way that the chatbot understands”.</p>
   </details>
 </figure>
 {:/}
@@ -519,7 +519,7 @@ To build an effective wizard or conversational agent, you need to have a perfect
 
 Perhaps the biggest take-away from this experiment in conversational design is that there is very little “magic” involved. Simply put, if your Google Assistant or your Alexa replies to something witty or is especially useful in a specific circumstance, it’s because somebody, somewhere, planned for what you said, developed an “intent” for it using the right training phrases, and designed the right response for the agent.
 
-Contrary to popular belief, you cannot ask a bot to scan your web pages, “learn” your content and develop conversations flows on its own. These agents also cannot get better over time “on their own.” A human needs to continually analyze data, find out where the conversations break down, and tweak the training phrases accordingly.
+Contrary to popular belief, you cannot ask a bot to scan your web pages, “learn” your content and develop conversations flows on its own. These agents also cannot get better over time “on their own”. A human needs to continually analyze data, find out where the conversations break down, and tweak the training phrases accordingly.
 
 This is not to say that there will not be improvements to the automation of these agents in the future. The field is moving at lightning speed, and new tools are being developed very quickly. But at the moment, to develop a working conversational agent, you need to design them from the ground up.
 
