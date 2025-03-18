@@ -121,7 +121,7 @@ title: "Canada Child Benefit"
       <figcaption>
         <details close="">
           <summary>Image description: Canada Child Benefit navigation menu</summary>
-          <p class="mrgn-tp-lg">Screenshot of a navigation menu. The heading is Canada Child Benefit: Overview. The navigation options are Overview, Eligibility, Apply, How much can you expect, Payment dates</p>
+          <p class="mrgn-tp-lg">Screenshot of a navigation menu. The heading is Canada Child Benefit: Overview. The navigation options are Overview, Eligibility, Apply, How much can you expect, Payment dates.</p>
         </details>
       </figcaption>
     </figure>
@@ -159,7 +159,7 @@ title: "Canada Child Benefit"
       <figcaption>
         <details close="">
           <summary>Image description: previous and new design for Canada Child Benefit with adjusted page titles</summary>
-          <p class="mrgn-tp-lg">The old design included the following pages: Overview, Eligibility, Apply, How much you can expect and Payment dates. The new design adjusted the page titles to match what people look for: Who can apply, Apply, How much you can get, Payment dates, Keep getting your payments, Contact the CRA</p>
+          <p class="mrgn-tp-lg">The old design included the following pages: Overview, Eligibility, Apply, How much you can expect and Payment dates. The new design adjusted the page titles to match what people look for: Who can apply, Apply, How much you can get, Payment dates, Keep getting your payments, Contact the CRA.</p>
         </details>
       </figcaption>
     </figure>
