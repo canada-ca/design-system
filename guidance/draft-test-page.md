@@ -37,9 +37,9 @@ Every day, thousands of visitors come to Canada.ca seeking information. However,
 
 The goal of AI chat applications on Canada.ca is to provide quick, accurate and tailored answers to users' questions about GC services.
 
-### **Follow the central guidance**
+### Follow the central guidance
 
-You should follow the Treasury Board of Canada Secretariat’s [Guide on the use of generative AI](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html#toc-4). This guide cites public AI chat applications and chatbots as a higher risk use case. The guidance is intended to support teams in maintaining the public trust in Canada.ca while meeting the “FASTER” principles (fair, accountable, secure, transparent, educated and relevant) that are outlined in the guide.
+You should follow the Treasury Board of Canada Secretariat’s [Guide on the use of generative AI](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html). This guide cites public AI chat applications and chatbots as a higher risk use case. The guidance is intended to support teams in maintaining the public trust in Canada.ca while meeting the “FASTER” principles (fair, accountable, secure, transparent, educated and relevant) that are outlined in the guide.
 
 * For information and guidance on specific uses of generative AI, contact the Responsible Data and AI team: [ai-ia@tbs-sct.gc.ca](mailto:ai-ia@tbs-sct.gc.ca)   
 * For AI security questions and advice, contact: [zztbscybers@tbs-sct.gc.ca](mailto:zztbscybers@tbs-sct.gc.ca) 
@@ -94,7 +94,7 @@ Use a link or mobile-first bottom-overlay instead of a floating-at-bottom-right 
 
 **Example of a bottom-overlay**
 
-![][image1]![][image2]
+<p><img src="images/image5.png" alt="Who can renew a passport"></p>
 
 *Long description: Web content on a page is followed by black bar at the bottom of the page. On the black bar there is white text that reads “Need help?”. This is followed by a grey button that reads “Use AI Answers”. There is an “x” in the far right corner that allows the user to dismiss the overlay.* 
 
@@ -104,11 +104,11 @@ The Digital Transformation Office, in collaboration with several departments, is
 
 This screenshot demonstrates the current design of the application.
 
-### Design of AI Answers: alpha ![][image3]
+### Design of AI Answers: alpha
 
-Add a long description once sure of the final screenshot. 
+<p><img src="images/image2.png" alt="AI answers"></p>
 
-## 
+==Add a long description once sure of the final screenshot.==
 
 ## Content guidance {#content-guidance}
 
@@ -204,9 +204,7 @@ To ensure citations are highly visible, consider the following guidelines:
 
 Here is an example of providing a citation that is formatted to be highly visible:
 
- **![][image4]**
-
-##### 
+ <p><img src="images/image1.png" alt="How do I make a CRA account?"></p>
 
 ### Handling online wizards  {#handling-online-wizards}
 
@@ -249,7 +247,7 @@ DTO has learned from testing the AI Answers prototypethe Page Feedback Tool that
 
 * This user message is displayed when PII is redacted: “Your question contained personal details replaced with XXX.” “To protect your privacy, your question was not sent to the AI service. Please ask your question again without any personal details.”
 
-![][image5]
+<p><img src="images/image6.png" alt="Redacting personally identifiable information"></p>
 
 ### Redacting threats, profanity and AI manipulation 
 
@@ -269,7 +267,7 @@ There are three sets of files of words and phrases, in English and French, that 
 2. Threats (threats\_en.txt, threats\_fr.txt)  
 3. Manipulation (manipulation\_en.json, manipulation\_en.json) 
 
-   ![][image6]
+<p><img src="images/image7.png" alt="Your question was not sent to the AI service."></p>
 
 ### Prevention of jailbreaking and manipulation {#prevention-of-jailbreaking-and-manipulation}
 
@@ -284,7 +282,7 @@ Use limits:
   * show a Reload button and message once the conversation limit is reached \- note that only messages sent to the AI service should count towards this limit   
   * Reload message: “You’ve reached the limit of 3 questions per conversation. Reload to start a new conversation”
 
-  ![][image7]
+<p><img src="images/image3.png" alt="Reload page button"></p>
 
 # Iterative design {#iterative-design}
 
@@ -294,13 +292,13 @@ We propose experimentation phases that include user research throughout the life
 
 ## Phases of experimentation, launch and continued analysis
 
-#### **User research in the design phase** 
+#### User research in the design phase
 
-Involve user experience (UX) researchers early so they can start testing design prototypes with potential end users. Apply best practices for developers from the Treasury Board of Canada Secretariat’s [Guide on the use of generative AI](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html#toc-4). 
+Involve user experience (UX) researchers early so they can start testing design prototypes with potential end users. Apply best practices for developers from the Treasury Board of Canada Secretariat’s [Guide on the use of generative AI](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html). 
 
-##### **Use evaluation datasets from Canada.ca feedback** 
+##### Use evaluation datasets from Canada.ca feedback
 
-Every weekday, users leave up to 4,000 feedback comments across the site, many in the form of questions. Consult your web team or the Digital Transformation Office to generate an evaluation dataset from this user feedback. Before using the dataset, ensure you remove all comments with redacted personal information, such as numbers, names, or emails (comments that include the \# character). 
+Every weekday, users leave up to 4,000 feedback comments across the site, many in the form of questions. Consult your web team or the Digital Transformation Office to generate an evaluation dataset from this user feedback. ==Before using the dataset, ensure you remove all comments with redacted personal information, such as numbers, names, or emails (comments that include the \# character).== 
 
 For more information on using feedback, see:
 
@@ -321,9 +319,9 @@ Generative AI is rapidly changing expectations, and underlying models can evolve
 
 For quick quantitative feedback, model services typically use thumbs up and thumbs down symbols, with a text response option for thumbs down. However, for government services, research by gov.uk suggests focusing on the usefulness of the answer with text, instead of icons. 
 
-We recommend adding the following line below the answer: "How was this answer? Good or Needs improvement." 
+==We recommend adding the following line below the answer: "How was this answer? Good or Needs improvement."==
 
-![][image8]
+<p><img src="images/image8.png" alt="How was this answer?"></p>
 
 ## Task Success user survey 
 
