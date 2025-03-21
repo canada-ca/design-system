@@ -11,7 +11,7 @@ People expect and trust consistency and transparency on Canada.ca, including in 
 Use this guidance when building a public-facing AI chat application. The guidance will continue to evolve over time as we build and test applications with departments.
 
 <table>
-<tr>
+<tr style="vertical-align: top;">
 <td>
   <p><strong><a href="#central-guidance-and-ai-research">Central global guidance and AI research</a></strong></p>
   <p>Vision of AI chat applications, Guide on the use of generative AI, key contacts</p>
