@@ -17,6 +17,23 @@ Use this guidance when building a public-facing AI chat application. The guidanc
 | :---- | :---- | :---- |
 |   |   |   |
 
+<table>
+<tr>
+<td>
+[Central global guidance and AI research](#central-guidance-and-ai-research) Vision of AI chat applications, Guide on the use of generative AI, key contacts
+
+[Privacy and security](#privacy-and-security) Redaction techniques, threats, jailbreaking, red teaming
+</td>
+<td>
+[Design guidance](#design-guidance) Design specifications, standard icons
+
+[Iterative design](#iterative-design) Design phase, user testing, launch phases, feedback loop, feedback mechanisms
+</td>
+<td>
+[Content guidance](#content-guidance) Disclaimers, transparency and accountability, accuracy, citation links, accessibility, language, citation links, answer length
+</td>
+</tr>
+</table>
  
 ## 
 
