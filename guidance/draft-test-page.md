@@ -31,7 +31,7 @@ Use this guidance when building a public-facing AI chat application. The guidanc
 </tr>
 </table>
 
-## **Central guidance and AI research** {#central-guidance-and-ai-research}
+## Central guidance and AI research {#central-guidance-and-ai-research}
 
 Every day, thousands of visitors come to Canada.ca seeking information. However, based on the daily feedback we receive from GC Feedback, we know that not everyone finds what they need. Many of their responses are questions about how to interpret the page for their specific situation, how to find a particular answer and how to get a telephone number.
 
@@ -44,7 +44,7 @@ You should follow the Treasury Board of Canada Secretariat’s [Guide on the use
 * For information and guidance on specific uses of generative AI, contact the Responsible Data and AI team: [ai-ia@tbs-sct.gc.ca](mailto:ai-ia@tbs-sct.gc.ca)   
 * For AI security questions and advice, contact: [zztbscybers@tbs-sct.gc.ca](mailto:zztbscybers@tbs-sct.gc.ca) 
 
-### **Other guidance and research** 
+### Other guidance and research 
 
 We have based our AI guidance on our own research as well as best practices from other governments and organizations. This includes the following sources: 
 
@@ -68,7 +68,7 @@ We have based our AI guidance on our own research as well as best practices from
 * [The Shape of AI | UX Patterns for Artificial Intelligence Design](https://www.shapeof.ai/#:~:text=The%20Shape%20of%20AI&text=How%20will%20patterns%20and%20experiences,is%20more%20important%20than%20ever)  
 * [Generative AI for beginners: User Experience (UX)](https://microsoft.github.io/generative-ai-for-beginners/#/07-building-chat-applications/README?wt.mc_id=academic-105485-koreyst&id=user-experience-ux)
 
-## **Design guidance** {#design-guidance}
+## Design guidance {#design-guidance}
 
 AI applications must meet the [Canada.ca design requirements](https://design.canada.ca/specifications.html). Use this guidance to provide a consistent experience with AI chat applications across Canada.ca. 
 
@@ -110,7 +110,7 @@ Add a long description once sure of the final screenshot.
 
 ## 
 
-## **Content guidance** {#content-guidance}
+## Content guidance {#content-guidance}
 
 ### Follow this content guidance to create a consistent experience for Canada.ca visitors. 
 
@@ -233,7 +233,7 @@ When designing your AI chat application,avoid language related to live chat, inc
 * **Using the word "Chat";** Research suggests that "chat" is associated with human agents  
 * **Using the word "Now,"** as it implies that a live agent is standing by
 
-## **Privacy and security** {#privacy-and-security}
+## Privacy and security {#privacy-and-security}
 
 ### On this page
 
@@ -307,11 +307,11 @@ For more information on using feedback, see:
 * [How to access survey results and reports](https://design.canada.ca/survey/access-results.html)  
 * [Guide to extracting data from the Feedback Viewer database \- (GCxhange link \- only available on the Government of Canada network)](https://gcxgce.sharepoint.com/:w:/t/10001402/EUO29ttIkP5BhpYVj4nGdkUBjvnMAxEVj8T-MuCjWfzEqw?e=HbLjyy) 
 
-#### **Initial testing phase** 
+#### Initial testing phase
 
 Provide call centre team members or other stakeholders with early versions of the chat application. They can provide feedback and rate/evaluate results. . 
 
-#### **Iterative usability testing sessions** 
+#### Iterative usability testing sessions 
 
 As the design process continues, UX researchers can continue to test various aspects and iterations of the design with end-users. Unmoderated video software works well for this. Perform as many iterations as required to meet a predetermined level of success, fulfilment rate and other criteria. 
 
