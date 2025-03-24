@@ -50,23 +50,29 @@ We have based our AI guidance on our own research as well as best practices from
 
 #### Government of Canada
 
-* [Guide on the use of generative artificial intelligence \- Canada.ca](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html)  
-* [The magic of using interactive questions | Canada.ca blog](https://blog.canada.ca/2021/04/08/using-interactive-questions.html)  
-* [Thinking of adding a chat application? |](https://blog.canada.ca/2022/02/07/chatbots.html) [Canada.ca](http://canada.ca/) [blog](https://blog.canada.ca/2022/02/07/chatbots.html)  
-* [Optimize your content for voice search | Canada.ca blog](https://blog.canada.ca/2020/01/28/voice-search-optimization.html)
+<ul>
+  <li><a href="https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html">Guide on the use of generative artificial intelligence \- Canada.ca</a></li>
+  <li><a href="https://blog.canada.ca/2021/04/08/using-interactive-questions.html">The magic of using interactive questions | Canada.ca blog</a></li>
+  <li><a href="https://blog.canada.ca/2022/02/07/chatbots.html">Thinking of adding a chat application? | Canada.ca blog</a></li>
+  <li><a href="https://blog.canada.ca/2020/01/28/voice-search-optimization.html">Optimize your content for voice search | Canada.ca blog</a></li>
+</ul>
 
 #### Government of the United Kingdom 
 
-* [We’re running a private beta of GOV.UK Chat – Inside GOV.UK](https://insidegovuk.blog.gov.uk/2024/11/05/were-running-a-private-beta-of-gov-uk-chat/)  
-* [Experimenting with how generative AI could help GOV.UK users – Inside GOV.UK](https://insidegovuk.blog.gov.uk/2024/01/18/experimenting-with-how-generative-ai-could-help-gov-uk-users/)  
-* [The findings of our first generative AI experiment: GOV.UK Chat – Inside GOV.UK](https://insidegovuk.blog.gov.uk/2024/01/18/the-findings-of-our-first-generative-ai-experiment-gov-uk-chat/)
+<ul>
+  <li><a href="https://insidegovuk.blog.gov.uk/2024/11/05/were-running-a-private-beta-of-gov-uk-chat/">We’re running a private beta of GOV.UK Chat – Inside GOV.UK</a></li>
+  <li><a href="https://insidegovuk.blog.gov.uk/2024/01/18/experimenting-with-how-generative-ai-could-help-gov-uk-users/">Experimenting with how generative AI could help GOV.UK users – Inside GOV.</a></li>
+  <li><a href="https://insidegovuk.blog.gov.uk/2024/01/18/the-findings-of-our-first-generative-ai-experiment-gov-uk-chat/">The findings of our first generative AI experiment: GOV.UK Chat – Inside GOV.UK</a></li>
+</ul>
 
 #### Other organizations
 
-* [ChatGOV: Will people trust AI tools to help them use public services? | The Behavioural Insights Team](https://www.bi.team/blogs/chatgov-will-people-trust-ai-tools-to-help-them-use-public-services/) \- [full report](https://www.bi.team/wp-content/uploads/2024/01/External-AI-Chatbot-Trial-For-presentations.pdf)  
-* [The User Experience of Customer-Service Chat: 20 Guidelines](https://www.nngroup.com/articles/chat-ux/)  
-* [The Shape of AI | UX Patterns for Artificial Intelligence Design](https://www.shapeof.ai/#:~:text=The%20Shape%20of%20AI&text=How%20will%20patterns%20and%20experiences,is%20more%20important%20than%20ever)  
-* [Generative AI for beginners: User Experience (UX)](https://microsoft.github.io/generative-ai-for-beginners/#/07-building-chat-applications/README?wt.mc_id=academic-105485-koreyst&id=user-experience-ux)
+<ul>
+  <li><a href="https://www.bi.team/blogs/chatgov-will-people-trust-ai-tools-to-help-them-use-public-services/">ChatGOV: Will people trust AI tools to help them use public services? | The Behavioural Insights Team</a></li>
+  <li><a href="https://www.nngroup.com/articles/chat-ux/">The User Experience of Customer-Service Chat: 20 Guidelines</a></li>
+  <li><a href="https://www.shapeof.ai/#:~:text=The%20Shape%20of%20AI&text=How%20will%20patterns%20and%20experiences,is%20more%20important%20than%20ever">The Shape of AI | UX Patterns for Artificial Intelligence Design</a></li>
+  <li><a href="https://microsoft.github.io/generative-ai-for-beginners/#/07-building-chat-applications/README?wt.mc_id=academic-105485-koreyst&id=user-experience-ux">Generative AI for beginners: User Experience (UX)</a></li>
+</ul>
 
 ## Design guidance {#design-guidance}
 
