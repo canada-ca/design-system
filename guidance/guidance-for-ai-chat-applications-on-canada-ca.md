@@ -51,7 +51,7 @@ We have based our AI guidance on our own research as well as best practices from
 #### Government of Canada
 
 <ul>
-  <li><a href="https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html">Guide on the use of generative artificial intelligence \- Canada.ca</a></li>
+  <li><a href="https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html">Guide on the use of generative artificial intelligence - Canada.ca</a></li>
   <li><a href="https://blog.canada.ca/2021/04/08/using-interactive-questions.html">The magic of using interactive questions | Canada.ca blog</a></li>
   <li><a href="https://blog.canada.ca/2022/02/07/chatbots.html">Thinking of adding a chat application? | Canada.ca blog</a></li>
   <li><a href="https://blog.canada.ca/2020/01/28/voice-search-optimization.html">Optimize your content for voice search | Canada.ca blog</a></li>
@@ -82,7 +82,7 @@ AI applications must meet the [Canada.ca design requirements](https://design.can
 
 * [Naming your AI application](#naming-your-ai-application)  
 * [Use icons for navigation](#heading=h.oawgrncqqilr)  
-* [Open a new browser window](#open-a-new-browser-window,-not-a-chat-panel)  
+* [Open a new browser window](#open-a-new-browser-window-not-a-chat-panel)  
 * [Initiate chat with links or overlay bars](#initiate-chat-with-links-or-overlay-bars)  
 * [Design of AI Answers](#heading=h.h9nob8oiyhl)
 
@@ -90,7 +90,7 @@ AI applications must meet the [Canada.ca design requirements](https://design.can
 
 Do not use a human name. Use “AI Answers” as the name, followed by a colon and then your topic (For example, AI Answers: Taxes). Our testing shows that when you use this naming convention, users clearly understand that there is no human hand-off within the application. In our testing our usability participants all clearly understood this name and that no human would be responding to their questions. 
 
-### Open a new browser window, not a chat panel {#open-a-new-browser-window,-not-a-chat-panel}
+### Open a new browser window, not a chat panel {#open-a-new-browser-window-not-a-chat-panel}
 
 Use a full-page URL for your AI application to open in a new window, rather than a narrow panel on an existing page. This approach allows for faster iteration, deployment, and management. It also differentiates your application from non-AI chats.
 
@@ -123,7 +123,7 @@ This screenshot demonstrates the current design of the application.
 ### On this page
 
 * [Topic-specific AI applications](#topic-specific-ai-applications)  
-* [Disclaimers, transparency and accountability](#disclaimers,-transparency-and-accountability)  
+* [Disclaimers, transparency and accountability](#disclaimers-transparency-and-accountability)  
 * [Accessibility](#accessibility)  
 * [Accuracy](#accuracy)  
 * [Language](#languages)  
@@ -139,7 +139,7 @@ While you can limit a chat application to a certain topic, keep the Canada.ca vi
 
 People expect Canada.ca to function as a unified site. If an AI application is limited to a specific topic, its invitation button or link should clearly indicate that topic. This ensures users understand they will only find information related to that specific topic.
 
-### Disclaimers, transparency and accountability {#disclaimers,-transparency-and-accountability}
+### Disclaimers, transparency and accountability {#disclaimers-transparency-and-accountability}
 
 Generative AI chat solutions must be clearly labelled as AI. Disclaimers should address privacy, potential mistakes and similar issues without blocking access to the chat service.
 
@@ -241,11 +241,11 @@ When designing your AI chat application,avoid language related to live chat, inc
 
 ### On this page
 
-* [Redacting Personally Identifiable Information(PII) in the user input field](#redacting-personally-identifiable-information-\(pii\))  
+* [Redacting Personally Identifiable Information(PII) in the user input field](#redacting-personally-identifiable-information)  
 * [Redacting threats, profanity and AI manipulation](#prevention-of-jailbreaking-and-manipulation)  
 * [Prevention of jailbreaking and manipulation](#prevention-of-jailbreaking-and-manipulation)
 
-### Redacting Personally Identifiable Information (PII)  {#redacting-personally-identifiable-information-(pii)}
+### Redacting Personally Identifiable Information (PII)  {#redacting-personally-identifiable-information}
 
 Remove and redact as much personal identifiable information (PII) as possible, rather than sending it to the AI service or storing it in any manner. 
 
