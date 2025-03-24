@@ -184,9 +184,9 @@ All in-scope answers must include an authoritative citation link. Citations help
 
 To illustrate how citation links should be used, consider the following scenarios:
 
-For the question "Where to find passport offices," the citation link provided should be a URL to the page “Find a passport service location in Canada.”
+For the question "Where to find passport offices", the citation link provided should be a URL to the page “Find a passport service location in Canada”.
 
-For the question "I need the passport form," the AI should not provide a direct link to a passport form because there are several forms. It isn’t clear which form is needed. Instead, it should ask a clarifying question to understand the situation better. For example, it could ask, “Is this an adult passport?” or “Is this a first-time application?” 
+For the question "I need the passport form", the AI should not provide a direct link to a passport form because there are several forms. It isn’t clear which form is needed. Instead, it should ask a clarifying question to understand the situation better. For example, it could ask, “Is this an adult passport?” or “Is this a first-time application?” 
 
 Once the situation is clarified, the AI can provide the appropriate link. For instance, it could direct the user to answer the questions on the “Who can renew a passport” page to be led to the correct form for their situation. 
 
@@ -210,11 +210,11 @@ To ensure citations are highly visible, consider the following guidelines:
 
 Here is an example of providing a citation that is formatted to be highly visible:
 
- <p><img src="images/image1.png" alt="How do I make a CRA account?"></p>
+<p><img src="images/image1.png" alt="How do I make a CRA account?"></p>
 
-### Handling online wizards  {#handling-online-wizards}
+### Handling online wizards {#handling-online-wizards}
 
-An online wizard is a step-by-step guide that helps users complete a task by breaking it into smaller, manageable steps. There are many heavily used Canada.ca wizards like “Find out if you need a visa.” These wizards can be many layers deep with extensive logic and are always kept up to date. 
+An online wizard is a step-by-step guide that helps users complete a task by breaking it into smaller, manageable steps. There are many heavily used Canada.ca wizards like “Find out if you need a visa”. These wizards can be many layers deep with extensive logic and are always kept up to date. 
 
 Your system prompt should direct the AI service to send users to any existing wizard pages rather than the AI trying to ask all the relevant questions. Since current AI models are reinforced to answer questions, rather than to ask questions, providing these answers should be left to the wizard.     
 
@@ -232,10 +232,10 @@ All conversations should have a visible identifier that is documented in the sys
 
 ### Things to avoid {#things-to-avoid}
 
-When designing your AI chat application,avoid language related to live chat, including:
+When designing your AI chat application, avoid language related to live chat, including:
 
 * **Using the word "Chat";** Research suggests that "chat" is associated with human agents  
-* **Using the word "Now,"** as it implies that a live agent is standing by
+* **Using the word "Now",** as it implies that a live agent is standing by
 
 ## Privacy and security {#privacy-and-security}
 
@@ -251,15 +251,15 @@ Remove and redact as much personal identifiable information (PII) as possible, r
 
 DTO has learned from testing the AI Answers prototypethe Page Feedback Tool that most questions with PII redacted will no longer make sense. Instead of sending the redacted message to the AI Service, our approach is to show the user the result of the PII redaction and ask them to reframe the question without personal details. 
 
-* This user message is displayed when PII is redacted: “Your question contained personal details replaced with XXX.” “To protect your privacy, your question was not sent to the AI service. Please ask your question again without any personal details.”
+* This user message is displayed when PII is redacted: “Your question contained personal details replaced with XXX”. “To protect your privacy, your question was not sent to the AI service. Please ask your question again without any personal details.”
 
 <p><img src="images/image6.png" alt="Redacting personally identifiable information"></p>
 
 ### Redacting threats, profanity and AI manipulation 
 
-Apply redaction patterns in the code for profanity, threats and manipulation..
+Apply redaction patterns in the code for profanity, threats and manipulation.
 
-All three of these types of redaction show an identical user message and are redacted with \# characters. An error message is displayed to advise users:  “Your question was not sent to the AI service.Your question used words that aren’t accepted. Please try asking it differently.” 
+All three of these types of redaction show an identical user message and are redacted with \# characters. An error message is displayed to advise users:  “Your question was not sent to the AI service.Your question used words that aren’t accepted. Please try asking it differently”. 
 
 This redaction approach prevents people from attempting to contact the Government with threats and from attempting to manipulate or ‘jailbreak’ the AI service. Threats would need to be handled in real-time, which is not the role of an AI chat application. 
 
@@ -283,7 +283,7 @@ Use limits:
 
 * limit the number of characters in the input field to 400   
   * Examine your usage data over time to evaluate reducing or increasing this value  
-  * Error message when limit is exceeded should alert the user to the amount of characters over the limit and advise them to simplify it: “Your message is \[number\] characters too long. Please simplify your question.”  
+  * Error message when limit is exceeded should alert the user to the amount of characters over the limit and advise them to simplify it: “Your message is \[number\] characters too long. Please simplify your question”  
 * limit the conversation to a maximum of 3 questions, as longer conversations are more vulnerable and more expensive   
   * show a Reload button and message once the conversation limit is reached \- note that only messages sent to the AI service should count towards this limit   
   * Reload message: “You’ve reached the limit of 3 questions per conversation. Reload to start a new conversation”
@@ -313,7 +313,7 @@ For more information on using feedback, see:
 
 #### Initial testing phase
 
-Provide call centre team members or other stakeholders with early versions of the chat application. They can provide feedback and rate/evaluate results. . 
+Provide call centre team members or other stakeholders with early versions of the chat application. They can provide feedback and rate/evaluate results. 
 
 #### Iterative usability testing sessions 
 
