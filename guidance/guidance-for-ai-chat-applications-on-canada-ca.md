@@ -178,7 +178,7 @@ To ensure effective communication in multiple languages, follow this guidance:
 
 ### Citations {#citations}
 
-All in-scope answers must include an authoritative citation link. Citations help users verify the answer and provide a link for the next step. Citations must point to a Government of Canada web page so that people can review the information source for themselves.. 
+All in-scope answers must include an authoritative citation link. Citations help users verify the answer and provide a link for the next step. Citations must point to a Government of Canada web page so that people can review the information source for themselves. 
 
 #### Ensure the AI is citing the correct page
 
