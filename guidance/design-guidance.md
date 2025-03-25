@@ -16,7 +16,6 @@ AI applications must meet the [Canada.ca design requirements](https://design.can
 ### On this page
 
 * [Naming your AI application](#naming-your-ai-application)  
-* [Use icons for navigation](#use-icons-for-navigation) <mark>There appears to be no related heading on this page</mark>
 * [Open a new browser window](#open-a-new-browser-window-not-a-chat-panel)  
 * [Initiate chat with links or overlay bars](#initiate-chat-with-links-or-overlay-bars)  
 * [Design of AI Answers](#design-of-ai-answers)
