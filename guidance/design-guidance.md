@@ -6,17 +6,15 @@ description: null
 title: Design guidance
 ---
 
-## Design guidance {#design-guidance}
-
 AI applications must meet the [Canada.ca design requirements](https://design.canada.ca/specifications.html). Use this guidance to provide a consistent experience with AI chat applications across Canada.ca. 
 
 ### On this page
 
 * [Naming your AI application](#naming-your-ai-application)  
-* [Use icons for navigation](#heading=h.oawgrncqqilr)  
+* [Use icons for navigation](#use-icons-for-navigation) <mark>There appears to be no related heading on this page</mark>
 * [Open a new browser window](#open-a-new-browser-window-not-a-chat-panel)  
 * [Initiate chat with links or overlay bars](#initiate-chat-with-links-or-overlay-bars)  
-* [Design of AI Answers](#heading=h.h9nob8oiyhl)
+* [Design of AI Answers](#design-of-ai-answers)
 
 ### Naming your AI application {#naming-your-ai-application}
 
@@ -36,7 +34,7 @@ Use a link or mobile-first bottom-overlay instead of a floating-at-bottom-right 
 
 *Long description: Web content on a page is followed by black bar at the bottom of the page. On the black bar there is white text that reads “Need help?”. This is followed by a grey button that reads “Use AI Answers”. There is an “x” in the far right corner that allows the user to dismiss the overlay.* 
 
-### Design of AI Answers
+### Design of AI Answers {#design-of-ai-answers}
 
 The Digital Transformation Office, in collaboration with several departments, is piloting AI Answers, a generative AI chat application. This application is being piloted for all of Canada.ca and is currently in alpha mode. As we work with departments to test and iterate on this pilot, we will continue to update our guidance on AI chat applications to reflect any new findings. 
 

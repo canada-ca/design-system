@@ -6,8 +6,6 @@ description: null
 title: Central guidance and AI research
 ---
 
-## Central guidance and AI research {#central-guidance-and-ai-research}
-
 Every day, thousands of visitors come to Canada.ca seeking information. However, based on the daily feedback we receive from GC Feedback, we know that not everyone finds what they need. Many of their responses are questions about how to interpret the page for their specific situation, how to find a particular answer and how to get a telephone number.
 
 The goal of AI chat applications on Canada.ca is to provide quick, accurate and tailored answers to users' questions about GC services.

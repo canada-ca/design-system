@@ -6,9 +6,7 @@ description: null
 title: Content guidance
 ---
 
-## Content guidance {#content-guidance}
-
-### Follow this content guidance to create a consistent experience for Canada.ca visitors. 
+Follow this content guidance to create a consistent experience for Canada.ca visitors. 
 
 ### On this page
 
