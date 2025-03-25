@@ -44,7 +44,7 @@ Generative AI is rapidly changing expectations, and underlying models can evolve
 
 For quick quantitative feedback, model services typically use thumbs up and thumbs down symbols, with a text response option for thumbs down. However, for government services, research by gov.uk suggests focusing on the usefulness of the answer with text, instead of icons. 
 
-<mark>We recommend adding the following line below the answer: "How was this answer? Good or Needs improvement."</mark>
+We recommend adding the following line below the answer: "How was this answer? Good or Needs improvement."
 
 <p><img src="images/image8.png" alt="How was this answer?"></p>
 
