@@ -1,5 +1,10 @@
 ---
 altLangPage: https://conception.canada.ca/directives/
+breadcrumbs:
+- link: https://www.canada.ca/en/government/about/design-system.html
+  title: Canada.ca design system
+- link: https://deploy-preview-507--design-system-canada-ca.netlify.app/guidance/guidance-for-ai-chat-applications-on-canada-ca.html
+  title: Guidance for AI chat applications on Canada.ca
 date: '2025-03-21'
 dateModified: '2025-03-21'
 description: null

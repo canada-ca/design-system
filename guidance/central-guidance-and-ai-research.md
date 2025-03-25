@@ -1,8 +1,6 @@
 ---
 altLangPage: https://conception.canada.ca/directives/
 breadcrumbs:
-- link: https://www.canada.ca/en/government/about.html
-  title: About Canada.ca
 - link: https://www.canada.ca/en/government/about/design-system.html
   title: Canada.ca design system
 - link: https://deploy-preview-507--design-system-canada-ca.netlify.app/guidance/guidance-for-ai-chat-applications-on-canada-ca.html

@@ -1,5 +1,8 @@
 ---
 altLangPage: https://conception.canada.ca/directives/
+breadcrumbs:
+- link: https://www.canada.ca/en/government/about/design-system.html
+  title: Canada.ca design system
 date: '2025-03-21'
 dateModified: '2025-03-21'
 description: null
