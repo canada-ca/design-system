@@ -23,7 +23,7 @@ Involve user experience (UX) researchers early so they can start testing design 
 
 ##### Use evaluation datasets from Canada.ca feedback
 
-Every weekday, users leave up to 4,000 feedback comments across the site, many in the form of questions. Consult your web team or the Digital Transformation Office to generate an evaluation dataset from this user feedback. <mark>Before using the dataset, ensure you remove all comments with redacted personal information, such as numbers, names, or emails (comments that include the \# character).</mark> 
+Every weekday, users leave up to 4,000 feedback comments across the site, many in the form of questions. Consult your web team or the Digital Transformation Office to generate an evaluation dataset from this user feedback. Before using the dataset, ensure you remove all comments with redacted personal information (comments that include the \# character).
 
 For more information on using feedback, see:
 
