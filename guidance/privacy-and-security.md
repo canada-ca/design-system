@@ -21,7 +21,7 @@ title: Privacy and security
 
 Remove and redact as much personal identifiable information (PII) as possible, rather than sending it to the AI service or storing it in any manner. 
 
-DTO has learned from testing the AI Answers prototypethe Page Feedback Tool that most questions with PII redacted will no longer make sense. Instead of sending the redacted message to the AI Service, our approach is to show the user the result of the PII redaction and ask them to reframe the question without personal details. 
+DTO has learned from testing that most questions with PII redacted will no longer make sense. Instead of sending the redacted message to the AI Service, our approach is to show the user the result of the PII redaction and ask them to reframe the question without personal details. 
 
 * This user message is displayed when PII is redacted: “Your question contained personal details replaced with XXX”. “To protect your privacy, your question was not sent to the AI service. Please ask your question again without any personal details.”
 
