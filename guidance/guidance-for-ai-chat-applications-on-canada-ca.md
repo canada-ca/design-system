@@ -23,7 +23,7 @@ Use this guidance when building a public-facing AI chat application. The guidanc
 </td>
 <td>
   <p><strong><a href="{{ site.url }}/guidance/design-guidance.html">Design guidance</a></strong></p>
-  <p>Design specifications, standard icons</p>
+  <p>Naming your AI application, design specifications</p>
   <p><strong><a href="{{ site.url }}/guidance/iterative-design.html">Iterative design</a></strong></p>
     <p>Design phase, user testing, launch phases, feedback loop, feedback mechanisms</p>
 </td>
