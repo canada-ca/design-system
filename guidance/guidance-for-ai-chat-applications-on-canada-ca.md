@@ -16,7 +16,7 @@ Use this guidance when building a public-facing AI chat application. The guidanc
 <table>
 <tr style="vertical-align: top;">
 <td>
-  <p><strong><a href="{{ site.url }}/guidance/central-guidance-and-ai-research.html">Central global guidance and AI research</a></strong></p>
+  <p><strong><a href="{{ site.url }}/guidance/central-guidance-and-ai-research.html">Central guidance and AI research</a></strong></p>
   <p>Vision of AI chat applications, Guide on the use of generative AI, key contacts</p>
   <strong><a href="{{ site.url }}/guidance/privacy-and-security.html">Privacy and security</a></strong>
   <p>Redaction techniques, threats, jailbreaking, red teaming</p>
