@@ -191,6 +191,7 @@ title: "Breadcrumb trail"
           <p class="mrgn-tp-lg">For Drupal:</p>
           <ul>
             <li><a href="https://drupalwxt.github.io/">Drupal WxT documentation</a></li>
+            <li><a href="https://www.drupal.org/project/gcds">Drupal: GC Design System (GCDS)</a></li>
           </ul>
         </details>
       </div>
