@@ -113,7 +113,7 @@ title: "Breadcrumb trail"
   <p class="breadcrumb">Canada.ca <span class="glyphicon glyphicon-chevron-right small"></span> [Basic search]</p>
 </div>
 <h5>Campaigns and promotions</h5>
-<p>Promotion campaigns don't need a breadcrumb trail. If you add one, it can lead back to the topic tree, the Institutional/Organizational profile, or to the Home page of Canada.ca.</p>
+<p>Breadcrumbs can lead back to the topic tree, the institutional/organizational profile, or to the home page of Canada.ca.</p>
 <h5 class="mrgn-tp-lg">News</h5>
 <div class="container">
   <p class="breadcrumb">Canada.ca <span class="glyphicon glyphicon-chevron-right small"></span> [Institutional profile page]</p>
