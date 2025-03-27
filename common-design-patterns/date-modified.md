@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/configurations-conception-communes/date-modification.html
 date: null
-dateModified: '2023-10-03'
+dateModified: '2025-03-27'
 description: null
 title: Date modified
 ---
