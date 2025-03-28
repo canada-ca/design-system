@@ -119,6 +119,7 @@ breadcrumbs: [{
         </p>
       </section>
     </div>
+    </section>
   </div>
 </section>
 <div class="clearfix"></div>
