@@ -16,7 +16,6 @@ breadcrumbs: [{
         ]
 ---
 
-
 <p>
  The Canada.ca design helps to provide a consistent and trustworthy online experience for people who access Government of Canada digital services.
 </p>
@@ -98,28 +97,29 @@ breadcrumbs: [{
       </p>
      </section>
     </div>
-   <div class="col-md-4">
-     <section>
-      <h3 class="h5">
-       <a href="./about/latest-changes.html">
-        Latest changes to the Canada.ca design
-       </a>
-      </h3>
-      <p>
-       Latest changes to the design
-      </p>
-     </section>
+    <div class="col-md-4">
+      <section>
+        <h3 class="h5">
+        <a href="./about/latest-changes.html">
+          Latest changes to the Canada.ca design
+        </a>
+        </h3>
+        <p>
+        Latest changes to the design
+        </p>
+      </section>
     </div>
+    <div class="col-md-4">
+      <section>
+        <h3 class="h5">
+        <a href="https://design-system.alpha.canada.ca/en/"><span class="label label-info">ALPHA</span> GC Design System</a>
+        </h3>
+        <p>
+        This is a new version of the design system. You can use it as a starting point for a website or application.
+        </p>
+      </section>
+    </div>
+  </div>
 </section>
-</div>
 <div class="clearfix"></div>
-<section>
-	<div class="row">
-    		<div class="col-md-8">
-    <h2>What we're working on</h2>
-			<h3 class="h5"><a href="https://design-system.alpha.canada.ca/en/"><span class="label label-info">ALPHA</span> GC Design System</a></h3>
-			<p>This is a new version of the design system. You can use it as a starting point for a website or application.
-			</p>
-		</div>
-    </div>
-</section>
+
