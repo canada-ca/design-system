@@ -13,4 +13,27 @@ title: Guidance for AI chat applications on Canada.ca
 
 <p>Use this guidance when building a public-facing AI chat application. The guidance will continue to evolve over time as we build and test applications with departments.</p>
 
-
+<section class="gc-srvinfo">
+	<div class="wb-eqht row">
+		<div class="col-md-4">
+			<h3><a href="{{ site.url }}/guidance/central-guidance-and-ai-research.html">Central guidance and AI research</a></h3>
+			<p>Vision of AI chat applications, Guide on the use of generative AI, key contacts</p>
+		</div>
+		<div class="col-md-4">
+			<h3><a href="{{ site.url }}/guidance/design-guidance.html">Design guidance</a></h3>
+			<p>Naming your AI application, design specifications</p>
+		</div>
+		<div class="col-md-4">
+			<h3><a href="{{ site.url }}/guidance/content-guidance.html">Content guidance</a></h3>
+			<p>Disclaimers, transparency and accountability, accuracy, citation links, accessibility, language, citation links, answer length</p>
+		</div>
+		<div class="col-md-4">
+			<h3><a href="{{ site.url }}/guidance/privacy-and-security.html">Privacy and security</a></h3>
+			<p>Redaction techniques, threats, jailbreaking, red teaming</p>
+		</div>
+    <div class="col-md-4">
+			<h3><a href="{{ site.url }}/guidance/iterative-design.html">Iterative design</a></h3>
+			<p>Design phase, user testing, launch phases, feedback loop, feedback mechanisms</p>
+		</div>
+	</div>
+</section>
