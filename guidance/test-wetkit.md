@@ -1,3 +1,10 @@
+---
+altLangPage: https://conception.canada.ca/directives/donnees-structurees.html
+date: null
+dateModified: '2020-03-16'
+description: null
+title: Adding structured data on Canada.ca pages
+---
 
 <section class="gc-srvinfo">
 	<h2>Services and information</h2>
