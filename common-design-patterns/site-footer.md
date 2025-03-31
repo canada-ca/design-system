@@ -266,7 +266,7 @@ title: "Global footer"
         <summary><strong>GC Design System</strong></summary>
         <p class="mrgn-tp-lg">For GC Design System:</p>
         <ul>
-          <li><a href="https://design-system.alpha.canada.ca/en/components/footer/">Guidance for the footer component</a></li>
+          <li><a href="https://design-system.alpha.canada.ca/en/components/footer/">GC Design System documentation</a></li>
         </ul>
       </details>
       <details id="005">
@@ -282,7 +282,6 @@ title: "Global footer"
         <p class="mrgn-tp-lg">For Drupal:</p>
         <ul>
           <li><a href="https://drupalwxt.github.io/">Drupal WxT documentation</a></li>
-          <li><a href="https://www.drupal.org/project/gcds">Drupal: GC Design System (GCDS)</a></li>
         </ul>
         <p>2023 footer update:</p>
         <ul>
