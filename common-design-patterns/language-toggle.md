@@ -151,7 +151,7 @@ title: "Language toggle"
           <summary><strong>GC Design System</strong></summary>
           <p class="mrgn-tp-lg">For GC Design System:</p>
           <ul>
-            <li><a href="https://design-system.alpha.canada.ca/en/components/language-toggle/">Guidance for the language toggle component</a></li>
+            <li><a href="https://design-system.alpha.canada.ca/en/components/language-toggle/">GC Design System documentation</a></li>
           </ul>
         </details>
         <details id="005">
@@ -166,7 +166,6 @@ title: "Language toggle"
           <p class="mrgn-tp-lg">For Drupal:</p>
           <ul>
             <li><a href="https://drupalwxt.github.io/">Drupal WxT documentation</a></li>
-            <li><a href="https://www.drupal.org/project/gcds">Drupal: GC Design System (GCDS)</a></li>
           </ul>
         </details>
       </div>
