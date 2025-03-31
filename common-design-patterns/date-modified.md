@@ -127,7 +127,7 @@ title: Date modified
           <summary><strong>GC Design System</strong></summary>
           <p class="mrgn-tp-lg">For GC Design System:</p>
           <ul>
-            <li><a href="https://design-system.alpha.canada.ca/en/components/date-modified/">Guidance for the date modified component</a></li>
+            <li><a href="https://design-system.alpha.canada.ca/en/components/date-modified/">GC Design System documentation</a></li>
           </ul>
         </details>
         <details id="005">
@@ -142,7 +142,6 @@ title: Date modified
           <p class="mrgn-tp-lg">For Drupal:</p>
           <ul>
             <li><a href="https://drupalwxt.github.io/">Drupal WxT documentation</a></li>
-            <li><a href="https://www.drupal.org/project/gcds">Drupal: GC Design System (GCDS)</a></li>
           </ul>
         </details>
       </div>
