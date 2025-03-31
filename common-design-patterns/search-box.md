@@ -109,7 +109,7 @@ title: "Site search box"
           <summary><strong>GC Design System</strong></summary>
           <p class="mrgn-tp-lg">For GC Design System:</p>
           <ul>
-            <li><a href="https://design-system.alpha.canada.ca/en/components/search/">Guidance for the search component</a></li>
+            <li><a href="https://design-system.alpha.canada.ca/en/components/search/">GC Design System documentation</a></li>
           </ul>
         </details>
         <details id="005">
@@ -125,7 +125,6 @@ title: "Site search box"
           <p class="mrgn-tp-lg">For Drupal:</p>
           <ul>
             <li><a href="https://drupalwxt.github.io/">Drupal WxT documentation</a></li>
-            <li><a href="https://www.drupal.org/project/gcds">Drupal: GC Design System (GCDS)</a></li>
           </ul>
         </details>
       </div>
