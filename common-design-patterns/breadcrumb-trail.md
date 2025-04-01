@@ -169,7 +169,7 @@ title: "Breadcrumb trail"
           <summary><strong>GC Design System</strong></summary>
           <p class="mrgn-tp-lg">For GC Design System:</p>
           <ul>
-            <li><a href="https://design-system.alpha.canada.ca/en/components/breadcrumbs/">Guidance for the breadcrumbs component</a></li>
+            <li><a href="https://design-system.alpha.canada.ca/en/components/breadcrumbs/">GC Design System documentation</a></li>
           </ul>
         </details>
         <details id="005">
@@ -185,7 +185,6 @@ title: "Breadcrumb trail"
           <p class="mrgn-tp-lg">For Drupal:</p>
           <ul>
             <li><a href="https://drupalwxt.github.io/">Drupal WxT documentation</a></li>
-            <li><a href="https://www.drupal.org/project/gcds">Drupal: GC Design System (GCDS)</a></li>
           </ul>
         </details>
       </div>
