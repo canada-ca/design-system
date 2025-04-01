@@ -24,6 +24,14 @@ title: Canada.ca alerts for urgent and evolving situations
 			<td data-label="Products">Related to standardized alert guidance for news products<br/>
             <a href="https://design.canada.ca/crisis/alerts.html">https://design.canada.ca/crisis/alerts.html</a></td>
 		</tr>
+        <tr>
+			<td data-label="Issues"><strong>Status</strong></td>
+			<td data-label="Products"><strong>Product Manager: Approved on  Feb 24, 2025 3:30 PM</strong></td>
+		</tr>
+		<tr>
+			<td data-label="Issues"><strong>Name</strong></td>
+			<td data-label="Products"><strong>Director: Approved on Feb 28, 2025</strong></td>
+		</tr>
 	</tbody>
 </table>
 
