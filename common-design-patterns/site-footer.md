@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/configurations-conception-communes/pied-page.html"
 date: 2019-01-08
-dateModified: 2023-04-06
+dateModified: 2025-03-27
 description: "The global (site-wide) footer at the bottom of each page. It includes the main band, contextual band and sub-footer band. This is a mandatory pattern with optional elements."
 title: "Global footer"
 ---
@@ -262,6 +262,13 @@ title: "Global footer"
           <li><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">AEM/Managed Web Service documentation (only available on the Government of Canada network)</a></li>
         </ul>
       </details>
+      <details id="0041" open="open">
+        <summary><strong>GC Design System</strong></summary>
+        <p class="mrgn-tp-lg">For GC Design System:</p>
+        <ul>
+          <li><a href="https://design-system.alpha.canada.ca/en/components/footer/">GC Design System documentation</a></li>
+        </ul>
+      </details>
       <details id="005">
         <summary><strong>CDTS</strong></summary>
         <p class="mrgn-tp-lg">For the Centrally Deployed Templates Solution (CDTS):</p>
@@ -271,8 +278,8 @@ title: "Global footer"
         </ul>
       </details>
       <details id="006">
-        <summary><strong>Drupal WxT</strong></summary>
-        <p class="mrgn-tp-lg">For Drupal WxT:</p>
+        <summary><strong>Drupal</strong></summary>
+        <p class="mrgn-tp-lg">For Drupal:</p>
         <ul>
           <li><a href="https://drupalwxt.github.io/">Drupal WxT documentation</a></li>
         </ul>
