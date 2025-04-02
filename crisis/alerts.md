@@ -1,261 +1,111 @@
 ---
 altLangPage: https://conception.canada.ca/crise/alertes.html
 date: null
-dateModified: '2020-07-13'
+dateModified: '2025-03-31'
 description: null
-title: Canada.ca alerts and service disruptions
+title: Canada.ca alerts for urgent and evolving situations
 ---
 
- <p class="small">
-  Last updated: 2022-05-10
- </p>
- <p>
-  These recommendations will help bring consistency to each department's communications on service disruptions during a crisis.
- </p>
- <section>
-  <h2>
-   On this page
-  </h2>
-  <ul>
-   <li>
-    <a href="#alerts">
-     How to use alerts for service disruptions
-    </a>
-   </li>
-   <li>
-    <a href="#examples">
-     Examples and code
-    </a>
-   </li>
-   <li>
-    <a href="#dep-page">
-     Alerts that repeat across several pages
-    </a>
-   </li>
-  </ul>
- </section>
- <section>
-  <h2 id="alerts">
-   How to use alerts for service disruptions
-  </h2>
-  <p>
-   Alerts are meant to draw attention to changes in regular content in 2 ways:
-  </p>
-  <ol>
-   <li>
-    a change to the content of the page on which the alert appears: in this case, place the alert next to the updated content
-   </li>
-   <li>
-    a change that has been made elsewhere, such as new information being published: in this case, link to the new information from within the alert
-   </li>
-  </ol>
-  <h3>
-   What to include in alerts
-  </h3>
-  <p>
-   Alert content should:
-  </p>
-  <ul>
-   <li>
-    be short and simple
-   </li>
-   <li>
-    describe the impact on the user
-   </li>
-   <li>
-    be tailored to the page on which it appears
-   </li>
-   <li>
-    include the dates (if known) when the disruption will take place
-   </li>
-   <li>
-    use the appropriate verb tense to reflect when the change is taking place
-   </li>
-   <li>
-    use links sparingly - if a link is needed, only include one
-   </li>
-  </ul>
-  <h3>
-   Limit use of alerts
-  </h3>
-  <p>
-   Be aware that alert fatigue reduces the effectiveness of the alert over time. The more people see alerts and warning messages the less receptive they are to them. To avoid this, follow these guidelines:
-  </p>
-  <ul>
-   <li>
-    only use alerts on a temporary basis (for the time it takes to integrate the information or resolve the situation)
-   </li>
-   <li>
-    limit the number of alerts on each page
-   </li>
-   <li>
-    limit the number of alerts used across pages:
-    <ul>
-     <li>
-      use at impacted points of service or information delivery, such as service initiation pages, contact pages, etc.
-     </li>
-     <li>
-      avoid beyond service or information delivery points - on theme and topic pages, consider using a new doormat instead
-     </li>
-    </ul>
-   </li>
-   <li>
-    save alerts for significant situations that impact most users:
-    <ul>
-     <li>
-      on the Canada.ca home page, only use when more than 50% of the population is affected
-     </li>
-     <li>
-      on institutional landing pages, only use when more than 40% of users are impacted
-     </li>
-    </ul>
-   </li>
-   <li>
-    avoid using alerts just for styling regular content (for emphasis or highlighting)
-   </li>
-  </ul>
-  <section>
-   <h3>
-    Which alert to use
-   </h3>
-   <dl class="dl-horizontal">
-    <dt>
-     Danger alert (red)
-    </dt>
-    <dd>
-     Use only if the service is cancelled or if there's a risk to health or safety to Canadians in completing an activity.
-    </dd>
-    <dt>
-     Warning alert (yellow)
-    </dt>
-    <dd>
-     Use for delays, closures at certain locations, and other types of service disruptions.
-    </dd>
-    <dt>
-     Info alert (blue)
-    </dt>
-    <dd>
-     Use for the length of time an application method takes, changes in wait times on a phone line, messages that there is no service disruption for a particular service if that is generating inquiries.
-    </dd>
-    <dt>
-     Success alert (green)
-    </dt>
-    <dd>
-     Use when a service disruption is resolved.
-    </dd>
-   </dl>
-  </section>
-  <h2 id="examples">
-   Examples and code
-  </h2>
-  <div class="well">
-   <section class="alert alert-warning">
-    <h3>
-     Limited service availability
-    </h3>
-    <p>
-     This service is affected by the outbreak of coronavirus (COVID-19).
-    </p>
-    <a href="#">
-     Check service status updates
-    </a>
-   </section>
-  </div>
-  <details>
-   <summary>
-    HTML to code an alert
-   </summary>
-   <p>
-    Code:
-   </p>
-   <pre class="prettyprint"><code>&lt;section class="alert alert-warning"&gt;
-	&lt;h3&gt;Limited service availability&lt;/h3&gt;
-	&lt;p&gt;This service is affected by the outbreak of coronavirus (COVID-19).&lt;/p&gt;
-	&lt;a href="#"&gt;Check service status updates&lt;/a&gt;&lt;/p&gt;
-&lt;/section&gt;</code></pre>
-   <p>
-    Change the "alert-warning" class to "alert-info", "alert-danger" or "alert-success" based on the type of alert needed.
-   </p>
-  </details>
-  <p>
-   Use the
-   <a href="https://design.canada.ca/common-design-patterns/contextual-alerts.html">
-    Contextual alerts pattern
-   </a>
-  </p>
-  <h3>
-   Additional examples
-  </h3>
-  <p>
-   Alert examples on specific page types:
-  </p>
-  <ul>
-   <li>
-    <a href="https://design.canada.ca/alerts/alerts-sit.html">
-     Service initiation page
-    </a>
-   </li>
-   <li>
-    <a href="https://design.canada.ca/alerts/alerts-contact.html">
-     Contact page
-    </a>
-   </li>
-   <li>
-    <a href="https://design.canada.ca/alerts/alerts-ilp.html">
-     Beta institutional landing page
-    </a>
-   </li>
-   <li>
-    <a href="https://design.canada.ca/alerts/alerts-stable-ip.html">
-     Institutional profile
-    </a>
-   </li>
-  </ul>
- </section>
- <section>
-  <h2 id="dep-page">
-   Alerts that repeat across several pages
-  </h2>
-  <p>
-   If you need to add the same alert on many different pages, it may make sense to make a single page that all these alerts can link to.
-  </p>
-  <p>
-   The central page will:
-  </p>
-  <ul>
-   <li>
-    summarize the change in plain language
-   </li>
-   <li>
-    explain the impact on the users of affected services
-   </li>
-   <li>
-    be updated as soon as new information arises
-   </li>
-  </ul>
-  <p>
-   The breadcrumb for this central page should lead to the Government of Canada's main response page for the crisis.
-  </p>
-  <h3>
-   How this helps
-  </h3>
-  <ul>
-   <li>
-    prevents scattered crisis and service disruption pages
-   </li>
-   <li>
-    encourages a coordinated approach within each department and across the Government of Canada
-   </li>
-   <li>
-    reduces the work required to maintain various alerts and related updates
-   </li>
-  </ul>
- </section>
+This guidance is intended to help bring consistency to each department's communications efforts. Follow these recommendations when communicating about service disruptions, or urgent and evolving situations on Canada.ca.
+
+<h2>On this page</h2>
+
+* [Keep news products and web content in sync](#keep-news-products-and-web-content-in-sync)  
+* [Standardized alerts for news content](#standardized-alerts-for-news-content)   
+* [How to add temporary alerts on affected content pages](#alerts)  
+* [Alerts that repeat across several pages](#alerts-that-repeat-across-several-pages)  
+* [Examples and code](#examples)
+
+<h2 id="#keep-news-products-and-web-content-in-sync">Keep news products and web content in sync</h2>
+
+Ideally news products and supporting web content updates are released **at the same time**. Unfortunately, this isn’t always realistic or possible. Sometimes news has to go out ahead of other web content updates, and this can cause issues for people accessing our pages.
+
+<h2 id="#standardized-alerts-for-news-content">Standardized alerts for news content</h2>
+
+In an evolving situation, alerts can be added to a news product to inform readers that the content may no longer reflect the most current information. These alerts should include a link to a central page with the latest updates.
+
+Alerts are typically added when a news product is deemed outdated—either replaced by a newer release or containing outdated information. Teams should coordinate with their Strategic Communications colleagues to determine the best timing for adding alerts to individual news products.
+
+<h2>How to add temporary alerts on content pages</h2>
+
+Alerts are meant to draw attention to changes in regular content in 2 ways:
+
+* a change to the content of the page on which the alert appears  
+* a change that has been made elsewhere, such as new information being published
+
+In cases where you can’t update web content at the same time as when a news product is published, add a temporary alert that links to the news release. This lets you intercept people on a content page where they naturally look for the most recent information. From there, you can direct them to “breaking news” content. 
+
+This is a stop-gap measure that can buy you some time to complete detailed updates on the content page. You should still plan to incorporate the new information into the content page as soon as possible and then remove the alert.
+
+### Place alerts in context, not just at the top
+
+An alert at the top of a page may get missed by enthusiastic scrollers. Placing it within the relevant subsection of a page, where appropriate, lets you draw attention to an important change at the point where it makes the most sense for the reader. This maximizes the impact of the alert.
+
+### What to include in alerts
+
+Alert content should:
+
+* be easy to understand  
+* be short (long alerts push content down for mobile users)  
+* describe the impact on the user  
+* include the dates (if known) when the changes will take place  
+* use the appropriate verb tense to reflect when the change is taking place  
+* use links sparingly \- if a link is needed, only include one
+
+### Limit use of alerts
+
+Be aware that alert fatigue reduces the effectiveness of the alert over time. The more people see alerts and warning messages the less receptive they are to them. To avoid this, follow these guidelines:
+
+* only use alerts on a temporary basis (for the time it takes to integrate the information or resolve the situation)  
+* place alerts in context, not just at the top
+* limit the number of alerts on each page  
+* avoid using alerts just for styling regular content (for emphasis or highlighting)  
+* remove alerts as soon as you’ve updated the program or service content to reflect what was announced
+
+### Which alert to use
+
+Follow the implementation guidance for contextual alerts to choose the appropriate type of alert for your content: 
+
+* [Contextual alerts \- Canada.ca](https://design.canada.ca/common-design-patterns/contextual-alerts.html#how)
+
+<h2 id="#alerts-that-repeat-across-several-pages">Alerts that repeat across several pages</h2>
+
+If you need to add the same alert on many different pages, it may make sense to make a single page that all these alerts can link to.
+
+The central page will:
+
+* summarize the change in plain language  
+* explain the impact on the users of affected services  
+* be updated as soon as new information arises
+
+The breadcrumb for this central page should lead to the Government of Canada's main response page for the crisis.
+
+### How this helps
+
+* prevents scattered crisis and service disruption pages  
+* encourages a coordinated approach within each department and across the Government of Canada  
+* reduces the work required to maintain various alerts and related updates
+
+<h2>Examples and code</h2>
+
+<img class="img-responsive" src="../images/travel-to-canada-covid-19.png" alt="">
+
  <h2 id="latest">
   Latest changes
  </h2>
  <section>
   <dl class="dl-horizontal">
+   <dt>
+    <time class="link-muted" datetime="2025-03-31">
+     2025-03-31
+    </time>
+   </dt>
+   <dd>
+    Revised to include instructions and examples for keeping content pages in sync with news releases.
+    <br/>
+    <br/>
+    Added a recommendation to include dates in the alert and use the correct verb tense.
+   </dd>
    <dt>
     <time class="link-muted" datetime="2022-05-10">
      2022-05-10
