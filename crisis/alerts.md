@@ -6,35 +6,6 @@ description: null
 title: Canada.ca alerts for urgent and evolving situations
 ---
 
-<table class="provisional gc-table table table-bordered" id="dsSummary">
-	<caption>DESIGN DOCUMENT SUMMARY</caption>
-	<!-- <thead>
-		<tr>
-			<th></th>
-			<th></th>
-		</tr>
-	</thead> -->
-	<tbody>
-		<tr>
-			<td data-label="Issues">Issue name</td>
-			<td data-label="Products">Standardized alert guidance for news products</td>
-		</tr>
-		<tr>
-			<td data-label="Issues">Links</td>
-			<td data-label="Products">Related to standardized alert guidance for news products<br/>
-            <a href="https://design.canada.ca/crisis/alerts.html">https://design.canada.ca/crisis/alerts.html</a></td>
-		</tr>
-        <tr>
-			<td data-label="Issues"><strong>Status</strong></td>
-			<td data-label="Products"><strong>Product Manager: Approved on  Feb 24, 2025 3:30 PM</strong></td>
-		</tr>
-		<tr>
-			<td data-label="Issues"><strong>Name</strong></td>
-			<td data-label="Products"><strong>Director: Approved on Feb 28, 2025</strong></td>
-		</tr>
-	</tbody>
-</table>
-
 This guidance is intended to help bring consistency to each department's communications efforts. Follow these recommendations when communicating about service disruptions, or urgent and evolving situations on Canada.ca.
 
 <h2>On this page</h2>
