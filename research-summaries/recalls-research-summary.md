@@ -63,7 +63,7 @@ title: "Recalls and safety alerts"
   <details>
     <summary> Detailed description </summary>
     <p>Image of two phones, labelled "Before" and "After".</p>
-    <p>The first phone shows how the original Recalls content displayed on mobile. .</p>
+    <p>The first phone shows how the original Recalls content displayed on mobile.</p>
     <p>The second phone shows how the redesigned prototype text is much shorter and has more white space. You can see that 3 bullets immediately tell you the product, the issue and what to do. An arrow points to the text with the annotation "Answers not information - Highlight what to do".</p>
   </details>
 </div>
