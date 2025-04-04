@@ -6,7 +6,6 @@ description: null
 title: Checkboxes and radio buttons
 ---
 
-
 <div class="row">
  <div class="col-md-12 pull-left">
   <ul class="list-inline small mrgn-bttm-sm" id="list-inline-desktop-only" style="line-height:1.65em">
@@ -485,21 +484,18 @@ title: Checkboxes and radio buttons
         Email address
        </label>
        <input class="form-control" id="exampleInputEmail2" placeholder="Enter email" type="email">
-       </input>
       </div>
       <div class="form-group">
        <label class="wb-inv" for="exampleInputPassword2">
         Password
        </label>
        <input class="form-control" id="exampleInputPassword2" placeholder="Password" type="password">
-       </input>
       </div>
       <div class="checkbox gc-chckbxrdio">
        <input id="remember2" type="checkbox">
         <label for="remember2">
          Remember me
         </label>
-       </input>
       </div>
       <button class="btn btn-default" type="submit">
        Sign in
