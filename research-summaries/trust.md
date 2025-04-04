@@ -95,7 +95,7 @@ title: "Trust study: Canada.ca design elements"
       <dl>
         <dt>Footnote 1</dt>
         <dd id="fn1">
-          <p><a href="https://www.rcmp-grc.gc.ca/en/news/2023/fraud-prevention-month-2023-fraud-losses-canada-reach-historic-level">Fraud Prevention Month 2023: Fraud losses in Canada reach another historic level | Royal Canadian Mounted Police (rcmp-grc.gc.ca)</a></p>
+          <p><a href="https://rcmp.ca/en/news/2023/02/fraud-prevention-month-2023-fraud-losses-canada-reach-another-historic-level">Fraud Prevention Month 2023: Fraud losses in Canada reach another historic level | Royal Canadian Mounted Police (rcmp-grc.gc.ca)</a></p>
           <p class="fn-rtn"><a href="#fn1"><span class="wb-inv">Return to footnote </span>1<span class="wb-inv"> referrer</span></a></p>
         </dd>
       </dl>
