@@ -89,7 +89,7 @@ The breadcrumb for this central page should lead to the Government of Canada's m
 <h2>Examples and code</h2>
 
 <figure class="gc-complex-img" role="group">
-	<img alt="A long description can be found after the image." src="../images/alerts-img1.png" />
+	<img class="img-responsive" alt="A long description can be found after the image." src="../images/alerts-img1.png" />
 	<figcaption><details>
 			<summary>What to do: Clear date, correct verb tense, repeated in-context within the page</summary>
 			<p>Alert text placed at the top of the page with a clear effective date:</p>
@@ -99,7 +99,7 @@ The breadcrumb for this central page should lead to the Government of Canada's m
 </figure>
 
 <figure class="gc-complex-img" role="group">
-	<img alt="A long description can be found after the image." src="../images/alerts-img2.png" />
+	<img class="img-responsive" alt="A long description can be found after the image." src="../images/alerts-img2.png" />
 	<figcaption><details>
 			<summary>What to do: Clear date, correct verb tense, repeated in-context within the page</summary>
 			<p>Alert repeated within the relevant section of the page with clear effective date:</p>
@@ -109,7 +109,7 @@ The breadcrumb for this central page should lead to the Government of Canada's m
 </figure>
 
 <figure class="gc-complex-img" role="group">
-	<img alt="A long description can be found after the image." src="../images/alerts-img3.png" />
+	<img class="img-responsive" alt="A long description can be found after the image." src="../images/alerts-img3.png" />
 	<figcaption><details>
 			<summary>What not to do: Critical date was missing and verbs are in present tense, so it made it seem like the rules were in effect already, (released February 15, rules were not changing until February 28)</summary>
 			<p>Example of alert text that is too vague and caused misunderstanding by using the wrong verb tense:</p>
