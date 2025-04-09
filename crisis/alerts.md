@@ -5,9 +5,10 @@ dateModified: '2025-03-31'
 description: null
 title: Canada.ca alerts for urgent and evolving situations
 ---
-
+<section>
 This guidance is intended to help bring consistency to each department's communications efforts. Follow these recommendations when communicating about service disruptions, or urgent and evolving situations on Canada.ca.
-
+</section>
+<section>
 <h2>On this page</h2>
 
 * [Keep news products and web content in sync](#keep-news-products-and-web-content-in-sync)  
@@ -15,17 +16,20 @@ This guidance is intended to help bring consistency to each department's communi
 * [How to add temporary alerts on affected content pages](#alerts)  
 * [Alerts that repeat across several pages](#alerts-that-repeat-across-several-pages)  
 * [Examples and code](#examples)
-
+</section>
+<section>
 <h2 id="#keep-news-products-and-web-content-in-sync">Keep news products and web content in sync</h2>
 
 Ideally news products and supporting web content updates are released **at the same time**. Unfortunately, this isn’t always realistic or possible. Sometimes news has to go out ahead of other web content updates, and this can cause issues for people accessing our pages.
-
+</section>
+<section>
 <h2 id="#standardized-alerts-for-news-content">Standardized alerts for news content</h2>
 
 In an evolving situation, alerts can be added to a news product to inform readers that the content may no longer reflect the most current information. These alerts should include a link to a central page with the latest updates.
 
 Alerts are typically added when a news product is deemed outdated—either replaced by a newer release or containing outdated information. Teams should coordinate with their Strategic Communications colleagues to determine the best timing for adding alerts to individual news products.
-
+</section>
+<section>
 <h2>How to add temporary alerts on content pages</h2>
 
 Alerts are meant to draw attention to changes in regular content in 2 ways:
@@ -67,7 +71,8 @@ Be aware that alert fatigue reduces the effectiveness of the alert over time. Th
 Follow the implementation guidance for contextual alerts to choose the appropriate type of alert for your content: 
 
 * [Contextual alerts \- Canada.ca](https://design.canada.ca/common-design-patterns/contextual-alerts.html#how)
-
+</section>
+<section>
 <h2 id="#alerts-that-repeat-across-several-pages">Alerts that repeat across several pages</h2>
 
 If you need to add the same alert on many different pages, it may make sense to make a single page that all these alerts can link to.
@@ -85,9 +90,9 @@ The breadcrumb for this central page should lead to the Government of Canada's m
 * prevents scattered crisis and service disruption pages  
 * encourages a coordinated approach within each department and across the Government of Canada  
 * reduces the work required to maintain various alerts and related updates
-
+</section>
+<section>
 <h2>Examples and code</h2>
-
 <figure class="gc-complex-img" role="group">
 	<img class="img-responsive" alt="A long description can be found after the image." src="../images/alerts-img1.png" />
 	<figcaption><details>
@@ -97,7 +102,6 @@ The breadcrumb for this central page should lead to the Government of Canada's m
     <p>News release</p>
 		</details></figcaption>
 </figure>
-
 <figure class="gc-complex-img" role="group">
 	<img class="img-responsive" alt="A long description can be found after the image." src="../images/alerts-img2.png" />
 	<figcaption><details>
@@ -107,7 +111,6 @@ The breadcrumb for this central page should lead to the Government of Canada's m
     <p><b>Starting April 1, 2022</b>, pre-entry tests will no longer be required for fully vaccinated travellers entering Canada by land, air, or water. Until then, follow the pre-entry test requirements. You must still use ArriveCAN before and after April 1.</p>
 		</details></figcaption>
 </figure>
-
 <figure class="gc-complex-img" role="group">
 	<img class="img-responsive" alt="A long description can be found after the image." src="../images/alerts-img3.png" />
 	<figcaption><details>
@@ -118,11 +121,11 @@ The breadcrumb for this central page should lead to the Government of Canada's m
     <p>News release</p>
 		</details></figcaption>
 </figure>
-
+</section>
+ <section>
  <h2 id="latest">
   Latest changes
  </h2>
- <section>
   <dl class="dl-horizontal">
    <dt>
     <time class="link-muted" datetime="2025-03-31">
