@@ -98,7 +98,7 @@ title: Canada.ca alerts for urgent and evolving situations
 <h2>Examples and code</h2>
 
 <div class="row">
-    <div class="col-md-8">
+    <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
 
 <figure class="gc-complex-img" role="group">
 	<img class="img-responsive" alt="A long description can be found after the image." src="../images/alerts-img1.png" />
@@ -110,9 +110,8 @@ title: Canada.ca alerts for urgent and evolving situations
 		</details></figcaption>
 </figure>
 </div>
-</div>
-<div class="row mrgn-tp-sm">
-    <div class="col-md-8">
+
+<div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
 <figure class="gc-complex-img" role="group">
 	<img class="img-responsive" alt="A long description can be found after the image." src="../images/alerts-img2.png" />
 	<figcaption><details>
@@ -123,9 +122,8 @@ title: Canada.ca alerts for urgent and evolving situations
 		</details></figcaption>
 </figure>
 </div>
-</div>
-<div class="row mrgn-tp-sm">
-    <div class="col-md-8">
+
+<div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
 <figure class="gc-complex-img" role="group">
 	<img class="img-responsive" alt="A long description can be found after the image." src="../images/alerts-img3.png" />
 	<figcaption><details>
