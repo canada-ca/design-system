@@ -20,7 +20,7 @@ title: Canada.ca alerts for urgent and evolving situations
 <section>
 <h2 id="#keep-news-products-and-web-content-in-sync">Keep news products and web content in sync</h2>
 
-<p>Ideally news products and supporting web content updates are released **at the same time**. Unfortunately, this isn’t always realistic or possible. Sometimes news has to go out ahead of other web content updates, and this can cause issues for people accessing our pages.</p>
+<p>Ideally news products and supporting web content updates are released <strong>at the same time</strong>. Unfortunately, this isn’t always realistic or possible. Sometimes news has to go out ahead of other web content updates, and this can cause issues for people accessing our pages.</p>
 </section>
 <section>
 <h2 id="#standardized-alerts-for-news-content">Standardized alerts for news content</h2>
@@ -55,7 +55,7 @@ title: Canada.ca alerts for urgent and evolving situations
 <li>describe the impact on the user</li>
 <li>include the dates (if known) when the changes will take place</li>  
 <li>use the appropriate verb tense to reflect when the change is taking place</li>  
-<li>use links sparingly \- if a link is needed, only include one</li>
+<li>use links sparingly - if a link is needed, only include one</li>
 </ul>
 <h3>Limit use of alerts</h3>
 
