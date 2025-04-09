@@ -97,8 +97,8 @@ title: Canada.ca alerts for urgent and evolving situations
 <section>
 <h2>Examples and code</h2>
 
-<div class="row mrgn-tp-sm">
-    <div class="col-md-10">
+<div class="row">
+    <div class="col-md-8">
 
 <figure class="gc-complex-img" role="group">
 	<img class="img-responsive" alt="A long description can be found after the image." src="../images/alerts-img1.png" />
@@ -109,6 +109,10 @@ title: Canada.ca alerts for urgent and evolving situations
     <p>News release</p>
 		</details></figcaption>
 </figure>
+</div>
+</div>
+<div class="row mrgn-tp-sm">
+    <div class="col-md-8">
 <figure class="gc-complex-img" role="group">
 	<img class="img-responsive" alt="A long description can be found after the image." src="../images/alerts-img2.png" />
 	<figcaption><details>
@@ -118,6 +122,10 @@ title: Canada.ca alerts for urgent and evolving situations
     <p><b>Starting April 1, 2022</b>, pre-entry tests will no longer be required for fully vaccinated travellers entering Canada by land, air, or water. Until then, follow the pre-entry test requirements. You must still use ArriveCAN before and after April 1.</p>
 		</details></figcaption>
 </figure>
+</div>
+</div>
+<div class="row mrgn-tp-sm">
+    <div class="col-md-8">
 <figure class="gc-complex-img" role="group">
 	<img class="img-responsive" alt="A long description can be found after the image." src="../images/alerts-img3.png" />
 	<figcaption><details>
