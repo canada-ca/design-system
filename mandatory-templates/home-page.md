@@ -382,7 +382,7 @@ title: 'Home page mandatory template'
            presents links to the to government-wide audiences:
            <ul>
             <li>
-             Indigenous peoples
+             Indigenous Peoples
             </li>
             <li>
              veterans

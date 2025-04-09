@@ -57,7 +57,7 @@ title: "Global footer: Main band"
   <li>Canada and the world</li>
   <li>Money and finance</li>
   <li>Science and innovation</li>
-  <li>Indigenous peoples</li>
+  <li>Indigenous Peoples</li>
   <li>Veterans and military</li>
   <li>Youth</li>
 </ul>

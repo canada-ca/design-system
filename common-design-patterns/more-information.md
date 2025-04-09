@@ -32,7 +32,7 @@ title: More information for design pattern
      It is used to connect the topic page to a related government-wide audience page or to an audience topic page. Government-wide audiences are:
      <ul>
       <li>
-       Indigenous peoples
+       Indigenous Peoples
       </li>
       <li>
        youth
