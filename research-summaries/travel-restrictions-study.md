@@ -17,7 +17,7 @@ title: "Using a wizard to help people get answers during COVID-19"
 <p>Our ultimate goal was to reduce errors for travelers arriving in Canada. We could do this by making it easier to get answers, thereby lessening the burden on department staff by reducing calls and emails about questions that could be otherwise answered on the website.</p>
 <h2>Design solution</h2>
 <p>Initial usability testing gave us some insights about what travelers struggle with when understanding travel restrictions on the current website.</p>
-<p>When looking for an answer to their question during testing, participants would get overwhelmed by all the possible links that could lead them to what they were looking for. For example, from a participant's perspective, information about quarantine requirements could be found behind the link labeled "travel advice" or it might be behind "prevention and risks." Some pages would contain a partial answer, but still require piecing together information from multiple pages to form a complete answer.</p>
+<p>When looking for an answer to their question during testing, participants would get overwhelmed by all the possible links that could lead them to what they were looking for. For example, from a participant's perspective, information about quarantine requirements could be found behind the link labeled "travel advice" or it might be behind "prevention and risks". Some pages would contain a partial answer, but still require piecing together information from multiple pages to form a complete answer.</p>
 <blockquote>
   <p>I couldn't really find where I could find a specific section of information on the site.</p>
   <footer>Usability testing participant</footer>
