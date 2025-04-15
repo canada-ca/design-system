@@ -118,7 +118,7 @@ title: Canada.ca alerts for urgent and evolving situations
 	<figcaption><details>
 			<summary>What to do: Clear date, correct verb tense, repeated in-context within the page</summary>
 			<p>Alert repeated within the relevant section of the page with clear effective date:</p>
-    <p><b>Pre-entry testing(accepted types, timing)</b></p>
+    <p><b>Pre-entry testing (accepted types, timing)</b></p>
     <p><b>Starting April 1, 2022</b>, pre-entry tests will no longer be required for fully vaccinated travellers entering Canada by land, air, or water. Until then, follow the pre-entry test requirements. You must still use ArriveCAN before and after April 1.</p>
 		</details></figcaption>
 </figure>
