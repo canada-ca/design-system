@@ -114,18 +114,6 @@ title: Canada.ca alerts for urgent and evolving situations
 
 <div class="mrgn-tp-lg col-md-8">
 <figure class="gc-complex-img" role="group">
-	<img class="img-responsive" alt="A long description can be found after the image." src="../images/alerts-img2.png" />
-	<figcaption><details>
-			<summary>What to do: Clear date, correct verb tense, repeated in-context within the page</summary>
-			<p>Alert repeated within the relevant section of the page with clear effective date:</p>
-    <p><b>Pre-entry testing (accepted types, timing)</b></p>
-    <p><b>Starting April 1, 2022</b>, pre-entry tests will no longer be required for fully vaccinated travellers entering Canada by land, air, or water. Until then, follow the pre-entry test requirements. You must still use ArriveCAN before and after April 1.</p>
-		</details></figcaption>
-</figure>
-</div>
-
-<div class="mrgn-tp-lg col-md-8">
-<figure class="gc-complex-img" role="group">
 	<img class="img-responsive" alt="A long description can be found after the image." src="../images/alerts-img3.png" />
 	<figcaption><details>
 			<summary>What not to do: Critical date was missing and verbs are in present tense, so it made it seem like the rules were in effect already, (released February 15, rules were not changing until February 28)</summary>
