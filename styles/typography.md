@@ -37,7 +37,6 @@ title: Typography style
   <li>colour: #AF3C43</li>
   <li>position: 8px or 0.4em underneath the H1 (body is set to 20px)</li>
   <li>size: 71px by 3.6px or 3.55em by 0.18em (body is set to 20px)</li>
-  <mark>can't do this part until we get the h1 updates back</mark>
 </ul>
 <h2>Line length</h2>
 <p>Constrain text line length to 65 characters. This ensures that no lines extend beyond a comfortable reading length.</p>
