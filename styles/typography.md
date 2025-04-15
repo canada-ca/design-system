@@ -11,23 +11,23 @@ title: Typography style
 <p>Fonts must be consistent across Canada.ca pages, and should be easily readable across devices. Use a combination of Lato for headings, and Noto sans for body text.</p>
 <h2> Desktop and tablet default font specification</h2>
 <ul>
-  <li>H1: Lato, 38px, bold</li>
-  <li>H2: Lato, 36px, bold</li>
-  <li>H3: Lato, 24px, bold</li>
-  <li>H4: Lato, 22px, bold</li>
-  <li>H5: Lato, 20px, bold</li>
-  <li>H6: Lato, 19px, plain text</li>
+  <li>H1: Lato, 41px, bold</li>
+  <li>H2: Lato, 39px, bold</li>
+  <li>H3: Lato, 29px, bold</li>
+  <li>H4: Lato, 27px, bold</li>
+  <li>H5: Lato, 24px, bold</li>
+  <li>H6: Lato, 22px, bold</li>
   <li>Body: Noto sans, 20px, plain text</li>
 </ul>
 <h2> Smaller device default font specification </h2>
 <ul>
-  <li>H1: Lato, 34px, bold</li>
-  <li>H2: Lato, 32px, bold</li>
-  <li>H3: Lato, 24px, bold</li>
+  <li>H1: Lato, 37px, bold</li>
+  <li>H2: Lato, 35px, bold</li>
+  <li>H3: Lato, 26px, bold</li>
   <li>H4: Lato, 22px, bold</li>
   <li>H5: Lato, 20px, bold</li>
-  <li>H6: Lato, 19px, plain text</li>
-  <li>Body: Noto sans, 20px, plain text</li>
+  <li>H6: Lato, 18px, bold</li>
+  <li>Body: Noto sans, 18px, plain text</li>
 </ul>
 <h2>Main page title</h2>
 <p>When the H1 is the main title of a page, it includes a red bar as part of the Canada.ca brand.</p>
@@ -37,6 +37,7 @@ title: Typography style
   <li>colour: #AF3C43</li>
   <li>position: 8px or 0.4em underneath the H1 (body is set to 20px)</li>
   <li>size: 71px by 3.6px or 3.55em by 0.18em (body is set to 20px)</li>
+  <mark>can't do this part until we get the h1 updates back</mark>
 </ul>
 <h2>Line length</h2>
 <p>Constrain text line length to 65 characters. This ensures that no lines extend beyond a comfortable reading length.</p>
