@@ -79,7 +79,7 @@ title: Minister or institutional head
             Title of institutional head
             <ul>
                 <li>Standard <a href="https://design.canada.ca/styles/colours.html">Canada.ca link colours</a></li>
-                <li>Standard <a href="https://design.canada.ca/styles/typography.html">Canada.ca body font family and size</a>. Has a small class which is 87% of the font size (body is 20px in desktop, 18px in mobile)</li>
+                <li>Standard <a href="https://design.canada.ca/styles/typography.html">Canada.ca body font family and size</a>. Has a small class which is 87% of the body size.</li>
             </ul>
         </li>
         <li>

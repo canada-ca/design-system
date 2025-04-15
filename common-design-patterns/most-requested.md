@@ -57,11 +57,11 @@ title: Most requested band
         Styling:
         <ul>
             <li>Background colour: #f5f5f5</li>
-            <li>Font family: Noto Sans</li>
+            <li>Font family: Lato</li>
             <li>Font weight: Bold</li>
-            <li>Heading: H2, Lato: 1.2em</li>
-            <li>Line height: 2em (base size is 20px)</li>
-            <li>Text size: 87% (base size is 20px)</li>
+            <li>Heading: H2, Lato: 1.1em</li>
+            <li>Line height: 1.8em</li>
+            <li>Text size: 18px (desktop), 16px (mobile)</li>
         </ul>
     </li>
 </ul>

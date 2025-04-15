@@ -35,8 +35,9 @@ title: Typography style
 <ul>
   <li>alignment: left</li>
   <li>colour: #AF3C43</li>
-  <li>position: 8px or 0.4em underneath the H1 (body is set to 20px)</li>
-  <li>size: 71px by 3.6px or 3.55em by 0.18em (body is set to 20px)</li>
+  <li>position: 8px or 0.4em underneath the H1</li>
+  <li>size: 71px by 3.6px or 3.55em by 0.18em</li>
+  <mark>This needs final review and update when PP team addresses the corrections we asked for</mark>
 </ul>
 <h2>Line length</h2>
 <p>Constrain text line length to 65 characters. This ensures that no lines extend beyond a comfortable reading length.</p>
