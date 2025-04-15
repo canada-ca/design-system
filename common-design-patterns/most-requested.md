@@ -59,7 +59,7 @@ title: Most requested band
             <li>Background colour: #f5f5f5</li>
             <li>Font family: Lato</li>
             <li>Font weight: Bold</li>
-            <li>Heading: H2, Lato: 1.1em</li>
+            <li>Heading: H2, Lato: 24px (desktop), 22px (mobile)</li>
             <li>Line height: 1.8em</li>
             <li>Text size: 18px (desktop), 16px (mobile)</li>
         </ul>
