@@ -95,7 +95,7 @@ title: Canada.ca alerts for urgent and evolving situations
 </ul>
 </section>
 <section>
-<h2>Examples and code</h2>
+<h2>Examples</h2>
 
 <div class="row">
     <div class="mrgn-tp-lg col-md-8">
