@@ -71,8 +71,8 @@ title: "Language toggle"
 <ul>
   <li>Type: link</li>
   <li>Position: top-right corner</li>
-  <li>Font: Lato</li>
-  <li>Size: 1.2 em</li>
+  <li>Font: Noto Sans</li>
+  <li>Size: 16px (desktop) and 18px (mobile)</li>
   <li>Text colour:
     <ul>
       <li>default link: #284162</li>
