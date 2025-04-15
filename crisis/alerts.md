@@ -10,7 +10,7 @@ title: Canada.ca alerts for urgent and evolving situations
 
 <h2>On this page</h2>
 <ul>
-<li><a href="#keep-news-products-and-web-content-in-sync">Keep news products and web content in sync</a></li>
+<li><a href="#news">Keep news products and web content in sync</a></li>
 <li><a href="#standardized-alerts-for-news-content">Standardized alerts for news content</a></li>
 <li><a href="#alerts">How to add temporary alerts on affected content pages</a></li>
 <li><a href="#alerts-that-repeat-across-several-pages">Alerts that repeat across several pages</a></li>
@@ -18,7 +18,7 @@ title: Canada.ca alerts for urgent and evolving situations
 </ul>
 </section>
 <section>
-<h2 id="#keep-news-products-and-web-content-in-sync">Keep news products and web content in sync</h2>
+<h2 id="#news">Keep news products and web content in sync</h2>
 
 <p>Ideally news products and supporting web content updates are released <strong>at the same time</strong>. Unfortunately, this isn’t always realistic or possible. Sometimes news has to go out ahead of other web content updates, and this can cause issues for people accessing our pages.</p>
 </section>
