@@ -12,9 +12,9 @@ title: Canada.ca alerts for urgent and evolving situations
 <ul>
 <li><a href="#news">Keep news products and web content in sync</a></li>
 <li><a href="#standardized-alerts-for-news-content">Standardized alerts for news content</a></li>
-<li><a href="#alerts">How to add temporary alerts on affected content pages</a></li>
+<li><a href="#temporary">How to add temporary alerts on affected content pages</a></li>
 <li><a href="#alerts-that-repeat-across-several-pages">Alerts that repeat across several pages</a></li>
-<li><a href="#examples">Examples and code</a></li>
+<li><a href="#examples">Examples</a></li>
 </ul>
 </section>
 <section>
@@ -30,7 +30,7 @@ title: Canada.ca alerts for urgent and evolving situations
 <p>Alerts are typically added when a news product is deemed outdated—either replaced by a newer release or containing outdated information. Teams should coordinate with their Strategic Communications colleagues to determine the best timing for adding alerts to individual news products.</p>
 </section>
 <section>
-<h2>How to add temporary alerts on content pages</h2>
+<h2 id="temporary">How to add temporary alerts on content pages</h2>
 
 <p>Alerts are meant to draw attention to changes in regular content in 2 ways:</p>
 
@@ -95,7 +95,7 @@ title: Canada.ca alerts for urgent and evolving situations
 </ul>
 </section>
 <section>
-<h2>Examples</h2>
+<h2 id="examples">Examples</h2>
 
 <div class="row">
     <div class="mrgn-tp-lg col-md-8">
