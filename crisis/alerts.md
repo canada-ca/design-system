@@ -18,12 +18,12 @@ title: Canada.ca alerts for urgent and evolving situations
 </ul>
 </section>
 <section>
-<h2 id="#news">Keep news products and web content in sync</h2>
+<h2 id="news">Keep news products and web content in sync</h2>
 
 <p>Ideally news products and supporting web content updates are released <strong>at the same time</strong>. Unfortunately, this isn’t always realistic or possible. Sometimes news has to go out ahead of other web content updates, and this can cause issues for people accessing our pages.</p>
 </section>
 <section>
-<h2 id="#standardized-alerts-for-news-content">Standardized alerts for news content</h2>
+<h2 id="standardized-alerts-for-news-content">Standardized alerts for news content</h2>
 
 <p>In an evolving situation, alerts can be added to a news product to inform readers that the content may no longer reflect the most current information. These alerts should include a link to a central page with the latest updates.</p>
 
@@ -75,7 +75,7 @@ title: Canada.ca alerts for urgent and evolving situations
 </ul>
 </section>
 <section>
-<h2 id="#alerts-that-repeat-across-several-pages">Alerts that repeat across several pages</h2>
+<h2 id="alerts-that-repeat-across-several-pages">Alerts that repeat across several pages</h2>
 
 <p>If you need to add the same alert on many different pages, it may make sense to make a single page that all these alerts can link to.</p>
 
