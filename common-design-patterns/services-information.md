@@ -85,7 +85,7 @@ title: Services and information
             Headings:
             <ul>
                 <li>Colour: <a href="https://design.canada.ca/styles/colours.html">Standard colour</a> for links</li>
-                <li>Font size: Canada.ca H3 (1em)</li>
+                <li>Font size: 24px (H3 styled as H5 size)</li>
                 <li>Font type: Lato Sans</li>
             </ul>
         </li>
@@ -96,8 +96,7 @@ title: Services and information
                 <li>
                     Font size:
                     <ul>
-                        <li>17px (desktop)</li>
-                        <li>19px (mobile)</li>
+                        <li>18px (desktop & mobile)</li>
                     </ul>
                 </li>
                 <li>Font type: Noto Sans</li>

@@ -64,7 +64,7 @@ title: Social media channels
             Lightbox design specifications
             <ul>
                 <li>Modal header background colour: #2e5274</li>
-                <li>Header: H2, Lato, styled as font size: 1.15em</li>
+                <li>Header: Lato, H2, 27px (H2 styled as H4 size)</li>
                 <li>Button is styled as a primary button.</li>
             </ul>
         </li>
