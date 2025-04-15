@@ -140,8 +140,6 @@ title: Canada.ca alerts for urgent and evolving situations
    <dd>
     Revised to include instructions and examples for keeping content pages in sync with news releases.
     <br/>
-    <br/>
-    Added a recommendation to include dates in the alert and use the correct verb tense.
    </dd>
    <dt>
     <time class="link-muted" datetime="2022-05-10">
