@@ -6,9 +6,7 @@ description: null
 title: 'News pages mandatory template'
 ---
 
-
-<div>
- 
+<div> 
  <section>
   <p>
    <span class="label label-danger">
@@ -1115,11 +1113,13 @@ title: 'News pages mandatory template'
            </summary>
            <ul>
             <li>
-             use the
-             <a href="../common-design-patterns/institutional-byline.html">
-              Institutional byline
-             </a>
-             pattern
+              the link to the institution or organization is introduced by the word “From:”
+            </li>
+             <li>
+             only one institution or organization should appear in the institutional byline
+            </li>
+             <li>
+             position the institutional byline directly underneath the page title, aligned to the left
             </li>
            </ul>
           </details>
