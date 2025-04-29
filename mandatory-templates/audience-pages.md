@@ -28,7 +28,7 @@ title: "Audience pages must only be used when people are accustomed to accessing
   <ul>
     <li>Use a government-wide audience template page only once for each Canada.ca audience. Government-wide audiences are:
       <ul>
-        <li>Indigenous peoples</li>
+        <li>Indigenous Peoples</li>
         <li>youth</li>
         <li>veterans</li>
       </ul>

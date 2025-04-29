@@ -23,13 +23,12 @@ title: When to use GC Feedback
 * [Expectations and commitment](#expectations-and-commitment)
 * [How not to use the tool](#how-not-to-use-the-feedback-tool)
 
-
 ## When to use GC Feedback
+
 We recommend using the feedback tool where there is a commitment to reading and acting on input:
 
 * on specific pages; and
 * for a defined period of time
-
 
 ## Use cases for GC Feedback
 
@@ -40,8 +39,6 @@ Consider adding GC Feedback to:
 * understand if new or existing pages are meeting user needs
 * identify emerging issues
 * monitor after page improvements have gone live
-
-
 
 ## Expectations and commitment
 
@@ -55,8 +52,6 @@ Before you implement GC Feedback on your pages, make sure your organization has 
 Though the likelihood of receiving threatening feedback is low, there is still a risk given the open textbox. So it’s important to be prepared.
 
 Depending on the nature of the threat, there are different steps that should be taken.
-
-
 
 ### Specific threat or a personal crisis
 * Identifies a target (address, office name, person) and/or the person leaving the comment.
@@ -77,10 +72,17 @@ If you receive a message about a specific threat or a personal crisis through GC
 * Retain a copy of the comment and date/time submitted.
 * Follow the same procedures that your organization has in place for threats received through email, social media and/or call centres.
 
-
 ## How not to use the feedback tool
 
 The feedback tool should not be used for the following purposes:
+
+### Collecting feedback on contact pages
+
+#### Avoid using GC Feedback on contact pages
+
+Visitors may be tempted to include personal contact information in the GC Feedback tool when it appears on contact pages.
+
+Contact pages are intended for direct communication, and the feedback form may give a false impression that they will receive service.
 
 ### Evaluating page success based on yes / no clicks
 
@@ -113,7 +115,6 @@ We don't recommend using the tool within secure spaces. In these spaces, it is b
 ### Sensitive content
 
 If using the tool on pages with sensitive subjects (for example, suicide), ensure you monitor the feedback frequently and take action where needed. The tool should be added for short intervals and then removed while you make improvements to the page.
-
 
 <nav role="navigation" class="mrgn-bttm-lg">
   <ul class="pager">

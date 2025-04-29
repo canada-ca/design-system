@@ -1799,7 +1799,7 @@ title: "Canada.ca Content Style Guide"
     <li>enhance key messages</li>
     <li>help people complete their task </li>
     <li>make complicated information easier to understand</li>
-    <li>reflect Canada's diverse population as much as possible (including seniors, youth, Indigenous peoples, and people from a wide variety of ethnic origins)</li>
+    <li>reflect Canada's diverse population as much as possible (including seniors, youth, Indigenous Peoples, and people from a wide variety of ethnic origins)</li>
   </ul>
   <p>When planning your content, weigh the benefits of using videos with the impact on people who will try to view them using mobile devices. Data plans and reliable network access vary.</p>
   <h3>Obtain permission to publish</h3>
