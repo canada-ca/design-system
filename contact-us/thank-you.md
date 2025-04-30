@@ -16,5 +16,3 @@ We’ve received your message. If you provided an email, a team member will get 
 We appreciate your feedback and questions.
 
 Return to the [ page you were previously viewing ]( / ){: #backToReferrer}
-
-[Sign up to the Digital Transformation Office mailing list](https://blog.canada.ca/pages/signup.html)
