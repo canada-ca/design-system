@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/a-propos/bureau-transformation-numerique.html"
 date: 2017-10-05
-dateModified:  2023-05-25
+dateModified:  2025-04-30
 description: "Information about the team that manages the design system and oversees content for Canada.ca."
 layout: without-h1
 title: "Digital Transformation Office"
@@ -14,4 +14,3 @@ title: "Digital Transformation Office"
   <li>make information and services that are in demand and published on digital channels easier to find and understand based on insight from user research </li>
   <li>help communications teams develop their skills and processes as they make a sustainable shift to digital in their organization </li>
 </ul>
-<p><a href="{{ site.urlblogca }}/pages/signup.html">Sign up for our mailing list</a> to find out about workshops, events, user research and usability testing activities that you may want to participate in.</p>
