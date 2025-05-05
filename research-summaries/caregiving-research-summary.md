@@ -124,8 +124,6 @@ title: "Employment Insurance caregiving benefits"
 </ol>
 <h2>Request the research </h2>
 <p>If you’d like to see the research findings from this project, let us know. Email us at <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a>.</p>
-<h2>What do you think? </h2>
-<p>Let us know what you think about this project. Tweet using the hashtag #Canadadotca.</p>
 <h2>Explore further </h2>
 <ul>
   <li><a href="https://www.canada.ca/en/services/benefits/ei/caregiving.html">See the updated Caregiving benefits and leave pages</a> based on the new designs in this project</li>
