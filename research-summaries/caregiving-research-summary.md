@@ -136,7 +136,7 @@ title: "Employment Insurance caregiving benefits"
     <dl>
       <dt>Footnote 1</dt>
       <dd id="fn1">
-        <p>1.8 million in 2016/17 according to ESDC’s monitoring report: <a href="https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/reports/monitoring2017/chapter2/ei-overview.html">https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/reports/monitoring2017/chapter2/ei-overview.html</a></p>
+        <p>1.8 million in 2016/17 according to ESDC’s monitoring report: <a href="https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/reports/monitoring2017/chapter2/ei-overview.html(https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/reports/monitoring2017/chapter2/ei-overview.html)">https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/reports/monitoring2017/chapter2/ei-overview.html</a></p>
         <p class="fn-rtn"> <a href="#fn1-0-rf"><span class="wb-inv">Return to footnote</span>1<span class="wb-inv"> Referrer</span></a> </p>
       </dd>
     </dl>
