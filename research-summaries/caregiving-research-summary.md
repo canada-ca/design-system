@@ -41,9 +41,9 @@ title: "Employment Insurance caregiving benefits"
 <div class="col-md-8 row">
   <details>
     <summary> Detailed description </summary>
-    <p>Two webpages are shown side by side. The page on the left is labelled "Baseline" and shows that the “After you've applied” webpage concerning caregiving benefits was missing content people expected to find on this page.  An arrow points to the webpage with the annotation "Supporting documents were not found here".</p>
-    <p>The page on the right is labelled "Redesign” and shows the “Apply" page with a set of icons outlining the various application steps.  An arrow points to the steps with the annotation "Visual overview of the complete process".</p>
-    <p>Below there is a header titled "Begin to gather supporting documents", which has a list of the needed documents. An arrow points to the list with the annotation "All required supporting documents visible".</p>
+    <p>Two webpages are shown side by side. The page on the left is labelled "Baseline" and shows that the “After you've applied” webpage concerning caregiving benefits was missing content people expected to find on this page.  An arrow points to the webpage with the annotation "Supporting documents were not found here."</p>
+    <p>The page on the right is labelled "Redesign” and shows the “Apply" page with a set of icons outlining the various application steps.  An arrow points to the steps with the annotation "Visual overview of the complete process."</p>
+    <p>Below there is a header titled "Begin to gather supporting documents", which has a list of the needed documents. An arrow points to the list with the annotation "All required supporting documents visible."</p>
   </details>
 </div>
 <h2>Measuring success rates on the redesigned prototype</h2>
