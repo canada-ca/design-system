@@ -6,7 +6,7 @@ breadcrumbs:
 date: '2025-03-21'
 dateModified: '2025-03-21'
 description: null
-title: Guidance for AI chat applications on Canada.ca
+title: Guidance for the design of AI chat applications on Canada.ca
 ---
 
 <p>People expect and trust consistency and transparency on Canada.ca, including in AI interactions. This guidance aims to provide a unified voice for Government of Canada AI chat applications, assisting government teams in delivering trustworthy and effective generative AI solutions.</p>
