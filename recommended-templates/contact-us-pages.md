@@ -1358,15 +1358,11 @@ title: 'Contact us pages template'
   </h2>
   <ul>
    <li>
-    <a href="https://wet-boew.github.io/GCWeb/templates/institutional/institution-contact-en.html">
-     English working example
-    </a>
+    <a href="https://wet-boew.github.io/GCWeb/templates/institutional/institution-contact-en.html">English working example</a>
     (on GitHub)
    </li>
    <li>
-    <a href="https://wet-boew.github.io/GCWeb/templates/institutional/institution-contact-fr.html">
-     French working example
-    </a>
+    <a href="https://wet-boew.github.io/GCWeb/templates/institutional/institution-contact-fr.html">French working example</a>
     (on GitHub)
    </li>
   </ul>
