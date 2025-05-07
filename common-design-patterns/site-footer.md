@@ -17,7 +17,7 @@ title: "Global footer"
   out of the Wayfinding research project. To find out more about this project, visit the <a href="#research">Research and rationale</a> section on this page.</p>
 <!--<a href="">Blog post link</a>-->
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/footer-en-crop.png" class="img-responsive" alt=""> </div>
-<p><a href="site-footer-content.html">See Content footer pattern</a> for guidance on how to apply the Date modified, Share this page, Report a problem or Page feedback tool components.</p>
+<p><a href="site-footer-content.html">See Content footer pattern</a> for guidance on how to apply the Date modified, Share this page, Report a problem or GC Feedback components.</p>
 <section>
   <h2>On this page</h2>
   <ul>
