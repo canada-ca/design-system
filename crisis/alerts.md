@@ -119,7 +119,7 @@ title: Canada.ca alerts for urgent and evolving situations
 			<summary>What not to do: Critical date was missing and verbs are in present tense, so it made it seem like the rules were in effect already, (released February 15, rules were not changing until February 28)</summary>
 			<p>Example of alert text that is too vague and caused misunderstanding by using the wrong verb tense:</p>
     <p><b>Adjustments to border measures</b></p>
-    <p>The Government of Canada lightens border measures as past of the transition of the pandemic response.</p>
+    <p>The Government of Canada lightens border measures as part of the transition of the pandemic response.</p>
     <p>News release</p>
 		</details></figcaption>
 </figure>
