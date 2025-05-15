@@ -61,7 +61,7 @@ title: Most requested band
             <li>Font weight: Bold</li>
             <li>Heading: H2, Lato: 24px (desktop), 22px (mobile)</li>
             <li>Line height: 1.8em</li>
-            <li>Text size: 18px</li>
+            <li>Text size: 18px (desktop and mobile)</li>
         </ul>
     </li>
 </ul>
