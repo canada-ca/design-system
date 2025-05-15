@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/configurations-conception-communes/en-demande.html"
 date: 2018-12-19
-dateModified: 2024-04-03
+dateModified: 2025-05-15
 description: Guidance about using the most requested pattern on Canada.ca. The most requested pattern provides links to top tasks on navigation pages
 title: Most requested band
 ---
@@ -61,7 +61,7 @@ title: Most requested band
             <li>Font weight: Bold</li>
             <li>Heading: H2, Lato: 24px (desktop), 22px (mobile)</li>
             <li>Line height: 1.8em</li>
-            <li>Text size: 18px (desktop), 16px (mobile)</li>
+            <li>Text size: 18px</li>
         </ul>
     </li>
 </ul>
