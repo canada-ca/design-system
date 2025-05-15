@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/configurations-conception-communes/ministre.html"
 date: 2023-08-13
-dateModified: 2024-04-03
+dateModified: 2025-05-15
 description: The Minister or institutional head pattern provides links to an institution’s minister(s), including associate minister(s), or its institutional head.
 title: Minister or institutional head
 ---
@@ -79,7 +79,7 @@ title: Minister or institutional head
             Title of institutional head
             <ul>
                 <li>Standard <a href="https://design.canada.ca/styles/colours.html">Canada.ca link colours</a></li>
-                <li>Standard <a href="https://design.canada.ca/styles/typography.html">Canada.ca body font family and size</a>. Has a small class which is 87% of the font size (body is 20px)</li>
+                <li>Standard <a href="https://design.canada.ca/styles/typography.html">Canada.ca body font family and size</a>. Has a small class which is 87% of the body size.</li>
             </ul>
         </li>
         <li>

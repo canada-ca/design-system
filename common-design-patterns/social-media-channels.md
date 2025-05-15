@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/configurations-conception-communes/bloc-medias-sociaux.html
 date: null
-dateModified: '2024-09-24'
+dateModified: '2025-05-15'
 description: The social media channels pattern provides links to official Government of Canada social media accounts on various social media platforms.
 title: Social media channels
 ---
@@ -64,7 +64,7 @@ title: Social media channels
             Lightbox design specifications
             <ul>
                 <li>Modal header background colour: #2e5274</li>
-                <li>Header: H2, Lato, styled as font size: 1.15em</li>
+                <li>Header: Lato, H2, 27px (H2 styled as H4 size)</li>
                 <li>Button is styled as a primary button.</li>
             </ul>
         </li>

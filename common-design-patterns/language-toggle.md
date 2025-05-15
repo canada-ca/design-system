@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/configurations-conception-communes/changer-langue.html"
 date: 2017-10-05
-dateModified: 2025-03-27
+dateModified: 2025-05-15
 description: "Guidance about using the language toggle on Canada.ca. Government of Canada content is available in both official languages. A language toggle in the global header provides access to the corresponding page in the other official language."
 title: "Language toggle"
 ---
@@ -71,8 +71,8 @@ title: "Language toggle"
 <ul>
   <li>Type: link</li>
   <li>Position: top-right corner</li>
-  <li>Font: Lato</li>
-  <li>Size: 1.2 em</li>
+  <li>Font: Noto Sans</li>
+  <li>Size: 16px (desktop), 18px (mobile)</li>
   <li>Text colour:
     <ul>
       <li>default link: #284162</li>
