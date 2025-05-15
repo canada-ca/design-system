@@ -7,10 +7,10 @@ breadcrumbs:
     link: https://www.canada.ca/en/analytics.html
 dateModified: 2023-11-07
 layout: default
-title: Page feedback tool guidance
+title: GC Feedback guidance
 ---
 
-The page feedback tool is a <strong>research tool</strong> that can help you better understand issues affecting task success at the page level.  
+GC Feedback is a <strong>research tool</strong> that can help you better understand issues affecting task success at the page level.  
 
 <section>
 
@@ -39,21 +39,21 @@ The page feedback tool is a <strong>research tool</strong> that can help you bet
     </section>
   </div>
 
-  <h2>Implementing the page feedback tool</h2>
-  <p>Code and implementation guidance for using the page feedback tool</p>
+  <h2>Implementing GC Feedback</h2>
+  <p>Code and implementation guidance for using GC Feedback</p>
   <div class="row">
     <section class="wb-eqht gc-drmt">
       <div class="col-md-4">
         <section>
           <h3><a href="https://design.canada.ca/common-design-patterns/page-feedback.html">Implementation</a></h3>
-          <p>Get the code to implement the page feedback tool on your site</p>
+          <p>Get the code to implement GC Feedback on your site</p>
         </section>
       </div>
     </section>
   </div>
 
   <h2>Using and understanding page feedback</h2>
-  <p>Accessing and analyzing user feedback from your page feedback tool.</p>
+  <p>Accessing and analyzing user feedback from your GC Feedback.</p>
   <div class="row">
     <section class="wb-eqht gc-drmt">
       <div class="col-md-4">
@@ -90,7 +90,7 @@ The page feedback tool is a <strong>research tool</strong> that can help you bet
       <div class="col-md-4">
         <section>
           <h3><a href="support.html">Contact</a></h3>
-          <p>Contact us to get help with your page feedback tool or join the working group.</p>
+          <p>Contact us to get help with your GC Feedback or join the working group.</p>
         </section>
       </div>
     </section>
