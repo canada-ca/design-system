@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/crise/alertes.html
 date: null
-dateModified: '2025-05-20'
+dateModified: '2025-05-19'
 description: null
 title: Canada.ca alerts for urgent and evolving situations
 ---
@@ -133,8 +133,8 @@ title: Canada.ca alerts for urgent and evolving situations
  </h2>
   <dl class="dl-horizontal">
    <dt>
-    <time class="link-muted" datetime="2025-05-20">
-     2025-05-20
+    <time class="link-muted" datetime="2025-05-19">
+     2025-05-19
     </time>
    </dt>
    <dd>
