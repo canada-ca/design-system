@@ -35,8 +35,8 @@ title: Canada.ca alerts for urgent and evolving situations
 <p>Alerts are meant to draw attention to changes in regular content in 2 ways:</p>
 
 <ul>
-<li>a change to the content of the page on which the alert appears</li>
-<li>a change that has been made elsewhere, such as new information being published</li>
+<li>A change to the content of the page on which the alert appears</li>
+<li>A change that has been made elsewhere, such as new information being published</li>
 </ul>
 <p>In cases where you can’t update web content at the same time as when a news product is published, add a temporary alert that links to the news release. This lets you intercept people on a content page where they naturally look for the most recent information. From there, you can direct them to “breaking news” content.</p> 
 
@@ -61,11 +61,11 @@ title: Canada.ca alerts for urgent and evolving situations
 
 <p>Be aware that alert fatigue reduces the effectiveness of the alert over time. The more people see alerts and warning messages the less receptive they are to them. To avoid this, follow these guidelines:</p>
 <ul>
-<li>only use alerts on a temporary basis (for the time it takes to integrate the information or resolve the situation)</li>  
-<li>place alerts in context, not just at the top</li>
-<li>limit the number of alerts on each page</li>  
-<li>avoid using alerts just for styling regular content (for emphasis or highlighting)</li>  
-<li>remove alerts as soon as you’ve updated the program or service content to reflect what was announced</li>
+<li>Only use alerts on a temporary basis (for the time it takes to integrate the information or resolve the situation)</li>  
+<li>Place alerts in context, not just at the top</li>
+<li>Limit the number of alerts on each page</li>  
+<li>Avoid using alerts just for styling regular content (for emphasis or highlighting)</li>  
+<li>Remove alerts as soon as you’ve updated the program or service content to reflect what was announced</li>
 </ul>
 <h3>Which alert to use</h3>
 
@@ -89,9 +89,9 @@ title: Canada.ca alerts for urgent and evolving situations
 
 <h3>How this helps</h3>
 <ul>
-<li>prevents scattered crisis and service disruption pages</li>  
-<li>encourages a coordinated approach within each department and across the Government of Canada</li>  
-<li>reduces the work required to maintain various alerts and related updates</li>
+<li>Prevents scattered crisis and service disruption pages</li>  
+<li>Encourages a coordinated approach within each department and across the Government of Canada</li>  
+<li>Reduces the work required to maintain various alerts and related updates</li>
 </ul>
 </section>
 <section>
