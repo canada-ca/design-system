@@ -6,10 +6,12 @@ breadcrumbs:
 date: '2025-03-21'
 dateModified: '2025-03-21'
 description: null
-title: Guidance for the design of AI chat applications on Canada.ca
+title: Guidance for the design of AI help applications on Canada.ca
 ---
 
 <p>People expect and trust consistency and transparency on Canada.ca, including in AI interactions. This guidance aims to provide a unified voice for Government of Canada AI chat applications, assisting government teams in delivering trustworthy and effective generative AI solutions.</p>
+
+<p><a href="{{ site.url }}/guidance/central-guidance-and-ai-research.html">Follow the central guidance</a> when designing an AI application. This includes the Digital Standards Playbook and the Guide on the Use of Generative AI.</p>
 
 <p>Use this guidance when building a public-facing AI chat application. The guidance will continue to evolve over time as we build and test applications with departments.</p>
 
@@ -29,7 +31,7 @@ title: Guidance for the design of AI chat applications on Canada.ca
 		</div>
 		<div class="col-md-4">
 			<h3><a href="{{ site.url }}/guidance/privacy-and-security.html">Privacy and security</a></h3>
-			<p>Redaction techniques, threats, jailbreaking, red teaming</p>
+			<p>Keeping inputs safe, respectful and secure, redaction techniques, threats, jailbreaking, compliance with Enterprise Cyber Security</p>
 		</div>
     <div class="col-md-4">
 			<h3><a href="{{ site.url }}/guidance/iterative-design.html">Iterative design</a></h3>
