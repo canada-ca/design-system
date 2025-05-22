@@ -27,7 +27,7 @@ title: Guidance for the design of AI help applications on Canada.ca
 		</div>
 		<div class="col-md-4">
 			<h3><a href="{{ site.url }}/guidance/content-guidance.html">Content guidance</a></h3>
-			<p>Disclaimers, transparency and accountability, accuracy, citation links, accessibility, language, citation links, answer length</p>
+			<p>Disclaimers, transparency and accountability, citation links, accessibility, language, citation links, answer length</p>
 		</div>
 		<div class="col-md-4">
 			<h3><a href="{{ site.url }}/guidance/privacy-and-security.html">Privacy and security</a></h3>
