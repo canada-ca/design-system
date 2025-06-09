@@ -44,3 +44,4 @@ _site
 Gemfile
 Gemfile*
 vendor
+.hintrc
