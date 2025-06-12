@@ -297,13 +297,11 @@ title: Social media channels
 <section>
     <h2 id="latest">Latest changes</h2>
     <dl class="dl-horizontal">
-      <dt>
-            <time datetime="2024-09-24" class="link-muted">2024-09-19</time>
-        </dt>
-        <dd>Updated the pattern to add an optional “More ways to connect” link.</dd>
-        <dt>
-            <time datetime="2023-08-13" class="link-muted">2024-04-03</time>
-        </dt>
-        <dd>Updated the guidance to include content and design specifications, visual examples and implementation guidance.</dd>
+      <dt><time>2025-05-15</time></dt>
+      <dd>Updated typography specifications in tandem with alignment activities for GCWeb and GC Design System.</dd>
+      <dt><time>2024-09-19</time></dt>
+      <dd>Updated the pattern to add an optional “More ways to connect” link.</dd>
+      <dt><time>2024-04-03</time></dt>
+      <dd>Updated the guidance to include content and design specifications, visual examples and implementation guidance.</dd>
     </dl>
 </section>
