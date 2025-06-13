@@ -16,7 +16,7 @@ title: Ministerial profile pages
  </div>
 </div>
 
-<p>A ministerial profile page is the landing page for ministers, secretaries of state, parliamentary secretaries and heads of quasi-judicial organizations. It provides a consistent biographical overview and clarifies their roles and responsibilities.</p>
+<p>A ministerial profile page is the landing page for ministers, secretaries of State, parliamentary secretaries and heads of quasi-judicial organizations. It provides a consistent biographical overview and clarifies their roles and responsibilities.</p>
 
 <section>
  <h2>On this page</h2>
@@ -78,7 +78,7 @@ title: Ministerial profile pages
    </dt>
    <dd>
     <ul>
-      <li>[...]</li>
+      <li>Added the new role of secretary of State.</li>
     </ul>
    </dd>
    <dt>
