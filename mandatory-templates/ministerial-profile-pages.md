@@ -78,7 +78,7 @@ title: Ministerial profile pages
    </dt>
    <dd>
     <ul>
-      <li>Added the new role of secretary of State.</li>
+      <li>added the new role of secretary of State.</li>
     </ul>
    </dd>
    <dt>
