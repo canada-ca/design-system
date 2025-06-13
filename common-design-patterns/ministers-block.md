@@ -1,13 +1,13 @@
 ---
 altLangPage: "https://conception.canada.ca/configurations-conception-communes/ministre.html"
-date: 2023-08-13
-dateModified: 2025-05-15
+date: "2023-08-13"
+dateModified: "2025-06-13"
 description: The Minister or institutional head pattern provides links to an institution’s minister(s), including associate minister(s), or its institutional head.
 title: Minister or institutional head
 ---
 <p><strong>Last updated</strong>: {{ page.dateModified }}</p>
 <p>
-    The Minister or institutional head pattern identifies the relevant Minister(s) or head(s) for a department, agency or organization. It provides links to the official bio for an institution’s minister(s), associate minister(s), or
+    The Minister or institutional head pattern identifies the relevant Minister(s) or head(s) for a department, agency or organization. It provides links to the official bio for an institution’s minister(s), secretary(ies) of State, associate minister(s), or
     institutional head, and may also include a headshot or links to mandate letters and briefing materials.
 </p>
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/ministers-block-en.png" class="img-responsive" alt="" /></div>
@@ -37,6 +37,7 @@ title: Minister or institutional head
     <p>Use the appropriate heading for the section, for example:</p>
     <ul>
         <li>Minister</li>
+        <li>Secretary of State</li>
         <li>President</li>
         <li>Parliamentary secretary</li>
         <li>Associate minister</li>
@@ -46,7 +47,7 @@ title: Minister or institutional head
     <p>The following elements are mandatory for each head of an institution:</p>
     <ul>
         <li>
-            The minister or institutional head’s honorific (“The Honourable”) and first and last name
+            The minister, secretary of State, or institutional head’s honorific (“The Honourable”) and first and last name
             <ul>
                 <li>These link to a ministerial profile page (<a href="https://design.canada.ca/mandatory-templates/ministerial-profile-pages.html">see Ministerial profile pages</a>)</li>
             </ul>
@@ -146,8 +147,56 @@ title: Minister or institutional head
             </details>
         </figure>
     </div>
-</section>
-<section>
+    <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
+        <figure class="mrgn-tp-md mrgn-bttm-lg">
+          <figcaption><b>Minister and/or secretary of State and/or parliamentary secretary - large screen</b></figcaption>
+          <img src="../images/secretaries-of-state.jpg" class="img-responsive" alt="Minister and/or secretary of State and/or parliamentary secretary for large screens. Text version below:" />
+          <details>
+            <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: minister and/or secretary of State and/or parliamentary secretary - large screen</summary>
+            <p>The Minister or institutional head pattern appears in 2 columns with the heading “Minister(s)”.</p>
+            <p>The first column presents a placeholder for an institutional head’s image on the left. The dimensions for the image are 200px x 250px. Information on the right includes:</p>
+            <ul>
+              <li>The Honourable [Minister name] (link)</li>
+              <li>[Official title] (text)</li>
+              <li>List item: [optional] (link)</li>
+              <li>List item: [optional] (link)</li>
+            </ul>
+            <p>The second column is empty. If there is more than one minister for a department you would present the additional minister here, following the same format as described in the first column.</p>
+            <p>The minister row is then followed by a “Secretary(ies) of State” heading. Following that heading is 2 columns.</p>
+            <p>The first column presents a placeholder for a secretary of State’s image on the left. The dimensions for the image are 200px x 250px. Information on the right includes:</p>
+            <ul>
+              <li>The Honourable [Secretary of State name] (link)</li>
+              <li>[Official title] (text)</li>
+              <li>List item: [optional] (link)</li>
+              <li>List item: [optional] (link)</li>
+            </ul>
+            <p>The second column presents a placeholder for a secretary of State’s image on the left. The dimensions for the image are 200px x 250px. Information on the right includes:</p>
+            <ul>
+              <li>The Honourable [Secretary of State name] (link)</li>
+              <li>[Official title] (text)</li>
+              <li>List item: [optional] (link)</li>
+              <li>List item: [optional] (link)</li>
+            </ul>
+            <p>The secretary of State row is then followed by a “Parliamentary secretary(ies)” heading. Following that heading is 2 columns.</p>
+            <p>The first column presents a placeholder for a parliamentary secretary’s image on the left. The dimensions for the image are 200px x 250px. Information on the right includes:</p>
+            <ul>
+              <li>[Parliamentary secretary name] (link)</li>
+              <li>[Official title] (text)</li>
+              <li>List item: [optional] (link)</li>
+              <li>List item: [optional] (link)</li>
+            </ul>
+            <p>The second column presents a placeholder for a parliamentary secretary’s name image on the left. The dimensions for the image are 200px x 250px. Information on the right includes:</p>
+            <ul>
+              <li>[Parliamentary secretary name] (link)</li>
+              <li>[Official title] (text)</li>
+              <li>List item: [optional] (link)</li>
+              <li>List item: [optional] (link)</li>
+            </ul>
+        </details>
+      </figure>
+    </div>
+  </section>
+  <section>
     <h2 id="implement">How to implement</h2>
     <p>Find working examples and code for implementing the Minister or institutional head pattern.</p>
     <h3>GCweb (WET) theme implementation reference</h3>
@@ -200,9 +249,11 @@ title: Minister or institutional head
 <section>
     <h2 id="latest">Latest changes</h2>
     <dl class="dl-horizontal">
-        <dt>
-            <time datetime="2024-04-03" class="link-muted">2024-04-03</time>
-        </dt>
-        <dd>Added guidance to support updates to the institutional landing page</dd>
+        <dt><time>2025-06-13</time></dt>
+        <dd>Added an additional image variant to include the new secretary of State role.</dd>
+        <dt><time>2025-05-15</time></dt>
+        <dd>Updated typography specifications in tandem with alignment activities for GCWeb and GC Design System.</dd>
+        <dt><time>2024-04-03</time></dt>
+        <dd>Added guidance to support updates to the institutional landing page.</dd>
     </dl>
 </section>
