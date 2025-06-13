@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/configurations-conception-communes/ministre.html"
 date: "2023-08-13"
-dateModified: "2025-06-11"
+dateModified: "2025-06-13"
 description: The Minister or institutional head pattern provides links to an institution’s minister(s), including associate minister(s), or its institutional head.
 title: Minister or institutional head
 ---
@@ -249,13 +249,11 @@ title: Minister or institutional head
 <section>
     <h2 id="latest">Latest changes</h2>
     <dl class="dl-horizontal">
-        <dt>
-            <time datetime="2025-06-11" class="link-muted">2025-06-11</time>
-        </dt>
+        <dt><time>2025-06-13</time></dt>
         <dd>Added an additional image variant to include the new secretary of State role.</dd>
-        <dt>
-            <time datetime="2024-04-03" class="link-muted">2024-04-03</time>
-        </dt>
-        <dd>Added guidance to support updates to the institutional landing page</dd>
+        <dt><time>2025-05-15</time></dt>
+        <dd>Updated typography specifications in tandem with alignment activities for GCWeb and GC Design System.</dd>
+        <dt><time>2024-04-03</time></dt>
+        <dd>Added guidance to support updates to the institutional landing page.</dd>
     </dl>
 </section>

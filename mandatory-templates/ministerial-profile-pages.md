@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/modeles-obligatoire/pages-profil-ministres.html
 date: null
-dateModified: '2025-06-11'
+dateModified: '2025-06-13'
 description: null
 title: Ministerial profile pages
 ---
@@ -78,7 +78,7 @@ title: Ministerial profile pages
    </dt>
    <dd>
     <ul>
-      <li>added the new role of secretary of State.</li>
+      <li>added the new role of secretary of State</li>
     </ul>
    </dd>
    <dt>
