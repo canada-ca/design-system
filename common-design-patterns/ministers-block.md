@@ -47,7 +47,7 @@ title: Minister or institutional head
     <p>The following elements are mandatory for each head of an institution:</p>
     <ul>
         <li>
-            The minister, Secretary of State, or institutional head’s honorific (“The Honourable”) and first and last name
+            The minister, secretary of State, or institutional head’s honorific (“The Honourable”) and first and last name
             <ul>
                 <li>These link to a ministerial profile page (<a href="https://design.canada.ca/mandatory-templates/ministerial-profile-pages.html">see Ministerial profile pages</a>)</li>
             </ul>
@@ -252,7 +252,7 @@ title: Minister or institutional head
         <dt>
             <time datetime="2025-06-11" class="link-muted">2025-06-11</time>
         </dt>
-        <dd>[...]</dd>
+        <dd>Added an additional image variant to include the new secretary of State role.</dd>
         <dt>
             <time datetime="2024-04-03" class="link-muted">2024-04-03</time>
         </dt>
