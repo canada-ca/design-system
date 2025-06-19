@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/configurations-conception-communes/pied-page.html"
 date: 2019-01-08
-dateModified: 2025-03-27
+dateModified: 2025-63-19
 description: "The global (site-wide) footer at the bottom of each page. It includes the main band, contextual band and sub-footer band. This is a mandatory pattern with optional elements."
 title: "Global footer"
 ---
@@ -306,6 +306,10 @@ title: "Global footer"
 <section>
   <h2 id="latest">Latest changes</h2>
   <dl class="dl-horizontal">
+    <dt>
+      <time datetime="2025-05-15" class="link-muted">2025-05-15</time>
+    </dt>
+    <dd>Updated typography specifications in tandem with alignment activities for GCWeb and GC Design System.</dd>
     <dt>
       <time datetime="2023-02-08" class="link-muted">2023-02-08</time>
     </dt>
