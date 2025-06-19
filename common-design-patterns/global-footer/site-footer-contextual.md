@@ -63,7 +63,7 @@ title: "Global footer: Contextual band"
         <li>links: Noto Sans</li>
       </ul>
     </li>
-    <li>Text size (base size for the footer is 16px):
+    <li>Text size:
       <ul>
         <li>header: 26px</li>
         <li>links: 16px</li>
