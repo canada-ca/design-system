@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/a-propos/derniers-changements.html"
 date: 2017-10-05
-dateModified: 2024-09-06
+dateModified: 2025-06-12
 description: "Latest changes to the Canada.ca design system"
 layout: default
 title: "Latest changes to the Canada.ca design system"
@@ -13,22 +13,33 @@ title: "Latest changes to the Canada.ca design system"
   All</button>
 </div>
 <div id="expand-collapse">
-
   <details open="open">
+    <summary>May 15, 2025</summary>
+    <p>Updated typography specifications in tandem with alignment activities for GCWeb and GC Design System. These specifications were updated in the following patterns:</p>
+    <ul>
+      <li><a href="{{ site.url }}/styles/typography.html">Typography style</a></li>
+      <li><a href="{{ site.url }}/common-design-patterns/language-toggle.html">Language toggle</a></li>
+      <li><a href="{{ site.url }}/common-design-patterns/ministers-block.html">Minister or institutional head</a></li>
+      <li><a href="{{ site.url }}/common-design-patterns/most-requested.html">Most requested band</a></li>
+      <li><a href="{{ site.url }}/common-design-patterns/services-information.html">Services and information</a></li>
+      <li><a href="{{ site.url }}/common-design-patterns/social-media-channels.html">Social media channels</a></li>
+    </ul>
+  </details>
+  <details>
     <summary>September 25, 2024</summary>
-    <p>Stabilized the <a href="{{ site.url }}/mandatory-templates/topic.html">topic page template</a>.</p> 
+    <p>Stabilized the <a href="{{ site.url }}/mandatory-templates/topic.html">topic page template</a>.</p>
     <p>As part of this update, we have also made changes to several patterns.</p>
     <p>Changes:</p>
     <ul>
-      <li><a href="{{ site.url }}/common-design-patterns/intro-block.html">Introduction block</a>: added a half-width image option</li> 
+      <li><a href="{{ site.url }}/common-design-patterns/intro-block.html">Introduction block</a>: added a half-width image option</li>
       <li><a href="{{ site.url }}/common-design-patterns/services-information.html">Services and information</a>: added ability to style the "Services and information" heading as invisible</li>
       <li><a href="{{ site.url }}/common-design-patterns/social-media-channels.html">Social media channels</a>: added an option to include a "More ways to connect" link</li>
-      <li><a href="{{ site.url }}/common-design-patterns/contributors.html">Contributors</a>: changed the design, this pattern replaces the <a href="{{ site.url }}/common-design-patterns/institutional-byline.html">institutional byline pattern</a></li> 
+      <li><a href="{{ site.url }}/common-design-patterns/contributors.html">Contributors</a>: changed the design, this pattern replaces the <a href="{{ site.url }}/common-design-patterns/institutional-byline.html">institutional byline pattern</a></li>
     </ul>
   </details>
  <details>
     <summary>August 28, 2024</summary>
-    <p>Launched a new information architecture and new content for design.canada.ca.</p> 
+    <p>Launched a new information architecture and new content for design.canada.ca.</p>
    <p>Changes:</p>
     <ul>
       <li>Renamed the Content and Information Architecture Specification to the <a href="{{ site.url }}/specifications.html">Canada.ca Specifications</a>.</li>
