@@ -309,7 +309,7 @@ title: "Global footer"
     <dt>
       <time datetime="2025-05-15" class="link-muted">2025-05-15</time>
     </dt>
-    <dd>Updated typography specifications in tandem with alignment activities for GCWeb and GC Design System.</dd>
+    <dd>Updated typography specifications in tandem with alignment activities for GCWeb and GC Design System</dd>
     <dt>
       <time datetime="2023-02-08" class="link-muted">2023-02-08</time>
     </dt>
