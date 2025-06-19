@@ -60,6 +60,7 @@ title: "Global footer: Main band"
   <li>Indigenous Peoples</li>
   <li>Veterans and military</li>
   <li>Youth</li>
+  <li>Manage life events</li>
 </ul>
 <h3>Design specifications</h3>
 <ul>
@@ -73,8 +74,8 @@ title: "Global footer: Main band"
   </li>
   <li>Text size (base size for the footer is 16px):
     <ul>
-      <li>header: 19px or 1.2em</li>
-      <li>links: 14px or 0.875em</li>
+      <li>header: 26px</li>
+      <li>links: 16px</li>
     </ul>
   </li>
   <li>Font weight:
