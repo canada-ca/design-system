@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/configurations-conception-communes/en-demande.html"
 date: 2018-12-19
-dateModified: 2025-05-15
+dateModified: 2025-06-25
 description: Guidance about using the most requested pattern on Canada.ca. The most requested pattern provides links to top tasks on navigation pages
 title: Most requested band
 ---
@@ -138,6 +138,8 @@ title: Most requested band
 </ul>
 <h2 id="latest">Latest changes</h2>
 <dl class="dl-horizontal">
+    <dt><time>{{ page.dateModified }}</time></dt>
+    <dd> </dd>
     <dt><time>2025-05-15</time></dt>
     <dd>Updated typography specifications in tandem with alignment activities for GCWeb and GC Design System.</dd>
     <dt><time>2024-04-03</time></dt>
