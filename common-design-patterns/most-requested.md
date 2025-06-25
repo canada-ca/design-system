@@ -135,7 +135,7 @@ title: Most requested band
 <h2 id="latest">Latest changes</h2>
 <dl class="dl-horizontal">
     <dt><time>{{ page.dateModified }}</time></dt>
-    <dd> </dd>
+    <dd>Removed optional label as the pattern is mandatory on some templates.</dd>
     <dt><time>2025-05-15</time></dt>
     <dd>Updated typography specifications in tandem with alignment activities for GCWeb and GC Design System.</dd>
     <dt><time>2024-04-03</time></dt>
