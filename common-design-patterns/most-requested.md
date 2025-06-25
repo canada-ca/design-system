@@ -15,7 +15,7 @@ title: Most requested band
     <li><a href="#avoid">What to avoid</a></li>
     <li><a href="#design">Content and design</a></li>
     <li><a href="#implement">How to implement</a></li>
-    <li><a href="#research">Research and rationale</a></li>
+    <li><a href="#research">Research</a></li>
     <li><a href="#latest">Latest changes</a></li>
 </ul>
 <h2 id="use">When to use</h2>
