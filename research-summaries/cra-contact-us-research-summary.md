@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/arc-contactez-nous-resume-recherche.html"
+altLangPage: "https://conception.canada.ca/resumes-recherche/arc-contactez-nous-resume-recherche.html"
 date: 2019-11-01
 dateModified: 2019-11-01
 description: "Using call centre evidence and web analytics data, the Treasury Board Secretariat (TBS) Digital Transformation Office (DTO) partnered with Canada Revenue Agency to work towards improving outcomes."
@@ -76,6 +76,7 @@ title: "Contact the CRA"
             <td>NoA via My Account</td>
             <td>73%</td>
             <td>93%</td>
+          </tr>
           <tr>
             <td>Child Benefits - Benefits line</td>
             <td>50%</td>

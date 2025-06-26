@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/a-propos/derniers-changements.html"
 date: 2017-10-05
-dateModified: 2024-09-06
+dateModified: 2025-06-12
 description: "Latest changes to the Canada.ca design system"
 layout: default
 title: "Latest changes to the Canada.ca design system"
@@ -13,22 +13,48 @@ title: "Latest changes to the Canada.ca design system"
   All</button>
 </div>
 <div id="expand-collapse">
- <details open="open">
+  <details open="open">
+    <summary>May 15, 2025</summary>
+    <p>Updated typography specifications in tandem with alignment activities for GCWeb and GC Design System. These specifications were updated in the following patterns:</p>
+    <ul>
+      <li><a href="{{ site.url }}/styles/typography.html">Typography style</a></li>
+      <li><a href="{{ site.url }}/common-design-patterns/language-toggle.html">Language toggle</a></li>
+      <li><a href="{{ site.url }}/common-design-patterns/ministers-block.html">Minister or institutional head</a></li>
+      <li><a href="{{ site.url }}/common-design-patterns/most-requested.html">Most requested band</a></li>
+      <li><a href="{{ site.url }}/common-design-patterns/services-information.html">Services and information</a></li>
+      <li><a href="{{ site.url }}/common-design-patterns/social-media-channels.html">Social media channels</a></li>
+    </ul>
+  </details>
+  <details>
+    <summary>September 25, 2024</summary>
+    <p>Stabilized the <a href="{{ site.url }}/mandatory-templates/topic.html">topic page template</a>.</p>
+    <p>As part of this update, we have also made changes to several patterns.</p>
+    <p>Changes:</p>
+    <ul>
+      <li><a href="{{ site.url }}/common-design-patterns/intro-block.html">Introduction block</a>: added a half-width image option</li>
+      <li><a href="{{ site.url }}/common-design-patterns/services-information.html">Services and information</a>: added ability to style the "Services and information" heading as invisible</li>
+      <li><a href="{{ site.url }}/common-design-patterns/social-media-channels.html">Social media channels</a>: added an option to include a "More ways to connect" link</li>
+      <li><a href="{{ site.url }}/common-design-patterns/contributors.html">Contributors</a>: changed the design, this pattern replaces the <a href="{{ site.url }}/common-design-patterns/institutional-byline.html">institutional byline pattern</a></li>
+    </ul>
+  </details>
+ <details>
     <summary>August 28, 2024</summary>
-    <p>Launched a new information architecture and new content for design.canada.ca. Changes include:</p>
+    <p>Launched a new information architecture and new content for design.canada.ca.</p>
+   <p>Changes:</p>
     <ul>
       <li>Renamed the Content and Information Architecture Specification to the <a href="{{ site.url }}/specifications.html">Canada.ca Specifications</a>.</li>
-      <li>Updated the Canada.ca Specifications to include the Canada.ca Content Style Guide and guidance on information architecture and findability, as well as a link to the GC design system: <a href="{{ site.url }}/specifications.html">Canada.ca Specifications</a>.</li>
+      <li>Updated the Canada.ca Specifications to include the Canada.ca Content Style Guide and guidance on information architecture and findability, as well as a link to the GC Design System: <a href="{{ site.url }}/specifications.html">Canada.ca Specifications</a>.</li>
       <li>Created guidance on how to write metadata for Canada.ca pages: <a href="{{ site.url }}/specifications/information-findability/metadata.html">Improving titles and metadata for findability</a>.</li>
       <li>Consolidated domain and URL guidance into one page: <a href="{{ site.url }}/specifications/mandatory-elements/domains-urls.html">Government of Canada domains and URLs</a>.</li>
-      <li>Removed mentions of the Canada.ca Design System and replaced with Canada.ca design. This is to clarify that departments have to comply with the mandatory elements of the Canada.ca design, but may use the design system that best fits their needs.</li>
+      <li>Removed mentions of the Canada.ca Design System and replaced with Canada.ca design to clarify that departments have to comply with the mandatory elements of the Canada.ca design, but may use the design system that best fits their needs.</li>
       <li>Updated the About Canada.ca page to better reflect what users are searching for: <a href="{{ site.url }}/about">About Canada.ca</a>.</li>
       <li>Added a new page for summaries of research done on the design and user-experience of Canada.ca: <a href="{{ site.url }}/research-summaries">Research summaries</a>.</li>
     </ul>
   </details>
   <details>
     <summary>April 3, 2024</summary>
-    <p>Stabilized the <a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html#changes">institutional landing page</a> (ILP) template and documented each component separately. </p>
+    <p>Stabilized the <a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html#changes">institutional landing page</a> (ILP) template and documented each component separately.</p>
+    <p>Updated guidance to reflect the banded style for the <a href="{{ site.url }}/common-design-patterns/most-requested.html">most requested pattern</a>.</p>
   </details>
   <details>
     <summary>February 19, 2024</summary>
@@ -36,7 +62,7 @@ title: "Latest changes to the Canada.ca design system"
   </details>
   <details>
     <summary>November 7, 2023</summary>
-    <p>Updated the <a href="{{ site.url }}/common-design-patterns/report-problem.html">Report a problem pattern</a> to inform users that it is being decommissioned. Stabilized the <a href="{{ site.url }}/common-design-patterns/page-feedback.html">Page feedback tool pattern</a> and added content specifications and updated implementation instructions.</p>
+    <p>Updated the <a href="{{ site.url }}/common-design-patterns/report-problem.html">Report a problem pattern</a> to inform users that it is being decommissioned. Stabilized the <a href="{{ site.url }}/common-design-patterns/page-feedback.html">GC Feedback pattern</a> and added content specifications and updated implementation instructions.</p>
   </details>
   <details>
     <summary>July 12, 2023</summary>

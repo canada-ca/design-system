@@ -42,7 +42,7 @@ title: "Employment Insurance caregiving benefits"
   <details>
     <summary> Detailed description </summary>
     <p>Two webpages are shown side by side. The page on the left is labelled "Baseline" and shows that the “After you've applied” webpage concerning caregiving benefits was missing content people expected to find on this page.  An arrow points to the webpage with the annotation "Supporting documents were not found here."</p>
-    <p>The page on the right is labelled "Redesign” and shows the “Apply" page with a set of icons outlining the various application steps.  An arrow points to the steps with the annotation "Visual overview of the complete process." </p>
+    <p>The page on the right is labelled "Redesign” and shows the “Apply" page with a set of icons outlining the various application steps.  An arrow points to the steps with the annotation "Visual overview of the complete process."</p>
     <p>Below there is a header titled "Begin to gather supporting documents", which has a list of the needed documents. An arrow points to the list with the annotation "All required supporting documents visible."</p>
   </details>
 </div>
@@ -124,7 +124,7 @@ title: "Employment Insurance caregiving benefits"
 </ol>
 <h2>Request the research </h2>
 <p>If you’d like to see the research findings from this project, let us know. Email us at <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a>.</p>
-<h2>What do you think? </h2>
+<h2>What do you think?</h2>
 <p>Let us know what you think about this project. Tweet using the hashtag #Canadadotca.</p>
 <h2>Explore further </h2>
 <ul>
@@ -136,7 +136,7 @@ title: "Employment Insurance caregiving benefits"
     <dl>
       <dt>Footnote 1</dt>
       <dd id="fn1">
-        <p>1.8 million in 2016/17 according to ESDC’s monitoring report: <a href="1.8 million in 2016/17 according to ESDC’s monitoring report: https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/reports/monitoring2017/chapter2/ei-overview.html"> https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/reports/monitoring2017/chapter2/ei-overview.html</a></p>
+        <p>1.8 million in 2016/17 according to ESDC’s monitoring report: <a href="https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/reports/monitoring2017/chapter2/ei-overview.html">https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/reports/monitoring2017/chapter2/ei-overview.html</a></p>
         <p class="fn-rtn"> <a href="#fn1-0-rf"><span class="wb-inv">Return to footnote</span>1<span class="wb-inv"> Referrer</span></a> </p>
       </dd>
     </dl>

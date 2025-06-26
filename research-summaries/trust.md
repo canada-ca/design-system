@@ -84,9 +84,9 @@ title: "Trust study: Canada.ca design elements"
 <p>Signing in to an account is sometimes associated with phishing and spoofing so we wanted to determine what sign in design is more trusted. We included a study question which displayed images of an account sign in page. One version had a familiar Canada.ca green "supertask" button. The other version had unique blue and red buttons. 43% of the respondents trusted the page with the green buttons. 37% trusted the page with unique buttons.</p>
 <p>Respondents mentioned the importance of consistency and familiarity for sign in pages. They expect a consistent design for the Canada.ca brand to help them avoid fraud.</p>
 <h2 id="other-findings">Other findings</h2>
-<p>In respondents' final open-ended comments, there were many mentions of desiring a better user experience. Users want Canada.ca to be simpler and more functional. We encourage departments to continually improve their web presence using research and evidence. Tools such as the GC Task Success Survey and the page feedback tool can help you gather evidence and decide what to improve next.</p>
+<p>In respondents' final open-ended comments, there were many mentions of desiring a better user experience. Users want Canada.ca to be simpler and more functional. We encourage departments to continually improve their web presence using research and evidence. Tools such as the GC Task Success Survey and GC Feedback can help you gather evidence and decide what to improve next.</p>
 <p><a href="https://design.canada.ca/survey/index.html">GC Task Success Survey</a>: The GC Task Success Survey is a continuously running web intercept survey that asks questions related to three key elements: task success, ease, and satisfaction.</p>
-<p><a href="https://design.canada.ca/feedback/index.html">Page feedback tool</a>: This tool allows users to provide feedback for the page they are on. It can help departments uncover common issues in their content.</p>
+<p><a href="https://design.canada.ca/feedback/index.html">GC Feedback</a>: This tool allows users to provide feedback for the page they are on. It can help departments uncover common issues in their content.</p>
 <h2 id="next-steps">Next steps</h2>
 <p>As a result of this research, we updated the global header guidance in the Canada.ca design system to reflect the importance of the red FIP flag symbol and to provide a consistent spot for the Sign in button. We also continue to work with departments and agencies to ensure full adoption of the Canada.ca design, including the Canada.ca domain. In addition, we're collaborating with departments and agencies to develop a consistent sign in pattern.</p>
 <div class="row">
@@ -95,7 +95,7 @@ title: "Trust study: Canada.ca design elements"
       <dl>
         <dt>Footnote 1</dt>
         <dd id="fn1">
-          <p><a href="https://www.rcmp-grc.gc.ca/en/news/2023/fraud-prevention-month-2023-fraud-losses-canada-reach-historic-level">Fraud Prevention Month 2023: Fraud losses in Canada reach another historic level | Royal Canadian Mounted Police (rcmp-grc.gc.ca)</a></p>
+          <p><a href="https://rcmp.ca/en/news/2023/02/fraud-prevention-month-2023-fraud-losses-canada-reach-another-historic-level">Fraud Prevention Month 2023: Fraud losses in Canada reach another historic level | Royal Canadian Mounted Police (rcmp-grc.gc.ca)</a></p>
           <p class="fn-rtn"><a href="#fn1"><span class="wb-inv">Return to footnote </span>1<span class="wb-inv"> referrer</span></a></p>
         </dd>
       </dl>

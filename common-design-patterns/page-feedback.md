@@ -3,7 +3,7 @@ altLangPage: https://conception.canada.ca/configurations-conception-communes/out
 date: "2023-10-19"
 dateModified: "2023-10-19"
 description: "The feedback tool is an optional pattern to collect feedback on the page experience."
-title: "Page feedback tool"
+title: "GC Feedback"
 ---
 <p class="small">Last updated: 2023-10-06</p>
 <p>The feedback tool is an <strong>optional</strong> pattern to collect feedback on the page experience. When in use, it is included at the bottom of the page before the date modified.</p>
@@ -20,7 +20,7 @@ title: "Page feedback tool"
 </ul>
 <section id="when-to-use">
   <h2>When to use</h2>
-  <p>Consider adding the page feedback tool to:</p>
+  <p>Consider adding GC Feedback to:</p>
   <ul>
     <li>uncover specific page-level issues affecting your GC Task Success Survey task score</li>
     <li>research issues on pages you plan on working on in the future</li>
@@ -31,7 +31,7 @@ title: "Page feedback tool"
 </section>
 <section id="what-to-avoid">
   <h2>What to avoid</h2>
-  <p>Avoid using the page feedback tool on pages where there is no plan to monitor comments or take action. We also don’t recommend using the tool within secure spaces or pages with sensitive subject material.</p>
+  <p>Avoid using GC Feedback on pages where there is no plan to monitor comments or take action. We also don’t recommend using the tool within secure spaces or pages with sensitive subject material.</p>
   <p><a href="/feedback/when.html#how-not-to-use-the-tool">Additional behaviours to avoid when analyzing feedback</a></p>
 </section>
 <section id="content-and-design">
@@ -41,7 +41,7 @@ title: "Page feedback tool"
     <li>indicate if they found what they were looking for (yes / no)</li>
     <li>offer their feedback describing the problem</li>
   </ul>
-  <p>Place the tool at the bottom of the page before the date modified. It's aligned to the left of the page before the “Share this page” widget. You can opt to use the page feedback tool in place of the "Report a problem" pattern. It's not mandatory to add the feedback pattern when removing “Report a problem” from your page.</p>
+  <p>Place the tool at the bottom of the page before the date modified. It's aligned to the left of the page before the “Share this page” widget. You can opt to use GC Feedback in place of the "Report a problem" pattern. It's not mandatory to add the feedback pattern when removing “Report a problem” from your page.</p>
   <p>The page feedback pattern has 3 states:</p>
   <ul>
     <li>“Did you find what you were looking for?” prompt with “Yes” and “No” buttons</li>
@@ -49,7 +49,7 @@ title: "Page feedback tool"
     <li>Thank you message</li>
   </ul>
   <p>This pattern also has detailed documentation for use and analysis of feedback.</p>
-  <p><a href="/feedback/">Page feedback tool (Analytics and feedback)</a></p>
+  <p><a href="/feedback/">GC Feedback (Analytics and feedback)</a></p>
   <h3>Content specifications</h3>
   <p>When you first add the feedback tool to your page, use the default option without the contact link.</p>
   <p><strong>Only consider adding a contact link if</strong> you have tried to make the page content clearer for how to contact the program or service and users are still using the feedback tool to get a response for their situation.</p>
@@ -283,5 +283,5 @@ title: "Page feedback tool"
   <h3>Research findings</h3>
   <p><a href="https://blog.canada.ca/2020/10/09/collect-feedback.html">Blog post: Collect feedback, find issues</a></p>
   <h3>Policy rationale</h3>
-  <p>The Guideline for Service and Digital requires <a href="https://www.canada.ca/en/government/system/digital-government/guideline-service-digital.html#ToC2_2">client feedback</a> to be an integral part of service or product design. It can take several forms, including using the page feedback tool.</p>
+  <p>The Guideline for Service and Digital requires <a href="https://www.canada.ca/en/government/system/digital-government/guideline-service-digital.html#ToC2_2">client feedback</a> to be an integral part of service or product design. It can take several forms, including using GC Feedback.</p>
 </section>

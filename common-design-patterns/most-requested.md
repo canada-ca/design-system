@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/configurations-conception-communes/en-demande.html"
 date: 2018-12-19
-dateModified: 2024-04-03
+dateModified: 2025-05-15
 description: Guidance about using the most requested pattern on Canada.ca. The most requested pattern provides links to top tasks on navigation pages
 title: Most requested band
 ---
@@ -57,11 +57,11 @@ title: Most requested band
         Styling:
         <ul>
             <li>Background colour: #f5f5f5</li>
-            <li>Font family: Noto Sans</li>
+            <li>Font family: Lato</li>
             <li>Font weight: Bold</li>
-            <li>Heading: H2, Lato: 1.2em</li>
-            <li>Line height: 2em (base size is 20px)</li>
-            <li>Text size: 87% (base size is 20px)</li>
+            <li>Heading: H2, Lato: 24px (desktop), 22px (mobile)</li>
+            <li>Line height: 1.8em</li>
+            <li>Text size: 18px (desktop and mobile)</li>
         </ul>
     </li>
 </ul>
@@ -138,12 +138,10 @@ title: Most requested band
 </ul>
 <h2 id="latest">Latest changes</h2>
 <dl class="dl-horizontal">
-    <dt>
-        <time datetime="2024-04-03" class="link-muted">2024-04-03</time>
-    </dt>
+    <dt><time>2025-05-15</time></dt>
+    <dd>Updated typography specifications in tandem with alignment activities for GCWeb and GC Design System.</dd>
+    <dt><time>2024-04-03</time></dt>
     <dd>Updated guidance to reflect the banded style for the most requested pattern</dd>
-    <dt>
-        <time datetime="2018-12-19" class="link-muted">2018-12-19</time>
-    </dt>
+    <dt><time>2018-12-19</time></dt>
     <dd>Documented the most requested pattern</dd>
 </dl>

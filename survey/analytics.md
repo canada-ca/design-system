@@ -97,7 +97,7 @@ title: Canada.ca analytics, surveys, and user feedback
      <section>
       <h3 class="h5">
        <a href="feedback/index.html">
-        Page feedback tool
+        GC Feedback
        </a>
       </h3>
       <p>

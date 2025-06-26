@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/configurations-conception-communes/date-modification.html
 date: null
-dateModified: '2023-10-03'
+dateModified: '2025-03-27'
 description: null
 title: Date modified
 ---
@@ -107,8 +107,46 @@ title: Date modified
      The date appears using the common numeric method, for example: 2016-10-04.
     </li>
     <li>
-     Placement: left-aligned, below the main content area. If used in conjunction with the Page feedback tool, this component appears after.
+     Placement: left-aligned, below the main content area. If used in conjunction with GC Feedback, this component appears after.
     </li>
    </ul>
   </section>
+
+<div class="row">
+  <div class="col-md-8">
+    <div class="wb-tabs mrgn-tp-lg">
+      <div class="tabpanels">
+        <details id="004" open="open">
+          <summary><strong>GC-AEM</strong></summary>
+          <p class="mrgn-tp-lg">For the Government of Canada Adobe Experience Manager (AEM):</p>
+          <ul>
+            <li><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">AEM/Managed Web Service documentation (GCPedia link - only available on the Government of Canada network)</a></li>
+          </ul>
+        </details>
+        <details id="0041" open="open">
+          <summary><strong>GC Design System</strong></summary>
+          <p class="mrgn-tp-lg">For GC Design System:</p>
+          <ul>
+            <li><a href="https://design-system.alpha.canada.ca/en/components/date-modified/">GC Design System documentation</a></li>
+          </ul>
+        </details>
+        <details id="005">
+          <summary><strong>CDTS</strong></summary>
+          <p class="mrgn-tp-lg">For the Centrally Deployed Templates Solution (CDTS):</p>
+          <ul>
+            <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-en.html">CDTS documentation</a></li>
+          </ul>
+        </details>
+        <details id="006">
+          <summary><strong>Drupal</strong></summary>
+          <p class="mrgn-tp-lg">For Drupal:</p>
+          <ul>
+            <li><a href="https://drupalwxt.github.io/">Drupal WxT documentation</a></li>
+          </ul>
+        </details>
+      </div>
+    </div>
+  </div>
+</div>
+
 </div>

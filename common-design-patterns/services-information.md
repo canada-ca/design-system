@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/configurations-conception-communes/services-renseignements.html
 date: null
-dateModified: '2024-04-03'
+dateModified: '2025-05-15'
 description: Guidance about using the services and information pattern on Canada.ca.
 title: Services and information
 ---
@@ -85,7 +85,7 @@ title: Services and information
             Headings:
             <ul>
                 <li>Colour: <a href="https://design.canada.ca/styles/colours.html">Standard colour</a> for links</li>
-                <li>Font size: Canada.ca H3 (1em)</li>
+                <li>Font size: 24px (H3 styled as H5 size)</li>
                 <li>Font type: Lato Sans</li>
             </ul>
         </li>
@@ -96,8 +96,7 @@ title: Services and information
                 <li>
                     Font size:
                     <ul>
-                        <li>17px (desktop)</li>
-                        <li>19px (mobile)</li>
+                        <li>18px (desktop & mobile)</li>
                     </ul>
                 </li>
                 <li>Font type: Noto Sans</li>
@@ -189,9 +188,9 @@ title: Services and information
 <section>
     <h2 id="latest">Latest changes</h2>
     <dl class="dl-horizontal">
-        <dt>
-            <time datetime="2024-04-03" class="link-muted">2024-04-03</time>
-        </dt>
-        <dd>Updated the guidance to include content and design specifications, visual examples and implementation guidance</dd>
+      <dt><time>2025-05-15</time></dt>
+      <dd>Updated typography specifications in tandem with alignment activities for GCWeb and GC Design System.</dd>
+      <dt><time>2024-04-03</time></dt>
+      <dd>Updated the guidance to include content and design specifications, visual examples and implementation guidance</dd>
     </dl>
 </section>

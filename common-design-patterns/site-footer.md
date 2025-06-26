@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/configurations-conception-communes/pied-page.html"
 date: 2019-01-08
-dateModified: 2023-04-06
+dateModified: 2025-06-19
 description: "The global (site-wide) footer at the bottom of each page. It includes the main band, contextual band and sub-footer band. This is a mandatory pattern with optional elements."
 title: "Global footer"
 ---
@@ -17,7 +17,7 @@ title: "Global footer"
   out of the Wayfinding research project. To find out more about this project, visit the <a href="#research">Research and rationale</a> section on this page.</p>
 <!--<a href="">Blog post link</a>-->
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/footer-en-crop.png" class="img-responsive" alt=""> </div>
-<p><a href="site-footer-content.html">See Content footer pattern</a> for guidance on how to apply the Date modified, Share this page, Report a problem or Page feedback tool components.</p>
+<p><a href="site-footer-content.html">See Content footer pattern</a> for guidance on how to apply the Date modified, Share this page, Report a problem or GC Feedback components.</p>
 <section>
   <h2>On this page</h2>
   <ul>
@@ -262,6 +262,13 @@ title: "Global footer"
           <li><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">AEM/Managed Web Service documentation (only available on the Government of Canada network)</a></li>
         </ul>
       </details>
+      <details id="0041" open="open">
+        <summary><strong>GC Design System</strong></summary>
+        <p class="mrgn-tp-lg">For GC Design System:</p>
+        <ul>
+          <li><a href="https://design-system.alpha.canada.ca/en/components/footer/">GC Design System documentation</a></li>
+        </ul>
+      </details>
       <details id="005">
         <summary><strong>CDTS</strong></summary>
         <p class="mrgn-tp-lg">For the Centrally Deployed Templates Solution (CDTS):</p>
@@ -271,8 +278,8 @@ title: "Global footer"
         </ul>
       </details>
       <details id="006">
-        <summary><strong>Drupal WxT</strong></summary>
-        <p class="mrgn-tp-lg">For Drupal WxT:</p>
+        <summary><strong>Drupal</strong></summary>
+        <p class="mrgn-tp-lg">For Drupal:</p>
         <ul>
           <li><a href="https://drupalwxt.github.io/">Drupal WxT documentation</a></li>
         </ul>
@@ -299,6 +306,10 @@ title: "Global footer"
 <section>
   <h2 id="latest">Latest changes</h2>
   <dl class="dl-horizontal">
+    <dt>
+      <time datetime="2025-05-15" class="link-muted">2025-05-15</time>
+    </dt>
+    <dd>Updated typography specifications in tandem with alignment activities for GCWeb and GC Design System</dd>
     <dt>
       <time datetime="2023-02-08" class="link-muted">2023-02-08</time>
     </dt>

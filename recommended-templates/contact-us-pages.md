@@ -6,9 +6,7 @@ description: null
 title: 'Contact us pages template'
 ---
 
-
 <div>
- 
  <section>
   <p>
    There are a number of ways that people contact the Government of Canada. Typical scenarios include:
@@ -1360,15 +1358,11 @@ title: 'Contact us pages template'
   </h2>
   <ul>
    <li>
-    <a href="http://wet-boew.github.io/themes-dist/GCWeb/institution-contact-en.html">
-     English working example
-    </a>
+    <a href="https://wet-boew.github.io/GCWeb/templates/institutional/institution-contact-en.html">English working example</a>
     (on GitHub)
    </li>
    <li>
-    <a href="http://wet-boew.github.io/themes-dist/GCWeb/institution-contact-fr.html">
-     French working example
-    </a>
+    <a href="https://wet-boew.github.io/GCWeb/templates/institutional/institution-contact-fr.html">French working example</a>
     (on GitHub)
    </li>
   </ul>
@@ -1483,5 +1477,3 @@ title: 'Contact us pages template'
   </ul>
  </section>
 </div>
-
-
