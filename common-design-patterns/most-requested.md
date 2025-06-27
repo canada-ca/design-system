@@ -1,13 +1,12 @@
 ---
 altLangPage: "https://conception.canada.ca/configurations-conception-communes/en-demande.html"
 date: 2018-12-19
-dateModified: 2025-05-15
+dateModified: 2025-06-25
 description: Guidance about using the most requested pattern on Canada.ca. The most requested pattern provides links to top tasks on navigation pages
 title: Most requested band
 ---
 
 <p><strong>Last updated</strong>: {{ page.dateModified }}</p>
-<label class="label label-info">Optional</label>
 <p>The most requested pattern features top tasks for landing pages that offer many choices. Top tasks are the main things that users are trying to do in a given context. The most requested pattern functions as a band that runs across the full width of the page on which it appears.</p>
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/most-requested-en.png" class="img-responsive" alt="" /></div>
 <h2>On this page</h2>
@@ -16,11 +15,16 @@ title: Most requested band
     <li><a href="#avoid">What to avoid</a></li>
     <li><a href="#design">Content and design</a></li>
     <li><a href="#implement">How to implement</a></li>
-    <li><a href="#research">Research and rationale</a></li>
+    <li><a href="#research">Research</a></li>
     <li><a href="#latest">Latest changes</a></li>
 </ul>
 <h2 id="use">When to use</h2>
 <p>Use this pattern on landing pages where people are trying to find where to start their task, such as a topic page or an institutional landing page.</p>
+<p>The most requested pattern is required in the following mandatory templates:</p>
+<ul>
+    <li><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional landing page</a></li>
+    <li><a href="https://design.canada.ca/mandatory-templates/theme.html">Theme page template</a></li>
+</ul>
 <h2 id="avoid">What to avoid</h2>
 <p>Don’t use this pattern when you want people to stay on the page and do their task.</p>
 <p>Don’t use this to promote departmental preferences. Use data and evidence to determine the top tasks people are trying to access.</p>
@@ -124,20 +128,14 @@ title: Most requested band
         </div>
     </div>
 </div>
-<h2 id="research">Research and rationale</h2>
-<h3>Research findings</h3>
+<h2 id="research">Research</h2>
 <p>The banded approach to the most requested pattern was successfully tested on the Canada.ca home page in 2018.</p>
 <p>As part of the Contact the Canada Revenue Agency (CRA) project in 2019, the banded approach was successfully tested on a prototype of the CRA institutional landing page.</p>
 <p>The usefulness of most requested links for navigation pages was reconfirmed as part of the Wayfinding project in 2022.</p>
-<h3>Policy rationale</h3>
-<p>The most requested pattern is required in the following mandatory templates:</p>
-<ul>
-    <li><a href="https://design.canada.ca/mandatory-templates/institutional-profile-pages.html">Institutional landing page</a></li>
-    <li><a href="https://design.canada.ca/mandatory-templates/theme.html">Theme page template</a></li>
-    <li><a href="https://design.canada.ca/mandatory-templates/topic.html">Topic page template</a></li>
-</ul>
 <h2 id="latest">Latest changes</h2>
 <dl class="dl-horizontal">
+    <dt><time>{{ page.dateModified }}</time></dt>
+    <dd>Removed optional label as the pattern is mandatory on some templates.</dd>
     <dt><time>2025-05-15</time></dt>
     <dd>Updated typography specifications in tandem with alignment activities for GCWeb and GC Design System.</dd>
     <dt><time>2024-04-03</time></dt>
