@@ -42,10 +42,11 @@ title: "GC Feedback"
     <li>offer their feedback describing the problem</li>
   </ul>
   <p>Place the tool at the bottom of the page before the date modified. It's aligned to the left of the page before the “Share this page” widget. You can opt to use GC Feedback in place of the "Report a problem" pattern. It's not mandatory to add the feedback pattern when removing “Report a problem” from your page.</p>
-  <p>The page feedback pattern has 3 states:</p>
+  <p>The page feedback pattern has 4 states:</p>
   <ul>
     <li>“Did you find what you were looking for?” prompt with “Yes” and “No” buttons</li>
     <li>Feedback text entry box (with an option to add a customizable contact link)</li>
+    <li>A pop-up box when personal information is detected in a comment</li>
     <li>Thank you message</li>
   </ul>
   <p>This pattern also has detailed documentation for use and analysis of feedback.</p>
@@ -56,20 +57,38 @@ title: "GC Feedback"
   <p>The link can go to an HTML page or an email address.</p>
   <p>Keep the link text short. The recommended wording is “Contact [the Service Name]”</p>
   <h3>Interactions</h3>
-  <p>The feedback pattern has 3 states:</p>
+  <p>The feedback pattern has 4 states:</p>
   <ul>
     <li>"Did you find what you were looking for" prompt</li>
     <li>feedback entry</li>
+    <li>personal information detection</li>
     <li>thank you message</li>
   </ul>
   <p>For all of these states, the user stays on the same HTML page as they interact with the feedback pattern.</p>
   <p><strong>On page load</strong>, the feedback pattern displays the prompt “Did you find what you were looking for” followed by buttons for “Yes” and “No”.</p>
+  <p><strong>If a user selects "Yes"</strong> they will only be shown a thank you message.</p>
   <p><strong>If a user selects "No"</strong> the next step asks the user to provide more details about their experience.</p>
-  <p>It begins with a heading labelled "Please provide more details", followed by the text "You will not receive a reply. Don't include personal information (telephone, email, SIN, financial, medical, or work details). Maximum 300 characters". After selecting "Submit", the user is shown a thank you message.</p>
+  <p>It begins with a heading labelled "Please provide more details", followed by the text "You will not receive a reply. Don't include personal information (telephone, email, SIN, financial, medical, or work details). Maximum 300 characters". After selecting "Submit" from the pop up, the user is shown a thank you message.</p>
   <p>Then there is an open text field to capture the feedback.</p>
   <p>If the contact option is used, a contact link for the service is placed inside an expand/collapse pattern labeled “Need urgent help with a problem? Contact us” located before the heading and open text field.</p>
-  <p>The user selects the “Submit” button to send their feedback. After selecting "Submit", the user is shown a thank you message with a green checkmark to indicate that their feedback has been successfully sent.</p>
-  <p><strong>If a user selects "Yes"</strong> they will only be shown a thank you message.</p>
+  <p>The user selects the “Submit” button to send their feedback. After selecting "Submit", the user is shown a thank you message with a green checkmark to indicate that their feedback has been successfully sent or a pop-up message will appear if personal information was detected in the comment.</p>
+  <p><strong>Upon submitting a comment containing personal information</strong>, a pop-up message will replace the prompt.</p>
+  <p>The pop-up box has a heading, “Personal information in your comment has been removed”.</p>
+  <p>The user is reminded that they will not receive a response when submitting feedback, “Comments are only used to improve our website. You will not receive a response.”</p>
+  <p>A preview of the user’s comment is displayed and any personal information replaced by hashtags, “To protect your privacy, your comment will be submitted as:”</p>
+  <p>There is an expand/collapse pattern with the header “What is considered personal information”. When the expand/collapse pattern is opened, there is a list of types of personal information that can’t be included in the feedback form.</p>
+  <ul>
+    <li>email address</li>
+    <li>telephone number</li>
+    <li>postal code</li>
+    <li>passport number</li>
+    <li>business number</li>
+    <li>social insurance number (SIN)</li>
+  </ul>
+  <p>There are two buttons at the bottom of the pop-up.</p>
+  <p>One button for “Go back and edit comment” and one for “Submit comment”</p>
+  <p>If a user selects “Go back and edit comment” they return to the original comment text field.</p>
+  <p>If a user selects, “Submit comment”, the comment will be submitted with redaction automatically applied and a thank you message will be shown.</p>
   <h3>Design specifications</h3>
   <p>The feedback pattern replaces the "Report a problem" pattern when in use.</p>
   <h4>Grey well</h4>
@@ -127,17 +146,27 @@ title: "GC Feedback"
           <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: Optional view after selecting "No" with contact option</summary>
           <p class="mrgn-tp-md">After interacting with the “No” button, a text entry screen will replace the prompt.</p>
           <p>In the contact option, there is an expand/collapse pattern with the header “Need urgent help with a problem? Contact us”. When the expand/collapse pattern is opened, there is a customizable link to contact the service.</p>
-          <p>After the expand/collapse pattern, there is a heading for “Please provide more details” followed by instructions to not include personal information: “You will not receive a reply. Don’t include personal information (telephone, email, SIN financial, medical, or work details. Maximum 300 characters.” There is a small text entry box followed by a button for “Submit”.</p>
+          <p>After the expand/collapse pattern, there is a heading for “Please provide more details” followed by instructions to not include personal information: “You will not receive a reply. Don’t include personal information (telephone, email, SIN financial, medical, or work details). Maximum 300 characters.” There is a small text entry box followed by a button for “Submit”.</p>
         </details>
       </figure>
       <figure class="mrgn-tp-md mrgn-bttm-lg">
         <figcaption>
           <h4>3. View after selecting "Yes" or after submitting feedback</h4>
         </figcaption>
-        <img src="/images/thank-you-en.jpg" class="img-responsive" alt="3. View after selecting Yes or after submitting feedback. Text version below:" />
+        <img src="/images/thank-you-en.jpg" class="img-responsive" alt="4. View after selecting Yes or after submitting feedback. Text version below:" />
         <details>
           <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: View after selecting "Yes" or after submitting feedback</summary>
           <p class="mrgn-tp-md">When users select “Yes” from the initial prompt or after submitting their feedback, a thank you message is displayed. There is a green checkmark icon followed by the heading “Thank you for your feedback”.</p>
+        </details>
+      </figure>
+      <figure class="mrgn-tp-md mrgn-bttm-lg">
+        <figcaption>
+          <h4>4. Optional view after including personal information is detected in the comment</h4>
+        </figcaption>
+        <img src="/images/popup-message.png" class="img-responsive" alt="3. Optional view after including personal information is detected in the comment. Text version below:" />
+        <details>
+          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: Optional view after including personal information is detected in the comment</summary>
+          <p class="mrgn-tp-md">The expand/collapse pattern labeled “What is considered personal information?” will be closed by default. If the “Go back and edit comment” button is clicked, the view will close automatically and show view 2a. Otherwise, if the “Submit comment” button is clicked, the view will become view 3.</p>
         </details>
       </figure>
     </div>
