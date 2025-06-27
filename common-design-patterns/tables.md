@@ -83,43 +83,7 @@ title: Tables
       </button>
      </div>
      <div id="table-resizable-container" class="table-m" style="overflow: auto; border: 1px solid #ccc; padding: 1em;">
-      <table class="provisional gc-table table" id="myTable-demo">
-       <caption>Population growth in Canadian cities</caption>
-       <thead>
-        <tr>
-         <th scope="col">City</th>
-         <th scope="col">Population in 2007</th>
-         <th scope="col">Population in 2017</th>
-         <th scope="col">Percentage change</th>
-        </tr>
-       </thead>
-       <tbody>
-        <tr>
-         <td data-label="City">Toronto</td>
-         <td data-label="Population in 2007">5,418,207</td>
-         <td data-label="Population in 2017">6,346,088</td>
-         <td data-label="Percentage change">17.1%</td>
-        </tr>
-        <tr>
-         <td data-label="City">Montréal</td>
-         <td data-label="Population in 2007">3,714,846</td>
-         <td data-label="Population in 2017">4,138,254</td>
-         <td data-label="Percentage change">11.4%</td>
-        </tr>
-        <tr>
-         <td data-label="City">Vancouver</td>
-         <td data-label="Population in 2007">2,218,134</td>
-         <td data-label="Population in 2017">2,571,262</td>
-         <td data-label="Percentage change">15.9%</td>
-        </tr>
-        <tr>
-         <td data-label="City">Ottawa–Gatineau</td>
-         <td data-label="Population in 2007">1,188,073</td>
-         <td data-label="Population in 2017">1,377,016 </td>
-         <td data-label="Percentage change">15.9%</td>
-        </tr>
-       </tbody>
-      </table>
+      {% include common-design-patterns/tables/responsive-table-example.html %}
      </div>
     </div>
    </div>
@@ -130,20 +94,50 @@ title: Tables
     #table-resizable-container.table-d { max-width: 100%; }
   </style>
   <script>
-    document.addEventListener('DOMContentLoaded', function () {
-        const container = document.getElementById('table-resizable-container');
-        if (container) {
-            document.getElementById('resize-div-mobile').addEventListener('click', function() {
-                container.className = 'table-m';
-            });
-            document.getElementById('resize-div-tablet').addEventListener('click', function() {
-                container.className = 'table-t';
-            });
-            document.getElementById('resize-div-desktop').addEventListener('click', function() {
-                container.className = 'table-d';
-            });
+    (function($, window, wb) {
+      "use strict";
+
+      var componentName = "table-resizable",
+          selector = "." + componentName,
+          initEvent = "wb-init" + selector,
+          $document = wb.doc,
+          containerId = "#table-resizable-container",
+          mobileButtonId = "#resize-div-mobile",
+          tabletButtonId = "#resize-div-tablet",
+          desktopButtonId = "#resize-div-desktop",
+
+          init = function( event ) {
+        // Start initialization
+        // returns DOM object = proceed with init
+        // returns undefined = do not proceed with init (e.g., already initialized)
+          val elm = wb.init( event, componentName, selector ),
+              $elm;
+          if ( elm ) {
+            $elm = $( elm );
+
+            // Add the class to the container
+            $elm.addClass( "table-m" );
+
+            // Trigger the init event
+            $elm.trigger( initEvent );
+
+            wb.ready( $elm, componentName );
+          }
+      $(document).on("wb-ready", function () {
+        var $container = $(containerId);
+        if ($container.length) {
+          $(mobileButtonId).on('click', function() {
+              $container.removeClass().addClass('table-m');
+          });
+          $(tabletButtonId).on('click', function() {
+              $container.removeClass().addClass('table-t');
+          });
+          $(desktopButtonId).on('click', function() {
+              $container.removeClass().addClass('table-d');
+          });
         }
-    });
+      });
+    })(jQuery, window, wb);
   </script>
   <details>
    <summary>Code</summary>
