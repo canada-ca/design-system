@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/configurations-conception-communes/tableaux.html
-date: null
-dateModified: '2025-07-03'
+date: '2021-05-21'
+dateModified: '2025-07-25'
 description: null
 script: ../js/plugins/gc-responsive-preview.js
 title: Tables
@@ -64,78 +64,31 @@ title: Tables
 	<div class="pattern-demo pattern-demo-component">
 	 <div class="component-demo example-frame-bkg" id="basic-demo">
 		<div class="layout-demo example-frame-bkg" id="unfiltered-layout">
-		 <h3 class="h4 hidden-xs hidden-sm">Screen size:</h3>
-		 <div class="btn-group hidden-xs hidden-sm">
-			<button class="btn btn-default" id="resize-div-mobile">
-			 <span class="fas fa-mobile-alt"></span>
-			 <strong>Small</strong>
-			</button>
-			<button class="btn btn-default" id="resize-div-tablet">
-			 <span class="fas fa-tablet-alt"></span>
-			 <strong>Medium</strong>
-			</button>
-			<button class="btn btn-default" id="resize-div-desktop">
-			 <span class="fas fa-desktop"></span>
-			 <strong>Large</strong>
-			</button>
-		 </div>
-		 <div id="responsive-preview-container" class="table-m" style="overflow: auto; border: 1px solid #ccc; padding: 1em;">
-			<style>
-				#responsive-preview-container.table-m { max-width: 480px; }
-				#responsive-preview-container.table-t { max-width: 768px; }
-				#responsive-preview-container.table-d { max-width: 100%; }
-			</style>
-			{% include common-design-patterns/tables/responsive-table-example.html %}
-		 </div>
-		 <div class="gc-responsive-preview" data-gc-responsive-preview='{
-				"container": "#responsive-preview-container",
-				"mobileBtn": "#resize-div-mobile",
-				"tabletBtn": "#resize-div-tablet",
-				"desktopBtn": "#resize-div-desktop"
-		}'></div>
-		</div>
-	 </div>
+      <h3 class="h4 hidden-xs hidden-sm">Screen size:</h3>
+      <div class="btn-group hidden-xs hidden-sm">
+        <button class="btn btn-default" id="resize-div-mobile">
+          <span class="fas fa-mobile-alt"></span>
+          <strong>Mobile</strong>
+        </button>
+        <button class="btn btn-default" id="resize-div-desktop">
+          <span class="fas fa-desktop"></span>
+          <strong>Desktop</strong>
+        </button>
+      </div>
+      <div id="gc-responsive-preview-container" class="gc-responsive-preview-desktop" style="overflow: auto; border: 1px solid #ccc; padding: 1em;">
+        {% include common-design-patterns/tables/responsive-table-example.html %}
+      </div>
+      <div class="gc-responsive-preview" data-gc-responsive-preview='{
+              "container": "#gc-responsive-preview-container",
+              "cssPath": "../css/gc-responsive-preview-tables.css",
+              "buttons": {
+                  "mobile": "#resize-div-mobile",
+                  "desktop": "#resize-div-desktop"
+              }
+      }'></div>
+      </div>
+    </div>
 	</div>
-	<details>
-	 <summary>Code</summary>
-	 <pre><code>&lt;table class="provisional gc-table table" id="myTable1"&gt;
- &lt;caption&gt;Population growth in Canadian cities&lt;/caption&gt;
- &lt;thead&gt;
-	&lt;tr&gt;
-	 &lt;th scope="col"&gt;City&lt;/th&gt;
-	 &lt;th scope="col"&gt;Population in 2007&lt;/th&gt;
-	 &lt;th scope="col"&gt;Population in 2017&lt;/th&gt;
-	 &lt;th scope="col"&gt;Percentage change&lt;/th&gt;
-	&lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
-	&lt;tr&gt;
-	 &lt;td data-label="City"&gt;Toronto&lt;/td&gt;
-	 &lt;td data-label="Population in 2007"&gt;5,418,207&lt;/td&gt;
-	 &lt;td data-label="Population in 2017"&gt;6,346,088&lt;/td&gt;
-	 &lt;td data-label="Percentage change"&gt;17.1%&lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-	 &lt;td data-label="City"&gt;Montréal&lt;/td&gt;
-	 &lt;td data-label="Population in 2007"&gt;3,714,846&lt;/td&gt;
-	 &lt;td data-label="Population in 2017"&gt;4,138,254&lt;/td&gt;
-	 &lt;td data-label="Percentage change"&gt;11.4%&lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-	 &lt;td data-label="City"&gt;Vancouver&lt;/td&gt;
-	 &lt;td data-label="Population in 2007"&gt;2,218,134&lt;/td&gt;
-	 &lt;td data-label="Population in 2017"&gt;2,571,262&lt;/td&gt;
-	 &lt;td data-label="Percentage change"&gt;15.9%&lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-	 &lt;td data-label="City"&gt;Ottawa–Gatineau&lt;/td&gt;
-	 &lt;td data-label="Population in 2007"&gt;1,188,073&lt;/td&gt;
-	 &lt;td data-label="Population in 2017"&gt;1,377,016 &lt;/td&gt;
-	 &lt;td data-label="Percentage change"&gt;15.9%&lt;/td&gt;
-	&lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;</code></pre>
-	</details>
 	<h3>Customizing tables</h3>
 	<table class="table">
 	 <thead>
@@ -209,6 +162,8 @@ title: Tables
 		</tr>
 	 </tbody>
 	</table>
+  <h3>Additional resources</h3>
+  <p>For more information on how to use the beta responsive tables, see the <a href="https://wet-boew.github.io/GCWeb/components/gc-table/gc-table-en.html">GCWeb: GC tables</a> documentation. The complete source code can be found on <a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-table/gc-table-en.html">Github: gc-table-en.html</a>.</p>
  </details>
  <details>
 	<summary>Stable data tables</summary>
@@ -256,8 +211,8 @@ title: Tables
  <section>
 	<h2 id="latest">Latest changes</h2>
 	<dl class="dl-horizontal">
-    <dt><time>2025-07-03</time></dt>
-    <dd>Updated the beta table responsive viewer</dd>
+    <dt><time>{{ page.dateModified }}</time></dt>
+    <dd>Updated the responsive viewer for the beta table</dd>
 	  <dt><time>2021-05-21</time></dt>
 	  <dd>Updated to include the provisional code for responsive cards</dd>
 	</dl>
