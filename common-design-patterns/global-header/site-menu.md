@@ -245,7 +245,7 @@ title: "Theme and topic menu"
 <h2 id="changes">Latest changes</h2>
 <dl class="dl-horizontal">
  <dt>
-    <time datetime="2025-07-08" class="link-muted">2025-07-08</time>
+    <time>2025-07-08</time>
   </dt>
   <dd>Updated to include "Managing life events" as a theme</dd>
   <dt>
