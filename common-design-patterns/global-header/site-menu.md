@@ -247,7 +247,7 @@ title: "Theme and topic menu"
  <dt>
     <time datetime="2025-07-08" class="link-muted">2025-07-08</time>
   </dt>
-  <dd>Updated to include Managing life events as a theme</dd>
+  <dd>Updated to include "Managing life events" as a theme</dd>
   <dt>
     <time datetime="2023-06-26" class="link-muted">2023-06-26</time>
   </dt>
