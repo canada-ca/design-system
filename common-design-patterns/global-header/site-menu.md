@@ -148,7 +148,7 @@ title: "Theme and topic menu"
 		<img src="../../images/01-theme-menu-flyout-en.png" class="img-responsive" alt=" ">
 		<details class="mrgn-tp-md">
 			<summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: theme and topic menu with flyout open - large screen</summary>
-			<p class="mrgn-tp-lg">The theme and topic menu consists of a button with the word "Menu" and a downward-facing chevron. When clicked, it expands to a menu that exposes the titles of all 6 themes. When the title of a theme is clicked a menu flyout appears on the right-hand side of the theme menu. The theme title is featured prominently at the top of the flyout while the main topics are listed below the title on the left-hand side. On the right-hand side of the flyout there is a "Most requested" heading followed by a list of the most requested tasks.</p>
+			<p class="mrgn-tp-lg">The theme and topic menu consists of a button with the word "Menu" and a downward-facing chevron. When clicked, it expands to a menu that exposes the titles of all 16 themes. When the title of a theme is clicked a menu flyout appears on the right-hand side of the theme menu. The theme title is featured prominently at the top of the flyout while the main topics are listed below the title on the left-hand side. On the right-hand side of the flyout there is a "Most requested" heading followed by a list of the most requested tasks.</p>
 		</details>
 	</figure>
 </div>
