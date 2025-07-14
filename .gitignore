@@ -4,16 +4,10 @@
 
 ### macOS ###
 # General
-*.py
-.aider*
 .AppleDouble
 .DS_Store
 .LSOverride
-.obsidian/
 log*.md
-.hintrc
-*.code-workspace
-.web-requests/
 
 # Icon must end with two \r
 Icon
