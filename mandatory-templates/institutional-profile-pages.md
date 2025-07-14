@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html
 date: "2020-07-23"
-dateModified: "2024-04-03"
+dateModified: "2025-07-22"
 description: "Guidance on how to use the institutional landing page template and its associated components on Canada.ca."
 title: Institutional landing page
 ---
@@ -182,14 +182,14 @@ title: Institutional landing page
                         <li>LinkedIn icon followed by the placeholder text LinkedInName</li>
                     </ul>
                     <p>The next item that appears on the page is the minister or institutional head pattern. The pattern appears in 2 columns with the heading “Minister(s)”.</p>
-                    <p>The first column presents a placeholder for an institutional head’s image on the left. The dimensions for the image are 200px x 250px. Information on the right includes:</p>
+                    <p>The first column presents a placeholder for an institutional head's image on the left. The dimensions for the image are 200px x 200px. Information on the right includes:</p>
                     <ul>
                         <li>The Honourable [Minister name] (link)</li>
                         <li>[Official title] (text)</li>
                         <li>List item: Mandate letter [optional] (link)</li>
                         <li>List item: Briefing book [optional] (link)</li>
                     </ul>
-                    <p>The second column presents a placeholder for an institutional head’s image on the left. The dimensions for the image are 200px x 250px. Information on the right includes:</p>
+                    <p>The second column presents a placeholder for an institutional head's image on the left. The dimensions for the image are 200px x 200px. Information on the right includes:</p>
                     <ul>
                         <li>The Honourable [Minister name] (link)</li>
                         <li>[Official title] (text)</li>
@@ -254,7 +254,7 @@ title: Institutional landing page
                     </ul>
                     <p>The next item that appears on the page is the Minister or institutional head pattern. The pattern begins with the heading “Minister(s)” and is followed by two items.</p>
                     <p>
-                        The first item begins with a linked heading “The Honourable [Minister name]” followed by an image placeholder with the prescribed dimensions of 200px x 250px. Below the image is the text [Official title]. This is
+                        The first item begins with a linked heading "The Honourable [Minister name]" followed by an image placeholder with the prescribed dimensions of 200px x 200px. Below the image is the text [Official title]. This is
                         followed by a bulleted list with the following two linked items:
                     </p>
                     <ul>
@@ -262,7 +262,7 @@ title: Institutional landing page
                         <li>Briefing book [optional] (link)</li>
                     </ul>
                     <p>
-                        The second item begins with a linked heading “The Honourable [Minister name] followed by an image placeholder with the prescribed dimensions of 200px x 250px. Below the image is the text [Official title]. This is
+                        The second item begins with a linked heading "The Honourable [Minister name] followed by an image placeholder with the prescribed dimensions of 200px x 200px. Below the image is the text [Official title]. This is
                         followed by the following linked item:
                     </p>
                     <ul>
@@ -344,7 +344,15 @@ title: Institutional landing page
         <h2 id="changes">Latest changes</h2>
     <dl class="dl-horizontal">
         <dt>
-            <time datetime="2024-04-03" class="link-muted">2024-04-03</time>
+            <time>{{ page.dateModified }}</time>
+        </dt>
+        <dd>
+            <ul>
+                <li>Updated the guidance to include square image specifications, visual examples and implementation guidance</li>
+            </ul>
+        </dd>
+        <dt>
+            <time>2024-04-03</time>
         </dt>
         <dd>
             <ul>
@@ -353,7 +361,7 @@ title: Institutional landing page
             </ul>
         </dd>
         <dt>
-            <time datetime="2020-07-23" class="link-muted">2020-07-23</time>
+            <time>2020-07-23</time>
         </dt>
         <dd>
             <ul>
@@ -363,7 +371,7 @@ title: Institutional landing page
             </ul>
         </dd>
         <dt>
-            <time datetime="2020-07-13" class="link-muted">2020-07-13</time>
+            <time>2020-07-13</time>
         </dt>
         <dd>
             <ul>
@@ -373,11 +381,11 @@ title: Institutional landing page
             </ul>
         </dd>
         <dt>
-            <time datetime="2020-03-05" class="link-muted">2020-03-05</time>
+            <time>2020-03-05</time>
         </dt>
         <dd>Added an optional CSS class to hide the top image in tablet view</dd>
         <dt>
-            <time datetime="2019-11-28" class="link-muted">2019-11-28</time>
+            <time>2019-11-28</time>
         </dt>
         <dd>A new beta version of this template was added</dd>
     </dl>
