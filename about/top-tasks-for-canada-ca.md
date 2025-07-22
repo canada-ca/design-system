@@ -325,7 +325,6 @@ title: "Top tasks for Canada.ca"
 	</tr>
 		</tbody>
 		</table>
-</details>
 <details>
 <summary>Top 50 tasks: 2021 - 2022</summary>
 <p><strong>Data source:</strong> April 1, 2021 - March 31, 2022</p>
