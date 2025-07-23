@@ -91,7 +91,7 @@ title: Ministerial profile pages
       </ul>
     </dd>
     <dt>
-      <time class="link-muted" datetime="2021-09-27">2021-09-27</time>
+      <time>2021-09-27</time>
     </dt>
     <dd>
       <ul>
