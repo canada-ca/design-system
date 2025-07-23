@@ -106,14 +106,11 @@ title: Minister or institutional head
         <ul>
           <li>The Honourable [Minister name] (link)</li>
           <li>[Official title] (text)</li>
-          <li>List item: Mandate letter [optional] (link)</li>
-          <li>List item: Briefing book [optional] (link)</li>
         </ul>
         <p>The second column presents a placeholder for an institutional head's image on the left. The dimensions for the image are 200px x 200px. Information on the right includes:</p>
         <ul>
           <li>The Honourable [Minister name] (link)</li>
           <li>[Official title] (text)</li>
-          <li>List item: Mandate letter [optional - single item] (link)</li>
         </ul>
       </details>
     </figure>
@@ -131,56 +128,33 @@ title: Minister or institutional head
           <li>Briefing book [optional]</li>
         </ul>
         <p>The second element begins with a linked title "The Honourable [Minister name]" followed by a space reserved for the image with the prescribed dimensions of 200 x 200 pixels. Below the image is the text [Official title]. It is followed by the following link element:</p>
-        <ul>
-          <li>Mandate letter [optional - single element]</li>
-        </ul>
       </details>
     </figure>
   </div>
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
-      <figcaption><b>Minister and/or secretary of State and/or parliamentary secretary - large screen</b></figcaption>
-      <img src="../images/secretaries-of-state.png" class="img-responsive" alt="Minister and/or secretary of State and/or parliamentary secretary for large screens. Text version below:" />
+      <figcaption><b>Minister and/or secretary of State and/or parliamentary secretary (small image variation) - large screen</b></figcaption>
+      <img src="../images/images-sm-variant.png" class="img-responsive" alt="Minister and/or secretary of State and/or parliamentary secretary for large screens. Text version below:" />
       <details>
-        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: minister and/or secretary of State and/or parliamentary secretary - large screen</summary>
+        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: minister and/or secretary of State and/or parliamentary secretary (small image variation) - large screen</summary>
         <p>The Minister or institutional head pattern appears in 2 columns with the heading “Minister(s)”.</p>
         <p>The first column presents a placeholder for an institutional head's image on the left. The dimensions for the image are 200px x 200px. Information on the right includes:</p>
         <ul>
             <li>The Honourable [Minister name] (link)</li>
             <li>[Official title] (text)</li>
-            <li>List item: [optional] (link)</li>
-            <li>List item: [optional] (link)</li>
         </ul>
         <p>The second column is empty. If there is more than one minister for a department you would present the additional minister here, following the same format as described in the first column.</p>
-        <p>The minister row is then followed by a “Secretary(ies) of State” heading. Following that heading is 2 columns.</p>
-        <p>The first column presents a placeholder for a secretary of State's image on the left. The dimensions for the image are 200px x 200px. Information on the right includes:</p>
+        <p>The minister row is then followed by a “Secretary(ies) of State” heading. Following that heading is 3 columns.</p>
+        <p>Each of the 3 columns presents a placeholder for a secretary of State's image on the left. The dimensions for the image are 200px x 200px. Information on the right includes:</p>
         <ul>
           <li>The Honourable [Secretary of State name] (link)</li>
           <li>[Official title] (text)</li>
-          <li>List item: [optional] (link)</li>
-          <li>List item: [optional] (link)</li>
         </ul>
-        <p>The second column presents a placeholder for a secretary of State's image on the left. The dimensions for the image are 200px x 200px. Information on the right includes:</p>
-        <ul>
-          <li>The Honourable [Secretary of State name] (link)</li>
-          <li>[Official title] (text)</li>
-          <li>List item: [optional] (link)</li>
-          <li>List item: [optional] (link)</li>
-        </ul>
-        <p>The secretary of State row is then followed by a “Parliamentary secretary(ies)” heading. Following that heading is 2 columns.</p>
-        <p>The first column presents a placeholder for a parliamentary secretary's image on the left. The dimensions for the image are 200px x 200px. Information on the right includes:</p>
+        <p>The secretary of State row is then followed by a “Parliamentary secretary(ies)” heading. Following that heading is 3 columns.</p>
+        <p>Each of the 3 columns presents a placeholder for a parliamentary secretary's image on the left. The dimensions for the image are 200px x 200px. Information on the right includes:</p>
         <ul>
           <li>[Parliamentary secretary name] (link)</li>
           <li>[Official title] (text)</li>
-          <li>List item: [optional] (link)</li>
-          <li>List item: [optional] (link)</li>
-        </ul>
-        <p>The second column presents a placeholder for a parliamentary secretary's name image on the left. The dimensions for the image are 200px x 200px. Information on the right includes:</p>
-        <ul>
-          <li>[Parliamentary secretary name] (link)</li>
-          <li>[Official title] (text)</li>
-          <li>List item: [optional] (link)</li>
-          <li>List item: [optional] (link)</li>
         </ul>
       </details>
     </figure>
