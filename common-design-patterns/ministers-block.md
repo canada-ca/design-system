@@ -134,7 +134,7 @@ title: Minister or institutional head
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
       <figcaption><b>Minister and/or secretary of State and/or parliamentary secretary (small image variation) - large screen</b></figcaption>
-      <img src="../images/images-sm-variant.png" class="img-responsive" alt="Minister and/or secretary of State and/or parliamentary secretary for large screens. Text version below:" />
+      <img src="../images/images-sm-variant.png" class="img-responsive" alt="Minister and/or secretary of State and/or parliamentary secretary for large screens (small image variation). Text version below:" />
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: minister and/or secretary of State and/or parliamentary secretary (small image variation) - large screen</summary>
         <p>The Minister or institutional head pattern appears in 2 columns with the heading “Minister(s)”.</p>
