@@ -145,13 +145,13 @@ title: Minister or institutional head
         </ul>
         <p>The second column is empty. If there is more than one minister for a department you would present the additional minister here, following the same format as described in the first column.</p>
         <p>The minister row is then followed by a “Secretary(ies) of State” heading. Following that heading is 3 columns.</p>
-        <p>Each of the 3 columns presents a placeholder for a secretary of State's image on the left. The dimensions for the image are 200px x 200px. Information on the right includes:</p>
+        <p>Each of the 3 columns presents a placeholder for a secretary of State's image on the left. The dimensions for the image are 200px x 200px, but appear smaller on a large screen. Information on the right includes:</p>
         <ul>
           <li>The Honourable [Secretary of State name] (link)</li>
           <li>[Official title] (text)</li>
         </ul>
         <p>The secretary of State row is then followed by a “Parliamentary secretary(ies)” heading. Following that heading is 3 columns.</p>
-        <p>Each of the 3 columns presents a placeholder for a parliamentary secretary's image on the left. The dimensions for the image are 200px x 200px. Information on the right includes:</p>
+        <p>Each of the 3 columns presents a placeholder for a parliamentary secretary's image on the left. The dimensions for the image are 200px x 200px, but appear smaller on a large screen. Information on the right includes:</p>
         <ul>
           <li>[Parliamentary secretary name] (link)</li>
           <li>[Official title] (text)</li>
