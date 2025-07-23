@@ -123,7 +123,7 @@ title: Minister or institutional head
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: minister or institutional head - small screen</summary>
         <p>The Minister or institutional head pattern appears in 1 column and has 2 items with the heading “Minister(s)”.</p>
         <p>The first element begins with a title with the link "The Honourable [Minister name]" followed by a space reserved for the image with the prescribed dimensions of 200 x 200 pixels. Below the image is the text [Official title].</p>
-        <p>The second element begins with a linked title "The Honourable [Minister name]" followed by a space reserved for the image with the prescribed dimensions of 200 x 200 pixels. Below the image is the text [Official title]. It is followed by the following link element:</p>
+        <p>The second element begins with a linked title "The Honourable [Minister name]" followed by a space reserved for the image with the prescribed dimensions of 200 x 200 pixels. Below the image is the text [Official title].</p>
       </details>
     </figure>
   </div>
