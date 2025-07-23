@@ -83,7 +83,7 @@ title: Ministerial profile pages
       </ul>
     </dd>
     <dt>
-      <time class="link-muted" datetime="2025-06-11">2025-06-11</time>
+      <time>2025-06-11</time>
     </dt>
     <dd>
       <ul>
