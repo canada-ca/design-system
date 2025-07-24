@@ -346,10 +346,7 @@ title: Institutional landing page
         <dt>
             <time>{{ page.dateModified }}</time>
         </dt>
-        <dd>
-            <ul>
-                <li>Updated the guidance to include square image specifications, visual examples and implementation guidance</li>
-            </ul>
+        <dd>Updated the guidance to include square image specifications, visual examples and implementation guidance
         </dd>
         <dt>
             <time>2024-04-03</time>
