@@ -163,9 +163,8 @@ title: Minister or institutional head
   <p>The implementation reference includes how to configure elements of the design system.</p>
   <ul>
     <li><a href="https://wet-boew.github.io/GCWeb/components/gc-minister/gc-minister-en.html">Minister or institutional head - single example - GCWeb</a></li>
-    <li><a href="https://wet-boew.github.io/GCWeb/components/gc-minister/gc-minister-two-ministers-en.html">Minister or institutional head - example with two ministers - GCWeb</a></li>
-    <li><a href="https://wet-boew.github.io/GCWeb/components/gc-minister/gc-minister-multiple-en.html">Minister or institutional head - example with multiple ministers
- - GCWeb</a></li>
+    <li><a href="https://wet-boew.github.io/GCWeb/components/gc-minister/gc-minister-two-ministers-en.html">Minister or institutional head - two ministers example - GCWeb</a></li>
+    <li><a href="https://wet-boew.github.io/GCWeb/components/gc-minister/gc-minister-multiple-en.html">Minister or institutional head - multiple ministers example - GCWeb</a></li>
     <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-en.html">Quick implementation guide - GCWeb theme</a></li>
   </ul>
   <h3>Implementations</h3>
