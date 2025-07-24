@@ -162,7 +162,8 @@ title: Minister or institutional head
   <h3>GCweb (WET) theme implementation reference</h3>
   <p>The implementation reference includes how to configure elements of the design system.</p>
   <ul>
-    <li><a href="https://wet-boew.github.io/GCWeb/components/gc-minister/gc-minister-en.html">Minister or institutional head - GCWeb</a></li>
+    <li><a href="https://wet-boew.github.io/GCWeb/components/gc-minister/gc-minister-en.html">Minister or institutional head - single example - GCWeb</a></li>
+    <li><a href="https://wet-boew.github.io/GCWeb/components/gc-minister/gc-minister-two-ministers-en.html">Minister or institutional head - example with two ministers - GCWeb</a></li>
     <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-en.html">Quick implementation guide - GCWeb theme</a></li>
   </ul>
   <h3>Implementations</h3>
@@ -210,16 +211,12 @@ title: Minister or institutional head
   <h2>Latest changes</h2>
   <dl class="dl-horizontal">
     <dt><time>{{ page.dateModified }}</time></dt>
-    <dd>
-      <ul>
-        <li>Updated the guidance to include square image specifications, visual examples and implementation guidance</li>
-      </ul>
-    </dd>
+    <dd>Updated the guidance to include square image specifications, visual examples and implementation guidance</dd>
     <dt><time>2025-06-13</time></dt>
-    <dd>Added an additional image variant to include the new secretary of State role.</dd>
+    <dd>Added an additional image variant to include the new secretary of State role</dd>
     <dt><time>2025-05-15</time></dt>
-    <dd>Updated typography specifications in tandem with alignment activities for GCWeb and GC Design System.</dd>
+    <dd>Updated typography specifications in tandem with alignment activities for GCWeb and GC Design System</dd>
     <dt><time>2024-04-03</time></dt>
-    <dd>Added guidance to support updates to the institutional landing page.</dd>
+    <dd>Added guidance to support updates to the institutional landing page</dd>
   </dl>
 </section>
