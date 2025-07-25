@@ -86,7 +86,8 @@ breadcrumbs: [{
         </div>
     </div>
     <p>If you use both the content should be identical. By using both you’re ensuring that your page is optimized for search engine visibility while also adhering to established metadata standards.</p>
-    <h3>The &lt;title&gt; tag</h3>
+
+    <h3 id="m2-0">The &lt;title&gt; tag</h3>
     <p>The &lt;title&gt; tag is mandatory on all pages. Its primary purpose is to define the title of the page which is displayed in the browser’s tab.</p>
     <p>
         The &lt;title&gt; is the most important field for ranking search results. Search engines may display the &lt;title&gt; content as a clickable blue link on the search engine results page (SERP). According to how a search engine
@@ -105,12 +106,13 @@ breadcrumbs: [{
 </code></pre>
         </div>
     </div>
-    <h3>The dcterms.title</h3>
+
+    <h3 id="m2-1">The dcterms.title</h3>
     <p>
         The dcterms.title is optional. This metadata field is part of the Dublin Core Metadata Initiative. It allows you to provide additional metadata that may be used by some systems to catalogue and index your page. If you use this
         field, the content should be identical to your &lt;title&gt; field.
     </p>
-    <h3>Coordinate the &lt;title&gt; and the &lt;h1&gt; content</h3>
+    <h3 id="m2-2">Coordinate the &lt;title&gt; and the &lt;h1&gt; content</h3>
     <p>
         Web pages require both a metadata &lt;title&gt; and a visible title, typically an &lt;h1&gt; heading. It’s helpful to think about both titles early in the creation process. They are often identical but don’t have to be. In some
         cases, it’s important to have different text in these two titles.
@@ -121,13 +123,14 @@ breadcrumbs: [{
             <pre><code>&lt;head&gt;
    &lt;title&gt;Sponsor your family to immigrate to Canada&lt;/title&gt;
 &lt;/head&gt;
-  
+
   &lt;body&gt;
   &lt;h1&gt;Sponsor your family members&lt;/h1&gt;
 </code></pre>
         </div>
     </div>
-    <h3>Tips for effective titles</h3>
+
+    <h3 id="m2-3">Tips for effective titles</h3>
     <ul>
         <li>Create your &lt;title&gt; content and &lt;h1&gt; at the same time</li>
         <li>Describe the page’s content as succinctly as possible</li>
@@ -145,7 +148,8 @@ breadcrumbs: [{
         </li>
         <li>Avoid duplicate titles</li>
     </ul>
-    <h3>Avoiding duplicate titles in search results</h3>
+
+    <h3 id="m2-4">Avoiding duplicate titles in search results</h3>
     <ul>
         <li>
             There are many duplicate &lt;title&gt; tags in Canada.ca content. Since the &lt;title&gt; may be displayed as the clickable link on a search results page, duplicate titles make it challenging for users to clearly distinguish between

@@ -43,3 +43,9 @@ title: Typography style
 <p>Page layouts may be wider than 65 characters. The line length restriction applies only to lines of text.</p>
 <h2>Links </h2>
 <p>Underline links in an underline style that skips descenders.</p>
+
+<h2>Latest updates</h2>
+<dl class="dl-horizontal">
+  <dt><time>2025-05-15</time></dt>
+  <dd>Updated typography specifications in tandem with alignment activities for GCWeb and GC Design System.</dd>
+</dl>

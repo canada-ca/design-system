@@ -1,16 +1,19 @@
 ---
+altLangPage: https://conception.canada.ca/mise-en-page/pages-profil-ministres-directives.html
+dateModified: 2025-07-22
+title: Ministerial profile page
 ---
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
 	<head>
 		<meta charset="utf-8" />
 		<!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW) wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
-		<title>Ministerial profile page - Canada.ca mandatory template - Canada.ca</title>
+		<title>{{ page.title }} - Canada.ca mandatory template - Canada.ca</title>
 		<meta content="width=device-width,initial-scale=1" name="viewport" />
 		<link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon" />
 		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css" />
 		<link rel="stylesheet" href="../css-coded-layout/guidance-draft.css">
-		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" />
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" />
 		<noscript>
 			<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/wet-boew/css/noscript.min.css" />
 		</noscript>
@@ -51,22 +54,22 @@
 								<span class="fas fa-laptop-code "></span>&nbsp;Show guidance
 							</button>
 							<button id="hide-guidance-toggle" class="guidance-toggle btn btn-default wb-toggle" data-toggle='
-							[
-								{
-									"selector":"#show-guidance-toggle",
-									"stateOn":"active", "state":"on"
-								},
-								{
-									"stateOn":"active",
-									"state":"off"
-								}
-							]'>
+								[
+									{
+										"selector":"#show-guidance-toggle",
+										"stateOn":"active", "state":"on"
+									},
+									{
+										"stateOn":"active",
+										"state":"off"
+									}
+								]'>
 								<span class="fas fa-pen-square"></span>&nbsp;Hide guidance
 							</button>
 						</div>
 					</div>
 					<div class="get-code col-md-2 col-sm-2 col-xs-12 pull-right">
-						<a href="../mandatory-templates/ministerial-profile-pages.html#code" class="btn btn-sm btn-default pstn-rght-md pull-right pstn-get-code">
+						<a href="https://wet-boew.github.io/GCWeb/templates/ministerial/ministerial-en.html" class="btn btn-sm btn-default pstn-rght-md pull-right pstn-get-code">
 							<span class="fas fa-external-link-alt"></span>&nbsp;<b>Get code</b>
 						</a>
 					</div>
@@ -77,21 +80,20 @@
 			<div id="wb-bnr" class="container">
 				<section id="wb-lng" class="text-right">
 					<h2 class="wb-inv">Language selection</h2>
-					<ul class="list-inline margin-bottom-none">
-						<li><a lang="fr" hreflang="fr" href="https://conception.canada.ca/mise-en-page/pages-profil-ministres-directives.html">Français</a></li>
-					</ul>
+					<div class="row">
+						<div class="col-md-12">
+							<ul class="list-inline margin-bottom-none">
+								<li><a lang="fr" hreflang="fr" href="{{ page.altLangPage }}">Français</a></li>
+							</ul>
+						</div>
+					</div>
 				</section>
 				<div class="row">
 					<div class="brand col-xs-5 col-md-4" property="publisher" typeof="GovernmentOrganization">
 						<a href="https://www.canada.ca/en.html" property="url">
-							<img
-								src="https://www.canada.ca/etc/designs/canada/wet-boew/assets/sig-blk-en.svg"
-								alt=""
-								property="logo">
-								<span class="wb-inv" property="name"> Government of Canada /
-									<span lang="fr">Gouvernement du Canada</span>
-								</span>
-							</a>
+							<img src="https://www.canada.ca/etc/designs/canada/wet-boew/assets/sig-blk-en.svg" alt="" property="logo">
+							<span class="wb-inv" property="name"> Government of Canada / <span lang="fr">Gouvernement du Canada</span></span>
+						</a>
 						<meta property="areaServed" typeof="Country" content="Canada">
 						<link property="logo" href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/wmms-blk.svg">
 					</div>
@@ -100,19 +102,18 @@
 						<form action="#" method="post" name="cse-search-box" role="search" class="form-inline">
 							<div class="form-group">
 								<label for="wb-srch-q" class="wb-inv">Search Canada.ca</label>
-								<input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q"
-									type="search" value="" size="38" maxlength="170" placeholder="Search Canada.ca">
+								<input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="34" maxlength="170" placeholder="Rechercher dans Canada.ca">
+								<input name="st" value="s" type="hidden" />
+								<input name="num" value="10" type="hidden" />
+								<input name="langs" value="fra" type="hidden" />
+								<input name="st1rt" value="0" type="hidden">
+								<input name="s5bm3ts21rch" value="x" type="hidden" />
 								<datalist id="wb-srch-q-ac">
 								</datalist>
 							</div>
 							<div class="form-group submit">
-								<button
-									type="submit"
-									id="wb-srch-sub"
-									class="btn btn-primary btn-small"
-									name="wb-srch-sub">
-									<span class="glyphicon-search glyphicon"></span>
-									<span class="wb-inv">Search</span>
+								<button type="submit" id="wb-srch-sub" class="btn btn-primary btn-small" name="wb-srch-sub">
+									<span class="glyphicon-search glyphicon"></span><span class="wb-inv">Search</span>
 								</button>
 							</div>
 						</form>
@@ -182,7 +183,6 @@
 						<li><a href="https://www.canada.ca/en.html">Canada.ca</a></li>
 						<li class="guidance-shared"><a href="https://www.canada.ca/en/government/ministers.html">Ministers and Parliamentary Secretaries</a></li>
 						<li class="guidance-head wb-inv"><a href="#">[Institutional landing page]</a></li>
-
 					</ol>
 				</div>
 			</nav>
@@ -200,62 +200,57 @@
 									<a href="https://www.canada.ca/en.html">Canada.ca</a> >
 									<a href="https://www.canada.ca/en/government/ministers.html">Ministers and Parliamentary Secretaries</a>
 								</p>
-
 							</section>
 						</details>
 					</div>
 				</div>
 			</div>
-				<div class="guidance-details guidance-head wb-inv">
-					<div class="container">
-						<div class="row col-md-8">
-							<details>
-								<summary><b>Guidance:</b> Breadcrumb <span class="fas fa-info-circle"></span></summary>
-								<section>
-									<h3>Breadcrumb</h3>
-									<p><span class="label label-danger">Mandatory</span></p>
-									<p>For heads of organizations, the breadcrumb trail should link back to the institutional landing
-										page.</p>
-
-								</section>
-							</details>
-						</div>
+			<div class="guidance-details guidance-head wb-inv">
+				<div class="container">
+					<div class="row col-md-8">
+						<details>
+							<summary><b>Guidance:</b> Breadcrumb <span class="fas fa-info-circle"></span></summary>
+							<section>
+								<h3>Breadcrumb</h3>
+								<p><span class="label label-danger">Mandatory</span></p>
+								<p>For heads of organizations, the breadcrumb trail should link back to the institutional landing page.</p>
+							</section>
+						</details>
 					</div>
 				</div>
-
-		<div class="container">
-				<a class="off-psec btn btn-sm btn-default mrgn-tp-lg"><span class="fas fa-eye"></span>&nbsp;&nbsp;<b>Parliamentary
-						secretary</b></a>
-				<a class="on-head btn btn-sm btn-default mrgn-tp-lg"><span class="fas fa-eye"></span>&nbsp;&nbsp;<b>Head of
-						institution</b></a>
+			</div>
+			<div class="container">
+				<a class="off-psec btn btn-sm btn-default mrgn-tp-lg"><span class="fas fa-eye"></span>&nbsp;&nbsp;<b>Parliamentary secretary</b></a>
+				<a class="on-head btn btn-sm btn-default mrgn-tp-lg"><span class="fas fa-eye"></span>&nbsp;&nbsp;<b>Head of institution</b></a>
 				<a class="on-psec btn btn-sm btn-default mrgn-tp-lg wb-inv"><span class="fas fa-eye"></span>&nbsp;&nbsp;<b>Minister</b></a>
 
-			<div class="row">
-				<h1 class="guidance-minister" property="name" id="wb-cont">The Honourable [Minister name], MP</h1>
-				<h1 class="guidance-psec wb-inv" property="name" id="wb-cont-2">[Parliamentary secretary’s name]</h1> <!-- modification for parliamentary secretary -->
-				<h1 class="guidance-head wb-inv" property="name" id="wb-cont-3">[Head of institution or organization's name]</h1><!-- modification for head of institution -->
+				<div class="row">
+					<h1 class="guidance-minister" property="name" id="wb-cont">The Honourable [Minister name], MP</h1>
+					<h1 class="guidance-psec wb-inv" property="name" id="wb-cont-2">[Parliamentary secretary’s name]</h1> <!-- modification for parliamentary secretary -->
+					<h1 class="guidance-head wb-inv" property="name" id="wb-cont-3">[Head of institution or organization's name]</h1><!-- modification for head of institution -->
+					<!-- modification for parliamentary secretary -->
 
-				<div class="guidance-details guidance-minister">
-					<div class="container">
-						<div class="row col-md-8">
-							<details>
-								<summary><b>Guidance:</b> Minister’s name and picture <span class="fas fa-info-circle"></span></summary>
-								<p><span class="label label-danger">Mandatory</span></p>
-								<h3>Minister's name</h3>
-								<ul>
-									<li>Follow mandatory text format: The Honourable [minister’s first and last names], MP</li>
-									<li>Use a unique H1 for the minister’s name </li>
-								</ul>
-								<p><span class="label label-danger">Mandatory</span></p>
-								<h3>Minister's picture</h3>
-								<ul>
-									<li>Use the minister’s approved headshot</li>
-									<li>Insert at the top of the page, to the left of the biographical overview</li>
-									<li>Link to a high-resolution image of the minister</li>
-									<li>Do no embed any text in the image</li>
-								</ul>
-
-							</details>
+					<div class="guidance-details guidance-minister">
+						<div class="container">
+							<div class="row col-md-8">
+								<details>
+									<summary><b>Guidance:</b> Minister’s name and picture <span class="fas fa-info-circle"></span></summary>
+									<p><span class="label label-danger">Mandatory</span></p>
+									<h3>Minister's name</h3>
+									<ul>
+										<li>Follow mandatory text format: The Honourable [minister’s first and last names], MP</li>
+										<li>Use a unique H1 for the minister’s name </li>
+									</ul>
+									<p><span class="label label-danger">Mandatory</span></p>
+									<h3>Minister's picture</h3>
+									<ul>
+										<li>Use the minister’s approved headshot</li>
+										<li>Insert at the top of the page, to the left of the biographical overview</li>
+										<li>Link to a high-resolution image of the minister</li>
+										<li>Do no embed any text in the image</li>
+									</ul>
+								</details>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -263,8 +258,7 @@
 					<div class="container">
 						<div class="row col-md-8">
 							<details>
-								<summary><b>Guidance:</b> Name and picture <span
-										class="fas fa-info-circle"></span></summary>
+								<summary><b>Guidance:</b> Name and picture <span class="fas fa-info-circle"></span></summary>
 								<p><span class="label label-danger">Mandatory</span></p>
 								<h3>Name</h3>
 								<ul>
@@ -274,146 +268,116 @@
 								<p><span class="label label-info">Optional</span></p>
 								<h3>Picture</h3>
 								<p>Presents a high-quality image.</p>
-
 							</details>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-3">
-					<p class="mrgn-tp-lg"><img src="./images/265x352.png" alt="" class="img-responsive"></p>
+					<p class="mrgn-tp-lg"><img src="https://dummyimage.com/200x200/000000/FFFFFF.png" alt="" class="img-responsive"></p>
 				</div>
 				<div class="col-md-9 guidance-minister">
-					<p class="mrgn-tp-lg"><strong>Minister of <a href="#">[Portfolio name one]</a> and <a href="#">[Portfolio name
-								two]</a></strong><a href="#"></a></p>
+					<p class="mrgn-tp-lg"><strong>Minister of <a href="#">[Portfolio name one]</a> and <a href="#">[Portfolio name two]</a></strong></p>
 					<p>Represents the riding of <a href="#">[Riding name]</a></p>
 					<ul>
 						<li><a href="#">Ministerial mandate letter</a></li>
 						<li><a href="#">Ministerial briefing book</a></li>
 						<li><a href="#">Ministerial appointments</a></li>
 					</ul>
-						<div class="guidance-details">
-							<div class="container">
-								<div class="row col-md-8">
-									<details>
-										<summary><b>Guidance:</b> Ministerial role(s) and riding <span class="fas fa-info-circle"></span>
-										</summary>
-										<p><span class="label label-danger">Mandatory</span></p>
-
-										<ul>
-											<li>List the official role(s) of the minister, with links to lead institutional profile, riding
-												information, mandate letter, briefing book, and ministerial appointments where applicable</li>
-											<li>Hyperlink the name of the riding to the appropriate riding page from <a
-													href="http://www.parl.ca/">www.parl.gc.ca</a></li>
-										</ul>
-
-									</details>
-								</div>
+					<div class="guidance-details">
+						<div class="container">
+							<div class="row col-md-8">
+								<details>
+									<summary><b>Guidance:</b> Ministerial role(s) and riding <span class="fas fa-info-circle"></span>
+									</summary>
+									<p><span class="label label-danger">Mandatory</span></p>
+									<ul>
+										<li>List the official role(s) of the minister, with links to lead institutional profile, riding information, mandate letter, briefing book, and ministerial appointments where applicable</li>
+										<li>Hyperlink the name of the riding to the appropriate riding page from <a href="http://www.parl.ca/">www.parl.gc.ca</a></li>
+									</ul>
+								</details>
 							</div>
 						</div>
+					</div>
 				</div>
-					<div class="col-md-9 guidance-head wb-inv">
-						<p class="mrgn-tp-lg"><strong>[Official title of the head]</strong></p> <!-- modification for head of institution -->
-					</div>
+				<div class="col-md-9 guidance-head wb-inv">
+					<p class="mrgn-tp-lg"><strong>[Official title of the head]</strong></p> <!-- modification for head of institution -->
+					<!-- modification for head of institution -->
+				</div>
 				<div class="col-md-9 guidance-psec wb-inv">
-
 					<p class="mrgn-tp-lg"><strong>Parliamentary secretary to the <a href="#">[Minister of portfolio name]</a></strong></p> <!-- modification for parliamentary secretary -->
-
+					<div class="guidance-details">
+						<div class="container">
+							<div class="row col-md-8">
+								<details>
+									<summary><b>Guidance:</b> Parliamentary secretary’s role(s) <span class="fas fa-info-circle"></span>
+									</summary>
+									<p><span class="label label-danger">Mandatory</span></p>
+									<p>Lists the official role(s) of the parliamentary secretary, with link(s) to related ministerial profile.</p>
+									<ul>
+										<li>Follow mandatory text format: Parliamentary Secretary to the Minister of [insert portfolio name]</li>
+										<li>Hyperlink the supported minister to the appropriate ministerial profile page</li>
+									</ul>
+								</details>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-9">
+					<div class="guidance-minister">
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore amet ducimus nihil, voluptate quibusdam? Excepturi in aspernatur rem ipsam aperiam voluptates fugit officiis culpa, ratione, et maxime impedit.</p>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique ex commodi autem laudantium aliquam id, voluptate possimus quod illo velit vero, at dolorum sequi ipsam culpa fugit, molestias quaerat vitae.</p>
 						<div class="guidance-details">
 							<div class="container">
 								<div class="row col-md-8">
 									<details>
-										<summary><b>Guidance:</b> Parliamentary secretary’s role(s) <span class="fas fa-info-circle"></span>
-										</summary>
-										<p><span class="label label-danger">Mandatory</span></p>
-										<p>Lists the official role(s) of the parliamentary secretary, with link(s) to related ministerial
-											profile.</p>
+										<summary><b>Guidance:</b> Biographical overview <span class="fas fa-info-circle"></span></summary>
+										<p><span class="label label-info">Optional</span></p>
+										<p>Provides background information about the minister.</p>
 										<ul>
-											<li>Follow mandatory text format: Parliamentary Secretary to the Minister of [insert
-												portfolio name]</li>
-											<li>Hyperlink the supported minister to the appropriate ministerial profile page</li>
+											<li>Keep the text short and concise</li>
+											<li>Ensure consistency with the biographies presented on the <a href="http://pm.gc.ca/eng/cabinet">Prime Minister’s website</a></li>
 										</ul>
-
 									</details>
 								</div>
 							</div>
 						</div>
 					</div>
-					<div class="col-md-9">
-
-					<div class="guidance-minister">
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore amet ducimus nihil, voluptate quibusdam?
-						Excepturi in aspernatur rem ipsam aperiam voluptates fugit officiis culpa, ratione, et maxime impedit.</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique ex commodi autem laudantium aliquam id,
-						voluptate possimus quod illo velit vero, at dolorum sequi ipsam culpa fugit, molestias quaerat vitae.</p>
-					<div class="guidance-details">
-						<div class="container">
-							<div class="row col-md-8">
-								<details>
-									<summary><b>Guidance:</b> Biographical overview <span class="fas fa-info-circle"></span>
-									</summary>
-									<p><span class="label label-danger">Mandatory</span></p>
-									<p>Provides background information about the minister.</p>
-									<ul>
-										<li>Keep the text short and concise</li>
-										<li>Ensure consistency with the biographies presented on the <a href="http://pm.gc.ca/eng/cabinet">Prime Minister’s
-												website</a></li>
-									</ul>
-
-								</details>
-							</div>
-						</div>
-					</div>
-
-					</div>
-
 					<div class="guidance-psec wb-inv">
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore amet ducimus nihil, voluptate quibusdam?
-						Excepturi in aspernatur rem ipsam aperiam voluptates fugit officiis culpa, ratione, et maxime impedit.</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique ex commodi autem laudantium aliquam id,
-						voluptate possimus quod illo velit vero, at dolorum sequi ipsam culpa fugit, molestias quaerat vitae.</p>
-					<div class="guidance-details">
-						<div class="container">
-							<div class="row col-md-8">
-								<details>
-									<summary><b>Guidance:</b> Biographical overview <span class="fas fa-info-circle"></span>
-									</summary>
-									<p><span class="label label-danger">Mandatory</span></p>
-									<p>Provides background information about the parliamentary secretary.</p>
-									<ul>
-										<li>Keep the text short and concise</li>
-										<li>Ensure consistency with the biographies presented on the <a href="http://pm.gc.ca/eng/cabinet">Prime Minister’s
-												website</a></li>
-									</ul>
-
-								</details>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore amet ducimus nihil, voluptate quibusdam? Excepturi in aspernatur rem ipsam aperiam voluptates fugit officiis culpa, ratione, et maxime impedit.</p>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique ex commodi autem laudantium aliquam id, voluptate possimus quod illo velit vero, at dolorum sequi ipsam culpa fugit, molestias quaerat vitae.</p>
+						<div class="guidance-details">
+							<div class="container">
+								<div class="row col-md-8">
+									<details>
+										<summary><b>Guidance:</b> Biographical overview <span class="fas fa-info-circle"></span></summary>
+										<p><span class="label label-info">Optional</span></p>
+										<p>Provides background information about the parliamentary secretary.</p>
+										<ul>
+											<li>Keep the text short and concise</li>
+											<li>Ensure consistency with the biographies presented on the <a href="http://pm.gc.ca/eng/cabinet">Prime Minister’s website</a></li>
+										</ul>
+									</details>
+								</div>
 							</div>
 						</div>
 					</div>
-
-					</div>
-
 					<div class="guidance-head wb-inv">
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore amet ducimus nihil, voluptate quibusdam?
-						Excepturi in aspernatur rem ipsam aperiam voluptates fugit officiis culpa, ratione, et maxime impedit.</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique ex commodi autem laudantium aliquam id,
-						voluptate possimus quod illo velit vero, at dolorum sequi ipsam culpa fugit, molestias quaerat vitae.</p>
-					<div class="guidance-details">
-						<div class="container">
-							<div class="row col-md-8">
-								<details>
-									<summary><b>Guidance:</b> Biographical overview <span class="fas fa-info-circle"></span>
-									</summary>
-									<p><span class="label label-danger">Mandatory</span></p>
-									<p>Provides background information about the head of institution.</p>
-									<ul>
-										<li>Keep the text short and concise</li>
-									</ul>
-
-								</details>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore amet ducimus nihil, voluptate quibusdam? Excepturi in aspernatur rem ipsam aperiam voluptates fugit officiis culpa, ratione, et maxime impedit.</p>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique ex commodi autem laudantium aliquam id, voluptate possimus quod illo velit vero, at dolorum sequi ipsam culpa fugit, molestias quaerat vitae.</p>
+						<div class="guidance-details">
+							<div class="container">
+								<div class="row col-md-8">
+									<details>
+										<summary><b>Guidance:</b> Biographical overview <span class="fas fa-info-circle"></span></summary>
+										<p><span class="label label-info">Optional</span></p>
+										<p>Provides background information about the head of institution.</p>
+										<ul>
+											<li>Keep the text short and concise</li>
+										</ul>
+									</details>
+								</div>
 							</div>
 						</div>
-					</div>
-
 					</div>
 					<section>
 						<h2>Contact information</h2>
@@ -424,68 +388,30 @@
 							<strong>Email:</strong> <a href="mailto:">[first.last@canada.ca]</a> <span
 								class="glyphicon glyphicon-envelope"></span>
 						</p>
-							<div class="guidance-details">
-								<div class="container">
-									<div class="row col-md-8">
-										<details>
-											<summary><b>Guidance:</b> Contact information <span class="fas fa-info-circle"></span></summary>
-											<p><span class="label label-danger">Mandatory</span></p>
-											<ul>
-												<li>Includes email address, mailing address, telephone number and fax number</li>
-												<li>Hyperink the email address</li>
-												<li>Format numbers as follows:
-													<ul>
-														<li>the heading “Telephone:” precedes the telephone number</li>
-														<li>the heading “Fax:” precedes the fax number</li>
-														<li>telephone and fax numbers use the format 123-456-7890</li>
-													</ul>
-												</li>
-											</ul>
-										</details>
-									</div>
+						<div class="guidance-details">
+							<div class="container">
+								<div class="row col-md-8">
+									<details>
+										<summary><b>Guidance:</b> Contact information <span class="fas fa-info-circle"></span></summary>
+										<p><span class="label label-info">Optional</span></p>
+										<ul>
+											<li>Includes email address, mailing address, telephone number and fax number</li>
+											<li>Hyperlink the email address</li>
+											<li>Format numbers as follows:
+												<ul>
+													<li>the heading “Telephone:” precedes the telephone number</li>
+													<li>the heading “Fax:” precedes the fax number</li>
+													<li>telephone and fax numbers use the format 123-456-7890</li>
+												</ul>
+											</li>
+										</ul>
+									</details>
 								</div>
 							</div>
+						</div>
 					</section>
 				</div>
 			</div>
-			<section class="gc-features">
-				<h2>Features [optional]</h2>
-				<div class="row wb-eqht">
-					<div class="col-lg-4 col-md-6 mrgn-bttm-md">
-						<h3 class="h5"><a href="#" class="stretched-link">[Feature hyperlink text]</a></h3>
-						<img src="./images/feature-img-360x203.jpg" alt=""
-							class="img-responsive thumbnail mrgn-bttm-sm">
-						<p>Brief description of the feature being promoted.</p>
-					</div>
-					<div class="col-lg-4 col-md-6 mrgn-bttm-md">
-						<h3 class="h5"><a href="#" class="stretched-link">[Feature hyperlink text]</a></h3>
-						<img src="./images/feature-img-360x203.jpg" alt=""
-							class="img-responsive thumbnail mrgn-bttm-sm">
-						<p>Brief description of the feature being promoted.</p>
-					</div>
-					<div class="col-lg-4 col-md-6 mrgn-bttm-md">
-						<h3 class="h5"><a href="#" class="stretched-link">[Feature hyperlink text]</a></h3>
-						<img src="./images/feature-img-360x203.jpg" alt=""
-							class="img-responsive thumbnail mrgn-bttm-sm">
-						<p>Brief description of the feature being promoted.</p>
-					</div>
-				</div>
-			</section>
-			<div class="row guidance-details">
-				<div class="col-md-8">
-					<details>
-						<summary><b>Guidance:</b> Features <span class="fas fa-info-circle"></span></summary>
-						<p><span class="label label-info">Optional</span></p>
-						<p>The design of this section is flexible. You can modify it to suit your needs. This could include items
-							like news and media gallery.</p>
-						<p>If you use features, follow the <a href="../common-design-patterns/feature-tiles.html">Context-specific
-								features</a> guidance.</p>
-					</details>
-				</div>
-			</div>
-		</div>
-
-
 			<div class="pagedetails container">
 				<div class="row">
 					<div class="col-sm-6 col-lg-4 mrgn-tp-sm">
@@ -510,7 +436,7 @@
 					<div class="datemod col-xs-12 mrgn-tp-lg">
 						<dl id="wb-dtmd">
 							<dt>Date modified:&#32;</dt>
-							<dd><time property="dateModified">2021-09-27</time></dd>
+							<dd><time property="dateModified">{{ page.dateModified }}</time></dd>
 						</dl>
 					</div>
 				</div>

@@ -186,9 +186,9 @@ title: "Language toggle"
   </ul>
   <h2 id="changes">Latest changes</h2>
   <dl class="dl-horizontal">
-    <dt>
-      <time>2025-03-27</time>
-    </dt>
+    <dt><time>2025-05-15</time></dt>
+    <dd>Updated typography specifications in tandem with alignment activities for GCWeb and GC Design System.</dd>
+    <dt><time>2025-03-27</time></dt>
     <dd>Updated the guidance to include advice on what to avoid, content and design specifications, visual examples, implementation guidance, and policy rationale</dd>
   </dl>
 </div>

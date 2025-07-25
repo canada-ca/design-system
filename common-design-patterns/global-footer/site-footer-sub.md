@@ -44,7 +44,7 @@ title: "Global footer: Sub-footer band"
   <ul>
     <li>Background colour: sub-footer grey (#F8F8F8)</li>
     <li>Text colour: <a href="../styles/colours.html">standard link colours</a></li>
-    <li>Text size: 14 px or 0.875 em</li>
+    <li>Text size: 16px</li>
     <li>Font: Noto Sans</li>
     <li>Canada wordmark position: set to the right</li>
     <li>Canada wordmark size: 40px height</li>

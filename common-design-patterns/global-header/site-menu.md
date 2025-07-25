@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/configurations-conception-communes/menu-site.html"
 date: 2017-10-05
-dateModified: 2023-06-26
+dateModified: 2025-07-08
 description: "Guidance about using the theme and topic menu on Canada.ca. The theme and topic menu provides access to the top tasks from all Government of Canada websites grouped under the main themes of Canada.ca."
 title: "Theme and topic menu"
 ---
@@ -64,7 +64,7 @@ title: "Theme and topic menu"
 			<li>label is “<span class="text-uppercase">Menu</span>” with a downwards caret</li>
 		</ul>
 	</li>
-	<li class="mrgn-tp-lg">Theme list, which includes the 15 main Canada.ca themes in the following order:
+	<li class="mrgn-tp-lg">Theme list, which includes the 16 main Canada.ca themes in the following order:
 		<ul>
 			<li>Jobs and the workplace</li>
 			<li>Immigration and citizenship</li>
@@ -81,10 +81,11 @@ title: "Theme and topic menu"
 			<li>Canada and the world</li>
 			<li>Money and finances</li>
 			<li>Science and innovation</li>
+			<li>Manage life events</li>
 		</ul>
 	</li>
 	<li class="mrgn-tp-lg">Flyout:
-		<p>Hovering or clicking on one of the 15 themes reveals a flyout containing:</p>
+		<p>Hovering or clicking on one of the 16 themes reveals a flyout containing:</p>
 		<ul>
 			<li>a link to the landing page for the theme itself</li>
 			<li>first-level topics within that theme</li>
@@ -97,7 +98,7 @@ title: "Theme and topic menu"
 <h5>Large screens</h5>
 <ul>
 	<li>Clicking on the menu button expands the theme list element with the Jobs flyout open</li>
-	<li>Once opened, hovering or clicking on one of the 15 themes reveals a flyout for that theme</li>
+	<li>Once opened, hovering or clicking on one of the 16 themes reveals a flyout for that theme</li>
 	<li>Clicking on the menu a second time closes it</li>
 </ul>
 <h5>Small screens</h5>
@@ -147,7 +148,7 @@ title: "Theme and topic menu"
 		<img src="../../images/01-theme-menu-flyout-en.png" class="img-responsive" alt=" ">
 		<details class="mrgn-tp-md">
 			<summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: theme and topic menu with flyout open - large screen</summary>
-			<p class="mrgn-tp-lg">The theme and topic menu consists of a button with the word "Menu" and a downward-facing chevron. When clicked, it expands to a menu that exposes the titles of all 15 themes. When the title of a theme is clicked a menu flyout appears on the right-hand side of the theme menu. The theme title is featured prominently at the top of the flyout while the main topics are listed below the title on the left-hand side. On the right-hand side of the flyout there is a "Most requested" heading followed by a list of the most requested tasks.</p>
+			<p class="mrgn-tp-lg">The theme and topic menu consists of a button with the word "Menu" and a downward-facing chevron. When clicked, it expands to a menu that exposes the titles of all 16 themes. When the title of a theme is clicked a menu flyout appears on the right-hand side of the theme menu. The theme title is featured prominently at the top of the flyout while the main topics are listed below the title on the left-hand side. On the right-hand side of the flyout there is a "Most requested" heading followed by a list of the most requested tasks.</p>
 		</details>
 	</figure>
 </div>
@@ -157,7 +158,7 @@ title: "Theme and topic menu"
 		<img src="../../images/01-menu-mobile-closed-en.png" class="img-responsive" alt=" ">
 		<details class="mrgn-tp-md">
 			<summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: theme and topic menu  - small screen</summary>
-			<p class="mrgn-tp-lg">The theme and topic menu consists of a button with the word "Menu" and a downward-facing chevron. When clicked, it expands to a menu that exposes the titles of all 15 themes. When the title of a theme is clicked a menu flyout appears on the right-hand side of the theme menu. The theme title is featured prominently at the top of the flyout while the main topics are listed below the title on the left-hand side. On the right-hand side of the flyout there is a "Most requested" heading followed by a list of the most requested tasks.</p>
+			<p class="mrgn-tp-lg">The theme and topic menu consists of a button with the word "Menu" and a downward-facing chevron. When clicked, it expands to a menu that exposes the titles of all 16 themes. When the title of a theme is clicked a menu flyout appears on the right-hand side of the theme menu. The theme title is featured prominently at the top of the flyout while the main topics are listed below the title on the left-hand side. On the right-hand side of the flyout there is a "Most requested" heading followed by a list of the most requested tasks.</p>
 		</details>
 	</figure>
 </div>
@@ -243,6 +244,10 @@ title: "Theme and topic menu"
 
 <h2 id="changes">Latest changes</h2>
 <dl class="dl-horizontal">
+ <dt>
+    <time>2025-07-08</time>
+  </dt>
+  <dd>Updated to include "Managing life events" as a theme</dd>
   <dt>
     <time datetime="2023-06-26" class="link-muted">2023-06-26</time>
   </dt>

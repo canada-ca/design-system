@@ -51,25 +51,8 @@ Before you implement GC Feedback on your pages, make sure your organization has 
 
 Though the likelihood of receiving threatening feedback is low, there is still a risk given the open textbox. So it’s important to be prepared.
 
-Depending on the nature of the threat, there are different steps that should be taken.
-
-### Specific threat or a personal crisis
-* Identifies a target (address, office name, person) and/or the person leaving the comment.
-
 #### What to do
 
-If you receive a message about a specific threat or a personal crisis through GC Feedback you must report it.
-* Retain a copy of the comment and date/time submitted.
-* Immediately contact local police or the RCMP and provide a copy of the comment.
-* Contact your department’s security services.
-
-### Non-specific threat
-* Does not identify a specific target (“you people”, “those guys”, “the government”).
-* Hypothetical (“if I go to the office, I’ll hurt someone”).
-
-#### What to do
-
-* Retain a copy of the comment and date/time submitted.
 * Follow the same procedures that your organization has in place for threats received through email, social media and/or call centres.
 
 ## How not to use the feedback tool

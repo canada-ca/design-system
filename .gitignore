@@ -4,14 +4,10 @@
 
 ### macOS ###
 # General
-*.py
-.aider*
 .AppleDouble
 .DS_Store
 .LSOverride
-.obsidian/
 log*.md
-
 
 # Icon must end with two \r
 Icon
@@ -44,4 +40,3 @@ _site
 Gemfile
 Gemfile*
 vendor
-.hintrc
