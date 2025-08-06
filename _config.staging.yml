@@ -3,4 +3,4 @@ analytics:
     # adobe:
     #   tracking_id: be5dfd287373/0127575cd23a/launch-913b1beddf7a-staging
     #   service: TBS-DTO-TEST_TEST-BTN-SCT
-url: ""
+url: "DEPLOY_PRIME_URL"
