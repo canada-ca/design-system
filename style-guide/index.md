@@ -3,8 +3,12 @@ altLangPage: "https://conception.canada.ca/guide-redaction"
 date: 2017-10-05
 dateModified:  2024-08-06
 description: "The Canada.ca Content Style Guide provides the rules to create web content that can be easily found, understood and used."
+image:
+  filename: sg-preview-img.png
+  alt: "Canada.ca Content Style Guide cover image"
 title: "Canada.ca Content Style Guide"
 ---
+
 <section id="intro">
   <p>These are the rules to create web content that can be easily found, understood and used. They are based on writing principles and techniques that help make web content clear and adapted to the needs of all people. Use it with the <a href="{{ site.url }}/architecture/canada-content-information-architecture-specification.html">Canada.ca Specifications</a> when you're designing and organizing web content.</p>
 </section>
