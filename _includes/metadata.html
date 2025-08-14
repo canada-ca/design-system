@@ -1,8 +1,12 @@
 <!-- Custom code starts here (Metadata) / Code personalisé commence ici (Métadonnées) -->
-		<link rel="canonical" href="{{ page.url | remove_first: '/' | remove_first: page.lang | prepend: site.altLangUrl[ page.lang ] }}" />
-		<link rel="alternate" href="{{ page.altLangPage | prepend: site.altLangUrl[ i18nText-altLang ] }}" hreflang="{{ i18nText-altLang }}" />
+		<link rel="canonical" href="{{ page.url | absolute_url }}" />
+		<link rel="alternate" href="{{ page.altLangPage }}" hreflang="{{ i18nText-altLang }}" />
 {%- if page.description %}
 		<meta name="description" content="{{ page.description }}" />
+		{%- if page.image %}
+		<meta name="og:description" content="{{ page.description }}" />
+		<meta name="twitter:description" content="{{ page.description }}" />
+		{% endif %}
   {%- elsif site.description %}
 		<meta name="description" content="{{ site.description[ page.lang ] }}" />
 {%- endif %}
@@ -35,23 +39,23 @@
 		<meta name="dcterms.service" content="{{ site.analytics.providers.adobe.service }}">
 {%- endif %}
 		<meta name="generator" content="Jekyll v{{ jekyll.version }}" />
-{%- if page.layout == "post" %}
+{%- if page.layout == "post" or page.image %}
   {%- if page.title %}
 		<meta property="og:title" content="{{ page.title }}" />
 		<meta property="twitter:title" content="{{ page.title }}" />
   {%- endif %}
 		<meta property="og:locale" content="{{ page.lang | append: '_CA' }}" />
-		<meta property="og:url" content="{{ site.urlalt[ page.lang ] }}{{ page.url | remove_first: '/' | remove_first: page.lang }}" />
+		<meta property="og:url" content="{{ page.url | absolute_url }}" />
   {%- if page.image %}
-    {%- capture ogimage -%}{{ page.lang | prepend: '/' }}/images/{{ page.date | date: "%F" | prepend: "og-" }}.png{%- endcapture -%}
+    {%- capture ogimage -%}/images/thumbs/{{ page.image.filename }}{%- endcapture -%}
     {%- assign file_exists = site.static_files | where: "path", ogimage -%}
 
     {%- if file_exists[0].path %}
-		<meta property="og:image" content="{{ site.urlalt[ page.lang ] }}{{ ogimage | remove_first: '/' | remove_first: page.lang }}" />
-		<meta property="twitter:image" content="{{ site.urlalt[ page.lang ] }}{{ ogimage | remove_first: '/' | remove_first: page.lang }}" />
+		<meta property="og:image" content="{{ ogimage | absolute_url }}" />
+		<meta property="twitter:image" content="{{ ogimage | absolute_url }}" />
 	{%- else %}
-		<meta property="og:image" content="{{ site.urlalt[ page.lang ] }}/images/thumbs/{{ page.date | date: '%F' }}.png" />
-		<meta property="twitter:image" content="{{ site.urlalt[ page.lang ] }}/images/thumbs/{{ page.date | date: '%F' }}.png" />
+		<meta property="og:image" content="{{ site.url }}/images/thumbs/{{ page.date | date: '%F' }}.png" />
+		<meta property="twitter:image" content="{{ site.url }}/images/thumbs/{{ page.date | date: '%F' }}.png" />
 	{%- endif %}
 
 	{%- if page.image.height %}
@@ -82,7 +86,7 @@
     {%- endif %}
 
     {%- if site.title %}
-		<meta property="og:site_name" content="{{ site.title[ page.lang ] }}" />
+		<meta property="og:site_name" content="{{ site.title }}" />
     {%- endif -%}
 
     {%- if paginator.previous_page %}

@@ -1,6 +1,6 @@
 [context.deploy-preview]
     # const url = process.env.DEPLOY_URL
-	command = "bundle exec jekyll build --config _config.yml,_config.staging.yml"
+	command = "sed -i.bak 's|DEPLOY_PRIME_URL|'${DEPLOY_PRIME_URL}'|g' _config.staging.yml && bundle exec jekyll build --config _config.yml,_config.staging.yml"
 
 # The following rule is for caching pages based on Adobe Analytics cookies.
 [[headers]]
