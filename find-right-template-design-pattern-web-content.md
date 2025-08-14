@@ -9,7 +9,7 @@ title: "Find the right template and design patterns for your web content"
   <section>
     <!--Wizard embed-->
     <p>Answer the following questions to find out if there is a template or design pattern you could leverage to design user-centered and task-based content.</p>
-    <div class="wb-frmvld">
+    <div class="wb-frmvld" data-gc-analytics-chatformname="ESDC|EDSC:Find the right template and design patterns" data-gc-analytics-collect='[{"value":"input[type=radio]","emptyField": "n/a"}]'>
       <form method="get">
         <!-- Wizard Q1 -->
         <div id="question-1" class="wb-fieldflow" data-wb-fieldflow="{

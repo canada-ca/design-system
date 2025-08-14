@@ -1,4 +1,4 @@
---- 
+---
 altLangPage: "https://conception.canada.ca/bibliotheque-modeles.html"
 date: 2021-05-03
 dateModified: 2023-08-19
@@ -12,7 +12,7 @@ title: "Template and pattern library for Canada.ca"
   <div class="col-md-3 small">
     <details open>
       <summary class="bg-primary text-center">Filter options</summary>
-      <form class="wb-tables-filter mrgn-lft-md mrgn-rght-md" data-bind-to="design">
+      <form class="wb-tables-filter mrgn-lft-md mrgn-rght-md" data-bind-to="design" data-gc-analytics-formname="ESDC|EDSC:Filter options" data-gc-analytics-collect='[{"value":"select","emptyField": "n/a"}]'>
         <div class="row mrgn-tp-lg mrgn-bttm-lg">
           <div class="form-group">
             <label for="dt_cat">Pattern, template or style</label>
@@ -49,7 +49,7 @@ title: "Template and pattern library for Canada.ca"
           <div class="col-md-12 mrgn-tp-lg">
             <button type="submit" class="btn btn-primary full-width" aria-controls="dataset-filter"><span class="fas fa-filter mrgn-rght-sm"></span> Filter</button>
           </div>
-          <div class="col-md-12 mrgn-tp-md"><a href="pattern-library.html" class="btn btn-default full-width">Reset to defaults</a> </div>
+          <div class="col-md-12 mrgn-tp-md"><button type="reset" class="btn btn-default full-width">Reset to defaults</button> </div>
         </div>
       </form>
     </details>
@@ -72,14 +72,14 @@ title: "Template and pattern library for Canada.ca"
             { &quot;data&quot;: &quot;TYPE&quot;, &quot;className&quot;: &quot;&quot; },
             { &quot;data&quot;: &quot;MANDATORY&quot;,  &quot;visible&quot;: false },
             { &quot;data&quot;: &quot;TANDP&quot;,  &quot;visible&quot;: false, &quot;Search&quot;: &quot;1&quot; }
-            ], 
+            ],
             &quot;searchCols&quot;: [
             null,
             null,
             null,
             null,
             null,
-            null, 
+            null,
             null,
             { &quot;sSearch&quot;: &quot;1&quot; }]
             }">
