@@ -1,5 +1,24 @@
 <script type="text/javascript">
-		window.onload = function() {
-			_satellite.pageBottom();
-		};
-	</script>
+    window.onload = function() {
+        _satellite.pageBottom();
+
+        // Anchor link tracking - follows Adobe Analytics Implementation Manual guidelines
+        document.addEventListener('click', function(e) {
+            if (e.target.tagName === 'A' && e.target.getAttribute('href') &&
+                e.target.getAttribute('href').startsWith('#')) {
+
+                // Extract anchor name from href (remove #)
+                var anchorName = e.target.getAttribute('href').substring(1);
+
+                // Push customTracking event to Adobe Data Layer
+                // Format: Dept. Abbreviation:Custom Variable Name:Custom Value
+                adobeDataLayer.push({
+                    "event": "customTracking",
+                    "link": {
+                        "customCall": "TBS-SCT:Anchor Link Click:" + anchorName
+                    }
+                });
+            }
+        });
+    };
+</script>
