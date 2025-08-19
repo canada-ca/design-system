@@ -7,16 +7,14 @@ title: In-page table of contents design pattern
 ---
 
 <p>The in-page table of contents pattern is a list of links that lead to subsections of the same page.</p>
-<section>
-  <h2>On this page</h2>
-  <ul>
-    <li><a href="#when-to-use">When to use</a></li>
-    <li><a href="#what-to-avoid">What to avoid</a></li>
-    <li><a href="#content-and-design">Content and design</a></li>
-    <li><a href="#how-to-implement">How to implement</a></li>
-    <li><a href="#latest-changes">Latest changes</a></li>
-  </ul>
-</section>
+<p><b>On this page</b></p>
+<ul>
+  <li><a href="#when-to-use">When to use</a></li>
+  <li><a href="#what-to-avoid">What to avoid</a></li>
+  <li><a href="#content-and-design">Content and design</a></li>
+  <li><a href="#how-to-implement">How to implement</a></li>
+  <li><a href="#latest-changes">Latest changes</a></li>
+</ul>
 <section>
   <h2>When to use</h2>
   <p>Use the in-page table of contents pattern to:</p>
@@ -40,7 +38,7 @@ title: In-page table of contents design pattern
     <li>Always position the in-page table of contents pattern at the top of the page, just below the H1 and any introductory text, before the main content begins</li>
     <li>Label the pattern “On this page” to distinguish it from other page content and to provide consistency throughout the site</li>
     <li>Use list elements to present links: use bullets for an unordered list and numbers for an ordered list</li>
-    <li>Use standard link styles to sure the links appear as clickable elements</li>
+    <li>Use standard link styles to make sure the links appear as clickable elements</li>
     <li>Present the in-page table of contents aligned to the left, as a vertical list, as opposed to using a column layout</li>
   </ul>
   <h3>Visual example</h3>
