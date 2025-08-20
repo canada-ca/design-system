@@ -40,7 +40,7 @@ title: "Canada.ca design"
     <div class="col-md-3 small">
       <details open>
         <summary class="bg-primary text-center">Sources</summary>
-        <form class="wb-tables-filter mrgn-lft-md mrgn-rght-md" data-bind-to="design">
+        <form class="wb-tables-filter mrgn-lft-md mrgn-rght-md" data-bind-to="design" data-gc-analytics-formname="ESDC|EDSC:Find guidance filter" data-gc-analytics-collect='[{"value":"input[type=checkbox]","emptyField": "n/a"}]'>
           <div class="row">
             <div class="form-group">
               <fieldset>

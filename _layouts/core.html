@@ -11,7 +11,7 @@
 	<head>
 		<meta charset="utf-8">
 		{% include license.html %}
-		<title>{{ page-title }} - {{ i18nText-siteTitle }}</title>
+		<title{% if page.error-code %} data-gc-analytics-error="{{ page.error-code }}"{% endif %}>{{ page-title }} - {{ i18nText-siteTitle }}</title>
 		<meta content="width=device-width, initial-scale=1" name="viewport">
 		{% include metadata.html %}
 		{% include resources-inc/head.html %}

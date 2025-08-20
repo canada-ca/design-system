@@ -15,6 +15,7 @@ GEM
     addressable (2.8.1)
       public_suffix (>= 2.0.2, < 6.0)
     base64 (0.3.0)
+    bigdecimal (3.2.2)
     colorator (1.1.0)
     concurrent-ruby (1.2.2)
     csv (3.3.5)
@@ -24,9 +25,7 @@ GEM
     eventmachine (1.2.7)
     ffi (1.15.5)
     forwardable-extended (2.6.0)
-    google-protobuf (3.25.5-arm64-darwin)
-    google-protobuf (3.25.5-x86_64-darwin)
-    google-protobuf (3.25.5-x86_64-linux)
+    google-protobuf (3.25.5)
     http_parser.rb (0.8.0)
     i18n (1.12.0)
       concurrent-ruby (~> 1.0)
@@ -84,11 +83,13 @@ GEM
 
 PLATFORMS
   arm64-darwin-22
+  arm64-darwin-24
   x86_64-darwin-22
   x86_64-linux
 
 DEPENDENCIES
   base64
+  bigdecimal
   csv
   jekyll-remote-theme!
   logger
