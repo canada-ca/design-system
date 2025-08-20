@@ -40,24 +40,3 @@ _site
 Gemfile
 Gemfile*
 vendor
-
-# BMAD Core Bundle
-.bmad-*/
-
-# Gemini Code Assist Configuration
-.gemini/
-GEMINI.md
-
-# Copilot Configuration
-.github/chatmodes
-.github/instructions
-.github/copilot-instructions.md
-
-# VS Code Configuration
-.vscode/
-
-# Documentation and Draft Files
-docs/
-.docs/
-memory/
-memory-bank/
