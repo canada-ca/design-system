@@ -534,6 +534,15 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
+    "NAME": "<a href=\"{{ site.url }}/guidance/closed-programs.html\">Adding content for closed programs or services</a>",
+    "SOURCE": "Designing content",
+    "DESCRIPTION": "How to update content for closed programs or services",
+    "WHENTOUSE": "Follow this guidance to update content when a Government of Canada program or service closes",
+    "CATEGORY": "",
+    "TYPE": "",
+    "MANDATORY": "",
+    "TANDP": "1"
+  }, {
     "NAME": "<a href=\"{{ site.urlblogca }}/2022/07/28/news-releases\">Using alerts to keep news releases and web content in syn</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "Use a temporary alert to synchronize communications when you can’t update web content at the same time a news release is published.",
@@ -1239,7 +1248,7 @@
     "NAME": "<a href=\"{{ site.url }}/common-design-patterns/search-box.html\">Site search box</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Gives the ability to search all content from the Government of Canada",
-    "WHENTOUSE": "Gives the ability to search all content from the Governement of Canada - <strong>Mandatory pattern</strong>",
+    "WHENTOUSE": "Gives the ability to search all content from the Government of Canada - <strong>Mandatory pattern</strong>",
     "CATEGORY": "Design pattern",
     "TYPE": "Site-wide pattern, Interaction",
     "MANDATORY": "Mandatory",
