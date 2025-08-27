@@ -1,7 +1,7 @@
 ---
-altLangPage: "https://conception.canada.ca/configurations-conception-communes/champ-recherche.html"
-date: 2017-10-05
-dateModified: 2023-06-26
+altLangPage: https://conception.canada.ca/configurations-conception-communes/champ-recherche.html
+date: 2023-06-26
+dateModified: '2025-03-26'
 description: "Guidance about using the site search box on Canada.ca. The site search box allows people to search Government of Canada content. It appears in the global header across Canada.ca."
 title: "Site search box"
 ---
@@ -12,12 +12,14 @@ title: "Site search box"
     </ul>
   </div>
 </div>
+
 <p><span class="label label-danger">Mandatory on standard and campaign pages</span></p>
 <p>The site search box is an element of the global header. It allows people to search Government of Canada content using a simple search field.</p>
 <p>Results for site search are at the level of all Government of Canada web content, or a subset of content at the department or agency level.</p>
 <div class="pattern-demo mrgn-tp-lg">
   <figure class="mrgn-bttm-sm"><img src="../../images/01-site-search-en.png" class="img-responsive" alt=""></figure>
 </div>
+
 <section>
   <h2>On this page</h2>
   <ul>
@@ -29,12 +31,16 @@ title: "Site search box"
     <li><a href="#changes">Latest changes</a></li>
   </ul>
 </section>
+
 <h2 id="when">When to use</h2>
 <p>The site search box is mandatory on all pages, except transactional pages.</p>
+
 <h2 id="avoid">What to avoid</h2>
 <p>Don’t use the site search box for searching anything other than content indexed by GC Search. Place search for other datasets within the content area of the page.</p>
+
 <h2 id="content">Content and design</h2>
 <p>Find content and design specifications and visual examples.</p>
+
 <h3>Content specifications</h3>
 <p>The site search box consists of 3 visual elements:</p>
 <ul>
@@ -52,10 +58,12 @@ title: "Site search box"
   <li>"Search [institution]" in English</li>
   <li>"Rechercher dans [institution]" in French</li>
 </ul>
+
 <h4>Interactions</h4>
 <ul>
   <li>Searches query the GC Search index. Typing a search term in the input field and selecting the search icon opens a results page.</li>
 </ul>
+
 <h3>Design specifications</h3>
 <ul>
   <li>Position: top-right corner of the global header area, below the language toggle link</li>
@@ -67,13 +75,14 @@ title: "Site search box"
   <li>Value size: 34</li>
 </ul>
 <p>The search elements are responsive.  They scale according to screen size.</p>
+
 <h3>Visual examples</h3>
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
     <figcaption><b>Site search box - large screen</b></figcaption>
     <img src="../../images/01-site-search-en.png" class="img-responsive" alt=" ">
     <details class="mrgn-tp-md">
-      <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: site search box - large screen</summary>
+      <summary class="wb-toggle small wb-init wb-toggle-inited" data-toggle="{&quot;print&quot;:&quot;on&quot;}" id="wb-auto-4" aria-controls="wb-auto-4">Image description: site search box - large screen</summary>
       <p class="mrgn-tp-lg">The search box appears in the top-right corner, underneath the language toggle and directly across from the Government of Canada signature. </p>
       <p>The site search bar is a rectangle, defined by a light grey border. Within the rectangle are the words, ‘Search Canada.ca’.  To the right of the rectangle is a blue square with a white magnifying glass icon within.</p>
     </details>
@@ -84,21 +93,25 @@ title: "Site search box"
     <figcaption><b>Site search box - small screen</b></figcaption>
     <img src="../../images/01-site-search-sm-en.png" class="img-responsive" alt=" ">
     <details class="mrgn-tp-md">
-      <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: site search box - small screen</summary>
+      <summary class="wb-toggle small wb-init wb-toggle-inited" data-toggle="{&quot;print&quot;:&quot;on&quot;}" id="wb-auto-5" aria-controls="wb-auto-5">Image description: site search box - small screen</summary>
       <p class="mrgn-tp-lg">The search box appears in the header, directly below the Government of Canada signature and the language toggle. It spans across the screen.</p>
       <p>The site search bar is a rectangle, defined by a light grey border. Within the rectangle are the words, ‘Search Canada.ca’.  To the right of the rectangle is a blue square with a white magnifying glass icon within. </p>
     </details>
   </figure>
 </div>
+
 <h2 id="implementation">How to implement</h2>
 <p>Find working examples for implementing the site search box.</p>
+
 <h3>GCweb (WET) theme implementation reference</h3>
 <p>The implementation reference includes how to configure each element of the header.</p>
 <ul>
   <li><a href="https://wet-boew.github.io/GCWeb/sites/header/header-docs-en.html">GCWeb (WET) header documentation</a></li>
 </ul>
+
 <h3>Implementations</h3>
 <p>Determine what best suits the type of page you're creating.</p>
+
 <div class="row">
   <div class="col-md-8">
     <div class="wb-tabs mrgn-tp-lg">
@@ -110,6 +123,13 @@ title: "Site search box"
             <li><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">AEM/Managed Web Service documentation (GCPedia link - only available on the Government of Canada network)</a></li>
           </ul>
         </details>
+        <details id="0041" open="open">
+          <summary><strong>GC Design System</strong></summary>
+          <p class="mrgn-tp-lg">For GC Design System:</p>
+          <ul>
+            <li><a href="https://design-system.alpha.canada.ca/en/components/search/">GC Design System documentation</a></li>
+          </ul>
+        </details>
         <details id="005">
           <summary><strong>CDTS</strong></summary>
           <p class="mrgn-tp-lg">For the Centrally Deployed Templates Solution (CDTS):</p>
@@ -119,8 +139,8 @@ title: "Site search box"
           </ul>
         </details>
         <details id="006">
-          <summary><strong>Drupal WxT</strong></summary>
-          <p class="mrgn-tp-lg">For Drupal WxT:</p>
+          <summary><strong>Drupal</strong></summary>
+          <p class="mrgn-tp-lg">For Drupal:</p>
           <ul>
             <li><a href="https://drupalwxt.github.io/">Drupal WxT documentation</a></li>
           </ul>
@@ -129,22 +149,26 @@ title: "Site search box"
     </div>
   </div>
 </div>
+
 <h3>Configure search</h3>
 <p>The Principal Publisher provides support for GC Search adoption, search configuration, indexing of web pages, functionality errors and other search related requests:</p>
 <ul>
   <li><a href="https://www.gcpedia.gc.ca/wiki/GC_Search_Support">GC Search Support (only available on the GC network)</a></li>
 </ul>
+
 <h2 id="research">Research and rationale</h2>
 <p>Placing site search in the top-right corner of a web page is an established web convention.</p>
+
 <h3>Policy rationale</h3>
 <p>As part of the global header, the site search box is a mandatory element under the <cite>Canada.ca Specifications.</cite></p>
 <ul>
   <li><a href="https://design.canada.ca/specifications/mandatory-elements.html">Mandatory elements of the design system</a></li>
 </ul>
+
 <h2 id="changes">Latest changes</h2>
 <dl class="dl-horizontal">
   <dt>
-    <time datetime="2023-06-26" class="link-muted">2023-06-26</time>
+    <time>2023-06-26</time>
   </dt>
   <dd>Updated the guidance to include advice on what to avoid, content and design specifications, visual examples, implementation guidance, support for search configuration, and policy rationale</dd>
 </dl>
