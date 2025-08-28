@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/configurations-conception-communes/changer-langue.html"
 date: 2017-10-05
-dateModified: 2023-06-26
+dateModified: 2025-05-15
 description: "Guidance about using the language toggle on Canada.ca. Government of Canada content is available in both official languages. A language toggle in the global header provides access to the corresponding page in the other official language."
 title: "Language toggle"
 ---
@@ -71,8 +71,8 @@ title: "Language toggle"
 <ul>
   <li>Type: link</li>
   <li>Position: top-right corner</li>
-  <li>Font: Lato</li>
-  <li>Size: 1.2 em</li>
+  <li>Font: Noto Sans</li>
+  <li>Size: 16px (desktop), 18px (mobile)</li>
   <li>Text colour:
     <ul>
       <li>default link: #284162</li>
@@ -147,6 +147,13 @@ title: "Language toggle"
             <li><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">AEM/Managed Web Service documentation (GCPedia link - only available on the Government of Canada network)</a></li>
           </ul>
         </details>
+        <details id="0041" open="open">
+          <summary><strong>GC Design System</strong></summary>
+          <p class="mrgn-tp-lg">For GC Design System:</p>
+          <ul>
+            <li><a href="https://design-system.alpha.canada.ca/en/components/language-toggle/">GC Design System documentation</a></li>
+          </ul>
+        </details>
         <details id="005">
           <summary><strong>CDTS</strong></summary>
           <p class="mrgn-tp-lg">For the Centrally Deployed Templates Solution (CDTS):</p>
@@ -155,8 +162,8 @@ title: "Language toggle"
           </ul>
         </details>
         <details id="006">
-          <summary><strong>Drupal WxT</strong></summary>
-          <p class="mrgn-tp-lg">For Drupal WxT:</p>
+          <summary><strong>Drupal</strong></summary>
+          <p class="mrgn-tp-lg">For Drupal:</p>
           <ul>
             <li><a href="https://drupalwxt.github.io/">Drupal WxT documentation</a></li>
           </ul>
@@ -179,9 +186,9 @@ title: "Language toggle"
   </ul>
   <h2 id="changes">Latest changes</h2>
   <dl class="dl-horizontal">
-    <dt>
-      <time>2023-06-26</time>
-    </dt>
+    <dt><time>2025-05-15</time></dt>
+    <dd>Updated typography specifications in tandem with alignment activities for GCWeb and GC Design System.</dd>
+    <dt><time>2025-03-27</time></dt>
     <dd>Updated the guidance to include advice on what to avoid, content and design specifications, visual examples, implementation guidance, and policy rationale</dd>
   </dl>
 </div>
