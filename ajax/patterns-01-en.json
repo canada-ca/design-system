@@ -434,7 +434,6 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-
     "NAME": "<a href=\"{{ site.urlblogca }}/2018/05/30/trust-and-older-content.html\">Dates matter: Trust and older content on Canada.ca</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "In a recent usability study, we saw people disregarding Canada.ca search results that seemed too old. Find out how you can validate your content and show that it's still current.",
@@ -533,6 +532,15 @@
     "TYPE": "",
     "MANDATORY": "",
     "TANDP": "0"
+  }, {
+    "NAME": "<a href=\"{{ site.url }}/guidance/campaigns.html\">Web content to support advertising or marketing campaigns</a>",
+    "SOURCE": "Designing content",
+    "DESCRIPTION": "Recommendations on how to design web content that supports institutional, theme or GC-wide promotional campaigns.",
+    "WHENTOUSE": "When creating web content for advertising or marketing campaigns.",
+    "CATEGORY": "",
+    "TYPE": "",
+    "MANDATORY": "",
+    "TANDP": "1"
   }, {
     "NAME": "<a href=\"{{ site.urlblogca }}/2022/07/28/news-releases\">Using alerts to keep news releases and web content in syn</a>",
     "SOURCE": "Blog post",
