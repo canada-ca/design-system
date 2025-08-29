@@ -3,35 +3,40 @@ altLangPage: https://conception.canada.ca
 date: 2021-05-03
 dateModified: 2024-08-26
 description: "The Canada.ca design holds the reusable styles, templates and patterns that make Government of Canada digital services more usable, consistent and trustworthy."
+information:
+  - title: Canada.ca Specifications
+    link: /specifications.html
+    description: Who has to use the Canada.ca design, mandatory elements, design principles, information architecture and findability, templates and patterns
+  - title: Continuous improvement of web content
+    link: /continuous-improvement.html
+    description: Choosing what to improve, organizing and preparing your team, research and prototyping, designing content, monitoring and measuring success
+  - title: Canada.ca blog
+    link: /blog/
+    description: Evidence and insights on improving information and services on Canada.ca
+  - title: Research summaries
+    link: /research-summaries/
+    description: Research done to make it easier for people to find and understand Government of Canada information and services
+  - title: About Canada.ca
+    link: /about/
+    description: Most requested, analytics for Canada.ca, Government of Canada contacts
+  - title: Guidance
+    link: /guidance/index.html
+    description: Closed programs, campaigns, alerts for evolving situations, designing content, continuous improvement, IA and findability, crisis communications
 layout: "without-h1"
 title: "Canada.ca design"
 ---
 <h1 property="name" id="wb-cont" property="name headline" dir="ltr">Designing for Canada.ca </h1>
 <p>Mandatory elements for Canada.ca, writing principles, how to organize your content to make it easy to find, optimizing web content, evidence for and research on design choices.</p>
-<section>
-  <div class="row">
-    <section class="wb-eqht gc-drmt">
-      <div class="col-md-4">
-        <h3 class="h5"><a href="{{ site.url }}/specifications.html">Canada.ca Specifications</a></h3>
-        <p>Who has to use the Canada.ca design, mandatory elements, design principles, information architecture and findability, templates and patterns</p>
-      </div>
-      <div class="col-md-4">
-        <h3 class="h5"><a href="{{ site.url }}/continuous-improvement.html">Continuous improvement of web content</a></h3>
-        <p>Choosing what to improve, organizing and preparing your team, research and prototyping, designing content, monitoring and measuring success</p>
-      </div>
-       <div class="col-md-4">
-        <h3 class="h5"><a href="{{ site.urlblogca }}">Canada.ca blog</a></h3>
-        <p>Evidence and insights on improving information and services on Canada.ca</p>
-      </div>
-      <div class="col-md-4">
-        <h3 class="h5"><a href="{{ site.url }}/research-summaries/">Research summaries</a></h3>
-        <p>Research done to make it easier for people to find and understand Government of Canada information and services</p>
-      </div>
-      <div class="col-md-4">
-        <h3 class="h5"><a href="{{ site.url }}/about/">About Canada.ca</a></h3>
-        <p>Most requested, analytics for Canada.ca, Government of Canada contacts</p>
-      </div>
-    </section>
+
+<section class="gc-srvinfo">
+  <h2 class="wb-inv">Services and information</h2>
+  <div class="row wb-eqht-grd">
+    {%- for info in page.information -%}
+    <div class="col-lg-4 col-md-6">
+      <h3><a href="{{ site.url }}{{ info.link }}">{{ info.title }}</a></h3>
+      <p>{{ info.description }}</p>
+    </div>
+    {%- endfor -%}
   </div>
 </section>
 <section>
