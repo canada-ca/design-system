@@ -45,7 +45,7 @@ Add a warning label component with the text “Closing soon” beside or under t
 
 * Most requested
 * Doormats on any pages using the services and information pattern
-Note: To keep the label shorter to fit the more limited space, you can leave out “Status” in the label.
+*   Note: To keep the label shorter to fit the more limited space, you can leave out “Status” in the label.
 
 <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
   <figure class="mrgn-tp-md mrgn-bttm-lg">
