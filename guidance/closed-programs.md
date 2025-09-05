@@ -25,7 +25,7 @@ Follow the steps below to include a warning in your content.
 
 ### Add a warning label under the page title
 
-On the program or service page, add a warning label component below the visible page title (or H1).
+On the program or service page, add a warning label component that says “Status: Closing soon” directly below the visible page title (or H1).
 
 <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
   <figure class="mrgn-tp-md mrgn-bttm-lg">
@@ -52,7 +52,7 @@ Add a warning label component with the text “Closing soon” beside or under t
     <img src="./images/closed-programs-image2.png" class="img-responsive" alt="Warning label in a doormat. Text version below:" />
     <details>
       <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: warning label in a doormat</summary>
-      <p>Three doormats are displayed across three columns in the services and information section of a page. A warning label that says “Closing soon” appears below the heading of one of the benefit doormats.</p>
+      <p>Three doormats are displayed across three columns in the services and information section of a page. A warning label that says “Closing soon” appears beside the heading of one of the benefit doormats.</p>
     </details>
   </figure>
 </div>
@@ -69,7 +69,7 @@ Consider adding an advance warning alert at the top of the program or service pa
       <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: warning alert at the top of page</summary>
       <p>This warning alert was placed at the top of the page, below the H1 and warning label, with a clear deadline for submitting applications. It reads:</p>
       <p><b>Application period ending soon</b></p>
-      <p>June 3, 2025, is the last day to apply for [program or service name].</p>
+      <p>June 3, 2025, is the last day to apply for the [program or service name].</p>
     </details>
   </figure>
 </div>
@@ -135,7 +135,7 @@ If your program or service has an application process, add an info alert below t
       <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: info alert at the top of a page</summary>
       <p>This info alert was placed at the top of the page, after the H1 and a danger label, with a clear closing date for the program. It reads:</p>
       <p><b>You can no longer apply</b></p>
-      <p>June 3, 2025, was the last day to apply for [program or service].</p>
+      <p>June 3, 2025, was the last day to apply for the [program or service].</p>
     </details>
   </figure>
 </div>
@@ -173,7 +173,7 @@ If there is something new that has replaced the closed program or service, add c
     <figcaption><b>Link to current information</b></figcaption>
     <img src="./images/closed-programs-image6.png" class="img-responsive" alt="Link to current information. Text version below:" />
     <details>
-      <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: Link to current information</summary>
+      <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: link to current information</summary>
       <p>At the top of the page, below the H1 and a danger label, is this text with a link:</p>
       <p><b>You may be looking for:</b> [Name of program, benefit, rebate, etc.]</p>
     </details>
