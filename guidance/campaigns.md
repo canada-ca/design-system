@@ -97,7 +97,7 @@ Optional supporting content:
 * Tools for stakeholders, such as posters, digital banners and social media templates
 * Links to news releases announcing the new or changed program, service or initiative
 
-Note: If you have multiple dedicated campaign pages, create a central landing page that links to all of them. You should include a link to the campaign landing page on your institutional landing page.
+Note: If you have multiple dedicated campaign pages, create a central landing page that links to all of them.
 
 #### Design components on a dedicated campaign page
 
