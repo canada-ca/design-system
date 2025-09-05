@@ -19,7 +19,7 @@ information:
     link: /crisis/alerts.html
     description: Communicate service disruptions or urgent and evolving situations
   - title: Crisis communications content design checklist
-    link: /crisis/crisis-communications-checklist.html
+    link: /crisis/content.html
     description: Mobile-first, avoid duplication, add dates, write information as directions, use bulleted lists, keep sentences short
 
 title: Canada.ca design guidance
