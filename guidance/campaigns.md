@@ -154,6 +154,6 @@ Don’t use dedicated pages as a replacement for other page types such as:
 ## Latest changes
 
 <dl class="dl-horizontal">
-  <dt><time>2025-08-29</time></dt>
+  <dt><time>2025-09-08</time></dt>
   <dd>We have replaced our previous campaign guidance to specify that in some cases core content can be modified to incorporate campaign visuals instead of creating a dedicated campaign page.</dd>
 </dl>
