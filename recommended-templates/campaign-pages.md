@@ -1,1 +1,1 @@
-<meta http-equiv="refresh" content="0; url={{ site.url }}/guidance/campaigns.html">
+<meta http-equiv="refresh" content="0; url=https://wwww.canada.ca/guidance/campaigns.html">
