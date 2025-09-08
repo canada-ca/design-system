@@ -1,1 +1,1 @@
-<meta http-equiv="refresh" content="0; url=https://wwww.canada.ca/guidance/campaigns.html">
+<meta http-equiv="refresh" content="0; url=https://design.canada.ca/guidance/campaigns.html">
