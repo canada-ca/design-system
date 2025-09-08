@@ -1,9 +1,9 @@
 ---
 altLangPage: https://conception.canada.ca/directives/
-breadcrumb:
+breadcrumbs:
   - link: "https://design.canada.ca/about/"
     title: "About Canada.ca"
-  - link: "https://design.canada.ca/"
+  - link: "https://design.canada.ca"
     title: "Design"
 date: 2025-08-29
 dateModified: 2025-08-29
