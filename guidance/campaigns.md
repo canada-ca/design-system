@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/directives/campagnes.html
-date: 2025-08-29
-dateModified: 2025-08-29
+date: 2025-09-08
+dateModified: 2025-09-08
 description: Guidance on how and when to use core content or a dedicated page for a campaign.
 title: Web content to support advertising or marketing campaigns
 ---
