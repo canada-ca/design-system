@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/directives/xxx.html
+altLangPage: https://conception.canada.ca/directives/programmes-fermes.html
 date: '2025-09-08'
 dateModified: '2025-09-08'
 description: Guidance about how to update web content when a Government of Canada program or service closes.
