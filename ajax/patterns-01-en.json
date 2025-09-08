@@ -434,6 +434,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
+
     "NAME": "<a href=\"{{ site.urlblogca }}/2018/05/30/trust-and-older-content.html\">Dates matter: Trust and older content on Canada.ca</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "In a recent usability study, we saw people disregarding Canada.ca search results that seemed too old. Find out how you can validate your content and show that it's still current.",
@@ -533,10 +534,10 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"{{ site.url }}/guidance/campaigns.html\">Web content to support advertising or marketing campaigns</a>",
+    "NAME": "<a href=\"{{ site.url }}/guidance/closed-programs.html\">Adding content for closed programs or services</a>",
     "SOURCE": "Designing content",
-    "DESCRIPTION": "Recommendations on how to design web content that supports institutional, theme or GC-wide promotional campaigns.",
-    "WHENTOUSE": "When creating web content for advertising or marketing campaigns.",
+    "DESCRIPTION": "How to update content for closed programs or services",
+    "WHENTOUSE": "Follow this guidance to update content when a Government of Canada program or service closes",
     "CATEGORY": "",
     "TYPE": "",
     "MANDATORY": "",
@@ -758,12 +759,10 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"{{ site.url }}/recommended-templates/campaign-pages.html\">Campaign page</a>",
-    "SOURCE": "Template and pattern library",
-    "DESCRIPTION": "Gives information to support a promotional campaign - use to support institutional, theme or GC-wide promotional campaigns that last for a set period of time.",
-    "WHENTOUSE": "Gives information to support a promotional campaign. Use to support institutional, theme or <abbr title=\"Government of Canada\">GC</abbr>-wide promotional campaigns that last for a set period of time. Don’t use for core content.",
-    "CATEGORY": "Template",
-    "TYPE": "Promotion",
+    "NAME": "<a href=\"{{ site.url }}/guidance/campaigns.html\">Web content to support advertising or marketing campaigns</a>",
+    "SOURCE": "Designing content",
+    "DESCRIPTION": "Recommendations on how to design web content that supports institutional, theme or GC-wide promotional campaigns.",
+    "WHENTOUSE": "When creating web content for advertising or marketing campaigns.",
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
@@ -1247,7 +1246,7 @@
     "NAME": "<a href=\"{{ site.url }}/common-design-patterns/search-box.html\">Site search box</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Gives the ability to search all content from the Government of Canada",
-    "WHENTOUSE": "Gives the ability to search all content from the Governement of Canada - <strong>Mandatory pattern</strong>",
+    "WHENTOUSE": "Gives the ability to search all content from the Government of Canada - <strong>Mandatory pattern</strong>",
     "CATEGORY": "Design pattern",
     "TYPE": "Site-wide pattern, Interaction",
     "MANDATORY": "Mandatory",
