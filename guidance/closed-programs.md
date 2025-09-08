@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/directives/xxx.html
-date: '2025-08-27'
-dateModified: '2025-08-27'
+date: '2025-09-08'
+dateModified: '2025-09-08'
 description: Guidance about how to update web content when a Government of Canada program or service closes.
 title: Updating content for closed programs or services
 ---
