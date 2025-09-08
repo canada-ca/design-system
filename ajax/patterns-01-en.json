@@ -759,13 +759,13 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"{{ site.url }}/recommended-templates/campaign-pages.html\">Campaign page</a>",
-    "SOURCE": "Template and pattern library",
-    "DESCRIPTION": "Gives information to support a promotional campaign - use to support institutional, theme or GC-wide promotional campaigns that last for a set period of time.",
-    "WHENTOUSE": "Gives information to support a promotional campaign. Use to support institutional, theme or <abbr title=\"Government of Canada\">GC</abbr>-wide promotional campaigns that last for a set period of time. Don’t use for core content.",
-    "CATEGORY": "Template",
-    "TYPE": "Promotion",
-    "MANDATORY": "No",
+    "NAME": "<a href=\"{{ site.url }}/guidance/campaigns.html\">Web content to support advertising or marketing campaigns</a>",
+    "SOURCE": "Designing content",
+    "DESCRIPTION": "Recommendations on how to design web content that supports institutional, theme or GC-wide promotional campaigns.",
+    "WHENTOUSE": "When creating web content for advertising or marketing campaigns.",
+    "CATEGORY": "",
+    "TYPE": "",
+    "MANDATORY": "",
     "TANDP": "1"
   }, {
     "NAME": "<a href=\"{{ site.url }}/common-design-patterns/canada-dot-ca.html\">Canada.ca domain</a>",
