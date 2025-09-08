@@ -19,9 +19,9 @@ information:
   - title: About Canada.ca
     link: /about/
     description: Most requested, analytics for Canada.ca, Government of Canada contacts
-  - title: Guidance
+  - title: Canada.ca design guidance
     link: /guidance/index.html
-    description: Closed programs, campaigns, alerts for evolving situations, designing content, continuous improvement, IA and findability, crisis communications
+    description: Use this guidance to create and manage web content
 layout: "without-h1"
 title: "Canada.ca design"
 ---
