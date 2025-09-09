@@ -11,7 +11,7 @@ information:
     link: /continuous-improvement.html
     description: Choosing what to improve, organizing and preparing your team, research and prototyping, designing content, monitoring and measuring success
   - title: Canada.ca blog
-    link: https:/blog.canada.ca/
+    link: {{ site.urlblogca }}
     description: Evidence and insights on improving information and services on Canada.ca
   - title: Research summaries
     link: /research-summaries/
