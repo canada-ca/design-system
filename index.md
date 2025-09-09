@@ -11,7 +11,7 @@ information:
     link: /continuous-improvement.html
     description: Choosing what to improve, organizing and preparing your team, research and prototyping, designing content, monitoring and measuring success
   - title: Canada.ca blog
-    link: "{{ site.urlblogca }}/"
+    link: "https://www.blog.canada.ca"
     description: Evidence and insights on improving information and services on Canada.ca
   - title: Research summaries
     link: /research-summaries/
@@ -33,13 +33,16 @@ title: "Canada.ca design"
   <div class="row wb-eqht-grd">
     {%- for info in page.information -%}
     <div class="col-lg-4 col-md-6">
-      <h3><a href="{{ site.url }}{{ info.link }}">{{ info.title }}</a></h3>
+      {% if info.link contains 'http' %}
+        <h3><a href="{{ info.link }}">{{ info.title }}</a></h3>
+      {% else %}
+        <h3><a href="{{ site.url }}{{ info.link }}">{{ info.title }}</a></h3>
+      {% endif %}
       <p>{{ info.description }}</p>
     </div>
     {%- endfor -%}
   </div>
 </section>
-<section>
   <h2>Find guidance</h2>
   <div class="row mrgn-tp-md">
     <div class="col-md-3 small">
