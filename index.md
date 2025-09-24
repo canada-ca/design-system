@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca
 date: 2021-05-03
 dateModified: 2024-09-08
-description: "The Canada.ca design holds the reusable styles, templates and patterns that make Government of Canada digital services more usable, consistent and trustworthy."
+description: "The Canada.ca design website holds the reusable styles, templates and patterns that make Government of Canada digital services more usable, consistent and trustworthy."
 information:
   - title: Canada.ca Specifications
     link: /specifications.html
