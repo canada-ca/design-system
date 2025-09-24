@@ -43,6 +43,7 @@ title: "Canada.ca design"
     {%- endfor -%}
   </div>
 </section>
+<section>
   <h2>Find guidance</h2>
   <div class="row mrgn-tp-md">
     <div class="col-md-3 small">
