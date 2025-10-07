@@ -53,7 +53,7 @@ title: Most requested band
     <li>
         Layout:
         <ul>
-            <li>Columns: 2 columns of bullets on large and medium screens, single column of bullets on small screens (if you have only 2-3 links, make it a single column in all screen sizes)</li>
+            <li>Columns: 2 columns of bullets on large and medium screens, single column of bullets on small screens</li>
             <li>Tab order: left to right, then top to bottom</li>
         </ul>
     </li>
