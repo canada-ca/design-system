@@ -14,6 +14,18 @@ title: "Latest changes to the Canada.ca design system"
 </div>
 <div id="expand-collapse">
   <details open="open">
+    <summary>October 10, 2025</summary>
+    <p>We made the following changes:</p>
+    <ul>
+      <li>Updated the responsive viewer for the beta <a href="{{ site.url }}/common-design-patterns/tables.html">responsive data table component</a></li>
+      <li>Updated the <a href="{{ site.url }}/mandatory-templates/ministerial-profile-pages.html">ministerial profile page template</a> to include square image specifications, visual examples and implementation guidance</li>
+      <li>Revised the visual examples and headings and added links to the GCWeb implementation for the <a href="{{ site.url }}/common-design-patterns/in-page-toc.html">in-page table of contents pattern</a></li>
+      <li>Published guidance on how to <a href="{{ site.url }}/guidance/closed-programs.html">update web content for closed programs or services</a></li>
+      <li>Replaced our previous campaign template with new guidance on <a href="{{ site.url }}/guidance/campaigns.html">web content to support advertising or marketing campaigns</a>, which specifies that in some cases core content can be modified to incorporate campaign visuals instead of creating a dedicated campaign page</li>
+      <li>Removed the institutional byline pattern, which was replaced by the <a href="{{ site.url }}/common-design-patterns/contributors.html">contributors pattern</a></li>
+    </ul>
+  </details>
+  <details>
     <summary>May 15, 2025</summary>
     <p>Updated typography specifications in tandem with alignment activities for GCWeb and GC Design System. These specifications were updated in the following patterns:</p>
     <ul>
@@ -191,7 +203,7 @@ title: "Latest changes to the Canada.ca design system"
   </details>
   <details>
     <summary>February 12, 2020</summary>
-    <p>Carousels are no longer mandatory on <a href="{{ site.url }}/mandatory-templates/theme-pages.html">theme pages</a>.</p>
+    <p>Carousels are no longer mandatory on <a href="{{ site.url }}/mandatory-templates/theme.html">theme pages</a>.</p>
   </details>
   <details>
     <summary>February 3, 2020</summary>
