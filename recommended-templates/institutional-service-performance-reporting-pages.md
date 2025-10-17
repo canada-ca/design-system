@@ -153,12 +153,7 @@ title: "Institutional service performance reporting pages template"
           </summary>
           <ul>
            <li>
-            use the
-            <a href="../common-design-patterns/institutional-byline.html">
-             Institutional
-															byline
-            </a>
-            pattern
+            use the Institutional byline pattern
            </li>
           </ul>
          </details>

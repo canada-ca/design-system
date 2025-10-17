@@ -46,7 +46,7 @@ title: "Latest changes to the Canada.ca design system"
       <li><a href="{{ site.url }}/common-design-patterns/intro-block.html">Introduction block</a>: added a half-width image option</li>
       <li><a href="{{ site.url }}/common-design-patterns/services-information.html">Services and information</a>: added ability to style the "Services and information" heading as invisible</li>
       <li><a href="{{ site.url }}/common-design-patterns/social-media-channels.html">Social media channels</a>: added an option to include a "More ways to connect" link</li>
-      <li><a href="{{ site.url }}/common-design-patterns/contributors.html">Contributors</a>: changed the design, this pattern replaces the <a href="{{ site.url }}/common-design-patterns/institutional-byline.html">institutional byline pattern</a></li>
+      <li><a href="{{ site.url }}/common-design-patterns/contributors.html">Contributors</a>: changed the design, this pattern replaces the institutional byline pattern</li>
     </ul>
   </details>
  <details>
