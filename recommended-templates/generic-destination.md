@@ -133,9 +133,7 @@ title: Basic content page layout recommended template
          </a>
         </li>
         <li>
-         <a href="../common-design-patterns/institutional-byline.html">
           Institutional byline
-         </a>
         </li>
        </ul>
       </td>

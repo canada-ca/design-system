@@ -993,15 +993,6 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"{{ site.url }}/common-design-patterns/institutional-byline.html\">Institutional byline</a>",
-    "SOURCE": "Template and pattern library",
-    "DESCRIPTION": "Use to link to the institution responsible for the content",
-    "WHENTOUSE": "Use to link to the institution responsible for the content",
-    "CATEGORY": "Design pattern",
-    "TYPE": "Institutional",
-    "MANDATORY": "No",
-    "TANDP": "1"
-  }, {
     "NAME": "<a href=\"{{ site.url }}/recommended-templates/institutional-service-performance-reporting-pages.html\">Institutional service performance reporting page</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Use to present all service standards from an institution, as per the requirements in the Policy on Service",

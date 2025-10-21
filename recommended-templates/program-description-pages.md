@@ -8,7 +8,7 @@ title: 'Program description pages template'
 
 
 <div>
- 
+
  <p>
   A program description page provides information about an internal administrative activity that delivers a service.
  </p>
@@ -154,11 +154,7 @@ title: 'Program description pages template'
          </summary>
          <ul>
           <li>
-           use the
-           <a href="../common-design-patterns/institutional-byline.html">
-            Institutional byline
-           </a>
-           pattern
+           use the Institutional byline pattern
           </li>
          </ul>
         </details>

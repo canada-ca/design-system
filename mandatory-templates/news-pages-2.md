@@ -8,7 +8,7 @@ title: 'News pages mandatory template'
 
 
 <div>
- 
+
  <section>
   <p>
    <span class="label label-danger">
@@ -1125,11 +1125,7 @@ title: 'News pages mandatory template'
            </summary>
            <ul>
             <li>
-             use the
-             <a href="../common-design-patterns/institutional-byline.html">
-              Institutional byline
-             </a>
-             pattern
+             use the Institutional byline pattern
             </li>
            </ul>
           </details>
