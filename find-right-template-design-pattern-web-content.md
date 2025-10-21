@@ -206,7 +206,7 @@ title: "Find the right template and design patterns for your web content"
               <h2 class="panel-title">Generic destination page</h2>
             </header>
             <div class="panel-body">
-              <p>There are no specific template for your content. Make sure your page follows the <a href="/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html">Mandatory elements of the design system</a>.</p>
+              <p>There are no specific template for your content. Make sure your page follows the <a href="{{ site.url }}/specifications/mandatory-elements.html">Mandatory elements of the design system</a>.</p>
               <h3>Common design patterns</h3>
               <p>Build your pages using patterns from the <a href="{{ site.url }}/pattern-library.html">Template and pattern library</a>.</p>
             </div>

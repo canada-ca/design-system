@@ -44,7 +44,6 @@ Identify a set of tasks to investigate in more detail by using volumetric data:
 Analyze direct feedback from people attempting these tasks through the GC Task Success Survey, page feedback, previous usability testing or other direct research to help you narrow in on specific problems.
 
 * [Collect feedback, find issues](https://blog.canada.ca/2020/10/09/collect-feedback) (blog post)
-* [Page feedback pilot](https://design.canada.ca/continuous-improvement/monitoring/feedback.html)
 
 ### Call drivers, complaints, social media listening
 
