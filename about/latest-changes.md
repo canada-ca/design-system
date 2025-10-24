@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/a-propos/derniers-changements.html"
 date: 2017-10-05
-dateModified: 2025-10-10
+dateModified: 2025-10-24
 description: "Latest changes to the Canada.ca design system"
 layout: default
 title: "Latest changes to the Canada.ca design system"
@@ -74,7 +74,7 @@ title: "Latest changes to the Canada.ca design system"
   </details>
   <details>
     <summary>November 7, 2023</summary>
-    <p>Updated the <a href="{{ site.url }}/common-design-patterns/report-problem.html">Report a problem pattern</a> to inform users that it is being decommissioned. Stabilized the <a href="{{ site.url }}/common-design-patterns/page-feedback.html">GC Feedback pattern</a> and added content specifications and updated implementation instructions.</p>
+    <p>Updated the Report a problem pattern to inform users that it is being decommissioned. Stabilized the <a href="{{ site.url }}/common-design-patterns/page-feedback.html">GC Feedback pattern</a> and added content specifications and updated implementation instructions.</p>
   </details>
   <details>
     <summary>July 12, 2023</summary>
@@ -125,8 +125,8 @@ title: "Latest changes to the Canada.ca design system"
   </details>
   <details>
     <summary>June 17, 2021</summary>
-    <p>We made a change to the <a href="{{ site.url }}/common-design-patterns/site-footer.html">Site footer</a> documentation to make the <a href="{{ site.url }}/common-design-patterns/report-problem.html">Report a
-      problem pattern</a> optional.</p>
+    <p>We made a change to the <a href="{{ site.url }}/common-design-patterns/site-footer.html">Site footer</a> documentation to make the Report a
+      problem pattern optional.</p>
   </details>
   <details>
     <summary>May 21, 2021</summary>
@@ -219,7 +219,7 @@ title: "Latest changes to the Canada.ca design system"
     <ul>
       <li><a href="{{ site.url }}/specifications/mandatory-elements.html">Mandatory elements</a>: we moved the detailed guidance on mandatory elements to the template and pattern library</li>
       <li><a href="{{ site.url }}/mandatory-templates/institutional-profile-pages.html">Institutional landing page</a>: we are introducing a new beta template for the institutional landing page, merging the institutional and organizational profiles to better reflect the role and purpose of this mandatory template</li>
-      <li><a href="{{ site.url }}/common-design-patterns/report-problem.html">Report a problem</a>: we modified the guidance to allow for some customization</li>
+      <li>Report a problem: we modified the guidance to allow for some customization</li>
       <li><a href="{{ site.url }}/recommended-templates/transparency.html">Transparency template</a>: we are introducing a new suggested layout for transparency and corporate reporting information</li>
       <li><a href="{{ site.url }}/recommended-templates/generic-destination.html">Basic page layout</a>: we created examples that show how patterns can be combined in a basic page layout</li>
       <li><a href="{{ site.url }}/common-design-patterns/contextual-alerts.html">Contextual alerts</a>: we are introducing a new beta pattern for contextual alerts</li>
