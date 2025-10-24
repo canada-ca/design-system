@@ -1173,15 +1173,6 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"{{ site.url }}/common-design-patterns/report-problem.html\">Report a problem</a>",
-    "SOURCE": "Template and pattern library",
-    "DESCRIPTION": "Allows people to provide feedback via a form for any problems that may have happened. This pattern is being decommissioned. We do not recommend adding it to your pages.",
-    "WHENTOUSE": "Allows people to provide feedback via a form for any problems that may have happened. This pattern is being decommissioned. We do not recommend adding it to your pages.",
-    "CATEGORY": "Design pattern",
-    "TYPE": "Site-wide pattern, Interaction",
-    "MANDATORY": "No",
-    "TANDP": "1"
-  }, {
     "NAME": "<a href=\"{{ site.url }}/mandatory-templates/search-page.html\">Search page</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Provides the template for the search engine on Canada.ca",
@@ -1206,15 +1197,6 @@
     "WHENTOUSE": "Use to present sets of links with accompanying descriptions",
     "CATEGORY": "Design pattern",
     "TYPE": "Navigation",
-    "MANDATORY": "No",
-    "TANDP": "1"
-  }, {
-    "NAME": "<a href=\"{{ site.url }}/common-design-patterns/share-page.html\">Share this page</a>",
-    "SOURCE": "Template and pattern library",
-    "DESCRIPTION": "Allows people to share the content of the page to other users",
-    "WHENTOUSE": "Allows people to share the content of the page to other users",
-    "CATEGORY": "Design pattern",
-    "TYPE": "Site-wide pattern, Interaction",
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
