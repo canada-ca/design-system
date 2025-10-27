@@ -25,7 +25,7 @@ title: Content footer
   <p><a href="site-footer.html">See Global footer</a> for guidance on how to apply the contextual footer band, main footer band and sub-footer band.</p>
 
   <h2>How to implement the content footer</h2>
-  <p>The content footer displays up to 3 components:</p>
+  <p>The content footer displays up to 2 components:</p>
   <ul>
    <li>
      <a href="https://design.canada.ca/common-design-patterns/page-feedback.html">GC Feedback</a> (optional)
