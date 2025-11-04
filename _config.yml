@@ -59,7 +59,13 @@
         }]
       }
     },
-    "lang": "en"
+    "feedbackPath": {
+      "en": "https://www.canada.ca/etc/designs/canada/wet-boew/assets/feedback/page-feedback-en.html"
+    },
+    "lang": "en",
+    "sitemenuPath": {
+      "en": "https://www.canada.ca/content/dam/canada/sitemenu/sitemenu-v2-en.html"
+    }
   },
   "language": {
     "en": "English",
@@ -92,11 +98,14 @@
           "https://use.fontawesome.com/releases/v5.15.4/css/all.css",
           "/css/custom.css"
         ],
+        "feedback": true,
+        "feedbackData": {
+          "theme": "AboutGov"
+        },
         "lang": "en",
         "layout": "default",
         "pageclass": "cnt-wdth-lmtd",
         "script": [
-          "/js/gc-pg-hlpfl.js",
           "/js/url-swap.js"
         ],
         "share": true
