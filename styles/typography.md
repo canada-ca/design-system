@@ -50,9 +50,6 @@ title: Typography style
   font-weight: bold;
 }</code></pre>
 
-<p>Style</p>
-<pre class="prettyprint linenums lang-css"><code>&lt;link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Canadian+Aboriginal:wght@400;700&display=swap" rel="stylesheet"&gt;</code></pre>
-
 <p><a href="https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes">List of ISO 639 language codes</a></p>
 <h2>Main page title</h2>
 <p>When the H1 is the main title of a page, it includes a red bar as part of the Canada.ca brand.</p>
