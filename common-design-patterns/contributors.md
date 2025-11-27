@@ -50,8 +50,7 @@ title: Contributors
     <p>Use standard paragraph, heading and link <a href="https://design.canada.ca/styles/colours.html">colours</a>.</p>
     <p>The heading is an H2 styled at font-size: 87% (or 17px).</p>
     <p>The list items are bolded and sized at font-size: 87% (or 17px).</p>
-    <p>The links are to the right of the H2 and are coded in a horizontal list in desktop with a vertical bar. The first item and last item in the list is unstyled (no vertical bar or bullet).</p>
-    <p>The list is presented as a stacked list of bullets in mobile.</p>
+    <p>The links are to the right of the H2 and are coded in a horizontal list in desktop with a vertical bar. The list becomes a stacked list of bullets in mobile. The first item and last item in the list is unstyled (no vertical bar or bullet).</p>
     <h3>Visual example</h3>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
