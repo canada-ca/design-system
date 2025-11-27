@@ -50,7 +50,8 @@ title: Contributors
     <p>Use standard paragraph, heading and link <a href="https://design.canada.ca/styles/colours.html">colours</a>.</p>
     <p>The heading is an H2 styled at font-size: 87% (or 17px).</p>
     <p>The list items are bolded and sized at font-size: 87% (or 17px).</p>
-    <p>The links are to the right of the H2 and are coded in a horizontal list. The first item in the list is unstyled (no bullet).</p>
+    <p>The links are to the right of the H2 and are coded in a horizontal list in desktop with a vertical bar. The first item and last item in the list is unstyled (no vertical bar or bullet).</p>
+    <p>The list is presented as a stacked list of bullets in mobile.</p>
     <h3>Visual example</h3>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
@@ -59,7 +60,7 @@ title: Contributors
             <details>
                 <summary>Image description: contributors</summary>
                 <p>
-                    The heading “From:” is aligned to the left. Two placeholder links appear in a list, aligned horizontally with the heading. The placeholder link text is [Department or agency 1]. This is followed by a bullet and then
+                    The heading “From:” is aligned to the left. Two placeholder links appear in a list, aligned horizontally with the heading. The placeholder link text is [Department or agency 1]. This is followed by a vertical bar and then
                     another placeholder link labeled [Department or agency 2]
                 </p>
             </details>
