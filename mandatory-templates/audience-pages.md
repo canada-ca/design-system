@@ -1,19 +1,20 @@
 ---
 altLangPage: https://conception.canada.ca/modeles-obligatoire/pages-publics-cibles.html
 date: "2018-09-19"
-dateModified: "2018-09-19"
-description: null
-title: "Audience pages must only be used when people are accustomed to accessing services delivered along audience lines"
+dateModified: "2025-11-26"
+description: We’re decommissioning this pattern and don’t recommend using it on your pages. Gives access to information and services relevant to a government-wide audience.
+title: "No longer supported: Government-wide audience page"
+titleH1: "Government-wide audience page"
 ---
-<section><p><span class="label label-danger">Mandatory</span></p>
-<p>In general, audience-based navigation must be avoided as it often creates additional effort for people who come to Canada.ca to complete tasks. For this reason, audience pages must only be used when people are accustomed to accessing services delivered along audience lines.</p>
-<p>An audience-based navigation page (topic or index) can be used when:</p>
-<ul>
-  <li>information and services are specifically oriented to that audience for purposes of service delivery</li>
-  <li>access to services is limited to a specific audience</li>
-  <li>the audience is currently being served across all communications channels (by telephone, in person, on the web)</li>
-</ul>
+<section class="alert alert-info">
+  <h2>Information</h2>
+  <p>We’re decommissioning this pattern as government-wide audience pages are now treated as themes. Use topic page templates for helping audiences navigate through your content instead:</p>
+  <ul>
+    <li><a href="topic.html">Topic page template</a></li>
+    <li><a href="theme.html">Theme page</a></li>
+  </ul>
 </section>
+
 <section>
   <h2>On this page</h2>
   <ul>
@@ -21,6 +22,7 @@ title: "Audience pages must only be used when people are accustomed to accessing
     <li><a href="#specifications">How to use this template</a></li>
     <li><a href="#examples">Working examples</a></li>
     <li><a href="#navigation">User navigation</a></li>
+    <li><a href="#latest-changes">Latest changes</a></li>
   </ul>
 </section>
 <section>
@@ -105,7 +107,7 @@ title: "Audience pages must only be used when people are accustomed to accessing
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'><strong>Content</strong></summary>
                 <ul>
                   <li>the image may appear elsewhere on the site</li>
-                  <li>use the <a href="../common-design-patterns/images.html">Images</a>pattern</li>
+                  <li>use the <a href="../common-design-patterns/images.html">Images</a> pattern</li>
                 </ul>
               </details>
             </li>
@@ -131,7 +133,7 @@ title: "Audience pages must only be used when people are accustomed to accessing
               <details class="mrgn-bttm-sm">
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'><strong>Content</strong></summary>
                 <ul>
-                  <li>use the <a href="../common-design-patterns/social-media-channels.html">Social media channels block (follow box)</a>pattern</li>
+                  <li>use the <a href="../common-design-patterns/social-media-channels.html">Social media channels block (follow box)</a> pattern</li>
                 </ul>
               </details>
             </li>
@@ -154,7 +156,7 @@ title: "Audience pages must only be used when people are accustomed to accessing
               <details class="mrgn-bttm-sm">
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'><strong>Content</strong></summary>
                 <ul>
-                  <li>use the <a href="../common-design-patterns/services-information.html">Services and information</a>pattern</li>
+                  <li>use the <a href="../common-design-patterns/services-information.html">Services and information</a> pattern</li>
                 </ul>
               </details>
             </li>
@@ -178,7 +180,7 @@ title: "Audience pages must only be used when people are accustomed to accessing
               <details class="mrgn-bttm-sm">
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'><strong>Content</strong></summary>
                 <ul>
-                  <li>use the <a href="../common-design-patterns/feature-tiles.html">Context-specific features</a>pattern</li>
+                  <li>use the <a href="../common-design-patterns/feature-tiles.html">Context-specific features</a> pattern</li>
                 </ul>
               </details>
             </li>
@@ -199,23 +201,31 @@ title: "Audience pages must only be used when people are accustomed to accessing
 <section>
   <h2 id="examples">Working examples</h2>
   <ul>
-    <li><a href="http://wet-boew.github.io/themes-dist/GCWeb/gc-audience-en.html">English working example</a>(on GitHub)</li>
-    <li><a href="http://wet-boew.github.io/themes-dist/GCWeb/gc-audience-fr.html">French working example</a>(on GitHub)</li>
+    <li><a href="http://wet-boew.github.io/themes-dist/GCWeb/gc-audience-en.html">English working example</a> (on GitHub)</li>
+    <li><a href="http://wet-boew.github.io/themes-dist/GCWeb/gc-audience-fr.html">French working example</a> (on GitHub)</li>
   </ul>
 </section>
 <section>
-<h2 id="navigation">User navigation</h2>
-<p>When a government-wide audience page is used, it is accessible from:</p>
-<ul>
-  <li>the home page</li>
-  <li>any topic pages that relate to that audience</li>
-  <li>institutional and organizational profile pages</li>
-</ul>
-<figure class="mrgn-bttm-lg">
-  <figcaption class="text-center"><b>User navigation diagram</b></figcaption>
-  <img alt="Diagram of how to navigate to GC-wide audience pages on Canada.ca. Text version below:" class="img-responsive center-block" src="https://www.canada.ca/content/dam/tbs-sct/images/government-communications/canada-content-style-guide/audience-pages-ia-eng.png"/>
-  <details>
-    <summary class="wb-toggle" data-toggle='{"print":"on"}'>Text version</summary>
-    <p><abbr title="Government of Canada">GC</abbr>-wide audience pages can be accessed from the home page, related institutional profiles and related topic pages.</p>
-  </details>
-</figure>
+  <h2 id="navigation">User navigation</h2>
+  <p>When a government-wide audience page is used, it is accessible from:</p>
+  <ul>
+    <li>the home page</li>
+    <li>any topic pages that relate to that audience</li>
+    <li>institutional and organizational profile pages</li>
+  </ul>
+  <figure class="mrgn-bttm-lg">
+    <figcaption class="text-center"><b>User navigation diagram</b></figcaption>
+    <img alt="Diagram of how to navigate to GC-wide audience pages on Canada.ca. Text version below:" class="img-responsive center-block" src="https://www.canada.ca/content/dam/tbs-sct/images/government-communications/canada-content-style-guide/audience-pages-ia-eng.png"/>
+    <details>
+      <summary class="wb-toggle" data-toggle='{"print":"on"}'>Text version</summary>
+      <p><abbr title="Government of Canada">GC</abbr>-wide audience pages can be accessed from the home page, related institutional profiles and related topic pages.</p>
+    </details>
+  </figure>
+</section>
+<section>
+  <h2 id="latest-changes">Latest changes</h2>
+  <dl>
+    <dt><time>2025-11-26</time></dt>
+    <dd>Added an alert to indicate that this pattern is scheduled for decommission. The reason for decommissioning this template is that government-wide audience pages are now treated as themes.</dd>
+  </dl>
+</section>
