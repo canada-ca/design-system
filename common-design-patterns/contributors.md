@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/configurations-conception-communes/collaborateurs.html
 date: null
-dateModified: '2024-09-24'
+dateModified: '2025-11-28'
 description: null
 title: Contributors
 ---
