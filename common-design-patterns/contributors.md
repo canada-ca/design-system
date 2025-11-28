@@ -60,7 +60,7 @@ title: Contributors
                 <summary>Image description: contributors</summary>
                 <p>
                     The heading “From:” is aligned to the left. Two placeholder links appear in a list, aligned horizontally with the heading. The placeholder link text is [Department or agency 1]. This is followed by a vertical bar and then
-                    another placeholder link labeled [Department or agency 2]
+                    another placeholder link labeled [Department or agency 2].
                 </p>
             </details>
         </figure>
