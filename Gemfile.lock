@@ -99,6 +99,7 @@ DEPENDENCIES
   base64
   bigdecimal
   csv
+  jekyll (~> 4.3)
   jekyll-remote-theme!
   logger
   rake (>= 0.a)
