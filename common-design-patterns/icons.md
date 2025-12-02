@@ -7,7 +7,7 @@ title: "No longer supported: Icons design pattern"
 titleH1: Icons design pattern
 ---
 <section class="alert alert-info">
-  <h2>Information</h2>
+  <h2>Decommissioning</h2>
   <p>We’re decommissioning this pattern and don’t recommend using it on your pages. For questions related to this pattern, <a href="mailto:cds.dto-btn.snc@servicecanada.gc.ca">contact the Digital Transformation Office.</a></p>
 </section>
 
