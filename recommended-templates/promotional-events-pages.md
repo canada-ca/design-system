@@ -7,7 +7,7 @@ title: 'No longer supported: Promotional events pages template'
 titleH1: "Promotional events pages template"
 ---
 <section class="alert alert-info">
-  <h2>Information</h2>
+  <h2>Decommissioning</h2>
   <p>We’re decommissioning this pattern and don’t recommend using it on your pages.</p>
   <p>If your event is affiliated with a planned Government of Canada marketing initiative, consult the <a href="https://design.canada.ca/guidance/campaigns.html">guidance on web content to support advertising or marketing campaigns</a>.</p>
 </section>
