@@ -7,7 +7,7 @@ title: "No longer supported: Related links design pattern"
 titleH1: Related links design pattern
 ---
 <section class="alert alert-info">
-  <h2>Information</h2>
+  <h2>Decommissioning</h2>
   <p>We’re decommissioning this pattern and don’t recommend using it on your pages. <a href="https://design.canada.ca/style-guide/#toc11">Canada.ca Content Style Guide guidance on links</a>.</p>
 </section>
 
