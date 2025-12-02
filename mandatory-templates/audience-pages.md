@@ -7,7 +7,7 @@ title: "No longer supported: Government-wide audience page"
 titleH1: "Government-wide audience page"
 ---
 <section class="alert alert-info">
-  <h2>Information</h2>
+  <h2>Decommissioning</h2>
   <p>We’re decommissioning this pattern as government-wide audience pages are now treated as themes. Use topic page templates for helping audiences navigate through your content instead:</p>
   <ul>
     <li><a href="topic.html">Topic page template</a></li>
