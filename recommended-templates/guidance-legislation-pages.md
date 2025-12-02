@@ -7,7 +7,7 @@ title: "No longer supported: Guidance on legislation pages"
 titleH1: 'Guidance on legislation pages template'
 ---
 <section class="alert alert-info">
-  <h2>Information</h2>
+  <h2>Decommissioning</h2>
   <p>We’re decommissioning this template as it was not widely used.</p>
 </section>
 
