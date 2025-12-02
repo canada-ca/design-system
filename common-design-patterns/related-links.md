@@ -8,7 +8,7 @@ titleH1: Related links design pattern
 ---
 <section class="alert alert-info">
   <h2>Decommissioning</h2>
-  <p>We’re decommissioning this pattern and don’t recommend using it on your pages. <a href="https://design.canada.ca/style-guide/#toc11">Canada.ca Content Style Guide guidance on links</a>.</p>
+  <p>We’re decommissioning this pattern and don’t recommend using it on your pages. Follow the <a href="https://design.canada.ca/style-guide/#toc11">Canada.ca Content Style Guide guidance on links</a>.</p>
 </section>
 
 <section>
