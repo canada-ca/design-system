@@ -11,7 +11,7 @@ title: "Latest changes to the Canada.ca design system"
 </div>
 <div id="expand-collapse">
   <details open="open">
-    <summary><time datetime="2025-12-02">December 02, 2025</time></summary>
+    <summary><time datetime="2025-12-02">December 2, 2025</time></summary>
     <p>We made the following changes:</p>
     <ul>
       <li>Updated the <a href="{{ site.url }}/common-design-patterns/services-information.html">services and information pattern</a> to include guidance on using section headings, grey banding and/or single column layouts</li>
