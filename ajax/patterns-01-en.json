@@ -1184,8 +1184,8 @@
   }, {
     "NAME": "<a href=\"{{ site.url }}/recommended-templates/service-initiation-pages.html\">Service initiation page</a>",
     "SOURCE": "Template and pattern library",
-    "DESCRIPTION": "We’re decommissioning this pattern. Gives people the information they need before starting the task, such as explaining eligibility criteria or steps to follow",
-    "WHENTOUSE": "We’re decommissioning this pattern. Gives people the information they need before starting the task, such as explaining eligibility criteria or steps to follow. Gives people easy access to service standards, turnaround times, related services, guides and help.",
+    "DESCRIPTION": "Gives people the information they need before starting the task, such as explaining eligibility criteria or steps to follow",
+    "WHENTOUSE": "Gives people the information they need before starting the task, such as explaining eligibility criteria or steps to follow. Gives people easy access to service standards, turnaround times, related services, guides and help.",
     "CATEGORY": "Template",
     "TYPE": "Destination, Navigation",
     "MANDATORY": "No",
