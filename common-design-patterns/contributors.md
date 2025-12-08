@@ -46,7 +46,7 @@ title: Contributors
   <p>The list items are bolded and sized at font-size: 87% (or 17px).</p>
   <p>The links are to the right of the H2 and are coded in a horizontal list. The first item in the list is unstyled (no bullet).</p>
 
-  <h3>Visual example</h3>
+  <h3 id="visual">Visual example</h3>
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
       <figcaption><b>Contributors pattern</b></figcaption>
