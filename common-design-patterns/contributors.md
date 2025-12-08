@@ -39,7 +39,7 @@ title: Contributors
 <section>
   <h2 id="design">Design specifications</h2>
   <p>This pattern is positioned below all content on the page, but above the date modified field.</p>
-  <p>Do not place the text block in line with other text blocks or layout elements;</p>
+  <p>Do not place the text block in line with other text blocks or layout elements.</p>
   <p>Left-align the heading and the links.</p>
   <p>Use standard paragraph, heading and link colours. <a href="https://design.canada.ca/styles/colours.html">Refer to the guidance about use of colour on Canada.ca</a>.</p>
   <p>The heading is an H2 styled at font-size: 87% (or 17px).</p>
@@ -70,6 +70,6 @@ title: Contributors
   <h2 id="changes">Latest changes</h2>
   <dl class="dl-horizontal">
     <dt><time>2025-12-03</time></dt>
-    <dd>Guidance was updated to clarify when it is appropriate to use a contributors pattern.</dd>
+    <dd>Guidance was updated to clarify when it is appropriate to use a contributors pattern</dd>
   </dl>
 </section>
