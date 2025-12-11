@@ -195,7 +195,7 @@ For larger datasets, it’s helpful to use a tool that has more advanced functio
 
 For institutions that receive high volumes of feedback, we are piloting alternative methods to access and analyze feedback using data science tools.
 
-Contact the Digital Transformation Office if you are receiving more feedback that you can manage through manual analysis.
+Contact the Canada.ca Experience Office if you are receiving more feedback that you can manage through manual analysis.
 
 Email: [{{ site.emails.dto }}](mailto:{{ site.emails.dto }})
 

@@ -2,13 +2,13 @@
 altLangPage: "https://conception.canada.ca/resumes-recherche/confiance.html"
 date: 2023-08-15
 dateModified: 2023-08-15
-description: "The Digital Transformation Office (DTO) conducted a Trust study to better understand which Government of Canada design elements are more strongly associated with trust and confidence in the brand."
+description: "The Canada.ca Experience Office (CEO) conducted a Trust study to better understand which Government of Canada design elements are more strongly associated with trust and confidence in the brand."
 language: en
 title: "Trust study: Canada.ca design elements"
 ---
 <p>In recent years, Canada has seen an unprecedented number of fraud <span class="nowrap">cases<sup id="fn1-rf"><a class="fn-lnk" href="#fn1"><span class="wb-inv">Footnote </span>1</a></sup></span>. Many of these cases target their victims through websites that attempt to look like official sites. This makes it more important than ever to ensure that users can recognize official Government of Canada (GC) websites.</p>
 <p>Consistency in design is a crucial element to help foster trust among users. Our Wayfinding research project suggested that consistent design elements across pages increased trust that users were on official Government of Canada sites.</p>
-<p>The Digital Transformation Office (DTO) conducted a Trust study to better understand which Government of Canada design elements are more strongly associated with trust and confidence in the brand. The study measured and compared respondents' trust in the following:</p>
+<p>The Canada.ca Experience Office (CEO) conducted a Trust study to better understand which Government of Canada design elements are more strongly associated with trust and confidence in the brand. The study measured and compared respondents' trust in the following:</p>
 <ul>
   <li>Federal Identity Program (FIP) flag signatures</li>
   <li>Canada.ca domain</li>

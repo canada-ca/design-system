@@ -8,7 +8,7 @@ titleH1: Icons design pattern
 ---
 <section class="alert alert-info">
   <h2>Decommissioning</h2>
-  <p>We’re decommissioning this pattern and don’t recommend using it on your pages. For questions related to this pattern, <a href="mailto:cds.dto-btn.snc@servicecanada.gc.ca">contact the Digital Transformation Office.</a></p>
+  <p>We’re decommissioning this pattern and don’t recommend using it on your pages. For questions related to this pattern, <a href="mailto:cds.dto-btn.snc@servicecanada.gc.ca">contact the Canada.ca Experience Office.</a></p>
 </section>
 
 <section>

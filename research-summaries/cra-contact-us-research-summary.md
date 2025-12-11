@@ -2,13 +2,13 @@
 altLangPage: "https://conception.canada.ca/resumes-recherche/arc-contactez-nous-resume-recherche.html"
 date: 2019-11-01
 dateModified: 2019-11-01
-description: "Using call centre evidence and web analytics data, the Treasury Board Secretariat (TBS) Digital Transformation Office (DTO) partnered with Canada Revenue Agency to work towards improving outcomes."
+description: "Using call centre evidence and web analytics data, the Treasury Board Secretariat (TBS) Canada.ca Experience Office (CEO) partnered with Canada Revenue Agency to work towards improving outcomes."
 language: en
 title: "Contact the CRA"
 ---
 <p class="post-meta">November 1, 2019</p>
 <p>Millions of calls come in to the Canada Revenue Agency (CRA) Call Centre every year from Canadians asking about their taxes, benefits and businesses. At least 5 million of the callers look up the phone number on Canada.ca. This pushes CRA’s Contact page up into one of Canada.ca’s top tasks. </p>
-<p>It’s possible to complete many common tasks online, like changing an address or finding the correct mailing address for a form. If Canadians knew how to complete these tasks online, many calls could be avoided. This would free up agents so they could resolve more complex problems by phone. Using call centre evidence and web analytics data, the Treasury Board Secretariat (TBS) Digital Transformation Office (DTO) partnered with <abbr title="Canada Revenue Agency">CRA</abbr> to work towards improving outcomes.</p>
+<p>It’s possible to complete many common tasks online, like changing an address or finding the correct mailing address for a form. If Canadians knew how to complete these tasks online, many calls could be avoided. This would free up agents so they could resolve more complex problems by phone. Using call centre evidence and web analytics data, the Treasury Board Secretariat (TBS) Canada.ca Experience Office (CEO) partnered with <abbr title="Canada Revenue Agency">CRA</abbr> to work towards improving outcomes.</p>
 <h2>Good outcomes involve call centre agents</h2>
 <p><abbr title="Canada Revenue Agency">CRA</abbr> call centre agents and specialists from the Cross Channel Optimization Section in the Call Centre Strategic Planning and Operations Division joined the team. They generated an extensive set of real-world job story scenarios. These scenarios reflected the problems and contexts that drive the highest volume of calls. </p>
 <p>For example:</p>

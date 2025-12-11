@@ -16,7 +16,7 @@ title: GC Task Success Survey methodology
     </div>
 </div>
 
-The survey is a collaboration between Principal Publisher and the Digital Transformation Office and is mandatory for all GC websites covered under FAA Schedules I, I.1 and II.
+The survey is a collaboration between Principal Publisher and the Canada.ca Experience Office and is mandatory for all GC websites covered under FAA Schedules I, I.1 and II.
 
 ## On this page
 

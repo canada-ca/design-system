@@ -2,13 +2,13 @@
 altLangPage: "https://conception.canada.ca/resumes-recherche/prochesaidants-resume-recherche.html"
 date: 2022-12-21
 dateModified: 2023-08-15
-description: "The Digital Transformation Office, Service Canada, and Employment and Social Development Canada collaborated to make it easier to find, understand and access those EI benefits."
+description: "The Canada.ca Experience Office, Service Canada, and Employment and Social Development Canada collaborated to make it easier to find, understand and access those EI benefits."
 language: en
 title: "Employment Insurance caregiving benefits"
 ---
 <p class="post-meta">Sept 6, 2018</p>
 <p>Employment Insurance (EI) is a service that touches almost 2 million Canadians every year<sup id="fn1-0-rf"><a class="fn-lnk" href="#fn1"><span class="wb-inv">Footnote </span>1</a></sup>. Certain <abbr title="Employment Insurance">EI</abbr> benefits are designed specifically for Canadians caring for a critically ill or injured family member, or for someone needing end of life care.</p>
-<p>The Digital Transformation Office, Service Canada, and Employment and Social Development Canada collaborated to make it easier to find, understand and access those <abbr title="Employment Insurance">EI</abbr> benefits. </p>
+<p>The Canada.ca Experience Office, Service Canada, and Employment and Social Development Canada collaborated to make it easier to find, understand and access those <abbr title="Employment Insurance">EI</abbr> benefits. </p>
 <p>Improving client service delivery is a top priority on Canada.ca. The team was motivated to help Canadians understand which benefits are available to them and how to apply. Awareness of this motivated the team to improve the information provided on Canada.ca. We researched, designed and tested a new prototype in just over three months. It succeeded in: </p>
 <ul>
   <li>explaining the distinctions between three closely-related caregiving benefits </li>

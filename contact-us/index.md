@@ -3,16 +3,16 @@ altLangPage: "https://conception.canada.ca/contactez-nous/"
 breadcrumbs: false
 date: 2023-04-18
 dateModified: 2024-02-20
-description: "Contact the Digital Transformation Office about the Canada.ca design system."
+description: "Contact the Canada.ca Experience Office about the Canada.ca design system."
 nomenu: true
 noReportProblem: true
 nositesearch: true
 script: ./gc-referrer.js
 share: false
-title: "Contact the Digital Transformation Office"
+title: "Contact the Canada.ca Experience Office"
 ---
 
-<p>The Digital Transformation Office (DTO) is a division of Employment and Social Development Canada. We welcome your questions and suggestions about the design of Canada.ca.</p>
+<p>The Canada.ca Experience Office (CEO) is a division of Employment and Social Development Canada. We welcome your questions and suggestions about the design of Canada.ca.</p>
 <p>Please note that we can only respond to questions specifically about the design of, or issues related to, Canada.ca. For contact information for other departments or programs, please visit:</p>
 <ul>
   <li><a href="https://www.canada.ca/en/contact.html">Government of Canada contacts</a></li>

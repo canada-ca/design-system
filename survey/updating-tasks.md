@@ -26,7 +26,7 @@ Select the following categories from the drop-down menus when submitting the req
 > Category > Website Surveys
 > Subcategory > GC Task Success Survey: Request edit to task list
 
-Changes are reviewed by theme leads, Digital Transformation Office (DTO) and Principal Publisher. Updates to the task list are compiled and implemented on a monthly basis.
+Changes are reviewed by theme leads, Canada.ca Experience Office (CEO) and Principal Publisher. Updates to the task list are compiled and implemented on a monthly basis.
 
 [Submit a Service Desk request (internal only)](http://requestform.portal.gc.ca/tickets.html)
 

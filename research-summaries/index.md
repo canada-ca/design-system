@@ -2,11 +2,11 @@
 altLangPage: "https://conception.canada.ca/resumes-recherche/"
 date: 2024-01-10
 dateModified: 2024-02-27
-description: "Summaries of the research the Digital Transformation Office (DTO) and federal departments undertook to make it easier for people to find and understand Government of Canada information and services on Canada.ca."
+description: "Summaries of the research the Canada.ca Experience Office (CEO) and federal departments undertook to make it easier for people to find and understand Government of Canada information and services on Canada.ca."
 language: en
 title: "Research summaries"
 ---
-<p>Summaries of the research the Digital Transformation Office (DTO) and federal departments undertook to make it easier for people to find and understand Government of Canada information and services on Canada.ca.</p>
+<p>Summaries of the research the Canada.ca Experience Office (CEO) and federal departments undertook to make it easier for people to find and understand Government of Canada information and services on Canada.ca.</p>
 <h2>List of research summaries</h2>
 <ul class="mrgn-tp-lg">
   <li><a href="/research-summaries/travel-restrictions-study.html">Travel restrictions study</a></li>
