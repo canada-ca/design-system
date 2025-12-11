@@ -7,10 +7,10 @@ css:
    - css/card.css
 date: 2020-11-20
 dateModified: 2024-01-25
-description: "The Digital Transformation Office works with federal institutions to make Canada.ca content easier to find and understand."
+description: "The Canada.ca Experience Office works with federal institutions to make Canada.ca content easier to find and understand."
 title: Working with partners to improve task success on Canada.ca
 ---
-<p>The Digital Transformation Office works with federal institutions to make Canada.ca content easier to find and understand.</p>
+<p>The Canada.ca Experience Office works with federal institutions to make Canada.ca content easier to find and understand.</p>
 <p>Our method includes working collaboratively to:</p>
 <ul>
   <li>set concrete usability targets</li>
@@ -94,7 +94,7 @@ title: Working with partners to improve task success on Canada.ca
     <div class="card hght-inhrt"><a href="{{ site.url }}/partners/project-08.html" aria-label="Contact the CRA"><img src="images/blank-blue-lm.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Contact the CRA</h3>
-        <p class="mrgn-tp-lg"><strong>Purpose</strong>: Improve online task success by helping users find answers. Using call centre evidence and web analytics data, the Digital Transformation Office (DTO) partnered with Canada Revenue Agency to work towards improving outcomes.</p>
+        <p class="mrgn-tp-lg"><strong>Purpose</strong>: Improve online task success by helping users find answers. Using call centre evidence and web analytics data, the Canada.ca Experience Office (CEO) partnered with Canada Revenue Agency to work towards improving outcomes.</p>
         <p><strong>Date</strong>: 2019</p>
         <p><strong>Partner</strong>: Canada Revenue Agency</p>
       </div>

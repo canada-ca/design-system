@@ -7,7 +7,7 @@ language: en
 title: "Employment insurance maternity and parental benefits"
 ---
 <p class="post-meta">August 23, 2019</p>
-<p>This optimization project was undertaken by the Digital Transformation Office (DTO) in close collaboration with Service Canada’s Employment Insurance (EI) delivery and policy teams, and the Employment and Social Development Canada (ESDC) web team. Our goal was to make employment insurance maternity and parental benefits easier to find and understand for Canadians planning to expand their family.</p>
+<p>This optimization project was undertaken by the Canada.ca Experience Office (CEO) in close collaboration with Service Canada’s Employment Insurance (EI) delivery and policy teams, and the Employment and Social Development Canada (ESDC) web team. Our goal was to make employment insurance maternity and parental benefits easier to find and understand for Canadians planning to expand their family.</p>
 <p>During our discovery research, we looked at a lot of external websites. We wanted to know what Canadian parents were sharing about maternity leave, parental leave, and navigating the EI system. This helped us understand which aspects of accessing these benefits people find most complex.</p>
 <p>We found that people struggled with:</p>
 <ul>

@@ -7,7 +7,7 @@ language: en
 title: "Travel advice and advisories"
 ---
 <p class="post-meta">November 1, 2019</p>
-<p>The travel advice and advisories optimization project took place from January to March 2019. The goal was to make it easier for Canadians to find and understand the travel advice and guidance available on Canada.ca. The project team was co-led by the Treasury Board Secretariat  Digital Transformation Office (DTO), and Global Affairs Canada (GAC).</p>
+<p>The travel advice and advisories optimization project took place from January to March 2019. The goal was to make it easier for Canadians to find and understand the travel advice and guidance available on Canada.ca. The project team was co-led by the Treasury Board Secretariat  Canada.ca Experience Office (CEO), and Global Affairs Canada (GAC).</p>
 <p>It also included GAC’s partners in delivering travel-related content:</p>
 <ul>
   <li>Immigration, Refugees and Citizenship Canada (IRCC)</li>

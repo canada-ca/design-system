@@ -20,7 +20,7 @@ title: Research and prototyping
 
 There is no single method for continuous optimization, but most approaches will follow a similar process.  You identify a problem, research the issue, gather a baseline, prototype and test (as many times as needed), go live, and finally measure the impact of your work.
 
-The method described here is how the Digital Transformation Office approaches content optimization projects.
+The method described here is how the Canada.ca Experience Office approaches content optimization projects.
 
 <figure>
  <img alt="A long description can be found after the image." class="img-responsive border" src="../images/optimization_process.png">

@@ -7,7 +7,7 @@ language: en
 title: "Student loans and grants optimization"
 ---
 <p class="post-meta">August 22, 2019</p>
-<p>In 2016, the Government of Canada supported 490,000 full-time students with a total of $2.7 billion in loans. Many students begin or manage their student loan journey through the Student loans and grants pages on Canada.ca. In the fall of 2018, we began a collaborative project to improve the success of students using those pages. The project team included members of the Canada Student Grants and Loans Program team, the Employment and Social Development Canada (ESDC) web team, and the Digital Transformation Office from Treasury Board.</p>
+<p>In 2016, the Government of Canada supported 490,000 full-time students with a total of $2.7 billion in loans. Many students begin or manage their student loan journey through the Student loans and grants pages on Canada.ca. In the fall of 2018, we began a collaborative project to improve the success of students using those pages. The project team included members of the Canada Student Grants and Loans Program team, the Employment and Social Development Canada (ESDC) web team, and the Canada.ca Experience Office from Treasury Board.</p>
 <p>We limited the project to the Canada.ca pages related to student aid. The National Student Loans Service Centre (NSLSC) is a separate website to which students must sign in.</p>
 <h2>Students mostly interact through their province</h2>
 <p>While the Government of Canada funds student loans, it is the provinces that manage them. Students use the provincial sites to apply and re-apply. They may never have any interaction with Canada.ca at all. It is not usually until they need to repay, or need help repaying, that they interact with any federal pages. </p>

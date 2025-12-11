@@ -140,7 +140,7 @@ title: "Government of Canada signature"
 <h3>Research findings</h3>
 <p>Trust and consistency are essential. Our Canada.ca Trust Study and prior research show that a consistent header is necessary to maintaining a trusted brand.</p>
 <p>For example, people trust the page more when the flag in the Government of Canada signature is red.</p>
-<p>If you want to know more about this research, contact the Digital Transformation Office at <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a>.</p>
+<p>If you want to know more about this research, contact the Canada.ca Experience Office at <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a>.</p>
 
 <h3>Policy rationale</h3>
 <p>The Government of Canada signature is defined by the Federal Identity Program. As a part of the global header, it is a mandatory element under the <cite>Canada.ca Specifications.</cite></p>

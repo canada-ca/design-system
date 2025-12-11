@@ -7,7 +7,7 @@ language: en
 title: "Recalls and safety alerts search optimization, Round 2"
 ---
 <p class="post-meta">August 7, 2020</p>
-<p>In October of 2019, the Treasury Board’s Digital Transformation Office (DTO) identified an opportunity to follow up on a previous optimization project from 2018: Health Canada’s recalls and safety alerts management system (RSAMS).</p>
+<p>In October of 2019, the Treasury Board’s Canada.ca Experience Office (CEO) identified an opportunity to follow up on a previous optimization project from 2018: Health Canada’s recalls and safety alerts management system (RSAMS).</p>
 <p>In the first project, we had created a prototype search using the Canada.ca search engine. Results from that project validated many of the hypotheses that had informed the prototype’s design, but the search functionality was limited. This meant that the prototype couldn’t be deployed to the RSAMS environment that was in place at the time.</p>
 <p>For this second project, the team was able to experiment with an open source search solution. We also added a search expert to the project team. The intent was to help Health Canada prepare for implementing search functionality in a new Drupal-based  RSAMS publishing infrastructure, to be launched in the 2020 to 2021 fiscal year.</p>
 <p>For the DTO, our goal was to learn more about delivering effective specialized search, so we could provide advice and guidance to other GC institutions offering similar search functionality to their users.</p>
