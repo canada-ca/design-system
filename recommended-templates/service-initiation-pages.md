@@ -4,7 +4,7 @@ dateModified: '2025-12-16'
 description: null
 title: "No longer supported: Service initiation pages template"
 ---
-<section class="alert alert-info">
+<section class="alert alert-info mrgn-tp-md">
   <h2 class="h3">Decommissioning</h2>
   <p>We’re decommissioning this pattern and don’t recommend using it on your pages.</p>
   <p>Consider the <a href="../common-design-patterns/subway-navigation.html">subway navigation pattern</a> for services and processes.</p>
