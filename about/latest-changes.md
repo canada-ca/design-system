@@ -1,20 +1,72 @@
 ---
 altLangPage: "https://conception.canada.ca/a-propos/derniers-changements.html"
 date: 2017-10-05
-dateModified: 2025-12-02
-description: "Latest changes to the Canada.ca design system"
-title: "Latest changes to the Canada.ca design system"
+dateModified: 2025-12-16
+description: "Latest changes to the Canada.ca design"
+title: "Latest changes to the Canada.ca design"
 ---
 <div class="btn-group mrgn-bttm-sm">
-  <button type="button" class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#expand-collapse&quot;, &quot;type&quot;: &quot;on&quot;}">Expand All</button>
-  <button type="button" class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#expand-collapse&quot;, &quot;type&quot;: &quot;off&quot;}">Collapse All</button>
+  <button type="button" class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#expand-collapse&quot;, &quot;type&quot;: &quot;on&quot;}">Expand all</button>
+  <button type="button" class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#expand-collapse&quot;, &quot;type&quot;: &quot;off&quot;}">Collapse all</button>
 </div>
 <div id="expand-collapse">
   <details open="open">
+    <summary><time datetime="2025-12-08">December 8, 2025</time></summary>
+    <ul>
+      <li>Added an alert to the <a href="{{ site.url }}/recommended-templates/service-initiation-pages.html">service initiation pages template</a> to indicate that it is being decommissioned and to consider the <a href="{{ site.url }}/common-design-patterns/subway-navigation.html">subway navigation pattern</a> for services and processes</li>
+    </ul>
+  </details>
+    <details>
+    <summary><time datetime="2025-12-03">December 3, 2025</time></summary>
+    <ul>
+      <li>Updated the <a href="{{ site.url }}/common-design-patterns/contributors.html">contributors pattern guidance</a> to clarify when it is appropriate to use the contributors pattern</li>
+    </ul>
+  </details>
+  <details>
     <summary><time datetime="2025-12-02">December 2, 2025</time></summary>
     <p>We made the following changes:</p>
     <ul>
       <li>Updated the <a href="{{ site.url }}/common-design-patterns/services-information.html">services and information pattern</a> to include guidance on using section headings, grey banding and/or single column layouts</li>
+    </ul>
+  </details>
+  <details>
+    <summary><time datetime="2025-11-28">November 28, 2025</time></summary>
+    <p>Added alerts to several design pattern templates to inform users that the pattern template is slated for decommission.</p>
+    <p>Added an alert to the <a href="{{ site.url }/common-design-patterns/related-links.html">related links design pattern</a> to indicate that it is being decommissioned and to instead follow the <a href="{{ site.url }/style-guide/#toc11">Canada.ca Content Style Guide guidance on links</a></p>
+    <p>Added an alert to the <a href="{{ site.url }/common-design-patterns/social-media-feeds.html">social media feeds design pattern</a> to indicate that it is being decommissioned</p>
+  </details>
+  <details>
+    <summary><time datetime="2025-11-27">November 27, 2025</time></summary>
+    <p>Added alerts to several design pattern templates to inform users that the pattern template is slated for decommission.</p>
+    <p>Impacted patterns include:</p>
+    <ul>
+      <li><a href="{{ site.url }/common-design-patterns/icons.html">Icons design pattern</a></li>
+      <li><a href="{{ site.url }/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering and collaborative arrangement profile pages template</a></li>
+      <li><a href="{{ site.url }/recommended-templates/program-description-pages.html">Program description pages template</a></li>
+      <li><a href="{{ site.url }/common-design-patterns/what-we-are-doing.html">What we are doing design pattern</a></li>
+    </ul>
+  </details>
+  <details>
+    <summary><time datetime="2025-11-26">November 26, 2025</time></summary>
+    <p>Added an alert to the <a href="{{ site.url }/mandatory-templates/audience-pages.html">government-wide audience page</a> to indicate that this pattern is being decommissioned because government-wide audience pages are now treated as themes</p>
+    <p>Added an alert to the <a href="{{ site.url }/recommended-templates/guidance-legislation-pages.html">guidance on legislation pages</a> to indicate that this pattern is being decommissioned as it was not widely used</p>
+  </details>
+  <details>
+    <summary><time datetime="2025-11-25">November 25, 2025</time></summary>
+    <p>Updated the <a href="{{ site.url }/common-design-patterns/collapsible-content.html">expand/collapse design pattern</a> with information about when to include expand all/collapse all buttons, and added implementation notes</p>
+  </details>
+  <details>
+    <summary><time datetime="2025-11-21">November 21, 2025</time></summary>
+    <p>Added information about how to customize typography to support additional languages to the <a href="{{ site.url }/styles/typography.html">typography style guidance</a></p>
+  </details>
+  <details>
+    <summary><time datetime="2025-10-24">October 24, 2025</time></summary>
+    <p>Updated the <a href="{{ site.url }/mandatory-templates/topic.html">topic page guidance</a> to clarify what can be included in the flexible space portion of the page, including videos and images.</p>
+    <p>Removed two design patterns and related crosslinks from design.canada.ca. Changes:</p>
+    <ul>
+      <li>Removed the share this page design pattern</li>
+      <li>Removed the report a problem design pattern</li>
+      <li>Removed links to share this page and report a problem from filterable tables on both the <a href="{{ site.url }/pattern-library.html">Template and pattern library for Canada.ca</a> page and the <a href="{{ site.url }">Designing for Canada.ca</a> page</li>
     </ul>
   </details>
   <details>
