@@ -11,7 +11,7 @@ title: "Latest changes to the Canada.ca design"
 </div>
 <div id="expand-collapse">
   <details open="open">
-    <summary><time datetime="2025-12-08">December 8, 2025</time></summary>
+    <summary><time datetime="2025-12-16">December 16, 2025</time></summary>
     <ul>
       <li>Added an alert to the <a href="{{ site.url }}/recommended-templates/service-initiation-pages.html">service initiation pages template</a> to indicate that it is being decommissioned and to consider the <a href="{{ site.url }}/common-design-patterns/subway-navigation.html">subway navigation pattern</a> for services and processes</li>
     </ul>
