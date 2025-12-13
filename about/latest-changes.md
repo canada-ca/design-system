@@ -66,7 +66,7 @@ title: "Latest changes to the Canada.ca design"
     <ul>
       <li>Removed the share this page design pattern</li>
       <li>Removed the report a problem design pattern</li>
-      <li>Removed links to share this page and report a problem from filterable tables on both the <a href="{{ site.url }/pattern-library.html">Template and pattern library for Canada.ca</a> page and the <a href="{{ site.url }">Designing for Canada.ca</a> page</li>
+      <li>Removed links to share this page and report a problem from filterable tables on both the <a href="{{ site.url }/pattern-library.html">Template and pattern library for Canada.ca</a> page and the <a href="{{ site.url }}">Designing for Canada.ca</a> page</li>
     </ul>
   </details>
   <details>
