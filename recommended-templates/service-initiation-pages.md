@@ -674,4 +674,5 @@ title: "No longer supported: Service initiation pages template"
         <dt><time>2025-12-16</time></dt>
         <dd>Added an alert to indicate that this pattern is scheduled for decommission.</dd>
     </dl>
+    </section>
 </div>
