@@ -32,7 +32,7 @@ title: "Latest changes to the Canada.ca design"
   <details>
     <summary><time datetime="2025-11-28">November 28, 2025</time></summary>
     <p>Added an alert to the <a href="{{ site.url }}/recommended-templates/promotional-events-pages.html">promotional events pages template</a> to indicate that it is being decommissioned. Included information to indicate that if your event is affiliated with a planned Government of Canada marketing initiative, consult the <a href="{{ site.url }}/guidance/campaigns.html">guidance on web content to support advertising or marketing campaigns</a></p>
-    <p>Added an alert to the <a href="{{ site.url }}/common-design-patterns/related-links.html">related links design pattern</a> to indicate that it is being decommissioned and to instead follow the <a href="{{ site.url }/style-guide/#toc11">Canada.ca Content Style Guide guidance on links</a></p>
+    <p>Added an alert to the <a href="{{ site.url }}/common-design-patterns/related-links.html">related links design pattern</a> to indicate that it is being decommissioned and to instead follow the <a href="{{ site.url }}/style-guide/#toc11">Canada.ca Content Style Guide guidance on links</a></p>
     <p>Added an alert to the <a href="{{ site.url }}/common-design-patterns/social-media-feeds.html">social media feeds design pattern</a> to indicate that it is being decommissioned</p>
   </details>
   <details>
