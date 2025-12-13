@@ -31,42 +31,42 @@ title: "Latest changes to the Canada.ca design"
   </details>
   <details>
     <summary><time datetime="2025-11-28">November 28, 2025</time></summary>
-    <p>Added alerts to several design pattern templates to inform users that the pattern template is slated for decommission.</p>
-    <p>Added an alert to the <a href="{{ site.url }/common-design-patterns/related-links.html">related links design pattern</a> to indicate that it is being decommissioned and to instead follow the <a href="{{ site.url }/style-guide/#toc11">Canada.ca Content Style Guide guidance on links</a></p>
-    <p>Added an alert to the <a href="{{ site.url }/common-design-patterns/social-media-feeds.html">social media feeds design pattern</a> to indicate that it is being decommissioned</p>
+    <p>Added an alert to the <a href="{{ site.url }}/recommended-templates/promotional-events-pages.html">promotional events pages template</a> to indicate that it is being decommissioned. Included information to indicate that if your event is affiliated with a planned Government of Canada marketing initiative, consult the <a href="{{ site.url }}/guidance/campaigns.html">guidance on web content to support advertising or marketing campaigns</a></p>
+    <p>Added an alert to the <a href="{{ site.url }}/common-design-patterns/related-links.html">related links design pattern</a> to indicate that it is being decommissioned and to instead follow the <a href="{{ site.url }/style-guide/#toc11">Canada.ca Content Style Guide guidance on links</a></p>
+    <p>Added an alert to the <a href="{{ site.url }}/common-design-patterns/social-media-feeds.html">social media feeds design pattern</a> to indicate that it is being decommissioned</p>
   </details>
   <details>
     <summary><time datetime="2025-11-27">November 27, 2025</time></summary>
     <p>Added alerts to several design pattern templates to inform users that the pattern template is slated for decommission.</p>
     <p>Impacted patterns include:</p>
     <ul>
-      <li><a href="{{ site.url }/common-design-patterns/icons.html">Icons design pattern</a></li>
-      <li><a href="{{ site.url }/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering and collaborative arrangement profile pages template</a></li>
-      <li><a href="{{ site.url }/recommended-templates/program-description-pages.html">Program description pages template</a></li>
-      <li><a href="{{ site.url }/common-design-patterns/what-we-are-doing.html">What we are doing design pattern</a></li>
+      <li><a href="{{ site.url }}/common-design-patterns/icons.html">Icons design pattern</a></li>
+      <li><a href="{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html">Partnering and collaborative arrangement profile pages template</a></li>
+      <li><a href="{{ site.url }}/recommended-templates/program-description-pages.html">Program description pages template</a></li>
+      <li><a href="{{ site.url }}/common-design-patterns/what-we-are-doing.html">What we are doing design pattern</a></li>
     </ul>
   </details>
   <details>
     <summary><time datetime="2025-11-26">November 26, 2025</time></summary>
-    <p>Added an alert to the <a href="{{ site.url }/mandatory-templates/audience-pages.html">government-wide audience page</a> to indicate that this pattern is being decommissioned because government-wide audience pages are now treated as themes</p>
-    <p>Added an alert to the <a href="{{ site.url }/recommended-templates/guidance-legislation-pages.html">guidance on legislation pages</a> to indicate that this pattern is being decommissioned as it was not widely used</p>
+    <p>Added an alert to the <a href="{{ site.url }}/mandatory-templates/audience-pages.html">government-wide audience page</a> to indicate that this pattern is being decommissioned because government-wide audience pages are now treated as themes</p>
+    <p>Added an alert to the <a href="{{ site.url }}/recommended-templates/guidance-legislation-pages.html">guidance on legislation pages</a> to indicate that this pattern is being decommissioned as it was not widely used</p>
   </details>
   <details>
     <summary><time datetime="2025-11-25">November 25, 2025</time></summary>
-    <p>Updated the <a href="{{ site.url }/common-design-patterns/collapsible-content.html">expand/collapse design pattern</a> with information about when to include expand all/collapse all buttons, and added implementation notes</p>
+    <p>Updated the <a href="{{ site.url }}/common-design-patterns/collapsible-content.html">expand/collapse design pattern</a> with information about when to include expand all/collapse all buttons, and added implementation notes</p>
   </details>
   <details>
     <summary><time datetime="2025-11-21">November 21, 2025</time></summary>
-    <p>Added information about how to customize typography to support additional languages to the <a href="{{ site.url }/styles/typography.html">typography style guidance</a></p>
+    <p>Added information about how to customize typography to support additional languages to the <a href="{{ site.url }}/styles/typography.html">typography style guidance</a></p>
   </details>
   <details>
     <summary><time datetime="2025-10-24">October 24, 2025</time></summary>
-    <p>Updated the <a href="{{ site.url }/mandatory-templates/topic.html">topic page guidance</a> to clarify what can be included in the flexible space portion of the page, including videos and images.</p>
+    <p>Updated the <a href="{{ site.url }}/mandatory-templates/topic.html">topic page guidance</a> to clarify what can be included in the flexible space portion of the page, including videos and images.</p>
     <p>Removed two design patterns and related crosslinks from design.canada.ca. Changes:</p>
     <ul>
       <li>Removed the share this page design pattern</li>
       <li>Removed the report a problem design pattern</li>
-      <li>Removed links to share this page and report a problem from filterable tables on both the <a href="{{ site.url }/pattern-library.html">Template and pattern library for Canada.ca</a> page and the <a href="{{ site.url }}">Designing for Canada.ca</a> page</li>
+      <li>Removed links to share this page and report a problem from filterable tables on both the <a href="{{ site.url }}/pattern-library.html">Template and pattern library for Canada.ca</a> page and the <a href="{{ site.url }}">Designing for Canada.ca</a> page</li>
     </ul>
   </details>
   <details>
