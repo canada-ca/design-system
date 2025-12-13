@@ -1,9 +1,14 @@
 ---
 altLangPage: https://conception.canada.ca/modeles-recommandes/pages-lancement-service.html
-dateModified: '2018-12-19'
+dateModified: '2025-12-16'
 description: null
-title: "Service initiation pages template"
+title: "No longer supported: Service initiation pages template"
 ---
+<section class="alert alert-info">
+  <h2 class="h3">Decommissioning</h2>
+  <p>We’re decommissioning this pattern and don’t recommend using it on your pages.</p>
+  <p>Consider the <a href="../common-design-patterns/subway-navigation.html">subway navigation pattern</a> for services and processes.</p>
+</section>
 
 <div>
     <section>
@@ -663,4 +668,10 @@ title: "Service initiation pages template"
             </figure>
         </section>
     </section>
+    <section>
+    <h2 id="latest">Latest changes</h2>
+    <dl class="dl-horizontal">
+        <dt><time>2025-12-16</time></dt>
+        <dd>Added an alert to indicate that this pattern is scheduled for decommission.</dd>
+    </dl>
 </div>
