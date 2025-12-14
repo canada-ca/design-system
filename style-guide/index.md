@@ -1531,10 +1531,10 @@ title: "Canada.ca Content Style Guide"
      <h5>Example of punctuation in independent list items</h5>
      <p><strong>Most requested</strong></p>
      <ul>
-      <li><a href="#" onclick="return false">Financing your new business</a></li>
-      <li><a href="#" onclick="return false">Financing for innovation</a></li>
-      <li><a href="#" onclick="return false">Find a loan for your small business</a></li>
-      <li><a href="#" onclick="return false">Canada job grants for employers</a></li>
+      <li><a href="#" onclick="return false" aria-label="Example link for demonstration purposes only">Financing your new business</a></li>
+      <li><a href="#" onclick="return false" aria-label="Example link for demonstration purposes only">Financing for innovation</a></li>
+      <li><a href="#" onclick="return false" aria-label="Example link for demonstration purposes only">Find a loan for your small business</a></li>
+      <li><a href="#" onclick="return false" aria-label="Example link for demonstration purposes only">Canada job grants for employers</a></li>
      </ul>
      <p class="mrgn-tp-lg">
       When the meaning of list items depends on a lead-in phrase, don't capitalize the first letter of each unless it's
