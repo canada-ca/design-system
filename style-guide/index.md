@@ -3654,7 +3654,6 @@ title: "Canada.ca Content Style Guide"
       >
      </li>
     </ul>
-    <li>
      <h5>Link to external content is in a different language</h5>
      <p>
       Some non-government web content isn't available in both official languages. If you're linking to external web
