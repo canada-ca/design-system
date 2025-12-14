@@ -146,7 +146,7 @@ title: Carousels design pattern
     <h2 id="latest">Latest changes</h2>
     <dl class="dl-horizontal">
         <dt><time>2025-12-17</time></dt>
-        <dd>added an alert to indicate that this pattern is scheduled for decommissione</dd>
+        <dd>added an alert to indicate that this pattern is scheduled for decommission</dd>
     </dl>
      <dl class="dl-horizontal">
         <dt><time>2020-10-30</time></dt>
