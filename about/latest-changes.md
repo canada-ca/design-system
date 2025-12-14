@@ -10,7 +10,14 @@ title: "Latest changes to the Canada.ca design"
   <button type="button" class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#expand-collapse&quot;, &quot;type&quot;: &quot;off&quot;}">Collapse all</button>
 </div>
 <div id="expand-collapse">
-  <details open="open">
+<details open="open">
+    <summary><time datetime="2025-12-16">December 17, 2025</time></summary>
+    <p>Added an alert to the <a href="{{ site.url }}/recommended-templates/common-design-patterns/carousels.html">service initiation pages template</a> to indicate that it is being decommissioned. We’ve done research that has shown carousels aren’t an effective promotional tool. For more information, read this blog post:</p> 
+      <ul>
+      <li><a href="https://blog.canada.ca/2021/10/08/promotional-carousels.html">Avoid promotional carousels, improve web content</a></li>
+    </ul>
+  </details>
+  <details>
     <summary><time datetime="2025-12-16">December 16, 2025</time></summary>
     <ul>
       <li>Added an alert to the <a href="{{ site.url }}/recommended-templates/service-initiation-pages.html">service initiation pages template</a> to indicate that it is being decommissioned and to consider the <a href="{{ site.url }}/common-design-patterns/subway-navigation.html">subway navigation pattern</a> for services and processes</li>
