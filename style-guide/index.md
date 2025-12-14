@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/guide-redaction"
 date: 2017-10-05
-dateModified:  2024-08-06
+dateModified:  2025-12-17
 description: "The Canada.ca Content Style Guide provides the rules to create web content that can be easily found, understood and used."
 image:
   filename: sg-preview-img.png
@@ -10,7 +10,7 @@ title: "Canada.ca Content Style Guide"
 ---
 
 <section id="intro">
-  <p>These are the rules to create web content that can be easily found, understood and used. They are based on writing principles and techniques that help make web content clear and adapted to the needs of all people. Use it with the <a href="{{ site.url }}/architecture/canada-content-information-architecture-specification.html">Canada.ca Specifications</a> when you're designing and organizing web content.</p>
+  <p>These are the rules to create web content that can be easily found, understood and used. They are based on writing principles and techniques that help make web content clear and adapted to the needs of all people. Use it with the <a href="{{ site.url }}/specification.html">Canada.ca Specifications</a> when you're designing and organizing web content.</p>
 </section>
 <section id="toc">
   <div class="row mrgn-tp-lg">
@@ -42,7 +42,7 @@ title: "Canada.ca Content Style Guide"
   <h2>Recent updates</h2>
   <p>Most recent updates to the guide:</p>
   <ul class="mrgn-tp-lg">
-<li>We have updated <a href="#toc6">section 2.0 Communicate clearly with plain language</a> to better align with the plain language standard developed through the International Organization for Standardization (ISO). This update was done in collaboration with plain language experts and communications professionals from across the Government of Canada.</li>
+  <li>We have updated <a href="##toc6">section 2.0 Communicate clearly with plain language</a> to better align with the plain language standard developed through the International Organization for Standardization (ISO). This update was done in collaboration with plain language experts and communications professionals from across the Government of Canada.</li>
   </ul>
   <p><a href="update-history.html">Update history</a> (this list begins with changes on May 25, 2023).</p>
 </section>
@@ -64,7 +64,7 @@ title: "Canada.ca Content Style Guide"
   <h2>Related policies, standards and procedures</h2>
   <p>Content must comply with:</p>
   <ul>
-    <li>templates, content components, character limits and other requirements as described in the <cite><a href="{{ site.url }}/architecture/canada-content-information-architecture-specification.html">Canada.ca Specifications</a></cite></li>
+    <li>templates, content components, character limits and other requirements as described in the <a href="{{ site.url }}/specification.html">Canada.ca Specifications</a></li>
     <li>requirements set out in the related legislated and policy instruments, including:
       <ul>
         <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30683">Policy on Communications and Federal Identity</a></cite></li>
@@ -72,7 +72,7 @@ title: "Canada.ca Content Style Guide"
         <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601">Standard on Web Accessibility</a></cite></li>
         <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25875">Standard on Web Interoperability</a></cite></li>
         <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27088">Standard on Optimizing Websites and Applications for Mobile Devices</a></cite></li>
-        <li><cite><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/guidance-publishing-government.html">Guidance on Publishing in the Government of Canada</a></cite></li>
+        <li><cite><a href="https://www.canada.ca/en/government/system/government-communications.html">Guidance on Publishing in the Government of Canada</a></cite></li>
         <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27167">Procedures for Publishing</a></cite></li>
         <li><cite><a href="https://laws-lois.justice.gc.ca/eng/acts/O-3.01/">Official Languages Act</a></cite></li>
       </ul>
@@ -191,8 +191,8 @@ title: "Canada.ca Content Style Guide"
       <div class="panel panel-default">
         <div class="panel-body">
           <h3 class="mrgn-tp-sm">In this section</h3>
-          <p><a href="#wp2-0">The duty to be clear: Plain language requirement</a></p>
           <ul>
+          <li><a href="#wp2-0">The duty to be clear: Plain language requirement</a></li>
             <li><a href="#wp2-1">2.1 Getting started with plain language: writing for readability</a>
               <ul>
                 <li><a href="#wp2-1-1">Style</a></li>
@@ -232,8 +232,8 @@ title: "Canada.ca Content Style Guide"
   </div>
   <section id="wp2-0">
   <h3>The duty to be clear: Plain language requirement</h3>
-    <p>The use of plain language is a requirement of the <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682"><cite>Directive on the Management of Communications</cite></a>.</p>
-    <p>Plain language is a writing approach to communicate what your audience needs to know. With plain language, the wording, structure and design are so clear your intended audience can easily:</p>
+    <p>You must use plain language, as <b>this is a requirement of the <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682"><cite>Directive on the Management of Communications</cite></a></b>.</p>
+    <p>Plain language is a writing approach to communicate what your audience needs to know. This means using clear wording, structure and design, so your intended audience can easily:</p>
     <ul>
       <li><b>find</b> what they need</li>
       <li><b>understand</b> what they find</li>
@@ -259,39 +259,33 @@ title: "Canada.ca Content Style Guide"
     <p>Content that’s easy to read and understand uses the right vocabulary and shares the right information for the audience. It’s clear and concise, and the flow is easy to follow. A great way to get started is to write as if you’re speaking directly to your audience.</p>
     <p>Try these techniques to make your text as easy to read and understand as possible.</p>
     <h4 id="wp2-1-1">Style</h4>
-    <ul>
-      <li><b>Write like you talk</b>: Write as if speaking directly to your audience. Use the first-person or second-person pronouns (I, we, us, you) instead of the third person (he, she, they).
+    <p><b>Write like you talk</b>: Write as if speaking directly to your audience. Use the first-person or second-person pronouns (I, we, us, you) instead of the third person (he, she, they).</p>
         <ul>
           <li><a href="#toc7">See section 3, tone</a></li>
         </ul>
-      </li>
-      <li><b>Active voice</b>: Use the active voice and positive form.</li>
-      <li><b>Remove jargon</b>: Replace technical jargon and complex language with wording your audience will easily understand.
+    <p><b>Active voice</b>: Use the active voice and positive form.</p>
+      <ul>
+          <li><a href="#wp2-4">See section 2.4, write in the active and positive forme</a></li>
+      </ul>
+    <p><b>Remove jargon</b>: Replace technical jargon and complex language with wording your audience will easily understand.</p>
         <ul>
           <li><a href="#wp2-5">See section 2.5, avoid jargon and similar language</a></li>
         </ul>
-      </li>
-    </ul>
     <h4 id="wp2-1-2">Structure</h4>
-    <ul>
-      <li><strong>Identify audience needs</strong>: Organize, write and design your content to meet the needs of your intended audience.</li>
-      <li><strong>Use clear headings and subheadings</strong>: Separate content into clear sections to help your audience scan and easily find what they need.</li>
-      <li><strong>Use lists</strong>: Organize key tasks with numbers or bullets.
+    <p><strong>Identify audience needs</strong>: Organize, write and design your content to meet the needs of your intended audience.</p>
+    <p><strong>Use clear headings and subheadings</strong>: Separate content into clear sections to help your audience scan and easily find what they need.</p>
+    <p><strong>Use lists</strong>: Organize key tasks with numbers or bullets.</p>
         <ul>
           <li><a href="#wp5-2">See section 5.2, use lists to help people scan</a></li>
         </ul>
-      </li>
-      <li><strong>Remove visual and cognitive blockers</strong>: Remove anything that prevents your audience from easily seeing, understanding or using the information they need.</li>
-      <li><strong>Move or remove unnecessary details</strong>: Don't include details that people don't need to complete their task.</li>
-        </ul>
-        <h4 id="wp2-1-3">Simplify and review</h4>
-        <ul>
-          <li><strong>Trim content</strong>: Shorten words, sentences and paragraphs.</li>
-          <li><strong>Simplify</strong>: Replace secondary references to a program with "program" rather than using its full name or abbreviation.</li>
-          <li><strong>Review for clarity</strong>: Ask colleagues who aren't familiar with the subject to review the text for clarity and logic.</li>
-          <li><strong>Read aloud</strong>: Read the text out loud, or use a screen reader, to identify what can be clearer and more concise.</li>
-          <li><strong>Test your content</strong>: Work with your web team to set up usability testing for your content.</li>
-        </ul>
+    <p><strong>Remove visual and cognitive blockers</strong>: Remove anything that prevents your audience from easily seeing, understanding or using the information they need.</p>
+    <p><strong>Move or remove unnecessary details</strong>: Don't include details that people don't need to complete their task.</p>
+    <h4 id="wp2-1-3">Simplify and review</h4>
+          <p><strong>Trim content</strong>: Shorten words, sentences and paragraphs.</p>
+          <p><strong>Simplify</strong>: Replace secondary references to a program with "program" rather than using its full name or abbreviation.</p>
+          <p><strong>Review for clarity</strong>: Ask colleagues who aren't familiar with the subject to review the text for clarity and logic.</p>
+          <p><strong>Read aloud</strong>: Read the text out loud, or use a screen reader, to identify what can be clearer and more concise.</p>
+          <p><strong>Test your content</strong>: Work with your web team to set up usability testing for your content.</p>
         <h4 id="wp2-1-4">Don’t rely on readability tools</h4>
         <p>Readability tools are based on algorithms that measure things like word length. These tools cannot tell you if your audience will find your content easy to understand and use.</p>
         <p>Readability tools can be a helpful first step to identify some areas that need work, such as:</p>
@@ -327,24 +321,24 @@ title: "Canada.ca Content Style Guide"
     </div>
     <p>The inverted pyramid is divided into three sections, moving from what people need to know at the top to what’s less relevant at the bottom. Use the following list to help you plan and organize your content:</p>
     <ol>
-      <li><strong>most important</strong>
+      <li><strong>Most important</strong>
         <ul>
-          <li>start with the most important idea, step or information</li>
-          <li>focus on what people need to know to complete their main task</li>
+          <li>Start with the most important idea, step or information</li>
+          <li>Focus on what people need to know to complete their main task</li>
         </ul>
       </li>
-      <li><strong>prioritized tasks</strong>
+      <li><strong>Prioritized tasks</strong>
         <ul>
-          <li>add details and tasks in order of importance</li>
-          <li>keep all task-related content in the centre of the page</li>
-          <li>use links to direct people to key information and tasks</li>
+          <li>Add details and tasks in order of importance</li>
+          <li>Keep all task-related content in the centre of the page</li>
+          <li>Use links to direct people to key information and tasks</li>
         </ul>
       </li>
-      <li><strong>more information</strong>
+      <li><strong>More information</strong>
         <ul>
-          <li>Only include extra details if they support, rather than distract from, the important content. This could include:
+          <li>Only include extra details if they support, rather than distract from, the important content, such as:
           <ul>
-            <li>related links that may help some people (for example, statistics cited, related initiatives, relevant publications, etc.)</li>
+            <li>related links that may help some people (for example, statistics cited, related initiatives, relevant publications)</li>
             <li>information for people who want to learn more</li>
             <li>information for people who have more knowledge of the topic or service</li>
           </ul>
@@ -384,7 +378,7 @@ title: "Canada.ca Content Style Guide"
     <h4>Example of explaining a technical term</h4>
     <p><strong>Write</strong>: Bovine Spongiform Encephalopathy (BSE), also known as mad cow disease<br>
     <strong>Instead of</strong>: Bovine Spongiform Encephalopathy</p>
-    <p>Replace long words with short, simple and everyday words that most people understand and use. Simple words have 2 syllables or less. They're easier to scan than long, complex words.</p>
+    <p>Replace long words with short, simple and everyday words that most people understand and use. Simple words have two syllables or less. They're easier to scan than long, complex words.</p>
     <h4>See how this rule applies in French:</h4>
     <ul>
       <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-3">2.3 Utiliser des termes familiers</a></span></li>
@@ -400,7 +394,7 @@ title: "Canada.ca Content Style Guide"
       <h4 id="wp2-4-1">Write in the active voice</h4>
       <p>In most cases, using the active voice will help your audience understand what they’re reading. Sentences in the active voice are direct, clear and easier to understand. Their structure is logical and easy to follow because the subject is the doer of the action:</p>
       <ul>
-        <li>subject (the doer) + verb (the action) + object (who/what the action is about)</li>
+        <li>Subject (the doer) + verb (the action) + object (who/what the action is about)</li>
       </ul>
       <h4 id="wp2-4-2">Avoid the passive voice</h4>
       <p>In a passive sentence, it may not be clear who or what is doing the action. This makes the sentence harder to understand. The structure of a passive sentence is:</p>
@@ -450,7 +444,7 @@ title: "Canada.ca Content Style Guide"
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/writing-tips-plus/clear-communication-turn-nouns-into-verbs"><cite>Writing Tips Plus</cite>: Turn nouns into verbs</a></li>
     </ul>
     <h4 id="wp2-4-5">Avoid noun strings</h4>
-    <p>Don’t use a group of 2 or more nouns to modify another noun.</p>
+    <p>Don’t use a group of two or more nouns to modify another noun.</p>
     <p>These noun strings are hard to understand. They force people to do a lot of unpacking to get at what the phrase means.</p>
       <p><strong>Write</strong>: standards for post-mortem evaluation of food animal carcasses<br>
       <strong>Instead of</strong>: Food Animal Carcass Post-mortem Evaluation Standards</p>
@@ -526,8 +520,8 @@ title: "Canada.ca Content Style Guide"
       <li>avoid sentences with lots of commas</li>
       <li>keep sentences to one idea each</li>
       <li>remove unnecessary words (modifiers, adverbs, adjectives, words that add no meaning)</li>
-      <li>keep paragraphs to one main idea and no more than 3 sentences</li>
-      <li>present a series of 2 or more ideas or words as a vertical list</li>
+      <li>keep paragraphs to one main idea and no more than three sentences</li>
+      <li>present a series of two or more ideas or words as a vertical list</li>
     </ul>
     <h4>Examples of shortened sentences</h4>
       <p><strong>Write</strong>: We approved your request for funding.<br>
@@ -825,10 +819,11 @@ title: "Canada.ca Content Style Guide"
     </ul>
     <section id="wp4-1-1">
       <h4>Titles, headings and subheadings</h4>
+      <p>For all types of page titles and headings, as well as table captions and headers:</p>
       <ul>
-        <li>Capitalize the first letter of the first word (sentence case) of all page titles, headings, subheadings, table captions and table headers</li>
-        <li>Capitalize proper nouns in page titles, headings and subheadings</li>
-        <li>Don't use punctuation at the end of page titles, headings and subheadings </li>
+        <li>capitalize the first letter of the first word (use sentence case)</li>
+        <li>capitalize proper nouns</li>
+        <li>don't add punctuation at the end</li>
       </ul>
       <h5>Exceptions</h5>
       <ul>
@@ -858,7 +853,7 @@ title: "Canada.ca Content Style Guide"
                 <li>Do you or your organization already have a GST/HST account?</li>
               </ul>
             </li>
-            <li>2 clickable options
+            <li>Two clickable options
               <ul>
                 <li>Yes</li>
                 <li>No</li>
@@ -876,17 +871,17 @@ title: "Canada.ca Content Style Guide"
     <section id="wp4-1-2">
       <h4>Lists</h4>
       <ul>
-        <li>Avoid having more than 1 sentence in a single list item</li>
+        <li>Avoid having more than one sentence in a single list item</li>
         <li>Don't end the list items with any punctuation</li>
       </ul>
       <p>When list items are grammatically independent of each other or follow a heading, capitalize the first letter of each list&nbsp;item.</p>
       <h5>Example of punctuation in independent list items</h5>
       <p><strong>Most requested</strong></p>
       <ul>
-        <li><a href="https://canadabusiness.ca/eng/page/2852/pof-191/">Financing your new business</a></li>
-        <li><a href="https://www.canadabusiness.ca/eng/page/2772/">Financing for innovation</a></li>
-        <li><a href="https://www.ic.gc.ca/eic/site/csbfp-pfpec.nsf/eng/h_la00007.html">Find a loan for your small business</a></li>
-        <li><a href="{{ site.urlcanadaca }}/en/employment-social-development/programs/job-grant/employers.html">Canada job grants for employers</a></li>
+        <li><a href="#" onclick="return false">Financing your new business</a></li>
+        <li><a href="#" onclick="return false">Financing for innovation</a></li>
+        <li><a href="#" onclick="return false">Find a loan for your small business</a></li>
+        <li><a href="#" onclick="return false">Canada job grants for employers</a></li>
       </ul>
       <p class="mrgn-tp-lg">When the meaning of list items depends on a lead-in phrase, don't capitalize the first letter of each unless it's a proper name.</p>
       <h5>Example of punctuation in interdependent list items preceded by a colon</h5>
@@ -905,18 +900,22 @@ title: "Canada.ca Content Style Guide"
       <h4>Commas</h4>
       <p>Remove unnecessary commas to make web content easier to read:</p>
       <ul>
-        <li>avoid multiple commas in a sentence by breaking it up into a few shorter sentences</li>
-        <li>place a comma before "and" and "or" only if it will help people understand a list of items in a sentence</li>
+        <li>Avoid multiple commas in a sentence by breaking it up into a few shorter sentences</li>
+        <li>Place a comma before "and" and "or" only if it will help people understand a list of items in a sentence</li>
       </ul>
     </section>
     <section id="wp4-1-5">
       <h4>Hyphen and dashes</h4>
-      <p>Hyphens and dashes have different uses. They aren't interchangeable. Avoid using dashes:</p>
+      <p>Hyphens and dashes have different uses. They aren't interchangeable. Avoid using dashes. Instead:</p>
       <ul>
         <li>use a hyphen (-) to join words together</li>
-        <li>use "to" instead of the en dash (–) in a span or range of numbers, dates or time</li>
-        <li>use a comma (,) to emphasize or frame an idea instead of an em dash (—) </li>
-        <li>simplify your sentence instead of using em dashes</li>
+        <li>use "to" instead of the <b>en</b> dash (&ndash;) in a span or range of numbers, dates or time
+          <ul>
+            <li>Exception: you can use an <b>en</b> dash, without spaces before or after it, in a span of fiscal or calendar years (for example, Annual Report 2024&ndash;2025). Avoid using a hyphen, as screen readers often skip it, making the separation between years unclear.</li>
+          </ul>
+        </li>
+        <li>use a comma (,) to emphasize or frame an idea instead of an <b>em</b> dash (&mdash;) </li>
+        <li>simplify your sentence instead of using <b>em</b> dashes</li>
       </ul>
     </section>
     <h4>See how this rule applies in French:</h4>
@@ -935,7 +934,7 @@ title: "Canada.ca Content Style Guide"
   <h4>Underlining</h4>
   <p>Use underlining for links only.</p>
   <h4>Bold</h4>
-  <p>Use bold for emphasis, <strong>but</strong> use it sparingly: the more you use it, the less effective it is.</p>
+  <p>Use bold for emphasis, <strong>but</strong> use it sparingly; the more you use it, the less effective it is.</p>
   <h4>Italics</h4>
   <p>People with dyslexia or other reading disorders may find it difficult to read italicized text.</p>
   <p>Don't use italics:</p>
@@ -976,7 +975,7 @@ title: "Canada.ca Content Style Guide"
   </ul>
   <h4>Percent</h4>
   <ul>
-    <li>20% (not 20 percent)</li>
+    <li>20% (not 20 percent or 20 per cent)</li>
     <li>A quarter or one quarter (not ¼)</li>
     <li>Half (not ½)</li>
   </ul>
@@ -1031,7 +1030,7 @@ title: "Canada.ca Content Style Guide"
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/abbreviations-titles-with-personal-names.html">abbreviations: titles with personal names</a> (abbreviations for non-military titles preceding or following personal names)</li>
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/phd-dr.html">doctors</a> when using PhD, Ph.D., Dr.</li>
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/abbreviations-degrees-and-distinctions.html">abbreviations: degrees and distinctions</a></li>
-      <li><a href="https://www.canada.ca/en/canadian-heritage/services/protocol-guidelines-special-event/styles-address.html">styles of address:</a> how to use formal and honorific titles to address individuals respectfully, both in writing and in conversation.</li>
+      <li><a href="https://www.canada.ca/en/canadian-heritage/services/protocol-guidelines-special-event/styles-address.html">styles of address:</a> how to use formal and honorific titles to address individuals respectfully, both in writing and in conversation</li>
     </ul>
   </section>
   <h4>See how this rule applies in French:</h4>
@@ -1088,27 +1087,56 @@ title: "Canada.ca Content Style Guide"
 </section>
 <section id="wp4-6">
   <h3>4.6 Numbers</h3>
-  <h4>General</h4>
+  <p>Choosing whether to write out numbers as words or digits depends on the context and purpose. In this section we provide guidance on when to use each format, which you can adapt to fit both the needs of your institution and users.</p>
+  <h4>When to use digits</h4>
+  <p>Research shows that digits are easier to scan and will draw a user’s attention. It’s good practice to use digits when you want to highlight a number or use precise data, especially in scientific, technical or mathematical information.</p>
+  <p>For example, use digits in these cases:</p>
   <ul>
-    <li>Write numbers as numerals (0, 1, 2, 3, etc.), except in:
+    <li>in charts, tables and lists of data</li>
+    <li>in a calculation, equation or ratio (including a fraction)</li>
+    <li>for numbers 10 and over</li>
+    <li>when comparing amounts, even if both numbers are less than 10</li>
+  </ul>
+  <p>For clarity and quick recognition, you should also use digits in commonly accepted situations.</p>
+  <p>Examples:</p>
+  <ul>
+    <li>Steps in instructions (step 1, step 2)</li>
+    <li>Age (5 years old)</li>
+    <li>Time or dates</li>
+    <li>Addresses and phone numbers</li>
+  </ul>
+  <h4>When to use words</h4>
+  <p>General guidance for numbers in text-based or narrative content:</p>
+  <ul>
+    <li>Write out numbers zero to nine</li>
+    <li>Avoid starting sentences with a number
       <ul>
-        <li>proper names (First Baptist Church) </li>
-        <li>titles (Three Men in a Boat)</li>
-        <li>figurative expressions (one day, things will be better)</li>
+        <li>If you have to start with a number, spell it out</li>
       </ul>
     </li>
-    <li>Keep Roman numerals when used in proper names (<cite>Canada Gazette</cite>, Part II)</li>
-    <li>Place a non-breaking space (Ctrl+Shift+Spacebar) between all numeral and word combinations ($5&nbsp;million,&nbsp;20 years) </li>
-    <li>Write first, second, third, and so on, up to and including ninth</li>
-    <li>Use the ordinal indicator in the same text size (not in superscript) for numbers 10 and above (10th, 50th, 150th) </li>
-    <li>Use "to" instead of an en dash in number ranges (for example, $4,000 to $10,000, 4 to 10 years)</li>
+    <li>Keep numbers as words in established concepts or common phrases (one-on-one conversation, World Health Organization’s One Health approach)</li>
   </ul>
-  <h4>Ages</h4>
+  <h4>Figurative expressions</h4>
+  <p>In figurative expressions, spell out numbers using words. This keeps the tone more natural and smooth, while digits can feel too literal or technical.</p>
+  <p>Examples:</p>
   <ul>
-    <li>Adults aged 30 or more </li>
-    <li>People 30 to 65 years old</li>
-    <li>A 10-year-old child</li>
+    <li>One step forward, two steps back</li>
+    <li>Zero tolerance</li>
+    <li>Second nature</li>
   </ul>
+  <h4>Units of measurement</h4>
+  <p>When using units of measurement either spell out the number and unit in full or use the digit with the symbol. This applies even if the number is above 10.</p>
+  <p><b>Use:</b> Two metres or 2 m</p>
+  <p><b>Instead of:</b> 2 metres or two m</p>
+  <p>For more information, see the <a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/numbers-quantities-and-measures">Writing Tips Plus guidance on quantities and measures</a>.</p>
+  <h4>Numbers in other contexts</h4>
+    <ul>
+    <li>Keep the original formatting when used in proper names, including Roman numerals (Canada Gazette, Part II; Bill C-8)</li>
+    <li>Place a non-breaking space (Ctrl+Shift+Spacebar) between digit and word combinations ($5 million, 20 years)</li>
+    <li>Write first, second, third, and so on, up to and including ninth</li>
+    <li>Use ordinal indicators in the same text size (not in superscript) for numbers 10 and above (10th, 50th, 150th)</li>
+  </ul>
+    <p>For more information, see the <a href="https://www.noslangues-ourlanguages.gc.ca/en/navigateur-navigator?search_api_fulltext=%20&field_writing_tools=All&sort_by=views&f%5B0%5D=navigateur_navigator_english_theme%3A512&f%5B1%5D=navigateur_navigator_english_theme%3A515#navigateur-navigator-resultats-results">Writing Tips Plus guidance on numerical expressions</a>.</p>
   <h4>See how this rule applies in French:</h4>
   <ul>
     <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-6">4.6 Nombres</a></span></li>
@@ -1129,15 +1157,14 @@ title: "Canada.ca Content Style Guide"
     <li>Use the numeric date format <strong>only</strong> when space is limited (for example, in a table)
       <ul>
         <li>write yyyy-mm-dd</li>
-        <li>explain the format in surrounding text (for example, notes, legends)</li>
+        <li>explain the format in surrounding text (for example, in notes, or legends)</li>
       </ul>
     </li>
     <li>Capitalize the first letter of the month (for example, January, February, March)</li>
     <li>Abbreviate month names when space is limited (for example, Jan, Feb, Mar)</li>
   </ul>
   <h4>Date ranges</h4>
-  <ul>
-    <li>Use "to" instead of an en dash in date ranges. For example:
+  <p>Use "to" instead of an en dash in date ranges. For example:</p>
       <ul>
         <li>calendar year 2014</li>
         <li>Monday to Friday</li>
@@ -1145,13 +1172,10 @@ title: "Canada.ca Content Style Guide"
         <li>fiscal year 2015 to 2016</li>
         <li>January to March 2016 (instead of Q1, Q2, Q3 or Q4)</li>
       </ul>
-    </li>
-    <li>For date ranges like fiscal years, explain what period the range covers in surrounding text. For example:
+  <p>For date ranges like fiscal years, explain what period the range covers in surrounding text. For example:</p>
       <ul>
         <li>This report covers the 2015 to 2016 fiscal year. A fiscal year runs from April 1 to March 31.</li>
       </ul>
-    </li>
-  </ul>
   <h4>See how this rule applies in French:</h4>
   <ul>
     <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-7">4.7 Dates</a></span></li>
@@ -1196,7 +1220,7 @@ title: "Canada.ca Content Style Guide"
     <ul>
       <li>Abbreviate street types, street direction and province or territory</li>
       <li>Use the <a href="https://www.canadapost.ca/tools/pg/manual/PGaddress-e.asp#1442131">correct abbreviations for provinces and territories</a></li>
-      <li>Insert 2 spaces between the province or territory abbreviation and the postal code</li>
+      <li>Insert two spaces between the province or territory abbreviation and the postal code</li>
       <li>Use uppercase to write the letters in the postal code</li>
       <li>Don't use punctuation except for a hyphen between the unit designator and the civic number</li>
     </ul>
@@ -1204,7 +1228,7 @@ title: "Canada.ca Content Style Guide"
       [Additional delivery information]<br>
       [Suite or office]-[Civic number] [Street name] [Abbreviated street type] [Abbreviated street direction]<br>
       [City] [Two-letter province or territory abbreviation] [Postal code]</p>
-    <h4>Example of a mailing address.</h4>
+    <h4>Example of a mailing address</h4>
     <p>Integrity Regime<br>
       Departmental Oversight Branch<br>
       Public Services and Procurement Canada<br>
@@ -1232,7 +1256,7 @@ title: "Canada.ca Content Style Guide"
 </section>
 <section id="wp4-11">
   <h3>4.11 Words and expressions in transition</h3>
-  <p>Words and expressions in transition are those written commonly in 2 or more different ways. Reduce confusion by using the following spellings:</p>
+  <p>Words and expressions in transition are those written commonly in two or more different ways. Reduce confusion by using the following spellings:</p>
   <ul>
     <li>website (not "web site")</li>
     <li>web page (not "webpage")</li>
@@ -1374,7 +1398,7 @@ title: "Canada.ca Content Style Guide"
         <li>describe the page accurately </li>
         <li>are relevant to what people type into search engines</li>
       </ul>
-      <p class="mrgn-tp-lg">When you post a publication online, you must adapt it for the web. Here are some things you can do to get better results:</p>
+      <p class="mrgn-tp-lg">When you post a publication online, you must adapt it for the web. Here are some things you can do to get better results.</p>
       <h4>Write a title that describes the contents of the page</h4>
       <p>The web page title (Heading1) is the title you see at the top of the page when you're looking at it. Make sure that it accurately describes, in plain language, what your publication is about.</p>
       <h4>Use the first paragraph to introduce your publication</h4>
@@ -1382,7 +1406,7 @@ title: "Canada.ca Content Style Guide"
       <h4>Include keywords in the page's metadata</h4>
       <p>Use the title tag and the description metadata field to improve where your publication ranks in search results. Here's what you can do:</p>
       <p><strong>Title tag</strong>: The page title tag is the blue hyperlinked text you see when a search engine generates a list of results. Write an effective page title (Heading1), and use it as your title tag.</p>
-      <p><strong>Description metadata field</strong>: The description metatdata is the content you see under the blue hyperlinked text in search results. <strong>Avoid listing only keywords</strong>, because search engines might ignore these. Write 1 or 2 short sentences that summarize the page. Make sure they contain keywords that people use when searching for your content (for example, abbreviations familiar to your audience).</p>
+      <p><strong>Description metadata field</strong>: The description metadata is the content you see under the blue hyperlinked text in search results. <strong>Avoid listing only keywords</strong>, because search engines might ignore these. Write one or two short sentences that summarize the page. Make sure they contain keywords that people use when searching for your content (for example, abbreviations familiar to your audience).</p>
       <p>Refer to the <a href="#toc6">section on plain language</a> for tips on using simple and common words as keywords.</p>
     </section>
     <h4>See how this rule applies in French:</h4>
@@ -1395,18 +1419,18 @@ title: "Canada.ca Content Style Guide"
   </section>
   <section id="wp5-2">
     <h3>5.2 Use lists to help people scan</h3>
-    <p>A short vertical list is easier for people to scan and remember than a long paragraph. If possible, aim for maximum of 7 items in your list.</p>
+    <p>A short vertical list is easier for people to scan and remember than a long paragraph. If possible, aim for maximum of seven items in your list.</p>
     <p>When writing lists:</p>
     <ul>
       <li>use positive statements as much as possible</li>
       <li>place negatively phrased items together, if you must use them</li>
-      <li>use consistent grammatical structure. For example, if you:
+      <li>use consistent grammatical structure, for example, if you:
         <ul>
           <li>use the imperative mood (or command) for the first item of your list, use the same mood for each subsequent list item</li>
           <li>start your first item with a noun, start the other list items with nouns</li>
         </ul>
       </li>
-      <li>if a list contains more than 7 items, consider breaking it up into categories </li>
+      <li>if a list contains more than seven items, consider breaking it up into categories </li>
     </ul>
     <section id="wp5-2-1">
       <h4>Lead-in sentence</h4>
@@ -1418,7 +1442,7 @@ title: "Canada.ca Content Style Guide"
       <p>If necessary, specify "all" or "or" in the introductory paragraph to clarify whether the list is comprehensive or conditional. For example, you can write:</p>
       <ul>
         <li>"You must meet all of the following requirements:"</li>
-        <li>"To be eligible, you must meet 1 or more of the following requirements:"</li>
+        <li>"To be eligible, you must meet one or more of the following requirements:"</li>
       </ul>
     </section>
     <section id="wp5-2-2">
@@ -1515,8 +1539,8 @@ title: "Canada.ca Content Style Guide"
       <p>Each column and row of a table must have a header that describes the information in that column or row.</p>
       <p>Column and row headers are different from headings and subheadings:</p>
       <ul>
-        <li>column and row headers appear in the cells at the top and on the far left of a table</li>
-        <li>headings and subheadings refer to the title of a table or a section of content that appears on a web page</li>
+        <li>Column and row headers appear in the cells at the top and on the far left of a table</li>
+        <li>Headings and subheadings refer to the title of a table or a section of content that appears on a web page</li>
       </ul>
       <p>Check that there is a consistent relationship between the columns and rows.</p>
       <p>For example, to check the table above, ask yourself whether you can align the information that appears in:</p>
@@ -1680,7 +1704,7 @@ title: "Canada.ca Content Style Guide"
           </tr>
         </tbody>
       </table>
-      <p class="mrgn-tp-lg">If it's important to highlight Stanley Cup championships by NHL conference (region), present the information using 2 simpler tables, and use table titles to clarify which conference the teams represent.</p>
+      <p class="mrgn-tp-lg">If it's important to highlight Stanley Cup championships by NHL conference (region), present the information using two simpler tables, and use table titles to clarify which conference the teams represent.</p>
       <h6>Example: multiple simple tables</h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
@@ -1728,7 +1752,7 @@ title: "Canada.ca Content Style Guide"
           </tr>
         </tbody>
       </table>
-      <p class="mrgn-tp-md">The complex table also easily converts into 2 lists.</p>
+      <p class="mrgn-tp-md">The complex table also easily converts into two lists.</p>
       <h6>Example: convert tables to text</h6>
       <p><strong>Eastern conference National Hockey League</strong>:</p>
       <p>The Stanley Cup Canadian winning teams</p>
@@ -1814,7 +1838,7 @@ title: "Canada.ca Content Style Guide"
 <section id="wp6-1">
   <h3>6.1 Understand the purpose of images online</h3>
   <p>Images can distract people. They can also make the page take longer to load. Make sure your images <strong>add value</strong> to your content.</p>
-  <p>There are 2 main types of images:</p>
+  <p>There are two main types of images:</p>
   <ul>
     <li>functional images</li>
     <li>decorative images </li>
@@ -1960,11 +1984,11 @@ title: "Canada.ca Content Style Guide"
       <img alt="This chart helps you choose the accessibility project that is right for you: description follows" class="img-responsive center-block" src="/style-guide/images/flat-rate-flow-chart.png">
       <details>
         <summary>Figure 5 - Text version</summary>
-        <p class="mrgn-tp-lg">The chart asks you yes or no questions. If you answer "no", it gives you recommendations of other accessibility projects.</p>
+        <p class="mrgn-tp-lg">The chart asks you yes or no questions. If you answer "no," it gives you recommendations of other accessibility projects.</p>
         <section>
           <p><strong>Question 1:</strong> Is the entrance to your building barrier-free?</p>
           <ul>
-            <li>If your  answer is “Yes”, go to question 2</li>
+            <li>If your  answer is “Yes,” go to question 2</li>
             <li>If your  answer is “No”:
               <ul>
                 <li>ramps, accessible doors, reserved parking, and  leveling the ground can improve the accessibility of your building</li>
@@ -1975,7 +1999,7 @@ title: "Canada.ca Content Style Guide"
         <section>
           <p><strong>Question 2:</strong> Are the hallways wide enough for persons with assistive  devices, such as electric wheelchairs, to get through?</p>
           <ul>
-            <li>If your  answer is “Yes”, go to question 3</li>
+            <li>If your  answer is “Yes,” go to question 3</li>
             <li>If your  answer is “No”:
               <ul>
                 <li>making halls and doorways wider, installing  automatic door operators, elevators or lifts can all help reduce accessibility  barriers in your building</li>
@@ -1986,7 +2010,7 @@ title: "Canada.ca Content Style Guide"
         <section>
           <p><strong>Question 3:</strong> Are persons with disabilities able to access all necessary  floors, levels and sections of your building?</p>
           <ul>
-            <li>If  your answer is “Yes”, go to question 4</li>
+            <li>If  your answer is “Yes,” go to question 4</li>
             <li>If  your answer is “No”:
               <ul>
                 <li>making halls and doorways wider,&nbsp; installing automatic door operators,  elevators or lifts can all help reduce accessibility barriers in your building</li>
@@ -1997,7 +2021,7 @@ title: "Canada.ca Content Style Guide"
         <section>
           <p><strong>Question 4:</strong> Can persons with reduced mobility use the washroom in your  building?</p>
           <ul>
-            <li>If your  answer is “Yes”, go to question 5</li>
+            <li>If your  answer is “Yes,” go to question 5</li>
             <li>If  your answer is “No”:
               <ul>
                 <li>accessible washrooms or barrier-free stalls  should be available in all facilities.</li>
@@ -2033,7 +2057,7 @@ title: "Canada.ca Content Style Guide"
       <li>promotional features on a topic page or home page (Government of Canada activities and initiatives)</li>
     </ul>
     <p>Don't place meaningful text, such as campaign or program titles, in decorative images.</p>
-    <p>Get details about the templates above in the <a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-eng.asp">Canada.ca Specifications</a>.</p>
+    <p>Get details about the templates above in the <a href="{{ site.url }}/specification.html">Canada.ca Specifications</a>.</p>
     <h5>Example of a decorative image</h5>
     <p><img alt="Decorative image in context to create visual interest" class="img-responsive" src="/style-guide/images/shopping-cart-02.png"></p>
     <h5>Don’t describe decorative images</h5>
@@ -2045,7 +2069,7 @@ title: "Canada.ca Content Style Guide"
     <h4>Image sizing and placement</h4>
     <p>Learn where to place images and videos on Canada.ca and what size they should be:</p>
     <ul>
-      <li>use the templates in the <a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-eng.asp">Canada.ca Specifications</a></li>
+      <li>use the templates in the <a href="{{ site.url }}/specification.html">Canada.ca Specifications</a></li>
       <li>see the <a href="https://wet-boew.github.io/themes-dist/GCWeb/index-en.html">Canada.ca page types on GitHub</a></li>
     </ul>
   </section>
@@ -2094,7 +2118,7 @@ title: "Canada.ca Content Style Guide"
     <h5>Long description</h5>
     <p>You could write the following long description for the image shown in Figure 1:</p>
     <p>A balanced scorecard is a strategic planning and management system used worldwide to align business activities with an organization's vision and strategy.</p>
-    <p>Business activities are grouped into 4 perspectives, all of which are interdependent and come from the vision and strategy. These are learning and growth, internal business processes, financial, and customer. Each has a question associated with it.</p>
+    <p>Business activities are grouped into four perspectives, all of which are interdependent and come from the vision and strategy. These are learning and growth, internal business processes, financial, and customer. Each has a question associated with it.</p>
     <ul>
       <li>Learning and growth</li>
     </ul>
@@ -2177,7 +2201,7 @@ title: "Canada.ca Content Style Guide"
       </tfoot>
     </table>
   </figure>
-  <p>Work with your web team to determine the best way to include the long description information. They'll guide you on how to make sure the image is accessible to people using assistive technology. They'll also ensure that your image meets the <cite><a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-eng.asp">Canada.ca Specifications</a></cite>.</p>
+  <p>Work with your web team to determine the best way to include the long description information. They'll guide you on how to make sure the image is accessible to people using assistive technology. They'll also ensure that your image meets the <a href="{{ site.url }}/specification.html">Canada.ca Specifications</a>.</p>
   <h4>See how this rule applies in French:</h4>
   <ul>
     <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp6-3">6.3 Ajouter une description longue pour expliquer les images complexes</a></span></li>
@@ -2272,16 +2296,16 @@ title: "Canada.ca Content Style Guide"
   <p>A link must describe the content a person will find once they click on it. It's easier to complete a task when a link's destination matches a person's expectations.</p>
   <p>Tips for providing useful links:</p>
   <ul>
-    <li>use the first words of the target page or its entire title if it's descriptive enough</li>
-    <li>start with keywords that accurately describe the target page if the page title isn't enough</li>
-    <li>make sure that all links on the same page use unique descriptive text if they link to different target pages</li>
-    <li>when more than one link on a web page links to the same destination page, use the same words for the hyperlink</li>
-    <li>describe any content that must be downloaded</li>
-    <li>write email addresses in full, in lower case and as active links (contact <a href="#wp7-2" aria-label="Example of an appropriate email address">helpdesk@canada.ca</a>)</li>
+    <li>Use the first words of the target page or its entire title if it's descriptive enough</li>
+    <li>Start with keywords that accurately describe the target page if the page title isn't enough</li>
+    <li>Make sure that all links on the same page use unique descriptive text if they link to different target pages</li>
+    <li>When more than one link on a web page links to the same destination page, use the same words for the hyperlink</li>
+    <li>Describe any content that must be downloaded</li>
+    <li>Write email addresses in full, in lower case and as active links (contact <a href="#wp7-2" aria-label="Example of an appropriate email address">helpdesk@canada.ca</a>)</li>
   </ul>
   <p>Don't use:</p>
   <ul>
-    <li>the same link text to point to 2 different pages </li>
+    <li>the same link text to point to two different pages </li>
     <li>vague statements such as "click here" or "read more" </li>
     <li>promotional messaging that might confuse someone who is deciding whether to go to the page that is being linked&nbsp;to</li>
   </ul>
@@ -2309,48 +2333,40 @@ title: "Canada.ca Content Style Guide"
     <h4>Use parentheses for contextual information</h4>
     <p>Use parentheses inside a link to add information that provides context about the linked content. Only provide necessary, contextual information to help users decide whether to proceed.</p>
     <p>This guidance applies in the following situations:</p>
-    <ul class="lst-spcd">
-      <li><strong>Link is to a downloadable document.</strong> Make sure to include <strong>the file type</strong> and <strong>size</strong> in the parentheses:
+    <h5>Link is to a downloadable document</h5>
+    <p>Make sure to include <b>the file type</b> and <b>size</b> in the parentheses. For example:
         <ul>
-          <li><strong>Example</strong>: <a href="https://www.asc-csa.gc.ca/pdf/eng/publications/2021-2022-state-canadian-space-sector-facts-figures-2020-2021-v2.pdf">State of the Canadian Space Sector Report (PDF, 4.35 MB)</a></li>
+          <li><a href="https://www.asc-csa.gc.ca/pdf/eng/publications/2021-2022-state-canadian-space-sector-facts-figures-2020-2021-v2.pdf">State of the Canadian Space Sector Report (PDF, 4.35 MB)</a></li>
         </ul>
-      </li>
       <li>
-        <p><strong>Link to external content is in a different language.</strong></p>
-        <p>Some non-government web content isn't available in both official languages. If you're linking to external web content that isn't available in the language of the current page, say in which language(s) it is available after the link.</p>
-        <ul>
-          <li>Add parentheses inside the link and specify the language of the linked content, formatted as (Language X only).</li>
-          <li>Do not translate the title of the linked content.</li>
-          <li>Ensure its language is indicated in the link’s code.</li>
-        </ul>
-        <p class="mrgn-tp-md">On an English page, write:</p>
-        <ul>
-          <li><a href="#">Link text (French only)</a></li>
-          <li><a href="#">Link text (Inuktitut only)</a></li>
-          <li><a href="#">Link text (Spanish and Portuguese only)</a>
-            <ul>
-              <li><strong>Example</strong>: To renew your French passport while abroad in Canada, follow the steps described in <span lang="fr"><a href="https://passeport.ants.gouv.fr/Vos-demarches/Renouvellement-perte-ou-vol">Effectuer le renouvellement de votre passeport (French only)</a></span>.</li>
-            </ul>
-          </li>
-        </ul>
-        <p class="mrgn-tp-md">Follow the same structure on French-language pages linking to English content:</p>
+    <h5>Link to external content is in a different language</h5>
+    <p>Some non-government web content isn't available in both official languages. If you're linking to external web content that isn't available in the language of the current page, say in which language(s) it is available after the link. Make sure that you:</p>
+    <ul>
+      <li>add parentheses inside the link and specify the language of the linked content, formatted as (Language X only).</li>
+      <li>do not translate the title of the linked content.</li>
+      <li>ensure its language is indicated in the link’s code.</li>
+    </ul>
+    <p>On an English page, write:</p>
+    <ul>
+      <li><a href="#">Link text (French only)</a></li>
+      <li><a href="#">Link text (Inuktitut only)</a></li>
+      <li><a href="#">Link text (Spanish and Portuguese only)</a>
+    </ul>
+    <p><strong>Example</strong>: To renew your French passport while abroad in Canada, follow the steps described in <span lang="fr"><a href="https://passeport.ants.gouv.fr/Vos-demarches/Renouvellement-perte-ou-vol">Effectuer le renouvellement de votre passeport (French only)</a></span>.</p>
+    <p>Follow the same structure on French-language pages linking to English content:</p>
         <ul>
           <li><span lang="fr">L’article 508 révisé, la norme EN 301 549 ou les </span><span lang="en"><a href="https://accessibility.18f.gov/">Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</a></span></li>
         </ul>
-      </li>
-      <li>
-        <p><strong>Link opens video or audio content.</strong> Specify the length of the content inside the parentheses.</p>
+    <h5>Link opens video or audio content</h5>
+    <p>Specify the length of the content inside the parentheses. For example:</p>
         <ul>
           <li><strong>Example:</strong><a href="https://www.youtube.com/watch?v=GbDT6FxQ6mk"> Using Magnifier in Windows: At a Glance - YouTube (2:07 minutes)</a></li>
         </ul>
-      </li>
-      <li>
-        <p><strong>When more than one situation applies</strong>, include all applicable information in parentheses.</p>
+     <h5>When more than one situation applies</h5>
+      <p>Include all applicable information in parentheses. For example:</p>
         <ul>
           <li><strong>Example: </strong><a href="https://www.rhone.gouv.fr/contenu/telechargement/47282/261770/file/Psp_urgent_formulaire_26_7_21.pdf">Complete your application&nbsp;&laquo;&nbsp;<span lang="fr">Demande de passeport temporaire (French only, PDF 0.46 MB)&nbsp;&raquo;&nbsp;</span></a></li>
         </ul>
-      </li>
-    </ul>
   </section>
   <h4>See how this rule applies in French:</h4>
   <ul>
@@ -3168,7 +3184,7 @@ title: "Canada.ca Content Style Guide"
     <li>created a clear title for each table</li>
     <li>updated titles to reflect capitalization requirements</li>
     <li>used existing subheadings embedded in the original example to create table headers</li>
-    <li>made sure that the last 3 column headers reflect the unit value of the information in each column</li>
+    <li>made sure that the last three column headers reflect the unit value of the information in each column</li>
     <li>added zeros to provide relevant information in otherwise empty cells </li>
     <li>removed empty cells, rows and irrelevant information (underlining) and subheadings (such as those that were not aligned with the column headers)</li>
   </ul>
@@ -3176,10 +3192,9 @@ title: "Canada.ca Content Style Guide"
 <section id="toc13">
   <h2>Resources</h2>
   <ul>
-    <li><a href="https://www.canadapost.ca/tools/pg/manual/PGaddress-e.asp">Addressing Guidelines</a>, Canada Post</li>
-    <li><a href="https://www.omafra.gov.on.ca/english/nfporgs/07-049.htm">Clear Writing</a>, Ministry of Agriculture, Food and Rural Affairs of Ontario</li>
+    <li><a href="https://www.canadapost-postescanada.ca/cpc/en/support/articles/addressing-guidelines/overview.page">Addressing Guidelines</a>, Canada Post</li>
+    <!-- <li><a href="https://www.omafra.gov.on.ca/english/nfporgs/07-049.htm">Clear Writing</a>, Ministry of Agriculture, Food and Rural Affairs of Ontario</li> no link available anymore -->
     <li><a href="https://www.publications.gc.ca/site/eng/413603/publication.html">Communicating with Seniors: Advice, Techniques and Tips</a>, Health Canada</li>
-    <li><a href="https://dyslexiahelp.umich.edu/sites/default/files/good_fonts_for_dyslexia_study.pdf">Good Fonts for Dyslexia</a>, Luz Rello, NLP &amp; Web Research Groups, et Ricardo Baeza-Yates, Yahoo! Labs &amp; Web Research Group, UPF</li>
     <li><a href="https://www.nngroup.com/articles/how-users-read-on-the-web/">How Users Read on the Web, Nielsen Norman Group</a></li>
     <li><a href="https://ccat-ctac.org/CMFiles/Publication/CCAT-EN-new2.pdf">Introduction to Administrative Justice and To Plain Language</a> (PDF), Council of Canadian Administrative Tribunals</li>
     <li><a href="https://www.gov.uk/guidance/content-design/what-is-content-design">Introduction to content design</a>, Government Digital Service, GOV.UK</li>
@@ -3189,23 +3204,22 @@ title: "Canada.ca Content Style Guide"
     <li><a href="https://www.nngroup.com/articles/writing-for-lower-literacy-users/">Lower-Literacy Users: Writing for a Broad Consumer Audience</a>, Jakob Nielsen, Nielsen Norman Group</li>
     <li><a href="https://www.nngroup.com/articles/minimize-cognitive-load/">Minimize Cognitive Load to Maximize Usability</a>, Kathryn Whitenton, Nielsen Norman Group</li>
     <li><a href="https://www.nngroup.com/articles/mobile-ux/">Mobile User Experience: Limitations and Strengths</a>, Raluca Budio, Nielsen Norman Group</li>
-    <li><a href="https://grammar.about.com/od/mo/g/Negative-Contraction.htm">Negative contraction</a>, Richard Nordquist</li>
+    <li><a href="https://www.thoughtco.com/what-is-a-negative-contraction-1691339">Negative contraction</a>, Richard Nordquist</li>
     <li><a href="https://publications.gc.ca/site/eng/9.644871/publication.html">Plain Language Clear and Simple</a>, Public Works and Government Services Canada (reprinted 2003)</li>
     <li><a href="https://plainlanguagenetwork.org/">Plain Language Association International</a></li>
     <li><a href="https://www.navigatormm.com/blog/plain-language-please-heres-why-to-avoid-marketese-online/">Plain Language, Please! Here's Why to Avoid "Marketese" Only</a>, Sarah Bauer</li>
     <li><a href="https://www.publications.gc.ca/site/eng/9.695565/publication.html">Reaching Out: A Guide to Communicating With Aboriginal Seniors</a>, Health Canada</li>
-    <li><a href="https://www.noslangues-ourlanguages.gc.ca/index-eng.php">Resources of the Language Portal of Canada</a>, Government of Canada</li>
     <li><a href="https://www.statcan.gc.ca/pub/89-555-x/89-555-x2013001-eng.htm">Skills in Canada: First Results from the Programme for the International Assessment of Adult Competencies</a>, Statistics Canada</li>
     <li><a href="https://www.statcan.gc.ca/daily-quotidien/160518/dq160518b-eng.htm">Study: Literacy and numeracy among off-reserve First Nations people and Métis</a>, 2012, Statistics Canada</li>
     <li><a href="https://www.statcan.gc.ca/daily-quotidien/141104/dq141104b-eng.htm">Study: University graduates with lower levels of literacy and numeracy skills</a>, 2012, Statistics Canada</li>
     <li><a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;index=frt">TERMIUM Plus</a>®, Translation Bureau</li>
     <li><a href="https://www.musanim.com/miller1956/">The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing</a>, George A. Miller</li>
-    <li><a href="https://gathercontent.com/blog/use-pair-writing-to-collaborate-with-subject-matter-experts">Use pair writing to collaborate with subject matter experts</a>, Jonathan Kahn, GatherContent</li>
+    <!-- <li><a href="https://gathercontent.com/blog/use-pair-writing-to-collaborate-with-subject-matter-experts">Use pair writing to collaborate with subject matter experts</a>, Jonathan Kahn, GatherContent</li> no link available anymore -->
     <li><a href="https://www.searchenginepeople.com/blog/watch-your-punctuation-online.html">Watch Your Punctuation Online</a>, Search Engine People</li>
     <li><a href="https://www.w3.org/TR/WCAG/">Web Content Accessibility Guidelines (WCAG) 2.0</a>, World Wide Web Consortium (W3C)</li>
     <li><a href="https://www.deque.com/blog/dont-screen-readers-read-whats-screen-part-1-punctuation-typographic-symbols/">Why Don't Screen Readers Always Read What's on the Screen?</a>, The Deque Blog</li>
     <li><a href="https://www.nngroup.com/topic/writing-web/">Writing for the web</a>, Nielsen Norman Group</li>
-    <li>Writing for the Web: Principles and Guidelines, University of Ottawa</li>
+    <!-- <li>Writing for the Web: Principles and Guidelines, University of Ottawa</li> no link available anymore -->
     <li><cite><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/index-eng">Writing Tips Plus</a></cite>, Resource of the Language Portal of Canada, Government of Canada</li>
   </ul>
 </section>
