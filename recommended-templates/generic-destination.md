@@ -1,13 +1,20 @@
 ---
 altLangPage: https://conception.canada.ca/modeles-recommandes/generique.html
 breadcrumbs:date: null
-dateModified: '2019-11-28'
+dateModified: '2025-12-17'
 description: null
-title: Basic content page layout recommended template
+title: Basic content page layout
 ---
 
 
-
+<section class="alert alert-info mrgn-tp-md">
+  <p>We’re decommissioning this template. You can follow the GC Design System <a href="https://design-system.alpha.canada.ca/en/page-templates/basic/">Basic page template</a></p>
+  <p>You can also combine the mandatory elements and patterns from design.canada.ca to build a page that will help users complete their tasks:</p>
+  <ul>
+    <li><a href="https://design.canada.ca/specifications/mandatory-elements.html">Mandatory elements of the design system</a></li>
+    <li><a href="https://www.canada.ca/en/government/about/design-system/pattern-library.html">Template and pattern library</a></li>
+  </ul>
+</section>
 
 <p>
  This template is the basic layout for Canada.ca content pages.
@@ -31,6 +38,11 @@ title: Basic content page layout recommended template
   <li>
    <a href="#how">
     How to implement
+   </a>
+  </li>
+  <li>
+   <a href="#latest">
+    Latest changes
    </a>
   </li>
  </ul>
@@ -121,25 +133,6 @@ title: Basic content page layout recommended template
      </tr>
      <tr>
       <td>
-       <a href="../coded-layout/generic-destination-byline.html">
-        With institutional byline
-       </a>
-      </td>
-      <td>
-       <ul>
-        <li>
-         <a href="https://design.canada.ca/style-guide/#wp5-1">
-          Page title
-         </a>
-        </li>
-        <li>
-          Institutional byline
-        </li>
-       </ul>
-      </td>
-     </tr>
-     <tr>
-      <td>
        <a href="../coded-layout/generic-destination-toc.html">
         With in-page table of contents
        </a>
@@ -186,5 +179,11 @@ title: Basic content page layout recommended template
  </div>
 </section>
 
-
+<section>
+    <h2 id="latest">Latest changes</h2>
+    <dl class="dl-horizontal">
+        <dt><time>2025-12-17</time></dt>
+        <dd>Added an alert to indicate that this template is scheduled for decommission.</dd>
+    </dl>
+ </section>
 
