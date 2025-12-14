@@ -17,7 +17,7 @@ title: "Update history for the Canada.ca Content Style Guide"
     <summary><time datetime="2025-12-17">December 17, 2025</time></summary>
     <p>We updated the subsection <a href="/style-guide/#wp4-1-1">Titles, headings and subheadings</a> to clarify that punctuation should not be added at the end of table captions and headers. This is already noted in the French guidance.</p>
     <p>We also updated <a href="/style-guide/#wp4-6">section 4.6 Numbers</a> to provide guidance on when to spell out numbers versus using digits, and included specific examples.</p>
-    <p>Related to this, we updated the <a href="/style-guide/#wp4-1-5">subsection Hyphens and dashes</a> to allow for the use of en dashes in a span of fiscal or calendar years in English. We consulted with the Accessibility, Accommodation and Adaptive Computer Technology (AAACT) program for this update. They tested all uses of hyphens and dashes with numbers using various screen readers. We also added a new subsection for <a href="">hyphens and dashes (traits d'union et tirets)</a> in French.</p>
+    <p>Related to this, we updated the <a href="/style-guide/#wp4-1-5">subsection Hyphens and dashes</a> to allow for the use of en dashes in a span of fiscal or calendar years in English. We consulted with the Accessibility, Accommodation and Adaptive Computer Technology (AAACT) program for this update. They tested all uses of hyphens and dashes with numbers using various screen readers. We also added a new subsection for <a href="{{ site.urlconception }}/guide-redaction/#wp4-1-4">hyphens and dashes (traits d'union et tirets)</a> in French.</p>
   </details>
   <details>
     <summary><time datetime="2024-08-06">August 6, 2024</time></summary>
