@@ -4131,10 +4131,7 @@ title: "Canada.ca Content Style Guide"
    <h4>After</h4>
    <table class="table table-bordered table-condensed">
     <caption class="text-center">
-     <strong
-      >Table 1: supporting families and communities for fiscal years 2013 to 2014 and 2014 to 2015, net fiscal costs (in
-      $ millions)<sup id="table1-fn1-rf"
-       ><a class="fn-lnk" href="#table1-fn1"><span class="wb-inv">table 1 note </span>1</a></sup
+     <strong>Table 1: supporting families and communities for fiscal years 2013 to 2014 and 2014 to 2015, net fiscal costs (in$ millions)<sup id="table1-fn1-rf"><a class="fn-lnk" href="#table1-fn1"><span class="wb-inv">table 1 note </span>1</a></sup
       ></strong
      >
     </caption>
