@@ -13,7 +13,7 @@ title: "Canada.ca Content Style Guide"
  <p>
   These are the rules to create web content that can be easily found, understood and used. They are based on writing
   principles and techniques that help make web content clear and adapted to the needs of all people. Use it with the
-  <a href="{{ site.url }}/specification.html">Canada.ca Specifications</a> when you're designing and organizing web
+  <a href="{{ site.url }}/specifications.html">Canada.ca Specifications</a> when you're designing and organizing web
   content.
  </p>
 </div>
@@ -102,7 +102,7 @@ title: "Canada.ca Content Style Guide"
  <ul>
   <li>
    templates, content components, character limits and other requirements as described in the
-   <a href="{{ site.url }}/specification.html">Canada.ca Specifications</a>
+   <a href="{{ site.url }}/specifications.html">Canada.ca Specifications</a>
   </li>
   <li>
    requirements set out in the related legislated and policy instruments, including:
@@ -3168,7 +3168,7 @@ title: "Canada.ca Content Style Guide"
     <p>Don't place meaningful text, such as campaign or program titles, in decorative images.</p>
     <p>
      Get details about the templates above in the
-     <a href="{{ site.url }}/specification.html">Canada.ca Specifications</a>.
+     <a href="{{ site.url }}/specifications.html">Canada.ca Specifications</a>.
     </p>
     <h5>Example of a decorative image</h5>
     <p>
@@ -3197,7 +3197,7 @@ title: "Canada.ca Content Style Guide"
     <ul>
      <li>
       use the templates in the
-      <a href="{{ site.url }}/specification.html">Canada.ca Specifications</a>
+      <a href="{{ site.url }}/specifications.html">Canada.ca Specifications</a>
      </li>
      <li>
       see the
@@ -3407,7 +3407,7 @@ title: "Canada.ca Content Style Guide"
     Work with your web team to determine the best way to include the long description information. They'll guide you on
     how to make sure the image is accessible to people using assistive technology. They'll also ensure that your image
     meets the
-    <a href="{{ site.url }}/specification.html">Canada.ca Specifications</a>.
+    <a href="{{ site.url }}/specifications.html">Canada.ca Specifications</a>.
    </p>
    <h4>See how this rule applies in French:</h4>
    <ul>
