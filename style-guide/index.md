@@ -3520,14 +3520,14 @@ title: "Canada.ca Content Style Guide"
      cases, the daily amount is more than one serving, such as for rice or pasta.
     </p>
     <p>
-     <a href="https://www.hc-sc.gc.ca/fn-an/food-guide-aliment/basics-base/quantit-eng.php"
+     <a href="https://food-guide.canada.ca/en/"
       >Number of daily food servings for children, teens and adults</a
      >
     </p>
     <h6>Instead of:</h6>
     <p>
      A Food Guide Serving is simply a reference amount. It helps you understand&nbsp;<a
-      href="https://www.hc-sc.gc.ca/fn-an/food-guide-aliment/basics-base/quantit-eng.php"
+      href="https://food-guide.canada.ca/en/"
       >how much</a
      >
      food is recommended every day from each of the four food groups. In some cases, a Food Guide Serving may be close
@@ -3627,7 +3627,7 @@ title: "Canada.ca Content Style Guide"
     <p>
      To ensure that you are paid the maximum Employment Insurance (EI) benefit rate that you are entitled to, complete
      the
-     <a href="https://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=ins5241&amp;ln=eng"
+     <a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/Detail.html?Form=INS5241"
       >Claimant Attestation - Highest Weeks of Insurable Earnings (Variable Best Weeks) form</a
      >
      with the required information about your highest weeks of insurable earnings in the last 52 weeks of employment or
@@ -3692,19 +3692,14 @@ title: "Canada.ca Content Style Guide"
      <h5>Link opens video or audio content</h5>
      <p>Specify the length of the content inside the parentheses. For example:</p>
      <ul>
-      <li>
-       <strong>Example:</strong
-       ><a href="https://www.youtube.com/watch?v=GbDT6FxQ6mk">
-        Using Magnifier in Windows: At a Glance - YouTube (2:07 minutes)</a
-       >
+      <li><a href="https://www.youtube.com/watch?v=GbDT6FxQ6mk">
+        Using Magnifier in Windows: At a Glance - YouTube (2:07 minutes)</a>
       </li>
      </ul>
      <h5>When more than one situation applies</h5>
      <p>Include all applicable information in parentheses. For example:</p>
      <ul>
-      <li>
-       <strong>Example: </strong
-       ><a href="https://www.rhone.gouv.fr/contenu/telechargement/47282/261770/file/Psp_urgent_formulaire_26_7_21.pdf"
+      <li><a href="https://www.rhone.gouv.fr/contenu/telechargement/47282/261770/file/Psp_urgent_formulaire_26_7_21.pdf"
         >Complete your application&nbsp;&laquo;&nbsp;<span lang="fr"
          >Demande de passeport temporaire (French only, PDF 0.46 MB)&nbsp;&raquo;&nbsp;</span
         ></a
