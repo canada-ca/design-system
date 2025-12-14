@@ -12,7 +12,7 @@ title: "Latest changes to the Canada.ca design"
 <div id="expand-collapse">
 <details open="open">
     <summary><time datetime="2025-12-17">December 17, 2025</time></summary>
-    <p>Added an alert to the <a href="{{ site.url }}/recommended-templates/common-design-patterns/carousels.html">service initiation pages template</a> to indicate that it is being decommissioned. We’ve done research that has shown carousels aren’t an effective promotional tool. For more information, read this blog post:</p> 
+    <p>Added an alert to the <a href="{{ site.url }}/recommended-templates/common-design-patterns/carousels.html">carousels design pattern</a> to indicate that it is being decommissioned. We’ve done research that has shown carousels aren’t an effective promotional tool. For more information, read this blog post:</p> 
       <ul>
       <li><a href="https://blog.canada.ca/2021/10/08/promotional-carousels.html">Avoid promotional carousels, improve web content</a></li>
     </ul>
