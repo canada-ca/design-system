@@ -7,7 +7,7 @@ title: Carousels design pattern
 ---
 <section class="alert alert-info mrgn-tp-md">
   <p>We’re decommissioning this pattern and don’t recommend using it on your pages.</p>
-  <p>We’ve done research that has shown carousels aren’t an effective promotional tool. For more information, read this blog post: </p>
+  <p>We’ve done research that has shown carousels aren’t an effective promotional tool. For more information, read this blog post:</p>
   <ul>
     <li><a href="https://blog.canada.ca/2021/10/08/promotional-carousels.html">Avoid promotional carousels, improve web content</a></li>
   </ul>
