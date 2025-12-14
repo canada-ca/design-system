@@ -1,11 +1,17 @@
 ---
 altLangPage: https://conception.canada.ca/configurations-conception-communes/carrousels.html
 date: null
-dateModified: '2020-10-30'
+dateModified: '2025-12-17'
 description: null
 title: Carousels design pattern
 ---
-
+<section class="alert alert-info mrgn-tp-md">
+  <p>We’re decommissioning this pattern and don’t recommend using it on your pages.</p>
+  <p>We’ve done research that has shown carousels aren’t an effective promotional tool. For more information, read this blog post: </p>
+  <ul>
+    <li><a href="https://blog.canada.ca/2021/10/08/promotional-carousels.html">Avoid promotional carousels, improve web content</a></li>
+  </ul>
+</section>
 
 <div>
  <section>
@@ -136,6 +142,16 @@ title: Carousels design pattern
  </section>
 </div>
 
-
+<section>
+    <h2 id="latest">Latest changes</h2>
+    <dl class="dl-horizontal">
+        <dt><time>2025-12-17</time></dt>
+        <dd>added an alert to indicate that this pattern is scheduled for decommissione</dd>
+    </dl>
+     <dl class="dl-horizontal">
+        <dt><time>2020-10-30</time></dt>
+        <dd>clarified when to use carousels and when not to use them</dd>
+    </dl>
+ </section>
 
 
