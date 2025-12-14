@@ -1387,6 +1387,7 @@ title: "Canada.ca Content Style Guide"
     ></div>
    </div>
   </section>
+  </section>
   <section id="toc8">
    <h2>4.0 Style</h2>
    <div class="row mrgn-tp-lg">
@@ -2124,6 +2125,7 @@ title: "Canada.ca Content Style Guide"
      data-wb-share='{"custType": " the rule for words and expressions in transition", "title": "4.11 Words and expressions in transition", "url": "https://design.canada.ca/style-guide/#wp4-11", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-11"}'
     ></div>
    </div>
+  </section>
   </section>
   <section id="toc9">
    <h2>5.0 Content structure</h2>
@@ -4882,5 +4884,3 @@ title: "Canada.ca Content Style Guide"
     </dd>
    </dl>
   </aside>
- </section>
-</section>
