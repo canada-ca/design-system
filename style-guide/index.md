@@ -9,14 +9,14 @@ image:
 title: "Canada.ca Content Style Guide"
 ---
 
-<section id="intro">
+<div id="intro">
  <p>
   These are the rules to create web content that can be easily found, understood and used. They are based on writing
   principles and techniques that help make web content clear and adapted to the needs of all people. Use it with the
   <a href="{{ site.url }}/specification.html">Canada.ca Specifications</a> when you're designing and organizing web
   content.
  </p>
-</section>
+</div>
 <section id="toc">
  <div class="row mrgn-tp-lg">
   <div class="col-md-8">
@@ -48,7 +48,7 @@ title: "Canada.ca Content Style Guide"
  <p>Most recent updates to the guide:</p>
  <ul class="mrgn-tp-lg">
   <li>
-   We have updated <a href="##toc6">section 2.0 Communicate clearly with plain language</a> to better align with the
+   We have updated <a href="#toc6">section 2.0 Communicate clearly with plain language</a> to better align with the
    plain language standard developed through the International Organization for Standardization (ISO). This update was
    done in collaboration with plain language experts and communications professionals from across the Government of
    Canada.
