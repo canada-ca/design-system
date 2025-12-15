@@ -1,6 +1,6 @@
 ---
 altLangPage: https://conception.canada.ca/modeles-recommandes/pages-lancement-service.html
-dateModified: '2025-12-16'
+dateModified: '2025-12-15'
 description: null
 title: "No longer supported: Service initiation pages template"
 ---
@@ -66,7 +66,7 @@ title: "No longer supported: Service initiation pages template"
                 <li>
                     Use to start tasks that support services (as defined under the
                     <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603">
-                        Policy on Service and Digital</a> 
+                        Policy on Service and Digital</a>)
                 </li>
                 <li>
                     Use to start tasks that have prerequisites to satisfy before starting the task (such as eligibility criteria or having documents or information in hand)
