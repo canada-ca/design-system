@@ -48,13 +48,16 @@ title: "Canada.ca Content Style Guide"
  <p>We recently updated the following in the guide:</p>
  <ul class="mrgn-tp-lg">
   <li>
-   We have updated <a href="#toc6">section 2.0 Communicate clearly with plain language</a> to better align with the
-   plain language standard developed through the International Organization for Standardization (ISO). This update was
-   done in collaboration with plain language experts and communications professionals from across the Government of
-   Canada.
+   The subsection <a href="#wp4-1-1">Titles, headings and subheadings</a> to make it clear to not add punctuation at the end of table captions and headers in English
+  </li>
+  <li>Section <a href="#wp4-6">4.6 Numbers</a> to provide guidance on when to spell out numbers versus using digits</li>
+  <li>The subsection for hyphens and dashes to allow for the use of en dashes in a span of fiscal or calendar years
+    <ul>
+      <li>We also added a new corresponding subsection, <a href="{{ site.urlconception }}/guide-redaction/#wp4-1-4">Traits d’union et les tirets</a>, in French</li>
+    </ul>
   </li>
  </ul>
- <p><a href="update-history.html">Update history</a> (this list begins with changes on May 25, 2023).</p>
+ <p>See the <a href="update-history.html">update history for more details</a> (this list begins with changes on May 25, 2023).</p>
 </section>
 <section id="toc2">
  <h2>Purpose</h2>
