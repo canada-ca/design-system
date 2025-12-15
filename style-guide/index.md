@@ -45,7 +45,7 @@ title: "Canada.ca Content Style Guide"
 </section>
 <section id="toc1">
  <h2>Recent updates</h2>
- <p>Most recent updates to the guide:</p>
+ <p>We recently updated the following in the guide:</p>
  <ul class="mrgn-tp-lg">
   <li>
    We have updated <a href="#toc6">section 2.0 Communicate clearly with plain language</a> to better align with the
