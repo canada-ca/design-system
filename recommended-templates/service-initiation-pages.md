@@ -66,9 +66,7 @@ title: "No longer supported: Service initiation pages template"
                 <li>
                     Use to start tasks that support services (as defined under the
                     <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603">
-                        Policy on Service and Digital
-                    </a>
-                    )
+                        Policy on Service and Digital</a> 
                 </li>
                 <li>
                     Use to start tasks that have prerequisites to satisfy before starting the task (such as eligibility criteria or having documents or information in hand)
@@ -286,8 +284,7 @@ title: "No longer supported: Service initiation pages template"
                                             <li>
                                                 the
                                                 <a href="../common-design-patterns/ordered-multipage.html">
-                                                    Ordered multi-page navigation pattern
-                                                </a>
+                                                    Ordered multi-page navigation pattern</a>
                                                 is used to present service steps
                                             </li>
                                         </ul>
@@ -322,8 +319,7 @@ title: "No longer supported: Service initiation pages template"
                                             <li>
                                                 on pages describing eligibility criteria, consider using the
                                                 <a href="../common-design-patterns/interactive-questions.html">
-                                                    Interactive questions pattern
-                                                </a>
+                                                    Interactive questions pattern</a>
                                                 to make the requirements more easily understood
                                             </li>
                                             <li>
@@ -410,15 +406,13 @@ title: "No longer supported: Service initiation pages template"
                                             <li>
                                                 this component is intended to meet the
                                                 <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603">
-                                                    Policy on Service and Digital
-                                                </a>
+                                                    Policy on Service and Digital</a>
                                                 requirement to provide service standards on Canada.ca
                                             </li>
                                             <li>
                                                 the
                                                 <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28422">
-                                                    Guideline on Service Management
-                                                </a>
+                                                    Guideline on Service Management</a>
                                                 contains definitions, characteristics and examples of service standards
                                             </li>
                                         </ul>
@@ -482,9 +476,7 @@ title: "No longer supported: Service initiation pages template"
                                             <li>
                                                 use the
                                                 <a href="../common-design-patterns/disclaimer-overlay.html">
-                                                    Disclaimer overlay pattern
-                                                </a>
-                                                pattern
+                                                    Disclaimer overlay pattern</a>
                                             </li>
                                         </ul>
                                     </details>
@@ -527,12 +519,10 @@ title: "No longer supported: Service initiation pages template"
                                             <li>
                                                 use the
                                                 <a href="../common-design-patterns/buttons.html">
-                                                    Buttons
-                                                </a>
+                                                    Buttons</a>
                                                 pattern or the
                                                 <a href="../common-design-patterns/download-links.html">
-                                                    Download links
-                                                </a>
+                                                    Download links</a>
                                                 pattern
                                             </li>
                                         </ul>
@@ -560,7 +550,7 @@ title: "No longer supported: Service initiation pages template"
                                                 provides contact details, service standards and service status messages for all alternative channels (for example, in-person, telephone and mail options) available to access this service
                                             </li>
                                             <li>
-                                                for each alterative channel, include contact information preceded by the applicable service standard and service status messages
+                                                for each alternative channel, include contact information preceded by the applicable service standard and service status messages
                                             </li>
                                             <li>
                                                 limit service standards associated with each alternative channel to 1 or 2 sentences
@@ -629,8 +619,7 @@ title: "No longer supported: Service initiation pages template"
                                             <li>
                                                 go to
                                                 <a href="../common-design-patterns/ordered-multipage.html">
-                                                    Ordered multi-page navigation pattern
-                                                </a>
+                                                    Ordered multi-page navigation pattern</a>
                                                 for how to present previous/next links
                                             </li>
                                         </ul>
