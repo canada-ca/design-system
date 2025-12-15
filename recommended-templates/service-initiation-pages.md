@@ -660,7 +660,7 @@ title: "No longer supported: Service initiation pages template"
     <section>
     <h2 id="latest">Latest changes</h2>
     <dl class="dl-horizontal">
-        <dt><time>2025-12-16</time></dt>
+        <dt><time>2025-12-15</time></dt>
         <dd>Added an alert to indicate that this pattern is scheduled for decommission.</dd>
     </dl>
     </section>
