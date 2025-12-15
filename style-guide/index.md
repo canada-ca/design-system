@@ -450,7 +450,7 @@ title: "Canada.ca Content Style Guide"
   </ul>
   <p><b>Active voice</b>: Use the active voice and positive form.</p>
   <ul>
-   <li><a href="#wp2-4">See section 2.4, write in the active and positive forme</a></li>
+   <li><a href="#wp2-4">See section 2.4, write in the active and positive form</a></li>
   </ul>
   <p>
    <b>Remove jargon</b>: Replace technical jargon and complex language with wording your audience will easily
