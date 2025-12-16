@@ -88,9 +88,7 @@ title: "Canada.ca Content Style Guide"
   technology, domain name or publishing platform used. This requirement is referenced in Appendix D: Mandatory
   Procedures for Social Media and Web Communications in the
   <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=30682"
-   ><cite>Directive on the Management of Communications</cite></a
-  >.
- </p>
+   ><cite>Directive on the Management of Communications</cite></a>.</p>
  <h3>Out-of-scope situations</h3>
  <p>
   Institutions that fall outside of the <cite>Directive on the Management of Communications</cite> do not have to follow
@@ -3643,7 +3641,7 @@ title: "Canada.ca Content Style Guide"
      Use parentheses inside a link to add information that provides context about the linked content. Only provide
      necessary, contextual information to help users decide whether to proceed.
     </p>
-    <p>This guidance applies in the following situations:</p>
+    <p>This guidance applies in the following situations.</p>
     <h5>Link is to a downloadable document</h5>
     <p>Make sure to include <b>the file type</b> and <b>size</b> in the parentheses. For example:</p>
     <ul>
@@ -3662,10 +3660,10 @@ title: "Canada.ca Content Style Guide"
      </p>
      <ul>
       <li>
-       add parentheses inside the link and specify the language of the linked content, formatted as (Language X only).
+       add parentheses inside the link and specify the language of the linked content, formatted as (Language X only)
       </li>
-      <li>do not translate the title of the linked content.</li>
-      <li>ensure its language is indicated in the link’s code.</li>
+      <li>do not translate the title of the linked content</li>
+      <li>ensure its language is indicated in the link’s code</li>
      </ul>
      <p>On an English page, write:</p>
      <ul>
@@ -3675,21 +3673,13 @@ title: "Canada.ca Content Style Guide"
      </ul>
      <p>
       <strong>Example</strong>: To renew your French passport while abroad in Canada, follow the steps described in
-      <span lang="fr"
-       ><a href="https://passeport.ants.gouv.fr/Vos-demarches/Renouvellement-perte-ou-vol"
-        >Effectuer le renouvellement de votre passeport (French only)</a
-       ></span
-      >.
+      <span lang="fr"><a href="https://passeport.ants.gouv.fr/Vos-demarches/Renouvellement-perte-ou-vol">Effectuer le renouvellement de votre passeport (French only)</a></span>.
      </p>
      <p>Follow the same structure on French-language pages linking to English content:</p>
      <ul>
       <li>
        <span lang="fr">L’article 508 révisé, la norme EN 301 549 ou les </span
-       ><span lang="en"
-        ><a href="https://accessibility.18f.gov/"
-         >Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</a
-        ></span
-       >
+       ><span lang="en"><a href="https://accessibility.18f.gov/">Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</a></span>
       </li>
      </ul>
      <h5>Link opens video or audio content</h5>
@@ -3704,7 +3694,7 @@ title: "Canada.ca Content Style Guide"
      <ul>
       <li><a href="https://www.rhone.gouv.fr/contenu/telechargement/47282/261770/file/Psp_urgent_formulaire_26_7_21.pdf"
         >Complete your application&nbsp;&laquo;&nbsp;<span lang="fr"
-         >Demande de passeport temporaire (French only, PDF 0.46 MB)&nbsp;&raquo;&nbsp;</span
+         >Demande de passeport temporaire (French only, PDF, 0.46 MB)&nbsp;&raquo;&nbsp;</span
         ></a
        >
       </li>
@@ -4755,9 +4745,7 @@ title: "Canada.ca Content Style Guide"
     </li>
     <li>
      <a href="https://ccat-ctac.org/CMFiles/Publication/CCAT-EN-new2.pdf"
-      >Introduction to Administrative Justice and To Plain Language</a
-     >
-     (PDF), Council of Canadian Administrative Tribunals
+      >Introduction to Administrative Justice and To Plain Language</a>(PDF, 726 KB), Council of Canadian Administrative Tribunals
     </li>
     <li>
      <a href="https://www.gov.uk/guidance/content-design/what-is-content-design">Introduction to content design</a>,
@@ -4771,7 +4759,7 @@ title: "Canada.ca Content Style Guide"
      <a href="https://www.ccat-ctac.org/CMFiles/Publication/Literacyandjustice.pdf"
       >Literacy and Access to Administrative Justice in Canada</a
      >
-     (PDF), Council of Canadian Administrative Tribunals
+     (PDF, 422 KB), Council of Canadian Administrative Tribunals
     </li>
     <li>
      <a href="https://abclifeliteracy.ca/workplace-literacy-facts">Literacy and Numeracy in Canada</a>, ABC Life
