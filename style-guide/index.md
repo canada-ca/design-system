@@ -1975,7 +1975,7 @@ title: "Canada.ca Content Style Guide"
     <li>
      Use the numeric date format <strong>only</strong> when space is limited (for example, in a table):
      <ul>
-      <li>write yyyy-mm-dd</li>
+      <li>Write yyyy-mm-dd</li>
       <li>explain the format in surrounding text (for example, in notes, or legends)</li>
      </ul>
     </li>
