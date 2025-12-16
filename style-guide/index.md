@@ -1973,7 +1973,7 @@ title: "Canada.ca Content Style Guide"
    <ul>
     <li>Use non-breaking spaces between the month and the day</li>
     <li>
-     Use the numeric date format <strong>only</strong> when space is limited (for example, in a table)
+     Use the numeric date format <strong>only</strong> when space is limited (for example, in a table):
      <ul>
       <li>write yyyy-mm-dd</li>
       <li>explain the format in surrounding text (for example, in notes, or legends)</li>
