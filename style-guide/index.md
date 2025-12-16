@@ -3106,7 +3106,7 @@ title: "Canada.ca Content Style Guide"
          If your answer is “No”:
          <ul>
           <li>
-           making halls and doorways wider,&nbsp; installing automatic door operators, elevators or lifts can all help
+           making halls and doorways wider, installing automatic door operators, elevators or lifts can all help
            reduce accessibility barriers in your building
           </li>
          </ul>
