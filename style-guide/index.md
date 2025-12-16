@@ -51,7 +51,7 @@ title: "Canada.ca Content Style Guide"
    The subsection <a href="#wp4-1-1">Titles, headings and subheadings</a> to make it clear to not add punctuation at the end of table captions and headers in English
   </li>
   <li>Section <a href="#wp4-6">4.6 Numbers</a> to provide guidance on when to spell out numbers versus using digits</li>
-  <li>The subsection for hyphens and dashes to allow for the use of en dashes in a span of fiscal or calendar years
+  <li>The subsection <a href="#wp4-1-5">Hyphens and dashes</a> to allow for the use of en dashes in a span of fiscal or calendar years
     <ul>
       <li>We also added a new corresponding subsection, <a href="{{ site.urlconception }}/guide-redaction/#wp4-1-4">Traits d’union et les tirets</a>, in French</li>
     </ul>
