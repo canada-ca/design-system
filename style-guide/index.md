@@ -1018,7 +1018,7 @@ title: "Canada.ca Content Style Guide"
   <section id="wp2-8">
    <h3>2.8 Additional resources on plain language and clear communication</h3>
    <p>The following resources offer trustworthy information to help you write clearly in plain language.</p>
-   <h4>Relevant <cite>Writing Tips Plus</cite> articles on clear communication</h4>
+   <h4>Relevant <cite>Writing Tips Plus</cite> articles on clear communication:</h4>
    <ul>
     <li>
      <a
