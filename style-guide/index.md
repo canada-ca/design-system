@@ -2310,7 +2310,7 @@ title: "Canada.ca Content Style Guide"
      </p>
      <h4>Write a title that describes the contents of the page</h4>
      <p>
-      The web page title (Heading1) is the title you see at the top of the page when you're looking at it. Make sure
+      The web page title (Heading 1) is the title you see at the top of the page when you're looking at it. Make sure
       that it accurately describes, in plain language, what your publication is about.
      </p>
      <h4>Use the first paragraph to introduce your publication</h4>
