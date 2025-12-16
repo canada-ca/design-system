@@ -3120,7 +3120,7 @@ title: "Canada.ca Content Style Guide"
         <li>
          If your answer is “No”:
          <ul>
-          <li>accessible washrooms or barrier-free stalls should be available in all facilities.</li>
+          <li>accessible washrooms or barrier-free stalls should be available in all facilities</li>
          </ul>
         </li>
        </ul>
