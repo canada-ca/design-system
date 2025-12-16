@@ -1976,7 +1976,7 @@ title: "Canada.ca Content Style Guide"
      Use the numeric date format <strong>only</strong> when space is limited (for example, in a table):
      <ul>
       <li>Write yyyy-mm-dd</li>
-      <li>explain the format in surrounding text (for example, in notes, or legends)</li>
+      <li>Explain the format in surrounding text (for example, in notes or legends)</li>
      </ul>
     </li>
     <li>Capitalize the first letter of the month (for example, January, February, March)</li>
