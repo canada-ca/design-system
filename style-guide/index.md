@@ -1271,7 +1271,7 @@ title: "Canada.ca Content Style Guide"
    <p class="mrgn-tp-lg">Use "Government of Canada" when:</p>
    <ul>
     <li>
-     describing Canada's stance on a topic relative to another named jurisdiction (country, province, territory city,
+     describing Canada's stance on a topic relative to another named jurisdiction (country, province, territory, city,
      etc.)
     </li>
     <li>explaining Canada's role with respect to a topic or issue</li>
