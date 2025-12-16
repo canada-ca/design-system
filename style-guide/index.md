@@ -2326,7 +2326,7 @@ title: "Canada.ca Content Style Guide"
      </p>
      <p>
       <strong>Title tag</strong>: The page title tag is the blue hyperlinked text you see when a search engine generates
-      a list of results. Write an effective page title (Heading1), and use it as your title tag.
+      a list of results. Write an effective page title (Heading 1), and use it as your title tag.
      </p>
      <p>
       <strong>Description metadata field</strong>: The description metadata is the content you see under the blue
