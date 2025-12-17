@@ -3699,7 +3699,6 @@ title: "Canada.ca Content Style Guide"
        >
       </li>
      </ul>
-    </li>
    </section>
    <h4>See how this rule applies in French:</h4>
    <ul>
