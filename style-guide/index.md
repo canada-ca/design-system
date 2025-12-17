@@ -3315,7 +3315,7 @@ title: "Canada.ca Content Style Guide"
      <li>Customer</li>
     </ul>
     <p>To achieve our vision, how should we appear to our customers?</p>
-    <p>Each perspective can be monitored using the following 4 components:</p>
+    <p>Each perspective can be monitored using the following four components:</p>
     <ul>
      <li>objectives</li>
      <li>messages</li>
