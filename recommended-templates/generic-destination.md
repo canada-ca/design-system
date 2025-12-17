@@ -183,7 +183,7 @@ title: Basic content page layout
     <h2 id="latest">Latest changes</h2>
     <dl class="dl-horizontal">
         <dt><time>2025-12-17</time></dt>
-        <dd>Added an alert to indicate that this template is scheduled for decommission.</dd>
+        <dd>added an alert to indicate that this template is scheduled for decommission</dd>
     </dl>
  </section>
 
