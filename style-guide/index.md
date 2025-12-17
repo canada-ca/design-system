@@ -3694,9 +3694,7 @@ title: "Canada.ca Content Style Guide"
      <ul>
       <li><a href="https://www.rhone.gouv.fr/contenu/telechargement/47282/261770/file/Psp_urgent_formulaire_26_7_21.pdf"
         >Complete your application&nbsp;&laquo;&nbsp;<span lang="fr"
-         >Demande de passeport temporaire (French only, PDF, 0.46 MB)&nbsp;&raquo;&nbsp;</span
-        ></a
-       >
+         >Demande de passeport temporaire (French only, PDF, 0.46 MB)&nbsp;&raquo;</span></a>
       </li>
      </ul>
    </section>
