@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/a-propos/derniers-changements.html"
 date: 2017-10-05
-dateModified: 2025-12-16
+dateModified: 2025-12-18
 description: "Latest changes to the Canada.ca design"
 title: "Latest changes to the Canada.ca design"
 ---
@@ -11,14 +11,18 @@ title: "Latest changes to the Canada.ca design"
 </div>
 <div id="expand-collapse">
 <details open="open">
+    <summary><time datetime="2025-12-18">December 18, 2025</time></summary>
+    <p>Added an alert to the <a href="{{ site.url }}/recommended-templates/generic-destination.html">basic page layout</a> to indicate that it is being decommissioned and to instead follow the the GC Design System <a href="https://design-system.alpha.canada.ca/en/page-templates/basic/">Basic page template</a>.</p>
+  </details>
+<details>
     <summary><time datetime="2025-12-17">December 17, 2025</time></summary>
-    <p>Added an alert to the <a href="{{ site.url }}/recommended-templates/common-design-patterns/carousels.html">carousels design pattern</a> to indicate that it is being decommissioned. We’ve done research that has shown carousels aren’t an effective promotional tool. For more information, read this blog post:</p> 
+    <p>Added an alert to the <a href="{{ site.url }}/common-design-patterns/carousels.html">carousels design pattern</a> to indicate that it is being decommissioned. We’ve done research that has shown carousels aren’t an effective promotional tool. For more information, read this blog post:</p> 
       <ul>
       <li><a href="https://blog.canada.ca/2021/10/08/promotional-carousels.html">Avoid promotional carousels, improve web content</a></li>
     </ul>
   </details>
   <details>
-    <summary><time datetime="2025-12-16">December 16, 2025</time></summary>
+    <summary><time datetime="2025-12-16">December 15, 2025</time></summary>
     <ul>
       <li>Added an alert to the <a href="{{ site.url }}/recommended-templates/service-initiation-pages.html">service initiation pages template</a> to indicate that it is being decommissioned and to consider the <a href="{{ site.url }}/common-design-patterns/subway-navigation.html">subway navigation pattern</a> for services and processes</li>
     </ul>
