@@ -23,15 +23,11 @@ title: "Latest changes to the Canada.ca design"
   </details>
   <details>
     <summary><time datetime="2025-12-16">December 15, 2025</time></summary>
-    <ul>
-      <li>Added an alert to the <a href="{{ site.url }}/recommended-templates/service-initiation-pages.html">service initiation pages template</a> to indicate that it is being decommissioned and to consider the <a href="{{ site.url }}/common-design-patterns/subway-navigation.html">subway navigation pattern</a> for services and processes</li>
-    </ul>
+    <p>Added an alert to the <a href="{{ site.url }}/recommended-templates/service-initiation-pages.html">service initiation pages template</a> to indicate that it is being decommissioned and to consider the <a href="{{ site.url }}/common-design-patterns/subway-navigation.html">subway navigation pattern</a> for services and processes</p>
   </details>
     <details>
     <summary><time datetime="2025-12-03">December 3, 2025</time></summary>
-    <ul>
-      <li>Updated the <a href="{{ site.url }}/common-design-patterns/contributors.html">contributors pattern guidance</a> to clarify when it is appropriate to use the contributors pattern</li>
-    </ul>
+      <p>Updated the <a href="{{ site.url }}/common-design-patterns/contributors.html">contributors pattern guidance</a> to clarify when it is appropriate to use the contributors pattern</p>
   </details>
   <details>
     <summary><time datetime="2025-12-02">December 2, 2025</time></summary>
