@@ -3516,7 +3516,7 @@ title: "Canada.ca Content Style Guide"
     <h4>Example of appropriate use of links</h4>
     <h6>Write:</h6>
     <p>
-     A Food Guide serving is&nbsp;how much&nbsp;food you should eat from each of the 4 food groups every day. In some
+     A Food Guide serving is&nbsp;how much&nbsp;food you should eat from each of the four food groups every day. In some
      cases, a serving is the amount of a given food group that you normally eat in one sitting, like an apple. In other
      cases, the daily amount is more than one serving, such as for rice or pasta.
     </p>
@@ -3606,7 +3606,7 @@ title: "Canada.ca Content Style Guide"
     <ol>
      <li>
       open the
-      <a href="https://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=ins5241&amp;ln=eng"
+      <a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/Detail.html?Form=INS5241"
        >form you need to declare your income</a
       >
      </li>
