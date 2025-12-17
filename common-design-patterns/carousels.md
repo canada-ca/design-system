@@ -3,7 +3,7 @@ altLangPage: https://conception.canada.ca/configurations-conception-communes/car
 date: null
 dateModified: '2025-12-17'
 description: null
-title: No longer supported - Carousels design pattern
+title: No longer supported - Carousels
 ---
 <section class="alert alert-info mrgn-tp-md">
   <p>We’re decommissioning this pattern and don’t recommend using it on your pages.</p>
