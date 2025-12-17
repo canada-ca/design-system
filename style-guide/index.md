@@ -395,8 +395,7 @@ title: "Canada.ca Content Style Guide"
  <section id="wp2-0">
   <h3>The duty to be clear: Plain language requirement</h3>
   <p>
-   You must use plain language, as <b>this is a requirement of the <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682"><cite>Directive on the Management of Communications</cite></a>
-   </b>.
+   You must use plain language, as <b>this is a requirement of the <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682"><cite>Directive on the Management of Communications</cite></a></b>.
    </p>
   <p>
    Plain language is a writing approach to communicate what your audience needs to know. This means using clear wording,
