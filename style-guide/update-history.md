@@ -48,7 +48,7 @@ title: "Update history for the Canada.ca Content Style Guide"
   </details>
   <details>
     <summary><time datetime="2023-12-12">December 12, 2023</time></summary>
-    <p>We added a separate page for the update history for the Canada.ca Content Style Guide</p>
+    <p>We added a separate page for the update history for the Canada.ca Content Style Guide.</p>
   </details>
   <details>
     <summary><time datetime="2023-12-06">December 6, 2023</time></summary>
