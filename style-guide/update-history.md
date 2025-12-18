@@ -59,7 +59,7 @@ title: "Update history for the Canada.ca Content Style Guide"
   <li>improved the simple table examples in <a href="/style-guide/#wp5-3">section 5.3 Use tables to organize data</a></li>
   <li>updated the text under <a href="/style-guide/#toc3">Use of the style guide</a> to highlight that the <cite>Directive on the Management of Communications</cite> is the official source for who must use this guide</li>
   <li>updated the text under the heading <a href="/style-guide/#wp1-2-1b">Writing for inclusivity</a> to reflect the new inclusive writing guidelines and resources</li>
-  <li>Added an example for when to capitalize public service under <a href="/style-guide/#wp4-1">4.1 Capitalization and punctuation</a></li>
+  <li>added an example for when to capitalize public service under <a href="/style-guide/#wp4-1">4.1 Capitalization and punctuation</a></li>
 </ul>
   </details>
   <details>
