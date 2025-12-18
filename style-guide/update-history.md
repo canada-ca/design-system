@@ -38,7 +38,7 @@ title: "Update history for the Canada.ca Content Style Guide"
    <p>In <a href="/style-guide/#wp4-4">section 4.4 Abbreviations and acronyms</a> added quick reference links to help users find information related to abbreviations. This includes:</p>
       <ul>
          <li>update to specify that abbreviations should be accompanied by their long form the first time they're used on a page</li>
-         <li><a href="/style-guide/#wp4-4-2">new subsection Styles of address, which includes:</a>
+         <li><a href="/style-guide/#wp4-4-2">new subsection Styles of address</a>, which includes:
             <ul>
                <li>how to abbreviate, punctuate and format titles, degrees and distinctions with personal names (for example, PhD, Ph.D. Dr.)</li>
                <li>styles of address and honorific titles</li>
