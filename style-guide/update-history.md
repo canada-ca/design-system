@@ -64,6 +64,6 @@ title: "Update history for the Canada.ca Content Style Guide"
   </details>
   <details>
     <summary><time datetime="2023-05-25">May 25, 2023</time></summary>
-    <p>We added "Writing for inclusivity" to the <a href="/style-guide/#toc5">Writing principles for web content</a> section</p>
+    <p>We added "Writing for inclusivity" to the <a href="/style-guide/#toc5">Writing principles for web content</a> section.</p>
   </details>
 </div>
