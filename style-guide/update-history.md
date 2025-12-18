@@ -56,7 +56,7 @@ title: "Update history for the Canada.ca Content Style Guide"
 <ul>
   <li>improved the Figure 5 functional image example in the <a href="/style-guide/#wp6-1-1">Functional images</a> section</li>
   <li>updated the example in the <a href="/style-guide/#wp6-1-2">Decorative images</a> section and added information about using null alt text</li>
-  <li>Improved the simple table examples in <a href="/style-guide/#wp5-3">section 5.3 Use tables to organize data</a></li>
+  <li>improved the simple table examples in <a href="/style-guide/#wp5-3">section 5.3 Use tables to organize data</a></li>
   <li>Updated the text under <a href="/style-guide/#toc3">Use of the style guide</a> to highlight that the <cite>Directive on the Management of Communications</cite> is the official source for who must use this guide</li>
   <li>Updated the text under the heading <a href="/style-guide/#wp1-2-1b">Writing for inclusivity</a> to reflect the new inclusive writing guidelines and resources</li>
   <li>Added an example for when to capitalize public service under <a href="/style-guide/#wp4-1">4.1 Capitalization and punctuation</a></li>
