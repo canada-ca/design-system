@@ -26,6 +26,9 @@ information:
   - title: Iterative design
     link: /guidance/ai/iterative-design.html
     description: Design phases, user testing, launch phases, feedback loop, feedback mechanisms
+  - title: Reference checklist
+    link: /guidance/ai/reference-checklist.html
+    description: A quick reference for all the things you must consider when creating an AI help application
 
 title: Guidance for the design of AI help applications on Canada.ca
 ---

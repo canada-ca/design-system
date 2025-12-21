@@ -98,7 +98,7 @@ title: Privacy and security
 <section>
   <h2 id="handling-threats">Handling perceived threats</h2>
   <p>Before you implement an AI help application, make sure your organization has a process in place to deal with threatening messages. A similar process may already be documented for threats received through email, social media and/or call centres.</p>
-  <h3>What to do</h3>
+  <p>What to do</p>
   <ul>
     <li>Follow the same procedures that your organization has in place for threats received through email, social media and/or call centres.</li>
   </ul>
