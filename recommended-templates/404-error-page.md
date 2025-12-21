@@ -73,14 +73,22 @@ title: 404 error page template
     </ul>
     <h3>Design specifications</h3>
     <ul>
-        <li>Include a danger label directly below the H1 heading that uses the text "404 error." <a href="../common-design-patterns/labels.html#danger">Follow the implementation guidance for a danger label</a>.</li>
+        <li>Include a danger label directly below the H1 heading that uses the text "404 error." 
+        <ul>
+            <li><a href="../common-design-patterns/labels.html#danger">Follow the implementation guidance for a danger label</a>.</li>
+        </ul>
+        </li>
         <li>For all links, text uses standard Canada.ca styles:
             <ul>
                 <li><a href="../styles/typography.html">Typography</a></li>
                 <li><a href="../styles/colours.html">Colours</a></li>
             </ul>
         </li>
-        <li>You can include an optional search bar below the list of suggested links. <a href="../common-design-patterns/search-box.html">Follow the guidance for the site search box</a>.</li>
+        <li>You can include an optional search bar below the list of suggested links.
+            <ul>
+            <li><a href="../common-design-patterns/search-box.html">Follow the guidance for the site search box</a>.</li>
+          </ul>
+        </li>
     </ul>
     <h4>Additional design specifications for bilingual version</h4>
     <p>Use the following layouts for the bilingual version:</p>
