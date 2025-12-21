@@ -8,7 +8,7 @@ breadcrumbs:
   - link: "https://design.canada.ca/guidance/index.html"
     title: "Guidance"
   - link: "https://design.canada.ca/guidance/ai/index.html"
-    title: "AI applications"
+    title: "AI help applications"
 date: 2025-12-23
 dateModified: 2025-12-23
 description: Follow this privacy and security guidance to protect users and their personal information when creating AI help applications.

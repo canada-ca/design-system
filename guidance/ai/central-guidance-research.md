@@ -1,5 +1,14 @@
 ---
 altLangPage: https://conception.canada.ca/directives/ia/XX.html
+breadcrumbs:
+  - link: "https://design.canada.ca/about/"
+    title: "About Canada.ca"
+  - link: "https://design.canada.ca"
+    title: "Design"
+  - link: "https://design.canada.ca/guidance/index.html"
+    title: "Guidance"
+  - link: "https://design.canada.ca/guidance/ai/index.html"
+    title: "AI help applications"
 date: 2025-12-23
 dateModified: 2025-12-23
 description: As the Government of Canada, we must follow all applicable laws, policies, directives and standards when communicating with the public.

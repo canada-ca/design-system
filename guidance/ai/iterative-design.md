@@ -8,7 +8,7 @@ breadcrumbs:
   - link: "https://design.canada.ca/guidance/index.html"
     title: "Guidance"
   - link: "https://design.canada.ca/guidance/ai/index.html"
-    title: "AI applications"
+    title: "AI help applications"
 date: 2025-12-23
 dateModified: 2025-12-23
 description: Learning and feedback are crucial for successful agile service development. Use this guidance to test and iterate your AI help application.

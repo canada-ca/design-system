@@ -8,7 +8,7 @@ breadcrumbs:
   - link: "https://design.canada.ca/guidance/index.html"
     title: "Guidance"
   - link: "https://design.canada.ca/guidance/ai/index.html"
-    title: "AI applications"
+    title: "AI help applications"
 date: 2025-12-23
 dateModified: 2025-12-23
 description: Use this guidance to provide a consistent experience with AI help applications across Canada.ca.
