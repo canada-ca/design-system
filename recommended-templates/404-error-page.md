@@ -30,43 +30,36 @@ title: 404 error page template
 
 <section>
   <h2 id="avoid">What to avoid</h2>
-  <ul>
-      <li>Don't use this template for any purpose other than indicating a 404 error.</li>
-      <li>Make sure the page includes, at a minimum, one rescue link (ie. the Canada.ca homepage). Do not provide irrelevant links that do not help the user navigate back to Government of Canada web content.</li>
-      <li>For the bilingual version, don't mix the languages within the same content block, paragraph or sentence.</li>
-  </ul>
+      <p>Don't use this template for any purpose other than indicating a 404 error.</p>
+    <p>Make sure the page includes, at a minimum, one rescue link (ie. the Canada.ca homepage). Do not provide irrelevant links that do not help the user navigate back to Government of Canada web content.</p>
+    <p>For the bilingual version, don't mix the languages within the same content block, paragraph or sentence.</p>
 </section>
 
 <section>
     <h2 id="design">Content and design</h2>
     <p>Find content and design specifications and visual examples.</p>
     <h3>Content specifications</h3>
-    <ul>
-        <li>Use "Page not found" for the H1 or page title.</li>
-        <li>Include a sentence stating that the page the user is looking for may have been moved or deleted.</li>
-        <li>Offer tips for what the user can try to resolve the error. This can include the following information:
-            <ul>
-                <li>Suggest they check the spelling of the web address (URL)</li>
-                <li>Explain that they should remove special characters or spaces in the URL</li>
-                <li>If it exists, provide a way to report the broken link</li>
-            </ul>
-        </li>
-        <li>Include the text "You may be looking for:" followed by a bulleted list of no more than 10 links. At the top of the list include these three common pages on Canada.ca:
-            <ul>
-                <li><a href="https://www.canada.ca/en.html">Canada.ca home page</a></li>
-                <li><a href="https://www.canada.ca/en/services.html">Government of Canada services</a></li>
-                <li><a href="https://www.canada.ca/en/contact.html">Contact the Government of Canada</a></li>
-            </ul>
-        </li>
-        <li>After those links, you can list some of the most requested pages specific to your institution. Here are some most requested pages on Canada.ca that you can also include:
-            <ul>
-                <li><a href="https://www.canada.ca/en/government/sign-in-online-account.html">Sign in to an account</a></li>
-                <li><a href="https://www.canada.ca/en/services/benefits.html">Benefits</a></li>
-                <li><a href="https://www.canada.ca/en/services/taxes.html">Taxes</a></li>
-                <li><a href="https://www.canada.ca/en/services/immigration-citizenship.html">Visit or immigrate to Canada</a></li>
-            </ul>
-        </li>
-    </ul>
+    <p>Use "Page not found" for the H1 or page title.</p>
+    <p>Include a sentence stating that the page the user is looking for may have been moved or deleted.</p>
+    <p>Offer tips for what the user can try to resolve the error. This can include the following information:</p>
+        <ul>
+            <li>Suggest they check the spelling of the web address (URL)</li>
+            <li>Explain that they should remove special characters or spaces in the URL</li>
+            <li>If it exists, provide a way to report the broken link</li>
+        </ul>
+    <p>Include the text "You may be looking for:" followed by a bulleted list of no more than 10 links. At the top of the list include these three common pages on Canada.ca:</p>
+        <ul>
+            <li><a href="https://www.canada.ca/en.html">Canada.ca home page</a></li>
+            <li><a href="https://www.canada.ca/en/services.html">Government of Canada services</a></li>
+            <li><a href="https://www.canada.ca/en/contact.html">Contact the Government of Canada</a></li>
+        </ul>
+    <p>After those links, you can list some of the most requested pages specific to your institution. Here are some most requested pages on Canada.ca that you can also include:</p>
+        <ul>
+            <li><a href="https://www.canada.ca/en/government/sign-in-online-account.html">Sign in to an account</a></li>
+            <li><a href="https://www.canada.ca/en/services/benefits.html">Benefits</a></li>
+            <li><a href="https://www.canada.ca/en/services/taxes.html">Taxes</a></li>
+            <li><a href="https://www.canada.ca/en/services/immigration-citizenship.html">Visit or immigrate to Canada</a></li>
+        </ul>
     <h4>Additional content specifications for bilingual version</h4>
     <p>In addition to the content that is laid out in the general specifications, for the bilingual page include two anchor links that will appear above each language when the page resizes for mobile.</p>
     <ul>
@@ -80,14 +73,14 @@ title: 404 error page template
     </ul>
     <h3>Design specifications</h3>
     <ul>
-        <li>Include a danger label directly below the H1 heading that uses the text "404 error." Follow the <a href="../common-design-patterns/labels.html#danger">implementation guidance for a danger label</a>.</li>
+        <li>Include a danger label directly below the H1 heading that uses the text "404 error." <a href="../common-design-patterns/labels.html#danger">Follow the implementation guidance for a danger label</a>.</li>
         <li>For all links, text uses standard Canada.ca styles:
             <ul>
                 <li><a href="../styles/typography.html">Typography</a></li>
                 <li><a href="../styles/colours.html">Colours</a></li>
             </ul>
         </li>
-        <li>You can include an optional search bar below the list of suggested links. Follow the guidance for the <a href="../common-design-patterns/search-box.html">site search box</a>.</li>
+        <li>You can include an optional search bar below the list of suggested links. <a href="../common-design-patterns/search-box.html">Follow the guidance for the site search box</a>.</li>
     </ul>
     <h4>Additional design specifications for bilingual version</h4>
     <p>Use the following layouts for the bilingual version:</p>
