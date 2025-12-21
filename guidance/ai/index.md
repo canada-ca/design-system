@@ -12,19 +12,19 @@ dateModified: 2025-12-23
 description: Central guidance and AI research, design and content guidance, privacy and security, iterative design, reference checklist
 information:
   - title: Central guidance and AI research
-    link: ./central-guidance-research.html
+    link: /guidance/ai/central-guidance-research.html
     description: Vision of AI help applications, Guide on the use of generative AI, key contacts
   - title: Design guidance
-    link: ./design-guidance.html
+    link: /guidance/ai/design-guidance.html
     description: Naming your AI application, design specifications
   - title: Content guidance
-    link: ./content-guidance.html
+    link: /guidance/ai/content-guidance.html
     description: Notices, transparency and accountability, citation links, accessibility, language, answer length
   - title: Privacy and security
-    link: ./privacy-security.html
+    link: /guidance/ai/privacy-security.html
     description: Keeping inputs safe, respectful and secure, redaction techniques, threats, retention and deletion, jailbreaking, compliance with Enterprise Cyber Security 
   - title: Iterative design
-    link: ./iterative-design.html
+    link: /guidance/ai/iterative-design.html
     description: Design phases, user testing, launch phases, feedback loop, feedback mechanisms
 
 title: Guidance for the design of AI help applications on Canada.ca
