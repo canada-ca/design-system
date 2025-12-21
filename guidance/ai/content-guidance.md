@@ -157,7 +157,7 @@ title: Content guidance
   <p>Ensure you test the application for unintended biases and other harmful outputs.</p>
   <ul>
     <li>Ensure that responses are generated only from trusted sources, such as Canada.ca, to minimize the risk of delivering biased or harmful information</li>
-    <li>Implement a content redaction system to handle inputs containing inappropriate language, see the <a href="/privacy-security.html">Privacy and security section</li>
+    <li>Implement a content redaction system to handle inputs containing inappropriate language, see the <a href="/privacy-security.html">Privacy and security section</a></li>
     <li>The Digital Standards Playbook has more information on how to mitigate potential biases, see <a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards/design-ethical-services.html">Design ethical services</a></li>
   </ul>
 </section>
