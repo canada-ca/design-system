@@ -112,8 +112,8 @@ title: Content guidance
   </ul>
   
   <h3>Terminology and style</h3>
+  <p>In your system prompt, instruct the AI to use official Canadian French terminology and adhere to the style found on Canada.ca for French responses</p>
   <ul>
-    <li>In your system prompt, instruct the AI to use official Canadian French terminology and adhere to the style found on Canada.ca for French responses</li>
     <li><a href="https://conception.canada.ca/guide-redaction/">Canada.ca French style guide: Guide de rédaction du contenu du site Canada.ca</a></li>
   </ul>
   
@@ -136,7 +136,7 @@ title: Content guidance
   <h3>Make citations highly visible</h3>
   <p>To ensure citations are highly visible, consider the following guidelines:</p>
   <ul>
-    <li>Visually set citations apart from the answer so users can easily find them by centring the text and adding a grey well</li>
+    <li>Visually set citations apart from the answer so users can easily find them by <mark>centring the text and adding a grey well</mark></li>
     <li>Place instructional text before citations that asks users to check their answer and take the next step</li>
     <li>Ensure citations are close enough to the answer to make it clear it is related to the answer</li>
   </ul>
@@ -157,7 +157,7 @@ title: Content guidance
   <p>Ensure you test the application for unintended biases and other harmful outputs.</p>
   <ul>
     <li>Ensure that responses are generated only from trusted sources, such as Canada.ca, to minimize the risk of delivering biased or harmful information</li>
-    <li>Implement a content redaction system to handle inputs containing inappropriate language, see the <a href="/privacy-security.html">Privacy and security section</a></li>
+    <li>Implement a content redaction system to handle inputs containing inappropriate language, see the <a href="{{ site.url }}/guidance/ai/privacy-security.html">Privacy and security section</a></li>
     <li>The Digital Standards Playbook has more information on how to mitigate potential biases, see <a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards/design-ethical-services.html">Design ethical services</a></li>
   </ul>
 </section>
