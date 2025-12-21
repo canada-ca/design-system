@@ -24,14 +24,6 @@ title: Iterative design
 <p>Actively identifying user pain points can also help inform iterative improvements and streamline access to services, ultimately creating a more client-centric experience. The <a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html">GC Digital Standards</a> contains information about designing with users and what it means to iterate and improve frequently.</p>
 
 <section>
-  <h2>On this page</h2>
-  <ul>
-    <li><a href="#monitor">Monitor and iterate</a></li>
-    <li><a href="#measure">Measure outcomes using feedback</a></li>
-    <li><a href="#task">Task success survey</a></li>
-  </ul>
-</section>
-<section>
   <h2 id="monitor">Monitor and iterate</h2>
   <ul>
     <li><a href="#user-research">User research in the design phase</a></li>
