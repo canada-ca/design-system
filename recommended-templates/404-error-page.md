@@ -11,7 +11,7 @@ title: 404 error page template
     <li>A unilingual page with a language toggle for users whose language preference is known</li>
     <li>A bilingual page for users whose language preference is not known</li>
 </ul>
-<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/bilingual-404-error-page.png" class="img-responsive" alt="" /></div>
+<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/404/bilingual-404-error-page.png" class="img-responsive" alt="" /></div>
 
 <section>
 <h2>On this page</h2>
@@ -106,20 +106,19 @@ title: 404 error page template
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
             <figcaption><b>Unilingual 404 error page - large screen</b></figcaption>
-            <img src="../images/unilingual-404-error-page.png" class="img-responsive" alt="Unilingual 404 error page - large screen. Text version below:" />
+            <img src="../images/404/unilingual-404-error-page.png" class="img-responsive" alt="Unilingual 404 error page - large screen. Text version below:" />
             <details>
                 <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: unilingual 404 error page - large screen</summary>
                 <p>At the top of the page is an H1 titled "Page not found," which is underlined with a short thick red line. Below the H1 is a danger label with the text "404 error."</p>
                 <p>Following the label is a paragraph providing instructions to the user for how to find the page they are looking for.</p>
                 <p>Below the paragraph is the sentence "You may be looking for" with a bulleted list of links under it.</p>
-                <p>After the list of links there is a short search bar with placeholder text that says "Search Canada.ca." There is a search button with a magnifying glass icon beside the search bar.</p>
             </details>
         </figure>
     </div>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
             <figcaption><b>Bilingual 404 error page - large screen</b></figcaption>
-            <img src="../images/bilingual-404-error-page.png" class="img-responsive" alt="Bilingual 404 error page - large screen. Text version below:" />
+            <img src="../images/404/bilingual-404-error-page.png" class="img-responsive" alt="Bilingual 404 error page - large screen. Text version below:" />
             <details>
                 <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: bilingual 404 error page - large screen</summary>
                   <p>The bilingual version of the 404 error page appears in 2 columns.</p>
@@ -137,7 +136,7 @@ title: 404 error page template
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
             <figcaption><b>Bilingual 404 error page - small screen</b></figcaption>
-            <img src="../images/bilingual-404-error-page-sm.png" class="img-responsive" alt="Bilingual 404 error page - small screen. Text version below:" />
+            <img src="../images/404/bilingual-404-error-page-sm.png" class="img-responsive" alt="Bilingual 404 error page - small screen. Text version below:" />
             <details>
                 <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: bilingual 404 error page - small screen</summary>
                 <p>The bilingual version of the 404 error page appears in 1 column.</p>
@@ -146,7 +145,7 @@ title: 404 error page template
                 <p>After the link is a paragraph providing instructions to the user for how to find the page they are looking for.</p>
                 <p>Below the paragraph is the lead-in sentence "You may be looking for:" and under it is a bulleted list of links to most requested pages on Canada.ca.</p>
                 <p>After the list of links there is a short search bar with placeholder text that says "Search Canada.ca." There is a search button with a magnifying glass icon beside the search bar.</p>
-                <p> Next there is a second H2 titled "Page non trouvée." Below this H2 is a danger label with the text "Erreur 404."</p>
+                <p>Next there is a second H2 titled "Page non trouvée." Below this H2 is a danger label with the text "Erreur 404."</p>
                 <p>Following the label is a link that says "Go to the English version."</p>
                 <p>After the link is a paragraph providing instructions to the user for how to find the page they are looking for.</p>
                 <p>Below the paragraph is the lead-in sentence "Vous cherchez peut-être l'une des pages suivantes&nbsp;: " and under it is a bulleted list of links to most requested pages on Canada.ca.</p>
@@ -162,5 +161,6 @@ title: 404 error page template
   <p>The implementation reference includes how to configure the 404 error page.</p>
   <ul>
       <li><a href="https://wet-boew.github.io/GCWeb/templates/servermessage/404-en.html">GCWeb (WET) We couldn't find that Web page (Error 404) documentation</a></li>
+      <li><a href="https://wet-boew.github.io/GCWeb/templates/servermessage/404-en-fr.html">GCWeb (WET) We couldn't find that Web page (Error 404) - Canada.ca theme / Nous ne pouvons trouver cette page Web (Erreur 404) - Thème Canada.ca</a></li>
   </ul>
   </section>
