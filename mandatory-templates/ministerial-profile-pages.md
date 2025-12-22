@@ -58,6 +58,12 @@ title: Ministerial profile pages
     <li><a href="../coded-layout/ministerial-profile-pages.html">Guidance for implementation</a></li>
   </ul>
 
+  <h3>GCWeb working examples</h3>
+  <ul>
+  <li><a href="https://wet-boew.github.io/GCWeb/templates/ministerial/ministerial-en.html">Minister or institutional head</a></li>
+  <li><a href="https://wet-boew.github.io/GCWeb/templates/ministerial/ministerial-reduced-en.html">Ministerial profile - swearing-in day</a></li>
+  <li><a href="https://wet-boew.github.io/GCWeb/templates/ministerial/parliamentary-secretaries-reduced-en.html">Parliamentary secretaries profile - swearing-in day</a></li>
+  </ul>
 
 </section>
 <section>
