@@ -11,23 +11,28 @@ title: Ministerial profile page guidance
 <p>For heads of organizations, the breadcrumb trail should link back to the institutional landing page.</p>
 
 
-<h2>Minister's name and picture</h2>
+<h2>Names and pictures</h2>
+<details>
+<summary>Minister</summary>
 <h3>Minister's name</h3>
 <p><span class="label label-danger">Mandatory</span></p>
 <ul>
     <li>Follow mandatory text format: The Honourable [minister's first and last names]</li>
     <li>Use a unique H1 for the minister's name</li>
 </ul>
-<p><span class="label label-danger">Mandatory</span></p>
 <h3>Minister's picture</h3>
+<p><span class="label label-danger">Mandatory</span></p>
+
 <ul>
     <li>Use the minister's approved headshot</li>
     <li>Insert at the top of the page, to the left of the biographical overview</li>
     <li>Link to a high-resolution image of the minister</li>
     <li>Don't embed any text in the image</li>
 </ul>
+</details>
 
-
+<details>
+<summary>Parliamentary secretary, head of institution or organization's name</summary>
 <h2>Name and picture</h2>
 <h3>Name</h3>
 <p><span class="label label-danger">Mandatory</span></p>
@@ -39,9 +44,12 @@ title: Ministerial profile page guidance
 <h3>Picture</h3>
 <p><span class="label label-danger">Mandatory</span></p>
 <p>Presents a high-quality image.</p>
+</details>
 
 
-<h2>Ministerial role(s) and riding</h2>
+
+
+<h2>Ministerial role(s) and riding</h2> <!-- minster only -->
 <p><span class="label label-danger">Mandatory</span></p>
 <ul>
     <li>List the official role(s) of the minister, with links to lead institutional profile and riding information</li>
@@ -49,15 +57,14 @@ title: Ministerial profile page guidance
 </ul>
 
 
-
-<h2>Links</h2>
+<h3>Links</h3>
 <p><span class="label label-info">Optional</span></p>
 <ul>
     <li>Include links to ministerial mandate letter, briefing book and appointments</li>
 </ul>
 
 
-<h2>Parliamentary secretary's role(s)</h2>
+<h2>Parliamentary secretary's role(s)</h2> <!-- PS only -->
 <p><span class="label label-danger">Mandatory</span></p>
 <p>Lists the official role(s) of the parliamentary secretary, with link(s) to related ministerial profile.</p>
 <ul>
@@ -67,30 +74,27 @@ title: Ministerial profile page guidance
 
 
 <h2>Biographical overview</h2>
+<details>
+<summary>Ministers</summary>
+
 <p><span class="label label-info">Optional</span></p>
 <p>Provides background information about the minister.</p>
-<ul>
-    <li>Keep the text short and concise</li>
-</ul>
-
-
-
-<h2>Biographical overview</h2>
-<p><span class="label label-info">Optional</span></p>
-<p>Provides background information about the parliamentary secretary.</p>
 <ul>
     <li>Keep the text short and concise</li>
     <li>Ensure consistency with the biographies presented on the <a href="http://pm.gc.ca/eng/cabinet">Prime Minister's website</a></li>
 </ul>
 
+</details>
 
-
+<details>
+<summary>Parliamentary secretary, head of institution or organization's name</summary>
 <h2>Biographical overview</h2>
 <p><span class="label label-info">Optional</span></p>
-<p>Provides background information about the head of institution.</p>
+<p>Provides background information about the parliamentary secretary.</p>
 <ul>
     <li>Keep the text short and concise</li>
 </ul>
+</summary>
 
 
 
