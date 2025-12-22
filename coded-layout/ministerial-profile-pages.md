@@ -2,6 +2,13 @@
 altLangPage: https://conception.canada.ca/mise-en-page/pages-profil-ministres-directives.html
 dateModified: 2025-12-22
 title: Ministerial profile page guidance
+breadcrumbs:
+  - link: "https://www.canada.ca/en/government/about-canada-ca.html"
+    title: "About Canada.ca"
+  - link: "https://design.canada.ca"
+    title: "Design"
+  - link: "https://design.canada.ca/pattern-library.html"
+    title: "Templates and patterns"
 ---
 
 <h2>Breadcrumb</h2>
