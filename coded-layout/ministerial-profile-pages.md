@@ -21,7 +21,7 @@ title: Ministerial profile page guidance
 <h2>Names and pictures</h2>
 
 <details>
-<summary>Minister</summary>
+<summary>Ministers</summary>
 <h3>Minister's name</h3>
 <p><span class="label label-danger">Mandatory</span></p>
 <ul>
@@ -39,7 +39,7 @@ title: Ministerial profile page guidance
 </details>
 
 <details>
-<summary>Parliamentary secretary, head of institution or organization</summary>
+<summary>Parliamentary secretaries, head of institutions or organization</summary>
 <h3>Name</h3>
 <p><span class="label label-danger">Mandatory</span></p>
 <ul>
@@ -54,7 +54,7 @@ title: Ministerial profile page guidance
 <h2>Roles and responsibilities</h2>
 
 <details>
-<summary>Minister</summary>
+<summary>Ministers</summary>
 <h3>Ministerial role(s) and riding</h3>
 <p><span class="label label-danger">Mandatory</span></p>
 <ul>
@@ -69,7 +69,7 @@ title: Ministerial profile page guidance
 </details>
 
 <details>
-<summary>Parliamentary secretary</summary>
+<summary>Parliamentary secretaries</summary>
 <h3>Parliamentary secretary's role(s)</h3>
 <p><span class="label label-danger">Mandatory</span></p>
 <p>Lists the official role(s) of the parliamentary secretary, with link(s) to related ministerial profile.</p>
@@ -82,7 +82,7 @@ title: Ministerial profile page guidance
 <h2>Biographical overview</h2>
 
 <details>
-<summary>Minister</summary>
+<summary>Ministers</summary>
 <p><span class="label label-info">Optional</span></p>
 <p>Provides background information about the minister.</p>
 <ul>
@@ -92,7 +92,7 @@ title: Ministerial profile page guidance
 </details>
 
 <details>
-<summary>Parliamentary secretary, head of institution or organization</summary>
+<summary>Parliamentary secretaries, heads of institution or organization</summary>
 <p><span class="label label-info">Optional</span></p>
 <p>Provides background information about the parliamentary secretary or head of institution.</p>
 <ul>
@@ -101,6 +101,7 @@ title: Ministerial profile page guidance
 </details>
 
 <h2>Contact information</h2>
+<h3>For all profiles</h3>
 <p><span class="label label-info">Optional</span></p>
 <ul>
     <li>Includes email address, mailing address, telephone number and fax number</li>
