@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/directives/ia/lignes-directrices-conception.html
-date: 2025-12-23
-dateModified: 2025-12-23
+date: 2026-01-15
+dateModified: 2026-01-15
 description: Use this guidance to provide a consistent experience with AI help applications across Canada.ca.
 title: Design guidance
 ---
