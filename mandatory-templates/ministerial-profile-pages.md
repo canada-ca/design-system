@@ -55,7 +55,7 @@ title: Ministerial profile pages
 <section>
   <h2 id="how">How to implement</h2>
   <ul>
-    <li><a href="ministerial-profile-pages-guidance.html">Guidance for implementation</a></li>
+    <li><a href="./coded-layout/ministerial-profile-pages.html">Guidance for implementation</a></li>
   </ul>
 
   <h3>GCWeb working examples</h3>
