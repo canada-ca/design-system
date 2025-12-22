@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/modeles-obligatoire/pages-profil-ministres.html
 date: '2021-09-27'
-dateModified: '2025-07-22'
+dateModified: '2025-12-23'
 description: null
 title: Ministerial profile pages
 ---
