@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/modeles-obligatoire/pages-profil-ministres.html
 date: '2021-09-27'
-dateModified: '2025-12-23'
+dateModified: '2025-12-22'
 description: null
 title: Ministerial profile pages
 ---
@@ -74,6 +74,15 @@ title: Ministerial profile pages
 <section>
   <h2 id="changes">Latest changes</h2>
   <dl class="dl-horizontal">
+     <dt>
+      <time>{{ page.dateModified }}</time>
+    </dt>
+    <dd>
+      <ul>
+        <li>updated guidance to clarify which elements are mandatory and optional</li>
+        <li>added guidance for secretaries of State</li>
+      </ul>
+    </dd>
     <dt>
       <time>{{ page.dateModified }}</time>
     </dt>
