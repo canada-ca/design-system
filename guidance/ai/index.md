@@ -22,23 +22,21 @@ information:
     description: Notices, transparency and accountability, citation links, accessibility, language, answer length
   - title: Privacy and security
     link: /guidance/ai/privacy-security.html
-    description: Keeping inputs safe, respectful and secure, redaction techniques, threats, retention and deletion, jailbreaking, compliance with Enterprise Cyber Security 
+    description: Keeping inputs safe, respectful and secure, redaction techniques, threats, retention and deletion, jailbreaking, compliance with Enterprise Cyber Security
   - title: Iterative design
     link: /guidance/ai/iterative-design.html
     description: Design phases, user testing, launch phases, feedback loop, feedback mechanisms
   - title: Reference checklist
     link: /guidance/ai/reference-checklist.html
     description: A quick reference for all the things you must consider when creating an AI help application
-
 title: Guidance for the design of AI help applications on Canada.ca
 ---
 
 AI offers promising opportunities to enhance public service delivery on Canada.ca. Users expect consistency and transparency in their interactions,and this guidance seeks to create a unified voice for Government of Canada AI help applications. It aims to help government teams develop effective generative AI solutions aligned with user expectations of consistency, transparency and trustworthiness.
 
-Thousands visit Canada.ca daily, but feedback indicates that some struggle to find the information they need or have specific questions about interpreting content. The goal of AI help applications on Canada.ca is to assist users with questions about those services. 
+Thousands visit Canada.ca daily, but feedback indicates that some struggle to find the information they need or have specific questions about interpreting content. The goal of AI help applications on Canada.ca is to assist users with questions about those services.
 
 As you build public-facing AI help applications, use this guidance. It will evolve as we test and refine applications with various departments. Be sure to also follow the central guidance, including the Digital Standards Playbook and the Guide on the Use of Generative AI.
-
 
 <section class="gc-srvinfo">
 	<h2 class="wb-inv">Services and information</h2>
@@ -51,4 +49,3 @@ As you build public-facing AI help applications, use this guidance. It will evol
 		{%- endfor -%}
 	</div>
 </section>
-

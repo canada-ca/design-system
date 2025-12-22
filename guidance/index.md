@@ -22,7 +22,7 @@ information:
     link: /crisis/content.html
     description: Mobile-first, avoid duplication, add dates, write information as directions, use bulleted lists, keep sentences short
   - title: Guidance for the design of AI help applications
-    link: /ai/index.html
+    link: /guidance/ai/index.html
     description: Central guidance and AI research, design and content guidance, privacy and security, iterative design, reference checklist
 
 title: Canada.ca design guidance
