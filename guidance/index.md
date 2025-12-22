@@ -6,7 +6,7 @@ breadcrumbs:
   - link: "https://design.canada.ca"
     title: "Design"
 date: 2025-08-29
-dateModified: 2025-08-29
+dateModified: 2026-01-15
 description: Use this guidance to create and manage Government of Canada web content
 information:
   - title: Closed programs or services
