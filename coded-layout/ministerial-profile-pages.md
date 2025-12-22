@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/mise-en-page/pages-profil-ministres-directives.html
-dateModified: 2025-08-05
-title: Ministerial profile page
+dateModified: 2025-12-22
+title: Ministerial profile page guidance
 ---
 
 <h2>Breadcrumb</h2>

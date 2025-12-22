@@ -54,7 +54,6 @@ title: Ministerial profile pages
 
 <section>
   <h2 id="how">How to implement</h2>
-  <p>Use this template and follow the guidance:</p>
   <ul>
     <li><a href="ministerial-profile-pages-guidance.html">Guidance for implementation</a></li>
   </ul>
