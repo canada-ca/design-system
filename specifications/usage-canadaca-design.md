@@ -6,7 +6,7 @@ description: "The requirements listed in this design manual apply to departments
 section-title: "Canada.ca Specifications"
 title: "Who has to use the Canada.ca design"
 breadcrumbs: [{
-            "link": "https://design.canada.ca/about/",
+            "link": "https://www.canada.ca/en/government/about-canada-ca.html",
             "title": "About Canada.ca"
           },
             {

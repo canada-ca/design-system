@@ -6,7 +6,7 @@ description: "Templates and design patterns of the Canada.ca design."
 section-title: "Canada.ca Specifications"
 title: "Designing content on Canada.ca"
 breadcrumbs: [{
-            "link": "https://design.canada.ca/about/",
+            "link": "https://www.canada.ca/en/government/about-canada-ca.html",
             "title": "About Canada.ca"
           },
             {
