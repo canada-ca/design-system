@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/configurations-conception-communes/ministre.html"
 date: "2023-08-13"
-dateModified: "2025-07-22"
+dateModified: "2025-12-22"
 description: The Minister or institutional head pattern provides links to an institution’s minister(s), including associate minister(s), or its institutional head.
 title: Minister or institutional head
 ---
@@ -49,10 +49,10 @@ title: Minister or institutional head
       </ul>
     </li>
     <li>The institutional head’s official title</li>
+    <li>The institutional head's picture</li>
   </ul>
   <p>The following elements are optional for each head of an institution:</p>
   <ul>
-    <li>Image</li>
     <li>Links:
       <ul>
         <li>Mandate letter</li>
@@ -211,6 +211,8 @@ title: Minister or institutional head
 <section id="latest">
   <h2>Latest changes</h2>
   <dl class="dl-horizontal">
+    <dt><time>{{ page.dateModified }}</time></dt>
+    <dd>Updated mandatory elements to include the institutional head's picture</dd>
     <dt><time>{{ page.dateModified }}</time></dt>
     <dd>Updated the guidance to include square image specifications, visual examples and implementation guidance</dd>
     <dt><time>2025-06-13</time></dt>
