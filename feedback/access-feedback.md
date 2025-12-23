@@ -23,7 +23,7 @@ title: How to access page feedback
 
 ## Where feedback is stored
 
-When a user submits a comment, it is sent and stored in a database managed by the Canada.ca Experience Office at TBS.
+When a user submits a comment, it is sent and stored in a database managed by the Canada.ca Experience Office at ESDC.
 
 ## How to access feedback
 
