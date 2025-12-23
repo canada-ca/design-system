@@ -211,9 +211,9 @@ title: Minister or institutional head
 <section id="latest">
   <h2>Latest changes</h2>
   <dl class="dl-horizontal">
-    <dt><time>{{ page.dateModified }}</time></dt>
+    <dt><time>2025-12-22</time></dt>
     <dd>Updated mandatory elements to include the institutional head's picture</dd>
-    <dt><time>{{ page.dateModified }}</time></dt>
+    <dt><time>2025-07-22</time></dt>
     <dd>Updated the guidance to include square image specifications, visual examples and implementation guidance</dd>
     <dt><time>2025-06-13</time></dt>
     <dd>Added an additional image variant to include the new secretary of State role</dd>
