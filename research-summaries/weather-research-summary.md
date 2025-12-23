@@ -9,7 +9,7 @@ title: "Weather optimization"
 <p css="post-meta">
   <time datetime="2018-05-09T00:00:00+00:00" itemprop="datePublished">July 23, 2018</time>
 </p>
-<p>The Weather optimization project kicked off in July 2017. Environment and Climate Change Canada’s Weather Office pulled together a collaborative team from E-Communications, and the Meteorological Service of Canada. Combined with the designers and researchers from the Digital Transformation Office, we set out to make it easier for Canadians to understand notifications about dangerous weather conditions.</p>
+<p>The Weather optimization project kicked off in July 2017. Environment and Climate Change Canada’s Weather Office pulled together a collaborative team from E-Communications, and the Meteorological Service of Canada. Combined with the designers and researchers from the Canada.ca Experience Office, we set out to make it easier for Canadians to understand notifications about dangerous weather conditions.</p>
 <h2>Discovery</h2>
 <p>We started with a discovery phase to understand the current situation, people's needs related to the current content, and problems they may be having. Sources included reviewing previous usability studies, analyzing website traffic patterns and search behaviours, and reviewing phone and support requests. This provided enough insight to determine target audiences, which we then used to talk to people affected by the current content. We also researched weather applications and how they are used.</p>
 <p>We also found tt most people were accessing the content using mobile devices. People were checking daily weather forecasts, long-term forecasts, or extreme weather warnings on their smartphones.</p>

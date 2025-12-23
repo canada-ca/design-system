@@ -161,7 +161,7 @@ title: Contact us band
     <p>Consult research findings and policy rationale.</p>
     <h3>Research findings</h3>
     <p>
-        Canada Revenue Agency and the Digital Transformation Office developed contact bands as part of the optimization project for CRA contacts. We found contact bands to be useful for providing access to specific contact information for
+        Canada Revenue Agency and the Canada.ca Experience Office developed contact bands as part of the optimization project for CRA contacts. We found contact bands to be useful for providing access to specific contact information for
         different services.
     </p>
     <h3>Policy rationale</h3>
