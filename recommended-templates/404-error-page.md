@@ -84,7 +84,7 @@ title: 404 error page template
                 <li><a href="../styles/colours.html">Colours</a></li>
             </ul>
         </li>
-        <li>You can include an optional search bar below the list of suggested links.
+        <li>You can include an optional search bar below the list of suggested links
             <ul>
             <li><a href="../common-design-patterns/search-box.html">Follow the guidance for the site search box</a>.</li>
           </ul>
