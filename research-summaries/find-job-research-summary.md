@@ -7,7 +7,7 @@ language: en
 title: "Find a job"
 ---
 <p class="post-meta">May 23, 2019</p>
-<p>The Find a job optimization project was completed over the summer of 2018. The goal was to make it easier for Canadians to find government jobs on Canada.ca. The project team included the TBS Canada.ca Experience Office (CEO), Employment and Social Development Canada (ESDC) and the Public Service Commission of Canada (PSC).</p>
+<p>The Find a job optimization project was completed over the summer of 2018. The goal was to make it easier for Canadians to find government jobs on Canada.ca. The project team included the TBS Digital Transformation Office (DTO), Employment and Social Development Canada (ESDC) and the Public Service Commission of Canada (PSC).</p>
 <h2>What made this project stand out</h2>
 <p>In contrast to Google and Indeed’s single platform model, the Government of Canada has several online job posting platforms. While there is occasional overlap, not one of the platforms includes all available jobs in the Government of Canada. The project streamlined and improved the paths to these platforms. We also experimented with moving towards a single platform approach.</p>
 <p>The 3 largest job posting platforms linked from Canada.ca’s Find a job page are:</p>
