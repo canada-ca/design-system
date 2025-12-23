@@ -40,8 +40,11 @@ breadcrumbs:
 <ul>
     <li>Use the minister or secretary of State's approved headshot</li>
     <li>Insert at the top of the page, to the left of the biographical overview</li>
-    <li>Link to a high-resolution image of the minister or secretary of State</li>
     <li>Don't embed any text in the image</li>
+</ul>
+<p><span class="label label-info">Optional</span></p>
+<ul>
+<li>Link to a high-resolution image of the minister or secretary of State</li>
 </ul>
 </details>
 
@@ -87,23 +90,10 @@ breadcrumbs:
 </details>
 
 <h2>Biographical overview</h2>
-
-<details>
-<summary>Ministers and secretaries of State</summary>
-<p><span class="label label-info">Optional</span></p>
-<p>Provides background information about the minister or secretary of State.</p>
+<h3>For all profiles</h3>
+<p>Provides background information.</p>
 <ul>
-    <li>Keep the text short and concise</li>
-    <li>Ensure consistency with the biographies presented on the <a href="http://pm.gc.ca/eng/cabinet">Prime Minister's website</a></li>
-</ul>
-</details>
-
-<details>
-<summary>Parliamentary secretaries, and heads of institutions and organizations</summary>
-<p><span class="label label-info">Optional</span></p>
-<p>Provides background information about the parliamentary secretary or head of institution or organization.</p>
-<ul>
-    <li>Keep the text short and concise</li>
+<li>Keep the text short and concise</li>
 </ul>
 </details>
 
