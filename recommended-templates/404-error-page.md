@@ -86,7 +86,7 @@ title: 404 error page template
         </li>
         <li>You can include an optional search bar below the list of suggested links
             <ul>
-            <li><a href="../common-design-patterns/search-box.html">Follow the guidance for the site search box</a>.</li>
+            <li><a href="../common-design-patterns/search-box.html">Follow the guidance for the site search box</a></li>
           </ul>
         </li>
     </ul>
