@@ -13,40 +13,40 @@ breadcrumbs:
 
 <h2>Breadcrumb</h2>
 <details>
-<summary>Ministers, secretaries of State, and parliamentary secretaries</summary>
+<summary>Ministers, secretaries of State and parliamentary secretaries</summary>
 <p><span class="label label-danger">Mandatory</span></p>
-<p>For ministers, secretaries of State, and parliamentary secretaries, the breadcrumb is:<br>
+<p>For ministers, secretaries of State and parliamentary secretaries, the breadcrumb is:<br>
 <a href="https://www.canada.ca/en.html">Canada.ca</a> > <a href="https://www.canada.ca/en/government/ministers.html">Ministers, secretaries of State, and parliamentary secretaries</a></p>
 </details>
 
 <details>
-<summary>Heads of organizations</summary>
+<summary>Heads of institutions and organizations</summary>
 <p><span class="label label-danger">Mandatory</span></p>
-<p>For heads of organizations, the breadcrumb trail should link back to the institutional landing page.</p>
+<p>For heads of institutions and organizations, the breadcrumb should link back to the institutional landing page.</p>
 </details>
 
-<h2>Names and pictures</h2>
+<h2>Name and picture</h2>
 
 <details>
-<summary>Ministers</summary>
-<h3>Minister's name</h3>
+<summary>Ministers and secretaries of State</summary>
+<h3>Name</h3>
 <p><span class="label label-danger">Mandatory</span></p>
 <ul>
-    <li>Follow mandatory text format: The Honourable [minister's first and last names]</li>
-    <li>Use a unique H1 for the minister's name</li>
+    <li>Follow mandatory text format: The Honourable [minister or secretary of State's first and last names]</li>
+    <li>Use a unique H1 for the minister or secretary of State's name</li>
 </ul>
-<h3>Minister's picture</h3>
+<h3>Picture</h3>
 <p><span class="label label-danger">Mandatory</span></p>
 <ul>
-    <li>Use the minister's approved headshot</li>
+    <li>Use the minister or secretary of State's approved headshot</li>
     <li>Insert at the top of the page, to the left of the biographical overview</li>
-    <li>Link to a high-resolution image of the minister</li>
+    <li>Link to a high-resolution image of the minister or secretary of State</li>
     <li>Don't embed any text in the image</li>
 </ul>
 </details>
 
 <details>
-<summary>Parliamentary secretaries, head of institutions or organization</summary>
+<summary>Parliamentary secretaries, and heads of institutions and organizations</summary>
 <h3>Name</h3>
 <p><span class="label label-danger">Mandatory</span></p>
 <ul>
@@ -61,17 +61,17 @@ breadcrumbs:
 <h2>Roles and responsibilities</h2>
 
 <details>
-<summary>Ministers</summary>
-<h3>Ministerial role(s) and riding</h3>
+<summary>Minister and secretaries of State</summary>
+<h3>Role(s) and riding</h3>
 <p><span class="label label-danger">Mandatory</span></p>
 <ul>
-    <li>List the official role(s) of the minister, with links to lead institutional profile and riding information</li>
+    <li>List the official role(s) of the minister or secretary of State, with links to lead institutional profile and riding information</li>
     <li>Hyperlink the name of the riding to the appropriate riding page from <a href="http://www.parl.ca/">www.parl.gc.ca</a></li>
 </ul>
 <h3>Links</h3>
 <p><span class="label label-info">Optional</span></p>
 <ul>
-    <li>Include links to ministerial mandate letter, briefing book and appointments</li>
+    <li>Include links to mandate letter, briefing book and appointments</li>
 </ul>
 </details>
 
@@ -89,9 +89,9 @@ breadcrumbs:
 <h2>Biographical overview</h2>
 
 <details>
-<summary>Ministers</summary>
+<summary>Ministers and secretaries of State</summary>
 <p><span class="label label-info">Optional</span></p>
-<p>Provides background information about the minister.</p>
+<p>Provides background information about the minister or secretary of State.</p>
 <ul>
     <li>Keep the text short and concise</li>
     <li>Ensure consistency with the biographies presented on the <a href="http://pm.gc.ca/eng/cabinet">Prime Minister's website</a></li>
@@ -99,9 +99,9 @@ breadcrumbs:
 </details>
 
 <details>
-<summary>Parliamentary secretaries, heads of institution or organization</summary>
+<summary>Parliamentary secretaries, and heads of institutions and organizations</summary>
 <p><span class="label label-info">Optional</span></p>
-<p>Provides background information about the parliamentary secretary or head of institution.</p>
+<p>Provides background information about the parliamentary secretary or head of institution or organization.</p>
 <ul>
     <li>Keep the text short and concise</li>
 </ul>
