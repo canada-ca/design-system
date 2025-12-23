@@ -61,7 +61,7 @@ breadcrumbs:
 <h2>Roles and responsibilities</h2>
 
 <details>
-<summary>Minister and secretaries of State</summary>
+<summary>Ministers and secretaries of State</summary>
 <h3>Role(s) and riding</h3>
 <p><span class="label label-danger">Mandatory</span></p>
 <ul>
