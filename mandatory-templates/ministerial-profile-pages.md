@@ -70,7 +70,7 @@ title: Ministerial profile pages
   <h2 id="changes">Latest changes</h2>
   <dl class="dl-horizontal">
      <dt>
-      <time>{{ page.dateModified }}</time>
+      <time>2025-12-22</time>
     </dt>
     <dd>
       <ul>
@@ -79,7 +79,7 @@ title: Ministerial profile pages
       </ul>
     </dd>
     <dt>
-      <time>{{ page.dateModified }}</time>
+      <time>2025-07-22</time>
     </dt>
     <dd>
       <ul>
