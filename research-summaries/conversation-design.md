@@ -85,7 +85,7 @@ When you know how conversations could flow and how the conversational agent shou
 
 ## The conversational experiment
 
-At the beginning of January 2019, the Canada.ca Experience Office of the Treasury Board Secretariat started working on an optimization project with the Canada Revenue Agency. As part of the project, we were trying to help people find the right phone number to call for their particular question.
+At the beginning of January 2019, the Digital Transformation Office of the Treasury Board Secretariat started working on an optimization project with the Canada Revenue Agency. As part of the project, we were trying to help people find the right phone number to call for their particular question.
 
 With the call centre and web teams, we crafted a set of realistic task scenarios. The scenarios were performed in usability test sessions, where we asked participants to find the answers for the scenarios on the website. Next we prototyped improvements to the site to solve the problems we saw in the baseline test. Then we tested the same task scenarios again with a new set of participants.
 
