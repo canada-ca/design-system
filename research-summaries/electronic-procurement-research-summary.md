@@ -12,7 +12,7 @@ title: "Electronic Procurement Solution (EPS) portal"
 <p>The project is a multi-year initiative. It will see existing processes modernized through the implementation of a single platform based on two commercial solutions (SAP’s Ariba and Fieldglass applications).</p>
 <p>As part of the transition to the new EPS, PSPC is planning to implement a new entry point to replace the existing <a href="https://buyandsell.gc.ca/">Buy and Sell website</a>.</p>
 <p>The role of this new site (CanadaBuys) will be to support tasks like learning about government procurement, finding out how to become a supplier to the government, and searching for opportunities open for competitive bidding (also called tenders).</p>
-<p>Between April and July 2019, the Treasury Board's Canada.ca Experience Office (CEO) partnered with the PSPC team responsible for the design of the new CandaBuys site. </p>
+<p>Between April and July 2019, the Treasury Board's Digital Transformation Office (DTO) partnered with the PSPC team responsible for the design of the new CandaBuys site. </p>
 <p>We focused on the needs of businesses new to government procurement. We tested with small and medium enterprises not currently registered as suppliers to the Government of Canada.</p>
 <h2>Establishing a baseline</h2>
 <p>We did our baseline task performance testing on the existing Buy and Sell site.</p>
