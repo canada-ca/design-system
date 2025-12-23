@@ -75,7 +75,7 @@ title: 404 error page template
     <ul>
         <li>Include a danger label directly below the H1 heading that uses the text "404 error" 
         <ul>
-            <li><a href="../common-design-patterns/labels.html#danger">Follow the implementation guidance for a danger label</a>.</li>
+            <li><a href="../common-design-patterns/labels.html#danger">Follow the implementation guidance for a danger label</a></li>
         </ul>
         </li>
         <li>For all links, text uses standard Canada.ca styles:
