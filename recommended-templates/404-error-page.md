@@ -122,7 +122,7 @@ title: 404 error page template
             <img src="../images/404/bilingual-404-error-page.png" class="img-responsive" alt="Bilingual 404 error page - large screen. Text version below:" />
             <details>
                 <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: bilingual 404 error page - large screen</summary>
-                  <p>The bilingual version of the 404 error page appears in 2 columns.</p>
+                  <p>The bilingual version of the 404 error page appears in two columns.</p>
                   <p>The first column has an H2 titled "Page not found." Below the H2 is a danger label with the text "404 error."</p>
                   <p>Following the label is a paragraph providing instructions to the user for how to find the page they are looking for.</p>
                   <p>Below the paragraph is the lead-in sentence "You may be looking for:" and under it is a bulleted list of links to most requested pages on Canada.ca.</p>
