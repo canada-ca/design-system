@@ -73,7 +73,7 @@ title: 404 error page template
     </ul>
     <h3>Design specifications</h3>
     <ul>
-        <li>Include a danger label directly below the H1 heading that uses the text "404 error." 
+        <li>Include a danger label directly below the H1 heading that uses the text "404 error" 
         <ul>
             <li><a href="../common-design-patterns/labels.html#danger">Follow the implementation guidance for a danger label</a>.</li>
         </ul>
