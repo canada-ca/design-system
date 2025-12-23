@@ -489,6 +489,15 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
+    "NAME": "<a href=\"{{ site.urlblogca }}/2025/12/17/ai-answers.html\">AI Answers: Enterprise-scale trial for Canada.ca</a>",
+    "SOURCE": "Blog post",
+    "DESCRIPTION": "Every day, thousands of people turn to the Government of Canada (GC) seeking help with essential services.",
+    "WHENTOUSE": "Every day, thousands of people turn to the Government of Canada (GC) seeking help with essential services.",
+    "CATEGORY": "",
+    "TYPE": "",
+    "MANDATORY": "",
+    "TANDP": "0"
+  }, {
     "NAME": "<a href=\"https://www.canada.ca/en/government/about/design-system/institutions-list.html\">Institutions subject to the Canada.ca design system</a>",
     "SOURCE": "Designing content",
     "DESCRIPTION": "List of Government of Canada institutions subject to the Canada.ca design system",
