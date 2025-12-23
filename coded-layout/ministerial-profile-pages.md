@@ -95,7 +95,6 @@ breadcrumbs:
 <ul>
 <li>Keep the text short and concise</li>
 </ul>
-</details>
 
 <h2>Contact information</h2>
 <h3>For all profiles</h3>
