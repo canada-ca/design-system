@@ -31,7 +31,7 @@ title: 404 error page template
 <section>
   <h2 id="avoid">What to avoid</h2>
       <p>Don't use this template for any purpose other than indicating a 404 error.</p>
-    <p>Make sure the page includes, at a minimum, one rescue link (ie. the Canada.ca homepage). Do not provide irrelevant links that do not help the user navigate back to Government of Canada web content.</p>
+    <p>Make sure the page includes, at a minimum, one rescue link (for example, the Canada.ca homepage). Do not provide irrelevant links that do not help the user navigate back to Government of Canada web content.</p>
     <p>For the bilingual version, don't mix the languages within the same content block, paragraph or sentence.</p>
 </section>
 
