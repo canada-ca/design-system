@@ -140,7 +140,7 @@ title: 404 error page template
             <img src="../images/404/bilingual-404-error-page-sm.png" class="img-responsive" alt="Bilingual 404 error page - small screen. Text version below:" />
             <details>
                 <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description: bilingual 404 error page - small screen</summary>
-                <p>The bilingual version of the 404 error page appears in 1 column.</p>
+                <p>The bilingual version of the 404 error page appears in one column.</p>
                 <p>At the top of the page is an H2 titled "Page not found." Below the H2 is a danger label with the text "404 error."</p>
                 <p>Following the label is a link that says <span lang="fr">"Aller à la version française."</span></p>
                 <p>After the link is a paragraph providing instructions to the user for how to find the page they are looking for.</p>
