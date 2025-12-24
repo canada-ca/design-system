@@ -91,6 +91,7 @@ breadcrumbs:
 
 <h2>Biographical overview</h2>
 <h3>For all profiles</h3>
+<p><span class="label label-info">Optional</span></p>
 <p>Provides background information.</p>
 <ul>
 <li>Keep the text short and concise</li>
