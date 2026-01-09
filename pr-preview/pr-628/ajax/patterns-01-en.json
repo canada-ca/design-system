@@ -1,6 +1,6 @@
 {
   "data": [{
-    "NAME": "<a href=\"https://design.canada.ca/research-summaries/travel-restrictions-study.html\">Using a wizard to help people get answers during COVID-19</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/research-summaries/travel-restrictions-study.html\">Using a wizard to help people get answers during COVID-19</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "This research summary explains how using a wizard helped people get answers about travel restrictions during COVID-19.",
     "WHENTOUSE": "",
@@ -9,7 +9,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   },{
-    "NAME": "<a href=\"https://design.canada.ca/research-summaries/canada-child-benefit.html\">Canada Child Benefit</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/research-summaries/canada-child-benefit.html\">Canada Child Benefit</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "This research summary explains the context of the research project in which the subway navigation pattern was created and all the considerations that were taken into account.",
     "WHENTOUSE": "",
@@ -18,7 +18,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   },{
-    "NAME": "<a href=\"https://design.canada.ca/research-summaries/trust.html\">Trust study</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/research-summaries/trust.html\">Trust study</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "This trust study helps to better understand which Government of Canada design elements are more strongly associated with trust and confidence in the brand.",
     "WHENTOUSE": "",
@@ -27,7 +27,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   },{
-    "NAME": "<a href=\"https://design.canada.ca/research-summaries/wayfinding-on-canada-ca.html\">Wayfinding on Canada.ca</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/research-summaries/wayfinding-on-canada-ca.html\">Wayfinding on Canada.ca</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Examining how users navigate through Canada.ca. Results led to changes that will replace the theme and topic menu. Changes include a new footer, contextual Sign in button and a layered theme page template.",
     "WHENTOUSE": "",
@@ -36,7 +36,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/research-summaries/recalls-research-summary.html\">Recalls and safety alerts</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/research-summaries/recalls-research-summary.html\">Recalls and safety alerts</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Optimizing content for mobile can improve findability and overall task success rates. Provide answers, not information, optimize task flow, simplify approach, customize search, and use clear, shortened, scannable content.",
     "WHENTOUSE": "",
@@ -45,7 +45,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/research-summaries/recalls-safety-alerts-research-summary.html\">Recalls and safety alerts search optimization, Round 2</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/research-summaries/recalls-safety-alerts-research-summary.html\">Recalls and safety alerts search optimization, Round 2</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Experimenting with an open source solution to support effective search. What we learned: understand search use cases, fix the data at the source with the right people, and dedicate resources to performance monitoring and data curation.",
     "WHENTOUSE": "",
@@ -54,7 +54,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/research-summaries/electronic-procurement-research-summary.html\">Electronic Procurement Solution</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/research-summaries/electronic-procurement-research-summary.html\">Electronic Procurement Solution</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Moving paper-based processes online means rethinking how to present documentation. Effective techniques included customized search and wizards, navigable HTML instead of PDFs, and a summary of essential details for improved scannability.",
     "WHENTOUSE": "",
@@ -63,7 +63,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/research-summaries/travel-advice-research-summary.html\">Travel advice and advisories</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/research-summaries/travel-advice-research-summary.html\">Travel advice and advisories</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Designing content that clearly conveys risk requires a focus on findability. Techniques included using clear headings and link labels for better \"scent of information,\" making content easy to scan, and improving relationships between parent topics and sub-topics.",
     "WHENTOUSE": "",
@@ -72,7 +72,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/research-summaries/cra-contact-us-research-summary.html\">Contact the CRA</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/research-summaries/cra-contact-us-research-summary.html\">Contact the CRA</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Improving contact pages can reduce misdirected calls and mail, and redirect some people to online resources. Help people choose the right option using collapsible content, group details for richer search engine results, use wizards to guide people through options.",
     "WHENTOUSE": "",
@@ -81,7 +81,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/research-summaries/maternity-parental-research-summary.html\">EI maternity and parental benefits</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/research-summaries/maternity-parental-research-summary.html\">EI maternity and parental benefits</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "For complex financial tasks with eligibility requirements, focus on simplifying content. Incorporate the words people are searching for, use headings to improve scannability, use the expand/collapse pattern to reduce complexity, help people do the math.",
     "WHENTOUSE": "",
@@ -90,7 +90,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/research-summaries/student-loans-research-summary.html\">Student loans and grants</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/research-summaries/student-loans-research-summary.html\">Student loans and grants</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "When provinces/territories are the service providers, Canada.ca pages need to redirect people. Reduce program information that doesn't have the answers people are looking for, adjust navigation routes to focus on tasks, use evidence to design language.",
     "WHENTOUSE": "",
@@ -99,7 +99,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/research-summaries/find-job-research-summary.html\">Find a job</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/research-summaries/find-job-research-summary.html\">Find a job</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Making it easier to find government jobs, we learned to eliminate redundant pages, orient content for users and their top tasks, design for answers not information, use searchable job titles, meet user expectations for a single job search platform.",
     "WHENTOUSE": "",
@@ -108,7 +108,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/research-summaries/citizenship-test-research-summary.html\">Prepare for the citizenship test</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/research-summaries/citizenship-test-research-summary.html\">Prepare for the citizenship test</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "When turning long documents into web content, present step-by-step processes in a clear sequence, include search and navigation features within the document, eliminate distracting links, and use plain language to make labels clearer.",
     "WHENTOUSE": "",
@@ -117,7 +117,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/research-summaries/business-account-research-summary.html\">Business account maintenance</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/research-summaries/business-account-research-summary.html\">Business account maintenance</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Reduce call volumes by answering common questions in web content. Front load labels by putting keywords first, reorganize content based on where people look for answers, add a simple wizard to help people get a precise answer.",
     "WHENTOUSE": "",
@@ -126,7 +126,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/research-summaries/caregiving-research-summary.html\">EI special benefits</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/research-summaries/caregiving-research-summary.html\">EI special benefits</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Reduce ineligible applications by helping people understand eligibility rules and how to apply. Offer a simple visual overview of the complete process, use keywords strategically, put important details where people expect them, and simplify language.",
     "WHENTOUSE": "",
@@ -135,7 +135,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/research-summaries/taxfiling-research-summary.html\">GST/HST and payroll</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/research-summaries/taxfiling-research-summary.html\">GST/HST and payroll</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "When people can find information but don't understand it (high findability, low task success), use techniques to increase understanding. Match user language, use a step-by-step structure, and reduce complexity by breaking long pages into smaller chunks.",
     "WHENTOUSE": "",
@@ -144,7 +144,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/research-summaries/diseases-research-summary.html\">Disease and immunization information</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/research-summaries/diseases-research-summary.html\">Disease and immunization information</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Design content to help people make informed choices about their health. Provide answers, not information, design for mobile first, reduce layers, and get content out of PDFs and posters.",
     "WHENTOUSE": "",
@@ -153,7 +153,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/research-summaries/weather-research-summary.html\">Weather information</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/research-summaries/weather-research-summary.html\">Weather information</a>",
     "SOURCE": "Research summary",
     "DESCRIPTION": "Redesigning content for a primarily mobile audience means maximizing real estate. Group tasks and sub-tasks together, shorten breadcrumbs, choose the right alert style, shorten content by focusing on answers not information. ",
     "WHENTOUSE": "",
@@ -297,7 +297,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/page-feedback.html\">GC Feedback</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/page-feedback.html\">GC Feedback</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "GC Feedback is an optional pattern to collect feedback on the page experience. It should only be used on pages where the feedback will be actively monitored and actioned.",
     "WHENTOUSE": "GC Feedback is an optional pattern to collect feedback on the page experience. It should only be used on pages where the feedback will be actively monitored and actioned.",
@@ -523,7 +523,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/crisis/alerts.html\">Canada.ca alerts and service disruptions</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/crisis/alerts.html\">Canada.ca alerts and service disruptions</a>",
     "SOURCE": "Designing content",
     "DESCRIPTION": "These recommendations will help bring consistency to each department's communications on service disruptions during a crisis.",
     "WHENTOUSE": "These recommendations will help bring consistency to each department's communications on service disruptions during a crisis.",
@@ -532,7 +532,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/guidance/structured-data.html\">Adding structured data on Canada.ca pages</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/guidance/structured-data.html\">Adding structured data on Canada.ca pages</a>",
     "SOURCE": "Designing content",
     "DESCRIPTION": "How to add structured data to enhance search results",
     "WHENTOUSE": "How to add structured data to enhance search results",
@@ -541,7 +541,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/guidance/closed-programs.html\">Adding content for closed programs or services</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/guidance/closed-programs.html\">Adding content for closed programs or services</a>",
     "SOURCE": "Designing content",
     "DESCRIPTION": "How to update content for closed programs or services",
     "WHENTOUSE": "Follow this guidance to update content when a Government of Canada program or service closes",
@@ -559,7 +559,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/specifications/usage-canadaca-design.html\">Who has to use the Canada.ca design</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/specifications/usage-canadaca-design.html\">Who has to use the Canada.ca design</a>",
     "SOURCE": "Canada.ca Specifications",
     "DESCRIPTION": "Which institutions must use the Canada.ca design for their public-facing web presence",
     "WHENTOUSE": "Which institutions must use the Canada.ca design for their public-facing web presence",
@@ -568,7 +568,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/specifications/mandatory-elements.html\">Mandatory elements</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/specifications/mandatory-elements.html\">Mandatory elements</a>",
     "SOURCE": "Canada.ca Specifications",
     "DESCRIPTION": "What every institution must follow: colours, typography, header and footer, and mandatory templates",
     "WHENTOUSE": "What every institution must follow: colours, typography, header and footer, and mandatory templates",
@@ -577,7 +577,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/specifications/information-findability/organizing-content.html#toc1\">User navigation</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/specifications/information-findability/organizing-content.html#toc1\">User navigation</a>",
     "SOURCE": "Canada.ca Specifications",
     "DESCRIPTION": "How people find tasks on Canada.ca",
     "WHENTOUSE": "How people find tasks on Canada.ca",
@@ -586,7 +586,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/specifications/information-findability/organizing-content.html#user\">User-need categories for destination content</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/specifications/information-findability/organizing-content.html#user\">User-need categories for destination content</a>",
     "SOURCE": "Canada.ca Specifications",
     "DESCRIPTION": "How people find tasks on Canada.ca",
     "WHENTOUSE": "How people find tasks on Canada.ca",
@@ -595,7 +595,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   },{
-    "NAME": "<a href=\"https://design.canada.ca/specifications/information-findability/metadata.html\">Improving titles and metadata for findability</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/specifications/information-findability/metadata.html\">Improving titles and metadata for findability</a>",
     "SOURCE": "Information architecture and findability",
     "DESCRIPTION": "Use this guidance to write effective titles and metadata.",
     "WHENTOUSE": "Use this guidance to write effective titles and metadata.",
@@ -605,7 +605,7 @@
     "TANDP": "0"
   },
   {
-    "NAME": "<a href=\"https://design.canada.ca/specifications/mandatory-elements/domains-urls\">Government of Canada domains and URLs</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/specifications/mandatory-elements/domains-urls\">Government of Canada domains and URLs</a>",
     "SOURCE": "Mandatory elements",
     "DESCRIPTION": "The Canada.ca domain is the primary domain for the Government of Canada's public-facing web presence.",
     "WHENTOUSE": "The Canada.ca domain is the primary domain for the Government of Canada's public-facing web presence.",
@@ -615,7 +615,7 @@
     "TANDP": "1"
   },
   {
-    "NAME": "<a href=\"https://design.canada.ca/specifications/design-content.html#principles\">Design principles</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/specifications/design-content.html#principles\">Design principles</a>",
     "SOURCE": "Canada.ca Specifications",
     "DESCRIPTION": "Design principles of Canada.ca",
     "WHENTOUSE": "Design principles of Canada.ca",
@@ -624,7 +624,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/crisis/content.html\">Crisis communications content design checklist</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/crisis/content.html\">Crisis communications content design checklist</a>",
     "SOURCE": "Designing content",
     "DESCRIPTION": "Tips on how design content during a crisis",
     "WHENTOUSE": "Tips on how design content during a crisis",
@@ -633,7 +633,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/contextual-alerts.html\">Contextual alerts</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/contextual-alerts.html\">Contextual alerts</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Alerts are notices for important new information that needs to appear on a page.",
     "WHENTOUSE": "Use to present important new information that needs to appear in a pre-existing context",
@@ -642,7 +642,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/checkboxes-radio-buttons.html\">Checkboxes and radio buttons</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/checkboxes-radio-buttons.html\">Checkboxes and radio buttons</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Checkboxes and radio buttons are form controls. They help people select an answer to a question or confirm completion.",
     "WHENTOUSE": "Allow people select an answer to a question or confirm completion.",
@@ -651,7 +651,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/theme.html\">Theme page</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/mandatory-templates/theme.html\">Theme page</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Theme pages provide access to topics and destination pages that support task completion.",
     "WHENTOUSE": "Allows people to discover services and information related to a specific theme across government - <strong>Mandatory template</strong>",
@@ -660,7 +660,7 @@
     "MANDATORY": "Mandatory",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/topic.html\">Topic page</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/mandatory-templates/topic.html\">Topic page</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Topic pages provide access to topics and destination pages that support task completion.",
     "WHENTOUSE": "Allows people to discover services and information related to a specific topic across government - <strong>Mandatory template</strong>",
@@ -669,7 +669,7 @@
     "MANDATORY": "Mandatory",
     "TANDP": "1"
   },{
-    "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/institutional-profile-pages.html\">Institutional landing page</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/mandatory-templates/institutional-profile-pages.html\">Institutional landing page</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Use as the landing page for Government of Canada institutions and organizations",
     "WHENTOUSE": "Home page of each Government of Canada institution - <strong>Mandatory template</strong>",
@@ -678,7 +678,7 @@
     "MANDATORY": "Mandatory",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/intro-block.html\">Introduction block</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/intro-block.html\">Introduction block</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Introduces the content of a landing page.",
     "WHENTOUSE": "Introduces the content of a landing page.",
@@ -687,7 +687,7 @@
     "MANDATORY": "",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/featured-link.html\">Featured link</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/featured-link.html\">Featured link</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "A short, descriptive link that your institution needs to feature prominently on a landing page.",
     "WHENTOUSE": "A short, descriptive link that your institution needs to feature prominently on a landing page.",
@@ -696,7 +696,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/contact-band.html\">Contact us band</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/contact-band.html\">Contact us band</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Provides relevant contact information",
     "WHENTOUSE": "Provides relevant contact information",
@@ -705,7 +705,7 @@
     "MANDATORY": "",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/ministers-block.html\">Minister or institutional head</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/ministers-block.html\">Minister or institutional head</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Identifies the relevant Minister(s) or head(s) for a department, agency or organization. It provides links to the official bio for an institution’s minister(s), associate minister(s), or institutional head, and may also include a headshot or links to mandate letters and briefing materials.",
     "WHENTOUSE": "Identifies the relevant Minister(s) or head(s) for a department, agency or organization. It provides links to the official bio for an institution’s minister(s), associate minister(s), or institutional head, and may also include a headshot or links to mandate letters and briefing materials.",
@@ -714,7 +714,7 @@
     "MANDATORY": "",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/about-institution.html\">About the institution</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/about-institution.html\">About the institution</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "A section on an institutional landing page that provides links to corporate, program and policy information.",
     "WHENTOUSE": "A section on an institutional landing page that provides links to corporate, program and policy information.",
@@ -723,7 +723,7 @@
     "MANDATORY": "",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/recommended-templates/laws-regulations-pages.html#act-profile\">Act profile page</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/recommended-templates/laws-regulations-pages.html#act-profile\">Act profile page</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Gives a 1 or 2 sentence description of the act, allows people to read the legislation, and relates an act to topics, institutions, ministers and other legislation",
     "WHENTOUSE": "",
@@ -732,7 +732,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/breadcrumb-trail.html\">Breadcrumb trail</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/breadcrumb-trail.html\">Breadcrumb trail</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Represents the location of the current page as it stands in relation to the site’s user navigation model.",
     "WHENTOUSE": "Represents the location of the current page as it stands in relation to the site’s user navigation model - <strong>Mandatory pattern</strong>",
@@ -741,7 +741,7 @@
     "MANDATORY": "Mandatory",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/buttons.html\">Buttons</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/buttons.html\">Buttons</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Buttons are clickable objects intended to encourage a person to take action.",
     "WHENTOUSE": "Buttons are clickable objects intended to encourage a person to take action",
@@ -750,7 +750,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/contextual-signin.html\">Sign in button</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/contextual-signin.html\">Sign in button</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "The Sign in button is an optional header element that directs people to government accounts that require authentication.",
     "WHENTOUSE": "The Sign in button is an optional header element that directs people to government accounts that require authentication.",
@@ -759,7 +759,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/guidance/campaigns.html\">Web content to support advertising or marketing campaigns</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/guidance/campaigns.html\">Web content to support advertising or marketing campaigns</a>",
     "SOURCE": "Designing content",
     "DESCRIPTION": "Recommendations on how to design web content that supports institutional, theme or GC-wide promotional campaigns.",
     "WHENTOUSE": "When creating web content for advertising or marketing campaigns.",
@@ -768,7 +768,7 @@
     "MANDATORY": "",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/carousels.html\">Carousels</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/carousels.html\">Carousels</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Use this component for situations such as image or video galleries.",
     "WHENTOUSE": "Use this component for situations such as image or video galleries.",
@@ -777,7 +777,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/charts-graphs.html\">Charts and graphs</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/charts-graphs.html\">Charts and graphs</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Use as visualization techniques for communicating data or statistics.",
     "WHENTOUSE": "Use as visualization techniques for communicating data or statistics",
@@ -786,7 +786,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/styles/colours.html\">Colours</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/styles/colours.html\">Colours</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Colours for Canada.ca",
     "WHENTOUSE": "Colours for Canada.ca - <strong>Mandatory style</strong>",
@@ -795,7 +795,7 @@
     "MANDATORY": "Mandatory",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/recommended-templates/consultations-page.html\">Consultation profile page</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/recommended-templates/consultations-page.html\">Consultation profile page</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Describes a consultation or engagement activity",
     "WHENTOUSE": "Describes a consultation or engagement activity. Provides the status and outcome of the initiative, background material, data and information about planned or completed events.",
@@ -804,7 +804,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/contact-information.html\">Contact information</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/contact-information.html\">Contact information</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Use to present contact information on Canada.ca page",
     "WHENTOUSE": "Use to present contact information on Canada.ca page",
@@ -813,7 +813,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/recommended-templates/contact-us-pages.html\">Contact us page </a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/recommended-templates/contact-us-pages.html\">Contact us page </a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Provides models for contact options on Canada.ca - use to present contact information for a person, an office, an organization or an emergency",
     "WHENTOUSE": "Provides models for contact options on Canada.ca. Use to present contact information for a person, an office, an organization or an emergency.",
@@ -822,7 +822,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/feature-tiles.html\">Context-specific features</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/feature-tiles.html\">Context-specific features</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Use to promote activities, initiatives, programs, and services",
     "WHENTOUSE": "Use to promote activities, initiatives, programs, and services",
@@ -831,7 +831,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/contributors.html\">Contributors</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/contributors.html\">Contributors</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Use to link to institutions or organizations that support the content on the page",
     "WHENTOUSE": "Use to link to institutions or organizations that support the content on the page",
@@ -840,7 +840,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/tables.html\">Data tables</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/tables.html\">Data tables</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Use to communicate data",
     "WHENTOUSE": "Use to communicate data",
@@ -849,7 +849,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/date-modified.html\">Date modified</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/date-modified.html\">Date modified</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Indicates how recently the content of a web page has been updated",
     "WHENTOUSE": "Indicates how recently the content of a web page has been updated - <strong>Mandatory pattern</strong>",
@@ -858,7 +858,7 @@
     "MANDATORY": "Mandatory",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/department-agencies-page.html\">Departments and agencies page</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/mandatory-templates/department-agencies-page.html\">Departments and agencies page</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Provides links to all federal government institutions",
     "WHENTOUSE": "Provides links to all federal government institutions",
@@ -867,7 +867,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/privacy-disclaimer.html\">Privacy disclaimer</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/privacy-disclaimer.html\">Privacy disclaimer</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Use this component to present privacy disclaimers.",
     "WHENTOUSE": "Use this component to present privacy disclaimers.",
@@ -876,7 +876,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/download-links.html\">Download links</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/download-links.html\">Download links</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Use to reference and link to non-HTML file",
     "WHENTOUSE": "Use to reference and link to non-HTML files",
@@ -885,7 +885,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/collapsible-content.html\">Expand/Collapse</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/collapsible-content.html\">Expand/Collapse</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "The expand/collapse pattern (also known as accordion) allows content to be hidden until requested.",
     "WHENTOUSE": "Use to hide secondary content until requested",
@@ -894,7 +894,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/recommended-templates/pages-index.html#faceted\">Faceted finder page</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/recommended-templates/pages-index.html#faceted\">Faceted finder page</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Use to present a list of 100+ related links that can be filtered - shows the number of results using facets",
     "WHENTOUSE": "Use to present a list of 100+ related links that can be filtered using metadata and may require results to be split across multiple pages. Use when there is a need to allow people to build more complex queries against a large number of results. Shows the number of results using facets.",
@@ -903,7 +903,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/recommended-templates/pages-index.html#finder\">Finder page</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/recommended-templates/pages-index.html#finder\">Finder page</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Use to present a list of 100+ related links that can be filtered",
     "WHENTOUSE": "Use to present a list of 100+ related links that can be filtered using metadata and may require results to be split across multiple pages. Use when there is a need to allow people to build simpler queries against large amount of results.",
@@ -912,7 +912,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/global-header.html\">Global header</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/global-header.html\">Global header</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "The global (site-wide) header at the top of each web page",
     "WHENTOUSE": "The global (site-wide) header at the top of each web page - <strong>Mandatory pattern</strong>",
@@ -921,7 +921,7 @@
     "MANDATORY": "Mandatory",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/signature.html\">Government of Canada signature</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/signature.html\">Government of Canada signature</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "The Government of Canada signature as specified in Federal Identity Program (FIP) policy instruments",
     "WHENTOUSE": "The Government of Canada signature as specified in Federal Identity Program (FIP) policy instruments is prominently featured in the global header area across Canada.ca - <strong>Mandatory pattern</strong>",
@@ -930,7 +930,7 @@
     "MANDATORY": "Mandatory",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/audience-pages.html\">Government-wide audience page</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/mandatory-templates/audience-pages.html\">Government-wide audience page</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "We’re decommissioning this pattern. Gives access to information and services relevant to a government-wide audience",
     "WHENTOUSE": "We’re decommissioning this pattern. Gives access to information and services relevant to a government-wide audience",
@@ -939,7 +939,7 @@
     "MANDATORY": "",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/recommended-templates/guidance-legislation-pages.html\">Guidance on legislation profile page</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/recommended-templates/guidance-legislation-pages.html\">Guidance on legislation profile page</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "We’re decommissioning this pattern. Gives access to guidance on legislation, details and related materials",
     "WHENTOUSE": "We’re decommissioning this pattern. Gives access to guidance on legislation. Gives access to details and related materials.",
@@ -948,7 +948,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/home-page.html\">Home page</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/mandatory-templates/home-page.html\">Home page</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Shows the Government of Canada’s most visited and important products and services",
     "WHENTOUSE": "Shows the Government of Canada’s most visited and important products and services",
@@ -957,7 +957,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/icons.html\">Icons</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/icons.html\">Icons</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "We’re decommissioning this pattern. Use as symbols to communicate actions or states",
     "WHENTOUSE": "We’re decommissioning this pattern. Use as symbols to communicate actions or states",
@@ -966,7 +966,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/images.html\">Images</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/images.html\">Images</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Use to complement or enhance text",
     "WHENTOUSE": "Use to complement or enhance text",
@@ -975,7 +975,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/in-page-toc.html\">In-page table of contents</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/in-page-toc.html\">In-page table of contents</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "List of links that lead to subsections of the same page",
     "WHENTOUSE": "List of links that lead to subsections of the same page",
@@ -984,7 +984,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/recommended-templates/institutional-service-performance-reporting-pages.html\">Institutional service performance reporting page</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/recommended-templates/institutional-service-performance-reporting-pages.html\">Institutional service performance reporting page</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Use to present all service standards from an institution, as per the requirements in the Policy on Service",
     "WHENTOUSE": "Use to present all service standards from an institution, as per the requirements in the Policy on Service",
@@ -993,7 +993,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/interactive-questions.html\">Interactive questions</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/interactive-questions.html\">Interactive questions</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Use to present a sequence of simple questions that leads to answer needed to continue or complete task",
     "WHENTOUSE": "Use to present a sequence of simple questions that leads to answer needed to continue or complete task",
@@ -1002,7 +1002,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/language-toggle.html\">Language toggle link</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/language-toggle.html\">Language toggle link</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Gives people access to site content in either French or English",
     "WHENTOUSE": "Gives people access to site content in either French or English - <strong>Mandatory pattern</strong>",
@@ -1011,7 +1011,7 @@
     "MANDATORY": "Mandatory",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/labels.html\">Labels</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/labels.html\">Labels</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Labels are visual indicators that assign a tag to items such as events, products, programs or services",
     "WHENTOUSE": "Labels are visual indicators that assign a tag to items such as events, products, programs or services",
@@ -1020,7 +1020,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/latest-news.html\">Latest news</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/latest-news.html\">Latest news</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Use this pattern to display the most recent Government of Canada newsroom items directly associated with the content of the page.",
     "WHENTOUSE": "Use this pattern to display the most recent Government of Canada newsroom items directly associated with the content of the page.",
@@ -1029,7 +1029,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/styles/layouts.html\">Layouts</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/styles/layouts.html\">Layouts</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Layouts for Canada.ca",
     "WHENTOUSE": "Layouts for Canada.ca - <strong>Mandatory style</strong>",
@@ -1038,7 +1038,7 @@
     "MANDATORY": "Mandatory",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/recommended-templates/pages-index.html#long\">Long index page</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/recommended-templates/pages-index.html#long\">Long index page</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Use to present a list of 50+ related links without descriptions",
     "WHENTOUSE": "Use to present a list of 50+ related links without descriptions",
@@ -1047,7 +1047,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/ministerial-profile-pages.html\">Ministerial profile page</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/mandatory-templates/ministerial-profile-pages.html\">Ministerial profile page</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Gives an overview of the biography and links to the minister’s recent activities and announcements, and social media channels",
     "WHENTOUSE": "Gives an overview of the biography and links to the minister’s recent activities and announcements, and social media channels  - <strong>Mandatory template</strong>",
@@ -1056,7 +1056,7 @@
     "MANDATORY": "Mandatory",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/more-information.html\">More information for</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/more-information.html\">More information for</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Use to connect to a related government-wide audience",
     "WHENTOUSE": "Use to connect to a related government-wide audience",
@@ -1065,7 +1065,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/most-requested.html\">Most requested</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/most-requested.html\">Most requested</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Use to feature top tasks related to the page it is on",
     "WHENTOUSE": "Use to feature top tasks related to the page it is on",
@@ -1074,7 +1074,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/multimedia.html\">Multimedia (video and audio)</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/multimedia.html\">Multimedia (video and audio)</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Use to complement or enhance text",
     "WHENTOUSE": "Use to complement or enhance text",
@@ -1083,7 +1083,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/news-pages.html#landing\">News landing page</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/mandatory-templates/news-pages.html#landing\">News landing page</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Gives access to Government of Canada’s news products",
     "WHENTOUSE": "Gives access to Government of Canada’s news products",
@@ -1092,7 +1092,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/news-pages.html#product\">News product page</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/mandatory-templates/news-pages.html#product\">News product page</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Allows people to read a news product",
     "WHENTOUSE": "Allows people to read a news product - <strong>Mandatory template</strong>",
@@ -1101,7 +1101,7 @@
     "MANDATORY": "Mandatory",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/news-pages.html#results\">News results page</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/mandatory-templates/news-pages.html#results\">News results page</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Enables people to efficiently find a specific news product by quickly filtering results based on keywords and pre-set metadata fields",
     "WHENTOUSE": "Enables people to efficiently find a specific news product by quickly filtering results based on keywords and pre-set metadata fields",
@@ -1110,7 +1110,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/ordered-multipage.html\">Ordered multi-page navigation</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/ordered-multipage.html\">Ordered multi-page navigation</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Set of links to a group of several pages intended to be read in a preferred order",
     "WHENTOUSE": "Set of links to a group of several pages intended to be read in a preferred order",
@@ -1119,7 +1119,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/recommended-templates/partnering-collaborative-arrangement-profile-pages.html\">Partnering and collaborative arrangement profile page</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/recommended-templates/partnering-collaborative-arrangement-profile-pages.html\">Partnering and collaborative arrangement profile page</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "We’re decommissioning this template. Gives an overview of the mandate and information and services of partnering or collaborative arrangement agreements",
     "WHENTOUSE": "We’re decommissioning this template. Gives an overview of the mandate and information and services of partnering or&nbsp;collaborative arrangement agreements",
@@ -1128,7 +1128,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/recommended-templates/program-description-pages.html\">Program description page</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/recommended-templates/program-description-pages.html\">Program description page</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "We’re decommissioning this template. Offers details about a program and gives access to services related to the program - use to give background information about a program",
     "WHENTOUSE": "We’re decommissioning this template. Offers details about a program. Gives access to services related to the program. Use to give background information about a program. Don’t use to start a task.",
@@ -1137,7 +1137,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/recommended-templates/promotional-events-pages.html\">Promotional events page</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/recommended-templates/promotional-events-pages.html\">Promotional events page</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "We’re decommissioning this pattern. Describes an official government event that occurs in a promotional context, gives information such as date, time, location and target audience",
     "WHENTOUSE": "We’re decommissioning this pattern. Describes an official government event that occurs in a promotional context. Gives information such as date, time, location and target audience.",
@@ -1146,7 +1146,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/recommended-templates/laws-regulations-pages.html#regulation-profile\">Regulation profile page</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/recommended-templates/laws-regulations-pages.html#regulation-profile\">Regulation profile page</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Gives a 1 or 2 sentence description of the regulation, allows people to read the regulation, and relates a regulation to topics, institutions, ministers and other legislation.",
     "WHENTOUSE": "Gives a 1 or 2 sentence description of the regulation, allows people to read the regulation, and relates a regulation to topics, institutions, ministers and other legislation.",
@@ -1155,7 +1155,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/related-links.html\">Related links</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/related-links.html\">Related links</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "We’re decommissioning this pattern. A list of links to content that is related to the page",
     "WHENTOUSE": "We’re decommissioning this pattern. The related links pattern is a list of links to content that is related to the page on which it appears",
@@ -1164,7 +1164,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/mandatory-templates/search-page.html\">Search page</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/mandatory-templates/search-page.html\">Search page</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Provides the template for the search engine on Canada.ca",
     "WHENTOUSE": "Provides the template for the search engine on Canada.ca",
@@ -1173,7 +1173,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/recommended-templates/service-initiation-pages.html\">Service initiation page</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/recommended-templates/service-initiation-pages.html\">Service initiation page</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Gives people the information they need before starting the task, such as explaining eligibility criteria or steps to follow",
     "WHENTOUSE": "Gives people the information they need before starting the task, such as explaining eligibility criteria or steps to follow. Gives people easy access to service standards, turnaround times, related services, guides and help.",
@@ -1182,7 +1182,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/services-information.html\">Services and information</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/services-information.html\">Services and information</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Use to present sets of links with accompanying descriptions",
     "WHENTOUSE": "Use to present sets of links with accompanying descriptions",
@@ -1191,7 +1191,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/recommended-templates/pages-index.html#short\">Short index page</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/recommended-templates/pages-index.html#short\">Short index page</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Use to present a list of 10 to 50 related links without text descriptions",
     "WHENTOUSE": "Use to present a list of 10 to 50 related links without text descriptions",
@@ -1200,7 +1200,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/site-footer.html\">Global footer</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/site-footer.html\">Global footer</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "The site-wide footer at the bottom of each web page, includes the contextual band, the main band and the sub-footer band",
     "WHENTOUSE": "The site-wide footer at the bottom of each web page, includes the contextual band, the main band and the sub-footer band - <strong>Mandatory pattern</strong>",
@@ -1209,7 +1209,7 @@
     "MANDATORY": "Mandatory",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/search-box.html\">Site search box</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/search-box.html\">Site search box</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Gives the ability to search all content from the Government of Canada",
     "WHENTOUSE": "Gives the ability to search all content from the Government of Canada - <strong>Mandatory pattern</strong>",
@@ -1218,7 +1218,7 @@
     "MANDATORY": "Mandatory",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/social-media-channels.html\">Social media channels block (follow box)</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/social-media-channels.html\">Social media channels block (follow box)</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Use to allow people to follow official Government of Canada social media accounts from various social media platforms",
     "WHENTOUSE": "Use to allow people to follow official Government of Canada social media accounts from various social media platforms",
@@ -1227,7 +1227,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/social-media-feeds.html\">Social media feeds widget</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/social-media-feeds.html\">Social media feeds widget</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "We’re decommissioning this pattern. Use to embed the latest posts from official Government of Canada social media accounts",
     "WHENTOUSE": "We’re decommissioning this pattern. Use to embed the latest posts from official Government of Canada social media accounts",
@@ -1236,7 +1236,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/tabbed-interface.html\">Tabbed interface</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/tabbed-interface.html\">Tabbed interface</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Separates related content into different panes that are viewable one at a time",
     "WHENTOUSE": "Separates related content into different panes that are viewable one at a time",
@@ -1245,7 +1245,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/subway-navigation.html\">Subway navigation</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/subway-navigation.html\">Subway navigation</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Break up long and complex content into sections that each focus on a step or specific answer people need before moving to the next step or section.",
     "WHENTOUSE": "Break up long and complex content into sections that each focus on a step or specific answer people need before moving to the next step or section.",
@@ -1254,7 +1254,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/site-menu.html\">Theme and topic menu</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/site-menu.html\">Theme and topic menu</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Use on all Canada.ca web page as the main theme-based navigation",
     "WHENTOUSE": "Use on all Canada.ca web page as the main theme-based navigation - <strong>Mandatory pattern</strong>",
@@ -1263,7 +1263,7 @@
     "MANDATORY": "Mandatory",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/recommended-templates/transparency.html\">Transparency and corporate reporting</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/recommended-templates/transparency.html\">Transparency and corporate reporting</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "A corporate reporting page provides proactive disclosure of information offered by that institution.",
     "WHENTOUSE": "A corporate reporting page provides proactive disclosure of information offered by that institution.",
@@ -1272,7 +1272,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/styles/typography.html\">Typography</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/styles/typography.html\">Typography</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Typography and fonts for Canada.ca",
     "WHENTOUSE": "Typography for Canada.ca - <strong>Mandatory style</strong>",
@@ -1281,7 +1281,7 @@
     "MANDATORY": "Mandatory",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/common-design-patterns/what-we-are-doing.html\">What we are doing</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/common-design-patterns/what-we-are-doing.html\">What we are doing</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Use to link to content that provides background or explanations of GC activities in support of creating or improving public policy",
     "WHENTOUSE": "Use to link to content that provides background or explanations of GC activities in support of creating or improving public policy",
@@ -1290,7 +1290,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   },{
-    "NAME": "<a href=\"https://design.canada.ca/recommended-templates/accessibility.html\">Accessibility reporting template</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/recommended-templates/accessibility.html\">Accessibility reporting template</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "All Government of Canada entities, including departments and agencies, must provide public-facing information about their accessibility plans, progress reports, and a feedback mechanism.",
     "WHENTOUSE": "All Government of Canada entities, including departments and agencies, must provide public-facing information about their accessibility plans, progress reports, and a feedback mechanism.",
@@ -1299,7 +1299,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   },{
-    "NAME": "<a href=\"https://design.canada.ca/style-guide/#toc5\">Writing principles for web content</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/style-guide/#toc5\">Writing principles for web content</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "Writing principles that reflect how people read and use web content",
     "WHENTOUSE": "Writing principles that reflect how people read and use web content",
@@ -1308,7 +1308,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/style-guide/#toc6\">Plain language</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/style-guide/#toc6\">Plain language</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "Use plain language to makes information readable and understandable for everyone.",
     "WHENTOUSE": "Use plain language to makes information readable and understandable for everyone.",
@@ -1317,7 +1317,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/style-guide/#toc7\">Writing tone</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/style-guide/#toc7\">Writing tone</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "Guidelines on the right tone to use when designing content for Canada.ca",
     "WHENTOUSE": "Guidelines on the right tone to use when designing content for Canada.ca",
@@ -1326,7 +1326,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/style-guide/#toc8\">Writing style</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/style-guide/#toc8\">Writing style</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "Detailed rules on the formatting and style to use on Canada.ca",
     "WHENTOUSE": "Detailed rules on the formatting and style to use on Canada.ca",
@@ -1335,7 +1335,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/style-guide/#wp4-1\">Capitalization and punctuation</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/style-guide/#wp4-1\">Capitalization and punctuation</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "Use these styles for capitalization and punctuation of content in text, links and applications.",
     "WHENTOUSE": "Use these styles for capitalization and punctuation of content in text, links and applications.",
@@ -1344,7 +1344,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/style-guide/#wp4-2\">Underlining, bold and italics</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/style-guide/#wp4-2\">Underlining, bold and italics</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "When to use underline, bold and italics on Canada.ca",
     "WHENTOUSE": "When to use underline, bold and italics on Canada.ca",
@@ -1353,7 +1353,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/style-guide/#wp4-3\">Symbols</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/style-guide/#wp4-3\">Symbols</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "When to use symbols such as &amp; and % on Canada.ca",
     "WHENTOUSE": "When to use symbols such as &amp; and % on Canada.ca",
@@ -1362,7 +1362,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/style-guide/#wp4-4\">Abbreviations and acronyms</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/style-guide/#wp4-4\">Abbreviations and acronyms</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "Don't use an abbreviation or acronym unless it's better known to the widest audience than its long-form equivalent",
     "WHENTOUSE": "Don't use an abbreviation or acronym unless it's better known to the widest audience than its long-form equivalent",
@@ -1371,7 +1371,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/style-guide/#wp4-5\">Contractions</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/style-guide/#wp4-5\">Contractions</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "Use contractions that people use when they speak.",
     "WHENTOUSE": "Use contractions that people use when they speak.",
@@ -1380,7 +1380,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/style-guide/#wp4-6\">Numbers</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/style-guide/#wp4-6\">Numbers</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "How to write numbers on Canada.ca",
     "WHENTOUSE": "How to write numbers on Canada.ca",
@@ -1389,7 +1389,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/style-guide/#wp4-7\">Dates</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/style-guide/#wp4-7\">Dates</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "How to write dates on Canada.ca",
     "WHENTOUSE": "How to write dates on Canada.ca",
@@ -1398,7 +1398,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/style-guide/#wp4-8\">Times</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/style-guide/#wp4-8\">Times</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "How to write times on Canada.ca",
     "WHENTOUSE": "How to write times on Canada.ca",
@@ -1407,7 +1407,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/style-guide/#wp4-9\">Phone numbers</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/style-guide/#wp4-9\">Phone numbers</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "How to write phone numbers on Canada.ca",
     "WHENTOUSE": "How to write phone numbers on Canada.ca",
@@ -1416,7 +1416,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/style-guide/#wp4-10\">Addresses</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/style-guide/#wp4-10\">Addresses</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "How to write addresses on Canada.ca",
     "WHENTOUSE": "How to write addresses on Canada.ca",
@@ -1425,7 +1425,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/style-guide/#wp4-11\">Words and expressions in transition</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/style-guide/#wp4-11\">Words and expressions in transition</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "Special rules for Words and expressions commonly written in 2 or more different ways (like webpage and web page)",
     "WHENTOUSE": "Special rules for Words and expressions commonly written in 2 or more different ways (like webpage and web page)",
@@ -1434,7 +1434,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/style-guide/#toc9\">Content structure</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/style-guide/#toc9\">Content structure</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "How to organize the structure and layout of content components to help people find what they need quickly",
     "WHENTOUSE": "Content Style Guide",
@@ -1443,7 +1443,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/style-guide/#wp5-1\">Page titles and headings</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/style-guide/#wp5-1\">Page titles and headings</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "Write titles and headings that are meaningful and help people scan the page",
     "WHENTOUSE": "Write titles and headings that are meaningful and help people scan the page",
@@ -1452,7 +1452,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/style-guide/#wp5-2\">Lists</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/style-guide/#wp5-2\">Lists</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "How to write lists that help people scan",
     "WHENTOUSE": "How to write lists that help people scan",
@@ -1461,7 +1461,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/style-guide/#wp5-3\">Tables</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/style-guide/#wp5-3\">Tables</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "How to design tables to organize data",
     "WHENTOUSE": "How to design tables to organize data",
@@ -1470,7 +1470,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/style-guide/#toc10\">Images and videos</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/style-guide/#toc10\">Images and videos</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "How to use images and videos in your content",
     "WHENTOUSE": "How to use images and videos in your content",
@@ -1479,7 +1479,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/style-guide/#toc11\">Links</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/style-guide/#toc11\">Links</a>",
     "SOURCE": "Content Style Guide",
     "DESCRIPTION": "How to use links on Canada.ca",
     "WHENTOUSE": "How to use links on Canada.ca",
@@ -1488,7 +1488,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/recommended-templates/accessibility/accessibility.html\">Accessibility at [Institution name]</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/recommended-templates/accessibility/accessibility.html\">Accessibility at [Institution name]</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Provide feedback to help us create an accessible and barrier-free Canada.",
     "WHENTOUSE": "Provide feedback to help us create an accessible and barrier-free Canada.",
@@ -1497,7 +1497,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/recommended-templates/accessibility/feedback-form.html\">Accessibility feedback form</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/recommended-templates/accessibility/feedback-form.html\">Accessibility feedback form</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Provide feedback on [Institution name]’s accessibility plan, barriers you have experienced, or any matter related to accessibility.",
     "WHENTOUSE": "Provide feedback on [Institution name]’s accessibility plan, barriers you have experienced, or any matter related to accessibility.",
@@ -1506,7 +1506,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/recommended-templates/accessibility/feedback-process.html\">Accessibility feedback process at [Institution name]</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/recommended-templates/accessibility/feedback-process.html\">Accessibility feedback process at [Institution name]</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Your feedback will help [Institution name] identify and break down accessibility barriers.",
     "WHENTOUSE": "Your feedback will help [Institution name] identify and break down accessibility barriers.",
@@ -1515,7 +1515,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/recommended-templates/accessibility/plan.html\">Accessibility plan at [Institution name]</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/recommended-templates/accessibility/plan.html\">Accessibility plan at [Institution name]</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Policies, programs, practices, and services that help our organization contribute to the goal of an accessible and barrier-free Canada",
     "WHENTOUSE": "Policies, programs, practices, and services that help our organization contribute to the goal of an accessible and barrier-free Canada",
@@ -1524,7 +1524,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"https://design.canada.ca/recommended-templates/accessibility/progress-reports-landing.html\">Accessibility progress reports at [Institution name]</a>",
+    "NAME": "<a href=\"DEPLOY_PRIME_URL/recommended-templates/accessibility/progress-reports-landing.html\">Accessibility progress reports at [Institution name]</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Results of our activities to improve how our organization contributes to the goal of an accessible and barrier-free Canada",
     "WHENTOUSE": "Results of our activities to improve how our organization contributes to the goal of an accessible and barrier-free Canada",
