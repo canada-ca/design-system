@@ -20,7 +20,7 @@
         "@type": "WebSite",
         {% if site.name %}"name": "{{ site.name }}",{% endif %}
         {% if site.description %}"description": "{{ site.description }}",{% endif %}
-        {% if site.url %}"url": "{{ site.url }}{{ site.baseurl }}",{% endif %}
+        {% if site.url %}"url": "{{ '/' | absolute_url }}",{% endif %}
         {% if site.author %}"author":
             {
                 "@type": "Person",

@@ -3,8 +3,8 @@ altLangPage: https://conception.canada.ca/communaute/accueil.html
 breadcrumbs:
 - link: https://www.canada.ca/en/government/about.html
   title: About Canada.ca
-- link: https://www.canada.ca/en/government/about/design-system.html
-  title: Canada.ca design system
+- link: /
+  title: Design
 date: null
 dateModified: '2020-10-30'
 description: null

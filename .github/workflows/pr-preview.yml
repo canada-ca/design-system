@@ -34,7 +34,7 @@ jobs:
 
       - name: Build with Jekyll
         if: github.event.action != 'closed'
-        run: bundle exec jekyll build --baseurl "/pr-preview/pr-${{ github.event.number }}"
+        run: bundle exec jekyll build --config _config.yml,_config.staging.yml --baseurl "/pr-preview/pr-${{ github.event.number }}"
         env:
           JEKYLL_ENV: production
 
@@ -45,6 +45,7 @@ jobs:
           preview-branch: gh-pages
           umbrella-dir: pr-preview
           action: auto
+          comment: false
 
       - name: Update PR description with preview
         if: github.event.action != 'closed'
@@ -75,41 +76,45 @@ jobs:
               filesList = '*No content files changed*';
             }
 
-            // Generate preview links for modified HTML and MD files
+            // Generate preview links for modified HTML and MD files (exclude _includes/ and _layouts/)
             const htmlMdFiles = changedFiles.filter(file =>
-              file.endsWith('.md') || file.endsWith('.html')
-            ).slice(0, 10);
+              (file.endsWith('.md') || file.endsWith('.html')) &&
+              !file.startsWith('_includes/') && !file.startsWith('_layouts/')
+            );
 
             let previewLinks = '';
             if (htmlMdFiles.length > 0) {
-              previewLinks = htmlMdFiles.map(file => {
+              previewLinks = htmlMdFiles.slice(0, 10).map(file => {
                 let previewPath = file;
                 // Convert .md files to their preview path (remove .md extension)
                 if (file.endsWith('.md')) {
-                  previewPath = file.replace(/\/index\.md$/, '/').replace(/\.md$/, '/');
+                  previewPath = file.replace(/\/index\.md$/, '/').replace(/\.md$/, '.html');
                 }
                 const previewFile = `https://design.canada.ca/pr-preview/pr-${{ github.event.number }}/${previewPath}`;
-                return `[${file}](${previewFile})`;
-              }).join(' | ');
+                return `- [${file}](${previewFile})`;
+              }).join('<br>');
+              if (htmlMdFiles.length > 10) {
+                previewLinks += `<br>- *...and ${htmlMdFiles.length - 10} more files*`;
+              }
             } else {
-              previewLinks = `[View preview](${previewUrl})`;
+              previewLinks = `- [View preview](${previewUrl})`;
             }
 
-            // Filter for other files changed (CSS, JS, YAML, JSON, images)
+            // Filter for other files changed (CSS, JS, YAML, JSON, images, and HTML from _includes/_layouts)
             const otherFiles = changedFiles.filter(file =>
-              /\.(css|js|ya?ml|json|png|jpg|jpeg|gif|svg|webp)$/i.test(file)
+              /\.(css|js|ya?ml|json|png|jpg|jpeg|gif|svg|webp)$/i.test(file) ||
+              (file.endsWith('.html') && (file.startsWith('_includes/') || file.startsWith('_layouts/')))
             ).slice(0, 10);
 
-            let otherFilesSection = '';
+            let otherFilesContent = '';
             if (otherFiles.length > 0) {
-              let otherFilesList = otherFiles.map(file =>
+              otherFilesContent = otherFiles.map(file =>
                 `- [${file}](https://github.com/${{ github.repository }}/blob/${{ github.event.pull_request.head.sha }}/${file})`
-              ).join('\n');
+              ).join('<br>');
               if (changedFiles.length > otherFiles.length + htmlMdFiles.length) {
                 const remaining = changedFiles.length - otherFiles.length - htmlMdFiles.length;
-                otherFilesList += `\n- *...and ${remaining} more files*`;
+                otherFilesContent += `<br>- *...and ${remaining} more files*`;
               }
-              otherFilesSection = `\n\n### 📝 Other files changed\n${otherFilesList}`;
             }
 
             // Get current PR body
@@ -137,7 +142,7 @@ jobs:
               currentBody = currentBody.substring(0, markerIndex).trim();
             }
 
-            const previewSection = `\n\n## Alternate language PR\n${alternateLangLink}\n\n---\n\n## 🚀 PR Preview\n\n| Name | Link |\n|------|------|\n| **Latest commit** | [${context.payload.pull_request.head.sha.substring(0, 7)}](${commitUrl}) |\n| **Deploy preview** | ${previewLinks} |${otherFilesSection}\n\n---\n*Preview updates automatically with each commit*`;
+            const previewSection = `## Alternate language PR\n${alternateLangLink}\n\n---\n\n## 🚀 PR Preview\n\n| Name | Link(s) |\n|------|------|\n| **Latest commit** | [${context.payload.pull_request.head.sha.substring(0, 7)}](${commitUrl}) |\n| **Page preview** | ${previewLinks} |${otherFilesContent ? `\n| **Other changed files** | ${otherFilesContent} |` : ''}\n\n---\n*<small>Preview updates automatically with each commit*</small>`;
 
             // Update PR description
             await github.rest.pulls.update({
