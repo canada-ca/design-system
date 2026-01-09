@@ -32,7 +32,7 @@ Use this guidance to create and manage web content.
 	<div class="row wb-eqht-grd">
 		{%- for info in page.information -%}
 		<div class="col-lg-4 col-md-6">
-			<h3><a href="{{ site.url }}{{ info.link }}">{{ info.title }}</a></h3>
+			<h3><a href="{{ info.link | absolute_url }}">{{ info.title }}</a></h3>
       <p>{{ info.description }}</p>
 		</div>
 		{%- endfor -%}
