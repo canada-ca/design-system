@@ -10,7 +10,7 @@ title: "Latest changes to the Canada.ca design"
   <button type="button" class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#expand-collapse&quot;, &quot;type&quot;: &quot;off&quot;}">Collapse all</button>
 </div>
 <div id="expand-collapse">
-<details open>
+<details open="open">
     <summary><time datetime="2026-01-16">January 16, 2026</time></summary>
     <p>Updated the social media channels guidance to clarify that other social media icons can be used and that icons can be rearranged.</p>
   </details>
