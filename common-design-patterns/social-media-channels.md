@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/configurations-conception-communes/bloc-medias-sociaux.html
 date: null
-dateModified: '2025-05-15'
+dateModified: '2026-01-16'
 description: The social media channels pattern provides links to official Government of Canada social media accounts on various social media platforms.
 title: Social media channels
 ---
@@ -39,6 +39,8 @@ title: Social media channels
     <h3>Content specifications</h3>
     <p>The social media channels pattern is made up of the heading “On social media” and icons linking to official GC social media accounts.</p>
     <p>Accounts referred to in the pattern must be fully compliant with the <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=30682">Directive on the Management of Communications</a>.</p>
+    <p>You can use social media icons other than those provided in this pattern, as long as they represent official GC social media accounts.</p>
+    <p>The order of social media icons isn’t prescribed. You can arrange them in any order that makes sense for your context.</p>
     <p>Display a maximum of 5 icons aligned in a vertical column or horizontal row:</p>
     <ul>
         <li>Vertical display includes a label next to each icon</li>
@@ -109,6 +111,26 @@ title: Social media channels
                             </div>
                             </td>
                         </tr>
+                          <tr>
+                            <td>Instagram</td>
+                            <td>instagram</td>
+                            <td class="text-center"><div class="provisional gc-followus">
+                            <ul class="list-inline">
+                                <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/instagram.svg" class="instagram"><span class="wb-inv">Instagram</span></a></li>
+                            </ul>
+                            </div>
+                        </td>
+                        </tr>
+                        <tr>
+                            <td>LinkedIn</td>
+                            <td><p>linkedin</p></td>
+                            <td class="text-center"><div class="provisional gc-followus">
+                                <ul class="list-inline">
+                                    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/linkedin.svg" class="linkedin"><span class="wb-inv">LinkedIn</span></a></li>
+                                </ul>
+                            </div>
+                            </td>
+                        </tr>
                         <tr>
                             <td>X</td>
                             <td><p>twitter</p></td>
@@ -131,26 +153,6 @@ title: Social media channels
                             </div>
                             </td>
                         </tr>
-                        <tr>
-                            <td>Instagram</td>
-                            <td>instagram</td>
-                            <td class="text-center"><div class="provisional gc-followus">
-                            <ul class="list-inline">
-                                <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/instagram.svg" class="instagram"><span class="wb-inv">Instagram</span></a></li>
-                            </ul>
-                            </div>
-                        </td>
-                        </tr>
-                        <tr>
-                            <td>LinkedIn</td>
-                            <td><p>linkedin</p></td>
-                            <td class="text-center"><div class="provisional gc-followus">
-                                <ul class="list-inline">
-                                    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/linkedin.svg" class="linkedin"><span class="wb-inv">LinkedIn</span></a></li>
-                                </ul>
-                            </div>
-                            </td>
-                        </tr>
                     </tbody>
                 </table>
             </div>
@@ -165,11 +167,11 @@ title: Social media channels
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: social media channels (vertical view with labels) - large screen</summary>
                 <p>Social media channel links appear in a section with the heading “On social media”. Below the heading is a vertical list with associated icons and labels:</p>
                 <ul>
+                    <li>Instagram icon followed by the placeholder text InstagramName</li>
+                    <li>LinkedIn icon followed by the placeholder text LinkedInName</li>
                     <li>Facebook icon followed by the placeholder text FacebookPageName</li>
                     <li>X icon followed by the placeholder text @XAccount</li>
                     <li>Youtube icon followed by the placeholder text YouTubeName</li>
-                    <li>Instagram icon followed by the placeholder text InstagramName</li>
-                    <li>LinkedIn icon followed by the placeholder text LinkedInName</li>
                 </ul>
             </details>
         </figure>
@@ -183,10 +185,10 @@ title: Social media channels
                 <p>Social media channel links appear in a section with the heading “On social media”. Below the heading is a horizontal list with associated icons, but without labels:</p>
                 <ul>
                     <li>Facebook</li>
-                    <li>X</li>
-                    <li>Youtube</li>
                     <li>Instagram</li>
                     <li>LinkedIn</li>
+                    <li>X</li>
+                    <li>Youtube</li>
                 </ul>
             </details>
         </figure>
@@ -200,10 +202,10 @@ title: Social media channels
                 <p>Social media channel links appear in a section with the heading “On social media”. Below the heading is a vertical list with associated icons and labels:</p>
                 <ul>
                     <li>Facebook icon followed by the placeholder text FacebookPageName</li>
-                    <li>X icon followed by the placeholder text @XAccount</li>
-                    <li>Youtube icon followed by the placeholder text YouTubeName</li>
                     <li>Instagram icon followed by the placeholder text InstagramName</li>
                     <li>LinkedIn icon followed by the placeholder text LinkedInName</li>
+                    <li>X icon followed by the placeholder text @XAccount</li>
+                    <li>Youtube icon followed by the placeholder text YouTubeName</li>
                 </ul>
               <p>Below the icons is a link with the label: More ways to connect</p>
             </details>
@@ -218,10 +220,10 @@ title: Social media channels
                 <p>Social media channel links appear in a section with the heading “On social media”. Below the heading is a horizontal list with associated icons:</p>
                 <ul>
                     <li>Facebook icon</li>
-                    <li>X icon</li>
-                    <li>Youtube icon</li>
                     <li>Instagram icon</li>
                     <li>LinkedIn icon</li>
+                    <li>X icon</li>
+                    <li>Youtube icon</li>
                 </ul>
                 <p>Below the icons is a link with the label: More ways to connect</p>
             </details>
@@ -297,6 +299,8 @@ title: Social media channels
 <section>
     <h2 id="latest">Latest changes</h2>
     <dl class="dl-horizontal">
+    <dt><time>2026-01-16</time></dt>
+      <dd>Updated the guidance to clarify that other social media icons can be used and that icons can be rearranged.</dd>
       <dt><time>2025-05-15</time></dt>
       <dd>Updated typography specifications in tandem with alignment activities for GCWeb and GC Design System.</dd>
       <dt><time>2024-09-19</time></dt>
