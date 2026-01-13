@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/a-propos/derniers-changements.html"
 date: 2017-10-05
-dateModified: 2025-12-18
+dateModified: 2026-01-16
 description: "Latest changes to the Canada.ca design"
 title: "Latest changes to the Canada.ca design"
 ---

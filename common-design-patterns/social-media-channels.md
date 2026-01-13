@@ -167,9 +167,9 @@ title: Social media channels
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: social media channels (vertical view with labels) - large screen</summary>
                 <p>Social media channel links appear in a section with the heading “On social media”. Below the heading is a vertical list with associated icons and labels:</p>
                 <ul>
+                    <li>Facebook icon followed by the placeholder text FacebookPageName</li>
                     <li>Instagram icon followed by the placeholder text InstagramName</li>
                     <li>LinkedIn icon followed by the placeholder text LinkedInName</li>
-                    <li>Facebook icon followed by the placeholder text FacebookPageName</li>
                     <li>X icon followed by the placeholder text @XAccount</li>
                     <li>Youtube icon followed by the placeholder text YouTubeName</li>
                 </ul>
