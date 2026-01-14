@@ -93,7 +93,7 @@ There are three sets of files of words and phrases, in English and French, that 
 
 Before you implement an AI help application, make sure your organization has a process in place to deal with threatening messages. A similar process may already be documented for threats received through email, social media and/or call centres.
 
-What to do
+### What to do
 
 - Follow the same procedures that your organization has in place for threats received through email, social media and/or call centres.
 
