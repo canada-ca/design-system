@@ -7,7 +7,6 @@ script: /js/plugins/gc-checklist.js
 title: Reference checklist
 ---
 
-<p>Use this checklist as a quick reference for all the things you must consider when creating an AI help application.</p>
 
 <div class="wb-fieldflow" data-wb-fieldflow='{"renderas":"checkbox", "gcChckbxrdio":true, "noForm":true}'>
   <p>AI help application requirements</p>
