@@ -127,7 +127,7 @@ Once the situation is clarified, the AI can provide the appropriate link. For in
 
 To ensure citations are highly visible, consider the following guidelines:
 
-- Visually set citations apart from the answer so users can easily find them by **centring the text and adding a grey well**
+- Visually set citations apart from the answer so users can easily find them.
 - Place instructional text before citations that asks users to check their answer and take the next step
 - Ensure citations are close enough to the answer to make it clear it is related to the answer
 
