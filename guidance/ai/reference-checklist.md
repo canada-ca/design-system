@@ -9,7 +9,7 @@ title: Reference checklist
 
 
 <div class="wb-fieldflow" data-wb-fieldflow='{"renderas":"checkbox", "gcChckbxrdio":true, "noForm":true}'>
-  <p>AI help application requirements</p>
+<p>Use this checklist as a quick reference for all the things you must consider when creating an AI help application.</p>
   <ul>
     <li>Follow central guidance</li>
     <li>Do not use a human name</li>
