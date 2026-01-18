@@ -10,15 +10,15 @@ Images are visual content that complement or enhance text, including photographs
 
 ## On this page
 
-* [When to use](#when-to-use)
-* [What to avoid](#what-to-avoid)
-* [Content and design](#content-and-design)
+* [When to use](#use)
+* [What to avoid](#avoid)
+* [Content and design](#design)
 * [Licensing](#licensing)
 * [Icons](#icons)
 * [Implementations](#implementations)
-* [Latest changes](#latest-changes)
+* [Latest changes](#changes)
 
-## When to use {#when-to-use}
+## When to use {#use}
 
 [Follow the image guidance](https://design.canada.ca/style-guide/#toc10) in the Canada.ca Content Style Guide for information on:
 
@@ -26,7 +26,7 @@ Images are visual content that complement or enhance text, including photographs
 * functional vs decorative images
 * alternative text and long descriptions
 
-## What to avoid {#what-to-avoid}
+## What to avoid {#avoid}
 
 * Do not use images as stand-alone clickable elements providing navigation or functionality
 * Be careful when using AI-generated images or generic stock photos, as they can undermine user trust and feel less authentic
@@ -40,7 +40,7 @@ Images are visual content that complement or enhance text, including photographs
    * incidental snippets of text, such as text appearing on photographed objects, wordmarks in logos, #hashtags, etc., are acceptable
    * live HTML text (selectable and accessible) may be overlaid onto portions of images and banners as long as there is appropriate contrast and visibility
 
-## Content and design {#content-and-design}
+## Content and design {#design}
 
 * Size and place images appropriately for the context they are in:
    * images should either support tasks or, if decorative, not interfere with tasks
@@ -66,7 +66,7 @@ Images are visual content that complement or enhance text, including photographs
 
 Icons are symbols for communicating actions or states on Canada.ca.
 
-### How to use {#how-to-use}
+### How to use {#icons-use}
 
 You can use icons when assisting people with site functionality, for example:
 
@@ -81,7 +81,7 @@ Ensure icons are always accompanied by a text label.
 
 Place an icon in line with its associated text label.
 
-### What to avoid {#what-to-avoid-icons}
+### What to avoid {#icons-avoid}
 
 Do not use icons:
 
@@ -95,7 +95,7 @@ Do not use icons:
 * [WET: Icons](https://wet-boew.github.io/wet-boew-styleguide/design/icons-en.html)
 * [Icon: GC Design System](https://design-system.alpha.canada.ca/en/components/icon/)
 
-## Latest changes {#latest-changes}
+## Latest changes {#changes}
 
 <dl class="dl-horizontal">
 <dt>
@@ -103,3 +103,4 @@ Do not use icons:
 </dt>
 <dd>Updated the images guidance to include information about the appropriate use of icons.</dd>
 </dl>
+
