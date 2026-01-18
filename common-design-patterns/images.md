@@ -66,7 +66,7 @@ Images are visual content that complement or enhance text, including photographs
 
 Icons are symbols for communicating actions or states on Canada.ca.
 
-### How to use
+### How to use {#how-to-use}
 
 You can use icons when assisting people with site functionality, for example:
 
@@ -81,7 +81,7 @@ Ensure icons are always accompanied by a text label.
 
 Place an icon in line with its associated text label.
 
-### What to avoid
+### What to avoid {#what-to-avoid-icons}
 
 Do not use icons:
 
