@@ -1,163 +1,108 @@
 ---
 altLangPage: https://conception.canada.ca/configurations-conception-communes/images.html
-date: null
-dateModified: '2018-12-19'
-description: null
-title: Images design pattern
+date: '2018-12-19'
+dateModified: '2026-01-20'
+description: Images are visual content that complement or enhance text, including photographs, graphics, drawings, or diagrams.
+title: Images and icons
 ---
 
+Images are visual content that complement or enhance text, including photographs, graphics, drawings, or diagrams.
 
+## On this page
 
+* [When to use](#when-to-use)
+* [What to avoid](#what-to-avoid)
+* [Content and design](#content-and-design)
+* [Licensing](#licensing)
+* [Icons](#icons)
+* [Implementations](#implementations)
+* [Latest changes](#latest-changes)
 
+## When to use
 
-<section>
- <p>
-  Images are visual content that complements or enhances text, including photographs, graphics, drawings, or diagrams.
- </p>
- <section>
-  <h2>
-   When to use this pattern
-  </h2>
-  <ul>
-   <li>
-    Avoid unnecessary decoration on Canada.ca – only use imagery when it provides more information than can be provided through text alone
-   </li>
-   <li>
-    Refer to the
-    <a href="https://design.canada.ca/style-guide/#toc10">
-     Canada.ca Content Style Guide for details on when to use images
-    </a>
-   </li>
-   <li>
-    Do not use images as stand-alone clickable elements providing navigation or functionality
-   </li>
-   <li>
-    Images must be clickable when accompanied by text links, but are secondary to the links
-   </li>
-  </ul>
- </section>
- <section>
-  <h2>
-   How to use this pattern
-  </h2>
-  <ul>
-   <li>
-    Size and place images appropriately for the context they are in
-    <ul>
-     <li>
-      images must appear connected to the content, and complement it
-     </li>
-    </ul>
-   </li>
-   <li>
-    Do not place images in line with text blocks, for example within a paragraph; instead, place them in between text blocks
-   </li>
-   <li>
-    Where images include people, they should reflect Canada’s diverse population
-   </li>
-   <li>
-    Images must appear square or rectangular;  round or oval images may not be used
-   </li>
-   <li>
-    Where captions and attributions are required, place them immediately under the image they refer to
-   </li>
-   <li>
-    Images must only be clickable when accompanied by a text link to the same destination
-    <ul>
-     <li>
-      in such cases, the default position for text links is immediately above the image
-     </li>
-    </ul>
-   </li>
-   <li>
-    Align links, captions or attributions with the left edge of the image they refer to
-   </li>
-   <li>
-    Do not use images or videos copied from other websites
-   </li>
-   <li>
-    Do not use images to display text
-    <ul>
-     <li>
-      text on feature images may be difficult to read on a small screen
-     </li>
-     <li>
-      images may instead focus on photography and illustration
-     </li>
-     <li>
-      incidental snippets of text, such as text appearing on photographed objects, wordmarks in logos, #hashtags, etc., are acceptable
-     </li>
-    </ul>
-   </li>
-  </ul>
- </section>
- <section>
-  <h2>
-   Licensing
-  </h2>
-  <ul>
-   <li>
-    Institutions are responsible for the proper use of images purchased through a licensing agreement
-    <ul>
-     <li>
-      if the image is licensed only to one institution, it can only be used by that institution on Canada.ca
-     </li>
-     <li>
-      read the licensing agreement carefully for any other restrictions on the use of purchased images
-     </li>
-    </ul>
-   </li>
-   <li>
-    Verify that you have the appropriate rights to publish images on Canada.ca. Specifically:
-    <ul>
-     <li>
-      get a signed release from a person (or legal guardian) before you publish any image of him or her
-     </li>
-     <li>
-      have documentation showing you have the appropriate rights to publish licensed (or rights-managed) images
-     </li>
-    </ul>
-   </li>
-   <li>
-    Images that are no longer licensed for use by an institution must be removed from Canada.ca
-   </li>
-   <li>
-    Purchase the highest-resolution available for an image,  to be able to use the image in any size
-   </li>
-  </ul>
- </section>
- <section>
-  <h2>
-   Working example
-  </h2>
-  <ul>
-   <li>
-    <a href="http://wet-boew.github.io/wet-boew-styleguide/design/images-en.html">
-     WET: Images
-    </a>
-   </li>
-  </ul>
- </section>
- <section class="panel panel-primary">
-  <header class="panel-heading">
-   <h3 class="panel-title">
-    Example
-   </h3>
-  </header>
-  <div class="panel-body">
-   <figure class="mrgn-bttm-sm">
-    <figcaption class="text-center">
-     <b>
-      Images pattern
-     </b>
-    </figcaption>
-    <img alt="Screenshot illustrating the image pattern on Canada.ca. Details on this graphic can be found in the surrounding text." class="img-responsive center-block" src="https://www.canada.ca/content/dam/tbs-sct/images/government-communications/canada-content-style-guide/images-pattern-eng.jpg"/>
-   </figure>
-  </div>
- </section>
-</section>
+[Follow the image guidance](https://design.canada.ca/style-guide/#toc10) in the Canada.ca Content Style Guide for information on:
 
+* the purpose of images online
+* functional vs decorative images
+* alternative text and long descriptions
 
+## What to avoid
 
+* Do not use images as stand-alone clickable elements providing navigation or functionality
+* Be careful when using AI-generated images or generic stock photos, as they can undermine user trust and feel less authentic
+* Do not place images in ways that disrupt content flow or user tasks
+   * avoid breaking up paragraphs or fragmenting related text
+   * position images where they support the content
+* Do not use images or videos copied from other websites
+* Do not embed text directly into an image
+   * text on feature images may be difficult to read on a small screen
+   * images should instead focus on photography and illustration
+   * incidental snippets of text, such as text appearing on photographed objects, wordmarks in logos, #hashtags, etc., are acceptable
+   * live HTML text (selectable and accessible) may be overlaid onto portions of images and banners as long as there is appropriate contrast and visibility
+
+## Content and design
+
+* Size and place images appropriately for the context they are in:
+   * images should either support tasks or, if decorative, not interfere with tasks
+* Where images include people, they should reflect Canada's diverse population
+* Images must appear square or rectangular; round or oval images may not be used
+* Where captions and attributions are required, place them immediately under the image they refer to
+* Images must only be clickable when accompanied by a text link to the same destination
+* Generally, align links, captions or attributions with the left edge of the image they refer to
+   * note there are some design patterns that are exceptions to this rule
+
+## Licensing
+
+* Institutions are responsible for the proper use of images purchased through a licensing agreement
+   * if the image is licensed only to one institution, it can only be used by that institution on Canada.ca
+   * read the licensing agreement carefully for any other restrictions on the use of purchased images
+* Verify that you have the appropriate rights to publish images on Canada.ca. Specifically:
+   * get a signed release from a person (or legal guardian) before you publish any image of them
+   * have documentation showing you have the appropriate rights to publish licensed (or rights-managed) images
+* Images that are no longer licensed for use by an institution must be removed from Canada.ca
+* Purchase the highest-resolution available for an image, to be able to use the image in any size
+
+## Icons
+
+Icons are symbols for communicating actions or states on Canada.ca.
+
+### How to use
+
+You can use icons when assisting people with site functionality, for example:
+
+* form fields
+* alerts
+* external or email links
+* links to non-HTML files like a PDF or Excel files
+
+Icons can also help draw attention to key information and make the page easier to scan. Use them sparingly and choose icons that are widely recognized and easy to understand.
+
+Ensure icons are always accompanied by a text label.
+
+Place an icon in line with its associated text label.
+
+### What to avoid
+
+Do not use icons:
+
+* to add decoration to navigation labels or headings
+* to modify existing mandatory patterns and components
+* to add emphasis to text
+
+## Implementations
+
+* [WET: Images](https://wet-boew.github.io/wet-boew-styleguide/design/images-en.html)
+* [WET: Icons](https://wet-boew.github.io/wet-boew-styleguide/design/icons-en.html)
+* [Icon: GC Design System](https://design-system.alpha.canada.ca/en/components/icon/)
+
+## Latest changes
+
+<dl class="dl-horizontal">
+<dt>
+<time datetime="2026-01-20" class="link-muted">2026-01-20</time>
+</dt>
+<dd>Updated the images guidance to include information about the appropriate use of icons.</dd>
+<dt>
+</dl>
 
 
