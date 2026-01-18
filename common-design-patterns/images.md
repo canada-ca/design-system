@@ -18,7 +18,7 @@ Images are visual content that complement or enhance text, including photographs
 * [Implementations](#implementations)
 * [Latest changes](#latest-changes)
 
-## When to use
+## When to use {#when-to-use}
 
 [Follow the image guidance](https://design.canada.ca/style-guide/#toc10) in the Canada.ca Content Style Guide for information on:
 
@@ -26,7 +26,7 @@ Images are visual content that complement or enhance text, including photographs
 * functional vs decorative images
 * alternative text and long descriptions
 
-## What to avoid
+## What to avoid {#what-to-avoid}
 
 * Do not use images as stand-alone clickable elements providing navigation or functionality
 * Be careful when using AI-generated images or generic stock photos, as they can undermine user trust and feel less authentic
@@ -40,7 +40,7 @@ Images are visual content that complement or enhance text, including photographs
    * incidental snippets of text, such as text appearing on photographed objects, wordmarks in logos, #hashtags, etc., are acceptable
    * live HTML text (selectable and accessible) may be overlaid onto portions of images and banners as long as there is appropriate contrast and visibility
 
-## Content and design
+## Content and design {#content-and-design}
 
 * Size and place images appropriately for the context they are in:
    * images should either support tasks or, if decorative, not interfere with tasks
@@ -51,7 +51,7 @@ Images are visual content that complement or enhance text, including photographs
 * Generally, align links, captions or attributions with the left edge of the image they refer to
    * note there are some design patterns that are exceptions to this rule
 
-## Licensing
+## Licensing {#licensing}
 
 * Institutions are responsible for the proper use of images purchased through a licensing agreement
    * if the image is licensed only to one institution, it can only be used by that institution on Canada.ca
@@ -62,7 +62,7 @@ Images are visual content that complement or enhance text, including photographs
 * Images that are no longer licensed for use by an institution must be removed from Canada.ca
 * Purchase the highest-resolution available for an image, to be able to use the image in any size
 
-## Icons
+## Icons {#icons}
 
 Icons are symbols for communicating actions or states on Canada.ca.
 
@@ -89,20 +89,17 @@ Do not use icons:
 * to modify existing mandatory patterns and components
 * to add emphasis to text
 
-## Implementations
+## Implementations {#implementations}
 
 * [WET: Images](https://wet-boew.github.io/wet-boew-styleguide/design/images-en.html)
 * [WET: Icons](https://wet-boew.github.io/wet-boew-styleguide/design/icons-en.html)
 * [Icon: GC Design System](https://design-system.alpha.canada.ca/en/components/icon/)
 
-## Latest changes
+## Latest changes {#latest-changes}
 
 <dl class="dl-horizontal">
 <dt>
 <time datetime="2026-01-20" class="link-muted">2026-01-20</time>
 </dt>
 <dd>Updated the images guidance to include information about the appropriate use of icons.</dd>
-<dt>
 </dl>
-
-

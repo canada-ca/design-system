@@ -10,6 +10,10 @@ title: "Latest changes to the Canada.ca design"
   <button type="button" class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#expand-collapse&quot;, &quot;type&quot;: &quot;off&quot;}">Collapse all</button>
 </div>
 <div id="expand-collapse">
+<details open="open">
+    <summary><time datetime="2026-01-20">January 20, 2026</time></summary>
+    <p>Updated the <a href="https://design-system.alpha.canada.ca/en/page-templates/basic/">images guidance</a> to include information about the appropriate use of icons.</p>
+  </details>
   <details>
     <summary><time datetime="2025-12-18">December 18, 2025</time></summary>
     <p>Added an alert to the basic page layout to indicate that it is being decommissioned and to instead follow the the GC Design System <a href="https://design-system.alpha.canada.ca/en/page-templates/basic/">Basic page template</a>.</p>
