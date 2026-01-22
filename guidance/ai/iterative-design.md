@@ -61,7 +61,7 @@ Generative AI is rapidly changing expectations, and underlying models can evolve
 
 Drawing from research by GOV.UK, we recommend including a line below the answer that states, "How was this answer? Good or Needs improvement." This phrasing better aligns with client-centric standards and invites users to provide meaningful feedback.
 
-If a user selects "Needs improvement," consider offering follow-up questions to clarify their experience, such as:
+If a user selects "Needs improvement" consider offering follow-up questions to clarify their experience, such as:
 
 - "The answer was unclear"
 - "The answer did not address my question"
