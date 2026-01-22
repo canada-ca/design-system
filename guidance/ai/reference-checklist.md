@@ -14,8 +14,7 @@ title: Reference checklist
       <li>Follow central guidance</li>
       <li>Do not use a human name</li>
       <li>Do not use "chat" or "chatbot" in the name</li>
-      <li>Make sure the application opens in a new window</li>
-      <li>Use a link or mobile-first bottom overlay to initiate chat</li>
+      <li>Use a link or mobile-first bottom overlay to initiate chat on a new page</li>
       <li>Remember the Canada.ca vision, where visitors do not know which department handles which task</li>
       <li>Clearly state the topic in the invitation button if your AI application is limited to a specific topic</li>
       <li>Clearly label AI help applications as AI</li>
