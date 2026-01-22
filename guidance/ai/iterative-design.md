@@ -59,7 +59,7 @@ The Guideline on Service and Digital provides additional information on client-c
 
 Generative AI is rapidly changing expectations, and underlying models can evolve too. It's crucial that AI chat applications deliver answers that meet users' needs and expectations. You must continually manage and improve the accuracy and trustworthiness of these applications on Canada.ca. Feedback mechanisms can provide both quantitative and qualitative data for iterative improvement and promptly highlight issues that require immediate attention.
 
-Drawing from research by gov.uk, we recommend including a line below the answer that states, "How was this answer? Good or Needs improvement." This phrasing better aligns with client-centric standards and invites users to provide meaningful feedback.
+Drawing from research by GOV.UK, we recommend including a line below the answer that states, "How was this answer? Good or Needs improvement." This phrasing better aligns with client-centric standards and invites users to provide meaningful feedback.
 
 If a user selects "Needs improvement," consider offering follow-up questions to clarify their experience, such as:
 
