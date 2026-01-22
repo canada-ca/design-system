@@ -14,7 +14,7 @@ Follow the Treasury Board of Canada Secretariat's Guide on the use of generative
 
 - [Guide on the use of generative AI](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html)
 
-This guide cites public chatbots as a higher risk use case and includes best practices for the use and deployment of these tools. Remember to follow the "<span class="text-uppercase">faster</span>" principles: (fair, accountable, secure, transparent, educated and relevant) that are outlined in the guide.
+This guide cites public chatbots as a higher risk use case and includes best practices for the use and deployment of these tools. Remember to follow the "<span class="text-uppercase">faster</span>" principles: fair, accountable, secure, transparent, educated and relevant, that are outlined in the guide.
 
 ## Digital Standards Playbook
 
