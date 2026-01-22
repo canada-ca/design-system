@@ -32,7 +32,7 @@ information:
 title: Guidance for the design of AI help applications on Canada.ca
 ---
 
-AI offers promising opportunities to enhance public service delivery on Canada.ca. Users expect consistency and transparency in their interactions,and this guidance seeks to create a unified voice for Government of Canada AI help applications. It aims to help government teams develop effective generative AI solutions aligned with user expectations of consistency, transparency and trustworthiness.
+AI offers promising opportunities to enhance public service delivery on Canada.ca. Users expect consistency and transparency in their interactions, and this guidance seeks to create a unified voice for Government of Canada AI help applications. It aims to help government teams develop effective generative AI solutions aligned with user expectations of consistency, transparency and trustworthiness.
 
 Thousands visit Canada.ca daily, but feedback indicates that some struggle to find the information they need or have specific questions about interpreting content. The goal of AI help applications on Canada.ca is to assist users with questions about those services.
 
