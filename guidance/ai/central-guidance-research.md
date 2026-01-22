@@ -39,8 +39,8 @@ We have based our AI guidance on our own research as well as best practices from
 ### Government of Canada
 
 - [Guide on the use of generative artificial intelligence](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html)
-- [AI Strategy for the Federal Public Service 2025-2027](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/gc-ai-strategy-overview.html)
 - [Guide on Departmental AI Responsibilities](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/guide-departmental-ai-responsibilities.html)
+- [AI Strategy for the Federal Public Service 2025-2027](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/gc-ai-strategy-overview.html)
 - [Responsible use of artificial intelligence in government](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai.html)
 - [Policy on Service and Digital](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32603&section=html)
 - [The magic of using interactive questions \| Canada.ca blog](https://blog.canada.ca/2021/04/08/using-interactive-questions.html)
