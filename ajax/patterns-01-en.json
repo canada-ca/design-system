@@ -564,7 +564,8 @@
     "TANDP": "1"
   }, 
   {
-    "NAME": "<a href=\"{{ site.url }}/guidance/ai/design-guidance.html\">Design guidance</a>",
+    "NAME": "<a href=\"{{ site.url }}/guidance/ai/design-guidance.html\">Design guidance for AI help applications</a>",
+
     "SOURCE": "AI help application guidance",
     "DESCRIPTION": "Use this guidance to provide a consistent experience with AI help applications across Canada.ca.",
     "WHENTOUSE": "Use this guidance to provide a consistent experience with AI help applications across Canada.ca.",
