@@ -3,7 +3,7 @@ altLangPage: https://conception.canada.ca/directives/ia/ligne-directrice-central
 date: 2026-01-15
 dateModified: 2026-01-15
 description: As the Government of Canada, we must follow all applicable laws, policies, directives and standards when communicating with the public.
-title: Central guidance and AI research
+title: "Central guidance and AI research: Guidance for the design of AI help applications"
 ---
 
 As the Government of Canada, we must follow all applicable laws, policies, directives and standards when communicating with the public. As it relates specifically to AI help applications, ensure you consult the following sources.
@@ -12,7 +12,7 @@ As the Government of Canada, we must follow all applicable laws, policies, direc
 
 Follow the Treasury Board of Canada Secretariat's Guide on the use of generative AI to design AI help applications that are easy to use, ethical, accessible and trustworthy.
 
-- [Guide on the use of generative AI](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html)
+- [Guide on the use of generative artificial intelligence](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html)
 
 This guide cites public chatbots as a higher risk use case and includes best practices for the use and deployment of these tools. Remember to follow the "<span class="text-uppercase">faster</span>" principles: fair, accountable, secure, transparent, educated and relevant, that are outlined in the guide.
 

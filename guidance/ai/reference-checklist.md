@@ -4,7 +4,7 @@ date: 2026-01-15
 dateModified: 2026-01-15
 description: Use this checklist as a quick reference for all the things you must consider when creating an AI help application.
 script: /js/plugins/gc-checklist.js
-title: Reference checklist
+title: "Reference checklist: Guidance for the design of AI help applications"
 ---
 
 <form action="#" method="post" class="wb-frmvld">

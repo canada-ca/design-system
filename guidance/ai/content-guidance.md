@@ -102,7 +102,7 @@ To facilitate effective communication in multiple languages, follow this guidanc
 
 ### Terminology and style
 
-In your system prompt, instruct the AI to use official Canadian French terminology and adhere to the style found on Canada.ca for French responses
+In your system prompt, instruct the AI to use official Canadian French terminology and adhere to the style found on Canada.ca for French responses.
 
 - [Canada.ca French style guide: Guide de rédaction du contenu du site Canada.ca](https://conception.canada.ca/guide-redaction/)
 
@@ -127,7 +127,7 @@ Once the situation is clarified, the AI can provide the appropriate link. For in
 
 To ensure citations are highly visible, consider the following guidelines:
 
-- Visually set citations apart from the answer so users can easily find them.
+- Visually set citations apart from the answer so users can easily find them
 - Place instructional text before citations that asks users to check their answer and take the next step
 - Ensure citations are close enough to the answer to make it clear it is related to the answer
 
@@ -137,7 +137,7 @@ To ensure that your AI help application does not create any unintended consequen
 
 - [Gender-based Analysis Plus (GBA Plus)](https://www.canada.ca/en/women-gender-equality/gender-based-analysis-plus.html)
 - [Introduction to GBA Plus](https://women-gender-equality.canada.ca/gbaplus-course-cours-acsplus/eng/mod00/mod00_01_01.html)
-- [GBA Plus Resource Centre (GCxhange link, only available on the Government of Canada network)](https://gcxgce.sharepoint.com/:w:/t/10001402/EUO29ttIkP5BhpYVj4nGdkUBjvnMAxEVj8T-MuCjWfzEqw?e=HbLjyy)
+- [GBA Plus Resource Centre (GCxhange link, only available on the Government of Canada network)](https://gcxgce.sharepoint.com/:u:/r/teams/10001323/SitePages/Home.aspx?csf=1&web=1&e=JEhGG8)
 
 ## Safeguards against harmful or biased outputs {#safeguards}
 

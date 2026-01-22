@@ -3,7 +3,7 @@ altLangPage: https://conception.canada.ca/directives/ia/protection-renseignement
 date: 2026-01-15
 dateModified: 2026-01-15
 description: Follow this privacy and security guidance to protect users and their personal information when creating AI help applications.
-title: Privacy and security
+title: "Privacy and security: Guidance for the design of AI help applications"
 ---
 
 ## On this page
@@ -20,7 +20,7 @@ title: Privacy and security
 
 ## Engage with Privacy early {#engage}
 
-If your AI application intends to collect personal information, or is likely to collect personal information inadvertently, identify and mitigate privacy risks early by engaging your institution's Privacy office to complete a Privacy Checklist early in development. A Privacy Checklist is required by the TBS Directive on Privacy Practices (Appendix C.2.2.6) to document if a Privacy Impact Assessment is necessary prior to deploying your generative AI technology.
+If your AI application intends to collect personal information, or is likely to collect personal information inadvertently, identify and mitigate privacy risks early by engaging your institution's Privacy Office to complete a Privacy Checklist early in development. A Privacy Checklist is required by the TBS Directive on Privacy Practices (Appendix C.2.2.6) to document if a Privacy Impact Assessment is necessary prior to deploying your generative AI technology.
 
 - [Directive on Privacy Practices](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=18309)
 
@@ -50,7 +50,7 @@ It can also include information that's de-identified (e.g., where names or ident
 
 You should let the user know that their redacted data will not be stored anywhere.
 
-Most questions with Personal Information (PI) redacted will no longer make sense. Instead of sending the redacted message to the AI service, show the user the result of the PI redaction and ask them to reframe the question without personal details. For example, display a message like this:
+Most questions with personal information (PI) redacted will no longer make sense. Instead of sending the redacted message to the AI service, show the user the result of the PI redaction and ask them to reframe the question without personal details. For example, display a message like this:
 
 "Your question contained personal details. Those personal details have been replaced with these symbols: XXX. To protect your privacy, your question was not sent to the AI service. Please ask your question again without including any personal information."
 
@@ -64,7 +64,7 @@ Remember that even with redaction it is still possible that some personal inform
 
 For guidance on how to make sure your generative AI technology is responsible, trustworthy and privacy-protective, refer to:
 
-- [Treasury Board Secretariat's Guide on the use of generative AI](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html)
+- [Treasury Board Secretariat's Guide on the use of generative artificial intelligence](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html)
 - [Office of the Privacy Commissioner's Principles for responsible, trustworthy and privacy-protective generative AI technologies](https://www.priv.gc.ca/en/privacy-topics/technology/artificial-intelligence/gd_principles_ai/)
 
 You may also contact your department's Access to Information and Privacy Office for more guidance on your responsibilities for protecting personal information.
@@ -95,7 +95,7 @@ Before you implement an AI help application, make sure your organization has a p
 
 ### What to do
 
-- Follow the same procedures that your organization has in place for threats received through email, social media and/or call centres.
+Follow the same procedures that your organization has in place for threats received through email, social media and/or call centres.
 
 ## Set a retention and deletion schedule {#retention}
 

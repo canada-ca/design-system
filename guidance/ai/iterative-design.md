@@ -22,7 +22,7 @@ Actively identifying user pain points can also help inform iterative improvement
 ## Monitor and iterate
 
 - [User research in the design phase](#user-research-in-the-design-phase)
-- [Use evaluation datasets](#use-evaluation-datasets)
+- [Use evaluation datasets from Canada.ca feedback](#use-evaluation-datasets-from-canadaca-feedback)
 - [Initial testing phase](#initial-testing-phase)
 - [Iterative usability testing sessions](#iterative-usability-testing-sessions)
 
@@ -30,11 +30,11 @@ Actively identifying user pain points can also help inform iterative improvement
 
 Involve user experience (UX) researchers early so they can start testing design prototypes with potential end users. Apply best practices for federal institutions deploying a generative AI tool from the Treasury Board of Canada Secretariat's:
 
-- [Guide on the use of generative AI](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html#toc-4)
+- [Guide on the use of generative artificial intelligence](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html)
 
 ### Use evaluation datasets from Canada.ca feedback
 
-Every weekday, users leave up to 4,000 feedback comments across the site, many in the form of questions. Consult your web team or the [Canada.ca Experience Office](mailto:cds.dto-btn.snc@servicecanada.gc.ca) (Canadian Digital Service) to generate an evaluation dataset from this user feedback. Before using the dataset, ensure you remove all comments with redacted personal information (comments that include the # character).
+Every weekday, users leave up to 4,000 feedback comments across the site, many in the form of questions. Consult your web team or the [Canada.ca Experience Office](mailto:cds.dto-btn.snc@servicecanada.gc.ca) to generate an evaluation dataset from this user feedback. Before using the dataset, ensure you remove all comments with redacted personal information (comments that include the # character).
 
 For more information on using feedback, see:
 
