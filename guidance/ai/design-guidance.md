@@ -3,7 +3,7 @@ altLangPage: https://conception.canada.ca/directives/ia/lignes-directrices-conce
 date: 2026-01-15
 dateModified: 2026-01-15
 description: Use this guidance to provide a consistent experience with AI help applications across Canada.ca.
-title: "Design guidance for AI help applications"
+title: Design guidance for AI help applications
 ---
 
 AI applications must meet the [Canada.ca design requirements]({{ site.url }}/specifications.html). Use this guidance to provide a consistent experience with AI help applications across Canada.ca.
