@@ -19,7 +19,7 @@ AI applications must meet the [Canada.ca design requirements]({{ site.url }}/spe
 
 Before considering the design stage, consult:
 
-- [Guide on the use of generative AI](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html#toc-4)
+- [Guide on the use of generative AI](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html)
 - [Digital Standards Playbook](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
 
 For information and guidance on specific uses of generative AI, contact the Responsible Data and AI team:
