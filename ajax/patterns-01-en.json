@@ -575,7 +575,8 @@
     "TANDP": "1"
   },
   {
-    "NAME": "<a href=\"{{ site.url }}/guidance/ai/content-guidance.html\">Content guidance</a>",
+    "NAME": "<a href=\"{{ site.url }}/guidance/ai/content-guidance.html\">Content guidance for AI help applications</a>",
+
     "SOURCE": "AI help application guidance",
     "DESCRIPTION": "Follow this content guidance to create a consistent experience for Canada.ca visitors.",
     "WHENTOUSE": "Follow this content guidance to create a consistent experience for Canada.ca visitors.",
