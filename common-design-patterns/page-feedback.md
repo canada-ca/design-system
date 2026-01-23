@@ -205,61 +205,7 @@ title: "GC Feedback"
         <ul>
           <li><a href="https://wet-boew.github.io/GCWeb/sites/feedback/feedback-docs-en.html#variations">Feedback area - Documentation</a></li>
         </ul>
-        <h4>Add the mandatory hidden values</h4>
-        <p>Update the data attribute for the institutional acronym. This is a unilingual value - enter the English value to your English and French pages.</p>
-        <h5>Canada.ca institutional acronyms</h5>
-        <ul>
-          <li>AAFC</li>
-          <li>ATSSC</li>
-          <li>CATSA</li>
-          <li>CFIA</li>
-          <li>CIRNAC</li>
-          <li>NSERC</li>
-          <li>CBSA</li>
-          <li>CCG</li>
-          <li>CGC</li>
-          <li>CIHR</li>
-          <li>CIPO</li>
-          <li>CRA</li>
-          <li>CRTC</li>
-          <li>CSA</li>
-          <li>CSEC</li>
-          <li>CSPS</li>
-          <li>DFO</li>
-          <li>DND</li>
-          <li>ECCC</li>
-          <li>ESDC</li>
-          <li>FCAC</li>
-          <li>FIN</li>
-          <li>GAC</li>
-          <li>HC</li>
-          <li>INFC</li>
-          <li>IRCC</li>
-          <li>ISC</li>
-          <li>ISED</li>
-          <li>JUS</li>
-          <li>LAC</li>
-          <li>NFB</li>
-          <li>NRC</li>
-          <li>NRCan</li>
-          <li>OSB</li>
-          <li>PBC</li>
-          <li>PC</li>
-          <li>PCH</li>
-          <li>PCO</li>
-          <li>PHAC</li>
-          <li>PS</li>
-          <li>PSC</li>
-          <li>SSC</li>
-          <li>PSPC</li>
-          <li>RCMP</li>
-          <li>StatCan</li>
-          <li>TBS</li>
-          <li>TC</li>
-          <li>VAC</li>
-          <li>WAGE</li>
-          <li>WD</li>
-        </ul>
+      
         <h4><span class="label label-primary">Recommended</span> Add a "theme" hidden value in the feedback code</h4>
         <p>This is useful when you want to download feedback for an entire theme of pages at the same time.</p>
         <p>In most cases, you should include the Canada.ca theme for your content (full list below).</p>
