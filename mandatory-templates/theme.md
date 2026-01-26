@@ -69,11 +69,11 @@ Customization requests will be considered on a case-by-case basis if your theme 
    <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
       <figcaption><b>Layered theme navigation page - small screen</b></figcaption>
-      <img src="../images/layered-theme-page-sme.png" class="img-responsive" alt="Layered theme navigation page for small screens. Text version below:" />
+      <img src="../images/layered-theme-page-sm.png" class="img-responsive" alt="Layered theme navigation page for small screens. Text version below:" />
       <details>
         <summary>Image description: layered theme navigation page - small screen</summary>
         <p>In mobile the layered theme navigation page is a dark blue band that runs across the top with the text “Menu” and a chevron pointing down. When the user clicks the menu expands to expose all the themes.</p>
-        <p>The active theme content includes the theme heading, most requested items in a band, which is then followed by links and descriptions in two columns to navigate further into the theme. Below the theme navigation section is the heading “Features” and three context-specific features for the theme and a contextual footer for the theme’s contact information.</p>
+        <p>The active theme content includes the theme heading, most requested items in a band, which is then followed by links and descriptions in a single column to navigate further into the theme. Below the theme navigation section is the heading “Features” and three context-specific features for the theme and a contextual footer for the theme’s contact information.</p>
       </details>
     </figure>
   </div>
@@ -86,7 +86,7 @@ Find working examples and code for implementing the layered theme page.
 
 The implementation reference includes how to configure the layered theme page. 
 
-- [Layered theme page documentation - GCWeb]()
+- [Layered theme page documentation - GCWeb (BOEW)]()
 
 ## Research and rationale {#research-and-rationale}
 
