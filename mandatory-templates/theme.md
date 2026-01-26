@@ -57,23 +57,23 @@ Customization requests will be considered on a case-by-case basis if your theme 
 
  <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
-      <figcaption><b>Layered theme page navigation - large screen</b></figcaption>
-      <img src="../images/layered-theme-page-large.png" class="img-responsive" alt="Layered theme page navigation for large screens. Text version below:" />
+      <figcaption><b>Layered theme navigation page - large screen</b></figcaption>
+      <img src="../images/layered-theme-page-large.png" class="img-responsive" alt="Layered theme navigation page for large screens. Text version below:" />
       <details>
-        <summary>Image description: layered theme page navigation - large screen</summary>
-        <p>The layered theme page navigation consists of a left hand navigation including all the themes, and the content of the selected theme appears on the right. The theme “Jobs” is selected and is highlighted in dark blue. A thick dark blue bar visually separates the navigation from the content.</p>
-        <p>The active theme content includes the theme heading, most requested items in a band, which is then followed by links and descriptions in two columns to navigate further into the theme. Below the theme navigation section is the heading “Features” and three theme context-specific features and a contextual footer for the theme’s contact information.</p>
+        <summary>Image description: layered theme navigation page - large screen</summary>
+        <p>The layered theme navigation page consists of a left hand navigation including all the themes, and the content of the selected theme appears on the right. The theme “Jobs” is selected and is highlighted in dark blue. A thick dark blue bar visually separates the navigation from the content.</p>
+        <p>The active theme content includes the theme heading, most requested items in a band, which is then followed by links and descriptions in two columns to navigate further into the theme. Below the theme navigation section is the heading “Features” and three context-specific features for the theme and a contextual footer for the theme’s contact information.</p>
       </details>
     </figure>
   </div>
    <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
-      <figcaption><b>Layered theme page navigation - small screen</b></figcaption>
-      <img src="../images/layered-theme-page-sme.png" class="img-responsive" alt="Layered theme page navigation for small screens. Text version below:" />
+      <figcaption><b>Layered theme navigation page - small screen</b></figcaption>
+      <img src="../images/layered-theme-page-sme.png" class="img-responsive" alt="Layered theme navigation page for small screens. Text version below:" />
       <details>
-        <summary>Image description: layered theme page navigation - small screen</summary>
-        <p>In mobile the layered theme page navigation is a dark blue band that runs across the top with the text “Menu” and a chevron pointing down. When the user clicks the menu expands to expose all the themes.</p>
-        <p>The active theme content includes the theme heading, most requested items in a band, which is then followed by links and descriptions in two columns to navigate further into the theme. Below the theme navigation section is the heading “Features” and three theme context-specific features and a contextual footer for the theme’s contact information.</p>
+        <summary>Image description: layered theme navigation page - small screen</summary>
+        <p>In mobile the layered theme navigation page is a dark blue band that runs across the top with the text “Menu” and a chevron pointing down. When the user clicks the menu expands to expose all the themes.</p>
+        <p>The active theme content includes the theme heading, most requested items in a band, which is then followed by links and descriptions in two columns to navigate further into the theme. Below the theme navigation section is the heading “Features” and three context-specific features for the theme and a contextual footer for the theme’s contact information.</p>
       </details>
     </figure>
   </div>
