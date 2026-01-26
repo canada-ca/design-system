@@ -86,7 +86,7 @@ Find working examples and code for implementing the layered theme page.
 
 The implementation reference includes how to configure the layered theme page. 
 
-- [GCWeb (WET) layered theme documentation]()
+- [Layered theme page documentation - GCWeb]()
 
 ## Research and rationale {#research-and-rationale}
 
