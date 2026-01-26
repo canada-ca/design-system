@@ -41,13 +41,13 @@ Add a link and brief description, also called doormats, for each theme-specific 
 
 Include a contextual band in your footer. Use the [Contextual band pattern](https://design.canada.ca/common-design-patterns/site-footer-contextual.html).
 
-The sign in button is included by default and will link to the general sign in page. You can customize the link and button name to go to a specific sign in page or a page managing multiple accounts for your theme. Multiple account pages should be labeled “CRA sign in” or “IRCC sign in”, otherwise be specific to the account such as “Sign in to [account name]”. See the [contextual sign in button guidance](https://design.canada.ca/common-design-patterns/contextual-signin.html).
+The sign in button is included by default and will link to the general sign in page. You can customize the link and button name to go to a specific sign in page or a page managing multiple accounts for your theme. Multiple account pages should be labeled “CRA sign in” or “IRCC sign in”, otherwise be specific to the account such as “Sign in to [account name]”. See the [Contextual Sign in button pattern](https://design.canada.ca/common-design-patterns/contextual-signin.html).
 
-You can include alerts when there is an urgent service disruption. Alert appears below the h1 inside the content of the right side. See the [guidelines for using alerts during a crisis](https://design.canada.ca/crisis/alerts.html). 
+You can include alerts when there is an urgent service disruption. Alert appears below the h1 inside the content of the right side. See the [guidance for using alerts during a crisis](https://design.canada.ca/crisis/alerts.html). 
 
-You can include up to three context-specific features above the footer. See the [guidance for context-specific features](https://design.canada.ca/common-design-patterns/feature-tiles.html).
+You can include up to three context-specific features above the footer. See the [Context-specific features pattern](https://design.canada.ca/common-design-patterns/feature-tiles.html).
 
-You can include a featured link when there is a need for a significant and temporary feature. See the [guidelines for using a featured link](https://design.canada.ca/common-design-patterns/featured-link.html).
+You can include a featured link when there is a need for a significant and temporary feature. See the [Featured link pattern](https://design.canada.ca/common-design-patterns/featured-link.html).
 
 Customization requests will be considered on a case-by-case basis if your theme has the ability to research and monitor the impact of the customization. Please contact the Canada.ca Experience Office with any requests to deviate from the established template: 
 
