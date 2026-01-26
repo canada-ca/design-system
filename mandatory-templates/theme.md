@@ -95,6 +95,7 @@ Consult research findings and policy rationale.
 ### Research findings
 
 [Wayfinding on Canada.ca research summary](https://design.canada.ca/research-summaries/wayfinding-on-canada-ca.html)
+
 Research showing that people navigating on the site use breadcrumb links nearly twice as often as they use the Theme and topic menu.
 
 ### Policy rationale
