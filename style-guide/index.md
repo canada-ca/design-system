@@ -236,16 +236,12 @@ title: "Canada.ca Content Style Guide"
     <ul>
      <li>
       <a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/inclusive-writing-guidelines-resources"
-       >Inclusive writing for English</a
-      >
-      (only in English)
+       >Inclusive writing for English (only in English)</a>
      </li>
      <li>
       <a
        href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/ecriture-inclusive-lignes-directrices-ressources"
-       >Écriture inclusive – Lignes directrices et ressources, du Bureau de la traduction</a
-      >
-      (only in French)
+       ><span lang="fr">Écriture inclusive – Lignes directrices et ressources, du Bureau de la traduction</span> (only in French)</a>
      </li>
     </ul>
    </section>
