@@ -8,7 +8,7 @@ title: Reference checklist for AI help applications
 ---
 
 <form action="#" method="post" class="wb-frmvld">
-  <div class="gc-checklist wb-fieldflow" data-wb-fieldflow='{"renderas":"checkbox", "gcChckbxrdio":true, "noForm":true}'>
+  <div class="gc-checklist wb-fieldflow" data-wb-fieldflow='{"renderas":"checkbox", "gcChckbxrdio":true, "noForm":true, "isoptional": true}'>
     <p>Use this checklist as a quick reference for all the things you must consider when creating an AI help application.</p>
     <ul>
       <li>Follow central guidance</li>
