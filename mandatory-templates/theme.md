@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/modeles-obligatoire/theme.html
-date: null
-dateModified: '2026-02-27'
+date: 2026-02-27
+dateModified: '2026-06-16'
 description: Guidance on using a layered theme navigation page on Canada.ca. A layered theme navigation page allows people to find services and information from all Government of Canada websites grouped under one of the main themes of Canada.ca.
 title: Layered theme page
 ---
@@ -9,11 +9,11 @@ title: Layered theme page
 
 **Last updated** {{ page.dateModified }}
 
-The layered theme page works as a series of pages performing the role of the primary navigation on Canada.ca. Theme pages provide access to topics and destination pages that support task completion. This allows users to navigate government-wide content through one of the main themes rather than by institutions. These pages also prioritize content and navigation by presenting the most visited information and services first. 
+The layered theme page works as a series of pages performing the role of the primary navigation on Canada.ca. Theme pages provide access to topics and destination pages that support task completion. This allows users to navigate government-wide content through one of the main themes rather than by institutions. These pages also prioritize content and navigation by presenting the most visited information and services first.
 
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/layered-theme-page-crop.png" class="img-responsive" alt=""></div>
 
-## On this page 
+## On this page
 - [When to use](#when-to-use)
 - [What to avoid](#what-to-avoid)
 - [Content and design](#content-and-design)
@@ -27,7 +27,7 @@ The layered theme template can only be used for theme pages. Only theme leads ca
 
 ## What to avoid {#what-to-avoid}
 
-Do not use the left-hand navigation pattern from this template on any other page type. This is for use on layered theme pages only. 
+Do not use the left-hand navigation pattern from this template on any other page type. This is for use on layered theme pages only.
 
 Do not put any links to social media channels. Instead, put these on topic pages.
 
@@ -37,19 +37,19 @@ The theme title must be a unique H1 and the first component on the page.
 
 Include the Most requested band below the theme title to feature top tasks. Use the [Most requested band pattern](https://design.canada.ca/common-design-patterns/most-requested.html).
 
-Add a link and brief description, also called doormats, for each theme-specific topic included on the page. Don’t repeat any of the links from the Most requested band. Use the 2 column variation of the [Services and information pattern](https://design.canada.ca/common-design-patterns/services-information.html). 
+Add a link and brief description, also called doormats, for each theme-specific topic included on the page. Don’t repeat any of the links from the Most requested band. Use the 2 column variation of the [Services and information pattern](https://design.canada.ca/common-design-patterns/services-information.html).
 
 Include a contextual band in your footer. Use the [Contextual band pattern](https://design.canada.ca/common-design-patterns/site-footer-contextual.html).
 
 The sign in button is included by default and will link to the general sign in page. You can customize the link and button name to go to a specific sign in page or a page managing multiple accounts for your theme. Multiple account pages should be labeled “CRA sign in” or “IRCC sign in”, otherwise be specific to the account such as “Sign in to [account name]”. See the [Contextual Sign in button pattern](https://design.canada.ca/common-design-patterns/contextual-signin.html).
 
-You can include alerts when there is an urgent service disruption. Alert appears below the h1 inside the content of the right side. See the [guidance for using alerts during a crisis](https://design.canada.ca/crisis/alerts.html). 
+You can include alerts when there is an urgent service disruption. Alert appears below the h1 inside the content of the right side. See the [guidance for using alerts during a crisis](https://design.canada.ca/crisis/alerts.html).
 
 You can include up to three context-specific features above the footer. See the [Context-specific features pattern](https://design.canada.ca/common-design-patterns/feature-tiles.html).
 
 You can include a featured link when there is a need for a significant and temporary feature. See the [Featured link pattern](https://design.canada.ca/common-design-patterns/featured-link.html).
 
-Customization requests will be considered on a case-by-case basis if your theme has the ability to research and monitor the impact of the customization. Please contact the Canada.ca Experience Office with any requests to deviate from the established template: 
+Customization requests will be considered on a case-by-case basis if your theme has the ability to research and monitor the impact of the customization. Please contact the Canada.ca Experience Office with any requests to deviate from the established template:
 
 - [cds.dto-btn.snc@servicecanada.gc.ca](mailto:cds.dto-btn.snc@servicecanada.gc.ca)
 
@@ -80,17 +80,17 @@ Customization requests will be considered on a case-by-case basis if your theme 
 
 ## How to implement {#how-to-implement}
 
-Find working examples and code for implementing the layered theme page. 
+Find working examples and code for implementing the layered theme page.
 
-### GCweb (WET) theme implementation reference 
+### GCweb (WET) theme implementation reference
 
-The implementation reference includes how to configure the layered theme page. 
+The implementation reference includes how to configure the layered theme page.
 
 - [Layered theme page documentation - GCWeb (BOEW)]()
 
 ## Research and rationale {#research-and-rationale}
 
-Consult research findings and policy rationale. 
+Consult research findings and policy rationale.
 
 ### Research findings
 
