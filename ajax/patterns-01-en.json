@@ -656,7 +656,7 @@
     "NAME": "<a href=\"{{ site.url }}/mandatory-templates/theme.html\">Layered theme page</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Guidance on using a layered theme navigation page on Canada.ca. A layered theme navigation page allows people to find services and information from all Government of Canada websites grouped under one of the main themes of Canada.ca.",
-    "WHENTOUSE": "Use for the main themes for Canada.ca, for theme-based navigation",
+    "WHENTOUSE": "Use for the main themes for Canada.ca, for theme-based navigation.",
     "CATEGORY": "Design pattern",
     "TYPE": "Navigation, Site-wide pattern, layered theme template",
     "MANDATORY": "Mandatory",
