@@ -39,7 +39,7 @@ title: Reference checklist for AI help applications
       <li>Monitor and iterate</li>
     </ul>
   </div>
+  <output id="completion-message" class="alert alert-success hidden mrgn-tp-lg" role="status" aria-live="polite">
+    <p>You've reviewed all requirements.</p>
+  </output>
 </form>
-<output id="completion-message" class="alert alert-success hidden mrgn-tp-lg" role="status" aria-live="polite">
-  <p>You've reviewed all requirements.</p>
-</output>
