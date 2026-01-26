@@ -118,8 +118,8 @@ The layered theme page is a mandatory template under the Canada.ca Specification
   <dt><time>2020-07-10</time></dt>
   <dd>
     <ul>
-      <li>Changes to doormat columns in tablet view.</li>
-      <li>Clarify social media account guidance.</li>
+      <li>Changes to doormat columns in tablet view</li>
+      <li>Clarify social media account guidance</li>
     </ul>
   </dd>
   <dt><time>2020-06-30</time></dt>
