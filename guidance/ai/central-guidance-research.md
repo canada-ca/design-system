@@ -3,7 +3,7 @@ altLangPage: https://conception.canada.ca/directives/ia/ligne-directrice-central
 date: 2026-01-15
 dateModified: 2026-01-15
 description: As the Government of Canada, we must follow all applicable laws, policies, directives and standards when communicating with the public.
-title: "Central guidance and AI research: Guidance for the design of AI help applications"
+title: "Central guidance and AI research for AI help applications"
 ---
 
 As the Government of Canada, we must follow all applicable laws, policies, directives and standards when communicating with the public. As it relates specifically to AI help applications, ensure you consult the following sources.
