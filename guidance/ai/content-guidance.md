@@ -104,7 +104,7 @@ To facilitate effective communication in multiple languages, follow this guidanc
 
 In your system prompt, instruct the AI to use official Canadian French terminology and adhere to the style found on Canada.ca for French responses.
 
-- [Canada.ca French style guide: Guide de rédaction du contenu du site Canada.ca](https://conception.canada.ca/guide-redaction/)
+- [Canada.ca French style guide: <span lang="fr">Guide de rédaction du contenu du site Canada.ca</span>](https://conception.canada.ca/guide-redaction/)
 
 ### Translation and support
 
@@ -144,7 +144,7 @@ To ensure that your AI help application does not create any unintended consequen
 Ensure you test the application for unintended biases and other harmful outputs.
 
 - Ensure that responses are generated only from trusted sources, such as Canada.ca, to minimize the risk of delivering biased or harmful information
-- Implement a content redaction system to handle inputs containing inappropriate language, see the [Privacy and security section]({{ site.url }}/guidance/ai/privacy-security.html)
+- Implement a content redaction system to handle inputs containing inappropriate language, see the [Privacy and security section](privacy-security.html)
 - The Digital Standards Playbook has more information on how to mitigate potential biases, see [Design ethical services](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards/design-ethical-services.html)
 
 ## Handling online wizards {#wizards}
