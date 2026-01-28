@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/a-propos/derniers-changements.html"
 date: 2017-10-05
-dateModified: 2026-01-29
+dateModified: 2026-01-30
 description: "Latest changes to the Canada.ca design"
 title: "Latest changes to the Canada.ca design"
 ---
@@ -11,6 +11,10 @@ title: "Latest changes to the Canada.ca design"
 </div>
 <div id="expand-collapse">
   <details open="open">
+    <summary><time datetime="2026-01-30">January 30, 2026</time></summary>
+    <p>Updated the social media channels guidance to clarify that other social media icons can be used and that icons can be rearranged.</p>
+  </details>
+  <details>
     <summary><time datetime="2026-01-29">January 29, 2026</time></summary>
     <p>Updated the <a href="{{ '/styles/typography.html' | absolute_url }}">typography page</a> to reflect that the Noto Sans Canadian Aboriginal font family has been added to Canada.ca</p>
   </details>
