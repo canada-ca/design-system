@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/a-propos/derniers-changements.html"
 date: 2017-10-05
-dateModified: 2025-12-18
+dateModified: 2026-01-29
 description: "Latest changes to the Canada.ca design"
 title: "Latest changes to the Canada.ca design"
 ---
@@ -10,6 +10,10 @@ title: "Latest changes to the Canada.ca design"
   <button type="button" class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#expand-collapse&quot;, &quot;type&quot;: &quot;off&quot;}">Collapse all</button>
 </div>
 <div id="expand-collapse">
+  <details open="open">
+    <summary><time datetime="2026-01-29">January 29, 2026</time></summary>
+    <p>Updated the <a href="{{ '/styles/typography.html' | absolute_url }}">typography page</a> to reflect that the Noto Sans Canadian Aboriginal font family has been added to Canada.ca</p>
+  </details>
   <details>
     <summary><time datetime="2025-12-18">December 18, 2025</time></summary>
     <p>Added an alert to the basic page layout to indicate that it is being decommissioned and to instead follow the the GC Design System <a href="https://design-system.alpha.canada.ca/en/page-templates/basic/">Basic page template</a>.</p>
