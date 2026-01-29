@@ -11,12 +11,9 @@ title: "Latest changes to the Canada.ca design"
 </div>
 <div id="expand-collapse">
 <details open="open">
- <summary><time datetime="2026-01-31">January 31, 2026</time></summary>
-    <p>Updated the <a href="https://design.canada.ca/common-design-patterns/images.html">images guidance</a> to include information about the appropriate use of icons.</p>
-  </details>
-  <details>
     <summary><time datetime="2026-01-30">January 30, 2026</time></summary>
     <p>Updated the social media channels guidance to clarify that other social media icons can be used and that icons can be rearranged.</p>
+    <p>Updated the <a href="https://design.canada.ca/common-design-patterns/images.html">images guidance</a> to include information about the appropriate use of icons.</p>
   </details>
   <details>
     <summary><time datetime="2025-12-18">December 18, 2025</time></summary>
