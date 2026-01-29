@@ -46,9 +46,7 @@ title: Social media channels
         <li>Vertical display includes a label next to each icon</li>
         <li>Horizontal display only includes the icons</li>
     </ul>
-    <h4>Optional link</h4>
-    <p>You can add a link with the label “More ways to connect” if you want to link to additional social media accounts or other departmental communications platforms (ie. podcasts, external magazine, etc.). The link should point to a page that lists all your social media accounts and additional ways to connect with/follow the department.</p>
-    <p>If there is more than one account from a platform:</p>
+     <p>If there is more than one account from a platform:</p>
     <ul>
         <li>Include the platform name next to its icon (vertical only)</li>
         <li>
@@ -60,6 +58,8 @@ title: Social media channels
         </li>
     </ul>
     <p>Place the social media channels after task and navigation content.</p>
+    <h4>Optional link</h4>
+    <p>You can add a link with the label “More ways to connect” if you want to link to additional social media accounts or other departmental communications platforms (ie. podcasts, external magazine, etc.). The link should point to a page that lists all your social media accounts and additional ways to connect with/follow the department.</p>
     <h3>Design specifications</h3>
     <ul>
         <li>
