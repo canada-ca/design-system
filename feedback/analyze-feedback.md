@@ -24,7 +24,6 @@ title: Methods for analyzing feedback
 * [Research questions shape analysis](#research-questions-shape-analysis)
 * [Manual analysis methods](#manual-analysis-methods)
 * [Tools for analysis](#tools-for-analysis)
-* [Machine learning pilot](#machine-learning-pilot)
 * [Include other supporting data sources](#include-other-supporting-data-sources)
 
 ## Who should analyze feedback?
@@ -191,13 +190,6 @@ For larger datasets, it’s helpful to use a tool that has more advanced functio
 * [Download a tagging strategy template](images/feedback-tagging-template.xlsx) (Excel, 61KB)
 * [Download a template to analyze page feedback and/or GC TSS feedback](https://docs.google.com/spreadsheets/d/1pcQgee6lN6P30EIMRb3o6RxcTPBiUFtsZAmbeVNpDW4/edit?usp=sharing) (Google Sheets)
 
-## Machine learning pilot
-
-For institutions that receive high volumes of feedback, we are piloting alternative methods to access and analyze feedback using data science tools.
-
-Contact the Canada.ca Experience Office if you are receiving more feedback that you can manage through manual analysis.
-
-Email: [{{ site.emails.dto }}](mailto:{{ site.emails.dto }})
 
 ## Include other supporting data sources
 
