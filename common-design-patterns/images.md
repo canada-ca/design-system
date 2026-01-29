@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/configurations-conception-communes/images.html
 date: '2018-12-19'
-dateModified: '2026-01-20'
+dateModified: '2026-01-30'
 description: Images are visual content that complement or enhance text, including photographs, graphics, drawings, or diagrams.
 title: Images and icons
 ---
@@ -99,7 +99,7 @@ Do not use icons:
 
 <dl class="dl-horizontal">
 <dt>
-<time datetime="2026-01-20" class="link-muted">2026-01-20</time>
+<time datetime="2026-01-30" class="link-muted">2026-01-30</time>
 </dt>
 <dd>Updated the images guidance to include information about the appropriate use of icons.</dd>
 </dl>
