@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/modeles-obligatoire/pages-profil-ministres.html
 date: '2021-09-27'
-dateModified: '2025-07-22'
+dateModified: '2025-12-22'
 description: null
 title: Ministerial profile pages
 ---
@@ -54,28 +54,31 @@ title: Ministerial profile pages
 
 <section>
   <h2 id="how">How to implement</h2>
-  <p>Use this template and follow the guidance:</p>
-  <div class="row mrgn-tp-lg mrgn-bttm-lg">
-    <div class="col-xs-10 col-md-8 col-lg-8">
-    <div class="gc-dwnld">
-      <div class="row">
-      <div class="col-xs-10 col-sm-3 col-lg-2">
-        <img alt="" class="thumbnail gc-dwnld-img" height="142" src="../images/ministerial-page-cropped.png" width="110">
-      </div>
-      <div class="col-xs-12 col-sm-9 col-lg-10">
-        <p class="mrgn-tp-md lead"><span>Ministerial profile page</span></p>
-        <p><a class="btn btn-call-to-action" href="../coded-layout/ministerial-profile-pages.html">Template with guidance</a></p>
-      </div>
-      </div>
-    </div>
-    </div>
-  </div>
+  <ul>
+    <li><a href="../coded-layout/ministerial-profile-pages.html">Guidance for implementation</a></li>
+  </ul>
+
+<h3>GCweb (WET) theme implementation reference</h3>
+  <ul>
+    <li><a href="https://wet-boew.github.io/GCWeb/templates/ministerial/ministerial-doc-en.html">Documentation about Ministerial profile page template
+</a></li>
+  </ul>
+
 </section>
 <section>
   <h2 id="changes">Latest changes</h2>
   <dl class="dl-horizontal">
+     <dt>
+      <time>2025-12-22</time>
+    </dt>
+    <dd>
+      <ul>
+        <li>updated guidance to clarify which elements are mandatory and optional</li>
+        <li>added guidance for secretaries of State</li>
+      </ul>
+    </dd>
     <dt>
-      <time>{{ page.dateModified }}</time>
+      <time>2025-07-22</time>
     </dt>
     <dd>
       <ul>

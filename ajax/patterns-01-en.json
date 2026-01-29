@@ -489,6 +489,15 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
+    "NAME": "<a href=\"{{ site.urlblogca }}/2025/12/17/ai-answers.html\">AI Answers: Enterprise-scale trial for Canada.ca</a>",
+    "SOURCE": "Blog post",
+    "DESCRIPTION": "Every day, thousands of people turn to the Government of Canada (GC) seeking help with essential services.",
+    "WHENTOUSE": "",
+    "CATEGORY": "",
+    "TYPE": "",
+    "MANDATORY": "",
+    "TANDP": "0"
+  }, {
     "NAME": "<a href=\"https://www.canada.ca/en/government/about/design-system/institutions-list.html\">Institutions subject to the Canada.ca design system</a>",
     "SOURCE": "Designing content",
     "DESCRIPTION": "List of Government of Canada institutions subject to the Canada.ca design system",
@@ -596,16 +605,18 @@
     "TYPE": "",
     "MANDATORY": "",
     "TANDP": "0"
-  },{
-    "NAME": "<a href=\"{{ site.url }}/specifications/mandatory-elements/domains-urls\">Domains and URLs</a>",
+  },
+  {
+    "NAME": "<a href=\"{{ site.url }}/specifications/mandatory-elements/domains-urls\">Government of Canada domains and URLs</a>",
     "SOURCE": "Mandatory elements",
-    "DESCRIPTION": "Government of Canada domains and URLs",
-    "WHENTOUSE": "Government of Canada domains and URLs",
-    "CATEGORY": "",
-    "TYPE": "",
-    "MANDATORY": "",
-    "TANDP": "0"
-  }, {
+    "DESCRIPTION": "The Canada.ca domain is the primary domain for the Government of Canada's public-facing web presence.",
+    "WHENTOUSE": "The Canada.ca domain is the primary domain for the Government of Canada's public-facing web presence.",
+    "CATEGORY": "Design pattern",
+    "TYPE": "Site-wide pattern",
+    "MANDATORY": "Mandatory",
+    "TANDP": "1"
+  },
+  {
     "NAME": "<a href=\"{{ site.url }}/specifications/design-content.html#principles\">Design principles</a>",
     "SOURCE": "Canada.ca Specifications",
     "DESCRIPTION": "Design principles of Canada.ca",
@@ -723,15 +734,6 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"{{ site.url }}/recommended-templates/generic-destination.html\">Basic page layout</a>",
-    "SOURCE": "Template and pattern library",
-    "DESCRIPTION": "The basic layout for Canada.ca pages",
-    "WHENTOUSE": "The basic layout for Canada.ca pages.",
-    "CATEGORY": "Template",
-    "TYPE": "Destination",
-    "MANDATORY": "No",
-    "TANDP": "1"
-  }, {
     "NAME": "<a href=\"{{ site.url }}/common-design-patterns/breadcrumb-trail.html\">Breadcrumb trail</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Represents the location of the current page as it stands in relation to the site’s user navigation model.",
@@ -766,15 +768,6 @@
     "CATEGORY": "",
     "TYPE": "",
     "MANDATORY": "",
-    "TANDP": "1"
-  }, {
-    "NAME": "<a href=\"{{ site.url }}/common-design-patterns/canada-dot-ca.html\">Canada.ca domain</a>",
-    "SOURCE": "Template and pattern library",
-    "DESCRIPTION": "The primary domain for the Government of Canada's public-facing web presence.",
-    "WHENTOUSE": "The primary domain for the Government of Canada's public-facing web presence.",
-    "CATEGORY": "Design pattern",
-    "TYPE": "Site-wide pattern",
-    "MANDATORY": "Mandatory",
     "TANDP": "1"
   }, {
     "NAME": "<a href=\"{{ site.url }}/common-design-patterns/carousels.html\">Carousels</a>",
@@ -941,17 +934,17 @@
   }, {
     "NAME": "<a href=\"{{ site.url }}/mandatory-templates/audience-pages.html\">Government-wide audience page</a>",
     "SOURCE": "Template and pattern library",
-    "DESCRIPTION": "Gives access to information and services relevant to a government-wide audience",
-    "WHENTOUSE": "Gives access to information and services relevant to a government-wide audience - <strong>Mandatory template</strong>",
+    "DESCRIPTION": "We’re decommissioning this pattern. Gives access to information and services relevant to a government-wide audience",
+    "WHENTOUSE": "We’re decommissioning this pattern. Gives access to information and services relevant to a government-wide audience",
     "CATEGORY": "Template",
     "TYPE": "Theme template",
-    "MANDATORY": "Mandatory",
+    "MANDATORY": "",
     "TANDP": "1"
   }, {
     "NAME": "<a href=\"{{ site.url }}/recommended-templates/guidance-legislation-pages.html\">Guidance on legislation profile page</a>",
     "SOURCE": "Template and pattern library",
-    "DESCRIPTION": "Gives access to guidance on legislation, details and related materials",
-    "WHENTOUSE": "Gives access to guidance on legislation. Gives access to details and related materials.",
+    "DESCRIPTION": "We’re decommissioning this pattern. Gives access to guidance on legislation, details and related materials",
+    "WHENTOUSE": "We’re decommissioning this pattern. Gives access to guidance on legislation. Gives access to details and related materials.",
     "CATEGORY": "Template",
     "TYPE": "Destination",
     "MANDATORY": "No",
@@ -968,8 +961,8 @@
   }, {
     "NAME": "<a href=\"{{ site.url }}/common-design-patterns/icons.html\">Icons</a>",
     "SOURCE": "Template and pattern library",
-    "DESCRIPTION": "Use as symbols to communicate actions or states",
-    "WHENTOUSE": "Use as symbols to communicate actions or states",
+    "DESCRIPTION": "We’re decommissioning this pattern. Use as symbols to communicate actions or states",
+    "WHENTOUSE": "We’re decommissioning this pattern. Use as symbols to communicate actions or states",
     "CATEGORY": "Design pattern",
     "TYPE": "Visual",
     "MANDATORY": "No",
@@ -1130,8 +1123,8 @@
   }, {
     "NAME": "<a href=\"{{ site.url }}/recommended-templates/partnering-collaborative-arrangement-profile-pages.html\">Partnering and collaborative arrangement profile page</a>",
     "SOURCE": "Template and pattern library",
-    "DESCRIPTION": "Gives an overview of the mandate and information and services of partnering or collaborative arrangement agreements",
-    "WHENTOUSE": "Gives an overview of the mandate and information and services of partnering or&nbsp;collaborative arrangement agreements",
+    "DESCRIPTION": "We’re decommissioning this template. Gives an overview of the mandate and information and services of partnering or collaborative arrangement agreements",
+    "WHENTOUSE": "We’re decommissioning this template. Gives an overview of the mandate and information and services of partnering or&nbsp;collaborative arrangement agreements",
     "CATEGORY": "Template",
     "TYPE": "Institutional",
     "MANDATORY": "No",
@@ -1139,8 +1132,8 @@
   }, {
     "NAME": "<a href=\"{{ site.url }}/recommended-templates/program-description-pages.html\">Program description page</a>",
     "SOURCE": "Template and pattern library",
-    "DESCRIPTION": "Offers details about a program and gives access to services related to the program - use to give background information about a program",
-    "WHENTOUSE": "Offers details about a program. Gives access to services related to the program. Use to give background information about a program. Don’t use to start a task.",
+    "DESCRIPTION": "We’re decommissioning this template. Offers details about a program and gives access to services related to the program - use to give background information about a program",
+    "WHENTOUSE": "We’re decommissioning this template. Offers details about a program. Gives access to services related to the program. Use to give background information about a program. Don’t use to start a task.",
     "CATEGORY": "Template",
     "TYPE": "Institutional",
     "MANDATORY": "No",
@@ -1148,8 +1141,8 @@
   }, {
     "NAME": "<a href=\"{{ site.url }}/recommended-templates/promotional-events-pages.html\">Promotional events page</a>",
     "SOURCE": "Template and pattern library",
-    "DESCRIPTION": "Describes an official government event that occurs in a promotional context, gives information such as date, time, location and target audience",
-    "WHENTOUSE": "Describes an official government event that occurs in a promotional context. Gives information such as date, time, location and target audience.",
+    "DESCRIPTION": "We’re decommissioning this pattern. Describes an official government event that occurs in a promotional context, gives information such as date, time, location and target audience",
+    "WHENTOUSE": "We’re decommissioning this pattern. Describes an official government event that occurs in a promotional context. Gives information such as date, time, location and target audience.",
     "CATEGORY": "Template",
     "TYPE": "Promotion",
     "MANDATORY": "No",
@@ -1166,8 +1159,8 @@
   }, {
     "NAME": "<a href=\"{{ site.url }}/common-design-patterns/related-links.html\">Related links</a>",
     "SOURCE": "Template and pattern library",
-    "DESCRIPTION": "A list of links to content that is related to the page",
-    "WHENTOUSE": "The related links pattern is a list of links to content that is related to the page on which it appears",
+    "DESCRIPTION": "We’re decommissioning this pattern. A list of links to content that is related to the page",
+    "WHENTOUSE": "We’re decommissioning this pattern. The related links pattern is a list of links to content that is related to the page on which it appears",
     "CATEGORY": "Design pattern",
     "TYPE": "Navigation",
     "MANDATORY": "No",
@@ -1238,8 +1231,8 @@
   }, {
     "NAME": "<a href=\"{{ site.url }}/common-design-patterns/social-media-feeds.html\">Social media feeds widget</a>",
     "SOURCE": "Template and pattern library",
-    "DESCRIPTION": "Use to embed the latest posts from official Government of Canada social media accounts",
-    "WHENTOUSE": "Use to embed the latest posts from official Government of Canada social media accounts",
+    "DESCRIPTION": "We’re decommissioning this pattern. Use to embed the latest posts from official Government of Canada social media accounts",
+    "WHENTOUSE": "We’re decommissioning this pattern. Use to embed the latest posts from official Government of Canada social media accounts",
     "CATEGORY": "Design pattern",
     "TYPE": "Institutional, Visual",
     "MANDATORY": "No",

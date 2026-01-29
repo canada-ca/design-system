@@ -1,19 +1,16 @@
 ---
 altLangPage: https://conception.canada.ca/modeles-recommandes/pages-lancement-service.html
-dateModified: '2018-12-19'
+dateModified: '2025-12-15'
 description: null
-title: "Service initiation pages template"
+title: "No longer supported: Service initiation pages template"
 ---
+<section class="alert alert-info mrgn-tp-md">
+  <h2 class="h3">Decommissioning</h2>
+  <p>We’re decommissioning this pattern and don’t recommend using it on your pages.</p>
+  <p>Consider the <a href="../common-design-patterns/subway-navigation.html">subway navigation pattern</a> for services and processes.</p>
+</section>
 
 <div>
-    <p class="gc-byline">
-        <strong>
-            From:
-            <a href="https://www.canada.ca/en/treasury-board-secretariat.html">
-                Treasury Board of Canada Secretariat
-            </a>
-        </strong>
-    </p>
     <section>
         <p>
             Service initiation pages focus on helping Canada.ca visitors start a task. For some tasks, these pages allow for task completion as well.
@@ -69,9 +66,7 @@ title: "Service initiation pages template"
                 <li>
                     Use to start tasks that support services (as defined under the
                     <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603">
-                        Policy on Service and Digital
-                    </a>
-                    )
+                        Policy on Service and Digital</a>)
                 </li>
                 <li>
                     Use to start tasks that have prerequisites to satisfy before starting the task (such as eligibility criteria or having documents or information in hand)
@@ -289,8 +284,7 @@ title: "Service initiation pages template"
                                             <li>
                                                 the
                                                 <a href="../common-design-patterns/ordered-multipage.html">
-                                                    Ordered multi-page navigation pattern
-                                                </a>
+                                                    Ordered multi-page navigation pattern</a>
                                                 is used to present service steps
                                             </li>
                                         </ul>
@@ -325,8 +319,7 @@ title: "Service initiation pages template"
                                             <li>
                                                 on pages describing eligibility criteria, consider using the
                                                 <a href="../common-design-patterns/interactive-questions.html">
-                                                    Interactive questions pattern
-                                                </a>
+                                                    Interactive questions pattern</a>
                                                 to make the requirements more easily understood
                                             </li>
                                             <li>
@@ -413,15 +406,13 @@ title: "Service initiation pages template"
                                             <li>
                                                 this component is intended to meet the
                                                 <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603">
-                                                    Policy on Service and Digital
-                                                </a>
+                                                    Policy on Service and Digital</a>
                                                 requirement to provide service standards on Canada.ca
                                             </li>
                                             <li>
                                                 the
                                                 <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28422">
-                                                    Guideline on Service Management
-                                                </a>
+                                                    Guideline on Service Management</a>
                                                 contains definitions, characteristics and examples of service standards
                                             </li>
                                         </ul>
@@ -485,9 +476,7 @@ title: "Service initiation pages template"
                                             <li>
                                                 use the
                                                 <a href="../common-design-patterns/disclaimer-overlay.html">
-                                                    Disclaimer overlay pattern
-                                                </a>
-                                                pattern
+                                                    Disclaimer overlay pattern</a>
                                             </li>
                                         </ul>
                                     </details>
@@ -530,12 +519,10 @@ title: "Service initiation pages template"
                                             <li>
                                                 use the
                                                 <a href="../common-design-patterns/buttons.html">
-                                                    Buttons
-                                                </a>
+                                                    Buttons</a>
                                                 pattern or the
                                                 <a href="../common-design-patterns/download-links.html">
-                                                    Download links
-                                                </a>
+                                                    Download links</a>
                                                 pattern
                                             </li>
                                         </ul>
@@ -563,7 +550,7 @@ title: "Service initiation pages template"
                                                 provides contact details, service standards and service status messages for all alternative channels (for example, in-person, telephone and mail options) available to access this service
                                             </li>
                                             <li>
-                                                for each alterative channel, include contact information preceded by the applicable service standard and service status messages
+                                                for each alternative channel, include contact information preceded by the applicable service standard and service status messages
                                             </li>
                                             <li>
                                                 limit service standards associated with each alternative channel to 1 or 2 sentences
@@ -632,8 +619,7 @@ title: "Service initiation pages template"
                                             <li>
                                                 go to
                                                 <a href="../common-design-patterns/ordered-multipage.html">
-                                                    Ordered multi-page navigation pattern
-                                                </a>
+                                                    Ordered multi-page navigation pattern</a>
                                                 for how to present previous/next links
                                             </li>
                                         </ul>
@@ -670,5 +656,12 @@ title: "Service initiation pages template"
                 </details>
             </figure>
         </section>
+    </section>
+    <section>
+    <h2 id="latest">Latest changes</h2>
+    <dl class="dl-horizontal">
+        <dt><time>2025-12-15</time></dt>
+        <dd>Added an alert to indicate that this pattern is scheduled for decommission.</dd>
+    </dl>
     </section>
 </div>
