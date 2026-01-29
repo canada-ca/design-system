@@ -12,7 +12,7 @@ title: "Latest changes to the Canada.ca design"
 <div id="expand-collapse">
 <details open="open">
  <summary><time datetime="2026-01-31">January 31, 2026</time></summary>
-    <p>Updated the <a href="https://design-system.alpha.canada.ca/en/page-templates/basic/">images guidance</a> to include information about the appropriate use of icons.</p>
+    <p>Updated the <a href="https://design.canada.ca/common-design-patterns/images.html">images guidance</a> to include information about the appropriate use of icons.</p>
   </details>
   <details>
     <summary><time datetime="2026-01-30">January 30, 2026</time></summary>
