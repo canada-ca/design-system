@@ -10,10 +10,11 @@ title: "Latest changes to the Canada.ca design"
   <button type="button" class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#expand-collapse&quot;, &quot;type&quot;: &quot;off&quot;}">Collapse all</button>
 </div>
 <div id="expand-collapse">
-<details open="open">
+  <details open="open">
     <summary><time datetime="2026-01-30">January 30, 2026</time></summary>
-    <p>Updated the social media channels guidance to clarify that other social media icons can be used and that icons can be rearranged.</p>
-    <p>Updated the <a href="https://design.canada.ca/common-design-patterns/images.html">images guidance</a> to include information about the appropriate use of icons.</p>
+    <p>Updated the <a href="{{ '/common-design-patterns/social-media-channels.html' | absolute_url }}">social media channels guidance</a> to clarify that other social media icons can be used and that icons can be rearranged.</p>
+    <p>Updated the <a href="{{ '/common-design-patterns/images.html' | absolute_url }}">images guidance</a> to include information about the appropriate use of icons.</p>
+    <p>Updated the <a href="{{ '/styles/typography.html' | absolute_url }}">typography page</a> to reflect that the Noto Sans Canadian Aboriginal font family has been added to Canada.ca</p>
   </details>
   <details>
     <summary><time datetime="2025-12-18">December 18, 2025</time></summary>
