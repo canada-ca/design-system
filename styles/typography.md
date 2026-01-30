@@ -37,7 +37,7 @@ Fonts must be consistent across Canada.ca pages, and should be easily readable a
 
 ## Headings for Indigenous characters and other languages
 
-Both Lato and Noto Sans support a wide variety of languages and non-latin characters; however, Noto Sans has a larger range and is designed with Canadian Indigenous fonts in mind.
+Both Lato and Noto Sans support a wide variety of languages and non-latin characters. However, Noto Sans has a larger range and is designed with Canadian Indigenous fonts in mind.
 
 The Noto Sans Canadian Aboriginal font-family is included by default in the typography of Canada.ca.
 
@@ -103,5 +103,5 @@ Underline links in an underline style that skips descenders.
   <dt><time>2025-11-21</time></dt>
   <dd>Updated to include information about how to customize typography to support additional languages</dd>
   <dt><time>2025-05-15</time></dt>
-  <dd>Updated typography specifications in tandem with alignment activities for GCWeb and GC Design System.</dd>
+  <dd>Updated typography specifications in tandem with alignment activities for GCWeb and GC Design System</dd>
 </dl>
