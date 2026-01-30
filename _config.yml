@@ -379,6 +379,30 @@
     },
     {
       "scope": {
+        "path": "guidance/ai/*.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+            "link": "https://www.canada.ca/en/government/about-canada-ca.html",
+            "title": "About Canada.ca"
+          },
+          {
+            "link": "https://design.canada.ca",
+            "title": "Design"
+          },
+          {
+            "link": "https://design.canada.ca/guidance/index.html",
+            "title": "Guidance"
+          },
+          {
+            "link": "https://design.canada.ca/guidance/ai/index.html",
+            "title": "AI help applications"
+          }
+        ]
+      }
+    },
+    {
+      "scope": {
         "path": "layout/*.md"
       },
       "values": {
