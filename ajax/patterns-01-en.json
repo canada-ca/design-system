@@ -959,19 +959,10 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"{{ site.url }}/common-design-patterns/icons.html\">Icons</a>",
+    "NAME": "<a href=\"{{ site.url }}/common-design-patterns/images.html\">Images and icons</a>",
     "SOURCE": "Template and pattern library",
-    "DESCRIPTION": "We’re decommissioning this pattern. Use as symbols to communicate actions or states",
-    "WHENTOUSE": "We’re decommissioning this pattern. Use as symbols to communicate actions or states",
-    "CATEGORY": "Design pattern",
-    "TYPE": "Visual",
-    "MANDATORY": "No",
-    "TANDP": "1"
-  }, {
-    "NAME": "<a href=\"{{ site.url }}/common-design-patterns/images.html\">Images</a>",
-    "SOURCE": "Template and pattern library",
-    "DESCRIPTION": "Use to complement or enhance text",
-    "WHENTOUSE": "Use to complement or enhance text",
+    "DESCRIPTION": "When to use images and icons and what to avoid",
+    "WHENTOUSE": "When to use images and icons and what to avoid",
     "CATEGORY": "Design pattern",
     "TYPE": "Visual",
     "MANDATORY": "No",
