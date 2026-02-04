@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/modeles-recommandes/page-erreur-404.html
 date: null
-dateModified: '2025-12-23'
+dateModified: '2026-02-05'
 description: null
 title: 404 error page template
 ---
