@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/directives/ia/liste-verification-references.html
-date: 2026-01-26
-dateModified: 2026-01-26
+date: 2026-02-09
+dateModified: 2026-02-09
 description: Use this checklist as a quick reference for all the things you must consider when creating an AI help application.
 script: /js/plugins/gc-checklist.js
 title: Reference checklist for AI help applications

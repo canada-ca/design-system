@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/directives/ia/protection-renseignements-personnels-securite.html
-date: 2026-01-26
-dateModified: 2026-01-26
+date: 2026-02-09
+dateModified: 2026-02-09
 description: Follow this privacy and security guidance to protect users and their personal information when creating AI help applications.
 title: Privacy and security for AI help applications
 ---
