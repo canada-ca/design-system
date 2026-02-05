@@ -41,7 +41,7 @@ Both Lato and Noto Sans support a wide variety of languages and non-latin charac
 
 The Noto Sans Canadian Aboriginal font-family is included by default in the typography of Canada.ca.
 
-If publishing content that has currently unsupported characters, you can choose to add a Noto Sans font package for the characters you need to both headings and paragraphs as necessary.
+When publishing content that has unsupported character types, you can choose to add a Noto Sans font package for the characters you need to both headings and paragraphs as necessary.
 
 By default, without this specific modification, the style of Canada.ca instructs the user's browser to use an available font that will display the characters correctly.
 
