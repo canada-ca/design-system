@@ -17,7 +17,7 @@ information:
     link: /research-summaries/
     description: Research done to make it easier for people to find and understand Government of Canada information and services
   - title: About Canada.ca
-    link: /about/
+    link: https://www.canada.ca/en/government/about-canada-ca.html
     description: Most requested, analytics for Canada.ca, Government of Canada contacts
   - title: Canada.ca design guidance
     link: /guidance/index.html
@@ -36,7 +36,7 @@ title: "Canada.ca design"
       {% if info.link contains 'http' %}
         <h3><a href="{{ info.link }}">{{ info.title }}</a></h3>
       {% else %}
-        <h3><a href="{{ site.url }}{{ info.link }}">{{ info.title }}</a></h3>
+        <h3><a href="{{ info.link | absolute_url }}">{{ info.title }}</a></h3>
       {% endif %}
       <p>{{ info.description }}</p>
     </div>

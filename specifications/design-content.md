@@ -6,7 +6,7 @@ description: "Templates and design patterns of the Canada.ca design."
 section-title: "Canada.ca Specifications"
 title: "Designing content on Canada.ca"
 breadcrumbs: [{
-            "link": "https://design.canada.ca/about/",
+            "link": "https://www.canada.ca/en/government/about-canada-ca.html",
             "title": "About Canada.ca"
           },
             {
@@ -91,6 +91,6 @@ breadcrumbs: [{
   </section>
   <section>
     <h2 id="help">Help improve the Canada.ca design</h2>
-    <p>When designing for Canada.ca, keep in mind that the measure of success is more than just conformity to guidelines. It is equally important to help users successfully complete their tasks. Improving the rules is encouraged. Always share your ideas to make things better with the Digital Transformation Office at <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}.</a></p>
+    <p>When designing for Canada.ca, keep in mind that the measure of success is more than just conformity to guidelines. It is equally important to help users successfully complete their tasks. Improving the rules is encouraged. Always share your ideas to make things better with the Canada.ca Experience Office at <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}.</a></p>
   </section>
 </section>

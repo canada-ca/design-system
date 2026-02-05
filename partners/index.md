@@ -7,10 +7,10 @@ css:
    - css/card.css
 date: 2020-11-20
 dateModified: 2024-01-25
-description: "The Digital Transformation Office works with federal institutions to make Canada.ca content easier to find and understand."
+description: "The Canada.ca Experience Office works with federal institutions to make Canada.ca content easier to find and understand."
 title: Working with partners to improve task success on Canada.ca
 ---
-<p>The Digital Transformation Office works with federal institutions to make Canada.ca content easier to find and understand.</p>
+<p>The Canada.ca Experience Office works with federal institutions to make Canada.ca content easier to find and understand.</p>
 <p>Our method includes working collaboratively to:</p>
 <ul>
   <li>set concrete usability targets</li>

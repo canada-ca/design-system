@@ -3,13 +3,13 @@ altLangPage: "https://conception.canada.ca/contactez-nous/merci.html"
 breadcrumbs: false
 date: null
 dateModified: 2023-04-17
-description: "Contact the Digital Transformation Office about the Canada.ca design system."
+description: "Contact the Canada.ca Experience Office about the Canada.ca design system."
 nomenu: true
 noReportProblem: true
 nositesearch: true
 script: ./gc-referrer.js
 share: false
-title: "Contact the Digital Transformation Office"
+title: "Contact the Canada.ca Experience Office"
 ---
 We’ve received your message. If you provided an email, a team member will get back to you within 5 business days.
 

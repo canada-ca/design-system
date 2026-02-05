@@ -1,0 +1,182 @@
+name: Deploy PR Preview
+
+on:
+  pull_request:
+    types:
+      - opened
+      - reopened
+      - synchronize
+      - closed
+
+# Sets permissions of the GITHUB_TOKEN to allow pushing to gh-pages
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: preview-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  deploy-preview:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        if: github.event.action != 'closed'
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2.3'
+          bundler-cache: true
+          cache-version: 0
+
+      - name: Build with Jekyll
+        if: github.event.action != 'closed'
+        run: bundle exec jekyll build --config _config.yml,_config.staging.yml --baseurl "/pr-preview/pr-${{ github.event.number }}"
+        env:
+          JEKYLL_ENV: production
+
+      - name: Deploy PR Preview
+        uses: rossjrw/pr-preview-action@v1
+        with:
+          source-dir: ./_site
+          preview-branch: gh-pages
+          umbrella-dir: pr-preview
+          action: auto
+          comment: false
+
+      - name: Update PR description with preview
+        if: github.event.action != 'closed'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const previewUrl = `https://design.canada.ca/pr-preview/pr-${{ github.event.number }}/`;
+            const commitUrl = `https://github.com/${{ github.repository }}/commit/${{ github.event.pull_request.head.sha }}`;
+
+            // Fetch all files changed in the PR (across all commits)
+            const prFiles = await github.paginate(github.rest.pulls.listFiles, {
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: context.issue.number,
+              per_page: 100,
+            });
+            const changedFiles = prFiles.map(f => f.filename);
+
+            let filesList = '';
+            if (changedFiles.length > 0 && changedFiles[0] !== '') {
+              filesList = changedFiles.slice(0, 10).map(file =>
+                `- [${file}](https://github.com/${{ github.repository }}/blob/${{ github.event.pull_request.head.sha }}/${file})`
+              ).join('\n');
+              if (changedFiles.length > 10) {
+                filesList += `\n- *...and ${changedFiles.length - 10} more files*`;
+              }
+            } else {
+              filesList = '*No content files changed*';
+            }
+
+            // Generate preview links for modified HTML and MD files (exclude _includes/ and _layouts/)
+            const htmlMdFiles = changedFiles.filter(file =>
+              (file.endsWith('.md') || file.endsWith('.html')) &&
+              !file.startsWith('_includes/') && !file.startsWith('_layouts/')
+            );
+
+            let previewLinks = '';
+            if (htmlMdFiles.length > 0) {
+              previewLinks = htmlMdFiles.slice(0, 10).map(file => {
+                let previewPath = file;
+                // Convert .md files to their preview path (remove .md extension)
+                if (file.endsWith('.md')) {
+                  previewPath = file.replace(/\/index\.md$/, '/').replace(/\.md$/, '.html');
+                }
+                const previewFile = `https://design.canada.ca/pr-preview/pr-${{ github.event.number }}/${previewPath}`;
+                return `- [${file}](${previewFile})`;
+              }).join('<br>');
+              if (htmlMdFiles.length > 10) {
+                previewLinks += `<br>- *...and ${htmlMdFiles.length - 10} more files*`;
+              }
+            } else {
+              previewLinks = `- [View preview](${previewUrl})`;
+            }
+
+            // Filter for other files changed (CSS, JS, YAML, JSON, images, and HTML from _includes/_layouts)
+            const otherFiles = changedFiles.filter(file =>
+              /\.(css|js|ya?ml|json|png|jpg|jpeg|gif|svg|webp)$/i.test(file) ||
+              (file.endsWith('.html') && (file.startsWith('_includes/') || file.startsWith('_layouts/')))
+            ).slice(0, 10);
+
+            let otherFilesContent = '';
+            if (otherFiles.length > 0) {
+              otherFilesContent = otherFiles.map(file =>
+                `- [${file}](https://github.com/${{ github.repository }}/blob/${{ github.event.pull_request.head.sha }}/${file})`
+              ).join('<br>');
+              if (changedFiles.length > otherFiles.length + htmlMdFiles.length) {
+                const remaining = changedFiles.length - otherFiles.length - htmlMdFiles.length;
+                otherFilesContent += `<br>- *...and ${remaining} more files*`;
+              }
+            }
+
+            // Get current PR body
+            const { data: pr } = await github.rest.pulls.get({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: context.issue.number,
+            });
+
+            let currentBody = pr.body || '';
+
+            // Extract existing alternate language PR link if present
+            let alternateLangLink = 'TBD';
+            const previewMarker = '## Alternate language PR';
+            const markerIndex = currentBody.indexOf(previewMarker);
+            if (markerIndex !== -1) {
+              const afterMarker = currentBody.substring(markerIndex + previewMarker.length);
+              const nextSectionIndex = afterMarker.indexOf('\n---');
+              if (nextSectionIndex !== -1) {
+                const linkLine = afterMarker.substring(0, nextSectionIndex).trim();
+                if (linkLine && linkLine !== 'TBD') {
+                  alternateLangLink = linkLine;
+                }
+              }
+              currentBody = currentBody.substring(0, markerIndex).trim();
+            }
+
+            const previewSection = `## Alternate language PR\n${alternateLangLink}\n\n---\n\n## 🚀 PR Preview\n\n| Name | Link(s) |\n|------|------|\n| **Latest commit** | [${context.payload.pull_request.head.sha.substring(0, 7)}](${commitUrl}) |\n| **Page preview** | ${previewLinks} |${otherFilesContent ? `\n| **Other changed files** | ${otherFilesContent} |` : ''}\n\n---\n*<small>Preview updates automatically with each commit*</small>`;
+
+            // Update PR description
+            await github.rest.pulls.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: context.issue.number,
+              body: currentBody + previewSection
+            });
+
+      - name: Remove preview from PR description
+        if: github.event.action == 'closed'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            // Get current PR body
+            const { data: pr } = await github.rest.pulls.get({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: context.issue.number,
+            });
+
+            let currentBody = pr.body || '';
+
+            // Remove preview section if present
+            const previewMarker = '## Alternate language PR';
+            const markerIndex = currentBody.indexOf(previewMarker);
+            if (markerIndex !== -1) {
+              currentBody = currentBody.substring(0, markerIndex).trim();
+
+              // Update PR description
+              await github.rest.pulls.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: context.issue.number,
+                body: currentBody
+              });
+            }

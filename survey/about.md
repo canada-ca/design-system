@@ -109,7 +109,7 @@ title: "       About Canada.ca"
        </a>
       </h3>
       <p>
-       Projects the Digital Transformation Office is working on with departmental partners to make Canada.ca work better for people.
+       Projects the Canada.ca Experience Office is working on with departmental partners to make Canada.ca work better for people.
       </p>
      </section>
     </div>
@@ -150,7 +150,7 @@ title: "       About Canada.ca"
      <section>
       <h3 class="h5">
        <a href="/en/government/about/about-digital-transformation-office.html">
-        Digital Transformation Office
+        Canada.ca Experience Office
        </a>
       </h3>
       <p>
