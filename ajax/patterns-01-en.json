@@ -489,6 +489,15 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
+    "NAME": "<a href=\"{{ site.urlblogca }}/2025/12/17/ai-answers.html\">AI Answers: Enterprise-scale trial for Canada.ca</a>",
+    "SOURCE": "Blog post",
+    "DESCRIPTION": "Every day, thousands of people turn to the Government of Canada (GC) seeking help with essential services.",
+    "WHENTOUSE": "",
+    "CATEGORY": "",
+    "TYPE": "",
+    "MANDATORY": "",
+    "TANDP": "0"
+  }, {
     "NAME": "<a href=\"https://www.canada.ca/en/government/about/design-system/institutions-list.html\">Institutions subject to the Canada.ca design system</a>",
     "SOURCE": "Designing content",
     "DESCRIPTION": "List of Government of Canada institutions subject to the Canada.ca design system",
@@ -533,77 +542,7 @@
     "TYPE": "",
     "MANDATORY": "",
     "TANDP": "0"
-  },{
-    "NAME": "<a href=\"{{ site.url }}/guidance/ai/index.html\">Guidance for the design of AI help applications on Canada.ca</a>",
-    "SOURCE": "AI help application guidance",
-    "DESCRIPTION": "Central guidance and AI research, design and content guidance, privacy and security, iterative design, reference checklist",
-    "WHENTOUSE": "Central guidance and AI research, design and content guidance, privacy and security, iterative design, reference checklist",
-    "CATEGORY": "",
-    "TYPE": "",
-    "MANDATORY": "",
-    "TANDP": "1"
-  },
-  {
-    "NAME": "<a href=\"{{ site.url }}/guidance/ai/central-guidance-research.html\">Central guidance and AI research for AI help applications</a>",
-    "SOURCE": "AI help application guidance",
-    "DESCRIPTION": "As the Government of Canada, we must follow all applicable laws, policies, directives and standards when communicating with the public.",
-    "WHENTOUSE": "As the Government of Canada, we must follow all applicable laws, policies, directives and standards when communicating with the public.",
-    "CATEGORY": "",
-    "TYPE": "",
-    "MANDATORY": "",
-    "TANDP": "1"
-  }, 
-  {
-    "NAME": "<a href=\"{{ site.url }}/guidance/ai/design-guidance.html\">Design guidance for AI help applications</a>",
-    "SOURCE": "AI help application guidance",
-    "DESCRIPTION": "Use this guidance to provide a consistent experience with AI help applications across Canada.ca.",
-    "WHENTOUSE": "Use this guidance to provide a consistent experience with AI help applications across Canada.ca.",
-    "CATEGORY": "",
-    "TYPE": "",
-    "MANDATORY": "",
-    "TANDP": "1"
-  },
-  {
-    "NAME": "<a href=\"{{ site.url }}/guidance/ai/content-guidance.html\">Content guidance for AI help applications</a>",
-    "SOURCE": "AI help application guidance",
-    "DESCRIPTION": "Follow this content guidance to create a consistent experience for Canada.ca visitors.",
-    "WHENTOUSE": "Follow this content guidance to create a consistent experience for Canada.ca visitors.",
-    "CATEGORY": "",
-    "TYPE": "",
-    "MANDATORY": "",
-    "TANDP": "1"
-  },
-  {
-    "NAME": "<a href=\"{{ site.url }}/guidance/ai/privacy-security.html\">Privacy and security</a>",
-    "SOURCE": "AI help application guidance",
-    "DESCRIPTION": "Follow this privacy and security guidance to protect users and their personal information when creating AI help applications.",
-    "WHENTOUSE": "Follow this privacy and security guidance to protect users and their personal information when creating AI help applications.",
-    "CATEGORY": "",
-    "TYPE": "",
-    "MANDATORY": "",
-    "TANDP": "1"
-  },
-  {
-    "NAME": "<a href=\"{{ site.url }}/guidance/ai/iterative-design.html\">Iterative design for AI help applications</a>",
-    "SOURCE": "AI help application guidance",
-    "DESCRIPTION": "Learning and feedback are crucial for successful agile service development. Use this guidance to test and iterate your AI help application.",
-    "WHENTOUSE": "Learning and feedback are crucial for successful agile service development. Use this guidance to test and iterate your AI help application.",
-    "CATEGORY": "",
-    "TYPE": "",
-    "MANDATORY": "",
-    "TANDP": "1"
-  },
-  {
-    "NAME": "<a href=\"{{ site.url }}/guidance/ai/reference-checklist.html\">Reference checklist for AI help applications</a>",
-    "SOURCE": "AI help application guidance",
-    "DESCRIPTION": "Use this checklist as a quick reference for all the things you must consider when creating an AI help application.",
-    "WHENTOUSE": "Use this checklist as a quick reference for all the things you must consider when creating an AI help application.",
-    "CATEGORY": "",
-    "TYPE": "",
-    "MANDATORY": "",
-    "TANDP": "1"
-  },
-  {
+  }, {
     "NAME": "<a href=\"{{ site.url }}/guidance/closed-programs.html\">Adding content for closed programs or services</a>",
     "SOURCE": "Designing content",
     "DESCRIPTION": "How to update content for closed programs or services",
@@ -612,41 +551,39 @@
     "TYPE": "",
     "MANDATORY": "",
     "TANDP": "1"
-  }, 
-  {
-    "NAME": "<a href=\"{{ site.url }}/guidance/ai/index.html\">Guidance for the design of AI help applications on Canada.ca</a>",
-    "SOURCE": "AI help application guidance",
-    "DESCRIPTION": "Central guidance and AI research, design and content guidance, privacy and security, iterative design, reference checklist",
-    "WHENTOUSE": "Central guidance and AI research, design and content guidance, privacy and security, iterative design, reference checklist",
-    "CATEGORY": "",
-    "TYPE": "",
-    "MANDATORY": "",
-    "TANDP": "1"
   },
   {
-    "NAME": "<a href=\"{{ site.url }}/guidance/ai/central-guidance-research.html\">Central guidance and AI research for AI help applications</a>",
-    "SOURCE": "AI help application guidance",
-    "DESCRIPTION": "As the Government of Canada, we must follow all applicable laws, policies, directives and standards when communicating with the public.",
-    "WHENTOUSE": "As the Government of Canada, we must follow all applicable laws, policies, directives and standards when communicating with the public.",
-    "CATEGORY": "",
-    "TYPE": "",
-    "MANDATORY": "",
-    "TANDP": "1"
-  }, 
-  {
-    "NAME": "<a href=\"{{ site.url }}/guidance/ai/design-guidance.html\">Design guidance for AI help applications</a>",
-
-    "SOURCE": "AI help application guidance",
-    "DESCRIPTION": "Use this guidance to provide a consistent experience with AI help applications across Canada.ca.",
-    "WHENTOUSE": "Use this guidance to provide a consistent experience with AI help applications across Canada.ca.",
-    "CATEGORY": "",
-    "TYPE": "",
-    "MANDATORY": "",
-    "TANDP": "1"
-  },
+  "NAME": "<a href=\"{{ site.url }}/guidance/ai/index.html\">Guidance for the design of AI help applications on Canada.ca</a>",
+  "SOURCE": "AI help application guidance",
+  "DESCRIPTION": "Central guidance and AI research, design and content guidance, privacy and security, iterative design, reference checklist",
+  "WHENTOUSE": "Central guidance and AI research, design and content guidance, privacy and security, iterative design, reference checklist",
+  "CATEGORY": "",
+  "TYPE": "",
+  "MANDATORY": "",
+  "TANDP": "1"
+},
+{
+  "NAME": "<a href=\"{{ site.url }}/guidance/ai/central-guidance-research.html\">Central guidance and AI research for AI help applications</a>",
+  "SOURCE": "AI help application guidance",
+  "DESCRIPTION": "As the Government of Canada, we must follow all applicable laws, policies, directives and standards when communicating with the public.",
+  "WHENTOUSE": "As the Government of Canada, we must follow all applicable laws, policies, directives and standards when communicating with the public.",
+  "CATEGORY": "",
+  "TYPE": "",
+  "MANDATORY": "",
+  "TANDP": "1"
+}, 
+{
+  "NAME": "<a href=\"{{ site.url }}/guidance/ai/design-guidance.html\">Design guidance for AI help applications</a>",
+  "SOURCE": "AI help application guidance",
+  "DESCRIPTION": "Use this guidance to provide a consistent experience with AI help applications across Canada.ca.",
+  "WHENTOUSE": "Use this guidance to provide a consistent experience with AI help applications across Canada.ca.",
+  "CATEGORY": "",
+  "TYPE": "",
+  "MANDATORY": "",
+  "TANDP": "1"
+},
   {
     "NAME": "<a href=\"{{ site.url }}/guidance/ai/content-guidance.html\">Content guidance for AI help applications</a>",
-
     "SOURCE": "AI help application guidance",
     "DESCRIPTION": "Follow this content guidance to create a consistent experience for Canada.ca visitors.",
     "WHENTOUSE": "Follow this content guidance to create a consistent experience for Canada.ca visitors.",
@@ -684,9 +621,8 @@
     "TYPE": "",
     "MANDATORY": "",
     "TANDP": "1"
-  },
-  {
-    "NAME": "<a href=\"{{ site.urlblogca }}/2022/07/28/news-releases\">Using alerts to keep news releases and web content in sync</a>",
+  },{
+    "NAME": "<a href=\"{{ site.urlblogca }}/2022/07/28/news-releases\">Using alerts to keep news releases and web content in syn</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "Use a temporary alert to synchronize communications when you can’t update web content at the same time a news release is published.",
     "WHENTOUSE": "Use a temporary alert to synchronize communications when you can’t update web content at the same time a news release is published.",
@@ -739,16 +675,18 @@
     "TYPE": "",
     "MANDATORY": "",
     "TANDP": "0"
-  },{
-    "NAME": "<a href=\"{{ site.url }}/specifications/mandatory-elements/domains-urls\">Domains and URLs</a>",
+  },
+  {
+    "NAME": "<a href=\"{{ site.url }}/specifications/mandatory-elements/domains-urls\">Government of Canada domains and URLs</a>",
     "SOURCE": "Mandatory elements",
-    "DESCRIPTION": "Government of Canada domains and URLs",
-    "WHENTOUSE": "Government of Canada domains and URLs",
-    "CATEGORY": "",
-    "TYPE": "",
-    "MANDATORY": "",
-    "TANDP": "0"
-  }, {
+    "DESCRIPTION": "The Canada.ca domain is the primary domain for the Government of Canada's public-facing web presence.",
+    "WHENTOUSE": "The Canada.ca domain is the primary domain for the Government of Canada's public-facing web presence.",
+    "CATEGORY": "Design pattern",
+    "TYPE": "Site-wide pattern",
+    "MANDATORY": "Mandatory",
+    "TANDP": "1"
+  },
+  {
     "NAME": "<a href=\"{{ site.url }}/specifications/design-content.html#principles\">Design principles</a>",
     "SOURCE": "Canada.ca Specifications",
     "DESCRIPTION": "Design principles of Canada.ca",
@@ -866,15 +804,6 @@
     "MANDATORY": "",
     "TANDP": "0"
   }, {
-    "NAME": "<a href=\"{{ site.url }}/recommended-templates/generic-destination.html\">Basic page layout</a>",
-    "SOURCE": "Template and pattern library",
-    "DESCRIPTION": "The basic layout for Canada.ca pages",
-    "WHENTOUSE": "The basic layout for Canada.ca pages.",
-    "CATEGORY": "Template",
-    "TYPE": "Destination",
-    "MANDATORY": "No",
-    "TANDP": "1"
-  }, {
     "NAME": "<a href=\"{{ site.url }}/common-design-patterns/breadcrumb-trail.html\">Breadcrumb trail</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Represents the location of the current page as it stands in relation to the site’s user navigation model.",
@@ -909,15 +838,6 @@
     "CATEGORY": "",
     "TYPE": "",
     "MANDATORY": "",
-    "TANDP": "1"
-  }, {
-    "NAME": "<a href=\"{{ site.url }}/common-design-patterns/canada-dot-ca.html\">Canada.ca domain</a>",
-    "SOURCE": "Template and pattern library",
-    "DESCRIPTION": "The primary domain for the Government of Canada's public-facing web presence.",
-    "WHENTOUSE": "The primary domain for the Government of Canada's public-facing web presence.",
-    "CATEGORY": "Design pattern",
-    "TYPE": "Site-wide pattern",
-    "MANDATORY": "Mandatory",
     "TANDP": "1"
   }, {
     "NAME": "<a href=\"{{ site.url }}/common-design-patterns/carousels.html\">Carousels</a>",
@@ -1109,19 +1029,10 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"{{ site.url }}/common-design-patterns/icons.html\">Icons</a>",
+    "NAME": "<a href=\"{{ site.url }}/common-design-patterns/images.html\">Images and icons</a>",
     "SOURCE": "Template and pattern library",
-    "DESCRIPTION": "We’re decommissioning this pattern. Use as symbols to communicate actions or states",
-    "WHENTOUSE": "We’re decommissioning this pattern. Use as symbols to communicate actions or states",
-    "CATEGORY": "Design pattern",
-    "TYPE": "Visual",
-    "MANDATORY": "No",
-    "TANDP": "1"
-  }, {
-    "NAME": "<a href=\"{{ site.url }}/common-design-patterns/images.html\">Images</a>",
-    "SOURCE": "Template and pattern library",
-    "DESCRIPTION": "Use to complement or enhance text",
-    "WHENTOUSE": "Use to complement or enhance text",
+    "DESCRIPTION": "When to use images and icons and what to avoid",
+    "WHENTOUSE": "When to use images and icons and what to avoid",
     "CATEGORY": "Design pattern",
     "TYPE": "Visual",
     "MANDATORY": "No",
