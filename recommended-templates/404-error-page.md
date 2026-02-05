@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/modeles-recommandes/page-erreur-404.html
 date: null
 dateModified: '2026-02-05'
-description: null
+description: A 404 error is generated when someone tries to access a page that cannot be found.
 title: 404 error page template
 ---
 <p>A 404 error is generated when someone tries to access a page that cannot be found.</p>
