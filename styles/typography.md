@@ -37,9 +37,7 @@ Fonts must be consistent across Canada.ca pages, and should be easily readable a
 
 ## Headings for Indigenous characters and other languages
 
-Both Lato and Noto Sans support a wide variety of languages and non-latin characters. However, Noto Sans has a larger range and is designed with Canadian Indigenous fonts in mind.
-
-The Noto Sans Canadian Aboriginal font-family is included by default in the typography of Canada.ca.
+Both Lato and Noto Sans support a wide variety of languages and non-latin characters. However, Noto Sans has a larger range of additional font families for character support than can be added to specific content. The Noto Sans Canadian Aboriginal font-family is included by default in the typography of Canada.ca.
 
 When publishing content in any other languages, if Lato does not support the characters for the headings, you can add the Noto Sans font package for the characters you need for the content.
 
