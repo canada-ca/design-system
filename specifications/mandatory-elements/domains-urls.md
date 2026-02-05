@@ -6,7 +6,7 @@ description: null
 title: Government of Canada domains and URLs
 section-title: "Canada.ca design"
 breadcrumbs: [{
-            "link": "https://design.canada.ca/about/",
+            "link": "https://www.canada.ca/en/government/about-canada-ca.html",
             "title": "About Canada.ca"
           },
             {

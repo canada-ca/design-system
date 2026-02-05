@@ -7,7 +7,7 @@ keywords: "metadata, what is metadata, keywords, keyword research, findability"
 section-title: "IA and findability"
 title: "Improving titles and metadata for findability"
 breadcrumbs: [{
-            "link": "https://design.canada.ca/about/",
+            "link": "https://www.canada.ca/en/government/about-canada-ca.html",
             "title": "About Canada.ca"
           },
             {

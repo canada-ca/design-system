@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/a-propos/derniers-changements.html"
 date: 2017-10-05
-dateModified: 2025-12-18
+dateModified: 2026-01-30
 description: "Latest changes to the Canada.ca design"
 title: "Latest changes to the Canada.ca design"
 ---
@@ -10,13 +10,19 @@ title: "Latest changes to the Canada.ca design"
   <button type="button" class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#expand-collapse&quot;, &quot;type&quot;: &quot;off&quot;}">Collapse all</button>
 </div>
 <div id="expand-collapse">
-<details open="open">
-    <summary><time datetime="2025-12-18">December 18, 2025</time></summary>
-    <p>Added an alert to the <a href="{{ site.url }}/recommended-templates/generic-destination.html">basic page layout</a> to indicate that it is being decommissioned and to instead follow the the GC Design System <a href="https://design-system.alpha.canada.ca/en/page-templates/basic/">Basic page template</a>.</p>
+  <details open="open">
+    <summary><time datetime="2026-01-30">January 30, 2026</time></summary>
+    <p>Updated the <a href="{{ '/common-design-patterns/social-media-channels.html' | absolute_url }}">social media channels guidance</a> to clarify that other social media icons can be used and that icons can be rearranged.</p>
+    <p>Updated the <a href="{{ '/common-design-patterns/images.html' | absolute_url }}">images guidance</a> to include information about the appropriate use of icons.</p>
+    <p>Updated the <a href="{{ '/styles/typography.html' | absolute_url }}">typography page</a> to reflect that the Noto Sans Canadian Aboriginal font family has been added to Canada.ca</p>
   </details>
-<details>
+  <details>
+    <summary><time datetime="2025-12-18">December 18, 2025</time></summary>
+    <p>Added an alert to the basic page layout to indicate that it is being decommissioned and to instead follow the the GC Design System <a href="https://design-system.alpha.canada.ca/en/page-templates/basic/">Basic page template</a>.</p>
+  </details>
+  <details>
     <summary><time datetime="2025-12-17">December 17, 2025</time></summary>
-    <p>Added an alert to the <a href="{{ site.url }}/common-design-patterns/carousels.html">carousels design pattern</a> to indicate that it is being decommissioned. We’ve done research that has shown carousels aren’t an effective promotional tool. For more information, read this blog post:</p> 
+    <p>Added an alert to the <a href="{{ site.url }}/common-design-patterns/carousels.html">carousels design pattern</a> to indicate that it is being decommissioned. We’ve done research that has shown carousels aren’t an effective promotional tool. For more information, read this blog post:</p>
       <ul>
       <li><a href="https://blog.canada.ca/2021/10/08/promotional-carousels.html">Avoid promotional carousels, improve web content</a></li>
     </ul>

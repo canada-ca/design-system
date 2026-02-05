@@ -187,7 +187,7 @@ title: "GC Feedback"
         <p>This is useful when you want to download feedback for multiple pages at the same time.</p>
         <p>Consider including this value when you're adding the feedback tool to multiple pages on the same topic, such as “passports” or “employment insurance”.</p>
         <p>This is a unilingual value - enter the English section value to your English and French pages.</p>
-        <p>If you would like to add a new section value that is not currently in the Feedback Viewer, contact the Digital Transformation Office. We will add the new section value into the Feedback Viewer.</p>
+        <p>If you would like to add a new section value that is not currently in the Feedback Viewer, contact the Canada.ca Experience Office. We will add the new section value into the Feedback Viewer.</p>
         <p>Email: <a href="maito:{{ site.emails.dto }}">{{ site.emails.dto }}</a></p>
         <h4><span class="label label-warning">Optional</span> Contact link</h4>
         <p><strong>Only consider adding a contact link if</strong> you have tried to make the page content clearer for how to contact the program or service and users are still using the feedback tool to get a response for their situation.</p>
@@ -205,61 +205,7 @@ title: "GC Feedback"
         <ul>
           <li><a href="https://wet-boew.github.io/GCWeb/sites/feedback/feedback-docs-en.html#variations">Feedback area - Documentation</a></li>
         </ul>
-        <h4>Add the mandatory hidden values</h4>
-        <p>Update the data attribute for the institutional acronym. This is a unilingual value - enter the English value to your English and French pages.</p>
-        <h5>Canada.ca institutional acronyms</h5>
-        <ul>
-          <li>AAFC</li>
-          <li>ATSSC</li>
-          <li>CATSA</li>
-          <li>CFIA</li>
-          <li>CIRNAC</li>
-          <li>NSERC</li>
-          <li>CBSA</li>
-          <li>CCG</li>
-          <li>CGC</li>
-          <li>CIHR</li>
-          <li>CIPO</li>
-          <li>CRA</li>
-          <li>CRTC</li>
-          <li>CSA</li>
-          <li>CSEC</li>
-          <li>CSPS</li>
-          <li>DFO</li>
-          <li>DND</li>
-          <li>ECCC</li>
-          <li>ESDC</li>
-          <li>FCAC</li>
-          <li>FIN</li>
-          <li>GAC</li>
-          <li>HC</li>
-          <li>INFC</li>
-          <li>IRCC</li>
-          <li>ISC</li>
-          <li>ISED</li>
-          <li>JUS</li>
-          <li>LAC</li>
-          <li>NFB</li>
-          <li>NRC</li>
-          <li>NRCan</li>
-          <li>OSB</li>
-          <li>PBC</li>
-          <li>PC</li>
-          <li>PCH</li>
-          <li>PCO</li>
-          <li>PHAC</li>
-          <li>PS</li>
-          <li>PSC</li>
-          <li>SSC</li>
-          <li>PSPC</li>
-          <li>RCMP</li>
-          <li>StatCan</li>
-          <li>TBS</li>
-          <li>TC</li>
-          <li>VAC</li>
-          <li>WAGE</li>
-          <li>WD</li>
-        </ul>
+      
         <h4><span class="label label-primary">Recommended</span> Add a "theme" hidden value in the feedback code</h4>
         <p>This is useful when you want to download feedback for an entire theme of pages at the same time.</p>
         <p>In most cases, you should include the Canada.ca theme for your content (full list below).</p>
@@ -286,13 +232,13 @@ title: "GC Feedback"
           <li>Travel</li>
           <li>Veterans</li>
         </ul>
-        <p>If you would like to add a new theme value that is not currently in the Feedback Viewer, contact the Digital Transformation Office. We will add the new theme value into the Feedback Viewer.</p>
+        <p>If you would like to add a new theme value that is not currently in the Feedback Viewer, contact the Canada.ca Experience Office. We will add the new theme value into the Feedback Viewer.</p>
         <p>Email: <a href="maito:{{ site.emails.dto }}">{{ site.emails.dto }}</a></p>
         <h4><span class="label label-warning">Optional</span> Add a “section” hidden value in the feedback code</h4>
         <p>This is useful when you want to download feedback for multiple pages at the same time.</p>
         <p>Consider including this value when you're adding the feedback tool to multiple pages on the same topic, such as “passports” or “employment insurance”.</p>
         <p>This is a unilingual value - enter the English section value to your English and French pages.</p>
-        <p>If you would like to add a new section value that is not currently in the Feedback Viewer, contact the Digital Transformation Office. We will add the new section value into the Feedback Viewer.</p>
+        <p>If you would like to add a new section value that is not currently in the Feedback Viewer, contact the Canada.ca Experience Office. We will add the new section value into the Feedback Viewer.</p>
         <p>Email: <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a></p>
         <h4><span class="label label-warning">Optional</span> Contact link</h4>
         <p><strong>Only consider adding a contact link if</strong> you have tried to make the page content clearer for how to contact the program or service and users are still using the feedback tool to get a response for their situation.</p>

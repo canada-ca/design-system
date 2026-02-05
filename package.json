@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/canada-ca/design-system#readme",
   "devDependencies": {
-    "vnu-jar": "^24.10.17"
+    "vnu-jar": "^26.1.11"
   }
 }

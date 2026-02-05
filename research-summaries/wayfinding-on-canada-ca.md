@@ -8,7 +8,7 @@ title: "Wayfinding on Canada.ca"
 ---
 <p>Date: December 21, 2022</p>
 <p>Government departments and agencies are adopting the Canada.ca design to enhance trust and ease of use through a consistent experience. The design includes core brand elements and navigation patterns. Users need to be able to quickly recognize official government information and services to avoid fraudulent sites. They also need intuitive patterns to navigate and get their tasks done.</p>
-<p>One of the core brand elements is the global header, which includes a theme and topic menu. This menu has several pain points. The Digital Transformation Office (DTO) conducted a set of studies to understand  the role and impact of the menu on in-site navigation.</p>
+<p>One of the core brand elements is the global header, which includes a theme and topic menu. This menu has several pain points. The Canada.ca Experience Office (CEO) conducted a set of studies to understand  the role and impact of the menu on in-site navigation.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
     <figure role="group"> <img alt="A long description can be found after the image." src="/research-summaries/images/rs-wayfinding-gh-01-en.png" class="img-responsive" />
@@ -223,7 +223,7 @@ title: "Wayfinding on Canada.ca"
   <li><a href="https://blog.canada.ca/pages/project-overview.html">Improving content on Canada.ca</a><br>
     a list of other projects we have done with our partners</li>
 </ul>
-<h2 id="connect">Connect with the Digital Transformation Office</h2>
+<h2 id="connect">Connect with the Canada.ca Experience Office</h2>
 <p>Connect with us if you have questions or would like to see the detailed research findings from this project or the trust study.</p>
 <ul>
   <li>Email: <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a></li>
