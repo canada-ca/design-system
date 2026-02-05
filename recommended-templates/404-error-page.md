@@ -161,7 +161,7 @@ title: 404 error page template
   <h3>GCweb (WET) theme implementation reference</h3>
   <p>The implementation reference includes how to configure the 404 error page.</p>
   <ul>
-      <li><a href="https://wet-boew.github.io/GCWeb/templates/servermessage/servermessage-doc-en.html#variations">Server error message documentation - GCWeb (WET)</a></li>
+      <li><a href="https://wet-boew.github.io/GCWeb/templates/servermessage/servermessage-doc-en.html">Server error message documentation - GCWeb (WET)</a></li>
      
   </ul>
   </section>
