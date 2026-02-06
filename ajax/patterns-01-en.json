@@ -733,7 +733,16 @@
     "TYPE": "",
     "MANDATORY": "",
     "TANDP": "0"
-  }, {
+  },{
+    "NAME": "<a href=\"{{ site.url }}/recommended-templates/404-error-page.html\">404 error page</a>",
+    "SOURCE": "Template and pattern library",
+    "DESCRIPTION": "A 404 error is generated when someone tries to access a page that cannot be found.",
+    "WHENTOUSE": "Use this template in instances where a requested page cannot be found.",
+    "CATEGORY": "Template",
+    "TYPE": "Interaction, Navigation, Site-wide pattern",
+    "MANDATORY": "No",
+    "TANDP": "1"
+  },{
     "NAME": "<a href=\"{{ site.url }}/common-design-patterns/breadcrumb-trail.html\">Breadcrumb trail</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Represents the location of the current page as it stands in relation to the site’s user navigation model.",
