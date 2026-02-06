@@ -45,7 +45,7 @@ title: 404 error page template
         <ul>
             <li>suggest they check the spelling of the web address (URL)</li>
             <li>explain that they should remove special characters or spaces in the URL</li>
-            <li>If it exists, provide a way to report the broken link</li>
+            <li>if it exists, provide a way to report the broken link</li>
         </ul>
     <p>Include the text "You may be looking for:" followed by a bulleted list of no more than 10 links. At the top of the list include these three common pages on Canada.ca:</p>
         <ul>
