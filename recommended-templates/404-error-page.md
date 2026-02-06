@@ -98,7 +98,7 @@ title: 404 error page template
     </ul>
     <p>Because language preference isn't known, limit the elements in the header and footer to the following:</p>
     <ul>
-        <li>In the global header, include only the Government of Canada signature with a link to the Canada.ca splash page</li>
+        <li>in the global header, include only the Government of Canada signature with a link to the Canada.ca splash page</li>
         <li>in the global footer, include only the Canada wordmark</li>
     </ul>
     <h4>Interactions</h4>
