@@ -94,7 +94,7 @@ title: 404 error page template
     <p>Use the following layouts for the bilingual version:</p>
     <ul>
         <li>two columns with all English content to the left and all French content to the right in large and medium screens</li>
-        <li>A single column with all content stacked in small screens</li>
+        <li>a single column with all content stacked in small screens</li>
     </ul>
     <p>Because language preference isn't known, limit the elements in the header and footer to the following:</p>
     <ul>
