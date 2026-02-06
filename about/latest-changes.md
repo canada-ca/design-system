@@ -22,7 +22,7 @@ title: "Latest changes to the Canada.ca design"
   </details>
   <details>
     <summary><time datetime="2025-12-23">December 23, 2025</time></summary>
-    <p>Updated the <a href="{{ '/mandatory-templates/ministerial-profile-pages.html' | absolute_url }}">ministerial profile pages guidanc</a> to clarify which elements are mandatory and which are optional. Added guidance for secretaries of State.</p>
+    <p>Updated the <a href="{{ '/mandatory-templates/ministerial-profile-pages.html' | absolute_url }}">ministerial profile pages guidance</a> to clarify which elements are mandatory and which are optional. Added guidance for secretaries of State.</p>
   </details>
   <details>
     <summary><time datetime="2025-12-18">December 18, 2025</time></summary>
