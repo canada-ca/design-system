@@ -8,7 +8,7 @@ title: 404 error page template
 <p>A 404 error is generated when someone tries to access a page that cannot be found.</p>
 <p>This 404 error page template provides the user with suggestions for resolving the error and contains links to key sections that may be helpful. There are two versions of this template:</p>
 <ul>
-    <li>A unilingual page with a language toggle for users whose language preference is known</li>
+    <li>a unilingual page with a language toggle for users whose language preference is known</li>
     <li>A bilingual page for users whose language preference is not known</li>
 </ul>
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/404/bilingual-404-error-page.png" class="img-responsive" alt="" /></div>
