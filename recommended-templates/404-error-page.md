@@ -43,7 +43,7 @@ title: 404 error page template
     <p>Include a sentence stating that the page the user is looking for may have been moved or deleted.</p>
     <p>Offer tips for what the user can try to resolve the error. This can include the following information:</p>
         <ul>
-            <li>Suggest they check the spelling of the web address (URL)</li>
+            <li>suggest they check the spelling of the web address (URL)</li>
             <li>Explain that they should remove special characters or spaces in the URL</li>
             <li>If it exists, provide a way to report the broken link</li>
         </ul>
