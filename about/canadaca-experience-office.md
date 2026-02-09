@@ -1,13 +1,13 @@
 ---
-altLangPage: "https://conception.canada.ca/a-propos/bureau-transformation-numerique.html"
+altLangPage: "https://conception.canada.ca/a-propos/bureau-experience-canadaca.html"
 date: 2017-10-05
-dateModified:  2025-04-30
+dateModified:  2026-02-13
 description: "Information about the team that manages the design system and oversees content for Canada.ca."
 layout: without-h1
 title: "Canada.ca Experience Office"
 ---
 <h1 property="name headline" id="wb-cont" dir="ltr">Canada.ca Experience Office</h1>
-<p>The Canada.ca Experience Office (CEO) is part of Employment and Social Development Canada. At DTO, we are communications professionals with expertise in content and interaction design, user research and plain language writing.</p>
+<p>The Canada.ca Experience Office (CEO) is part of Employment and Social Development Canada. At CEO, we are communications professionals with expertise in content and interaction design, user research and plain language writing.</p>
 <p>We work with departments to:</p>
 <ul>
   <li>ensure that the Canada.ca brand is recognized and trusted by Canadians </li>
