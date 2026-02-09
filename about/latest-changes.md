@@ -12,7 +12,13 @@ title: "Latest changes to the Canada.ca design"
 <div id="expand-collapse">
   <details open="open">
     <summary><time datetime="2026-02-06">February 6, 2026</time></summary>
-    <p>Updated <a href="{{ '/common-design-patterns/breadcrumb-trail.html' | absolute_url }}">breadcrumb trail</a> guidance to include a revised example for campaign pages and examples for error pages.</p>
+    <p>Updated <a href="{{ '/common-design-patterns/breadcrumb-trail.html' | absolute_url }}">breadcrumb trail</a> guidance to clarify:
+<ul>
+  <li>when breadcrumbs are required (and when they aren’t)</li>
+  <li>how breadcrumbs apply to campaign pages</li>
+  <li>which links should appear in a breadcrumb trail</li>
+</ul>
+</p>
   </details>
   <details>
     <summary><time datetime="2026-01-30">January 30, 2026</time></summary>
