@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/a-propos/derniers-changements.html"
 date: 2017-10-05
-dateModified: 2026-01-30
+dateModified: 2026-02-11
 description: "Latest changes to the Canada.ca design"
 title: "Latest changes to the Canada.ca design"
 ---
@@ -11,7 +11,7 @@ title: "Latest changes to the Canada.ca design"
 </div>
 <div id="expand-collapse">
   <details open="open">
-    <summary><time datetime="2026-02-06">February 6, 2026</time></summary>
+    <summary><time datetime="2026-02-11">February 11, 2026</time></summary>
     <p>Updated <a href="{{ '/common-design-patterns/breadcrumb-trail.html' | absolute_url }}">breadcrumb trail</a> guidance to clarify:
 <ul>
   <li>when breadcrumbs are required (and when they aren’t)</li>
