@@ -743,7 +743,7 @@
     "MANDATORY": "No",
     "TANDP": "1"
   },{
-    "NAME": "<a href=\"{{ site.url }}/common-design-patterns/breadcrumb-trail.html\">Breadcrumb trail</a>",
+    "NAME": "<a href=\"{{ '/common-design-patterns/breadcrumb-trail.html' | absolute_url }}\">Breadcrumb trail</a>",
     "SOURCE": "Template and pattern library",
     "DESCRIPTION": "Represents the location of the current page as it stands in relation to the site’s user navigation model.",
     "WHENTOUSE": "Represents the location of the current page as it stands in relation to the site’s user navigation model - <strong>Mandatory pattern</strong>",

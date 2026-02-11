@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/a-propos/derniers-changements.html"
 date: 2017-10-05
-dateModified: 2026-01-30
+dateModified: 2026-02-11
 description: "Latest changes to the Canada.ca design"
 title: "Latest changes to the Canada.ca design"
 ---
@@ -11,10 +11,24 @@ title: "Latest changes to the Canada.ca design"
 </div>
 <div id="expand-collapse">
   <details open="open">
+    <summary><time datetime="2026-02-11">February 11, 2026</time></summary>
+    <p>Updated <a href="{{ '/common-design-patterns/breadcrumb-trail.html' | absolute_url }}">breadcrumb trail</a> guidance to clarify:
+<ul>
+  <li>when breadcrumbs are required (and when they aren’t)</li>
+  <li>how breadcrumbs apply to campaign pages</li>
+  <li>which links should appear in a breadcrumb trail</li>
+</ul>
+</p>
+  </details>
+  <details>
     <summary><time datetime="2026-01-30">January 30, 2026</time></summary>
     <p>Updated the <a href="{{ '/common-design-patterns/social-media-channels.html' | absolute_url }}">social media channels guidance</a> to clarify that other social media icons can be used and that icons can be rearranged.</p>
     <p>Updated the <a href="{{ '/common-design-patterns/images.html' | absolute_url }}">images guidance</a> to include information about the appropriate use of icons.</p>
-    <p>Updated the <a href="{{ '/styles/typography.html' | absolute_url }}">typography page</a> to reflect that the Noto Sans Canadian Aboriginal font family has been added to Canada.ca</p>
+    <p>Updated the <a href="{{ '/styles/typography.html' | absolute_url }}">typography page</a> to reflect that the Noto Sans Canadian Aboriginal font family has been added to Canada.ca.</p>
+  </details>
+  <details>
+    <summary><time datetime="2025-12-23">December 23, 2025</time></summary>
+    <p>Updated the <a href="{{ '/mandatory-templates/ministerial-profile-pages.html' | absolute_url }}">ministerial profile pages guidance</a> to clarify which elements are mandatory and which are optional. Added guidance for secretaries of State.</p>
   </details>
   <details>
     <summary><time datetime="2025-12-18">December 18, 2025</time></summary>
