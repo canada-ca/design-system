@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/configurations-conception-communes/fil-d-ariane.html"
 date: 2017-10-05
-dateModified: 2026-02-06
+dateModified: 2026-02-11
 description: "Guidance on implementing breadcrumbs for Government of Canada websites."
 title: "Breadcrumb trail"
 ---
@@ -247,7 +247,7 @@ As part of the global header, the breadcrumb is a mandatory element under the <c
 ## Latest changes
 
 <dl class="dl-horizontal">
-  <dt><time>2026-02-06</time></dt>
+  <dt><time>2026-02-11</time></dt>
   <dd>Updated <a href="{{ '/common-design-patterns/breadcrumb-trail.html' | absolute_url }}">breadcrumb trail</a> guidance to clarify:
 <ul>
   <li>when breadcrumbs are required (and when they aren’t)</li>
