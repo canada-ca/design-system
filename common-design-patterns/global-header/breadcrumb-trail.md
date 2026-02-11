@@ -248,7 +248,7 @@ As part of the global header, the breadcrumb is a mandatory element under the <c
 
 <dl class="dl-horizontal">
   <dt><time>2026-02-11</time></dt>
-  <dd>Updated <a href="{{ '/common-design-patterns/breadcrumb-trail.html' | absolute_url }}">breadcrumb trail</a> guidance to clarify:
+  <dd>Updated breadcrumb trail guidance to clarify:
 <ul>
   <li>when breadcrumbs are required (and when they aren’t)</li>
   <li>how breadcrumbs apply to campaign pages</li>
