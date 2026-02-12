@@ -583,7 +583,7 @@
   "TANDP": "1"
 },
 {
-  "NAME": "<a href=\"{{ site.url }}/guidance/ai/central-guidance-research.html\">Central guidance and AI research for AI help applications</a>",
+  "NAME": "<a href=\"{{  '/guidance/ai/central-guidance-research.html' | absolute_url }}\">Central guidance and AI research for AI help applications</a>",
   "SOURCE": "AI help application guidance",
   "DESCRIPTION": "As the Government of Canada, we must follow all applicable laws, policies, directives and standards when communicating with the public.",
   "WHENTOUSE": "As the Government of Canada, we must follow all applicable laws, policies, directives and standards when communicating with the public.",
