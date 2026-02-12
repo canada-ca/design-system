@@ -633,7 +633,7 @@
     "TANDP": "1"
   },
   {
-    "NAME": "<a href=\"{{ site.url }}/guidance/ai/reference-checklist.html\">Reference checklist for AI help applications</a>",
+    "NAME": "<a href=\"{{ '/guidance/ai/reference-checklist.html' | absolute_url }}\">Reference checklist for AI help applications</a>",
     "SOURCE": "AI help application guidance",
     "DESCRIPTION": "Use this checklist as a quick reference for all the things you must consider when creating an AI help application.",
     "WHENTOUSE": "Use this checklist as a quick reference for all the things you must consider when creating an AI help application.",
