@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/directives/ia/lignes-directrices-contenu.html
-date: 2026-02-09
-dateModified: 2026-02-09
+date: 2026-02-12
+dateModified: 2026-02-12
 description: Follow this content guidance to create a consistent experience for Canada.ca visitors.
 title: Content guidance for AI help applications
 ---

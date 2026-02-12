@@ -7,8 +7,8 @@ breadcrumbs:
     title: "Design"
   - link: "https://design.canada.ca/guidance/index.html"
     title: "Guidance"
-date: 2026-02-09
-dateModified: 2026-02-09
+date: 2026-02-12
+dateModified: 2026-02-12
 description: Central guidance and AI research, design and content guidance, privacy and security, iterative design, reference checklist
 information:
   - title: Central guidance and AI research
