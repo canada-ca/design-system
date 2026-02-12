@@ -573,7 +573,7 @@
     "TANDP": "1"
   },
   {
-  "NAME": "<a href=\"{{ site.url }}/guidance/ai/index.html\">Guidance for the design of AI help applications on Canada.ca</a>",
+  "NAME": "<a href=\"{{  '/guidance/ai/index.html' | absolute_url }}\">Guidance for the design of AI help applications on Canada.ca</a>",
   "SOURCE": "AI help application guidance",
   "DESCRIPTION": "Central guidance and AI research, design and content guidance, privacy and security, iterative design, reference checklist",
   "WHENTOUSE": "Central guidance and AI research, design and content guidance, privacy and security, iterative design, reference checklist",
