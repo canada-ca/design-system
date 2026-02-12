@@ -623,7 +623,7 @@
     "TANDP": "1"
   },
   {
-    "NAME": "<a href=\"{{ site.url }}/guidance/ai/iterative-design.html\">Iterative design for AI help applications</a>",
+    "NAME": "<a href=\"{{ '/guidance/ai/iterative-design.html' | absolute_url }}\">Iterative design for AI help applications</a>",
     "SOURCE": "AI help application guidance",
     "DESCRIPTION": "Learning and feedback are crucial for successful agile service development. Use this guidance to test and iterate your AI help application.",
     "WHENTOUSE": "Learning and feedback are crucial for successful agile service development. Use this guidance to test and iterate your AI help application.",
