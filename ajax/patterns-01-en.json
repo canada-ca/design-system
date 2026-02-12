@@ -613,7 +613,7 @@
     "TANDP": "1"
   },
   {
-    "NAME": "<a href=\"{{ site.url }}/guidance/ai/privacy-security.html\">Privacy and security</a>",
+    "NAME": "<a href=\"{{ '/guidance/ai/privacy-security.html' | absolute_url }}\">Privacy and security</a>",
     "SOURCE": "AI help application guidance",
     "DESCRIPTION": "Follow this privacy and security guidance to protect users and their personal information when creating AI help applications.",
     "WHENTOUSE": "Follow this privacy and security guidance to protect users and their personal information when creating AI help applications.",
