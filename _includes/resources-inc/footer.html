@@ -3,10 +3,10 @@
 <script src="{{ setting-resourcesBasePathTheme }}/js/theme{{ setting-minifiedSuffix }}.js"></script>
 {%- if page.script.first -%}
 	{%- for js in page.script -%}
-		<script src="{{ js }}"></script>
+		<script src="{{ js | absolute_url }}"></script>
 	{%- endfor -%}
 {%- elsif page.script -%}
-	<script src="{{ page.script }}"></script>
+	<script src="{{ page.script | absolute_url }}"></script>
 {%- endif -%}
 <!-- Custom code starts here -->
 {% if site.analytics.providers.adobe %}{% include providers/adobefooter.html %}{% endif %}

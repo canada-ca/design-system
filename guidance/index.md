@@ -6,7 +6,7 @@ breadcrumbs:
   - link: "https://design.canada.ca"
     title: "Design"
 date: 2025-08-29
-dateModified: 2025-08-29
+dateModified: 2026-02-12
 description: Use this guidance to create and manage Government of Canada web content
 information:
   - title: Closed programs or services
@@ -21,6 +21,9 @@ information:
   - title: Crisis communications content design checklist
     link: /crisis/content.html
     description: Mobile-first, avoid duplication, add dates, write information as directions, use bulleted lists, keep sentences short
+  - title: Guidance for the design of AI help applications
+    link: /guidance/ai/index.html
+    description: Central guidance and AI research, design and content guidance, privacy and security, iterative design, reference checklist
 
 title: Canada.ca design guidance
 ---
