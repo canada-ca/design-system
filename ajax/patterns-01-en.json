@@ -497,7 +497,7 @@
     "TYPE": "",
     "MANDATORY": "",
     "TANDP": "0"
-  }, 
+  },
    {
     "NAME": "<a href=\"{{ site.urlblogca }}/2025/02/18/ai-trust-study.html\">Results from the AI Trust study on Canada.ca</a>",
     "SOURCE": "Blog post",
@@ -509,7 +509,7 @@
     "TANDP": "0"
   },
    {
-    "NAME": "<a href=\"{{ site.urlblogca }}/2026/02/09/ai-help-design.html\">Designing AI help applications for Canada.ca</a>",
+    "NAME": "<a href=\"{{ site.urlblogca }}/2026/02/12/ai-help-design.html\">Designing AI help applications for Canada.ca</a>",
     "SOURCE": "Blog post",
     "DESCRIPTION": "Over the past year, we’ve worked closely with 18 government departments to better understand what makes an AI help application reliable, consistent, and useful for people using Canada.ca.",
     "WHENTOUSE": "",
@@ -591,7 +591,7 @@
   "TYPE": "",
   "MANDATORY": "",
   "TANDP": "1"
-}, 
+},
 {
   "NAME": "<a href=\"{{ site.url }}/guidance/ai/design-guidance.html\">Design guidance for AI help applications</a>",
   "SOURCE": "AI help application guidance",
