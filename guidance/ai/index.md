@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/directives/ia/index.html
+altLangPage: https://canada-ca.github.io/systeme-conception/directives/ia/index.html
 breadcrumbs:
   - link: "https://www.canada.ca/en/government/about-canada-ca.html"
     title: "About Canada.ca"

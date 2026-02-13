@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/configurations-conception-communes/bande-de-coordonnees.html
+altLangPage: https://canada-ca.github.io/systeme-conception/configurations-conception-communes/bande-de-coordonnees.html
 date: null
 dateModified: '2024-04-03'
 description: Guidance about using the contact us band on Canada.ca

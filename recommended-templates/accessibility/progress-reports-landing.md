@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/modeles-recommandes/accessibilite/accueil-rapports-etape.html
+altLangPage: https://canada-ca.github.io/systeme-conception/modeles-recommandes/accessibilite/accueil-rapports-etape.html
 date: null
 dateModified: '2024-12-05'
 description: null

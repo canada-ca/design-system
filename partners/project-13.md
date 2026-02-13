@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/partenaires/project-13.html"
+altLangPage: "https://canada-ca.github.io/systeme-conception/partenaires/project-13.html"
 date: 2024-01-03
 dateModified: 2024-01-03
 description: "Partner project: Goal: Make it easier for people to prepare for the Canadian citizenship test. Date: Summer 2018"

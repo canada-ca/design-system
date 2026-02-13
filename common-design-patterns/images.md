@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/configurations-conception-communes/images.html
+altLangPage: https://canada-ca.github.io/systeme-conception/configurations-conception-communes/images.html
 date: '2018-12-19'
 dateModified: '2026-01-30'
 description: Images are visual content that complement or enhance text, including photographs, graphics, drawings, or diagrams.

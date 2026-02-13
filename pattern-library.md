@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/bibliotheque-modeles.html"
+altLangPage: "https://canada-ca.github.io/systeme-conception/bibliotheque-modeles.html"
 date: 2021-05-03
 dateModified: 2023-08-19
 description: "A collection of the patterns and page layouts to be used for Government of Canada digital content."

@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/amelioration-continue/choisir.html
+altLangPage: https://canada-ca.github.io/systeme-conception/amelioration-continue/choisir.html
 date: null
 dateModified: '2021-07-25'
 description: null

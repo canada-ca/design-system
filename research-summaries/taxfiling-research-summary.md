@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/resumes-recherche/impots-resume-recherche.html"
+altLangPage: "https://canada-ca.github.io/systeme-conception/resumes-recherche/impots-resume-recherche.html"
 date: 2018-07-27
 dateModified: 2018-07-27
 description: "The Tax filing optimization project kicked off in November 2017 with the goal of making it easier for Canadian businesses to fulfill their Goods and Services Tax (GST), Harmonized Sales Tax (HST) and payroll obligations."

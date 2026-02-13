@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/resumes-recherche/"
+altLangPage: "https://canada-ca.github.io/systeme-conception/resumes-recherche/"
 date: 2024-01-10
 dateModified: 2024-02-27
 description: "Summaries of the research the Canada.ca Experience Office (CEO) and federal departments undertook to make it easier for people to find and understand Government of Canada information and services on Canada.ca."

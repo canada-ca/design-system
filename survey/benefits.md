@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/sondage/utiliser.html
+altLangPage: https://canada-ca.github.io/systeme-conception/sondage/utiliser.html
 date: null
 dateModified: 2023-04-05
 description: null

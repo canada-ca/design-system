@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/configurations-conception-communes/en-demande.html"
+altLangPage: "https://canada-ca.github.io/systeme-conception/configurations-conception-communes/en-demande.html"
 date: 2018-12-19
 dateModified: 2025-06-25
 description: Guidance about using the most requested pattern on Canada.ca. The most requested pattern provides links to top tasks on navigation pages

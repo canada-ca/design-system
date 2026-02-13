@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/configurations-conception-communes/fil-ariane.html"
+altLangPage: "https://canada-ca.github.io/systeme-conception/configurations-conception-communes/fil-ariane.html"
 date: 2017-10-05
 dateModified: 2026-02-11
 description: "Guidance on implementing breadcrumbs for Government of Canada websites."

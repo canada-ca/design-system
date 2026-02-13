@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/communaute/procedure-contribution.html
+altLangPage: https://canada-ca.github.io/systeme-conception/communaute/procedure-contribution.html
 date: null
 dateModified: '2020-10-30'
 description: null

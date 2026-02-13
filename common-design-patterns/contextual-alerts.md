@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/configurations-conception-communes/alertes-contextuelles.html
+altLangPage: https://canada-ca.github.io/systeme-conception/configurations-conception-communes/alertes-contextuelles.html
 date: null
 dateModified: '2022-08-24'
 description: null

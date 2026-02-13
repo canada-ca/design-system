@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/configurations-conception-communes/table-matiere-interieur.html
+altLangPage: https://canada-ca.github.io/systeme-conception/configurations-conception-communes/table-matiere-interieur.html
 date: null
 dateModified: '2025-08-20'
 description: null

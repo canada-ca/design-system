@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/configurations-conception-communes/lien-vedette.html"
+altLangPage: "https://canada-ca.github.io/systeme-conception/configurations-conception-communes/lien-vedette.html"
 date: 2023-07-13
 dateModified: 2024-04-03
 description: Guidance about using the featured links pattern on Canada.ca.

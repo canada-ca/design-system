@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/partenaires/project-20.html"
+altLangPage: "https://canada-ca.github.io/systeme-conception/partenaires/project-20.html"
 date: 2024-01-03
 dateModified: 2024-01-03
 description: "Partner project: Help those potential visitors to Canada to clearly understand what documentation is required to enter.  Date:2017."

@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/configurations-conception-communes/pied-page-contextuelle.html"
+altLangPage: "https://canada-ca.github.io/systeme-conception/configurations-conception-communes/pied-page-contextuelle.html"
 date: 2022-11-30
 dateModified: 2023-04-06
 description: "This is an optional element of the global (site-wide) footer."

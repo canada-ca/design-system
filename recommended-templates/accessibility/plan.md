@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/modeles-recommandes/accessibilite/plan.html
+altLangPage: https://canada-ca.github.io/systeme-conception/modeles-recommandes/accessibilite/plan.html
 date: null
 dateModified: '2024-12-05'
 description: null

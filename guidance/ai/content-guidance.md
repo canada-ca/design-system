@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/directives/ia/lignes-directrices-contenu.html
+altLangPage: https://canada-ca.github.io/systeme-conception/directives/ia/lignes-directrices-contenu.html
 date: 2026-02-12
 dateModified: 2026-02-12
 description: Follow this content guidance to create a consistent experience for Canada.ca visitors.
@@ -104,7 +104,7 @@ To facilitate effective communication in multiple languages, follow this guidanc
 
 In your system prompt, instruct the AI to use official Canadian French terminology and adhere to the style found on Canada.ca for French responses.
 
-- [Canada.ca French style guide: <span lang="fr">Guide de rédaction du contenu du site Canada.ca</span>](https://conception.canada.ca/guide-redaction/)
+- [Canada.ca French style guide: <span lang="fr">Guide de rédaction du contenu du site Canada.ca</span>](https://canada-ca.github.io/systeme-conception/guide-redaction/)
 
 ### Translation and support
 
