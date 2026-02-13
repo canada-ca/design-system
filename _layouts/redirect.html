@@ -1,0 +1,15 @@
+---
+layout: nil
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{% if page.title %}{{ page.title }} - {% endif %}Page Redirection</title>
+    <meta http-equiv="refresh" content="0; url={{ page.redirect.link }}">
+  </head>
+  <body>
+    <p>If you are not redirected automatically, follow this <a href="{{ page.redirect.link }}">link to {{ page.redirect.title }}</a>.</p>
+  </body>
+</html>
