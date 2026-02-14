@@ -14,7 +14,7 @@ permissions:
   pull-requests: write
 
 concurrency:
-  group: preview-${{ github.ref }}
+  group: preview-${{ github.event.pull_request.number }}
   cancel-in-progress: true
 
 jobs:
@@ -142,8 +142,30 @@ jobs:
               currentBody = currentBody.substring(0, markerIndex).trim();
             }
 
-            const previewSection = `## Alternate language PR\n${alternateLangLink}\n\n---\n\n## 🚀 PR Preview\n\n| Name | Link(s) |\n|------|------|\n| **Latest commit** | [${context.payload.pull_request.head.sha.substring(0, 7)}](${commitUrl}) |\n| **Page preview** | ${previewLinks} |${otherFilesContent ? `\n| **Other changed files** | ${otherFilesContent} |` : ''}\n\n---\n*<small>Preview updates automatically with each commit*</small>`;
+            const otherFilesRow = otherFilesContent
+              ? `| **Other changed files** | ${otherFilesContent} |`
+              : null;
 
+            const previewLines = [
+              '',
+              '## Alternate language PR',
+              alternateLangLink,
+              '',
+              '---',
+              '',
+              '## 🚀 PR Preview',
+              '',
+              '| Name | Link(s) |',
+              '|------|----------|',
+              `| **Latest commit** | [${context.payload.pull_request.head.sha.substring(0, 7)}](${commitUrl}) |`,
+              `| **Page preview** | ${previewLinks} |`,
+              ...(otherFilesRow ? [otherFilesRow] : []),
+              '',
+              '---',
+              '*<small>Preview updates automatically with each commit*</small>',
+            ];
+
+            const previewSection = previewLines.join('\n');
             // Update PR description
             await github.rest.pulls.update({
               owner: context.repo.owner,
