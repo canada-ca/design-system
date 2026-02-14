@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/configurations-conception-communes/widget-medias-sociaux.html
+altLangPage: https://conception.canada.ca/configurations-conception-communes/widget-medias-sociaux.html
 date: 2018-12-19
 dateModified: 2025-11-28
 description: We’re decommissioning this pattern and don’t recommend using it on your pages.

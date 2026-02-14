@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/sondage/rediger-taches.html
+altLangPage: https://conception.canada.ca/sondage/rediger-taches.html
 date: null
 dateModified: 2023-04-05
 description: null

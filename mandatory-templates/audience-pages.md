@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/modeles-obligatoire/pages-publics-cibles.html
+altLangPage: https://conception.canada.ca/modeles-obligatoire/pages-publics-cibles.html
 date: "2018-09-19"
 dateModified: "2025-11-26"
 description: We’re decommissioning this pattern and don’t recommend using it on your pages. Gives access to information and services relevant to a government-wide audience.

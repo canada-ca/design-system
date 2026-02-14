@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://canada-ca.github.io/systeme-conception/specifications/information-trouvabilite/organiser-contenu.html"
+altLangPage: "https://conception.canada.ca/specifications/information-trouvabilite/organiser-contenu.html"
 date: 2017-10-05
 dateModified: 2024-08-26
 description: "How to organize your content on Canada.ca"

@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://canada-ca.github.io/systeme-conception/resumes-recherche/prets-etudiants-resume-recherche.html"
+altLangPage: "https://conception.canada.ca/resumes-recherche/prets-etudiants-resume-recherche.html"
 date: 2019-08-22
 dateModified: 2019-08-22
 description: "In the fall of 2018, we began a collaborative project to improve the success of students using those pages."

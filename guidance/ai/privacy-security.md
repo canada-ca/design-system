@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/directives/ia/protection-renseignements-personnels-securite.html
+altLangPage: https://conception.canada.ca/directives/ia/protection-renseignements-personnels-securite.html
 date: 2026-02-12
 dateModified: 2026-02-12
 description: Follow this privacy and security guidance to protect users and their personal information when creating AI help applications.

@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/styles/typographie.html
+altLangPage: https://conception.canada.ca/styles/typographie.html
 date: 2018-10-01
 dateModified: 2026-01-29
 description: Typography and fonts for Canada.ca

@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/amelioration-continue/mesure.html
+altLangPage: https://conception.canada.ca/amelioration-continue/mesure.html
 date: null
 dateModified: '2021-07-25'
 description: null

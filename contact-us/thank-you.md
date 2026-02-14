@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://canada-ca.github.io/systeme-conception/contactez-nous/merci.html"
+altLangPage: "https://conception.canada.ca/contactez-nous/merci.html"
 breadcrumbs: false
 date: null
 dateModified: 2023-04-17

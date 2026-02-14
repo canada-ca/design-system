@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/sondage/acceder-resultats.html
+altLangPage: https://conception.canada.ca/sondage/acceder-resultats.html
 date: null
 dateModified: 2024-05-27
 description: null

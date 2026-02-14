@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/configurations-conception-communes/en-tete-general.html
+altLangPage: https://conception.canada.ca/configurations-conception-communes/en-tete-general.html
 date: null
 dateModified: '2020-06-25'
 description: null

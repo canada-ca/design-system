@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/gestionnaires-webgc-inscrire.html
+altLangPage: https://conception.canada.ca/gestionnaires-webgc-inscrire.html
 breadcrumbs: []
 date: null
 dateModified: '2020-03-17'

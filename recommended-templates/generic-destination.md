@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/modeles-recommandes/generique.html
+altLangPage: https://conception.canada.ca/modeles-recommandes/generique.html
 breadcrumbs:date: null
 dateModified: '2025-12-17'
 description: null
