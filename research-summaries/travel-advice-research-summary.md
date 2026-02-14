@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://canada-ca.github.io/systeme-conception/resumes-recherche/conseils-voyageurs-resume-recherche.html"
+altLangPage: "https://conception.canada.ca/resumes-recherche/conseils-voyageurs-resume-recherche.html"
 date: 2019-11-01
 dateModified: 2019-11-01
 description: "The goal was to make it easier for Canadians to find and understand the travel advice and guidance available on Canada.ca."

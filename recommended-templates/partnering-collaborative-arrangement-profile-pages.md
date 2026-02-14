@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/modeles-recommandes/profil-partenariat-entente-collaboration.html
+altLangPage: https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html
 date: 2018-12-19
 dateModified: 2025-11-27
 description: We’re decommissioning this template as it was not widely used.

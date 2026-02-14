@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/modeles-recommandes/pages-directives-lois.html
+altLangPage: https://conception.canada.ca/modeles-recommandes/pages-directives-lois.html
 date: 2018-12-19
 dateModified: 2025-11-26
 description: We’re decommissioning this template as it was not widely used.

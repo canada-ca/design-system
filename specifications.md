@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/specifications.html
+altLangPage: https://conception.canada.ca/specifications.html
 date: null
 dateModified: '2024-08-21'
 description: null

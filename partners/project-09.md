@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://canada-ca.github.io/systeme-conception/partenaires/project-09.html"
+altLangPage: "https://conception.canada.ca/partenaires/project-09.html"
 date: 2024-01-02
 dateModified: 2024-01-02
 description: "Partner project: Make employment insurance maternity and parental benefits easier to find and understand for Canadians planning to expand their family. Date: 2019"

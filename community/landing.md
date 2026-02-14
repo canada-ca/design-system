@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/communaute/accueil.html
+altLangPage: https://conception.canada.ca/communaute/accueil.html
 breadcrumbs:
 - link: https://www.canada.ca/en/government/about.html
   title: About Canada.ca

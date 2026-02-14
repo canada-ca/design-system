@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/configurations-conception-communes/avis-confidentialite.html
+altLangPage: https://conception.canada.ca/configurations-conception-communes/avis-confidentialite.html
 date: null
 dateModified: '2021-01-20'
 description: null

@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/modeles-obligatoire/page-ministeres-organismes.html
+altLangPage: https://conception.canada.ca/modeles-obligatoire/page-ministeres-organismes.html
 date: "2018-09-19"
 dateModified: "2018-09-19"
 description: "The departments and agencies landing page includes an alphabetically organized list of government institutions"

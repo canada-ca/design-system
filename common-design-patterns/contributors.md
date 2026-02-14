@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/configurations-conception-communes/collaborateurs.html
+altLangPage: https://conception.canada.ca/configurations-conception-communes/collaborateurs.html
 date: '2024-09-24'
 dateModified: '2025-12-03'
 description: Use the contributors pattern to link to the institutions, organizations or similar entities who are responsible for or support the content on the page.

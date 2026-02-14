@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/modeles-obligatoire/pages-nouvelles.html
+altLangPage: https://conception.canada.ca/modeles-obligatoire/pages-nouvelles.html
 date: null
 dateModified: '2018-09-19'
 description: null

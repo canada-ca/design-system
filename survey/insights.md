@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/sondage/partager.html
+altLangPage: https://conception.canada.ca/sondage/partager.html
 date: null
 dateModified: 2023-04-05
 description: null

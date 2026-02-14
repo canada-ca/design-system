@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/retroaction/decider.html
+altLangPage: https://conception.canada.ca/retroaction/decider.html
 date: null
 dateModified: 2023-02-28
 description: null

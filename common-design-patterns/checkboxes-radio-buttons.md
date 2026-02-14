@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/configurations-conception-communes/cases-cocher-boutons-radio.html
+altLangPage: https://conception.canada.ca/configurations-conception-communes/cases-cocher-boutons-radio.html
 date: null
 dateModified: '2021-04-22'
 description: null

@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/directives/ia/ligne-directrice-centrale-recherche.html
+altLangPage: https://conception.canada.ca/directives/ia/ligne-directrice-centrale-recherche.html
 date: 2026-02-12
 dateModified: 2026-02-12
 description: As the Government of Canada, we must follow all applicable laws, policies, directives and standards when communicating with the public.

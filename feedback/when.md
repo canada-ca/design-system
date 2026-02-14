@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/retroaction/quand.html
+altLangPage: https://conception.canada.ca/retroaction/quand.html
 date: null
 dateModified: 2023-11-07
 description: null

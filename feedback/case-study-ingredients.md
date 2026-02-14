@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/retroaction/etude-cas-ingredients.html
+altLangPage: https://conception.canada.ca/retroaction/etude-cas-ingredients.html
 date: null
 dateModified: 2023-02-28
 description: null

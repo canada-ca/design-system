@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/modeles-obligatoire/theme.html
+altLangPage: https://conception.canada.ca/modeles-obligatoire/theme.html
 date: null
 dateModified: '2024-09-24'
 description: null

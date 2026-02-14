@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/modeles-recommandes/pages-lois-reglements.html
+altLangPage: https://conception.canada.ca/modeles-recommandes/pages-lois-reglements.html
 date: null
 dateModified: '2018-12-19'
 description: null

@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://canada-ca.github.io/systeme-conception/resumes-recherche/maladies-resume-recherche.html"
+altLangPage: "https://conception.canada.ca/resumes-recherche/maladies-resume-recherche.html"
 date: 2018-05-10
 dateModified: 2018-05-10
 description: "The diseases and immunization optimization project kicked off in the fall of 2017. The goal was to make it easier for Canadians to make informed choices about vaccination."

@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/directives/donnees-structurees.html
+altLangPage: https://conception.canada.ca/directives/donnees-structurees.html
 date: null
 dateModified: '2020-03-16'
 description: null

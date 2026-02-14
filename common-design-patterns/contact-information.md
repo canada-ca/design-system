@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/configurations-conception-communes/coordonnees.html
+altLangPage: https://conception.canada.ca/configurations-conception-communes/coordonnees.html
 date: null
 dateModified: "2018-12-19"
 description: "The contact information pattern is a standardized block that presents the street or mailing address, email address and telephone numbers, while the contact links pattern presents links to contact pages."

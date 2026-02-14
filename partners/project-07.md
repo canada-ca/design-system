@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://canada-ca.github.io/systeme-conception/partenaires/project-07.html"
+altLangPage: "https://conception.canada.ca/partenaires/project-07.html"
 date: 2023-01-01
 dateModified: 2023-01-01
 description: "Partner project: Make it easier for Canadians to find and understand the travel advice and guidance available on Canada.ca. Date: 2019"

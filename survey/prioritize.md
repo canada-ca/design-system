@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/sondage/decider.html
+altLangPage: https://conception.canada.ca/sondage/decider.html
 date: null
 dateModified: 2023-04-05
 description: null

@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/configurations-conception-communes/services-renseignements.html
+altLangPage: https://conception.canada.ca/configurations-conception-communes/services-renseignements.html
 date: 2025-05-15
 dateModified: 2025-12-02
 description: Guidance about using the services and information pattern on Canada.ca.

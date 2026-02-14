@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/modeles-recommandes/transparence.html
+altLangPage: https://conception.canada.ca/modeles-recommandes/transparence.html
 date: null
 dateModified: '2020-01-24'
 description: null

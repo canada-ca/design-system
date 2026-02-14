@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/modeles-recommandes/pages-contactez-nous.html
+altLangPage: https://conception.canada.ca/modeles-recommandes/pages-contactez-nous.html
 date: null
 dateModified: '2018-09-19'
 description: null
