@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/configurations-conception-communes/date-modification.html
+altLangPage: https://canada-ca.github.io/systeme-conception/configurations-conception-communes/date-modification.html
 date: 2025-03-27
 dateModified: '2025-10-24'
 description: null

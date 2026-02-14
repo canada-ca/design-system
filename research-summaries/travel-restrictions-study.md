@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/resumes-recherche/etude-sur-les-restrictions-de-voyage.html"
+altLangPage: "https://canada-ca.github.io/systeme-conception/resumes-recherche/etude-sur-les-restrictions-de-voyage.html"
 date: 2024-03-19
 dateModified: 2024-03-19
 description: "Using a wizard to help people get answers about changing entry requirements during COVID-19"

@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/configurations-conception-communes/pied-page-principale.html"
+altLangPage: "https://canada-ca.github.io/systeme-conception/configurations-conception-communes/pied-page-principale.html"
 date: 2022-11-30
 dateModified: 2023-04-06
 description: "The requirements listed in this design manual apply to departments and other portions of the federal public administration as set out in Schedules I, I.1 and II of the Financial Administration Act. As such, in-scope institutions must apply Canada.ca design requirements for all public-facing web sites or digital services."

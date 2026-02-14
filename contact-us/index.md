@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/contactez-nous/"
+altLangPage: "https://canada-ca.github.io/systeme-conception/contactez-nous/"
 breadcrumbs: false
 date: 2023-04-18
 dateModified: 2024-02-20

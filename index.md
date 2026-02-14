@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca
+altLangPage: https://canada-ca.github.io/systeme-conception
 date: 2021-05-03
 dateModified: 2024-09-08
 description: "The Canada.ca design website holds the reusable styles, templates and patterns that make Government of Canada digital services more usable, consistent and trustworthy."

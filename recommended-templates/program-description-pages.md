@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/modeles-recommandes/pages-description-programme.html
+altLangPage: https://canada-ca.github.io/systeme-conception/modeles-recommandes/pages-description-programme.html
 date: 2018-12-19
 dateModified: 2025-11-27
 description: We’re decommissioning this pattern and don’t recommend using it on your pages.

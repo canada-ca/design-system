@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/resumes-recherche/confiance.html"
+altLangPage: "https://canada-ca.github.io/systeme-conception/resumes-recherche/confiance.html"
 date: 2023-08-15
 dateModified: 2023-08-15
 description: "The Canada.ca Experience Office (CEO) conducted a Trust study to better understand which Government of Canada design elements are more strongly associated with trust and confidence in the brand."

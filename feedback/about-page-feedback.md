@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/retroaction/fonctionnement.html
+altLangPage: https://canada-ca.github.io/systeme-conception/retroaction/fonctionnement.html
 date: null
 dateModified: 2024-04-17
 description: null

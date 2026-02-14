@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/configurations-conception-communes/bloc-introduction.html"
+altLangPage: "https://canada-ca.github.io/systeme-conception/configurations-conception-communes/bloc-introduction.html"
 date: 2023-08-20
 dateModified: 2024-09-24
 description: Guidance about using the introduction block pattern on Canada.ca.

@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/sondage/commentaires.html
+altLangPage: https://canada-ca.github.io/systeme-conception/sondage/commentaires.html
 date: null
 dateModified: 2023-04-05
 description: null

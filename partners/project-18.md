@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/partenaires/project-18.html"
+altLangPage: "https://canada-ca.github.io/systeme-conception/partenaires/project-18.html"
 date: 2024-01-03
 dateModified: 2024-01-03
 description: "Partner project: Make it easier for Canadians to interpret immunization guidelines.. Date: Fall 2017."

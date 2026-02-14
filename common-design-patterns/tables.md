@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/configurations-conception-communes/tableaux.html
+altLangPage: https://canada-ca.github.io/systeme-conception/configurations-conception-communes/tableaux.html
 date: '2021-05-21'
 dateModified: '2025-07-25'
 description: null

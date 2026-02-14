@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/amelioration-continue.html
+altLangPage: https://canada-ca.github.io/systeme-conception/amelioration-continue.html
 breadcrumbs:
 - link: about.html
   title: About Canada.ca

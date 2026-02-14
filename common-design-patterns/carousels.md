@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/configurations-conception-communes/carrousels.html
+altLangPage: https://canada-ca.github.io/systeme-conception/configurations-conception-communes/carrousels.html
 date: null
 dateModified: '2025-12-17'
 description: null

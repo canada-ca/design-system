@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/partenaires/project-17.html"
+altLangPage: "https://canada-ca.github.io/systeme-conception/partenaires/project-17.html"
 date: 2024-01-03
 dateModified: 2024-01-03
 description: "Partner project: Make it easier for Canadian businesses to fulfill their Goods and Services Tax (GST), Harmonized Sales Tax (HST) and payroll obligations. Date: November 2017"

@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/partenaires/project-02.html"
+altLangPage: "https://canada-ca.github.io/systeme-conception/partenaires/project-02.html"
 date: 2020-11-20
 dateModified: 2023-12-08
 description: "Partner project: Make it easier for stakeholders subject to Canada’s medical device regulations find and understand regulatory requirements.  Date: 2020."

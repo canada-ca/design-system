@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/configurations-conception-communes/nouveautes.html
+altLangPage: https://canada-ca.github.io/systeme-conception/configurations-conception-communes/nouveautes.html
 date: null
 dateModified: '2024-04-03'
 description: Guidance about using the latest news pattern on Canada.ca.

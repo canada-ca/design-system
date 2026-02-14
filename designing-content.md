@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/concevoir-contenu.html
+altLangPage: https://canada-ca.github.io/systeme-conception/concevoir-contenu.html
 date: null
 dateModified: '2020-11-23'
 description: null

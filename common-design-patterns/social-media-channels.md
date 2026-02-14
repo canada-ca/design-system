@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/configurations-conception-communes/bloc-medias-sociaux.html
+altLangPage: https://canada-ca.github.io/systeme-conception/configurations-conception-communes/bloc-medias-sociaux.html
 date: null
 dateModified: '2026-01-30'
 description: The social media channels pattern provides links to official Government of Canada social media accounts on various social media platforms.

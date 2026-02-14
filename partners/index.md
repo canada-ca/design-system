@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/partenaires/"
+altLangPage: "https://canada-ca.github.io/systeme-conception/partenaires/"
 css:
    - https://design.canada.ca/css/split-h1.css
    - https://design.canada.ca/css/custom.css

@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/resumes-recherche/meteo-resume-recherche.html"
+altLangPage: "https://canada-ca.github.io/systeme-conception/resumes-recherche/meteo-resume-recherche.html"
 date: 2018-07-23
 dateModified: 2018-07-23
 description: "Make it easier for Canadians to understand notifications about dangerous weather conditions."

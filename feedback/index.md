@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/retroaction/index.html
+altLangPage: https://canada-ca.github.io/systeme-conception/retroaction/index.html
 breadcrumbs:
   - title: About Canada.ca
     link: https://www.canada.ca/en/government/about.html

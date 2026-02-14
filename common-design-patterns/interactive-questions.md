@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/configurations-conception-communes/questions-interactives.html
+altLangPage: https://canada-ca.github.io/systeme-conception/configurations-conception-communes/questions-interactives.html
 date: null
 dateModified: '2021-04-22'
 description: null

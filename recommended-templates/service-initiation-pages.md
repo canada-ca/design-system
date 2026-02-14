@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/modeles-recommandes/pages-lancement-service.html
+altLangPage: https://canada-ca.github.io/systeme-conception/modeles-recommandes/pages-lancement-service.html
 dateModified: '2025-12-15'
 description: null
 title: "No longer supported: Service initiation pages template"

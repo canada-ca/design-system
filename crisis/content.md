@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/crise/contenu.html
+altLangPage: https://canada-ca.github.io/systeme-conception/crise/contenu.html
 breadcrumbs:
 - link: https://www.canada.ca/en/government/about.html
   title: About Canada.ca

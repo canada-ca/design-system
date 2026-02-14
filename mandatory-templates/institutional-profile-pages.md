@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html
+altLangPage: https://canada-ca.github.io/systeme-conception/modeles-obligatoire/pages-profil-institutionnel.html
 date: "2020-07-23"
 dateModified: "2025-07-22"
 description: "Guidance on how to use the institutional landing page template and its associated components on Canada.ca."

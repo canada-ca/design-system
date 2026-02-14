@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/configurations-conception-communes/pied-page-contenu.html
+altLangPage: https://canada-ca.github.io/systeme-conception/configurations-conception-communes/pied-page-contenu.html
 date: 2023-02-09
 dateModified: '2025-10-24'
 description: null

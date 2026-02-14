@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/sondage/liste-personnalisee.html
+altLangPage: https://canada-ca.github.io/systeme-conception/sondage/liste-personnalisee.html
 date: null
 dateModified: 2023-04-05
 description: null

@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/modeles-recommandes/page-erreur-404.html
+altLangPage: https://canada-ca.github.io/systeme-conception/modeles-recommandes/page-erreur-404.html
 date: null
 dateModified: '2026-02-05'
 description: A 404 error is generated when someone tries to access a page that cannot be found.

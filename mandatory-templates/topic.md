@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/modeles-obligatoire/sujet.html
+altLangPage: https://canada-ca.github.io/systeme-conception/modeles-obligatoire/sujet.html
 date: null
 dateModified: "2025-10-24"
 description: "Topic pages provide access to topics and destination pages that support task completion."

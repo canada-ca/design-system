@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/retroaction/communiquer.html
+altLangPage: https://canada-ca.github.io/systeme-conception/retroaction/communiquer.html
 date: null
 dateModified: 2023-02-28
 description: null

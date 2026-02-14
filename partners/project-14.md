@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/partenaires/project-14.html"
+altLangPage: "https://canada-ca.github.io/systeme-conception/partenaires/project-14.html"
 date: 2024-01-03
 dateModified: 2024-01-03
 description: "Partner project: Make it easier for self-employed Canadians and small Canadian businesses to find answers and resolve issues on Canada.ca. Date: March 2018"

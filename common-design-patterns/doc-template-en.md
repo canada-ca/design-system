@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/configurations-conception-communes/boutons.html
+altLangPage: https://canada-ca.github.io/systeme-conception/configurations-conception-communes/boutons.html
 date: null
 dateModified: '2020-10-30'
 description: null

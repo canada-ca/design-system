@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/resumes-recherche/achats-electroniques-resume-recherche.html"
+altLangPage: "https://canada-ca.github.io/systeme-conception/resumes-recherche/achats-electroniques-resume-recherche.html"
 date: 2020-11-20
 dateModified: 2020-11-20
 description: "We focused on the needs of businesses new to government procurement. We tested with small and medium enterprises not currently registered as suppliers to the Government of Canada."

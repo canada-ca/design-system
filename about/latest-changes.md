@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/a-propos/derniers-changements.html"
+altLangPage: "https://canada-ca.github.io/systeme-conception/a-propos/derniers-changements.html"
 date: 2017-10-05
 dateModified: 2026-02-11
 description: "Latest changes to the Canada.ca design"
