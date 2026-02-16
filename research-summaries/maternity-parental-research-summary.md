@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://canada-ca.github.io/systeme-conception/resumes-recherche/maternite-parentales-resume-recherche.html"
+altLangPage: "https://conception.canada.ca/resumes-recherche/maternite-parentales-resume-recherche.html"
 date: 2019-08-23
 dateModified: 2019-08-23
 description: "Our goal was to make employment insurance maternity and parental benefits easier to find and understand for Canadians planning to expand their family."

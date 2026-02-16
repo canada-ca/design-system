@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/configurations-conception-communes/icones.html
+altLangPage: https://conception.canada.ca/configurations-conception-communes/icones.html
 date: 2018-12-19
 dateModified: 2025-11-27
 description: We’re decommissioning this pattern and don’t recommend using it on your pages. Use as symbols to communicate actions or states.

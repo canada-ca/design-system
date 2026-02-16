@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://canada-ca.github.io/systeme-conception/a-propos/bureau-transformation-numerique.html"
+altLangPage: "https://conception.canada.ca/a-propos/bureau-transformation-numerique.html"
 date: 2017-10-05
 dateModified:  2025-04-30
 description: "Information about the team that manages the design system and oversees content for Canada.ca."

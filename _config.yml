@@ -1,7 +1,7 @@
 {
   "altLangUrl": {
     "en": "https://design.canada.ca",
-    "fr": "https://canada-ca.github.io/systeme-conception"
+    "fr": "https://conception.canada.ca"
   },
   "analytics": {
     "provider": {
@@ -78,7 +78,7 @@
   "themeopt": "Policies",
   "title": "Canada.ca design",
   "url": "https://design.canada.ca",
-  "urlconception": "https://canada-ca.github.io/systeme-conception",
+  "urlconception": "https://conception.canada.ca",
   "urlcanadaca": "https://www.canada.ca",
   "urlblogca": "https://blog.canada.ca",
   "emails": {

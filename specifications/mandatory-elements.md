@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://canada-ca.github.io/systeme-conception/specifications/elements-obligatoires.html"
+altLangPage: "https://conception.canada.ca/specifications/elements-obligatoires.html"
 breadcrumbs: [{
             "link": "https://www.canada.ca/en/government/about-canada-ca.html",
             "title": "About Canada.ca"

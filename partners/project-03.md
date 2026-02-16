@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://canada-ca.github.io/systeme-conception/partenaires/project-03.html"
+altLangPage: "https://conception.canada.ca/partenaires/project-03.html"
 date: 2020-12-08
 dateModified: 2023-12-08
 description: "Partner project: Help develop a prototype for a new procurement website. We focused on the needs of businesses new to government procurement. We tested with small and medium enterprises not currently registered as suppliers to the Government of Canada. Date: Spring/summer 2019"

@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/crise/alertes.html
+altLangPage: https://conception.canada.ca/crise/alertes.html
 date: null
 dateModified: '2025-05-19'
 description: null

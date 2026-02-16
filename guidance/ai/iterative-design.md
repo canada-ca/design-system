@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/directives/ia/conception-iterative.html
+altLangPage: https://conception.canada.ca/directives/ia/conception-iterative.html
 date: 2026-02-12
 dateModified: 2026-02-12
 description: Learning and feedback are crucial for successful agile service development. Use this guidance to test and iterate your AI help application.

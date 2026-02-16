@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/styles/couleurs.html
+altLangPage: https://conception.canada.ca/styles/couleurs.html
 date: null
 dateModified: '2018-10-01'
 description: null

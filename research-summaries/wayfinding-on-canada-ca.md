@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://canada-ca.github.io/systeme-conception/resumes-recherche/orientation-dans-canada-ca.html"
+altLangPage: "https://conception.canada.ca/resumes-recherche/orientation-dans-canada-ca.html"
 date: 2022-12-21
 dateModified: 2022-12-21
 description: "The Wayfinding project looked at how people navigate Canada.ca. The findings have led to several design changes to improve navigation throughout Government of Canada websites."

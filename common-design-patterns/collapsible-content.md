@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/configurations-conception-communes/contenu-reductible.html
+altLangPage: https://conception.canada.ca/configurations-conception-communes/contenu-reductible.html
 date: 2021-04-22
 dateModified: 2025-11-25
 description: The expand/collapse pattern (also known as accordion) allows content to be hidden until requested

@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://canada-ca.github.io/systeme-conception/configurations-conception-communes/pied-page-sous.html"
+altLangPage: "https://conception.canada.ca/configurations-conception-communes/pied-page-sous.html"
 date: 2022-11-30
 dateModified: 2023-04-06
 description: "This is a mandatory element of the global (site-wide) footer."

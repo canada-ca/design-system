@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/specifications/information-trouvabilite.html
+altLangPage: https://conception.canada.ca/specifications/information-trouvabilite.html
 date: null
 dateModified: '2024-08-21'
 description: null

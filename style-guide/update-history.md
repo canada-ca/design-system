@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://canada-ca.github.io/systeme-conception/guide-redaction/historique-modifications.html"
+altLangPage: "https://conception.canada.ca/guide-redaction/historique-modifications.html"
 date: 2023-12-21
 dateModified:  2025-12-17
 description: "Update history for the Canada.ca Content Style Guide"

@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/directives/ia/liste-controle-reference.html
+altLangPage: https://conception.canada.ca/directives/ia/liste-controle-reference.html
 date: 2026-02-12
 dateModified: 2026-02-12
 description: Use this checklist as a quick reference for all the things you must consider when creating an AI help application.

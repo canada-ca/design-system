@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://canada-ca.github.io/systeme-conception/partenaires/project-01.html"
+altLangPage: "https://conception.canada.ca/partenaires/project-01.html"
 date: 2020-11-20
 dateModified: 2023-12-08
 description: "Partner project: Understand how people navigate Canada.ca. The findings have led to several design changes to improve navigation throughout Government of Canada websites. Date: 2021"

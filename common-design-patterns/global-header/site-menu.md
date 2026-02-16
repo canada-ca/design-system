@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://canada-ca.github.io/systeme-conception/configurations-conception-communes/menu-site.html"
+altLangPage: "https://conception.canada.ca/configurations-conception-communes/menu-site.html"
 date: 2017-10-05
 dateModified: 2025-07-08
 description: "Guidance about using the theme and topic menu on Canada.ca. The theme and topic menu provides access to the top tasks from all Government of Canada websites grouped under the main themes of Canada.ca."

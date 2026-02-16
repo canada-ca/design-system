@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/amelioration-continue/recherche.html
+altLangPage: https://conception.canada.ca/amelioration-continue/recherche.html
 date: null
 dateModified: '2021-07-21'
 description: null

@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/sondage/cas-ae.html
+altLangPage: https://conception.canada.ca/sondage/cas-ae.html
 breadcrumbs:
 - title: About Canada.ca
   link: https://www.canada.ca/en/government/about.html

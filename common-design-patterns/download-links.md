@@ -1,5 +1,5 @@
 ---
-altLangPage: https://canada-ca.github.io/systeme-conception/configurations-conception-communes/liens-telechargement.html
+altLangPage: https://conception.canada.ca/configurations-conception-communes/liens-telechargement.html
 date: null
 dateModified: '2018-12-19'
 description: null
