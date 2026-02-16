@@ -1,0 +1,37 @@
+---
+layout: null
+sitemap:
+  exclude: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {%- assign content = site.posts | concat: site.pages -%}
+  {%- for item in content -%}
+    {%- if item.language == page.language and item.url contains ".html" -%}
+      {%- unless item.sitemap.exclude %}
+  <url>
+    <loc>{{ item.url | absolute_url }}</loc>
+    {%- if item.dateModified %}
+    <lastmod>{{ item.dateModified | date: "%F" }}</lastmod>
+    {%- elsif item.date -%}
+    <lastmod>{{ item.date | date: "%F" }}</lastmod>
+    {%- endif -%}
+    {%- if item.collection == "posts" -%}
+    <changefreq>{{ item.sitemap.changefreq | default: "monthly" }}</changefreq>
+    <priority>{{ item.sitemap.priority | default: "1.0" }}</priority>
+    {%- else -%}
+      {%- if item.sitemap.changefreq -%}
+    <changefreq>{{ item.sitemap.changefreq }}</changefreq>
+      {%- endif -%}
+      {%- if item.sitemap.priority -%}
+    <priority>{{ item.sitemap.priority }}</priority>
+      {%- endif -%}
+    {%- endif %}
+  </url>
+      {%- endunless -%}
+    {%- endif -%}
+  {%- endfor %}
+</urlset>
+{%- comment -%}
+source: http://davidensinger.com/2013/11/building-a-better-sitemap-xml-with-jekyll/
+{%- endcomment -%}

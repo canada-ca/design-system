@@ -30,9 +30,11 @@
     "CNAME",
     "CODE_OF_CONDUCT.md",
     "CONTRIBUTING.md",
+    "design-system.code-workspace",
     "gcweb-jekyll.gemspec",
     "Gemfile",
     "Gemfile.lock",
+    "GEMINI.md",
     "LICENSE*",
     "log_*",
     "netlify.toml",
@@ -41,7 +43,8 @@
     "README.md",
     "screenshot.*",
     "SECURITY.md",
-    "vendor"
+    "vendor",
+    "venv"
   ],
   "include": [
     "_redirects"
