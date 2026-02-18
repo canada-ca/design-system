@@ -1,0 +1,53 @@
+abbr {
+  text-decoration: none !important;
+}
+
+figure img {
+	border: 1px #ddd solid !important;
+}
+
+/* fix spacing on lines */
+main {
+	line-height: 1.65em !important;
+}
+
+.gc-drmt p {
+  line-height: 1.35em !important;
+}
+
+
+/* fixes these times of tables from the title truncating */
+@media only screen and (min-width: 768px) {
+
+.dl-horizontal dt {
+	width: 11em !important;
+}
+
+.dl-horizontal dd {
+	margin-left: 11em !important;
+}
+
+}
+
+.pattern-demo {
+	padding: 19px;
+	border: 1px solid #e3e3e3;
+	box-shadow: 0px 0px 10px #ddd;
+}
+
+.pattern-demo.no-pddng {
+	padding: 0px !important;
+}
+
+/*styling for class=h1*/
+.h1 {
+ border-bottom: 1px solid #af3c43;
+ margin-bottom: .2em;
+ margin-top: 1em;
+ padding-bottom: .2em;
+}
+
+div.toc .active {
+    background-color: #333 !important;
+    border-color: #8f8f8f !important;
+}
