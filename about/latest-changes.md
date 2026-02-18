@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/a-propos/derniers-changements.html"
 date: 2017-10-05
-dateModified: 2026-02-11
+dateModified: 2026-02-19
 description: "Latest changes to the Canada.ca design"
 title: "Latest changes to the Canada.ca design"
 ---
@@ -12,7 +12,7 @@ title: "Latest changes to the Canada.ca design"
 <div id="expand-collapse">
   <details open="open">
     <summary><time datetime="2026-02-11">February 19, 2026</time></summary>
-    <p>Stabilized the <a href="{{ '/common-design-patterns/subway-navigation.html' | absolute_url }}">subway pattern</a> guidance.</p>
+    <p>Stabilized the <a href="{{ '/common-design-patterns/subway-navigation.html' | absolute_url }}">subway pattern</a>.</p>
   </details>
   <details>
     <summary><time datetime="2026-02-11">February 11, 2026</time></summary>
