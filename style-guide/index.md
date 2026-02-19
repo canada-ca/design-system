@@ -1466,7 +1466,7 @@ title: "Canada.ca Content Style Guide"
       <figcaption><strong>Figure 3</strong></figcaption>
       <img
        alt="A web page containing a heading with a question mark. Text version below:"
-       class="img-responsive center-block"
+       class="img-responsive"
        id="fig3"
        src="/style-guide/images/fig-03-eng.jpg"
       />
@@ -2923,7 +2923,7 @@ title: "Canada.ca Content Style Guide"
      <figcaption><strong>Figure 4</strong></figcaption>
      <img
       alt="Map of Canada: current conditions"
-      class="img-responsive center-block"
+      class="img-responsive"
       src="/style-guide/images/fig-04-eng.jpg"
      />
      <details>
@@ -3045,7 +3045,7 @@ title: "Canada.ca Content Style Guide"
      <figcaption><strong>Figure 5</strong></figcaption>
      <img
       alt="This chart helps you choose the accessibility project that is right for you: description follows"
-      class="img-responsive center-block"
+      class="img-responsive"
       src="/style-guide/images/flat-rate-flow-chart.png"
      />
      <details>
@@ -3273,7 +3273,7 @@ title: "Canada.ca Content Style Guide"
     </figcaption>
     <img
      alt="A balanced scorecard showing how business activities align with an organization's vision and strategy to monitor key performance indicators. Text version below. "
-     class="img-responsive center-block"
+     class="img-responsive"
      src="/style-guide/images/fig-01b-eng.jpg"
     />
     <h5>Alternative text</h5>
@@ -3331,7 +3331,7 @@ title: "Canada.ca Content Style Guide"
     </figcaption>
     <img
      alt="Comparison of the ratio of women and men in the civil service between 1983 and 2010. Text version below."
-     class="img-responsive center-block"
+     class="img-responsive"
      src="/style-guide/images/fig-02b-eng.jpg"
     />
     <p>
