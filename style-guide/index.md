@@ -1463,10 +1463,10 @@ title: "Canada.ca Content Style Guide"
      </ul>
      <h5>Example of question marks being used in forms, wizards, surveys or quizzes</h5>
      <figure class="mrgn-bttm-lg">
-      <figcaption class="text-center"><strong>Figure 3</strong></figcaption>
+      <figcaption><strong>Figure 3</strong></figcaption>
       <img
        alt="A web page containing a heading with a question mark. Text version below:"
-       class="img-responsive center-block"
+       class="img-responsive"
        id="fig3"
        src="/style-guide/images/fig-03-eng.jpg"
       />
@@ -2632,7 +2632,7 @@ title: "Canada.ca Content Style Guide"
      </p>
      <h6>Example of a complex table</h6>
      <table class="table table-bordered table-condensed">
-      <caption class="text-center">
+      <caption>
        <strong>National Hockey League Stanley Cup Canadian winning teams</strong>
       </caption>
       <thead>
@@ -2672,7 +2672,7 @@ title: "Canada.ca Content Style Guide"
      <p>The complex table easily converts into simple tables.</p>
      <h6>Example: one simple table</h6>
      <table class="table table-bordered table-condensed">
-      <caption class="text-center">
+      <caption>
        <strong>National Hockey League Stanley Cup Canadian winning teams</strong>
       </caption>
       <thead>
@@ -2716,7 +2716,7 @@ title: "Canada.ca Content Style Guide"
      </p>
      <h6>Example: multiple simple tables</h6>
      <table class="table table-bordered table-condensed">
-      <caption class="text-center">
+      <caption>
        <strong>Table 1: Eastern conference: National Hockey League Stanley Cup Canadian winning teams</strong>
       </caption>
       <thead>
@@ -2741,7 +2741,7 @@ title: "Canada.ca Content Style Guide"
       </tbody>
      </table>
      <table class="table table-bordered table-condensed">
-      <caption class="text-center">
+      <caption>
        <strong>Table 2: Western conference: National Hockey League Stanley Cup Canadian winning teams</strong>
       </caption>
       <thead>
@@ -2920,10 +2920,10 @@ title: "Canada.ca Content Style Guide"
     </p>
     <h5>Example of functional images</h5>
     <figure class="mrgn-bttm-lg">
-     <figcaption class="text-center"><strong>Figure 4</strong></figcaption>
+     <figcaption><strong>Figure 4</strong></figcaption>
      <img
       alt="Map of Canada: current conditions"
-      class="img-responsive center-block"
+      class="img-responsive"
       src="/style-guide/images/fig-04-eng.jpg"
      />
      <details>
@@ -3042,10 +3042,10 @@ title: "Canada.ca Content Style Guide"
      </details>
     </figure>
     <figure class="mrgn-bttm-lg">
-     <figcaption class="text-center"><strong>Figure 5</strong></figcaption>
+     <figcaption><strong>Figure 5</strong></figcaption>
      <img
       alt="This chart helps you choose the accessibility project that is right for you: description follows"
-      class="img-responsive center-block"
+      class="img-responsive"
       src="/style-guide/images/flat-rate-flow-chart.png"
      />
      <details>
@@ -3268,12 +3268,12 @@ title: "Canada.ca Content Style Guide"
    <p>Figure 1 illustrates a number of concepts. It requires a long description.</p>
    <h4>Example: Long description for the balanced scorecard</h4>
    <figure class="mrgn-bttm-lg">
-    <figcaption class="text-center">
+    <figcaption>
      <strong>Figure 1: using a balanced scorecard approach to monitor key performance indicators</strong>
     </figcaption>
     <img
      alt="A balanced scorecard showing how business activities align with an organization's vision and strategy to monitor key performance indicators. Text version below. "
-     class="img-responsive center-block"
+     class="img-responsive"
      src="/style-guide/images/fig-01b-eng.jpg"
     />
     <h5>Alternative text</h5>
@@ -3326,12 +3326,12 @@ title: "Canada.ca Content Style Guide"
     selected years from 1983 to 2010
    </h4>
    <figure class="mrgn-bttm-lg">
-    <figcaption class="text-center">
+    <figcaption>
      <strong>Figure 2: proportion of men and women in the public service for selected years from 1983 to 2010</strong>
     </figcaption>
     <img
      alt="Comparison of the ratio of women and men in the civil service between 1983 and 2010. Text version below."
-     class="img-responsive center-block"
+     class="img-responsive"
      src="/style-guide/images/fig-02b-eng.jpg"
     />
     <p>
@@ -3797,7 +3797,7 @@ title: "Canada.ca Content Style Guide"
    <h3>Case study B: improve and simplify tables</h3>
    <h4>Before</h4>
    <table class="table table-bordered table-condensed">
-    <caption class="text-center">
+    <caption>
      <strong>Table: supporting families and communities (in $ millions), Budget 2013</strong>
     </caption>
     <thead>
@@ -4114,7 +4114,7 @@ title: "Canada.ca Content Style Guide"
    </table>
    <h4>After</h4>
    <table class="table table-bordered table-condensed">
-    <caption class="text-center">
+    <caption>
      <strong>Table 1: supporting families and communities for fiscal years 2013 to 2014 and 2014 to 2015, net fiscal costs (in$ millions)<sup id="table1-fn1-rf"><a class="fn-lnk" href="#table1-fn1"><span class="wb-inv">table 1 note </span>1</a></sup
       ></strong
      >
@@ -4192,7 +4192,7 @@ title: "Canada.ca Content Style Guide"
     </tfoot>
    </table>
    <table class="table table-bordered table-condensed">
-    <caption class="text-center">
+    <caption>
      <strong
       >Table 1A: supporting families and communities for fiscal years 2013 to 2014 and 2014 to 2015, total costs (in $
       millions)<sup id="table2-fn1-rf"
@@ -4322,7 +4322,7 @@ title: "Canada.ca Content Style Guide"
     </tfoot>
    </table>
    <table class="table table-bordered table-condensed">
-    <caption class="text-center">
+    <caption>
      <strong
       >Table 1B: support for families for fiscal years 2013 to 2014 and 2014 to 2015 (in $ millions)<sup
        id="table3-fn1-rf"
@@ -4388,7 +4388,7 @@ title: "Canada.ca Content Style Guide"
     </tfoot>
    </table>
    <table class="table table-bordered table-condensed">
-    <caption class="text-center">
+    <caption>
      <strong
       >Table 1C: investing in communities for fiscal years 2013 to 2014 and 2014 to 2015 (in $ millions)<sup
        id="table4-fn1-rf"
@@ -4514,13 +4514,8 @@ title: "Canada.ca Content Style Guide"
     </tfoot>
    </table>
    <table class="table table-bordered table-condensed">
-    <caption class="text-center">
-     <strong
-      >Table 1D: protecting Canada's natural environment for fiscal years 2013 to 2014 and 2014 to 2015 (in
-      $&nbsp;millions)<sup id="table5-fn1-rf"
-       ><a class="fn-lnk" href="#table5-fn1"><span class="wb-inv">table 5 note </span>1</a></sup
-      ></strong
-     >
+    <caption>
+    <strong>Table 1D: protecting Canada's natural environment for fiscal years 2013 to 2014 and 2014 to 2015 (in $&nbsp;millions)<sup id="table5-fn1-rf"><a class="fn-lnk" href="#table5-fn1"><span class="wb-inv">table 5 note </span>1</a></sup></strong>
     </caption>
     <thead>
      <tr class="active">
@@ -4588,9 +4583,7 @@ title: "Canada.ca Content Style Guide"
          <dd id="table5-fn1">
           <p>Totals may not add due to rounding.</p>
           <p class="fn-rtn">
-           <a href="#table5-fn1-rf"
-            ><span class="wb-inv">Return to table 5 note </span>1<span class="wb-inv"> referrer</span></a
-           >
+           <a href="#table5-fn1-rf"><span class="wb-inv">Return to table 5 note </span>1<span class="wb-inv"> referrer</span></a>
           </p>
          </dd>
         </dl>
@@ -4600,13 +4593,8 @@ title: "Canada.ca Content Style Guide"
     </tfoot>
    </table>
    <table class="table table-bordered table-condensed">
-    <caption class="text-center">
-     <strong
-      >Table 1E: building strong Aboriginal communities for fiscal years 2013 to 2014 and 2014 to 2015 (in
-      $&nbsp;millions)<sup id="table6-fn1-rf"
-       ><a class="fn-lnk" href="#table6-fn1"><span class="wb-inv">table 6 note </span>1</a></sup
-      ></strong
-     >
+    <caption>
+     <strong>Table 1E: building strong Aboriginal communities for fiscal years 2013 to 2014 and 2014 to 2015 (in $&nbsp;millions)<sup id="table6-fn1-rf"><a class="fn-lnk" href="#table6-fn1"><span class="wb-inv">table 6 note </span>1</a></sup></strong>
     </caption>
     <thead>
      <tr class="active">
