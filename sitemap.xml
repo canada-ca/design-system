@@ -17,10 +17,6 @@
     <lastmod>2023-04-05</lastmod>
   </url>
   <url>
-    <loc>https://design.canada.ca/survey/about.html</loc>
-    <lastmod>2021-07-25</lastmod>
-  </url>
-  <url>
     <loc>https://design.canada.ca/feedback/access-feedback.html</loc>
     <lastmod>2024-07-18</lastmod>
   </url>
@@ -95,6 +91,10 @@
   <url>
     <loc>https://design.canada.ca/guidance/campaigns.html</loc>
     <lastmod>2025-09-08</lastmod>
+  </url>
+  <url>
+    <loc>https://design.canada.ca/about/canadaca-experience-office.html</loc>
+    <lastmod>2026-02-13</lastmod>
   </url>
   <url>
     <loc>https://design.canada.ca/common-design-patterns/carousels.html</loc>
@@ -227,10 +227,6 @@
   <url>
     <loc>https://design.canada.ca/continuous-improvement/designing.html</loc>
     <lastmod>2020-07-25</lastmod>
-  </url>
-  <url>
-    <loc>https://design.canada.ca/about/digital-transformation-office.html</loc>
-    <lastmod>2025-04-30</lastmod>
   </url>
   <url>
     <loc>https://design.canada.ca/common-design-patterns/disclaimer-overlay.html</loc>
