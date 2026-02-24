@@ -49,12 +49,12 @@
     <lastmod>2019-04-01</lastmod>
   </url>
   <url>
-    <loc>https://design.canada.ca/crisis/alerts.html</loc>
-    <lastmod>2025-05-19</lastmod>
-  </url>
-  <url>
     <loc>https://design.canada.ca/alerts/alerts.html</loc>
     <lastmod>2019-04-01</lastmod>
+  </url>
+  <url>
+    <loc>https://design.canada.ca/crisis/alerts.html</loc>
+    <lastmod>2025-05-19</lastmod>
   </url>
   <url>
     <loc>https://design.canada.ca/survey/analytics.html</loc>
@@ -388,11 +388,11 @@
     <lastmod>2023-04-05</lastmod>
   </url>
   <url>
-    <loc>https://design.canada.ca/mandatory-templates/ministerial-profile-pages.html</loc>
+    <loc>https://design.canada.ca/coded-layout/ministerial-profile-pages.html</loc>
     <lastmod>2025-12-22</lastmod>
   </url>
   <url>
-    <loc>https://design.canada.ca/coded-layout/ministerial-profile-pages.html</loc>
+    <loc>https://design.canada.ca/mandatory-templates/ministerial-profile-pages.html</loc>
     <lastmod>2025-12-22</lastmod>
   </url>
   <url>
@@ -708,10 +708,6 @@
   <url>
     <loc>https://design.canada.ca/continuous-improvement/team.html</loc>
     <lastmod>2021-07-25</lastmod>
-  </url>
-  <url>
-    <loc>https://design.canada.ca/contact-us/thank-you.html</loc>
-    <lastmod>2023-04-17</lastmod>
   </url>
   <url>
     <loc>https://design.canada.ca/mandatory-templates/theme.html</loc>
