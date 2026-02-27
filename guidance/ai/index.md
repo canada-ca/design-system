@@ -36,7 +36,7 @@ AI offers promising opportunities to enhance public service delivery on Canada.c
 
 Thousands visit Canada.ca daily, but feedback indicates that some struggle to find the information they need or have specific questions about interpreting content. The goal of AI help applications on Canada.ca is to assist users with questions about those services.
 
-In most cases, teams should be able to meet their users’ needs by using [AI&nbsp;Answers](https://ai-answers.alpha.canada.ca/en). This service helps people get answers from information already published on Canada.ca and other Government of Canada websites and is expected to launch in FY 2026-27. However, in some cases, specific topics may still require a separate AI help application. As you build public-facing AI help applications, use this guidance. It will evolve as we test and refine applications with various departments. Be sure to also follow the central guidance, including the Digital Standards Playbook and the Guide on the Use of Generative AI.
+In most cases, teams should be able to meet their users’ needs by using AI Answers. This service helps people get answers from information already published on Canada.ca and other Government of Canada websites and is expected to launch in FY 2026-27. However, in some cases, specific topics may still require a separate AI help application. As you build public-facing AI help applications, use this guidance. It will evolve as we test and refine applications with various departments. Be sure to also follow the central guidance, including the Digital Standards Playbook and the Guide on the Use of Generative AI.
 
 <section class="gc-srvinfo">
 	<h2 class="wb-inv">Services and information</h2>
