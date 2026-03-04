@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/guide-redaction"
 date: 2017-10-05
-dateModified:  2025-12-17
+dateModified:  2026-03-04
 description: "The Canada.ca Content Style Guide provides the rules to create web content that can be easily found, understood and used."
 image:
   filename: sg-preview-img.png
@@ -20,9 +20,7 @@ title: "Canada.ca Content Style Guide"
 <section id="toc">
  <div class="row mrgn-tp-lg">
   <div class="col-md-8">
-   <div class="panel panel-default">
-    <div class="panel-body">
-     <h2 class="mrgn-tp-sm">Table of contents</h2>
+     <h2 class="mrgn-tp-sm">On this page</h2>
      <ul>
       <li><a href="#toc1">Recent updates</a></li>
       <li><a href="#toc2">Purpose</a></li>
@@ -38,8 +36,6 @@ title: "Canada.ca Content Style Guide"
       <li><a href="#toc12">Web content makeovers</a></li>
       <li><a href="#toc13">Resources</a></li>
      </ul>
-    </div>
-   </div>
   </div>
  </div>
 </section>
@@ -155,8 +151,6 @@ title: "Canada.ca Content Style Guide"
  <h2>1.0 Writing principles for web content</h2>
  <div class="row mrgn-tp-lg">
   <div class="col-md-8">
-   <div class="panel panel-default">
-    <div class="panel-body">
      <h3 class="mrgn-tp-sm">In this section</h3>
      <ul>
       <li><a href="#wp1-1">1.1 Help people complete tasks</a></li>
@@ -172,8 +166,6 @@ title: "Canada.ca Content Style Guide"
       </li>
       <li><a href="#wp1-3">1.3 Provide equivalent content in both official languages</a></li>
      </ul>
-    </div>
-   </div>
   </div>
  </div>
  <p>The rules in this guide reflect how people read and use web content.</p>
@@ -339,8 +331,6 @@ title: "Canada.ca Content Style Guide"
  <h2>2.0 Communicate clearly with plain language</h2>
  <div class="row mrgn-tp-lg">
   <div class="col-md-8">
-   <div class="panel panel-default">
-    <div class="panel-body">
      <h3 class="mrgn-tp-sm">In this section</h3>
      <ul>
       <li><a href="#wp2-0">The duty to be clear: Plain language requirement</a></li>
@@ -383,8 +373,6 @@ title: "Canada.ca Content Style Guide"
       <li><a href="#wp2-7">2.7 Explain references to legislation</a></li>
       <li><a href="#wp2-8">2.8 Additional resources on plain language and clear communication</a></li>
      </ul>
-    </div>
-   </div>
   </div>
  </div>
  <section id="wp2-0">
@@ -1150,8 +1138,6 @@ title: "Canada.ca Content Style Guide"
    <h2>3.0 Tone</h2>
    <div class="row mrgn-tp-lg">
     <div class="col-md-8">
-     <div class="panel panel-default">
-      <div class="panel-body">
        <h3 class="mrgn-tp-sm">In this section</h3>
        <ul>
         <li>
@@ -1171,8 +1157,6 @@ title: "Canada.ca Content Style Guide"
         </li>
         <li><a href="#wp3-3">3.3 Expressing an obligation or a recommendation</a></li>
        </ul>
-      </div>
-     </div>
     </div>
    </div>
    <p>The tone of the government's web content should be:</p>
@@ -1382,8 +1366,6 @@ title: "Canada.ca Content Style Guide"
    <h2>4.0 Style</h2>
    <div class="row mrgn-tp-lg">
     <div class="col-md-8">
-     <div class="panel panel-default">
-      <div class="panel-body">
        <h3 class="mrgn-tp-sm">In this section</h3>
        <ul>
         <li>
@@ -1415,8 +1397,6 @@ title: "Canada.ca Content Style Guide"
         <li><a href="#wp4-10">4.10 Addresses </a></li>
         <li><a href="#wp4-11">4.11 Words and expressions in transition</a></li>
        </ul>
-      </div>
-     </div>
     </div>
    </div>
    <p>
@@ -2121,8 +2101,6 @@ title: "Canada.ca Content Style Guide"
    <h2>5.0 Content structure</h2>
    <div class="row mrgn-tp-lg">
     <div class="col-md-8">
-     <div class="panel panel-default">
-      <div class="panel-body">
        <h3 class="mrgn-tp-sm">In this section</h3>
        <ul class="list-unstyled">
         <li>
@@ -2153,8 +2131,6 @@ title: "Canada.ca Content Style Guide"
          </ul>
         </li>
        </ul>
-      </div>
-     </div>
     </div>
    </div>
    <p>
@@ -2834,8 +2810,6 @@ title: "Canada.ca Content Style Guide"
    <h2>6.0 Images and videos</h2>
    <div class="row mrgn-tp-lg">
     <div class="col-md-8">
-     <div class="panel panel-default">
-      <div class="panel-body">
        <h3 class="mrgn-tp-sm">In this section</h3>
        <ul>
         <li>
@@ -2850,8 +2824,6 @@ title: "Canada.ca Content Style Guide"
         <li><a href="#wp6-3">6.3 Include long descriptions for complex images</a></li>
         <li><a href="#wp6-4">6.4 Include transcripts to describe audio and video files</a></li>
        </ul>
-      </div>
-     </div>
     </div>
    </div>
    <p>You can use images and videos to:</p>
@@ -3455,8 +3427,6 @@ title: "Canada.ca Content Style Guide"
    <h2>7.0 Links</h2>
    <div class="row mrgn-tp-lg">
     <div class="col-md-8">
-     <div class="panel panel-default">
-      <div class="panel-body">
        <h3 class="mrgn-tp-sm">In this section</h3>
        <ul>
         <li>
@@ -3477,8 +3447,6 @@ title: "Canada.ca Content Style Guide"
         <li><a href="#wp7-3">7.3 Make sure that links work</a></li>
         <li><a href="#wp7-4">7.4 Linking to internal-to-government content</a></li>
        </ul>
-      </div>
-     </div>
     </div>
    </div>
    <p>
