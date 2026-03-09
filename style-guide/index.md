@@ -149,6 +149,7 @@ title: "Canada.ca Content Style Guide"
 </section>
 <section id="toc5">
  <h2>1.0 Writing principles for web content</h2>
+  <p>The rules in this guide reflect how people read and use web content.</p>
  <div class="row mrgn-tp-lg">
   <div class="col-md-8">
      <h3 class="mrgn-tp-sm">In this section</h3>
@@ -168,7 +169,6 @@ title: "Canada.ca Content Style Guide"
      </ul>
   </div>
  </div>
- <p>The rules in this guide reflect how people read and use web content.</p>
  <section id="wp1-1">
   <h3>1.1 Help people complete tasks</h3>
   <p>
@@ -1136,6 +1136,17 @@ title: "Canada.ca Content Style Guide"
   </section>
   <section id="toc7">
    <h2>3.0 Tone</h2>
+      <p>The tone of the government's web content should be:</p>
+   <ul>
+    <li>direct</li>
+    <li>informative</li>
+    <li>conversational</li>
+    <li>professional</li>
+   </ul>
+   <p>
+    Write as if you were talking to your audience in person, but with the authority of an institution that provides
+    information as part of its mandate.
+   </p>
    <div class="row mrgn-tp-lg">
     <div class="col-md-8">
        <h3 class="mrgn-tp-sm">In this section</h3>
@@ -1159,17 +1170,6 @@ title: "Canada.ca Content Style Guide"
        </ul>
     </div>
    </div>
-   <p>The tone of the government's web content should be:</p>
-   <ul>
-    <li>direct</li>
-    <li>informative</li>
-    <li>conversational</li>
-    <li>professional</li>
-   </ul>
-   <p>
-    Write as if you were talking to your audience in person, but with the authority of an institution that provides
-    information as part of its mandate.
-   </p>
    <section id="wp3-1">
     <h3>3.1 Write directly to the person</h3>
     <p>
@@ -1364,6 +1364,8 @@ title: "Canada.ca Content Style Guide"
   </section>
   <section id="toc8">
    <h2>4.0 Style</h2>
+      <p>On the web, less is more. Keep style and punctuation simple. Formatting (such as bold, italics and underlining) and
+    complex punctuation can be distracting and make reading difficult for many people.</p>
    <div class="row mrgn-tp-lg">
     <div class="col-md-8">
        <h3 class="mrgn-tp-sm">In this section</h3>
@@ -1399,10 +1401,6 @@ title: "Canada.ca Content Style Guide"
        </ul>
     </div>
    </div>
-   <p>
-    On the web, less is more. Keep style and punctuation simple. Formatting (such as bold, italics and underlining) and
-    complex punctuation can be distracting and make reading difficult for many people.
-   </p>
    <section id="wp4-1">
     <h3>4.1 Capitalization and punctuation</h3>
     <p>Use these styles for capitalization and punctuation of content in text, links and applications.</p>
@@ -2099,6 +2097,35 @@ title: "Canada.ca Content Style Guide"
   </section>
   <section id="toc9">
    <h2>5.0 Content structure</h2>
+    <p>
+    The structure and layout of content components help people find what they need quickly. Content components include:
+   </p>
+   <ul>
+    <li>page title &nbsp;</li>
+    <li>headings</li>
+    <li>lists</li>
+    <li>tables</li>
+   </ul>
+   <h3>On a web page</h3>
+   <p>Make sure you:</p>
+   <ul>
+    <li>divide the page into logical sections to give an overview of the information it contains</li>
+    <li>focus on the task and show only the information people need to complete the task</li>
+   </ul>
+   <p>Structure the content components efficiently to make your page:</p>
+   <ul>
+    <li>more visible to search engines and easier to find</li>
+    <li>easier to view on mobile devices</li>
+   </ul>
+   <h3>Across multiple web pages</h3>
+   <p>Think about how a person will journey through the content. If:</p>
+   <ul>
+    <li>your web page content covers too many topics, you might need to divide it into several pages</li>
+    <li>
+     several web pages contain pieces of content that relate to the same subject, consider combining them into a single
+     page
+    </li>
+   </ul>
    <div class="row mrgn-tp-lg">
     <div class="col-md-8">
        <h3 class="mrgn-tp-sm">In this section</h3>
@@ -2133,35 +2160,6 @@ title: "Canada.ca Content Style Guide"
        </ul>
     </div>
    </div>
-   <p>
-    The structure and layout of content components help people find what they need quickly. Content components include:
-   </p>
-   <ul>
-    <li>page title &nbsp;</li>
-    <li>headings</li>
-    <li>lists</li>
-    <li>tables</li>
-   </ul>
-   <h3>On a web page</h3>
-   <p>Make sure you:</p>
-   <ul>
-    <li>divide the page into logical sections to give an overview of the information it contains</li>
-    <li>focus on the task and show only the information people need to complete the task</li>
-   </ul>
-   <p>Structure the content components efficiently to make your page:</p>
-   <ul>
-    <li>more visible to search engines and easier to find</li>
-    <li>easier to view on mobile devices</li>
-   </ul>
-   <h3>Across multiple web pages</h3>
-   <p>Think about how a person will journey through the content. If:</p>
-   <ul>
-    <li>your web page content covers too many topics, you might need to divide it into several pages</li>
-    <li>
-     several web pages contain pieces of content that relate to the same subject, consider combining them into a single
-     page
-    </li>
-   </ul>
    <section id="wp5-1">
     <h3>5.1 Write useful page titles and headings</h3>
     <p>
@@ -2808,25 +2806,7 @@ title: "Canada.ca Content Style Guide"
   </section>
   <section id="toc10">
    <h2>6.0 Images and videos</h2>
-   <div class="row mrgn-tp-lg">
-    <div class="col-md-8">
-       <h3 class="mrgn-tp-sm">In this section</h3>
-       <ul>
-        <li>
-         <a href="#wp6-1">6.1 Understand the purpose of images online</a>
-         <ul>
-          <li><a href="#wp6-1-1">Functional images</a></li>
-          <li><a href="#wp6-1-2">Decorative images</a></li>
-          <li><a href="#wp6-1-3">Image sizing and placement</a></li>
-         </ul>
-        </li>
-        <li><a href="#wp6-2">6.2 Include alternative text for images</a></li>
-        <li><a href="#wp6-3">6.3 Include long descriptions for complex images</a></li>
-        <li><a href="#wp6-4">6.4 Include transcripts to describe audio and video files</a></li>
-       </ul>
-    </div>
-   </div>
-   <p>You can use images and videos to:</p>
+      <p>You can use images and videos to:</p>
    <ul>
     <li>enhance key messages</li>
     <li>help people complete their task</li>
@@ -2855,6 +2835,24 @@ title: "Canada.ca Content Style Guide"
      >na-web_support-soutien_du_web-gd@servicecanada.gc.ca</a
     >.
    </p>
+   <div class="row mrgn-tp-lg">
+    <div class="col-md-8">
+       <h3 class="mrgn-tp-sm">In this section</h3>
+       <ul>
+        <li>
+         <a href="#wp6-1">6.1 Understand the purpose of images online</a>
+         <ul>
+          <li><a href="#wp6-1-1">Functional images</a></li>
+          <li><a href="#wp6-1-2">Decorative images</a></li>
+          <li><a href="#wp6-1-3">Image sizing and placement</a></li>
+         </ul>
+        </li>
+        <li><a href="#wp6-2">6.2 Include alternative text for images</a></li>
+        <li><a href="#wp6-3">6.3 Include long descriptions for complex images</a></li>
+        <li><a href="#wp6-4">6.4 Include transcripts to describe audio and video files</a></li>
+       </ul>
+    </div>
+   </div>
   </section>
   <section id="wp6-1">
    <h3>6.1 Understand the purpose of images online</h3>
@@ -3425,6 +3423,18 @@ title: "Canada.ca Content Style Guide"
   </section>
   <section id="toc11">
    <h2>7.0 Links</h2>
+      <p>
+    A link (or hyperlink) is a word, phrase or image on a web page that people click on to move to another part of the
+    same content or to access an entirely different web resource (such as a web page, video or downloadable file).
+   </p>
+   <p>
+    People who use assistive technology can navigate web content using links. For example, screen readers list all links
+    on a page without the contextual content.
+   </p>
+   <p>
+    Your links should be descriptive and able to stand alone so that it's clear what people can expect if they click on
+    them.
+   </p>
    <div class="row mrgn-tp-lg">
     <div class="col-md-8">
        <h3 class="mrgn-tp-sm">In this section</h3>
@@ -3449,18 +3459,6 @@ title: "Canada.ca Content Style Guide"
        </ul>
     </div>
    </div>
-   <p>
-    A link (or hyperlink) is a word, phrase or image on a web page that people click on to move to another part of the
-    same content or to access an entirely different web resource (such as a web page, video or downloadable file).
-   </p>
-   <p>
-    People who use assistive technology can navigate web content using links. For example, screen readers list all links
-    on a page without the contextual content.
-   </p>
-   <p>
-    Your links should be descriptive and able to stand alone so that it's clear what people can expect if they click on
-    them.
-   </p>
    <section id="wp7-1">
     <h3>7.1 Use links strategically</h3>
     <p>Be strategic about how you place and create links on a web page and about how many links you provide:</p>
