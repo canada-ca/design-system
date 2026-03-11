@@ -10,3 +10,8 @@ updates:
   - dependency-name: vnu-jar
     versions:
     - 21.2.5
+- package-ecosystem: bundler
+  directory: "/"
+  schedule:
+    interval: monthly
+    time: "11:00"
