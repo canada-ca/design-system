@@ -743,12 +743,12 @@
     "MANDATORY": "No",
     "TANDP": "1"
   }, {
-    "NAME": "<a href=\"{{ site.url }}/mandatory-templates/theme.html\">Theme page</a>",
+    "NAME": "<a href=\"{{ site.url }}/mandatory-templates/theme.html\">Layered theme page</a>",
     "SOURCE": "Template and pattern library",
-    "DESCRIPTION": "Theme pages provide access to topics and destination pages that support task completion.",
-    "WHENTOUSE": "Allows people to discover services and information related to a specific theme across government - <strong>Mandatory template</strong>",
-    "CATEGORY": "Template",
-    "TYPE": "Theme template, Navigation",
+    "DESCRIPTION": "Guidance on using a layered theme navigation page on Canada.ca. A layered theme navigation page allows people to find services and information from all Government of Canada websites grouped under one of the main themes of Canada.ca.",
+    "WHENTOUSE": "Use for the main themes for Canada.ca, for theme-based navigation.",
+    "CATEGORY": "Design pattern",
+    "TYPE": "Navigation, Site-wide pattern, layered theme template",
     "MANDATORY": "Mandatory",
     "TANDP": "1"
   }, {
