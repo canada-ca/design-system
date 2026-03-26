@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/a-propos/derniers-changements.html"
 date: 2017-10-05
-dateModified: 2026-02-19
+dateModified: 2026-03-27
 description: "Latest changes to the Canada.ca design"
 title: "Latest changes to the Canada.ca design"
 ---
@@ -11,18 +11,25 @@ title: "Latest changes to the Canada.ca design"
 </div>
 <div id="expand-collapse">
   <details open="open">
-    <summary><time datetime="2026-02-11">February 19, 2026</time></summary>
+    <summary><time datetime="2026-02-19">February 19, 2026</time></summary>
     <p>Stabilized the <a href="{{ '/common-design-patterns/subway-navigation.html' | absolute_url }}">subway pattern</a>.</p>
   </details>
   <details>
+    <summary><time datetime="2026-02-13">February 13, 2026</time></summary>
+    <p>Published <a href="{{ '/guidance/ai/design-guidance.html' | absolute_url }}">design guidance for AI help applications</a>.</p>
+  </details>
+  <details>
+    <summary><time datetime="2026-02-05">February 5, 2026</time></summary>
+    <p>Created a <a href="{{ '/recommended-templates/404-error-page.html' | absolute_url }}">404 error page template</a>. Redesigned the current unilingual and bilingual 404 error pages used on Canada.ca.</p>
+  </details>
+  <details>
     <summary><time datetime="2026-02-11">February 11, 2026</time></summary>
-    <p>Updated <a href="{{ '/common-design-patterns/breadcrumb-trail.html' | absolute_url }}">breadcrumb trail</a> guidance to clarify:
-<ul>
-  <li>when breadcrumbs are required (and when they aren’t)</li>
-  <li>how breadcrumbs apply to campaign pages</li>
-  <li>which links should appear in a breadcrumb trail</li>
-</ul>
-</p>
+    <p>Updated <a href="{{ '/common-design-patterns/breadcrumb-trail.html' | absolute_url }}">breadcrumb trail</a> guidance to clarify:</p>
+    <ul>
+      <li>when breadcrumbs are required (and when they aren’t)</li>
+      <li>how breadcrumbs apply to campaign pages</li>
+      <li>which links should appear in a breadcrumb trail</li>
+    </ul>
   </details>
   <details>
     <summary><time datetime="2026-01-30">January 30, 2026</time></summary>
