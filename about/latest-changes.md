@@ -16,7 +16,7 @@ title: "Latest changes to the Canada.ca design"
   </details>
   <details>
     <summary><time datetime="2026-02-13">February 13, 2026</time></summary>
-    <p>Published <a href="{{ '/guidance/ai/design-guidance.html' | absolute_url }}">design guidance for AI help applications</a>.</p>
+    <p>Published <a href="{{ '/guidance/ai/index.html' | absolute_url }}">design guidance for AI help applications</a>.</p>
   </details>
   <details>
     <summary><time datetime="2026-02-05">February 5, 2026</time></summary>
