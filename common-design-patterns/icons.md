@@ -5,6 +5,6 @@ dateModified: 2026-04-22
 title: "No longer supported: Icons design pattern"
 layout: redirect
 redirect:
-  link: /common-design-patterns/images.html
+  link: https://design.canada.ca/common-design-patterns/images.html
   title: Images and icons
 ---
