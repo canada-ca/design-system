@@ -21,11 +21,11 @@ permissions:
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
 # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
-  group: "pages"
+  group: "production-deploy"
   cancel-in-progress: false
 
 jobs:
-  build-and-deploy:
+  build_and_deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -48,5 +48,8 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
+          # keep_files is intentionally set to true so that existing content (including PR preview directories)
+          # is not deleted on each deploy. Old preview directories are periodically cleaned up by
+          # .github/workflows/cleanup-previews.yml to prevent unbounded growth of the gh-pages branch.
           keep_files: true
           publish_branch: gh-pages
