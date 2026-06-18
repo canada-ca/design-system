@@ -684,6 +684,25 @@
           "link": "https://www.canada.ca/en/government/about-canada-ca.html"
         }]
       }
+    },
+    {
+      "scope": {
+        "path": "specifications"
+      },
+      "values": {
+        "breadcrumbs": [{
+          "title": "About Canada.ca",
+          "link": "https://www.canada.ca/en/government/about-canada-ca.html"
+        },
+        {
+          "title": "Design",
+          "link": "https://design.canada.ca/"
+        },
+        {
+          "title": "Specifications",
+          "link": "https://design.canada.ca/specifications.html"
+        }]
+      }
     }
   ]
 }

@@ -518,7 +518,7 @@
     "MANDATORY": "",
     "TANDP": "0"
   },{
-    "NAME": "<a href=\"https://www.canada.ca/en/government/about/design-system/institutions-list.html\">Institutions subject to the Canada.ca design system</a>",
+    "NAME": "<a href=\"{{ site.url }}/specifications/usage-canadaca-design/institutions-list.html\">Institutions subject to the Canada.ca design system</a>",
     "SOURCE": "Designing content",
     "DESCRIPTION": "List of Government of Canada institutions subject to the Canada.ca design system",
     "WHENTOUSE": "List of Government of Canada institutions subject to the Canada.ca design system",

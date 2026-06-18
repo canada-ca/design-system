@@ -1,0 +1,148 @@
+display_name_en,display_name_fr,category,acronym_en,acronym_fr,landing_page_template,parent_institution
+Agriculture and Agri-Food Canada,Agriculture et Agroalimentaire Canada,Ministerial Department,AAFC,AAC,Institutional landing page,
+Canadian Heritage,Patrimoine canadien,Ministerial Department,PCH,PCH,Institutional landing page,
+Crown-Indigenous Relations and Northern Affairs Canada,Relations Couronne-Autochtones et Affaires du Nord Canada,Ministerial Department,CIRNAC,RCAANC,Institutional landing page,
+Defence Investment Agency,Agence Investissement Défense,Department Agency,DIA,AID,Institutional landing page,PSPC
+"Immigration, Refugees and Citizenship Canada","Immigration, Réfugiés et Citoyenneté Canada",Ministerial Department,IRCC,IRCC,Institutional landing page,
+Employment and Social Development Canada,Emploi et Développement social Canada,Ministerial Department,ESDC,EDSC,Institutional landing page,
+Department of Finance Canada,Ministère des Finances Canada,Ministerial Department,FIN,FIN,Institutional landing page,
+Fisheries and Oceans Canada,Pêches et Océans Canada,Ministerial Department,DFO,MPO,Institutional landing page,
+Global Affairs Canada,Affaires mondiales Canada,Ministerial Department,GAC,AMC,Institutional landing page,
+Health Canada,Santé Canada,Ministerial Department,HC,SC,Institutional landing page,
+Indigenous Services Canada,Services aux Autochtones Canada,Ministerial Department,ISC,SAC,Institutional landing page,
+"Innovation, Science and Economic Development Canada","Innovation, Sciences et Développement économique Canada",Ministerial Department,ISED,ISDE,Institutional landing page,
+Department of Justice Canada,Ministère de la Justice Canada,Ministerial Department,JUS,JUS,Institutional landing page,
+National Defence,Défense nationale,Ministerial Department,DND,MDN,Institutional landing page,
+Natural Resources Canada,Ressources naturelles Canada,Ministerial Department,NRCan,RNCan,Institutional landing page,
+Public Safety Canada,Sécurité publique Canada,Ministerial Department,PS,SP,Institutional landing page,
+Public Services and Procurement Canada,Services publics et Approvisionnement Canada,Ministerial Department,PSPC,SPAC,Institutional landing page,
+Environment and Climate Change Canada,Environnement et Changement climatique Canada,Ministerial Department,ECCC,ECCC,Institutional landing page,
+Transport Canada,Transports Canada,Ministerial Department,TC,TC,Institutional landing page,
+Veterans Affairs Canada,Anciens Combattants Canada,Ministerial Department,VAC,ACC,Institutional landing page,
+Western Economic Diversification Canada,Diversification de l’économie de l’Ouest Canada,Ministerial Department,WD,DEO,Institutional landing page,ISED
+Treasury Board of Canada Secretariat,Secrétariat du Conseil du Trésor du Canada,Ministerial Department,TBS,SCT,Institutional landing page,
+Canadian Radio-television and Telecommunications Commission,Conseil de la radiodiffusion et des télécommunications canadiennes,Departmental Agency,CRTC,CRTC,Institutional landing page,PCH
+Canadian Transportation Agency,Office des transports du Canada,Departmental Agency,CTA,OTC,Institutional landing page,TC
+Civilian Review and Complaints Commission for the RCMP,Commission civile d’examen et de traitement des plaintes relatives à la GRC,Departmental Agency,CRCC,CCETP,Institutional landing page,PS
+Copyright Board Canada,Commission du droit d’auteur Canada,Departmental Agency,CB,CDA,Institutional landing page,ISED
+Immigration and Refugee Board of Canada,Commission de l’immigration et du statut de réfugié du Canada,Departmental Agency,IRB,CISR,Institutional landing page,
+Military Grievances External Review Committee,Comité externe d’examen des griefs militaires,Departmental Agency,MGERC,CEEGM,Institutional landing page,JUS
+Military Police Complaints Commission of Canada,Commission d’examen des plaintes concernant la police militaire du Canada,Departmental Agency,MPCC,CPPM,Institutional landing page,JUS
+Parole Board of Canada,Commission des libérations conditionnelles du Canada,Departmental Agency,PBC,CLCC,Institutional landing page,PS
+Patented Medicine Prices Review Board Canada,Conseil d’examen du prix des médicaments brevetés Canada,Departmental Agency,PMPRB,CEPMB,Institutional landing page,HC
+RCMP External Review Committee,Comité externe d’examen de la GRC,Departmental Agency,ERC,CEE,Institutional landing page,PS
+Administrative Tribunals Support Service of Canada,Service canadien d’appui aux tribunaux administratifs,Departmental Agency,ATSSC,SCDATA,Institutional landing page,JUS
+Impact Assessment Agency of Canada,Agence d'évaluation d'impact du Canada,Departmental Agency,IAAC,AEIC,Institutional landing page,ECCC
+Canadian Space Agency,Agence spatiale canadienne,Departmental Agency,CSA,ASC,Institutional landing page,ISED
+Financial Consumer Agency of Canada,Agence de la consommation en matière financière du Canada,Departmental Agency,FCAC,ACFC,Institutional landing page,FIN
+Financial Transactions and Reports Analysis Centre of Canada,Centre d’analyse des opérations et déclarations financières du Canada,Departmental Agency,FINTRAC,CANAFE,Institutional landing page,FIN
+Library and Archives Canada,Bibliothèque et Archives Canada,Departmental Agency,LAC,BAC,Institutional landing page,PCH
+Farm Products Council of Canada,Conseil des produits agricoles du Canada,Departmental Agency,FPCC,CPAC,Institutional landing page,AAFC
+Northern Pipeline Agency Canada,Administration du pipe-line du Nord Canada,Departmental Agency,NPA,APN,Institutional landing page,NRCan
+Office of the Commissioner for Federal Judicial Affairs Canada,Commissariat à la magistrature fédérale Canada,Departmental Agency,FJA,CMF,Institutional landing page,JUS
+Status of Women Canada,Condition féminine Canada,Departmental Agency,SWC,CFC,Institutional landing page,PCH
+Office of the Correctional Investigator,Bureau de l’enquêteur correctionnel,Departmental Agency,OCI,BEC,Institutional landing page,PS
+Public Prosecution Service of Canada,Service des poursuites pénales du Canada,Departmental Agency,PPSC,SPPC,Institutional landing page,JUS
+Office of the Superintendent of Financial Institutions Canada,Bureau du surintendant des institutions financières Canada,Departmental Agency,OSFI,BSIF,Institutional landing page,FIN
+Public Health Agency of Canada,Agence de la santé publique du Canada,Departmental Agency,PHAC,ASPC,Institutional landing page,HC
+Public Service Commission of Canada,Commission de la fonction publique du Canada,Departmental Agency,PSC,CFP,Institutional landing page,PSPC
+Canadian Northern Economic Development Agency,Agence canadienne de développement économique du Nord,Departmental Agency,CanNor,CanNor,Institutional landing page,ISED
+Communications Security Establishment,Centre de la sécurité des télécommunications,Departmental Agency,CSEC,CSTC,Institutional landing page,DND
+Correctional Service Canada,Service correctionnel Canada,Departmental Agency,CSC,SCC,Institutional landing page,PS
+Canada Economic Development for Quebec Regions,Développement économique Canada pour les régions du Québec,Departmental Agency,CED,DEC,Institutional landing page,ISED
+Federal Economic Development Agency for Southern Ontario,Agence fédérale de développement économique pour le Sud de l’Ontario,Departmental Agency,FedDev Ontario,FedDev Ontario,Institutional landing page,ISED
+"Housing, Infrastructure and Communities Canada","Logement, Infrastructures et Collectivités Canada",Departmental Agency,HICC,LICC,Institutional landing page,
+Privy Council Office,Bureau du Conseil privé,Departmental Agency,PCO,BCP,Institutional landing page,
+Shared Services Canada,Services partagés Canada,Departmental Agency,SSC,SPC,Institutional landing page,PSPC
+Statistics Canada,Statistique Canada,Departmental Agency,StatCan,StatCan,Institutional landing page,ISED
+National Energy Board,Office national de l’énergie,Departmental Agency,NEB,ONE,Institutional landing page,NRCan
+Veterans Review and Appeal Board,Tribunal des anciens combattants (révision et appel),Departmental Agency,VRAB,TACRA,Institutional landing page,VAC
+Canadian Grain Commission,Commission canadienne des grains,Departmental Agency,CGC,CCG,Institutional landing page,AAFC
+Canadian Human Rights Commission,Commission canadienne des droits de la personne,Departmental Agency,CHRC,CCDP,Institutional landing page,JUS
+Canadian Security Intelligence Service,Service canadien du renseignement de sécurité,Departmental Agency,CSIS,SCRS,Institutional landing page,PS
+National Security and Intelligence Review Agency,Office de surveillance des activités en matière de sécurité nationale et de renseignement,Departmental Agency,NSIRA,OSAMSN,Institutional landing page,
+National Film Board,Office national du film,Departmental Agency,NFB,ONF,Institutional landing page,PCH
+Royal Canadian Mounted Police,Gendarmerie royale du Canada,Departmental Agency,RCMP,GRC,Institutional landing page,PS
+Atlantic Canada Opportunities Agency,Agence de promotion économique du Canada atlantique,Departmental Agency,ACOA,APECA,Institutional landing page,ISED
+Canadian Nuclear Safety Commission,Commission canadienne de sûreté nucléaire,Departmental Corporation,CNSC,CCSN,Institutional landing page,NRCan
+Transportation Safety Board of Canada,Bureau de la sécurité des transports du Canada,Departmental Corporation,TSB,BST,Institutional landing page,
+Canada Employment Insurance Commission,Commission de l’assurance-emploi du Canada,Departmental Corporation,CEIC,CAEC,Institutional landing page,ESDC
+Polar Knowledge Canada,Savoir polaire Canada,Departmental Corporation,POLAR,POLAIRE,Institutional landing page,CIRNAC
+The National Battlefields Commission,Commission des champs de bataille nationaux,Departmental Corporation,NBC,CCBN,Institutional landing page,PCH
+National Research Council Canada,Conseil national de recherches Canada,Departmental Corporation,NRC,CNRC,Institutional landing page,ISED
+Natural Sciences and Engineering Research Council,Conseil de recherches en sciences naturelles et en génie,Departmental Corporation,NSERC,CRSNG,Institutional landing page,ISED
+Parks Canada,Parcs Canada,Departmental Corporation,PC,PC,Institutional landing page,ECCC
+Social Sciences and Humanities Research Council of Canada,Conseil de recherches en sciences humaines du Canada,Departmental Corporation,SSHRC,CRSH,Institutional landing page,ISED
+Canada Border Services Agency,Agence des services frontaliers du Canada,Departmental Corporation,CBSA,ASFC,Institutional landing page,PS
+Canadian Food Inspection Agency,Agence canadienne d’inspection des aliments,Departmental Corporation,CFIA,ACIA,Institutional landing page,HC
+Canadian Centre for Occupational Health and Safety,Centre canadien d’hygiène et de sécurité au travail,Departmental Corporation,CCOHS,CCHST,Institutional landing page,ESDC
+Canadian Institutes of Health Research,Instituts de recherche en santé du Canada,Departmental Corporation,CIHR,IRSC,Institutional landing page,HC
+Canada Revenue Agency,Agence du revenu du Canada,Departmental Corporation,CRA,ARC,Institutional landing page,
+Canada School of Public Service,École de la fonction publique du Canada,Departmental Corporation,CSPS,EFPC,Institutional landing page,TBS
+Secretariat of the National Security and Intelligence Committee of Parliamentarians,Secrétariat du Comité des parlementaires sur la sécurité nationale et le renseignement,No institutional form,,,Institutional landing page,
+Human Rights Tribunal of Canada,Tribunal des droits de la personne du Canada,Departmental Agency,HRTC,TDPC,Institutional landing page,
+Public Servants Disclosure Protection Tribunal Canada,Tribunal de la protection des fonctionnaires divulgateurs Canada,Departmental Agency,PSDPTC,TPTFDC,Institutional landing page,PSPC
+Public Service Labour Relations and Employment Board,Commission des relations de travail et de l’emploi dans la fonction publique,Departmental Agency,PSLREB,CRTEFP,Institutional landing page,PSPC
+Registry of the Specific Claims Tribunal of Canada,Greffe du Tribunal des revendications particulières du Canada,Departmental Agency,SCT,TRP,Institutional landing page,CIRNAC
+Transportation Appeal Tribunal of Canada,Tribunal d’appel des transports du Canada,Departmental Agency (Historical),TATC,TATC,Institutional landing page,TC
+Canada Industrial Relations Board,Conseil canadien des relations industrielles,Departmental Agency (Historical),CIRB,CCRI,Institutional landing page,ESDC
+Social Security Tribunal of Canada,Tribunal de la sécurité sociale du Canada,Other Organization (Historical),SST,TSS,Institutional landing page,ESDC
+Office of the Superintendent of Bankruptcy Canada,Bureau du surintendant des faillites Canada,Other Organization (HR entity),OSB,BSF,Institutional landing page,ISED
+Historic Sites and Monuments Board of Canada,Commission des lieux et monuments historiques du Canada,No Institutional Form,HSMBC,CLMHC,Institutional landing page,ECCC
+Competition Bureau Canada,Bureau de la concurrence Canada,No Institutional Form,COBU,BUCO,Institutional landing page,ISED
+Service Canada,Service Canada,No Institutional Form,ServCan,ServCan,Institutional landing page,ESDC
+Occupational Health and Safety Tribunal Canada,Tribunal de santé et sécurité au travail Canada,Other Organization (Historical),OHSTC,TSSTC,Institutional landing page,ESDC
+Environmental Protection Review Canada,Révision de la protection de l’environnement Canada,No Institutional Form,EPRC,RPEC,Institutional landing page,ECCC
+Communications Research Centre Canada,Centre de recherches sur les communications Canada,No Institutional Form,CRC,CRC,Institutional landing page,ISED
+Canada Firearms Centre,Centre des armes à feu Canada,No Institutional Form,CAFC,CAFC,Institutional landing page,PS
+Canadian Coast Guard,Garde côtière canadienne,SOA,CCG,GCC,Institutional landing page,DFO
+Measurement Canada,Mesures Canada,SOA,MC,MC,Institutional landing page,ISED
+Canadian Intellectual Property Office,Office de la propriété intellectuelle du Canada,SOA,CIPO,OPIC,Institutional landing page,ISED
+Canadian Conservation Institute,Institut canadien de conservation,SOA,CCI,ICC,Institutional landing page,PCH
+Defence Research and Development Canada,Recherche et développement pour la Défense Canada,SOA,DRDC,RDDC,Institutional landing page,DND
+Canada Agricultural Review Tribunal,Commission de révision agricole du Canada,Other Organization (Historical),CART,CRAC,Institutional landing page,AAFC
+Canadian Army,Armée canadienne,No Institutional Form,,,Institutional landing page,DND
+Canadian Cultural Property Export Review Board,Commission canadienne d’examen des exportations de biens culturels,Departmental Agency (Historical),,,Institutional landing page,PCH
+Canadian International Trade Tribunal,Tribunal canadien du commerce extérieur,Departmental Agency (Historical),,,Institutional landing page,FIN
+Royal Canadian Navy,Marine royale canadienne,No Institutional Form,RCN,MRC,Institutional landing page,DND
+Canadian Special Operations Forces Command,Commandement des Forces d'opérations spéciales du Canada,No Institutional Form,CANSOFCOM,COMFOSCAN,Institutional landing page,DND
+Competition Tribunal,Tribunal de la concurrence,Departmental Agency,,,Institutional landing page,ISED
+Independent Review Panel for Defence Acquisition,Commission indépendante d'examen des acquisitions de la Défense,No Institutional Form,IRPDA,CIEAD,Institutional landing page,DND
+Labour Program,Programme du travail,No Institutional Form,,,Institutional landing page,ESDC
+Office of the Extractive Sector Corporate Social Responsibility Counsellor,Bureau du conseiller en responsabilité sociale des entreprises de l'industrie extractive,No Institutional Form,,,Institutional landing page,GAC
+Office of the Federal Ombudsman for Victims of Crime,Bureau de l’ombudsman fédéral des victimes d’actes criminels,No Institutional Form,OFOVC,BOFVAC,Institutional landing page,JUS
+Office of the Ombudsman for the Department of National Defence and the Canadian Forces,Bureau de l’ombudsman de la Défense nationale et des Forces canadiennes,No Institutional Form,,,Institutional landing page,DND
+Office of the Procurement Ombud,Bureau de l’ombud de l’approvisionnement,No Institutional Form,OPO,BOA,Institutional landing page,PSPC
+Office of the Taxpayers’ Ombudsman,Bureau de l’ombudsman des contribuables,No Institutional Form,OTO,BOC,Institutional landing page,CRA
+Office of the Veterans’ Ombudsman,Ombudsman des vétérans,No Institutional Form,,,Institutional landing page,VAC
+Royal Canadian Air Force,Aviation royale canadienne,No Institutional Form,RCAF,ARC,Institutional landing page,DND
+Innovation Hub,Centre d'innovation,No Institutional Form,,,Institutional landing page,PCO
+Canadian Heritage Information Network,Réseau canadien d’information sur le patrimoine,SOA,,,Institutional landing page,PCH
+Canadian Pari-Mutuel Agency,Agence canadienne du pari mutuel,SOA,,,Institutional landing page,AAFC
+Indian Oil and Gas Canada,Pétrole et gaz des Indiens du Canada,SOA,,,Institutional landing page,CIRNAC
+Industrial Technologies Office,Office des technologies industrielles,SOA,ITO,OTI,Institutional landing page,ISED
+Physical Resources Bureau,Direction générale des biens,SOA,,,Institutional landing page,GAC
+Translation Bureau,Bureau de la traduction,SOA,,,Institutional landing page,PSPC
+Intergovernmental Affairs,Affaires intergouvernementales,No Institutional Form,,,Institutional landing page,PCO
+Youth,Jeunesse,No Institutional Form,,,Institutional landing page,PCH
+Democratic Institutions,Institutions démocratiques,No Institutional Form,,,Institutional landing page,PCO
+Leader of the Government in the House of Commons,Leader du gouvernement à la Chambre des communes,No Institutional Form,,,Institutional landing page,PCO
+National Seniors Council,Conseil national des aînés,No Institutional Form,,,Institutional landing page,ESDC
+Office of the Chief Military Judge,Le cabinet du juge militaire en chef,No Institutional Form,OCMJ,CJMC,Institutional landing page,DND
+Committee on the status of Endangered Wildlife,Comité sur la situation des espèces en péril au Canada,No Institutional Form,,,Partnering/Collaborative Arrangement Profile,ECCC
+Saguenay – Lac-Saint-Jean,Saguenay – Lac-Saint-Jean,No Institutional Form,,,Partnering/Collaborative Arrangement Profile,CRA
+Interagency Advisory Panel on Research Ethics,Le Groupe consultatif interagences en éthique de la recherche,No Institutional Form,,,Partnering/Collaborative Arrangement Profile,CIHR
+Advisory Panel on Responsible Conduct of Research,Le Groupe consultatif sur la conduite responsable de la recherche,No Institutional Form,,,Partnering/Collaborative Arrangement Profile,CIHR
+Integrated Terrorism Assessment Centre,Centre intégré d’évaluation du terrorisme,No Institutional Form,,,Partnering/Collaborative Arrangement Profile,CSIS
+Canadian Dairy Information Centre (CDIC),Centre canadien d’information laitière (CCIL),No Institutional Form,,,Partnering/Collaborative Arrangement Profile,AAFC
+Bedford Institute of Oceanography,Institut océanographique de Bedford,No Institutional Form,,,Partnering/Collaborative Arrangement Profile,DFO
+Education in Canada,Education au Canada,No Institutional Form,,,Partnering/Collaborative Arrangement Profile,GAC
+Marine Security Operations Centres Project,Le projet des Centres d’opérations de sécurité maritime,No Institutional Form,,,Partnering/Collaborative Arrangement Profile,DFO
+The Canadian Shellfish Sanitation Program,Programme canadien de contrôle de la salubrité des mollusques,No Institutional Form,,,Partnering/Collaborative Arrangement Profile,ECCC
+The Ontario-Quebec Continental Gateway,La porte continentale Ontario-Québec,No Institutional Form,,,Partnering/Collaborative Arrangement Profile,TC
+Canadian Centre for Housing Technology,Centre canadien des technologies résidentielles,No Institutional Form,,,Partnering/Collaborative Arrangement Profile,NRC
+Criminal Intelligence Service Canada,Le Service canadien de renseignements criminels,No Institutional Form,,,Partnering/Collaborative Arrangement Profile,RCMP
+Canada-Alberta Oil Sands Environmental Monitoring,Surveillance environnementale des sables bitumineux Canada-Alberta,No Institutional Form,,,Partnering/Collaborative Arrangement Profile,ECCC
+Wild Species,Espèces sauvages,No Institutional Form,,,Partnering/Collaborative Arrangement Profile,ECCC
+Genomics Research and Defence Initiative,Initiative de Recherche et développement en génomique,No Institutional Form,,,Partnering/Collaborative Arrangement Profile,NRC
+Canada Water Agency,Agence de l’eau du Canada,Department Agency,CWA,AEC,Partnering/Collaborative Arrangement Profile,ECCC

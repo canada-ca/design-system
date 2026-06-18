@@ -88,7 +88,7 @@ breadcrumbs: [{
    <div class="col-md-4">
      <section>
       <h3 class="h5">
-       <a href="./pattern-library.html">
+       <a href="/pattern-library.html">
         Templates and patterns
        </a>
       </h3>
@@ -100,7 +100,7 @@ breadcrumbs: [{
     <div class="col-md-4">
       <section>
         <h3 class="h5">
-        <a href="./about/latest-changes.html">
+        <a href="/specifications/latest-changes.html">
           Latest changes to the Canada.ca design
         </a>
         </h3>
