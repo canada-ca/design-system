@@ -698,26 +698,19 @@ Provide a brief justification based on:
 </nav>
 
 <script>
-$(document).on("click", ".copy-btn", async function () {
+document.addEventListener("click", function(e) {
+  const btn = e.target.closest(".copy-btn");
+  if (!btn) return;
 
-    const targetId = $(this).data("copy-target");
-    const target = $("#" + targetId);
+  const targetId = btn.dataset.copyTarget;
+  const target = document.getElementById(targetId);
+  if (!target) return;
 
-    if (!target.length) {
-        return;
-    }
-
-    await navigator.clipboard.writeText(target.text());
-
-    const btn = $(this);
-    const originalText = btn.text();
-
-    btn.text("Copied!");
-
-    setTimeout(() => {
-        btn.text(originalText);
-    }, 2000);
-
+  navigator.clipboard.writeText(target.textContent).then(() => {
+    const originalText = btn.textContent;
+    btn.textContent = "Copied!";
+    setTimeout(() => { btn.textContent = originalText; }, 2000);
+  });
 });
 </script>
 
