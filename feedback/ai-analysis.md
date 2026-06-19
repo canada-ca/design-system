@@ -156,12 +156,16 @@ Identify user pain points and group comments into clear themes.
 - Open-text survey responses
 - Recurring usability issues
 
-## Prompt
+##### Prompt
 
-Copy and paste the prompt below into Microsoft Copilot.
+<button
+  type="button"
+  class="btn btn-primary copy-btn"
+  data-copy-target="fb-sum-001">
+  Copy prompt
+</button>
 
-
-```markdown
+<pre id="fb-sum-001" class="prompt-block"><code>
 ---
 Title: Feedback Summary and Theme Analysis
 Owner: Canada.ca Experience Office
@@ -492,10 +496,34 @@ Provide a brief justification based on:
 - Consistency of comments
 - Strength of theme grouping
 
-
+</code></pre>
 
 <nav role="navigation" class="mrgn-bttm-lg">
   <ul class="pager">
     <li class="next"><a href="ai-analysis.html" rel="next">Next: AI-assisted analysis</a></li>
   </ul>
 </nav>
+
+<script>
+$(document).on("click", ".copy-btn", async function () {
+
+    const targetId = $(this).data("copy-target");
+    const target = $("#" + targetId);
+
+    if (!target.length) {
+        return;
+    }
+
+    await navigator.clipboard.writeText(target.text());
+
+    const btn = $(this);
+    const originalText = btn.text();
+
+    btn.text("Copied!");
+
+    setTimeout(() => {
+        btn.text(originalText);
+    }, 2000);
+
+});
+</script>
