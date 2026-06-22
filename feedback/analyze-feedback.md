@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/retroaction/methodes.html
 date: null
-dateModified: 2023-02-28
+dateModified: 2026-06-22
 description: null
 title: Methods for analyzing feedback
 ---
@@ -10,7 +10,8 @@ title: Methods for analyzing feedback
   <div class="row">
     <ul class="toc lst-spcd col-md-12">
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="access-feedback.html">Access feedback</a></li>
-      <li class="col-md-4 col-sm-6"><a class="list-group-item active">Analyzing feedback</a></li>
+      <li class="col-md-4 col-sm-6"><a class="list-group-item active">Analysis methods</a></li>
+      <li class="col-md-4 col-sm-6"><a class="list-group-item">AI-assisted analysis</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="insights.html">Sharing insights</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="prioritize.html">Deciding what to improve</a></li>
     </ul>

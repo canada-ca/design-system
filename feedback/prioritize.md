@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/retroaction/decider.html
 date: null
-dateModified: 2023-02-28
+dateModified: 2026-06-22
 description: null
 title: Deciding what to improve
 ---
@@ -10,7 +10,8 @@ title: Deciding what to improve
   <div class="row">
     <ul class="toc lst-spcd col-md-12">
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="access-feedback.html">Access feedback</a></li>
-      <li class="col-md-4 col-sm-6"><a class="list-group-item" href="analyze-feedback.html">Analyzing feedback</a></li>
+      <li class="col-md-4 col-sm-6"><a class="list-group-item" href="analyze-feedback.html">Analysis methods</a></li>
+      <li class="col-md-4 col-sm-6"><a class="list-group-item">AI-assisted analysis</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="insights.html">Sharing insights</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item active" href="prioritize.html">Deciding what to improve</a></li>
     </ul>
