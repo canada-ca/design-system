@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/retroaction/analyse-ai.html
 date: null
-dateModified: 2026-06-19
+dateModified: 2026-06-29
 description: null
 title: AI-assisted feedback analysis
 ---
@@ -107,10 +107,13 @@ Always verify:
 
 - Comment counts
 - Representative quotes
-- Issue clustering
+- Themes accurately reflect user intent
+- Issue naming is clear and consistent
 - Interpretation accuracy
 - Bilingual handling
-- Sensitive information exclusion
+- Quotes are copied exactly
+- Sensitive information is properly handled
+
 
 ### Keep humans accountable
 
@@ -154,7 +157,22 @@ Identify user pain points and group comments into clear themes.
 
 - Page feedback comments
 - Open-text survey responses
-- Recurring usability issues
+- Understanding major user pain points
+
+
+
+## Inputs required
+
+- A list or dataset of user comments</li>
+
+
+## Expected outputs</h4>
+The prompt will produce:
+- Sensitive information check
+- Dataset summary
+- Issue summary table
+- Analysis confidence statement
+
 
 ##### Prompt
 
@@ -176,87 +194,6 @@ Sensitivity: Unclassified
 Human Review Required: Yes
 Last Updated: 2026-06-17
 ---
-
-# HUMAN DOCUMENTATION
-
-## Purpose
-
-Analyze user feedback and identify the most significant user issues based on evidence found within the dataset.
-
-The objective is to produce:
-
-- Accurate themes
-- Consistent outputs
-- Clear supporting evidence
-- Actionable understanding of user pain points
-
----
-
-## Intended Use
-
-Use this prompt when:
-
-- Understanding major user pain points
-- Producing a feedback summary report
-- Reviewing small-to-medium feedback datasets
-- Identifying common user tasks and obstacles
-- Supporting content, service, or UX reviews
-
-Do NOT use this prompt for:
-
-- Root cause analysis
-- Trend analysis over time
-- Comparing multiple datasets
-- Prioritization decisions
-- Measuring issue severity
-- Performance reporting
-- Policy or operational decision-making without additional analysis
-
----
-
-## Inputs Required
-
-Provide:
-
-- A list or dataset of user comments
-
-Optional context:
-
-- Program or service area
-- Page or user journey
-- Date range
-- Language expectations
-
----
-
-## Expected Outputs
-
-The prompt will produce:
-
-1. Sensitive Information Check
-2. Dataset Summary
-3. Issue Summary Table
-4. Analysis Confidence Statement
-
----
-
-## Human Review Requirements
-
-Before using or sharing results, verify:
-
-- Counts are correct
-- Themes accurately reflect user intent
-- Quotes are copied exactly
-- Sensitive information is properly handled
-- Comments are assigned to only one theme
-- Issue naming is clear and consistent
-- Overall analysis is factually sound
-
-AI-generated analysis must be validated by a human reviewer before operational use.
-
----
-
-# COPY EVERYTHING BELOW INTO COPILOT
 
 # Role
 
