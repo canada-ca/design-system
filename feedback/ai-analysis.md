@@ -147,7 +147,7 @@ When communicating findings from AI-assisted analysis:
 
 The prompt below is designed for use with approved AI tools such as Microsoft Copilot.
 
-# Feedback Theme Analysis
+# Feedback theme analysis
 
 ## Purpose
 
