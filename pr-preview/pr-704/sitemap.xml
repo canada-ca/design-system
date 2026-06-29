@@ -34,7 +34,7 @@
   </url>
   <url>
     <loc>https://design.canada.ca/pr-preview/pr-704/feedback/ai-analysis.html</loc>
-    <lastmod>2026-06-19</lastmod>
+    <lastmod>2026-06-29</lastmod>
   </url>
   <url>
     <loc>https://design.canada.ca/pr-preview/pr-704/alerts/alerts-contact.html</loc>
@@ -337,6 +337,10 @@
     <loc>https://design.canada.ca/pr-preview/pr-704/coded-layout/institutional_landing_page_guidance.html</loc>
   </url>
   <url>
+    <loc>https://design.canada.ca/pr-preview/pr-704/specifications/usage-canadaca-design/institutions-list.html</loc>
+    <lastmod>2026-06-22</lastmod>
+  </url>
+  <url>
     <loc>https://design.canada.ca/pr-preview/pr-704/common-design-patterns/interactive-questions.html</loc>
     <lastmod>2021-04-22</lastmod>
   </url>
@@ -362,7 +366,10 @@
   </url>
   <url>
     <loc>https://design.canada.ca/pr-preview/pr-704/about/latest-changes.html</loc>
-    <lastmod>2026-03-27</lastmod>
+  </url>
+  <url>
+    <loc>https://design.canada.ca/pr-preview/pr-704/specifications/latest-changes.html</loc>
+    <lastmod>2026-06-22</lastmod>
   </url>
   <url>
     <loc>https://design.canada.ca/pr-preview/pr-704/common-design-patterns/latest-news.html</loc>
@@ -725,6 +732,9 @@
   </url>
   <url>
     <loc>https://design.canada.ca/pr-preview/pr-704/about/top-tasks-for-canada-ca.html</loc>
+  </url>
+  <url>
+    <loc>https://design.canada.ca/pr-preview/pr-704/top-tasks-for-canada-ca.html</loc>
     <lastmod>2025-07-21</lastmod>
   </url>
   <url>
