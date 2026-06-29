@@ -41,7 +41,7 @@ titleH1: 'Partnering and collaborative arrangement profile pages template'
       <li>at least one of the partners in the partnering/collaborative arrangement is in the <a href="http://laws-lois.justice.gc.ca/eng/acts/f-11/">Listing of Government of Canada Organizations under the Financial Administration Act (FAA)</a>, or in the <a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/fip-pcim/reg-eng.asp">Registry of Applied Titles</a></li>
       <li>at least one other partner involved in the arrangement is a non-<abbr title="Government of Canada">GC</abbr> entity</li>
     </ul>
-    <p>Use the <a href="https://www.canada.ca/en/government/about/design-system/institutions-list.html">Canada.ca institutions list</a> to find out which profile to apply.</p>
+    <p>Use the <a href="/specifications/usage-canadaca-design/institutions-list.html">Canada.ca institutions list</a> to find out which profile to apply.</p>
   </section>
   <section>
     <h2 id="specifications">How to use this template</h2>
