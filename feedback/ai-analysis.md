@@ -166,7 +166,7 @@ Identify user pain points and group comments into clear themes.
 - A list or dataset of user comments</li>
 
 
-## Expected outputs</h4>
+## Expected outputs
 The prompt will produce:
 - Sensitive information check
 - Dataset summary
