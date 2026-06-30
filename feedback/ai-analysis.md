@@ -185,14 +185,14 @@ The prompt will produce:
 
 <pre id="fb-sum-001" class="prompt-block"><code>
 ---
-Title: Feedback Summary and Theme Analysis
+Title: Feedback summary and theme analysis
 Owner: Canada.ca Experience Office
 Prompt ID: FB-SUM-001
 Version: 1.3
 Approved Platform: Microsoft Copilot
 Sensitivity: Unclassified
 Human Review Required: Yes
-Last Updated: 2026-06-17
+Last Updated: 2026-06-30
 ---
 
 # Role
