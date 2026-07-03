@@ -11,7 +11,7 @@ title: Methods for analyzing feedback
     <ul class="toc lst-spcd col-md-12">
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="access-feedback.html">Access feedback</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item active">Analysis methods</a></li>
-      <li class="col-md-4 col-sm-6"><a class="list-group-item">AI-assisted analysis</a></li>
+      <li class="col-md-4 col-sm-6"><a class="list-group-item" href="ai-analysis.html">AI-assisted analysis</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="insights.html">Sharing insights</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="prioritize.html">Deciding what to improve</a></li>
     </ul>
