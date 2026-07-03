@@ -18,7 +18,7 @@ title: AI-assisted feedback analysis
   </div>
 </div>
 
-Reusable prompts and guidance for analyzing GC Feedback and Task Success Survey comments using approved AI tools such as Microsoft Copilot.
+Reusable prompts and guidance for analyzing GC Feedback and Task Success Survey comments using approved AI tools.
 
 ## On this page
 
@@ -26,14 +26,6 @@ Reusable prompts and guidance for analyzing GC Feedback and Task Success Survey 
 * [Privacy and security](#privacy-and-security)
 * [Good practices](#good-practices)
 * [Reusable prompts](#reusable-prompts)
-
-
-## On this page
-
-- [Before you begin](#before-you-begin)
-- [Privacy and security](#privacy-and-security)
-- [Good practices](#good-practices)
-- [Reusable prompts](#reusable-prompts)
 
 ---
 
@@ -49,9 +41,8 @@ AI tools can help identify patterns, summarize comments, and support analysis of
 - Protecting sensitive information
 - Ensuring findings are appropriate before sharing
 
-> **Important**
->
-> Use AI tools as analytical support, not as authoritative decision-makers.
+**Important**
+Use AI tools as analytical support, not as authoritative decision-makers.
 
 ---
 
@@ -59,18 +50,10 @@ AI tools can help identify patterns, summarize comments, and support analysis of
 
 Before using AI tools:
 
-- Do not include protected, classified, or sensitive operational information
-- Remove personal information from comments where possible
+- Do not share protected, classified, or sensitive operational information
+- Remove personal information from comments (names, email, phone numbers, account or case identifiers, etc.)
 - Follow your departmental guidance for approved AI tool usage
-- Use only approved GC environments such as Microsoft Copilot
-
-### Examples of personal information
-
-- Names
-- Phone numbers
-- Email addresses
-- Case numbers
-- Account identifiers
+- Use only approved GC environments
 
 ---
 
@@ -89,8 +72,7 @@ Date range: April 2026
 Useful context may include:
 
 - Service area
-- Page title
-- Page URL
+- Page title or URL
 - Date range
 
 ### Use structured prompts
@@ -115,43 +97,26 @@ Always verify:
 - Sensitive information is properly handled
 
 
-### Keep humans accountable
-
-AI tools can support:
-
-- Summarization
-- Clustering
-- Drafting
-- Pattern detection
-
-They should not independently:
-
-- Determine policy direction
-- Prioritize work without review
-- Make operational decisions
-- Replace analyst interpretation
-
 ### Sharing feedback insights
 
 When communicating findings from AI-assisted analysis:
 
 - Describe methodology transparently
 - Include sample sizes where relevant
-- Maintain human accountability for conclusions
 
-> Analysis was assisted using Microsoft Copilot. Findings were reviewed and validated by a human analyst.
+> Analysis was assisted using AI. Findings were reviewed and validated by a human analyst.
 
 ---
 
-## Reusable prompts
+# Reusable prompts
 
-The prompt below is designed for use with approved AI tools such as Microsoft Copilot.
+The prompt below is designed for use with approved AI tools.
 
-# Feedback theme analysis
+## Feedback theme analysis
 
 ## Purpose
 
-Identify user pain points and group comments into clear themes.
+Identify pain points and group comments into clear themes.
 
 ## When to use
 
@@ -163,7 +128,7 @@ Identify user pain points and group comments into clear themes.
 
 ## Inputs required
 
-- A list or dataset of user comments</li>
+- A list or dataset of user comments
 
 
 ## Expected outputs
@@ -189,7 +154,6 @@ Title: Feedback summary and theme analysis
 Owner: Canada.ca Experience Office
 Prompt ID: FB-SUM-001
 Version: 1.3
-Approved Platform: Microsoft Copilot
 Sensitivity: Unclassified
 Human Review Required: Yes
 Last Updated: 2026-06-30
@@ -246,7 +210,7 @@ If this condition cannot be met, clearly state the issue in the output.
 
 - Use minimal inference for short or unclear comments
 - Assign to the best-fit theme where reasonable
- - If no grouping is clear, assign to "Other / Unclassified"
+- If no grouping is clear, assign to "Other / Unclassified"
 
 Do not over-interpret intent.
 
@@ -266,7 +230,7 @@ Examples include:
 - Phone numbers
 - Email addresses
 - Addresses
-- SINs
+- Social insurance numbers
 - Account or case numbers
 
 ---
@@ -321,7 +285,9 @@ Describe impact using only what is evident in comments.
 Valid examples:
 - Users unable to complete a task
 - Users delayed in finding information
-- Users unclear about next steps Do not infer beyond what is stated.
+- Users unclear about next steps
+
+Do not infer beyond what is stated.
 
 ---
 
@@ -437,7 +403,7 @@ Provide a brief justification based on:
 
 <nav role="navigation" class="mrgn-bttm-lg">
   <ul class="pager">
-    <li class="next"><a href="ai-analysis.html" rel="next">Next: AI-assisted analysis</a></li>
+    <li class="next"><a href="insights.html" rel="next">Next: Sharing insights</a></li>
   </ul>
 </nav>
 
