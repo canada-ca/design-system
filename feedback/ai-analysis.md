@@ -108,17 +108,17 @@ When communicating findings from AI-assisted analysis:
 
 ---
 
-# Reusable prompts
+## Reusable prompts
 
 The prompt below is designed for use with approved AI tools.
 
-## Feedback theme analysis
+### Feedback theme analysis
 
-## Purpose
+#### Purpose
 
 Identify pain points and group comments into clear themes.
 
-## When to use
+#### When to use
 
 - Page feedback comments
 - Open-text survey responses
@@ -126,12 +126,12 @@ Identify pain points and group comments into clear themes.
 
 
 
-## Inputs required
+#### Inputs required
 
 - A list or dataset of user comments
 
 
-## Expected outputs
+#### Expected outputs
 The prompt will produce:
 - Sensitive information check
 - Dataset summary
@@ -139,7 +139,7 @@ The prompt will produce:
 - Analysis confidence statement
 
 
-##### Prompt
+#### Prompt
 
 <button
   type="button"
