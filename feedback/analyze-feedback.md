@@ -90,11 +90,28 @@ Manual analysis can be used on its own or alongside AI-assisted analysis.
 
 A small dataset may only need a few tags to make sense of the feedback. A large dataset may require two levels of tags to understand specific content issues.
 
-| Method | Best for |
-|--------|----------|
-| Manual analysis | Small datasets, detailed review, validation of findings |
-| AI-assisted analysis | Large datasets, rapid theme identification, drafting summaries |
-| Combined approach | Most operational use cases; AI supports analysis while humans validate findings |
+<table>
+  <thead>
+    <tr>
+      <th>Method</th>
+      <th>Best for</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Manual analysis</td>
+      <td>Small datasets, detailed review, validation of findings</td>
+    </tr>
+    <tr>
+      <td>AI-assisted analysis</td>
+      <td>Large datasets, rapid theme identification, drafting summaries</td>
+    </tr>
+    <tr>
+      <td>Combined approach</td>
+      <td>Most operational use cases; AI supports analysis while humans validate findings.</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Best practices for choosing how to group and tag feedback
 
