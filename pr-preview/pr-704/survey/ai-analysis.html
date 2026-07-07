@@ -4,19 +4,19 @@
 		<meta charset="utf-8">
 		<!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW) wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
 
-		<title>Sharing insights from feedback - Canada.ca</title>
+		<title>AI-assisted feedback analysis - Canada.ca</title>
 		<meta content="width=device-width, initial-scale=1" name="viewport">
 		<!-- Custom code starts here (Metadata) / Code personalisé commence ici (Métadonnées) -->
-		<link rel="canonical" href="https://design.canada.ca/pr-preview/pr-704/survey/insights.html" />
-		<link rel="alternate" href="https://conception.canada.ca/sondage/partager.html" hreflang="fr" />
-		<meta name="dcterms.title" content="Sharing insights from feedback"/>
+		<link rel="canonical" href="https://design.canada.ca/pr-preview/pr-704/survey/ai-analysis.html" />
+		<link rel="alternate" href="https://conception.canada.ca/sondage/analyse-ai.html" hreflang="fr" />
+		<meta name="dcterms.title" content="AI-assisted feedback analysis"/>
 		<meta name="author" content="Employment and Social Development Canada" />
 		<meta name="dcterms.creator" content="Employment and Social Development Canada"/>
 		<meta name="dcterms.language" title="ISO639-2/T" content="eng"/>
 		<meta name="dcterms.accessRights" content="2" />
 		<meta name="gcaaterms.sitename" content="ESDC-EDSC_CanadacaDesign-ConceptionCanadaca" />
 		<meta name="dcterms.issued" title="W3CDTF" content=""/>
-		<meta name="dcterms.modified" title="W3CDTF" content="2026-07-07"/>
+		<meta name="dcterms.modified" title="W3CDTF" content="2026-06-29"/>
 		<meta name="generator" content="Jekyll v4.3.2" />
 		<meta name="google-site-verification" content="Nt_CftRIypA9xVS7Znb2VkrsYbtIDuFWHryxSAC6OwM" />
 		<meta name="yandex-verification" content="b8834a99b9021b0e" />
@@ -61,7 +61,7 @@
 	<h2 class="wb-inv">Language selection</h2>
 	<ul class="list-inline mrgn-bttm-0">
 		<li>
-			<a lang="fr" hreflang="fr" href="https://conception.canada.ca/sondage/partager.html">
+			<a lang="fr" hreflang="fr" href="https://conception.canada.ca/sondage/analyse-ai.html">
 				<span class="hidden-xs" translate="no">Français</span>
 				<abbr title="Français" translate="no" class="visible-xs h3 mrgn-tp-sm mrgn-bttm-0 text-uppercase">fr</abbr>
 			</a>
@@ -173,148 +173,441 @@
 		<main class="container" property="mainContentOfPage" resource="#wb-main" typeof="WebPageElement">
 		<!-- Custom code starts here --><h1 property="name" id="wb-cont" property="name headline" dir="ltr">
 			<span class="stacked">
-				<span>Sharing insights from feedback</span>: <span>Canada.ca design</span>
+				<span>AI-assisted feedback analysis</span>: <span>Canada.ca design</span>
 			</span>
 		</h1><!-- Custom code ends here -->
 		<div class="gc-stp-stp">
-    <div class="row">
-        <ul class="toc lst-spcd col-md-12">
-            <li class="col-md-4 col-sm-6"><a class="list-group-item" href="access-results.html">Survey results and reports</a></li>
-            <li class="col-md-4 col-sm-6"><a class="list-group-item" href="analyze-feedback.html">How to analyze feedback</a></li>
-            <li class="col-md-4 col-sm-6"><a class="list-group-item" href="ai-analysis.html">AI-assisted analysis</a></li>
+  <div class="row">
+    <ul class="toc lst-spcd col-md-12">
+      <li class="col-md-4 col-sm-6"><a class="list-group-item" href="access-results.html">Survey results and reports</a></li>
+      <li class="col-md-4 col-sm-6"><a class="list-group-item" href="analyze-feedback.html">How to analyze comments</a></li>
+      <li class="col-md-4 col-sm-6"><a class="list-group-item active" href="ai-analysis.html">AI-assisted analysis</a></li>
 
-            <li class="col-md-4 col-sm-6"><a class="list-group-item active" href="insights.html">Sharing feedback insights</a></li>
-            <li class="col-md-4 col-sm-6"><a class="list-group-item" href="prioritize.html">Deciding what to improve</a></li>
-        </ul>
-    </div>
+      <li class="col-md-4 col-sm-6"><a class="list-group-item" href="insights.html">Sharing insights</a></li>
+      <li class="col-md-4 col-sm-6"><a class="list-group-item" href="prioritize.html">Deciding what to improve</a></li>
+    </ul>
+  </div>
 </div>
+
+<p>Reusable prompts and guidance for analyzing GC Feedback and Task Success Survey comments using approved AI tools.</p>
 
 <h2 id="on-this-page">On this page</h2>
 
 <ul>
-  <li><a href="#building-a-narrative-with-data">Building a narrative with data</a></li>
-  <li><a href="#outline-for-a-text-only-summary">Outline for a text only summary</a></li>
-  <li><a href="#templates-for-slides-and-charts">Templates for slides and charts</a></li>
-  <li><a href="#showing-before-and-after-results">Showing before and after results</a></li>
+  <li><a href="#before-you-begin">Before you begin</a></li>
+  <li><a href="#privacy-and-security">Privacy and security</a></li>
+  <li><a href="#good-practices">Good practices</a></li>
+  <li><a href="#reusable-prompts">Reusable prompts</a></li>
 </ul>
 
-<h2 id="building-a-narrative-with-data">Building a narrative with data</h2>
+<hr />
 
-<p>Communicating insights for action requires:</p>
+<h2 id="before-you-begin">Before you begin</h2>
+
+<p>AI tools can help identify patterns, summarize comments, and support analysis of qualitative feedback. They can save time when working with large volumes of comments, but they do not replace human judgment.</p>
+
+<h3 id="you-are-responsible-for">You are responsible for:</h3>
 
 <ul>
-  <li>a strong advocate for tasks and user needs</li>
-  <li>the ability to make sense of comments and compare it with other data points</li>
-  <li>data visualization and communications skills when sharing and discuss findings</li>
+  <li>Reviewing outputs for accuracy</li>
+  <li>Validating themes and counts</li>
+  <li>Checking for hallucinations or unsupported conclusions</li>
+  <li>Protecting sensitive information</li>
+  <li>Ensuring findings are appropriate before sharing</li>
 </ul>
 
-<h3 id="bring-the-user-experience-into-the-forefront">Bring the user experience into the forefront</h3>
+<p><strong>Important</strong>
+Use AI tools as analytical support, not as authoritative decision-makers.</p>
 
-<p>Through your comment analysis, you want to help people understand:</p>
+<hr />
+
+<h2 id="privacy-and-security">Privacy and security</h2>
+
+<p>Before using AI tools:</p>
 
 <ul>
-  <li>context (volume, key dates, trends, why (you think) something is happening)</li>
-  <li>the issues people are reporting</li>
-  <li>possible paths to action or where additional data and research is needed</li>
-  <li>before and after results from iterative improvements</li>
+  <li>Do not share protected, classified, or sensitive operational information</li>
+  <li>Remove personal information from comments (names, email, phone numbers, account or case identifiers, etc.)</li>
+  <li>Follow your departmental guidance for approved AI tool usage</li>
+  <li>Use only approved GC environments</li>
 </ul>
 
-<p><span class="text-uppercase">Always</span> include comment examples to illustrate key points and issues. This helps to transfer your understanding and empathetic listening to others.</p>
+<hr />
 
-<h3 id="include-other-supporting-data-sources">Include other supporting data sources</h3>
+<h2 id="good-practices">Good practices</h2>
 
-<p>Include other data sources in your <strong>analysis and reporting</strong> to build a more complete picture, confirm your insights, or add urgency from sources such as:</p>
+<h3 id="provide-context">Provide context</h3>
+
+<p>AI tools perform better when you provide lightweight context before the comments.</p>
+
+<div class="language-text highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Service area: Passports
+Page: Check passport application status
+Date range: April 2026
+</code></pre></div></div>
+
+<p>Useful context may include:</p>
 
 <ul>
-  <li>analytics</li>
-  <li>call centre volumes</li>
-  <li>search trends</li>
-  <li>usability study results</li>
-  <li>questions received through social media</li>
+  <li>Service area</li>
+  <li>Page title or URL</li>
+  <li>Date range</li>
 </ul>
 
-<h2 id="outline-for-a-text-only-summary">Outline for a text only summary</h2>
-
-<p>A simple text only summary can be just as effective as charts or graphs when:</p>
+<h3 id="use-structured-prompts">Use structured prompts</h3>
 
 <ul>
-  <li>sharing insights by message or email - especially with decision makers</li>
-  <li>you have a small number of insights to communicate</li>
-  <li>your audience is already familiar with how the data is being collected</li>
+  <li>Define the analytical task clearly</li>
+  <li>Specify output format</li>
+  <li>Define counting rules</li>
+  <li>Include instructions for handling sensitive information</li>
+  <li>Explain expectations for categorization and evidence</li>
 </ul>
 
-<h3 id="example-structure-for-a-text-only-summary">Example structure for a text only summary</h3>
+<h3 id="validate-outputs-carefully">Validate outputs carefully</h3>
+
+<p>Always verify:</p>
 
 <ul>
-  <li>Total survey responses</li>
-  <li>Tasks that received the most responses</li>
-  <li>Changes in trends</li>
-  <li>Priority areas: Top issues seen in comments (illustrated with select comment examples)
-    <ul>
-      <li>What tasks are those issues found on</li>
-      <li>Supporting data from call centres, web analytics, search, usability studies, or other sources</li>
-    </ul>
-  </li>
-  <li>What’s working well? Results based on iterative improvements</li>
-  <li>Recommendations for quick fixes</li>
+  <li>Comment counts</li>
+  <li>Representative quotes</li>
+  <li>Themes accurately reflect user intent</li>
+  <li>Issue naming is clear and consistent</li>
+  <li>Interpretation accuracy</li>
+  <li>Bilingual handling</li>
+  <li>Quotes are copied exactly</li>
+  <li>Sensitive information is properly handled</li>
 </ul>
 
-<p>Highlight problems that go beyond the scope of your team’s work and need to be escalated - such as:</p>
+<h3 id="sharing-feedback-insights">Sharing feedback insights</h3>
+
+<p>When communicating findings from AI-assisted analysis:</p>
 
 <ul>
-  <li>policy gaps</li>
-  <li>content gaps / incorrect information that require a subject matter expert</li>
-  <li>technical issues</li>
+  <li>Describe methodology transparently</li>
+  <li>Include sample sizes where relevant</li>
 </ul>
 
-<h2 id="templates-for-slides-and-charts">Templates for slides and charts</h2>
+<blockquote>
+  <p>Analysis was assisted using AI. Findings were reviewed and validated by a human analyst.</p>
+</blockquote>
 
-<p>Charts can help illustrate trends, spot anomalies, confirm or explore research questions in the comments.</p>
+<hr />
 
-<p>A good chart is:</p>
+<h1 id="reusable-prompts">Reusable prompts</h1>
+
+<p>The prompt below is designed for use with approved AI tools.</p>
+
+<h2 id="feedback-theme-analysis">Feedback theme analysis</h2>
+
+<h2 id="purpose">Purpose</h2>
+
+<p>Identify pain points and group comments into clear themes.</p>
+
+<h2 id="when-to-use">When to use</h2>
 
 <ul>
-  <li>simple (opt for bar and line charts over pie charts)</li>
-  <li>easy to read, clearly labelled</li>
-  <li>supports your main point</li>
-  <li>works for the people who will read it</li>
+  <li>Page feedback comments</li>
+  <li>Open-text survey responses</li>
+  <li>Understanding major user pain points</li>
 </ul>
 
-<p>Aim for an assertion / evidence format in your titles</p>
+<h2 id="inputs-required">Inputs required</h2>
 
 <ul>
-  <li>Put the main point for each slide or section of your document as the header.</li>
-  <li>Use the rest of the space to provide evidence for your assertion.</li>
-  <li>Even if someone only reads the headers, they’ll understand the main feedback issues.</li>
+  <li>A list or dataset of user comments</li>
 </ul>
 
-<p><a href="images/templates-sharing-tss-data.pptx">Download templates for how to share survey insights</a> (Powerpoint, 935KB).</p>
-
-<h2 id="showing-before-and-after-results">Showing before and after results</h2>
-
-<p>Share small and big wins with your results.</p>
-
+<h2 id="expected-outputs">Expected outputs</h2>
+<p>The prompt will produce:</p>
 <ul>
-  <li>Reduction in comments</li>
-  <li>How quickly you went from identifying a problem to addressing it</li>
-  <li>Impact on other channels (example: reduced call or email volumes)</li>
+  <li>Sensitive information check</li>
+  <li>Dataset summary</li>
+  <li>Issue summary table</li>
+  <li>Analysis confidence statement</li>
 </ul>
 
-<h3 id="supporting-evidence-to-consider-including">Supporting evidence to consider including:</h3>
+<h5 id="prompt">Prompt</h5>
 
-<ul>
-  <li>Screenshots</li>
-  <li>Analytics visits, specific page actions, click overlays</li>
-  <li>Supporting data from other channels or data sources</li>
-</ul>
+<p><button type="button" class="btn btn-primary copy-btn" data-copy-target="fb-sum-001">
+  Copy prompt
+</button></p>
+
+<pre id="fb-sum-001" class="prompt-block"><code>
+---
+Title: Feedback summary and theme analysis
+Owner: Canada.ca Experience Office
+Prompt ID: FB-SUM-001
+Version: 1.3
+Sensitivity: Unclassified
+Human Review Required: Yes
+Last Updated: 2026-06-30
+---
+
+# Role
+
+You are a data analyst supporting Government of Canada web teams.
+
+Your task is to analyze user feedback comments and identify the most significant user pain points based strictly on evidence contained within the dataset.
+
+Do not use external knowledge or assumptions.
+
+---
+
+# Success Criteria
+
+A successful analysis:
+
+- Produces distinct, non-overlapping themes
+- Accounts for all analyzed comments
+- Includes evidence supporting each theme
+- Uses consistent naming conventions
+- Can be understood without reviewing the raw dataset
+
+---
+
+# Core Principles
+
+## Evidence Integrity
+
+You must:
+
+- Use only comments provided
+- Never invent, alter, or paraphrase comments
+- Copy representative comments exactly as written
+- Use clear, neutral, evidence-based language
+- Avoid speculation or unsupported conclusions
+
+## Comment Assignment Rules
+
+For counting purposes:
+
+- Count unique comments only
+- Count each comment once
+- Assign each comment to exactly one theme
+- Do not count the same comment in multiple themes
+
+The sum of all theme counts must equal the number of comments analyzed.
+If this condition cannot be met, clearly state the issue in the output.
+
+
+## Ambiguity Handling
+
+- Use minimal inference for short or unclear comments
+- Assign to the best-fit theme where reasonable
+- If no grouping is clear, assign to "Other / Unclassified"
+
+Do not over-interpret intent.
+
+---
+
+# Sensitive Information Handling
+
+If sensitive or personal information is detected:
+
+- Do not reproduce sensitive details
+- Redact sensitive portions when possible
+- Exclude comments entirely if redaction would remove meaning
+
+Examples include:
+
+- Names
+- Phone numbers
+- Email addresses
+- Addresses
+- Social insurance numbers
+- Account or case numbers
+
+---
+
+# Theme Development
+
+## Theme Creation
+
+- Group comments by user task or user problem
+- Prioritize intent over keyword similarity
+- Create themes only when supported by evidence
+
+Guidance:
+- Typically 3–6 themes when supported by the data
+- Fewer themes are acceptable for small datasets
+- Do not create artificial themes simply to reach a target number
+
+
+## Theme Naming
+
+Use consistent task-based naming.
+
+Examples:
+
+- Find contact information
+- Check application status
+- Complete online form
+- Sign in to account
+
+Avoid vague or inconsistent labels.
+
+
+## Theme Ranking
+
+Order themes using:
+
+1. Highest comment count first
+2. Relative user impact (based only on evidence)
+
+## Other / Unclassified
+
+Use only when comments do not form a meaningful group.
+
+Place this category last.
+
+---
+
+# Observed User Impact
+
+Describe impact using only what is evident in comments.
+
+Valid examples:
+- Users unable to complete a task
+- Users delayed in finding information
+- Users unclear about next steps
+
+Do not infer beyond what is stated.
+
+---
+
+# Validation Check
+
+Before producing results, verify:
+
+- All comments were reviewed
+- Each comment is assigned to one theme
+- No comment appears in multiple themes
+- Theme counts sum to the total comments analyzed
+- Representative comments accurately reflect assigned themes
+
+If validation cannot be completed:
+
+- Clearly explain the issue
+- Identify any count discrepancies
+
+---
+
+# Workflow
+
+Follow this process in order:
+
+1. Review all comments
+2. Identify user tasks and associated problems
+3. Group comments into themes
+4. Assign each comment once
+5. Count comments per theme
+6. Select representative comments
+7. Validate totals
+8. Produce final output
+
+---
+
+# Output Structure
+
+Produce outputs in this exact order:
+
+1. Sensitive Information Check
+2. Dataset Summary
+3. Issue Summary Table
+4. Analysis Confidence
+
+Do not include any additional sections.
+
+---
+
+# Sensitive Information Check
+
+State exactly one of the following:
+
+- No sensitive personal information detected
+
+OR
+
+- Sensitive information detected — briefly described and excluded
+---
+
+# Dataset Summary
+
+Provide:
+
+| Metric | Count |
+|---|---|
+| Comments provided | X |
+| Comments excluded | X |
+| Comments analyzed | X |
+
+If comments were excluded, briefly explain why.
+
+---
+
+# Issue Summary Table
+
+Use exactly this structure:
+
+| # | User task | Description of pain point | Number of Comments | Representative Comments | Observed User Impact |
+|---|---|---|---|---|---|
+
+Requirements:
+
+- Include 2–5 verbatim comments per theme (when available)
+- Copy comments exactly as written
+- Do not paraphrase
+- Separate comments using: ` || `
+
+Do NOT include:
+
+- Recommendations
+- Prioritization
+- Severity scoring
+- Root cause analysis
+- Policy advice
+- Operational advice
+
+---
+
+# Analysis Confidence
+
+Choose one:
+
+High Confidence
+Moderate Confidence
+Low Confidence
+
+Provide a brief justification based on:
+- Data clarity
+- Consistency of comments
+- Strength of theme grouping
+
+</code></pre>
 
 <nav role="navigation" class="mrgn-bttm-lg">
-    <ul class="pager">
-        <li class="next">
-            <a href="prioritize.html" rel="next">Next: Deciding what to improve</a>
-        </li>
-    </ul>
+  <ul class="pager">
+    <li class="next"><a href="insights.html" rel="next">Next: Sharing insights</a></li>
+  </ul>
 </nav>
+
+<script>
+document.addEventListener("click", function(e) {
+  const btn = e.target.closest(".copy-btn");
+  if (!btn) return;
+
+  const targetId = btn.dataset.copyTarget;
+  const target = document.getElementById(targetId);
+  if (!target) return;
+
+  navigator.clipboard.writeText(target.textContent).then(() => {
+    const originalText = btn.textContent;
+    btn.textContent = "Copied!";
+    setTimeout(() => { btn.textContent = originalText; }, 2000);
+  });
+});
+</script>
+
 
 		<section class="pagedetails">
 	<h2 class="wb-inv">Page details</h2><div class="row">
@@ -329,7 +622,7 @@
 		</div>
 	</div><dl id="wb-dtmd">
 	<dt>Date modified:</dt>
-	<dd><time property="dateModified">2026-07-07</time></dd>
+	<dd><time property="dateModified">2026-06-29</time></dd>
 </dl>
 </section>
 
