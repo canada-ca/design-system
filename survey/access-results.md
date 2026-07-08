@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/sondage/acceder-resultats.html
 date: null
-dateModified: 2026-07-07
+dateModified: 2026-07-08
 description: null
 title: How to access survey results and reports
 ---

@@ -5,7 +5,7 @@ breadcrumbs:
     link: https://www.canada.ca/en/government/about.html
   - title: Analytics and feedback
     link: https://www.canada.ca/en/analytics.html
-dateModified: 2026-06-22
+dateModified: 2026-07-08
 layout: default
 title: GC Feedback guidance
 ---

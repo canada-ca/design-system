@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/retroaction/analyse-ai.html
 date: null
-dateModified: 2026-06-29
+dateModified: 2026-07-08
 description: null
 title: AI-assisted feedback analysis
 ---
@@ -157,7 +157,7 @@ Prompt ID: FB-SUM-001
 Version: 1.3
 Sensitivity: Unclassified
 Human Review Required: Yes
-Last Updated: 2026-06-30
+Last Updated: 2026-07-08
 ---
 
 # Role
