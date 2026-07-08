@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/retroaction/methodes.html
 date: null
-dateModified: 2023-02-28
+dateModified: 2026-06-22
 description: null
 title: Methods for analyzing feedback
 ---
@@ -10,7 +10,8 @@ title: Methods for analyzing feedback
   <div class="row">
     <ul class="toc lst-spcd col-md-12">
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="access-feedback.html">Access feedback</a></li>
-      <li class="col-md-4 col-sm-6"><a class="list-group-item active">Analyzing feedback</a></li>
+      <li class="col-md-4 col-sm-6"><a class="list-group-item active">Analysis methods</a></li>
+      <li class="col-md-4 col-sm-6"><a class="list-group-item" href="ai-analysis.html">AI-assisted analysis</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="insights.html">Sharing insights</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="prioritize.html">Deciding what to improve</a></li>
     </ul>
@@ -22,8 +23,8 @@ title: Methods for analyzing feedback
 * [Who should analyze feedback](#who-should-analyze-feedback)
 * [How much feedback is needed](#how-much-feedback-is-needed)
 * [Research questions shape analysis](#research-questions-shape-analysis)
+* [AI-assisted feedback analysis](#ai-assisted-feedback-analysis)
 * [Manual analysis methods](#manual-analysis-methods)
-* [Tools for analysis](#tools-for-analysis)
 * [Include other supporting data sources](#include-other-supporting-data-sources)
 
 ## Who should analyze feedback?
@@ -50,7 +51,6 @@ When identifying issues, don’t rely on volume of feedback alone to prioritize 
 
 You can seek confirmation of feedback insights using other data sources such as: web analytics, call volumes, social media trends, and GC Task Success Survey results.
 
-While it is best to read the full dataset of feedback, sampling a smaller set of feedback can help identify trends when dealing with more feedback than you can read. If you continue to receive more feedback than you can read, it is best to remove the tool until you have completed your updates.
 
 ## Research questions shape analysis
 
@@ -64,11 +64,40 @@ Common research questions:
 * Has feedback increased or decreased after a page update?
 * What types of issues were the most common (findability, comprehension, technical)?
 
+## AI-assisted feedback analysis
+Approved AI tools such as Microsoft Copilot can help identify patterns, group comments into themes, summarize findings, and support qualitative analysis of GC Feedback and Task Success Survey comments.
+
+AI-assisted analysis can reduce the time required to review large volumes of feedback. However, AI tools do not replace human judgment. Analysts remain responsible for validating outputs, reviewing theme groupings, verifying counts, and ensuring findings are appropriate before sharing.
+
+Use AI tools as analytical support, not as authoritative decision-makers.
+
+### Reusable prompts and guidance
+Use the AI-assisted feedback analysis guidance for:
+* approved prompts for common feedback analysis tasks
+* privacy and security considerations
+* prompt-writing best practices
+* human review requirements
+* limitations of AI-assisted analysis
+
+[AI-assisted feedback analysis guidance](ai-analysis.html)
+
+
 ## Manual analysis methods
 
-Grouping feedback with similar issues together with tags is useful for both small and large datasets. It helps you be more efficient with analysis by having smaller sets of data to analyse.
+Manual analysis involves reviewing comments directly and grouping similar issues using tags or themes. This approach is useful for both small and large datasets and remains an effective method for understanding user feedback.
+
+Manual analysis can be used on its own or alongside AI-assisted analysis.
 
 A small dataset may only need a few tags to make sense of the feedback. A large dataset may require two levels of tags to understand specific content issues.
+
+**Manual analysis**  
+: Small datasets, detailed review, and validation of findings.
+
+**AI-assisted analysis**  
+: Large datasets, rapid theme identification, and drafting summaries.
+
+**Combined approach**  
+: Most operational use cases where AI supports analysis while humans validate findings.
 
 ### Best practices for choosing how to group and tag feedback
 
@@ -181,14 +210,6 @@ A small dataset may only need a few tags to make sense of the feedback. A large 
   <p>If you have more feedback than you can manage to review, classify and analyze, adjust your strategy: choose a specific task or time frame to focus on.</p>
 </details>
 
-## Tools for analysis
-
-For small datasets, any spreadsheet software should be adequate to group and sort feedback (Excel, Google Sheets, etc.).
-
-For larger datasets, it’s helpful to use a tool that has more advanced functionality to sort, filter, and tag. If you have a data science specialist, they may prefer or have access to more specialized tools.
-
-* [Download a tagging strategy template](images/feedback-tagging-template.xlsx) (Excel, 61KB)
-* [Download a template to analyze page feedback and/or GC TSS feedback](https://docs.google.com/spreadsheets/d/1pcQgee6lN6P30EIMRb3o6RxcTPBiUFtsZAmbeVNpDW4/edit?usp=sharing) (Google Sheets)
 
 
 ## Include other supporting data sources
@@ -204,6 +225,6 @@ Include other data sources in your reporting to build a more complete picture, c
 
 <nav role="navigation" class="mrgn-bttm-lg">
   <ul class="pager">
-    <li class="next"><a href="insights.html" rel="next">Next: Sharing insights</a></li>
+    <li class="next"><a href="ai-analysis.html" rel="next">Next: AI-assisted analysis</a></li>
   </ul>
 </nav>
