@@ -293,17 +293,17 @@ Date range: April 2026
 
 <hr />
 
-<h1 id="reusable-prompts">Reusable prompts</h1>
+<h2 id="reusable-prompts">Reusable prompts</h2>
 
 <p>The prompt below is designed for use with approved AI tools.</p>
 
-<h2 id="feedback-theme-analysis">Feedback theme analysis</h2>
+<h3 id="feedback-theme-analysis">Feedback theme analysis</h3>
 
-<h2 id="purpose">Purpose</h2>
+<h4 id="purpose">Purpose</h4>
 
 <p>Identify pain points and group comments into clear themes.</p>
 
-<h2 id="when-to-use">When to use</h2>
+<h4 id="when-to-use">When to use</h4>
 
 <ul>
   <li>Page feedback comments</li>
@@ -311,13 +311,13 @@ Date range: April 2026
   <li>Understanding major user pain points</li>
 </ul>
 
-<h2 id="inputs-required">Inputs required</h2>
+<h4 id="inputs-required">Inputs required</h4>
 
 <ul>
   <li>A list or dataset of user comments</li>
 </ul>
 
-<h2 id="expected-outputs">Expected outputs</h2>
+<h4 id="expected-outputs">Expected outputs</h4>
 <p>The prompt will produce:</p>
 <ul>
   <li>Sensitive information check</li>
@@ -326,11 +326,12 @@ Date range: April 2026
   <li>Analysis confidence statement</li>
 </ul>
 
-<h5 id="prompt">Prompt</h5>
+<h4 id="prompt">Prompt</h4>
 
 <p><button type="button" class="btn btn-primary copy-btn" data-copy-target="fb-sum-001">
   Copy prompt
-</button></p>
+</button>
+<span class="wb-inv copy-status" role="status" aria-live="polite"></span></p>
 
 <pre id="fb-sum-001" class="prompt-block"><code>
 ---
@@ -591,22 +592,7 @@ Provide a brief justification based on:
   </ul>
 </nav>
 
-<script>
-document.addEventListener("click", function(e) {
-  const btn = e.target.closest(".copy-btn");
-  if (!btn) return;
-
-  const targetId = btn.dataset.copyTarget;
-  const target = document.getElementById(targetId);
-  if (!target) return;
-
-  navigator.clipboard.writeText(target.textContent).then(() => {
-    const originalText = btn.textContent;
-    btn.textContent = "Copied!";
-    setTimeout(() => { btn.textContent = originalText; }, 2000);
-  });
-});
-</script>
+<script src="../js/copy-prompt.js"></script>
 
 
 		<section class="pagedetails">

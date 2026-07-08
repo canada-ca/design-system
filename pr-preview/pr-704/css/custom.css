@@ -149,6 +149,11 @@ div.toc .active {
   border-color: #8f8f8f !important;
 }
 
+.prompt-block.copied {
+  outline: 3px solid #278400;
+  outline-offset: 2px;
+}
+
 .do-guideline {
   margin-left: 12px;
   padding-left: 20px;

@@ -329,7 +329,8 @@ Date range: April 2026
 
 <p><button type="button" class="btn btn-primary copy-btn" data-copy-target="fb-sum-001">
   Copy prompt
-</button></p>
+</button>
+<span class="wb-inv copy-status" role="status" aria-live="polite"></span></p>
 
 <pre id="fb-sum-001" class="prompt-block"><code>
 ---
@@ -590,22 +591,7 @@ Provide a brief justification based on:
   </ul>
 </nav>
 
-<script>
-document.addEventListener("click", function(e) {
-  const btn = e.target.closest(".copy-btn");
-  if (!btn) return;
-
-  const targetId = btn.dataset.copyTarget;
-  const target = document.getElementById(targetId);
-  if (!target) return;
-
-  navigator.clipboard.writeText(target.textContent).then(() => {
-    const originalText = btn.textContent;
-    btn.textContent = "Copied!";
-    setTimeout(() => { btn.textContent = originalText; }, 2000);
-  });
-});
-</script>
+<script src="../js/copy-prompt.js"></script>
 
 
 		<section class="pagedetails">
