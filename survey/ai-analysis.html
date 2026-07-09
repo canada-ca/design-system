@@ -4,12 +4,12 @@
 		<meta charset="utf-8">
 		<!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW) wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
 
-		<title>How to analyze comments - Canada.ca</title>
+		<title>AI-assisted feedback analysis - Canada.ca</title>
 		<meta content="width=device-width, initial-scale=1" name="viewport">
 		<!-- Custom code starts here (Metadata) / Code personalisé commence ici (Métadonnées) -->
-		<link rel="canonical" href="https://design.canada.ca/survey/analyze-feedback.html" />
-		<link rel="alternate" href="https://conception.canada.ca/sondage/commentaires.html" hreflang="fr" />
-		<meta name="dcterms.title" content="How to analyze comments"/>
+		<link rel="canonical" href="https://design.canada.ca/survey/ai-analysis.html" />
+		<link rel="alternate" href="https://conception.canada.ca/sondage/analyse-ai.html" hreflang="fr" />
+		<meta name="dcterms.title" content="AI-assisted feedback analysis"/>
 		<meta name="author" content="Employment and Social Development Canada" />
 		<meta name="dcterms.creator" content="Employment and Social Development Canada"/>
 		<meta name="dcterms.language" title="ISO639-2/T" content="eng"/>
@@ -61,7 +61,7 @@
 	<h2 class="wb-inv">Language selection</h2>
 	<ul class="list-inline mrgn-bttm-0">
 		<li>
-			<a lang="fr" hreflang="fr" href="https://conception.canada.ca/sondage/commentaires.html">
+			<a lang="fr" hreflang="fr" href="https://conception.canada.ca/sondage/analyse-ai.html">
 				<span class="hidden-xs" translate="no">Français</span>
 				<abbr title="Français" translate="no" class="visible-xs h3 mrgn-tp-sm mrgn-bttm-0 text-uppercase">fr</abbr>
 			</a>
@@ -173,186 +173,427 @@
 		<main class="container" property="mainContentOfPage" resource="#wb-main" typeof="WebPageElement">
 		<!-- Custom code starts here --><h1 property="name" id="wb-cont" property="name headline" dir="ltr">
 			<span class="stacked">
-				<span>How to analyze comments</span>: <span>Canada.ca design</span>
+				<span>AI-assisted feedback analysis</span>: <span>Canada.ca design</span>
 			</span>
 		</h1><!-- Custom code ends here -->
 		<div class="gc-stp-stp">
   <div class="row">
     <ul class="toc lst-spcd col-md-12">
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="access-results.html">Survey results and reports</a></li>
-      <li class="col-md-4 col-sm-6"><a class="list-group-item active" href="analyze-feedback.html">How to analyze comments</a></li>
-      <li class="col-md-4 col-sm-6"><a class="list-group-item" href="ai-analysis.html">AI-assisted analysis</a></li>
+      <li class="col-md-4 col-sm-6"><a class="list-group-item" href="analyze-feedback.html">How to analyze comments</a></li>
+      <li class="col-md-4 col-sm-6"><a class="list-group-item active" href="ai-analysis.html">AI-assisted analysis</a></li>
+
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="insights.html">Sharing insights</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="prioritize.html">Deciding what to improve</a></li>
     </ul>
   </div>
 </div>
 
+<p>Reusable prompts and guidance for analyzing GC Feedback and Task Success Survey comments using approved AI tools.</p>
+
 <h2 id="on-this-page">On this page</h2>
 
 <ul>
-  <li><a href="#who-should-analyze-comments">Who should analyze comments</a></li>
-  <li><a href="#how-many-comments-to-read">How many comments to read</a></li>
-  <li><a href="#manual-comment-analysis">Manual comment analysis</a></li>
-  <li><a href="#tools-and-templates-for-comment-analysis">Tools and templates</a></li>
-  <li><a href="#include-other-supporting-data-sources">Include other supporting data sources</a></li>
+  <li><a href="#before-you-begin">Before you begin</a></li>
+  <li><a href="#privacy-and-security">Privacy and security</a></li>
+  <li><a href="#good-practices">Good practices</a></li>
+  <li><a href="#reusable-prompts">Reusable prompts</a></li>
 </ul>
 
-<h2 id="who-should-analyze-comments">Who should analyze comments?</h2>
+<hr />
 
-<p>This should be done by people who know the subject quite well.</p>
+<h2 id="before-you-begin">Before you begin</h2>
 
-<p>People should be adept at spotting patterns and themes in data.</p>
+<p>AI tools can help identify patterns, summarize comments, and support analysis of qualitative feedback. They can save time when working with large volumes of comments, but they do not replace human judgment.</p>
 
-<p>It’s best to have someone who is bilingual.</p>
-
-<p>If more than one person is sharing the task of reading comments, having a shared understanding of the issues (and how you will group comments) is very important.</p>
-
-<p>It’s good to get into the habit of looking at user comments regularly to identify any emerging or persistent issues affecting task success.</p>
-
-<h2 id="how-many-comments-to-read">How many comments to read</h2>
-
-<p>There is no magic number for how many comments you need.</p>
-
-<p>With comments, you are looking for enough to sufficiently describe an issue or answer a research question. There is a point of diminishing return when reading more comments does not lead to additional insights. This is called “saturation”.</p>
-
-<p>Start with a small timeframe of data to see if you can identify issues and trends in the comments. Expand your date range to include more data and gain more clarity.</p>
-
-<h2 id="manual-comment-analysis">Manual comment analysis</h2>
-
-<p>Grouping comments with similar issues together with tags is useful for both small and large datasets. It helps you be more efficient with analysis by having smaller sets of data to analyze.</p>
-
-<p>A small dataset may only need a few tags to make sense of the comments. A large dataset may require two levels tags to understand specific content issues.</p>
-
-<h3 id="best-practices-for-choosing-how-to-group-and-tag-comments">Best practices for choosing how to group and tag comments</h3>
-
-<details>
-  <summary>Familiarize yourself with your data</summary>
-  <p>Read through a sample of comments and try to spot recurring patterns. Jot them down to get a rough overview of WHAT tasks, topics, or issues people are talking about.</p>
-  <p>Not every comment will be useful - sometimes it will be too unclear to use or be completely about another topic.</p>
-</details>
-
-<details>
-    <summary>Consider tags based on a task or issue</summary>
-    <p><strong>Task-based tags</strong> are recommended when analyzing comments for groups of pages where there are multiple user tasks.</p>
-    <p>To identify tasks, ask yourself why the user came to the site. What were they trying to do, or what question were they trying to answer?</p>
-    <table class="provisional gc-table table table-striped" id="myTable1">
-        <caption class="wb-inv">Example tagging model by task </caption>
-        <thead>
-            <tr>
-                <th scope="col">Task tag</th>
-                <th scope="col">User task</th>
-                <th scope="col">Topics included</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td data-label="Tag"><span class="text-left">Vaccine safety</span></td>
-                <td data-label="User task"><span class="text-left">Is the vaccine safe for me?</span></td>
-                <td data-label="Topics included"><span class="text-left">Pre-existing conditions, ingredients/allergies, side effects</span></td>
-            </tr>
-            <tr>
-                <td data-label="Tag"><span class="text-left">Getting vaccinated</span></td>
-                <td data-label="User task"><span class="text-left">How do I get vaccinated?</span></td>
-                <td data-label="Topics included"><span class="text-left">Eligibility, when, where, how to register</span></td>
-            </tr>
-            <tr>
-                <td data-label="Tag"><span class="text-left">Proof of vaccination</span></td>
-                <td data-label="User task"><span class="text-left">How do I get a copy of my vaccine record?</span></td>
-                <td data-label="Topics included"><span class="text-left">Vaccine records, provincial apps, federal vaccine proof</span></td>
-            </tr>
-        </tbody>
-    </table>
-    <p class="mrgn-tp-xl"><strong>Issue-based tags</strong> may be a better strategy when analyzing comments on a single page, single topic, or where a single task dominates your feedback.</p>
-    <table class="provisional gc-table table table-striped" id="myTable1">
-        <caption class="wb-inv">Example tagging model by issue </caption>
-        <thead>
-            <tr>
-                <th scope="col">Issue tag</th>
-                <th scope="col">Issue experienced</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td data-label="Issue tag"><span class="text-left">No appointments</span></td>
-                <td data-label="User issue"><span class="text-left">No appointments, no appointments for several weeks</span></td>
-            </tr>
-        </tbody>
-    </table>
-    <p class="mrgn-tp-xl"><strong>For large datasets</strong> you may find a second level of tags is needed to add precision. This can be done at the same time you tag the comments OR when you are ready to analyze a smaller set of comments.</p>
-</details>
-
-<details>
-    <summary>Limit the number of tags being used</summary>
-    <p>Start with broad tags and only include those for which you have multiple examples. Your goal with this first review is to succinctly group recurring topics/issues.</p>
-    <p>Aim to keep your set of tags to under 15 for the task.  Limiting the number of tags will help surface the issues that need the most assistance.</p>
-    <p>“Other” is a tag too!  Tag one-offs or low-frequency comments as “Other” until there are enough for them to graduate into having a tag of their own.</p>
-</details>
-
-<details>
-    <summary>Avoid using overlapping or ambiguous tags </summary>
-    <p>Make sure each tag is clearly differentiated from the others. Your aim is to reduce doubt about which tag a comment should get.</p>
-</details>
-
-<details>
-    <summary>Be prepared to tweak your choice of tags</summary>
-    <p>As you read more of your dataset, review your initial tag choices. Are they clear and unambiguous? Does one tag alone cover the majority of comments? Do you need to divide it into separate tags?</p>
-    <p>There’s no one-size-fits-all strategy. As you collect more comments, you may find you need to adjust your choice of tags.</p>
-</details>
-
-<details>
-    <summary>Document and test your tagging strategy</summary>
-    <p>Document your choice of tags with examples.   This is especially useful if more than one person will share the responsibility for reviewing comments.</p>
-    <p>Ask others to review your tag choices to make sure that the tags are clear to other people.  This is especially critical if more than one person will be helping to analyze comments.  Agreeing on a common set of tags in the beginning (and when adjusting tags) avoids comments being tagged poorly between people.</p>
-    <a class="btn btn-primary" href="images/feedback-tagging-template.xlsx" role="button">
-        <span class="fa fa-download" aria-hidden="true"></span> Download a tagging strategy template (Excel, 61KB)
-    </a>
-</details>
-
-<h3 id="what-to-avoid-when-tagging-comments">What to avoid when tagging comments</h3>
-
-<details>
-    <summary>Mixing types of tags</summary>
-    <p>If you want to add additional ways to analyse your dataset, it’s best to create new columns in your spreadsheet to note different kinds of facets. For example, adding a status or specifying a sub-issue.</p>
-</details>
-
-<details>
-    <summary>Trying to be overly-precise</summary>
-    <p>The purpose of tagging is to help you identify user priorities and group comments into smaller datasets to analyze. A “good enough” approach to defining and assigning tags will do.</p>
-    <p>If you have more comments than you can manage to review, classify and analyze, adjust your strategy: choose a specific task or time frame to focus on.</p>
-</details>
-
-<h2 id="tools-and-templates-for-comment-analysis">Tools and templates for comment analysis</h2>
-
-<p>For small datasets, any spreadsheet software should be adequate (Excel, Google Sheets) to sort and review comments.</p>
-
-<p>For larger datasets, it’s helpful to use a tool that has more advanced functionality to sort, filter, and tag. If you have a data science specialist, they may prefer or have access to other specialized software.</p>
-
-<h3 id="templates">Templates</h3>
+<h3 id="you-are-responsible-for">You are responsible for:</h3>
 
 <ul>
-  <li><a href="images/feedback-tagging-template.xlsx">Download a tagging strategy template</a> (Excel, 61KB)</li>
-  <li><a href="https://docs.google.com/spreadsheets/d/1pcQgee6lN6P30EIMRb3o6RxcTPBiUFtsZAmbeVNpDW4/edit?usp=sharing">Download a template to analyze page feedback and/or GC TSS comments</a> (Google Sheets)</li>
+  <li>Reviewing outputs for accuracy</li>
+  <li>Validating themes and counts</li>
+  <li>Checking for hallucinations or unsupported conclusions</li>
+  <li>Protecting sensitive information</li>
+  <li>Ensuring findings are appropriate before sharing</li>
 </ul>
 
-<h2 id="include-other-supporting-data-sources">Include other supporting data sources</h2>
+<p><strong>Important</strong>
+Use AI tools as analytical support, not as authoritative decision-makers.</p>
 
-<p>Include other data sources in your reporting to build a more complete picture, confirm your insights, or add urgency from sources such as:</p>
+<hr />
+
+<h2 id="privacy-and-security">Privacy and security</h2>
+
+<p>Before using AI tools:</p>
 
 <ul>
-  <li>analytics</li>
-  <li>call centre volumes</li>
-  <li>page feedback</li>
-  <li>search trends</li>
-  <li>usability study results</li>
-  <li>questions received through social media</li>
+  <li>Do not share protected, classified, or sensitive operational information</li>
+  <li>Remove personal information from comments (names, email, phone numbers, account or case identifiers, etc.)</li>
+  <li>Follow your departmental guidance for approved AI tool usage</li>
+  <li>Use only approved GC environments</li>
 </ul>
+
+<hr />
+
+<h2 id="good-practices">Good practices</h2>
+
+<h3 id="provide-context">Provide context</h3>
+
+<p>AI tools perform better when you provide lightweight context before the comments.</p>
+
+<div class="language-text highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Service area: Passports
+Page: Check passport application status
+Date range: April 2026
+</code></pre></div></div>
+
+<p>Useful context may include:</p>
+
+<ul>
+  <li>Service area</li>
+  <li>Page title or URL</li>
+  <li>Date range</li>
+</ul>
+
+<h3 id="use-structured-prompts">Use structured prompts</h3>
+
+<ul>
+  <li>Define the analytical task clearly</li>
+  <li>Specify output format</li>
+  <li>Define counting rules</li>
+  <li>Include instructions for handling sensitive information</li>
+  <li>Explain expectations for categorization and evidence</li>
+</ul>
+
+<h3 id="validate-outputs-carefully">Validate outputs carefully</h3>
+
+<p>Always verify:</p>
+
+<ul>
+  <li>Comment counts</li>
+  <li>Representative quotes</li>
+  <li>Themes accurately reflect user intent</li>
+  <li>Issue naming is clear and consistent</li>
+  <li>Interpretation accuracy</li>
+  <li>Bilingual handling</li>
+  <li>Quotes are copied exactly</li>
+  <li>Sensitive information is properly handled</li>
+</ul>
+
+<h3 id="sharing-feedback-insights">Sharing feedback insights</h3>
+
+<p>When communicating findings from AI-assisted analysis:</p>
+
+<ul>
+  <li>Describe methodology transparently</li>
+  <li>Include sample sizes where relevant</li>
+</ul>
+
+<blockquote>
+  <p>Analysis was assisted using AI. Findings were reviewed and validated by a human analyst.</p>
+</blockquote>
+
+<hr />
+
+<h2 id="reusable-prompts">Reusable prompts</h2>
+
+<p>The prompt below is designed for use with approved AI tools.</p>
+
+<h3 id="feedback-theme-analysis">Feedback theme analysis</h3>
+
+<h4 id="purpose">Purpose</h4>
+
+<p>Identify pain points and group comments into clear themes.</p>
+
+<h4 id="when-to-use">When to use</h4>
+
+<ul>
+  <li>Page feedback comments</li>
+  <li>Open-text survey responses</li>
+  <li>Understanding major user pain points</li>
+</ul>
+
+<h4 id="inputs-required">Inputs required</h4>
+
+<ul>
+  <li>A list or dataset of user comments</li>
+</ul>
+
+<h4 id="expected-outputs">Expected outputs</h4>
+<p>The prompt will produce:</p>
+<ul>
+  <li>Sensitive information check</li>
+  <li>Dataset summary</li>
+  <li>Issue summary table</li>
+  <li>Analysis confidence statement</li>
+</ul>
+
+<h4 id="prompt">Prompt</h4>
+
+<p><button type="button" class="btn btn-primary copy-btn" data-copy-target="fb-sum-001">
+  Copy prompt
+</button>
+<span class="wb-inv copy-status" role="status" aria-live="polite"></span></p>
+
+<pre id="fb-sum-001" class="prompt-block"><code>
+---
+Title: Feedback summary and theme analysis
+Owner: Canada.ca Experience Office
+Prompt ID: FB-SUM-001
+Version: 1.3
+Sensitivity: Unclassified
+Human Review Required: Yes
+Last Updated: 2026-07-08
+---
+
+# Role
+
+You are a data analyst supporting Government of Canada web teams.
+
+Your task is to analyze user feedback comments and identify the most significant user pain points based strictly on evidence contained within the dataset.
+
+Do not use external knowledge or assumptions.
+
+---
+
+# Success Criteria
+
+A successful analysis:
+
+- Produces distinct, non-overlapping themes
+- Accounts for all analyzed comments
+- Includes evidence supporting each theme
+- Uses consistent naming conventions
+- Can be understood without reviewing the raw dataset
+
+---
+
+# Core Principles
+
+## Evidence Integrity
+
+You must:
+
+- Use only comments provided
+- Never invent, alter, or paraphrase comments
+- Copy representative comments exactly as written
+- Use clear, neutral, evidence-based language
+- Avoid speculation or unsupported conclusions
+
+## Comment Assignment Rules
+
+For counting purposes:
+
+- Count unique comments only
+- Count each comment once
+- Assign each comment to exactly one theme
+- Do not count the same comment in multiple themes
+
+The sum of all theme counts must equal the number of comments analyzed.
+If this condition cannot be met, clearly state the issue in the output.
+
+
+## Ambiguity Handling
+
+- Use minimal inference for short or unclear comments
+- Assign to the best-fit theme where reasonable
+- If no grouping is clear, assign to "Other / Unclassified"
+
+Do not over-interpret intent.
+
+---
+
+# Sensitive Information Handling
+
+If sensitive or personal information is detected:
+
+- Do not reproduce sensitive details
+- Redact sensitive portions when possible
+- Exclude comments entirely if redaction would remove meaning
+
+Examples include:
+
+- Names
+- Phone numbers
+- Email addresses
+- Addresses
+- Social insurance numbers
+- Account or case numbers
+
+---
+
+# Theme Development
+
+## Theme Creation
+
+- Group comments by user task or user problem
+- Prioritize intent over keyword similarity
+- Create themes only when supported by evidence
+
+Guidance:
+- Typically 3–6 themes when supported by the data
+- Fewer themes are acceptable for small datasets
+- Do not create artificial themes simply to reach a target number
+
+
+## Theme Naming
+
+Use consistent task-based naming.
+
+Examples:
+
+- Find contact information
+- Check application status
+- Complete online form
+- Sign in to account
+
+Avoid vague or inconsistent labels.
+
+
+## Theme Ranking
+
+Order themes using:
+
+1. Highest comment count first
+2. Relative user impact (based only on evidence)
+
+## Other / Unclassified
+
+Use only when comments do not form a meaningful group.
+
+Place this category last.
+
+---
+
+# Observed User Impact
+
+Describe impact using only what is evident in comments.
+
+Valid examples:
+- Users unable to complete a task
+- Users delayed in finding information
+- Users unclear about next steps
+
+Do not infer beyond what is stated.
+
+---
+
+# Validation Check
+
+Before producing results, verify:
+
+- All comments were reviewed
+- Each comment is assigned to one theme
+- No comment appears in multiple themes
+- Theme counts sum to the total comments analyzed
+- Representative comments accurately reflect assigned themes
+
+If validation cannot be completed:
+
+- Clearly explain the issue
+- Identify any count discrepancies
+
+---
+
+# Workflow
+
+Follow this process in order:
+
+1. Review all comments
+2. Identify user tasks and associated problems
+3. Group comments into themes
+4. Assign each comment once
+5. Count comments per theme
+6. Select representative comments
+7. Validate totals
+8. Produce final output
+
+---
+
+# Output Structure
+
+Produce outputs in this exact order:
+
+1. Sensitive Information Check
+2. Dataset Summary
+3. Issue Summary Table
+4. Analysis Confidence
+
+Do not include any additional sections.
+
+---
+
+# Sensitive Information Check
+
+State exactly one of the following:
+
+- No sensitive personal information detected
+
+OR
+
+- Sensitive information detected — briefly described and excluded
+---
+
+# Dataset Summary
+
+Provide:
+
+| Metric | Count |
+|---|---|
+| Comments provided | X |
+| Comments excluded | X |
+| Comments analyzed | X |
+
+If comments were excluded, briefly explain why.
+
+---
+
+# Issue Summary Table
+
+Use exactly this structure:
+
+| # | User task | Description of pain point | Number of Comments | Representative Comments | Observed User Impact |
+|---|---|---|---|---|---|
+
+Requirements:
+
+- Include 2–5 verbatim comments per theme (when available)
+- Copy comments exactly as written
+- Do not paraphrase
+- Separate comments using: ` || `
+
+Do NOT include:
+
+- Recommendations
+- Prioritization
+- Severity scoring
+- Root cause analysis
+- Policy advice
+- Operational advice
+
+---
+
+# Analysis Confidence
+
+Choose one:
+
+High Confidence
+Moderate Confidence
+Low Confidence
+
+Provide a brief justification based on:
+- Data clarity
+- Consistency of comments
+- Strength of theme grouping
+
+</code></pre>
 
 <nav role="navigation" class="mrgn-bttm-lg">
-    <ul class="pager">
-        <li class="next"><a href="ai-analysis.html" rel="next">Next: AI-assisted analysis</a></li>
-    </ul>
+  <ul class="pager">
+    <li class="next"><a href="insights.html" rel="next">Next: Sharing insights</a></li>
+  </ul>
 </nav>
+
+<script src="../js/copy-prompt.js"></script>
+
 
 		<section class="pagedetails">
 	<h2 class="wb-inv">Page details</h2><div class="row">
