@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/retroaction/acces.html
 date: null
-dateModified: 2026-06-22
+dateModified: 2026-07-08
 description: null
 title: How to access page feedback
 ---
@@ -24,7 +24,7 @@ title: How to access page feedback
 
 ## Where feedback is stored
 
-When a user submits a comment, it is sent and stored in a database managed by the Digital Transformation Office at TBS.
+When a user submits a comment, it is sent and stored in a database managed by the Canada.ca Experience Office at ESDC.
 
 ## How to access feedback
 

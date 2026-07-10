@@ -204,6 +204,6 @@ title: "Global footer: Sub-footer band"
     <li><a href="https://github.com/canada-ca/design-system-systeme-conception/issues">Discuss the pattern in GitHub
       issues</a></li>
     <li><a href="https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM">Join the conversation on Slack</a></li>
-    <li><a href="mailto:{{ site.emails.dto }}">Send an email to the Digital Transformation Office</a></li>
+    <li><a href="mailto:{{ site.emails.dto }}">Send an email to the Canada.ca Experience Office</a></li>
   </ul>
 </section>

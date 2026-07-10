@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/retroaction/analyse-ai.html
 date: null
-dateModified: 2026-06-29
+dateModified: 2026-07-08
 description: null
 title: AI-assisted feedback analysis
 ---
@@ -147,6 +147,7 @@ The prompt will produce:
   data-copy-target="fb-sum-001">
   Copy prompt
 </button>
+<span class="wb-inv copy-status" role="status" aria-live="polite"></span>
 
 <pre id="fb-sum-001" class="prompt-block"><code>
 ---
@@ -156,7 +157,7 @@ Prompt ID: FB-SUM-001
 Version: 1.3
 Sensitivity: Unclassified
 Human Review Required: Yes
-Last Updated: 2026-06-30
+Last Updated: 2026-07-08
 ---
 
 # Role
@@ -426,19 +427,4 @@ Provide a brief justification based on:
   </ul>
 </nav>
 
-<script>
-document.addEventListener("click", function(e) {
-  const btn = e.target.closest(".copy-btn");
-  if (!btn) return;
-
-  const targetId = btn.dataset.copyTarget;
-  const target = document.getElementById(targetId);
-  if (!target) return;
-
-  navigator.clipboard.writeText(target.textContent).then(() => {
-    const originalText = btn.textContent;
-    btn.textContent = "Copied!";
-    setTimeout(() => { btn.textContent = originalText; }, 2000);
-  });
-});
-</script>
+<script src="../js/copy-prompt.js"></script>

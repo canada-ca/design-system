@@ -7,7 +7,7 @@ language: en
 title: "Citizenship test optimization project"
 ---
 <p class="post-meta">March 29, 2019</p>
-<p>The Digital Transformation Office (DTO) and Immigration, Refugees and Citizenship Canada (IRCC) collaborated on the citizenship test optimization project in the summer of 2018. In this project, the team sought to make it easier for people to prepare for the test that most new citizens must take to complete their application for Canadian citizenship.</p>
+<p>The Canada.ca Experience Office (CEO) and Immigration, Refugees and Citizenship Canada (IRCC) collaborated on the citizenship test optimization project in the summer of 2018. In this project, the team sought to make it easier for people to prepare for the test that most new citizens must take to complete their application for Canadian citizenship.</p>
 <p>A team of content designers, design researchers and interaction designers worked with <abbr title="Immigration, Refugees and Citizenship Canada">IRCC</abbr> to define a set of 6 task scenarios related to the citizenship test. Using these scenarios, we completed a total of 214 tests with 36 participants. We tested the existing pages and then re-tested our prototyped improvements. Overall, task success rose by 17% percentage points - to an average of 86% - on the revised prototype. </p>
 <h2>Establishing a baseline</h2>
 <p>We selected 19 participants to test the existing pages using the 6 tasks that our team had designed. Our team was trying to measure:</p>

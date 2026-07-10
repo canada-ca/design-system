@@ -1,0 +1,85 @@
+---
+altLangPage: https://conception.canada.ca/directives/ia/conception-iterative.html
+date: 2026-02-12
+dateModified: 2026-02-12
+description: Learning and feedback are crucial for successful agile service development. Use this guidance to test and iterate your AI help application.
+title: Iterative design for AI help applications
+---
+
+Learning and feedback are crucial for successful agile service development. With the rapid pace of generative AI development, you must experiment and learn quickly. Testing should be an ongoing activity that spans the entire service design lifecycle. It should include not only functionality checks but also a wide range of factors including user experience, features of the tool, accessibility, official language adherence, inclusivity, unintended biases, etc.
+
+## On this page
+- [Monitor and iterate](#monitor-and-iterate)
+- [Measure outcomes using feedback mechanisms and a post-use survey](#measure-outcomes-using-feedback-mechanisms-and-a-post-use-survey)
+- [Task Success Survey](#task-success-survey)
+
+A key aspect of this iterative design approach is identifying and addressing user pain points in accessing services. Programs should focus particularly on areas where the administrative burden is high, such as when users face significant learning, psychological, or compliance costs. This means understanding the complexities surrounding eligibility for services, the steps required to access them, and the general user experience.
+
+We propose experimentation phases that include user research and testing throughout the entire lifecycle. Usability research helps to ensure that by the time of a full public launch, the application design meets user expectations and desired outcomes. Continuous evaluation of accuracy, security and usability should also be integrated into the design process, including testing with assessors, accessibility experts, and actual users to ensure it continues to meet expectations.
+
+Actively identifying user pain points can also help inform iterative improvements and streamline access to services, ultimately creating a more client-centric experience. The [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) contains information about designing with users and what it means to iterate and improve frequently.
+
+## Monitor and iterate
+
+- [User research in the design phase](#user-research-in-the-design-phase)
+- [Use evaluation datasets from Canada.ca feedback](#use-evaluation-datasets-from-canadaca-feedback)
+- [Initial testing phase](#initial-testing-phase)
+- [Iterative usability testing sessions](#iterative-usability-testing-sessions)
+
+### User research in the design phase
+
+Involve user experience (UX) researchers early so they can start testing design prototypes with potential end users. Apply best practices for federal institutions deploying a generative AI tool from the Treasury Board of Canada Secretariat's:
+
+- [Guide on the use of generative artificial intelligence](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html)
+
+### Use evaluation datasets from Canada.ca feedback
+
+Every weekday, users leave up to 4,000 feedback comments across the site, many in the form of questions. Consult your web team or the [Canada.ca Experience Office](mailto:cds.dto-btn.snc@servicecanada.gc.ca) to generate an evaluation dataset from this user feedback. Before using the dataset, ensure you remove all comments with redacted personal information (comments that include the # character).
+
+For more information on using feedback, see:
+
+- [How to access survey results and reports](https://design.canada.ca/survey/access-results.html)
+- [Guide to extracting data from the Feedback Viewer database (GCXchange link, only available on the Government of Canada network)](https://gcxgce.sharepoint.com/:w:/t/10001402/EUO29ttIkP5BhpYVj4nGdkUBjvnMAxEVj8T-MuCjWfzEqw?e=HbLjyy)
+
+### Initial testing phase
+
+Provide call centre team members or other stakeholders with early versions of the application. They can provide feedback and rate/evaluate results.
+
+### Iterative usability testing sessions
+
+As the design process continues, UX researchers should continue to test various aspects and iterations of the design with end-users to ensure it aligns with their needs and expectations. Unmoderated video software works well for this.
+
+Perform as many iterations as needed to refine the product to meet client-centric standards.
+
+The Guideline on Service and Digital provides additional information on client-centric service design and delivery:
+
+- [Client-centric service design and delivery](https://www.canada.ca/en/government/system/digital-government/guideline-service-digital.html#ToC2)
+
+## Measure outcomes using feedback mechanisms and a post-use survey
+
+Generative AI is rapidly changing expectations, and underlying models can evolve too. It's crucial that AI chat applications deliver answers that meet users' needs and expectations. You must continually manage and improve the accuracy and trustworthiness of these applications on Canada.ca. Feedback mechanisms can provide both quantitative and qualitative data for iterative improvement and promptly highlight issues that require immediate attention.
+
+Drawing from research by GOV.UK, we recommend including a line below the answer that states, "How was this answer? Good or Needs improvement." This phrasing better aligns with client-centric standards and invites users to provide meaningful feedback.
+
+If a user selects "Needs improvement" consider offering follow-up questions to clarify their experience, such as:
+
+- "The answer was unclear"
+- "The answer did not address my question"
+- "The answer was incomplete"
+- "The answer was incorrect"
+
+The Guideline on Service and Digital provides additional information on client feedback:
+
+- [Client feedback and satisfaction](https://www.canada.ca/en/government/system/digital-government/guideline-service-digital.html#ToC2_2)
+
+## Task Success Survey
+
+On Canada.ca, we randomly invite visitors to respond to the Task Success Survey (TSS). We use the results to evaluate and improve success by category.
+
+We recommend adding a special version of the TSS to your AI application. To compare the success of visitors using your AI application with those using only the web pages, you could display the TSS invitation to a random selection of AI users. Additionally, you could always have the TSS link available at the bottom of the application page.
+
+The Canada.ca Experience Office has created and usability tested a version of the TSS for AI applications. You can access the survey here: [https://cdssnc.qualtrics.com/jfe/form/SV_4N2YTcAHkcBEGfs](https://cdssnc.qualtrics.com/jfe/form/SV_4N2YTcAHkcBEGfs)
+
+Teams should use survey data and evaluations of chat interactions to inform their decisions and determine how effective the help application is at delivering the desired service outcomes. Success is measured not by the number of people using the application, but by how many report that the application solved their problem and the rated accuracy of the answers they received.
+
+For more information, [see the guidance on using the GC Task Success Survey](https://design.canada.ca/survey/index.html).

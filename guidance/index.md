@@ -1,12 +1,12 @@
 ---
 altLangPage: https://conception.canada.ca/directives/
 breadcrumbs:
-  - link: "https://design.canada.ca/about/"
+  - link: "https://www.canada.ca/en/government/about-canada-ca.html"
     title: "About Canada.ca"
   - link: "https://design.canada.ca"
     title: "Design"
 date: 2025-08-29
-dateModified: 2025-08-29
+dateModified: 2026-02-12
 description: Use this guidance to create and manage Government of Canada web content
 information:
   - title: Closed programs or services
@@ -21,6 +21,9 @@ information:
   - title: Crisis communications content design checklist
     link: /crisis/content.html
     description: Mobile-first, avoid duplication, add dates, write information as directions, use bulleted lists, keep sentences short
+  - title: Guidance for the design of AI help applications
+    link: /guidance/ai/index.html
+    description: Central guidance and AI research, design and content guidance, privacy and security, iterative design, reference checklist
 
 title: Canada.ca design guidance
 ---
@@ -32,7 +35,7 @@ Use this guidance to create and manage web content.
 	<div class="row wb-eqht-grd">
 		{%- for info in page.information -%}
 		<div class="col-lg-4 col-md-6">
-			<h3><a href="{{ site.url }}{{ info.link }}">{{ info.title }}</a></h3>
+			<h3><a href="{{ info.link | absolute_url }}">{{ info.title }}</a></h3>
       <p>{{ info.description }}</p>
 		</div>
 		{%- endfor -%}

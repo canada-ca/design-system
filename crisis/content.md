@@ -3,8 +3,8 @@ altLangPage: https://conception.canada.ca/crise/contenu.html
 breadcrumbs:
 - link: https://www.canada.ca/en/government/about.html
   title: About Canada.ca
-- link: https://www.canada.ca/en/government/about/design-system.html
-  title: Canada.ca design system
+- link: /
+  title: Design
 date: null
 dateModified: '2021-12-21'
 description: null
@@ -13,7 +13,7 @@ title: Crisis communications content design checklist
 
 
 <div>
- 
+
  <section>
   <h2>
    On this page

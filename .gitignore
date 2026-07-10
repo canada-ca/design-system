@@ -1,6 +1,7 @@
 #ignore file with API key
 **/config/
 *.ini
+*.env
 
 ### macOS ###
 # General
@@ -25,8 +26,8 @@ Icon
 .VolumeIcon.icns
 
 # Directories potentially created on remote AFP share
-.AppleDB
 .apdisk
+.AppleDB
 .AppleDesktop
 Network Trash Folder
 Temporary Items

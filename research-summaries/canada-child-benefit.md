@@ -2,17 +2,17 @@
 altLangPage: "https://conception.canada.ca/resumes-recherche/allocation-canadienne-enfants.html"
 date: 2023-08-15
 date-modified: 2023-08-15
-description: "The Digital Transformation Office (DTO) partnered with the Canada Revenue Agency (CRA) to redesign the Canada Child Benefit pages on Canada.ca."
+description: "The Canada.ca Experience Office (CEO) partnered with the Canada Revenue Agency (CRA) to redesign the Canada Child Benefit pages on Canada.ca."
 language: en
 title: "Canada Child Benefit"
 ---
-<p>The Canada Child Benefit (CCB) contributes to reducing child poverty in Canada. In early 2019, the Digital Transformation Office (DTO) partnered with the Canada Revenue Agency (CRA) to redesign the Canada Child Benefit pages on Canada.ca. The team’s goal was to reduce calls to the call centre for key questions. After the redesigned pages went live in 2020, the CRA call centre confirmed that call rates had indeed dropped.</p>
+<p>The Canada Child Benefit (CCB) contributes to reducing child poverty in Canada. In early 2019, the Canada.ca Experience Office (CEO) partnered with the Canada Revenue Agency (CRA) to redesign the Canada Child Benefit pages on Canada.ca. The team’s goal was to reduce calls to the call centre for key questions. After the redesigned pages went live in 2020, the CRA call centre confirmed that call rates had indeed dropped.</p>
 <p>To meet the needs of parents on mobile phones, the team co-designed a new pattern we called the subway navigation. The existing design was broken into steps, but wasn’t effective on phone screens. The new design’s visual representation of the links resembles the stops on a subway map.</p>
 <p>This research summary explains the context of the research project in which the subway navigation pattern was created and all the considerations that were taken into account. It also highlights other innovations from this project.</p>
 <p>Subway navigation has proven to be an effective pattern to lead users through a service that involves several steps. Analytics and usability testing have shown that it keeps users ‘on track’ with improved findability and success rates. The CRA later adopted and extended the pattern for the successful Canada Emergency Response Benefit (CERB) and Canada Recovery Benefits pages.</p>
 <p>By understanding when and how to use subway navigation, you can use this powerful pattern correctly.</p>
 <h2 id="establishing-a-baseline">Establishing a baseline</h2>
-<p>In 2019, the Canada Revenue Agency (CRA) sought to reduce calls from Canadians who couldn’t find or understand the web content that explains how to receive or maintain their child benefits. The Digital Transformation Office (DTO) partnered with CRA to work on this top task.</p>
+<p>In 2019, the Canada Revenue Agency (CRA) sought to reduce calls from Canadians who couldn’t find or understand the web content that explains how to receive or maintain their child benefits. The Canada.ca Experience Office (CEO) partnered with CRA to work on this top task.</p>
 <p>The first step was to conduct workshops with stakeholders, including call centre staff. The intent of the workshops was to understand the top call drivers.</p>
 <p>The team used call centre data to characterize common issues. They then generated an extensive set of real-world scenarios that reflected the problems and contexts that drove the highest volume of calls. They used this data to create testing scenarios for baseline and comparison tests.</p>
 <p>Top call-drivers included:</p>

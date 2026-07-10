@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/sondage/commentaires.html
 date: null
-dateModified: 2026-07-07
+dateModified: 2026-07-08
 description: null
 title: How to analyze comments
 ---
@@ -12,7 +12,6 @@ title: How to analyze comments
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="access-results.html">Survey results and reports</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item active" href="analyze-feedback.html">How to analyze comments</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="ai-analysis.html">AI-assisted analysis</a></li>
-
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="insights.html">Sharing insights</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="prioritize.html">Deciding what to improve</a></li>
     </ul>
@@ -175,6 +174,6 @@ Include other data sources in your reporting to build a more complete picture, c
 
 <nav role="navigation" class="mrgn-bttm-lg">
     <ul class="pager">
-        <li class="next"><a href="ai-analysis.html" rel="next">Next: AI analysis</a></li>
+        <li class="next"><a href="ai-analysis.html" rel="next">Next: AI-assisted analysis</a></li>
     </ul>
 </nav>

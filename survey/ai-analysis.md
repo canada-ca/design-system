@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/sondage/analyse-ai.html
 date: null
-dateModified: 2026-06-29
+dateModified: 2026-07-08
 description: null
 title: AI-assisted feedback analysis
 ---
@@ -109,17 +109,17 @@ When communicating findings from AI-assisted analysis:
 
 ---
 
-# Reusable prompts
+## Reusable prompts
 
 The prompt below is designed for use with approved AI tools.
 
-## Feedback theme analysis
+### Feedback theme analysis
 
-## Purpose
+#### Purpose
 
 Identify pain points and group comments into clear themes.
 
-## When to use
+#### When to use
 
 - Page feedback comments
 - Open-text survey responses
@@ -127,12 +127,12 @@ Identify pain points and group comments into clear themes.
 
 
 
-## Inputs required
+#### Inputs required
 
 - A list or dataset of user comments
 
 
-## Expected outputs
+#### Expected outputs
 The prompt will produce:
 - Sensitive information check
 - Dataset summary
@@ -140,7 +140,7 @@ The prompt will produce:
 - Analysis confidence statement
 
 
-##### Prompt
+#### Prompt
 
 <button
   type="button"
@@ -148,6 +148,7 @@ The prompt will produce:
   data-copy-target="fb-sum-001">
   Copy prompt
 </button>
+<span class="wb-inv copy-status" role="status" aria-live="polite"></span>
 
 <pre id="fb-sum-001" class="prompt-block"><code>
 ---
@@ -157,7 +158,7 @@ Prompt ID: FB-SUM-001
 Version: 1.3
 Sensitivity: Unclassified
 Human Review Required: Yes
-Last Updated: 2026-06-30
+Last Updated: 2026-07-08
 ---
 
 # Role
@@ -330,16 +331,14 @@ If validation cannot be completed:
 
 Follow this process in order:
 
-1. Determine output language based on the language of the request
-2. Review all comments
-3. Identify user tasks and associated problems
-4. Group comments into themes
-5. Assign each comment once
-6. Count comments per theme
-7. Select representative comments
-8. Validate totals
-9. Produce final output
-
+1. Review all comments
+2. Identify user tasks and associated problems
+3. Group comments into themes
+4. Assign each comment once
+5. Count comments per theme
+6. Select representative comments
+7. Validate totals
+8. Produce final output
 
 ---
 
@@ -353,7 +352,7 @@ Produce outputs in this exact order:
 4. Analysis Confidence
 
 Do not include any additional sections.
-Produce all sections in the output language determined under Language Handling.
+
 ---
 
 # Sensitive Information Check
@@ -427,19 +426,4 @@ Provide a brief justification based on:
   </ul>
 </nav>
 
-<script>
-document.addEventListener("click", function(e) {
-  const btn = e.target.closest(".copy-btn");
-  if (!btn) return;
-
-  const targetId = btn.dataset.copyTarget;
-  const target = document.getElementById(targetId);
-  if (!target) return;
-
-  navigator.clipboard.writeText(target.textContent).then(() => {
-    const originalText = btn.textContent;
-    btn.textContent = "Copied!";
-    setTimeout(() => { btn.textContent = originalText; }, 2000);
-  });
-});
-</script>
+<script src="../js/copy-prompt.js"></script>

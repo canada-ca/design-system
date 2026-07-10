@@ -12,7 +12,7 @@ title: Get support for GC Feedback
 
 ## Contact and support
 
-Contact the Digital Transformation Office for questions related to:
+Contact the Canada.ca Experience Office for questions related to:
 
 * installing the feedback tool
 * the Feedback Viewer tool
