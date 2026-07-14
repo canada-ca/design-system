@@ -22,7 +22,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Setup Ruby
         if: github.event.action != 'closed'
@@ -49,7 +49,7 @@ jobs:
 
       - name: Update PR description with preview
         if: github.event.action != 'closed'
-        uses: actions/github-script@v7
+        uses: actions/github-script@v8
         with:
           script: |
             const previewUrl = `https://design.canada.ca/pr-preview/pr-${{ github.event.number }}/`;
@@ -176,7 +176,7 @@ jobs:
 
       - name: Remove preview from PR description
         if: github.event.action == 'closed'
-        uses: actions/github-script@v7
+        uses: actions/github-script@v8
         with:
           script: |
             // Get current PR body
