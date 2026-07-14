@@ -5,6 +5,10 @@ on:
     # Run every day at 2:00 AM UTC
     - cron: '0 2 * * *'
   workflow_dispatch: # Allow manual trigger
+    inputs:
+      retention_days:
+        description: 'Days to keep previews after a PR closes'
+        default: '7'
 
 permissions:
   contents: write
@@ -15,13 +19,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout gh-pages branch
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           ref: gh-pages
           fetch-depth: 0
 
       - name: Clean up stale preview directories
-        uses: actions/github-script@v7
+        uses: actions/github-script@v8
+        env:
+          RETENTION_DAYS: ${{ inputs.retention_days || 7 }}
         with:
           script: |
             const fs = require('fs');
@@ -29,7 +35,21 @@ jobs:
             const { execSync } = require('child_process');
 
             // Configuration
-            const RETENTION_DAYS = 7; // Keep previews for PRs closed within this many days
+            // pr-preview.yml deliberately ignores closed events, so this scheduled
+            // workflow is the only thing that prunes previews.
+            // Keep previews for PRs closed within this many days. Scheduled runs
+            // supply no inputs, so fall back to 7; an explicit 0 is honoured
+            // (prune everything already closed), but blank or invalid values
+            // are not.
+            const rawRetentionDays = process.env.RETENTION_DAYS;
+            const parsedRetentionDays = Number(rawRetentionDays);
+            const RETENTION_DAYS = (rawRetentionDays !== '' && Number.isFinite(parsedRetentionDays) && parsedRetentionDays >= 0)
+              ? parsedRetentionDays
+              : 7;
+
+            const retentionMs = RETENTION_DAYS * 24 * 60 * 60 * 1000;
+            const cutoffDate = new Date(Date.now() - retentionMs);
+            const cutoffDateString = cutoffDate.toISOString().slice(0, 10);
 
             // Helper function to safely extract error information
             function extractErrorInfo(error) {
@@ -50,27 +70,21 @@ jobs:
               per_page: 100
             });
 
-            const closedPRs = await github.paginate(github.rest.pulls.list, {
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              state: 'closed',
-              per_page: 100,
-              sort: 'updated',
-              direction: 'desc'
+            const recentlyClosedPRs = await github.paginate(github.rest.search.issuesAndPullRequests, {
+              q: `repo:${context.repo.owner}/${context.repo.repo} is:pr closed:>=${cutoffDateString}`,
+              per_page: 100
             });
 
             // Keep previews for open PRs and PRs closed in the last N days
-            const retentionMs = RETENTION_DAYS * 24 * 60 * 60 * 1000;
-            const cutoffDate = new Date(Date.now() - retentionMs);
             const activePRNumbers = new Set([
               ...openPRs.map(pr => pr.number),
-              ...closedPRs
+              ...recentlyClosedPRs
                 .filter(pr => pr.closed_at && new Date(pr.closed_at) > cutoffDate)
                 .map(pr => pr.number)
             ]);
 
             console.log(`Retention period: ${RETENTION_DAYS} days`);
-            console.log(`Active PR numbers to keep: ${Array.from(activePRNumbers).join(', ')}`);
+            console.log(`Active PR numbers to keep: ${activePRNumbers.size}`);
 
             // Check if pr-preview directory exists
             const previewDir = 'pr-preview';
@@ -84,7 +98,7 @@ jobs:
               .filter(dir => dir.startsWith('pr-'))
               .map(dir => {
                 const match = dir.match(/^pr-(\d+)$/);
-                return match ? { dir, prNumber: parseInt(match[1]) } : null;
+                return match ? { dir, prNumber: parseInt(match[1], 10) } : null;
               })
               .filter(x => x !== null);
 
@@ -109,7 +123,7 @@ jobs:
             staleDirectories.forEach(({ dir }) => {
               const dirPath = path.join(previewDir, dir);
               try {
-                execSync(`rm -rf "${dirPath}"`, { stdio: 'inherit' });
+                fs.rmSync(dirPath, { recursive: true, force: true });
                 console.log(`Removed: ${dirPath}`);
               } catch (error) {
                 const { message } = extractErrorInfo(error);
