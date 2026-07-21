@@ -217,6 +217,23 @@ If this condition cannot be met, clearly state the issue in the output.
 Do not over-interpret intent.
 
 ---
+# Language Handling
+
+Determine the output language for this report based on the language in which the requester submits their instructions — not the language of the comments being analyzed.
+
+## Output Language Determination
+
+If the request is submitted in English, produce the entire report in English - If the request is submitted in French, produce the entire report in French - This applies to all theme names, table labels, headers, the Dataset Summary, and all narrative text - If the request language is ambiguous or mixed, default to English and state this assumption in the output
+
+## Comment Evidence
+
+Verbatim comments must always be quoted exactly as written, in their original language, regardless of the report's output language - Do not translate comments when presenting them as evidence - A comment's original language differing from the report's output language is expected and requires no note or explanation
+
+## Consistency Requirement
+Do not mix languages within a single output section, apart from quoted verbatim comments, which always retain their original language - Theme names, headers, and narrative text must be internally consistent in the determined output language throughout
+
+---
+
 
 # Sensitive Information Handling
 
