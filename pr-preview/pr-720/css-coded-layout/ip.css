@@ -1,0 +1,55 @@
+.provisional.bg-right {
+	background-position: right;
+}
+
+.provisional.pb-3 {
+	padding-bottom: 15px;
+}
+
+.provisional.btn-call-to-action {
+	font-size: 1em;
+}
+
+
+.provisional.gc-featured-lnk {
+	background: #31708f;
+	margin-bottom: 0em;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+.provisional.gc-featured-lnk a {
+	color:#fff
+}
+
+ul.feeds-cont li a {
+	font-weight: bold;
+}
+
+@media screen and (max-width: 767px) {
+	.provisional.btn-call-to-action {
+		font-size: .9em;
+	}
+
+	.provisional.xs-left {
+		float: left !important;
+	}
+}
+
+@media screen and (max-width: 767px) {
+	.provisional.bg-hide-xs {
+		background-image: url("none") !important;
+	}
+}
+
+@media (min-width:768px) and (max-width:991px) {
+	.provisional.bg-hide-sm {
+		background-image: url("none") !important;
+	}
+}
+
+/* version with Minister images */
+
+.provisional.ministers img {
+	max-width: 200px;
+}
