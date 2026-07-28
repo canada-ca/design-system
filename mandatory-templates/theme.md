@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/modeles-obligatoire/theme.html
 date: 2026-02-27
-dateModified: '2026-06-16'
+dateModified: '2026-07-30'
 description: Guidance on using a layered theme navigation page on Canada.ca. A layered theme navigation page allows people to find services and information from all Government of Canada websites grouped under one of the main themes of Canada.ca.
 title: Layered theme page
 ---
@@ -72,7 +72,7 @@ Customization requests will be considered on a case-by-case basis if your theme 
       <img src="../images/layered-theme-page-sm.png" class="img-responsive" alt="Layered theme navigation page for small screens. Text version below:" />
       <details>
         <summary>Image description: layered theme navigation page - small screen</summary>
-        <p>In mobile the layered theme navigation page is a dark blue band that runs across the top with the text “Menu” and a chevron pointing down. When the user clicks the menu expands to expose all the themes.</p>
+        <p>In mobile the layered theme navigation page is a dark blue band that runs across the top with the text “Menu” and a chevron pointing down. When the user clicks the menu expands to expose all the themes and hides the page content and global footer main band.</p>
         <p>The active theme content includes the theme heading, most requested items in a band, which is then followed by links and descriptions in a single column to navigate further into the theme. Below the theme navigation section is the heading “Features” and three context-specific features for the theme and a contextual footer for the theme’s contact information.</p>
       </details>
     </figure>
@@ -107,7 +107,7 @@ The layered theme page is a mandatory template under the Canada.ca Specification
 ## Latest changes {#latest-changes}
 
 <dl class="dl-horizontal">
-  <dt><time>2026-02-27</time></dt>
+  <dt><time>2026-07-30</time></dt>
   <dd>
     <p>Stabilized and launched the layered theme page.</p>
   </dd>
