@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://design.canada.ca/pr-preview/pr-634/recommended-templates/404-error-page.html</loc>
-    <lastmod>2026-02-05</lastmod>
+    <lastmod>2026-07-06</lastmod>
   </url>
   <url>
     <loc>https://design.canada.ca/pr-preview/pr-634/common-design-patterns/about-institution.html</loc>
@@ -18,11 +18,11 @@
   </url>
   <url>
     <loc>https://design.canada.ca/pr-preview/pr-634/feedback/access-feedback.html</loc>
-    <lastmod>2024-07-18</lastmod>
+    <lastmod>2026-07-08</lastmod>
   </url>
   <url>
     <loc>https://design.canada.ca/pr-preview/pr-634/survey/access-results.html</loc>
-    <lastmod>2024-05-27</lastmod>
+    <lastmod>2026-07-08</lastmod>
   </url>
   <url>
     <loc>https://design.canada.ca/pr-preview/pr-634/recommended-templates/accessibility/accessibility.html</loc>
@@ -31,6 +31,14 @@
   <url>
     <loc>https://design.canada.ca/pr-preview/pr-634/recommended-templates/accessibility.html</loc>
     <lastmod>2024-12-05</lastmod>
+  </url>
+  <url>
+    <loc>https://design.canada.ca/pr-preview/pr-634/feedback/ai-analysis.html</loc>
+    <lastmod>2026-07-08</lastmod>
+  </url>
+  <url>
+    <loc>https://design.canada.ca/pr-preview/pr-634/survey/ai-analysis.html</loc>
+    <lastmod>2026-07-08</lastmod>
   </url>
   <url>
     <loc>https://design.canada.ca/pr-preview/pr-634/alerts/alerts-contact.html</loc>
@@ -49,12 +57,12 @@
     <lastmod>2019-04-01</lastmod>
   </url>
   <url>
-    <loc>https://design.canada.ca/pr-preview/pr-634/alerts/alerts.html</loc>
-    <lastmod>2019-04-01</lastmod>
-  </url>
-  <url>
     <loc>https://design.canada.ca/pr-preview/pr-634/crisis/alerts.html</loc>
     <lastmod>2025-05-19</lastmod>
+  </url>
+  <url>
+    <loc>https://design.canada.ca/pr-preview/pr-634/alerts/alerts.html</loc>
+    <lastmod>2019-04-01</lastmod>
   </url>
   <url>
     <loc>https://design.canada.ca/pr-preview/pr-634/survey/analytics.html</loc>
@@ -62,11 +70,11 @@
   </url>
   <url>
     <loc>https://design.canada.ca/pr-preview/pr-634/feedback/analyze-feedback.html</loc>
-    <lastmod>2023-02-28</lastmod>
+    <lastmod>2026-07-08</lastmod>
   </url>
   <url>
     <loc>https://design.canada.ca/pr-preview/pr-634/survey/analyze-feedback.html</loc>
-    <lastmod>2023-04-05</lastmod>
+    <lastmod>2026-07-08</lastmod>
   </url>
   <url>
     <loc>https://design.canada.ca/pr-preview/pr-634/mandatory-templates/audience-pages.html</loc>
@@ -315,11 +323,11 @@
   </url>
   <url>
     <loc>https://design.canada.ca/pr-preview/pr-634/feedback/insights.html</loc>
-    <lastmod>2023-02-28</lastmod>
+    <lastmod>2026-07-08</lastmod>
   </url>
   <url>
     <loc>https://design.canada.ca/pr-preview/pr-634/survey/insights.html</loc>
-    <lastmod>2023-04-05</lastmod>
+    <lastmod>2026-07-08</lastmod>
   </url>
   <url>
     <loc>https://design.canada.ca/pr-preview/pr-634/mandatory-templates/institutional-profile-pages.html</loc>
@@ -331,6 +339,10 @@
   </url>
   <url>
     <loc>https://design.canada.ca/pr-preview/pr-634/coded-layout/institutional_landing_page_guidance.html</loc>
+  </url>
+  <url>
+    <loc>https://design.canada.ca/pr-preview/pr-634/specifications/usage-canadaca-design/institutions-list.html</loc>
+    <lastmod>2026-06-22</lastmod>
   </url>
   <url>
     <loc>https://design.canada.ca/pr-preview/pr-634/common-design-patterns/interactive-questions.html</loc>
@@ -358,7 +370,10 @@
   </url>
   <url>
     <loc>https://design.canada.ca/pr-preview/pr-634/about/latest-changes.html</loc>
-    <lastmod>2026-03-27</lastmod>
+  </url>
+  <url>
+    <loc>https://design.canada.ca/pr-preview/pr-634/specifications/latest-changes.html</loc>
+    <lastmod>2026-07-13</lastmod>
   </url>
   <url>
     <loc>https://design.canada.ca/pr-preview/pr-634/common-design-patterns/latest-news.html</loc>
@@ -391,11 +406,11 @@
     <lastmod>2023-04-05</lastmod>
   </url>
   <url>
-    <loc>https://design.canada.ca/pr-preview/pr-634/coded-layout/ministerial-profile-pages.html</loc>
+    <loc>https://design.canada.ca/pr-preview/pr-634/mandatory-templates/ministerial-profile-pages.html</loc>
     <lastmod>2025-12-22</lastmod>
   </url>
   <url>
-    <loc>https://design.canada.ca/pr-preview/pr-634/mandatory-templates/ministerial-profile-pages.html</loc>
+    <loc>https://design.canada.ca/pr-preview/pr-634/coded-layout/ministerial-profile-pages.html</loc>
     <lastmod>2025-12-22</lastmod>
   </url>
   <url>
@@ -475,11 +490,11 @@
   </url>
   <url>
     <loc>https://design.canada.ca/pr-preview/pr-634/feedback/prioritize.html</loc>
-    <lastmod>2023-02-28</lastmod>
+    <lastmod>2026-07-08</lastmod>
   </url>
   <url>
     <loc>https://design.canada.ca/pr-preview/pr-634/survey/prioritize.html</loc>
-    <lastmod>2023-04-05</lastmod>
+    <lastmod>2026-07-08</lastmod>
   </url>
   <url>
     <loc>https://design.canada.ca/pr-preview/pr-634/common-design-patterns/privacy-disclaimer.html</loc>
@@ -721,6 +736,9 @@
   </url>
   <url>
     <loc>https://design.canada.ca/pr-preview/pr-634/about/top-tasks-for-canada-ca.html</loc>
+  </url>
+  <url>
+    <loc>https://design.canada.ca/pr-preview/pr-634/top-tasks-for-canada-ca.html</loc>
     <lastmod>2025-07-21</lastmod>
   </url>
   <url>

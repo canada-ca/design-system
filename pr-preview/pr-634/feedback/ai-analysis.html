@@ -4,21 +4,19 @@
 		<meta charset="utf-8">
 		<!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW) wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
 
-		<title>Departments and agencies page mandatory template - Canada.ca</title>
+		<title>AI-assisted feedback analysis - Canada.ca</title>
 		<meta content="width=device-width, initial-scale=1" name="viewport">
 		<!-- Custom code starts here (Metadata) / Code personalisé commence ici (Métadonnées) -->
-		<link rel="canonical" href="https://design.canada.ca/pr-preview/pr-634/mandatory-templates/department-agencies-page.html" />
-		<link rel="alternate" href="https://conception.canada.ca/modeles-obligatoire/page-ministeres-organismes.html" hreflang="fr" />
-		<meta name="description" content="The departments and agencies landing page includes an alphabetically organized list of government institutions" />
-		<meta name="dcterms.title" content="Departments and agencies page mandatory template"/>
-		<meta name="dcterms.description" content="The departments and agencies landing page includes an alphabetically organized list of government institutions"/>
+		<link rel="canonical" href="https://design.canada.ca/pr-preview/pr-634/feedback/ai-analysis.html" />
+		<link rel="alternate" href="https://conception.canada.ca/retroaction/analyse-ai.html" hreflang="fr" />
+		<meta name="dcterms.title" content="AI-assisted feedback analysis"/>
 		<meta name="author" content="Employment and Social Development Canada" />
 		<meta name="dcterms.creator" content="Employment and Social Development Canada"/>
 		<meta name="dcterms.language" title="ISO639-2/T" content="eng"/>
 		<meta name="dcterms.accessRights" content="2" />
 		<meta name="gcaaterms.sitename" content="ESDC-EDSC_CanadacaDesign-ConceptionCanadaca" />
-		<meta name="dcterms.issued" title="W3CDTF" content="2018-09-19"/>
-		<meta name="dcterms.modified" title="W3CDTF" content="2018-09-19"/>
+		<meta name="dcterms.issued" title="W3CDTF" content=""/>
+		<meta name="dcterms.modified" title="W3CDTF" content="2026-07-08"/>
 		<meta name="generator" content="Jekyll v4.3.2" />
 		<meta name="google-site-verification" content="Nt_CftRIypA9xVS7Znb2VkrsYbtIDuFWHryxSAC6OwM" />
 		<meta name="yandex-verification" content="b8834a99b9021b0e" />
@@ -63,7 +61,7 @@
 	<h2 class="wb-inv">Language selection</h2>
 	<ul class="list-inline mrgn-bttm-0">
 		<li>
-			<a lang="fr" hreflang="fr" href="https://conception.canada.ca/modeles-obligatoire/page-ministeres-organismes.html">
+			<a lang="fr" hreflang="fr" href="https://conception.canada.ca/retroaction/analyse-ai.html">
 				<span class="hidden-xs" translate="no">Français</span>
 				<abbr title="Français" translate="no" class="visible-xs h3 mrgn-tp-sm mrgn-bttm-0 text-uppercase">fr</abbr>
 			</a>
@@ -152,15 +150,15 @@
 						</li>
 						
 						<li property="itemListElement" typeof="ListItem">
-							<a property="item" typeof="WebPage" href="https://design.canada.ca/pr-preview/pr-634/">
-								<span property="name">Design</span>
+							<a property="item" typeof="WebPage" href="https://www.canada.ca/en/analytics.html">
+								<span property="name">Analytics and feedback</span>
 							</a>
 							<meta property="position" content="3">
 						</li>
 						
 						<li property="itemListElement" typeof="ListItem">
-							<a property="item" typeof="WebPage" href="https://www.canada.ca/en/government/about/design-system/pattern-library.html">
-								<span property="name">Templates and patterns</span>
+							<a property="item" typeof="WebPage" href="https://design.canada.ca/pr-preview/pr-634/feedback/index.html">
+								<span property="name">Page feedback</span>
 							</a>
 							<meta property="position" content="4">
 						</li>
@@ -175,121 +173,426 @@
 		<main class="container" property="mainContentOfPage" resource="#wb-main" typeof="WebPageElement">
 		<!-- Custom code starts here --><h1 property="name" id="wb-cont" property="name headline" dir="ltr">
 			<span class="stacked">
-				<span>Departments and agencies page mandatory template</span>: <span>Canada.ca design</span>
+				<span>AI-assisted feedback analysis</span>: <span>Canada.ca design</span>
 			</span>
 		</h1><!-- Custom code ends here -->
-		<p><span class="label label-danger">Mandatory</span></p>
-<p>The departments and agencies landing page includes an alphabetically organized list of government institutions, as listed in the <a href="/specifications/usage-canadaca-design/institutions-list.html">Canada.ca institutions list</a>.</p>
-<p>The page must be equipped with a keyword filter search box at the top of the page.</p>
-<p>The departments and agencies page provides:</p>
-<ul>
-  <li>links to access all Government of Canada institutions</li>
-  <li>a keyword filter component that:
-    <ul>
-      <li>improves navigation efficiency and increases list scanning speed by letting people narrow longer lists into shorter ones through keywords</li>
-      <li>gives people immediate feedback on keyword filtering against the list by dynamically removing items that do not meet keywords</li>
-    </ul>
-  </li>
-</ul>
-<section>
-  <h2>On this page</h2>
-  <ul>
-    <li><a href="#use">When to use this template</a></li>
-    <li><a href="#specifications">How to use this template</a></li>
-    <li><a href="#examples">Working examples</a></li>
-  </ul>
-</section>
-<section>
-  <h2 id="use">When to use this template</h2>
-  <p>The departments and agencies template page must be implemented once on Canada.ca.</p>
-  <p>The following institutions can be listed on the departments and agencies page. Those:</p>
-  <ul>
-    <li>listed in the <a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/">Financial Administration Act</a>(FAA), linking to their respective institutional profiles</li>
-    <li>not listed in the FAA but listed in the <a href="http://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/fip-pcim/reg-eng.asp">Registry of Applied Titles</a>, linking to their respective organizational profiles</li>
-    <li>listed in the FAA but not  in scope for Canada.ca, linking to their respective websites</li>
-    <li>considered high profile units, linking to their respective organizational profiles. Employment and Social Development Canada (ESDC) and the Privy Council Office will consult together to determine if the institution may be included.</li>
-  </ul>
-</section>
-<section>
-  <h2 id="specifications">How to use this template</h2>
-  <div class="btn-group mrgn-bttm-sm">
-    <button class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#template-elements&quot;, &quot;type&quot;: &quot;on&quot;}" type="button">Expand All</button>
-    <button class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#template-elements&quot;, &quot;type&quot;: &quot;off&quot;}" type="button">Collapse All</button>
-  </div>
+		<div class="gc-stp-stp">
   <div class="row">
-    <div class="col-lg-6 pull-right">
-      <figure class="mrgn-bttm-lg">
-        <figcaption class="text-center"><b>Departments and agencies page template</b></figcaption>
-        <img alt="Template of departments and agencies page showing the institutions and organizations listed in a sortable WET data table with keyword filtering. Specifications detailed below." class="full-width" src="../images/departments-and-agencies-en.jpg" /></figure>
-    </div>
-    <div class="col-lg-6 pull-left">
-      <section id="template-elements">
-        <section>
-          <h3>1: Page title</h3>
-          <p><span class="label label-danger">Mandatory</span></p>
-          <p>Describes the content of the page</p>
-          <ul class="list-unstyled">
-            <li id="element2">
-              <details class="mrgn-bttm-sm">
-                <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}"><strong>Presentation</strong></summary>
-                <ul>
-                  <li>page title must be a unique H1</li>
-                  <li>must be the first element on the page</li>
-                </ul>
-              </details>
-            </li>
-          </ul>
-        </section>
-        <section>
-          <h3>2: Keyword filter component</h3>
-          <p><span class="label label-danger">Mandatory</span></p>
-          <p>Enables a person to enter text that will dynamically filter the list on the page</p>
-          <ul class="list-unstyled">
-            <li id="element3">
-              <details class="mrgn-bttm-sm">
-                <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}"><strong>Content</strong></summary>
-                <ul>
-                  <li>must be implemented using appropriate <abbr title="Web Experience Toolkit">WET</abbr>components</li>
-                </ul>
-              </details>
-            </li>
-            <li id="element4">
-              <details class="mrgn-bttm-sm">
-                <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}"><strong>Presentation</strong></summary>
-                <ul>
-                  <li>appears above the information being filtered</li>
-                </ul>
-              </details>
-            </li>
-          </ul>
-        </section>
-        <section>
-          <h3>3: Institution names</h3>
-          <p><span class="label label-danger">Mandatory</span></p>
-          <p>Is a list of federal institutions in alphabetical order</p>
-          <ul class="list-unstyled">
-            <li id="element5">
-              <details class="mrgn-bttm-sm">
-                <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}"><strong>Content</strong></summary>
-                <ul>
-                  <li>the display name of the institution is used, as specified in the <a href="/specifications/usage-canadaca-design/institutions-list.html">Canada.ca institutions list</a></li>
-                  <li>acronyms are provided adjacent to the display name</li>
-                </ul>
-              </details>
-            </li>
-          </ul>
-        </section>
-      </section>
-    </div>
+    <ul class="toc lst-spcd col-md-12">
+      <li class="col-md-4 col-sm-6"><a class="list-group-item" href="access-feedback.html">Access feedback</a></li>
+      <li class="col-md-4 col-sm-6"><a class="list-group-item" href="analyze-feedback.html">Analysis methods</a></li>
+      <li class="col-md-4 col-sm-6"><a class="list-group-item active">AI-assisted analysis</a></li>
+      <li class="col-md-4 col-sm-6"><a class="list-group-item" href="insights.html">Sharing insights</a></li>
+      <li class="col-md-4 col-sm-6"><a class="list-group-item" href="prioritize.html">Deciding what to improve</a></li>
+    </ul>
   </div>
-</section>
-<section>
-  <h2 id="examples">Working examples</h2>
-  <ul>
-    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/templates/dept-en.html">English working example</a>(on GitHub)</li>
-    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/templates/dept-fr.html">French working example</a>(on GitHub)</li>
+</div>
+
+<p>Reusable prompts and guidance for analyzing GC Feedback and Task Success Survey comments using approved AI tools.</p>
+
+<h2 id="on-this-page">On this page</h2>
+
+<ul>
+  <li><a href="#before-you-begin">Before you begin</a></li>
+  <li><a href="#privacy-and-security">Privacy and security</a></li>
+  <li><a href="#good-practices">Good practices</a></li>
+  <li><a href="#reusable-prompts">Reusable prompts</a></li>
+</ul>
+
+<hr />
+
+<h2 id="before-you-begin">Before you begin</h2>
+
+<p>AI tools can help identify patterns, summarize comments, and support analysis of qualitative feedback. They can save time when working with large volumes of comments, but they do not replace human judgment.</p>
+
+<h3 id="you-are-responsible-for">You are responsible for:</h3>
+
+<ul>
+  <li>Reviewing outputs for accuracy</li>
+  <li>Validating themes and counts</li>
+  <li>Checking for hallucinations or unsupported conclusions</li>
+  <li>Protecting sensitive information</li>
+  <li>Ensuring findings are appropriate before sharing</li>
+</ul>
+
+<p><strong>Important</strong>
+Use AI tools as analytical support, not as authoritative decision-makers.</p>
+
+<hr />
+
+<h2 id="privacy-and-security">Privacy and security</h2>
+
+<p>Before using AI tools:</p>
+
+<ul>
+  <li>Do not share protected, classified, or sensitive operational information</li>
+  <li>Remove personal information from comments (names, email, phone numbers, account or case identifiers, etc.)</li>
+  <li>Follow your departmental guidance for approved AI tool usage</li>
+  <li>Use only approved GC environments</li>
+</ul>
+
+<hr />
+
+<h2 id="good-practices">Good practices</h2>
+
+<h3 id="provide-context">Provide context</h3>
+
+<p>AI tools perform better when you provide lightweight context before the comments.</p>
+
+<div class="language-text highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Service area: Passports
+Page: Check passport application status
+Date range: April 2026
+</code></pre></div></div>
+
+<p>Useful context may include:</p>
+
+<ul>
+  <li>Service area</li>
+  <li>Page title or URL</li>
+  <li>Date range</li>
+</ul>
+
+<h3 id="use-structured-prompts">Use structured prompts</h3>
+
+<ul>
+  <li>Define the analytical task clearly</li>
+  <li>Specify output format</li>
+  <li>Define counting rules</li>
+  <li>Include instructions for handling sensitive information</li>
+  <li>Explain expectations for categorization and evidence</li>
+</ul>
+
+<h3 id="validate-outputs-carefully">Validate outputs carefully</h3>
+
+<p>Always verify:</p>
+
+<ul>
+  <li>Comment counts</li>
+  <li>Representative quotes</li>
+  <li>Themes accurately reflect user intent</li>
+  <li>Issue naming is clear and consistent</li>
+  <li>Interpretation accuracy</li>
+  <li>Bilingual handling</li>
+  <li>Quotes are copied exactly</li>
+  <li>Sensitive information is properly handled</li>
+</ul>
+
+<h3 id="sharing-feedback-insights">Sharing feedback insights</h3>
+
+<p>When communicating findings from AI-assisted analysis:</p>
+
+<ul>
+  <li>Describe methodology transparently</li>
+  <li>Include sample sizes where relevant</li>
+</ul>
+
+<blockquote>
+  <p>Analysis was assisted using AI. Findings were reviewed and validated by a human analyst.</p>
+</blockquote>
+
+<hr />
+
+<h2 id="reusable-prompts">Reusable prompts</h2>
+
+<p>The prompt below is designed for use with approved AI tools.</p>
+
+<h3 id="feedback-theme-analysis">Feedback theme analysis</h3>
+
+<h4 id="purpose">Purpose</h4>
+
+<p>Identify pain points and group comments into clear themes.</p>
+
+<h4 id="when-to-use">When to use</h4>
+
+<ul>
+  <li>Page feedback comments</li>
+  <li>Open-text survey responses</li>
+  <li>Understanding major user pain points</li>
+</ul>
+
+<h4 id="inputs-required">Inputs required</h4>
+
+<ul>
+  <li>A list or dataset of user comments</li>
+</ul>
+
+<h4 id="expected-outputs">Expected outputs</h4>
+<p>The prompt will produce:</p>
+<ul>
+  <li>Sensitive information check</li>
+  <li>Dataset summary</li>
+  <li>Issue summary table</li>
+  <li>Analysis confidence statement</li>
+</ul>
+
+<h4 id="prompt">Prompt</h4>
+
+<p><button type="button" class="btn btn-primary copy-btn" data-copy-target="fb-sum-001">
+  Copy prompt
+</button>
+<span class="wb-inv copy-status" role="status" aria-live="polite"></span></p>
+
+<pre id="fb-sum-001" class="prompt-block"><code>
+---
+Title: Feedback summary and theme analysis
+Owner: Canada.ca Experience Office
+Prompt ID: FB-SUM-001
+Version: 1.3
+Sensitivity: Unclassified
+Human Review Required: Yes
+Last Updated: 2026-07-08
+---
+
+# Role
+
+You are a data analyst supporting Government of Canada web teams.
+
+Your task is to analyze user feedback comments and identify the most significant user pain points based strictly on evidence contained within the dataset.
+
+Do not use external knowledge or assumptions.
+
+---
+
+# Success Criteria
+
+A successful analysis:
+
+- Produces distinct, non-overlapping themes
+- Accounts for all analyzed comments
+- Includes evidence supporting each theme
+- Uses consistent naming conventions
+- Can be understood without reviewing the raw dataset
+
+---
+
+# Core Principles
+
+## Evidence Integrity
+
+You must:
+
+- Use only comments provided
+- Never invent, alter, or paraphrase comments
+- Copy representative comments exactly as written
+- Use clear, neutral, evidence-based language
+- Avoid speculation or unsupported conclusions
+
+## Comment Assignment Rules
+
+For counting purposes:
+
+- Count unique comments only
+- Count each comment once
+- Assign each comment to exactly one theme
+- Do not count the same comment in multiple themes
+
+The sum of all theme counts must equal the number of comments analyzed.
+If this condition cannot be met, clearly state the issue in the output.
+
+
+## Ambiguity Handling
+
+- Use minimal inference for short or unclear comments
+- Assign to the best-fit theme where reasonable
+- If no grouping is clear, assign to "Other / Unclassified"
+
+Do not over-interpret intent.
+
+---
+
+# Sensitive Information Handling
+
+If sensitive or personal information is detected:
+
+- Do not reproduce sensitive details
+- Redact sensitive portions when possible
+- Exclude comments entirely if redaction would remove meaning
+
+Examples include:
+
+- Names
+- Phone numbers
+- Email addresses
+- Addresses
+- Social insurance numbers
+- Account or case numbers
+
+---
+
+# Theme Development
+
+## Theme Creation
+
+- Group comments by user task or user problem
+- Prioritize intent over keyword similarity
+- Create themes only when supported by evidence
+
+Guidance:
+- Typically 3–6 themes when supported by the data
+- Fewer themes are acceptable for small datasets
+- Do not create artificial themes simply to reach a target number
+
+
+## Theme Naming
+
+Use consistent task-based naming.
+
+Examples:
+
+- Find contact information
+- Check application status
+- Complete online form
+- Sign in to account
+
+Avoid vague or inconsistent labels.
+
+
+## Theme Ranking
+
+Order themes using:
+
+1. Highest comment count first
+2. Relative user impact (based only on evidence)
+
+## Other / Unclassified
+
+Use only when comments do not form a meaningful group.
+
+Place this category last.
+
+---
+
+# Observed User Impact
+
+Describe impact using only what is evident in comments.
+
+Valid examples:
+- Users unable to complete a task
+- Users delayed in finding information
+- Users unclear about next steps
+
+Do not infer beyond what is stated.
+
+---
+
+# Validation Check
+
+Before producing results, verify:
+
+- All comments were reviewed
+- Each comment is assigned to one theme
+- No comment appears in multiple themes
+- Theme counts sum to the total comments analyzed
+- Representative comments accurately reflect assigned themes
+
+If validation cannot be completed:
+
+- Clearly explain the issue
+- Identify any count discrepancies
+
+---
+
+# Workflow
+
+Follow this process in order:
+
+1. Review all comments
+2. Identify user tasks and associated problems
+3. Group comments into themes
+4. Assign each comment once
+5. Count comments per theme
+6. Select representative comments
+7. Validate totals
+8. Produce final output
+
+---
+
+# Output Structure
+
+Produce outputs in this exact order:
+
+1. Sensitive Information Check
+2. Dataset Summary
+3. Issue Summary Table
+4. Analysis Confidence
+
+Do not include any additional sections.
+
+---
+
+# Sensitive Information Check
+
+State exactly one of the following:
+
+- No sensitive personal information detected
+
+OR
+
+- Sensitive information detected — briefly described and excluded
+---
+
+# Dataset Summary
+
+Provide:
+
+| Metric | Count |
+|---|---|
+| Comments provided | X |
+| Comments excluded | X |
+| Comments analyzed | X |
+
+If comments were excluded, briefly explain why.
+
+---
+
+# Issue Summary Table
+
+Use exactly this structure:
+
+| # | User task | Description of pain point | Number of Comments | Representative Comments | Observed User Impact |
+|---|---|---|---|---|---|
+
+Requirements:
+
+- Include 2–5 verbatim comments per theme (when available)
+- Copy comments exactly as written
+- Do not paraphrase
+- Separate comments using: ` || `
+
+Do NOT include:
+
+- Recommendations
+- Prioritization
+- Severity scoring
+- Root cause analysis
+- Policy advice
+- Operational advice
+
+---
+
+# Analysis Confidence
+
+Choose one:
+
+High Confidence
+Moderate Confidence
+Low Confidence
+
+Provide a brief justification based on:
+- Data clarity
+- Consistency of comments
+- Strength of theme grouping
+
+</code></pre>
+
+<nav role="navigation" class="mrgn-bttm-lg">
+  <ul class="pager">
+    <li class="next"><a href="insights.html" rel="next">Next: Sharing insights</a></li>
   </ul>
-</section>
+</nav>
+
+<script src="../js/copy-prompt.js"></script>
+
 
 		<section class="pagedetails">
 	<h2 class="wb-inv">Page details</h2><div class="row">
@@ -304,7 +607,7 @@
 		</div>
 	</div><dl id="wb-dtmd">
 	<dt>Date modified:</dt>
-	<dd><time property="dateModified">2018-09-19</time></dd>
+	<dd><time property="dateModified">2026-07-08</time></dd>
 </dl>
 </section>
 
