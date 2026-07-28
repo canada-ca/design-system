@@ -51,7 +51,7 @@ You can include a featured link when there is a need for a significant and tempo
 
 Customization requests will be considered on a case-by-case basis if your theme has the ability to research and monitor the impact of the customization. Please contact the Canada.ca Experience Office with any requests to deviate from the established template:
 
-- [cds.dto-btn.snc@servicecanada.gc.ca](mailto:cds.dto-btn.snc@servicecanada.gc.ca)
+- [dsd.ceo-bec.dsn@servicecanada.gc.ca](mailto:dsd.ceo-bec.dsn@servicecanada.gc.ca)
 
 ### Visual examples
 
