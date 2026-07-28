@@ -34,6 +34,7 @@ Do not put any links to social media channels. Instead, put these on topic pages
 ## Content and design {#content-and-design}
 
 The theme title must be a unique H1 and the first component on the page.
+- When using AEM for your theme pages, you must use the intro block element to display the title. Do not activate any other intro block features.
 
 Include the Most requested band below the theme title to feature top tasks. Use the [Most requested band pattern](https://design.canada.ca/common-design-patterns/most-requested.html).
 
