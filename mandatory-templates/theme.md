@@ -34,7 +34,7 @@ Do not put any links to social media channels. Instead, put these on topic pages
 ## Content and design {#content-and-design}
 
 The theme title must be a unique H1 and the first component on the page.
-- When using AEM for your theme pages, you must use the introduction block element to display the title. Do not activate any other introduction block features.
+- If your theme page is built in AEM, use the introduction block component to populate the H1. Do not enable any other elements within the introduction block.
 
 Include the Most requested band below the theme title to feature top tasks. Use the [most requested band pattern](https://design.canada.ca/common-design-patterns/most-requested.html).
 
@@ -42,9 +42,9 @@ Add a link and brief description, also called doormats, for each theme-specific 
 
 Include a contextual band in your footer. Use the [contextual band pattern](https://design.canada.ca/common-design-patterns/site-footer-contextual.html).
 
-The sign in button is included by default and will link to the general sign in page. You can customize the link and button name to go to a specific sign in page or a page managing multiple accounts for your theme. Multiple account pages should be labeled “CRA sign in” or “IRCC sign in”, otherwise be specific to the account such as “Sign in to [account name]”. See the [contextual Sign in button pattern](https://design.canada.ca/common-design-patterns/contextual-signin.html).
+The sign in button is included by default and will link to the general sign-in page. You can customize the link and button name to go to a specific sign-in page or a page managing multiple accounts for your theme. Multiple account pages should be labeled “CRA sign in” or “IRCC sign in”, otherwise be specific to the account such as “Sign in to [account name]”. See the [contextual Sign in button pattern](https://design.canada.ca/common-design-patterns/contextual-signin.html).
 
-You can include alerts when there is an urgent service disruption. Alerts appear below the h1 inside the content of the right side. See the [guidance for using alerts during a crisis](https://design.canada.ca/crisis/alerts.html).
+You can include alerts when there is an urgent service disruption. Alerts appear below the H1 inside the content of the right side. See the [guidance for using alerts during a crisis](https://design.canada.ca/crisis/alerts.html).
 
 You can include up to three context-specific features above the footer. See the [context-specific features pattern](https://design.canada.ca/common-design-patterns/feature-tiles.html).
 
@@ -83,11 +83,11 @@ Customization requests will be considered on a case-by-case basis if your theme 
 
 Find working examples and code for implementing the layered theme page.
 
-### GCweb (WET) theme implementation reference
+### GCweb (WET-BOEW) theme implementation reference
 
 The implementation reference includes how to configure the layered theme page.
 
-- [Layered theme page documentation - GCWeb (BOEW)]()
+- [Layered theme page documentation - GCWeb (WET-BOEW)](https://wet-boew.github.io/GCWeb/templates/theme/theme-doc-en.html)
 
 ## Research and rationale {#research-and-rationale}
 
