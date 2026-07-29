@@ -34,21 +34,21 @@ Do not put any links to social media channels. Instead, put these on topic pages
 ## Content and design {#content-and-design}
 
 The theme title must be a unique H1 and the first component on the page.
-- When using AEM for your theme pages, you must use the intro block element to display the title. Do not activate any other intro block features.
+- When using AEM for your theme pages, you must use the introduction block element to display the title. Do not activate any other introduction block features.
 
-Include the Most requested band below the theme title to feature top tasks. Use the [Most requested band pattern](https://design.canada.ca/common-design-patterns/most-requested.html).
+Include the Most requested band below the theme title to feature top tasks. Use the [most requested band pattern](https://design.canada.ca/common-design-patterns/most-requested.html).
 
 Add a link and brief description, also called doormats, for each theme-specific topic included on the page. Don’t repeat any of the links from the Most requested band. Use the 2 column variation of the [Services and information pattern](https://design.canada.ca/common-design-patterns/services-information.html).
 
-Include a contextual band in your footer. Use the [Contextual band pattern](https://design.canada.ca/common-design-patterns/site-footer-contextual.html).
+Include a contextual band in your footer. Use the [contextual band pattern](https://design.canada.ca/common-design-patterns/site-footer-contextual.html).
 
-The sign in button is included by default and will link to the general sign in page. You can customize the link and button name to go to a specific sign in page or a page managing multiple accounts for your theme. Multiple account pages should be labeled “CRA sign in” or “IRCC sign in”, otherwise be specific to the account such as “Sign in to [account name]”. See the [Contextual Sign in button pattern](https://design.canada.ca/common-design-patterns/contextual-signin.html).
+The sign in button is included by default and will link to the general sign in page. You can customize the link and button name to go to a specific sign in page or a page managing multiple accounts for your theme. Multiple account pages should be labeled “CRA sign in” or “IRCC sign in”, otherwise be specific to the account such as “Sign in to [account name]”. See the [contextual Sign in button pattern](https://design.canada.ca/common-design-patterns/contextual-signin.html).
 
-You can include alerts when there is an urgent service disruption. Alert appears below the h1 inside the content of the right side. See the [guidance for using alerts during a crisis](https://design.canada.ca/crisis/alerts.html).
+You can include alerts when there is an urgent service disruption. Alerts appear below the h1 inside the content of the right side. See the [guidance for using alerts during a crisis](https://design.canada.ca/crisis/alerts.html).
 
-You can include up to three context-specific features above the footer. See the [Context-specific features pattern](https://design.canada.ca/common-design-patterns/feature-tiles.html).
+You can include up to three context-specific features above the footer. See the [context-specific features pattern](https://design.canada.ca/common-design-patterns/feature-tiles.html).
 
-You can include a featured link when there is a need for a significant and temporary feature. See the [Featured link pattern](https://design.canada.ca/common-design-patterns/featured-link.html).
+You can include a featured link when there is a need for a significant and temporary feature. See the [featured link pattern](https://design.canada.ca/common-design-patterns/featured-link.html).
 
 Customization requests will be considered on a case-by-case basis if your theme has the ability to research and monitor the impact of the customization. Please contact the Canada.ca Experience Office with any requests to deviate from the established template:
 
@@ -62,8 +62,8 @@ Customization requests will be considered on a case-by-case basis if your theme 
       <img src="../images/layered-theme-page-large.png" class="img-responsive" alt="Layered theme navigation page for large screens. Text version below:" />
       <details>
         <summary>Image description: layered theme navigation page - large screen</summary>
-        <p>The layered theme navigation page consists of a left hand navigation including all the themes, and the content of the selected theme appears on the right. The theme “Jobs” is selected and is highlighted in dark blue. A thick dark blue bar visually separates the navigation from the content.</p>
-        <p>The active theme content includes the theme heading, most requested items in a band, which is then followed by links and descriptions in two columns to navigate further into the theme. Below the theme navigation section is the heading “Features” and three context-specific features for the theme and a contextual footer for the theme’s contact information.</p>
+        <p>The layered theme navigation page consists of a left-hand navigation including all the themes, and the content of the selected theme appears on the right. The theme “Jobs” is selected and is highlighted in dark blue. A thick dark blue bar visually separates the navigation from the content.</p>
+        <p>The active theme content includes the theme heading, most requested items in a band, which is then followed by links and descriptions in two columns to navigate further into the theme. The theme navigation section is followed by the “Features” heading, three context-specific features, and a contextual footer containing the theme’s contact information.</p>
       </details>
     </figure>
   </div>
@@ -73,7 +73,7 @@ Customization requests will be considered on a case-by-case basis if your theme 
       <img src="../images/layered-theme-page-sm.png" class="img-responsive" alt="Layered theme navigation page for small screens. Text version below:" />
       <details>
         <summary>Image description: layered theme navigation page - small screen</summary>
-        <p>In mobile the layered theme navigation page is a dark blue band that runs across the top with the text “Menu” and a chevron pointing down. When the user clicks the menu expands to expose all the themes and hides the page content and global footer main band.</p>
+        <p>On mobile the layered theme navigation page is a dark blue band that runs across the top with the text “Menu” and a chevron pointing down. When the user clicks the menu expands to expose all the themes and hides the page content and global footer main band.</p>
         <p>The active theme content includes the theme heading, most requested items in a band, which is then followed by links and descriptions in a single column to navigate further into the theme. Below the theme navigation section is the heading “Features” and three context-specific features for the theme and a contextual footer for the theme’s contact information.</p>
       </details>
     </figure>
@@ -97,7 +97,7 @@ Consult research findings and policy rationale.
 
 [Wayfinding on Canada.ca research summary](https://design.canada.ca/research-summaries/wayfinding-on-canada-ca.html)
 
-Research showing that people navigating on the site use breadcrumb links nearly twice as often as they use the Theme and topic menu.
+Research showing that people navigating on the site use breadcrumb links nearly twice as often as they use the theme and topic menu.
 
 ### Policy rationale
 
@@ -114,7 +114,7 @@ The layered theme page is a mandatory template under the Canada.ca Specification
   </dd>
   <dt><time>2024-09-24</time></dt>
   <dd>
-    <p>Updated the pattern to remove any reference of topic pages. Topic pages are now a separate pattern.</p>
+    <p>Updated the pattern to remove any reference to topic pages. Topic pages are now a separate pattern.</p>
   </dd>
   <dt><time>2020-07-10</time></dt>
   <dd>
