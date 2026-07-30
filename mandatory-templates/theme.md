@@ -83,7 +83,7 @@ Customization requests will be considered on a case-by-case basis if your theme 
 
 Find working examples and code for implementing the layered theme page.
 
-### GCweb (WET-BOEW) theme implementation reference
+### GCWeb (WET-BOEW) theme implementation reference
 
 The implementation reference includes how to configure the layered theme page.
 
