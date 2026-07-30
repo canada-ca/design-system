@@ -38,7 +38,7 @@ The theme title must be a unique H1 and the first component on the page.
 
 Include the Most requested band below the theme title to feature top tasks. Use the [most requested band pattern](https://design.canada.ca/common-design-patterns/most-requested.html).
 
-Add a link and brief description, also called doormats, for each theme-specific topic included on the page. Don’t repeat any of the links from the Most requested band. Use the 2 column variation of the [Services and information pattern](https://design.canada.ca/common-design-patterns/services-information.html).
+Add a link and brief description, also called doormats, for each theme-specific topic included on the page. Don’t repeat any of the links from the Most requested band. Use the 2 column variation of the [services and information pattern](https://design.canada.ca/common-design-patterns/services-information.html).
 
 Include a contextual band in your footer. Use the [contextual band pattern](https://design.canada.ca/common-design-patterns/site-footer-contextual.html).
 
