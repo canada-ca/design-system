@@ -42,7 +42,7 @@ Add a link and brief description, also called doormats, for each theme-specific 
 
 Include a contextual band in your footer. Use the [contextual band pattern](https://design.canada.ca/common-design-patterns/site-footer-contextual.html).
 
-The sign in button is included by default and will link to the general sign-in page. You can customize the link and button name to go to a specific sign-in page or a page managing multiple accounts for your theme. Multiple account pages should be labeled “CRA sign in” or “IRCC sign in”, otherwise be specific to the account such as “Sign in to [account name]”. See the [contextual Sign in button pattern](https://design.canada.ca/common-design-patterns/contextual-signin.html).
+The sign in button is included by default and will link to the general sign-in page. You can customize the link and button name to go to a specific sign-in page or a page managing multiple accounts for your theme. For pages that provide access to multiple accounts, use a label such as “CRA sign in” or “IRCC sign in”. Otherwise use a label specific to the account, such as “Sign in to [account name]”. See the [contextual Sign in button pattern](https://design.canada.ca/common-design-patterns/contextual-signin.html).
 
 You can include alerts when there is an urgent service disruption. Alerts appear below the H1 inside the content of the right side. See the [guidance for using alerts during a crisis](https://design.canada.ca/crisis/alerts.html).
 
