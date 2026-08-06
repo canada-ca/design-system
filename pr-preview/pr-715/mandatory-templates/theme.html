@@ -4,19 +4,21 @@
 		<meta charset="utf-8">
 		<!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW) wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
 
-		<title>Theme page - Canada.ca</title>
+		<title>Layered theme page - Canada.ca</title>
 		<meta content="width=device-width, initial-scale=1" name="viewport">
 		<!-- Custom code starts here (Metadata) / Code personalisé commence ici (Métadonnées) -->
 		<link rel="canonical" href="https://design.canada.ca/pr-preview/pr-715/mandatory-templates/theme.html" />
 		<link rel="alternate" href="https://conception.canada.ca/modeles-obligatoire/theme.html" hreflang="fr" />
-		<meta name="dcterms.title" content="Theme page"/>
+		<meta name="description" content="Guidance on using a layered theme navigation page on Canada.ca. A layered theme navigation page allows people to find services and information from all Government of Canada websites grouped under one of the main themes of Canada.ca." />
+		<meta name="dcterms.title" content="Layered theme page"/>
+		<meta name="dcterms.description" content="Guidance on using a layered theme navigation page on Canada.ca. A layered theme navigation page allows people to find services and information from all Government of Canada websites grouped under one of the main themes of Canada.ca."/>
 		<meta name="author" content="Employment and Social Development Canada" />
 		<meta name="dcterms.creator" content="Employment and Social Development Canada"/>
 		<meta name="dcterms.language" title="ISO639-2/T" content="eng"/>
 		<meta name="dcterms.accessRights" content="2" />
 		<meta name="gcaaterms.sitename" content="ESDC-EDSC_CanadacaDesign-ConceptionCanadaca" />
-		<meta name="dcterms.issued" title="W3CDTF" content=""/>
-		<meta name="dcterms.modified" title="W3CDTF" content="2024-09-24"/>
+		<meta name="dcterms.issued" title="W3CDTF" content="2026-02-27"/>
+		<meta name="dcterms.modified" title="W3CDTF" content="2026-07-30"/>
 		<meta name="generator" content="Jekyll v4.3.2" />
 		<meta name="google-site-verification" content="Nt_CftRIypA9xVS7Znb2VkrsYbtIDuFWHryxSAC6OwM" />
 		<meta name="yandex-verification" content="b8834a99b9021b0e" />
@@ -173,568 +175,141 @@
 		<main class="container" property="mainContentOfPage" resource="#wb-main" typeof="WebPageElement">
 		<!-- Custom code starts here --><h1 property="name" id="wb-cont" property="name headline" dir="ltr">
 			<span class="stacked">
-				<span>Theme page</span>: <span>Canada.ca design</span>
+				<span>Layered theme page</span>: <span>Canada.ca design</span>
 			</span>
 		</h1><!-- Custom code ends here -->
-		<section class="alert alert-info">
-    <p>We have moved the topic page guidance. You can find it here: <a href="topic.html">Topic page</a>.</p>
-</section>
+		<p><span class="label label-danger">Mandatory</span></p>
 
-<p>
-    <span class="label label-danger">
-        Mandatory
-    </span>
-</p>
-<p><strong>Last updated</strong>: 2024-09-24</p>
+<p><strong>Last updated</strong> 2026-07-30</p>
 
-<p>
-    Theme pages provide access to topics and destination pages that support task completion.
-</p>
+<p>The layered theme page works as a series of pages performing the role of the primary navigation on Canada.ca. Theme pages provide access to topics and destination pages that support task completion. This allows users to navigate government-wide content through one of the main themes rather than by institutions. These pages also prioritize content and navigation by presenting the most visited information and services first.</p>
 
-<p>
-    Theme pages:
-</p>
+<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/layered-theme-page-crop.png" class="img-responsive" alt="" /></div>
 
+<h2 id="on-this-page">On this page</h2>
 <ul>
-    <li>
-        provide support for theme navigation rather than institutional navigation of government-wide content, see
-        <a href="https://design.canada.ca/specifications/information-findability/organizing-content.html#toc1">
-            How people find tasks: theme and institutional navigation
-        </a>
-    </li>
-    <li>
-        prioritize content and navigation by presenting the most visited information and services first
-    </li>
+  <li><a href="#when-to-use">When to use</a></li>
+  <li><a href="#what-to-avoid">What to avoid</a></li>
+  <li><a href="#content-and-design">Content and design</a></li>
+  <li><a href="#how-to-implement">How to implement</a></li>
+  <li><a href="#research-and-rationale">Research and rationale</a></li>
+  <li><a href="#latest-changes">Latest changes</a></li>
 </ul>
 
-<section>
-    <h2>
-        On this page
-    </h2>
+<h2 id="when-to-use">When to use</h2>
+
+<p>The layered theme template can only be used for theme pages. Only theme leads can use this template.</p>
+
+<h2 id="what-to-avoid">What to avoid</h2>
+
+<p>Do not use the left-hand navigation pattern from this template on any other page type. This is for use on layered theme pages only.</p>
+
+<p>Do not put any links to social media channels. Instead, put these on topic pages.</p>
+
+<h2 id="content-and-design">Content and design</h2>
+
+<p>The theme title must be a unique H1 and the first component on the page.</p>
+<ul>
+  <li>If your theme page is built in AEM, use the introduction block component to populate the H1. Do not enable any other elements within the introduction block.</li>
+</ul>
+
+<p>Include the Most requested band below the theme title to feature top tasks. Use the <a href="https://design.canada.ca/common-design-patterns/most-requested.html">most requested band pattern</a>.</p>
+
+<p>Add a link and brief description, also called doormats, for each theme-specific topic included on the page. Don’t repeat any of the links from the Most requested band. Use the 2 column variation of the <a href="https://design.canada.ca/common-design-patterns/services-information.html">services and information pattern</a>.</p>
+
+<p>Include a contextual band in your footer. Use the <a href="https://design.canada.ca/common-design-patterns/site-footer-contextual.html">contextual band pattern</a>.</p>
+
+<p>The sign in button is included by default and will link to the general sign-in page. You can customize the link and button name to go to a specific sign-in page or a page managing multiple accounts for your theme. For pages that provide access to multiple accounts, use a label such as “CRA sign in” or “IRCC sign in”. Otherwise use a label specific to the account, such as “Sign in to [account name]”. See the <a href="https://design.canada.ca/common-design-patterns/contextual-signin.html">contextual Sign in button pattern</a>.</p>
+
+<p>You can include alerts when there is an urgent service disruption. Alerts appear below the H1 in the main content area. See the <a href="https://design.canada.ca/crisis/alerts.html">guidance for using alerts during a crisis</a>.</p>
+
+<p>You can include up to three context-specific features above the footer. See the <a href="https://design.canada.ca/common-design-patterns/feature-tiles.html">context-specific features pattern</a>.</p>
+
+<p>You can include a featured link when there is a need for a significant and temporary feature. See the <a href="https://design.canada.ca/common-design-patterns/featured-link.html">featured link pattern</a>.</p>
+
+<p>Customization requests will be considered on a case-by-case basis if your theme has the ability to research and monitor the impact of the customization. Please contact the Canada.ca Experience Office with any requests to deviate from the established template:</p>
+
+<ul>
+  <li><a href="mailto:dsd.ceo-bec.dsn@servicecanada.gc.ca">dsd.ceo-bec.dsn@servicecanada.gc.ca</a></li>
+</ul>
+
+<h3 id="visual-examples">Visual examples</h3>
+
+<div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
+    <figure class="mrgn-tp-md mrgn-bttm-lg">
+      <figcaption><b>Layered theme navigation page - large screen</b></figcaption>
+      <img src="../images/layered-theme-page-large.png" class="img-responsive" alt="Layered theme navigation page for large screens. Text version below:" />
+      <details>
+        <summary>Image description: layered theme navigation page - large screen</summary>
+        <p>The layered theme navigation page consists of a left-hand navigation including all the themes, and the content of the selected theme appears on the right. The theme “Jobs” is selected and is highlighted in dark blue. A thick dark blue bar visually separates the navigation from the content.</p>
+        <p>The active theme content includes the theme heading, most requested items in a band, which is then followed by links and descriptions in two columns to navigate further into the theme. The theme navigation section is followed by the “Features” heading, three context-specific features, and a contextual footer containing the theme’s contact information.</p>
+      </details>
+    </figure>
+  </div>
+<div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
+    <figure class="mrgn-tp-md mrgn-bttm-lg">
+      <figcaption><b>Layered theme navigation page - small screen</b></figcaption>
+      <img src="../images/layered-theme-page-sm.png" class="img-responsive" alt="Layered theme navigation page for small screens. Text version below:" />
+      <details>
+        <summary>Image description: layered theme navigation page - small screen</summary>
+        <p>On mobile the layered theme navigation page is a dark blue band that runs across the top with the text “Menu” and a chevron pointing down. When the user clicks the menu expands to expose all the themes and hides the page content and global footer main band.</p>
+        <p>The active theme content includes the theme heading, most requested items in a band, which is then followed by links and descriptions in a single column to navigate further into the theme. Below the theme navigation section is the heading “Features” and three context-specific features for the theme and a contextual footer for the theme’s contact information.</p>
+      </details>
+    </figure>
+  </div>
+
+<h2 id="how-to-implement">How to implement</h2>
+
+<p>Find working examples and code for implementing the layered theme page.</p>
+
+<h3 id="gcweb-wet-boew-theme-implementation-reference">GCWeb (WET-BOEW) theme implementation reference</h3>
+
+<p>The implementation reference includes how to configure the layered theme page.</p>
+
+<ul>
+  <li><a href="https://wet-boew.github.io/GCWeb/templates/theme/theme-doc-en.html">Layered theme page documentation - GCWeb (WET-BOEW)</a></li>
+</ul>
+
+<h2 id="research-and-rationale">Research and rationale</h2>
+
+<p>Consult research findings and policy rationale.</p>
+
+<h3 id="research-findings">Research findings</h3>
+
+<p><a href="https://design.canada.ca/research-summaries/wayfinding-on-canada-ca.html">Wayfinding on Canada.ca research summary</a></p>
+
+<p>Research showing that people navigating on the site use breadcrumb links nearly twice as often as they use the theme and topic menu.</p>
+
+<h3 id="policy-rationale">Policy rationale</h3>
+
+<p>The layered theme page is a mandatory template under the Canada.ca Specifications.</p>
+<ul>
+  <li><a href="https://design.canada.ca/specifications/mandatory-elements.html">Mandatory elements of the design system</a></li>
+</ul>
+
+<h2 id="latest-changes">Latest changes</h2>
+
+<dl class="dl-horizontal">
+  <dt><time>2026-07-30</time></dt>
+  <dd>
+    <p>Stabilized and launched the layered theme page.</p>
+  </dd>
+  <dt><time>2024-09-24</time></dt>
+  <dd>
+    <p>Updated the pattern to remove any reference to topic pages. Topic pages are now a separate pattern.</p>
+  </dd>
+  <dt><time>2020-07-10</time></dt>
+  <dd>
     <ul>
-        <li>
-            <a href="#use">
-                When to use
-            </a>
-        </li>
-        <li>
-            <a href="#avoid">
-                What to avoid
-            </a>
-        </li>
-        <li>
-            <a href="#specifications">
-                How to implement
-            </a>
-        </li>
-        <li>
-            <a href="#changes">
-                Latest changes
-            </a>
-        </li>
+      <li>Changes to doormat columns in tablet view</li>
+      <li>Clarify social media account guidance</li>
     </ul>
-</section>
-
-<section>
-    <h2 id="use">
-        When to use
-    </h2>
-    <p>
-        This template must be used for the theme page.
-    </p>
-</section>
-
-<section>
-    <h2 id="avoid">
-        What to avoid
-    </h2>
-    <p>
-        Pages where people can initiate a task should be considered destination content, and should not use the theme template.
-    </p>
-    <p>
-        The theme template should not be used for promotion; instead, use
-        <a href="../recommended-templates/promotional-events-pages.html">
-            Promotional events pages
-        </a>
-        or
-        <a href="../recommended-templates/campaign-pages.html">
-            Campaign pages.
-        </a>
-    </p>
-</section>
-
-<section>
-    <h2 id="specifications">
-        How to implement
-    </h2>
-</section>
-
-<div class="clearfix"></div>
-
-<section>
-    <h3>
-        Theme page
-    </h3>
-    <details>
-        <summary>
-            Guidance for the stable theme page
-        </summary>
-        <div class="btn-group mrgn-bttm-sm">
-            <button class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#template-elements-1&quot;, &quot;type&quot;: &quot;on&quot;}" type="button">
-                Expand All
-            </button>
-            <button class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#template-elements-1&quot;, &quot;type&quot;: &quot;off&quot;}" type="button">
-                Collapse All
-            </button>
-        </div>
-        <div class="row">
-            <div class="col-lg-6 pull-right">
-                <figure class="mrgn-bttm-lg">
-                    <figcaption class="text-center">
-                        <b>
-                            Theme page template
-                        </b>
-                    </figcaption>
-                    <img alt="Template of theme page showing sections that make up its structure. Read top to bottom and left to right. Specifications detailed below." class="full-width" src="../images/theme-page-en.jpg" />
-                </figure>
-            </div>
-            <div class="col-lg-6 pull-left">
-                <div id="template-elements-1">
-                    <section>
-                        <h3>
-                            1: Theme title
-                        </h3>
-                        <p>
-                            <span class="label label-danger">
-                                Mandatory
-                            </span>
-                        </p>
-                        <p>
-                            Describes the theme and page content
-                        </p>
-                        <ul class="list-unstyled">
-                            <li id="element1-1">
-                                <details class="mrgn-bttm-sm">
-                                    <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">
-                                        <strong>
-                                            Presentation
-                                        </strong>
-                                    </summary>
-                                    <ul>
-                                        <li>
-                                            theme title must be a unique H1
-                                        </li>
-                                        <li>
-                                            must be the first component on the page
-                                        </li>
-                                    </ul>
-                                </details>
-                            </li>
-                        </ul>
-                    </section>
-                    <section>
-                        <h3>
-                            2: Theme introductory paragraph
-                        </h3>
-                        <p>
-                            <span class="label label-danger">
-                                Mandatory
-                            </span>
-                        </p>
-                        <p>
-                            Describes the top tasks and topics that can be accessed on this page
-                        </p>
-                        <ul class="list-unstyled">
-                            <li id="element1-2a">
-                                <details class="mrgn-bttm-sm">
-                                    <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">
-                                        <strong>
-                                            Content
-                                        </strong>
-                                    </summary>
-                                    <ul>
-                                        <li>
-                                            provides an overview of all top tasks that can be accomplished on the given theme
-                                        </li>
-                                        <li>
-                                            keep the text short and concise
-                                        </li>
-                                        <li>
-                                            written for a grade 6-8 reading level
-                                        </li>
-                                    </ul>
-                                </details>
-                            </li>
-                            <li id="element1-2b">
-                                <details class="mrgn-bttm-sm">
-                                    <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">
-                                        <strong>
-                                            Presentation
-                                        </strong>
-                                    </summary>
-                                    <ul>
-                                        <li>
-                                            appears below the theme title
-                                        </li>
-                                        <li>
-                                            appears to the left of the theme image
-                                        </li>
-                                    </ul>
-                                </details>
-                            </li>
-                        </ul>
-                    </section>
-                    <section>
-                        <h3>
-                            3: Theme image
-                        </h3>
-                        <p>
-                            <span class="label label-info">
-                                Optional
-                            </span>
-                        </p>
-                        <p>
-                            Image is optional. Only use decorative images.
-                        </p>
-                        <ul class="list-unstyled">
-                            <li id="element1-3b">
-                                <details class="mrgn-bttm-sm">
-                                    <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">
-                                        <strong>
-                                            Presentation
-                                        </strong>
-                                    </summary>
-                                    <ul>
-                                        <li>
-                                            appears at the top of the page
-                                        </li>
-                                        <li>
-                                            appears to the right of the theme introductory paragraph
-                                        </li>
-                                    </ul>
-                                </details>
-                            </li>
-                        </ul>
-                    </section>
-                    <section>
-                        <h3>
-                            4: Theme social media channels
-                        </h3>
-                        <p>
-                            <span class="label label-warning">
-                                Conditional
-                            </span>
-                        </p>
-                        <p>
-                            Features theme-specific social media channels
-                        </p>
-                        <ul class="list-unstyled">
-                            <li id="element1-4a">
-                                <details class="mrgn-bttm-sm">
-                                    <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">
-                                        <strong>
-                                            Content
-                                        </strong>
-                                    </summary>
-                                    <ul>
-                                        <li>
-                                            this component is mandatory when there is 1 or more theme related social media channels that exist
-                                        </li>
-                                        <li>
-                                            use the
-                                            <a href="../common-design-patterns/social-media-channels.html">
-                                                Social media channels block (follow block)
-                                            </a>
-                                            pattern
-                                        </li>
-                                    </ul>
-                                </details>
-                            </li>
-                            <li id="element1-4b">
-                                <details class="mrgn-bttm-sm">
-                                    <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">
-                                        <strong>
-                                            Presentation
-                                        </strong>
-                                    </summary>
-                                    <ul>
-                                        <li>
-                                            appears below the theme introductory paragraph
-                                        </li>
-                                    </ul>
-                                </details>
-                            </li>
-                        </ul>
-                    </section>
-                    <section>
-                        <h3>
-                            5: Services and information
-                        </h3>
-                        <p>
-                            <span class="label label-danger">
-                                Mandatory
-                            </span>
-                        </p>
-                        <p>
-                            Features theme-specific topics
-                        </p>
-                        <ul class="list-unstyled">
-                            <li id="element1-5a">
-                                <details class="mrgn-bttm-sm">
-                                    <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">
-                                        <strong>
-                                            Content
-                                        </strong>
-                                    </summary>
-                                    <ul>
-                                        <li>
-                                            use the
-                                            <a href="../common-design-patterns/services-information.html">
-                                                Services and information
-                                            </a>
-                                            pattern
-                                        </li>
-                                    </ul>
-                                </details>
-                            </li>
-                            <li id="element1-5b">
-                                <details class="mrgn-bttm-sm">
-                                    <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">
-                                        <strong>
-                                            Presentation
-                                        </strong>
-                                    </summary>
-                                    <ul>
-                                        <li>
-                                            appears below the theme social media channels and to the left of “Most requested”
-                                        </li>
-                                        <li>
-                                            heading is labelled “Services and information”
-                                        </li>
-                                    </ul>
-                                </details>
-                            </li>
-                        </ul>
-                    </section>
-                    <section>
-                        <h3>
-                            6: Most requested
-                        </h3>
-                        <p>
-                            <span class="label label-danger">
-                                Mandatory
-                            </span>
-                        </p>
-                        <p>
-                            Features theme-specific top tasks
-                        </p>
-                        <ul class="list-unstyled">
-                            <li id="element1-6a">
-                                <details class="mrgn-bttm-sm">
-                                    <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">
-                                        <strong>
-                                            Content
-                                        </strong>
-                                    </summary>
-                                    <ul>
-                                        <li>
-                                            use the
-                                            <a href="../common-design-patterns/most-requested.html">
-                                                Most requested
-                                            </a>
-                                            pattern
-                                        </li>
-                                    </ul>
-                                </details>
-                            </li>
-                            <li id="element1-6b">
-                                <details class="mrgn-bttm-sm">
-                                    <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">
-                                        <strong>
-                                            Presentation
-                                        </strong>
-                                    </summary>
-                                    <ul>
-                                        <li>
-                                            appears to the right of “Services and information”
-                                        </li>
-                                        <li>
-                                            heading is labelled “Most requested”
-                                        </li>
-                                    </ul>
-                                </details>
-                            </li>
-                        </ul>
-                    </section>
-                    <section>
-                        <h3>
-                            7: More information for
-                        </h3>
-                        <p>
-                            <span class="label label-warning">
-                                Conditional
-                            </span>
-                        </p>
-                        <p>
-                            Links to related government-wide audience information
-                        </p>
-                        <ul class="list-unstyled">
-                            <li id="element1-7a">
-                                <details class="mrgn-bttm-sm">
-                                    <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">
-                                        <strong>
-                                            Content
-                                        </strong>
-                                    </summary>
-                                    <ul>
-                                        <li>
-                                            this component is mandatory when there is 1 or more theme-related government-wide audience page or audience topic page that exist
-                                        </li>
-                                        <li>
-                                            use the
-                                            <a href="../common-design-patterns/more-information.html">
-                                                More information for
-                                            </a>
-                                            pattern
-                                        </li>
-                                    </ul>
-                                </details>
-                            </li>
-                            <li id="element1-7b">
-                                <details class="mrgn-bttm-sm">
-                                    <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">
-                                        <strong>
-                                            Presentation
-                                        </strong>
-                                    </summary>
-                                    <ul>
-                                        <li>
-                                            appears below “Most requested”
-                                        </li>
-                                        <li>
-                                            heading is labelled “More information for”
-                                        </li>
-                                    </ul>
-                                </details>
-                            </li>
-                        </ul>
-                    </section>
-                    <section>
-                        <h3>
-                            8: Theme features
-                        </h3>
-                        <p>
-                            <span class="label label-danger">
-                                Mandatory
-                            </span>
-                        </p>
-                        <p>
-                            Promotes theme-specific current activities being led by departments and agencies across the
-                            <abbr title="Government of Canada">
-                                GC
-                            </abbr>
-                        </p>
-                        <ul class="list-unstyled">
-                            <li id="element1-8a">
-                                <details class="mrgn-bttm-sm">
-                                    <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">
-                                        <strong>
-                                            Content
-                                        </strong>
-                                    </summary>
-                                    <ul>
-                                        <li>
-                                            use the
-                                            <a href="../common-design-patterns/feature-tiles.html">
-                                                Context-specific features
-                                            </a>
-                                            pattern
-                                        </li>
-                                    </ul>
-                                </details>
-                            </li>
-                            <li id="element1-9b">
-                                <details class="mrgn-bttm-sm">
-                                    <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">
-                                        <strong>
-                                            Presentation
-                                        </strong>
-                                    </summary>
-                                    <ul>
-                                        <li>
-                                            appears below “Services and information”
-                                        </li>
-                                    </ul>
-                                </details>
-                            </li>
-                        </ul>
-                    </section>
-                </div>
-            </div>
-        </div>
-        <h2 id="navigation">
-            User navigation
-        </h2>
-        <p>
-            Canada.ca is organized around 15 themes, based on an analysis of top tasks (most requested information and services) across the Government of Canada.
-        </p>
-        <p>
-            While the themes emphasize top tasks related to information and service delivery, they also provide a window into activities of the Government of Canada that are undertaken to support programs and services (for example,
-            research, consultation, policy development).
-        </p>
-        <figure class="mrgn-bttm-lg">
-            <figcaption class="text-center">
-                <b>
-                    User navigation diagram
-                </b>
-            </figcaption>
-            <img alt="Diagram of how to navigate to theme pages on Canada.ca. Text version below:" class="img-responsive center-block" src="https://www.canada.ca/content/dam/tbs-sct/images/government-communications/canada-content-style-guide/theme-pages-ia-eng.png" />
-            <details>
-                <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">
-                    Text version
-                </summary>
-                <p>
-                    Theme pages can be accessed from the Canada.ca home page.
-                </p>
-            </details>
-        </figure>
-    </details>
-</section>
-
-<section>
-    <h2 id="changes">
-        Latest changes
-    </h2>
-    <p>
-        <strong>
-            2024-09-24:
-        </strong>
-    </p>
-    <ul>
-        <li>
-            Updated the pattern to remove any reference of topic pages. Topic pages are now a separate pattern.
-        </li>
-    </ul>
-    <p>
-        <strong>
-            2020-07-10:
-        </strong>
-    </p>
-    <ul>
-        <li>
-            Changes to doormat columns in tablet view
-        </li>
-        <li>
-            Clarify social media account guidance
-        </li>
-    </ul>
-    <p>
-        <strong>
-            2020-06-30:
-        </strong>
-        A new beta version of this template was added
-    </p>
-</section>
+  </dd>
+  <dt><time>2020-06-30</time></dt>
+  <dd>
+    <p>A new beta version of this template was added.</p>
+  </dd>
+</dl>
 
 		<section class="pagedetails">
 	<h2 class="wb-inv">Page details</h2><div class="row">
@@ -749,7 +324,7 @@
 		</div>
 	</div><dl id="wb-dtmd">
 	<dt>Date modified:</dt>
-	<dd><time property="dateModified">2024-09-24</time></dd>
+	<dd><time property="dateModified">2026-07-30</time></dd>
 </dl>
 </section>
 
