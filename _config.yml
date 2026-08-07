@@ -27,7 +27,6 @@
     "*.gpg",
     "*.py",
     "*.tmp",
-    "CNAME",
     "CODE_OF_CONDUCT.md",
     "CONTRIBUTING.md",
     "design-system.code-workspace",
