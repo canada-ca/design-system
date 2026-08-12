@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canda.ca/alertes/alertes-lds.html
+altLangPage: https://conception.canada.ca/alertes/alertes-lds.html
 breadcrumbs: []
 date: null
 dateModified: '2019-04-01'
