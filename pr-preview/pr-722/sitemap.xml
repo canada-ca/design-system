@@ -33,11 +33,11 @@
     <lastmod>2024-12-05</lastmod>
   </url>
   <url>
-    <loc>https://design.canada.ca/pr-preview/pr-722/survey/ai-analysis.html</loc>
+    <loc>https://design.canada.ca/pr-preview/pr-722/feedback/ai-analysis.html</loc>
     <lastmod>2026-07-08</lastmod>
   </url>
   <url>
-    <loc>https://design.canada.ca/pr-preview/pr-722/feedback/ai-analysis.html</loc>
+    <loc>https://design.canada.ca/pr-preview/pr-722/survey/ai-analysis.html</loc>
     <lastmod>2026-07-08</lastmod>
   </url>
   <url>
@@ -69,11 +69,11 @@
     <lastmod>2021-07-25</lastmod>
   </url>
   <url>
-    <loc>https://design.canada.ca/pr-preview/pr-722/survey/analyze-feedback.html</loc>
+    <loc>https://design.canada.ca/pr-preview/pr-722/feedback/analyze-feedback.html</loc>
     <lastmod>2026-07-08</lastmod>
   </url>
   <url>
-    <loc>https://design.canada.ca/pr-preview/pr-722/feedback/analyze-feedback.html</loc>
+    <loc>https://design.canada.ca/pr-preview/pr-722/survey/analyze-feedback.html</loc>
     <lastmod>2026-07-08</lastmod>
   </url>
   <url>
@@ -81,12 +81,12 @@
     <lastmod>2025-11-26</lastmod>
   </url>
   <url>
-    <loc>https://design.canada.ca/pr-preview/pr-722/survey/benefits.html</loc>
-    <lastmod>2023-04-05</lastmod>
-  </url>
-  <url>
     <loc>https://design.canada.ca/pr-preview/pr-722/feedback/benefits.html</loc>
     <lastmod>2023-02-28</lastmod>
+  </url>
+  <url>
+    <loc>https://design.canada.ca/pr-preview/pr-722/survey/benefits.html</loc>
+    <lastmod>2023-04-05</lastmod>
   </url>
   <url>
     <loc>https://design.canada.ca/pr-preview/pr-722/common-design-patterns/breadcrumb-trail.html</loc>
@@ -322,11 +322,11 @@
     <lastmod>2024-08-21</lastmod>
   </url>
   <url>
-    <loc>https://design.canada.ca/pr-preview/pr-722/survey/insights.html</loc>
+    <loc>https://design.canada.ca/pr-preview/pr-722/feedback/insights.html</loc>
     <lastmod>2026-07-08</lastmod>
   </url>
   <url>
-    <loc>https://design.canada.ca/pr-preview/pr-722/feedback/insights.html</loc>
+    <loc>https://design.canada.ca/pr-preview/pr-722/survey/insights.html</loc>
     <lastmod>2026-07-08</lastmod>
   </url>
   <url>
@@ -369,11 +369,11 @@
     <lastmod>2025-05-15</lastmod>
   </url>
   <url>
-    <loc>https://design.canada.ca/pr-preview/pr-722/specifications/latest-changes.html</loc>
-    <lastmod>2026-07-13</lastmod>
+    <loc>https://design.canada.ca/pr-preview/pr-722/about/latest-changes.html</loc>
   </url>
   <url>
-    <loc>https://design.canada.ca/pr-preview/pr-722/about/latest-changes.html</loc>
+    <loc>https://design.canada.ca/pr-preview/pr-722/specifications/latest-changes.html</loc>
+    <lastmod>2026-07-13</lastmod>
   </url>
   <url>
     <loc>https://design.canada.ca/pr-preview/pr-722/common-design-patterns/latest-news.html</loc>
@@ -406,11 +406,11 @@
     <lastmod>2023-04-05</lastmod>
   </url>
   <url>
-    <loc>https://design.canada.ca/pr-preview/pr-722/coded-layout/ministerial-profile-pages.html</loc>
+    <loc>https://design.canada.ca/pr-preview/pr-722/mandatory-templates/ministerial-profile-pages.html</loc>
     <lastmod>2025-12-22</lastmod>
   </url>
   <url>
-    <loc>https://design.canada.ca/pr-preview/pr-722/mandatory-templates/ministerial-profile-pages.html</loc>
+    <loc>https://design.canada.ca/pr-preview/pr-722/coded-layout/ministerial-profile-pages.html</loc>
     <lastmod>2025-12-22</lastmod>
   </url>
   <url>
@@ -489,11 +489,11 @@
     <lastmod>2024-12-05</lastmod>
   </url>
   <url>
-    <loc>https://design.canada.ca/pr-preview/pr-722/survey/prioritize.html</loc>
+    <loc>https://design.canada.ca/pr-preview/pr-722/feedback/prioritize.html</loc>
     <lastmod>2026-07-08</lastmod>
   </url>
   <url>
-    <loc>https://design.canada.ca/pr-preview/pr-722/feedback/prioritize.html</loc>
+    <loc>https://design.canada.ca/pr-preview/pr-722/survey/prioritize.html</loc>
     <lastmod>2026-07-08</lastmod>
   </url>
   <url>
@@ -688,12 +688,12 @@
     <loc>https://design.canada.ca/pr-preview/pr-722/common-design-patterns/subway-navigation.html</loc>
   </url>
   <url>
-    <loc>https://design.canada.ca/pr-preview/pr-722/survey/support.html</loc>
-    <lastmod>2023-04-05</lastmod>
-  </url>
-  <url>
     <loc>https://design.canada.ca/pr-preview/pr-722/feedback/support.html</loc>
     <lastmod>2023-02-28</lastmod>
+  </url>
+  <url>
+    <loc>https://design.canada.ca/pr-preview/pr-722/survey/support.html</loc>
+    <lastmod>2023-04-05</lastmod>
   </url>
   <url>
     <loc>https://design.canada.ca/pr-preview/pr-722/common-design-patterns/tabbed-interface.html</loc>
