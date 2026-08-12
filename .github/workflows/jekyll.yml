@@ -21,15 +21,15 @@ permissions:
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
 # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
-  group: "pages"
+  group: "production-deploy"
   cancel-in-progress: false
 
 jobs:
-  build-and-deploy:
+  build_and_deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
@@ -43,10 +43,24 @@ jobs:
         env:
           JEKYLL_ENV: production
 
+      - name: Preserve PR previews
+        run: |
+          if git ls-remote --exit-code --heads origin gh-pages >/dev/null 2>&1; then
+            git fetch --no-tags --depth=1 origin gh-pages
+            if git cat-file -e FETCH_HEAD:pr-preview 2>/dev/null; then
+              mkdir -p _site
+              git archive FETCH_HEAD pr-preview | tar -x -C _site
+              echo "Preserved $(ls -1 _site/pr-preview | wc -l) PR preview director(ies)"
+            else
+              echo "gh-pages has no pr-preview directory; nothing to preserve"
+            fi
+          else
+            echo "no gh-pages branch yet; nothing to preserve"
+          fi
+
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
-          keep_files: true
           publish_branch: gh-pages

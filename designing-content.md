@@ -81,7 +81,7 @@ title: Designing content for Canada.ca
  </p>
  <ul>
   <li>
-   <a href="https://www.canada.ca/en/government/about/top-tasks-for-canada-ca.html">
+   <a href="/top-tasks-for-canada-ca.html">
     Top tasks for Canada.ca
    </a>
   </li>

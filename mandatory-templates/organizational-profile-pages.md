@@ -8,7 +8,7 @@ title: 'Organizational profile pages mandatory template'
 
 
 <div>
- 
+
  <section>
   <p>
    <span class="label label-danger">
@@ -46,7 +46,7 @@ title: 'Organizational profile pages mandatory template'
    </li>
   </ul>
  </section>
- <a href="https://www.canada.ca/en/government/about/design-system/institutions-list.html">
+ <a href="/specifications/usage-canadaca-design/institutions-list.html">
   Canada.ca Institutions list
  </a>
  <section>
@@ -92,7 +92,7 @@ title: 'Organizational profile pages mandatory template'
   </p>
   <p>
    Consult the
-   <a href="https://www.canada.ca/en/government/about/design-system/institutions-list.html">
+   <a href="/specifications/usage-canadaca-design/institutions-list.html">
     Canada.ca institutions list
    </a>
    to confirm which profile to apply.

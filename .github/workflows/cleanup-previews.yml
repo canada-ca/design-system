@@ -1,0 +1,175 @@
+name: Cleanup Stale PR Previews
+
+on:
+  schedule:
+    # Run every day at 2:00 AM UTC
+    - cron: '0 2 * * *'
+  workflow_dispatch: # Allow manual trigger
+    inputs:
+      retention_days:
+        description: 'Days to keep previews after a PR closes'
+        default: '7'
+
+permissions:
+  contents: write
+  pull-requests: read
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout gh-pages branch
+        uses: actions/checkout@v5
+        with:
+          ref: gh-pages
+          fetch-depth: 0
+
+      - name: Clean up stale preview directories
+        uses: actions/github-script@v8
+        env:
+          RETENTION_DAYS: ${{ inputs.retention_days || 7 }}
+        with:
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+            const { execSync } = require('child_process');
+
+            // Configuration
+            // pr-preview.yml deliberately ignores closed events, so this scheduled
+            // workflow is the only thing that prunes previews.
+            // Keep previews for PRs closed within this many days. Scheduled runs
+            // supply no inputs, so fall back to 7; an explicit 0 is honoured
+            // (prune everything already closed), but blank or invalid values
+            // are not.
+            const rawRetentionDays = process.env.RETENTION_DAYS;
+            const parsedRetentionDays = Number(rawRetentionDays);
+            const RETENTION_DAYS = (rawRetentionDays !== '' && Number.isFinite(parsedRetentionDays) && parsedRetentionDays >= 0)
+              ? parsedRetentionDays
+              : 7;
+
+            const retentionMs = RETENTION_DAYS * 24 * 60 * 60 * 1000;
+            const cutoffDate = new Date(Date.now() - retentionMs);
+            const cutoffDateString = cutoffDate.toISOString().slice(0, 10);
+
+            // Helper function to safely extract error information
+            function extractErrorInfo(error) {
+              const status = (typeof error === 'object' && error !== null && 'status' in error)
+                ? error.status
+                : undefined;
+              const message = (typeof error === 'object' && error !== null && 'message' in error && typeof error.message === 'string')
+                ? error.message
+                : String(error);
+              return { status, message };
+            }
+
+            // Get all open and recently closed PRs (with pagination)
+            const openPRs = await github.paginate(github.rest.pulls.list, {
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              per_page: 100
+            });
+
+            const recentlyClosedPRs = await github.paginate(github.rest.search.issuesAndPullRequests, {
+              q: `repo:${context.repo.owner}/${context.repo.repo} is:pr closed:>=${cutoffDateString}`,
+              per_page: 100
+            });
+
+            // Keep previews for open PRs and PRs closed in the last N days
+            const activePRNumbers = new Set([
+              ...openPRs.map(pr => pr.number),
+              ...recentlyClosedPRs
+                .filter(pr => pr.closed_at && new Date(pr.closed_at) > cutoffDate)
+                .map(pr => pr.number)
+            ]);
+
+            console.log(`Retention period: ${RETENTION_DAYS} days`);
+            console.log(`Active PR numbers to keep: ${activePRNumbers.size}`);
+
+            // Check if pr-preview directory exists
+            const previewDir = 'pr-preview';
+            if (!fs.existsSync(previewDir)) {
+              console.log('No pr-preview directory found, nothing to clean up');
+              return;
+            }
+
+            // List all preview directories
+            const previewDirs = fs.readdirSync(previewDir)
+              .filter(dir => dir.startsWith('pr-'))
+              .map(dir => {
+                const match = dir.match(/^pr-(\d+)$/);
+                return match ? { dir, prNumber: parseInt(match[1], 10) } : null;
+              })
+              .filter(x => x !== null);
+
+            console.log(`Found ${previewDirs.length} preview directories`);
+
+            // Identify stale directories
+            const staleDirectories = previewDirs.filter(
+              ({ prNumber }) => !activePRNumbers.has(prNumber)
+            );
+
+            if (staleDirectories.length === 0) {
+              console.log('No stale preview directories to remove');
+              return;
+            }
+
+            console.log(`Found ${staleDirectories.length} stale preview directories to remove:`);
+            staleDirectories.forEach(({ dir, prNumber }) => {
+              console.log(`  - ${dir} (PR #${prNumber})`);
+            });
+
+            // Remove stale directories
+            staleDirectories.forEach(({ dir }) => {
+              const dirPath = path.join(previewDir, dir);
+              try {
+                fs.rmSync(dirPath, { recursive: true, force: true });
+                console.log(`Removed: ${dirPath}`);
+              } catch (error) {
+                const { message } = extractErrorInfo(error);
+                console.error(`Failed to remove preview directory: ${dirPath}`, message);
+                throw error;
+              }
+            });
+
+            // Commit and push changes
+            try {
+              execSync('git config --local user.name "github-actions[bot]"', { stdio: 'inherit' });
+              execSync('git config --local user.email "github-actions[bot]@users.noreply.github.com"', { stdio: 'inherit' });
+              console.log('Git config set successfully');
+            } catch (error) {
+              const { message } = extractErrorInfo(error);
+              console.error('Failed to configure git:', message);
+              throw error;
+            }
+
+            try {
+              execSync('git add pr-preview', { stdio: 'inherit' });
+              console.log('Changes staged successfully');
+            } catch (error) {
+              const { message } = extractErrorInfo(error);
+              console.error('Failed to stage changes:', message);
+              throw error;
+            }
+
+            try {
+              execSync(`git commit -m "chore: cleanup ${staleDirectories.length} stale PR preview(s)"`, { stdio: 'inherit' });
+              console.log('Changes committed successfully');
+            } catch (error) {
+              const { message } = extractErrorInfo(error);
+              if (message && message.includes('nothing to commit')) {
+                console.log('No changes to commit');
+                return;
+              }
+              console.error('Failed to commit changes:', message);
+              throw error;
+            }
+
+            try {
+              execSync('git push', { stdio: 'inherit' });
+              console.log('Changes pushed successfully');
+            } catch (error) {
+              const { message } = extractErrorInfo(error);
+              console.error('Failed to push changes:', message);
+              throw error;
+            }

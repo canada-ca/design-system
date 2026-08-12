@@ -62,7 +62,7 @@ title: Canada.ca analytics, surveys, and user feedback
     <div class="col-md-4">
      <section>
       <h3 class="h5">
-       <a href="https://www.canada.ca/en/government/about/top-tasks-for-canada-ca.html">
+       <a href="/top-tasks-for-canada-ca.html">
         Top tasks for Canada.ca
        </a>
       </h3>

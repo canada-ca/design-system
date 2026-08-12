@@ -6,7 +6,7 @@ description: "The departments and agencies landing page includes an alphabetical
 title: 'Departments and agencies page mandatory template'
 ---
 <p><span class="label label-danger">Mandatory</span></p>
-<p>The departments and agencies landing page includes an alphabetically organized list of government institutions, as listed in the <a href="https://www.canada.ca/en/government/about/design-system/institutions-list.html">Canada.ca institutions list</a>.</p>
+<p>The departments and agencies landing page includes an alphabetically organized list of government institutions, as listed in the <a href="/specifications/usage-canadaca-design/institutions-list.html">Canada.ca institutions list</a>.</p>
 <p>The page must be equipped with a keyword filter search box at the top of the page.</p>
 <p>The departments and agencies page provides:</p>
 <ul>
@@ -99,7 +99,7 @@ title: 'Departments and agencies page mandatory template'
               <details class="mrgn-bttm-sm">
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'><strong>Content</strong></summary>
                 <ul>
-                  <li>the display name of the institution is used, as specified in the <a href="https://www.canada.ca/en/government/about/design-system/institutions-list.html">Canada.ca institutions list</a></li>
+                  <li>the display name of the institution is used, as specified in the <a href="/specifications/usage-canadaca-design/institutions-list.html">Canada.ca institutions list</a></li>
                   <li>acronyms are provided adjacent to the display name</li>
                 </ul>
               </details>
