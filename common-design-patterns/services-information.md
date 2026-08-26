@@ -96,10 +96,16 @@ title: Services and information
         <li>Tab order is from left to right, then top to bottom</li>
       </ul>
     </li>
+    <li>Section headings:
+      <ul>
+        <li>Font size: 29px (desktop & mobile)</li>
+        <li>Font type: Lato Sans</li>
+      </ul>
+    </li>
     <li>Headings:
       <ul>
         <li>Colour: <a href="https://design.canada.ca/styles/colours.html">Standard colour</a> for links</li>
-        <li>Font size: 24px (H3 styled as H5 size)</li>
+        <li>Font size: 20px (desktop & mobile)</li>
         <li>Font type: Lato Sans</li>
       </ul>
     </li>
