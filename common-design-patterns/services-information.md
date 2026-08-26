@@ -96,8 +96,9 @@ title: Services and information
         <li>Tab order is from left to right, then top to bottom</li>
       </ul>
     </li>
-    <li>Section headings:
+    <li>Section heading:
       <ul>
+        <li>Colour: <a href="https://design.canada.ca/styles/colours.html">Standard colour</a> for text</li>
         <li>Font size: 29px (desktop & mobile)</li>
         <li>Font type: Lato Sans</li>
       </ul>
