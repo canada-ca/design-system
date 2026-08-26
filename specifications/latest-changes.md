@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/specifications/derniers-changements.html"
 date: 2017-10-05
-dateModified: 2026-07-13
+dateModified: 2026-08-26
 description: "Latest changes to the Canada.ca design"
 title: "Latest changes to the Canada.ca design"
 ---
@@ -11,6 +11,10 @@ title: "Latest changes to the Canada.ca design"
 </div>
 <div id="expand-collapse">
   <details open="open">
+    <summary><time datetime="2026-08-26">August 26, 2026</time></summary>
+    <p>Updated the <a href="{{ '/common-design-patterns/social-media-channels.html' | absolute_url }}">social media channels guidance</a> to clarify that 5 icons are recommended as a best practice, not a maximum limit.</p>
+  </details>
+  <details>
     <summary><time datetime="2026-02-19">February 19, 2026</time></summary>
     <p>Stabilized the <a href="{{ '/common-design-patterns/subway-navigation.html' | absolute_url }}">subway pattern</a>.</p>
   </details>

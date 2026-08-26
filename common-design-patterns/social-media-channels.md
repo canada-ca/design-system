@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/configurations-conception-communes/bloc-medias-sociaux.html
-date: null
-dateModified: '2026-01-30'
+date: '2018-12-19'
+dateModified: '2026-08-26'
 description: The social media channels pattern provides links to official Government of Canada social media accounts on various social media platforms.
 title: Social media channels
 ---
@@ -41,7 +41,7 @@ title: Social media channels
     <p>Accounts referred to in the pattern must be fully compliant with the <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=30682">Directive on the Management of Communications</a>.</p>
     <p>You can use social media icons other than those provided in this pattern, as long as they represent official GC social media accounts.</p>
     <p>The order of social media icons isn’t prescribed. You can arrange them in any order that makes sense for your context.</p>
-    <p>Display a maximum of 5 icons aligned in a vertical column or horizontal row:</p>
+    <p>A maximum of 5 icons is recommended. Display icons aligned in a vertical column or horizontal row:</p>
     <ul>
         <li>Vertical display includes a label next to each icon</li>
         <li>Horizontal display only includes the icons</li>
@@ -299,6 +299,8 @@ title: Social media channels
 <section>
     <h2 id="latest">Latest changes</h2>
     <dl class="dl-horizontal">
+    <dt><time>2026-08-26</time></dt>
+      <dd>Updated the guidance to clarify that 5 icons are recommended as a best practice, not a maximum limit.</dd>
     <dt><time>2026-01-30</time></dt>
       <dd>Updated the guidance to clarify that other social media icons can be used and that icons can be rearranged.</dd>
       <dt><time>2025-05-15</time></dt>
