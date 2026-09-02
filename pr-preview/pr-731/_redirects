@@ -1,0 +1,4 @@
+# Redirects from what the browser requests to what design-system.ca serves 
+/covid/alerts.html /crisis/alerts.html 301!
+/redirect-test/icons.html /common-design-patterns/buttons.html 301!
+/common-design-patterns/icons.html /common-design-patterns/images.html 301!
