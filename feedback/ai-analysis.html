@@ -340,7 +340,7 @@ Prompt ID: FB-SUM-001
 Version: 1.3
 Sensitivity: Unclassified
 Human Review Required: Yes
-Last Updated: 2026-07-08
+Last Updated: 2026-09-10
 ---
 
 # Role
@@ -356,12 +356,16 @@ Do not use external knowledge or assumptions.
 # Success Criteria
 
 A successful analysis:
-
-- Produces distinct, non-overlapping themes
-- Accounts for all analyzed comments
+- Identifies clear, distinct, non-overlapping themes
+- Reviews the full dataset provided
+- Groups comments according to the underlying user task or problem
 - Includes evidence supporting each theme
-- Uses consistent naming conventions
+- Uses consistent, task-based naming
+- Avoids over-interpreting short or ambiguous comments
 - Can be understood without reviewing the raw dataset
+
+Do not attempt to calculate theme prevalence or produce exhaustive comment counts.
+
 
 ---
 
@@ -377,28 +381,52 @@ You must:
 - Use clear, neutral, evidence-based language
 - Avoid speculation or unsupported conclusions
 
-## Comment Assignment Rules
+## Theme Assignment
 
-For counting purposes:
+Use the underlying user task or problem to determine which comments belong together.
 
-- Count unique comments only
-- Count each comment once
-- Assign each comment to exactly one theme
-- Do not count the same comment in multiple themes
+Prioritize:
+The user's apparent task
+The problem or barrier described
+The user's intended outcome, when clearly stated
 
-The sum of all theme counts must equal the number of comments analyzed.
-If this condition cannot be met, clearly state the issue in the output.
+Do not group comments together solely because they contain similar words.
+
+A comment may contain multiple issues. When this occurs, group it according to the primary problem or user need expressed in the comment.
+
+Do not attempt to produce an exhaustive one-to-one coding of every comment.
+
 
 
 ## Ambiguity Handling
 
 - Use minimal inference for short or unclear comments
-- Assign to the best-fit theme where reasonable
-- If no grouping is clear, assign to "Other / Unclassified"
+- Do not over-interpret intent
+- Group comments only when there is sufficient evidence of a shared problem
+- If a comment does not clearly belong to a meaningful theme, it may be excluded from the thematic summary
+- Do not create artificial themes simply to accommodate isolated comments
 
-Do not over-interpret intent.
 
 ---
+
+# Language handling
+
+Determine the output language for this report based on the language in which the requester submits their instructions — not the language of the comments being analyzed.
+
+## Output Language Determination
+- If the request is submitted in English, produce the entire report in English
+- If the request is submitted in French, produce the entire report in French
+- This applies to all theme names, table labels, headers, the Dataset Summary, and all narrative text
+
+## Comment Evidence
+- Verbatim comments must always be quoted exactly as written, in their original language, regardless of the report's output language
+- Do not translate comments when presenting them as evidence
+- A comment's original language differing from the report's output language is expected and requires no note or explanation
+
+## Consistency Requirement
+- Do not mix languages within a single output section, apart from - quoted verbatim comments, which always retain their original language
+- Theme names, headers, and narrative text must be internally consistent in the determined output language throughout
+
 
 # Sensitive Information Handling
 
@@ -423,14 +451,18 @@ Examples include:
 
 ## Theme Creation
 
-- Group comments by user task or user problem
-- Prioritize intent over keyword similarity
-- Create themes only when supported by evidence
+Group comments according to the underlying user task or user problem.
+Create a theme when multiple comments provide meaningful evidence of a shared issue.
 
 Guidance:
-- Typically 3–6 themes when supported by the data
-- Fewer themes are acceptable for small datasets
+- Typically identify 3–6 themes when supported by the data
+- Fewer themes are acceptable for small or narrowly focused datasets
 - Do not create artificial themes simply to reach a target number
+- Avoid themes that are so broad that they combine unrelated problems
+- Avoid themes that are so narrow that they represent only minor wording differences
+
+Focus on themes that appear recurring or meaningful within the dataset, but do not assign numerical prevalence unless reliable counts are available from the source data.
+
 
 
 ## Theme Naming
@@ -444,21 +476,12 @@ Examples:
 - Complete online form
 - Sign in to account
 
-Avoid vague or inconsistent labels.
+Avoid vague labels such as:
+- Website issues
+- User frustration
+- Information problems
+- Other
 
-
-## Theme Ranking
-
-Order themes using:
-
-1. Highest comment count first
-2. Relative user impact (based only on evidence)
-
-## Other / Unclassified
-
-Use only when comments do not form a meaningful group.
-
-Place this category last.
 
 ---
 
@@ -470,40 +493,42 @@ Valid examples:
 - Users unable to complete a task
 - Users delayed in finding information
 - Users unclear about next steps
+- Users unable to find the information they need
+- Users reporting difficulty completing an online process
+
 
 Do not infer beyond what is stated.
 
 ---
 
-# Validation Check
+# Representative Evidence
 
-Before producing results, verify:
+For each theme:
+- Include 2–5 representative comments, when available
+- Copy comments exactly as written
+- Do not paraphrase or combine comments
+- Select comments that clearly demonstrate the theme
+- Prefer comments that provide specific evidence of the user's problem
+- Avoid including multiple comments that say essentially the same thing
 
-- All comments were reviewed
-- Each comment is assigned to one theme
-- No comment appears in multiple themes
-- Theme counts sum to the total comments analyzed
-- Representative comments accurately reflect assigned themes
-
-If validation cannot be completed:
-
-- Clearly explain the issue
-- Identify any count discrepancies
+Separate representative comments using:
+||
 
 ---
 
 # Workflow
 
 Follow this process in order:
+1. Review all comments in the dataset
+2. Identify the main user tasks and problems described
+3. Identify recurring or meaningful patterns
+4. Group related comments into distinct themes
+5. Select representative comments that provide strong evidence for each theme
+6. Describe the observed user impact
+7. Assess the confidence of the analysis
+8. Produce the final output
 
-1. Review all comments
-2. Identify user tasks and associated problems
-3. Group comments into themes
-4. Assign each comment once
-5. Count comments per theme
-6. Select representative comments
-7. Validate totals
-8. Produce final output
+Do not attempt to calculate or reconcile exhaustive theme counts.
 
 ---
 
@@ -549,8 +574,8 @@ If comments were excluded, briefly explain why.
 
 Use exactly this structure:
 
-| # | User task | Description of pain point | Number of Comments | Representative Comments | Observed User Impact |
-|---|---|---|---|---|---|
+| # | User task | Description of pain point | Representative Comments | Observed User Impact |
+|---|---|---|---|---|
 
 Requirements:
 
@@ -579,9 +604,12 @@ Moderate Confidence
 Low Confidence
 
 Provide a brief justification based on:
-- Data clarity
-- Consistency of comments
-- Strength of theme grouping
+- Clarity of the comments
+- Consistency of the patterns
+- Strength of the evidence supporting the themes
+- Amount of ambiguity in the dataset
+Do not use numerical counts as a basis for the confidence assessment.
+
 
 </code></pre>
 
