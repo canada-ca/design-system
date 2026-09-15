@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://conception.canada.ca/specifications/derniers-changements.html"
 date: 2017-10-05
-dateModified: 2026-09-01
+dateModified: 2026-09-15
 description: "Latest changes to the Canada.ca design"
 title: "Latest changes to the Canada.ca design"
 ---
@@ -13,6 +13,22 @@ title: "Latest changes to the Canada.ca design"
   <details open="open">
     <summary><time datetime="2026-09-01">September 1, 2026</time></summary>
     <p>Updated the <a href="{{ '/common-design-patterns/social-media-channels.html' | absolute_url }}">social media channels guidance</a> to clarify that 5 icons are recommended as a best practice, not a maximum limit.</p>
+  </details>
+  <details>
+    <summary><time datetime="2026-07-07">July 7, 2026</time></summary>
+    <p>Stabilized and launched the <a href="{{ '/mandatory-templates/theme.html' | absolute_url }}">layered theme page</a>.</p>
+  </details>
+  <details>
+    <summary><time datetime="2026-06-15">June 15, 2026</time></summary>
+    <p>Updated the <a href="{{ '/recommended-templates/institutional-service-performance-reporting-pages.html' | absolute_url }}">institutional service performance reporting pages template</a> to remove references to the institutional byline pattern, which is being decommissioned.</p>
+  </details>
+  <details>
+    <summary><time datetime="2026-06-12">June 12, 2026</time></summary>
+    <p>Updated the <a href="{{ '/specifications/mandatory-elements/domains-urls.html' | absolute_url }}">Government of Canada domains and URLs guidance</a> to reflect that French vanity URLs may now include accented and diacritic characters when applicable.</p>
+  </details>
+  <details>
+    <summary><time datetime="2026-06-05">June 5, 2026</time></summary>
+    <p>Removed the share this page widget, which is no longer supported.</p>
   </details>
   <details>
     <summary><time datetime="2026-02-19">February 19, 2026</time></summary>
