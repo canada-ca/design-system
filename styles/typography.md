@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/styles/typographie.html
 date: 2018-10-01
-dateModified: 2026-01-29
+dateModified: 2026-09-29
 description: Typography and fonts for Canada.ca
 title: Typography style
 ---
@@ -13,9 +13,11 @@ The typography guidance is mandatory on all pages.
 
 [Mandatory elements of the design system]({{ '/specifications/mandatory-elements.html' | absolute_url }})
 
-Fonts must be consistent across Canada.ca pages, and should be easily readable across devices. Use a combination of Lato for headings, and Noto sans for body text.
+Fonts must be consistent across Canada.ca pages, and should be easily readable across devices. Use a combination of Lato for headings, and Noto Sans for body text.
 
-## Desktop and tablet default font specification
+## Core typography of Canada.ca
+
+### Desktop and large tablet default font specification
 
 - H1: Lato, 41px, bold
 - H2: Lato, 39px, bold
@@ -23,9 +25,9 @@ Fonts must be consistent across Canada.ca pages, and should be easily readable a
 - H4: Lato, 27px, bold
 - H5: Lato, 24px, bold
 - H6: Lato, 22px, bold
-- Body: Noto sans, 20px, plain text
+- General body text: Noto Sans, 20px, plain text
 
-## Smaller device default font specification
+### Smaller device default font specification
 
 - H1: Lato, 37px, bold
 - H2: Lato, 35px, bold
@@ -33,17 +35,47 @@ Fonts must be consistent across Canada.ca pages, and should be easily readable a
 - H4: Lato, 22px, bold
 - H5: Lato, 20px, bold
 - H6: Lato, 18px, bold
-- Body: Noto sans, 18px, plain text
+- General body text: Noto Sans, 18px, plain text
+
+## Typography scale by patterns
+
+Certain patterns use font sizes beyond the core typography for content pages. These patterns have specific use cases and their sizing is designed with that in mind, such as:
+
+### Small text elements
+
+Noto Sans 16px, plain text, non-responsive
+
+Some examples of patterns that use small text include:
+
+- Data tables
+- Captions, subtitles or footnotes
+- Footer and header elements
+- Menus
+
+This is the smallest size recommended on Canada.ca for readable text.
+
+### Navigational page font scaling
+
+Navigation pages are compact by design. These pages help users scan and find links to the task information they need.
+
+To support scanning and fit more content on a page, navigational pages use a smaller heading scale. For example, headings in sections such as Services and information, Contact us, and Features use H3 styling instead of the larger H2 styling used elsewhere on Canada.ca.
+
+When creating a standard Canada.ca navigational page, follow the typography and heading guidance for the design pattern you are using.
+
+Examples of navigation pages:
+
+- Topic pages, institutional landing pages, layered theme
+- Canada.ca home page, Government of Canada services page
 
 ## Indigenous characters and other languages
 
-Both Lato and Noto Sans support a wide variety of languages and non-latin characters. However, Noto Sans has a larger range of additional font families than can be added to support additional character types. 
+Both Lato and Noto Sans support a wide variety of languages and non-Latin characters. However, Noto Sans has a larger range of additional font families than can be added to support additional character types.
 
 The Noto Sans Canadian Aboriginal font-family is included by default in the typography of Canada.ca.
 
 When publishing content that has unsupported character types, you can choose to add a Noto Sans font package for the characters you need for both headings and content as necessary.
 
-By default, without this specific modification, the style of Canada.ca instructs the user's browser to use an available font that will display the characters correctly.
+By default, without this specific modification, the style of Canada.ca instructs the user’s browser to use an available font that will display the characters correctly.
 
 Example:
 
@@ -98,8 +130,10 @@ Underline links in an underline style that skips descenders.
 ## Latest updates
 
 <dl class="dl-horizontal">
+  <dt><time>2026-09-29</time></dt>
+  <dd>Updated to clarify the differences between core Canada.ca typography and the typography used for navigational pages and components.</dd>
   <dt><time>2026-01-29</time></dt>
-  <dd>Updated to reflect that the Noto Sans Canadian Aboriginal font family has been added to the typography of Canada.ca</dd>
+  <dd>Updated to reflect that the Noto Sans Canadian Aboriginal font family has been added to the typography of Canada.ca.</dd>
   <dt><time>2025-11-21</time></dt>
   <dd>Updated to include information about how to customize typography to support additional languages</dd>
   <dt><time>2025-05-15</time></dt>
