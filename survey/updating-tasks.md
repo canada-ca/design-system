@@ -32,7 +32,7 @@ Changes are reviewed by theme leads, Canada.ca Experience Office (CEO) and Princ
 
 ## Current and past task lists
 
-[Download task lists on GCXchange (internal only)](https://gcxgce.sharepoint.com/:u:/t/10001402/EUBm7N0ddyxLhulyoBd2EbMBW346iw-4q9LCpK2YpMzPWw?e=Nb0qeQ) 
+[Download task lists on GCXchange (internal only)](https://gcxgce.sharepoint.com/teams/10001402/SitePages/Government-of-Canada-Task-Success-Survey.aspx#task-list) 
 
 ## Service Standards
 
