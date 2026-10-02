@@ -3,7 +3,7 @@ altLangPage: "https://conception.canada.ca/taches-principales-pour-canada-ca.htm
 breadcrumbs:
   -  title: "About Canada.ca"
      link: "https://www.canada.ca/en/government/about-canada-ca.html"
-  
+
 date: 2018-08-03
 dateModified: 2026-10-02
 description: "The top-task inventory for Canada.ca includes the 50 most in-demand tasks across the Government of Canada."
@@ -13,7 +13,7 @@ title: "Top tasks for Canada.ca"
 <p>People come to our digital channels to get specific things done. This inventory identifies the 50 most in-demand tasks and helps focus improvements on the information and services people use most, making it easier for them to find what they need and complete their tasks successfully.
 </p>
 
-</ul>
+
 <h2>Inventory of top 50 tasks</h2>
 <table class="wb-tables table table-striped" data-wb-tables="{ &quot;paging&quot;: false }">
   <caption><strong>Time period:</strong> April 1, 2025 - March 31, 2026</caption>
