@@ -1,19 +1,22 @@
 ---
 altLangPage: "https://conception.canada.ca/taches-principales-pour-canada-ca.html"
+breadcrumbs:
+  -  title: "About Canada.ca"
+     link: "https://www.canada.ca/en/government/about-canada-ca.html"
+  
 date: 2018-08-03
-dateModified: 2026-09-15
+dateModified: 2026-10-02
 description: "The top-task inventory for Canada.ca includes the 50 most in-demand tasks across the Government of Canada."
 layout: default
 title: "Top tasks for Canada.ca"
 ---
-<p>People come to our digital channels to get specific things done. This inventory includes the 50 most in-demand tasks across the Government of Canada – we are working to improve the information and services supporting these top tasks so that people can more successfully find and complete them.</p>
-<p>For details on how this inventory was created, see:</p>
-<ul>
-<li><a href="https://blog.canada.ca/2023/03/22/top-tasks.html">How we identify top tasks for Canada.ca</a></li>
+<p>People come to our digital channels to get specific things done. This inventory identifies the 50 most in-demand tasks and helps focus improvements on the information and services people use most, making it easier for them to find what they need and complete their tasks successfully.
+</p>
+
 </ul>
-<h2>Government of Canada 50 Top Tasks Inventory</h2>
+<h2>Inventory of top 50 tasks</h2>
 <table class="wb-tables table table-striped" data-wb-tables="{ &quot;paging&quot;: false }">
-  <caption><strong>Data source:</strong> April 1, 2025 - March 31, 2026</caption>
+  <caption><strong>Time period:</strong> April 1, 2025 - March 31, 2026</caption>
 	<thead>
     <tr>
       <th scope="col">Rank</th>
