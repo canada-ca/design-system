@@ -2905,102 +2905,102 @@ title: "Canada.ca Content Style Guide"
        </thead>
        <tbody>
         <tr>
-         <td>Calgary</td>
+         <th scope="row">Calgary</th>
          <td>Mainly sunny</td>
          <td class="text-right">0°C</td>
         </tr>
         <tr>
-         <td>Charlottetown</td>
+         <th scope="row">Charlottetown</th>
          <td>Drifting snow</td>
          <td class="text-right">-11°C</td>
         </tr>
         <tr>
-         <td>Edmonton</td>
+         <th scope="row">Edmonton</th>
          <td>(no data)</td>
          <td class="text-right">0°C</td>
         </tr>
         <tr>
-         <td>Fredericton</td>
+         <th scope="row">Fredericton</th>
          <td>Sunny</td>
          <td class="text-right">-12°C</td>
         </tr>
         <tr>
-         <td>Halifax</td>
+         <th scope="row">Halifax</th>
          <td>Mainly sunny</td>
          <td class="text-right">-7°C</td>
         </tr>
         <tr>
-         <td>Iqaluit</td>
+         <th scope="row">Iqaluit</th>
          <td>Drifting snow</td>
          <td class="text-right">-22°C</td>
         </tr>
         <tr>
-         <td>Montréal</td>
+         <th scope="row">Montréal</th>
          <td>Sunny</td>
          <td class="text-right">-16°C</td>
         </tr>
         <tr>
-         <td>Ottawa (Kanata - Orléans)</td>
+         <th scope="row">Ottawa (Kanata - Orléans)</th>
          <td>Mainly sunny</td>
          <td class="text-right">-15°C</td>
         </tr>
         <tr>
-         <td>Prince George</td>
+         <th scope="row">Prince George</th>
          <td>Partly cloudy</td>
          <td class="text-right">2°C</td>
         </tr>
         <tr>
-         <td>Québec</td>
+         <th scope="row">Québec</th>
          <td>Partly cloudy</td>
          <td class="text-right">-19°C</td>
         </tr>
         <tr>
-         <td>Regina</td>
+         <th scope="row">Regina</th>
          <td>Cloudy</td>
          <td class="text-right">-4°C</td>
         </tr>
         <tr>
-         <td>Saskatoon</td>
+         <th scope="row">Saskatoon</th>
          <td>Mist</td>
          <td class="text-right">-8°C</td>
         </tr>
         <tr>
-         <td>St. John's</td>
+         <th scope="row">St. John's</th>
          <td>Mist</td>
          <td class="text-right">2°C</td>
         </tr>
         <tr>
-         <td>Thunder Bay</td>
+         <th scope="row">Thunder Bay</th>
          <td>Partly cloudy</td>
          <td class="text-right">-14°C</td>
         </tr>
         <tr>
-         <td>Toronto</td>
+         <th scope="row">Toronto</th>
          <td>Light snow</td>
          <td class="text-right">-6°C</td>
         </tr>
         <tr>
-         <td>Vancouver</td>
+         <th scope="row">Vancouver</th>
          <td>Mostly cloudy</td>
          <td class="text-right">9°C</td>
         </tr>
         <tr>
-         <td>Victoria</td>
+         <th scope="row">Victoria</th>
          <td>Light rain</td>
          <td class="text-right">8°C</td>
         </tr>
         <tr>
-         <td>Whitehorse</td>
+         <th scope="row">Whitehorse</th>
          <td>Partly cloudy</td>
          <td class="text-right">-19°C</td>
         </tr>
         <tr>
-         <td>Winnipeg</td>
+         <th scope="row">Winnipeg</th>
          <td>Sunny</td>
          <td class="text-right">-18°C</td>
         </tr>
         <tr>
-         <td>Yellowknife</td>
+         <th scope="row">Yellowknife</th>
          <td>Mainly sunny</td>
          <td class="text-right">-28°C</td>
         </tr>
@@ -3328,7 +3328,7 @@ title: "Canada.ca Content Style Guide"
      </thead>
      <tbody>
       <tr>
-       <td>Men</td>
+       <th scope="row">Men</th>
        <td class="text-right nowrap">58.2</td>
        <td class="text-right nowrap">55.7</td>
        <td class="text-right nowrap">52.9</td>
@@ -3338,7 +3338,7 @@ title: "Canada.ca Content Style Guide"
        <td class="text-right nowrap">44.8</td>
       </tr>
       <tr>
-       <td>Women</td>
+       <th scope="row">Women</th>
        <td class="text-right nowrap">41.8</td>
        <td class="text-right nowrap">44.3</td>
        <td class="text-right nowrap">47.1</td>
