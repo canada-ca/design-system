@@ -48,7 +48,7 @@ title: "Canada.ca Content Style Guide"
   <li>section <a href="#wp4-6">4.6 Numbers</a> to provide guidance on when to spell out numbers versus using digits</li>
   <li>subsection <a href="#wp4-1-5">Hyphens and dashes</a> to allow for the use of en dashes in a span of fiscal or calendar years
     <ul>
-      <li>we also added a new corresponding subsection, <a href="{{ site.urlconception }}/guide-redaction/#wp4-1-4">Traits d’union et les tirets</a>, in French</li>
+      <li>we also added a new corresponding subsection, <a lang="fr" href="{{ site.urlconception }}/guide-redaction/#wp4-1-4">Traits d’union et tirets</a>, in French</li>
     </ul>
   </li>
  </ul>
@@ -647,7 +647,7 @@ title: "Canada.ca Content Style Guide"
   <ul>
    <li>
     <span lang="fr"
-     ><a href="{{ site.urlconception }}/guide-redaction/#wp2-3">2.3 Utiliser des termes familiers</a></span
+     ><a href="{{ site.urlconception }}/guide-redaction/#wp2-3">2.3 Utiliser des termes courants</a></span
     >
    </li>
   </ul>
@@ -779,7 +779,7 @@ title: "Canada.ca Content Style Guide"
     <li>
      <span lang="fr"
       ><a href="{{ site.urlconception }}/guide-redaction/#wp2-4"
-       >2.4 Rédigez avec la voix active, directe, et affirmative</a
+       >2.4 Rédiger avec la voix active, directe, et affirmative</a
       ></span
      >
     </li>
@@ -1373,7 +1373,7 @@ title: "Canada.ca Content Style Guide"
           <li><a href="#wp4-1-2">Lists</a></li>
           <li><a href="#wp4-1-3">Links</a></li>
           <li><a href="#wp4-1-4">Commas</a></li>
-          <li><a href="#wp4-1-5">Hyphen and dashes</a></li>
+          <li><a href="#wp4-1-5">Hyphens and dashes</a></li>
          </ul>
         </li>
         <li><a href="#wp4-2">4.2 Underlining, bold and italics</a></li>
@@ -1530,7 +1530,7 @@ title: "Canada.ca Content Style Guide"
      </ul>
     </section>
     <section id="wp4-1-5">
-     <h4>Hyphen and dashes</h4>
+     <h4>Hyphens and dashes</h4>
      <p>Hyphens and dashes have different uses. They aren't interchangeable. Avoid using dashes. Instead:</p>
      <ul>
       <li>use a hyphen (-) to join words together</li>
@@ -4713,7 +4713,7 @@ title: "Canada.ca Content Style Guide"
       >
      </p>
      <p class="fn-rtn small">
-      <a href="#fn1-rf"><span class="wb-inv">Return to footnote </span>1<span class="wb-inv"> referrer</span></a>
+      <a href="#fn1-0-rf"><span class="wb-inv">Return to footnote </span>1<span class="wb-inv"> referrer</span></a>
      </p>
     </dd>
    </dl>
