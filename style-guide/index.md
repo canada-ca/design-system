@@ -48,7 +48,7 @@ title: "Canada.ca Content Style Guide"
   <li>section <a href="#wp4-6">4.6 Numbers</a> to provide guidance on when to spell out numbers versus using digits</li>
   <li>subsection <a href="#wp4-1-5">Hyphens and dashes</a> to allow for the use of en dashes in a span of fiscal or calendar years
     <ul>
-      <li>we also added a new corresponding subsection, <a href="{{ site.urlconception }}/guide-redaction/#wp4-1-4">Traits d’union et les tirets</a>, in French</li>
+      <li>we also added a new corresponding subsection, <a lang="fr" href="{{ site.urlconception }}/guide-redaction/#wp4-1-4">Traits d’union et tirets</a>, in French</li>
     </ul>
   </li>
  </ul>
@@ -495,7 +495,7 @@ title: "Canada.ca Content Style Guide"
    use these tools to evaluate readability accurately. However, you can use them to help demonstrate why text should be
    simplified or shortened.
   </p>
-  <h4>See how this rule applies in French:</h4>
+  <h4>See how rule 2.1 applies in French:</h4>
   <ul>
    <li>
     <span lang="fr"
@@ -589,7 +589,7 @@ title: "Canada.ca Content Style Guide"
    <strong>Instead of</strong>: According to Canadian legislation, you're required to present your passport to the agent
    who will welcome you into the country.
   </p>
-  <h4>See how this rule applies in French:</h4>
+  <h4>See how rule 2.2 applies in French:</h4>
   <ul>
    <li>
     <span lang="fr"
@@ -643,11 +643,11 @@ title: "Canada.ca Content Style Guide"
    Replace long words with short, simple and everyday words that most people understand and use. Simple words have two
    syllables or less. They're easier to scan than long, complex words.
   </p>
-  <h4>See how this rule applies in French:</h4>
+  <h4>See how rule 2.3 applies in French:</h4>
   <ul>
    <li>
     <span lang="fr"
-     ><a href="{{ site.urlconception }}/guide-redaction/#wp2-3">2.3 Utiliser des termes familiers</a></span
+     ><a href="{{ site.urlconception }}/guide-redaction/#wp2-3">2.3 Utiliser des termes courants</a></span
     >
    </li>
   </ul>
@@ -774,12 +774,12 @@ title: "Canada.ca Content Style Guide"
     <strong>Write</strong>: standards for post-mortem evaluation of food animal carcasses<br />
     <strong>Instead of</strong>: Food Animal Carcass Post-mortem Evaluation Standards
    </p>
-   <h4>See how this rule applies in French:</h4>
+   <h4>See how rule 2.4 applies in French:</h4>
    <ul>
     <li>
      <span lang="fr"
       ><a href="{{ site.urlconception }}/guide-redaction/#wp2-4"
-       >2.4 Rédigez avec la voix active, directe, et affirmative</a
+       >2.4 Rédiger avec la voix active, directe, et affirmative</a
       ></span
      >
     </li>
@@ -865,7 +865,7 @@ title: "Canada.ca Content Style Guide"
    </ul>
    <p>You can also use hashtag research tools to help identify trending keywords.</p>
    <p>Refer to your analytics to find out which search terms your audience uses to find related content.</p>
-   <h4>See how this rule applies in French:</h4>
+   <h4>See how rule 2.5 applies in French:</h4>
    <ul>
     <li>
      <span lang="fr"
@@ -930,11 +930,11 @@ title: "Canada.ca Content Style Guide"
     <strong>Write</strong>: You have until April 30 to file your tax return.<br />
     <strong>Instead of</strong>: The period of time that you have to file your tax return ends on April 30.
    </p>
-   <h4>See how this rule applies in French:</h4>
+   <h4>See how rule 2.6 applies in French:</h4>
    <ul>
     <li>
      <span lang="fr"
-      ><a href="{{ site.urlconception }}/guide-redaction/#wp2-5"
+      ><a href="{{ site.urlconception }}/guide-redaction/#wp2-6"
        >2.6 Utiliser des phrases et paragraphes simples et concis</a
       ></span
      >
@@ -943,7 +943,7 @@ title: "Canada.ca Content Style Guide"
    <div class="mrgn-tp-lg">
     <div
      class="wb-share btn btn-default"
-     data-wb-share='{"custType": " use short sentences and paragraphs", "title": "2.6 Use short sentences and paragraphs", "url": "https://design.canada.ca/style-guide/#wp2-6", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-5"}'
+     data-wb-share='{"custType": " use short sentences and paragraphs", "title": "2.6 Use short sentences and paragraphs", "url": "https://design.canada.ca/style-guide/#wp2-6", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-6"}'
     ></div>
    </div>
   </section>
@@ -980,7 +980,7 @@ title: "Canada.ca Content Style Guide"
    <ul>
     <li><a href="#wp4-4">Section 4.4 abbreviations and acronyms</a></li>
    </ul>
-   <h4>See how this rule applies in French:</h4>
+   <h4>See how rule 2.7 applies in French:</h4>
    <ul>
     <li>
      <span lang="fr"
@@ -1130,7 +1130,7 @@ title: "Canada.ca Content Style Guide"
    <div class="mrgn-tp-lg">
     <div
      class="wb-share btn btn-default"
-     data-wb-share='{"custType": " additional resources on plain language and clear communication", "title": "2.8 2.8 Additional resources on plain language and clear communication", "url": "https://design.canada.ca/style-guide/#wp2-8", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-8"}'
+     data-wb-share='{"custType": " additional resources on plain language and clear communication", "title": "2.8 Additional resources on plain language and clear communication", "url": "https://design.canada.ca/style-guide/#wp2-8", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-8"}'
     ></div>
    </div>
   </section>
@@ -1215,7 +1215,7 @@ title: "Canada.ca Content Style Guide"
     <h5>Exception</h5>
     <p>You may use "my" in content, page titles and links for proper names (such as My Service Canada Account).</p>
    </section>
-   <h4>See how this rule applies in French:</h4>
+   <h4>See how rule 3.1 applies in French:</h4>
    <ul>
     <li>
      <span lang="fr"
@@ -1269,16 +1269,12 @@ title: "Canada.ca Content Style Guide"
    <p>
     <span id="exmp1"
      ><strong>Write</strong>:
-     <a href="#exmp1" aria-label="Example of an effective hyperlink reference. The full text simulates the hyperlink."
-      >Determine whether you're eligible</a
+     <a href="#exmp1">Determine whether you're eligible</a
      >. <br />
     </span>
     <span id="exmp2"
      ><strong>Instead of</strong>: Get
-     <a
-      href="#exmp2"
-      aria-label='Example of an ineffective hyperlink reference. The text "more information about eligibility on the Canada.ca website" simulates the hyperlink'
-      >more information about eligibility on the Canada.ca website</a
+     <a href="#exmp2">more information about eligibility on the Canada.ca website</a
      >.</span
     >
    </p>
@@ -1299,7 +1295,7 @@ title: "Canada.ca Content Style Guide"
      Western Hemisphere Travel Initiative, and the requirements for entering or returning to the U.S.
     </p>
    </section>
-   <h4>See how this rule applies in French:</h4>
+   <h4>See how rule 3.2 applies in French:</h4>
    <ul>
     <li>
      <span lang="fr"
@@ -1344,7 +1340,7 @@ title: "Canada.ca Content Style Guide"
      <li>don't use "can" or "could" (expresses ability)</li>
     </ul>
    </section>
-   <h4>See how this rule applies in French:</h4>
+   <h4>See how rule 3.3 applies in French:</h4>
    <ul>
     <li>
      <span lang="fr"
@@ -1377,7 +1373,7 @@ title: "Canada.ca Content Style Guide"
           <li><a href="#wp4-1-2">Lists</a></li>
           <li><a href="#wp4-1-3">Links</a></li>
           <li><a href="#wp4-1-4">Commas</a></li>
-          <li><a href="#wp4-1-5">Hyphen and dashes</a></li>
+          <li><a href="#wp4-1-5">Hyphens and dashes</a></li>
          </ul>
         </li>
         <li><a href="#wp4-2">4.2 Underlining, bold and italics</a></li>
@@ -1421,7 +1417,7 @@ title: "Canada.ca Content Style Guide"
     </p>
     <h5>All caps</h5>
     <p>Don't capitalize all the letters in a word.</p>
-    <p><strong>Exceptions</strong></p>
+    <h6>Exceptions</h6>
     <ul>
      <li>Abbreviations (although avoid them unless they're necessary)</li>
      <li>Military exercise or operation names (for example, Operation PROVISION)</li>
@@ -1504,10 +1500,10 @@ title: "Canada.ca Content Style Guide"
      <h5>Example of punctuation in independent list items</h5>
      <p><strong>Most requested</strong></p>
      <ul>
-      <li><a href="#" onclick="return false" aria-label="Example link for demonstration purposes only">Financing your new business</a></li>
-      <li><a href="#" onclick="return false" aria-label="Example link for demonstration purposes only">Financing for innovation</a></li>
-      <li><a href="#" onclick="return false" aria-label="Example link for demonstration purposes only">Find a loan for your small business</a></li>
-      <li><a href="#" onclick="return false" aria-label="Example link for demonstration purposes only">Canada job grants for employers</a></li>
+      <li id="exmp-lst-1"><a href="#exmp-lst-1">Financing your new business</a></li>
+      <li id="exmp-lst-2"><a href="#exmp-lst-2">Financing for innovation</a></li>
+      <li id="exmp-lst-3"><a href="#exmp-lst-3">Find a loan for your small business</a></li>
+      <li id="exmp-lst-4"><a href="#exmp-lst-4">Canada job grants for employers</a></li>
      </ul>
      <p class="mrgn-tp-lg">
       When the meaning of list items depends on a lead-in phrase, don't capitalize the first letter of each unless it's
@@ -1534,7 +1530,7 @@ title: "Canada.ca Content Style Guide"
      </ul>
     </section>
     <section id="wp4-1-5">
-     <h4>Hyphen and dashes</h4>
+     <h4>Hyphens and dashes</h4>
      <p>Hyphens and dashes have different uses. They aren't interchangeable. Avoid using dashes. Instead:</p>
      <ul>
       <li>use a hyphen (-) to join words together</li>
@@ -1552,7 +1548,7 @@ title: "Canada.ca Content Style Guide"
       <li>simplify your sentence instead of using <b>em</b> dashes</li>
      </ul>
     </section>
-    <h4>See how this rule applies in French:</h4>
+    <h4>See how rule 4.1 applies in French:</h4>
     <ul>
      <li>
       <span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-1">4.1 Majuscules et ponctuation</a></span>
@@ -1621,7 +1617,7 @@ title: "Canada.ca Content Style Guide"
      >
     </li>
    </ul>
-   <h4>See how this rule applies in French:</h4>
+   <h4>See how rule 4.2 applies in French:</h4>
    <ul>
     <li>
      <span lang="fr"
@@ -1663,7 +1659,7 @@ title: "Canada.ca Content Style Guide"
    <ul>
     <li>$100 per month</li>
    </ul>
-   <h4>See how this rule applies in French:</h4>
+   <h4>See how rule 4.3 applies in French:</h4>
    <ul>
     <li>
      <span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-3">4.3 Symboles</a></span>
@@ -1763,7 +1759,7 @@ title: "Canada.ca Content Style Guide"
      </li>
     </ul>
    </section>
-   <h4>See how this rule applies in French:</h4>
+   <h4>See how rule 4.4 applies in French:</h4>
    <ul>
     <li>
      <span lang="fr"
@@ -1811,7 +1807,7 @@ title: "Canada.ca Content Style Guide"
    </ul>
    <h4>Negative contractions: exceptions</h4>
    <p>
-    Don't<strong> </strong>use contractions when there is a <strong>critical</strong> difference between two things, for
+    Don't use contractions when there is a <strong>critical</strong> difference between two things, for
     example, between doing and not doing something.
    </p>
    <h5>Example of statements showing differences that are critical and not critical</h5>
@@ -1819,7 +1815,7 @@ title: "Canada.ca Content Style Guide"
     <strong>Critical</strong>: Do <strong>not</strong> drive while taking this medicine.<br />
     <strong>Not critical</strong>: Most people<strong> don't</strong> have reactions to the flu vaccine.
    </p>
-   <h4>See how this rule applies in French:</h4>
+   <h4>See how rule 4.5 applies in French:</h4>
    <ul>
     <li>
      <span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-5">4.5 Forme contractée</a></span>
@@ -1918,7 +1914,7 @@ title: "Canada.ca Content Style Guide"
      >Writing Tips Plus guidance on numerical expressions</a
     >.
    </p>
-   <h4>See how this rule applies in French:</h4>
+   <h4>See how rule 4.6 applies in French:</h4>
    <ul>
     <li>
      <span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-6">4.6 Nombres</a></span>
@@ -1965,7 +1961,7 @@ title: "Canada.ca Content Style Guide"
    <ul>
     <li>This report covers the 2015 to 2016 fiscal year. A fiscal year runs from April 1 to March 31.</li>
    </ul>
-   <h4>See how this rule applies in French:</h4>
+   <h4>See how rule 4.7 applies in French:</h4>
    <ul>
     <li>
      <span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-7">4.7 Dates</a></span>
@@ -1984,7 +1980,7 @@ title: "Canada.ca Content Style Guide"
     <li>4:30&nbsp;pm</li>
     <li>9&nbsp;am to 5&nbsp;pm</li>
    </ul>
-   <h4>See how this rule applies in French:</h4>
+   <h4>See how rule 4.8 applies in French:</h4>
    <ul>
     <li>
      <span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-8">4.8 Heures</a></span>
@@ -2004,7 +2000,7 @@ title: "Canada.ca Content Style Guide"
     <li>if you need help, call 1-800-622-6232</li>
     <li>613-999-9900 ext.&nbsp;123</li>
    </ul>
-   <h4>See how this rule applies in French:</h4>
+   <h4>See how rule 4.9 applies in French:</h4>
    <ul>
     <li>
      <span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-9">4.9 Numéros de téléphone</a></span>
@@ -2059,7 +2055,7 @@ title: "Canada.ca Content Style Guide"
     </ul>
     <p><strong>Instead of</strong>: <a href="mailto:abcxyz@canada.ca">Email us</a> to submit a request.</p>
    </section>
-   <h4>See how this rule applies in French:</h4>
+   <h4>See how rule 4.10 applies in French:</h4>
    <ul>
     <li>
      <span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp4-10">4.10 Adresses</a></span>
@@ -2085,7 +2081,7 @@ title: "Canada.ca Content Style Guide"
     <li>email (not "e-mail")</li>
     <li>online (not "on line")</li>
    </ul>
-   <h4>See how this rule applies in French:</h4>
+   <h4>See how rule 4.11 applies in French:</h4>
    <p>This rule doesn't apply to content in French.</p>
    <div class="mrgn-tp-lg">
     <div
@@ -2304,7 +2300,7 @@ title: "Canada.ca Content Style Guide"
       Refer to the <a href="#toc6">section on plain language</a> for tips on using simple and common words as keywords.
      </p>
     </section>
-    <h4>See how this rule applies in French:</h4>
+    <h4>See how rule 5.1 applies in French:</h4>
     <ul>
      <li>
       <span lang="fr"
@@ -2423,7 +2419,7 @@ title: "Canada.ca Content Style Guide"
       provide the same intuitive experience.
      </p>
     </section>
-    <h4>See how this rule applies in French:</h4>
+    <h4>See how rule 5.2 applies in French:</h4>
     <ul>
      <li>
       <span lang="fr"
@@ -2510,7 +2506,7 @@ title: "Canada.ca Content Style Guide"
       <caption>
        <strong
         >Disclosure of contracts over $10,000 from January to March 2010<sup id="table2b-fn1-rf"
-         ><a class="fn-lnk" href="#table2b-fn1"><span class="wb-inv">table 2 note </span>*</a></sup
+         ><a class="fn-lnk" href="#table2b-fn1"><span class="wb-inv">contracts table note </span>*</a></sup
         ></strong
        >
       </caption>
@@ -2524,31 +2520,29 @@ title: "Canada.ca Content Style Guide"
       </thead>
       <tbody>
        <tr>
-        <td>
-         <strong
-          >2010-02-01<sup id="table2b-fn2-rf"
-           ><a class="fn-lnk" href="#table2b-fn2"><span class="wb-inv">table 2 note </span>**</a></sup
-          ></strong
+        <th scope="row">
+         2010-02-01<sup id="table2b-fn2-rf"
+          ><a class="fn-lnk" href="#table2b-fn2"><span class="wb-inv">contracts table note </span>**</a></sup
          >
-        </td>
+        </th>
         <td>ABC Business Solutions</td>
         <td>Rental of machinery office furniture and fixtures</td>
         <td class="text-right">$227,703.22</td>
        </tr>
        <tr>
-        <td><strong>2010-02-20</strong></td>
+        <th scope="row">2010-02-20</th>
         <td>IT Consultants R Us</td>
         <td>Other professional services not elsewhere specified</td>
         <td class="text-right">$227,956.64</td>
        </tr>
        <tr>
-        <td><strong>2010-02-23</strong></td>
+        <th scope="row">2010-02-23</th>
         <td>Management Consulting Group Limited</td>
         <td>Management consulting</td>
         <td class="text-right">$285,575.89</td>
        </tr>
        <tr>
-        <td><strong>2010-03-01</strong></td>
+        <th scope="row">2010-03-01</th>
         <td>XYZ Consultants</td>
         <td>Other professional services not elsewhere specified</td>
         <td class="text-right">$56,294.42</td>
@@ -2558,23 +2552,23 @@ title: "Canada.ca Content Style Guide"
        <tr>
         <td colspan="4">
          <section class="wb-fnote">
-          <h5 class="wb-inv" id="table2b-fn">Table 2 Notes</h5>
+          <h5 class="wb-inv" id="table2b-fn">Contracts table notes</h5>
           <dl>
-           <dt>Table 2 Note *</dt>
+           <dt>Contracts table note *</dt>
            <dd id="table2b-fn1">
             <p>Fourth quarter of the April 1, 2009, to March 31, 2010, fiscal year.</p>
             <p class="fn-rtn">
              <a href="#table2b-fn1-rf"
-              ><span class="wb-inv">Return to table 2 note </span>*<span class="wb-inv"> referrer</span></a
+              ><span class="wb-inv">Return to contracts table note </span>*<span class="wb-inv"> referrer</span></a
              >
             </p>
            </dd>
-           <dt>Table 2 Note **</dt>
+           <dt>Contracts table note **</dt>
            <dd id="table2b-fn2">
             <p>Dates in this table represent the year, month and day (yyyy-mm-dd).</p>
             <p class="fn-rtn">
              <a href="#table2b-fn2-rf"
-              ><span class="wb-inv">Return to table 2 note </span>**<span class="wb-inv"> referrer</span></a
+              ><span class="wb-inv">Return to contracts table note </span>**<span class="wb-inv"> referrer</span></a
              >
             </p>
            </dd>
@@ -2609,6 +2603,8 @@ title: "Canada.ca Content Style Guide"
       <caption>
        <strong>National Hockey League Stanley Cup Canadian winning teams</strong>
       </caption>
+      <colgroup span="6"></colgroup>
+      <colgroup span="4"></colgroup>
       <thead>
        <tr class="active">
         <th colspan="6" scope="colgroup"><strong>Eastern Conference</strong></th>
@@ -2786,7 +2782,7 @@ title: "Canada.ca Content Style Guide"
       <li>"n/a" (not applicable)</li>
      </ul>
     </section>
-    <h4>See how this rule applies in French:</h4>
+    <h4>See how rule 5.3 applies in French:</h4>
     <ul>
      <li>
       <span lang="fr"
@@ -2899,6 +2895,7 @@ title: "Canada.ca Content Style Guide"
      <details>
       <summary>Figure 4 - Text version</summary>
       <table class="table table-bordered table-condensed">
+       <caption>Map of Canada: current conditions</caption>
        <thead>
         <tr class="active">
          <th scope="col"><strong>City</strong></th>
@@ -2908,102 +2905,102 @@ title: "Canada.ca Content Style Guide"
        </thead>
        <tbody>
         <tr>
-         <td>Calgary</td>
+         <th scope="row">Calgary</th>
          <td>Mainly sunny</td>
          <td class="text-right">0°C</td>
         </tr>
         <tr>
-         <td>Charlottetown</td>
+         <th scope="row">Charlottetown</th>
          <td>Drifting snow</td>
          <td class="text-right">-11°C</td>
         </tr>
         <tr>
-         <td>Edmonton</td>
+         <th scope="row">Edmonton</th>
          <td>(no data)</td>
          <td class="text-right">0°C</td>
         </tr>
         <tr>
-         <td>Fredericton</td>
+         <th scope="row">Fredericton</th>
          <td>Sunny</td>
          <td class="text-right">-12°C</td>
         </tr>
         <tr>
-         <td>Halifax</td>
+         <th scope="row">Halifax</th>
          <td>Mainly sunny</td>
          <td class="text-right">-7°C</td>
         </tr>
         <tr>
-         <td>Iqaluit</td>
+         <th scope="row">Iqaluit</th>
          <td>Drifting snow</td>
          <td class="text-right">-22°C</td>
         </tr>
         <tr>
-         <td>Montréal</td>
+         <th scope="row">Montréal</th>
          <td>Sunny</td>
          <td class="text-right">-16°C</td>
         </tr>
         <tr>
-         <td>Ottawa (Kanata - Orléans)</td>
+         <th scope="row">Ottawa (Kanata - Orléans)</th>
          <td>Mainly sunny</td>
          <td class="text-right">-15°C</td>
         </tr>
         <tr>
-         <td>Prince George</td>
+         <th scope="row">Prince George</th>
          <td>Partly cloudy</td>
          <td class="text-right">2°C</td>
         </tr>
         <tr>
-         <td>Québec</td>
+         <th scope="row">Québec</th>
          <td>Partly cloudy</td>
          <td class="text-right">-19°C</td>
         </tr>
         <tr>
-         <td>Regina</td>
+         <th scope="row">Regina</th>
          <td>Cloudy</td>
          <td class="text-right">-4°C</td>
         </tr>
         <tr>
-         <td>Saskatoon</td>
+         <th scope="row">Saskatoon</th>
          <td>Mist</td>
          <td class="text-right">-8°C</td>
         </tr>
         <tr>
-         <td>St. John's</td>
+         <th scope="row">St. John's</th>
          <td>Mist</td>
          <td class="text-right">2°C</td>
         </tr>
         <tr>
-         <td>Thunder Bay</td>
+         <th scope="row">Thunder Bay</th>
          <td>Partly cloudy</td>
          <td class="text-right">-14°C</td>
         </tr>
         <tr>
-         <td>Toronto</td>
+         <th scope="row">Toronto</th>
          <td>Light snow</td>
          <td class="text-right">-6°C</td>
         </tr>
         <tr>
-         <td>Vancouver</td>
+         <th scope="row">Vancouver</th>
          <td>Mostly cloudy</td>
          <td class="text-right">9°C</td>
         </tr>
         <tr>
-         <td>Victoria</td>
+         <th scope="row">Victoria</th>
          <td>Light rain</td>
          <td class="text-right">8°C</td>
         </tr>
         <tr>
-         <td>Whitehorse</td>
+         <th scope="row">Whitehorse</th>
          <td>Partly cloudy</td>
          <td class="text-right">-19°C</td>
         </tr>
         <tr>
-         <td>Winnipeg</td>
+         <th scope="row">Winnipeg</th>
          <td>Sunny</td>
          <td class="text-right">-18°C</td>
         </tr>
         <tr>
-         <td>Yellowknife</td>
+         <th scope="row">Yellowknife</th>
          <td>Mainly sunny</td>
          <td class="text-right">-28°C</td>
         </tr>
@@ -3024,7 +3021,7 @@ title: "Canada.ca Content Style Guide"
        The chart asks you yes or no questions. If you answer "no," it gives you recommendations of other accessibility
        projects.
       </p>
-      <section>
+      <div>
        <p><strong>Question 1:</strong> Is the entrance to your building barrier-free?</p>
        <ul>
         <li>If your answer is “Yes,” go to question 2</li>
@@ -3038,8 +3035,8 @@ title: "Canada.ca Content Style Guide"
          </ul>
         </li>
        </ul>
-      </section>
-      <section>
+      </div>
+      <div>
        <p>
         <strong>Question 2:</strong> Are the hallways wide enough for persons with assistive devices, such as electric
         wheelchairs, to get through?
@@ -3056,8 +3053,8 @@ title: "Canada.ca Content Style Guide"
          </ul>
         </li>
        </ul>
-      </section>
-      <section>
+      </div>
+      <div>
        <p>
         <strong>Question 3:</strong> Are persons with disabilities able to access all necessary floors, levels and
         sections of your building?
@@ -3074,8 +3071,8 @@ title: "Canada.ca Content Style Guide"
          </ul>
         </li>
        </ul>
-      </section>
-      <section>
+      </div>
+      <div>
        <p><strong>Question 4:</strong> Can persons with reduced mobility use the washroom in your building?</p>
        <ul>
         <li>If your answer is “Yes,” go to question 5</li>
@@ -3086,8 +3083,8 @@ title: "Canada.ca Content Style Guide"
          </ul>
         </li>
        </ul>
-      </section>
-      <section>
+      </div>
+      <div>
        <p>
         <strong>Question 5:</strong> Are there automatic door openers to the washrooms? Is the washroom entrance wide
         enough to accommodate assistive devices?
@@ -3112,7 +3109,7 @@ title: "Canada.ca Content Style Guide"
          </ul>
         </li>
        </ul>
-      </section>
+      </div>
      </details>
     </figure>
    </section>
@@ -3131,13 +3128,13 @@ title: "Canada.ca Content Style Guide"
      <a href="{{ site.url }}/specifications.html">Canada.ca Specifications</a>.
     </p>
     <h5>Example of a decorative image</h5>
-    <p>
-     <img
-      alt="Decorative image in context to create visual interest"
-      class="img-responsive"
-      src="/style-guide/images/shopping-cart-02.png"
-     />
-    </p>
+    <figure class="mrgn-bttm-lg">
+     <img alt="" class="img-responsive" src="/style-guide/images/shopping-cart-02.png" />
+     <figcaption>
+      A "Healthy food" feature with a photo of fruit, vegetables and nuts. The photo is decorative: it adds visual
+      interest but no information.
+     </figcaption>
+    </figure>
     <h5>Don’t describe decorative images</h5>
     <p>
      Decorative images don’t require a description. Their only purpose is to add visual appeal to content, not to add
@@ -3165,7 +3162,7 @@ title: "Canada.ca Content Style Guide"
      </li>
     </ul>
    </section>
-   <h4>See how this rule applies in French:</h4>
+   <h4>See how rule 6.1 applies in French:</h4>
    <ul>
     <li>
      <span lang="fr"
@@ -3206,7 +3203,7 @@ title: "Canada.ca Content Style Guide"
     <a href="#wp6-1-2">Decorative images</a> don't require additional information to make them accessible or visible to
     search engines. Use the null indicator as the alternative text (alt="").
    </p>
-   <h4>See how this rule applies in French:</h4>
+   <h4>See how rule 6.2 applies in French:</h4>
    <ul>
     <li>
      <span lang="fr"
@@ -3331,7 +3328,7 @@ title: "Canada.ca Content Style Guide"
      </thead>
      <tbody>
       <tr>
-       <td>Men</td>
+       <th scope="row">Men</th>
        <td class="text-right nowrap">58.2</td>
        <td class="text-right nowrap">55.7</td>
        <td class="text-right nowrap">52.9</td>
@@ -3341,7 +3338,7 @@ title: "Canada.ca Content Style Guide"
        <td class="text-right nowrap">44.8</td>
       </tr>
       <tr>
-       <td>Women</td>
+       <th scope="row">Women</th>
        <td class="text-right nowrap">41.8</td>
        <td class="text-right nowrap">44.3</td>
        <td class="text-right nowrap">47.1</td>
@@ -3369,7 +3366,7 @@ title: "Canada.ca Content Style Guide"
     meets the
     <a href="{{ site.url }}/specifications.html">Canada.ca Specifications</a>.
    </p>
-   <h4>See how this rule applies in French:</h4>
+   <h4>See how rule 6.3 applies in French:</h4>
    <ul>
     <li>
      <span lang="fr"
@@ -3404,7 +3401,7 @@ title: "Canada.ca Content Style Guide"
     <li>important sounds (such as an explosion)</li>
     <li>important action (for example, people running away from an explosion or characters wearing disguises)</li>
    </ul>
-   <h4>See how this rule applies in French:</h4>
+   <h4>See how rule 6.4 applies in French:</h4>
    <ul>
     <li>
      <span lang="fr"
@@ -3474,7 +3471,7 @@ title: "Canada.ca Content Style Guide"
      </li>
     </ul>
     <h4>Example of appropriate use of links</h4>
-    <h6>Write:</h6>
+    <h5>Write:</h5>
     <p>
      A Food Guide serving is&nbsp;how much&nbsp;food you should eat from each of the four food groups every day. In some
      cases, a serving is the amount of a given food group that you normally eat in one sitting, like an apple. In other
@@ -3485,7 +3482,7 @@ title: "Canada.ca Content Style Guide"
       >Number of daily food servings for children, teens and adults</a
      >
     </p>
-    <h6>Instead of:</h6>
+    <h5>Instead of:</h5>
     <p>
      A Food Guide Serving is simply a reference amount. It helps you understand&nbsp;<a
       href="https://food-guide.canada.ca/en/"
@@ -3507,7 +3504,7 @@ title: "Canada.ca Content Style Guide"
      reading important information or can discourage them from completing a task.
     </p>
    </section>
-   <h4>See how this rule applies in French:</h4>
+   <h4>See how rule 7.1 applies in French:</h4>
    <ul>
     <li>
      <span lang="fr"
@@ -3541,7 +3538,7 @@ title: "Canada.ca Content Style Guide"
     <li>Describe any content that must be downloaded</li>
     <li>
      Write email addresses in full, in lower case and as active links (contact
-     <a href="#wp7-2" aria-label="Example of an appropriate email address">helpdesk@canada.ca</a>)
+     <span id="exmp-eml"><a href="#exmp-eml">helpdesk@canada.ca</a></span>)
     </li>
    </ul>
    <p>Don't use:</p>
@@ -3561,7 +3558,7 @@ title: "Canada.ca Content Style Guide"
     </p>
     <p>Don't repeat the name of a form or document in the steps to accomplish a task if the name isn't descriptive.</p>
     <h4>Example of the use of links that focus on the task</h4>
-    <h6>Write:</h6>
+    <h5>Write:</h5>
     <p>To get the highest Employment Insurance amount available to you:</p>
     <ol>
      <li>
@@ -3584,7 +3581,7 @@ title: "Canada.ca Content Style Guide"
       >
      </li>
     </ol>
-    <h6>Instead of:</h6>
+    <h5>Instead of:</h5>
     <p>
      To ensure that you are paid the maximum Employment Insurance (EI) benefit rate that you are entitled to, complete
      the
@@ -3627,9 +3624,9 @@ title: "Canada.ca Content Style Guide"
      </ul>
      <p>On an English page, write:</p>
      <ul>
-      <li><a href="#">Link text (French only)</a></li>
-      <li><a href="#">Link text (Inuktitut only)</a></li>
-      <li><a href="#">Link text (Spanish and Portuguese only)</a></li>
+      <li id="exmp-lng-1"><a href="#exmp-lng-1">Link text (French only)</a></li>
+      <li id="exmp-lng-2"><a href="#exmp-lng-2">Link text (Inuktitut only)</a></li>
+      <li id="exmp-lng-3"><a href="#exmp-lng-3">Link text (Spanish and Portuguese only)</a></li>
      </ul>
      <p>
       <strong>Example</strong>: To renew your French passport while abroad in Canada, follow the steps described in
@@ -3658,7 +3655,7 @@ title: "Canada.ca Content Style Guide"
       </li>
      </ul>
    </section>
-   <h4>See how this rule applies in French:</h4>
+   <h4>See how rule 7.2 applies in French:</h4>
    <ul>
     <li>
      <span lang="fr"
@@ -3692,7 +3689,7 @@ title: "Canada.ca Content Style Guide"
     </li>
     <li>verify that links point to the appropriate official language</li>
    </ul>
-   <h4>See how this rule applies in French:</h4>
+   <h4>See how rule 7.3 applies in French:</h4>
    <ul>
     <li>
      <span lang="fr"
@@ -3717,7 +3714,7 @@ title: "Canada.ca Content Style Guide"
     When a link leads to content available only on internal government networks, write "(accessible only on the
     Government of Canada network)."
    </p>
-   <h4>See how this rule applies in French:</h4>
+   <h4>See how rule 7.4 applies in French:</h4>
    <ul>
     <li>
      <span lang="fr"
@@ -3762,314 +3759,245 @@ title: "Canada.ca Content Style Guide"
    </ul>
    <h3>Case study B: improve and simplify tables</h3>
    <h4>Before</h4>
-   <table class="table table-bordered table-condensed">
+   <table class="table table-bordered table-condensed sg-tbl-grouped">
     <caption>
      <strong>Table: supporting families and communities (in $ millions), Budget 2013</strong>
     </caption>
     <thead>
      <tr class="active">
-      <th scope="col">Supporting Families and Communities (in $ millions)</th>
-      <th class="text-right" scope="col">2013 to 2014</th>
-      <th class="text-right" scope="col">2014 to 2015</th>
-      <th class="text-right" scope="col">Total</th>
+      <th id="sfc-b-c1">Supporting Families and Communities (in $ millions)</th>
+      <th class="text-right" id="sfc-b-c2">2013 to 2014</th>
+      <th class="text-right" id="sfc-b-c3">2014 to 2015</th>
+      <th class="text-right" id="sfc-b-c4">Total</th>
      </tr>
     </thead>
     <tbody>
      <tr>
-      <th scope="row"><strong>Support for Families</strong></th>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <th id="sfc-b-g1" colspan="4"><strong>Support for Families</strong></th>
      </tr>
      <tr>
-      <th scope="row">
-       <span class="mrgn-lft-md">Expanding Tax Relief for Home Care Services</span>
-      </th>
-      <td class="text-right">5</td>
-      <td class="text-right">5</td>
-      <td class="text-right">10</td>
+      <th id="sfc-b-g1-r1" headers="sfc-b-c1 sfc-b-g1"><span class="mrgn-lft-md">Expanding Tax Relief for Home Care Services</span></th>
+      <td class="text-right" headers="sfc-b-c2 sfc-b-g1 sfc-b-g1-r1">5</td>
+      <td class="text-right" headers="sfc-b-c3 sfc-b-g1 sfc-b-g1-r1">5</td>
+      <td class="text-right" headers="sfc-b-c4 sfc-b-g1 sfc-b-g1-r1">10</td>
      </tr>
      <tr>
-      <th scope="row"><span class="mrgn-lft-md">Palliative and End-of-Life Care</span></th>
-      <td class="text-right">1</td>
-      <td class="text-right">1</td>
-      <td class="text-right">2</td>
+      <th id="sfc-b-g1-r2" headers="sfc-b-c1 sfc-b-g1"><span class="mrgn-lft-md">Palliative and End-of-Life Care</span></th>
+      <td class="text-right" headers="sfc-b-c2 sfc-b-g1 sfc-b-g1-r2">1</td>
+      <td class="text-right" headers="sfc-b-c3 sfc-b-g1 sfc-b-g1-r2">1</td>
+      <td class="text-right" headers="sfc-b-c4 sfc-b-g1 sfc-b-g1-r2">2</td>
      </tr>
      <tr>
-      <th scope="row"><span class="mrgn-lft-md">Tariff Relief for Canadians Consumers</span></th>
-      <td class="text-right">76</td>
-      <td class="text-right">76</td>
-      <td class="text-right">152</td>
+      <th id="sfc-b-g1-r3" headers="sfc-b-c1 sfc-b-g1"><span class="mrgn-lft-md">Tariff Relief for Canadians Consumers</span></th>
+      <td class="text-right" headers="sfc-b-c2 sfc-b-g1 sfc-b-g1-r3">76</td>
+      <td class="text-right" headers="sfc-b-c3 sfc-b-g1 sfc-b-g1-r3">76</td>
+      <td class="text-right" headers="sfc-b-c4 sfc-b-g1 sfc-b-g1-r3">152</td>
      </tr>
      <tr>
-      <th scope="row">Subtotal—Support for Families</th>
-      <td class="text-right">82</td>
-      <td class="text-right">82</td>
-      <td class="text-right">164</td>
+      <th id="sfc-b-g1-sub" headers="sfc-b-c1 sfc-b-g1">Subtotal—Support for Families</th>
+      <td class="text-right" headers="sfc-b-c2 sfc-b-g1 sfc-b-g1-sub">82</td>
+      <td class="text-right" headers="sfc-b-c3 sfc-b-g1 sfc-b-g1-sub">82</td>
+      <td class="text-right" headers="sfc-b-c4 sfc-b-g1 sfc-b-g1-sub">164</td>
+     </tr>
+    </tbody>
+    <tbody>
+     <tr>
+      <th id="sfc-b-g2" colspan="4"><strong>Investing in Communities</strong></th>
      </tr>
      <tr>
-      <th scope="row">&nbsp;</th>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <th id="sfc-b-g2-s1" headers="sfc-b-g2" colspan="4"><span class="mrgn-lft-md"><strong>Housing for Canadians in Need</strong></span></th>
      </tr>
      <tr>
-      <th scope="row"><strong>Investing in Communities</strong></th>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <th id="sfc-b-g2-s1-r1" headers="sfc-b-c1 sfc-b-g2 sfc-b-g2-s1"><span class="mrgn-lft-xl">Homelessness Partnering Strategy</span></th>
+      <td class="text-right" headers="sfc-b-c2 sfc-b-g2 sfc-b-g2-s1 sfc-b-g2-s1-r1">&nbsp;</td>
+      <td class="text-right" headers="sfc-b-c3 sfc-b-g2 sfc-b-g2-s1 sfc-b-g2-s1-r1">119</td>
+      <td class="text-right" headers="sfc-b-c4 sfc-b-g2 sfc-b-g2-s1 sfc-b-g2-s1-r1">119</td>
      </tr>
      <tr>
-      <th scope="row"><span class="mrgn-lft-md">Housing for Canadians in Need</span></th>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <th id="sfc-b-g2-s1-r2" headers="sfc-b-c1 sfc-b-g2 sfc-b-g2-s1"><span class="mrgn-lft-xl">Investment in Affordable Housing</span></th>
+      <td class="text-right" headers="sfc-b-c2 sfc-b-g2 sfc-b-g2-s1 sfc-b-g2-s1-r2">&nbsp;</td>
+      <td class="text-right" headers="sfc-b-c3 sfc-b-g2 sfc-b-g2-s1 sfc-b-g2-s1-r2">253</td>
+      <td class="text-right" headers="sfc-b-c4 sfc-b-g2 sfc-b-g2-s1 sfc-b-g2-s1-r2">253</td>
      </tr>
      <tr>
-      <th scope="row"><span class="mrgn-lft-md">Homelessness Partnering Strategy</span></th>
-      <td class="text-right">&nbsp;</td>
-      <td class="text-right">119</td>
-      <td class="text-right">119</td>
+      <th id="sfc-b-g2-s1-r3" headers="sfc-b-c1 sfc-b-g2 sfc-b-g2-s1"><span class="mrgn-lft-xl">Investment in Nunavut Housing</span></th>
+      <td class="text-right" headers="sfc-b-c2 sfc-b-g2 sfc-b-g2-s1 sfc-b-g2-s1-r3">30</td>
+      <td class="text-right" headers="sfc-b-c3 sfc-b-g2 sfc-b-g2-s1 sfc-b-g2-s1-r3">70</td>
+      <td class="text-right" headers="sfc-b-c4 sfc-b-g2 sfc-b-g2-s1 sfc-b-g2-s1-r3">100</td>
      </tr>
      <tr>
-      <th scope="row"><span class="mrgn-lft-md">Investment in Affordable Housing</span></th>
-      <td class="text-right">&nbsp;</td>
-      <td class="text-right">253</td>
-      <td class="text-right">253</td>
+      <th id="sfc-b-g2-s2" headers="sfc-b-g2" colspan="4"><span class="mrgn-lft-md"><strong>Supporting and Honouring Veterans</strong></span></th>
      </tr>
      <tr>
-      <th scope="row"><span class="mrgn-lft-md">Investment in Nunavut Housing</span></th>
-      <td class="text-right">30</td>
-      <td class="text-right">70</td>
-      <td class="text-right">100</td>
+      <th id="sfc-b-g2-s2-r1" headers="sfc-b-c1 sfc-b-g2 sfc-b-g2-s2"><span class="mrgn-lft-xl">Enhancing Veterans Affairs Canada's Funeral and Burial Program</span></th>
+      <td class="text-right" headers="sfc-b-c2 sfc-b-g2 sfc-b-g2-s2 sfc-b-g2-s2-r1">63</td>
+      <td class="text-right" headers="sfc-b-c3 sfc-b-g2 sfc-b-g2-s2 sfc-b-g2-s2-r1">2</td>
+      <td class="text-right" headers="sfc-b-c4 sfc-b-g2 sfc-b-g2-s2 sfc-b-g2-s2-r1">65</td>
      </tr>
      <tr>
-      <th scope="row"><span class="mrgn-lft-md">Supporting and Honouring Veterans</span></th>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <th id="sfc-b-g2-s2-r2" headers="sfc-b-c1 sfc-b-g2 sfc-b-g2-s2"><span class="mrgn-lft-xl">Road to 2017</span></th>
+      <td class="text-right" headers="sfc-b-c2 sfc-b-g2 sfc-b-g2-s2 sfc-b-g2-s2-r2">1</td>
+      <td class="text-right" headers="sfc-b-c3 sfc-b-g2 sfc-b-g2-s2 sfc-b-g2-s2-r2">2</td>
+      <td class="text-right" headers="sfc-b-c4 sfc-b-g2 sfc-b-g2-s2 sfc-b-g2-s2-r2">3</td>
      </tr>
      <tr>
-      <th scope="row">
-       <span class="mrgn-lft-md">Enhancing Veterans Affairs Canada's Funeral and Burial Program</span>
-      </th>
-      <td class="text-right">63</td>
-      <td class="text-right">2</td>
-      <td class="text-right">65</td>
+      <th id="sfc-b-g2-s3" headers="sfc-b-g2" colspan="4"><span class="mrgn-lft-md"><strong>Investments in Arts and Culture</strong></span></th>
      </tr>
      <tr>
-      <th scope="row"><span class="mrgn-lft-md">Road to 2017</span></th>
-      <td class="text-right">1</td>
-      <td class="text-right">2</td>
-      <td class="text-right">3</td>
+      <th id="sfc-b-g2-s3-r1" headers="sfc-b-c1 sfc-b-g2 sfc-b-g2-s3"><span class="mrgn-lft-xl">Massey Hall Revitalization</span></th>
+      <td class="text-right" headers="sfc-b-c2 sfc-b-g2 sfc-b-g2-s3 sfc-b-g2-s3-r1">8</td>
+      <td class="text-right" headers="sfc-b-c3 sfc-b-g2 sfc-b-g2-s3 sfc-b-g2-s3-r1">&nbsp;</td>
+      <td class="text-right" headers="sfc-b-c4 sfc-b-g2 sfc-b-g2-s3 sfc-b-g2-s3-r1">8</td>
      </tr>
      <tr>
-      <th scope="row"><span class="mrgn-lft-md">Investments in Arts and Culture</span></th>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <th id="sfc-b-g2-s3-r2" headers="sfc-b-c1 sfc-b-g2 sfc-b-g2-s3"><span class="mrgn-lft-xl">Expanding Library Services for the Blind and Partially Sighted</span></th>
+      <td class="text-right" headers="sfc-b-c2 sfc-b-g2 sfc-b-g2-s3 sfc-b-g2-s3-r2">3</td>
+      <td class="text-right" headers="sfc-b-c3 sfc-b-g2 sfc-b-g2-s3 sfc-b-g2-s3-r2">&nbsp;</td>
+      <td class="text-right" headers="sfc-b-c4 sfc-b-g2 sfc-b-g2-s3 sfc-b-g2-s3-r2">3</td>
      </tr>
      <tr>
-      <th scope="row"><span class="mrgn-lft-md">Massey Hall Revitalization</span></th>
-      <td class="text-right">8</td>
-      <td class="text-right">&nbsp;</td>
-      <td class="text-right">8</td>
+      <th id="sfc-b-g2-r4" headers="sfc-b-c1 sfc-b-g2"><span class="mrgn-lft-md">First-Time Donor's Super Credit</span></th>
+      <td class="text-right" headers="sfc-b-c2 sfc-b-g2 sfc-b-g2-r4">25</td>
+      <td class="text-right" headers="sfc-b-c3 sfc-b-g2 sfc-b-g2-r4">25</td>
+      <td class="text-right" headers="sfc-b-c4 sfc-b-g2 sfc-b-g2-r4">50</td>
      </tr>
      <tr>
-      <th scope="row"><span class="mrgn-lft-md">Expanding Library Services for the</span></th>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <th id="sfc-b-g2-r5" headers="sfc-b-c1 sfc-b-g2"><span class="mrgn-lft-md">Supporting the Economic Transition of Communities Economically Linked to the Chrysotile Asbestos Industry</span></th>
+      <td class="text-right" headers="sfc-b-c2 sfc-b-g2 sfc-b-g2-r5">3</td>
+      <td class="text-right" headers="sfc-b-c3 sfc-b-g2 sfc-b-g2-r5">5</td>
+      <td class="text-right" headers="sfc-b-c4 sfc-b-g2 sfc-b-g2-r5">8</td>
      </tr>
      <tr>
-      <th scope="row"><span class="mrgn-lft-md">Blind and Partially Sighted</span></th>
-      <td class="text-right">3</td>
-      <td class="text-right">&nbsp;</td>
-      <td class="text-right">3</td>
+      <th id="sfc-b-g2-sub" headers="sfc-b-c1 sfc-b-g2">Subtotal—Investing in Communities</th>
+      <td class="text-right" headers="sfc-b-c2 sfc-b-g2 sfc-b-g2-sub">133</td>
+      <td class="text-right" headers="sfc-b-c3 sfc-b-g2 sfc-b-g2-sub">476</td>
+      <td class="text-right" headers="sfc-b-c4 sfc-b-g2 sfc-b-g2-sub">609</td>
+     </tr>
+    </tbody>
+    <tbody>
+     <tr>
+      <th id="sfc-b-g3" colspan="4"><strong>Protecting Canada's Natural Environment</strong></th>
      </tr>
      <tr>
-      <th scope="row"><span class="mrgn-lft-md">First-Time Donor's Super Credit</span></th>
-      <td class="text-right">25</td>
-      <td class="text-right">25</td>
-      <td class="text-right">50</td>
+      <th id="sfc-b-g3-r1" headers="sfc-b-c1 sfc-b-g3"><span class="mrgn-lft-md">Nature Conservancy of Canada</span></th>
+      <td class="text-right" headers="sfc-b-c2 sfc-b-g3 sfc-b-g3-r1">20</td>
+      <td class="text-right" headers="sfc-b-c3 sfc-b-g3 sfc-b-g3-r1">&nbsp;</td>
+      <td class="text-right" headers="sfc-b-c4 sfc-b-g3 sfc-b-g3-r1">20</td>
      </tr>
      <tr>
-      <th scope="row">
-       <span class="mrgn-lft-md"
-        >Supporting the Economic Transition of Communities Economically Linked to the Chrysotile Asbestos Industry</span
-       >
-      </th>
-      <td class="text-right">3</td>
-      <td class="text-right">5</td>
-      <td class="text-right">8</td>
+      <th id="sfc-b-g3-r2" headers="sfc-b-c1 sfc-b-g3"><span class="mrgn-lft-md">Improving the Conservation of Fisheries Through Community Partnerships</span></th>
+      <td class="text-right" headers="sfc-b-c2 sfc-b-g3 sfc-b-g3-r2">5</td>
+      <td class="text-right" headers="sfc-b-c3 sfc-b-g3 sfc-b-g3-r2">5</td>
+      <td class="text-right" headers="sfc-b-c4 sfc-b-g3 sfc-b-g3-r2">10</td>
      </tr>
      <tr>
-      <th scope="row">Subtotal—Investing in Communities</th>
-      <td class="text-right">133</td>
-      <td class="text-right">476</td>
-      <td class="text-right">609</td>
+      <th id="sfc-b-g3-r3" headers="sfc-b-c1 sfc-b-g3"><span class="mrgn-lft-md">Salmon Conservation Stamp</span></th>
+      <td class="text-right" headers="sfc-b-c2 sfc-b-g3 sfc-b-g3-r3">1</td>
+      <td class="text-right" headers="sfc-b-c3 sfc-b-g3 sfc-b-g3-r3">1</td>
+      <td class="text-right" headers="sfc-b-c4 sfc-b-g3 sfc-b-g3-r3">2</td>
      </tr>
      <tr>
-      <th scope="row">&nbsp;</th>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <th id="sfc-b-g3-r4" headers="sfc-b-c1 sfc-b-g3"><span class="mrgn-lft-md">Enabling Responsible Marine Management</span></th>
+      <td class="text-right" headers="sfc-b-c2 sfc-b-g3 sfc-b-g3-r4">4</td>
+      <td class="text-right" headers="sfc-b-c3 sfc-b-g3 sfc-b-g3-r4">&nbsp;</td>
+      <td class="text-right" headers="sfc-b-c4 sfc-b-g3 sfc-b-g3-r4">4</td>
      </tr>
      <tr>
-      <th scope="row"><strong>Protecting Canada's Natural Environment</strong></th>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <th id="sfc-b-g3-r5" headers="sfc-b-c1 sfc-b-g3"><span class="mrgn-lft-md">Protecting Against Invasive Species</span></th>
+      <td class="text-right" headers="sfc-b-c2 sfc-b-g3 sfc-b-g3-r5">2</td>
+      <td class="text-right" headers="sfc-b-c3 sfc-b-g3 sfc-b-g3-r5">2</td>
+      <td class="text-right" headers="sfc-b-c4 sfc-b-g3 sfc-b-g3-r5">3</td>
      </tr>
      <tr>
-      <th scope="row"><span class="mrgn-lft-md">Nature Conservancy of Canada</span></th>
-      <td class="text-right">20</td>
-      <td class="text-right">&nbsp;</td>
-      <td class="text-right">20</td>
+      <th id="sfc-b-g3-r6" headers="sfc-b-c1 sfc-b-g3"><span class="mrgn-lft-md">Expanding Tax Support for Clean Energy Generation</span></th>
+      <td class="text-right" headers="sfc-b-c2 sfc-b-g3 sfc-b-g3-r6">&nbsp;</td>
+      <td class="text-right" headers="sfc-b-c3 sfc-b-g3 sfc-b-g3-r6">1</td>
+      <td class="text-right" headers="sfc-b-c4 sfc-b-g3 sfc-b-g3-r6">1</td>
      </tr>
      <tr>
-      <th scope="row"><span class="mrgn-lft-md">Improving the Conservation of Fisheries</span></th>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <th id="sfc-b-g3-sub" headers="sfc-b-c1 sfc-b-g3">Subtotal—Protecting Canada's Natural Environment</th>
+      <td class="text-right" headers="sfc-b-c2 sfc-b-g3 sfc-b-g3-sub">32</td>
+      <td class="text-right" headers="sfc-b-c3 sfc-b-g3 sfc-b-g3-sub">9</td>
+      <td class="text-right" headers="sfc-b-c4 sfc-b-g3 sfc-b-g3-sub">41</td>
+     </tr>
+    </tbody>
+    <tbody>
+     <tr>
+      <th id="sfc-b-g4" colspan="4"><strong>Building Strong Aboriginal Communities</strong></th>
      </tr>
      <tr>
-      <th scope="row"><span class="mrgn-lft-md">Through Community Partnerships</span></th>
-      <td class="text-right">5</td>
-      <td class="text-right">5</td>
-      <td class="text-right">10</td>
+      <th id="sfc-b-g4-r1" headers="sfc-b-c1 sfc-b-g4"><span class="mrgn-lft-md">Resolving Specific Claims</span></th>
+      <td class="text-right" headers="sfc-b-c2 sfc-b-g4 sfc-b-g4-r1">27</td>
+      <td class="text-right" headers="sfc-b-c3 sfc-b-g4 sfc-b-g4-r1">27</td>
+      <td class="text-right" headers="sfc-b-c4 sfc-b-g4 sfc-b-g4-r1">54</td>
      </tr>
      <tr>
-      <th scope="row"><span class="mrgn-lft-md">Salmon Conservation Stamp</span></th>
-      <td class="text-right">1</td>
-      <td class="text-right">1</td>
-      <td class="text-right">2</td>
+      <th id="sfc-b-g4-r2" headers="sfc-b-c1 sfc-b-g4"><span class="mrgn-lft-md">First Nations Land Management Regime</span></th>
+      <td class="text-right" headers="sfc-b-c2 sfc-b-g4 sfc-b-g4-r2">2</td>
+      <td class="text-right" headers="sfc-b-c3 sfc-b-g4 sfc-b-g4-r2">7</td>
+      <td class="text-right" headers="sfc-b-c4 sfc-b-g4 sfc-b-g4-r2">9</td>
      </tr>
      <tr>
-      <th scope="row"><span class="mrgn-lft-md">Enabling Responsible Marine Management</span></th>
-      <td class="text-right">4</td>
-      <td class="text-right">&nbsp;</td>
-      <td class="text-right">4</td>
+      <th id="sfc-b-g4-r3" headers="sfc-b-c1 sfc-b-g4"><span class="mrgn-lft-md">First Nations Policing Program</span></th>
+      <td class="text-right" headers="sfc-b-c2 sfc-b-g4 sfc-b-g4-r3">18</td>
+      <td class="text-right" headers="sfc-b-c3 sfc-b-g4 sfc-b-g4-r3">18</td>
+      <td class="text-right" headers="sfc-b-c4 sfc-b-g4 sfc-b-g4-r3">36</td>
      </tr>
      <tr>
-      <th scope="row"><span class="mrgn-lft-md">Protecting Against Invasive Species</span></th>
-      <td class="text-right">2</td>
-      <td class="text-right">2</td>
-      <td class="text-right">3</td>
+      <th id="sfc-b-g4-r4" headers="sfc-b-c1 sfc-b-g4"><span class="mrgn-lft-md">Aboriginal Justice Strategy</span></th>
+      <td class="text-right" headers="sfc-b-c2 sfc-b-g4 sfc-b-g4-r4">11</td>
+      <td class="text-right" headers="sfc-b-c3 sfc-b-g4 sfc-b-g4-r4">&nbsp;</td>
+      <td class="text-right" headers="sfc-b-c4 sfc-b-g4 sfc-b-g4-r4">11</td>
      </tr>
      <tr>
-      <th scope="row">
-       <span class="mrgn-lft-md">Expanding Tax Support for Clean Energy Generation</span>
-      </th>
-      <td class="text-right">&nbsp;</td>
-      <td class="text-right">1</td>
-      <td class="text-right">1</td>
+      <th id="sfc-b-g4-r5" headers="sfc-b-c1 sfc-b-g4"><span class="mrgn-lft-md">Renewal of the Family Violence Prevention Program</span></th>
+      <td class="text-right" headers="sfc-b-c2 sfc-b-g4 sfc-b-g4-r5">12</td>
+      <td class="text-right" headers="sfc-b-c3 sfc-b-g4 sfc-b-g4-r5">12</td>
+      <td class="text-right" headers="sfc-b-c4 sfc-b-g4 sfc-b-g4-r5">24</td>
      </tr>
      <tr>
-      <th scope="row">Subtotal—Protecting Canada's Natural Environment</th>
-      <td class="text-right">32</td>
-      <td class="text-right">9</td>
-      <td class="text-right">41</td>
+      <th id="sfc-b-g4-r6" headers="sfc-b-c1 sfc-b-g4"><span class="mrgn-lft-md">Improving Health Services to First Nations Communities</span></th>
+      <td class="text-right" headers="sfc-b-c2 sfc-b-g4 sfc-b-g4-r6">24</td>
+      <td class="text-right" headers="sfc-b-c3 sfc-b-g4 sfc-b-g4-r6">24</td>
+      <td class="text-right" headers="sfc-b-c4 sfc-b-g4 sfc-b-g4-r6">48</td>
      </tr>
      <tr>
-      <th scope="row">&nbsp;</th>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <th id="sfc-b-g4-r7" headers="sfc-b-c1 sfc-b-g4"><span class="mrgn-lft-md">Enhancing Mental Health Services in First Nations Communities</span></th>
+      <td class="text-right" headers="sfc-b-c2 sfc-b-g4 sfc-b-g4-r7">2</td>
+      <td class="text-right" headers="sfc-b-c3 sfc-b-g4 sfc-b-g4-r7">2</td>
+      <td class="text-right" headers="sfc-b-c4 sfc-b-g4 sfc-b-g4-r7">4</td>
      </tr>
      <tr>
-      <th scope="row"><strong>Building Strong Aboriginal Communities</strong></th>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <th id="sfc-b-g4-sub" headers="sfc-b-c1 sfc-b-g4">Subtotal—Building Strong Aboriginal Communities</th>
+      <td class="text-right" headers="sfc-b-c2 sfc-b-g4 sfc-b-g4-sub">95</td>
+      <td class="text-right" headers="sfc-b-c3 sfc-b-g4 sfc-b-g4-sub">90</td>
+      <td class="text-right" headers="sfc-b-c4 sfc-b-g4 sfc-b-g4-sub">185</td>
+     </tr>
+    </tbody>
+    <tbody>
+     <tr>
+      <th id="sfc-b-t1" headers="sfc-b-c1"><strong>Total—Supporting Families and Communities</strong></th>
+      <td class="text-right" headers="sfc-b-c2 sfc-b-t1"><strong>342</strong></td>
+      <td class="text-right" headers="sfc-b-c3 sfc-b-t1"><strong>657</strong></td>
+      <td class="text-right" headers="sfc-b-c4 sfc-b-t1"><strong>999</strong></td>
      </tr>
      <tr>
-      <th scope="row"><span class="mrgn-lft-md">Resolving Specific Claims</span></th>
-      <td class="text-right">27</td>
-      <td class="text-right">27</td>
-      <td class="text-right">54</td>
+      <th id="sfc-b-t2" headers="sfc-b-c1"><span class="mrgn-lft-md"><strong>Less funds existing in the fiscal framework</strong></span></th>
+      <td class="text-right" headers="sfc-b-c2 sfc-b-t2"><strong>76</strong></td>
+      <td class="text-right" headers="sfc-b-c3 sfc-b-t2"><strong>422</strong></td>
+      <td class="text-right" headers="sfc-b-c4 sfc-b-t2"><strong>498</strong></td>
      </tr>
      <tr>
-      <th scope="row"><span class="mrgn-lft-md">First Nations Land Management Regime</span></th>
-      <td class="text-right">2</td>
-      <td class="text-right">7</td>
-      <td class="text-right">9</td>
+      <th id="sfc-b-t3" headers="sfc-b-c1"><span class="mrgn-lft-md"><strong>Less funds sourced from internal reallocations</strong></span></th>
+      <td class="text-right" headers="sfc-b-c2 sfc-b-t3"><strong>1</strong></td>
+      <td class="text-right" headers="sfc-b-c3 sfc-b-t3"><strong>11</strong></td>
+      <td class="text-right" headers="sfc-b-c4 sfc-b-t3"><strong>12</strong></td>
      </tr>
      <tr>
-      <th scope="row"><span class="mrgn-lft-md">First Nations Policing Program</span></th>
-      <td class="text-right">18</td>
-      <td class="text-right">18</td>
-      <td class="text-right">36</td>
-     </tr>
-     <tr>
-      <th scope="row"><span class="mrgn-lft-md">Aboriginal Justice Strategy</span></th>
-      <td class="text-right">11</td>
-      <td class="text-right">&nbsp;</td>
-      <td class="text-right">11</td>
-     </tr>
-     <tr>
-      <th scope="row">
-       <span class="mrgn-lft-md">Renewal of the Family Violence Prevention Program</span>
-      </th>
-      <td class="text-right">12</td>
-      <td class="text-right">12</td>
-      <td class="text-right">24</td>
-     </tr>
-     <tr>
-      <th scope="row">
-       <span class="mrgn-lft-md">Improving Health Services to First Nations Communities</span>
-      </th>
-      <td class="text-right">24</td>
-      <td class="text-right">24</td>
-      <td class="text-right">48</td>
-     </tr>
-     <tr>
-      <th scope="row">
-       <span class="mrgn-lft-md">Enhancing Mental Health Services in First Nations Communities</span>
-      </th>
-      <td class="text-right">2</td>
-      <td class="text-right">2</td>
-      <td class="text-right">4</td>
-     </tr>
-     <tr>
-      <th scope="row">Subtotal—Building Strong Aboriginal Communities</th>
-      <td class="text-right">95</td>
-      <td class="text-right">90</td>
-      <td class="text-right">185</td>
-     </tr>
-     <tr>
-      <th scope="row">&nbsp;</th>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-     </tr>
-     <tr>
-      <th scope="row"><strong>Total—Supporting Families and Communities</strong></th>
-      <td class="text-right"><strong>342</strong></td>
-      <td class="text-right"><strong>657</strong></td>
-      <td class="text-right"><strong>999</strong></td>
-     </tr>
-     <tr>
-      <th scope="row">
-       <span class="mrgn-lft-md"><strong>Less funds existing in the fiscal framework</strong></span>
-      </th>
-      <td class="text-right"><strong>76</strong></td>
-      <td class="text-right"><strong>422</strong></td>
-      <td class="text-right"><strong>498</strong></td>
-     </tr>
-     <tr>
-      <th scope="row">
-       <span class="mrgn-lft-md"><strong>Less funds sourced from internal reallocations</strong></span>
-      </th>
-      <td class="text-right"><strong>1</strong></td>
-      <td class="text-right"><strong>11</strong></td>
-      <td class="text-right"><strong>12</strong></td>
-     </tr>
-     <tr>
-      <th scope="row"><strong>Net fiscal cost</strong></th>
-      <td class="text-right"><strong>265</strong></td>
-      <td class="text-right"><strong>224</strong></td>
-      <td class="text-right"><strong>489</strong></td>
+      <th id="sfc-b-t4" headers="sfc-b-c1"><strong>Net fiscal cost</strong></th>
+      <td class="text-right" headers="sfc-b-c2 sfc-b-t4"><strong>265</strong></td>
+      <td class="text-right" headers="sfc-b-c3 sfc-b-t4"><strong>224</strong></td>
+      <td class="text-right" headers="sfc-b-c4 sfc-b-t4"><strong>489</strong></td>
      </tr>
     </tbody>
     <tfoot>
@@ -4364,98 +4292,81 @@ title: "Canada.ca Content Style Guide"
     </caption>
     <thead>
      <tr class="active">
-      <th scope="col">Initiatives and programs</th>
-      <th class="text-right" scope="col">2013 to 2014</th>
-      <th class="text-right" scope="col">2014 to 2015</th>
-      <th class="text-right" scope="col">Total</th>
+      <th id="sfc-1c-c1">Initiatives and programs</th>
+      <th class="text-right" id="sfc-1c-c2">2013 to 2014</th>
+      <th class="text-right" id="sfc-1c-c3">2014 to 2015</th>
+      <th class="text-right" id="sfc-1c-c4">Total</th>
      </tr>
     </thead>
     <tbody>
      <tr>
-      <th scope="row"><span class="mrgn-lft-md">Housing for Canadians in need</span></th>
-      <td class="text-right">0</td>
-      <td class="text-right">0</td>
-      <td class="text-right">0</td>
+      <th id="sfc-1c-g1" colspan="4"><span class="mrgn-lft-md"><strong>Housing for Canadians in need</strong></span></th>
      </tr>
      <tr>
-      <th scope="row"><span class="mrgn-lft-md">Homelessness partnering strategy</span></th>
-      <td class="text-right">0</td>
-      <td class="text-right">119</td>
-      <td class="text-right">119</td>
+      <th id="sfc-1c-g1-r1" headers="sfc-1c-c1 sfc-1c-g1"><span class="mrgn-lft-xl">Homelessness partnering strategy</span></th>
+      <td class="text-right" headers="sfc-1c-c2 sfc-1c-g1 sfc-1c-g1-r1">0</td>
+      <td class="text-right" headers="sfc-1c-c3 sfc-1c-g1 sfc-1c-g1-r1">119</td>
+      <td class="text-right" headers="sfc-1c-c4 sfc-1c-g1 sfc-1c-g1-r1">119</td>
      </tr>
      <tr>
-      <th scope="row"><span class="mrgn-lft-md">Investment in affordable housing</span></th>
-      <td class="text-right">0</td>
-      <td class="text-right">253</td>
-      <td class="text-right">253</td>
+      <th id="sfc-1c-g1-r2" headers="sfc-1c-c1 sfc-1c-g1"><span class="mrgn-lft-xl">Investment in affordable housing</span></th>
+      <td class="text-right" headers="sfc-1c-c2 sfc-1c-g1 sfc-1c-g1-r2">0</td>
+      <td class="text-right" headers="sfc-1c-c3 sfc-1c-g1 sfc-1c-g1-r2">253</td>
+      <td class="text-right" headers="sfc-1c-c4 sfc-1c-g1 sfc-1c-g1-r2">253</td>
      </tr>
      <tr>
-      <th scope="row"><span class="mrgn-lft-md">Investment in Nunavut housing</span></th>
-      <td class="text-right">30</td>
-      <td class="text-right">70</td>
-      <td class="text-right">100</td>
+      <th id="sfc-1c-g1-r3" headers="sfc-1c-c1 sfc-1c-g1"><span class="mrgn-lft-xl">Investment in Nunavut housing</span></th>
+      <td class="text-right" headers="sfc-1c-c2 sfc-1c-g1 sfc-1c-g1-r3">30</td>
+      <td class="text-right" headers="sfc-1c-c3 sfc-1c-g1 sfc-1c-g1-r3">70</td>
+      <td class="text-right" headers="sfc-1c-c4 sfc-1c-g1 sfc-1c-g1-r3">100</td>
      </tr>
      <tr>
-      <th scope="row"><span class="mrgn-lft-md">Supporting and Honouring veterans</span></th>
-      <td class="text-right">0</td>
-      <td class="text-right">0</td>
-      <td class="text-right">0</td>
+      <th id="sfc-1c-g2" colspan="4"><span class="mrgn-lft-md"><strong>Supporting and honouring veterans</strong></span></th>
      </tr>
      <tr>
-      <th scope="row">
-       <span class="mrgn-lft-md">Enhancing Veterans Affairs Canada's Funeral and Burial Program</span>
-      </th>
-      <td class="text-right">63</td>
-      <td class="text-right">2</td>
-      <td class="text-right">65</td>
+      <th id="sfc-1c-g2-r1" headers="sfc-1c-c1 sfc-1c-g2"><span class="mrgn-lft-xl">Enhancing Veterans Affairs Canada's Funeral and Burial Program</span></th>
+      <td class="text-right" headers="sfc-1c-c2 sfc-1c-g2 sfc-1c-g2-r1">63</td>
+      <td class="text-right" headers="sfc-1c-c3 sfc-1c-g2 sfc-1c-g2-r1">2</td>
+      <td class="text-right" headers="sfc-1c-c4 sfc-1c-g2 sfc-1c-g2-r1">65</td>
      </tr>
      <tr>
-      <th scope="row"><span class="mrgn-lft-md">Road to 2017</span></th>
-      <td class="text-right">1</td>
-      <td class="text-right">2</td>
-      <td class="text-right">3</td>
+      <th id="sfc-1c-g2-r2" headers="sfc-1c-c1 sfc-1c-g2"><span class="mrgn-lft-xl">Road to 2017</span></th>
+      <td class="text-right" headers="sfc-1c-c2 sfc-1c-g2 sfc-1c-g2-r2">1</td>
+      <td class="text-right" headers="sfc-1c-c3 sfc-1c-g2 sfc-1c-g2-r2">2</td>
+      <td class="text-right" headers="sfc-1c-c4 sfc-1c-g2 sfc-1c-g2-r2">3</td>
      </tr>
      <tr>
-      <th scope="row"><span class="mrgn-lft-md">Investments in arts and culture</span></th>
-      <td class="text-right">0</td>
-      <td class="text-right">0</td>
-      <td class="text-right">0</td>
+      <th id="sfc-1c-g3" colspan="4"><span class="mrgn-lft-md"><strong>Investments in arts and culture</strong></span></th>
      </tr>
      <tr>
-      <th scope="row"><span class="mrgn-lft-md">Massey Hall revitalization</span></th>
-      <td class="text-right">8</td>
-      <td class="text-right">0</td>
-      <td class="text-right">8</td>
+      <th id="sfc-1c-g3-r1" headers="sfc-1c-c1 sfc-1c-g3"><span class="mrgn-lft-xl">Massey Hall revitalization</span></th>
+      <td class="text-right" headers="sfc-1c-c2 sfc-1c-g3 sfc-1c-g3-r1">8</td>
+      <td class="text-right" headers="sfc-1c-c3 sfc-1c-g3 sfc-1c-g3-r1">0</td>
+      <td class="text-right" headers="sfc-1c-c4 sfc-1c-g3 sfc-1c-g3-r1">8</td>
      </tr>
      <tr>
-      <th scope="row">
-       <span class="mrgn-lft-md">Expanding library services for the blind and partially sighted</span>
-      </th>
-      <td class="text-right">3</td>
-      <td class="text-right">0</td>
-      <td class="text-right">3</td>
+      <th id="sfc-1c-g3-r2" headers="sfc-1c-c1 sfc-1c-g3"><span class="mrgn-lft-xl">Expanding library services for the blind and partially sighted</span></th>
+      <td class="text-right" headers="sfc-1c-c2 sfc-1c-g3 sfc-1c-g3-r2">3</td>
+      <td class="text-right" headers="sfc-1c-c3 sfc-1c-g3 sfc-1c-g3-r2">0</td>
+      <td class="text-right" headers="sfc-1c-c4 sfc-1c-g3 sfc-1c-g3-r2">3</td>
      </tr>
      <tr>
-      <th scope="row"><span class="mrgn-lft-md">First-time Donor's Super Credit</span></th>
-      <td class="text-right">25</td>
-      <td class="text-right">25</td>
-      <td class="text-right">50</td>
+      <th id="sfc-1c-r4" headers="sfc-1c-c1"><span class="mrgn-lft-md">First-time Donor's Super Credit</span></th>
+      <td class="text-right" headers="sfc-1c-c2 sfc-1c-r4">25</td>
+      <td class="text-right" headers="sfc-1c-c3 sfc-1c-r4">25</td>
+      <td class="text-right" headers="sfc-1c-c4 sfc-1c-r4">50</td>
      </tr>
      <tr>
-      <th scope="row">
-       <span class="mrgn-lft-md"
-        >Supporting the economic transition of communities economically linked to the chrysotile asbestos industry</span
-       >
-      </th>
-      <td class="text-right">3</td>
-      <td class="text-right">5</td>
-      <td class="text-right">8</td>
+      <th id="sfc-1c-r5" headers="sfc-1c-c1"><span class="mrgn-lft-md">Supporting the economic transition of communities economically linked to the chrysotile asbestos industry</span></th>
+      <td class="text-right" headers="sfc-1c-c2 sfc-1c-r5">3</td>
+      <td class="text-right" headers="sfc-1c-c3 sfc-1c-r5">5</td>
+      <td class="text-right" headers="sfc-1c-c4 sfc-1c-r5">8</td>
      </tr>
      <tr>
-      <th scope="row">Subtotal: investing in communities</th>
-      <td class="text-right">133</td>
-      <td class="text-right">476</td>
-      <td class="text-right">609</td>
+      <th id="sfc-1c-sub" headers="sfc-1c-c1">Subtotal: investing in communities</th>
+      <td class="text-right" headers="sfc-1c-c2 sfc-1c-sub">133</td>
+      <td class="text-right" headers="sfc-1c-c3 sfc-1c-sub">476</td>
+      <td class="text-right" headers="sfc-1c-c4 sfc-1c-sub">609</td>
      </tr>
     </tbody>
     <tfoot>
@@ -4802,7 +4713,7 @@ title: "Canada.ca Content Style Guide"
       >
      </p>
      <p class="fn-rtn small">
-      <a href="#fn1-rf"><span class="wb-inv">Return to footnote </span>1<span class="wb-inv"> referrer</span></a>
+      <a href="#fn1-0-rf"><span class="wb-inv">Return to footnote </span>1<span class="wb-inv"> referrer</span></a>
      </p>
     </dd>
    </dl>
