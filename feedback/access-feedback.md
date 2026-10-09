@@ -10,7 +10,6 @@ title: How to access page feedback
     <ul class="toc lst-spcd col-md-12">
       <li class="col-md-4 col-sm-6"><a class="list-group-item active" href="access-feedback.html">Access feedback</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="analyze-feedback.html">Analysis methods</a></li>
-      <li class="col-md-4 col-sm-6"><a class="list-group-item" href="ai-analysis.html">AI-assisted analysis</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="insights.html">Sharing insights</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="prioritize.html">Deciding what to improve</a></li>
     </ul>
@@ -50,7 +49,7 @@ The Feedback Viewer includes filters so that you can access and download specifi
 
 ## How long feedback is kept
 
-The Feedback Viewer only stores six months of comments from GC Feedback.
+The Feedback Viewer only stores up to six months of comments from GC Feedback.
 
 Comments are deleted in the first week of each quarter.
 

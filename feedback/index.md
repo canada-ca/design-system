@@ -69,13 +69,7 @@ GC Feedback is a <strong>research tool</strong> that can help you better underst
         </section>
       </div>
 
-      <div class="col-md-4">
-        <section>
-          <h3><a href="ai-analysis.html">AI-assisted analysis of feedback</a></h3>
-          <p>Reusable prompts and guidance for analyzing feedback using approved AI tools</p>
-        </section>
-      </div>
-
+    
       <div class="col-md-4">
         <section>
           <h3 class="h5"><a href="insights.html">Sharing feedback insights</a></h3>

@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/retroaction/methodes.html
 date: null
-dateModified: 2026-07-08
+dateModified: 2026-10-09
 description: null
 title: Methods for analyzing feedback
 ---
@@ -11,7 +11,6 @@ title: Methods for analyzing feedback
     <ul class="toc lst-spcd col-md-12">
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="access-feedback.html">Access feedback</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item active">Analysis methods</a></li>
-      <li class="col-md-4 col-sm-6"><a class="list-group-item" href="ai-analysis.html">AI-assisted analysis</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="insights.html">Sharing insights</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="prioritize.html">Deciding what to improve</a></li>
     </ul>
@@ -71,15 +70,7 @@ AI-assisted analysis can reduce the time required to review large volumes of fee
 
 Use AI tools as analytical support, not as authoritative decision-makers.
 
-### Reusable prompts and guidance
-Use the AI-assisted feedback analysis guidance for:
-* approved prompts for common feedback analysis tasks
-* privacy and security considerations
-* prompt-writing best practices
-* human review requirements
-* limitations of AI-assisted analysis
 
-[AI-assisted feedback analysis guidance](ai-analysis.html)
 
 
 ## Manual analysis methods
@@ -225,6 +216,6 @@ Include other data sources in your reporting to build a more complete picture, c
 
 <nav role="navigation" class="mrgn-bttm-lg">
   <ul class="pager">
-    <li class="next"><a href="ai-analysis.html" rel="next">Next: AI-assisted analysis</a></li>
+    <li class="next"><a href="insights.html" rel="next">Next: AI-assisted analysis</a></li>
   </ul>
 </nav>
