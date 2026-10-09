@@ -216,6 +216,6 @@ Include other data sources in your reporting to build a more complete picture, c
 
 <nav role="navigation" class="mrgn-bttm-lg">
   <ul class="pager">
-    <li class="next"><a href="insights.html" rel="next">Next: AI-assisted analysis</a></li>
+    <li class="next"><a href="insights.html" rel="next">Next: Sharing insights from feedback</a></li>
   </ul>
 </nav>
