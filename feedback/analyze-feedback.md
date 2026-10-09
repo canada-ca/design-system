@@ -70,9 +70,6 @@ AI-assisted analysis can reduce the time required to review large volumes of fee
 
 Use AI tools as analytical support, not as authoritative decision-makers.
 
-
-
-
 ## Manual analysis methods
 
 Manual analysis involves reviewing comments directly and grouping similar issues using tags or themes. This approach is useful for both small and large datasets and remains an effective method for understanding user feedback.
