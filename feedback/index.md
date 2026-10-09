@@ -5,7 +5,7 @@ breadcrumbs:
     link: https://www.canada.ca/en/government/about.html
   - title: Analytics and feedback
     link: https://www.canada.ca/en/analytics.html
-dateModified: 2026-07-08
+dateModified: 2026-10-09
 layout: default
 title: GC Feedback guidance
 ---
@@ -68,14 +68,6 @@ GC Feedback is a <strong>research tool</strong> that can help you better underst
           <p>General tips for reviewing and interpreting user feedback</p>
         </section>
       </div>
-
-      <div class="col-md-4">
-        <section>
-          <h3><a href="ai-analysis.html">AI-assisted analysis of feedback</a></h3>
-          <p>Reusable prompts and guidance for analyzing feedback using approved AI tools</p>
-        </section>
-      </div>
-
       <div class="col-md-4">
         <section>
           <h3 class="h5"><a href="insights.html">Sharing feedback insights</a></h3>
