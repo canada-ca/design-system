@@ -3534,7 +3534,7 @@ title: "Canada.ca Content Style Guide"
     <li>Describe any content that must be downloaded</li>
     <li>
      Write email addresses in full, in lower case and as active links (contact
-     <span id="exmp-eml"><a href="#exmp-eml">helpdesk@canada.ca</a></span>)
+     <a href="mailto:helpdesk@example.com">helpdesk@example.com</a>)
     </li>
    </ul>
    <p>Don't use:</p>
