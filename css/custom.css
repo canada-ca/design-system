@@ -1207,5 +1207,9 @@ h1 span.stacked span:nth-child(2) {
     margin-inline-start: 1.5em;
   }
 }
+/* Space between row groups in grouped tables, instead of empty spacer rows */
+.sg-tbl-grouped > tbody + tbody > tr:first-child > th {
+  padding-top: 1.5em;
+}
 
 /*# sourceMappingURL=custom.css.map */
