@@ -2448,10 +2448,8 @@ title: "Canada.ca Content Style Guide"
     <h4>Example of a table that organizes data</h4>
     <table class="table table-condensed table-bordered">
      <caption>
-      <strong
-       >Comparison of net budgetary authorities and expenditures for Vote 1 as of December 31, for fiscal years 2011 to
-       2012 and 2012 to 2013 ($ millions)</strong
-      >
+      Comparison of net budgetary authorities and expenditures for Vote 1 as of December 31, for fiscal years 2011 to
+       2012 and 2012 to 2013 ($ millions)
      </caption>
      <thead>
       <tr class="active">
@@ -2504,11 +2502,9 @@ title: "Canada.ca Content Style Guide"
      </ul>
      <table class="table table-condensed table-bordered">
       <caption>
-       <strong
-        >Disclosure of contracts over $10,000 from January to March 2010<sup id="table2b-fn1-rf"
+       Disclosure of contracts over $10,000 from January to March 2010<sup id="table2b-fn1-rf"
          ><a class="fn-lnk" href="#table2b-fn1"><span class="wb-inv">contracts table note </span>*</a></sup
-        ></strong
-       >
+        >
       </caption>
       <thead>
        <tr class="active">
@@ -2601,14 +2597,14 @@ title: "Canada.ca Content Style Guide"
      <h6>Example of a complex table</h6>
      <table class="table table-bordered table-condensed">
       <caption>
-       <strong>National Hockey League Stanley Cup Canadian winning teams</strong>
+       National Hockey League Stanley Cup Canadian winning teams
       </caption>
       <colgroup span="6"></colgroup>
       <colgroup span="4"></colgroup>
       <thead>
        <tr class="active">
-        <th colspan="6" scope="colgroup"><strong>Eastern Conference</strong></th>
-        <th colspan="4" scope="colgroup"><strong>Western Conference</strong></th>
+        <th colspan="6" scope="colgroup">Eastern Conference</th>
+        <th colspan="4" scope="colgroup">Western Conference</th>
        </tr>
       </thead>
       <tbody>
@@ -2643,7 +2639,7 @@ title: "Canada.ca Content Style Guide"
      <h6>Example: one simple table</h6>
      <table class="table table-bordered table-condensed">
       <caption>
-       <strong>National Hockey League Stanley Cup Canadian winning teams</strong>
+       National Hockey League Stanley Cup Canadian winning teams
       </caption>
       <thead>
        <tr class="active">
@@ -2687,7 +2683,7 @@ title: "Canada.ca Content Style Guide"
      <h6>Example: multiple simple tables</h6>
      <table class="table table-bordered table-condensed">
       <caption>
-       <strong>Table 1: Eastern conference: National Hockey League Stanley Cup Canadian winning teams</strong>
+       Table 1: Eastern conference: National Hockey League Stanley Cup Canadian winning teams
       </caption>
       <thead>
        <tr class="active">
@@ -2712,7 +2708,7 @@ title: "Canada.ca Content Style Guide"
      </table>
      <table class="table table-bordered table-condensed">
       <caption>
-       <strong>Table 2: Western conference: National Hockey League Stanley Cup Canadian winning teams</strong>
+       Table 2: Western conference: National Hockey League Stanley Cup Canadian winning teams
       </caption>
       <thead>
        <tr class="active">
@@ -2898,9 +2894,9 @@ title: "Canada.ca Content Style Guide"
        <caption>Map of Canada: current conditions</caption>
        <thead>
         <tr class="active">
-         <th scope="col"><strong>City</strong></th>
-         <th scope="col"><strong>Condition</strong></th>
-         <th scope="col"><strong>Temperature</strong></th>
+         <th scope="col">City</th>
+         <th scope="col">Condition</th>
+         <th scope="col">Temperature</th>
         </tr>
        </thead>
        <tbody>
@@ -3312,18 +3308,18 @@ title: "Canada.ca Content Style Guide"
     <p>You could write the following long description text:</p>
     <table class="table table-bordered table-condensed">
      <caption>
-      <strong>Figure 2: proportion of men and women in the public service for selected years 1983 to 2010</strong>
+      Figure 2: proportion of men and women in the public service for selected years 1983 to 2010
      </caption>
      <thead>
       <tr class="active">
-       <th scope="col"><strong>Gender (by percentage)</strong></th>
-       <th scope="col"><strong>1983</strong></th>
-       <th scope="col"><strong>1988</strong></th>
-       <th scope="col"><strong>1993</strong></th>
-       <th scope="col"><strong>1998</strong></th>
-       <th scope="col"><strong>2003</strong></th>
-       <th scope="col"><strong>2008</strong></th>
-       <th scope="col"><strong>2010</strong></th>
+       <th scope="col">Gender (by percentage)</th>
+       <th scope="col">1983</th>
+       <th scope="col">1988</th>
+       <th scope="col">1993</th>
+       <th scope="col">1998</th>
+       <th scope="col">2003</th>
+       <th scope="col">2008</th>
+       <th scope="col">2010</th>
       </tr>
      </thead>
      <tbody>
@@ -3761,7 +3757,7 @@ title: "Canada.ca Content Style Guide"
    <h4>Before</h4>
    <table class="table table-bordered table-condensed sg-tbl-grouped">
     <caption>
-     <strong>Table: supporting families and communities (in $ millions), Budget 2013</strong>
+     Table: supporting families and communities (in $ millions), Budget 2013
     </caption>
     <thead>
      <tr class="active">
@@ -3773,7 +3769,7 @@ title: "Canada.ca Content Style Guide"
     </thead>
     <tbody>
      <tr>
-      <th id="sfc-b-g1" colspan="4"><strong>Support for Families</strong></th>
+      <th id="sfc-b-g1" colspan="4">Support for Families</th>
      </tr>
      <tr>
       <th id="sfc-b-g1-r1" headers="sfc-b-c1 sfc-b-g1"><span class="mrgn-lft-md">Expanding Tax Relief for Home Care Services</span></th>
@@ -3802,10 +3798,10 @@ title: "Canada.ca Content Style Guide"
     </tbody>
     <tbody>
      <tr>
-      <th id="sfc-b-g2" colspan="4"><strong>Investing in Communities</strong></th>
+      <th id="sfc-b-g2" colspan="4">Investing in Communities</th>
      </tr>
      <tr>
-      <th id="sfc-b-g2-s1" headers="sfc-b-g2" colspan="4"><span class="mrgn-lft-md"><strong>Housing for Canadians in Need</strong></span></th>
+      <th id="sfc-b-g2-s1" headers="sfc-b-g2" colspan="4"><span class="mrgn-lft-md">Housing for Canadians in Need</span></th>
      </tr>
      <tr>
       <th id="sfc-b-g2-s1-r1" headers="sfc-b-c1 sfc-b-g2 sfc-b-g2-s1"><span class="mrgn-lft-xl">Homelessness Partnering Strategy</span></th>
@@ -3826,7 +3822,7 @@ title: "Canada.ca Content Style Guide"
       <td class="text-right" headers="sfc-b-c4 sfc-b-g2 sfc-b-g2-s1 sfc-b-g2-s1-r3">100</td>
      </tr>
      <tr>
-      <th id="sfc-b-g2-s2" headers="sfc-b-g2" colspan="4"><span class="mrgn-lft-md"><strong>Supporting and Honouring Veterans</strong></span></th>
+      <th id="sfc-b-g2-s2" headers="sfc-b-g2" colspan="4"><span class="mrgn-lft-md">Supporting and Honouring Veterans</span></th>
      </tr>
      <tr>
       <th id="sfc-b-g2-s2-r1" headers="sfc-b-c1 sfc-b-g2 sfc-b-g2-s2"><span class="mrgn-lft-xl">Enhancing Veterans Affairs Canada's Funeral and Burial Program</span></th>
@@ -3841,7 +3837,7 @@ title: "Canada.ca Content Style Guide"
       <td class="text-right" headers="sfc-b-c4 sfc-b-g2 sfc-b-g2-s2 sfc-b-g2-s2-r2">3</td>
      </tr>
      <tr>
-      <th id="sfc-b-g2-s3" headers="sfc-b-g2" colspan="4"><span class="mrgn-lft-md"><strong>Investments in Arts and Culture</strong></span></th>
+      <th id="sfc-b-g2-s3" headers="sfc-b-g2" colspan="4"><span class="mrgn-lft-md">Investments in Arts and Culture</span></th>
      </tr>
      <tr>
       <th id="sfc-b-g2-s3-r1" headers="sfc-b-c1 sfc-b-g2 sfc-b-g2-s3"><span class="mrgn-lft-xl">Massey Hall Revitalization</span></th>
@@ -3876,7 +3872,7 @@ title: "Canada.ca Content Style Guide"
     </tbody>
     <tbody>
      <tr>
-      <th id="sfc-b-g3" colspan="4"><strong>Protecting Canada's Natural Environment</strong></th>
+      <th id="sfc-b-g3" colspan="4">Protecting Canada's Natural Environment</th>
      </tr>
      <tr>
       <th id="sfc-b-g3-r1" headers="sfc-b-c1 sfc-b-g3"><span class="mrgn-lft-md">Nature Conservancy of Canada</span></th>
@@ -3923,7 +3919,7 @@ title: "Canada.ca Content Style Guide"
     </tbody>
     <tbody>
      <tr>
-      <th id="sfc-b-g4" colspan="4"><strong>Building Strong Aboriginal Communities</strong></th>
+      <th id="sfc-b-g4" colspan="4">Building Strong Aboriginal Communities</th>
      </tr>
      <tr>
       <th id="sfc-b-g4-r1" headers="sfc-b-c1 sfc-b-g4"><span class="mrgn-lft-md">Resolving Specific Claims</span></th>
@@ -3976,25 +3972,25 @@ title: "Canada.ca Content Style Guide"
     </tbody>
     <tbody>
      <tr>
-      <th id="sfc-b-t1" headers="sfc-b-c1"><strong>Total—Supporting Families and Communities</strong></th>
+      <th id="sfc-b-t1" headers="sfc-b-c1">Total—Supporting Families and Communities</th>
       <td class="text-right" headers="sfc-b-c2 sfc-b-t1"><strong>342</strong></td>
       <td class="text-right" headers="sfc-b-c3 sfc-b-t1"><strong>657</strong></td>
       <td class="text-right" headers="sfc-b-c4 sfc-b-t1"><strong>999</strong></td>
      </tr>
      <tr>
-      <th id="sfc-b-t2" headers="sfc-b-c1"><span class="mrgn-lft-md"><strong>Less funds existing in the fiscal framework</strong></span></th>
+      <th id="sfc-b-t2" headers="sfc-b-c1"><span class="mrgn-lft-md">Less funds existing in the fiscal framework</span></th>
       <td class="text-right" headers="sfc-b-c2 sfc-b-t2"><strong>76</strong></td>
       <td class="text-right" headers="sfc-b-c3 sfc-b-t2"><strong>422</strong></td>
       <td class="text-right" headers="sfc-b-c4 sfc-b-t2"><strong>498</strong></td>
      </tr>
      <tr>
-      <th id="sfc-b-t3" headers="sfc-b-c1"><span class="mrgn-lft-md"><strong>Less funds sourced from internal reallocations</strong></span></th>
+      <th id="sfc-b-t3" headers="sfc-b-c1"><span class="mrgn-lft-md">Less funds sourced from internal reallocations</span></th>
       <td class="text-right" headers="sfc-b-c2 sfc-b-t3"><strong>1</strong></td>
       <td class="text-right" headers="sfc-b-c3 sfc-b-t3"><strong>11</strong></td>
       <td class="text-right" headers="sfc-b-c4 sfc-b-t3"><strong>12</strong></td>
      </tr>
      <tr>
-      <th id="sfc-b-t4" headers="sfc-b-c1"><strong>Net fiscal cost</strong></th>
+      <th id="sfc-b-t4" headers="sfc-b-c1">Net fiscal cost</th>
       <td class="text-right" headers="sfc-b-c2 sfc-b-t4"><strong>265</strong></td>
       <td class="text-right" headers="sfc-b-c3 sfc-b-t4"><strong>224</strong></td>
       <td class="text-right" headers="sfc-b-c4 sfc-b-t4"><strong>489</strong></td>
@@ -4009,9 +4005,8 @@ title: "Canada.ca Content Style Guide"
    <h4>After</h4>
    <table class="table table-bordered table-condensed">
     <caption>
-     <strong>Table 1: supporting families and communities for fiscal years 2013 to 2014 and 2014 to 2015, net fiscal costs (in$ millions)<sup id="table1-fn1-rf"><a class="fn-lnk" href="#table1-fn1"><span class="wb-inv">table 1 note </span>1</a></sup
-      ></strong
-     >
+     Table 1: supporting families and communities for fiscal years 2013 to 2014 and 2014 to 2015, net fiscal costs (in$ millions)<sup id="table1-fn1-rf"><a class="fn-lnk" href="#table1-fn1"><span class="wb-inv">table 1 note </span>1</a></sup
+      >
     </caption>
     <thead>
      <tr class="active">
@@ -4087,12 +4082,10 @@ title: "Canada.ca Content Style Guide"
    </table>
    <table class="table table-bordered table-condensed">
     <caption>
-     <strong
-      >Table 1A: supporting families and communities for fiscal years 2013 to 2014 and 2014 to 2015, total costs (in $
+     Table 1A: supporting families and communities for fiscal years 2013 to 2014 and 2014 to 2015, total costs (in $
       millions)<sup id="table2-fn1-rf"
        ><a class="fn-lnk" href="#table2-fn1"><span class="wb-inv">table 2 note </span>1</a></sup
-      ></strong
-     >
+      >
     </caption>
     <thead>
      <tr class="active">
@@ -4217,12 +4210,10 @@ title: "Canada.ca Content Style Guide"
    </table>
    <table class="table table-bordered table-condensed">
     <caption>
-     <strong
-      >Table 1B: support for families for fiscal years 2013 to 2014 and 2014 to 2015 (in $ millions)<sup
+     Table 1B: support for families for fiscal years 2013 to 2014 and 2014 to 2015 (in $ millions)<sup
        id="table3-fn1-rf"
        ><a class="fn-lnk" href="#table3-fn1"><span class="wb-inv">table 3 note </span>1</a></sup
-      ></strong
-     >
+      >
     </caption>
     <thead>
      <tr class="active">
@@ -4283,12 +4274,10 @@ title: "Canada.ca Content Style Guide"
    </table>
    <table class="table table-bordered table-condensed">
     <caption>
-     <strong
-      >Table 1C: investing in communities for fiscal years 2013 to 2014 and 2014 to 2015 (in $ millions)<sup
+     Table 1C: investing in communities for fiscal years 2013 to 2014 and 2014 to 2015 (in $ millions)<sup
        id="table4-fn1-rf"
        ><a class="fn-lnk" href="#table4-fn1"><span class="wb-inv">table 4 note </span>1</a></sup
-      ></strong
-     >
+      >
     </caption>
     <thead>
      <tr class="active">
@@ -4300,7 +4289,7 @@ title: "Canada.ca Content Style Guide"
     </thead>
     <tbody>
      <tr>
-      <th id="sfc-1c-g1" colspan="4"><span class="mrgn-lft-md"><strong>Housing for Canadians in need</strong></span></th>
+      <th id="sfc-1c-g1" colspan="4"><span class="mrgn-lft-md">Housing for Canadians in need</span></th>
      </tr>
      <tr>
       <th id="sfc-1c-g1-r1" headers="sfc-1c-c1 sfc-1c-g1"><span class="mrgn-lft-xl">Homelessness partnering strategy</span></th>
@@ -4321,7 +4310,7 @@ title: "Canada.ca Content Style Guide"
       <td class="text-right" headers="sfc-1c-c4 sfc-1c-g1 sfc-1c-g1-r3">100</td>
      </tr>
      <tr>
-      <th id="sfc-1c-g2" colspan="4"><span class="mrgn-lft-md"><strong>Supporting and honouring veterans</strong></span></th>
+      <th id="sfc-1c-g2" colspan="4"><span class="mrgn-lft-md">Supporting and honouring veterans</span></th>
      </tr>
      <tr>
       <th id="sfc-1c-g2-r1" headers="sfc-1c-c1 sfc-1c-g2"><span class="mrgn-lft-xl">Enhancing Veterans Affairs Canada's Funeral and Burial Program</span></th>
@@ -4336,7 +4325,7 @@ title: "Canada.ca Content Style Guide"
       <td class="text-right" headers="sfc-1c-c4 sfc-1c-g2 sfc-1c-g2-r2">3</td>
      </tr>
      <tr>
-      <th id="sfc-1c-g3" colspan="4"><span class="mrgn-lft-md"><strong>Investments in arts and culture</strong></span></th>
+      <th id="sfc-1c-g3" colspan="4"><span class="mrgn-lft-md">Investments in arts and culture</span></th>
      </tr>
      <tr>
       <th id="sfc-1c-g3-r1" headers="sfc-1c-c1 sfc-1c-g3"><span class="mrgn-lft-xl">Massey Hall revitalization</span></th>
@@ -4392,7 +4381,7 @@ title: "Canada.ca Content Style Guide"
    </table>
    <table class="table table-bordered table-condensed">
     <caption>
-    <strong>Table 1D: protecting Canada's natural environment for fiscal years 2013 to 2014 and 2014 to 2015 (in $&nbsp;millions)<sup id="table5-fn1-rf"><a class="fn-lnk" href="#table5-fn1"><span class="wb-inv">table 5 note </span>1</a></sup></strong>
+    Table 1D: protecting Canada's natural environment for fiscal years 2013 to 2014 and 2014 to 2015 (in $&nbsp;millions)<sup id="table5-fn1-rf"><a class="fn-lnk" href="#table5-fn1"><span class="wb-inv">table 5 note </span>1</a></sup>
     </caption>
     <thead>
      <tr class="active">
@@ -4471,7 +4460,7 @@ title: "Canada.ca Content Style Guide"
    </table>
    <table class="table table-bordered table-condensed">
     <caption>
-     <strong>Table 1E: building strong Aboriginal communities for fiscal years 2013 to 2014 and 2014 to 2015 (in $&nbsp;millions)<sup id="table6-fn1-rf"><a class="fn-lnk" href="#table6-fn1"><span class="wb-inv">table 6 note </span>1</a></sup></strong>
+     Table 1E: building strong Aboriginal communities for fiscal years 2013 to 2014 and 2014 to 2015 (in $&nbsp;millions)<sup id="table6-fn1-rf"><a class="fn-lnk" href="#table6-fn1"><span class="wb-inv">table 6 note </span>1</a></sup>
     </caption>
     <thead>
      <tr class="active">
