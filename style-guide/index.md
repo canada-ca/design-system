@@ -3124,13 +3124,13 @@ title: "Canada.ca Content Style Guide"
      <a href="{{ site.url }}/specifications.html">Canada.ca Specifications</a>.
     </p>
     <h5>Example of a decorative image</h5>
-    <figure class="mrgn-bttm-lg">
-     <img alt="" class="img-responsive" src="/style-guide/images/shopping-cart-02.png" />
-     <figcaption>
-      A "Healthy food" feature with a photo of fruit, vegetables and nuts. The photo is decorative: it adds visual
-      interest but no information.
-     </figcaption>
-    </figure>
+    <p>
+     <img
+      alt="A “Healthy food” feature on a topic page: a heading and placeholder text beside a decorative photo of fruit, vegetables and nuts."
+      class="img-responsive"
+      src="/style-guide/images/shopping-cart-02.png"
+     />
+    </p>
     <h5>Don’t describe decorative images</h5>
     <p>
      Decorative images don’t require a description. Their only purpose is to add visual appeal to content, not to add
