@@ -11,7 +11,6 @@ title: Sharing insights from feedback
         <ul class="toc lst-spcd col-md-12">
             <li class="col-md-4 col-sm-6"><a class="list-group-item" href="access-results.html">Survey results and reports</a></li>
             <li class="col-md-4 col-sm-6"><a class="list-group-item" href="analyze-feedback.html">How to analyze feedback</a></li>
-            <li class="col-md-4 col-sm-6"><a class="list-group-item" href="ai-analysis.html">AI-assisted analysis</a></li>
             <li class="col-md-4 col-sm-6"><a class="list-group-item active" href="insights.html">Sharing feedback insights</a></li>
             <li class="col-md-4 col-sm-6"><a class="list-group-item" href="prioritize.html">Deciding what to improve</a></li>
         </ul>
