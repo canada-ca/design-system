@@ -2544,36 +2544,29 @@ title: "Canada.ca Content Style Guide"
         <td class="text-right">$56,294.42</td>
        </tr>
       </tbody>
-      <tfoot>
-       <tr>
-        <td colspan="4">
-         <section class="wb-fnote">
-          <h5 class="wb-inv" id="table2b-fn">Contracts table notes</h5>
-          <dl>
-           <dt>Contracts table note *</dt>
-           <dd id="table2b-fn1">
-            <p>Fourth quarter of the April 1, 2009, to March 31, 2010, fiscal year.</p>
-            <p class="fn-rtn">
-             <a href="#table2b-fn1-rf"
-              ><span class="wb-inv">Return to contracts table note </span>*<span class="wb-inv"> referrer</span></a
-             >
-            </p>
-           </dd>
-           <dt>Contracts table note **</dt>
-           <dd id="table2b-fn2">
-            <p>Dates in this table represent the year, month and day (yyyy-mm-dd).</p>
-            <p class="fn-rtn">
-             <a href="#table2b-fn2-rf"
-              ><span class="wb-inv">Return to contracts table note </span>**<span class="wb-inv"> referrer</span></a
-             >
-            </p>
-           </dd>
-          </dl>
-         </section>
-        </td>
-       </tr>
-      </tfoot>
      </table>
+     <div class="wb-fnote">
+      <dl>
+       <dt>Contracts table note *</dt>
+       <dd id="table2b-fn1">
+        <p>Fourth quarter of the April 1, 2009, to March 31, 2010, fiscal year.</p>
+        <p class="fn-rtn">
+         <a href="#table2b-fn1-rf"
+          ><span class="wb-inv">Return to contracts table note </span>*<span class="wb-inv"> referrer</span></a
+         >
+        </p>
+       </dd>
+       <dt>Contracts table note **</dt>
+       <dd id="table2b-fn2">
+        <p>Dates in this table represent the year, month and day (yyyy-mm-dd).</p>
+        <p class="fn-rtn">
+         <a href="#table2b-fn2-rf"
+          ><span class="wb-inv">Return to contracts table note </span>**<span class="wb-inv"> referrer</span></a
+         >
+        </p>
+       </dd>
+      </dl>
+     </div>
      <p class="mrgn-tp-lg">
       By looking at the column headers "Date contract was awarded," "Vendor name" and "Value," people can understand
       that on February 23, 2010, Management Consulting Group Limited was awarded a contract valued at $285,575.89.
@@ -3344,17 +3337,11 @@ title: "Canada.ca Content Style Guide"
        <td class="text-right nowrap">55.2</td>
       </tr>
      </tbody>
-     <tfoot>
-      <tr>
-       <td class="small" colspan="8">
-        <p>
-         Source: Office of the Chief Human Resources Officer, Treasury Board of Canada Secretariat<br />
-         Note: Includes all tenures. Figures do not include employees on leave without pay.
-        </p>
-       </td>
-      </tr>
-     </tfoot>
     </table>
+    <p class="small">
+     Source: Office of the Chief Human Resources Officer, Treasury Board of Canada Secretariat<br />
+     Note: Includes all tenures. Figures do not include employees on leave without pay.
+    </p>
    </figure>
    <p>
     Work with your web team to determine the best way to include the long description information. They'll guide you on
@@ -3996,12 +3983,8 @@ title: "Canada.ca Content Style Guide"
       <td class="text-right" headers="sfc-b-c4 sfc-b-t4"><strong>489</strong></td>
      </tr>
     </tbody>
-    <tfoot>
-     <tr>
-      <td colspan="4">Note: Totals may not add due to rounding.</td>
-     </tr>
-    </tfoot>
    </table>
+   <p>Note: Totals may not add due to rounding.</p>
    <h4>After</h4>
    <table class="table table-bordered table-condensed">
     <caption>
@@ -4050,36 +4033,29 @@ title: "Canada.ca Content Style Guide"
       <td>489</td>
      </tr>
     </tbody>
-    <tfoot>
-     <tr>
-      <td colspan="4">
-       <section class="wb-fnote">
-        <h5 class="wb-inv" id="table1-fn">Table 1 Notes</h5>
-        <dl>
-         <dt>Table 1 Note 1</dt>
-         <dd id="table1-fn1">
-          <p>Totals may not add due to rounding.</p>
-          <p class="fn-rtn">
-           <a href="#table1-fn1-rf"
-            ><span class="wb-inv">Return to table 1 note </span>1<span class="wb-inv"> referrer</span></a
-           >
-          </p>
-         </dd>
-         <dt>Table 1 Note 2</dt>
-         <dd id="table1-fn2">
-          <p>See Table 1B for detailed breakdown.</p>
-          <p class="fn-rtn">
-           <a href="#table1-fn2-rf"
-            ><span class="wb-inv">Return to table 1 note </span>2<span class="wb-inv"> referrer</span></a
-           >
-          </p>
-         </dd>
-        </dl>
-       </section>
-      </td>
-     </tr>
-    </tfoot>
    </table>
+   <div class="wb-fnote">
+    <dl>
+     <dt>Table 1 Note 1</dt>
+     <dd id="table1-fn1">
+      <p>Totals may not add due to rounding.</p>
+      <p class="fn-rtn">
+       <a href="#table1-fn1-rf"
+        ><span class="wb-inv">Return to table 1 note </span>1<span class="wb-inv"> referrer</span></a
+       >
+      </p>
+     </dd>
+     <dt>Table 1 Note 2</dt>
+     <dd id="table1-fn2">
+      <p>See Table 1B for detailed breakdown.</p>
+      <p class="fn-rtn">
+       <a href="#table1-fn2-rf"
+        ><span class="wb-inv">Return to table 1 note </span>2<span class="wb-inv"> referrer</span></a
+       >
+      </p>
+     </dd>
+    </dl>
+   </div>
    <table class="table table-bordered table-condensed">
     <caption>
      Table 1A: supporting families and communities for fiscal years 2013 to 2014 and 2014 to 2015, total costs (in $
@@ -4151,63 +4127,56 @@ title: "Canada.ca Content Style Guide"
       <td class="text-right">999</td>
      </tr>
     </tbody>
-    <tfoot>
-     <tr>
-      <td colspan="4">
-       <section class="wb-fnote">
-        <h5 class="wb-inv" id="table2-fn">Table 2 Notes</h5>
-        <dl>
-         <dt>Table 2 Note 1</dt>
-         <dd id="table2-fn1">
-          <p>Totals may not add due to rounding.</p>
-          <p class="fn-rtn">
-           <a href="#table2-fn1-rf"
-            ><span class="wb-inv">Return to table 2 note </span>1<span class="wb-inv"> referrer</span></a
-           >
-          </p>
-         </dd>
-         <dt>Table 2 Note 2</dt>
-         <dd id="table2-fn2">
-          <p>See Table 1B for detailed breakdown.</p>
-          <p class="fn-rtn">
-           <a href="#table2-fn2-rf"
-            ><span class="wb-inv">Return to table 2 note </span>2<span class="wb-inv"> referrer</span></a
-           >
-          </p>
-         </dd>
-         <dt>Table 2 Note 3</dt>
-         <dd id="table2-fn3">
-          <p>See Table 1C for detailed breakdown.</p>
-          <p class="fn-rtn">
-           <a href="#table2-fn3-rf"
-            ><span class="wb-inv">Return to table 2 note </span>3<span class="wb-inv"> referrer</span></a
-           >
-          </p>
-         </dd>
-         <dt>Table 2 Note 4</dt>
-         <dd id="table2-fn4">
-          <p>See Table 1D for detailed breakdown.</p>
-          <p class="fn-rtn">
-           <a href="#table2-fn4-rf"
-            ><span class="wb-inv">Return to table 2 note </span>4<span class="wb-inv"> referrer</span></a
-           >
-          </p>
-         </dd>
-         <dt>Table 2 Note 5</dt>
-         <dd id="table2-fn5">
-          <p>See Table 1E for detailed breakdown.</p>
-          <p class="fn-rtn">
-           <a href="#table2-fn5-rf"
-            ><span class="wb-inv">Return to table 2 note </span>5<span class="wb-inv"> referrer</span></a
-           >
-          </p>
-         </dd>
-        </dl>
-       </section>
-      </td>
-     </tr>
-    </tfoot>
    </table>
+   <div class="wb-fnote">
+    <dl>
+     <dt>Table 2 Note 1</dt>
+     <dd id="table2-fn1">
+      <p>Totals may not add due to rounding.</p>
+      <p class="fn-rtn">
+       <a href="#table2-fn1-rf"
+        ><span class="wb-inv">Return to table 2 note </span>1<span class="wb-inv"> referrer</span></a
+       >
+      </p>
+     </dd>
+     <dt>Table 2 Note 2</dt>
+     <dd id="table2-fn2">
+      <p>See Table 1B for detailed breakdown.</p>
+      <p class="fn-rtn">
+       <a href="#table2-fn2-rf"
+        ><span class="wb-inv">Return to table 2 note </span>2<span class="wb-inv"> referrer</span></a
+       >
+      </p>
+     </dd>
+     <dt>Table 2 Note 3</dt>
+     <dd id="table2-fn3">
+      <p>See Table 1C for detailed breakdown.</p>
+      <p class="fn-rtn">
+       <a href="#table2-fn3-rf"
+        ><span class="wb-inv">Return to table 2 note </span>3<span class="wb-inv"> referrer</span></a
+       >
+      </p>
+     </dd>
+     <dt>Table 2 Note 4</dt>
+     <dd id="table2-fn4">
+      <p>See Table 1D for detailed breakdown.</p>
+      <p class="fn-rtn">
+       <a href="#table2-fn4-rf"
+        ><span class="wb-inv">Return to table 2 note </span>4<span class="wb-inv"> referrer</span></a
+       >
+      </p>
+     </dd>
+     <dt>Table 2 Note 5</dt>
+     <dd id="table2-fn5">
+      <p>See Table 1E for detailed breakdown.</p>
+      <p class="fn-rtn">
+       <a href="#table2-fn5-rf"
+        ><span class="wb-inv">Return to table 2 note </span>5<span class="wb-inv"> referrer</span></a
+       >
+      </p>
+     </dd>
+    </dl>
+   </div>
    <table class="table table-bordered table-condensed">
     <caption>
      Table 1B: support for families for fiscal years 2013 to 2014 and 2014 to 2015 (in $ millions)<sup
@@ -4251,27 +4220,20 @@ title: "Canada.ca Content Style Guide"
       <td class="text-right">164</td>
      </tr>
     </tbody>
-    <tfoot>
-     <tr>
-      <td colspan="4">
-       <section class="wb-fnote">
-        <h5 class="wb-inv" id="table3-fn">Table 3 Notes</h5>
-        <dl>
-         <dt>Table 3 Note 1</dt>
-         <dd id="table3-fn1">
-          <p>Totals may not add due to rounding.</p>
-          <p class="fn-rtn">
-           <a href="#table3-fn1-rf"
-            ><span class="wb-inv">Return to table 3 note </span>1<span class="wb-inv"> referrer</span></a
-           >
-          </p>
-         </dd>
-        </dl>
-       </section>
-      </td>
-     </tr>
-    </tfoot>
    </table>
+   <div class="wb-fnote">
+    <dl>
+     <dt>Table 3 Note 1</dt>
+     <dd id="table3-fn1">
+      <p>Totals may not add due to rounding.</p>
+      <p class="fn-rtn">
+       <a href="#table3-fn1-rf"
+        ><span class="wb-inv">Return to table 3 note </span>1<span class="wb-inv"> referrer</span></a
+       >
+      </p>
+     </dd>
+    </dl>
+   </div>
    <table class="table table-bordered table-condensed">
     <caption>
      Table 1C: investing in communities for fiscal years 2013 to 2014 and 2014 to 2015 (in $ millions)<sup
@@ -4358,27 +4320,20 @@ title: "Canada.ca Content Style Guide"
       <td class="text-right" headers="sfc-1c-c4 sfc-1c-sub">609</td>
      </tr>
     </tbody>
-    <tfoot>
-     <tr>
-      <td colspan="4">
-       <section class="wb-fnote">
-        <h5 class="wb-inv" id="table4-fn">Table 4 Notes</h5>
-        <dl>
-         <dt>Table 4 Note 1</dt>
-         <dd id="table4-fn1">
-          <p>Totals may not add due to rounding.</p>
-          <p class="fn-rtn">
-           <a href="#table4-fn1-rf"
-            ><span class="wb-inv">Return to table 4 note </span>1<span class="wb-inv"> referrer</span></a
-           >
-          </p>
-         </dd>
-        </dl>
-       </section>
-      </td>
-     </tr>
-    </tfoot>
    </table>
+   <div class="wb-fnote">
+    <dl>
+     <dt>Table 4 Note 1</dt>
+     <dd id="table4-fn1">
+      <p>Totals may not add due to rounding.</p>
+      <p class="fn-rtn">
+       <a href="#table4-fn1-rf"
+        ><span class="wb-inv">Return to table 4 note </span>1<span class="wb-inv"> referrer</span></a
+       >
+      </p>
+     </dd>
+    </dl>
+   </div>
    <table class="table table-bordered table-condensed">
     <caption>
     Table 1D: protecting Canada's natural environment for fiscal years 2013 to 2014 and 2014 to 2015 (in $&nbsp;millions)<sup id="table5-fn1-rf"><a class="fn-lnk" href="#table5-fn1"><span class="wb-inv">table 5 note </span>1</a></sup>
@@ -4439,25 +4394,18 @@ title: "Canada.ca Content Style Guide"
       <td class="text-right">41</td>
      </tr>
     </tbody>
-    <tfoot>
-     <tr>
-      <td colspan="4">
-       <section class="wb-fnote">
-        <h5 class="wb-inv" id="table5-fn">Table 5 Notes</h5>
-        <dl>
-         <dt>Table 5 Note 1</dt>
-         <dd id="table5-fn1">
-          <p>Totals may not add due to rounding.</p>
-          <p class="fn-rtn">
-           <a href="#table5-fn1-rf"><span class="wb-inv">Return to table 5 note </span>1<span class="wb-inv"> referrer</span></a>
-          </p>
-         </dd>
-        </dl>
-       </section>
-      </td>
-     </tr>
-    </tfoot>
    </table>
+   <div class="wb-fnote">
+    <dl>
+     <dt>Table 5 Note 1</dt>
+     <dd id="table5-fn1">
+      <p>Totals may not add due to rounding.</p>
+      <p class="fn-rtn">
+       <a href="#table5-fn1-rf"><span class="wb-inv">Return to table 5 note </span>1<span class="wb-inv"> referrer</span></a>
+      </p>
+     </dd>
+    </dl>
+   </div>
    <table class="table table-bordered table-condensed">
     <caption>
      Table 1E: building strong Aboriginal communities for fiscal years 2013 to 2014 and 2014 to 2015 (in $&nbsp;millions)<sup id="table6-fn1-rf"><a class="fn-lnk" href="#table6-fn1"><span class="wb-inv">table 6 note </span>1</a></sup>
@@ -4526,27 +4474,20 @@ title: "Canada.ca Content Style Guide"
       <td class="text-right">185</td>
      </tr>
     </tbody>
-    <tfoot>
-     <tr>
-      <td colspan="4">
-       <section class="wb-fnote">
-        <h5 class="wb-inv" id="table6-fn">Table 6 Notes</h5>
-        <dl>
-         <dt>Table 6 Note 1</dt>
-         <dd id="table6-fn1">
-          <p>Totals may not add due to rounding.</p>
-          <p class="fn-rtn">
-           <a href="#table6-fn1-rf"
-            ><span class="wb-inv">Return to table 6 note </span>1<span class="wb-inv"> referrer</span></a
-           >
-          </p>
-         </dd>
-        </dl>
-       </section>
-      </td>
-     </tr>
-    </tfoot>
    </table>
+   <div class="wb-fnote">
+    <dl>
+     <dt>Table 6 Note 1</dt>
+     <dd id="table6-fn1">
+      <p>Totals may not add due to rounding.</p>
+      <p class="fn-rtn">
+       <a href="#table6-fn1-rf"
+        ><span class="wb-inv">Return to table 6 note </span>1<span class="wb-inv"> referrer</span></a
+       >
+      </p>
+     </dd>
+    </dl>
+   </div>
    <h4>What we did</h4>
    <p>To create these tables, we:</p>
    <ul>
