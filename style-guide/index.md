@@ -269,7 +269,7 @@ title: "Canada.ca Content Style Guide"
     <p>Sometimes, your content targets people who have in-depth knowledge of a subject.</p>
     <p>
      When writing for a specialized audience, you can use terms they're familiar with, even if those terms aren't
-     familiar to a general audience.&nbsp; Include a summary in plain language for:
+     familiar to a general audience. Include a summary in plain language for:
     </p>
     <ul>
      <li>people who aren't familiar with the subject</li>
@@ -395,7 +395,7 @@ title: "Canada.ca Content Style Guide"
    </li>
   </ul>
   <p>
-   Plain language makes critical information more accessible and easy to read. It doesn’t oversimplify or strip meaning
+   Plain language makes critical information more accessible and easier to read. It doesn’t oversimplify or strip meaning
    from content. Instead, plain language content is clear, concise, and designed to save the intended audience time and
    effort.
   </p>
@@ -894,8 +894,8 @@ title: "Canada.ca Content Style Guide"
     specialists, complete their task.
    </p>
    <p>
-    <strong>Write easy-to-scan content</strong>. Keep sentences and paragraphs short. This makes them easier to scan and
-    understand by everyone, on any screen size. Keep some paragraphs to one sentence when it makes the content easier to
+    <strong>Write easy-to-scan content</strong>. Keep sentences and paragraphs short. This makes them easier for everyone to
+    scan and understand on any screen size. Keep some paragraphs to one sentence when it makes the content easier to
     scan.
    </p>
    <p>Use the following strategies to write clear, easy-to-scan content:</p>
@@ -1832,8 +1832,8 @@ title: "Canada.ca Content Style Guide"
    <h3>4.6 Numbers</h3>
    <p>
     Choosing whether to write out numbers as words or digits depends on the context and purpose. In this section we
-    provide guidance on when to use each format, which you can adapt to fit both the needs of your institution and
-    users.
+    provide guidance on when to use each format, which you can adapt to fit the needs of both your institution and
+    your users.
    </p>
    <h4>When to use digits</h4>
    <p>
@@ -2097,7 +2097,7 @@ title: "Canada.ca Content Style Guide"
     The structure and layout of content components help people find what they need quickly. Content components include:
    </p>
    <ul>
-    <li>page title &nbsp;</li>
+    <li>page title</li>
     <li>headings</li>
     <li>lists</li>
     <li>tables</li>
@@ -2240,7 +2240,7 @@ title: "Canada.ca Content Style Guide"
       </p>
       <h5>Table of contents</h5>
       <p>
-       Use the table of contents feature from your Word processing software to automatically generate a table of
+       Use the table of contents feature from your word processing software to automatically generate a table of
        contents based on the heading levels in your document. Then, check the table of contents to make sure you've
        correctly structured the page title, headings and subheadings.
       </p>
@@ -2320,7 +2320,7 @@ title: "Canada.ca Content Style Guide"
    <section id="wp5-2">
     <h3>5.2 Use lists to help people scan</h3>
     <p>
-     A short vertical list is easier for people to scan and remember than a long paragraph. If possible, aim for maximum
+     A short vertical list is easier for people to scan and remember than a long paragraph. If possible, aim for a maximum
      of seven items in your list.
     </p>
     <p>When writing lists:</p>
@@ -2410,7 +2410,7 @@ title: "Canada.ca Content Style Guide"
     <section id="wp5-2-4">
      <h4>Alphabetical lists</h4>
      <p>
-      Only present your web content in an alphabetical order if it's the most logical and intuitive approach for the
+      Only present your web content in alphabetical order if it's the most logical and intuitive approach for the
       audience.
      </p>
      <p>For example, listing provinces and territories in alphabetical order could be appropriate.</p>
@@ -2497,7 +2497,7 @@ title: "Canada.ca Content Style Guide"
      </p>
      <p>In the following example, all the cells in the first:</p>
      <ul>
-      <li>row are column headers and appear bolded and in grey&nbsp;</li>
+      <li>row are column headers and appear bolded and in grey</li>
       <li>column are row headers (except the top-left cell) and appear bolded</li>
      </ul>
      <table class="table table-condensed table-bordered">
@@ -3025,7 +3025,7 @@ title: "Canada.ca Content Style Guide"
          If your answer is “No”:
          <ul>
           <li>
-           ramps, accessible doors, reserved parking, and leveling the ground can improve the accessibility of your
+           ramps, accessible doors, reserved parking, and levelling the ground can improve the accessibility of your
            building
           </li>
          </ul>
@@ -3382,7 +3382,7 @@ title: "Canada.ca Content Style Guide"
   <section id="wp6-4">
    <h3>6.4 Include transcripts to describe audio and video files</h3>
    <p>
-    A transcript is the text equivalent of an audio or video file. They make it easier for people who need to access
+    A transcript is the text equivalent of an audio or video file. Transcripts make it easier for people who need to access
     information in audio or visual media but can't hear or see the content because:
    </p>
    <ul>
@@ -3647,7 +3647,7 @@ title: "Canada.ca Content Style Guide"
      <ul>
       <li><a href="https://www.rhone.gouv.fr/contenu/telechargement/47282/261770/file/Psp_urgent_formulaire_26_7_21.pdf"
         >Complete your application&nbsp;&laquo;&nbsp;<span lang="fr"
-         >Demande de passeport temporaire (French only, PDF, 0.46 MB)&nbsp;&raquo;</span></a>
+         >Demande de passeport temporaire</span>&nbsp;&raquo; (French only, PDF, 0.46 MB)</a>
       </li>
      </ul>
    </section>
@@ -3680,7 +3680,7 @@ title: "Canada.ca Content Style Guide"
      evaluate your URL redirects:
      <ul>
       <li>make sure they are current, redirecting people to the correct page</li>
-      <li>update your site links so they to point to current links, not to the URLs that are being redirected</li>
+      <li>update your site links so they point to current links, not to the URLs that are being redirected</li>
      </ul>
     </li>
     <li>verify that links point to the appropriate official language</li>
@@ -3750,7 +3750,7 @@ title: "Canada.ca Content Style Guide"
    <h4>What we did</h4>
    <p>To improve this content, we:</p>
    <ul>
-    <li>created a list out of the items in the text&nbsp;</li>
+    <li>created a list out of the items in the text</li>
     <li>replaced complex nouns with verbs and complex verbs with simpler forms</li>
    </ul>
    <h3>Case study B: improve and simplify tables</h3>
@@ -3784,7 +3784,7 @@ title: "Canada.ca Content Style Guide"
       <td class="text-right" headers="sfc-b-c4 sfc-b-g1 sfc-b-g1-r2">2</td>
      </tr>
      <tr>
-      <th id="sfc-b-g1-r3" headers="sfc-b-c1 sfc-b-g1"><span class="mrgn-lft-md">Tariff Relief for Canadians Consumers</span></th>
+      <th id="sfc-b-g1-r3" headers="sfc-b-c1 sfc-b-g1"><span class="mrgn-lft-md">Tariff Relief for Canadian Consumers</span></th>
       <td class="text-right" headers="sfc-b-c2 sfc-b-g1 sfc-b-g1-r3">76</td>
       <td class="text-right" headers="sfc-b-c3 sfc-b-g1 sfc-b-g1-r3">76</td>
       <td class="text-right" headers="sfc-b-c4 sfc-b-g1 sfc-b-g1-r3">152</td>
@@ -4005,7 +4005,7 @@ title: "Canada.ca Content Style Guide"
    <h4>After</h4>
    <table class="table table-bordered table-condensed">
     <caption>
-     Table 1: supporting families and communities for fiscal years 2013 to 2014 and 2014 to 2015, net fiscal costs (in$ millions)<sup id="table1-fn1-rf"><a class="fn-lnk" href="#table1-fn1"><span class="wb-inv">table 1 note </span>1</a></sup
+     Table 1: supporting families and communities for fiscal years 2013 to 2014 and 2014 to 2015, net fiscal costs (in $ millions)<sup id="table1-fn1-rf"><a class="fn-lnk" href="#table1-fn1"><span class="wb-inv">table 1 note </span>1</a></sup
       >
     </caption>
     <thead>
@@ -4590,7 +4590,7 @@ title: "Canada.ca Content Style Guide"
     </li>
     <li>
      <a href="https://ccat-ctac.org/CMFiles/Publication/CCAT-EN-new2.pdf"
-      >Introduction to Administrative Justice and To Plain Language</a>(PDF, 726 KB), Council of Canadian Administrative Tribunals
+      >Introduction to Administrative Justice and To Plain Language (PDF, 726 KB)</a>, Council of Canadian Administrative Tribunals
     </li>
     <li>
      <a href="https://www.gov.uk/guidance/content-design/what-is-content-design">Introduction to content design</a>,
@@ -4602,9 +4602,8 @@ title: "Canada.ca Content Style Guide"
     </li>
     <li>
      <a href="https://www.ccat-ctac.org/CMFiles/Publication/Literacyandjustice.pdf"
-      >Literacy and Access to Administrative Justice in Canada</a
-     >
-     (PDF, 422 KB), Council of Canadian Administrative Tribunals
+      >Literacy and Access to Administrative Justice in Canada (PDF, 422 KB)</a
+     >, Council of Canadian Administrative Tribunals
     </li>
     <li>
      <a href="https://abclifeliteracy.ca/workplace-literacy-facts">Literacy and Numeracy in Canada</a>, ABC Life
@@ -4622,7 +4621,7 @@ title: "Canada.ca Content Style Guide"
     </li>
     <li>
      <a href="https://www.nngroup.com/articles/mobile-ux/">Mobile User Experience: Limitations and Strengths</a>, Raluca
-     Budio, Nielsen Norman Group
+     Budiu, Nielsen Norman Group
     </li>
     <li>
      <a href="https://www.thoughtco.com/what-is-a-negative-contraction-1691339">Negative contraction</a>, Richard
@@ -4635,7 +4634,7 @@ title: "Canada.ca Content Style Guide"
     <li><a href="https://plainlanguagenetwork.org/">Plain Language Association International</a></li>
     <li>
      <a href="https://www.navigatormm.com/blog/plain-language-please-heres-why-to-avoid-marketese-online/"
-      >Plain Language, Please! Here's Why to Avoid "Marketese" Only</a
+      >Plain Language, Please! Here's Why to Avoid "Marketese" Online</a
      >, Sarah Bauer
     </li>
     <li>
@@ -4664,7 +4663,7 @@ title: "Canada.ca Content Style Guide"
     </li>
     <li>
      <a href="https://www.musanim.com/miller1956/"
-      >The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing</a
+      >The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information</a
      >, George A. Miller
     </li>
     <!-- <li><a href="https://gathercontent.com/blog/use-pair-writing-to-collaborate-with-subject-matter-experts">Use pair writing to collaborate with subject matter experts</a>, Jonathan Kahn, GatherContent</li> no link available anymore -->
