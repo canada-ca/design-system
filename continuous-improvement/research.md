@@ -135,10 +135,10 @@ Perform moderated or unmoderated baseline studies with people trying scenarios o
 <table class="table table-bordered">
  <tbody>
   <tr class="bg-primary">
-   <td>Moderated is best for:
-   </td>
-   <td>Unmoderated is best for:
-   </td>
+   <th>Moderated is best for:
+   </th>
+   <th>Unmoderated is best for:
+   </th>
   </tr>
   <tr>
    <td>
