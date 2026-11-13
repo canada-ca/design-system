@@ -64,10 +64,10 @@ title: About the institution
                     Other links can include any content that falls under corporate information or program and policy development content types
                     <ul>
                         <li>
-                            <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/organizing-content.html#corporate">Corporate information</a>
+                            <a href="https://design.canada.ca/specifications/information-findability/organizing-content.html#corporate">Corporate information</a>
                         </li>
                         <li>
-                            <a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/organizing-content.html#program">
+                            <a href="https://design.canada.ca/specifications/information-findability/organizing-content.html#program">
                                 Program and policy development
                             </a>
                         </li>
