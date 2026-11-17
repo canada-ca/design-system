@@ -52,7 +52,7 @@ jobs:
 
       - name: Update PR description with preview
         if: github.event.action != 'closed'
-        uses: actions/github-script@v8
+        uses: actions/github-script@v9
         with:
           script: |
             const previewUrl = `https://design.canada.ca/pr-preview/pr-${{ github.event.number }}/`;
@@ -179,7 +179,7 @@ jobs:
 
       - name: Remove preview from PR description
         if: github.event.action == 'closed'
-        uses: actions/github-script@v8
+        uses: actions/github-script@v9
         with:
           script: |
             // Get current PR body

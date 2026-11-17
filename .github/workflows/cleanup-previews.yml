@@ -25,7 +25,7 @@ jobs:
           fetch-depth: 0
 
       - name: Clean up stale preview directories
-        uses: actions/github-script@v8
+        uses: actions/github-script@v9
         env:
           RETENTION_DAYS: ${{ inputs.retention_days || 7 }}
         with:
