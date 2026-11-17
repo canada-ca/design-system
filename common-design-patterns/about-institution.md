@@ -64,7 +64,7 @@ title: About the institution
                     Other links can include any content that falls under corporate information or program and policy development content types
                     <ul>
                         <li>
-                            <a href="https://design.canada.ca/specifications/information-findability/organizing-content.html#corporate">Corporate information</a>
+                            <a href="{{ '/specifications/information-findability/organizing-content.html#corporate' | absolute_url }}">Corporate information</a>
                         </li>
                         <li>
                             <a href="https://design.canada.ca/specifications/information-findability/organizing-content.html#program">
