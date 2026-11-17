@@ -38,6 +38,4 @@ node_modules/
 # Jekyll
 .jekyll-cache
 _site
-Gemfile
-Gemfile*
 vendor
