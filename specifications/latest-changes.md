@@ -181,7 +181,7 @@ title: "Latest changes to the Canada.ca design"
       <li>Created guidance on how to write metadata for Canada.ca pages: <a href="{{ '/specifications/information-findability/metadata.html' | absolute_url }}">Improving titles and metadata for findability</a>.</li>
       <li>Consolidated domain and URL guidance into one page: <a href="{{ '/specifications/mandatory-elements/domains-urls.html' | absolute_url }}">Government of Canada domains and URLs</a>.</li>
       <li>Removed mentions of the Canada.ca Design System and replaced with Canada.ca design to clarify that departments have to comply with the mandatory elements of the Canada.ca design, but may use the design system that best fits their needs.</li>
-      <li>Updated the About Canada.ca page to better reflect what users are searching for: <a href="{{ '/about' | absolute_url }}">About Canada.ca</a>.</li>
+      <li>Updated the About Canada.ca page to better reflect what users are searching for: <a href="https://www.canada.ca/en/government/about-canada-ca.html">About Canada.ca</a>.</li>
       <li>Added a new page for summaries of research done on the design and user-experience of Canada.ca: <a href="{{ '/research-summaries' | absolute_url }}">Research summaries</a>.</li>
     </ul>
   </details>
@@ -298,7 +298,7 @@ title: "Latest changes to the Canada.ca design"
     <summary><time datetime="2020-10-21">October 21, 2020</time></summary>
     <p>We made the following changes:</p>
     <ul>
-      <li>we modified the <a href="{{ site.urlcanadaca }}/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html">Mandatory elements of the design system</a> to specify that using the <a href="{{ '/common-design-patterns/canada-dot-ca.html' | absolute_url }}">Canada.ca domain</a> is mandatory</li>
+      <li>we modified the <a href="{{ '/specifications/mandatory-elements.html' | absolute_url }}">Mandatory elements of the design system</a> to specify that using the <a href="{{ '/specifications/usage-canadaca-design.html' | absolute_url }}">Canada.ca domain</a> is mandatory</li>
       <li>we added a beta version of the <a href="{{ '/common-design-patterns/checkboxes-radio-buttons.html' | absolute_url }}">Checkboxes and radio buttons</a> design pattern</li>
     </ul>
   </details>
