@@ -1,15 +1,3 @@
-GIT
-  remote: https://github.com/benbalter/jekyll-remote-theme.git
-  revision: b97d214ee1b2f75080b723e096238438db4d39d5
-  branch: master
-  specs:
-    jekyll-remote-theme (0.6.2)
-      addressable (~> 2.0)
-      jekyll (>= 3.5, < 5.0)
-      jekyll-sass-converter (>= 1.0, < 4.0, != 2.0.0)
-      openssl (>= 3.1.2)
-      rubyzip (>= 1.3.0, < 4.0)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -54,6 +42,12 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
+    jekyll-remote-theme (0.6.3)
+      addressable (~> 2.0)
+      jekyll (>= 3.5, < 5.0)
+      jekyll-sass-converter (>= 1.0, < 4.0, != 2.0.0)
+      openssl (>= 3.1.2)
+      rubyzip (>= 1.3.0, < 4.0)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
     jekyll-watch (2.2.1)
@@ -102,7 +96,7 @@ DEPENDENCIES
   bigdecimal
   csv
   jekyll (~> 4.3)
-  jekyll-remote-theme!
+  jekyll-remote-theme (~> 0.6.3)
   logger
   rake (>= 0.a)
 

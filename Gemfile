@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 gem "jekyll", "~> 4.3"
-gem "jekyll-remote-theme", github: "benbalter/jekyll-remote-theme", branch: "master"
+gem "jekyll-remote-theme", "~> 0.6.3"
 
 # Some stdlib libraries (logger, csv) are required by Jekyll and newer Ruby
 # installations may warn or fail if they're not explicitly included in the
