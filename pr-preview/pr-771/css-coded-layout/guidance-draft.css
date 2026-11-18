@@ -1,0 +1,127 @@
+.tt-img .btn-sm {
+  margin-top: 16px;
+  margin-left: 4px;
+}
+
+.padding-rght {
+  padding-right: 10px;
+}
+.guidance-ban-nav {
+  padding-top: 4px !important;
+  padding-bottom: 4px !important;
+  top: 0;
+  background-color: #26374a;
+  z-index: 100;
+  position: sticky;
+}
+
+.guidance-ban-nav .btn-group .btn {
+  height: 36px;
+  padding-top: 5px;
+  background-color: #26374a;
+  color: white;
+  border: 1px solid #4072bb;
+}
+
+.guidance-ban-nav .btn-group .active {
+  background-color: #305991;
+  font-weight: 800;
+}
+
+.guidance-ban-nav .btn-sm {
+  padding-top: 5px;
+  margin-right: 5px;
+}
+
+.guidance-nav {
+  color: white !important;
+  text-decoration: underline;
+  padding-top: 6px;
+}
+
+.guidance-nav a {
+  display: block;
+  color: white !important;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100ch;
+}
+
+.guidance-nav a:hover {
+  color: white !important;
+}
+
+.guidance-nav a:visited {
+  color: white !important;
+}
+
+.guidance-nav i {
+  text-decoration: none;
+}
+
+.guidance-options, .get-code {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+
+@media only screen and (max-width: 767px) {
+  .guidance-ban-nav .btn-group {
+    width: 100% !important;
+    margin-top: 7px;
+
+  }
+  .guidance-toggle {
+    width: 50% !important;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .pstn-get-code {
+    position: absolute;
+    top:-74px;
+    right:4px;
+  }
+}
+
+@media only screen and (max-width: 370px) {
+  .guidance-ban-nav .btn-group .btn {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .guidance-ban-nav .btn-group .btn i {
+    display: none !important;
+  }
+  .guidance-nav a {
+    max-width: 22ch;
+  }
+}
+
+
+
+/* pattern demo */
+
+.pattern-demo-code-ex details {
+	margin-bottom: 0px !important;
+}
+
+.pattern-demo-code-ex .featured {
+	margin-left: .07em !important;
+	margin-right: .07em !important;
+}
+
+.pattern-demo {
+	padding: 0px !important;
+	margin: 0px !important;
+	border: none !important;
+}
+
+.pattern-demo-code-ex {
+	margin-left: -35px !important;
+	margin-right: -35px !important;
+}
+
+.guidance-details details, .guidance-details summary, .guidance-details details summary:focus, .guidance-details details summary:hover {
+	background-color: white !important;
+}
