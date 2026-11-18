@@ -85,7 +85,7 @@ title: Transparency and corporate reporting recommended template
       <div class="col-xs-10 col-sm-3 col-md-3 col-lg-2">
        <p>
         <a class="gc-dwnld-lnk" href="../coded-layout/transparency_guidance.html">
-         <img alt="" class="thumbnail gc-dwnld-img" height="142" src="../images/transparency-cropped.png" width="110"/>
+         <img alt="Screenshot of transparency and corporate reporting page template" class="thumbnail gc-dwnld-img" height="142" src="../images/transparency-cropped.png" width="110"/>
         </a>
        </p>
       </div>
