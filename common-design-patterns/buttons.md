@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/configurations-conception-communes/boutons.html
 date: null
 dateModified: '2022-09-23'
-description: null
+description: Guidance for using buttons.
 title: Buttons
 ---
 <div class="row">
