@@ -34,7 +34,8 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.2.3'
+          # .ruby-version holds major.minor, so CI gets the latest patch
+          ruby-version: '.ruby-version'
           bundler-cache: true
           cache-version: 0
 
