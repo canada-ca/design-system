@@ -31,9 +31,8 @@ jobs:
         if: github.event.action != 'closed'
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.2.3'
+          ruby-version: '.ruby-version'
           bundler-cache: true
-          cache-version: 0
 
       - name: Build with Jekyll
         if: github.event.action != 'closed'
