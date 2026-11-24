@@ -4,13 +4,7 @@ updates:
   directory: "/"
   schedule:
     interval: "daily"
-- package-ecosystem: npm
+- package-ecosystem: bundler
   directory: "/"
   schedule:
-    interval: daily
-    time: "11:00"
-  open-pull-requests-limit: 99
-  ignore:
-  - dependency-name: vnu-jar
-    versions:
-    - 21.2.5
+    interval: monthly
