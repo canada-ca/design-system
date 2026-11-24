@@ -67,7 +67,7 @@ title: About the institution
                             <a href="{{ '/specifications/information-findability/organizing-content.html#corporate' | absolute_url }}">Corporate information</a>
                         </li>
                         <li>
-                            <a href="{{ '/organizing-content.html#program' | absolute_url }}">
+                            <a href="{{ '/specifications/information-findability/organizing-content.html#program' | absolute_url }}">
                                 Program and policy development
                             </a>
                         </li>
