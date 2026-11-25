@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/configurations-conception-communes/couche-avertissement.html
 date: null
 dateModified: '2018-12-19'
-description: null
+description: Guidance on using the disclaimer overlay
 title: Disclaimer overlay design pattern
 ---
 
