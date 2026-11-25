@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/mise-en-page/pages-profil-ministres-directives.html
 dateModified: 2025-12-22
 title: Ministerial profile page guidance
-descrtiption: Guidance on how to use the ministerial profile page
+description: Guidance on how to use the ministerial profile page
 breadcrumbs:
   - link: "https://www.canada.ca/en/government/about-canada-ca.html"
     title: "About Canada.ca"
