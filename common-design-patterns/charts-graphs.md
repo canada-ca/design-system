@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/configurations-conception-communes/diagrammes-graphiques.html
 date: null
 dateModified: '2018-12-19'
-description: null
+description: Guidance on using charts and graphs
 title: Charts and graphs design pattern
 ---
 
