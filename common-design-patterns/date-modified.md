@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/configurations-conception-communes/date-modification.html
 date: 2025-03-27
 dateModified: '2025-10-24'
-description: null
+description: Guidance on using the date modified component
 title: Date modified
 ---
 <div>
