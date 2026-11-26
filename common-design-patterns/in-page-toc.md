@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/configurations-conception-communes/table-matiere-interieur.html
 date: null
 dateModified: '2025-08-20'
-description: null
+description: Guidance on using the in-page table of contents
 title: In-page table of contents
 ---
 
