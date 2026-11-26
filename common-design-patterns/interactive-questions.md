@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/configurations-conception-communes/questions-interactives.html
 date: null
 dateModified: '2021-04-22'
-description: null
+description: Guidance for using interactive questions
 title: Interactive questions design pattern
 ---
 
