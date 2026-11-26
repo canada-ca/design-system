@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/communaute/procedure-contribution.html
 date: null
 dateModified: '2020-10-30'
-description: null
+description: Process for contributing to the GC design system.
 title: Contribution process
 ---
 
