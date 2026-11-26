@@ -176,9 +176,9 @@ title: "Global footer"
           <p>On large screens the global footer includes 3 distinct bands of links. The first is the
             contextual band. It contains a title and 3 contextual links in a single row. The second is the main band. It’s arranged in 3 columns and contains links to
             “All contacts,” “Departments and agencies,” and “About government.” There is a small decorative line as a break before
-            continuing with links to all themes and audiences. The sub-footer is at the bottom and contains links to “Social media,”
-            “Mobile applications,” “About Canada.ca,” “Terms and conditions,” and “Privacy.” These are all aligned to the left in a single
-            row. It also includes the Canada wordmark in the same row, aligned to the right.</p>
+            continuing with links to all themes and audiences. The sub-footer appears at the bottom of the page and contains links to “Social media,”
+            “Mobile applications,” “About Canada.ca,” “Terms and conditions,” and “Privacy.” The links are left-aligned on a single
+            line. The Canada wordmark appears on the same line, aligned to the right.</p>
         </details>
       </figure>
     </div>
