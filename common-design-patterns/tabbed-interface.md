@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/configurations-conception-communes/interface-onglets.html
 date: null
 dateModified: '2018-12-19'
-description: null
+description: Guidance for using the tabbed interface.
 title: Tabbed interface design pattern
 ---
 
