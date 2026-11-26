@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/amelioration-continue.html
 date: null
 dateModified: '2021-07-25'
-description: null
+description: Topics related to continuous improvement of web content
 title: Continuous improvement of web content
 ---
 
