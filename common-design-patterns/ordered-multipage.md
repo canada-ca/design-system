@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/configurations-conception-communes/navigation-plusieurs-pages.html
 date: null
 dateModified: '2018-12-19'
-description: null
+description: Guidance on using ordered multi-page navigation
 title: Ordered multi-page navigation design pattern
 ---
 
