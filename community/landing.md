@@ -7,7 +7,7 @@ breadcrumbs:
   title: Design
 date: null
 dateModified: '2020-10-30'
-description: null
+description: Landing page for the Design system community topic. Community principles, how to contribute, and backlog. 
 title: Design system community
 ---
 
