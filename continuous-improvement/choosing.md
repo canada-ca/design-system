@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/amelioration-continue/choisir.html
 date: null
 dateModified: '2021-07-25'
-description: null
+description: Choosing what to improve by using a task-based approach, focusing on top tasks, and improving the right thing. 
 section-title: Continuous improvement of web content
 title: Choosing what to improve
 ---
