@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/amelioration-continue/mesure.html
 date: null
 dateModified: '2021-07-25'
-description: null
+description: How to monitor and measure performance after making an improvement
 section-title: Continuous improvement of web content
 title: Monitoring and measuring task success
 ---
