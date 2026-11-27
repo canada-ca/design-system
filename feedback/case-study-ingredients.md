@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/retroaction/etude-cas-ingredients.html
 date: null
 dateModified: 2023-02-28
-description: null
+description: "Case study: how Health Canada used page feedback to find a content gap about COVID-19 vaccine ingredients"
 title: Case study - Identifying a content gap with page feedback
 ---
 
