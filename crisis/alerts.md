@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/crise/alertes.html
 date: null
 dateModified: '2025-05-19'
-description: null
+description: Guidance for implementing alerts for urgent and evolving situations
 title: Canada.ca alerts for urgent and evolving situations
 ---
 <section>
