@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/styles/couleurs.html
 date: null
 dateModified: '2018-10-01'
-description: null
+description: "Mandatory colours for Canada.ca pages: background, text and link colours, additional colours, and contrast requirements"
 title: Colours style
 ---
 
