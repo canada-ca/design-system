@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html
 date: null
 dateModified: '2018-09-19'
-description: null
+description: Mandatory template for the Canada.ca landing page of a high-profile organization associated with a Government of Canada institution
 title: 'Organizational profile pages mandatory template'
 ---
 
