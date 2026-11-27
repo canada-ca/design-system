@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/modeles-recommandes/accessibilite/plan.html
 date: null
 dateModified: '2024-12-05'
-description: null
+description: Template for publishing an institution's accessibility plan, with links to give feedback and see plans from other institutions
 title: Accessibility plan at [Institution name]
 section-title: ""
 breadcrumbs: [{
