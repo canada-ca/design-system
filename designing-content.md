@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/concevoir-contenu.html
 date: null
 dateModified: '2020-11-23'
-description: null
+description: "Principles for designing Canada.ca content: focus on the task, and design for trust, findability, comprehension, usability and accessibility"
 title: Designing content for Canada.ca
 ---
 
@@ -240,11 +240,6 @@ title: Designing content for Canada.ca
   <li>
    <a href="https://design.canada.ca/crisis/content.html">
     Crisis communications content design checklist
-   </a>
-  </li>
-  <li>
-   <a href="https://readability-lisibilite.tbs.alpha.canada.ca/">
-    Web readability score - Experimental
    </a>
   </li>
  </ul>
