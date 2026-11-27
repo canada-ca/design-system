@@ -3,7 +3,7 @@ altLangPage: https://conception.canada.ca/gestionnaires-webgc-inscrire.html
 breadcrumbs: []
 date: null
 dateModified: '2020-03-17'
-description: null
+description: Subscribe to the GC Web managers mailing list using your Government of Canada email address
 title: Sign up for the GC Web managers mailing list
 ---
 
