@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/retroaction/fonctionnement.html
 date: null
 dateModified: 2024-04-17
-description: null
+description: How the GC Feedback tool works, why it collects user feedback and how it protects personal information
 title: How GC Feedback works
 ---
 
