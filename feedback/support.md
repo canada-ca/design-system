@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/retroaction/soutien.html
 date: null
 dateModified: 2023-02-28
-description: null
+description: How to get support for GC Feedback, and information about the GC Feedback Working Group
 title: Get support for GC Feedback
 ---
 
