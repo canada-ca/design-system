@@ -4379,7 +4379,7 @@ title: "Find the right template and design patterns for your web content"
               <h2 class="panel-title">Topics</h2>
             </header>
             <div class="panel-body">
-              <p>Use the <a href="{{ site.url }}/mandatory-templates/topic-pages.html">topic page</a>.</p>
+              <p>Use the <a href="{{ site.url }}/mandatory-templates/topic.html">topic page</a>.</p>
               <p>Topic pages must be used for the first 2 levels of topic in the <a href="https://www.canada.ca/en/government/about/design-system/topic-tree-content-types.html#tree">topic tree</a>. They can also be used in lower levels, but they are not mandatory. They are navigational in nature, and should not be used when several tasks should be grouped together. Always consult your Theme Lead before creating a new topic page. </p>
             </div>
           </section>
