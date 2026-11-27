@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/modeles-recommandes/accessibilite/processus-retroaction.html
 date: null
 dateModified: '2024-12-05'
-description: null
+description: "Template for an institution's accessibility feedback process: how to give feedback, what happens to it and how to request alternate formats"
 title: Accessibility feedback process at [Institution name]
 section-title: ""
 breadcrumbs: [{
