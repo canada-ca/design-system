@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/modeles-obligatoire/page-accueil.html
 date: null
 dateModified: '2018-09-19'
-description: null
+description: Mandatory template for the Canada.ca home page, which surfaces government-wide top tasks and links to all themes and audiences
 title: 'Home page mandatory template'
 ---
 
