@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/modeles-recommandes/accessibilite/rapport-etape.html
 date: null
 dateModified: '2024-12-05'
-description: null
+description: Template for publishing an institution's yearly accessibility progress report, with links to give feedback and see other reports
 title: Accessibility progress report [year] for [Institution name]
 section-title: ""
 breadcrumbs: [{
