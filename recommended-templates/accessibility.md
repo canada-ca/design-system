@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/modeles-recommandes/accessibilite.html
 date: null
 dateModified: '2024-12-05'
-description: null
+description: Recommended template to help Government of Canada institutions publish their accessibility plans, progress reports and feedback process
 title: Accessibility reporting template
 ---
 
