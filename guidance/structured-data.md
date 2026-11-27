@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/directives/donnees-structurees.html
 date: null
 dateModified: '2020-03-16'
-description: null
+description: How to add structured data to Canada.ca pages, measure its impact and use schema code examples
 title: Adding structured data on Canada.ca pages
 ---
 
