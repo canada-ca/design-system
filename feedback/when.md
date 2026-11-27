@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/retroaction/quand.html
 date: null
 dateModified: 2023-11-07
-description: null
+description: When to use GC Feedback on your pages, what it requires from your team, and when not to use it
 title: When to use GC Feedback
 ---
 
