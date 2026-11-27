@@ -10,7 +10,7 @@ title: "Business account maintenance"
 <p>2018</p>
 <h2>Partner department</h2>
 <ul>
-  <li>Immigration, Refugees and Citizenship Canada (IRCC)</li>
+  <li>Canada Revenue Agency (CRA)</li>
 </ul>
 <h2>Why this work matters</h2>
 <ul>
