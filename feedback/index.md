@@ -6,6 +6,7 @@ breadcrumbs:
   - title: Analytics and feedback
     link: https://www.canada.ca/en/analytics.html
 dateModified: 2026-10-09
+description: "Guidance on GC Feedback, the page feedback tool: how it works, when to use it, how to implement it and how to analyze feedback"
 layout: default
 title: GC Feedback guidance
 ---
