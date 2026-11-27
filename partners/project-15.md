@@ -11,7 +11,7 @@ title: "Recalls and safety alerts"
 <h2>Partner departments</h2>
 <ul>
   <li>Health Canada</li>
-  <li>Canadian Food and Safety Inspection Agency</li>
+  <li>Canadian Food Inspection Agency</li>
   <li>Transport Canada</li>
   <li>Environment Canada</li>
 </ul>
