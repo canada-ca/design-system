@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/specifications/information-trouvabilite.html
 date: null
 dateModified: '2024-08-21'
-description: null
+description: "How to organize and structure web pages for findability and task success: organizing content, metadata guidance and structured data"
 layout: default
 section-title: "Canada.ca Specifications"
 title: Information architecture and findability
