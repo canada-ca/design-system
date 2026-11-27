@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/amelioration-continue/equipe.html
 date: null
 dateModified: '2021-07-25'
-description: null
+description: How to organize and prepare your team for continuous improvement of web content
 section-title: Continuous improvement of web content
 title: Organizing and preparing your team
 ---
