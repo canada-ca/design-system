@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/modeles-obligatoire/pages-nouvelles.html
 date: null
 dateModified: '2018-09-19'
-description: null
+description: Mandatory templates for Canada.ca news pages, which present institutions' latest news and let people browse and search news
 title: 'News pages mandatory template'
 ---
 
