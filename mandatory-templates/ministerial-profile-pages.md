@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/modeles-obligatoire/pages-profil-ministres.html
 date: '2021-09-27'
 dateModified: '2025-12-22'
-description: null
+description: Mandatory template for profile pages of ministers, secretaries of State, parliamentary secretaries and heads of quasi-judicial organizations
 title: Ministerial profile pages
 ---
 <div class="row">
