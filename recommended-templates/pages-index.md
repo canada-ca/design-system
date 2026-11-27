@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/modeles-recommandes/pages-index.html
 date: null
 dateModified: '2018-12-19'
-description: null
+description: Templates for index pages, which list links to other pages or documents, and how to choose one based on the length of the list
 title: 'Index pages template'
 ---
 
