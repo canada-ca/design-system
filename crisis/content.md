@@ -7,7 +7,7 @@ breadcrumbs:
   title: Design
 date: null
 dateModified: '2021-12-21'
-description: null
+description: A checklist of guidelines to follow when designing crisis communications content
 title: Crisis communications content design checklist
 ---
 
