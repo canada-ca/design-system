@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/modeles-recommandes/pages-contactez-nous.html
 date: null
 dateModified: '2018-09-19'
-description: null
+description: How to use the Contact us page templates to help people find contact information and reach a department or agency
 title: 'Contact us pages template'
 ---
 
