@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/specifications.html
 date: null
 dateModified: '2024-08-21'
-description: null
+description: "Canada.ca specifications: who must use the Canada.ca design, its mandatory elements, the Content Style Guide and information architecture guidance"
 layout: default
 title: Canada.ca Specifications
 breadcrumbs: [{
