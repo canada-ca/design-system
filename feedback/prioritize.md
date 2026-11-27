@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/retroaction/decider.html
 date: null
 dateModified: 2026-10-09
-description: null
+description: "How to decide what to improve using page feedback: identify problem tasks, research the problems, prioritize them and assess what is feasible"
 title: Deciding what to improve
 ---
 
