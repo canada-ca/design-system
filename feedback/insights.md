@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/retroaction/communiquer.html
 date: null
 dateModified: 2026-10-09
-description: null
+description: "How to share insights from page feedback: build a narrative with data, write a summary, use slide templates and show before and after results"
 title: Sharing insights from feedback
 ---
 
