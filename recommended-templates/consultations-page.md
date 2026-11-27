@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/modeles-recommandes/pages-consultations.html
 date: null
 dateModified: '2018-12-19'
-description: null
+description: Template for consultation profile pages, which describe a Government of Canada consultation, its status and its outcomes
 title: 'Consultation profile pages  template'
 ---
 
