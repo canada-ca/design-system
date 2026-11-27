@@ -2,7 +2,7 @@
 altLangPage: https://conception.canada.ca/modeles-recommandes/pages-cibles-collections.html
 date: null
 dateModified: '2018-12-19'
-description: null
+description: Template for collection landing pages, which give people one place to browse related content types from across Canada.ca
 title: 'Collection landing pages template'
 ---
 
@@ -19,7 +19,7 @@ title: 'Collection landing pages template'
   <ul>
    <li>
     provide a single location for people to navigate an aggregation of related content types (see section on
-    <a href="{{ site.url }}/specifications/content-types.html">
+    <a href="https://www.canada.ca/en/government/about/design-system/topic-tree-content-types.html">
      Canada.ca content types
     </a>
     )
